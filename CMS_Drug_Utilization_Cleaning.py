@@ -271,8 +271,9 @@ cms_2017_opioids_fin['enddate'] = pd.to_datetime(cms_2017_opioids_fin['enddate']
 #send to csv
 #cms_2017_opioids_fin.to_csv("/Users/catherineordun/Documents/Hackathon/DHHS/final_datasets/cms_2017_opioids_fin.csv")
 
+
 #Pivot Table with Key STats
-cms17_stats = pd.pivot_table(cms_2017_opioids_fin,index=["State", "Quarter", "product_name", "DOSAGEFORMNAME", "LABELERNAME", "ROUTENAME", "DEASCHEDULE"], 
+cms17_stats = pd.pivot_table(cms_2017_opioids_fin,index=["State", "Quarter", "product_name", "DOSAGEFORMNAME", "LABELERNAME", "ROUTENAME", "DEASCHEDULE", "ACTIVE_NUMERATOR_STRENGTH"], 
                                 values=['units_reimb', 'num_rx', 'total_amt_reimb', 
                                         'med_amt_reimb', 'nonmed_amt_reimb'], 
                aggfunc={'units_reimb': lambda x: x.sum(), 
@@ -287,8 +288,14 @@ cms17_stats_fin.rename(columns={'units_reimb': 'units_reimb_sum',
                                 'total_amt_reimb':'total_amt_reimb_sum',
                                 'med_amt_reimb':'med_amt_reimb_sum',
                                 'nonmed_amt_reimb':'nonmed_amt_reimb_sum'}, inplace=True)
+cms17_stats_fin.reset_index(inplace=True)
+    
 #cms17_stats_fin.to_csv("/Users/catherineordun/Documents/Hackathon/DHHS/cms17_stats_fin.csv")
-
+#the ACTIVENUMERATORSTRENGTH is the dosage in milligrams but has a ; between sometimes two diferent values
+#for simplicity, I just want the first value 
+cms17_stats_fin['strength'] = cms17_stats_fin['ACTIVE_NUMERATOR_STRENGTH'].str.split(';').str[0]
+cms17_stats_fin['strength'].fillna(value=0, inplace=True)
+cms17_stats_fin['strength'] = map(lambda x: float(x), cms17_stats_fin['strength'])
 
 #=====CMS 2016
 
@@ -370,8 +377,8 @@ cms_2016_opioids_fin['enddate'].replace(to_replace='0--', value='1970-01-01', in
 cms_2016_opioids_fin['enddate'] = pd.to_datetime(cms_2016_opioids_fin['enddate'], format='%Y-%m-%d')
 #send to csv
 #cms_2016_opioids_fin.to_csv("/Users/catherineordun/Documents/Hackathon/DHHS/final_datasets/cms_2016_opioids_fin.csv")
-
-cms16_stats = pd.pivot_table(cms_2016_opioids_fin,index=["State", "Quarter", "product_name", "DOSAGEFORMNAME", "LABELERNAME", "ROUTENAME", "DEASCHEDULE"], 
+#Pivot Table with Key STats
+cms16_stats = pd.pivot_table(cms_2016_opioids_fin,index=["State", "Quarter", "product_name", "DOSAGEFORMNAME", "LABELERNAME", "ROUTENAME", "DEASCHEDULE", "ACTIVE_NUMERATOR_STRENGTH"], 
                                 values=['units_reimb', 'num_rx', 'total_amt_reimb', 
                                         'med_amt_reimb', 'nonmed_amt_reimb'], 
                aggfunc={'units_reimb': lambda x: x.sum(), 
@@ -386,7 +393,11 @@ cms16_stats_fin.rename(columns={'units_reimb': 'units_reimb_sum',
                                 'total_amt_reimb':'total_amt_reimb_sum',
                                 'med_amt_reimb':'med_amt_reimb_sum',
                                 'nonmed_amt_reimb':'nonmed_amt_reimb_sum'}, inplace=True)
-
-#cms16_stats_fin.to_csv("/Users/catherineordun/Documents/Hackathon/DHHS/cms16_stats_fin.csv")
-
-
+cms16_stats_fin.reset_index(inplace=True)
+    
+#cms16_stats_fin.to_csv("/Users/catherineordun/Documents/Hackathon/DHHS/cms17_stats_fin.csv")
+#the ACTIVENUMERATORSTRENGTH is the dosage in milligrams but has a ; between sometimes two diferent values
+#for simplicity, I just want the first value 
+cms16_stats_fin['strength'] = cms16_stats_fin['ACTIVE_NUMERATOR_STRENGTH'].str.split(';').str[0]
+cms16_stats_fin['strength'].fillna(value=0, inplace=True)
+cms16_stats_fin['strength'] = map(lambda x: float(x), cms16_stats_fin['strength'])
