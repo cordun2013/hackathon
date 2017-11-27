@@ -1,5 +1,6 @@
 # hackathon
-Datasets for the DHHS Opioid Hackathon Dec 6-7 2017.  
+
+Datasets for the DHHS Opioid Hackathon Dec 6-7 2017, identified and cleaned by @cordun2013.  Below are datasets that will be made available by HHS. 
 
 <b>CMS State Drug Utilization Data 2017</b>
     
@@ -56,3 +57,30 @@ Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Su
 
 <b>We also have another cleaned dataset of 6M+ records for Chicago Crimes 2001 to Present.</b>
 
+#HHS Offered: 
+
+https://www.hhs.gov/challenges/code-a-thon/index.html
+
+Data
+Before the in-person event, HHS will make de-identified data from HHS, federal, state, and local government, as well as private industry, available to challenge teams via a portal. Below are some of the federal and HHS data sources that will be available to teams. On the day of the event, HHS will also release restricted data sets from HHS, states, and the private sector for the purposes of the Code-a-Thon.
+
+Data Sets from Federal Government (excluding HHS):
+O*Net Database (Department of Education)
+National Center for Education Statistics 2016 Outcome Measures (Department of Education)
+Bureau of Economic Analysis Input-Output Accounts (Department of Commerce)
+Current Population Survey (CPS) (Department of Labor)
+Local Unemployment Statistics- Labor force data by county annual averages (Department of Labor)
+National EMS Information System (NEMSIS) (Department of Transportation)
+Mortgage Loan Data (Federal Housing Finance Authority)
+
+Data Sets from HHS:
+Medical Expenditure Panel Survey (MEPS) (Agency for Healthcare Research and Quality)
+Healthcare Cost and Utilization Project (HCUP) (Agency for Health Care Quality and Research)
+CDC WONDER -- Multiple Causes of Death (Centers for Disease Control and Prevention)
+Medicare Part D Opioid Prescribing Data (Centers for Medicare & Medicaid Services)
+Medicare Part D Prescribing Data (Centers for Medicare and Medicaid Services)
+Uniform Data Service (Health Resources and Service Administration)
+Area Health Resource File (Health Resources and Services Administration)
+Buprenorphine Treatment Practitioner Locator (Substance Abuse and Mental Health Services Administration)
+National Survey on Drug Use and Health (NSDUH) (Substance Abuse and Mental Health Services Administration)
+Treatment Episode Data Set (TEDS) (Substance Abuse and Mental Health Services Administration)
