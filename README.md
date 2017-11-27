@@ -22,11 +22,10 @@ NOTE: For substate region definitions, see the "2012-2014 National Survey on Dru
 Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health, 2012, 2013, and 2014.
     
 <b>National Crime Victimization Survey 1992 - 2005</b><br>
-
+https://s3.amazonaws.com/nudro/ncvs.csv
     
 <b>National Incident-Based Reporting System (NBIRS) 2015</b><br>
-    >by incident
-    >by arrestee<br>
+https://s3.amazonaws.com/nudro/nibrs.csv
    
 <b>CDC WONDER Underlying Cause of Death (UCD) for Drug/Alcohol - National</b>
 "Dataset: Multiple Cause of Death, 1999-2015"
