@@ -21,14 +21,25 @@ Table 21. Needing But Not Receiving Treatment for Alcohol Use in the Past Year, 
 NOTE: For substate region definitions, see the "2012-2014 National Survey on Drug Use and Health Substate Region Definitions" at http://www.samhsa.gov/data/.
 Source: SAMHSA, Center for Behavioral Health Statistics and Quality, National Survey on Drug Use and Health, 2012, 2013, and 2014.
     
-<b>National Crime Victimization Survey 1992 - 2005</b>
-
-https://s3.amazonaws.com/nudro/ncvs.csv
+National Crime Victimization Survey 1992 - 2005: https://s3.amazonaws.com/nudro/ncvs.csv
     
-<b>National Incident-Based Reporting System (NBIRS) 2015</b>
-
-https://s3.amazonaws.com/nudro/nibrs.csv
-   
+National Incident-Based Reporting System (NBIRS) 2015: https://s3.amazonaws.com/nudro/nibrs.csv
+- S3 has the full dataset with 809 variables
+- Github repo here has the nibrs reduced dataset with approximately 54 vars focused on drug related variables
+- Note: not all 51 states are in the NIBRS dataset - checked both reduced and full set (S3)
+nibrs_reduced['BH008'].unique()
+Out[370]: 
+array(['AL', 'AR', 'AZ', 'CO', 'CT', 'DC', 'DE', 'IA', 'ID', 'IL', 'IN',
+       'KS', 'KY', 'LA', 'MA', 'ME', 'MI', 'MO', 'MS', 'MT', 'NB', 'ND',
+       'NH', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT',
+       'VA', 'WA', 'WI', 'WV'], dtype=object)
+nibrs['BH008'].unique()
+Out[371]: 
+array(['AL', 'AR', 'AZ', 'CO', 'CT', 'DC', 'DE', 'IA', 'ID', 'IL', 'IN',
+       'KS', 'KY', 'LA', 'MA', 'ME', 'MI', 'MO', 'MS', 'MT', 'NB', 'ND',
+       'NH', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 'SD', 'TN', 'TX', 'UT',
+       'VA', 'WA', 'WI', 'WV'], dtype=object)
+  
 CDC WONDER Underlying Cause of Death (UCD) for Drug/Alcohol - National
 
 "Dataset: Multiple Cause of Death, 1999-2015"
