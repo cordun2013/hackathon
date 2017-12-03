@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Halifax County,Virginia","Adair County,Kentucky",29512,733516
+1,"Halifax County,Virginia","Allen County,Kentucky",30908,853326
+2,"Halifax County,Virginia","Anderson County,Kentucky",28685,798252
+3,"Halifax County,Virginia","Ballard County,Kentucky",37812,1088581
+4,"Halifax County,Virginia","Barren County,Kentucky",30697,812271
+5,"Halifax County,Virginia","Bath County,Kentucky",24332,669433
+6,"Halifax County,Virginia","Bell County,Kentucky",22007,534823
+7,"Halifax County,Virginia","Boone County,Kentucky",30145,790826
+8,"Halifax County,Virginia","Bourbon County,Kentucky",26246,715850
+9,"Halifax County,Virginia","Boyd County,Kentucky",21008,563758
+10,"Halifax County,Virginia","Boyle County,Kentucky",28689,707672
+11,"Halifax County,Virginia","Bracken County,Kentucky",26657,709933
+12,"Halifax County,Virginia","Breathitt County,Kentucky",23631,570586
+13,"Halifax County,Virginia","Breckinridge County,Kentucky",34218,950933
+14,"Halifax County,Virginia","Bullitt County,Kentucky",30788,872052
+15,"Halifax County,Virginia","Butler County,Kentucky",33368,923531
+16,"Halifax County,Virginia","Caldwell County,Kentucky",34952,996395
+17,"Halifax County,Virginia","Calloway County,Kentucky",35653,1020440
+18,"Halifax County,Virginia","Campbell County,Kentucky",28357,749805
+19,"Halifax County,Virginia","Carlisle County,Kentucky",38269,1103949
+20,"Halifax County,Virginia","Carroll County,Kentucky",31229,846066
+21,"Halifax County,Virginia","Carter County,Kentucky",22172,593855
+22,"Halifax County,Virginia","Casey County,Kentucky",29449,706791
+23,"Halifax County,Virginia","Christian County,Kentucky",32546,941420
+24,"Halifax County,Virginia","Clay County,Kentucky",24579,595165
+25,"Halifax County,Virginia","Clinton County,Kentucky",27955,732731
+26,"Halifax County,Virginia","Crittenden County,Kentucky",36216,1029155
+27,"Halifax County,Virginia","Cumberland County,Kentucky",28834,753399
+28,"Halifax County,Virginia","Daviess County,Kentucky",35802,997325
+29,"Halifax County,Virginia","Edmonson County,Kentucky",32677,865634
+30,"Halifax County,Virginia","Elliott County,Kentucky",23503,619625
+31,"Halifax County,Virginia","Estill County,Kentucky",27388,666869
+32,"Halifax County,Virginia","Fayette County,Kentucky",26492,735745
+33,"Halifax County,Virginia","Fleming County,Kentucky",24758,672619
+34,"Halifax County,Virginia","Floyd County,Kentucky",22292,547895
+35,"Halifax County,Virginia","Franklin County,Kentucky",28530,784661
+36,"Halifax County,Virginia","Fulton County,Kentucky",38673,1124914
+37,"Halifax County,Virginia","Gallatin County,Kentucky",30227,836725
+38,"Halifax County,Virginia","Garrard County,Kentucky",28358,692458
+39,"Halifax County,Virginia","Grant County,Kentucky",29026,810832
+40,"Halifax County,Virginia","Graves County,Kentucky",37294,1076656
+41,"Halifax County,Virginia","Grayson County,Kentucky",33210,929567
+42,"Halifax County,Virginia","Green County,Kentucky",31264,775681
+43,"Halifax County,Virginia","Greenup County,Kentucky",22783,604884
+44,"Halifax County,Virginia","Hancock County,Kentucky",35014,983826
+45,"Halifax County,Virginia","Hardin County,Kentucky",32087,891700
+46,"Halifax County,Virginia","Harlan County,Kentucky",21082,511449
+47,"Halifax County,Virginia","Harrison County,Kentucky",27817,748950
+48,"Halifax County,Virginia","Hart County,Kentucky",32614,821959
+49,"Halifax County,Virginia","Henderson County,Kentucky",36304,1050553
+50,"Halifax County,Virginia","Henry County,Kentucky",30131,828380
+51,"Halifax County,Virginia","Hickman County,Kentucky",38302,1105241
+52,"Halifax County,Virginia","Hopkins County,Kentucky",35073,1006672
+53,"Halifax County,Virginia","Jackson County,Kentucky",26451,631584
+54,"Halifax County,Virginia","Jefferson County,Kentucky",30225,843913
+55,"Halifax County,Virginia","Jessamine County,Kentucky",27961,757209
+56,"Halifax County,Virginia","Johnson County,Kentucky",22907,565124
+57,"Halifax County,Virginia","Kenton County,Kentucky",29514,778520
+58,"Halifax County,Virginia","Knott County,Kentucky",21172,513336
+59,"Halifax County,Virginia","Knox County,Kentucky",23337,576815
+60,"Halifax County,Virginia","Larue County,Kentucky",32158,878875
+61,"Halifax County,Virginia","Laurel County,Kentucky",25231,611643
+62,"Halifax County,Virginia","Lawrence County,Kentucky",22931,608078
+63,"Halifax County,Virginia","Lee County,Kentucky",25742,611776
+64,"Halifax County,Virginia","Leslie County,Kentucky",22544,539729
+65,"Halifax County,Virginia","Letcher County,Kentucky",19572,476883
+66,"Halifax County,Virginia","Lewis County,Kentucky",24211,645672
+67,"Halifax County,Virginia","Lincoln County,Kentucky",27920,692039
+68,"Halifax County,Virginia","Livingston County,Kentucky",36143,1042520
+69,"Halifax County,Virginia","Logan County,Kentucky",32978,894320
+70,"Halifax County,Virginia","Lyon County,Kentucky",35900,1019694
+71,"Halifax County,Virginia","McCracken County,Kentucky",36424,1056641
+72,"Halifax County,Virginia","McCreary County,Kentucky",24961,669577
+73,"Halifax County,Virginia","Madison County,Kentucky",27377,689888
+74,"Halifax County,Virginia","Magoffin County,Kentucky",23251,569100
+75,"Halifax County,Virginia","Marion County,Kentucky",30387,746277
+76,"Halifax County,Virginia","Marshall County,Kentucky",35839,1040213
+77,"Halifax County,Virginia","Martin County,Kentucky",24045,589801
+78,"Halifax County,Virginia","Mason County,Kentucky",26006,689479
+79,"Halifax County,Virginia","Meade County,Kentucky",32685,916228
+80,"Halifax County,Virginia","Menifee County,Kentucky",25448,681497
+81,"Halifax County,Virginia","Mercer County,Kentucky",28912,796196
+82,"Halifax County,Virginia","Metcalfe County,Kentucky",30168,763781
+83,"Halifax County,Virginia","Monroe County,Kentucky",29395,783820
+84,"Halifax County,Virginia","Montgomery County,Kentucky",25145,687973
+85,"Halifax County,Virginia","Morgan County,Kentucky",25227,657212
+86,"Halifax County,Virginia","Muhlenberg County,Kentucky",34758,976783
+87,"Halifax County,Virginia","Nelson County,Kentucky",30144,839556
+88,"Halifax County,Virginia","Nicholas County,Kentucky",26823,715857
+89,"Halifax County,Virginia","Ohio County,Kentucky",34903,965361
+90,"Halifax County,Virginia","Oldham County,Kentucky",30296,855794
+91,"Halifax County,Virginia","Owen County,Kentucky",29351,811438
+92,"Halifax County,Virginia","Owsley County,Kentucky",25769,608460
+93,"Halifax County,Virginia","Pendleton County,Kentucky",28594,750857
+94,"Halifax County,Virginia","Perry County,Kentucky",22145,533759
+95,"Halifax County,Virginia","Pike County,Kentucky",20667,482409
+96,"Halifax County,Virginia","Powell County,Kentucky",26273,635122
+97,"Halifax County,Virginia","Robertson County,Kentucky",26741,715363
+98,"Halifax County,Virginia","Rockcastle County,Kentucky",26402,653638
+99,"Halifax County,Virginia","Rowan County,Kentucky",23475,641640
+100,"Halifax County,Virginia","Russell County,Kentucky",29116,717500
+101,"Halifax County,Virginia","Scott County,Kentucky",27326,763772
+102,"Halifax County,Virginia","Shelby County,Kentucky",29153,815048
+103,"Halifax County,Virginia","Simpson County,Kentucky",31945,870296
+104,"Halifax County,Virginia","Spencer County,Kentucky",29683,820896
+105,"Halifax County,Virginia","Taylor County,Kentucky",30866,757776
+106,"Halifax County,Virginia","Todd County,Kentucky",32961,934367
+107,"Halifax County,Virginia","Trigg County,Kentucky",33453,958779
+108,"Halifax County,Virginia","Trimble County,Kentucky",31370,861834
+109,"Halifax County,Virginia","Union County,Kentucky",37722,1070913
+110,"Halifax County,Virginia","Warren County,Kentucky",32370,892964
+111,"Halifax County,Virginia","Washington County,Kentucky",30154,824792
+112,"Halifax County,Virginia","Wayne County,Kentucky",27466,716708
+113,"Halifax County,Virginia","Webster County,Kentucky",36182,1034761
+114,"Halifax County,Virginia","Whitley County,Kentucky",23565,654339
+115,"Halifax County,Virginia","Wolfe County,Kentucky",25125,602670
+116,"Halifax County,Virginia","Woodford County,Kentucky",27546,766408
+117,"Halifax County,Virginia","Adams County,Ohio",26098,692036
+118,"Halifax County,Virginia","Allen County,Ohio",32830,867453
+119,"Halifax County,Virginia","Ashland County,Ohio",30575,821344
+120,"Halifax County,Virginia","Ashtabula County,Ohio",31672,862057
+121,"Halifax County,Virginia","Athens County,Ohio",22506,597635
+122,"Halifax County,Virginia","Auglaize County,Ohio",32080,884153
+123,"Halifax County,Virginia","Belmont County,Ohio",26325,731166
+124,"Halifax County,Virginia","Brown County,Ohio",27343,718963
+125,"Halifax County,Virginia","Butler County,Ohio",30455,800989
+126,"Halifax County,Virginia","Carroll County,Ohio",28255,768052
+127,"Halifax County,Virginia","Champaign County,Ohio",29384,786250
+128,"Halifax County,Virginia","Clark County,Ohio",28063,745795
+129,"Halifax County,Virginia","Clermont County,Ohio",28177,750059
+130,"Halifax County,Virginia","Clinton County,Ohio",27568,733476
+131,"Halifax County,Virginia","Columbiana County,Ohio",28899,701034
+132,"Halifax County,Virginia","Coshocton County,Ohio",26890,739169
+133,"Halifax County,Virginia","Crawford County,Ohio",31182,832504
+134,"Halifax County,Virginia","Cuyahoga County,Ohio",30291,853456
+135,"Halifax County,Virginia","Darke County,Ohio",31178,841199
+136,"Halifax County,Virginia","Defiance County,Ohio",36266,945774
+137,"Halifax County,Virginia","Delaware County,Ohio",28336,765241
+138,"Halifax County,Virginia","Fairfield County,Ohio",25867,692336
+139,"Halifax County,Virginia","Fayette County,Ohio",26131,703940
+140,"Halifax County,Virginia","Franklin County,Ohio",26867,722190
+141,"Halifax County,Virginia","Fulton County,Ohio",36273,988073
+142,"Halifax County,Virginia","Gallia County,Ohio",21445,563051
+143,"Halifax County,Virginia","Geauga County,Ohio",31162,834720
+144,"Halifax County,Virginia","Greene County,Ohio",27002,737092
+145,"Halifax County,Virginia","Guernsey County,Ohio",24441,677088
+146,"Halifax County,Virginia","Hamilton County,Ohio",29957,811566
+147,"Halifax County,Virginia","Hancock County,Ohio",32359,873596
+148,"Halifax County,Virginia","Hardin County,Ohio",31341,823282
+149,"Halifax County,Virginia","Harrison County,Ohio",27261,750118
+150,"Halifax County,Virginia","Henry County,Ohio",35072,945218
+151,"Halifax County,Virginia","Highland County,Ohio",26635,692049
+152,"Halifax County,Virginia","Hocking County,Ohio",24309,648299
+153,"Halifax County,Virginia","Holmes County,Ohio",27949,762053
+154,"Halifax County,Virginia","Huron County,Ohio",32472,862973
+155,"Halifax County,Virginia","Jackson County,Ohio",22622,602600
+156,"Halifax County,Virginia","Jefferson County,Ohio",27646,676004
+157,"Halifax County,Virginia","Knox County,Ohio",28679,781645
+158,"Halifax County,Virginia","Lawrence County,Ohio",22147,568814
+159,"Halifax County,Virginia","Licking County,Ohio",27812,719345
+160,"Halifax County,Virginia","Logan County,Ohio",30362,817559
+161,"Halifax County,Virginia","Lorain County,Ohio",31516,883280
+162,"Halifax County,Virginia","Lucas County,Ohio",35994,961096
+163,"Halifax County,Virginia","Madison County,Ohio",27833,727024
+164,"Halifax County,Virginia","Mahoning County,Ohio",28159,752049
+165,"Halifax County,Virginia","Marion County,Ohio",29742,791334
+166,"Halifax County,Virginia","Medina County,Ohio",29964,839487
+167,"Halifax County,Virginia","Meigs County,Ohio",21387,568605
+168,"Halifax County,Virginia","Mercer County,Ohio",33316,911086
+169,"Halifax County,Virginia","Miami County,Ohio",29667,806591
+170,"Halifax County,Virginia","Monroe County,Ohio",25377,666280
+171,"Halifax County,Virginia","Montgomery County,Ohio",29036,784548
+172,"Halifax County,Virginia","Morgan County,Ohio",24382,652928
+173,"Halifax County,Virginia","Morrow County,Ohio",29144,788062
+174,"Halifax County,Virginia","Muskingum County,Ohio",25287,705080
+175,"Halifax County,Virginia","Noble County,Ohio",23883,649440
+176,"Halifax County,Virginia","Paulding County,Ohio",35367,943359
+177,"Halifax County,Virginia","Perry County,Ohio",25724,663055
+178,"Halifax County,Virginia","Pickaway County,Ohio",25572,684038
+179,"Halifax County,Virginia","Pike County,Ohio",24068,641907
+180,"Halifax County,Virginia","Portage County,Ohio",29813,835038
+181,"Halifax County,Virginia","Preble County,Ohio",30655,813125
+182,"Halifax County,Virginia","Putnam County,Ohio",33953,899811
+183,"Halifax County,Virginia","Richland County,Ohio",30174,823301
+184,"Halifax County,Virginia","Ross County,Ohio",24316,650345
+185,"Halifax County,Virginia","Sandusky County,Ohio",34116,892291
+186,"Halifax County,Virginia","Scioto County,Ohio",23952,626087
+187,"Halifax County,Virginia","Seneca County,Ohio",32733,866176
+188,"Halifax County,Virginia","Shelby County,Ohio",30705,842877
+189,"Halifax County,Virginia","Stark County,Ohio",28114,783287
+190,"Halifax County,Virginia","Summit County,Ohio",28873,809076
+191,"Halifax County,Virginia","Trumbull County,Ohio",29316,789513
+192,"Halifax County,Virginia","Tuscarawas County,Ohio",26315,723875
+193,"Halifax County,Virginia","Union County,Ohio",28866,767790
+194,"Halifax County,Virginia","Van Wert County,Ohio",34064,910323
+195,"Halifax County,Virginia","Vinton County,Ohio",24518,628106
+196,"Halifax County,Virginia","Warren County,Ohio",28373,767535
+197,"Halifax County,Virginia","Washington County,Ohio",22741,607376
+198,"Halifax County,Virginia","Wayne County,Ohio",29085,786166
+199,"Halifax County,Virginia","Williams County,Ohio",37443,969290
+200,"Halifax County,Virginia","Wood County,Ohio",33757,915204
+201,"Halifax County,Virginia","Wyandot County,Ohio",31329,837732
+202,"Halifax County,Virginia","Accomack County,Virginia",16212,391025
+203,"Halifax County,Virginia","Albemarle County,Virginia",8618,194426
+204,"Halifax County,Virginia","Alleghany County,Virginia",11147,254996
+205,"Halifax County,Virginia","Amelia County,Virginia",5092,123381
+206,"Halifax County,Virginia","Amherst County,Virginia",6004,126135
+207,"Halifax County,Virginia","Appomattox County,Virginia",4994,102770
+208,"Halifax County,Virginia","Arlington County,Virginia",13071,347072
+209,"Halifax County,Virginia","Augusta County,Virginia",10103,230587
+210,"Halifax County,Virginia","Bath County,Virginia",11667,248323
+211,"Halifax County,Virginia","Bedford County,Virginia",5437,98878
+212,"Halifax County,Virginia","Bland County,Virginia",11274,274140
+213,"Halifax County,Virginia","Botetourt County,Virginia",8938,172251
+214,"Halifax County,Virginia","Brunswick County,Virginia",4816,109498
+215,"Halifax County,Virginia","Buchanan County,Virginia",17030,408599
+216,"Halifax County,Virginia","Buckingham County,Virginia",5768,128882
+217,"Halifax County,Virginia","Campbell County,Virginia",3691,73267
+218,"Halifax County,Virginia","Caroline County,Virginia",9800,244431
+219,"Halifax County,Virginia","Carroll County,Virginia",9215,209665
+220,"Halifax County,Virginia","Charles City County,Virginia",8539,212486
+221,"Halifax County,Virginia","Charlotte County,Virginia",3042,64544
+222,"Halifax County,Virginia","Chesterfield County,Virginia",6786,162271
+223,"Halifax County,Virginia","Clarke County,Virginia",14756,376330
+224,"Halifax County,Virginia","Craig County,Virginia",10140,205494
+225,"Halifax County,Virginia","Culpeper County,Virginia",11953,268993
+226,"Halifax County,Virginia","Cumberland County,Virginia",5914,127103
+227,"Halifax County,Virginia","Dickenson County,Virginia",17740,426777
+228,"Halifax County,Virginia","Dinwiddie County,Virginia",5960,151603
+229,"Halifax County,Virginia","Essex County,Virginia",11666,268858
+230,"Halifax County,Virginia","Fairfax County,Virginia",13368,350301
+231,"Halifax County,Virginia","Fauquier County,Virginia",13064,330314
+232,"Halifax County,Virginia","Floyd County,Virginia",8756,166942
+233,"Halifax County,Virginia","Fluvanna County,Virginia",7918,177808
+234,"Halifax County,Virginia","Franklin County,Virginia",5412,113637
+235,"Halifax County,Virginia","Frederick County,Virginia",14208,364057
+236,"Halifax County,Virginia","Giles County,Virginia",10960,244210
+237,"Halifax County,Virginia","Gloucester County,Virginia",11421,296950
+238,"Halifax County,Virginia","Goochland County,Virginia",7697,178372
+239,"Halifax County,Virginia","Grayson County,Virginia",11528,259915
+240,"Halifax County,Virginia","Greene County,Virginia",10966,241743
+241,"Halifax County,Virginia","Greensville County,Virginia",6489,143926
+242,"Halifax County,Virginia","Hanover County,Virginia",8285,195390
+243,"Halifax County,Virginia","Henrico County,Virginia",7889,212376
+244,"Halifax County,Virginia","Henry County,Virginia",5206,121562
+245,"Halifax County,Virginia","Highland County,Virginia",13306,288326
+246,"Halifax County,Virginia","Isle of Wight County,Virginia",9772,239222
+247,"Halifax County,Virginia","James City County,Virginia",10130,247931
+248,"Halifax County,Virginia","King and Queen County,Virginia",10843,258205
+249,"Halifax County,Virginia","King George County,Virginia",10913,272417
+250,"Halifax County,Virginia","King William County,Virginia",9531,228128
+251,"Halifax County,Virginia","Lancaster County,Virginia",13323,311213
+252,"Halifax County,Virginia","Lee County,Virginia",18234,458431
+253,"Halifax County,Virginia","Loudoun County,Virginia",15334,403546
+254,"Halifax County,Virginia","Louisa County,Virginia",9017,210708
+255,"Halifax County,Virginia","Lunenburg County,Virginia",3879,81711
+256,"Halifax County,Virginia","Madison County,Virginia",11081,251310
+257,"Halifax County,Virginia","Mathews County,Virginia",12246,320373
+258,"Halifax County,Virginia","Mecklenburg County,Virginia",2912,59221
+259,"Halifax County,Virginia","Middlesex County,Virginia",11023,293150
+260,"Halifax County,Virginia","Montgomery County,Virginia",9525,208481
+261,"Halifax County,Virginia","Nelson County,Virginia",6498,146668
+262,"Halifax County,Virginia","New Kent County,Virginia",9923,257446
+263,"Halifax County,Virginia","Northampton County,Virginia",13455,326839
+264,"Halifax County,Virginia","Northumberland County,Virginia",13363,309725
+265,"Halifax County,Virginia","Nottoway County,Virginia",4754,113556
+266,"Halifax County,Virginia","Orange County,Virginia",10599,238752
+267,"Halifax County,Virginia","Page County,Virginia",12423,298382
+268,"Halifax County,Virginia","Patrick County,Virginia",6788,160470
+269,"Halifax County,Virginia","Pittsylvania County,Virginia",3338,66071
+270,"Halifax County,Virginia","Powhatan County,Virginia",6561,156060
+271,"Halifax County,Virginia","Prince Edward County,Virginia",3460,81143
+272,"Halifax County,Virginia","Prince George County,Virginia",7509,192158
+273,"Halifax County,Virginia","Prince William County,Virginia",13527,340150
+274,"Halifax County,Virginia","Pulaski County,Virginia",10252,231114
+275,"Halifax County,Virginia","Rappahannock County,Virginia",12611,286136
+276,"Halifax County,Virginia","Richmond County,Virginia",12063,282369
+277,"Halifax County,Virginia","Roanoke County,Virginia",8516,173419
+278,"Halifax County,Virginia","Rockbridge County,Virginia",9137,182943
+279,"Halifax County,Virginia","Rockingham County,Virginia",11462,270733
+280,"Halifax County,Virginia","Russell County,Virginia",16196,391936
+281,"Halifax County,Virginia","Scott County,Virginia",16808,419159
+282,"Halifax County,Virginia","Shenandoah County,Virginia",11966,300836
+283,"Halifax County,Virginia","Smyth County,Virginia",12390,302881
+284,"Halifax County,Virginia","Southampton County,Virginia",7628,184441
+285,"Halifax County,Virginia","Spotsylvania County,Virginia",10810,267381
+286,"Halifax County,Virginia","Stafford County,Virginia",10882,284852
+287,"Halifax County,Virginia","Surry County,Virginia",9197,225639
+288,"Halifax County,Virginia","Sussex County,Virginia",6951,175578
+289,"Halifax County,Virginia","Tazewell County,Virginia",13851,342957
+290,"Halifax County,Virginia","Warren County,Virginia",13869,345429
+291,"Halifax County,Virginia","Washington County,Virginia",13784,342347
+292,"Halifax County,Virginia","Westmoreland County,Virginia",11887,289242
+293,"Halifax County,Virginia","Wise County,Virginia",17647,433279
+294,"Halifax County,Virginia","Wythe County,Virginia",10644,254866
+295,"Halifax County,Virginia","York County,Virginia",11774,314307
+296,"Halifax County,Virginia","Alexandria City County,Virginia",13042,344120
+297,"Halifax County,Virginia","Bedford City County,Virginia",5857,109915
+298,"Halifax County,Virginia","Bristol City County,Virginia",14259,368064
+299,"Halifax County,Virginia","Buena Vista City County,Virginia",7891,164574
+300,"Halifax County,Virginia","Charlottesville City County,Virginia",8608,190243
+301,"Halifax County,Virginia","Chesapeake City County,Virginia",10847,266202
+302,"Halifax County,Virginia","Clifton Forge City County,Virginia",10048,223814
+303,"Halifax County,Virginia","Colonial Heights City County,Virginia",6762,176864
+304,"Halifax County,Virginia","Covington City County,Virginia",10791,242156
+305,"Halifax County,Virginia","Danville City County,Virginia",2662,52536
+306,"Halifax County,Virginia","Emporia City County,Virginia",6168,141105
+307,"Halifax County,Virginia","Fairfax City County,Virginia",13302,339083
+308,"Halifax County,Virginia","Falls Church City County,Virginia",13250,351369
+309,"Halifax County,Virginia","Franklin City County,Virginia",8255,197575
+310,"Halifax County,Virginia","Fredericksburg City County,Virginia",10681,270788
+311,"Halifax County,Virginia","Galax City County,Virginia",10056,228419
+312,"Halifax County,Virginia","Hampton City County,Virginia",11546,284596
+313,"Halifax County,Virginia","Harrisonburg City County,Virginia",10521,250629
+314,"Halifax County,Virginia","Hopewell City County,Virginia",7674,188649
+315,"Halifax County,Virginia","Lexington City County,Virginia",8423,173758
+316,"Halifax County,Virginia","Lynchburg City County,Virginia",5119,98312
+317,"Halifax County,Virginia","Manassas City County,Virginia",13271,337486
+318,"Halifax County,Virginia","Manassas Park City County,Virginia",13491,334686
+319,"Halifax County,Virginia","Martinsville City County,Virginia",4803,105541
+320,"Halifax County,Virginia","Newport News City County,Virginia",11281,310499
+321,"Halifax County,Virginia","Norfolk City County,Virginia",10799,265062
+322,"Halifax County,Virginia","Norton City County,Virginia",17171,424169
+323,"Halifax County,Virginia","Petersburg City County,Virginia",6512,174762
+324,"Halifax County,Virginia","Poquoson City County,Virginia",11953,321075
+325,"Halifax County,Virginia","Portsmouth City County,Virginia",10718,262597
+326,"Halifax County,Virginia","Radford County,Virginia",9888,218325
+327,"Halifax County,Virginia","Richmond City County,Virginia",7777,185002
+328,"Halifax County,Virginia","Roanoke City County,Virginia",7204,143764
+329,"Halifax County,Virginia","Salem City County,Virginia",7884,163333
+330,"Halifax County,Virginia","South Boston City County,Virginia",370,3083
+331,"Halifax County,Virginia","Staunton City County,Virginia",9410,212310
+332,"Halifax County,Virginia","Suffolk City County,Virginia",9571,230878
+333,"Halifax County,Virginia","Virginia Beach City County,Virginia",11914,292857
+334,"Halifax County,Virginia","Waynesboro City County,Virginia",8645,192499
+335,"Halifax County,Virginia","Williamsburg City County,Virginia",10325,282748
+336,"Halifax County,Virginia","Winchester City County,Virginia",14088,360201
+337,"Halifax County,Virginia","Barbour County,West Virginia",20212,429031
+338,"Halifax County,Virginia","Berkeley County,West Virginia",15825,407408
+339,"Halifax County,Virginia","Boone County,West Virginia",18896,446112
+340,"Halifax County,Virginia","Braxton County,West Virginia",19204,435376
+341,"Halifax County,Virginia","Brooke County,West Virginia",25952,639554
+342,"Halifax County,Virginia","Cabell County,West Virginia",20464,542019
+343,"Halifax County,Virginia","Calhoun County,West Virginia",20975,489327
+344,"Halifax County,Virginia","Clay County,West Virginia",18889,463017
+345,"Halifax County,Virginia","Doddridge County,West Virginia",22718,521253
+346,"Halifax County,Virginia","Fayette County,West Virginia",16396,408755
+347,"Halifax County,Virginia","Gilmer County,West Virginia",20772,485056
+348,"Halifax County,Virginia","Grant County,West Virginia",15917,389896
+349,"Halifax County,Virginia","Greenbrier County,West Virginia",14983,332124
+350,"Halifax County,Virginia","Hampshire County,West Virginia",15945,378312
+351,"Halifax County,Virginia","Hancock County,West Virginia",27579,666902
+352,"Halifax County,Virginia","Hardy County,West Virginia",15165,361225
+353,"Halifax County,Virginia","Harrison County,West Virginia",21747,530767
+354,"Halifax County,Virginia","Jackson County,West Virginia",19783,521829
+355,"Halifax County,Virginia","Jefferson County,West Virginia",15876,394814
+356,"Halifax County,Virginia","Kanawha County,West Virginia",17546,443811
+357,"Halifax County,Virginia","Lewis County,West Virginia",20377,484237
+358,"Halifax County,Virginia","Lincoln County,West Virginia",21128,519696
+359,"Halifax County,Virginia","Logan County,West Virginia",20686,476602
+360,"Halifax County,Virginia","McDowell County,West Virginia",16368,371635
+361,"Halifax County,Virginia","Marion County,West Virginia",22892,557935
+362,"Halifax County,Virginia","Marshall County,West Virginia",26940,633999
+363,"Halifax County,Virginia","Mason County,West Virginia",19939,527925
+364,"Halifax County,Virginia","Mercer County,West Virginia",12975,324419
+365,"Halifax County,Virginia","Mineral County,West Virginia",17391,401419
+366,"Halifax County,Virginia","Mingo County,West Virginia",21265,540537
+367,"Halifax County,Virginia","Monongalia County,West Virginia",21093,514154
+368,"Halifax County,Virginia","Monroe County,West Virginia",13285,265493
+369,"Halifax County,Virginia","Morgan County,West Virginia",16071,408534
+370,"Halifax County,Virginia","Nicholas County,West Virginia",16823,385549
+371,"Halifax County,Virginia","Ohio County,West Virginia",25859,648501
+372,"Halifax County,Virginia","Pendleton County,West Virginia",14309,321917
+373,"Halifax County,Virginia","Pleasants County,West Virginia",23265,619681
+374,"Halifax County,Virginia","Pocahontas County,West Virginia",16201,326817
+375,"Halifax County,Virginia","Preston County,West Virginia",20097,468347
+376,"Halifax County,Virginia","Putnam County,West Virginia",18721,493543
+377,"Halifax County,Virginia","Raleigh County,West Virginia",14571,368992
+378,"Halifax County,Virginia","Randolph County,West Virginia",18228,382424
+379,"Halifax County,Virginia","Ritchie County,West Virginia",23448,531702
+380,"Halifax County,Virginia","Roane County,West Virginia",21408,550645
+381,"Halifax County,Virginia","Summers County,West Virginia",13868,298506
+382,"Halifax County,Virginia","Taylor County,West Virginia",20440,486168
+383,"Halifax County,Virginia","Tucker County,West Virginia",18577,451543
+384,"Halifax County,Virginia","Tyler County,West Virginia",25174,659296
+385,"Halifax County,Virginia","Upshur County,West Virginia",20824,418067
+386,"Halifax County,Virginia","Wayne County,West Virginia",22055,574645
+387,"Halifax County,Virginia","Webster County,West Virginia",19575,430037
+388,"Halifax County,Virginia","Wetzel County,West Virginia",24427,582250
+389,"Halifax County,Virginia","Wirt County,West Virginia",22049,579167
+390,"Halifax County,Virginia","Wood County,West Virginia",21563,580857
+391,"Halifax County,Virginia","Wyoming County,West Virginia",16515,408934

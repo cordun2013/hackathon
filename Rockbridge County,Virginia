@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Rockbridge County,Virginia","Adair County,Kentucky",25607,728278
+1,"Rockbridge County,Virginia","Allen County,Kentucky",27828,799551
+2,"Rockbridge County,Virginia","Anderson County,Kentucky",21406,631318
+3,"Rockbridge County,Virginia","Ballard County,Kentucky",34385,1021089
+4,"Rockbridge County,Virginia","Barren County,Kentucky",27352,787306
+5,"Rockbridge County,Virginia","Bath County,Kentucky",17054,502499
+6,"Rockbridge County,Virginia","Bell County,Kentucky",18927,481048
+7,"Rockbridge County,Virginia","Boone County,Kentucky",22866,623892
+8,"Rockbridge County,Virginia","Bourbon County,Kentucky",18967,548916
+9,"Rockbridge County,Virginia","Boyd County,Kentucky",13729,396823
+10,"Rockbridge County,Virginia","Boyle County,Kentucky",22635,635204
+11,"Rockbridge County,Virginia","Bracken County,Kentucky",19378,542999
+12,"Rockbridge County,Virginia","Breathitt County,Kentucky",20440,543525
+13,"Rockbridge County,Virginia","Breckinridge County,Kentucky",26940,783999
+14,"Rockbridge County,Virginia","Bullitt County,Kentucky",23509,705118
+15,"Rockbridge County,Virginia","Butler County,Kentucky",27605,805997
+16,"Rockbridge County,Virginia","Caldwell County,Kentucky",30496,911942
+17,"Rockbridge County,Virginia","Calloway County,Kentucky",32573,966666
+18,"Rockbridge County,Virginia","Campbell County,Kentucky",21079,582870
+19,"Rockbridge County,Virginia","Carlisle County,Kentucky",34842,1036457
+20,"Rockbridge County,Virginia","Carroll County,Kentucky",23951,679132
+21,"Rockbridge County,Virginia","Carter County,Kentucky",14894,426920
+22,"Rockbridge County,Virginia","Casey County,Kentucky",24130,666709
+23,"Rockbridge County,Virginia","Christian County,Kentucky",29466,887645
+24,"Rockbridge County,Virginia","Clay County,Kentucky",21500,541390
+25,"Rockbridge County,Virginia","Clinton County,Kentucky",24875,678956
+26,"Rockbridge County,Virginia","Crittenden County,Kentucky",32076,945012
+27,"Rockbridge County,Virginia","Cumberland County,Kentucky",25755,699625
+28,"Rockbridge County,Virginia","Daviess County,Kentucky",28627,852439
+29,"Rockbridge County,Virginia","Edmonson County,Kentucky",27045,793872
+30,"Rockbridge County,Virginia","Elliott County,Kentucky",16224,452691
+31,"Rockbridge County,Virginia","Estill County,Kentucky",20046,564814
+32,"Rockbridge County,Virginia","Fayette County,Kentucky",19213,568810
+33,"Rockbridge County,Virginia","Fleming County,Kentucky",17480,505684
+34,"Rockbridge County,Virginia","Floyd County,Kentucky",17862,504088
+35,"Rockbridge County,Virginia","Franklin County,Kentucky",21251,617727
+36,"Rockbridge County,Virginia","Fulton County,Kentucky",35246,1057421
+37,"Rockbridge County,Virginia","Gallatin County,Kentucky",22949,669791
+38,"Rockbridge County,Virginia","Garrard County,Kentucky",21818,615964
+39,"Rockbridge County,Virginia","Grant County,Kentucky",21748,643898
+40,"Rockbridge County,Virginia","Graves County,Kentucky",33866,1009163
+41,"Rockbridge County,Virginia","Grayson County,Kentucky",25932,762633
+42,"Rockbridge County,Virginia","Green County,Kentucky",25711,727838
+43,"Rockbridge County,Virginia","Greenup County,Kentucky",15505,437950
+44,"Rockbridge County,Virginia","Hancock County,Kentucky",27735,816892
+45,"Rockbridge County,Virginia","Hardin County,Kentucky",24808,724765
+46,"Rockbridge County,Virginia","Harlan County,Kentucky",18002,457675
+47,"Rockbridge County,Virginia","Harrison County,Kentucky",20538,582016
+48,"Rockbridge County,Virginia","Hart County,Kentucky",25607,752394
+49,"Rockbridge County,Virginia","Henderson County,Kentucky",30434,904869
+50,"Rockbridge County,Virginia","Henry County,Kentucky",22852,661445
+51,"Rockbridge County,Virginia","Hickman County,Kentucky",34875,1037749
+52,"Rockbridge County,Virginia","Hopkins County,Kentucky",29955,886410
+53,"Rockbridge County,Virginia","Jackson County,Kentucky",22719,612823
+54,"Rockbridge County,Virginia","Jefferson County,Kentucky",22946,676979
+55,"Rockbridge County,Virginia","Jessamine County,Kentucky",20682,590274
+56,"Rockbridge County,Virginia","Johnson County,Kentucky",16511,469719
+57,"Rockbridge County,Virginia","Kenton County,Kentucky",22236,611586
+58,"Rockbridge County,Virginia","Knott County,Kentucky",18092,459561
+59,"Rockbridge County,Virginia","Knox County,Kentucky",20257,523041
+60,"Rockbridge County,Virginia","Larue County,Kentucky",24880,711941
+61,"Rockbridge County,Virginia","Laurel County,Kentucky",22152,557868
+62,"Rockbridge County,Virginia","Lawrence County,Kentucky",15652,441143
+63,"Rockbridge County,Virginia","Lee County,Kentucky",20891,558551
+64,"Rockbridge County,Virginia","Leslie County,Kentucky",19464,485954
+65,"Rockbridge County,Virginia","Letcher County,Kentucky",16492,423108
+66,"Rockbridge County,Virginia","Lewis County,Kentucky",16932,478738
+67,"Rockbridge County,Virginia","Lincoln County,Kentucky",22528,632882
+68,"Rockbridge County,Virginia","Livingston County,Kentucky",32672,961909
+69,"Rockbridge County,Virginia","Logan County,Kentucky",29345,849235
+70,"Rockbridge County,Virginia","Lyon County,Kentucky",32820,965920
+71,"Rockbridge County,Virginia","McCracken County,Kentucky",32997,989149
+72,"Rockbridge County,Virginia","McCreary County,Kentucky",21882,615802
+73,"Rockbridge County,Virginia","Madison County,Kentucky",20212,579834
+74,"Rockbridge County,Virginia","Magoffin County,Kentucky",17478,490398
+75,"Rockbridge County,Virginia","Marion County,Kentucky",23257,673550
+76,"Rockbridge County,Virginia","Marshall County,Kentucky",32412,972720
+77,"Rockbridge County,Virginia","Martin County,Kentucky",16766,422867
+78,"Rockbridge County,Virginia","Mason County,Kentucky",18727,522545
+79,"Rockbridge County,Virginia","Meade County,Kentucky",25407,749294
+80,"Rockbridge County,Virginia","Menifee County,Kentucky",18170,514562
+81,"Rockbridge County,Virginia","Mercer County,Kentucky",21634,629261
+82,"Rockbridge County,Virginia","Metcalfe County,Kentucky",26263,758543
+83,"Rockbridge County,Virginia","Monroe County,Kentucky",26316,730046
+84,"Rockbridge County,Virginia","Montgomery County,Kentucky",17867,521039
+85,"Rockbridge County,Virginia","Morgan County,Kentucky",17948,490278
+86,"Rockbridge County,Virginia","Muhlenberg County,Kentucky",28815,852886
+87,"Rockbridge County,Virginia","Nelson County,Kentucky",22865,672622
+88,"Rockbridge County,Virginia","Nicholas County,Kentucky",19545,548923
+89,"Rockbridge County,Virginia","Ohio County,Kentucky",27729,820476
+90,"Rockbridge County,Virginia","Oldham County,Kentucky",23018,688860
+91,"Rockbridge County,Virginia","Owen County,Kentucky",22073,644504
+92,"Rockbridge County,Virginia","Owsley County,Kentucky",22037,578527
+93,"Rockbridge County,Virginia","Pendleton County,Kentucky",21316,583923
+94,"Rockbridge County,Virginia","Perry County,Kentucky",19066,479985
+95,"Rockbridge County,Virginia","Pike County,Kentucky",16962,388113
+96,"Rockbridge County,Virginia","Powell County,Kentucky",19310,550785
+97,"Rockbridge County,Virginia","Robertson County,Kentucky",19462,548429
+98,"Rockbridge County,Virginia","Rockcastle County,Kentucky",21646,620976
+99,"Rockbridge County,Virginia","Rowan County,Kentucky",16196,474706
+100,"Rockbridge County,Virginia","Russell County,Kentucky",25211,712262
+101,"Rockbridge County,Virginia","Scott County,Kentucky",20048,596837
+102,"Rockbridge County,Virginia","Shelby County,Kentucky",21875,648113
+103,"Rockbridge County,Virginia","Simpson County,Kentucky",28865,816521
+104,"Rockbridge County,Virginia","Spencer County,Kentucky",22404,653961
+105,"Rockbridge County,Virginia","Taylor County,Kentucky",24547,705046
+106,"Rockbridge County,Virginia","Todd County,Kentucky",29882,880592
+107,"Rockbridge County,Virginia","Trigg County,Kentucky",30373,905005
+108,"Rockbridge County,Virginia","Trimble County,Kentucky",24091,694900
+109,"Rockbridge County,Virginia","Union County,Kentucky",32154,935315
+110,"Rockbridge County,Virginia","Warren County,Kentucky",27961,822241
+111,"Rockbridge County,Virginia","Washington County,Kentucky",22875,657858
+112,"Rockbridge County,Virginia","Wayne County,Kentucky",24386,662933
+113,"Rockbridge County,Virginia","Webster County,Kentucky",31064,914499
+114,"Rockbridge County,Virginia","Whitley County,Kentucky",20486,600565
+115,"Rockbridge County,Virginia","Wolfe County,Kentucky",19043,513640
+116,"Rockbridge County,Virginia","Woodford County,Kentucky",20267,599473
+117,"Rockbridge County,Virginia","Adams County,Ohio",18820,525101
+118,"Rockbridge County,Virginia","Allen County,Ohio",25552,700519
+119,"Rockbridge County,Virginia","Ashland County,Ohio",23296,654410
+120,"Rockbridge County,Virginia","Ashtabula County,Ohio",25327,710214
+121,"Rockbridge County,Virginia","Athens County,Ohio",15228,430700
+122,"Rockbridge County,Virginia","Auglaize County,Ohio",24802,717218
+123,"Rockbridge County,Virginia","Belmont County,Ohio",19047,564232
+124,"Rockbridge County,Virginia","Brown County,Ohio",20064,552029
+125,"Rockbridge County,Virginia","Butler County,Ohio",23177,634054
+126,"Rockbridge County,Virginia","Carroll County,Ohio",20977,601118
+127,"Rockbridge County,Virginia","Champaign County,Ohio",22106,619316
+128,"Rockbridge County,Virginia","Clark County,Ohio",20785,578860
+129,"Rockbridge County,Virginia","Clermont County,Ohio",20898,583125
+130,"Rockbridge County,Virginia","Clinton County,Ohio",20289,566542
+131,"Rockbridge County,Virginia","Columbiana County,Ohio",21930,562146
+132,"Rockbridge County,Virginia","Coshocton County,Ohio",19612,572235
+133,"Rockbridge County,Virginia","Crawford County,Ohio",23904,665570
+134,"Rockbridge County,Virginia","Cuyahoga County,Ohio",23013,686522
+135,"Rockbridge County,Virginia","Darke County,Ohio",23900,674265
+136,"Rockbridge County,Virginia","Defiance County,Ohio",28988,778839
+137,"Rockbridge County,Virginia","Delaware County,Ohio",21058,598307
+138,"Rockbridge County,Virginia","Fairfield County,Ohio",18588,525401
+139,"Rockbridge County,Virginia","Fayette County,Ohio",18853,537005
+140,"Rockbridge County,Virginia","Franklin County,Ohio",19588,555256
+141,"Rockbridge County,Virginia","Fulton County,Ohio",28994,821139
+142,"Rockbridge County,Virginia","Gallia County,Ohio",14166,396117
+143,"Rockbridge County,Virginia","Geauga County,Ohio",24084,712240
+144,"Rockbridge County,Virginia","Greene County,Ohio",19723,570158
+145,"Rockbridge County,Virginia","Guernsey County,Ohio",17162,510154
+146,"Rockbridge County,Virginia","Hamilton County,Ohio",22678,644632
+147,"Rockbridge County,Virginia","Hancock County,Ohio",25081,706662
+148,"Rockbridge County,Virginia","Hardin County,Ohio",24063,656348
+149,"Rockbridge County,Virginia","Harrison County,Ohio",19982,583184
+150,"Rockbridge County,Virginia","Henry County,Ohio",27794,778284
+151,"Rockbridge County,Virginia","Highland County,Ohio",19357,525115
+152,"Rockbridge County,Virginia","Hocking County,Ohio",17030,481364
+153,"Rockbridge County,Virginia","Holmes County,Ohio",20671,595119
+154,"Rockbridge County,Virginia","Huron County,Ohio",25194,696039
+155,"Rockbridge County,Virginia","Jackson County,Ohio",15344,435666
+156,"Rockbridge County,Virginia","Jefferson County,Ohio",20677,537117
+157,"Rockbridge County,Virginia","Knox County,Ohio",21400,614711
+158,"Rockbridge County,Virginia","Lawrence County,Ohio",14869,401880
+159,"Rockbridge County,Virginia","Licking County,Ohio",20533,552411
+160,"Rockbridge County,Virginia","Logan County,Ohio",23084,650625
+161,"Rockbridge County,Virginia","Lorain County,Ohio",24237,716346
+162,"Rockbridge County,Virginia","Lucas County,Ohio",28716,794161
+163,"Rockbridge County,Virginia","Madison County,Ohio",20554,560090
+164,"Rockbridge County,Virginia","Mahoning County,Ohio",21813,600206
+165,"Rockbridge County,Virginia","Marion County,Ohio",22464,624400
+166,"Rockbridge County,Virginia","Medina County,Ohio",22686,672553
+167,"Rockbridge County,Virginia","Meigs County,Ohio",14109,401671
+168,"Rockbridge County,Virginia","Mercer County,Ohio",26038,744152
+169,"Rockbridge County,Virginia","Miami County,Ohio",22388,639657
+170,"Rockbridge County,Virginia","Monroe County,Ohio",18098,499346
+171,"Rockbridge County,Virginia","Montgomery County,Ohio",21757,617613
+172,"Rockbridge County,Virginia","Morgan County,Ohio",17104,485993
+173,"Rockbridge County,Virginia","Morrow County,Ohio",21865,621128
+174,"Rockbridge County,Virginia","Muskingum County,Ohio",18008,538145
+175,"Rockbridge County,Virginia","Noble County,Ohio",16604,482506
+176,"Rockbridge County,Virginia","Paulding County,Ohio",28089,776424
+177,"Rockbridge County,Virginia","Perry County,Ohio",18446,496121
+178,"Rockbridge County,Virginia","Pickaway County,Ohio",18293,517104
+179,"Rockbridge County,Virginia","Pike County,Ohio",16790,474973
+180,"Rockbridge County,Virginia","Portage County,Ohio",22535,668104
+181,"Rockbridge County,Virginia","Preble County,Ohio",23377,646191
+182,"Rockbridge County,Virginia","Putnam County,Ohio",26675,732877
+183,"Rockbridge County,Virginia","Richland County,Ohio",22895,656366
+184,"Rockbridge County,Virginia","Ross County,Ohio",17038,483411
+185,"Rockbridge County,Virginia","Sandusky County,Ohio",26837,725357
+186,"Rockbridge County,Virginia","Scioto County,Ohio",16674,459153
+187,"Rockbridge County,Virginia","Seneca County,Ohio",25454,699242
+188,"Rockbridge County,Virginia","Shelby County,Ohio",23427,675943
+189,"Rockbridge County,Virginia","Stark County,Ohio",20836,616353
+190,"Rockbridge County,Virginia","Summit County,Ohio",21594,642141
+191,"Rockbridge County,Virginia","Trumbull County,Ohio",22971,637670
+192,"Rockbridge County,Virginia","Tuscarawas County,Ohio",19036,556941
+193,"Rockbridge County,Virginia","Union County,Ohio",21588,600856
+194,"Rockbridge County,Virginia","Van Wert County,Ohio",26786,743388
+195,"Rockbridge County,Virginia","Vinton County,Ohio",17239,461171
+196,"Rockbridge County,Virginia","Warren County,Ohio",21095,600600
+197,"Rockbridge County,Virginia","Washington County,Ohio",15463,440442
+198,"Rockbridge County,Virginia","Wayne County,Ohio",21807,619231
+199,"Rockbridge County,Virginia","Williams County,Ohio",30165,802356
+200,"Rockbridge County,Virginia","Wood County,Ohio",26479,748270
+201,"Rockbridge County,Virginia","Wyandot County,Ohio",24051,670798
+202,"Rockbridge County,Virginia","Accomack County,Virginia",18117,498038
+203,"Rockbridge County,Virginia","Albemarle County,Virginia",4267,110537
+204,"Rockbridge County,Virginia","Alleghany County,Virginia",3258,79473
+205,"Rockbridge County,Virginia","Amelia County,Virginia",8933,201354
+206,"Rockbridge County,Virginia","Amherst County,Virginia",4230,69225
+207,"Rockbridge County,Virginia","Appomattox County,Virginia",5823,107984
+208,"Rockbridge County,Virginia","Arlington County,Virginia",10951,310847
+209,"Rockbridge County,Virginia","Augusta County,Virginia",3647,72696
+210,"Rockbridge County,Virginia","Bath County,Virginia",3779,72800
+211,"Rockbridge County,Virginia","Bedford County,Virginia",5643,96299
+212,"Rockbridge County,Virginia","Bland County,Virginia",8194,220366
+213,"Rockbridge County,Virginia","Botetourt County,Virginia",3219,61618
+214,"Rockbridge County,Virginia","Brunswick County,Virginia",11476,251027
+215,"Rockbridge County,Virginia","Buchanan County,Virginia",13950,354825
+216,"Rockbridge County,Virginia","Buckingham County,Virginia",6106,118919
+217,"Rockbridge County,Virginia","Campbell County,Virginia",5747,110456
+218,"Rockbridge County,Virginia","Caroline County,Virginia",9606,279383
+219,"Rockbridge County,Virginia","Carroll County,Virginia",8316,225782
+220,"Rockbridge County,Virginia","Charles City County,Virginia",9707,276418
+221,"Rockbridge County,Virginia","Charlotte County,Virginia",7708,161505
+222,"Rockbridge County,Virginia","Chesterfield County,Virginia",8843,254201
+223,"Rockbridge County,Virginia","Clarke County,Virginia",8447,237595
+224,"Rockbridge County,Virginia","Craig County,Virginia",6060,117945
+225,"Rockbridge County,Virginia","Culpeper County,Virginia",8064,199754
+226,"Rockbridge County,Virginia","Cumberland County,Virginia",7316,146922
+227,"Rockbridge County,Virginia","Dickenson County,Virginia",14660,373002
+228,"Rockbridge County,Virginia","Dinwiddie County,Virginia",10706,244415
+229,"Rockbridge County,Virginia","Essex County,Virginia",11424,303425
+230,"Rockbridge County,Virginia","Fairfax County,Virginia",10574,301123
+231,"Rockbridge County,Virginia","Fauquier County,Virginia",8885,258847
+232,"Rockbridge County,Virginia","Floyd County,Virginia",6842,167329
+233,"Rockbridge County,Virginia","Fluvanna County,Virginia",5945,162709
+234,"Rockbridge County,Virginia","Franklin County,Virginia",6180,145774
+235,"Rockbridge County,Virginia","Frederick County,Virginia",7899,225322
+236,"Rockbridge County,Virginia","Giles County,Virginia",6983,175481
+237,"Rockbridge County,Virginia","Gloucester County,Virginia",11877,330606
+238,"Rockbridge County,Virginia","Goochland County,Virginia",6848,193320
+239,"Rockbridge County,Virginia","Grayson County,Virginia",9647,241962
+240,"Rockbridge County,Virginia","Greene County,Virginia",6260,146122
+241,"Rockbridge County,Virginia","Greensville County,Virginia",12006,353384
+242,"Rockbridge County,Virginia","Halifax County,Virginia",9068,182162
+243,"Rockbridge County,Virginia","Hanover County,Virginia",8055,234427
+244,"Rockbridge County,Virginia","Henrico County,Virginia",8566,247387
+245,"Rockbridge County,Virginia","Henry County,Virginia",7589,180736
+246,"Rockbridge County,Virginia","Highland County,Virginia",5911,120592
+247,"Rockbridge County,Virginia","Isle of Wight County,Virginia",12818,351963
+248,"Rockbridge County,Virginia","James City County,Virginia",10943,317189
+249,"Rockbridge County,Virginia","King and Queen County,Virginia",10601,292773
+250,"Rockbridge County,Virginia","King George County,Virginia",10719,307369
+251,"Rockbridge County,Virginia","King William County,Virginia",9288,262695
+252,"Rockbridge County,Virginia","Lancaster County,Virginia",13081,345780
+253,"Rockbridge County,Virginia","Lee County,Virginia",15155,404656
+254,"Rockbridge County,Virginia","Loudoun County,Virginia",9943,273462
+255,"Rockbridge County,Virginia","Louisa County,Virginia",6506,176415
+256,"Rockbridge County,Virginia","Lunenburg County,Virginia",9480,202789
+257,"Rockbridge County,Virginia","Madison County,Virginia",7180,175862
+258,"Rockbridge County,Virginia","Mathews County,Virginia",12702,354029
+259,"Rockbridge County,Virginia","Mecklenburg County,Virginia",10471,215913
+260,"Rockbridge County,Virginia","Middlesex County,Virginia",11479,326806
+261,"Rockbridge County,Virginia","Montgomery County,Virginia",5547,139752
+262,"Rockbridge County,Virginia","Nelson County,Virginia",4771,80916
+263,"Rockbridge County,Virginia","New Kent County,Virginia",10379,291103
+264,"Rockbridge County,Virginia","Northampton County,Virginia",15360,433852
+265,"Rockbridge County,Virginia","Northumberland County,Virginia",13121,344292
+266,"Rockbridge County,Virginia","Nottoway County,Virginia",8973,203168
+267,"Rockbridge County,Virginia","Orange County,Virginia",7468,184523
+268,"Rockbridge County,Virginia","Page County,Virginia",6113,159647
+269,"Rockbridge County,Virginia","Patrick County,Virginia",8962,204232
+270,"Rockbridge County,Virginia","Pittsylvania County,Virginia",8317,182083
+271,"Rockbridge County,Virginia","Powhatan County,Virginia",8102,218542
+272,"Rockbridge County,Virginia","Prince Edward County,Virginia",7588,160504
+273,"Rockbridge County,Virginia","Prince George County,Virginia",10353,291217
+274,"Rockbridge County,Virginia","Prince William County,Virginia",8985,264951
+275,"Rockbridge County,Virginia","Pulaski County,Virginia",6274,162385
+276,"Rockbridge County,Virginia","Rappahannock County,Virginia",7944,196134
+277,"Rockbridge County,Virginia","Richmond County,Virginia",11821,316936
+278,"Rockbridge County,Virginia","Roanoke County,Virginia",4538,104691
+279,"Rockbridge County,Virginia","Rockingham County,Virginia",5153,131998
+280,"Rockbridge County,Virginia","Russell County,Virginia",13116,338162
+281,"Rockbridge County,Virginia","Scott County,Virginia",13728,365385
+282,"Rockbridge County,Virginia","Shenandoah County,Virginia",5657,162101
+283,"Rockbridge County,Virginia","Smyth County,Virginia",9311,249106
+284,"Rockbridge County,Virginia","Southampton County,Virginia",12384,349499
+285,"Rockbridge County,Virginia","Spotsylvania County,Virginia",8522,218254
+286,"Rockbridge County,Virginia","Stafford County,Virginia",9903,242547
+287,"Rockbridge County,Virginia","Surry County,Virginia",11686,316050
+288,"Rockbridge County,Virginia","Sussex County,Virginia",11048,319741
+289,"Rockbridge County,Virginia","Tazewell County,Virginia",10771,289183
+290,"Rockbridge County,Virginia","Warren County,Virginia",7559,206694
+291,"Rockbridge County,Virginia","Washington County,Virginia",10704,288572
+292,"Rockbridge County,Virginia","Westmoreland County,Virginia",11694,324194
+293,"Rockbridge County,Virginia","Wise County,Virginia",14567,379504
+294,"Rockbridge County,Virginia","Wythe County,Virginia",7565,201091
+295,"Rockbridge County,Virginia","York County,Virginia",12230,347963
+296,"Rockbridge County,Virginia","Alexandria City County,Virginia",11154,323493
+297,"Rockbridge County,Virginia","Bedford City County,Virginia",4715,81363
+298,"Rockbridge County,Virginia","Bristol City County,Virginia",11179,314290
+299,"Rockbridge County,Virginia","Buena Vista City County,Virginia",1589,20593
+300,"Rockbridge County,Virginia","Charlottesville City County,Virginia",4736,125752
+301,"Rockbridge County,Virginia","Chesapeake City County,Virginia",13694,400869
+302,"Rockbridge County,Virginia","Clifton Forge City County,Virginia",2160,48291
+303,"Rockbridge County,Virginia","Colonial Heights City County,Virginia",9403,270094
+304,"Rockbridge County,Virginia","Covington City County,Virginia",2903,66633
+305,"Rockbridge County,Virginia","Danville City County,Virginia",8916,198426
+306,"Rockbridge County,Virginia","Emporia City County,Virginia",11713,339978
+307,"Rockbridge County,Virginia","Fairfax City County,Virginia",10117,290698
+308,"Rockbridge County,Virginia","Falls Church City County,Virginia",10449,305171
+309,"Rockbridge County,Virginia","Franklin City County,Virginia",12931,357353
+310,"Rockbridge County,Virginia","Fredericksburg City County,Virginia",9655,227913
+311,"Rockbridge County,Virginia","Galax City County,Virginia",8939,231648
+312,"Rockbridge County,Virginia","Hampton City County,Virginia",12180,357669
+313,"Rockbridge County,Virginia","Harrisonburg City County,Virginia",4212,111894
+314,"Rockbridge County,Virginia","Hopewell City County,Virginia",9439,269060
+315,"Rockbridge County,Virginia","Lexington City County,Virginia",711,9185
+316,"Rockbridge County,Virginia","Lynchburg City County,Virginia",4752,81702
+317,"Rockbridge County,Virginia","Manassas City County,Virginia",9212,269895
+318,"Rockbridge County,Virginia","Manassas Park City County,Virginia",9715,276238
+319,"Rockbridge County,Virginia","Martinsville City County,Virginia",7742,175838
+320,"Rockbridge County,Virginia","Newport News City County,Virginia",11737,344155
+321,"Rockbridge County,Virginia","Norfolk City County,Virginia",13487,383085
+322,"Rockbridge County,Virginia","Norton City County,Virginia",14091,370394
+323,"Rockbridge County,Virginia","Petersburg City County,Virginia",9274,271081
+324,"Rockbridge County,Virginia","Poquoson City County,Virginia",12409,354732
+325,"Rockbridge County,Virginia","Portsmouth City County,Virginia",13426,391906
+326,"Rockbridge County,Virginia","Radford County,Virginia",5910,149596
+327,"Rockbridge County,Virginia","Richmond City County,Virginia",8142,235197
+328,"Rockbridge County,Virginia","Roanoke City County,Virginia",4076,96133
+329,"Rockbridge County,Virginia","Salem City County,Virginia",3906,94604
+330,"Rockbridge County,Virginia","South Boston City County,Virginia",9071,180981
+331,"Rockbridge County,Virginia","Staunton City County,Virginia",3029,73029
+332,"Rockbridge County,Virginia","Suffolk City County,Virginia",13661,366687
+333,"Rockbridge County,Virginia","Virginia Beach City County,Virginia",14048,406344
+334,"Rockbridge County,Virginia","Waynesboro City County,Virginia",3367,85747
+335,"Rockbridge County,Virginia","Williamsburg City County,Virginia",10781,316404
+336,"Rockbridge County,Virginia","Winchester City County,Virginia",7778,221466
+337,"Rockbridge County,Virginia","Barbour County,West Virginia",12823,259010
+338,"Rockbridge County,Virginia","Berkeley County,West Virginia",9516,268673
+339,"Rockbridge County,Virginia","Boone County,West Virginia",11617,279178
+340,"Rockbridge County,Virginia","Braxton County,West Virginia",11315,259853
+341,"Rockbridge County,Virginia","Brooke County,West Virginia",18983,500667
+342,"Rockbridge County,Virginia","Cabell County,West Virginia",13185,375084
+343,"Rockbridge County,Virginia","Calhoun County,West Virginia",13086,313804
+344,"Rockbridge County,Virginia","Clay County,West Virginia",11350,250637
+345,"Rockbridge County,Virginia","Doddridge County,West Virginia",14829,345730
+346,"Rockbridge County,Virginia","Fayette County,West Virginia",8739,197376
+347,"Rockbridge County,Virginia","Gilmer County,West Virginia",12883,309533
+348,"Rockbridge County,Virginia","Grant County,West Virginia",9608,251161
+349,"Rockbridge County,Virginia","Greenbrier County,West Virginia",7095,156601
+350,"Rockbridge County,Virginia","Hampshire County,West Virginia",9635,239577
+351,"Rockbridge County,Virginia","Hancock County,West Virginia",20610,528014
+352,"Rockbridge County,Virginia","Hardy County,West Virginia",8856,222490
+353,"Rockbridge County,Virginia","Harrison County,West Virginia",13859,355244
+354,"Rockbridge County,Virginia","Jackson County,West Virginia",12504,354895
+355,"Rockbridge County,Virginia","Jefferson County,West Virginia",9567,256079
+356,"Rockbridge County,Virginia","Kanawha County,West Virginia",10267,276877
+357,"Rockbridge County,Virginia","Lewis County,West Virginia",12488,308714
+358,"Rockbridge County,Virginia","Lincoln County,West Virginia",13849,352762
+359,"Rockbridge County,Virginia","Logan County,West Virginia",13408,309668
+360,"Rockbridge County,Virginia","McDowell County,West Virginia",11787,284119
+361,"Rockbridge County,Virginia","Marion County,West Virginia",15004,382412
+362,"Rockbridge County,Virginia","Marshall County,West Virginia",19971,495111
+363,"Rockbridge County,Virginia","Mason County,West Virginia",12661,360991
+364,"Rockbridge County,Virginia","Mercer County,West Virginia",8481,240109
+365,"Rockbridge County,Virginia","Mineral County,West Virginia",11082,262684
+366,"Rockbridge County,Virginia","Mingo County,West Virginia",13987,373602
+367,"Rockbridge County,Virginia","Monongalia County,West Virginia",14784,375419
+368,"Rockbridge County,Virginia","Monroe County,West Virginia",6029,142922
+369,"Rockbridge County,Virginia","Morgan County,West Virginia",9762,269799
+370,"Rockbridge County,Virginia","Nicholas County,West Virginia",8934,210026
+371,"Rockbridge County,Virginia","Ohio County,West Virginia",18890,509613
+372,"Rockbridge County,Virginia","Pendleton County,West Virginia",8049,168688
+373,"Rockbridge County,Virginia","Pleasants County,West Virginia",15987,452747
+374,"Rockbridge County,Virginia","Pocahontas County,West Virginia",8313,151294
+375,"Rockbridge County,Virginia","Preston County,West Virginia",13788,329612
+376,"Rockbridge County,Virginia","Putnam County,West Virginia",11442,326609
+377,"Rockbridge County,Virginia","Raleigh County,West Virginia",7292,202058
+378,"Rockbridge County,Virginia","Randolph County,West Virginia",10839,212404
+379,"Rockbridge County,Virginia","Ritchie County,West Virginia",15559,356179
+380,"Rockbridge County,Virginia","Roane County,West Virginia",14130,383710
+381,"Rockbridge County,Virginia","Summers County,West Virginia",8013,181936
+382,"Rockbridge County,Virginia","Taylor County,West Virginia",14295,294318
+383,"Rockbridge County,Virginia","Tucker County,West Virginia",12268,312808
+384,"Rockbridge County,Virginia","Tyler County,West Virginia",17584,424051
+385,"Rockbridge County,Virginia","Upshur County,West Virginia",13434,248046
+386,"Rockbridge County,Virginia","Wayne County,West Virginia",14776,407711
+387,"Rockbridge County,Virginia","Webster County,West Virginia",11686,254514
+388,"Rockbridge County,Virginia","Wetzel County,West Virginia",16538,406727
+389,"Rockbridge County,Virginia","Wirt County,West Virginia",14771,412233
+390,"Rockbridge County,Virginia","Wood County,West Virginia",14285,413922
+391,"Rockbridge County,Virginia","Wyoming County,West Virginia",9237,242000

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Rockingham County,Virginia","Adair County,Kentucky",29615,779339
+1,"Rockingham County,Virginia","Allen County,Kentucky",31011,899149
+2,"Rockingham County,Virginia","Anderson County,Kentucky",25243,742125
+3,"Rockingham County,Virginia","Ballard County,Kentucky",37916,1134404
+4,"Rockingham County,Virginia","Barren County,Kentucky",30801,858094
+5,"Rockingham County,Virginia","Bath County,Kentucky",20890,613306
+6,"Rockingham County,Virginia","Bell County,Kentucky",22110,580646
+7,"Rockingham County,Virginia","Boone County,Kentucky",26703,734699
+8,"Rockingham County,Virginia","Bourbon County,Kentucky",22804,659723
+9,"Rockingham County,Virginia","Boyd County,Kentucky",17566,507630
+10,"Rockingham County,Virginia","Boyle County,Kentucky",26472,746011
+11,"Rockingham County,Virginia","Bracken County,Kentucky",23215,653806
+12,"Rockingham County,Virginia","Breathitt County,Kentucky",23735,616409
+13,"Rockingham County,Virginia","Breckinridge County,Kentucky",30776,894806
+14,"Rockingham County,Virginia","Bullitt County,Kentucky",27346,815925
+15,"Rockingham County,Virginia","Butler County,Kentucky",31441,916804
+16,"Rockingham County,Virginia","Caldwell County,Kentucky",34333,1022749
+17,"Rockingham County,Virginia","Calloway County,Kentucky",35756,1066263
+18,"Rockingham County,Virginia","Campbell County,Kentucky",24915,693677
+19,"Rockingham County,Virginia","Carlisle County,Kentucky",38373,1149772
+20,"Rockingham County,Virginia","Carroll County,Kentucky",27787,789939
+21,"Rockingham County,Virginia","Carter County,Kentucky",18730,537727
+22,"Rockingham County,Virginia","Casey County,Kentucky",27966,777516
+23,"Rockingham County,Virginia","Christian County,Kentucky",32649,987243
+24,"Rockingham County,Virginia","Clay County,Kentucky",24683,640988
+25,"Rockingham County,Virginia","Clinton County,Kentucky",28058,778554
+26,"Rockingham County,Virginia","Crittenden County,Kentucky",35913,1055819
+27,"Rockingham County,Virginia","Cumberland County,Kentucky",28938,799222
+28,"Rockingham County,Virginia","Daviess County,Kentucky",32464,963246
+29,"Rockingham County,Virginia","Edmonson County,Kentucky",30881,904678
+30,"Rockingham County,Virginia","Elliott County,Kentucky",20061,563497
+31,"Rockingham County,Virginia","Estill County,Kentucky",23883,675621
+32,"Rockingham County,Virginia","Fayette County,Kentucky",23050,679617
+33,"Rockingham County,Virginia","Fleming County,Kentucky",21316,616491
+34,"Rockingham County,Virginia","Floyd County,Kentucky",21699,614895
+35,"Rockingham County,Virginia","Franklin County,Kentucky",25088,728534
+36,"Rockingham County,Virginia","Fulton County,Kentucky",38777,1170736
+37,"Rockingham County,Virginia","Gallatin County,Kentucky",26785,780598
+38,"Rockingham County,Virginia","Garrard County,Kentucky",25655,726771
+39,"Rockingham County,Virginia","Grant County,Kentucky",25584,754705
+40,"Rockingham County,Virginia","Graves County,Kentucky",37397,1122479
+41,"Rockingham County,Virginia","Grayson County,Kentucky",29768,873440
+42,"Rockingham County,Virginia","Green County,Kentucky",29548,838645
+43,"Rockingham County,Virginia","Greenup County,Kentucky",19341,548756
+44,"Rockingham County,Virginia","Hancock County,Kentucky",31572,927699
+45,"Rockingham County,Virginia","Hardin County,Kentucky",28645,835572
+46,"Rockingham County,Virginia","Harlan County,Kentucky",21185,557272
+47,"Rockingham County,Virginia","Harrison County,Kentucky",24375,692823
+48,"Rockingham County,Virginia","Hart County,Kentucky",29444,863201
+49,"Rockingham County,Virginia","Henderson County,Kentucky",34271,1015676
+50,"Rockingham County,Virginia","Henry County,Kentucky",26689,772252
+51,"Rockingham County,Virginia","Hickman County,Kentucky",38406,1151064
+52,"Rockingham County,Virginia","Hopkins County,Kentucky",33792,997217
+53,"Rockingham County,Virginia","Jackson County,Kentucky",26555,677407
+54,"Rockingham County,Virginia","Jefferson County,Kentucky",26783,787786
+55,"Rockingham County,Virginia","Jessamine County,Kentucky",24519,701081
+56,"Rockingham County,Virginia","Johnson County,Kentucky",20347,580526
+57,"Rockingham County,Virginia","Kenton County,Kentucky",26072,722393
+58,"Rockingham County,Virginia","Knott County,Kentucky",21275,559159
+59,"Rockingham County,Virginia","Knox County,Kentucky",23441,622638
+60,"Rockingham County,Virginia","Larue County,Kentucky",28716,822748
+61,"Rockingham County,Virginia","Laurel County,Kentucky",25335,657466
+62,"Rockingham County,Virginia","Lawrence County,Kentucky",19489,551950
+63,"Rockingham County,Virginia","Lee County,Kentucky",24727,669358
+64,"Rockingham County,Virginia","Leslie County,Kentucky",22647,585552
+65,"Rockingham County,Virginia","Letcher County,Kentucky",19675,522706
+66,"Rockingham County,Virginia","Lewis County,Kentucky",20769,589545
+67,"Rockingham County,Virginia","Lincoln County,Kentucky",26365,743689
+68,"Rockingham County,Virginia","Livingston County,Kentucky",36247,1088343
+69,"Rockingham County,Virginia","Logan County,Kentucky",33081,940143
+70,"Rockingham County,Virginia","Lyon County,Kentucky",36003,1065517
+71,"Rockingham County,Virginia","McCracken County,Kentucky",36528,1102464
+72,"Rockingham County,Virginia","McCreary County,Kentucky",25065,715400
+73,"Rockingham County,Virginia","Madison County,Kentucky",24048,690640
+74,"Rockingham County,Virginia","Magoffin County,Kentucky",21315,601205
+75,"Rockingham County,Virginia","Marion County,Kentucky",27094,784357
+76,"Rockingham County,Virginia","Marshall County,Kentucky",35942,1086036
+77,"Rockingham County,Virginia","Martin County,Kentucky",20603,533674
+78,"Rockingham County,Virginia","Mason County,Kentucky",22564,633352
+79,"Rockingham County,Virginia","Meade County,Kentucky",29243,860101
+80,"Rockingham County,Virginia","Menifee County,Kentucky",22006,625369
+81,"Rockingham County,Virginia","Mercer County,Kentucky",25471,740068
+82,"Rockingham County,Virginia","Metcalfe County,Kentucky",30271,809604
+83,"Rockingham County,Virginia","Monroe County,Kentucky",29499,829643
+84,"Rockingham County,Virginia","Montgomery County,Kentucky",21703,631846
+85,"Rockingham County,Virginia","Morgan County,Kentucky",21785,601085
+86,"Rockingham County,Virginia","Muhlenberg County,Kentucky",32652,963693
+87,"Rockingham County,Virginia","Nelson County,Kentucky",26702,783429
+88,"Rockingham County,Virginia","Nicholas County,Kentucky",23381,659730
+89,"Rockingham County,Virginia","Ohio County,Kentucky",31565,931283
+90,"Rockingham County,Virginia","Oldham County,Kentucky",26854,799667
+91,"Rockingham County,Virginia","Owen County,Kentucky",25909,755311
+92,"Rockingham County,Virginia","Owsley County,Kentucky",25872,654283
+93,"Rockingham County,Virginia","Pendleton County,Kentucky",25153,694730
+94,"Rockingham County,Virginia","Perry County,Kentucky",22249,579582
+95,"Rockingham County,Virginia","Pike County,Kentucky",20799,498920
+96,"Rockingham County,Virginia","Powell County,Kentucky",23147,661592
+97,"Rockingham County,Virginia","Robertson County,Kentucky",23299,659236
+98,"Rockingham County,Virginia","Rockcastle County,Kentucky",25482,731783
+99,"Rockingham County,Virginia","Rowan County,Kentucky",20033,585513
+100,"Rockingham County,Virginia","Russell County,Kentucky",29220,763323
+101,"Rockingham County,Virginia","Scott County,Kentucky",23884,707644
+102,"Rockingham County,Virginia","Shelby County,Kentucky",25711,758920
+103,"Rockingham County,Virginia","Simpson County,Kentucky",32048,916119
+104,"Rockingham County,Virginia","Spencer County,Kentucky",26241,764768
+105,"Rockingham County,Virginia","Taylor County,Kentucky",28384,815853
+106,"Rockingham County,Virginia","Todd County,Kentucky",33065,980190
+107,"Rockingham County,Virginia","Trigg County,Kentucky",33556,1004602
+108,"Rockingham County,Virginia","Trimble County,Kentucky",27928,805707
+109,"Rockingham County,Virginia","Union County,Kentucky",35990,1046122
+110,"Rockingham County,Virginia","Warren County,Kentucky",31797,933047
+111,"Rockingham County,Virginia","Washington County,Kentucky",26712,768665
+112,"Rockingham County,Virginia","Wayne County,Kentucky",27569,762531
+113,"Rockingham County,Virginia","Webster County,Kentucky",34901,1025306
+114,"Rockingham County,Virginia","Whitley County,Kentucky",23669,700162
+115,"Rockingham County,Virginia","Wolfe County,Kentucky",22879,624447
+116,"Rockingham County,Virginia","Woodford County,Kentucky",24104,710280
+117,"Rockingham County,Virginia","Adams County,Ohio",22656,635908
+118,"Rockingham County,Virginia","Allen County,Ohio",27421,745609
+119,"Rockingham County,Virginia","Ashland County,Ohio",23111,600529
+120,"Rockingham County,Virginia","Ashtabula County,Ohio",21108,554998
+121,"Rockingham County,Virginia","Athens County,Ohio",18155,439035
+122,"Rockingham County,Virginia","Auglaize County,Ohio",27034,749303
+123,"Rockingham County,Virginia","Belmont County,Ohio",15655,406070
+124,"Rockingham County,Virginia","Brown County,Ohio",23901,662836
+125,"Rockingham County,Virginia","Butler County,Ohio",27014,744861
+126,"Rockingham County,Virginia","Carroll County,Ohio",18600,441929
+127,"Rockingham County,Virginia","Champaign County,Ohio",24778,664198
+128,"Rockingham County,Virginia","Clark County,Ohio",23656,654769
+129,"Rockingham County,Virginia","Clermont County,Ohio",24735,693932
+130,"Rockingham County,Virginia","Clinton County,Ohio",24126,677349
+131,"Rockingham County,Virginia","Columbiana County,Ohio",17809,430450
+132,"Rockingham County,Virginia","Coshocton County,Ohio",20012,531520
+133,"Rockingham County,Virginia","Crawford County,Ohio",25020,671723
+134,"Rockingham County,Virginia","Cuyahoga County,Ohio",21104,552842
+135,"Rockingham County,Virginia","Darke County,Ohio",27232,752671
+136,"Rockingham County,Virginia","Defiance County,Ohio",29423,801806
+137,"Rockingham County,Virginia","Delaware County,Ohio",22932,630518
+138,"Rockingham County,Virginia","Fairfield County,Ohio",21027,567303
+139,"Rockingham County,Virginia","Fayette County,Ohio",22689,647812
+140,"Rockingham County,Virginia","Franklin County,Ohio",21627,594404
+141,"Rockingham County,Virginia","Fulton County,Ohio",27775,758657
+142,"Rockingham County,Virginia","Gallia County,Ohio",18003,506924
+143,"Rockingham County,Virginia","Geauga County,Ohio",20598,527661
+144,"Rockingham County,Virginia","Greene County,Ohio",23560,680965
+145,"Rockingham County,Virginia","Guernsey County,Ohio",17559,469579
+146,"Rockingham County,Virginia","Hamilton County,Ohio",26515,755439
+147,"Rockingham County,Virginia","Hancock County,Ohio",26955,738873
+148,"Rockingham County,Virginia","Hardin County,Ohio",25932,701439
+149,"Rockingham County,Virginia","Harrison County,Ohio",17616,444785
+150,"Rockingham County,Virginia","Henry County,Ohio",28229,748424
+151,"Rockingham County,Virginia","Highland County,Ohio",23194,635922
+152,"Rockingham County,Virginia","Hocking County,Ohio",19781,484939
+153,"Rockingham County,Virginia","Holmes County,Ohio",21071,554404
+154,"Rockingham County,Virginia","Huron County,Ohio",24388,630134
+155,"Rockingham County,Virginia","Jackson County,Ohio",19180,546473
+156,"Rockingham County,Virginia","Jefferson County,Ohio",16556,405420
+157,"Rockingham County,Virginia","Knox County,Ohio",21800,573996
+158,"Rockingham County,Virginia","Lawrence County,Ohio",18705,512687
+159,"Rockingham County,Virginia","Licking County,Ohio",21186,555067
+160,"Rockingham County,Virginia","Logan County,Ohio",24953,695716
+161,"Rockingham County,Virginia","Lorain County,Ohio",22156,582563
+162,"Rockingham County,Virginia","Lucas County,Ohio",26730,711507
+163,"Rockingham County,Virginia","Madison County,Ohio",22905,629125
+164,"Rockingham County,Virginia","Mahoning County,Ohio",17595,444990
+165,"Rockingham County,Virginia","Marion County,Ohio",24338,656611
+166,"Rockingham County,Virginia","Medina County,Ohio",21743,567648
+167,"Rockingham County,Virginia","Meigs County,Ohio",18121,431613
+168,"Rockingham County,Virginia","Mercer County,Ohio",28270,776237
+169,"Rockingham County,Virginia","Miami County,Ohio",25743,718103
+170,"Rockingham County,Virginia","Monroe County,Ohio",18049,404763
+171,"Rockingham County,Virginia","Montgomery County,Ohio",25594,728420
+172,"Rockingham County,Virginia","Morgan County,Ohio",18598,441382
+173,"Rockingham County,Virginia","Morrow County,Ohio",23761,606958
+174,"Rockingham County,Virginia","Muskingum County,Ohio",18405,497571
+175,"Rockingham County,Virginia","Noble County,Ohio",18078,438909
+176,"Rockingham County,Virginia","Paulding County,Ohio",29958,821515
+177,"Rockingham County,Virginia","Perry County,Ohio",20504,545514
+178,"Rockingham County,Virginia","Pickaway County,Ohio",21944,537880
+179,"Rockingham County,Virginia","Pike County,Ohio",20626,585780
+180,"Rockingham County,Virginia","Portage County,Ohio",19449,501004
+181,"Rockingham County,Virginia","Preble County,Ohio",26774,746261
+182,"Rockingham County,Virginia","Putnam County,Ohio",28544,777968
+183,"Rockingham County,Virginia","Richland County,Ohio",23667,621957
+184,"Rockingham County,Virginia","Ross County,Ohio",20874,594217
+185,"Rockingham County,Virginia","Sandusky County,Ohio",25017,670082
+186,"Rockingham County,Virginia","Scioto County,Ohio",20510,569960
+187,"Rockingham County,Virginia","Seneca County,Ohio",25748,679754
+188,"Rockingham County,Virginia","Shelby County,Ohio",26710,725964
+189,"Rockingham County,Virginia","Stark County,Ohio",20229,497137
+190,"Rockingham County,Virginia","Summit County,Ohio",20507,526819
+191,"Rockingham County,Virginia","Trumbull County,Ohio",18752,482454
+192,"Rockingham County,Virginia","Tuscarawas County,Ohio",19125,476068
+193,"Rockingham County,Virginia","Union County,Ohio",23457,645947
+194,"Rockingham County,Virginia","Van Wert County,Ohio",28655,788479
+195,"Rockingham County,Virginia","Vinton County,Ohio",20273,487477
+196,"Rockingham County,Virginia","Warren County,Ohio",24931,711407
+197,"Rockingham County,Virginia","Washington County,Ohio",16936,396846
+198,"Rockingham County,Virginia","Wayne County,Ohio",22207,578517
+199,"Rockingham County,Virginia","Williams County,Ohio",29020,790113
+200,"Rockingham County,Virginia","Wood County,Ohio",26915,718410
+201,"Rockingham County,Virginia","Wyandot County,Ohio",25925,703008
+202,"Rockingham County,Virginia","Accomack County,Virginia",18183,490772
+203,"Rockingham County,Virginia","Albemarle County,Virginia",4333,103272
+204,"Rockingham County,Virginia","Alleghany County,Virginia",7095,190280
+205,"Rockingham County,Virginia","Amelia County,Virginia",9387,235090
+206,"Rockingham County,Virginia","Amherst County,Virginia",6766,154178
+207,"Rockingham County,Virginia","Appomattox County,Virginia",7981,178806
+208,"Rockingham County,Virginia","Arlington County,Virginia",7597,198655
+209,"Rockingham County,Virginia","Augusta County,Virginia",3699,67157
+210,"Rockingham County,Virginia","Bath County,Virginia",6025,109756
+211,"Rockingham County,Virginia","Bedford County,Virginia",8911,198694
+212,"Rockingham County,Virginia","Bland County,Virginia",11377,319963
+213,"Rockingham County,Virginia","Botetourt County,Virginia",6402,161216
+214,"Rockingham County,Virginia","Brunswick County,Virginia",12018,337400
+215,"Rockingham County,Virginia","Buchanan County,Virginia",17133,454422
+216,"Rockingham County,Virginia","Buckingham County,Virginia",7664,168227
+217,"Rockingham County,Virginia","Campbell County,Virginia",8128,194310
+218,"Rockingham County,Virginia","Caroline County,Virginia",9672,272117
+219,"Rockingham County,Virginia","Carroll County,Virginia",11499,325380
+220,"Rockingham County,Virginia","Charles City County,Virginia",9772,269152
+221,"Rockingham County,Virginia","Charlotte County,Virginia",9963,227306
+222,"Rockingham County,Virginia","Chesterfield County,Virginia",8908,246936
+223,"Rockingham County,Virginia","Clarke County,Virginia",5093,125404
+224,"Rockingham County,Virginia","Craig County,Virginia",9243,217543
+225,"Rockingham County,Virginia","Culpeper County,Virginia",5706,107542
+226,"Rockingham County,Virginia","Cumberland County,Virginia",8375,193628
+227,"Rockingham County,Virginia","Dickenson County,Virginia",17843,472600
+228,"Rockingham County,Virginia","Dinwiddie County,Virginia",10655,297367
+229,"Rockingham County,Virginia","Essex County,Virginia",11463,230073
+230,"Rockingham County,Virginia","Fairfax County,Virginia",7220,188931
+231,"Rockingham County,Virginia","Fauquier County,Virginia",5531,146655
+232,"Rockingham County,Virginia","Floyd County,Virginia",10025,266927
+233,"Rockingham County,Virginia","Fluvanna County,Virginia",6011,155443
+234,"Rockingham County,Virginia","Franklin County,Virginia",9363,245371
+235,"Rockingham County,Virginia","Frederick County,Virginia",4544,113131
+236,"Rockingham County,Virginia","Giles County,Virginia",10166,275079
+237,"Rockingham County,Virginia","Gloucester County,Virginia",11943,323340
+238,"Rockingham County,Virginia","Goochland County,Virginia",6914,186054
+239,"Rockingham County,Virginia","Grayson County,Virginia",12831,341559
+240,"Rockingham County,Virginia","Greene County,Virginia",3957,68773
+241,"Rockingham County,Virginia","Greensville County,Virginia",12072,346119
+242,"Rockingham County,Virginia","Halifax County,Virginia",11449,266017
+243,"Rockingham County,Virginia","Hanover County,Virginia",8121,227161
+244,"Rockingham County,Virginia","Henrico County,Virginia",8632,240121
+245,"Rockingham County,Virginia","Henry County,Virginia",10772,280333
+246,"Rockingham County,Virginia","Highland County,Virginia",5893,110447
+247,"Rockingham County,Virginia","Isle of Wight County,Virginia",12884,344698
+248,"Rockingham County,Virginia","James City County,Virginia",11008,309923
+249,"Rockingham County,Virginia","King and Queen County,Virginia",10666,285507
+250,"Rockingham County,Virginia","King George County,Virginia",10053,197624
+251,"Rockingham County,Virginia","King William County,Virginia",9354,255429
+252,"Rockingham County,Virginia","Lancaster County,Virginia",13147,338514
+253,"Rockingham County,Virginia","Lee County,Virginia",18338,504254
+254,"Rockingham County,Virginia","Loudoun County,Virginia",6588,161271
+255,"Rockingham County,Virginia","Louisa County,Virginia",6571,169149
+256,"Rockingham County,Virginia","Lunenburg County,Virginia",11260,270026
+257,"Rockingham County,Virginia","Madison County,Virginia",5441,104804
+258,"Rockingham County,Virginia","Mathews County,Virginia",12768,346764
+259,"Rockingham County,Virginia","Mecklenburg County,Virginia",12609,294472
+260,"Rockingham County,Virginia","Middlesex County,Virginia",11544,319540
+261,"Rockingham County,Virginia","Montgomery County,Virginia",8730,239350
+262,"Rockingham County,Virginia","Nelson County,Virginia",5212,121772
+263,"Rockingham County,Virginia","New Kent County,Virginia",10444,283837
+264,"Rockingham County,Virginia","Northampton County,Virginia",15426,426586
+265,"Rockingham County,Virginia","Northumberland County,Virginia",13186,337027
+266,"Rockingham County,Virginia","Nottoway County,Virginia",10512,256581
+267,"Rockingham County,Virginia","Orange County,Virginia",6466,121586
+268,"Rockingham County,Virginia","Page County,Virginia",2715,47443
+269,"Rockingham County,Virginia","Patrick County,Virginia",12145,303830
+270,"Rockingham County,Virginia","Pittsylvania County,Virginia",10698,265938
+271,"Rockingham County,Virginia","Powhatan County,Virginia",8167,211276
+272,"Rockingham County,Virginia","Prince Edward County,Virginia",9183,222245
+273,"Rockingham County,Virginia","Prince George County,Virginia",10419,283951
+274,"Rockingham County,Virginia","Prince William County,Virginia",5631,152759
+275,"Rockingham County,Virginia","Pulaski County,Virginia",9457,261983
+276,"Rockingham County,Virginia","Rappahannock County,Virginia",4546,83930
+277,"Rockingham County,Virginia","Richmond County,Virginia",11886,309670
+278,"Rockingham County,Virginia","Roanoke County,Virginia",7721,204288
+279,"Rockingham County,Virginia","Rockbridge County,Virginia",5144,127225
+280,"Rockingham County,Virginia","Russell County,Virginia",16299,437759
+281,"Rockingham County,Virginia","Scott County,Virginia",16911,464982
+282,"Rockingham County,Virginia","Shenandoah County,Virginia",2303,49910
+283,"Rockingham County,Virginia","Smyth County,Virginia",12494,348704
+284,"Rockingham County,Virginia","Southampton County,Virginia",12449,342233
+285,"Rockingham County,Virginia","Spotsylvania County,Virginia",8138,156985
+286,"Rockingham County,Virginia","Stafford County,Virginia",8150,210661
+287,"Rockingham County,Virginia","Surry County,Virginia",11752,308784
+288,"Rockingham County,Virginia","Sussex County,Virginia",11113,312475
+289,"Rockingham County,Virginia","Tazewell County,Virginia",13954,388780
+290,"Rockingham County,Virginia","Warren County,Virginia",4205,94502
+291,"Rockingham County,Virginia","Washington County,Virginia",13887,388170
+292,"Rockingham County,Virginia","Westmoreland County,Virginia",11021,216425
+293,"Rockingham County,Virginia","Wise County,Virginia",17750,479102
+294,"Rockingham County,Virginia","Wythe County,Virginia",10748,300689
+295,"Rockingham County,Virginia","York County,Virginia",12296,340697
+296,"Rockingham County,Virginia","Alexandria City County,Virginia",7800,211302
+297,"Rockingham County,Virginia","Bedford City County,Virginia",7936,190033
+298,"Rockingham County,Virginia","Bristol City County,Virginia",14362,413887
+299,"Rockingham County,Virginia","Buena Vista City County,Virginia",4803,120491
+300,"Rockingham County,Virginia","Charlottesville City County,Virginia",4802,118486
+301,"Rockingham County,Virginia","Chesapeake City County,Virginia",13759,393603
+302,"Rockingham County,Virginia","Clifton Forge City County,Virginia",5997,159098
+303,"Rockingham County,Virginia","Colonial Heights City County,Virginia",9468,262828
+304,"Rockingham County,Virginia","Covington City County,Virginia",6739,177440
+305,"Rockingham County,Virginia","Danville City County,Virginia",11297,282280
+306,"Rockingham County,Virginia","Emporia City County,Virginia",11779,332712
+307,"Rockingham County,Virginia","Fairfax City County,Virginia",6763,178507
+308,"Rockingham County,Virginia","Falls Church City County,Virginia",7095,192979
+309,"Rockingham County,Virginia","Franklin City County,Virginia",12997,350087
+310,"Rockingham County,Virginia","Fredericksburg City County,Virginia",8471,207503
+311,"Rockingham County,Virginia","Galax City County,Virginia",12122,331246
+312,"Rockingham County,Virginia","Hampton City County,Virginia",12246,350403
+313,"Rockingham County,Virginia","Harrisonburg City County,Virginia",1152,18289
+314,"Rockingham County,Virginia","Hopewell City County,Virginia",9505,261794
+315,"Rockingham County,Virginia","Lexington City County,Virginia",4662,117469
+316,"Rockingham County,Virginia","Lynchburg City County,Virginia",7314,174234
+317,"Rockingham County,Virginia","Manassas City County,Virginia",5858,157704
+318,"Rockingham County,Virginia","Manassas Park City County,Virginia",6360,164047
+319,"Rockingham County,Virginia","Martinsville City County,Virginia",10925,275435
+320,"Rockingham County,Virginia","Newport News City County,Virginia",11803,336889
+321,"Rockingham County,Virginia","Norfolk City County,Virginia",13553,375819
+322,"Rockingham County,Virginia","Norton City County,Virginia",17274,469992
+323,"Rockingham County,Virginia","Petersburg City County,Virginia",9340,263816
+324,"Rockingham County,Virginia","Poquoson City County,Virginia",12475,347466
+325,"Rockingham County,Virginia","Portsmouth City County,Virginia",13492,384640
+326,"Rockingham County,Virginia","Radford County,Virginia",9093,249194
+327,"Rockingham County,Virginia","Richmond City County,Virginia",8208,227931
+328,"Rockingham County,Virginia","Roanoke City County,Virginia",7259,195730
+329,"Rockingham County,Virginia","Salem City County,Virginia",7089,194201
+330,"Rockingham County,Virginia","South Boston City County,Virginia",11452,264835
+331,"Rockingham County,Virginia","Staunton City County,Virginia",3024,62725
+332,"Rockingham County,Virginia","Suffolk City County,Virginia",13727,359422
+333,"Rockingham County,Virginia","Virginia Beach City County,Virginia",14113,399078
+334,"Rockingham County,Virginia","Waynesboro City County,Virginia",3421,72576
+335,"Rockingham County,Virginia","Williamsburg City County,Virginia",10847,309138
+336,"Rockingham County,Virginia","Winchester City County,Virginia",4424,109274
+337,"Rockingham County,Virginia","Barbour County,West Virginia",9483,216216
+338,"Rockingham County,Virginia","Berkeley County,West Virginia",6162,156482
+339,"Rockingham County,Virginia","Boone County,West Virginia",15454,389985
+340,"Rockingham County,Virginia","Braxton County,West Virginia",13903,291518
+341,"Rockingham County,Virginia","Brooke County,West Virginia",14863,368971
+342,"Rockingham County,Virginia","Cabell County,West Virginia",17022,485891
+343,"Rockingham County,Virginia","Calhoun County,West Virginia",15226,326185
+344,"Rockingham County,Virginia","Clay County,West Virginia",15187,361444
+345,"Rockingham County,Virginia","Doddridge County,West Virginia",13665,304314
+346,"Rockingham County,Virginia","Fayette County,West Virginia",12576,308183
+347,"Rockingham County,Virginia","Gilmer County,West Virginia",13707,290876
+348,"Rockingham County,Virginia","Grant County,West Virginia",4828,119312
+349,"Rockingham County,Virginia","Greenbrier County,West Virginia",10931,267408
+350,"Rockingham County,Virginia","Hampshire County,West Virginia",4855,107728
+351,"Rockingham County,Virginia","Hancock County,West Virginia",16489,396318
+352,"Rockingham County,Virginia","Hardy County,West Virginia",4075,90641
+353,"Rockingham County,Virginia","Harrison County,West Virginia",12102,265942
+354,"Rockingham County,Virginia","Jackson County,West Virginia",16341,465702
+355,"Rockingham County,Virginia","Jefferson County,West Virginia",6213,143888
+356,"Rockingham County,Virginia","Kanawha County,West Virginia",14104,387684
+357,"Rockingham County,Virginia","Lewis County,West Virginia",11608,240506
+358,"Rockingham County,Virginia","Lincoln County,West Virginia",17686,463569
+359,"Rockingham County,Virginia","Logan County,West Virginia",17244,420475
+360,"Rockingham County,Virginia","McDowell County,West Virginia",15623,394926
+361,"Rockingham County,Virginia","Marion County,West Virginia",12249,256161
+362,"Rockingham County,Virginia","Marshall County,West Virginia",15850,363415
+363,"Rockingham County,Virginia","Mason County,West Virginia",16497,471798
+364,"Rockingham County,Virginia","Mercer County,West Virginia",12338,331256
+365,"Rockingham County,Virginia","Mineral County,West Virginia",6301,130835
+366,"Rockingham County,Virginia","Mingo County,West Virginia",17823,484409
+367,"Rockingham County,Virginia","Monongalia County,West Virginia",10004,243570
+368,"Rockingham County,Virginia","Monroe County,West Virginia",9866,253729
+369,"Rockingham County,Virginia","Morgan County,West Virginia",6408,157608
+370,"Rockingham County,Virginia","Nicholas County,West Virginia",12771,320833
+371,"Rockingham County,Virginia","Ohio County,West Virginia",14769,377917
+372,"Rockingham County,Virginia","Pendleton County,West Virginia",4300,82777
+373,"Rockingham County,Virginia","Pleasants County,West Virginia",14900,342082
+374,"Rockingham County,Virginia","Pocahontas County,West Virginia",9406,170029
+375,"Rockingham County,Virginia","Preston County,West Virginia",9008,197763
+376,"Rockingham County,Virginia","Putnam County,West Virginia",15279,437416
+377,"Rockingham County,Virginia","Raleigh County,West Virginia",11129,312865
+378,"Rockingham County,Virginia","Randolph County,West Virginia",10105,190975
+379,"Rockingham County,Virginia","Ritchie County,West Virginia",14811,336384
+380,"Rockingham County,Virginia","Roane County,West Virginia",17647,360221
+381,"Rockingham County,Virginia","Summers County,West Virginia",11850,292743
+382,"Rockingham County,Virginia","Taylor County,West Virginia",9351,215584
+383,"Rockingham County,Virginia","Tucker County,West Virginia",7487,180959
+384,"Rockingham County,Virginia","Tyler County,West Virginia",15827,334749
+385,"Rockingham County,Virginia","Upshur County,West Virginia",11284,221488
+386,"Rockingham County,Virginia","Wayne County,West Virginia",18613,518518
+387,"Rockingham County,Virginia","Webster County,West Virginia",12533,237983
+388,"Rockingham County,Virginia","Wetzel County,West Virginia",14760,312868
+389,"Rockingham County,Virginia","Wirt County,West Virginia",16667,357750
+390,"Rockingham County,Virginia","Wood County,West Virginia",15681,367345
+391,"Rockingham County,Virginia","Wyoming County,West Virginia",13074,352807

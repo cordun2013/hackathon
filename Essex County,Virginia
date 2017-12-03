@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Essex County,Virginia","Adair County,Kentucky",35836,955173
+1,"Essex County,Virginia","Allen County,Kentucky",37232,1074982
+2,"Essex County,Virginia","Anderson County,Kentucky",31464,917958
+3,"Essex County,Virginia","Ballard County,Kentucky",44137,1310237
+4,"Essex County,Virginia","Barren County,Kentucky",37022,1033928
+5,"Essex County,Virginia","Bath County,Kentucky",27112,789139
+6,"Essex County,Virginia","Bell County,Kentucky",28332,756479
+7,"Essex County,Virginia","Boone County,Kentucky",32924,910532
+8,"Essex County,Virginia","Bourbon County,Kentucky",29025,835557
+9,"Essex County,Virginia","Boyd County,Kentucky",23787,683464
+10,"Essex County,Virginia","Boyle County,Kentucky",32693,921845
+11,"Essex County,Virginia","Bracken County,Kentucky",29436,829639
+12,"Essex County,Virginia","Breathitt County,Kentucky",29956,792243
+13,"Essex County,Virginia","Breckinridge County,Kentucky",36998,1070639
+14,"Essex County,Virginia","Bullitt County,Kentucky",33567,991759
+15,"Essex County,Virginia","Butler County,Kentucky",37662,1092637
+16,"Essex County,Virginia","Caldwell County,Kentucky",40554,1198582
+17,"Essex County,Virginia","Calloway County,Kentucky",41978,1242097
+18,"Essex County,Virginia","Campbell County,Kentucky",31137,869511
+19,"Essex County,Virginia","Carlisle County,Kentucky",44594,1325606
+20,"Essex County,Virginia","Carroll County,Kentucky",34009,965773
+21,"Essex County,Virginia","Carter County,Kentucky",24952,713561
+22,"Essex County,Virginia","Casey County,Kentucky",34188,953350
+23,"Essex County,Virginia","Christian County,Kentucky",38871,1163076
+24,"Essex County,Virginia","Clay County,Kentucky",30904,816821
+25,"Essex County,Virginia","Clinton County,Kentucky",34280,954387
+26,"Essex County,Virginia","Crittenden County,Kentucky",42134,1231653
+27,"Essex County,Virginia","Cumberland County,Kentucky",35159,975056
+28,"Essex County,Virginia","Daviess County,Kentucky",38685,1139080
+29,"Essex County,Virginia","Edmonson County,Kentucky",37103,1080512
+30,"Essex County,Virginia","Elliott County,Kentucky",26282,739331
+31,"Essex County,Virginia","Estill County,Kentucky",30104,851455
+32,"Essex County,Virginia","Fayette County,Kentucky",29271,855451
+33,"Essex County,Virginia","Fleming County,Kentucky",27537,792325
+34,"Essex County,Virginia","Floyd County,Kentucky",27920,790729
+35,"Essex County,Virginia","Franklin County,Kentucky",31309,904367
+36,"Essex County,Virginia","Fulton County,Kentucky",44998,1346570
+37,"Essex County,Virginia","Gallatin County,Kentucky",33007,956431
+38,"Essex County,Virginia","Garrard County,Kentucky",31876,902604
+39,"Essex County,Virginia","Grant County,Kentucky",31806,930539
+40,"Essex County,Virginia","Graves County,Kentucky",43619,1298312
+41,"Essex County,Virginia","Grayson County,Kentucky",35990,1049273
+42,"Essex County,Virginia","Green County,Kentucky",35769,1014478
+43,"Essex County,Virginia","Greenup County,Kentucky",25563,724590
+44,"Essex County,Virginia","Hancock County,Kentucky",37793,1103532
+45,"Essex County,Virginia","Hardin County,Kentucky",34866,1011406
+46,"Essex County,Virginia","Harlan County,Kentucky",27407,733106
+47,"Essex County,Virginia","Harrison County,Kentucky",30596,868656
+48,"Essex County,Virginia","Hart County,Kentucky",35665,1039034
+49,"Essex County,Virginia","Henderson County,Kentucky",40492,1191509
+50,"Essex County,Virginia","Henry County,Kentucky",32910,948086
+51,"Essex County,Virginia","Hickman County,Kentucky",44627,1326898
+52,"Essex County,Virginia","Hopkins County,Kentucky",40013,1173051
+53,"Essex County,Virginia","Jackson County,Kentucky",32776,853240
+54,"Essex County,Virginia","Jefferson County,Kentucky",33004,963619
+55,"Essex County,Virginia","Jessamine County,Kentucky",30740,876915
+56,"Essex County,Virginia","Johnson County,Kentucky",26569,756360
+57,"Essex County,Virginia","Kenton County,Kentucky",32294,898226
+58,"Essex County,Virginia","Knott County,Kentucky",27497,734993
+59,"Essex County,Virginia","Knox County,Kentucky",29662,798472
+60,"Essex County,Virginia","Larue County,Kentucky",34938,998582
+61,"Essex County,Virginia","Laurel County,Kentucky",31556,833299
+62,"Essex County,Virginia","Lawrence County,Kentucky",25710,727784
+63,"Essex County,Virginia","Lee County,Kentucky",30949,845191
+64,"Essex County,Virginia","Leslie County,Kentucky",28869,761385
+65,"Essex County,Virginia","Letcher County,Kentucky",25897,698539
+66,"Essex County,Virginia","Lewis County,Kentucky",26990,765379
+67,"Essex County,Virginia","Lincoln County,Kentucky",32586,919523
+68,"Essex County,Virginia","Livingston County,Kentucky",42468,1264176
+69,"Essex County,Virginia","Logan County,Kentucky",39303,1115977
+70,"Essex County,Virginia","Lyon County,Kentucky",42225,1241351
+71,"Essex County,Virginia","McCracken County,Kentucky",42749,1278297
+72,"Essex County,Virginia","McCreary County,Kentucky",31286,891233
+73,"Essex County,Virginia","Madison County,Kentucky",30270,866474
+74,"Essex County,Virginia","Magoffin County,Kentucky",27536,777039
+75,"Essex County,Virginia","Marion County,Kentucky",33315,960191
+76,"Essex County,Virginia","Marshall County,Kentucky",42164,1261869
+77,"Essex County,Virginia","Martin County,Kentucky",26824,709508
+78,"Essex County,Virginia","Mason County,Kentucky",28785,809185
+79,"Essex County,Virginia","Meade County,Kentucky",35465,1035934
+80,"Essex County,Virginia","Menifee County,Kentucky",28228,801203
+81,"Essex County,Virginia","Mercer County,Kentucky",31692,915902
+82,"Essex County,Virginia","Metcalfe County,Kentucky",36492,985438
+83,"Essex County,Virginia","Monroe County,Kentucky",35720,1005477
+84,"Essex County,Virginia","Montgomery County,Kentucky",27924,807680
+85,"Essex County,Virginia","Morgan County,Kentucky",28006,776919
+86,"Essex County,Virginia","Muhlenberg County,Kentucky",38873,1139526
+87,"Essex County,Virginia","Nelson County,Kentucky",32923,959262
+88,"Essex County,Virginia","Nicholas County,Kentucky",29602,835563
+89,"Essex County,Virginia","Ohio County,Kentucky",37786,1107116
+90,"Essex County,Virginia","Oldham County,Kentucky",33076,975501
+91,"Essex County,Virginia","Owen County,Kentucky",32131,931144
+92,"Essex County,Virginia","Owsley County,Kentucky",32094,830117
+93,"Essex County,Virginia","Pendleton County,Kentucky",31374,870564
+94,"Essex County,Virginia","Perry County,Kentucky",28470,755416
+95,"Essex County,Virginia","Pike County,Kentucky",27020,674754
+96,"Essex County,Virginia","Powell County,Kentucky",29368,837425
+97,"Essex County,Virginia","Robertson County,Kentucky",29520,835069
+98,"Essex County,Virginia","Rockcastle County,Kentucky",31704,907617
+99,"Essex County,Virginia","Rowan County,Kentucky",26254,761347
+100,"Essex County,Virginia","Russell County,Kentucky",35441,939156
+101,"Essex County,Virginia","Scott County,Kentucky",30106,883478
+102,"Essex County,Virginia","Shelby County,Kentucky",31933,934754
+103,"Essex County,Virginia","Simpson County,Kentucky",38270,1091952
+104,"Essex County,Virginia","Spencer County,Kentucky",32462,940602
+105,"Essex County,Virginia","Taylor County,Kentucky",34605,991687
+106,"Essex County,Virginia","Todd County,Kentucky",39286,1156023
+107,"Essex County,Virginia","Trigg County,Kentucky",39778,1180436
+108,"Essex County,Virginia","Trimble County,Kentucky",34149,981540
+109,"Essex County,Virginia","Union County,Kentucky",42212,1221956
+110,"Essex County,Virginia","Warren County,Kentucky",38019,1108881
+111,"Essex County,Virginia","Washington County,Kentucky",32933,944499
+112,"Essex County,Virginia","Wayne County,Kentucky",33790,938364
+113,"Essex County,Virginia","Webster County,Kentucky",41122,1201139
+114,"Essex County,Virginia","Whitley County,Kentucky",29890,875996
+115,"Essex County,Virginia","Wolfe County,Kentucky",29101,800280
+116,"Essex County,Virginia","Woodford County,Kentucky",30325,886114
+117,"Essex County,Virginia","Adams County,Ohio",28878,811742
+118,"Essex County,Virginia","Allen County,Ohio",33202,954937
+119,"Essex County,Virginia","Ashland County,Ohio",27751,781626
+120,"Essex County,Virginia","Ashtabula County,Ohio",25748,736096
+121,"Essex County,Virginia","Athens County,Ohio",25286,717341
+122,"Essex County,Virginia","Auglaize County,Ohio",33697,975624
+123,"Essex County,Virginia","Belmont County,Ohio",22318,632391
+124,"Essex County,Virginia","Brown County,Ohio",30122,838669
+125,"Essex County,Virginia","Butler County,Ohio",33235,920695
+126,"Essex County,Virginia","Carroll County,Ohio",24264,648317
+127,"Essex County,Virginia","Champaign County,Ohio",31441,890519
+128,"Essex County,Virginia","Clark County,Ohio",30319,881090
+129,"Essex County,Virginia","Clermont County,Ohio",30956,869766
+130,"Essex County,Virginia","Clinton County,Ohio",30347,853182
+131,"Essex County,Virginia","Columbiana County,Ohio",23050,630334
+132,"Essex County,Virginia","Coshocton County,Ohio",26675,757841
+133,"Essex County,Virginia","Crawford County,Ohio",29659,852821
+134,"Essex County,Virginia","Cuyahoga County,Ohio",25744,733940
+135,"Essex County,Virginia","Darke County,Ohio",33895,978992
+136,"Essex County,Virginia","Defiance County,Ohio",34063,982904
+137,"Essex County,Virginia","Delaware County,Ohio",29595,856839
+138,"Essex County,Virginia","Fairfield County,Ohio",27690,793624
+139,"Essex County,Virginia","Fayette County,Ohio",28911,823646
+140,"Essex County,Virginia","Franklin County,Ohio",28290,820725
+141,"Essex County,Virginia","Fulton County,Ohio",32415,939755
+142,"Essex County,Virginia","Gallia County,Ohio",24224,682758
+143,"Essex County,Virginia","Geauga County,Ohio",25238,708759
+144,"Essex County,Virginia","Greene County,Ohio",29781,856798
+145,"Essex County,Virginia","Guernsey County,Ohio",24222,695900
+146,"Essex County,Virginia","Hamilton County,Ohio",32736,931272
+147,"Essex County,Virginia","Hancock County,Ohio",31690,914902
+148,"Essex County,Virginia","Hardin County,Ohio",32345,917493
+149,"Essex County,Virginia","Harrison County,Ohio",23478,650535
+150,"Essex County,Virginia","Henry County,Ohio",32869,929522
+151,"Essex County,Virginia","Highland County,Ohio",29415,811755
+152,"Essex County,Virginia","Hocking County,Ohio",27036,763236
+153,"Essex County,Virginia","Holmes County,Ohio",27417,732611
+154,"Essex County,Virginia","Huron County,Ohio",29027,811232
+155,"Essex County,Virginia","Jackson County,Ohio",25402,722307
+156,"Essex County,Virginia","Jefferson County,Ohio",22220,611808
+157,"Essex County,Virginia","Knox County,Ohio",28463,800317
+158,"Essex County,Virginia","Lawrence County,Ohio",24927,688520
+159,"Essex County,Virginia","Licking County,Ohio",27849,781389
+160,"Essex County,Virginia","Logan County,Ohio",31616,922037
+161,"Essex County,Virginia","Lorain County,Ohio",26796,763660
+162,"Essex County,Virginia","Lucas County,Ohio",31369,892605
+163,"Essex County,Virginia","Madison County,Ohio",29568,855446
+164,"Essex County,Virginia","Mahoning County,Ohio",22234,626088
+165,"Essex County,Virginia","Marion County,Ohio",30688,869804
+166,"Essex County,Virginia","Medina County,Ohio",26383,748746
+167,"Essex County,Virginia","Meigs County,Ohio",24167,688311
+168,"Essex County,Virginia","Mercer County,Ohio",34933,1002558
+169,"Essex County,Virginia","Miami County,Ohio",32406,944424
+170,"Essex County,Virginia","Monroe County,Ohio",24751,679075
+171,"Essex County,Virginia","Montgomery County,Ohio",31815,904254
+172,"Essex County,Virginia","Morgan County,Ohio",25854,719680
+173,"Essex County,Virginia","Morrow County,Ohio",29388,843079
+174,"Essex County,Virginia","Muskingum County,Ohio",25068,723892
+175,"Essex County,Virginia","Noble County,Ohio",25333,717206
+176,"Essex County,Virginia","Paulding County,Ohio",35268,1018891
+177,"Essex County,Virginia","Perry County,Ohio",27167,771835
+178,"Essex County,Virginia","Pickaway County,Ohio",28351,803745
+179,"Essex County,Virginia","Pike County,Ohio",26848,761613
+180,"Essex County,Virginia","Portage County,Ohio",24089,682102
+181,"Essex County,Virginia","Preble County,Ohio",33435,932832
+182,"Essex County,Virginia","Putnam County,Ohio",33888,974708
+183,"Essex County,Virginia","Richland County,Ohio",28307,803055
+184,"Essex County,Virginia","Ross County,Ohio",27095,770051
+185,"Essex County,Virginia","Sandusky County,Ohio",29657,851179
+186,"Essex County,Virginia","Scioto County,Ohio",26732,745794
+187,"Essex County,Virginia","Seneca County,Ohio",30388,860851
+188,"Essex County,Virginia","Shelby County,Ohio",33373,952285
+189,"Essex County,Virginia","Stark County,Ohio",24869,678235
+190,"Essex County,Virginia","Summit County,Ohio",25147,707917
+191,"Essex County,Virginia","Trumbull County,Ohio",23392,663552
+192,"Essex County,Virginia","Tuscarawas County,Ohio",24987,681818
+193,"Essex County,Virginia","Union County,Ohio",30120,872268
+194,"Essex County,Virginia","Van Wert County,Ohio",33999,985219
+195,"Essex County,Virginia","Vinton County,Ohio",27297,747812
+196,"Essex County,Virginia","Warren County,Ohio",31153,887241
+197,"Essex County,Virginia","Washington County,Ohio",24192,675143
+198,"Essex County,Virginia","Wayne County,Ohio",27488,767557
+199,"Essex County,Virginia","Williams County,Ohio",33660,971211
+200,"Essex County,Virginia","Wood County,Ohio",31554,899508
+201,"Essex County,Virginia","Wyandot County,Ohio",30659,879037
+202,"Essex County,Virginia","Accomack County,Virginia",12577,280146
+203,"Essex County,Virginia","Albemarle County,Virginia",7806,197173
+204,"Essex County,Virginia","Alleghany County,Virginia",13316,366113
+205,"Essex County,Virginia","Amelia County,Virginia",6976,147595
+206,"Essex County,Virginia","Amherst County,Virginia",10599,266919
+207,"Essex County,Virginia","Appomattox County,Virginia",10024,230292
+208,"Essex County,Virginia","Arlington County,Virginia",6237,154581
+209,"Essex County,Virginia","Augusta County,Virginia",10060,259807
+210,"Essex County,Virginia","Bath County,Virginia",13034,325466
+211,"Essex County,Virginia","Bedford County,Virginia",13083,330322
+212,"Essex County,Virginia","Bland County,Virginia",17598,495797
+213,"Essex County,Virginia","Botetourt County,Virginia",12623,337050
+214,"Essex County,Virginia","Brunswick County,Virginia",8032,194289
+215,"Essex County,Virginia","Buchanan County,Virginia",23355,630256
+216,"Essex County,Virginia","Buckingham County,Virginia",8866,202270
+217,"Essex County,Virginia","Campbell County,Virginia",11655,267152
+218,"Essex County,Virginia","Caroline County,Virginia",2263,41666
+219,"Essex County,Virginia","Carroll County,Virginia",17720,501213
+220,"Essex County,Virginia","Charles City County,Virginia",4886,90616
+221,"Essex County,Virginia","Charlotte County,Virginia",9841,222190
+222,"Essex County,Virginia","Chesterfield County,Virginia",5675,113148
+223,"Essex County,Virginia","Clarke County,Virginia",8917,197057
+224,"Essex County,Virginia","Craig County,Virginia",15464,393377
+225,"Essex County,Virginia","Culpeper County,Virginia",6186,122725
+226,"Essex County,Virginia","Cumberland County,Virginia",7299,167222
+227,"Essex County,Virginia","Dickenson County,Virginia",24065,648434
+228,"Essex County,Virginia","Dinwiddie County,Virginia",6670,154256
+229,"Essex County,Virginia","Fairfax County,Virginia",6534,157811
+230,"Essex County,Virginia","Fauquier County,Virginia",6230,137824
+231,"Essex County,Virginia","Floyd County,Virginia",16247,442760
+232,"Essex County,Virginia","Fluvanna County,Virginia",7008,160744
+233,"Essex County,Virginia","Franklin County,Virginia",15509,345536
+234,"Essex County,Virginia","Frederick County,Virginia",9472,230119
+235,"Essex County,Virginia","Giles County,Virginia",16387,450913
+236,"Essex County,Virginia","Gloucester County,Virginia",4151,88855
+237,"Essex County,Virginia","Goochland County,Virginia",5737,130030
+238,"Essex County,Virginia","Grayson County,Virginia",19052,517393
+239,"Essex County,Virginia","Greene County,Virginia",8684,169720
+240,"Essex County,Virginia","Greensville County,Virginia",7703,196199
+241,"Essex County,Virginia","Halifax County,Virginia",11474,265335
+242,"Essex County,Virginia","Hanover County,Virginia",3809,73609
+243,"Essex County,Virginia","Henrico County,Virginia",4162,77442
+244,"Essex County,Virginia","Henry County,Virginia",15964,381612
+245,"Essex County,Virginia","Highland County,Virginia",13262,317546
+246,"Essex County,Virginia","Isle of Wight County,Virginia",8195,165338
+247,"Essex County,Virginia","James City County,Virginia",5552,111169
+248,"Essex County,Virginia","King and Queen County,Virginia",2235,38330
+249,"Essex County,Virginia","King George County,Virginia",2037,44421
+250,"Essex County,Virginia","King William County,Virginia",2343,42725
+251,"Essex County,Virginia","Lancaster County,Virginia",3029,60943
+252,"Essex County,Virginia","Lee County,Virginia",24559,680087
+253,"Essex County,Virginia","Loudoun County,Virginia",8500,211056
+254,"Essex County,Virginia","Louisa County,Virginia",5896,124252
+255,"Essex County,Virginia","Lunenburg County,Virginia",9391,206039
+256,"Essex County,Virginia","Madison County,Virginia",7089,149122
+257,"Essex County,Virginia","Mathews County,Virginia",4740,105331
+258,"Essex County,Virginia","Mecklenburg County,Virginia",9759,242561
+259,"Essex County,Virginia","Middlesex County,Virginia",3110,68912
+260,"Essex County,Virginia","Montgomery County,Virginia",14951,415183
+261,"Essex County,Virginia","Nelson County,Virginia",9046,234513
+262,"Essex County,Virginia","New Kent County,Virginia",4922,93634
+263,"Essex County,Virginia","Northampton County,Virginia",9819,215960
+264,"Essex County,Virginia","Northumberland County,Virginia",3069,59455
+265,"Essex County,Virginia","Nottoway County,Virginia",7606,182782
+266,"Essex County,Virginia","Orange County,Virginia",5781,115443
+267,"Essex County,Virginia","Page County,Virginia",9071,180430
+268,"Essex County,Virginia","Patrick County,Virginia",17547,420519
+269,"Essex County,Virginia","Pittsylvania County,Virginia",14041,325617
+270,"Essex County,Virginia","Powhatan County,Virginia",5764,127638
+271,"Essex County,Virginia","Prince Edward County,Virginia",8719,195308
+272,"Essex County,Virginia","Prince George County,Virginia",5887,130319
+273,"Essex County,Virginia","Prince William County,Virginia",6693,147659
+274,"Essex County,Virginia","Pulaski County,Virginia",15679,437816
+275,"Essex County,Virginia","Rappahannock County,Virginia",7669,165823
+276,"Essex County,Virginia","Richmond County,Virginia",1769,32099
+277,"Essex County,Virginia","Roanoke County,Virginia",13942,380122
+278,"Essex County,Virginia","Rockbridge County,Virginia",11365,303059
+279,"Essex County,Virginia","Rockingham County,Virginia",11462,228732
+280,"Essex County,Virginia","Russell County,Virginia",22521,613593
+281,"Essex County,Virginia","Scott County,Virginia",23133,640816
+282,"Essex County,Virginia","Shenandoah County,Virginia",9409,235228
+283,"Essex County,Virginia","Smyth County,Virginia",18715,524537
+284,"Essex County,Virginia","Southampton County,Virginia",8081,192313
+285,"Essex County,Virginia","Spotsylvania County,Virginia",3961,80434
+286,"Essex County,Virginia","Stafford County,Virginia",4048,92362
+287,"Essex County,Virginia","Surry County,Virginia",6999,152013
+288,"Essex County,Virginia","Sussex County,Virginia",6745,162556
+289,"Essex County,Virginia","Tazewell County,Virginia",20176,564614
+290,"Essex County,Virginia","Warren County,Virginia",8700,199530
+291,"Essex County,Virginia","Washington County,Virginia",20108,564004
+292,"Essex County,Virginia","Westmoreland County,Virginia",3012,61245
+293,"Essex County,Virginia","Wise County,Virginia",23972,654936
+294,"Essex County,Virginia","Wythe County,Virginia",16969,476522
+295,"Essex County,Virginia","York County,Virginia",5854,123270
+296,"Essex County,Virginia","Alexandria City County,Virginia",6208,151630
+297,"Essex County,Virginia","Bedford City County,Virginia",12584,325406
+298,"Essex County,Virginia","Bristol City County,Virginia",20583,589721
+299,"Essex County,Virginia","Buena Vista City County,Virginia",11024,296325
+300,"Essex County,Virginia","Charlottesville City County,Virginia",7357,182580
+301,"Essex County,Virginia","Chesapeake City County,Virginia",8153,182977
+302,"Essex County,Virginia","Clifton Forge City County,Virginia",12218,334931
+303,"Essex County,Virginia","Colonial Heights City County,Virginia",5483,119717
+304,"Essex County,Virginia","Covington City County,Virginia",12961,353273
+305,"Essex County,Virginia","Danville City County,Virginia",13421,312586
+306,"Essex County,Virginia","Emporia City County,Virginia",7411,182792
+307,"Essex County,Virginia","Fairfax City County,Virginia",6468,146593
+308,"Essex County,Virginia","Falls Church City County,Virginia",6416,158879
+309,"Essex County,Virginia","Franklin City County,Virginia",8629,200168
+310,"Essex County,Virginia","Fredericksburg City County,Virginia",3242,66720
+311,"Essex County,Virginia","Galax City County,Virginia",18344,507079
+312,"Essex County,Virginia","Hampton City County,Virginia",6640,139777
+313,"Essex County,Virginia","Harrisonburg City County,Virginia",10493,210669
+314,"Essex County,Virginia","Hopewell City County,Virginia",4818,105220
+315,"Essex County,Virginia","Lexington City County,Virginia",10883,293303
+316,"Essex County,Virginia","Lynchburg City County,Virginia",11147,286975
+317,"Essex County,Virginia","Manassas City County,Virginia",6437,144996
+318,"Essex County,Virginia","Manassas Park City County,Virginia",6657,142196
+319,"Essex County,Virginia","Martinsville City County,Virginia",15561,365591
+320,"Essex County,Virginia","Newport News City County,Virginia",6159,127399
+321,"Essex County,Virginia","Norfolk City County,Virginia",7946,165193
+322,"Essex County,Virginia","Norton City County,Virginia",23496,645826
+323,"Essex County,Virginia","Petersburg City County,Virginia",5420,116180
+324,"Essex County,Virginia","Poquoson City County,Virginia",6438,132495
+325,"Essex County,Virginia","Portsmouth City County,Virginia",7885,174014
+326,"Essex County,Virginia","Radford County,Virginia",15315,425027
+327,"Essex County,Virginia","Richmond City County,Virginia",4241,77589
+328,"Essex County,Virginia","Roanoke City County,Virginia",13481,371564
+329,"Essex County,Virginia","Salem City County,Virginia",13310,370035
+330,"Essex County,Virginia","South Boston City County,Virginia",11168,262586
+331,"Essex County,Virginia","Staunton City County,Virginia",9366,241529
+332,"Essex County,Virginia","Suffolk City County,Virginia",8260,182051
+333,"Essex County,Virginia","Virginia Beach City County,Virginia",8507,188452
+334,"Essex County,Virginia","Waynesboro City County,Virginia",8642,223527
+335,"Essex County,Virginia","Williamsburg City County,Virginia",5402,115000
+336,"Essex County,Virginia","Winchester City County,Virginia",9294,203867
+337,"Essex County,Virginia","Barbour County,West Virginia",17178,404430
+338,"Essex County,Virginia","Berkeley County,West Virginia",11075,254048
+339,"Essex County,Virginia","Boone County,West Virginia",21675,565819
+340,"Essex County,Virginia","Braxton County,West Virginia",21373,546493
+341,"Essex County,Virginia","Brooke County,West Virginia",21526,595292
+342,"Essex County,Virginia","Cabell County,West Virginia",23243,661725
+343,"Essex County,Virginia","Calhoun County,West Virginia",23144,600444
+344,"Essex County,Virginia","Clay County,West Virginia",21408,537277
+345,"Essex County,Virginia","Doddridge County,West Virginia",20921,582611
+346,"Essex County,Virginia","Fayette County,West Virginia",18797,484016
+347,"Essex County,Virginia","Gilmer County,West Virginia",21678,521680
+348,"Essex County,Virginia","Grant County,West Virginia",12522,307526
+349,"Essex County,Virginia","Greenbrier County,West Virginia",17153,443241
+350,"Essex County,Virginia","Hampshire County,West Virginia",11599,263124
+351,"Essex County,Virginia","Hancock County,West Virginia",22234,603228
+352,"Essex County,Virginia","Hardy County,West Virginia",11770,278856
+353,"Essex County,Virginia","Harrison County,West Virginia",19358,544239
+354,"Essex County,Virginia","Jackson County,West Virginia",22562,641535
+355,"Essex County,Virginia","Jefferson County,West Virginia",9973,242483
+356,"Essex County,Virginia","Kanawha County,West Virginia",20325,563518
+357,"Essex County,Virginia","Lewis County,West Virginia",19579,471310
+358,"Essex County,Virginia","Lincoln County,West Virginia",23907,639403
+359,"Essex County,Virginia","Logan County,West Virginia",23466,596308
+360,"Essex County,Virginia","McDowell County,West Virginia",21845,570759
+361,"Essex County,Virginia","Marion County,West Virginia",18844,518152
+362,"Essex County,Virginia","Marshall County,West Virginia",22513,589736
+363,"Essex County,Virginia","Mason County,West Virginia",22719,647631
+364,"Essex County,Virginia","Mercer County,West Virginia",18560,507089
+365,"Essex County,Virginia","Mineral County,West Virginia",13996,319049
+366,"Essex County,Virginia","Mingo County,West Virginia",24045,660243
+367,"Essex County,Virginia","Monongalia County,West Virginia",16667,469891
+368,"Essex County,Virginia","Monroe County,West Virginia",16087,429563
+369,"Essex County,Virginia","Morgan County,West Virginia",11320,255175
+370,"Essex County,Virginia","Nicholas County,West Virginia",18992,496666
+371,"Essex County,Virginia","Ohio County,West Virginia",21432,604238
+372,"Essex County,Virginia","Pendleton County,West Virginia",14421,289114
+373,"Essex County,Virginia","Pleasants County,West Virginia",22156,620379
+374,"Essex County,Virginia","Pocahontas County,West Virginia",16725,379231
+375,"Essex County,Virginia","Preston County,West Virginia",16702,385977
+376,"Essex County,Virginia","Putnam County,West Virginia",21500,613250
+377,"Essex County,Virginia","Raleigh County,West Virginia",17350,488699
+378,"Essex County,Virginia","Randolph County,West Virginia",18185,411644
+379,"Essex County,Virginia","Ritchie County,West Virginia",22067,614681
+380,"Essex County,Virginia","Roane County,West Virginia",24188,670351
+381,"Essex County,Virginia","Summers County,West Virginia",18071,468576
+382,"Essex County,Virginia","Taylor County,West Virginia",17045,403799
+383,"Essex County,Virginia","Tucker County,West Virginia",15182,369174
+384,"Essex County,Virginia","Tyler County,West Virginia",23083,613046
+385,"Essex County,Virginia","Upshur County,West Virginia",19255,452292
+386,"Essex County,Virginia","Wayne County,West Virginia",24834,694351
+387,"Essex County,Virginia","Webster County,West Virginia",20612,458652
+388,"Essex County,Virginia","Wetzel County,West Virginia",22000,580276
+389,"Essex County,Virginia","Wirt County,West Virginia",24413,660211
+390,"Essex County,Virginia","Wood County,West Virginia",22936,645642
+391,"Essex County,Virginia","Wyoming County,West Virginia",19295,528640

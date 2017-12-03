@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Van Wert County,Ohio","Adair County,Kentucky",19777,543500
+1,"Van Wert County,Ohio","Allen County,Kentucky",20534,596787
+2,"Van Wert County,Ohio","Anderson County,Kentucky",14759,422645
+3,"Van Wert County,Ohio","Ballard County,Kentucky",26154,769980
+4,"Van Wert County,Ohio","Barren County,Kentucky",19661,565200
+5,"Van Wert County,Ohio","Bath County,Kentucky",15044,443954
+6,"Van Wert County,Ohio","Bell County,Kentucky",20279,571680
+7,"Van Wert County,Ohio","Boone County,Kentucky",10228,273371
+8,"Van Wert County,Ohio","Bourbon County,Kentucky",13633,381913
+9,"Van Wert County,Ohio","Boyd County,Kentucky",16284,425408
+10,"Van Wert County,Ohio","Boyle County,Kentucky",16069,450534
+11,"Van Wert County,Ohio","Bracken County,Kentucky",11791,322731
+12,"Van Wert County,Ohio","Breathitt County,Kentucky",17645,508135
+13,"Van Wert County,Ohio","Breckinridge County,Kentucky",18573,515351
+14,"Van Wert County,Ohio","Bullitt County,Kentucky",15110,436183
+15,"Van Wert County,Ohio","Butler County,Kentucky",19913,573857
+16,"Van Wert County,Ohio","Caldwell County,Kentucky",22805,679802
+17,"Van Wert County,Ohio","Calloway County,Kentucky",25615,764795
+18,"Van Wert County,Ohio","Campbell County,Kentucky",10321,275680
+19,"Van Wert County,Ohio","Carlisle County,Kentucky",26655,779788
+20,"Van Wert County,Ohio","Carroll County,Kentucky",11802,335136
+21,"Van Wert County,Ohio","Carter County,Kentucky",16651,438122
+22,"Van Wert County,Ohio","Casey County,Kentucky",17993,480663
+23,"Van Wert County,Ohio","Christian County,Kentucky",22454,675059
+24,"Van Wert County,Ohio","Clay County,Kentucky",18510,530725
+25,"Van Wert County,Ohio","Clinton County,Kentucky",20232,570209
+26,"Van Wert County,Ohio","Crittenden County,Kentucky",23130,621229
+27,"Van Wert County,Ohio","Cumberland County,Kentucky",20986,588448
+28,"Van Wert County,Ohio","Daviess County,Kentucky",19886,578669
+29,"Van Wert County,Ohio","Edmonson County,Kentucky",19354,561732
+30,"Van Wert County,Ohio","Elliott County,Kentucky",17981,446955
+31,"Van Wert County,Ohio","Estill County,Kentucky",15578,444675
+32,"Van Wert County,Ohio","Fayette County,Kentucky",13007,375169
+33,"Van Wert County,Ohio","Fleming County,Kentucky",14066,375470
+34,"Van Wert County,Ohio","Floyd County,Kentucky",19831,568165
+35,"Van Wert County,Ohio","Franklin County,Kentucky",14242,378520
+36,"Van Wert County,Ohio","Fulton County,Kentucky",27555,825282
+37,"Van Wert County,Ohio","Gallatin County,Kentucky",11013,307550
+38,"Van Wert County,Ohio","Garrard County,Kentucky",16037,454529
+39,"Van Wert County,Ohio","Grant County,Kentucky",11080,308023
+40,"Van Wert County,Ohio","Graves County,Kentucky",26175,777024
+41,"Van Wert County,Ohio","Grayson County,Kentucky",18241,530493
+42,"Van Wert County,Ohio","Green County,Kentucky",18928,536489
+43,"Van Wert County,Ohio","Greenup County,Kentucky",14666,389341
+44,"Van Wert County,Ohio","Hancock County,Kentucky",18771,533187
+45,"Van Wert County,Ohio","Hardin County,Kentucky",17117,492626
+46,"Van Wert County,Ohio","Harlan County,Kentucky",22573,627286
+47,"Van Wert County,Ohio","Harrison County,Kentucky",12516,342086
+48,"Van Wert County,Ohio","Hart County,Kentucky",17916,520254
+49,"Van Wert County,Ohio","Henderson County,Kentucky",19721,555078
+50,"Van Wert County,Ohio","Henry County,Kentucky",12987,363459
+51,"Van Wert County,Ohio","Hickman County,Kentucky",27184,805609
+52,"Van Wert County,Ohio","Hopkins County,Kentucky",21592,609269
+53,"Van Wert County,Ohio","Jackson County,Kentucky",17022,474511
+54,"Van Wert County,Ohio","Jefferson County,Kentucky",14203,405618
+55,"Van Wert County,Ohio","Jessamine County,Kentucky",14268,398481
+56,"Van Wert County,Ohio","Johnson County,Kentucky",18785,544158
+57,"Van Wert County,Ohio","Kenton County,Kentucky",9873,266929
+58,"Van Wert County,Ohio","Knott County,Kentucky",20105,571513
+59,"Van Wert County,Ohio","Knox County,Kentucky",18440,533421
+60,"Van Wert County,Ohio","Larue County,Kentucky",17187,496225
+61,"Van Wert County,Ohio","Laurel County,Kentucky",17291,504816
+62,"Van Wert County,Ohio","Lawrence County,Kentucky",18530,473232
+63,"Van Wert County,Ohio","Lee County,Kentucky",16894,484592
+64,"Van Wert County,Ohio","Leslie County,Kentucky",20460,581848
+65,"Van Wert County,Ohio","Letcher County,Kentucky",21358,596486
+66,"Van Wert County,Ohio","Lewis County,Kentucky",14919,387126
+67,"Van Wert County,Ohio","Lincoln County,Kentucky",16747,471447
+68,"Van Wert County,Ohio","Livingston County,Kentucky",24285,647168
+69,"Van Wert County,Ohio","Logan County,Kentucky",21654,617095
+70,"Van Wert County,Ohio","Lyon County,Kentucky",25114,740160
+71,"Van Wert County,Ohio","McCracken County,Kentucky",24953,751917
+72,"Van Wert County,Ohio","McCreary County,Kentucky",19396,549258
+73,"Van Wert County,Ohio","Madison County,Kentucky",14430,418398
+74,"Van Wert County,Ohio","Magoffin County,Kentucky",18254,526026
+75,"Van Wert County,Ohio","Marion County,Kentucky",16767,474998
+76,"Van Wert County,Ohio","Marshall County,Kentucky",24721,740581
+77,"Van Wert County,Ohio","Martin County,Kentucky",20016,505577
+78,"Van Wert County,Ohio","Mason County,Kentucky",12524,337777
+79,"Van Wert County,Ohio","Meade County,Kentucky",16650,472859
+80,"Van Wert County,Ohio","Menifee County,Kentucky",16319,456492
+81,"Van Wert County,Ohio","Mercer County,Kentucky",15143,430709
+82,"Van Wert County,Ohio","Metcalfe County,Kentucky",20113,585292
+83,"Van Wert County,Ohio","Monroe County,Kentucky",21008,608875
+84,"Van Wert County,Ohio","Montgomery County,Kentucky",14962,434401
+85,"Van Wert County,Ohio","Morgan County,Kentucky",17644,514310
+86,"Van Wert County,Ohio","Muhlenberg County,Kentucky",21124,620746
+87,"Van Wert County,Ohio","Nelson County,Kentucky",16374,474069
+88,"Van Wert County,Ohio","Nicholas County,Kentucky",14223,383370
+89,"Van Wert County,Ohio","Ohio County,Kentucky",20037,588336
+90,"Van Wert County,Ohio","Oldham County,Kentucky",13103,376564
+91,"Van Wert County,Ohio","Owen County,Kentucky",12245,333938
+92,"Van Wert County,Ohio","Owsley County,Kentucky",18041,504569
+93,"Van Wert County,Ohio","Pendleton County,Kentucky",11197,297522
+94,"Van Wert County,Ohio","Perry County,Kentucky",19256,548018
+95,"Van Wert County,Ohio","Pike County,Kentucky",21511,598490
+96,"Van Wert County,Ohio","Powell County,Kentucky",15255,443260
+97,"Van Wert County,Ohio","Robertson County,Kentucky",13120,341515
+98,"Van Wert County,Ohio","Rockcastle County,Kentucky",15864,459541
+99,"Van Wert County,Ohio","Rowan County,Kentucky",15552,408832
+100,"Van Wert County,Ohio","Russell County,Kentucky",19430,550827
+101,"Van Wert County,Ohio","Scott County,Kentucky",12009,342544
+102,"Van Wert County,Ohio","Shelby County,Kentucky",14358,390450
+103,"Van Wert County,Ohio","Simpson County,Kentucky",21235,625153
+104,"Van Wert County,Ohio","Spencer County,Kentucky",15317,435238
+105,"Van Wert County,Ohio","Taylor County,Kentucky",18056,506494
+106,"Van Wert County,Ohio","Todd County,Kentucky",22890,641256
+107,"Van Wert County,Ohio","Trigg County,Kentucky",23868,700988
+108,"Van Wert County,Ohio","Trimble County,Kentucky",12700,358460
+109,"Van Wert County,Ohio","Union County,Kentucky",21440,585524
+110,"Van Wert County,Ohio","Warren County,Kentucky",20270,590101
+111,"Van Wert County,Ohio","Washington County,Kentucky",16385,459306
+112,"Van Wert County,Ohio","Wayne County,Kentucky",19606,547899
+113,"Van Wert County,Ohio","Webster County,Kentucky",21364,591700
+114,"Van Wert County,Ohio","Whitley County,Kentucky",18124,539301
+115,"Van Wert County,Ohio","Wolfe County,Kentucky",16519,481131
+116,"Van Wert County,Ohio","Woodford County,Kentucky",13621,390801
+117,"Van Wert County,Ohio","Adams County,Ohio",12113,327020
+118,"Van Wert County,Ohio","Allen County,Ohio",1895,46390
+119,"Van Wert County,Ohio","Ashland County,Ohio",7824,218759
+120,"Van Wert County,Ohio","Ashtabula County,Ohio",13665,409526
+121,"Van Wert County,Ohio","Athens County,Ohio",11911,317109
+122,"Van Wert County,Ohio","Auglaize County,Ohio",2378,49986
+123,"Van Wert County,Ohio","Belmont County,Ohio",13970,391423
+124,"Van Wert County,Ohio","Brown County,Ohio",11365,303574
+125,"Van Wert County,Ohio","Butler County,Ohio",7861,171515
+126,"Van Wert County,Ohio","Carroll County,Ohio",12258,329737
+127,"Van Wert County,Ohio","Champaign County,Ohio",6191,150870
+128,"Van Wert County,Ohio","Clark County,Ohio",7073,193450
+129,"Van Wert County,Ohio","Clermont County,Ohio",9396,257862
+130,"Van Wert County,Ohio","Clinton County,Ohio",8539,220241
+131,"Van Wert County,Ohio","Columbiana County,Ohio",12707,343224
+132,"Van Wert County,Ohio","Coshocton County,Ohio",11035,274649
+133,"Van Wert County,Ohio","Crawford County,Ohio",4682,140956
+134,"Van Wert County,Ohio","Cuyahoga County,Ohio",10237,307239
+135,"Van Wert County,Ohio","Darke County,Ohio",4625,96779
+136,"Van Wert County,Ohio","Defiance County,Ohio",3135,62267
+137,"Van Wert County,Ohio","Delaware County,Ohio",6640,185798
+138,"Van Wert County,Ohio","Fairfield County,Ohio",9105,238366
+139,"Van Wert County,Ohio","Fayette County,Ohio",8761,240137
+140,"Van Wert County,Ohio","Franklin County,Ohio",7567,198753
+141,"Van Wert County,Ohio","Fulton County,Ohio",4411,102030
+142,"Van Wert County,Ohio","Gallia County,Ohio",12940,367113
+143,"Van Wert County,Ohio","Geauga County,Ohio",11766,346457
+144,"Van Wert County,Ohio","Greene County,Ohio",7125,194153
+145,"Van Wert County,Ohio","Guernsey County,Ohio",11699,325104
+146,"Van Wert County,Ohio","Hamilton County,Ohio",8759,236894
+147,"Van Wert County,Ohio","Hancock County,Ohio",3374,90009
+148,"Van Wert County,Ohio","Hardin County,Ohio",3533,90888
+149,"Van Wert County,Ohio","Harrison County,Ohio",12493,332104
+150,"Van Wert County,Ohio","Henry County,Ohio",3797,96334
+151,"Van Wert County,Ohio","Highland County,Ohio",10288,259933
+152,"Van Wert County,Ohio","Hocking County,Ohio",10542,281770
+153,"Van Wert County,Ohio","Holmes County,Ohio",9365,252761
+154,"Van Wert County,Ohio","Huron County,Ohio",6882,190941
+155,"Van Wert County,Ohio","Jackson County,Ohio",11881,339654
+156,"Van Wert County,Ohio","Jefferson County,Ohio",14303,369335
+157,"Van Wert County,Ohio","Knox County,Ohio",8830,222965
+158,"Van Wert County,Ohio","Lawrence County,Ohio",15563,401728
+159,"Van Wert County,Ohio","Licking County,Ohio",8937,238603
+160,"Van Wert County,Ohio","Logan County,Ohio",4526,107092
+161,"Van Wert County,Ohio","Lorain County,Ohio",9588,250358
+162,"Van Wert County,Ohio","Lucas County,Ohio",6699,176529
+163,"Van Wert County,Ohio","Madison County,Ohio",7580,185985
+164,"Van Wert County,Ohio","Mahoning County,Ohio",12635,361157
+165,"Van Wert County,Ohio","Marion County,Ohio",5608,158537
+166,"Van Wert County,Ohio","Medina County,Ohio",8564,249787
+167,"Van Wert County,Ohio","Meigs County,Ohio",12836,347217
+168,"Van Wert County,Ohio","Mercer County,Ohio",1999,43656
+169,"Van Wert County,Ohio","Miami County,Ohio",4817,126043
+170,"Van Wert County,Ohio","Monroe County,Ohio",15375,405987
+171,"Van Wert County,Ohio","Montgomery County,Ohio",6287,139518
+172,"Van Wert County,Ohio","Morgan County,Ohio",12764,333600
+173,"Van Wert County,Ohio","Morrow County,Ohio",6553,177863
+174,"Van Wert County,Ohio","Muskingum County,Ohio",10550,291260
+175,"Van Wert County,Ohio","Noble County,Ohio",13398,362223
+176,"Van Wert County,Ohio","Paulding County,Ohio",1602,36295
+177,"Van Wert County,Ohio","Perry County,Ohio",10618,279843
+178,"Van Wert County,Ohio","Pickaway County,Ohio",8601,225367
+179,"Van Wert County,Ohio","Pike County,Ohio",11450,320334
+180,"Van Wert County,Ohio","Portage County,Ohio",11086,320937
+181,"Van Wert County,Ohio","Preble County,Ohio",6014,136103
+182,"Van Wert County,Ohio","Putnam County,Ohio",2143,46391
+183,"Van Wert County,Ohio","Richland County,Ohio",6452,186592
+184,"Van Wert County,Ohio","Ross County,Ohio",10115,285375
+185,"Van Wert County,Ohio","Sandusky County,Ohio",6414,170085
+186,"Van Wert County,Ohio","Scioto County,Ohio",12409,343788
+187,"Van Wert County,Ohio","Seneca County,Ohio",5591,148599
+188,"Van Wert County,Ohio","Shelby County,Ohio",3500,78412
+189,"Van Wert County,Ohio","Stark County,Ohio",10761,304525
+190,"Van Wert County,Ohio","Summit County,Ohio",9768,285114
+191,"Van Wert County,Ohio","Trumbull County,Ohio",12668,371429
+192,"Van Wert County,Ohio","Tuscarawas County,Ohio",11566,305172
+193,"Van Wert County,Ohio","Union County,Ohio",5830,146521
+194,"Van Wert County,Ohio","Vinton County,Ohio",12246,311275
+195,"Van Wert County,Ohio","Warren County,Ohio",7980,204701
+196,"Van Wert County,Ohio","Washington County,Ohio",14582,403168
+197,"Van Wert County,Ohio","Wayne County,Ohio",8222,237990
+198,"Van Wert County,Ohio","Williams County,Ohio",4095,82569
+199,"Van Wert County,Ohio","Wood County,Ohio",4462,130638
+200,"Van Wert County,Ohio","Wyandot County,Ohio",3760,108881
+201,"Van Wert County,Ohio","Accomack County,Virginia",39919,1126996
+202,"Van Wert County,Ohio","Albemarle County,Virginia",29632,857091
+203,"Van Wert County,Ohio","Alleghany County,Virginia",24301,694114
+204,"Van Wert County,Ohio","Amelia County,Virginia",34333,957209
+205,"Van Wert County,Ohio","Amherst County,Virginia",29630,825080
+206,"Van Wert County,Ohio","Appomattox County,Virginia",31223,863839
+207,"Van Wert County,Ohio","Arlington County,Virginia",28783,843923
+208,"Van Wert County,Ohio","Augusta County,Virginia",28243,795431
+209,"Van Wert County,Ohio","Bath County,Virginia",27313,769424
+210,"Van Wert County,Ohio","Bedford County,Virginia",29890,811205
+211,"Van Wert County,Ohio","Bland County,Virginia",23263,660334
+212,"Van Wert County,Ohio","Botetourt County,Virginia",27455,765414
+213,"Van Wert County,Ohio","Brunswick County,Virginia",36876,1006882
+214,"Van Wert County,Ohio","Buchanan County,Virginia",25563,677996
+215,"Van Wert County,Ohio","Buckingham County,Virginia",31506,874774
+216,"Van Wert County,Ohio","Campbell County,Virginia",31147,866311
+217,"Van Wert County,Ohio","Caroline County,Virginia",32788,962913
+218,"Van Wert County,Ohio","Carroll County,Virginia",25509,729771
+219,"Van Wert County,Ohio","Charles City County,Virginia",35072,1022971
+220,"Van Wert County,Ohio","Charlotte County,Virginia",33108,917360
+221,"Van Wert County,Ohio","Chesterfield County,Virginia",34208,1000755
+222,"Van Wert County,Ohio","Clarke County,Virginia",27531,773656
+223,"Van Wert County,Ohio","Craig County,Virginia",25944,715199
+224,"Van Wert County,Ohio","Culpeper County,Virginia",30851,873095
+225,"Van Wert County,Ohio","Cumberland County,Virginia",32716,902777
+226,"Van Wert County,Ohio","Dickenson County,Virginia",24917,663432
+227,"Van Wert County,Ohio","Dinwiddie County,Virginia",35955,1051187
+228,"Van Wert County,Ohio","Essex County,Virginia",34190,986967
+229,"Van Wert County,Ohio","Fairfax County,Virginia",28474,834591
+230,"Van Wert County,Ohio","Fauquier County,Virginia",29281,839822
+231,"Van Wert County,Ohio","Floyd County,Virginia",27129,748736
+232,"Van Wert County,Ohio","Fluvanna County,Virginia",31310,909263
+233,"Van Wert County,Ohio","Franklin County,Virginia",29403,812438
+234,"Van Wert County,Ohio","Frederick County,Virginia",26321,748378
+235,"Van Wert County,Ohio","Giles County,Virginia",23994,671892
+236,"Van Wert County,Ohio","Gloucester County,Virginia",37242,1077160
+237,"Van Wert County,Ohio","Goochland County,Virginia",32214,939874
+238,"Van Wert County,Ohio","Grayson County,Virginia",25911,719479
+239,"Van Wert County,Ohio","Greene County,Virginia",31625,892675
+240,"Van Wert County,Ohio","Greensville County,Virginia",37371,1099938
+241,"Van Wert County,Ohio","Halifax County,Virginia",33812,927458
+242,"Van Wert County,Ohio","Hanover County,Virginia",33420,980981
+243,"Van Wert County,Ohio","Henrico County,Virginia",33931,993940
+244,"Van Wert County,Ohio","Henry County,Virginia",29382,816492
+245,"Van Wert County,Ohio","Highland County,Virginia",27092,695123
+246,"Van Wert County,Ohio","Isle of Wight County,Virginia",38183,1098517
+247,"Van Wert County,Ohio","James City County,Virginia",36308,1063742
+248,"Van Wert County,Ohio","King and Queen County,Virginia",35242,1022228
+249,"Van Wert County,Ohio","King George County,Virginia",32749,946774
+250,"Van Wert County,Ohio","King William County,Virginia",34207,1000025
+251,"Van Wert County,Ohio","Lancaster County,Virginia",36613,1042961
+252,"Van Wert County,Ohio","Lee County,Virginia",23370,648239
+253,"Van Wert County,Ohio","Loudoun County,Virginia",28488,818559
+254,"Van Wert County,Ohio","Louisa County,Virginia",31871,922969
+255,"Van Wert County,Ohio","Lunenburg County,Virginia",34880,958644
+256,"Van Wert County,Ohio","Madison County,Virginia",31274,861354
+257,"Van Wert County,Ohio","Mathews County,Virginia",38067,1100583
+258,"Van Wert County,Ohio","Mecklenburg County,Virginia",35871,971768
+259,"Van Wert County,Ohio","Middlesex County,Virginia",36694,1050930
+260,"Van Wert County,Ohio","Montgomery County,Virginia",25077,699899
+261,"Van Wert County,Ohio","Nelson County,Virginia",30171,836771
+262,"Van Wert County,Ohio","New Kent County,Virginia",35744,1037656
+263,"Van Wert County,Ohio","Northampton County,Virginia",40725,1180406
+264,"Van Wert County,Ohio","Northumberland County,Virginia",36653,1041474
+265,"Van Wert County,Ohio","Nottoway County,Virginia",34373,959024
+266,"Van Wert County,Ohio","Orange County,Virginia",32192,907593
+267,"Van Wert County,Ohio","Page County,Virginia",29814,830055
+268,"Van Wert County,Ohio","Patrick County,Virginia",27614,774807
+269,"Van Wert County,Ohio","Pittsylvania County,Virginia",31698,870700
+270,"Van Wert County,Ohio","Powhatan County,Virginia",33467,965095
+271,"Van Wert County,Ohio","Prince Edward County,Virginia",32988,916359
+272,"Van Wert County,Ohio","Prince George County,Virginia",35718,1037771
+273,"Van Wert County,Ohio","Prince William County,Virginia",29381,845925
+274,"Van Wert County,Ohio","Pulaski County,Virginia",25172,696230
+275,"Van Wert County,Ohio","Rappahannock County,Virginia",29592,824959
+276,"Van Wert County,Ohio","Richmond County,Virginia",35353,1014117
+277,"Van Wert County,Ohio","Roanoke County,Virginia",26697,742692
+278,"Van Wert County,Ohio","Rockbridge County,Virginia",26634,762471
+279,"Van Wert County,Ohio","Rockingham County,Virginia",28705,786963
+280,"Van Wert County,Ohio","Russell County,Virginia",27094,696545
+281,"Van Wert County,Ohio","Scott County,Virginia",25690,696080
+282,"Van Wert County,Ohio","Shenandoah County,Virginia",28212,810769
+283,"Van Wert County,Ohio","Smyth County,Virginia",25621,725686
+284,"Van Wert County,Ohio","Southampton County,Virginia",37749,1096052
+285,"Van Wert County,Ohio","Spotsylvania County,Virginia",32160,931173
+286,"Van Wert County,Ohio","Stafford County,Virginia",30448,897877
+287,"Van Wert County,Ohio","Surry County,Virginia",37051,1062604
+288,"Van Wert County,Ohio","Sussex County,Virginia",36413,1066295
+289,"Van Wert County,Ohio","Tazewell County,Virginia",24079,678921
+290,"Van Wert County,Ohio","Warren County,Virginia",28136,796317
+291,"Van Wert County,Ohio","Washington County,Virginia",27014,765152
+292,"Van Wert County,Ohio","Westmoreland County,Virginia",33717,965575
+293,"Van Wert County,Ohio","Wise County,Virginia",23181,639331
+294,"Van Wert County,Ohio","Wythe County,Virginia",23868,678551
+295,"Van Wert County,Ohio","York County,Virginia",37595,1094517
+296,"Van Wert County,Ohio","Alexandria City County,Virginia",29299,861105
+297,"Van Wert County,Ohio","Bedford City County,Virginia",29054,802636
+298,"Van Wert County,Ohio","Bristol City County,Virginia",27643,737407
+299,"Van Wert County,Ohio","Buena Vista City County,Virginia",26989,776448
+300,"Van Wert County,Ohio","Charlottesville City County,Virginia",30101,872306
+301,"Van Wert County,Ohio","Chesapeake City County,Virginia",39059,1147422
+302,"Van Wert County,Ohio","Clifton Forge City County,Virginia",24845,714321
+303,"Van Wert County,Ohio","Colonial Heights City County,Virginia",34768,1016648
+304,"Van Wert County,Ohio","Covington City County,Virginia",24370,697700
+305,"Van Wert County,Ohio","Danville City County,Virginia",31540,870948
+306,"Van Wert County,Ohio","Emporia City County,Virginia",37078,1086532
+307,"Van Wert County,Ohio","Fairfax City County,Virginia",28944,846223
+308,"Van Wert County,Ohio","Falls Church City County,Virginia",28491,838235
+309,"Van Wert County,Ohio","Franklin City County,Virginia",38296,1103907
+310,"Van Wert County,Ohio","Fredericksburg City County,Virginia",31261,913468
+311,"Van Wert County,Ohio","Galax City County,Virginia",26132,735638
+312,"Van Wert County,Ohio","Hampton City County,Virginia",37546,1104223
+313,"Van Wert County,Ohio","Harrisonburg City County,Virginia",29777,751286
+314,"Van Wert County,Ohio","Hopewell City County,Virginia",34804,1015614
+315,"Van Wert County,Ohio","Lexington City County,Virginia",26623,764939
+316,"Van Wert County,Ohio","Lynchburg City County,Virginia",30206,840054
+317,"Van Wert County,Ohio","Manassas City County,Virginia",29608,850870
+318,"Van Wert County,Ohio","Manassas Park City County,Virginia",29684,863463
+319,"Van Wert County,Ohio","Martinsville City County,Virginia",29910,825286
+320,"Van Wert County,Ohio","Newport News City County,Virginia",37102,1090709
+321,"Van Wert County,Ohio","Norfolk City County,Virginia",38852,1129639
+322,"Van Wert County,Ohio","Norton City County,Virginia",23810,651143
+323,"Van Wert County,Ohio","Petersburg City County,Virginia",34639,1017635
+324,"Van Wert County,Ohio","Poquoson City County,Virginia",37774,1101285
+325,"Van Wert County,Ohio","Portsmouth City County,Virginia",38791,1138460
+326,"Van Wert County,Ohio","Radford County,Virginia",25484,697939
+327,"Van Wert County,Ohio","Richmond City County,Virginia",33507,981751
+328,"Van Wert County,Ohio","Roanoke City County,Virginia",27299,762797
+329,"Van Wert County,Ohio","Salem City County,Virginia",26710,749347
+330,"Van Wert County,Ohio","South Boston City County,Virginia",33552,925127
+331,"Van Wert County,Ohio","Staunton City County,Virginia",28394,819583
+332,"Van Wert County,Ohio","Suffolk City County,Virginia",39026,1113241
+333,"Van Wert County,Ohio","Virginia Beach City County,Virginia",39413,1152897
+334,"Van Wert County,Ohio","Waynesboro City County,Virginia",28732,832301
+335,"Van Wert County,Ohio","Williamsburg City County,Virginia",36146,1062958
+336,"Van Wert County,Ohio","Winchester City County,Virginia",26459,752182
+337,"Van Wert County,Ohio","Barbour County,West Virginia",20218,538034
+338,"Van Wert County,Ohio","Berkeley County,West Virginia",25247,722066
+339,"Van Wert County,Ohio","Boone County,West Virginia",19616,526598
+340,"Van Wert County,Ohio","Braxton County,West Virginia",21050,564544
+341,"Van Wert County,Ohio","Brooke County,West Virginia",15606,402161
+342,"Van Wert County,Ohio","Cabell County,West Virginia",16316,427555
+343,"Van Wert County,Ohio","Calhoun County,West Virginia",18337,464319
+344,"Van Wert County,Ohio","Clay County,West Virginia",19816,535456
+345,"Van Wert County,Ohio","Doddridge County,West Virginia",17205,463751
+346,"Van Wert County,Ohio","Fayette County,West Virginia",21181,573217
+347,"Van Wert County,Ohio","Gilmer County,West Virginia",19392,478856
+348,"Van Wert County,Ohio","Grant County,West Virginia",24876,679047
+349,"Van Wert County,Ohio","Greenbrier County,West Virginia",24255,651256
+350,"Van Wert County,Ohio","Hampshire County,West Virginia",25511,677905
+351,"Van Wert County,Ohio","Hancock County,West Virginia",14568,384587
+352,"Van Wert County,Ohio","Hardy County,West Virginia",25962,711648
+353,"Van Wert County,Ohio","Harrison County,West Virginia",18288,496746
+354,"Van Wert County,Ohio","Jackson County,West Virginia",15450,407646
+355,"Van Wert County,Ohio","Jefferson County,West Virginia",26704,777939
+356,"Van Wert County,Ohio","Kanawha County,West Virginia",18490,507281
+357,"Van Wert County,Ohio","Lewis County,West Virginia",19981,498896
+358,"Van Wert County,Ohio","Lincoln County,West Virginia",19056,504889
+359,"Van Wert County,Ohio","Logan County,West Virginia",20545,563716
+360,"Van Wert County,Ohio","McDowell County,West Virginia",24852,654594
+361,"Van Wert County,Ohio","Marion County,West Virginia",20225,539868
+362,"Van Wert County,Ohio","Marshall County,West Virginia",16006,428178
+363,"Van Wert County,Ohio","Mason County,West Virginia",13971,401577
+364,"Van Wert County,Ohio","Mercer County,West Virginia",21817,618840
+365,"Van Wert County,Ohio","Mineral County,West Virginia",24367,662613
+366,"Van Wert County,Ohio","Mingo County,West Virginia",20590,568224
+367,"Van Wert County,Ohio","Monongalia County,West Virginia",19158,549085
+368,"Van Wert County,Ohio","Monroe County,West Virginia",24862,663552
+369,"Van Wert County,Ohio","Morgan County,West Virginia",24738,711458
+370,"Van Wert County,Ohio","Nicholas County,West Virginia",21533,595337
+371,"Van Wert County,Ohio","Ohio County,West Virginia",15067,414908
+372,"Van Wert County,Ohio","Pendleton County,West Virginia",26604,696556
+373,"Van Wert County,Ohio","Pleasants County,West Virginia",15876,432856
+374,"Van Wert County,Ohio","Pocahontas County,West Virginia",26862,664876
+375,"Van Wert County,Ohio","Preston County,West Virginia",21395,580870
+376,"Van Wert County,Ohio","Putnam County,West Virginia",15606,441600
+377,"Van Wert County,Ohio","Raleigh County,West Virginia",20358,572533
+378,"Van Wert County,Ohio","Randolph County,West Virginia",22282,594682
+379,"Van Wert County,Ohio","Ritchie County,West Virginia",16370,436793
+380,"Van Wert County,Ohio","Roane County,West Virginia",17076,436462
+381,"Van Wert County,Ohio","Summers County,West Virginia",23810,633971
+382,"Van Wert County,Ohio","Taylor County,West Virginia",20117,535441
+383,"Van Wert County,Ohio","Tucker County,West Virginia",22783,588762
+384,"Van Wert County,Ohio","Tyler County,West Virginia",17755,471527
+385,"Van Wert County,Ohio","Upshur County,West Virginia",21257,569123
+386,"Van Wert County,Ohio","Wayne County,West Virginia",18144,462818
+387,"Van Wert County,Ohio","Webster County,West Virginia",23717,622417
+388,"Van Wert County,Ohio","Wetzel County,West Virginia",18439,487626
+389,"Van Wert County,Ohio","Wirt County,West Virginia",15793,413428
+390,"Van Wert County,Ohio","Wood County,West Virginia",14477,388158
+391,"Van Wert County,Ohio","Wyoming County,West Virginia",22302,612475

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Clarke County,Virginia","Adair County,Kentucky",33016,890136
+1,"Clarke County,Virginia","Allen County,Kentucky",34412,1009945
+2,"Clarke County,Virginia","Anderson County,Kentucky",28644,852921
+3,"Clarke County,Virginia","Ballard County,Kentucky",41316,1245200
+4,"Clarke County,Virginia","Barren County,Kentucky",34201,968891
+5,"Clarke County,Virginia","Bath County,Kentucky",24291,724102
+6,"Clarke County,Virginia","Bell County,Kentucky",25511,691442
+7,"Clarke County,Virginia","Boone County,Kentucky",27901,770240
+8,"Clarke County,Virginia","Bourbon County,Kentucky",26205,770520
+9,"Clarke County,Virginia","Boyd County,Kentucky",20967,618427
+10,"Clarke County,Virginia","Boyle County,Kentucky",29873,856807
+11,"Clarke County,Virginia","Bracken County,Kentucky",26616,764602
+12,"Clarke County,Virginia","Breathitt County,Kentucky",27136,727206
+13,"Clarke County,Virginia","Breckinridge County,Kentucky",34177,1005602
+14,"Clarke County,Virginia","Bullitt County,Kentucky",30747,926722
+15,"Clarke County,Virginia","Butler County,Kentucky",34842,1027600
+16,"Clarke County,Virginia","Caldwell County,Kentucky",37734,1133545
+17,"Clarke County,Virginia","Calloway County,Kentucky",39157,1177060
+18,"Clarke County,Virginia","Campbell County,Kentucky",27819,768725
+19,"Clarke County,Virginia","Carlisle County,Kentucky",41774,1260569
+20,"Clarke County,Virginia","Carroll County,Kentucky",29475,832005
+21,"Clarke County,Virginia","Carter County,Kentucky",22131,648524
+22,"Clarke County,Virginia","Casey County,Kentucky",31367,888312
+23,"Clarke County,Virginia","Christian County,Kentucky",36050,1098039
+24,"Clarke County,Virginia","Clay County,Kentucky",28084,751784
+25,"Clarke County,Virginia","Clinton County,Kentucky",31459,889350
+26,"Clarke County,Virginia","Crittenden County,Kentucky",39314,1166616
+27,"Clarke County,Virginia","Cumberland County,Kentucky",32339,910019
+28,"Clarke County,Virginia","Daviess County,Kentucky",35865,1074042
+29,"Clarke County,Virginia","Edmonson County,Kentucky",34282,1015475
+30,"Clarke County,Virginia","Elliott County,Kentucky",23462,674294
+31,"Clarke County,Virginia","Estill County,Kentucky",27284,786417
+32,"Clarke County,Virginia","Fayette County,Kentucky",26451,790414
+33,"Clarke County,Virginia","Fleming County,Kentucky",24717,727288
+34,"Clarke County,Virginia","Floyd County,Kentucky",25100,725692
+35,"Clarke County,Virginia","Franklin County,Kentucky",28489,839330
+36,"Clarke County,Virginia","Fulton County,Kentucky",42178,1281533
+37,"Clarke County,Virginia","Gallatin County,Kentucky",28687,804418
+38,"Clarke County,Virginia","Garrard County,Kentucky",29056,837567
+39,"Clarke County,Virginia","Grant County,Kentucky",28754,804892
+40,"Clarke County,Virginia","Graves County,Kentucky",40798,1233275
+41,"Clarke County,Virginia","Grayson County,Kentucky",33169,984236
+42,"Clarke County,Virginia","Green County,Kentucky",32949,949441
+43,"Clarke County,Virginia","Greenup County,Kentucky",22742,659553
+44,"Clarke County,Virginia","Hancock County,Kentucky",34973,1038495
+45,"Clarke County,Virginia","Hardin County,Kentucky",32046,946369
+46,"Clarke County,Virginia","Harlan County,Kentucky",24586,668069
+47,"Clarke County,Virginia","Harrison County,Kentucky",27776,803619
+48,"Clarke County,Virginia","Hart County,Kentucky",32845,973997
+49,"Clarke County,Virginia","Henderson County,Kentucky",37672,1126472
+50,"Clarke County,Virginia","Henry County,Kentucky",30090,883049
+51,"Clarke County,Virginia","Hickman County,Kentucky",41807,1261860
+52,"Clarke County,Virginia","Hopkins County,Kentucky",37193,1108014
+53,"Clarke County,Virginia","Jackson County,Kentucky",29955,788203
+54,"Clarke County,Virginia","Jefferson County,Kentucky",30184,898582
+55,"Clarke County,Virginia","Jessamine County,Kentucky",27920,811878
+56,"Clarke County,Virginia","Johnson County,Kentucky",23748,691323
+57,"Clarke County,Virginia","Kenton County,Kentucky",27546,763798
+58,"Clarke County,Virginia","Knott County,Kentucky",24676,669955
+59,"Clarke County,Virginia","Knox County,Kentucky",26841,733435
+60,"Clarke County,Virginia","Larue County,Kentucky",32117,933544
+61,"Clarke County,Virginia","Laurel County,Kentucky",28736,768262
+62,"Clarke County,Virginia","Lawrence County,Kentucky",22890,662747
+63,"Clarke County,Virginia","Lee County,Kentucky",28128,780154
+64,"Clarke County,Virginia","Leslie County,Kentucky",26048,696348
+65,"Clarke County,Virginia","Letcher County,Kentucky",23076,633502
+66,"Clarke County,Virginia","Lewis County,Kentucky",24170,700341
+67,"Clarke County,Virginia","Lincoln County,Kentucky",29766,854486
+68,"Clarke County,Virginia","Livingston County,Kentucky",39648,1199139
+69,"Clarke County,Virginia","Logan County,Kentucky",36482,1050940
+70,"Clarke County,Virginia","Lyon County,Kentucky",39404,1176314
+71,"Clarke County,Virginia","McCracken County,Kentucky",39929,1213260
+72,"Clarke County,Virginia","McCreary County,Kentucky",28466,826196
+73,"Clarke County,Virginia","Madison County,Kentucky",27449,801437
+74,"Clarke County,Virginia","Magoffin County,Kentucky",24716,712002
+75,"Clarke County,Virginia","Marion County,Kentucky",30495,895154
+76,"Clarke County,Virginia","Marshall County,Kentucky",39343,1196832
+77,"Clarke County,Virginia","Martin County,Kentucky",24004,644471
+78,"Clarke County,Virginia","Mason County,Kentucky",25965,744148
+79,"Clarke County,Virginia","Meade County,Kentucky",32644,970897
+80,"Clarke County,Virginia","Menifee County,Kentucky",25407,736166
+81,"Clarke County,Virginia","Mercer County,Kentucky",28871,850865
+82,"Clarke County,Virginia","Metcalfe County,Kentucky",33672,920400
+83,"Clarke County,Virginia","Monroe County,Kentucky",32900,940440
+84,"Clarke County,Virginia","Montgomery County,Kentucky",25104,742642
+85,"Clarke County,Virginia","Morgan County,Kentucky",25186,711881
+86,"Clarke County,Virginia","Muhlenberg County,Kentucky",36053,1074489
+87,"Clarke County,Virginia","Nelson County,Kentucky",30103,894225
+88,"Clarke County,Virginia","Nicholas County,Kentucky",26782,770526
+89,"Clarke County,Virginia","Ohio County,Kentucky",34966,1042079
+90,"Clarke County,Virginia","Oldham County,Kentucky",30255,910463
+91,"Clarke County,Virginia","Owen County,Kentucky",29310,866107
+92,"Clarke County,Virginia","Owsley County,Kentucky",29273,765080
+93,"Clarke County,Virginia","Pendleton County,Kentucky",28553,805526
+94,"Clarke County,Virginia","Perry County,Kentucky",25650,690379
+95,"Clarke County,Virginia","Pike County,Kentucky",24199,609717
+96,"Clarke County,Virginia","Powell County,Kentucky",26548,772388
+97,"Clarke County,Virginia","Robertson County,Kentucky",26700,770032
+98,"Clarke County,Virginia","Rockcastle County,Kentucky",28883,842579
+99,"Clarke County,Virginia","Rowan County,Kentucky",23434,696309
+100,"Clarke County,Virginia","Russell County,Kentucky",32621,874119
+101,"Clarke County,Virginia","Scott County,Kentucky",27285,818441
+102,"Clarke County,Virginia","Shelby County,Kentucky",29112,869717
+103,"Clarke County,Virginia","Simpson County,Kentucky",35449,1026915
+104,"Clarke County,Virginia","Spencer County,Kentucky",29642,875565
+105,"Clarke County,Virginia","Taylor County,Kentucky",31784,926650
+106,"Clarke County,Virginia","Todd County,Kentucky",36466,1090986
+107,"Clarke County,Virginia","Trigg County,Kentucky",36957,1115399
+108,"Clarke County,Virginia","Trimble County,Kentucky",30374,855329
+109,"Clarke County,Virginia","Union County,Kentucky",39391,1156919
+110,"Clarke County,Virginia","Warren County,Kentucky",35198,1043844
+111,"Clarke County,Virginia","Washington County,Kentucky",30113,879462
+112,"Clarke County,Virginia","Wayne County,Kentucky",30970,873327
+113,"Clarke County,Virginia","Webster County,Kentucky",38302,1136102
+114,"Clarke County,Virginia","Whitley County,Kentucky",27070,810959
+115,"Clarke County,Virginia","Wolfe County,Kentucky",26280,735243
+116,"Clarke County,Virginia","Woodford County,Kentucky",27505,821077
+117,"Clarke County,Virginia","Adams County,Ohio",23746,627086
+118,"Clarke County,Virginia","Allen County,Ohio",26462,741297
+119,"Clarke County,Virginia","Ashland County,Ohio",21011,567986
+120,"Clarke County,Virginia","Ashtabula County,Ohio",19008,522456
+121,"Clarke County,Virginia","Athens County,Ohio",18142,474596
+122,"Clarke County,Virginia","Auglaize County,Ohio",26428,732888
+123,"Clarke County,Virginia","Belmont County,Ohio",15049,389655
+124,"Clarke County,Virginia","Brown County,Ohio",25170,659946
+125,"Clarke County,Virginia","Butler County,Ohio",26898,727619
+126,"Clarke County,Virginia","Carroll County,Ohio",17524,434677
+127,"Clarke County,Virginia","Champaign County,Ohio",24172,647783
+128,"Clarke County,Virginia","Clark County,Ohio",23050,638354
+129,"Clarke County,Virginia","Clermont County,Ohio",25824,685110
+130,"Clarke County,Virginia","Clinton County,Ohio",24441,673636
+131,"Clarke County,Virginia","Columbiana County,Ohio",16311,416694
+132,"Clarke County,Virginia","Coshocton County,Ohio",19406,515105
+133,"Clarke County,Virginia","Crawford County,Ohio",22919,639180
+134,"Clarke County,Virginia","Cuyahoga County,Ohio",19004,520300
+135,"Clarke County,Virginia","Darke County,Ohio",26626,736256
+136,"Clarke County,Virginia","Defiance County,Ohio",27323,769263
+137,"Clarke County,Virginia","Delaware County,Ohio",22326,614102
+138,"Clarke County,Virginia","Fairfield County,Ohio",20421,550888
+139,"Clarke County,Virginia","Fayette County,Ohio",23078,635686
+140,"Clarke County,Virginia","Franklin County,Ohio",21021,577989
+141,"Clarke County,Virginia","Fulton County,Ohio",25675,726114
+142,"Clarke County,Virginia","Gallia County,Ohio",20024,514473
+143,"Clarke County,Virginia","Geauga County,Ohio",18498,495118
+144,"Clarke County,Virginia","Greene County,Ohio",23826,663852
+145,"Clarke County,Virginia","Guernsey County,Ohio",16952,453164
+146,"Clarke County,Virginia","Hamilton County,Ohio",26400,738197
+147,"Clarke County,Virginia","Hancock County,Ohio",24950,701261
+148,"Clarke County,Virginia","Hardin County,Ohio",25326,685024
+149,"Clarke County,Virginia","Harrison County,Ohio",16738,436894
+150,"Clarke County,Virginia","Henry County,Ohio",26129,715881
+151,"Clarke County,Virginia","Highland County,Ohio",24283,627100
+152,"Clarke County,Virginia","Hocking County,Ohio",19767,520500
+153,"Clarke County,Virginia","Holmes County,Ohio",20465,537989
+154,"Clarke County,Virginia","Huron County,Ohio",22287,597592
+155,"Clarke County,Virginia","Jackson County,Ohio",20269,537651
+156,"Clarke County,Virginia","Jefferson County,Ohio",15480,398168
+157,"Clarke County,Virginia","Knox County,Ohio",21194,557581
+158,"Clarke County,Virginia","Lawrence County,Ohio",22106,623483
+159,"Clarke County,Virginia","Licking County,Ohio",20580,538652
+160,"Clarke County,Virginia","Logan County,Ohio",24346,679301
+161,"Clarke County,Virginia","Lorain County,Ohio",20056,550020
+162,"Clarke County,Virginia","Lucas County,Ohio",24629,678964
+163,"Clarke County,Virginia","Madison County,Ohio",22298,612710
+164,"Clarke County,Virginia","Mahoning County,Ohio",15494,412448
+165,"Clarke County,Virginia","Marion County,Ohio",23732,640195
+166,"Clarke County,Virginia","Medina County,Ohio",19643,535106
+167,"Clarke County,Virginia","Meigs County,Ohio",18107,467174
+168,"Clarke County,Virginia","Mercer County,Ohio",27664,759822
+169,"Clarke County,Virginia","Miami County,Ohio",25137,701688
+170,"Clarke County,Virginia","Monroe County,Ohio",17482,436338
+171,"Clarke County,Virginia","Montgomery County,Ohio",25398,707134
+172,"Clarke County,Virginia","Morgan County,Ohio",18584,476943
+173,"Clarke County,Virginia","Morrow County,Ohio",22649,629439
+174,"Clarke County,Virginia","Muskingum County,Ohio",17798,481156
+175,"Clarke County,Virginia","Noble County,Ohio",18064,474470
+176,"Clarke County,Virginia","Paulding County,Ohio",28528,805251
+177,"Clarke County,Virginia","Perry County,Ohio",19897,529098
+178,"Clarke County,Virginia","Pickaway County,Ohio",21798,595566
+179,"Clarke County,Virginia","Pike County,Ohio",21715,576958
+180,"Clarke County,Virginia","Portage County,Ohio",17349,468461
+181,"Clarke County,Virginia","Preble County,Ohio",26168,729846
+182,"Clarke County,Virginia","Putnam County,Ohio",27148,761067
+183,"Clarke County,Virginia","Richland County,Ohio",21567,589414
+184,"Clarke County,Virginia","Ross County,Ohio",21995,585465
+185,"Clarke County,Virginia","Sandusky County,Ohio",22917,637539
+186,"Clarke County,Virginia","Scioto County,Ohio",22354,593029
+187,"Clarke County,Virginia","Seneca County,Ohio",23648,647211
+188,"Clarke County,Virginia","Shelby County,Ohio",26104,709548
+189,"Clarke County,Virginia","Stark County,Ohio",18129,464594
+190,"Clarke County,Virginia","Summit County,Ohio",18407,494276
+191,"Clarke County,Virginia","Trumbull County,Ohio",16652,449912
+192,"Clarke County,Virginia","Tuscarawas County,Ohio",18247,468178
+193,"Clarke County,Virginia","Union County,Ohio",22850,629532
+194,"Clarke County,Virginia","Van Wert County,Ohio",27259,771579
+195,"Clarke County,Virginia","Vinton County,Ohio",20260,523038
+196,"Clarke County,Virginia","Warren County,Ohio",24816,694165
+197,"Clarke County,Virginia","Washington County,Ohio",16923,432407
+198,"Clarke County,Virginia","Wayne County,Ohio",20749,553916
+199,"Clarke County,Virginia","Williams County,Ohio",26920,757571
+200,"Clarke County,Virginia","Wood County,Ohio",24814,685867
+201,"Clarke County,Virginia","Wyandot County,Ohio",23920,665397
+202,"Clarke County,Virginia","Accomack County,Virginia",16259,407681
+203,"Clarke County,Virginia","Albemarle County,Virginia",7734,214068
+204,"Clarke County,Virginia","Alleghany County,Virginia",10496,301076
+205,"Clarke County,Virginia","Amelia County,Virginia",11188,272744
+206,"Clarke County,Virginia","Amherst County,Virginia",10167,264974
+207,"Clarke County,Virginia","Appomattox County,Virginia",11382,289603
+208,"Clarke County,Virginia","Arlington County,Virginia",4085,96645
+209,"Clarke County,Virginia","Augusta County,Virginia",7172,191321
+210,"Clarke County,Virginia","Bath County,Virginia",9793,227986
+211,"Clarke County,Virginia","Bedford County,Virginia",12312,309490
+212,"Clarke County,Virginia","Bland County,Virginia",14778,430760
+213,"Clarke County,Virginia","Botetourt County,Virginia",9803,272012
+214,"Clarke County,Virginia","Brunswick County,Virginia",12490,323330
+215,"Clarke County,Virginia","Buchanan County,Virginia",20534,565219
+216,"Clarke County,Virginia","Buckingham County,Virginia",11065,279023
+217,"Clarke County,Virginia","Campbell County,Virginia",11529,305107
+218,"Clarke County,Virginia","Caroline County,Virginia",7487,173897
+219,"Clarke County,Virginia","Carroll County,Virginia",14900,436176
+220,"Clarke County,Virginia","Charles City County,Virginia",9957,245380
+221,"Clarke County,Virginia","Charlotte County,Virginia",13364,338103
+222,"Clarke County,Virginia","Chesterfield County,Virginia",9887,238297
+223,"Clarke County,Virginia","Craig County,Virginia",12644,328339
+224,"Clarke County,Virginia","Culpeper County,Virginia",4552,96514
+225,"Clarke County,Virginia","Cumberland County,Virginia",10809,235697
+226,"Clarke County,Virginia","Dickenson County,Virginia",21244,583396
+227,"Clarke County,Virginia","Dinwiddie County,Virginia",11128,283297
+228,"Clarke County,Virginia","Essex County,Virginia",8889,197951
+229,"Clarke County,Virginia","Fairfax County,Virginia",3509,83518
+230,"Clarke County,Virginia","Fauquier County,Virginia",2982,63241
+231,"Clarke County,Virginia","Floyd County,Virginia",13426,377723
+232,"Clarke County,Virginia","Fluvanna County,Virginia",8370,181772
+233,"Clarke County,Virginia","Franklin County,Virginia",12764,356168
+234,"Clarke County,Virginia","Frederick County,Virginia",1905,34389
+235,"Clarke County,Virginia","Giles County,Virginia",13567,385875
+236,"Clarke County,Virginia","Gloucester County,Virginia",12128,299568
+237,"Clarke County,Virginia","Goochland County,Virginia",8975,199168
+238,"Clarke County,Virginia","Grayson County,Virginia",16231,452356
+239,"Clarke County,Virginia","Greene County,Virginia",7316,161142
+240,"Clarke County,Virginia","Greensville County,Virginia",12544,332048
+241,"Clarke County,Virginia","Halifax County,Virginia",14850,376813
+242,"Clarke County,Virginia","Hanover County,Virginia",8305,203389
+243,"Clarke County,Virginia","Henrico County,Virginia",9104,226050
+244,"Clarke County,Virginia","Henry County,Virginia",14173,391130
+245,"Clarke County,Virginia","Highland County,Virginia",9924,225876
+246,"Clarke County,Virginia","Isle of Wight County,Virginia",13239,334640
+247,"Clarke County,Virginia","James City County,Virginia",11193,286151
+248,"Clarke County,Virginia","King and Queen County,Virginia",9940,233212
+249,"Clarke County,Virginia","King George County,Virginia",7409,157394
+250,"Clarke County,Virginia","King William County,Virginia",8906,211010
+251,"Clarke County,Virginia","Lancaster County,Virginia",11312,253945
+252,"Clarke County,Virginia","Lee County,Virginia",21739,615050
+253,"Clarke County,Virginia","Loudoun County,Virginia",1907,39985
+254,"Clarke County,Virginia","Louisa County,Virginia",7160,159889
+255,"Clarke County,Virginia","Lunenburg County,Virginia",13603,331189
+256,"Clarke County,Virginia","Madison County,Virginia",5747,107785
+257,"Clarke County,Virginia","Mathews County,Virginia",13023,298333
+258,"Clarke County,Virginia","Mecklenburg County,Virginia",14216,371602
+259,"Clarke County,Virginia","Middlesex County,Virginia",11392,261914
+260,"Clarke County,Virginia","Montgomery County,Virginia",12131,350146
+261,"Clarke County,Virginia","Nelson County,Virginia",8613,232569
+262,"Clarke County,Virginia","New Kent County,Virginia",10629,260065
+263,"Clarke County,Virginia","Northampton County,Virginia",15610,402814
+264,"Clarke County,Virginia","Northumberland County,Virginia",11351,252458
+265,"Clarke County,Virginia","Nottoway County,Virginia",11998,297877
+266,"Clarke County,Virginia","Orange County,Virginia",5893,131012
+267,"Clarke County,Virginia","Page County,Virginia",4287,76487
+268,"Clarke County,Virginia","Patrick County,Virginia",15546,414626
+269,"Clarke County,Virginia","Pittsylvania County,Virginia",14099,376734
+270,"Clarke County,Virginia","Powhatan County,Virginia",9991,248984
+271,"Clarke County,Virginia","Prince Edward County,Virginia",12584,333041
+272,"Clarke County,Virginia","Prince George County,Virginia",10773,273893
+273,"Clarke County,Virginia","Prince William County,Virginia",3082,69344
+274,"Clarke County,Virginia","Pulaski County,Virginia",12858,372779
+275,"Clarke County,Virginia","Rappahannock County,Virginia",4065,71391
+276,"Clarke County,Virginia","Richmond County,Virginia",10051,225101
+277,"Clarke County,Virginia","Roanoke County,Virginia",11122,315085
+278,"Clarke County,Virginia","Rockbridge County,Virginia",8545,238022
+279,"Clarke County,Virginia","Rockingham County,Virginia",5149,125703
+280,"Clarke County,Virginia","Russell County,Virginia",19700,548556
+281,"Clarke County,Virginia","Scott County,Virginia",20312,575779
+282,"Clarke County,Virginia","Shenandoah County,Virginia",3131,79658
+283,"Clarke County,Virginia","Smyth County,Virginia",15895,459500
+284,"Clarke County,Virginia","Southampton County,Virginia",12922,328162
+285,"Clarke County,Virginia","Spotsylvania County,Virginia",6599,138381
+286,"Clarke County,Virginia","Stafford County,Virginia",5570,150723
+287,"Clarke County,Virginia","Surry County,Virginia",11886,295588
+288,"Clarke County,Virginia","Sussex County,Virginia",11586,298405
+289,"Clarke County,Virginia","Tazewell County,Virginia",17355,499577
+290,"Clarke County,Virginia","Warren County,Virginia",2609,42749
+291,"Clarke County,Virginia","Washington County,Virginia",17288,498967
+292,"Clarke County,Virginia","Westmoreland County,Virginia",8377,176195
+293,"Clarke County,Virginia","Wise County,Virginia",21151,589898
+294,"Clarke County,Virginia","Wythe County,Virginia",14149,411485
+295,"Clarke County,Virginia","York County,Virginia",12481,316926
+296,"Clarke County,Virginia","Alexandria City County,Virginia",4420,113951
+297,"Clarke County,Virginia","Bedford City County,Virginia",11337,300830
+298,"Clarke County,Virginia","Bristol City County,Virginia",17763,524684
+299,"Clarke County,Virginia","Buena Vista City County,Virginia",8203,231288
+300,"Clarke County,Virginia","Charlottesville City County,Virginia",8120,175935
+301,"Clarke County,Virginia","Chesapeake City County,Virginia",13944,369831
+302,"Clarke County,Virginia","Clifton Forge City County,Virginia",9397,269894
+303,"Clarke County,Virginia","Colonial Heights City County,Virginia",9940,248757
+304,"Clarke County,Virginia","Covington City County,Virginia",10140,288236
+305,"Clarke County,Virginia","Danville City County,Virginia",14698,393077
+306,"Clarke County,Virginia","Emporia City County,Virginia",12251,318642
+307,"Clarke County,Virginia","Fairfax City County,Virginia",3871,84213
+308,"Clarke County,Virginia","Falls Church City County,Virginia",3583,90969
+309,"Clarke County,Virginia","Franklin City County,Virginia",13469,336017
+310,"Clarke County,Virginia","Fredericksburg City County,Virginia",5922,124088
+311,"Clarke County,Virginia","Galax City County,Virginia",15523,442042
+312,"Clarke County,Virginia","Hampton City County,Virginia",12431,326632
+313,"Clarke County,Virginia","Harrisonburg City County,Virginia",4938,131548
+314,"Clarke County,Virginia","Hopewell City County,Virginia",9704,248795
+315,"Clarke County,Virginia","Lexington City County,Virginia",8063,228265
+316,"Clarke County,Virginia","Lynchburg City County,Virginia",10715,285030
+317,"Clarke County,Virginia","Manassas City County,Virginia",3309,74289
+318,"Clarke County,Virginia","Manassas Park City County,Virginia",3717,85888
+319,"Clarke County,Virginia","Martinsville City County,Virginia",14326,386232
+320,"Clarke County,Virginia","Newport News City County,Virginia",11987,313118
+321,"Clarke County,Virginia","Norfolk City County,Virginia",13737,352048
+322,"Clarke County,Virginia","Norton City County,Virginia",20675,580789
+323,"Clarke County,Virginia","Petersburg City County,Virginia",9812,249745
+324,"Clarke County,Virginia","Poquoson City County,Virginia",12659,323694
+325,"Clarke County,Virginia","Portsmouth City County,Virginia",13676,360869
+326,"Clarke County,Virginia","Radford County,Virginia",12494,359990
+327,"Clarke County,Virginia","Richmond City County,Virginia",8680,213860
+328,"Clarke County,Virginia","Roanoke City County,Virginia",10660,306527
+329,"Clarke County,Virginia","Salem City County,Virginia",10490,304998
+330,"Clarke County,Virginia","South Boston City County,Virginia",14853,375632
+331,"Clarke County,Virginia","Staunton City County,Virginia",6424,173522
+332,"Clarke County,Virginia","Suffolk City County,Virginia",14081,349364
+333,"Clarke County,Virginia","Virginia Beach City County,Virginia",14298,375306
+334,"Clarke County,Virginia","Waynesboro City County,Virginia",6822,183372
+335,"Clarke County,Virginia","Williamsburg City County,Virginia",11032,285367
+336,"Clarke County,Virginia","Winchester City County,Virginia",1404,21366
+337,"Clarke County,Virginia","Barbour County,West Virginia",10901,248860
+338,"Clarke County,Virginia","Berkeley County,West Virginia",3164,68857
+339,"Clarke County,Virginia","Boone County,West Virginia",18855,500782
+340,"Clarke County,Virginia","Braxton County,West Virginia",15579,385955
+341,"Clarke County,Virginia","Brooke County,West Virginia",14256,352555
+342,"Clarke County,Virginia","Cabell County,West Virginia",20423,596688
+343,"Clarke County,Virginia","Calhoun County,West Virginia",16902,420623
+344,"Clarke County,Virginia","Clay County,West Virginia",17265,450980
+345,"Clarke County,Virginia","Doddridge County,West Virginia",13651,339875
+346,"Clarke County,Virginia","Fayette County,West Virginia",15977,418979
+347,"Clarke County,Virginia","Gilmer County,West Virginia",15383,385314
+348,"Clarke County,Virginia","Grant County,West Virginia",6245,151956
+349,"Clarke County,Virginia","Greenbrier County,West Virginia",14332,378204
+350,"Clarke County,Virginia","Hampshire County,West Virginia",3686,76883
+351,"Clarke County,Virginia","Hancock County,West Virginia",15494,389588
+352,"Clarke County,Virginia","Hardy County,West Virginia",5492,123285
+353,"Clarke County,Virginia","Harrison County,West Virginia",12088,301503
+354,"Clarke County,Virginia","Jackson County,West Virginia",18043,474423
+355,"Clarke County,Virginia","Jefferson County,West Virginia",1646,25039
+356,"Clarke County,Virginia","Kanawha County,West Virginia",17505,498480
+357,"Clarke County,Virginia","Lewis County,West Virginia",13284,334944
+358,"Clarke County,Virginia","Lincoln County,West Virginia",21087,574365
+359,"Clarke County,Virginia","Logan County,West Virginia",20645,531271
+360,"Clarke County,Virginia","McDowell County,West Virginia",19024,505722
+361,"Clarke County,Virginia","Marion County,West Virginia",11574,275416
+362,"Clarke County,Virginia","Marshall County,West Virginia",15244,347000
+363,"Clarke County,Virginia","Mason County,West Virginia",19807,518477
+364,"Clarke County,Virginia","Mercer County,West Virginia",15739,442052
+365,"Clarke County,Virginia","Mineral County,West Virginia",6412,111655
+366,"Clarke County,Virginia","Mingo County,West Virginia",21224,595206
+367,"Clarke County,Virginia","Monongalia County,West Virginia",9398,227155
+368,"Clarke County,Virginia","Monroe County,West Virginia",13267,364526
+369,"Clarke County,Virginia","Morgan County,West Virginia",3407,68933
+370,"Clarke County,Virginia","Nicholas County,West Virginia",16172,431629
+371,"Clarke County,Virginia","Ohio County,West Virginia",14163,361502
+372,"Clarke County,Virginia","Pendleton County,West Virginia",8002,175181
+373,"Clarke County,Virginia","Pleasants County,West Virginia",14887,377643
+374,"Clarke County,Virginia","Pocahontas County,West Virginia",13267,285634
+375,"Clarke County,Virginia","Preston County,West Virginia",10394,233195
+376,"Clarke County,Virginia","Putnam County,West Virginia",18680,548212
+377,"Clarke County,Virginia","Raleigh County,West Virginia",14530,423661
+378,"Clarke County,Virginia","Randolph County,West Virginia",11930,275145
+379,"Clarke County,Virginia","Ritchie County,West Virginia",14797,371945
+380,"Clarke County,Virginia","Roane County,West Virginia",19323,454658
+381,"Clarke County,Virginia","Summers County,West Virginia",15251,403539
+382,"Clarke County,Virginia","Taylor County,West Virginia",10768,248228
+383,"Clarke County,Virginia","Tucker County,West Virginia",8905,213603
+384,"Clarke County,Virginia","Tyler County,West Virginia",15813,370310
+385,"Clarke County,Virginia","Upshur County,West Virginia",12978,296721
+386,"Clarke County,Virginia","Wayne County,West Virginia",22014,629314
+387,"Clarke County,Virginia","Webster County,West Virginia",16076,349195
+388,"Clarke County,Virginia","Wetzel County,West Virginia",14730,337540
+389,"Clarke County,Virginia","Wirt County,West Virginia",17144,417475
+390,"Clarke County,Virginia","Wood County,West Virginia",15667,402906
+391,"Clarke County,Virginia","Wyoming County,West Virginia",16474,463603

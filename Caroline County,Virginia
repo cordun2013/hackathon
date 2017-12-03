@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Caroline County,Virginia","Adair County,Kentucky",34523,936281
+1,"Caroline County,Virginia","Allen County,Kentucky",35919,1056091
+2,"Caroline County,Virginia","Anderson County,Kentucky",30150,899066
+3,"Caroline County,Virginia","Ballard County,Kentucky",42823,1291346
+4,"Caroline County,Virginia","Barren County,Kentucky",35708,1015036
+5,"Caroline County,Virginia","Bath County,Kentucky",25798,770248
+6,"Caroline County,Virginia","Bell County,Kentucky",27018,737588
+7,"Caroline County,Virginia","Boone County,Kentucky",31611,891641
+8,"Caroline County,Virginia","Bourbon County,Kentucky",27712,816665
+9,"Caroline County,Virginia","Boyd County,Kentucky",22473,664572
+10,"Caroline County,Virginia","Boyle County,Kentucky",31379,902953
+11,"Caroline County,Virginia","Bracken County,Kentucky",28123,810748
+12,"Caroline County,Virginia","Breathitt County,Kentucky",28643,773351
+13,"Caroline County,Virginia","Breckinridge County,Kentucky",35684,1051748
+14,"Caroline County,Virginia","Bullitt County,Kentucky",32254,972867
+15,"Caroline County,Virginia","Butler County,Kentucky",36349,1073745
+16,"Caroline County,Virginia","Caldwell County,Kentucky",39241,1179691
+17,"Caroline County,Virginia","Calloway County,Kentucky",40664,1223205
+18,"Caroline County,Virginia","Campbell County,Kentucky",29823,850619
+19,"Caroline County,Virginia","Carlisle County,Kentucky",43280,1306714
+20,"Caroline County,Virginia","Carroll County,Kentucky",32695,946881
+21,"Caroline County,Virginia","Carter County,Kentucky",23638,694669
+22,"Caroline County,Virginia","Casey County,Kentucky",32874,934458
+23,"Caroline County,Virginia","Christian County,Kentucky",37557,1144185
+24,"Caroline County,Virginia","Clay County,Kentucky",29590,797930
+25,"Caroline County,Virginia","Clinton County,Kentucky",32966,935496
+26,"Caroline County,Virginia","Crittenden County,Kentucky",40820,1212761
+27,"Caroline County,Virginia","Cumberland County,Kentucky",33846,956164
+28,"Caroline County,Virginia","Daviess County,Kentucky",37372,1120188
+29,"Caroline County,Virginia","Edmonson County,Kentucky",35789,1061620
+30,"Caroline County,Virginia","Elliott County,Kentucky",24969,720439
+31,"Caroline County,Virginia","Estill County,Kentucky",28790,832563
+32,"Caroline County,Virginia","Fayette County,Kentucky",27958,836559
+33,"Caroline County,Virginia","Fleming County,Kentucky",26224,773433
+34,"Caroline County,Virginia","Floyd County,Kentucky",26606,771837
+35,"Caroline County,Virginia","Franklin County,Kentucky",29995,885476
+36,"Caroline County,Virginia","Fulton County,Kentucky",43684,1327678
+37,"Caroline County,Virginia","Gallatin County,Kentucky",31693,937539
+38,"Caroline County,Virginia","Garrard County,Kentucky",30563,883713
+39,"Caroline County,Virginia","Grant County,Kentucky",30492,911647
+40,"Caroline County,Virginia","Graves County,Kentucky",42305,1279420
+41,"Caroline County,Virginia","Grayson County,Kentucky",34676,1030381
+42,"Caroline County,Virginia","Green County,Kentucky",34456,995587
+43,"Caroline County,Virginia","Greenup County,Kentucky",24249,705698
+44,"Caroline County,Virginia","Hancock County,Kentucky",36479,1084641
+45,"Caroline County,Virginia","Hardin County,Kentucky",33552,992514
+46,"Caroline County,Virginia","Harlan County,Kentucky",26093,714214
+47,"Caroline County,Virginia","Harrison County,Kentucky",29282,849765
+48,"Caroline County,Virginia","Hart County,Kentucky",34352,1020142
+49,"Caroline County,Virginia","Henderson County,Kentucky",39178,1172618
+50,"Caroline County,Virginia","Henry County,Kentucky",31597,929194
+51,"Caroline County,Virginia","Hickman County,Kentucky",43314,1308006
+52,"Caroline County,Virginia","Hopkins County,Kentucky",38699,1154159
+53,"Caroline County,Virginia","Jackson County,Kentucky",31462,834349
+54,"Caroline County,Virginia","Jefferson County,Kentucky",31690,944728
+55,"Caroline County,Virginia","Jessamine County,Kentucky",29427,858023
+56,"Caroline County,Virginia","Johnson County,Kentucky",25255,737468
+57,"Caroline County,Virginia","Kenton County,Kentucky",30980,879335
+58,"Caroline County,Virginia","Knott County,Kentucky",26183,716101
+59,"Caroline County,Virginia","Knox County,Kentucky",28348,779580
+60,"Caroline County,Virginia","Larue County,Kentucky",33624,979690
+61,"Caroline County,Virginia","Laurel County,Kentucky",30242,814407
+62,"Caroline County,Virginia","Lawrence County,Kentucky",24396,708892
+63,"Caroline County,Virginia","Lee County,Kentucky",29635,826300
+64,"Caroline County,Virginia","Leslie County,Kentucky",27555,742493
+65,"Caroline County,Virginia","Letcher County,Kentucky",24583,679648
+66,"Caroline County,Virginia","Lewis County,Kentucky",25676,746487
+67,"Caroline County,Virginia","Lincoln County,Kentucky",31272,900631
+68,"Caroline County,Virginia","Livingston County,Kentucky",41154,1245284
+69,"Caroline County,Virginia","Logan County,Kentucky",37989,1097085
+70,"Caroline County,Virginia","Lyon County,Kentucky",40911,1222459
+71,"Caroline County,Virginia","McCracken County,Kentucky",41436,1259406
+72,"Caroline County,Virginia","McCreary County,Kentucky",29973,872342
+73,"Caroline County,Virginia","Madison County,Kentucky",28956,847582
+74,"Caroline County,Virginia","Magoffin County,Kentucky",26222,758147
+75,"Caroline County,Virginia","Marion County,Kentucky",32002,941299
+76,"Caroline County,Virginia","Marshall County,Kentucky",40850,1242978
+77,"Caroline County,Virginia","Martin County,Kentucky",25510,690616
+78,"Caroline County,Virginia","Mason County,Kentucky",27471,790294
+79,"Caroline County,Virginia","Meade County,Kentucky",34151,1017042
+80,"Caroline County,Virginia","Menifee County,Kentucky",26914,782311
+81,"Caroline County,Virginia","Mercer County,Kentucky",30378,897010
+82,"Caroline County,Virginia","Metcalfe County,Kentucky",35179,966546
+83,"Caroline County,Virginia","Monroe County,Kentucky",34406,986585
+84,"Caroline County,Virginia","Montgomery County,Kentucky",26611,788788
+85,"Caroline County,Virginia","Morgan County,Kentucky",26692,758027
+86,"Caroline County,Virginia","Muhlenberg County,Kentucky",37560,1120635
+87,"Caroline County,Virginia","Nelson County,Kentucky",31609,940371
+88,"Caroline County,Virginia","Nicholas County,Kentucky",28289,816671
+89,"Caroline County,Virginia","Ohio County,Kentucky",36473,1088224
+90,"Caroline County,Virginia","Oldham County,Kentucky",31762,956609
+91,"Caroline County,Virginia","Owen County,Kentucky",30817,912253
+92,"Caroline County,Virginia","Owsley County,Kentucky",30780,811225
+93,"Caroline County,Virginia","Pendleton County,Kentucky",30060,851672
+94,"Caroline County,Virginia","Perry County,Kentucky",27156,736524
+95,"Caroline County,Virginia","Pike County,Kentucky",25706,655862
+96,"Caroline County,Virginia","Powell County,Kentucky",28054,818534
+97,"Caroline County,Virginia","Robertson County,Kentucky",28206,816177
+98,"Caroline County,Virginia","Rockcastle County,Kentucky",30390,888725
+99,"Caroline County,Virginia","Rowan County,Kentucky",24940,742455
+100,"Caroline County,Virginia","Russell County,Kentucky",34127,920265
+101,"Caroline County,Virginia","Scott County,Kentucky",28792,864586
+102,"Caroline County,Virginia","Shelby County,Kentucky",30619,915862
+103,"Caroline County,Virginia","Simpson County,Kentucky",36956,1073061
+104,"Caroline County,Virginia","Spencer County,Kentucky",31149,921710
+105,"Caroline County,Virginia","Taylor County,Kentucky",33291,972795
+106,"Caroline County,Virginia","Todd County,Kentucky",37973,1137132
+107,"Caroline County,Virginia","Trigg County,Kentucky",38464,1161544
+108,"Caroline County,Virginia","Trimble County,Kentucky",32835,962649
+109,"Caroline County,Virginia","Union County,Kentucky",40898,1203064
+110,"Caroline County,Virginia","Warren County,Kentucky",36705,1089989
+111,"Caroline County,Virginia","Washington County,Kentucky",31620,925607
+112,"Caroline County,Virginia","Wayne County,Kentucky",32477,919472
+113,"Caroline County,Virginia","Webster County,Kentucky",39808,1182248
+114,"Caroline County,Virginia","Whitley County,Kentucky",28576,857104
+115,"Caroline County,Virginia","Wolfe County,Kentucky",27787,781389
+116,"Caroline County,Virginia","Woodford County,Kentucky",29012,867222
+117,"Caroline County,Virginia","Adams County,Ohio",27564,792850
+118,"Caroline County,Virginia","Allen County,Ohio",32082,935660
+119,"Caroline County,Virginia","Ashland County,Ohio",26631,762350
+120,"Caroline County,Virginia","Ashtabula County,Ohio",24628,716820
+121,"Caroline County,Virginia","Athens County,Ohio",23972,698449
+122,"Caroline County,Virginia","Auglaize County,Ohio",32578,956348
+123,"Caroline County,Virginia","Belmont County,Ohio",21198,613115
+124,"Caroline County,Virginia","Brown County,Ohio",28808,819778
+125,"Caroline County,Virginia","Butler County,Ohio",31921,901803
+126,"Caroline County,Virginia","Carroll County,Ohio",23144,629041
+127,"Caroline County,Virginia","Champaign County,Ohio",30321,871242
+128,"Caroline County,Virginia","Clark County,Ohio",29199,861814
+129,"Caroline County,Virginia","Clermont County,Ohio",29642,850874
+130,"Caroline County,Virginia","Clinton County,Ohio",29033,834290
+131,"Caroline County,Virginia","Columbiana County,Ohio",21931,611058
+132,"Caroline County,Virginia","Coshocton County,Ohio",25555,738565
+133,"Caroline County,Virginia","Crawford County,Ohio",28540,833544
+134,"Caroline County,Virginia","Cuyahoga County,Ohio",24624,714664
+135,"Caroline County,Virginia","Darke County,Ohio",32644,942014
+136,"Caroline County,Virginia","Defiance County,Ohio",32943,963627
+137,"Caroline County,Virginia","Delaware County,Ohio",28475,837562
+138,"Caroline County,Virginia","Fairfield County,Ohio",26570,774348
+139,"Caroline County,Virginia","Fayette County,Ohio",27597,804754
+140,"Caroline County,Virginia","Franklin County,Ohio",27171,801449
+141,"Caroline County,Virginia","Fulton County,Ohio",31295,920478
+142,"Caroline County,Virginia","Gallia County,Ohio",22910,663866
+143,"Caroline County,Virginia","Geauga County,Ohio",24118,689482
+144,"Caroline County,Virginia","Greene County,Ohio",28467,837907
+145,"Caroline County,Virginia","Guernsey County,Ohio",23102,676624
+146,"Caroline County,Virginia","Hamilton County,Ohio",31423,912381
+147,"Caroline County,Virginia","Hancock County,Ohio",30570,895625
+148,"Caroline County,Virginia","Hardin County,Ohio",31226,898216
+149,"Caroline County,Virginia","Harrison County,Ohio",22358,631258
+150,"Caroline County,Virginia","Henry County,Ohio",31749,910245
+151,"Caroline County,Virginia","Highland County,Ohio",28101,792864
+152,"Caroline County,Virginia","Hocking County,Ohio",25775,749113
+153,"Caroline County,Virginia","Holmes County,Ohio",26298,713335
+154,"Caroline County,Virginia","Huron County,Ohio",27908,791956
+155,"Caroline County,Virginia","Jackson County,Ohio",24088,703415
+156,"Caroline County,Virginia","Jefferson County,Ohio",21100,592532
+157,"Caroline County,Virginia","Knox County,Ohio",27344,781041
+158,"Caroline County,Virginia","Lawrence County,Ohio",23613,669629
+159,"Caroline County,Virginia","Licking County,Ohio",26730,762112
+160,"Caroline County,Virginia","Logan County,Ohio",30496,902761
+161,"Caroline County,Virginia","Lorain County,Ohio",25676,744384
+162,"Caroline County,Virginia","Lucas County,Ohio",30249,873328
+163,"Caroline County,Virginia","Madison County,Ohio",28448,836170
+164,"Caroline County,Virginia","Mahoning County,Ohio",21115,606812
+165,"Caroline County,Virginia","Marion County,Ohio",29568,850528
+166,"Caroline County,Virginia","Medina County,Ohio",25263,729470
+167,"Caroline County,Virginia","Meigs County,Ohio",22853,669420
+168,"Caroline County,Virginia","Mercer County,Ohio",33813,983281
+169,"Caroline County,Virginia","Miami County,Ohio",31132,907406
+170,"Caroline County,Virginia","Monroe County,Ohio",23631,659798
+171,"Caroline County,Virginia","Montgomery County,Ohio",30502,885362
+172,"Caroline County,Virginia","Morgan County,Ohio",24734,700403
+173,"Caroline County,Virginia","Morrow County,Ohio",28269,823803
+174,"Caroline County,Virginia","Muskingum County,Ohio",23948,704615
+175,"Caroline County,Virginia","Noble County,Ohio",24214,697930
+176,"Caroline County,Virginia","Paulding County,Ohio",34148,999615
+177,"Caroline County,Virginia","Perry County,Ohio",26047,752558
+178,"Caroline County,Virginia","Pickaway County,Ohio",27037,784853
+179,"Caroline County,Virginia","Pike County,Ohio",25534,742722
+180,"Caroline County,Virginia","Portage County,Ohio",22969,662825
+181,"Caroline County,Virginia","Preble County,Ohio",32121,913940
+182,"Caroline County,Virginia","Putnam County,Ohio",32768,955431
+183,"Caroline County,Virginia","Richland County,Ohio",27187,783778
+184,"Caroline County,Virginia","Ross County,Ohio",25782,751159
+185,"Caroline County,Virginia","Sandusky County,Ohio",28537,831903
+186,"Caroline County,Virginia","Scioto County,Ohio",25418,726902
+187,"Caroline County,Virginia","Seneca County,Ohio",29268,841575
+188,"Caroline County,Virginia","Shelby County,Ohio",32171,943692
+189,"Caroline County,Virginia","Stark County,Ohio",23749,658958
+190,"Caroline County,Virginia","Summit County,Ohio",24027,688640
+191,"Caroline County,Virginia","Trumbull County,Ohio",22272,644276
+192,"Caroline County,Virginia","Tuscarawas County,Ohio",23867,662542
+193,"Caroline County,Virginia","Union County,Ohio",29000,852992
+194,"Caroline County,Virginia","Van Wert County,Ohio",32879,965943
+195,"Caroline County,Virginia","Vinton County,Ohio",25983,728920
+196,"Caroline County,Virginia","Warren County,Ohio",29839,868349
+197,"Caroline County,Virginia","Washington County,Ohio",23072,655866
+198,"Caroline County,Virginia","Wayne County,Ohio",26369,748280
+199,"Caroline County,Virginia","Williams County,Ohio",32540,951935
+200,"Caroline County,Virginia","Wood County,Ohio",30435,880231
+201,"Caroline County,Virginia","Wyandot County,Ohio",29540,859761
+202,"Caroline County,Virginia","Accomack County,Virginia",12827,326763
+203,"Caroline County,Virginia","Albemarle County,Virginia",6493,178281
+204,"Caroline County,Virginia","Alleghany County,Virginia",12003,347221
+205,"Caroline County,Virginia","Amelia County,Virginia",5647,132507
+206,"Caroline County,Virginia","Amherst County,Virginia",9286,248027
+207,"Caroline County,Virginia","Appomattox County,Virginia",8711,211401
+208,"Caroline County,Virginia","Arlington County,Virginia",5117,135305
+209,"Caroline County,Virginia","Augusta County,Virginia",8746,240915
+210,"Caroline County,Virginia","Bath County,Virginia",11720,306574
+211,"Caroline County,Virginia","Bedford County,Virginia",11769,311430
+212,"Caroline County,Virginia","Bland County,Virginia",16285,476905
+213,"Caroline County,Virginia","Botetourt County,Virginia",11309,318158
+214,"Caroline County,Virginia","Brunswick County,Virginia",6949,183092
+215,"Caroline County,Virginia","Buchanan County,Virginia",22041,611364
+216,"Caroline County,Virginia","Buckingham County,Virginia",7553,183378
+217,"Caroline County,Virginia","Campbell County,Virginia",9853,244372
+218,"Caroline County,Virginia","Carroll County,Virginia",16406,482322
+219,"Caroline County,Virginia","Charles City County,Virginia",4416,105143
+220,"Caroline County,Virginia","Charlotte County,Virginia",8512,207103
+221,"Caroline County,Virginia","Chesterfield County,Virginia",4347,98060
+222,"Caroline County,Virginia","Clarke County,Virginia",7797,177780
+223,"Caroline County,Virginia","Craig County,Virginia",14151,374485
+224,"Caroline County,Virginia","Culpeper County,Virginia",5096,108509
+225,"Caroline County,Virginia","Cumberland County,Virginia",5986,148331
+226,"Caroline County,Virginia","Dickenson County,Virginia",22751,629542
+227,"Caroline County,Virginia","Dinwiddie County,Virginia",5587,143059
+228,"Caroline County,Virginia","Essex County,Virginia",2681,57976
+229,"Caroline County,Virginia","Fairfax County,Virginia",5414,138534
+230,"Caroline County,Virginia","Fauquier County,Virginia",5110,118547
+231,"Caroline County,Virginia","Floyd County,Virginia",14933,423869
+232,"Caroline County,Virginia","Fluvanna County,Virginia",5694,141852
+233,"Caroline County,Virginia","Franklin County,Virginia",14180,330448
+234,"Caroline County,Virginia","Frederick County,Virginia",8353,210843
+235,"Caroline County,Virginia","Giles County,Virginia",15073,432021
+236,"Caroline County,Virginia","Gloucester County,Virginia",5994,124575
+237,"Caroline County,Virginia","Goochland County,Virginia",4423,111139
+238,"Caroline County,Virginia","Grayson County,Virginia",17738,498501
+239,"Caroline County,Virginia","Greene County,Virginia",7521,143131
+240,"Caroline County,Virginia","Greensville County,Virginia",7003,191811
+241,"Caroline County,Virginia","Halifax County,Virginia",10145,250248
+242,"Caroline County,Virginia","Hanover County,Virginia",2693,53262
+243,"Caroline County,Virginia","Henrico County,Virginia",3563,85813
+244,"Caroline County,Virginia","Henry County,Virginia",14636,366524
+245,"Caroline County,Virginia","Highland County,Virginia",11948,298654
+246,"Caroline County,Virginia","Isle of Wight County,Virginia",7698,194402
+247,"Caroline County,Virginia","James City County,Virginia",5652,145914
+248,"Caroline County,Virginia","King and Queen County,Virginia",3247,59369
+249,"Caroline County,Virginia","King George County,Virginia",1715,34128
+250,"Caroline County,Virginia","King William County,Virginia",2757,57343
+251,"Caroline County,Virginia","Lancaster County,Virginia",5104,113970
+252,"Caroline County,Virginia","Lee County,Virginia",23246,661196
+253,"Caroline County,Virginia","Loudoun County,Virginia",7381,191779
+254,"Caroline County,Virginia","Louisa County,Virginia",4213,77450
+255,"Caroline County,Virginia","Lunenburg County,Virginia",8063,190951
+256,"Caroline County,Virginia","Madison County,Virginia",5998,134906
+257,"Caroline County,Virginia","Mathews County,Virginia",6583,141050
+258,"Caroline County,Virginia","Mecklenburg County,Virginia",8676,231364
+259,"Caroline County,Virginia","Middlesex County,Virginia",4953,104631
+260,"Caroline County,Virginia","Montgomery County,Virginia",13638,396291
+261,"Caroline County,Virginia","Nelson County,Virginia",7732,215622
+262,"Caroline County,Virginia","New Kent County,Virginia",5088,119828
+263,"Caroline County,Virginia","Northampton County,Virginia",10069,262577
+264,"Caroline County,Virginia","Northumberland County,Virginia",5144,112482
+265,"Caroline County,Virginia","Nottoway County,Virginia",6458,157640
+266,"Caroline County,Virginia","Orange County,Virginia",4618,88854
+267,"Caroline County,Virginia","Page County,Virginia",7981,166214
+268,"Caroline County,Virginia","Patrick County,Virginia",16218,405432
+269,"Caroline County,Virginia","Pittsylvania County,Virginia",12712,310530
+270,"Caroline County,Virginia","Powhatan County,Virginia",4450,108746
+271,"Caroline County,Virginia","Prince Edward County,Virginia",7390,180220
+272,"Caroline County,Virginia","Prince George County,Virginia",5233,133656
+273,"Caroline County,Virginia","Prince William County,Virginia",5574,128383
+274,"Caroline County,Virginia","Pulaski County,Virginia",14365,418925
+275,"Caroline County,Virginia","Rappahannock County,Virginia",6550,146547
+276,"Caroline County,Virginia","Richmond County,Virginia",3844,85126
+277,"Caroline County,Virginia","Roanoke County,Virginia",12629,361230
+278,"Caroline County,Virginia","Rockbridge County,Virginia",10051,284167
+279,"Caroline County,Virginia","Rockingham County,Virginia",10299,202143
+280,"Caroline County,Virginia","Russell County,Virginia",21207,594701
+281,"Caroline County,Virginia","Scott County,Virginia",21819,621924
+282,"Caroline County,Virginia","Shenandoah County,Virginia",8289,215952
+283,"Caroline County,Virginia","Smyth County,Virginia",17401,505645
+284,"Caroline County,Virginia","Southampton County,Virginia",7381,187925
+285,"Caroline County,Virginia","Spotsylvania County,Virginia",2856,55615
+286,"Caroline County,Virginia","Stafford County,Virginia",2928,73086
+287,"Caroline County,Virginia","Surry County,Virginia",6345,155350
+288,"Caroline County,Virginia","Sussex County,Virginia",6045,158168
+289,"Caroline County,Virginia","Tazewell County,Virginia",18862,545722
+290,"Caroline County,Virginia","Warren County,Virginia",7580,180253
+291,"Caroline County,Virginia","Washington County,Virginia",18795,545112
+292,"Caroline County,Virginia","Westmoreland County,Virginia",2690,50953
+293,"Caroline County,Virginia","Wise County,Virginia",22658,636044
+294,"Caroline County,Virginia","Wythe County,Virginia",15655,457631
+295,"Caroline County,Virginia","York County,Virginia",6940,176688
+296,"Caroline County,Virginia","Alexandria City County,Virginia",5089,132353
+297,"Caroline County,Virginia","Bedford City County,Virginia",11271,306514
+298,"Caroline County,Virginia","Bristol City County,Virginia",19270,570829
+299,"Caroline County,Virginia","Buena Vista City County,Virginia",9710,277433
+300,"Caroline County,Virginia","Charlottesville City County,Virginia",6044,163688
+301,"Caroline County,Virginia","Chesapeake City County,Virginia",8403,229594
+302,"Caroline County,Virginia","Clifton Forge City County,Virginia",10904,316040
+303,"Caroline County,Virginia","Colonial Heights City County,Virginia",4400,108520
+304,"Caroline County,Virginia","Covington City County,Virginia",11647,334382
+305,"Caroline County,Virginia","Danville City County,Virginia",12092,297498
+306,"Caroline County,Virginia","Emporia City County,Virginia",6711,178404
+307,"Caroline County,Virginia","Fairfax City County,Virginia",5349,127317
+308,"Caroline County,Virginia","Falls Church City County,Virginia",5296,139603
+309,"Caroline County,Virginia","Franklin City County,Virginia",7928,195780
+310,"Caroline County,Virginia","Fredericksburg City County,Virginia",2337,38325
+311,"Caroline County,Virginia","Galax City County,Virginia",17030,488188
+312,"Caroline County,Virginia","Hampton City County,Virginia",6890,186394
+313,"Caroline County,Virginia","Harrisonburg City County,Virginia",9329,184080
+314,"Caroline County,Virginia","Hopewell City County,Virginia",4164,108557
+315,"Caroline County,Virginia","Lexington City County,Virginia",9569,274411
+316,"Caroline County,Virginia","Lynchburg City County,Virginia",9834,268083
+317,"Caroline County,Virginia","Manassas City County,Virginia",5317,125720
+318,"Caroline County,Virginia","Manassas Park City County,Virginia",5537,122919
+319,"Caroline County,Virginia","Martinsville City County,Virginia",14233,350503
+320,"Caroline County,Virginia","Newport News City County,Virginia",6447,172880
+321,"Caroline County,Virginia","Norfolk City County,Virginia",8196,211810
+322,"Caroline County,Virginia","Norton City County,Virginia",22182,626934
+323,"Caroline County,Virginia","Petersburg City County,Virginia",4271,109508
+324,"Caroline County,Virginia","Poquoson City County,Virginia",7118,183457
+325,"Caroline County,Virginia","Portsmouth City County,Virginia",8136,220631
+326,"Caroline County,Virginia","Radford County,Virginia",14001,406135
+327,"Caroline County,Virginia","Richmond City County,Virginia",3139,73623
+328,"Caroline County,Virginia","Roanoke City County,Virginia",12167,352672
+329,"Caroline County,Virginia","Salem City County,Virginia",11997,351143
+330,"Caroline County,Virginia","South Boston City County,Virginia",9839,247498
+331,"Caroline County,Virginia","Staunton City County,Virginia",8052,222638
+332,"Caroline County,Virginia","Suffolk City County,Virginia",8541,209126
+333,"Caroline County,Virginia","Virginia Beach City County,Virginia",8757,235069
+334,"Caroline County,Virginia","Waynesboro City County,Virginia",7329,204636
+335,"Caroline County,Virginia","Williamsburg City County,Virginia",5491,145129
+336,"Caroline County,Virginia","Winchester City County,Virginia",8174,184590
+337,"Caroline County,Virginia","Barbour County,West Virginia",16058,385154
+338,"Caroline County,Virginia","Berkeley County,West Virginia",9955,234772
+339,"Caroline County,Virginia","Boone County,West Virginia",20362,546927
+340,"Caroline County,Virginia","Braxton County,West Virginia",20060,527602
+341,"Caroline County,Virginia","Brooke County,West Virginia",20406,576015
+342,"Caroline County,Virginia","Cabell County,West Virginia",21929,642833
+343,"Caroline County,Virginia","Calhoun County,West Virginia",21831,581553
+344,"Caroline County,Virginia","Clay County,West Virginia",20095,518385
+345,"Caroline County,Virginia","Doddridge County,West Virginia",19801,563335
+346,"Caroline County,Virginia","Fayette County,West Virginia",17483,465125
+347,"Caroline County,Virginia","Gilmer County,West Virginia",20558,502403
+348,"Caroline County,Virginia","Grant County,West Virginia",11402,288250
+349,"Caroline County,Virginia","Greenbrier County,West Virginia",15839,424350
+350,"Caroline County,Virginia","Hampshire County,West Virginia",10479,243848
+351,"Caroline County,Virginia","Hancock County,West Virginia",21114,583952
+352,"Caroline County,Virginia","Hardy County,West Virginia",10650,259579
+353,"Caroline County,Virginia","Harrison County,West Virginia",18238,524962
+354,"Caroline County,Virginia","Jackson County,West Virginia",21248,622644
+355,"Caroline County,Virginia","Jefferson County,West Virginia",8853,223206
+356,"Caroline County,Virginia","Kanawha County,West Virginia",19012,544626
+357,"Caroline County,Virginia","Lewis County,West Virginia",18459,452033
+358,"Caroline County,Virginia","Lincoln County,West Virginia",22594,620511
+359,"Caroline County,Virginia","Logan County,West Virginia",22152,577416
+360,"Caroline County,Virginia","McDowell County,West Virginia",20531,551867
+361,"Caroline County,Virginia","Marion County,West Virginia",17724,498875
+362,"Caroline County,Virginia","Marshall County,West Virginia",21393,570459
+363,"Caroline County,Virginia","Mason County,West Virginia",21405,628739
+364,"Caroline County,Virginia","Mercer County,West Virginia",17246,488197
+365,"Caroline County,Virginia","Mineral County,West Virginia",12876,299773
+366,"Caroline County,Virginia","Mingo County,West Virginia",22731,641351
+367,"Caroline County,Virginia","Monongalia County,West Virginia",15547,450615
+368,"Caroline County,Virginia","Monroe County,West Virginia",14773,410671
+369,"Caroline County,Virginia","Morgan County,West Virginia",10201,235898
+370,"Caroline County,Virginia","Nicholas County,West Virginia",17678,477775
+371,"Caroline County,Virginia","Ohio County,West Virginia",20313,584961
+372,"Caroline County,Virginia","Pendleton County,West Virginia",12952,332245
+373,"Caroline County,Virginia","Pleasants County,West Virginia",21036,601103
+374,"Caroline County,Virginia","Pocahontas County,West Virginia",15411,360339
+375,"Caroline County,Virginia","Preston County,West Virginia",15582,366701
+376,"Caroline County,Virginia","Putnam County,West Virginia",20186,594358
+377,"Caroline County,Virginia","Raleigh County,West Virginia",16036,469807
+378,"Caroline County,Virginia","Randolph County,West Virginia",16871,392752
+379,"Caroline County,Virginia","Ritchie County,West Virginia",20947,595405
+380,"Caroline County,Virginia","Roane County,West Virginia",22874,651459
+381,"Caroline County,Virginia","Summers County,West Virginia",16758,449685
+382,"Caroline County,Virginia","Taylor County,West Virginia",15925,384522
+383,"Caroline County,Virginia","Tucker County,West Virginia",14062,349897
+384,"Caroline County,Virginia","Tyler County,West Virginia",21963,593769
+385,"Caroline County,Virginia","Upshur County,West Virginia",18135,433015
+386,"Caroline County,Virginia","Wayne County,West Virginia",23521,675459
+387,"Caroline County,Virginia","Webster County,West Virginia",19298,439760
+388,"Caroline County,Virginia","Wetzel County,West Virginia",20880,560999
+389,"Caroline County,Virginia","Wirt County,West Virginia",23293,640935
+390,"Caroline County,Virginia","Wood County,West Virginia",21817,626365
+391,"Caroline County,Virginia","Wyoming County,West Virginia",17981,509749

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Bath County,Virginia","Adair County,Kentucky",26258,734596
+1,"Bath County,Virginia","Allen County,Kentucky",28877,835244
+2,"Bath County,Virginia","Anderson County,Kentucky",22058,637636
+3,"Bath County,Virginia","Ballard County,Kentucky",35036,1027407
+4,"Bath County,Virginia","Barren County,Kentucky",28004,793624
+5,"Bath County,Virginia","Bath County,Kentucky",17705,508817
+6,"Bath County,Virginia","Bell County,Kentucky",20882,513082
+7,"Bath County,Virginia","Boone County,Kentucky",23518,630210
+8,"Bath County,Virginia","Bourbon County,Kentucky",19619,555234
+9,"Bath County,Virginia","Boyd County,Kentucky",14381,403141
+10,"Bath County,Virginia","Boyle County,Kentucky",23287,641522
+11,"Bath County,Virginia","Bracken County,Kentucky",20030,549317
+12,"Bath County,Virginia","Breathitt County,Kentucky",21092,549843
+13,"Bath County,Virginia","Breckinridge County,Kentucky",27591,790317
+14,"Bath County,Virginia","Bullitt County,Kentucky",24161,711436
+15,"Bath County,Virginia","Butler County,Kentucky",28256,812315
+16,"Bath County,Virginia","Caldwell County,Kentucky",31148,918260
+17,"Bath County,Virginia","Calloway County,Kentucky",33958,1003252
+18,"Bath County,Virginia","Campbell County,Kentucky",21731,589188
+19,"Bath County,Virginia","Carlisle County,Kentucky",35494,1042775
+20,"Bath County,Virginia","Carroll County,Kentucky",24602,685450
+21,"Bath County,Virginia","Carter County,Kentucky",15545,433238
+22,"Bath County,Virginia","Casey County,Kentucky",24781,673027
+23,"Bath County,Virginia","Christian County,Kentucky",30797,913517
+24,"Bath County,Virginia","Clay County,Kentucky",23454,573424
+25,"Bath County,Virginia","Clinton County,Kentucky",26665,737962
+26,"Bath County,Virginia","Crittenden County,Kentucky",32728,951330
+27,"Bath County,Virginia","Cumberland County,Kentucky",27419,756201
+28,"Bath County,Virginia","Daviess County,Kentucky",29279,858757
+29,"Bath County,Virginia","Edmonson County,Kentucky",27696,800189
+30,"Bath County,Virginia","Elliott County,Kentucky",16876,459008
+31,"Bath County,Virginia","Estill County,Kentucky",20698,571132
+32,"Bath County,Virginia","Fayette County,Kentucky",19865,575128
+33,"Bath County,Virginia","Fleming County,Kentucky",18131,512002
+34,"Bath County,Virginia","Floyd County,Kentucky",18514,510406
+35,"Bath County,Virginia","Franklin County,Kentucky",21903,624045
+36,"Bath County,Virginia","Fulton County,Kentucky",35898,1063739
+37,"Bath County,Virginia","Gallatin County,Kentucky",23600,676109
+38,"Bath County,Virginia","Garrard County,Kentucky",22470,622282
+39,"Bath County,Virginia","Grant County,Kentucky",22399,650216
+40,"Bath County,Virginia","Graves County,Kentucky",34518,1015481
+41,"Bath County,Virginia","Grayson County,Kentucky",26583,768951
+42,"Bath County,Virginia","Green County,Kentucky",26363,734156
+43,"Bath County,Virginia","Greenup County,Kentucky",16156,444268
+44,"Bath County,Virginia","Hancock County,Kentucky",28387,823210
+45,"Bath County,Virginia","Hardin County,Kentucky",25460,731083
+46,"Bath County,Virginia","Harlan County,Kentucky",19957,489709
+47,"Bath County,Virginia","Harrison County,Kentucky",21190,588334
+48,"Bath County,Virginia","Hart County,Kentucky",26259,758712
+49,"Bath County,Virginia","Henderson County,Kentucky",31086,911187
+50,"Bath County,Virginia","Henry County,Kentucky",23504,667763
+51,"Bath County,Virginia","Hickman County,Kentucky",35527,1044067
+52,"Bath County,Virginia","Hopkins County,Kentucky",30607,892728
+53,"Bath County,Virginia","Jackson County,Kentucky",23370,619141
+54,"Bath County,Virginia","Jefferson County,Kentucky",23598,683297
+55,"Bath County,Virginia","Jessamine County,Kentucky",21334,596592
+56,"Bath County,Virginia","Johnson County,Kentucky",17162,476037
+57,"Bath County,Virginia","Kenton County,Kentucky",22887,617904
+58,"Bath County,Virginia","Knott County,Kentucky",19695,542288
+59,"Bath County,Virginia","Knox County,Kentucky",22212,555075
+60,"Bath County,Virginia","Larue County,Kentucky",25531,718259
+61,"Bath County,Virginia","Laurel County,Kentucky",23724,672569
+62,"Bath County,Virginia","Lawrence County,Kentucky",16304,447461
+63,"Bath County,Virginia","Lee County,Kentucky",21542,564869
+64,"Bath County,Virginia","Leslie County,Kentucky",21419,517988
+65,"Bath County,Virginia","Letcher County,Kentucky",18447,455142
+66,"Bath County,Virginia","Lewis County,Kentucky",17584,485056
+67,"Bath County,Virginia","Lincoln County,Kentucky",23180,639200
+68,"Bath County,Virginia","Livingston County,Kentucky",33324,968227
+69,"Bath County,Virginia","Logan County,Kentucky",29996,855553
+70,"Bath County,Virginia","Lyon County,Kentucky",33457,978617
+71,"Bath County,Virginia","McCracken County,Kentucky",33649,995467
+72,"Bath County,Virginia","McCreary County,Kentucky",23837,647836
+73,"Bath County,Virginia","Madison County,Kentucky",20863,586151
+74,"Bath County,Virginia","Magoffin County,Kentucky",18130,496716
+75,"Bath County,Virginia","Marion County,Kentucky",23909,679868
+76,"Bath County,Virginia","Marshall County,Kentucky",33063,979038
+77,"Bath County,Virginia","Martin County,Kentucky",17418,429185
+78,"Bath County,Virginia","Mason County,Kentucky",19379,528863
+79,"Bath County,Virginia","Meade County,Kentucky",26058,755612
+80,"Bath County,Virginia","Menifee County,Kentucky",18821,520880
+81,"Bath County,Virginia","Mercer County,Kentucky",22286,635579
+82,"Bath County,Virginia","Metcalfe County,Kentucky",26914,764861
+83,"Bath County,Virginia","Monroe County,Kentucky",28270,762080
+84,"Bath County,Virginia","Montgomery County,Kentucky",18518,527357
+85,"Bath County,Virginia","Morgan County,Kentucky",18600,496596
+86,"Bath County,Virginia","Muhlenberg County,Kentucky",29467,859204
+87,"Bath County,Virginia","Nelson County,Kentucky",23517,678940
+88,"Bath County,Virginia","Nicholas County,Kentucky",20196,555241
+89,"Bath County,Virginia","Ohio County,Kentucky",28380,826794
+90,"Bath County,Virginia","Oldham County,Kentucky",23669,695178
+91,"Bath County,Virginia","Owen County,Kentucky",22724,650822
+92,"Bath County,Virginia","Owsley County,Kentucky",22689,584845
+93,"Bath County,Virginia","Pendleton County,Kentucky",21968,590241
+94,"Bath County,Virginia","Perry County,Kentucky",21020,512019
+95,"Bath County,Virginia","Pike County,Kentucky",17614,394431
+96,"Bath County,Virginia","Powell County,Kentucky",19962,557103
+97,"Bath County,Virginia","Robertson County,Kentucky",20114,554747
+98,"Bath County,Virginia","Rockcastle County,Kentucky",22297,627294
+99,"Bath County,Virginia","Rowan County,Kentucky",16848,481024
+100,"Bath County,Virginia","Russell County,Kentucky",25863,718580
+101,"Bath County,Virginia","Scott County,Kentucky",20699,603155
+102,"Bath County,Virginia","Shelby County,Kentucky",22526,654431
+103,"Bath County,Virginia","Simpson County,Kentucky",29578,863610
+104,"Bath County,Virginia","Spencer County,Kentucky",23056,660279
+105,"Bath County,Virginia","Taylor County,Kentucky",25199,711364
+106,"Bath County,Virginia","Todd County,Kentucky",31233,879713
+107,"Bath County,Virginia","Trigg County,Kentucky",32211,939446
+108,"Bath County,Virginia","Trimble County,Kentucky",24743,701218
+109,"Bath County,Virginia","Union County,Kentucky",32805,941633
+110,"Bath County,Virginia","Warren County,Kentucky",28613,828558
+111,"Bath County,Virginia","Washington County,Kentucky",23527,664176
+112,"Bath County,Virginia","Wayne County,Kentucky",26039,715653
+113,"Bath County,Virginia","Webster County,Kentucky",31716,920817
+114,"Bath County,Virginia","Whitley County,Kentucky",22440,632599
+115,"Bath County,Virginia","Wolfe County,Kentucky",19694,519958
+116,"Bath County,Virginia","Woodford County,Kentucky",20919,605791
+117,"Bath County,Virginia","Adams County,Ohio",19471,531419
+118,"Bath County,Virginia","Allen County,Ohio",26204,706837
+119,"Bath County,Virginia","Ashland County,Ohio",23948,660728
+120,"Bath County,Virginia","Ashtabula County,Ohio",23981,626164
+121,"Bath County,Virginia","Athens County,Ohio",15880,437018
+122,"Bath County,Virginia","Auglaize County,Ohio",25454,723536
+123,"Bath County,Virginia","Belmont County,Ohio",18430,453717
+124,"Bath County,Virginia","Brown County,Ohio",20716,558347
+125,"Bath County,Virginia","Butler County,Ohio",23829,640372
+126,"Bath County,Virginia","Carroll County,Ohio",21376,489576
+127,"Bath County,Virginia","Champaign County,Ohio",22757,625634
+128,"Bath County,Virginia","Clark County,Ohio",21437,585178
+129,"Bath County,Virginia","Clermont County,Ohio",21550,589443
+130,"Bath County,Virginia","Clinton County,Ohio",20941,572860
+131,"Bath County,Virginia","Columbiana County,Ohio",20585,478097
+132,"Bath County,Virginia","Coshocton County,Ohio",20263,578553
+133,"Bath County,Virginia","Crawford County,Ohio",24555,671888
+134,"Bath County,Virginia","Cuyahoga County,Ohio",23664,692840
+135,"Bath County,Virginia","Darke County,Ohio",24551,680583
+136,"Bath County,Virginia","Defiance County,Ohio",29639,785157
+137,"Bath County,Virginia","Delaware County,Ohio",21709,604625
+138,"Bath County,Virginia","Fairfield County,Ohio",19240,531719
+139,"Bath County,Virginia","Fayette County,Ohio",19505,543323
+140,"Bath County,Virginia","Franklin County,Ohio",20240,561574
+141,"Bath County,Virginia","Fulton County,Ohio",29646,827457
+142,"Bath County,Virginia","Gallia County,Ohio",14818,402435
+143,"Bath County,Virginia","Geauga County,Ohio",23471,598827
+144,"Bath County,Virginia","Greene County,Ohio",20375,576476
+145,"Bath County,Virginia","Guernsey County,Ohio",17814,516472
+146,"Bath County,Virginia","Hamilton County,Ohio",23330,650950
+147,"Bath County,Virginia","Hancock County,Ohio",25732,712980
+148,"Bath County,Virginia","Hardin County,Ohio",24714,662666
+149,"Bath County,Virginia","Harrison County,Ohio",20391,492432
+150,"Bath County,Virginia","Henry County,Ohio",28445,784602
+151,"Bath County,Virginia","Highland County,Ohio",20009,531433
+152,"Bath County,Virginia","Hocking County,Ohio",17682,487682
+153,"Bath County,Virginia","Holmes County,Ohio",21322,601437
+154,"Bath County,Virginia","Huron County,Ohio",25845,702357
+155,"Bath County,Virginia","Jackson County,Ohio",15995,441984
+156,"Bath County,Virginia","Jefferson County,Ohio",19332,453067
+157,"Bath County,Virginia","Knox County,Ohio",22052,621029
+158,"Bath County,Virginia","Lawrence County,Ohio",15520,408198
+159,"Bath County,Virginia","Licking County,Ohio",21185,558729
+160,"Bath County,Virginia","Logan County,Ohio",23735,656943
+161,"Bath County,Virginia","Lorain County,Ohio",25029,653729
+162,"Bath County,Virginia","Lucas County,Ohio",29602,782673
+163,"Bath County,Virginia","Madison County,Ohio",21206,566408
+164,"Bath County,Virginia","Mahoning County,Ohio",20468,516156
+165,"Bath County,Virginia","Marion County,Ohio",23116,630718
+166,"Bath County,Virginia","Medina County,Ohio",23337,678871
+167,"Bath County,Virginia","Meigs County,Ohio",14760,407989
+168,"Bath County,Virginia","Mercer County,Ohio",26689,750470
+169,"Bath County,Virginia","Miami County,Ohio",23040,645975
+170,"Bath County,Virginia","Monroe County,Ohio",18460,410016
+171,"Bath County,Virginia","Montgomery County,Ohio",22409,623931
+172,"Bath County,Virginia","Morgan County,Ohio",17755,492311
+173,"Bath County,Virginia","Morrow County,Ohio",22517,627446
+174,"Bath County,Virginia","Muskingum County,Ohio",18660,544463
+175,"Bath County,Virginia","Noble County,Ohio",17256,488824
+176,"Bath County,Virginia","Paulding County,Ohio",28740,782742
+177,"Bath County,Virginia","Perry County,Ohio",19097,502439
+178,"Bath County,Virginia","Pickaway County,Ohio",18945,523422
+179,"Bath County,Virginia","Pike County,Ohio",17441,481291
+180,"Bath County,Virginia","Portage County,Ohio",22322,572170
+181,"Bath County,Virginia","Preble County,Ohio",24028,652509
+182,"Bath County,Virginia","Putnam County,Ohio",27326,739195
+183,"Bath County,Virginia","Richland County,Ohio",23547,662684
+184,"Bath County,Virginia","Ross County,Ohio",17689,489728
+185,"Bath County,Virginia","Sandusky County,Ohio",27489,731675
+186,"Bath County,Virginia","Scioto County,Ohio",17325,465471
+187,"Bath County,Virginia","Seneca County,Ohio",26106,705560
+188,"Bath County,Virginia","Shelby County,Ohio",24078,682261
+189,"Bath County,Virginia","Stark County,Ohio",21487,622671
+190,"Bath County,Virginia","Summit County,Ohio",22246,648459
+191,"Bath County,Virginia","Trumbull County,Ohio",21625,553620
+192,"Bath County,Virginia","Tuscarawas County,Ohio",19688,563259
+193,"Bath County,Virginia","Union County,Ohio",22239,607174
+194,"Bath County,Virginia","Van Wert County,Ohio",27438,749706
+195,"Bath County,Virginia","Vinton County,Ohio",17891,467489
+196,"Bath County,Virginia","Warren County,Ohio",21747,606918
+197,"Bath County,Virginia","Washington County,Ohio",16114,446760
+198,"Bath County,Virginia","Wayne County,Ohio",22458,625549
+199,"Bath County,Virginia","Williams County,Ohio",30816,808674
+200,"Bath County,Virginia","Wood County,Ohio",27130,754588
+201,"Bath County,Virginia","Wyandot County,Ohio",24702,677116
+202,"Bath County,Virginia","Accomack County,Virginia",19781,521548
+203,"Bath County,Virginia","Albemarle County,Virginia",5930,134048
+204,"Bath County,Virginia","Alleghany County,Virginia",3579,57817
+205,"Bath County,Virginia","Amelia County,Virginia",10985,265866
+206,"Bath County,Virginia","Amherst County,Virginia",6727,135095
+207,"Bath County,Virginia","Appomattox County,Virginia",8320,173854
+208,"Bath County,Virginia","Arlington County,Virginia",12305,302244
+209,"Bath County,Virginia","Augusta County,Virginia",3531,70319
+210,"Bath County,Virginia","Bedford County,Virginia",7966,162385
+211,"Bath County,Virginia","Bland County,Virginia",10149,252400
+212,"Bath County,Virginia","Botetourt County,Virginia",5134,98698
+213,"Bath County,Virginia","Brunswick County,Virginia",13616,368176
+214,"Bath County,Virginia","Buchanan County,Virginia",14573,372150
+215,"Bath County,Virginia","Buckingham County,Virginia",8603,184789
+216,"Bath County,Virginia","Campbell County,Virginia",8244,176326
+217,"Bath County,Virginia","Caroline County,Virginia",11270,302893
+218,"Bath County,Virginia","Carroll County,Virginia",10270,257816
+219,"Bath County,Virginia","Charles City County,Virginia",11370,299928
+220,"Bath County,Virginia","Charlotte County,Virginia",10205,227375
+221,"Bath County,Virginia","Chesterfield County,Virginia",10506,277712
+222,"Bath County,Virginia","Clarke County,Virginia",9801,228992
+223,"Bath County,Virginia","Craig County,Virginia",7114,129883
+224,"Bath County,Virginia","Culpeper County,Virginia",9727,223264
+225,"Bath County,Virginia","Cumberland County,Virginia",9813,212792
+226,"Bath County,Virginia","Dickenson County,Virginia",16615,405036
+227,"Bath County,Virginia","Dinwiddie County,Virginia",12253,328143
+228,"Bath County,Virginia","Essex County,Virginia",13087,326936
+229,"Bath County,Virginia","Fairfax County,Virginia",11928,292520
+230,"Bath County,Virginia","Fauquier County,Virginia",10239,250244
+231,"Bath County,Virginia","Floyd County,Virginia",8797,199363
+232,"Bath County,Virginia","Fluvanna County,Virginia",7608,186219
+233,"Bath County,Virginia","Franklin County,Virginia",8135,177808
+234,"Bath County,Virginia","Frederick County,Virginia",9253,216719
+235,"Bath County,Virginia","Giles County,Virginia",8937,207515
+236,"Bath County,Virginia","Gloucester County,Virginia",13541,354116
+237,"Bath County,Virginia","Goochland County,Virginia",8512,216830
+238,"Bath County,Virginia","Grayson County,Virginia",11602,273996
+239,"Bath County,Virginia","Greene County,Virginia",7724,142324
+240,"Bath County,Virginia","Greensville County,Virginia",13669,376895
+241,"Bath County,Virginia","Halifax County,Virginia",11565,248033
+242,"Bath County,Virginia","Hanover County,Virginia",9718,257937
+243,"Bath County,Virginia","Henrico County,Virginia",10229,270897
+244,"Bath County,Virginia","Henry County,Virginia",9544,212770
+245,"Bath County,Virginia","Highland County,Virginia",3504,67907
+246,"Bath County,Virginia","Isle of Wight County,Virginia",14482,375474
+247,"Bath County,Virginia","James City County,Virginia",12606,340699
+248,"Bath County,Virginia","King and Queen County,Virginia",12264,316283
+249,"Bath County,Virginia","King George County,Virginia",12383,330879
+250,"Bath County,Virginia","King William County,Virginia",10952,286205
+251,"Bath County,Virginia","Lancaster County,Virginia",14744,369290
+252,"Bath County,Virginia","Lee County,Virginia",17110,436690
+253,"Bath County,Virginia","Loudoun County,Virginia",11296,264859
+254,"Bath County,Virginia","Louisa County,Virginia",8169,199925
+255,"Bath County,Virginia","Lunenburg County,Virginia",11977,268659
+256,"Bath County,Virginia","Madison County,Virginia",8843,199372
+257,"Bath County,Virginia","Mathews County,Virginia",14366,377540
+258,"Bath County,Virginia","Mecklenburg County,Virginia",12968,281783
+259,"Bath County,Virginia","Middlesex County,Virginia",13142,350316
+260,"Bath County,Virginia","Montgomery County,Virginia",7502,171786
+261,"Bath County,Virginia","Nelson County,Virginia",6810,152548
+262,"Bath County,Virginia","New Kent County,Virginia",12042,314613
+263,"Bath County,Virginia","Northampton County,Virginia",17023,457362
+264,"Bath County,Virginia","Northumberland County,Virginia",14784,367803
+265,"Bath County,Virginia","Nottoway County,Virginia",11470,269039
+266,"Bath County,Virginia","Orange County,Virginia",9132,208033
+267,"Bath County,Virginia","Page County,Virginia",7467,151044
+268,"Bath County,Virginia","Patrick County,Virginia",10917,236266
+269,"Bath County,Virginia","Pittsylvania County,Virginia",10559,227756
+270,"Bath County,Virginia","Powhatan County,Virginia",9765,242052
+271,"Bath County,Virginia","Prince Edward County,Virginia",10085,226374
+272,"Bath County,Virginia","Prince George County,Virginia",12017,314727
+273,"Bath County,Virginia","Prince William County,Virginia",10339,256347
+274,"Bath County,Virginia","Pulaski County,Virginia",8229,194419
+275,"Bath County,Virginia","Rappahannock County,Virginia",9298,187531
+276,"Bath County,Virginia","Richmond County,Virginia",13484,340446
+277,"Bath County,Virginia","Roanoke County,Virginia",6493,136725
+278,"Bath County,Virginia","Rockbridge County,Virginia",3731,72486
+279,"Bath County,Virginia","Rockingham County,Virginia",6121,109756
+280,"Bath County,Virginia","Russell County,Virginia",14387,368100
+281,"Bath County,Virginia","Scott County,Virginia",15683,397419
+282,"Bath County,Virginia","Shenandoah County,Virginia",7011,153498
+283,"Bath County,Virginia","Smyth County,Virginia",11265,281140
+284,"Bath County,Virginia","Southampton County,Virginia",14047,373009
+285,"Bath County,Virginia","Spotsylvania County,Virginia",10185,241764
+286,"Bath County,Virginia","Stafford County,Virginia",11566,266057
+287,"Bath County,Virginia","Surry County,Virginia",13350,339560
+288,"Bath County,Virginia","Sussex County,Virginia",12711,343251
+289,"Bath County,Virginia","Tazewell County,Virginia",11394,306508
+290,"Bath County,Virginia","Warren County,Virginia",8913,198091
+291,"Bath County,Virginia","Washington County,Virginia",12659,320607
+292,"Bath County,Virginia","Westmoreland County,Virginia",13357,347704
+293,"Bath County,Virginia","Wise County,Virginia",16522,411538
+294,"Bath County,Virginia","Wythe County,Virginia",9520,233125
+295,"Bath County,Virginia","York County,Virginia",13894,371473
+296,"Bath County,Virginia","Alexandria City County,Virginia",12508,314890
+297,"Bath County,Virginia","Bedford City County,Virginia",6998,145532
+298,"Bath County,Virginia","Bristol City County,Virginia",13134,346324
+299,"Bath County,Virginia","Buena Vista City County,Virginia",4086,86463
+300,"Bath County,Virginia","Charlottesville City County,Virginia",6400,149262
+301,"Bath County,Virginia","Chesapeake City County,Virginia",15357,424379
+302,"Bath County,Virginia","Clifton Forge City County,Virginia",2812,54609
+303,"Bath County,Virginia","Colonial Heights City County,Virginia",11066,293604
+304,"Bath County,Virginia","Covington City County,Virginia",3561,58385
+305,"Bath County,Virginia","Danville City County,Virginia",11413,264296
+306,"Bath County,Virginia","Emporia City County,Virginia",13377,363488
+307,"Bath County,Virginia","Fairfax City County,Virginia",11471,282095
+308,"Bath County,Virginia","Falls Church City County,Virginia",11803,296568
+309,"Bath County,Virginia","Franklin City County,Virginia",14595,380863
+310,"Bath County,Virginia","Fredericksburg City County,Virginia",11318,251423
+311,"Bath County,Virginia","Galax City County,Virginia",10894,263682
+312,"Bath County,Virginia","Hampton City County,Virginia",13844,381179
+313,"Bath County,Virginia","Harrisonburg City County,Virginia",5445,93914
+314,"Bath County,Virginia","Hopewell City County,Virginia",11102,292570
+315,"Bath County,Virginia","Lexington City County,Virginia",3720,74954
+316,"Bath County,Virginia","Lynchburg City County,Virginia",7303,150069
+317,"Bath County,Virginia","Manassas City County,Virginia",10566,261292
+318,"Bath County,Virginia","Manassas Park City County,Virginia",11068,267635
+319,"Bath County,Virginia","Martinsville City County,Virginia",9697,207872
+320,"Bath County,Virginia","Newport News City County,Virginia",13401,367665
+321,"Bath County,Virginia","Norfolk City County,Virginia",15150,406595
+322,"Bath County,Virginia","Norton City County,Virginia",16046,402429
+323,"Bath County,Virginia","Petersburg City County,Virginia",10938,294592
+324,"Bath County,Virginia","Poquoson City County,Virginia",14072,378242
+325,"Bath County,Virginia","Portsmouth City County,Virginia",15089,415416
+326,"Bath County,Virginia","Radford County,Virginia",7865,181630
+327,"Bath County,Virginia","Richmond City County,Virginia",9806,258707
+328,"Bath County,Virginia","Roanoke City County,Virginia",6031,128167
+329,"Bath County,Virginia","Salem City County,Virginia",5861,126638
+330,"Bath County,Virginia","South Boston City County,Virginia",11568,246851
+331,"Bath County,Virginia","Staunton City County,Virginia",4317,75370
+332,"Bath County,Virginia","Suffolk City County,Virginia",15325,390198
+333,"Bath County,Virginia","Virginia Beach City County,Virginia",15711,429854
+334,"Bath County,Virginia","Waynesboro City County,Virginia",5030,109257
+335,"Bath County,Virginia","Williamsburg City County,Virginia",12445,339914
+336,"Bath County,Virginia","Winchester City County,Virginia",9132,212863
+337,"Bath County,Virginia","Barbour County,West Virginia",10416,206325
+338,"Bath County,Virginia","Berkeley County,West Virginia",10870,260070
+339,"Bath County,Virginia","Boone County,West Virginia",12269,285496
+340,"Bath County,Virginia","Braxton County,West Virginia",11967,266171
+341,"Bath County,Virginia","Brooke County,West Virginia",17638,416618
+342,"Bath County,Virginia","Cabell County,West Virginia",13837,381402
+343,"Bath County,Virginia","Calhoun County,West Virginia",13738,320122
+344,"Bath County,Virginia","Clay County,West Virginia",12002,256955
+345,"Bath County,Virginia","Doddridge County,West Virginia",13870,268727
+346,"Bath County,Virginia","Fayette County,West Virginia",9391,203694
+347,"Bath County,Virginia","Gilmer County,West Virginia",13657,289060
+348,"Bath County,Virginia","Grant County,West Virginia",7895,144836
+349,"Bath County,Virginia","Greenbrier County,West Virginia",7746,162919
+350,"Bath County,Virginia","Hampshire County,West Virginia",10827,216419
+351,"Bath County,Virginia","Hancock County,West Virginia",19265,443965
+352,"Bath County,Virginia","Hardy County,West Virginia",8833,149608
+353,"Bath County,Virginia","Harrison County,West Virginia",12513,271195
+354,"Bath County,Virginia","Jackson County,West Virginia",13156,361213
+355,"Bath County,Virginia","Jefferson County,West Virginia",10921,247476
+356,"Bath County,Virginia","Kanawha County,West Virginia",10919,283195
+357,"Bath County,Virginia","Lewis County,West Virginia",11558,238690
+358,"Bath County,Virginia","Lincoln County,West Virginia",14501,359080
+359,"Bath County,Virginia","Logan County,West Virginia",14060,315986
+360,"Bath County,Virginia","McDowell County,West Virginia",12438,290437
+361,"Bath County,Virginia","Marion County,West Virginia",13659,298362
+362,"Bath County,Virginia","Marshall County,West Virginia",18625,411062
+363,"Bath County,Virginia","Mason County,West Virginia",13312,367309
+364,"Bath County,Virginia","Mercer County,West Virginia",9132,246427
+365,"Bath County,Virginia","Mineral County,West Virginia",10491,190495
+366,"Bath County,Virginia","Mingo County,West Virginia",14638,379920
+367,"Bath County,Virginia","Monongalia County,West Virginia",14020,279622
+368,"Bath County,Virginia","Monroe County,West Virginia",6681,149240
+369,"Bath County,Virginia","Morgan County,West Virginia",11116,261196
+370,"Bath County,Virginia","Nicholas County,West Virginia",9586,216344
+371,"Bath County,Virginia","Ohio County,West Virginia",17545,425564
+372,"Bath County,Virginia","Pendleton County,West Virginia",5503,96685
+373,"Bath County,Virginia","Pleasants County,West Virginia",15311,347335
+374,"Bath County,Virginia","Pocahontas County,West Virginia",5906,98609
+375,"Bath County,Virginia","Preston County,West Virginia",12495,221076
+376,"Bath County,Virginia","Putnam County,West Virginia",12094,332927
+377,"Bath County,Virginia","Raleigh County,West Virginia",7944,208376
+378,"Bath County,Virginia","Randolph County,West Virginia",8432,159719
+379,"Bath County,Virginia","Ritchie County,West Virginia",15222,341637
+380,"Bath County,Virginia","Roane County,West Virginia",14781,390028
+381,"Bath County,Virginia","Summers County,West Virginia",8665,188254
+382,"Bath County,Virginia","Taylor County,West Virginia",11889,241633
+383,"Bath County,Virginia","Tucker County,West Virginia",10207,169634
+384,"Bath County,Virginia","Tyler County,West Virginia",16238,340002
+385,"Bath County,Virginia","Upshur County,West Virginia",11028,195361
+386,"Bath County,Virginia","Wayne County,West Virginia",15428,414029
+387,"Bath County,Virginia","Webster County,West Virginia",10598,187371
+388,"Bath County,Virginia","Wetzel County,West Virginia",15193,322677
+389,"Bath County,Virginia","Wirt County,West Virginia",15422,418551
+390,"Bath County,Virginia","Wood County,West Virginia",14937,420240
+391,"Bath County,Virginia","Wyoming County,West Virginia",9889,248318

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Sussex County,Virginia","Adair County,Kentucky",35052,982725
+1,"Sussex County,Virginia","Allen County,Kentucky",36470,1052009
+2,"Sussex County,Virginia","Anderson County,Kentucky",31171,934723
+3,"Sussex County,Virginia","Ballard County,Kentucky",43375,1287264
+4,"Sussex County,Virginia","Barren County,Kentucky",36260,1010955
+5,"Sussex County,Virginia","Bath County,Kentucky",26818,805904
+6,"Sussex County,Virginia","Bell County,Kentucky",27659,695845
+7,"Sussex County,Virginia","Boone County,Kentucky",32631,927297
+8,"Sussex County,Virginia","Bourbon County,Kentucky",28732,852321
+9,"Sussex County,Virginia","Boyd County,Kentucky",23494,700228
+10,"Sussex County,Virginia","Boyle County,Kentucky",32400,938609
+11,"Sussex County,Virginia","Bracken County,Kentucky",29143,846404
+12,"Sussex County,Virginia","Breathitt County,Kentucky",29283,731608
+13,"Sussex County,Virginia","Breckinridge County,Kentucky",36704,1087404
+14,"Sussex County,Virginia","Bullitt County,Kentucky",33274,1008523
+15,"Sussex County,Virginia","Butler County,Kentucky",37369,1109402
+16,"Sussex County,Virginia","Caldwell County,Kentucky",40514,1195078
+17,"Sussex County,Virginia","Calloway County,Kentucky",41216,1219124
+18,"Sussex County,Virginia","Campbell County,Kentucky",30844,886275
+19,"Sussex County,Virginia","Carlisle County,Kentucky",43832,1302633
+20,"Sussex County,Virginia","Carroll County,Kentucky",33716,982537
+21,"Sussex County,Virginia","Carter County,Kentucky",24658,730325
+22,"Sussex County,Virginia","Casey County,Kentucky",33895,970114
+23,"Sussex County,Virginia","Christian County,Kentucky",38109,1140103
+24,"Sussex County,Virginia","Clay County,Kentucky",30231,756187
+25,"Sussex County,Virginia","Clinton County,Kentucky",33517,931414
+26,"Sussex County,Virginia","Crittenden County,Kentucky",41779,1227838
+27,"Sussex County,Virginia","Cumberland County,Kentucky",34397,952083
+28,"Sussex County,Virginia","Daviess County,Kentucky",38392,1155844
+29,"Sussex County,Virginia","Edmonson County,Kentucky",36809,1097276
+30,"Sussex County,Virginia","Elliott County,Kentucky",25989,756095
+31,"Sussex County,Virginia","Estill County,Kentucky",29811,868219
+32,"Sussex County,Virginia","Fayette County,Kentucky",28978,872215
+33,"Sussex County,Virginia","Fleming County,Kentucky",27244,809089
+34,"Sussex County,Virginia","Floyd County,Kentucky",27627,807493
+35,"Sussex County,Virginia","Franklin County,Kentucky",31016,921132
+36,"Sussex County,Virginia","Fulton County,Kentucky",44236,1323597
+37,"Sussex County,Virginia","Gallatin County,Kentucky",32713,973196
+38,"Sussex County,Virginia","Garrard County,Kentucky",31583,919369
+39,"Sussex County,Virginia","Grant County,Kentucky",31512,947303
+40,"Sussex County,Virginia","Graves County,Kentucky",42856,1275339
+41,"Sussex County,Virginia","Grayson County,Kentucky",35697,1066038
+42,"Sussex County,Virginia","Green County,Kentucky",35476,1031243
+43,"Sussex County,Virginia","Greenup County,Kentucky",25269,741354
+44,"Sussex County,Virginia","Hancock County,Kentucky",37500,1120297
+45,"Sussex County,Virginia","Hardin County,Kentucky",34573,1028170
+46,"Sussex County,Virginia","Harlan County,Kentucky",26734,672471
+47,"Sussex County,Virginia","Harrison County,Kentucky",30303,885421
+48,"Sussex County,Virginia","Hart County,Kentucky",35372,1055799
+49,"Sussex County,Virginia","Henderson County,Kentucky",40199,1208274
+50,"Sussex County,Virginia","Henry County,Kentucky",32617,964850
+51,"Sussex County,Virginia","Hickman County,Kentucky",43865,1303924
+52,"Sussex County,Virginia","Hopkins County,Kentucky",39720,1189815
+53,"Sussex County,Virginia","Jackson County,Kentucky",32103,792606
+54,"Sussex County,Virginia","Jefferson County,Kentucky",32711,980384
+55,"Sussex County,Virginia","Jessamine County,Kentucky",30447,893679
+56,"Sussex County,Virginia","Johnson County,Kentucky",26275,773124
+57,"Sussex County,Virginia","Kenton County,Kentucky",32000,914991
+58,"Sussex County,Virginia","Knott County,Kentucky",26823,674358
+59,"Sussex County,Virginia","Knox County,Kentucky",28989,737837
+60,"Sussex County,Virginia","Larue County,Kentucky",34644,1015346
+61,"Sussex County,Virginia","Laurel County,Kentucky",30883,772665
+62,"Sussex County,Virginia","Lawrence County,Kentucky",25417,744548
+63,"Sussex County,Virginia","Lee County,Kentucky",30655,861956
+64,"Sussex County,Virginia","Leslie County,Kentucky",28196,700751
+65,"Sussex County,Virginia","Letcher County,Kentucky",25224,637905
+66,"Sussex County,Virginia","Lewis County,Kentucky",26697,782143
+67,"Sussex County,Virginia","Lincoln County,Kentucky",32293,936287
+68,"Sussex County,Virginia","Livingston County,Kentucky",41706,1241203
+69,"Sussex County,Virginia","Logan County,Kentucky",38541,1093004
+70,"Sussex County,Virginia","Lyon County,Kentucky",41462,1218378
+71,"Sussex County,Virginia","McCracken County,Kentucky",41987,1255324
+72,"Sussex County,Virginia","McCreary County,Kentucky",30524,868260
+73,"Sussex County,Virginia","Madison County,Kentucky",29976,883238
+74,"Sussex County,Virginia","Magoffin County,Kentucky",27243,793803
+75,"Sussex County,Virginia","Marion County,Kentucky",33022,976955
+76,"Sussex County,Virginia","Marshall County,Kentucky",41402,1238896
+77,"Sussex County,Virginia","Martin County,Kentucky",26531,726272
+78,"Sussex County,Virginia","Mason County,Kentucky",28492,825950
+79,"Sussex County,Virginia","Meade County,Kentucky",35171,1052699
+80,"Sussex County,Virginia","Menifee County,Kentucky",27935,817967
+81,"Sussex County,Virginia","Mercer County,Kentucky",31399,932666
+82,"Sussex County,Virginia","Metcalfe County,Kentucky",35708,1012990
+83,"Sussex County,Virginia","Monroe County,Kentucky",34958,982504
+84,"Sussex County,Virginia","Montgomery County,Kentucky",27631,824444
+85,"Sussex County,Virginia","Morgan County,Kentucky",27713,793683
+86,"Sussex County,Virginia","Muhlenberg County,Kentucky",38580,1156291
+87,"Sussex County,Virginia","Nelson County,Kentucky",32630,976027
+88,"Sussex County,Virginia","Nicholas County,Kentucky",29309,852328
+89,"Sussex County,Virginia","Ohio County,Kentucky",37493,1123881
+90,"Sussex County,Virginia","Oldham County,Kentucky",32782,992265
+91,"Sussex County,Virginia","Owen County,Kentucky",31838,947909
+92,"Sussex County,Virginia","Owsley County,Kentucky",31421,769482
+93,"Sussex County,Virginia","Pendleton County,Kentucky",31081,887328
+94,"Sussex County,Virginia","Perry County,Kentucky",27797,694781
+95,"Sussex County,Virginia","Pike County,Kentucky",26318,643431
+96,"Sussex County,Virginia","Powell County,Kentucky",29075,854190
+97,"Sussex County,Virginia","Robertson County,Kentucky",29227,851834
+98,"Sussex County,Virginia","Rockcastle County,Kentucky",31410,924381
+99,"Sussex County,Virginia","Rowan County,Kentucky",25961,778111
+100,"Sussex County,Virginia","Russell County,Kentucky",34657,966709
+101,"Sussex County,Virginia","Scott County,Kentucky",29812,900242
+102,"Sussex County,Virginia","Shelby County,Kentucky",31640,951518
+103,"Sussex County,Virginia","Simpson County,Kentucky",37508,1068979
+104,"Sussex County,Virginia","Spencer County,Kentucky",32169,957366
+105,"Sussex County,Virginia","Taylor County,Kentucky",34312,1008451
+106,"Sussex County,Virginia","Todd County,Kentucky",38524,1133050
+107,"Sussex County,Virginia","Trigg County,Kentucky",39016,1157463
+108,"Sussex County,Virginia","Trimble County,Kentucky",33856,998305
+109,"Sussex County,Virginia","Union County,Kentucky",41918,1238720
+110,"Sussex County,Virginia","Warren County,Kentucky",37932,1091647
+111,"Sussex County,Virginia","Washington County,Kentucky",32640,961263
+112,"Sussex County,Virginia","Wayne County,Kentucky",33028,915391
+113,"Sussex County,Virginia","Webster County,Kentucky",40829,1217904
+114,"Sussex County,Virginia","Whitley County,Kentucky",29128,853023
+115,"Sussex County,Virginia","Wolfe County,Kentucky",28808,817045
+116,"Sussex County,Virginia","Woodford County,Kentucky",30032,902878
+117,"Sussex County,Virginia","Adams County,Ohio",28585,828506
+118,"Sussex County,Virginia","Allen County,Ohio",35317,1003923
+119,"Sussex County,Virginia","Ashland County,Ohio",30352,881990
+120,"Sussex County,Virginia","Ashtabula County,Ohio",28349,836460
+121,"Sussex County,Virginia","Athens County,Ohio",24993,734105
+122,"Sussex County,Virginia","Auglaize County,Ohio",34567,1020623
+123,"Sussex County,Virginia","Belmont County,Ohio",24919,732755
+124,"Sussex County,Virginia","Brown County,Ohio",29829,855434
+125,"Sussex County,Virginia","Butler County,Ohio",32942,937459
+126,"Sussex County,Virginia","Carroll County,Ohio",26865,748681
+127,"Sussex County,Virginia","Champaign County,Ohio",31871,922721
+128,"Sussex County,Virginia","Clark County,Ohio",30550,882265
+129,"Sussex County,Virginia","Clermont County,Ohio",30663,886530
+130,"Sussex County,Virginia","Clinton County,Ohio",30054,869947
+131,"Sussex County,Virginia","Columbiana County,Ohio",25652,730698
+132,"Sussex County,Virginia","Coshocton County,Ohio",29276,858205
+133,"Sussex County,Virginia","Crawford County,Ohio",32260,953184
+134,"Sussex County,Virginia","Cuyahoga County,Ohio",28345,834304
+135,"Sussex County,Virginia","Darke County,Ohio",33664,977670
+136,"Sussex County,Virginia","Defiance County,Ohio",36664,1083268
+137,"Sussex County,Virginia","Delaware County,Ohio",30823,901712
+138,"Sussex County,Virginia","Fairfield County,Ohio",28353,828806
+139,"Sussex County,Virginia","Fayette County,Ohio",28618,840410
+140,"Sussex County,Virginia","Franklin County,Ohio",29353,858661
+141,"Sussex County,Virginia","Fulton County,Ohio",35016,1040118
+142,"Sussex County,Virginia","Gallia County,Ohio",23931,699522
+143,"Sussex County,Virginia","Geauga County,Ohio",27839,809123
+144,"Sussex County,Virginia","Greene County,Ohio",29488,873563
+145,"Sussex County,Virginia","Guernsey County,Ohio",26823,796264
+146,"Sussex County,Virginia","Hamilton County,Ohio",32443,948037
+147,"Sussex County,Virginia","Hancock County,Ohio",34291,1015266
+148,"Sussex County,Virginia","Hardin County,Ohio",33828,959753
+149,"Sussex County,Virginia","Harrison County,Ohio",26079,750899
+150,"Sussex County,Virginia","Henry County,Ohio",35470,1029885
+151,"Sussex County,Virginia","Highland County,Ohio",29122,828520
+152,"Sussex County,Virginia","Hocking County,Ohio",26795,784769
+153,"Sussex County,Virginia","Holmes County,Ohio",30019,832975
+154,"Sussex County,Virginia","Huron County,Ohio",31628,911596
+155,"Sussex County,Virginia","Jackson County,Ohio",25108,739071
+156,"Sussex County,Virginia","Jefferson County,Ohio",24821,712172
+157,"Sussex County,Virginia","Knox County,Ohio",31065,900681
+158,"Sussex County,Virginia","Lawrence County,Ohio",24633,705285
+159,"Sussex County,Virginia","Licking County,Ohio",30298,855816
+160,"Sussex County,Virginia","Logan County,Ohio",32848,954030
+161,"Sussex County,Virginia","Lorain County,Ohio",29397,864024
+162,"Sussex County,Virginia","Lucas County,Ohio",33970,992968
+163,"Sussex County,Virginia","Madison County,Ohio",30319,863495
+164,"Sussex County,Virginia","Mahoning County,Ohio",24835,726452
+165,"Sussex County,Virginia","Marion County,Ohio",32229,927805
+166,"Sussex County,Virginia","Medina County,Ohio",28984,849110
+167,"Sussex County,Virginia","Meigs County,Ohio",23874,705076
+168,"Sussex County,Virginia","Mercer County,Ohio",35802,1047557
+169,"Sussex County,Virginia","Miami County,Ohio",32153,943062
+170,"Sussex County,Virginia","Monroe County,Ohio",27352,779438
+171,"Sussex County,Virginia","Montgomery County,Ohio",31522,921018
+172,"Sussex County,Virginia","Morgan County,Ohio",26868,789398
+173,"Sussex County,Virginia","Morrow County,Ohio",31630,924533
+174,"Sussex County,Virginia","Muskingum County,Ohio",27669,824256
+175,"Sussex County,Virginia","Noble County,Ohio",26369,785911
+176,"Sussex County,Virginia","Paulding County,Ohio",37854,1079829
+177,"Sussex County,Virginia","Perry County,Ohio",28211,799526
+178,"Sussex County,Virginia","Pickaway County,Ohio",28058,820509
+179,"Sussex County,Virginia","Pike County,Ohio",26554,778378
+180,"Sussex County,Virginia","Portage County,Ohio",26690,782466
+181,"Sussex County,Virginia","Preble County,Ohio",33141,949596
+182,"Sussex County,Virginia","Putnam County,Ohio",36440,1036282
+183,"Sussex County,Virginia","Richland County,Ohio",30908,903418
+184,"Sussex County,Virginia","Ross County,Ohio",26802,786815
+185,"Sussex County,Virginia","Sandusky County,Ohio",32258,951543
+186,"Sussex County,Virginia","Scioto County,Ohio",26439,762558
+187,"Sussex County,Virginia","Seneca County,Ohio",32989,961215
+188,"Sussex County,Virginia","Shelby County,Ohio",33191,979348
+189,"Sussex County,Virginia","Stark County,Ohio",27470,778598
+190,"Sussex County,Virginia","Summit County,Ohio",27748,808281
+191,"Sussex County,Virginia","Trumbull County,Ohio",25993,763916
+192,"Sussex County,Virginia","Tuscarawas County,Ohio",27588,782182
+193,"Sussex County,Virginia","Union County,Ohio",31352,904261
+194,"Sussex County,Virginia","Van Wert County,Ohio",36551,1046793
+195,"Sussex County,Virginia","Vinton County,Ohio",27004,764576
+196,"Sussex County,Virginia","Warren County,Ohio",30860,904005
+197,"Sussex County,Virginia","Washington County,Ohio",25227,743847
+198,"Sussex County,Virginia","Wayne County,Ohio",30090,867921
+199,"Sussex County,Virginia","Williams County,Ohio",36261,1071575
+200,"Sussex County,Virginia","Wood County,Ohio",34155,999871
+201,"Sussex County,Virginia","Wyandot County,Ohio",33261,979401
+202,"Sussex County,Virginia","Accomack County,Virginia",10487,236429
+203,"Sussex County,Virginia","Albemarle County,Virginia",7513,213937
+204,"Sussex County,Virginia","Alleghany County,Virginia",13023,382878
+205,"Sussex County,Virginia","Amelia County,Virginia",4802,107974
+206,"Sussex County,Virginia","Amherst County,Virginia",9493,231105
+207,"Sussex County,Virginia","Appomattox County,Virginia",7590,184128
+208,"Sussex County,Virginia","Arlington County,Virginia",8838,254945
+209,"Sussex County,Virginia","Augusta County,Virginia",9767,276571
+210,"Sussex County,Virginia","Bath County,Virginia",12741,342231
+211,"Sussex County,Virginia","Bedford County,Virginia",10564,249984
+212,"Sussex County,Virginia","Bland County,Virginia",16925,435162
+213,"Sussex County,Virginia","Botetourt County,Virginia",12330,353814
+214,"Sussex County,Virginia","Brunswick County,Virginia",2994,76253
+215,"Sussex County,Virginia","Buchanan County,Virginia",22682,569621
+216,"Sussex County,Virginia","Buckingham County,Virginia",7321,167742
+217,"Sussex County,Virginia","Campbell County,Virginia",9009,213299
+218,"Sussex County,Virginia","Caroline County,Virginia",5567,152304
+219,"Sussex County,Virginia","Carroll County,Virginia",14749,423285
+220,"Sussex County,Virginia","Charles City County,Virginia",3625,72352
+221,"Sussex County,Virginia","Charlotte County,Virginia",6811,156804
+222,"Sussex County,Virginia","Chesterfield County,Virginia",3562,90521
+223,"Sussex County,Virginia","Clarke County,Virginia",11518,297421
+224,"Sussex County,Virginia","Craig County,Virginia",14894,351562
+225,"Sussex County,Virginia","Culpeper County,Virginia",8817,228149
+226,"Sussex County,Virginia","Cumberland County,Virginia",5924,153582
+227,"Sussex County,Virginia","Dickenson County,Virginia",23391,587799
+228,"Sussex County,Virginia","Dinwiddie County,Virginia",2475,47890
+229,"Sussex County,Virginia","Essex County,Virginia",6701,161347
+230,"Sussex County,Virginia","Fairfax County,Virginia",9135,258175
+231,"Sussex County,Virginia","Fauquier County,Virginia",8831,238187
+232,"Sussex County,Virginia","Floyd County,Virginia",14729,357452
+233,"Sussex County,Virginia","Fluvanna County,Virginia",6714,177508
+234,"Sussex County,Virginia","Franklin County,Virginia",12084,286935
+235,"Sussex County,Virginia","Frederick County,Virginia",12074,330483
+236,"Sussex County,Virginia","Giles County,Virginia",15714,390278
+237,"Sussex County,Virginia","Gloucester County,Virginia",6460,164874
+238,"Sussex County,Virginia","Goochland County,Virginia",5444,146795
+239,"Sussex County,Virginia","Grayson County,Virginia",16880,459829
+240,"Sussex County,Virginia","Greene County,Virginia",9234,231972
+241,"Sussex County,Virginia","Greensville County,Virginia",2462,63693
+242,"Sussex County,Virginia","Halifax County,Virginia",6916,174872
+243,"Sussex County,Virginia","Hanover County,Virginia",3841,107627
+244,"Sussex County,Virginia","Henrico County,Virginia",3194,86769
+245,"Sussex County,Virginia","Henry County,Virginia",11275,288824
+246,"Sussex County,Virginia","Highland County,Virginia",12969,334310
+247,"Sussex County,Virginia","Isle of Wight County,Virginia",3252,67695
+248,"Sussex County,Virginia","James City County,Virginia",5216,107797
+249,"Sussex County,Virginia","King and Queen County,Virginia",5878,150694
+250,"Sussex County,Virginia","King George County,Virginia",6680,180291
+251,"Sussex County,Virginia","King William County,Virginia",4566,120616
+252,"Sussex County,Virginia","Lancaster County,Virginia",8327,200913
+253,"Sussex County,Virginia","Lee County,Virginia",23886,619453
+254,"Sussex County,Virginia","Loudoun County,Virginia",11101,311420
+255,"Sussex County,Virginia","Louisa County,Virginia",6212,170383
+256,"Sussex County,Virginia","Lunenburg County,Virginia",5010,111741
+257,"Sussex County,Virginia","Madison County,Virginia",9148,232004
+258,"Sussex County,Virginia","Mathews County,Virginia",7285,188297
+259,"Sussex County,Virginia","Mecklenburg County,Virginia",5032,124254
+260,"Sussex County,Virginia","Middlesex County,Virginia",6061,161074
+261,"Sussex County,Virginia","Montgomery County,Virginia",14278,354549
+262,"Sussex County,Virginia","Nelson County,Virginia",8752,251278
+263,"Sussex County,Virginia","New Kent County,Virginia",4962,125371
+264,"Sussex County,Virginia","Northampton County,Virginia",7729,172243
+265,"Sussex County,Virginia","Northumberland County,Virginia",8398,202214
+266,"Sussex County,Virginia","Nottoway County,Virginia",3803,87371
+267,"Sussex County,Virginia","Orange County,Virginia",7827,198457
+268,"Sussex County,Virginia","Page County,Virginia",11508,283656
+269,"Sussex County,Virginia","Patrick County,Virginia",12858,327731
+270,"Sussex County,Virginia","Pittsylvania County,Virginia",9640,244825
+271,"Sussex County,Virginia","Powhatan County,Virginia",4662,121660
+272,"Sussex County,Virginia","Prince Edward County,Virginia",6067,137793
+273,"Sussex County,Virginia","Prince George County,Virginia",2219,36233
+274,"Sussex County,Virginia","Prince William County,Virginia",9295,248023
+275,"Sussex County,Virginia","Pulaski County,Virginia",15006,377182
+276,"Sussex County,Virginia","Rappahannock County,Virginia",10271,266187
+277,"Sussex County,Virginia","Richmond County,Virginia",7098,174857
+278,"Sussex County,Virginia","Roanoke County,Virginia",13269,319487
+279,"Sussex County,Virginia","Rockbridge County,Virginia",11072,319823
+280,"Sussex County,Virginia","Rockingham County,Virginia",11125,316717
+281,"Sussex County,Virginia","Russell County,Virginia",21848,552958
+282,"Sussex County,Virginia","Scott County,Virginia",22459,580181
+283,"Sussex County,Virginia","Shenandoah County,Virginia",11630,346820
+284,"Sussex County,Virginia","Smyth County,Virginia",18042,463903
+285,"Sussex County,Virginia","Southampton County,Virginia",2101,41778
+286,"Sussex County,Virginia","Spotsylvania County,Virginia",6577,175255
+287,"Sussex County,Virginia","Stafford County,Virginia",6649,192726
+288,"Sussex County,Virginia","Surry County,Virginia",2677,54112
+289,"Sussex County,Virginia","Tazewell County,Virginia",19503,503979
+290,"Sussex County,Virginia","Warren County,Virginia",11301,299893
+291,"Sussex County,Virginia","Washington County,Virginia",19435,503369
+292,"Sussex County,Virginia","Westmoreland County,Virginia",7654,197115
+293,"Sussex County,Virginia","Wise County,Virginia",23299,594301
+294,"Sussex County,Virginia","Wythe County,Virginia",16296,415888
+295,"Sussex County,Virginia","York County,Virginia",6563,123645
+296,"Sussex County,Virginia","Alexandria City County,Virginia",8809,251994
+297,"Sussex County,Virginia","Bedford City County,Virginia",10065,245068
+298,"Sussex County,Virginia","Bristol City County,Virginia",19910,529086
+299,"Sussex County,Virginia","Buena Vista City County,Virginia",10731,313089
+300,"Sussex County,Virginia","Charlottesville City County,Virginia",7064,199344
+301,"Sussex County,Virginia","Chesapeake City County,Virginia",5122,111606
+302,"Sussex County,Virginia","Clifton Forge City County,Virginia",11925,351696
+303,"Sussex County,Virginia","Colonial Heights City County,Virginia",2165,51590
+304,"Sussex County,Virginia","Covington City County,Virginia",12668,370038
+305,"Sussex County,Virginia","Danville City County,Virginia",8731,219798
+306,"Sussex County,Virginia","Emporia City County,Virginia",2169,50286
+307,"Sussex County,Virginia","Fairfax City County,Virginia",9069,246957
+308,"Sussex County,Virginia","Falls Church City County,Virginia",9017,259243
+309,"Sussex County,Virginia","Franklin City County,Virginia",2648,49633
+310,"Sussex County,Virginia","Fredericksburg City County,Virginia",6448,178662
+311,"Sussex County,Virginia","Galax City County,Virginia",15477,433823
+312,"Sussex County,Virginia","Hampton City County,Virginia",5408,106419
+313,"Sussex County,Virginia","Harrisonburg City County,Virginia",10184,296613
+314,"Sussex County,Virginia","Hopewell City County,Virginia",2593,60861
+315,"Sussex County,Virginia","Lexington City County,Virginia",10590,310067
+316,"Sussex County,Virginia","Lynchburg City County,Virginia",8792,208616
+317,"Sussex County,Virginia","Manassas City County,Virginia",9038,245360
+318,"Sussex County,Virginia","Manassas Park City County,Virginia",9258,242560
+319,"Sussex County,Virginia","Martinsville City County,Virginia",10872,272803
+320,"Sussex County,Virginia","Newport News City County,Virginia",5350,104273
+321,"Sussex County,Virginia","Norfolk City County,Virginia",5074,110466
+322,"Sussex County,Virginia","Norton City County,Virginia",22823,585191
+323,"Sussex County,Virginia","Petersburg City County,Virginia",1932,49499
+324,"Sussex County,Virginia","Poquoson City County,Virginia",6062,116018
+325,"Sussex County,Virginia","Portsmouth City County,Virginia",4993,108002
+326,"Sussex County,Virginia","Radford County,Virginia",14642,364393
+327,"Sussex County,Virginia","Richmond City County,Virginia",3263,85883
+328,"Sussex County,Virginia","Roanoke City County,Virginia",12287,290802
+329,"Sussex County,Virginia","Salem City County,Virginia",12637,309400
+330,"Sussex County,Virginia","South Boston City County,Virginia",6621,172364
+331,"Sussex County,Virginia","Staunton City County,Virginia",9073,258294
+332,"Sussex County,Virginia","Suffolk City County,Virginia",3964,82935
+333,"Sussex County,Virginia","Virginia Beach City County,Virginia",6189,138262
+334,"Sussex County,Virginia","Waynesboro City County,Virginia",8349,240292
+335,"Sussex County,Virginia","Williamsburg City County,Virginia",5364,150672
+336,"Sussex County,Virginia","Winchester City County,Virginia",11895,304231
+337,"Sussex County,Virginia","Barbour County,West Virginia",19876,475015
+338,"Sussex County,Virginia","Berkeley County,West Virginia",13676,354412
+339,"Sussex County,Virginia","Boone County,West Virginia",21382,582583
+340,"Sussex County,Virginia","Braxton County,West Virginia",21080,563258
+341,"Sussex County,Virginia","Brooke County,West Virginia",24127,695655
+342,"Sussex County,Virginia","Cabell County,West Virginia",22950,678489
+343,"Sussex County,Virginia","Calhoun County,West Virginia",22851,617209
+344,"Sussex County,Virginia","Clay County,West Virginia",21115,554042
+345,"Sussex County,Virginia","Doddridge County,West Virginia",23329,537416
+346,"Sussex County,Virginia","Fayette County,West Virginia",18504,500781
+347,"Sussex County,Virginia","Gilmer County,West Virginia",22648,612938
+348,"Sussex County,Virginia","Grant County,West Virginia",15123,407890
+349,"Sussex County,Virginia","Greenbrier County,West Virginia",16859,460006
+350,"Sussex County,Virginia","Hampshire County,West Virginia",14200,363488
+351,"Sussex County,Virginia","Hancock County,West Virginia",24835,703592
+352,"Sussex County,Virginia","Hardy County,West Virginia",14371,379220
+353,"Sussex County,Virginia","Harrison County,West Virginia",21973,539885
+354,"Sussex County,Virginia","Jackson County,West Virginia",22269,658300
+355,"Sussex County,Virginia","Jefferson County,West Virginia",12574,342847
+356,"Sussex County,Virginia","Kanawha County,West Virginia",20032,580282
+357,"Sussex County,Virginia","Lewis County,West Virginia",21017,507380
+358,"Sussex County,Virginia","Lincoln County,West Virginia",23614,656167
+359,"Sussex County,Virginia","Logan County,West Virginia",23173,613073
+360,"Sussex County,Virginia","McDowell County,West Virginia",21552,587524
+361,"Sussex County,Virginia","Marion County,West Virginia",21445,618516
+362,"Sussex County,Virginia","Marshall County,West Virginia",25114,690099
+363,"Sussex County,Virginia","Mason County,West Virginia",22425,664396
+364,"Sussex County,Virginia","Mercer County,West Virginia",17887,446455
+365,"Sussex County,Virginia","Mineral County,West Virginia",16597,419413
+366,"Sussex County,Virginia","Mingo County,West Virginia",23752,677007
+367,"Sussex County,Virginia","Monongalia County,West Virginia",19268,570255
+368,"Sussex County,Virginia","Monroe County,West Virginia",15794,446327
+369,"Sussex County,Virginia","Morgan County,West Virginia",13922,355538
+370,"Sussex County,Virginia","Nicholas County,West Virginia",18699,513431
+371,"Sussex County,Virginia","Ohio County,West Virginia",24033,704602
+372,"Sussex County,Virginia","Pendleton County,West Virginia",13973,367902
+373,"Sussex County,Virginia","Pleasants County,West Virginia",24771,616025
+374,"Sussex County,Virginia","Pocahontas County,West Virginia",16432,395996
+375,"Sussex County,Virginia","Preston County,West Virginia",19303,486341
+376,"Sussex County,Virginia","Putnam County,West Virginia",21207,630014
+377,"Sussex County,Virginia","Raleigh County,West Virginia",17057,505463
+378,"Sussex County,Virginia","Randolph County,West Virginia",17891,428408
+379,"Sussex County,Virginia","Ritchie County,West Virginia",24682,610327
+380,"Sussex County,Virginia","Roane County,West Virginia",23894,687115
+381,"Sussex County,Virginia","Summers County,West Virginia",17778,485341
+382,"Sussex County,Virginia","Taylor County,West Virginia",19646,504162
+383,"Sussex County,Virginia","Tucker County,West Virginia",17783,469537
+384,"Sussex County,Virginia","Tyler County,West Virginia",25697,608691
+385,"Sussex County,Virginia","Upshur County,West Virginia",20487,464051
+386,"Sussex County,Virginia","Wayne County,West Virginia",24541,711116
+387,"Sussex County,Virginia","Webster County,West Virginia",20319,475417
+388,"Sussex County,Virginia","Wetzel County,West Virginia",24652,591367
+389,"Sussex County,Virginia","Wirt County,West Virginia",24535,715638
+390,"Sussex County,Virginia","Wood County,West Virginia",24050,717327
+391,"Sussex County,Virginia","Wyoming County,West Virginia",19002,545405

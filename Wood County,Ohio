@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wood County,Ohio","Adair County,Kentucky",20781,591423
+1,"Wood County,Ohio","Allen County,Kentucky",21537,644710
+2,"Wood County,Ohio","Anderson County,Kentucky",15763,470568
+3,"Wood County,Ohio","Ballard County,Kentucky",27697,836872
+4,"Wood County,Ohio","Barren County,Kentucky",20664,613122
+5,"Wood County,Ohio","Bath County,Kentucky",16048,491877
+6,"Wood County,Ohio","Bell County,Kentucky",21282,619603
+7,"Wood County,Ohio","Boone County,Kentucky",11231,321294
+8,"Wood County,Ohio","Bourbon County,Kentucky",14636,429836
+9,"Wood County,Ohio","Boyd County,Kentucky",16435,406541
+10,"Wood County,Ohio","Boyle County,Kentucky",17072,498457
+11,"Wood County,Ohio","Bracken County,Kentucky",12794,370654
+12,"Wood County,Ohio","Breathitt County,Kentucky",18648,556058
+13,"Wood County,Ohio","Breckinridge County,Kentucky",19577,563274
+14,"Wood County,Ohio","Bullitt County,Kentucky",16113,484105
+15,"Wood County,Ohio","Butler County,Kentucky",20917,621780
+16,"Wood County,Ohio","Caldwell County,Kentucky",23809,727725
+17,"Wood County,Ohio","Calloway County,Kentucky",26619,812718
+18,"Wood County,Ohio","Campbell County,Kentucky",11324,323603
+19,"Wood County,Ohio","Carlisle County,Kentucky",28154,852240
+20,"Wood County,Ohio","Carroll County,Kentucky",12805,383059
+21,"Wood County,Ohio","Carter County,Kentucky",16803,419256
+22,"Wood County,Ohio","Casey County,Kentucky",18997,528586
+23,"Wood County,Ohio","Christian County,Kentucky",23458,722982
+24,"Wood County,Ohio","Clay County,Kentucky",19513,578648
+25,"Wood County,Ohio","Clinton County,Kentucky",21236,618131
+26,"Wood County,Ohio","Crittenden County,Kentucky",25389,760796
+27,"Wood County,Ohio","Cumberland County,Kentucky",21990,636370
+28,"Wood County,Ohio","Daviess County,Kentucky",20889,626592
+29,"Wood County,Ohio","Edmonson County,Kentucky",20357,609655
+30,"Wood County,Ohio","Elliott County,Kentucky",18146,447796
+31,"Wood County,Ohio","Estill County,Kentucky",16582,492598
+32,"Wood County,Ohio","Fayette County,Kentucky",14011,423092
+33,"Wood County,Ohio","Fleming County,Kentucky",15070,423393
+34,"Wood County,Ohio","Floyd County,Kentucky",20835,616088
+35,"Wood County,Ohio","Franklin County,Kentucky",15245,426442
+36,"Wood County,Ohio","Fulton County,Kentucky",28558,873205
+37,"Wood County,Ohio","Gallatin County,Kentucky",12016,355472
+38,"Wood County,Ohio","Garrard County,Kentucky",17040,502451
+39,"Wood County,Ohio","Grant County,Kentucky",12083,355946
+40,"Wood County,Ohio","Graves County,Kentucky",27179,824947
+41,"Wood County,Ohio","Grayson County,Kentucky",19244,578416
+42,"Wood County,Ohio","Green County,Kentucky",19932,584412
+43,"Wood County,Ohio","Greenup County,Kentucky",14817,370474
+44,"Wood County,Ohio","Hancock County,Kentucky",19775,581110
+45,"Wood County,Ohio","Hardin County,Kentucky",18120,540549
+46,"Wood County,Ohio","Harlan County,Kentucky",23576,675209
+47,"Wood County,Ohio","Harrison County,Kentucky",13520,390009
+48,"Wood County,Ohio","Hart County,Kentucky",18920,568177
+49,"Wood County,Ohio","Henderson County,Kentucky",22473,669087
+50,"Wood County,Ohio","Henry County,Kentucky",13991,411382
+51,"Wood County,Ohio","Hickman County,Kentucky",28188,853532
+52,"Wood County,Ohio","Hopkins County,Kentucky",23267,702193
+53,"Wood County,Ohio","Jackson County,Kentucky",18025,522434
+54,"Wood County,Ohio","Jefferson County,Kentucky",15207,453541
+55,"Wood County,Ohio","Jessamine County,Kentucky",15271,446404
+56,"Wood County,Ohio","Johnson County,Kentucky",19540,482941
+57,"Wood County,Ohio","Kenton County,Kentucky",10876,314852
+58,"Wood County,Ohio","Knott County,Kentucky",21108,619436
+59,"Wood County,Ohio","Knox County,Kentucky",19444,581344
+60,"Wood County,Ohio","Larue County,Kentucky",18190,544148
+61,"Wood County,Ohio","Laurel County,Kentucky",18295,552739
+62,"Wood County,Ohio","Lawrence County,Kentucky",18681,454365
+63,"Wood County,Ohio","Lee County,Kentucky",17897,532515
+64,"Wood County,Ohio","Leslie County,Kentucky",21463,629771
+65,"Wood County,Ohio","Letcher County,Kentucky",22361,644409
+66,"Wood County,Ohio","Lewis County,Kentucky",15727,392324
+67,"Wood County,Ohio","Lincoln County,Kentucky",17750,519370
+68,"Wood County,Ohio","Livingston County,Kentucky",25984,777692
+69,"Wood County,Ohio","Logan County,Kentucky",22657,665018
+70,"Wood County,Ohio","Lyon County,Kentucky",26118,788083
+71,"Wood County,Ohio","McCracken County,Kentucky",26309,804932
+72,"Wood County,Ohio","McCreary County,Kentucky",20400,597181
+73,"Wood County,Ohio","Madison County,Kentucky",15434,466321
+74,"Wood County,Ohio","Magoffin County,Kentucky",19257,573949
+75,"Wood County,Ohio","Marion County,Kentucky",17770,522921
+76,"Wood County,Ohio","Marshall County,Kentucky",25724,788504
+77,"Wood County,Ohio","Martin County,Kentucky",20167,486710
+78,"Wood County,Ohio","Mason County,Kentucky",13528,385700
+79,"Wood County,Ohio","Meade County,Kentucky",17653,520782
+80,"Wood County,Ohio","Menifee County,Kentucky",17322,504415
+81,"Wood County,Ohio","Mercer County,Kentucky",16147,478632
+82,"Wood County,Ohio","Metcalfe County,Kentucky",21116,633215
+83,"Wood County,Ohio","Monroe County,Kentucky",22011,656798
+84,"Wood County,Ohio","Montgomery County,Kentucky",15966,482324
+85,"Wood County,Ohio","Morgan County,Kentucky",18647,562233
+86,"Wood County,Ohio","Muhlenberg County,Kentucky",22128,668669
+87,"Wood County,Ohio","Nelson County,Kentucky",17378,521992
+88,"Wood County,Ohio","Nicholas County,Kentucky",15226,431293
+89,"Wood County,Ohio","Ohio County,Kentucky",21041,636259
+90,"Wood County,Ohio","Oldham County,Kentucky",14106,424487
+91,"Wood County,Ohio","Owen County,Kentucky",13248,381861
+92,"Wood County,Ohio","Owsley County,Kentucky",19044,552492
+93,"Wood County,Ohio","Pendleton County,Kentucky",12200,345445
+94,"Wood County,Ohio","Perry County,Kentucky",20260,595941
+95,"Wood County,Ohio","Pike County,Kentucky",22514,646412
+96,"Wood County,Ohio","Powell County,Kentucky",16259,491183
+97,"Wood County,Ohio","Robertson County,Kentucky",14123,389438
+98,"Wood County,Ohio","Rockcastle County,Kentucky",16868,507464
+99,"Wood County,Ohio","Rowan County,Kentucky",16555,456755
+100,"Wood County,Ohio","Russell County,Kentucky",20433,598750
+101,"Wood County,Ohio","Scott County,Kentucky",13012,390467
+102,"Wood County,Ohio","Shelby County,Kentucky",15361,438372
+103,"Wood County,Ohio","Simpson County,Kentucky",22239,673075
+104,"Wood County,Ohio","Spencer County,Kentucky",16321,483161
+105,"Wood County,Ohio","Taylor County,Kentucky",19060,554417
+106,"Wood County,Ohio","Todd County,Kentucky",23893,689179
+107,"Wood County,Ohio","Trigg County,Kentucky",24871,748911
+108,"Wood County,Ohio","Trimble County,Kentucky",13704,406383
+109,"Wood County,Ohio","Union County,Kentucky",24193,699533
+110,"Wood County,Ohio","Warren County,Kentucky",21273,638024
+111,"Wood County,Ohio","Washington County,Kentucky",17388,507229
+112,"Wood County,Ohio","Wayne County,Kentucky",20609,595822
+113,"Wood County,Ohio","Webster County,Kentucky",24116,705709
+114,"Wood County,Ohio","Whitley County,Kentucky",19128,587224
+115,"Wood County,Ohio","Wolfe County,Kentucky",17523,529054
+116,"Wood County,Ohio","Woodford County,Kentucky",14624,438724
+117,"Wood County,Ohio","Adams County,Ohio",13116,374943
+118,"Wood County,Ohio","Allen County,Ohio",3555,94475
+119,"Wood County,Ohio","Ashland County,Ohio",6450,140994
+120,"Wood County,Ohio","Ashtabula County,Ohio",10529,292075
+121,"Wood County,Ohio","Athens County,Ohio",11780,314826
+122,"Wood County,Ohio","Auglaize County,Ohio",4561,136210
+123,"Wood County,Ohio","Belmont County,Ohio",13698,386623
+124,"Wood County,Ohio","Brown County,Ohio",12369,351497
+125,"Wood County,Ohio","Butler County,Ohio",9316,268053
+126,"Wood County,Ohio","Carroll County,Ohio",11416,301564
+127,"Wood County,Ohio","Champaign County,Ohio",7135,153637
+128,"Wood County,Ohio","Clark County,Ohio",8076,241373
+129,"Wood County,Ohio","Clermont County,Ohio",10399,305785
+130,"Wood County,Ohio","Clinton County,Ohio",9542,268163
+131,"Wood County,Ohio","Columbiana County,Ohio",11028,307603
+132,"Wood County,Ohio","Coshocton County,Ohio",10193,246477
+133,"Wood County,Ohio","Crawford County,Ohio",3839,112783
+134,"Wood County,Ohio","Cuyahoga County,Ohio",6904,182543
+135,"Wood County,Ohio","Darke County,Ohio",7693,204004
+136,"Wood County,Ohio","Defiance County,Ohio",3162,79393
+137,"Wood County,Ohio","Delaware County,Ohio",5798,157625
+138,"Wood County,Ohio","Fairfield County,Ohio",8973,236083
+139,"Wood County,Ohio","Fayette County,Ohio",9664,259898
+140,"Wood County,Ohio","Franklin County,Ohio",7262,191299
+141,"Wood County,Ohio","Fulton County,Ohio",2820,62153
+142,"Wood County,Ohio","Gallia County,Ohio",13091,348246
+143,"Wood County,Ohio","Geauga County,Ohio",8840,234242
+144,"Wood County,Ohio","Greene County,Ohio",8128,242076
+145,"Wood County,Ohio","Guernsey County,Ohio",11427,320304
+146,"Wood County,Ohio","Hamilton County,Ohio",9763,284817
+147,"Wood County,Ohio","Hancock County,Ohio",1612,44311
+148,"Wood County,Ohio","Hardin County,Ohio",3427,83109
+149,"Wood County,Ohio","Harrison County,Ohio",11651,303932
+150,"Wood County,Ohio","Henry County,Ohio",1314,29998
+151,"Wood County,Ohio","Highland County,Ohio",11292,307856
+152,"Wood County,Ohio","Hocking County,Ohio",10411,279488
+153,"Wood County,Ohio","Holmes County,Ohio",8523,224588
+154,"Wood County,Ohio","Huron County,Ohio",4909,108061
+155,"Wood County,Ohio","Jackson County,Ohio",12032,320788
+156,"Wood County,Ohio","Jefferson County,Ohio",13461,341162
+157,"Wood County,Ohio","Knox County,Ohio",7988,194792
+158,"Wood County,Ohio","Lawrence County,Ohio",15714,382861
+159,"Wood County,Ohio","Licking County,Ohio",8095,210430
+160,"Wood County,Ohio","Logan County,Ohio",5184,124543
+161,"Wood County,Ohio","Lorain County,Ohio",5740,145832
+162,"Wood County,Ohio","Lucas County,Ohio",2647,55734
+163,"Wood County,Ohio","Madison County,Ohio",7957,177343
+164,"Wood County,Ohio","Mahoning County,Ohio",10413,290800
+165,"Wood County,Ohio","Marion County,Ohio",4766,130365
+166,"Wood County,Ohio","Medina County,Ohio",7402,167275
+167,"Wood County,Ohio","Meigs County,Ohio",12705,344934
+168,"Wood County,Ohio","Mercer County,Ohio",5796,163143
+169,"Wood County,Ohio","Miami County,Ohio",5820,173966
+170,"Wood County,Ohio","Monroe County,Ohio",15103,401187
+171,"Wood County,Ohio","Montgomery County,Ohio",7522,223335
+172,"Wood County,Ohio","Morgan County,Ohio",12492,328800
+173,"Wood County,Ohio","Morrow County,Ohio",5710,149690
+174,"Wood County,Ohio","Muskingum County,Ohio",10277,286460
+175,"Wood County,Ohio","Noble County,Ohio",13126,357423
+176,"Wood County,Ohio","Paulding County,Ohio",4367,115381
+177,"Wood County,Ohio","Perry County,Ohio",10346,275043
+178,"Wood County,Ohio","Pickaway County,Ohio",8659,227264
+179,"Wood County,Ohio","Pike County,Ohio",11601,301467
+180,"Wood County,Ohio","Portage County,Ohio",8348,228335
+181,"Wood County,Ohio","Preble County,Ohio",8292,246047
+182,"Wood County,Ohio","Putnam County,Ohio",3342,74863
+183,"Wood County,Ohio","Richland County,Ohio",5610,158419
+184,"Wood County,Ohio","Ross County,Ohio",10345,267937
+185,"Wood County,Ohio","Sandusky County,Ohio",2330,49174
+186,"Wood County,Ohio","Scioto County,Ohio",12560,324922
+187,"Wood County,Ohio","Seneca County,Ohio",2647,64017
+188,"Wood County,Ohio","Shelby County,Ohio",4955,142786
+189,"Wood County,Ohio","Stark County,Ohio",9919,276353
+190,"Wood County,Ohio","Summit County,Ohio",8153,217166
+191,"Wood County,Ohio","Trumbull County,Ohio",9964,271142
+192,"Wood County,Ohio","Tuscarawas County,Ohio",10723,276999
+193,"Wood County,Ohio","Union County,Ohio",6087,137846
+194,"Wood County,Ohio","Van Wert County,Ohio",4509,130165
+195,"Wood County,Ohio","Vinton County,Ohio",12115,308992
+196,"Wood County,Ohio","Warren County,Ohio",8984,252624
+197,"Wood County,Ohio","Washington County,Ohio",14309,398369
+198,"Wood County,Ohio","Wayne County,Ohio",7380,209817
+199,"Wood County,Ohio","Williams County,Ohio",3645,85783
+200,"Wood County,Ohio","Wyandot County,Ohio",3124,84235
+201,"Wood County,Ohio","Accomack County,Virginia",37458,1042355
+202,"Wood County,Ohio","Albemarle County,Virginia",29633,841723
+203,"Wood County,Ohio","Alleghany County,Virginia",24302,678746
+204,"Wood County,Ohio","Amelia County,Virginia",34028,977119
+205,"Wood County,Ohio","Amherst County,Virginia",29631,809712
+206,"Wood County,Ohio","Appomattox County,Virginia",31224,848471
+207,"Wood County,Ohio","Arlington County,Virginia",26322,759282
+208,"Wood County,Ohio","Augusta County,Virginia",28243,780062
+209,"Wood County,Ohio","Bath County,Virginia",27313,754056
+210,"Wood County,Ohio","Bedford County,Virginia",29890,795836
+211,"Wood County,Ohio","Bland County,Virginia",23264,644965
+212,"Wood County,Ohio","Botetourt County,Virginia",27456,750045
+213,"Wood County,Ohio","Brunswick County,Virginia",35331,1027704
+214,"Wood County,Ohio","Buchanan County,Virginia",26566,725919
+215,"Wood County,Ohio","Buckingham County,Virginia",31506,859406
+216,"Wood County,Ohio","Campbell County,Virginia",31147,850943
+217,"Wood County,Ohio","Caroline County,Virginia",30327,878271
+218,"Wood County,Ohio","Carroll County,Virginia",25509,714403
+219,"Wood County,Ohio","Charles City County,Virginia",32797,949754
+220,"Wood County,Ohio","Charlotte County,Virginia",33108,901991
+221,"Wood County,Ohio","Chesterfield County,Virginia",32728,942672
+222,"Wood County,Ohio","Clarke County,Virginia",25070,689015
+223,"Wood County,Ohio","Craig County,Virginia",25945,699831
+224,"Wood County,Ohio","Culpeper County,Virginia",28390,788453
+225,"Wood County,Ohio","Cumberland County,Virginia",32716,887408
+226,"Wood County,Ohio","Dickenson County,Virginia",25920,711355
+227,"Wood County,Ohio","Dinwiddie County,Virginia",33968,987671
+228,"Wood County,Ohio","Essex County,Virginia",31729,902325
+229,"Wood County,Ohio","Fairfax County,Virginia",26013,749949
+230,"Wood County,Ohio","Fauquier County,Virginia",26820,755180
+231,"Wood County,Ohio","Floyd County,Virginia",27130,733367
+232,"Wood County,Ohio","Fluvanna County,Virginia",31311,893894
+233,"Wood County,Ohio","Franklin County,Virginia",29403,797070
+234,"Wood County,Ohio","Frederick County,Virginia",23860,663736
+235,"Wood County,Ohio","Giles County,Virginia",23994,656524
+236,"Wood County,Ohio","Gloucester County,Virginia",34968,1003943
+237,"Wood County,Ohio","Goochland County,Virginia",32214,924506
+238,"Wood County,Ohio","Grayson County,Virginia",25912,704110
+239,"Wood County,Ohio","Greene County,Virginia",29935,807611
+240,"Wood County,Ohio","Greensville County,Virginia",35384,1036422
+241,"Wood County,Ohio","Halifax County,Virginia",33813,912090
+242,"Wood County,Ohio","Hanover County,Virginia",31146,907764
+243,"Wood County,Ohio","Henrico County,Virginia",31944,930424
+244,"Wood County,Ohio","Henry County,Virginia",29383,801124
+245,"Wood County,Ohio","Highland County,Virginia",26960,692840
+246,"Wood County,Ohio","Isle of Wight County,Virginia",36079,1039014
+247,"Wood County,Ohio","James City County,Virginia",34033,990525
+248,"Wood County,Ohio","King and Queen County,Virginia",32781,937587
+249,"Wood County,Ohio","King George County,Virginia",30288,862132
+250,"Wood County,Ohio","King William County,Virginia",31746,915384
+251,"Wood County,Ohio","Lancaster County,Virginia",34152,958320
+252,"Wood County,Ohio","Lee County,Virginia",24374,696162
+253,"Wood County,Ohio","Loudoun County,Virginia",26027,733918
+254,"Wood County,Ohio","Louisa County,Virginia",30998,851828
+255,"Wood County,Ohio","Lunenburg County,Virginia",34881,943276
+256,"Wood County,Ohio","Madison County,Virginia",28813,776712
+257,"Wood County,Ohio","Mathews County,Virginia",35863,1002707
+258,"Wood County,Ohio","Mecklenburg County,Virginia",35871,956400
+259,"Wood County,Ohio","Middlesex County,Virginia",34233,966288
+260,"Wood County,Ohio","Montgomery County,Virginia",25077,684530
+261,"Wood County,Ohio","Nelson County,Virginia",30171,821403
+262,"Wood County,Ohio","New Kent County,Virginia",33469,964439
+263,"Wood County,Ohio","Northampton County,Virginia",38451,1107189
+264,"Wood County,Ohio","Northumberland County,Virginia",34192,956832
+265,"Wood County,Ohio","Nottoway County,Virginia",34373,943655
+266,"Wood County,Ohio","Orange County,Virginia",29731,822952
+267,"Wood County,Ohio","Page County,Virginia",27353,745413
+268,"Wood County,Ohio","Patrick County,Virginia",27615,759439
+269,"Wood County,Ohio","Pittsylvania County,Virginia",31698,855332
+270,"Wood County,Ohio","Powhatan County,Virginia",32831,953358
+271,"Wood County,Ohio","Prince Edward County,Virginia",32988,900991
+272,"Wood County,Ohio","Prince George County,Virginia",33614,978267
+273,"Wood County,Ohio","Prince William County,Virginia",26920,761284
+274,"Wood County,Ohio","Pulaski County,Virginia",25172,680862
+275,"Wood County,Ohio","Rappahannock County,Virginia",27131,740318
+276,"Wood County,Ohio","Richmond County,Virginia",32892,929475
+277,"Wood County,Ohio","Roanoke County,Virginia",26697,727324
+278,"Wood County,Ohio","Rockbridge County,Virginia",26635,747102
+279,"Wood County,Ohio","Rockingham County,Virginia",26986,743692
+280,"Wood County,Ohio","Russell County,Virginia",27072,725146
+281,"Wood County,Ohio","Scott County,Virginia",26693,744003
+282,"Wood County,Ohio","Shenandoah County,Virginia",25751,726127
+283,"Wood County,Ohio","Smyth County,Virginia",25621,710318
+284,"Wood County,Ohio","Southampton County,Virginia",35762,1032536
+285,"Wood County,Ohio","Spotsylvania County,Virginia",29699,846531
+286,"Wood County,Ohio","Stafford County,Virginia",27987,813236
+287,"Wood County,Ohio","Surry County,Virginia",34726,999962
+288,"Wood County,Ohio","Sussex County,Virginia",34426,1002779
+289,"Wood County,Ohio","Tazewell County,Virginia",24079,663553
+290,"Wood County,Ohio","Warren County,Virginia",25675,711675
+291,"Wood County,Ohio","Washington County,Virginia",27015,749784
+292,"Wood County,Ohio","Westmoreland County,Virginia",31256,880933
+293,"Wood County,Ohio","Wise County,Virginia",24185,687254
+294,"Wood County,Ohio","Wythe County,Virginia",23868,663183
+295,"Wood County,Ohio","York County,Virginia",35321,1021300
+296,"Wood County,Ohio","Alexandria City County,Virginia",26838,776463
+297,"Wood County,Ohio","Bedford City County,Virginia",29055,787268
+298,"Wood County,Ohio","Bristol City County,Virginia",27490,775501
+299,"Wood County,Ohio","Buena Vista City County,Virginia",26989,761079
+300,"Wood County,Ohio","Charlottesville City County,Virginia",30102,856937
+301,"Wood County,Ohio","Chesapeake City County,Virginia",36784,1074205
+302,"Wood County,Ohio","Clifton Forge City County,Virginia",24845,698952
+303,"Wood County,Ohio","Colonial Heights City County,Virginia",32781,953132
+304,"Wood County,Ohio","Covington City County,Virginia",24371,682331
+305,"Wood County,Ohio","Danville City County,Virginia",31540,855580
+306,"Wood County,Ohio","Emporia City County,Virginia",35092,1023016
+307,"Wood County,Ohio","Fairfax City County,Virginia",26483,761582
+308,"Wood County,Ohio","Falls Church City County,Virginia",26030,753594
+309,"Wood County,Ohio","Franklin City County,Virginia",36310,1040391
+310,"Wood County,Ohio","Fredericksburg City County,Virginia",28800,828826
+311,"Wood County,Ohio","Galax City County,Virginia",26133,720269
+312,"Wood County,Ohio","Hampton City County,Virginia",35271,1031006
+313,"Wood County,Ohio","Harrisonburg City County,Virginia",27557,778017
+314,"Wood County,Ohio","Hopewell City County,Virginia",32545,953169
+315,"Wood County,Ohio","Lexington City County,Virginia",26623,749571
+316,"Wood County,Ohio","Lynchburg City County,Virginia",30207,824685
+317,"Wood County,Ohio","Manassas City County,Virginia",27148,766228
+318,"Wood County,Ohio","Manassas Park City County,Virginia",27223,778822
+319,"Wood County,Ohio","Martinsville City County,Virginia",29910,809917
+320,"Wood County,Ohio","Newport News City County,Virginia",34828,1017492
+321,"Wood County,Ohio","Norfolk City County,Virginia",36578,1056422
+322,"Wood County,Ohio","Norton City County,Virginia",24814,699066
+323,"Wood County,Ohio","Petersburg City County,Virginia",32653,954119
+324,"Wood County,Ohio","Poquoson City County,Virginia",35500,1028068
+325,"Wood County,Ohio","Portsmouth City County,Virginia",36517,1065243
+326,"Wood County,Ohio","Radford County,Virginia",25485,682571
+327,"Wood County,Ohio","Richmond City County,Virginia",31521,918235
+328,"Wood County,Ohio","Roanoke City County,Virginia",27299,747429
+329,"Wood County,Ohio","Salem City County,Virginia",26711,733979
+330,"Wood County,Ohio","South Boston City County,Virginia",33552,909758
+331,"Wood County,Ohio","Staunton City County,Virginia",28394,804214
+332,"Wood County,Ohio","Suffolk City County,Virginia",36922,1053738
+333,"Wood County,Ohio","Virginia Beach City County,Virginia",37138,1079680
+334,"Wood County,Ohio","Waynesboro City County,Virginia",28732,816933
+335,"Wood County,Ohio","Williamsburg City County,Virginia",33872,989741
+336,"Wood County,Ohio","Winchester City County,Virginia",23999,667540
+337,"Wood County,Ohio","Barbour County,West Virginia",20087,535751
+338,"Wood County,Ohio","Berkeley County,West Virginia",22786,637424
+339,"Wood County,Ohio","Boone County,West Virginia",19767,507731
+340,"Wood County,Ohio","Braxton County,West Virginia",20918,562261
+341,"Wood County,Ohio","Brooke County,West Virginia",14407,387394
+342,"Wood County,Ohio","Cabell County,West Virginia",16467,408688
+343,"Wood County,Ohio","Calhoun County,West Virginia",18206,462036
+344,"Wood County,Ohio","Clay County,West Virginia",19685,533173
+345,"Wood County,Ohio","Doddridge County,West Virginia",17074,461469
+346,"Wood County,Ohio","Fayette County,West Virginia",21182,557849
+347,"Wood County,Ohio","Gilmer County,West Virginia",19261,476573
+348,"Wood County,Ohio","Grant County,West Virginia",23158,635775
+349,"Wood County,Ohio","Greenbrier County,West Virginia",24256,635887
+350,"Wood County,Ohio","Hampshire County,West Virginia",23050,593264
+351,"Wood County,Ohio","Hancock County,West Virginia",12670,349609
+352,"Wood County,Ohio","Hardy County,West Virginia",24314,621799
+353,"Wood County,Ohio","Harrison County,West Virginia",18156,494463
+354,"Wood County,Ohio","Jackson County,West Virginia",15319,405364
+355,"Wood County,Ohio","Jefferson County,West Virginia",24243,693297
+356,"Wood County,Ohio","Kanawha County,West Virginia",18490,491913
+357,"Wood County,Ohio","Lewis County,West Virginia",19849,496614
+358,"Wood County,Ohio","Lincoln County,West Virginia",19207,486022
+359,"Wood County,Ohio","Logan County,West Virginia",20696,544850
+360,"Wood County,Ohio","McDowell County,West Virginia",24853,639225
+361,"Wood County,Ohio","Marion County,West Virginia",18511,521083
+362,"Wood County,Ohio","Marshall County,West Virginia",15734,423378
+363,"Wood County,Ohio","Mason County,West Virginia",14122,382711
+364,"Wood County,Ohio","Mercer County,West Virginia",21817,603472
+365,"Wood County,Ohio","Mineral County,West Virginia",21906,577972
+366,"Wood County,Ohio","Mingo County,West Virginia",20741,549357
+367,"Wood County,Ohio","Monongalia County,West Virginia",17439,505814
+368,"Wood County,Ohio","Monroe County,West Virginia",24862,648184
+369,"Wood County,Ohio","Morgan County,West Virginia",22277,626816
+370,"Wood County,Ohio","Nicholas County,West Virginia",21401,593054
+371,"Wood County,Ohio","Ohio County,West Virginia",14795,410108
+372,"Wood County,Ohio","Pendleton County,West Virginia",25486,690338
+373,"Wood County,Ohio","Pleasants County,West Virginia",15604,428056
+374,"Wood County,Ohio","Pocahontas County,West Virginia",26731,662593
+375,"Wood County,Ohio","Preston County,West Virginia",19676,537599
+376,"Wood County,Ohio","Putnam County,West Virginia",15757,422734
+377,"Wood County,Ohio","Raleigh County,West Virginia",20358,557165
+378,"Wood County,Ohio","Randolph County,West Virginia",22151,592399
+379,"Wood County,Ohio","Ritchie County,West Virginia",16239,434511
+380,"Wood County,Ohio","Roane County,West Virginia",16944,434179
+381,"Wood County,Ohio","Summers County,West Virginia",23811,618602
+382,"Wood County,Ohio","Taylor County,West Virginia",18596,525120
+383,"Wood County,Ohio","Tucker County,West Virginia",21822,584561
+384,"Wood County,Ohio","Tyler County,West Virginia",17483,466727
+385,"Wood County,Ohio","Upshur County,West Virginia",21126,566840
+386,"Wood County,Ohio","Wayne County,West Virginia",18295,443951
+387,"Wood County,Ohio","Webster County,West Virginia",23586,620134
+388,"Wood County,Ohio","Wetzel County,West Virginia",18167,482827
+389,"Wood County,Ohio","Wirt County,West Virginia",15662,411145
+390,"Wood County,Ohio","Wood County,West Virginia",14345,385875
+391,"Wood County,Ohio","Wyoming County,West Virginia",22303,597107

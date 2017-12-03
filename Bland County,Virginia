@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Bland County,Virginia","Adair County,Kentucky",20117,501198
+1,"Bland County,Virginia","Allen County,Kentucky",21513,621008
+2,"Bland County,Virginia","Anderson County,Kentucky",17986,528781
+3,"Bland County,Virginia","Ballard County,Kentucky",28417,856263
+4,"Bland County,Virginia","Barren County,Kentucky",21302,579953
+5,"Bland County,Virginia","Bath County,Kentucky",13633,399962
+6,"Bland County,Virginia","Bell County,Kentucky",12612,302504
+7,"Bland County,Virginia","Boone County,Kentucky",19446,521355
+8,"Bland County,Virginia","Bourbon County,Kentucky",15547,446380
+9,"Bland County,Virginia","Boyd County,Kentucky",10309,294287
+10,"Bland County,Virginia","Boyle County,Kentucky",19215,532667
+11,"Bland County,Virginia","Bracken County,Kentucky",15958,440462
+12,"Bland County,Virginia","Breathitt County,Kentucky",14237,338268
+13,"Bland County,Virginia","Breckinridge County,Kentucky",23519,681462
+14,"Bland County,Virginia","Bullitt County,Kentucky",20089,602581
+15,"Bland County,Virginia","Butler County,Kentucky",23973,691213
+16,"Bland County,Virginia","Caldwell County,Kentucky",25557,764077
+17,"Bland County,Virginia","Calloway County,Kentucky",26258,788122
+18,"Bland County,Virginia","Campbell County,Kentucky",17659,480334
+19,"Bland County,Virginia","Carlisle County,Kentucky",28874,871631
+20,"Bland County,Virginia","Carroll County,Kentucky",20531,576595
+21,"Bland County,Virginia","Carter County,Kentucky",11473,324384
+22,"Bland County,Virginia","Casey County,Kentucky",20055,474472
+23,"Bland County,Virginia","Christian County,Kentucky",23151,709102
+24,"Bland County,Virginia","Clay County,Kentucky",15184,362847
+25,"Bland County,Virginia","Clinton County,Kentucky",18560,500413
+26,"Bland County,Virginia","Crittenden County,Kentucky",26822,796837
+27,"Bland County,Virginia","Cumberland County,Kentucky",19440,521081
+28,"Bland County,Virginia","Daviess County,Kentucky",25207,749902
+29,"Bland County,Virginia","Edmonson County,Kentucky",23282,633316
+30,"Bland County,Virginia","Elliott County,Kentucky",12804,350154
+31,"Bland County,Virginia","Estill County,Kentucky",16626,462277
+32,"Bland County,Virginia","Fayette County,Kentucky",15793,466274
+33,"Bland County,Virginia","Fleming County,Kentucky",14059,403148
+34,"Bland County,Virginia","Floyd County,Kentucky",11905,263194
+35,"Bland County,Virginia","Franklin County,Kentucky",17831,515190
+36,"Bland County,Virginia","Fulton County,Kentucky",29278,892595
+37,"Bland County,Virginia","Gallatin County,Kentucky",19528,567254
+38,"Bland County,Virginia","Garrard County,Kentucky",18398,513427
+39,"Bland County,Virginia","Grant County,Kentucky",18327,541362
+40,"Bland County,Virginia","Graves County,Kentucky",27899,844337
+41,"Bland County,Virginia","Grayson County,Kentucky",22512,660096
+42,"Bland County,Virginia","Green County,Kentucky",21869,543363
+43,"Bland County,Virginia","Greenup County,Kentucky",12084,335413
+44,"Bland County,Virginia","Hancock County,Kentucky",24315,714355
+45,"Bland County,Virginia","Hardin County,Kentucky",21388,622229
+46,"Bland County,Virginia","Harlan County,Kentucky",11687,279131
+47,"Bland County,Virginia","Harrison County,Kentucky",17118,479479
+48,"Bland County,Virginia","Hart County,Kentucky",22187,649857
+49,"Bland County,Virginia","Henderson County,Kentucky",26909,818235
+50,"Bland County,Virginia","Henry County,Kentucky",19432,558909
+51,"Bland County,Virginia","Hickman County,Kentucky",28908,872923
+52,"Bland County,Virginia","Hopkins County,Kentucky",25678,774354
+53,"Bland County,Virginia","Jackson County,Kentucky",17056,399266
+54,"Bland County,Virginia","Jefferson County,Kentucky",19526,574442
+55,"Bland County,Virginia","Jessamine County,Kentucky",17262,487738
+56,"Bland County,Virginia","Johnson County,Kentucky",12520,280424
+57,"Bland County,Virginia","Kenton County,Kentucky",18815,509049
+58,"Bland County,Virginia","Knott County,Kentucky",11777,281018
+59,"Bland County,Virginia","Knox County,Kentucky",13942,344497
+60,"Bland County,Virginia","Larue County,Kentucky",21459,609404
+61,"Bland County,Virginia","Laurel County,Kentucky",15836,379324
+62,"Bland County,Virginia","Lawrence County,Kentucky",12232,338607
+63,"Bland County,Virginia","Lee County,Kentucky",16347,379458
+64,"Bland County,Virginia","Leslie County,Kentucky",13149,307410
+65,"Bland County,Virginia","Letcher County,Kentucky",10177,244565
+66,"Bland County,Virginia","Lewis County,Kentucky",13512,376201
+67,"Bland County,Virginia","Lincoln County,Kentucky",18525,459721
+68,"Bland County,Virginia","Livingston County,Kentucky",26748,810201
+69,"Bland County,Virginia","Logan County,Kentucky",23583,662002
+70,"Bland County,Virginia","Lyon County,Kentucky",26505,787376
+71,"Bland County,Virginia","McCracken County,Kentucky",27030,824323
+72,"Bland County,Virginia","McCreary County,Kentucky",15567,437259
+73,"Bland County,Virginia","Madison County,Kentucky",16791,477297
+74,"Bland County,Virginia","Magoffin County,Kentucky",12864,284400
+75,"Bland County,Virginia","Marion County,Kentucky",19837,571014
+76,"Bland County,Virginia","Marshall County,Kentucky",26444,807894
+77,"Bland County,Virginia","Martin County,Kentucky",13346,320330
+78,"Bland County,Virginia","Mason County,Kentucky",15307,420008
+79,"Bland County,Virginia","Meade County,Kentucky",21986,646757
+80,"Bland County,Virginia","Menifee County,Kentucky",14749,412026
+81,"Bland County,Virginia","Mercer County,Kentucky",18214,526725
+82,"Bland County,Virginia","Metcalfe County,Kentucky",20773,531463
+83,"Bland County,Virginia","Monroe County,Kentucky",20001,551502
+84,"Bland County,Virginia","Montgomery County,Kentucky",14446,418502
+85,"Bland County,Virginia","Morgan County,Kentucky",14528,387741
+86,"Bland County,Virginia","Muhlenberg County,Kentucky",25363,744465
+87,"Bland County,Virginia","Nelson County,Kentucky",19445,570085
+88,"Bland County,Virginia","Nicholas County,Kentucky",16124,446386
+89,"Bland County,Virginia","Ohio County,Kentucky",24308,717939
+90,"Bland County,Virginia","Oldham County,Kentucky",19597,586323
+91,"Bland County,Virginia","Owen County,Kentucky",18653,541967
+92,"Bland County,Virginia","Owsley County,Kentucky",16374,376142
+93,"Bland County,Virginia","Pendleton County,Kentucky",17896,481386
+94,"Bland County,Virginia","Perry County,Kentucky",12751,301441
+95,"Bland County,Virginia","Pike County,Kentucky",9968,212938
+96,"Bland County,Virginia","Powell County,Kentucky",15890,448248
+97,"Bland County,Virginia","Robertson County,Kentucky",16042,445892
+98,"Bland County,Virginia","Rockcastle County,Kentucky",17007,421320
+99,"Bland County,Virginia","Rowan County,Kentucky",12776,372169
+100,"Bland County,Virginia","Russell County,Kentucky",19722,485182
+101,"Bland County,Virginia","Scott County,Kentucky",16627,494301
+102,"Bland County,Virginia","Shelby County,Kentucky",18454,545577
+103,"Bland County,Virginia","Simpson County,Kentucky",22550,637978
+104,"Bland County,Virginia","Spencer County,Kentucky",18984,551425
+105,"Bland County,Virginia","Taylor County,Kentucky",21127,602510
+106,"Bland County,Virginia","Todd County,Kentucky",23567,702049
+107,"Bland County,Virginia","Trigg County,Kentucky",24058,726461
+108,"Bland County,Virginia","Trimble County,Kentucky",20671,592363
+109,"Bland County,Virginia","Union County,Kentucky",28328,838594
+110,"Bland County,Virginia","Warren County,Kentucky",22975,660645
+111,"Bland County,Virginia","Washington County,Kentucky",19455,555322
+112,"Bland County,Virginia","Wayne County,Kentucky",18071,484389
+113,"Bland County,Virginia","Webster County,Kentucky",26787,802442
+114,"Bland County,Virginia","Whitley County,Kentucky",14171,422021
+115,"Bland County,Virginia","Wolfe County,Kentucky",14892,336337
+116,"Bland County,Virginia","Woodford County,Kentucky",16847,496937
+117,"Bland County,Virginia","Adams County,Ohio",15399,422565
+118,"Bland County,Virginia","Allen County,Ohio",22132,597982
+119,"Bland County,Virginia","Ashland County,Ohio",19876,551873
+120,"Bland County,Virginia","Ashtabula County,Ohio",22564,672771
+121,"Bland County,Virginia","Athens County,Ohio",11808,328164
+122,"Bland County,Virginia","Auglaize County,Ohio",21382,614682
+123,"Bland County,Virginia","Belmont County,Ohio",15627,461695
+124,"Bland County,Virginia","Brown County,Ohio",16644,449492
+125,"Bland County,Virginia","Butler County,Ohio",19757,531518
+126,"Bland County,Virginia","Carroll County,Ohio",17556,498581
+127,"Bland County,Virginia","Champaign County,Ohio",18685,516779
+128,"Bland County,Virginia","Clark County,Ohio",17365,476324
+129,"Bland County,Virginia","Clermont County,Ohio",17478,480589
+130,"Bland County,Virginia","Clinton County,Ohio",16869,464005
+131,"Bland County,Virginia","Columbiana County,Ohio",19398,552817
+132,"Bland County,Virginia","Coshocton County,Ohio",16192,469698
+133,"Bland County,Virginia","Crawford County,Ohio",20483,563033
+134,"Bland County,Virginia","Cuyahoga County,Ohio",19592,583986
+135,"Bland County,Virginia","Darke County,Ohio",20479,571728
+136,"Bland County,Virginia","Defiance County,Ohio",25567,676303
+137,"Bland County,Virginia","Delaware County,Ohio",17637,495770
+138,"Bland County,Virginia","Fairfield County,Ohio",15168,422865
+139,"Bland County,Virginia","Fayette County,Ohio",15433,434469
+140,"Bland County,Virginia","Franklin County,Ohio",16168,452719
+141,"Bland County,Virginia","Fulton County,Ohio",25574,718602
+142,"Bland County,Virginia","Gallia County,Ohio",10746,293580
+143,"Bland County,Virginia","Geauga County,Ohio",20664,609703
+144,"Bland County,Virginia","Greene County,Ohio",16303,467621
+145,"Bland County,Virginia","Guernsey County,Ohio",13742,407617
+146,"Bland County,Virginia","Hamilton County,Ohio",19258,542095
+147,"Bland County,Virginia","Hancock County,Ohio",21660,604126
+148,"Bland County,Virginia","Hardin County,Ohio",20642,553811
+149,"Bland County,Virginia","Harrison County,Ohio",16562,480647
+150,"Bland County,Virginia","Henry County,Ohio",24373,675747
+151,"Bland County,Virginia","Highland County,Ohio",15937,422578
+152,"Bland County,Virginia","Hocking County,Ohio",13610,378828
+153,"Bland County,Virginia","Holmes County,Ohio",17250,492582
+154,"Bland County,Virginia","Huron County,Ohio",21773,593502
+155,"Bland County,Virginia","Jackson County,Ohio",11923,333129
+156,"Bland County,Virginia","Jefferson County,Ohio",17555,490425
+157,"Bland County,Virginia","Knox County,Ohio",17980,512174
+158,"Bland County,Virginia","Lawrence County,Ohio",11448,299343
+159,"Bland County,Virginia","Licking County,Ohio",17113,449874
+160,"Bland County,Virginia","Logan County,Ohio",19663,548088
+161,"Bland County,Virginia","Lorain County,Ohio",20817,613809
+162,"Bland County,Virginia","Lucas County,Ohio",25296,691625
+163,"Bland County,Virginia","Madison County,Ohio",17134,457553
+164,"Bland County,Virginia","Mahoning County,Ohio",19893,567622
+165,"Bland County,Virginia","Marion County,Ohio",19044,521864
+166,"Bland County,Virginia","Medina County,Ohio",19265,570016
+167,"Bland County,Virginia","Meigs County,Ohio",10688,299134
+168,"Bland County,Virginia","Mercer County,Ohio",22617,641615
+169,"Bland County,Virginia","Miami County,Ohio",18968,537121
+170,"Bland County,Virginia","Monroe County,Ohio",14678,396809
+171,"Bland County,Virginia","Montgomery County,Ohio",18337,515077
+172,"Bland County,Virginia","Morgan County,Ohio",13683,383457
+173,"Bland County,Virginia","Morrow County,Ohio",18445,518591
+174,"Bland County,Virginia","Muskingum County,Ohio",14588,435609
+175,"Bland County,Virginia","Noble County,Ohio",13184,379969
+176,"Bland County,Virginia","Paulding County,Ohio",24668,673888
+177,"Bland County,Virginia","Perry County,Ohio",15025,393584
+178,"Bland County,Virginia","Pickaway County,Ohio",14873,414568
+179,"Bland County,Virginia","Pike County,Ohio",13369,372436
+180,"Bland County,Virginia","Portage County,Ohio",19114,565567
+181,"Bland County,Virginia","Preble County,Ohio",19956,543655
+182,"Bland County,Virginia","Putnam County,Ohio",23254,630340
+183,"Bland County,Virginia","Richland County,Ohio",19475,553830
+184,"Bland County,Virginia","Ross County,Ohio",13617,380874
+185,"Bland County,Virginia","Sandusky County,Ohio",23417,622820
+186,"Bland County,Virginia","Scioto County,Ohio",13253,356616
+187,"Bland County,Virginia","Seneca County,Ohio",22034,596705
+188,"Bland County,Virginia","Shelby County,Ohio",20006,573406
+189,"Bland County,Virginia","Stark County,Ohio",17415,513816
+190,"Bland County,Virginia","Summit County,Ohio",18174,539605
+191,"Bland County,Virginia","Trumbull County,Ohio",20848,593869
+192,"Bland County,Virginia","Tuscarawas County,Ohio",15616,454404
+193,"Bland County,Virginia","Union County,Ohio",18167,498319
+194,"Bland County,Virginia","Van Wert County,Ohio",23366,640852
+195,"Bland County,Virginia","Vinton County,Ohio",13819,358635
+196,"Bland County,Virginia","Warren County,Ohio",17675,498064
+197,"Bland County,Virginia","Washington County,Ohio",12042,337905
+198,"Bland County,Virginia","Wayne County,Ohio",18386,516695
+199,"Bland County,Virginia","Williams County,Ohio",26744,699819
+200,"Bland County,Virginia","Wood County,Ohio",23059,645733
+201,"Bland County,Virginia","Wyandot County,Ohio",20630,568261
+202,"Bland County,Virginia","Accomack County,Virginia",24392,691367
+203,"Bland County,Virginia","Albemarle County,Virginia",10542,303867
+204,"Bland County,Virginia","Alleghany County,Virginia",7545,212664
+205,"Bland County,Virginia","Amelia County,Virginia",13113,342722
+206,"Bland County,Virginia","Amherst County,Virginia",10016,248781
+207,"Bland County,Virginia","Appomattox County,Virginia",10191,262391
+208,"Bland County,Virginia","Arlington County,Virginia",17226,504176
+209,"Bland County,Virginia","Augusta County,Virginia",9964,281560
+210,"Bland County,Virginia","Bath County,Virginia",10251,254140
+211,"Bland County,Virginia","Bedford County,Virginia",7924,193701
+212,"Bland County,Virginia","Botetourt County,Virginia",6780,177766
+213,"Bland County,Virginia","Brunswick County,Virginia",15085,429817
+214,"Bland County,Virginia","Buchanan County,Virginia",6331,139128
+215,"Bland County,Virginia","Buckingham County,Virginia",11305,286301
+216,"Bland County,Virginia","Campbell County,Virginia",9340,234936
+217,"Bland County,Virginia","Caroline County,Virginia",15881,472713
+218,"Bland County,Virginia","Carroll County,Virginia",2884,74648
+219,"Bland County,Virginia","Charles City County,Virginia",15981,469747
+220,"Bland County,Virginia","Charlotte County,Virginia",11889,302873
+221,"Bland County,Virginia","Chesterfield County,Virginia",14808,381612
+222,"Bland County,Virginia","Clarke County,Virginia",14721,430925
+223,"Bland County,Virginia","Craig County,Virginia",5374,102836
+224,"Bland County,Virginia","Culpeper County,Virginia",14339,393084
+225,"Bland County,Virginia","Cumberland County,Virginia",12718,323533
+226,"Bland County,Virginia","Dickenson County,Virginia",8345,194459
+227,"Bland County,Virginia","Dinwiddie County,Virginia",14887,385783
+228,"Bland County,Virginia","Essex County,Virginia",17698,496755
+229,"Bland County,Virginia","Fairfax County,Virginia",16849,494452
+230,"Bland County,Virginia","Fauquier County,Virginia",15160,452176
+231,"Bland County,Virginia","Floyd County,Virginia",4776,114748
+232,"Bland County,Virginia","Fluvanna County,Virginia",12220,356039
+233,"Bland County,Virginia","Franklin County,Virginia",7436,194935
+234,"Bland County,Virginia","Frederick County,Virginia",14173,418652
+235,"Bland County,Virginia","Giles County,Virginia",3366,59827
+236,"Bland County,Virginia","Gloucester County,Virginia",18152,523936
+237,"Bland County,Virginia","Goochland County,Virginia",13123,386650
+238,"Bland County,Virginia","Grayson County,Virginia",3286,64355
+239,"Bland County,Virginia","Greene County,Virginia",12534,339451
+240,"Bland County,Virginia","Greensville County,Virginia",16281,447236
+241,"Bland County,Virginia","Halifax County,Virginia",11187,272335
+242,"Bland County,Virginia","Hanover County,Virginia",14330,427756
+243,"Bland County,Virginia","Henrico County,Virginia",14841,440716
+244,"Bland County,Virginia","Henry County,Virginia",6757,161369
+245,"Bland County,Virginia","Highland County,Virginia",12145,257283
+246,"Bland County,Virginia","Isle of Wight County,Virginia",19007,485904
+247,"Bland County,Virginia","James City County,Virginia",17217,510518
+248,"Bland County,Virginia","King and Queen County,Virginia",16875,486102
+249,"Bland County,Virginia","King George County,Virginia",16994,500699
+250,"Bland County,Virginia","King William County,Virginia",15563,456024
+251,"Bland County,Virginia","Lancaster County,Virginia",19356,539110
+252,"Bland County,Virginia","Lee County,Virginia",8840,226112
+253,"Bland County,Virginia","Loudoun County,Virginia",16217,466792
+254,"Bland County,Virginia","Louisa County,Virginia",12780,369745
+255,"Bland County,Virginia","Lunenburg County,Virginia",13661,344157
+256,"Bland County,Virginia","Madison County,Virginia",13454,369192
+257,"Bland County,Virginia","Mathews County,Virginia",18977,547359
+258,"Bland County,Virginia","Mecklenburg County,Virginia",13219,323880
+259,"Bland County,Virginia","Middlesex County,Virginia",17753,520136
+260,"Bland County,Virginia","Montgomery County,Virginia",3950,105253
+261,"Bland County,Virginia","Nelson County,Virginia",10567,279178
+262,"Bland County,Virginia","New Kent County,Virginia",16653,484432
+263,"Bland County,Virginia","Northampton County,Virginia",21635,627182
+264,"Bland County,Virginia","Northumberland County,Virginia",19395,537622
+265,"Bland County,Virginia","Nottoway County,Virginia",13154,344536
+266,"Bland County,Virginia","Orange County,Virginia",13743,377852
+267,"Bland County,Virginia","Page County,Virginia",12388,352977
+268,"Bland County,Virginia","Patrick County,Virginia",4989,119684
+269,"Bland County,Virginia","Pittsylvania County,Virginia",9073,215577
+270,"Bland County,Virginia","Powhatan County,Virginia",14216,358239
+271,"Bland County,Virginia","Prince Edward County,Virginia",11768,301872
+272,"Bland County,Virginia","Prince George County,Virginia",16542,425158
+273,"Bland County,Virginia","Prince William County,Virginia",15260,458280
+274,"Bland County,Virginia","Pulaski County,Virginia",2626,66068
+275,"Bland County,Virginia","Rappahannock County,Virginia",14219,389464
+276,"Bland County,Virginia","Richmond County,Virginia",18095,510265
+277,"Bland County,Virginia","Roanoke County,Virginia",4730,125189
+278,"Bland County,Virginia","Rockbridge County,Virginia",8228,221837
+279,"Bland County,Virginia","Rockingham County,Virginia",11427,325327
+280,"Bland County,Virginia","Russell County,Virginia",6145,135079
+281,"Bland County,Virginia","Scott County,Virginia",7413,186841
+282,"Bland County,Virginia","Shenandoah County,Virginia",11932,355431
+283,"Bland County,Virginia","Smyth County,Virginia",2996,70562
+284,"Bland County,Virginia","Southampton County,Virginia",17897,504759
+285,"Bland County,Virginia","Spotsylvania County,Virginia",14797,411583
+286,"Bland County,Virginia","Stafford County,Virginia",16178,435876
+287,"Bland County,Virginia","Surry County,Virginia",17961,509380
+288,"Bland County,Virginia","Sussex County,Virginia",16895,430914
+289,"Bland County,Virginia","Tazewell County,Virginia",3152,73486
+290,"Bland County,Virginia","Warren County,Virginia",13834,400023
+291,"Bland County,Virginia","Washington County,Virginia",4389,110029
+292,"Bland County,Virginia","Westmoreland County,Virginia",17968,517524
+293,"Bland County,Virginia","Wise County,Virginia",8252,200961
+294,"Bland County,Virginia","Wythe County,Virginia",1243,23427
+295,"Bland County,Virginia","York County,Virginia",18505,541293
+296,"Bland County,Virginia","Alexandria City County,Virginia",17429,516823
+297,"Bland County,Virginia","Bedford City County,Virginia",7088,185133
+298,"Bland County,Virginia","Bristol City County,Virginia",4864,135746
+299,"Bland County,Virginia","Buena Vista City County,Virginia",7599,214324
+300,"Bland County,Virginia","Charlottesville City County,Virginia",11011,319082
+301,"Bland County,Virginia","Chesapeake City County,Virginia",19968,594198
+302,"Bland County,Virginia","Clifton Forge City County,Virginia",7867,203958
+303,"Bland County,Virginia","Colonial Heights City County,Virginia",15677,463423
+304,"Bland County,Virginia","Covington City County,Virginia",7614,216249
+305,"Bland County,Virginia","Danville City County,Virginia",8914,215825
+306,"Bland County,Virginia","Emporia City County,Virginia",16437,461424
+307,"Bland County,Virginia","Fairfax City County,Virginia",16392,484028
+308,"Bland County,Virginia","Falls Church City County,Virginia",16724,498500
+309,"Bland County,Virginia","Franklin City County,Virginia",18523,517894
+310,"Bland County,Virginia","Fredericksburg City County,Virginia",15930,421243
+311,"Bland County,Virginia","Galax City County,Virginia",3507,80514
+312,"Bland County,Virginia","Hampton City County,Virginia",18455,550999
+313,"Bland County,Virginia","Harrisonburg City County,Virginia",10486,305223
+314,"Bland County,Virginia","Hopewell City County,Virginia",15714,462390
+315,"Bland County,Virginia","Lexington City County,Virginia",7513,212652
+316,"Bland County,Virginia","Lynchburg City County,Virginia",9113,230008
+317,"Bland County,Virginia","Manassas City County,Virginia",15487,463225
+318,"Bland County,Virginia","Manassas Park City County,Virginia",15989,469568
+319,"Bland County,Virginia","Martinsville City County,Virginia",7284,170162
+320,"Bland County,Virginia","Newport News City County,Virginia",18012,537485
+321,"Bland County,Virginia","Norfolk City County,Virginia",19762,576415
+322,"Bland County,Virginia","Norton City County,Virginia",7776,191851
+323,"Bland County,Virginia","Petersburg City County,Virginia",15545,407761
+324,"Bland County,Virginia","Poquoson City County,Virginia",18684,548061
+325,"Bland County,Virginia","Portsmouth City County,Virginia",19701,585236
+326,"Bland County,Virginia","Radford County,Virginia",3263,62113
+327,"Bland County,Virginia","Richmond City County,Virginia",14417,428526
+328,"Bland County,Virginia","Roanoke City County,Virginia",5332,145294
+329,"Bland County,Virginia","Salem City County,Virginia",4744,131843
+330,"Bland County,Virginia","South Boston City County,Virginia",10927,270003
+331,"Bland County,Virginia","Staunton City County,Virginia",9304,266358
+332,"Bland County,Virginia","Suffolk City County,Virginia",19839,551196
+333,"Bland County,Virginia","Virginia Beach City County,Virginia",20322,599673
+334,"Bland County,Virginia","Waynesboro City County,Virginia",9641,279077
+335,"Bland County,Virginia","Williamsburg City County,Virginia",17056,509734
+336,"Bland County,Virginia","Winchester City County,Virginia",14053,414795
+337,"Bland County,Virginia","Barbour County,West Virginia",12834,339130
+338,"Bland County,Virginia","Berkeley County,West Virginia",15791,462003
+339,"Bland County,Virginia","Boone County,West Virginia",8197,176642
+340,"Bland County,Virginia","Braxton County,West Virginia",9524,230109
+341,"Bland County,Virginia","Brooke County,West Virginia",17193,470923
+342,"Bland County,Virginia","Cabell County,West Virginia",9765,272548
+343,"Bland County,Virginia","Calhoun County,West Virginia",11200,298027
+344,"Bland County,Virginia","Clay County,West Virginia",8190,193546
+345,"Bland County,Virginia","Doddridge County,West Virginia",13038,315986
+346,"Bland County,Virginia","Fayette County,West Virginia",5697,139284
+347,"Bland County,Virginia","Gilmer County,West Virginia",11093,279789
+348,"Bland County,Virginia","Grant County,West Virginia",15883,444490
+349,"Bland County,Virginia","Greenbrier County,West Virginia",7499,169805
+350,"Bland County,Virginia","Hampshire County,West Virginia",15910,432907
+351,"Bland County,Virginia","Hancock County,West Virginia",18819,498271
+352,"Bland County,Virginia","Hardy County,West Virginia",15130,415820
+353,"Bland County,Virginia","Harrison County,West Virginia",12068,325501
+354,"Bland County,Virginia","Jackson County,West Virginia",9084,252358
+355,"Bland County,Virginia","Jefferson County,West Virginia",15842,449409
+356,"Bland County,Virginia","Kanawha County,West Virginia",6847,174340
+357,"Bland County,Virginia","Lewis County,West Virginia",10697,278971
+358,"Bland County,Virginia","Lincoln County,West Virginia",10429,250225
+359,"Bland County,Virginia","Logan County,West Virginia",9988,207131
+360,"Bland County,Virginia","McDowell County,West Virginia",5670,102164
+361,"Bland County,Virginia","Marion County,West Virginia",13213,352668
+362,"Bland County,Virginia","Marshall County,West Virginia",17092,440044
+363,"Bland County,Virginia","Mason County,West Virginia",9240,258454
+364,"Bland County,Virginia","Mercer County,West Virginia",2276,54948
+365,"Bland County,Virginia","Mineral County,West Virginia",17356,456014
+366,"Bland County,Virginia","Mingo County,West Virginia",10566,271066
+367,"Bland County,Virginia","Monongalia County,West Virginia",13424,378136
+368,"Bland County,Virginia","Monroe County,West Virginia",4740,104347
+369,"Bland County,Virginia","Morgan County,West Virginia",16036,463129
+370,"Bland County,Virginia","Nicholas County,West Virginia",7143,180282
+371,"Bland County,Virginia","Ohio County,West Virginia",16724,485181
+372,"Bland County,Virginia","Pendleton County,West Virginia",14283,305379
+373,"Bland County,Virginia","Pleasants County,West Virginia",12566,350210
+374,"Bland County,Virginia","Pocahontas County,West Virginia",10578,250018
+375,"Bland County,Virginia","Preston County,West Virginia",15570,404867
+376,"Bland County,Virginia","Putnam County,West Virginia",8022,224072
+377,"Bland County,Virginia","Raleigh County,West Virginia",3872,99521
+378,"Bland County,Virginia","Randolph County,West Virginia",13199,341426
+379,"Bland County,Virginia","Ritchie County,West Virginia",12897,363914
+380,"Bland County,Virginia","Roane County,West Virginia",10709,281174
+381,"Bland County,Virginia","Summers County,West Virginia",4831,99886
+382,"Bland County,Virginia","Taylor County,West Virginia",13106,348240
+383,"Bland County,Virginia","Tucker County,West Virginia",14266,371950
+384,"Bland County,Virginia","Tyler County,West Virginia",14475,389825
+385,"Bland County,Virginia","Upshur County,West Virginia",12262,293668
+386,"Bland County,Virginia","Wayne County,West Virginia",11356,305174
+387,"Bland County,Virginia","Webster County,West Virginia",10487,237234
+388,"Bland County,Virginia","Wetzel County,West Virginia",14747,376983
+389,"Bland County,Virginia","Wirt County,West Virginia",11350,309696
+390,"Bland County,Virginia","Wood County,West Virginia",10865,311386
+391,"Bland County,Virginia","Wyoming County,West Virginia",5817,139463

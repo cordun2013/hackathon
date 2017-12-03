@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Rappahannock County,Virginia","Adair County,Kentucky",32520,848262
+1,"Rappahannock County,Virginia","Allen County,Kentucky",33916,968072
+2,"Rappahannock County,Virginia","Anderson County,Kentucky",28148,811047
+3,"Rappahannock County,Virginia","Ballard County,Kentucky",40820,1203327
+4,"Rappahannock County,Virginia","Barren County,Kentucky",33705,927017
+5,"Rappahannock County,Virginia","Bath County,Kentucky",23795,682228
+6,"Rappahannock County,Virginia","Bell County,Kentucky",25015,649568
+7,"Rappahannock County,Virginia","Boone County,Kentucky",29608,803622
+8,"Rappahannock County,Virginia","Bourbon County,Kentucky",25709,728646
+9,"Rappahannock County,Virginia","Boyd County,Kentucky",20470,576553
+10,"Rappahannock County,Virginia","Boyle County,Kentucky",29377,814934
+11,"Rappahannock County,Virginia","Bracken County,Kentucky",26120,722729
+12,"Rappahannock County,Virginia","Breathitt County,Kentucky",26640,685332
+13,"Rappahannock County,Virginia","Breckinridge County,Kentucky",33681,963728
+14,"Rappahannock County,Virginia","Bullitt County,Kentucky",30251,884848
+15,"Rappahannock County,Virginia","Butler County,Kentucky",34346,985726
+16,"Rappahannock County,Virginia","Caldwell County,Kentucky",37238,1091671
+17,"Rappahannock County,Virginia","Calloway County,Kentucky",38661,1135186
+18,"Rappahannock County,Virginia","Campbell County,Kentucky",27820,762600
+19,"Rappahannock County,Virginia","Carlisle County,Kentucky",41277,1218695
+20,"Rappahannock County,Virginia","Carroll County,Kentucky",30692,858862
+21,"Rappahannock County,Virginia","Carter County,Kentucky",21635,606650
+22,"Rappahannock County,Virginia","Casey County,Kentucky",30871,846439
+23,"Rappahannock County,Virginia","Christian County,Kentucky",35554,1056166
+24,"Rappahannock County,Virginia","Clay County,Kentucky",27587,709911
+25,"Rappahannock County,Virginia","Clinton County,Kentucky",30963,847477
+26,"Rappahannock County,Virginia","Crittenden County,Kentucky",38818,1124742
+27,"Rappahannock County,Virginia","Cumberland County,Kentucky",31843,868145
+28,"Rappahannock County,Virginia","Daviess County,Kentucky",35369,1032169
+29,"Rappahannock County,Virginia","Edmonson County,Kentucky",33786,973601
+30,"Rappahannock County,Virginia","Elliott County,Kentucky",22966,632420
+31,"Rappahannock County,Virginia","Estill County,Kentucky",26787,744544
+32,"Rappahannock County,Virginia","Fayette County,Kentucky",25955,748540
+33,"Rappahannock County,Virginia","Fleming County,Kentucky",24221,685414
+34,"Rappahannock County,Virginia","Floyd County,Kentucky",24603,683818
+35,"Rappahannock County,Virginia","Franklin County,Kentucky",27992,797456
+36,"Rappahannock County,Virginia","Fulton County,Kentucky",41681,1239659
+37,"Rappahannock County,Virginia","Gallatin County,Kentucky",29690,849520
+38,"Rappahannock County,Virginia","Garrard County,Kentucky",28560,795694
+39,"Rappahannock County,Virginia","Grant County,Kentucky",28489,823628
+40,"Rappahannock County,Virginia","Graves County,Kentucky",40302,1191401
+41,"Rappahannock County,Virginia","Grayson County,Kentucky",32673,942362
+42,"Rappahannock County,Virginia","Green County,Kentucky",32453,907567
+43,"Rappahannock County,Virginia","Greenup County,Kentucky",22246,617679
+44,"Rappahannock County,Virginia","Hancock County,Kentucky",34477,996622
+45,"Rappahannock County,Virginia","Hardin County,Kentucky",31549,904495
+46,"Rappahannock County,Virginia","Harlan County,Kentucky",24090,626195
+47,"Rappahannock County,Virginia","Harrison County,Kentucky",27279,761745
+48,"Rappahannock County,Virginia","Hart County,Kentucky",32349,932123
+49,"Rappahannock County,Virginia","Henderson County,Kentucky",37175,1084598
+50,"Rappahannock County,Virginia","Henry County,Kentucky",29594,841175
+51,"Rappahannock County,Virginia","Hickman County,Kentucky",41311,1219987
+52,"Rappahannock County,Virginia","Hopkins County,Kentucky",36696,1066140
+53,"Rappahannock County,Virginia","Jackson County,Kentucky",29459,746329
+54,"Rappahannock County,Virginia","Jefferson County,Kentucky",29687,856708
+55,"Rappahannock County,Virginia","Jessamine County,Kentucky",27424,770004
+56,"Rappahannock County,Virginia","Johnson County,Kentucky",23252,649449
+57,"Rappahannock County,Virginia","Kenton County,Kentucky",28977,791316
+58,"Rappahannock County,Virginia","Knott County,Kentucky",24180,628082
+59,"Rappahannock County,Virginia","Knox County,Kentucky",26345,691561
+60,"Rappahannock County,Virginia","Larue County,Kentucky",31621,891671
+61,"Rappahannock County,Virginia","Laurel County,Kentucky",28239,726388
+62,"Rappahannock County,Virginia","Lawrence County,Kentucky",22394,620873
+63,"Rappahannock County,Virginia","Lee County,Kentucky",27632,738280
+64,"Rappahannock County,Virginia","Leslie County,Kentucky",25552,654474
+65,"Rappahannock County,Virginia","Letcher County,Kentucky",22580,591629
+66,"Rappahannock County,Virginia","Lewis County,Kentucky",23673,658468
+67,"Rappahannock County,Virginia","Lincoln County,Kentucky",29270,812612
+68,"Rappahannock County,Virginia","Livingston County,Kentucky",39151,1157265
+69,"Rappahannock County,Virginia","Logan County,Kentucky",35986,1009066
+70,"Rappahannock County,Virginia","Lyon County,Kentucky",38908,1134440
+71,"Rappahannock County,Virginia","McCracken County,Kentucky",39433,1171387
+72,"Rappahannock County,Virginia","McCreary County,Kentucky",27970,784322
+73,"Rappahannock County,Virginia","Madison County,Kentucky",26953,759563
+74,"Rappahannock County,Virginia","Magoffin County,Kentucky",24220,670128
+75,"Rappahannock County,Virginia","Marion County,Kentucky",29999,853280
+76,"Rappahannock County,Virginia","Marshall County,Kentucky",38847,1154958
+77,"Rappahannock County,Virginia","Martin County,Kentucky",23507,602597
+78,"Rappahannock County,Virginia","Mason County,Kentucky",25469,702274
+79,"Rappahannock County,Virginia","Meade County,Kentucky",32148,929023
+80,"Rappahannock County,Virginia","Menifee County,Kentucky",24911,694292
+81,"Rappahannock County,Virginia","Mercer County,Kentucky",28375,808991
+82,"Rappahannock County,Virginia","Metcalfe County,Kentucky",33176,878527
+83,"Rappahannock County,Virginia","Monroe County,Kentucky",32403,898566
+84,"Rappahannock County,Virginia","Montgomery County,Kentucky",24608,700769
+85,"Rappahannock County,Virginia","Morgan County,Kentucky",24689,670008
+86,"Rappahannock County,Virginia","Muhlenberg County,Kentucky",35557,1032616
+87,"Rappahannock County,Virginia","Nelson County,Kentucky",29607,852351
+88,"Rappahannock County,Virginia","Nicholas County,Kentucky",26286,728652
+89,"Rappahannock County,Virginia","Ohio County,Kentucky",34470,1000205
+90,"Rappahannock County,Virginia","Oldham County,Kentucky",29759,868590
+91,"Rappahannock County,Virginia","Owen County,Kentucky",28814,824234
+92,"Rappahannock County,Virginia","Owsley County,Kentucky",28777,723206
+93,"Rappahannock County,Virginia","Pendleton County,Kentucky",28057,763653
+94,"Rappahannock County,Virginia","Perry County,Kentucky",25154,648505
+95,"Rappahannock County,Virginia","Pike County,Kentucky",23703,567843
+96,"Rappahannock County,Virginia","Powell County,Kentucky",26052,730515
+97,"Rappahannock County,Virginia","Robertson County,Kentucky",26203,728158
+98,"Rappahannock County,Virginia","Rockcastle County,Kentucky",28387,800706
+99,"Rappahannock County,Virginia","Rowan County,Kentucky",22938,654436
+100,"Rappahannock County,Virginia","Russell County,Kentucky",32124,832246
+101,"Rappahannock County,Virginia","Scott County,Kentucky",26789,776567
+102,"Rappahannock County,Virginia","Shelby County,Kentucky",28616,827843
+103,"Rappahannock County,Virginia","Simpson County,Kentucky",34953,985042
+104,"Rappahannock County,Virginia","Spencer County,Kentucky",29146,833691
+105,"Rappahannock County,Virginia","Taylor County,Kentucky",31288,884776
+106,"Rappahannock County,Virginia","Todd County,Kentucky",35970,1049112
+107,"Rappahannock County,Virginia","Trigg County,Kentucky",36461,1073525
+108,"Rappahannock County,Virginia","Trimble County,Kentucky",30833,874630
+109,"Rappahannock County,Virginia","Union County,Kentucky",38895,1115045
+110,"Rappahannock County,Virginia","Warren County,Kentucky",34702,1001970
+111,"Rappahannock County,Virginia","Washington County,Kentucky",29617,837588
+112,"Rappahannock County,Virginia","Wayne County,Kentucky",30474,831453
+113,"Rappahannock County,Virginia","Webster County,Kentucky",37806,1094228
+114,"Rappahannock County,Virginia","Whitley County,Kentucky",26573,769085
+115,"Rappahannock County,Virginia","Wolfe County,Kentucky",25784,693370
+116,"Rappahannock County,Virginia","Woodford County,Kentucky",27009,779203
+117,"Rappahannock County,Virginia","Adams County,Ohio",25561,704831
+118,"Rappahannock County,Virginia","Allen County,Ohio",28840,798184
+119,"Rappahannock County,Virginia","Ashland County,Ohio",23388,624873
+120,"Rappahannock County,Virginia","Ashtabula County,Ohio",21386,579343
+121,"Rappahannock County,Virginia","Athens County,Ohio",20299,478474
+122,"Rappahannock County,Virginia","Auglaize County,Ohio",28806,789775
+123,"Rappahannock County,Virginia","Belmont County,Ohio",17426,446543
+124,"Rappahannock County,Virginia","Brown County,Ohio",26806,731758
+125,"Rappahannock County,Virginia","Butler County,Ohio",29276,784506
+126,"Rappahannock County,Virginia","Carroll County,Ohio",19902,491564
+127,"Rappahannock County,Virginia","Champaign County,Ohio",26549,704670
+128,"Rappahannock County,Virginia","Clark County,Ohio",25427,695241
+129,"Rappahannock County,Virginia","Clermont County,Ohio",27639,762855
+130,"Rappahannock County,Virginia","Clinton County,Ohio",26818,730523
+131,"Rappahannock County,Virginia","Columbiana County,Ohio",18688,473581
+132,"Rappahannock County,Virginia","Coshocton County,Ohio",21784,571992
+133,"Rappahannock County,Virginia","Crawford County,Ohio",25297,696068
+134,"Rappahannock County,Virginia","Cuyahoga County,Ohio",21382,577187
+135,"Rappahannock County,Virginia","Darke County,Ohio",29003,793143
+136,"Rappahannock County,Virginia","Defiance County,Ohio",29700,826151
+137,"Rappahannock County,Virginia","Delaware County,Ohio",24703,670990
+138,"Rappahannock County,Virginia","Fairfield County,Ohio",22798,607775
+139,"Rappahannock County,Virginia","Fayette County,Ohio",25594,716735
+140,"Rappahannock County,Virginia","Franklin County,Ohio",23399,634876
+141,"Rappahannock County,Virginia","Fulton County,Ohio",28053,783002
+142,"Rappahannock County,Virginia","Gallia County,Ohio",20907,575847
+143,"Rappahannock County,Virginia","Geauga County,Ohio",20875,552006
+144,"Rappahannock County,Virginia","Greene County,Ohio",26203,720739
+145,"Rappahannock County,Virginia","Guernsey County,Ohio",19330,510052
+146,"Rappahannock County,Virginia","Hamilton County,Ohio",28777,795084
+147,"Rappahannock County,Virginia","Hancock County,Ohio",27327,758149
+148,"Rappahannock County,Virginia","Hardin County,Ohio",27703,741911
+149,"Rappahannock County,Virginia","Harrison County,Ohio",19115,493782
+150,"Rappahannock County,Virginia","Henry County,Ohio",28507,772769
+151,"Rappahannock County,Virginia","Highland County,Ohio",26098,704844
+152,"Rappahannock County,Virginia","Hocking County,Ohio",21924,524378
+153,"Rappahannock County,Virginia","Holmes County,Ohio",22842,594877
+154,"Rappahannock County,Virginia","Huron County,Ohio",24665,654479
+155,"Rappahannock County,Virginia","Jackson County,Ohio",22085,615396
+156,"Rappahannock County,Virginia","Jefferson County,Ohio",17858,455055
+157,"Rappahannock County,Virginia","Knox County,Ohio",23572,614468
+158,"Rappahannock County,Virginia","Lawrence County,Ohio",21610,581609
+159,"Rappahannock County,Virginia","Licking County,Ohio",22958,595540
+160,"Rappahannock County,Virginia","Logan County,Ohio",26724,736188
+161,"Rappahannock County,Virginia","Lorain County,Ohio",22434,606907
+162,"Rappahannock County,Virginia","Lucas County,Ohio",27007,735852
+163,"Rappahannock County,Virginia","Madison County,Ohio",24676,669598
+164,"Rappahannock County,Virginia","Mahoning County,Ohio",17872,469335
+165,"Rappahannock County,Virginia","Marion County,Ohio",26109,697083
+166,"Rappahannock County,Virginia","Medina County,Ohio",22021,591993
+167,"Rappahannock County,Virginia","Meigs County,Ohio",20264,471052
+168,"Rappahannock County,Virginia","Mercer County,Ohio",30041,816709
+169,"Rappahannock County,Virginia","Miami County,Ohio",27514,758575
+170,"Rappahannock County,Virginia","Monroe County,Ohio",19859,493226
+171,"Rappahannock County,Virginia","Montgomery County,Ohio",27775,764022
+172,"Rappahannock County,Virginia","Morgan County,Ohio",20741,480821
+173,"Rappahannock County,Virginia","Morrow County,Ohio",25026,686326
+174,"Rappahannock County,Virginia","Muskingum County,Ohio",20176,538043
+175,"Rappahannock County,Virginia","Noble County,Ohio",20221,478348
+176,"Rappahannock County,Virginia","Paulding County,Ohio",30905,862138
+177,"Rappahannock County,Virginia","Perry County,Ohio",22275,585986
+178,"Rappahannock County,Virginia","Pickaway County,Ohio",24087,577319
+179,"Rappahannock County,Virginia","Pike County,Ohio",23531,654703
+180,"Rappahannock County,Virginia","Portage County,Ohio",19727,525349
+181,"Rappahannock County,Virginia","Preble County,Ohio",28545,786733
+182,"Rappahannock County,Virginia","Putnam County,Ohio",29526,817955
+183,"Rappahannock County,Virginia","Richland County,Ohio",23945,646302
+184,"Rappahannock County,Virginia","Ross County,Ohio",23779,663140
+185,"Rappahannock County,Virginia","Sandusky County,Ohio",25295,694426
+186,"Rappahannock County,Virginia","Scioto County,Ohio",23415,638883
+187,"Rappahannock County,Virginia","Seneca County,Ohio",26025,704098
+188,"Rappahannock County,Virginia","Shelby County,Ohio",28482,766436
+189,"Rappahannock County,Virginia","Stark County,Ohio",20506,521481
+190,"Rappahannock County,Virginia","Summit County,Ohio",20785,551164
+191,"Rappahannock County,Virginia","Trumbull County,Ohio",19030,506799
+192,"Rappahannock County,Virginia","Tuscarawas County,Ohio",20624,525065
+193,"Rappahannock County,Virginia","Union County,Ohio",25228,686419
+194,"Rappahannock County,Virginia","Van Wert County,Ohio",29637,828466
+195,"Rappahannock County,Virginia","Vinton County,Ohio",22417,526915
+196,"Rappahannock County,Virginia","Warren County,Ohio",27194,751052
+197,"Rappahannock County,Virginia","Washington County,Ohio",19080,436284
+198,"Rappahannock County,Virginia","Wayne County,Ohio",23126,610804
+199,"Rappahannock County,Virginia","Williams County,Ohio",29298,814458
+200,"Rappahannock County,Virginia","Wood County,Ohio",27192,742755
+201,"Rappahannock County,Virginia","Wyandot County,Ohio",26297,722284
+202,"Rappahannock County,Virginia","Accomack County,Virginia",17125,435088
+203,"Rappahannock County,Virginia","Albemarle County,Virginia",4977,94628
+204,"Rappahannock County,Virginia","Alleghany County,Virginia",10000,259202
+205,"Rappahannock County,Virginia","Amelia County,Virginia",9091,181385
+206,"Rappahannock County,Virginia","Amherst County,Virginia",7988,170755
+207,"Rappahannock County,Virginia","Appomattox County,Virginia",9202,195384
+208,"Rappahannock County,Virginia","Arlington County,Virginia",5205,108543
+209,"Rappahannock County,Virginia","Augusta County,Virginia",6675,149447
+210,"Rappahannock County,Virginia","Bath County,Virginia",9297,186112
+211,"Rappahannock County,Virginia","Bedford County,Virginia",10471,234159
+212,"Rappahannock County,Virginia","Bland County,Virginia",14282,388886
+213,"Rappahannock County,Virginia","Botetourt County,Virginia",9307,230139
+214,"Rappahannock County,Virginia","Brunswick County,Virginia",11247,291417
+215,"Rappahannock County,Virginia","Buchanan County,Virginia",20038,523345
+216,"Rappahannock County,Virginia","Buckingham County,Virginia",8133,165400
+217,"Rappahannock County,Virginia","Campbell County,Virginia",9350,210888
+218,"Rappahannock County,Virginia","Caroline County,Virginia",6244,141984
+219,"Rappahannock County,Virginia","Carroll County,Virginia",14403,394302
+220,"Rappahannock County,Virginia","Charles City County,Virginia",8714,213467
+221,"Rappahannock County,Virginia","Charlotte County,Virginia",11151,237435
+222,"Rappahannock County,Virginia","Chesterfield County,Virginia",8565,199768
+223,"Rappahannock County,Virginia","Clarke County,Virginia",3967,71351
+224,"Rappahannock County,Virginia","Craig County,Virginia",12148,286466
+225,"Rappahannock County,Virginia","Culpeper County,Virginia",2011,34820
+226,"Rappahannock County,Virginia","Cumberland County,Virginia",8132,159931
+227,"Rappahannock County,Virginia","Dickenson County,Virginia",20748,541523
+228,"Rappahannock County,Virginia","Dinwiddie County,Virginia",9885,251384
+229,"Rappahannock County,Virginia","Essex County,Virginia",7646,166038
+230,"Rappahannock County,Virginia","Fairfax County,Virginia",4828,98818
+231,"Rappahannock County,Virginia","Fauquier County,Virginia",2015,41385
+232,"Rappahannock County,Virginia","Floyd County,Virginia",12930,335850
+233,"Rappahannock County,Virginia","Fluvanna County,Virginia",5653,108311
+234,"Rappahannock County,Virginia","Franklin County,Virginia",12268,314294
+235,"Rappahannock County,Virginia","Frederick County,Virginia",3921,81343
+236,"Rappahannock County,Virginia","Giles County,Virginia",13070,344002
+237,"Rappahannock County,Virginia","Gloucester County,Virginia",10885,267656
+238,"Rappahannock County,Virginia","Goochland County,Virginia",6618,132349
+239,"Rappahannock County,Virginia","Grayson County,Virginia",15735,410482
+240,"Rappahannock County,Virginia","Greene County,Virginia",4136,76011
+241,"Rappahannock County,Virginia","Greensville County,Virginia",11301,300136
+242,"Rappahannock County,Virginia","Halifax County,Virginia",12670,282594
+243,"Rappahannock County,Virginia","Hanover County,Virginia",7062,171477
+244,"Rappahannock County,Virginia","Henrico County,Virginia",7861,194138
+245,"Rappahannock County,Virginia","Henry County,Virginia",13677,349256
+246,"Rappahannock County,Virginia","Highland County,Virginia",9427,184002
+247,"Rappahannock County,Virginia","Isle of Wight County,Virginia",11996,302727
+248,"Rappahannock County,Virginia","James City County,Virginia",9950,254238
+249,"Rappahannock County,Virginia","King and Queen County,Virginia",8697,201300
+250,"Rappahannock County,Virginia","King George County,Virginia",6166,125481
+251,"Rappahannock County,Virginia","King William County,Virginia",7663,179097
+252,"Rappahannock County,Virginia","Lancaster County,Virginia",10069,222033
+253,"Rappahannock County,Virginia","Lee County,Virginia",21243,573176
+254,"Rappahannock County,Virginia","Loudoun County,Virginia",4960,92017
+255,"Rappahannock County,Virginia","Louisa County,Virginia",4802,93070
+256,"Rappahannock County,Virginia","Lunenburg County,Virginia",11493,239260
+257,"Rappahannock County,Virginia","Madison County,Virginia",2209,39513
+258,"Rappahannock County,Virginia","Mathews County,Virginia",11780,266421
+259,"Rappahannock County,Virginia","Mecklenburg County,Virginia",13041,275995
+260,"Rappahannock County,Virginia","Middlesex County,Virginia",10149,230001
+261,"Rappahannock County,Virginia","Montgomery County,Virginia",11635,308272
+262,"Rappahannock County,Virginia","Nelson County,Virginia",6434,138350
+263,"Rappahannock County,Virginia","New Kent County,Virginia",9386,228152
+264,"Rappahannock County,Virginia","Northampton County,Virginia",14367,370902
+265,"Rappahannock County,Virginia","Northumberland County,Virginia",10108,220545
+266,"Rappahannock County,Virginia","Nottoway County,Virginia",10369,208113
+267,"Rappahannock County,Virginia","Orange County,Virginia",3536,64194
+268,"Rappahannock County,Virginia","Page County,Virginia",2152,37127
+269,"Rappahannock County,Virginia","Patrick County,Virginia",15050,372753
+270,"Rappahannock County,Virginia","Pittsylvania County,Virginia",11919,282515
+271,"Rappahannock County,Virginia","Powhatan County,Virginia",7871,157571
+272,"Rappahannock County,Virginia","Prince Edward County,Virginia",9614,203767
+273,"Rappahannock County,Virginia","Prince George County,Virginia",9531,241980
+274,"Rappahannock County,Virginia","Prince William County,Virginia",3102,60774
+275,"Rappahannock County,Virginia","Pulaski County,Virginia",12362,330905
+276,"Rappahannock County,Virginia","Richmond County,Virginia",8808,193188
+277,"Rappahannock County,Virginia","Roanoke County,Virginia",10626,273211
+278,"Rappahannock County,Virginia","Rockbridge County,Virginia",8048,196148
+279,"Rappahannock County,Virginia","Rockingham County,Virginia",4607,83803
+280,"Rappahannock County,Virginia","Russell County,Virginia",19204,506682
+281,"Rappahannock County,Virginia","Scott County,Virginia",19816,533905
+282,"Rappahannock County,Virginia","Shenandoah County,Virginia",3857,86452
+283,"Rappahannock County,Virginia","Smyth County,Virginia",15399,417626
+284,"Rappahannock County,Virginia","Southampton County,Virginia",11679,296250
+285,"Rappahannock County,Virginia","Spotsylvania County,Virginia",4596,84448
+286,"Rappahannock County,Virginia","Stafford County,Virginia",4703,97051
+287,"Rappahannock County,Virginia","Surry County,Virginia",10643,263675
+288,"Rappahannock County,Virginia","Sussex County,Virginia",10343,266492
+289,"Rappahannock County,Virginia","Tazewell County,Virginia",16859,457703
+290,"Rappahannock County,Virginia","Warren County,Virginia",2174,40631
+291,"Rappahannock County,Virginia","Washington County,Virginia",16792,457093
+292,"Rappahannock County,Virginia","Westmoreland County,Virginia",7134,144282
+293,"Rappahannock County,Virginia","Wise County,Virginia",20655,548025
+294,"Rappahannock County,Virginia","Wythe County,Virginia",13653,369612
+295,"Rappahannock County,Virginia","York County,Virginia",11238,285013
+296,"Rappahannock County,Virginia","Alexandria City County,Virginia",5408,121189
+297,"Rappahannock County,Virginia","Bedford City County,Virginia",9972,229242
+298,"Rappahannock County,Virginia","Bristol City County,Virginia",17267,482810
+299,"Rappahannock County,Virginia","Buena Vista City County,Virginia",7707,189414
+300,"Rappahannock County,Virginia","Charlottesville City County,Virginia",4834,87990
+301,"Rappahannock County,Virginia","Chesapeake City County,Virginia",12701,337918
+302,"Rappahannock County,Virginia","Clifton Forge City County,Virginia",8901,228021
+303,"Rappahannock County,Virginia","Colonial Heights City County,Virginia",8698,216845
+304,"Rappahannock County,Virginia","Covington City County,Virginia",9644,246363
+305,"Rappahannock County,Virginia","Danville City County,Virginia",12519,298858
+306,"Rappahannock County,Virginia","Emporia City County,Virginia",11008,286729
+307,"Rappahannock County,Virginia","Fairfax City County,Virginia",4371,88394
+308,"Rappahannock County,Virginia","Falls Church City County,Virginia",4703,102866
+309,"Rappahannock County,Virginia","Franklin City County,Virginia",12226,304104
+310,"Rappahannock County,Virginia","Fredericksburg City County,Virginia",4679,92175
+311,"Rappahannock County,Virginia","Galax City County,Virginia",15027,400168
+312,"Rappahannock County,Virginia","Hampton City County,Virginia",11188,294719
+313,"Rappahannock County,Virginia","Harrisonburg City County,Virginia",4441,89674
+314,"Rappahannock County,Virginia","Hopewell City County,Virginia",8461,216882
+315,"Rappahannock County,Virginia","Lexington City County,Virginia",7567,186392
+316,"Rappahannock County,Virginia","Lynchburg City County,Virginia",8536,190811
+317,"Rappahannock County,Virginia","Manassas City County,Virginia",3466,67591
+318,"Rappahannock County,Virginia","Manassas Park City County,Virginia",3968,73934
+319,"Rappahannock County,Virginia","Martinsville City County,Virginia",13547,314624
+320,"Rappahannock County,Virginia","Newport News City County,Virginia",10745,281205
+321,"Rappahannock County,Virginia","Norfolk City County,Virginia",12494,320135
+322,"Rappahannock County,Virginia","Norton City County,Virginia",20179,538915
+323,"Rappahannock County,Virginia","Petersburg City County,Virginia",8569,217832
+324,"Rappahannock County,Virginia","Poquoson City County,Virginia",11416,291781
+325,"Rappahannock County,Virginia","Portsmouth City County,Virginia",12433,328956
+326,"Rappahannock County,Virginia","Radford County,Virginia",11998,318116
+327,"Rappahannock County,Virginia","Richmond City County,Virginia",7437,181948
+328,"Rappahannock County,Virginia","Roanoke City County,Virginia",10164,264653
+329,"Rappahannock County,Virginia","Salem City County,Virginia",9994,263124
+330,"Rappahannock County,Virginia","South Boston City County,Virginia",12673,281413
+331,"Rappahannock County,Virginia","Staunton City County,Virginia",5928,131648
+332,"Rappahannock County,Virginia","Suffolk City County,Virginia",12838,317451
+333,"Rappahannock County,Virginia","Virginia Beach City County,Virginia",13055,343393
+334,"Rappahannock County,Virginia","Waynesboro City County,Virginia",6070,127816
+335,"Rappahannock County,Virginia","Williamsburg City County,Virginia",9789,253454
+336,"Rappahannock County,Virginia","Winchester City County,Virginia",3801,77487
+337,"Rappahannock County,Virginia","Barbour County,West Virginia",11627,255654
+338,"Rappahannock County,Virginia","Berkeley County,West Virginia",5539,124695
+339,"Rappahannock County,Virginia","Boone County,West Virginia",18359,458908
+340,"Rappahannock County,Virginia","Braxton County,West Virginia",16323,373546
+341,"Rappahannock County,Virginia","Brooke County,West Virginia",16634,409443
+342,"Rappahannock County,Virginia","Cabell County,West Virginia",19926,554814
+343,"Rappahannock County,Virginia","Calhoun County,West Virginia",17646,408213
+344,"Rappahannock County,Virginia","Clay County,West Virginia",18092,430366
+345,"Rappahannock County,Virginia","Doddridge County,West Virginia",15808,343753
+346,"Rappahannock County,Virginia","Fayette County,West Virginia",15481,377105
+347,"Rappahannock County,Virginia","Gilmer County,West Virginia",16127,372904
+348,"Rappahannock County,Virginia","Grant County,West Virginia",6971,158750
+349,"Rappahannock County,Virginia","Greenbrier County,West Virginia",13836,336330
+350,"Rappahannock County,Virginia","Hampshire County,West Virginia",6049,127905
+351,"Rappahannock County,Virginia","Hancock County,West Virginia",17871,446475
+352,"Rappahannock County,Virginia","Hardy County,West Virginia",6219,130080
+353,"Rappahannock County,Virginia","Harrison County,West Virginia",14245,305380
+354,"Rappahannock County,Virginia","Jackson County,West Virginia",19245,534625
+355,"Rappahannock County,Virginia","Jefferson County,West Virginia",5305,94239
+356,"Rappahannock County,Virginia","Kanawha County,West Virginia",17009,456607
+357,"Rappahannock County,Virginia","Lewis County,West Virginia",14028,322534
+358,"Rappahannock County,Virginia","Lincoln County,West Virginia",20591,532492
+359,"Rappahannock County,Virginia","Logan County,West Virginia",20149,489397
+360,"Rappahannock County,Virginia","McDowell County,West Virginia",18528,463848
+361,"Rappahannock County,Virginia","Marion County,West Virginia",13952,332303
+362,"Rappahannock County,Virginia","Marshall County,West Virginia",17621,403887
+363,"Rappahannock County,Virginia","Mason County,West Virginia",19402,540720
+364,"Rappahannock County,Virginia","Mercer County,West Virginia",15243,400178
+365,"Rappahannock County,Virginia","Mineral County,West Virginia",8445,170274
+366,"Rappahannock County,Virginia","Mingo County,West Virginia",20728,553332
+367,"Rappahannock County,Virginia","Monongalia County,West Virginia",11775,284043
+368,"Rappahannock County,Virginia","Monroe County,West Virginia",12771,322652
+369,"Rappahannock County,Virginia","Morgan County,West Virginia",5784,125821
+370,"Rappahannock County,Virginia","Nicholas County,West Virginia",15676,389755
+371,"Rappahannock County,Virginia","Ohio County,West Virginia",16541,418389
+372,"Rappahannock County,Virginia","Pendleton County,West Virginia",8537,169425
+373,"Rappahannock County,Virginia","Pleasants County,West Virginia",17044,381521
+374,"Rappahannock County,Virginia","Pocahontas County,West Virginia",12890,245687
+375,"Rappahannock County,Virginia","Preston County,West Virginia",11151,237201
+376,"Rappahannock County,Virginia","Putnam County,West Virginia",18184,506339
+377,"Rappahannock County,Virginia","Raleigh County,West Virginia",14033,381788
+378,"Rappahannock County,Virginia","Randolph County,West Virginia",12656,281939
+379,"Rappahannock County,Virginia","Ritchie County,West Virginia",16954,375823
+380,"Rappahannock County,Virginia","Roane County,West Virginia",20067,442249
+381,"Rappahannock County,Virginia","Summers County,West Virginia",14755,361665
+382,"Rappahannock County,Virginia","Taylor County,West Virginia",11494,255023
+383,"Rappahannock County,Virginia","Tucker County,West Virginia",9631,220398
+384,"Rappahannock County,Virginia","Tyler County,West Virginia",17970,374187
+385,"Rappahannock County,Virginia","Upshur County,West Virginia",13704,303516
+386,"Rappahannock County,Virginia","Wayne County,West Virginia",21518,587440
+387,"Rappahannock County,Virginia","Webster County,West Virginia",16770,324630
+388,"Rappahannock County,Virginia","Wetzel County,West Virginia",16903,352307
+389,"Rappahannock County,Virginia","Wirt County,West Virginia",19087,439778
+390,"Rappahannock County,Virginia","Wood County,West Virginia",17824,406783
+391,"Rappahannock County,Virginia","Wyoming County,West Virginia",15978,421730

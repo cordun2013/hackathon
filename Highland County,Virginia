@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Highland County,Virginia","Adair County,Kentucky",27638,744754
+1,"Highland County,Virginia","Allen County,Kentucky",30257,845402
+2,"Highland County,Virginia","Anderson County,Kentucky",23438,647793
+3,"Highland County,Virginia","Ballard County,Kentucky",36417,1037564
+4,"Highland County,Virginia","Barren County,Kentucky",29384,803782
+5,"Highland County,Virginia","Bath County,Kentucky",19085,518974
+6,"Highland County,Virginia","Bell County,Kentucky",22970,560874
+7,"Highland County,Virginia","Boone County,Kentucky",24898,640368
+8,"Highland County,Virginia","Bourbon County,Kentucky",20999,565392
+9,"Highland County,Virginia","Boyd County,Kentucky",15761,413299
+10,"Highland County,Virginia","Boyle County,Kentucky",24667,651680
+11,"Highland County,Virginia","Bracken County,Kentucky",21410,559475
+12,"Highland County,Virginia","Breathitt County,Kentucky",22472,560001
+13,"Highland County,Virginia","Breckinridge County,Kentucky",28971,800474
+14,"Highland County,Virginia","Bullitt County,Kentucky",25541,721594
+15,"Highland County,Virginia","Butler County,Kentucky",29636,822472
+16,"Highland County,Virginia","Caldwell County,Kentucky",32528,928417
+17,"Highland County,Virginia","Calloway County,Kentucky",35338,1013410
+18,"Highland County,Virginia","Campbell County,Kentucky",23111,599346
+19,"Highland County,Virginia","Carlisle County,Kentucky",36874,1052933
+20,"Highland County,Virginia","Carroll County,Kentucky",25983,695608
+21,"Highland County,Virginia","Carter County,Kentucky",16925,443396
+22,"Highland County,Virginia","Casey County,Kentucky",26162,683185
+23,"Highland County,Virginia","Christian County,Kentucky",32177,923674
+24,"Highland County,Virginia","Clay County,Kentucky",24971,647115
+25,"Highland County,Virginia","Clinton County,Kentucky",28045,748120
+26,"Highland County,Virginia","Crittenden County,Kentucky",34108,961488
+27,"Highland County,Virginia","Cumberland County,Kentucky",28799,766359
+28,"Highland County,Virginia","Daviess County,Kentucky",30659,868915
+29,"Highland County,Virginia","Edmonson County,Kentucky",29076,810347
+30,"Highland County,Virginia","Elliott County,Kentucky",18256,469166
+31,"Highland County,Virginia","Estill County,Kentucky",22078,581290
+32,"Highland County,Virginia","Fayette County,Kentucky",21245,585286
+33,"Highland County,Virginia","Fleming County,Kentucky",19511,522160
+34,"Highland County,Virginia","Floyd County,Kentucky",19894,520564
+35,"Highland County,Virginia","Franklin County,Kentucky",23283,634202
+36,"Highland County,Virginia","Fulton County,Kentucky",37278,1073897
+37,"Highland County,Virginia","Gallatin County,Kentucky",24980,686266
+38,"Highland County,Virginia","Garrard County,Kentucky",23850,632440
+39,"Highland County,Virginia","Grant County,Kentucky",23779,660374
+40,"Highland County,Virginia","Graves County,Kentucky",35898,1025639
+41,"Highland County,Virginia","Grayson County,Kentucky",27964,779108
+42,"Highland County,Virginia","Green County,Kentucky",27743,744313
+43,"Highland County,Virginia","Greenup County,Kentucky",17536,454425
+44,"Highland County,Virginia","Hancock County,Kentucky",29767,833368
+45,"Highland County,Virginia","Hardin County,Kentucky",26840,741241
+46,"Highland County,Virginia","Harlan County,Kentucky",22045,537501
+47,"Highland County,Virginia","Harrison County,Kentucky",22570,598491
+48,"Highland County,Virginia","Hart County,Kentucky",27639,768869
+49,"Highland County,Virginia","Henderson County,Kentucky",32466,921344
+50,"Highland County,Virginia","Henry County,Kentucky",24884,677921
+51,"Highland County,Virginia","Hickman County,Kentucky",36907,1054224
+52,"Highland County,Virginia","Hopkins County,Kentucky",31987,902886
+53,"Highland County,Virginia","Jackson County,Kentucky",24750,629298
+54,"Highland County,Virginia","Jefferson County,Kentucky",24978,693454
+55,"Highland County,Virginia","Jessamine County,Kentucky",22714,606750
+56,"Highland County,Virginia","Johnson County,Kentucky",18542,486195
+57,"Highland County,Virginia","Kenton County,Kentucky",24267,628062
+58,"Highland County,Virginia","Knott County,Kentucky",21076,552446
+59,"Highland County,Virginia","Knox County,Kentucky",24301,602867
+60,"Highland County,Virginia","Larue County,Kentucky",26911,728417
+61,"Highland County,Virginia","Laurel County,Kentucky",25104,682727
+62,"Highland County,Virginia","Lawrence County,Kentucky",17684,457619
+63,"Highland County,Virginia","Lee County,Kentucky",22922,575026
+64,"Highland County,Virginia","Leslie County,Kentucky",23507,565780
+65,"Highland County,Virginia","Letcher County,Kentucky",20470,494198
+66,"Highland County,Virginia","Lewis County,Kentucky",18964,495214
+67,"Highland County,Virginia","Lincoln County,Kentucky",24560,649358
+68,"Highland County,Virginia","Livingston County,Kentucky",34704,978385
+69,"Highland County,Virginia","Logan County,Kentucky",31377,865711
+70,"Highland County,Virginia","Lyon County,Kentucky",34837,988775
+71,"Highland County,Virginia","McCracken County,Kentucky",35029,1005624
+72,"Highland County,Virginia","McCreary County,Kentucky",25925,695628
+73,"Highland County,Virginia","Madison County,Kentucky",22243,596309
+74,"Highland County,Virginia","Magoffin County,Kentucky",19510,506874
+75,"Highland County,Virginia","Marion County,Kentucky",25289,690026
+76,"Highland County,Virginia","Marshall County,Kentucky",34443,989196
+77,"Highland County,Virginia","Martin County,Kentucky",18798,439343
+78,"Highland County,Virginia","Mason County,Kentucky",20759,539020
+79,"Highland County,Virginia","Meade County,Kentucky",27438,765769
+80,"Highland County,Virginia","Menifee County,Kentucky",20201,531038
+81,"Highland County,Virginia","Mercer County,Kentucky",23666,645737
+82,"Highland County,Virginia","Metcalfe County,Kentucky",28294,775019
+83,"Highland County,Virginia","Monroe County,Kentucky",30264,812523
+84,"Highland County,Virginia","Montgomery County,Kentucky",19898,537515
+85,"Highland County,Virginia","Morgan County,Kentucky",19980,506754
+86,"Highland County,Virginia","Muhlenberg County,Kentucky",30847,869362
+87,"Highland County,Virginia","Nelson County,Kentucky",24897,689097
+88,"Highland County,Virginia","Nicholas County,Kentucky",21576,565398
+89,"Highland County,Virginia","Ohio County,Kentucky",29760,836951
+90,"Highland County,Virginia","Oldham County,Kentucky",25049,705336
+91,"Highland County,Virginia","Owen County,Kentucky",24105,660980
+92,"Highland County,Virginia","Owsley County,Kentucky",24069,595003
+93,"Highland County,Virginia","Pendleton County,Kentucky",23348,600399
+94,"Highland County,Virginia","Perry County,Kentucky",22455,583003
+95,"Highland County,Virginia","Pike County,Kentucky",18994,404589
+96,"Highland County,Virginia","Powell County,Kentucky",21342,567261
+97,"Highland County,Virginia","Robertson County,Kentucky",21494,564904
+98,"Highland County,Virginia","Rockcastle County,Kentucky",23677,637452
+99,"Highland County,Virginia","Rowan County,Kentucky",18228,491182
+100,"Highland County,Virginia","Russell County,Kentucky",27243,728738
+101,"Highland County,Virginia","Scott County,Kentucky",22079,613313
+102,"Highland County,Virginia","Shelby County,Kentucky",23907,664589
+103,"Highland County,Virginia","Simpson County,Kentucky",30958,873768
+104,"Highland County,Virginia","Spencer County,Kentucky",24436,670437
+105,"Highland County,Virginia","Taylor County,Kentucky",26579,721522
+106,"Highland County,Virginia","Todd County,Kentucky",32613,889871
+107,"Highland County,Virginia","Trigg County,Kentucky",33591,949603
+108,"Highland County,Virginia","Trimble County,Kentucky",26123,711376
+109,"Highland County,Virginia","Union County,Kentucky",34185,951791
+110,"Highland County,Virginia","Warren County,Kentucky",29993,838716
+111,"Highland County,Virginia","Washington County,Kentucky",24907,674334
+112,"Highland County,Virginia","Wayne County,Kentucky",27419,725810
+113,"Highland County,Virginia","Webster County,Kentucky",33096,930974
+114,"Highland County,Virginia","Whitley County,Kentucky",24529,680391
+115,"Highland County,Virginia","Wolfe County,Kentucky",21075,530116
+116,"Highland County,Virginia","Woodford County,Kentucky",22299,615949
+117,"Highland County,Virginia","Adams County,Ohio",20851,541577
+118,"Highland County,Virginia","Allen County,Ohio",25905,655167
+119,"Highland County,Virginia","Ashland County,Ohio",22457,556817
+120,"Highland County,Virginia","Ashtabula County,Ohio",21256,566915
+121,"Highland County,Virginia","Athens County,Ohio",15842,385039
+122,"Highland County,Virginia","Auglaize County,Ohio",25518,658860
+123,"Highland County,Virginia","Belmont County,Ohio",15706,394468
+124,"Highland County,Virginia","Brown County,Ohio",22096,568504
+125,"Highland County,Virginia","Butler County,Ohio",25209,650530
+126,"Highland County,Virginia","Carroll County,Ohio",18651,430326
+127,"Highland County,Virginia","Champaign County,Ohio",23176,574628
+128,"Highland County,Virginia","Clark County,Ohio",22054,565199
+129,"Highland County,Virginia","Clermont County,Ohio",22930,599601
+130,"Highland County,Virginia","Clinton County,Ohio",22321,583017
+131,"Highland County,Virginia","Columbiana County,Ohio",17860,418847
+132,"Highland County,Virginia","Coshocton County,Ohio",18772,474642
+133,"Highland County,Virginia","Crawford County,Ohio",24164,619923
+134,"Highland County,Virginia","Cuyahoga County,Ohio",21253,564758
+135,"Highland County,Virginia","Darke County,Ohio",25630,663101
+136,"Highland County,Virginia","Defiance County,Ohio",29341,733487
+137,"Highland County,Virginia","Delaware County,Ohio",21494,547885
+138,"Highland County,Virginia","Fairfield County,Ohio",19025,474979
+139,"Highland County,Virginia","Fayette County,Ohio",20885,553481
+140,"Highland County,Virginia","Franklin County,Ohio",20025,504834
+141,"Highland County,Virginia","Fulton County,Ohio",27923,770573
+142,"Highland County,Virginia","Gallia County,Ohio",16198,412593
+143,"Highland County,Virginia","Geauga County,Ohio",20746,539577
+144,"Highland County,Virginia","Greene County,Ohio",21755,586633
+145,"Highland County,Virginia","Guernsey County,Ohio",16322,412561
+146,"Highland County,Virginia","Hamilton County,Ohio",24710,661108
+147,"Highland County,Virginia","Hancock County,Ohio",25517,656240
+148,"Highland County,Virginia","Hardin County,Ohio",24416,610996
+149,"Highland County,Virginia","Harrison County,Ohio",17666,433182
+150,"Highland County,Virginia","Henry County,Ohio",28230,727861
+151,"Highland County,Virginia","Highland County,Ohio",21389,541590
+152,"Highland County,Virginia","Hocking County,Ohio",17467,430942
+153,"Highland County,Virginia","Holmes County,Ohio",19831,497526
+154,"Highland County,Virginia","Huron County,Ohio",24354,598445
+155,"Highland County,Virginia","Jackson County,Ohio",17375,452142
+156,"Highland County,Virginia","Jefferson County,Ohio",16607,393818
+157,"Highland County,Virginia","Knox County,Ohio",20560,517118
+158,"Highland County,Virginia","Lawrence County,Ohio",16900,418355
+159,"Highland County,Virginia","Licking County,Ohio",19950,498049
+160,"Highland County,Virginia","Logan County,Ohio",23437,605273
+161,"Highland County,Virginia","Lorain County,Ohio",22304,594479
+162,"Highland County,Virginia","Lucas County,Ohio",26878,723423
+163,"Highland County,Virginia","Madison County,Ohio",21302,539555
+164,"Highland County,Virginia","Mahoning County,Ohio",17743,456907
+165,"Highland County,Virginia","Marion County,Ohio",22900,573978
+166,"Highland County,Virginia","Medina County,Ohio",21846,574960
+167,"Highland County,Virginia","Meigs County,Ohio",15807,377617
+168,"Highland County,Virginia","Mercer County,Ohio",26754,685794
+169,"Highland County,Virginia","Miami County,Ohio",24141,628533
+170,"Highland County,Virginia","Monroe County,Ohio",15735,350767
+171,"Highland County,Virginia","Montgomery County,Ohio",23789,634089
+172,"Highland County,Virginia","Morgan County,Ohio",16284,387386
+173,"Highland County,Virginia","Morrow County,Ohio",22302,570706
+174,"Highland County,Virginia","Muskingum County,Ohio",17168,440552
+175,"Highland County,Virginia","Noble County,Ohio",15764,384913
+176,"Highland County,Virginia","Paulding County,Ohio",28442,731072
+177,"Highland County,Virginia","Perry County,Ohio",18809,433254
+178,"Highland County,Virginia","Pickaway County,Ohio",19630,483884
+179,"Highland County,Virginia","Pike County,Ohio",18821,491449
+180,"Highland County,Virginia","Portage County,Ohio",19597,512920
+181,"Highland County,Virginia","Preble County,Ohio",25172,656691
+182,"Highland County,Virginia","Putnam County,Ohio",27028,687525
+183,"Highland County,Virginia","Richland County,Ohio",22812,570157
+184,"Highland County,Virginia","Ross County,Ohio",19069,499886
+185,"Highland County,Virginia","Sandusky County,Ohio",25165,681998
+186,"Highland County,Virginia","Scioto County,Ohio",18705,475629
+187,"Highland County,Virginia","Seneca County,Ohio",25891,648820
+188,"Highland County,Virginia","Shelby County,Ohio",25195,635521
+189,"Highland County,Virginia","Stark County,Ohio",19996,518760
+190,"Highland County,Virginia","Summit County,Ohio",20655,538735
+191,"Highland County,Virginia","Trumbull County,Ohio",18900,494371
+192,"Highland County,Virginia","Tuscarawas County,Ohio",18196,459347
+193,"Highland County,Virginia","Union County,Ohio",21941,555504
+194,"Highland County,Virginia","Van Wert County,Ohio",27139,698036
+195,"Highland County,Virginia","Vinton County,Ohio",17960,433480
+196,"Highland County,Virginia","Warren County,Ohio",23127,617076
+197,"Highland County,Virginia","Washington County,Ohio",14623,342849
+198,"Highland County,Virginia","Wayne County,Ohio",20967,521638
+199,"Highland County,Virginia","Williams County,Ohio",29169,802029
+200,"Highland County,Virginia","Wood County,Ohio",26915,697847
+201,"Highland County,Virginia","Wyandot County,Ohio",24487,620375
+202,"Highland County,Virginia","Accomack County,Virginia",19967,513630
+203,"Highland County,Virginia","Albemarle County,Virginia",6117,126129
+204,"Highland County,Virginia","Alleghany County,Virginia",4687,87723
+205,"Highland County,Virginia","Amelia County,Virginia",11171,257948
+206,"Highland County,Virginia","Amherst County,Virginia",8550,177036
+207,"Highland County,Virginia","Appomattox County,Virginia",9765,201664
+208,"Highland County,Virginia","Arlington County,Virginia",12281,300133
+209,"Highland County,Virginia","Augusta County,Virginia",4152,72570
+210,"Highland County,Virginia","Bath County,Virginia",3463,67907
+211,"Highland County,Virginia","Bedford County,Virginia",10055,210177
+212,"Highland County,Virginia","Bland County,Virginia",11959,298078
+213,"Highland County,Virginia","Botetourt County,Virginia",7223,146490
+214,"Highland County,Virginia","Brunswick County,Virginia",13802,360258
+215,"Highland County,Virginia","Buchanan County,Virginia",15954,382307
+216,"Highland County,Virginia","Buckingham County,Virginia",9448,191085
+217,"Highland County,Virginia","Campbell County,Virginia",9912,217168
+218,"Highland County,Virginia","Caroline County,Virginia",11456,294975
+219,"Highland County,Virginia","Carroll County,Virginia",12359,305608
+220,"Highland County,Virginia","Charles City County,Virginia",11556,292010
+221,"Highland County,Virginia","Charlotte County,Virginia",11747,250164
+222,"Highland County,Virginia","Chesterfield County,Virginia",10692,269793
+223,"Highland County,Virginia","Clarke County,Virginia",9777,226882
+224,"Highland County,Virginia","Craig County,Virginia",8848,158019
+225,"Highland County,Virginia","Culpeper County,Virginia",9914,215346
+226,"Highland County,Virginia","Cumberland County,Virginia",10159,216486
+227,"Highland County,Virginia","Dickenson County,Virginia",18634,422412
+228,"Highland County,Virginia","Dinwiddie County,Virginia",12439,320225
+229,"Highland County,Virginia","Essex County,Virginia",13273,319017
+230,"Highland County,Virginia","Fairfax County,Virginia",11904,290409
+231,"Highland County,Virginia","Fauquier County,Virginia",10215,248133
+232,"Highland County,Virginia","Floyd County,Virginia",10885,247155
+233,"Highland County,Virginia","Fluvanna County,Virginia",7794,178301
+234,"Highland County,Virginia","Franklin County,Virginia",10223,225600
+235,"Highland County,Virginia","Frederick County,Virginia",9143,191943
+236,"Highland County,Virginia","Giles County,Virginia",10642,194398
+237,"Highland County,Virginia","Gloucester County,Virginia",13727,346198
+238,"Highland County,Virginia","Goochland County,Virginia",8698,208912
+239,"Highland County,Virginia","Grayson County,Virginia",13691,321788
+240,"Highland County,Virginia","Greene County,Virginia",7700,140214
+241,"Highland County,Virginia","Greensville County,Virginia",13855,368976
+242,"Highland County,Virginia","Halifax County,Virginia",13233,288874
+243,"Highland County,Virginia","Hanover County,Virginia",9904,250019
+244,"Highland County,Virginia","Henrico County,Virginia",10416,262979
+245,"Highland County,Virginia","Henry County,Virginia",11632,260562
+246,"Highland County,Virginia","Isle of Wight County,Virginia",14668,367555
+247,"Highland County,Virginia","James City County,Virginia",12792,332781
+248,"Highland County,Virginia","King and Queen County,Virginia",12450,308365
+249,"Highland County,Virginia","King George County,Virginia",12569,322961
+250,"Highland County,Virginia","King William County,Virginia",11138,278287
+251,"Highland County,Virginia","Lancaster County,Virginia",14931,361372
+252,"Highland County,Virginia","Lee County,Virginia",19198,484482
+253,"Highland County,Virginia","Loudoun County,Virginia",11273,262748
+254,"Highland County,Virginia","Louisa County,Virginia",8355,192007
+255,"Highland County,Virginia","Lunenburg County,Virginia",13044,292884
+256,"Highland County,Virginia","Madison County,Virginia",9029,191454
+257,"Highland County,Virginia","Mathews County,Virginia",14552,369621
+258,"Highland County,Virginia","Mecklenburg County,Virginia",14393,317330
+259,"Highland County,Virginia","Middlesex County,Virginia",13328,342398
+260,"Highland County,Virginia","Montgomery County,Virginia",9590,219578
+261,"Highland County,Virginia","Nelson County,Virginia",6996,144630
+262,"Highland County,Virginia","New Kent County,Virginia",12228,306695
+263,"Highland County,Virginia","Northampton County,Virginia",17209,449444
+264,"Highland County,Virginia","Northumberland County,Virginia",14970,359884
+265,"Highland County,Virginia","Nottoway County,Virginia",12296,279439
+266,"Highland County,Virginia","Orange County,Virginia",9318,200115
+267,"Highland County,Virginia","Page County,Virginia",7443,148934
+268,"Highland County,Virginia","Patrick County,Virginia",13005,284058
+269,"Highland County,Virginia","Pittsylvania County,Virginia",12482,288795
+270,"Highland County,Virginia","Powhatan County,Virginia",9951,234134
+271,"Highland County,Virginia","Prince Edward County,Virginia",10967,245103
+272,"Highland County,Virginia","Prince George County,Virginia",12203,306809
+273,"Highland County,Virginia","Prince William County,Virginia",10315,254237
+274,"Highland County,Virginia","Pulaski County,Virginia",10317,242211
+275,"Highland County,Virginia","Rappahannock County,Virginia",9275,185421
+276,"Highland County,Virginia","Richmond County,Virginia",13670,332528
+277,"Highland County,Virginia","Roanoke County,Virginia",8581,184517
+278,"Highland County,Virginia","Rockbridge County,Virginia",5820,120277
+279,"Highland County,Virginia","Rockingham County,Virginia",5896,110463
+280,"Highland County,Virginia","Russell County,Virginia",15767,378258
+281,"Highland County,Virginia","Scott County,Virginia",17771,445211
+282,"Highland County,Virginia","Shenandoah County,Virginia",6987,151388
+283,"Highland County,Virginia","Smyth County,Virginia",13354,328932
+284,"Highland County,Virginia","Southampton County,Virginia",14233,365091
+285,"Highland County,Virginia","Spotsylvania County,Virginia",10371,233846
+286,"Highland County,Virginia","Stafford County,Virginia",11753,258139
+287,"Highland County,Virginia","Surry County,Virginia",13536,331642
+288,"Highland County,Virginia","Sussex County,Virginia",12897,335333
+289,"Highland County,Virginia","Tazewell County,Virginia",12774,316665
+290,"Highland County,Virginia","Warren County,Virginia",8890,195980
+291,"Highland County,Virginia","Washington County,Virginia",14747,368398
+292,"Highland County,Virginia","Westmoreland County,Virginia",13543,339786
+293,"Highland County,Virginia","Wise County,Virginia",18545,450594
+294,"Highland County,Virginia","Wythe County,Virginia",11608,280917
+295,"Highland County,Virginia","York County,Virginia",14080,363555
+296,"Highland County,Virginia","Alexandria City County,Virginia",12484,312780
+297,"Highland County,Virginia","Bedford City County,Virginia",9087,193324
+298,"Highland County,Virginia","Bristol City County,Virginia",15222,394116
+299,"Highland County,Virginia","Buena Vista City County,Virginia",6174,134255
+300,"Highland County,Virginia","Charlottesville City County,Virginia",6586,141344
+301,"Highland County,Virginia","Chesapeake City County,Virginia",15543,416461
+302,"Highland County,Virginia","Clifton Forge City County,Virginia",4900,102401
+303,"Highland County,Virginia","Colonial Heights City County,Virginia",11252,285686
+304,"Highland County,Virginia","Covington City County,Virginia",4669,88290
+305,"Highland County,Virginia","Danville City County,Virginia",13081,305138
+306,"Highland County,Virginia","Emporia City County,Virginia",13563,355570
+307,"Highland County,Virginia","Fairfax City County,Virginia",11447,279985
+308,"Highland County,Virginia","Falls Church City County,Virginia",11779,294457
+309,"Highland County,Virginia","Franklin City County,Virginia",14781,372945
+310,"Highland County,Virginia","Fredericksburg City County,Virginia",11504,243505
+311,"Highland County,Virginia","Galax City County,Virginia",12982,311474
+312,"Highland County,Virginia","Hampton City County,Virginia",14030,373261
+313,"Highland County,Virginia","Harrisonburg City County,Virginia",5422,91804
+314,"Highland County,Virginia","Hopewell City County,Virginia",11289,284652
+315,"Highland County,Virginia","Lexington City County,Virginia",5809,122746
+316,"Highland County,Virginia","Lynchburg City County,Virginia",9098,197092
+317,"Highland County,Virginia","Manassas City County,Virginia",10542,259182
+318,"Highland County,Virginia","Manassas Park City County,Virginia",11045,265525
+319,"Highland County,Virginia","Martinsville City County,Virginia",11785,255664
+320,"Highland County,Virginia","Newport News City County,Virginia",13587,359747
+321,"Highland County,Virginia","Norfolk City County,Virginia",15336,398677
+322,"Highland County,Virginia","Norton City County,Virginia",18069,441484
+323,"Highland County,Virginia","Petersburg City County,Virginia",11124,286673
+324,"Highland County,Virginia","Poquoson City County,Virginia",14258,370324
+325,"Highland County,Virginia","Portsmouth City County,Virginia",15276,407498
+326,"Highland County,Virginia","Radford County,Virginia",9953,229422
+327,"Highland County,Virginia","Richmond City County,Virginia",9992,250789
+328,"Highland County,Virginia","Roanoke City County,Virginia",8119,175959
+329,"Highland County,Virginia","Salem City County,Virginia",7949,174430
+330,"Highland County,Virginia","South Boston City County,Virginia",13236,287693
+331,"Highland County,Virginia","Staunton City County,Virginia",4293,73259
+332,"Highland County,Virginia","Suffolk City County,Virginia",15511,382279
+333,"Highland County,Virginia","Virginia Beach City County,Virginia",15897,421936
+334,"Highland County,Virginia","Waynesboro City County,Virginia",5247,96240
+335,"Highland County,Virginia","Williamsburg City County,Virginia",12631,331996
+336,"Highland County,Virginia","Winchester City County,Virginia",9109,210752
+337,"Highland County,Virginia","Barbour County,West Virginia",7692,147075
+338,"Highland County,Virginia","Berkeley County,West Virginia",10846,257960
+339,"Highland County,Virginia","Boone County,West Virginia",13649,295654
+340,"Highland County,Virginia","Braxton County,West Virginia",11129,230452
+341,"Highland County,Virginia","Brooke County,West Virginia",14913,357368
+342,"Highland County,Virginia","Cabell County,West Virginia",15217,391560
+343,"Highland County,Virginia","Calhoun County,West Virginia",12451,265119
+344,"Highland County,Virginia","Clay County,West Virginia",12247,214339
+345,"Highland County,Virginia","Doddridge County,West Virginia",11145,209477
+346,"Highland County,Virginia","Fayette County,West Virginia",10638,205235
+347,"Highland County,Virginia","Gilmer County,West Virginia",10932,229810
+348,"Highland County,Virginia","Grant County,West Virginia",5178,100892
+349,"Highland County,Virginia","Greenbrier County,West Virginia",9126,173076
+350,"Highland County,Virginia","Hampshire County,West Virginia",8607,162369
+351,"Highland County,Virginia","Hancock County,West Virginia",16540,384715
+352,"Highland County,Virginia","Hardy County,West Virginia",6118,112484
+353,"Highland County,Virginia","Harrison County,West Virginia",9789,211945
+354,"Highland County,Virginia","Jackson County,West Virginia",14536,371371
+355,"Highland County,Virginia","Jefferson County,West Virginia",10897,245366
+356,"Highland County,Virginia","Kanawha County,West Virginia",12299,293353
+357,"Highland County,Virginia","Lewis County,West Virginia",8833,179440
+358,"Highland County,Virginia","Lincoln County,West Virginia",15881,369238
+359,"Highland County,Virginia","Logan County,West Virginia",15440,326143
+360,"Highland County,Virginia","McDowell County,West Virginia",13819,300594
+361,"Highland County,Virginia","Marion County,West Virginia",10934,239112
+362,"Highland County,Virginia","Marshall County,West Virginia",15901,351812
+363,"Highland County,Virginia","Mason County,West Virginia",14692,377466
+364,"Highland County,Virginia","Mercer County,West Virginia",10512,256584
+365,"Highland County,Virginia","Mineral County,West Virginia",7774,146551
+366,"Highland County,Virginia","Mingo County,West Virginia",16019,390078
+367,"Highland County,Virginia","Monongalia County,West Virginia",11295,220372
+368,"Highland County,Virginia","Monroe County,West Virginia",7967,159106
+369,"Highland County,Virginia","Morgan County,West Virginia",10413,219810
+370,"Highland County,Virginia","Nicholas County,West Virginia",9135,168952
+371,"Highland County,Virginia","Ohio County,West Virginia",14820,366314
+372,"Highland County,Virginia","Pendleton County,West Virginia",2786,52741
+373,"Highland County,Virginia","Pleasants County,West Virginia",12587,288085
+374,"Highland County,Virginia","Pocahontas County,West Virginia",4117,66331
+375,"Highland County,Virginia","Preston County,West Virginia",9778,177131
+376,"Highland County,Virginia","Putnam County,West Virginia",13474,343085
+377,"Highland County,Virginia","Raleigh County,West Virginia",9324,218534
+378,"Highland County,Virginia","Randolph County,West Virginia",5707,100469
+379,"Highland County,Virginia","Ritchie County,West Virginia",12498,282387
+380,"Highland County,Virginia","Roane County,West Virginia",14872,299155
+381,"Highland County,Virginia","Summers County,West Virginia",10045,198411
+382,"Highland County,Virginia","Taylor County,West Virginia",9164,182383
+383,"Highland County,Virginia","Tucker County,West Virginia",7490,125689
+384,"Highland County,Virginia","Tyler County,West Virginia",13513,280752
+385,"Highland County,Virginia","Upshur County,West Virginia",8303,136111
+386,"Highland County,Virginia","Wayne County,West Virginia",16808,424186
+387,"Highland County,Virginia","Webster County,West Virginia",8135,147477
+388,"Highland County,Virginia","Wetzel County,West Virginia",12468,263427
+389,"Highland County,Virginia","Wirt County,West Virginia",13892,296685
+390,"Highland County,Virginia","Wood County,West Virginia",13367,313348
+391,"Highland County,Virginia","Wyoming County,West Virginia",11269,258476

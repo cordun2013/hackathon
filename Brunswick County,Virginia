@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Brunswick County,Virginia","Adair County,Kentucky",32990,917607
+1,"Brunswick County,Virginia","Allen County,Kentucky",34408,986891
+2,"Brunswick County,Virginia","Anderson County,Kentucky",31556,873454
+3,"Brunswick County,Virginia","Ballard County,Kentucky",41312,1222146
+4,"Brunswick County,Virginia","Barren County,Kentucky",34197,945836
+5,"Brunswick County,Virginia","Bath County,Kentucky",27203,744635
+6,"Brunswick County,Virginia","Bell County,Kentucky",25954,636628
+7,"Brunswick County,Virginia","Boone County,Kentucky",33016,866029
+8,"Brunswick County,Virginia","Bourbon County,Kentucky",29117,791053
+9,"Brunswick County,Virginia","Boyd County,Kentucky",23879,638960
+10,"Brunswick County,Virginia","Boyle County,Kentucky",32349,927699
+11,"Brunswick County,Virginia","Bracken County,Kentucky",29528,785136
+12,"Brunswick County,Virginia","Breathitt County,Kentucky",27578,672392
+13,"Brunswick County,Virginia","Breckinridge County,Kentucky",37089,1026135
+14,"Brunswick County,Virginia","Bullitt County,Kentucky",33659,947255
+15,"Brunswick County,Virginia","Butler County,Kentucky",36868,1057096
+16,"Brunswick County,Virginia","Caldwell County,Kentucky",38452,1129960
+17,"Brunswick County,Virginia","Calloway County,Kentucky",39153,1154005
+18,"Brunswick County,Virginia","Campbell County,Kentucky",31228,825007
+19,"Brunswick County,Virginia","Carlisle County,Kentucky",41769,1237514
+20,"Brunswick County,Virginia","Carroll County,Kentucky",34100,921269
+21,"Brunswick County,Virginia","Carter County,Kentucky",25043,669057
+22,"Brunswick County,Virginia","Casey County,Kentucky",33109,926818
+23,"Brunswick County,Virginia","Christian County,Kentucky",36046,1074985
+24,"Brunswick County,Virginia","Clay County,Kentucky",28526,696970
+25,"Brunswick County,Virginia","Clinton County,Kentucky",31455,866296
+26,"Brunswick County,Virginia","Crittenden County,Kentucky",39716,1162720
+27,"Brunswick County,Virginia","Cumberland County,Kentucky",32335,886964
+28,"Brunswick County,Virginia","Daviess County,Kentucky",38777,1094576
+29,"Brunswick County,Virginia","Edmonson County,Kentucky",36177,999199
+30,"Brunswick County,Virginia","Elliott County,Kentucky",26374,694827
+31,"Brunswick County,Virginia","Estill County,Kentucky",30195,806951
+32,"Brunswick County,Virginia","Fayette County,Kentucky",29363,810947
+33,"Brunswick County,Virginia","Fleming County,Kentucky",27629,747821
+34,"Brunswick County,Virginia","Floyd County,Kentucky",26239,649700
+35,"Brunswick County,Virginia","Franklin County,Kentucky",31400,859863
+36,"Brunswick County,Virginia","Fulton County,Kentucky",42173,1258478
+37,"Brunswick County,Virginia","Gallatin County,Kentucky",33098,911927
+38,"Brunswick County,Virginia","Garrard County,Kentucky",31968,858100
+39,"Brunswick County,Virginia","Grant County,Kentucky",31897,886035
+40,"Brunswick County,Virginia","Graves County,Kentucky",40794,1210220
+41,"Brunswick County,Virginia","Grayson County,Kentucky",36081,1004769
+42,"Brunswick County,Virginia","Green County,Kentucky",34742,959771
+43,"Brunswick County,Virginia","Greenup County,Kentucky",25654,680086
+44,"Brunswick County,Virginia","Hancock County,Kentucky",37885,1059028
+45,"Brunswick County,Virginia","Hardin County,Kentucky",34957,966902
+46,"Brunswick County,Virginia","Harlan County,Kentucky",25029,613255
+47,"Brunswick County,Virginia","Harrison County,Kentucky",30687,824152
+48,"Brunswick County,Virginia","Hart County,Kentucky",35757,994530
+49,"Brunswick County,Virginia","Henderson County,Kentucky",39804,1184118
+50,"Brunswick County,Virginia","Henry County,Kentucky",33002,903582
+51,"Brunswick County,Virginia","Hickman County,Kentucky",41803,1238806
+52,"Brunswick County,Virginia","Hopkins County,Kentucky",38573,1140237
+53,"Brunswick County,Virginia","Jackson County,Kentucky",30270,872964
+54,"Brunswick County,Virginia","Jefferson County,Kentucky",33095,919115
+55,"Brunswick County,Virginia","Jessamine County,Kentucky",30832,832411
+56,"Brunswick County,Virginia","Johnson County,Kentucky",26660,711856
+57,"Brunswick County,Virginia","Kenton County,Kentucky",32385,853722
+58,"Brunswick County,Virginia","Knott County,Kentucky",25119,615142
+59,"Brunswick County,Virginia","Knox County,Kentucky",27284,678621
+60,"Brunswick County,Virginia","Larue County,Kentucky",35029,954078
+61,"Brunswick County,Virginia","Laurel County,Kentucky",28944,831674
+62,"Brunswick County,Virginia","Lawrence County,Kentucky",25802,683280
+63,"Brunswick County,Virginia","Lee County,Kentucky",29689,713581
+64,"Brunswick County,Virginia","Leslie County,Kentucky",26491,641534
+65,"Brunswick County,Virginia","Letcher County,Kentucky",23519,578688
+66,"Brunswick County,Virginia","Lewis County,Kentucky",27081,720875
+67,"Brunswick County,Virginia","Lincoln County,Kentucky",31580,912067
+68,"Brunswick County,Virginia","Livingston County,Kentucky",39643,1176084
+69,"Brunswick County,Virginia","Logan County,Kentucky",36478,1027885
+70,"Brunswick County,Virginia","Lyon County,Kentucky",39400,1153259
+71,"Brunswick County,Virginia","McCracken County,Kentucky",39925,1190206
+72,"Brunswick County,Virginia","McCreary County,Kentucky",28462,803142
+73,"Brunswick County,Virginia","Madison County,Kentucky",30361,821970
+74,"Brunswick County,Virginia","Magoffin County,Kentucky",27198,670906
+75,"Brunswick County,Virginia","Marion County,Kentucky",33407,915687
+76,"Brunswick County,Virginia","Marshall County,Kentucky",39339,1173778
+77,"Brunswick County,Virginia","Martin County,Kentucky",26916,665004
+78,"Brunswick County,Virginia","Mason County,Kentucky",28877,764681
+79,"Brunswick County,Virginia","Meade County,Kentucky",35556,991430
+80,"Brunswick County,Virginia","Menifee County,Kentucky",28319,756699
+81,"Brunswick County,Virginia","Mercer County,Kentucky",31783,871398
+82,"Brunswick County,Virginia","Metcalfe County,Kentucky",33646,947871
+83,"Brunswick County,Virginia","Monroe County,Kentucky",32895,917385
+84,"Brunswick County,Virginia","Montgomery County,Kentucky",28016,763176
+85,"Brunswick County,Virginia","Morgan County,Kentucky",28097,732415
+86,"Brunswick County,Virginia","Muhlenberg County,Kentucky",38258,1110348
+87,"Brunswick County,Virginia","Nelson County,Kentucky",33015,914758
+88,"Brunswick County,Virginia","Nicholas County,Kentucky",29694,791059
+89,"Brunswick County,Virginia","Ohio County,Kentucky",37878,1062612
+90,"Brunswick County,Virginia","Oldham County,Kentucky",33167,930997
+91,"Brunswick County,Virginia","Owen County,Kentucky",32222,886640
+92,"Brunswick County,Virginia","Owsley County,Kentucky",29716,710266
+93,"Brunswick County,Virginia","Pendleton County,Kentucky",31465,826060
+94,"Brunswick County,Virginia","Perry County,Kentucky",26092,635565
+95,"Brunswick County,Virginia","Pike County,Kentucky",24614,584215
+96,"Brunswick County,Virginia","Powell County,Kentucky",29460,792922
+97,"Brunswick County,Virginia","Robertson County,Kentucky",29611,790565
+98,"Brunswick County,Virginia","Rockcastle County,Kentucky",30061,873665
+99,"Brunswick County,Virginia","Rowan County,Kentucky",26346,716843
+100,"Brunswick County,Virginia","Russell County,Kentucky",32594,901590
+101,"Brunswick County,Virginia","Scott County,Kentucky",30197,838974
+102,"Brunswick County,Virginia","Shelby County,Kentucky",32024,890250
+103,"Brunswick County,Virginia","Simpson County,Kentucky",35445,1003861
+104,"Brunswick County,Virginia","Spencer County,Kentucky",32554,896098
+105,"Brunswick County,Virginia","Taylor County,Kentucky",34344,941866
+106,"Brunswick County,Virginia","Todd County,Kentucky",36462,1067932
+107,"Brunswick County,Virginia","Trigg County,Kentucky",36953,1092344
+108,"Brunswick County,Virginia","Trimble County,Kentucky",34241,937037
+109,"Brunswick County,Virginia","Union County,Kentucky",41223,1204478
+110,"Brunswick County,Virginia","Warren County,Kentucky",35870,1026528
+111,"Brunswick County,Virginia","Washington County,Kentucky",33025,899995
+112,"Brunswick County,Virginia","Wayne County,Kentucky",30966,850272
+113,"Brunswick County,Virginia","Webster County,Kentucky",39682,1168326
+114,"Brunswick County,Virginia","Whitley County,Kentucky",27066,787904
+115,"Brunswick County,Virginia","Wolfe County,Kentucky",29072,704475
+116,"Brunswick County,Virginia","Woodford County,Kentucky",30417,841610
+117,"Brunswick County,Virginia","Adams County,Ohio",28969,767238
+118,"Brunswick County,Virginia","Allen County,Ohio",35701,942655
+119,"Brunswick County,Virginia","Ashland County,Ohio",31275,907453
+120,"Brunswick County,Virginia","Ashtabula County,Ohio",29272,861923
+121,"Brunswick County,Virginia","Athens County,Ohio",25377,672837
+122,"Brunswick County,Virginia","Auglaize County,Ohio",34951,959355
+123,"Brunswick County,Virginia","Belmont County,Ohio",25842,758218
+124,"Brunswick County,Virginia","Brown County,Ohio",30214,794165
+125,"Brunswick County,Virginia","Butler County,Ohio",33326,876191
+126,"Brunswick County,Virginia","Carroll County,Ohio",27788,774144
+127,"Brunswick County,Virginia","Champaign County,Ohio",32255,861452
+128,"Brunswick County,Virginia","Clark County,Ohio",30934,820997
+129,"Brunswick County,Virginia","Clermont County,Ohio",31047,825262
+130,"Brunswick County,Virginia","Clinton County,Ohio",30438,808678
+131,"Brunswick County,Virginia","Columbiana County,Ohio",26575,756161
+132,"Brunswick County,Virginia","Coshocton County,Ohio",29761,814372
+133,"Brunswick County,Virginia","Crawford County,Ohio",33183,978647
+134,"Brunswick County,Virginia","Cuyahoga County,Ohio",29268,859767
+135,"Brunswick County,Virginia","Darke County,Ohio",34049,916402
+136,"Brunswick County,Virginia","Defiance County,Ohio",37587,1108730
+137,"Brunswick County,Virginia","Delaware County,Ohio",31207,840444
+138,"Brunswick County,Virginia","Fairfield County,Ohio",28738,767538
+139,"Brunswick County,Virginia","Fayette County,Ohio",29002,779142
+140,"Brunswick County,Virginia","Franklin County,Ohio",29738,797393
+141,"Brunswick County,Virginia","Fulton County,Ohio",35939,1065581
+142,"Brunswick County,Virginia","Gallia County,Ohio",24316,638254
+143,"Brunswick County,Virginia","Geauga County,Ohio",28762,834585
+144,"Brunswick County,Virginia","Greene County,Ohio",29873,812294
+145,"Brunswick County,Virginia","Guernsey County,Ohio",27312,752290
+146,"Brunswick County,Virginia","Hamilton County,Ohio",32828,886769
+147,"Brunswick County,Virginia","Hancock County,Ohio",35230,948799
+148,"Brunswick County,Virginia","Hardin County,Ohio",34212,898485
+149,"Brunswick County,Virginia","Harrison County,Ohio",27002,776361
+150,"Brunswick County,Virginia","Henry County,Ohio",36393,1055348
+151,"Brunswick County,Virginia","Highland County,Ohio",29506,767251
+152,"Brunswick County,Virginia","Hocking County,Ohio",27180,723501
+153,"Brunswick County,Virginia","Holmes County,Ohio",30820,837256
+154,"Brunswick County,Virginia","Huron County,Ohio",32551,937059
+155,"Brunswick County,Virginia","Jackson County,Ohio",25493,677803
+156,"Brunswick County,Virginia","Jefferson County,Ohio",25744,737635
+157,"Brunswick County,Virginia","Knox County,Ohio",31549,856847
+158,"Brunswick County,Virginia","Lawrence County,Ohio",25018,644016
+159,"Brunswick County,Virginia","Licking County,Ohio",30683,794547
+160,"Brunswick County,Virginia","Logan County,Ohio",33233,892762
+161,"Brunswick County,Virginia","Lorain County,Ohio",30320,889487
+162,"Brunswick County,Virginia","Lucas County,Ohio",34893,1018431
+163,"Brunswick County,Virginia","Madison County,Ohio",30703,802226
+164,"Brunswick County,Virginia","Mahoning County,Ohio",25758,751915
+165,"Brunswick County,Virginia","Marion County,Ohio",32613,866537
+166,"Brunswick County,Virginia","Medina County,Ohio",29907,874573
+167,"Brunswick County,Virginia","Meigs County,Ohio",24258,643807
+168,"Brunswick County,Virginia","Mercer County,Ohio",36187,986289
+169,"Brunswick County,Virginia","Miami County,Ohio",32537,881794
+170,"Brunswick County,Virginia","Monroe County,Ohio",28248,741482
+171,"Brunswick County,Virginia","Montgomery County,Ohio",31907,859750
+172,"Brunswick County,Virginia","Morgan County,Ohio",27253,728130
+173,"Brunswick County,Virginia","Morrow County,Ohio",32015,863265
+174,"Brunswick County,Virginia","Muskingum County,Ohio",28158,780282
+175,"Brunswick County,Virginia","Noble County,Ohio",26753,724642
+176,"Brunswick County,Virginia","Paulding County,Ohio",38238,1018561
+177,"Brunswick County,Virginia","Perry County,Ohio",28595,738257
+178,"Brunswick County,Virginia","Pickaway County,Ohio",28443,759241
+179,"Brunswick County,Virginia","Pike County,Ohio",26939,717110
+180,"Brunswick County,Virginia","Portage County,Ohio",27613,807928
+181,"Brunswick County,Virginia","Preble County,Ohio",33526,888328
+182,"Brunswick County,Virginia","Putnam County,Ohio",36824,975014
+183,"Brunswick County,Virginia","Richland County,Ohio",31831,928881
+184,"Brunswick County,Virginia","Ross County,Ohio",27187,725547
+185,"Brunswick County,Virginia","Sandusky County,Ohio",33181,977006
+186,"Brunswick County,Virginia","Scioto County,Ohio",26823,701290
+187,"Brunswick County,Virginia","Seneca County,Ohio",33912,986678
+188,"Brunswick County,Virginia","Shelby County,Ohio",33576,918079
+189,"Brunswick County,Virginia","Stark County,Ohio",28393,804061
+190,"Brunswick County,Virginia","Summit County,Ohio",28671,833743
+191,"Brunswick County,Virginia","Trumbull County,Ohio",26916,789379
+192,"Brunswick County,Virginia","Tuscarawas County,Ohio",28511,807645
+193,"Brunswick County,Virginia","Union County,Ohio",31737,842993
+194,"Brunswick County,Virginia","Van Wert County,Ohio",36935,985525
+195,"Brunswick County,Virginia","Vinton County,Ohio",27388,703308
+196,"Brunswick County,Virginia","Warren County,Ohio",31244,842737
+197,"Brunswick County,Virginia","Washington County,Ohio",25612,682579
+198,"Brunswick County,Virginia","Wayne County,Ohio",31013,893383
+199,"Brunswick County,Virginia","Williams County,Ohio",37184,1097038
+200,"Brunswick County,Virginia","Wood County,Ohio",35078,1025334
+201,"Brunswick County,Virginia","Wyandot County,Ohio",34200,912934
+202,"Brunswick County,Virginia","Accomack County,Virginia",11683,281943
+203,"Brunswick County,Virginia","Albemarle County,Virginia",8436,239400
+204,"Brunswick County,Virginia","Alleghany County,Virginia",13408,321609
+205,"Brunswick County,Virginia","Amelia County,Virginia",4093,78685
+206,"Brunswick County,Virginia","Amherst County,Virginia",8265,192749
+207,"Brunswick County,Virginia","Appomattox County,Virginia",6362,145772
+208,"Brunswick County,Virginia","Arlington County,Virginia",9761,280408
+209,"Brunswick County,Virginia","Augusta County,Virginia",10690,302034
+210,"Brunswick County,Virginia","Bath County,Virginia",13664,367693
+211,"Brunswick County,Virginia","Bedford County,Virginia",9336,211628
+212,"Brunswick County,Virginia","Bland County,Virginia",15220,375946
+213,"Brunswick County,Virginia","Botetourt County,Virginia",11703,257991
+214,"Brunswick County,Virginia","Buchanan County,Virginia",20977,510405
+215,"Brunswick County,Virginia","Buckingham County,Virginia",6093,129386
+216,"Brunswick County,Virginia","Campbell County,Virginia",7429,148210
+217,"Brunswick County,Virginia","Caroline County,Virginia",6490,177767
+218,"Brunswick County,Virginia","Carroll County,Virginia",12686,358167
+219,"Brunswick County,Virginia","Charles City County,Virginia",4865,112675
+220,"Brunswick County,Virginia","Charlotte County,Virginia",4907,98992
+221,"Brunswick County,Virginia","Chesterfield County,Virginia",4334,98132
+222,"Brunswick County,Virginia","Clarke County,Virginia",12441,322883
+223,"Brunswick County,Virginia","Craig County,Virginia",13666,313206
+224,"Brunswick County,Virginia","Culpeper County,Virginia",9740,253612
+225,"Brunswick County,Virginia","Cumberland County,Virginia",5794,119341
+226,"Brunswick County,Virginia","Dickenson County,Virginia",21687,528582
+227,"Brunswick County,Virginia","Dinwiddie County,Virginia",2286,51792
+228,"Brunswick County,Virginia","Essex County,Virginia",7989,193611
+229,"Brunswick County,Virginia","Fairfax County,Virginia",10058,283637
+230,"Brunswick County,Virginia","Fauquier County,Virginia",9754,263650
+231,"Brunswick County,Virginia","Floyd County,Virginia",12606,291996
+232,"Brunswick County,Virginia","Fluvanna County,Virginia",7637,202971
+233,"Brunswick County,Virginia","Franklin County,Virginia",9961,221479
+234,"Brunswick County,Virginia","Frederick County,Virginia",12997,355946
+235,"Brunswick County,Virginia","Giles County,Virginia",14486,351922
+236,"Brunswick County,Virginia","Gloucester County,Virginia",7748,197138
+237,"Brunswick County,Virginia","Goochland County,Virginia",6367,172258
+238,"Brunswick County,Virginia","Grayson County,Virginia",14818,394711
+239,"Brunswick County,Virginia","Greene County,Virginia",10157,257435
+240,"Brunswick County,Virginia","Greensville County,Virginia",1999,36307
+241,"Brunswick County,Virginia","Halifax County,Virginia",4794,109416
+242,"Brunswick County,Virginia","Hanover County,Virginia",4975,128726
+243,"Brunswick County,Virginia","Henrico County,Virginia",4215,112565
+244,"Brunswick County,Virginia","Henry County,Virginia",9153,223367
+245,"Brunswick County,Virginia","Highland County,Virginia",13892,359773
+246,"Brunswick County,Virginia","Isle of Wight County,Virginia",5336,125335
+247,"Brunswick County,Virginia","James City County,Virginia",6456,148120
+248,"Brunswick County,Virginia","King and Queen County,Virginia",7166,182958
+249,"Brunswick County,Virginia","King George County,Virginia",7603,205753
+250,"Brunswick County,Virginia","King William County,Virginia",5853,152880
+251,"Brunswick County,Virginia","Lancaster County,Virginia",9614,233178
+252,"Brunswick County,Virginia","Lee County,Virginia",22181,560236
+253,"Brunswick County,Virginia","Loudoun County,Virginia",12024,336882
+254,"Brunswick County,Virginia","Louisa County,Virginia",7135,195846
+255,"Brunswick County,Virginia","Lunenburg County,Virginia",2992,54808
+256,"Brunswick County,Virginia","Madison County,Virginia",10071,257466
+257,"Brunswick County,Virginia","Mathews County,Virginia",8572,220562
+258,"Brunswick County,Virginia","Mecklenburg County,Virginia",2910,58798
+259,"Brunswick County,Virginia","Middlesex County,Virginia",7349,193339
+260,"Brunswick County,Virginia","Montgomery County,Virginia",13050,316192
+261,"Brunswick County,Virginia","Nelson County,Virginia",8330,177188
+262,"Brunswick County,Virginia","New Kent County,Virginia",6249,157635
+263,"Brunswick County,Virginia","Northampton County,Virginia",8925,217757
+264,"Brunswick County,Virginia","Northumberland County,Virginia",9686,234478
+265,"Brunswick County,Virginia","Nottoway County,Virginia",2592,50540
+266,"Brunswick County,Virginia","Orange County,Virginia",8750,223920
+267,"Brunswick County,Virginia","Page County,Virginia",12431,309119
+268,"Brunswick County,Virginia","Patrick County,Virginia",10735,262275
+269,"Brunswick County,Virginia","Pittsylvania County,Virginia",7517,179369
+270,"Brunswick County,Virginia","Powhatan County,Virginia",5356,111116
+271,"Brunswick County,Virginia","Prince Edward County,Virginia",4619,85999
+272,"Brunswick County,Virginia","Prince George County,Virginia",3835,92347
+273,"Brunswick County,Virginia","Prince William County,Virginia",10218,273486
+274,"Brunswick County,Virginia","Pulaski County,Virginia",13778,338826
+275,"Brunswick County,Virginia","Rappahannock County,Virginia",11194,291650
+276,"Brunswick County,Virginia","Richmond County,Virginia",8386,207121
+277,"Brunswick County,Virginia","Roanoke County,Virginia",12041,281131
+278,"Brunswick County,Virginia","Rockbridge County,Virginia",11398,249556
+279,"Brunswick County,Virginia","Rockingham County,Virginia",12048,342180
+280,"Brunswick County,Virginia","Russell County,Virginia",20143,493742
+281,"Brunswick County,Virginia","Scott County,Virginia",20755,520965
+282,"Brunswick County,Virginia","Shenandoah County,Virginia",12553,372283
+283,"Brunswick County,Virginia","Smyth County,Virginia",16337,404686
+284,"Brunswick County,Virginia","Southampton County,Virginia",3098,75359
+285,"Brunswick County,Virginia","Spotsylvania County,Virginia",7500,200717
+286,"Brunswick County,Virginia","Stafford County,Virginia",7572,218189
+287,"Brunswick County,Virginia","Surry County,Virginia",5270,126770
+288,"Brunswick County,Virginia","Sussex County,Virginia",3024,76709
+289,"Brunswick County,Virginia","Tazewell County,Virginia",17798,444763
+290,"Brunswick County,Virginia","Warren County,Virginia",12224,325356
+291,"Brunswick County,Virginia","Washington County,Virginia",17731,444153
+292,"Brunswick County,Virginia","Westmoreland County,Virginia",8578,222578
+293,"Brunswick County,Virginia","Wise County,Virginia",21594,535084
+294,"Brunswick County,Virginia","Wythe County,Virginia",14591,356671
+295,"Brunswick County,Virginia","York County,Virginia",8101,214495
+296,"Brunswick County,Virginia","Alexandria City County,Virginia",9732,277456
+297,"Brunswick County,Virginia","Bedford City County,Virginia",8837,206712
+298,"Brunswick County,Virginia","Bristol City County,Virginia",18206,469870
+299,"Brunswick County,Virginia","Buena Vista City County,Virginia",10152,231187
+300,"Brunswick County,Virginia","Charlottesville City County,Virginia",7987,224807
+301,"Brunswick County,Virginia","Chesapeake City County,Virginia",6318,157120
+302,"Brunswick County,Virginia","Clifton Forge City County,Virginia",12309,290427
+303,"Brunswick County,Virginia","Colonial Heights City County,Virginia",3088,77053
+304,"Brunswick County,Virginia","Covington City County,Virginia",13052,308770
+305,"Brunswick County,Virginia","Danville City County,Virginia",6609,154342
+306,"Brunswick County,Virginia","Emporia City County,Virginia",1639,32024
+307,"Brunswick County,Virginia","Fairfax City County,Virginia",9992,272420
+308,"Brunswick County,Virginia","Falls Church City County,Virginia",9940,284706
+309,"Brunswick County,Virginia","Franklin City County,Virginia",3725,88494
+310,"Brunswick County,Virginia","Fredericksburg City County,Virginia",7371,204124
+311,"Brunswick County,Virginia","Galax City County,Virginia",13414,368705
+312,"Brunswick County,Virginia","Hampton City County,Virginia",7016,175514
+313,"Brunswick County,Virginia","Harrisonburg City County,Virginia",11107,322076
+314,"Brunswick County,Virginia","Hopewell City County,Virginia",4000,88838
+315,"Brunswick County,Virginia","Lexington City County,Virginia",10684,240371
+316,"Brunswick County,Virginia","Lynchburg City County,Virginia",7564,170260
+317,"Brunswick County,Virginia","Manassas City County,Virginia",9961,270823
+318,"Brunswick County,Virginia","Manassas Park City County,Virginia",10181,268022
+319,"Brunswick County,Virginia","Martinsville City County,Virginia",8750,207346
+320,"Brunswick County,Virginia","Newport News City County,Virginia",7298,184083
+321,"Brunswick County,Virginia","Norfolk City County,Virginia",6270,155980
+322,"Brunswick County,Virginia","Norton City County,Virginia",21118,525975
+323,"Brunswick County,Virginia","Petersburg City County,Virginia",2838,74950
+324,"Brunswick County,Virginia","Poquoson City County,Virginia",7768,188329
+325,"Brunswick County,Virginia","Portsmouth City County,Virginia",6189,153516
+326,"Brunswick County,Virginia","Radford County,Virginia",13414,326036
+327,"Brunswick County,Virginia","Richmond City County,Virginia",4186,111346
+328,"Brunswick County,Virginia","Roanoke City County,Virginia",11059,252445
+329,"Brunswick County,Virginia","Salem City County,Virginia",11409,271044
+330,"Brunswick County,Virginia","South Boston City County,Virginia",4498,106907
+331,"Brunswick County,Virginia","Staunton City County,Virginia",9996,283757
+332,"Brunswick County,Virginia","Suffolk City County,Virginia",5041,121796
+333,"Brunswick County,Virginia","Virginia Beach City County,Virginia",7385,183776
+334,"Brunswick County,Virginia","Waynesboro City County,Virginia",9272,265754
+335,"Brunswick County,Virginia","Williamsburg City County,Virginia",6652,182937
+336,"Brunswick County,Virginia","Winchester City County,Virginia",12818,329693
+337,"Brunswick County,Virginia","Barbour County,West Virginia",20799,500477
+338,"Brunswick County,Virginia","Berkeley County,West Virginia",14599,379875
+339,"Brunswick County,Virginia","Boone County,West Virginia",21767,521315
+340,"Brunswick County,Virginia","Braxton County,West Virginia",21465,501990
+341,"Brunswick County,Virginia","Brooke County,West Virginia",25050,721118
+342,"Brunswick County,Virginia","Cabell County,West Virginia",23334,617221
+343,"Brunswick County,Virginia","Calhoun County,West Virginia",23236,555940
+344,"Brunswick County,Virginia","Clay County,West Virginia",21500,492773
+345,"Brunswick County,Virginia","Doddridge County,West Virginia",24252,562879
+346,"Brunswick County,Virginia","Fayette County,West Virginia",18889,439512
+347,"Brunswick County,Virginia","Gilmer County,West Virginia",23033,551669
+348,"Brunswick County,Virginia","Grant County,West Virginia",16046,433353
+349,"Brunswick County,Virginia","Greenbrier County,West Virginia",17244,398737
+350,"Brunswick County,Virginia","Hampshire County,West Virginia",15123,388951
+351,"Brunswick County,Virginia","Hancock County,West Virginia",25758,729055
+352,"Brunswick County,Virginia","Hardy County,West Virginia",15294,404682
+353,"Brunswick County,Virginia","Harrison County,West Virginia",22896,565347
+354,"Brunswick County,Virginia","Jackson County,West Virginia",22653,597032
+355,"Brunswick County,Virginia","Jefferson County,West Virginia",13497,368309
+356,"Brunswick County,Virginia","Kanawha County,West Virginia",20417,519014
+357,"Brunswick County,Virginia","Lewis County,West Virginia",21940,532842
+358,"Brunswick County,Virginia","Lincoln County,West Virginia",23999,594899
+359,"Brunswick County,Virginia","Logan County,West Virginia",23557,551804
+360,"Brunswick County,Virginia","McDowell County,West Virginia",20315,473440
+361,"Brunswick County,Virginia","Marion County,West Virginia",22368,643978
+362,"Brunswick County,Virginia","Marshall County,West Virginia",26037,715562
+363,"Brunswick County,Virginia","Mason County,West Virginia",22810,603127
+364,"Brunswick County,Virginia","Mercer County,West Virginia",16659,408098
+365,"Brunswick County,Virginia","Mineral County,West Virginia",17520,444876
+366,"Brunswick County,Virginia","Mingo County,West Virginia",24136,615739
+367,"Brunswick County,Virginia","Monongalia County,West Virginia",20191,595718
+368,"Brunswick County,Virginia","Monroe County,West Virginia",16179,385059
+369,"Brunswick County,Virginia","Morgan County,West Virginia",14845,381001
+370,"Brunswick County,Virginia","Nicholas County,West Virginia",19084,452162
+371,"Brunswick County,Virginia","Ohio County,West Virginia",24957,730064
+372,"Brunswick County,Virginia","Pendleton County,West Virginia",14896,393364
+373,"Brunswick County,Virginia","Pleasants County,West Virginia",25694,641488
+374,"Brunswick County,Virginia","Pocahontas County,West Virginia",17355,421458
+375,"Brunswick County,Virginia","Preston County,West Virginia",20226,511804
+376,"Brunswick County,Virginia","Putnam County,West Virginia",21592,568746
+377,"Brunswick County,Virginia","Raleigh County,West Virginia",17442,444195
+378,"Brunswick County,Virginia","Randolph County,West Virginia",18814,453871
+379,"Brunswick County,Virginia","Ritchie County,West Virginia",25605,635790
+380,"Brunswick County,Virginia","Roane County,West Virginia",24279,625847
+381,"Brunswick County,Virginia","Summers County,West Virginia",17394,406218
+382,"Brunswick County,Virginia","Taylor County,West Virginia",20569,529625
+383,"Brunswick County,Virginia","Tucker County,West Virginia",18706,495000
+384,"Brunswick County,Virginia","Tyler County,West Virginia",26621,634154
+385,"Brunswick County,Virginia","Upshur County,West Virginia",21410,489514
+386,"Brunswick County,Virginia","Wayne County,West Virginia",24926,649847
+387,"Brunswick County,Virginia","Webster County,West Virginia",21242,500879
+388,"Brunswick County,Virginia","Wetzel County,West Virginia",25575,616830
+389,"Brunswick County,Virginia","Wirt County,West Virginia",24920,654369
+390,"Brunswick County,Virginia","Wood County,West Virginia",24434,656059
+391,"Brunswick County,Virginia","Wyoming County,West Virginia",19386,484136

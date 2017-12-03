@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Washington County,Ohio","Adair County,Kentucky",20521,538282
+1,"Washington County,Ohio","Allen County,Kentucky",23139,638930
+2,"Washington County,Ohio","Anderson County,Kentucky",16320,441321
+3,"Washington County,Ohio","Ballard County,Kentucky",29299,831092
+4,"Washington County,Ohio","Barren County,Kentucky",22266,597310
+5,"Washington County,Ohio","Bath County,Kentucky",11968,312503
+6,"Washington County,Ohio","Bell County,Kentucky",19826,496253
+7,"Washington County,Ohio","Boone County,Kentucky",13836,353126
+8,"Washington County,Ohio","Bourbon County,Kentucky",13882,358920
+9,"Washington County,Ohio","Boyd County,Kentucky",8643,206827
+10,"Washington County,Ohio","Boyle County,Kentucky",17549,445208
+11,"Washington County,Ohio","Bracken County,Kentucky",12714,307206
+12,"Washington County,Ohio","Breathitt County,Kentucky",15355,353529
+13,"Washington County,Ohio","Breckinridge County,Kentucky",21854,594002
+14,"Washington County,Ohio","Bullitt County,Kentucky",18424,515122
+15,"Washington County,Ohio","Butler County,Kentucky",22519,616000
+16,"Washington County,Ohio","Caldwell County,Kentucky",25411,721946
+17,"Washington County,Ohio","Calloway County,Kentucky",28221,806938
+18,"Washington County,Ohio","Campbell County,Kentucky",13466,342281
+19,"Washington County,Ohio","Carlisle County,Kentucky",29756,846461
+20,"Washington County,Ohio","Carroll County,Kentucky",15410,414892
+21,"Washington County,Ohio","Carter County,Kentucky",9808,236924
+22,"Washington County,Ohio","Casey County,Kentucky",19044,476713
+23,"Washington County,Ohio","Christian County,Kentucky",25060,717202
+24,"Washington County,Ohio","Clay County,Kentucky",17853,440643
+25,"Washington County,Ohio","Clinton County,Kentucky",20928,541648
+26,"Washington County,Ohio","Crittenden County,Kentucky",26990,755016
+27,"Washington County,Ohio","Cumberland County,Kentucky",21682,559887
+28,"Washington County,Ohio","Daviess County,Kentucky",23494,658424
+29,"Washington County,Ohio","Edmonson County,Kentucky",21959,603875
+30,"Washington County,Ohio","Elliott County,Kentucky",11139,262694
+31,"Washington County,Ohio","Estill County,Kentucky",14960,374818
+32,"Washington County,Ohio","Fayette County,Kentucky",14128,378814
+33,"Washington County,Ohio","Fleming County,Kentucky",12426,307791
+34,"Washington County,Ohio","Floyd County,Kentucky",12776,314092
+35,"Washington County,Ohio","Franklin County,Kentucky",16165,427730
+36,"Washington County,Ohio","Fulton County,Kentucky",30160,867425
+37,"Washington County,Ohio","Gallatin County,Kentucky",14621,387305
+38,"Washington County,Ohio","Garrard County,Kentucky",16733,425968
+39,"Washington County,Ohio","Grant County,Kentucky",14688,387779
+40,"Washington County,Ohio","Graves County,Kentucky",28781,819167
+41,"Washington County,Ohio","Grayson County,Kentucky",20846,572636
+42,"Washington County,Ohio","Green County,Kentucky",20626,537841
+43,"Washington County,Ohio","Greenup County,Kentucky",9194,220436
+44,"Washington County,Ohio","Hancock County,Kentucky",22380,612943
+45,"Washington County,Ohio","Hardin County,Kentucky",19722,534769
+46,"Washington County,Ohio","Harlan County,Kentucky",19148,476570
+47,"Washington County,Ohio","Harrison County,Kentucky",15157,359111
+48,"Washington County,Ohio","Hart County,Kentucky",20522,562397
+49,"Washington County,Ohio","Henderson County,Kentucky",25078,700920
+50,"Washington County,Ohio","Henry County,Kentucky",16596,443215
+51,"Washington County,Ohio","Hickman County,Kentucky",29789,847753
+52,"Washington County,Ohio","Hopkins County,Kentucky",24869,696414
+53,"Washington County,Ohio","Jackson County,Kentucky",17633,422826
+54,"Washington County,Ohio","Jefferson County,Kentucky",17812,485374
+55,"Washington County,Ohio","Jessamine County,Kentucky",15597,400278
+56,"Washington County,Ohio","Johnson County,Kentucky",11425,279723
+57,"Washington County,Ohio","Kenton County,Kentucky",13205,340820
+58,"Washington County,Ohio","Knott County,Kentucky",13958,345974
+59,"Washington County,Ohio","Knox County,Kentucky",19136,504860
+60,"Washington County,Ohio","Larue County,Kentucky",19794,521945
+61,"Washington County,Ohio","Laurel County,Kentucky",17987,476255
+62,"Washington County,Ohio","Lawrence County,Kentucky",10566,251147
+63,"Washington County,Ohio","Lee County,Kentucky",15805,368554
+64,"Washington County,Ohio","Leslie County,Kentucky",17038,415647
+65,"Washington County,Ohio","Letcher County,Kentucky",15333,396849
+66,"Washington County,Ohio","Lewis County,Kentucky",10960,270071
+67,"Washington County,Ohio","Lincoln County,Kentucky",17442,442886
+68,"Washington County,Ohio","Livingston County,Kentucky",27586,771913
+69,"Washington County,Ohio","Logan County,Kentucky",24259,659239
+70,"Washington County,Ohio","Lyon County,Kentucky",27720,782303
+71,"Washington County,Ohio","McCracken County,Kentucky",27911,799152
+72,"Washington County,Ohio","McCreary County,Kentucky",20092,520697
+73,"Washington County,Ohio","Madison County,Kentucky",15126,389837
+74,"Washington County,Ohio","Magoffin County,Kentucky",12392,300402
+75,"Washington County,Ohio","Marion County,Kentucky",18172,483554
+76,"Washington County,Ohio","Marshall County,Kentucky",27326,782724
+77,"Washington County,Ohio","Martin County,Kentucky",12052,283492
+78,"Washington County,Ohio","Mason County,Kentucky",12259,286084
+79,"Washington County,Ohio","Meade County,Kentucky",20258,552614
+80,"Washington County,Ohio","Menifee County,Kentucky",13084,324566
+81,"Washington County,Ohio","Mercer County,Kentucky",16548,439265
+82,"Washington County,Ohio","Metcalfe County,Kentucky",21177,568547
+83,"Washington County,Ohio","Monroe County,Kentucky",23147,606051
+84,"Washington County,Ohio","Montgomery County,Kentucky",12781,331043
+85,"Washington County,Ohio","Morgan County,Kentucky",12862,300282
+86,"Washington County,Ohio","Muhlenberg County,Kentucky",23730,662890
+87,"Washington County,Ohio","Nelson County,Kentucky",17779,482626
+88,"Washington County,Ohio","Nicholas County,Kentucky",13448,327526
+89,"Washington County,Ohio","Ohio County,Kentucky",22643,630479
+90,"Washington County,Ohio","Oldham County,Kentucky",16711,456320
+91,"Washington County,Ohio","Owen County,Kentucky",15853,413694
+92,"Washington County,Ohio","Owsley County,Kentucky",16952,388531
+93,"Washington County,Ohio","Pendleton County,Kentucky",14341,364123
+94,"Washington County,Ohio","Perry County,Kentucky",15338,376532
+95,"Washington County,Ohio","Pike County,Kentucky",12634,326966
+96,"Washington County,Ohio","Powell County,Kentucky",14224,360789
+97,"Washington County,Ohio","Robertson County,Kentucky",13369,308499
+98,"Washington County,Ohio","Rockcastle County,Kentucky",16560,430980
+99,"Washington County,Ohio","Rowan County,Kentucky",11110,284710
+100,"Washington County,Ohio","Russell County,Kentucky",20125,522266
+101,"Washington County,Ohio","Scott County,Kentucky",14962,406841
+102,"Washington County,Ohio","Shelby County,Kentucky",16789,458117
+103,"Washington County,Ohio","Simpson County,Kentucky",23841,667296
+104,"Washington County,Ohio","Spencer County,Kentucky",17318,463965
+105,"Washington County,Ohio","Taylor County,Kentucky",19461,515050
+106,"Washington County,Ohio","Todd County,Kentucky",25495,683399
+107,"Washington County,Ohio","Trigg County,Kentucky",26473,743131
+108,"Washington County,Ohio","Trimble County,Kentucky",16309,438216
+109,"Washington County,Ohio","Union County,Kentucky",26798,731366
+110,"Washington County,Ohio","Warren County,Kentucky",22875,632244
+111,"Washington County,Ohio","Washington County,Kentucky",17790,467862
+112,"Washington County,Ohio","Wayne County,Kentucky",20301,519338
+113,"Washington County,Ohio","Webster County,Kentucky",25978,724503
+114,"Washington County,Ohio","Whitley County,Kentucky",18820,510740
+115,"Washington County,Ohio","Wolfe County,Kentucky",13957,323644
+116,"Washington County,Ohio","Woodford County,Kentucky",15182,409477
+117,"Washington County,Ohio","Adams County,Ohio",9185,236726
+118,"Washington County,Ohio","Allen County,Ohio",13258,361838
+119,"Washington County,Ohio","Ashland County,Ohio",9530,230064
+120,"Washington County,Ohio","Ashtabula County,Ohio",12217,350962
+121,"Washington County,Ohio","Athens County,Ohio",3582,84236
+122,"Washington County,Ohio","Auglaize County,Ohio",12871,365532
+123,"Washington County,Ohio","Belmont County,Ohio",5280,139886
+124,"Washington County,Ohio","Brown County,Ohio",10610,269586
+125,"Washington County,Ohio","Butler County,Ohio",13341,360263
+126,"Washington County,Ohio","Carroll County,Ohio",7210,176772
+127,"Washington County,Ohio","Champaign County,Ohio",10615,280426
+128,"Washington County,Ohio","Clark County,Ohio",9492,270998
+129,"Washington County,Ohio","Clermont County,Ohio",11264,294750
+130,"Washington County,Ohio","Clinton County,Ohio",10687,278235
+131,"Washington County,Ohio","Columbiana County,Ohio",9051,231008
+132,"Washington County,Ohio","Coshocton County,Ohio",5845,147889
+133,"Washington County,Ohio","Crawford County,Ohio",11237,293170
+134,"Washington County,Ohio","Cuyahoga County,Ohio",9246,262176
+135,"Washington County,Ohio","Darke County,Ohio",13069,368899
+136,"Washington County,Ohio","Defiance County,Ohio",16693,440159
+137,"Washington County,Ohio","Delaware County,Ohio",8768,246746
+138,"Washington County,Ohio","Fairfield County,Ohio",6765,174176
+139,"Washington County,Ohio","Fayette County,Ohio",9250,248699
+140,"Washington County,Ohio","Franklin County,Ohio",7464,210632
+141,"Washington County,Ohio","Fulton County,Ohio",16089,468094
+142,"Washington County,Ohio","Gallia County,Ohio",5464,124112
+143,"Washington County,Ohio","Geauga County,Ohio",10317,287894
+144,"Washington County,Ohio","Greene County,Ohio",10121,281851
+145,"Washington County,Ohio","Guernsey County,Ohio",3395,85808
+146,"Washington County,Ohio","Hamilton County,Ohio",12842,370840
+147,"Washington County,Ohio","Hancock County,Ohio",12791,355101
+148,"Washington County,Ohio","Hardin County,Ohio",11768,317667
+149,"Washington County,Ohio","Harrison County,Ohio",6215,158838
+150,"Washington County,Ohio","Henry County,Ohio",15504,426723
+151,"Washington County,Ohio","Highland County,Ohio",9723,236739
+152,"Washington County,Ohio","Hocking County,Ohio",5207,130139
+153,"Washington County,Ohio","Holmes County,Ohio",6904,170773
+154,"Washington County,Ohio","Huron County,Ohio",11427,271693
+155,"Washington County,Ohio","Jackson County,Ohio",5709,147290
+156,"Washington County,Ohio","Jefferson County,Ohio",7208,168616
+157,"Washington County,Ohio","Knox County,Ohio",7633,190365
+158,"Washington County,Ohio","Lawrence County,Ohio",8057,163502
+159,"Washington County,Ohio","Licking County,Ohio",7023,171296
+160,"Washington County,Ohio","Logan County,Ohio",10789,311945
+161,"Washington County,Ohio","Lorain County,Ohio",10470,292000
+162,"Washington County,Ohio","Lucas County,Ohio",15043,420944
+163,"Washington County,Ohio","Madison County,Ohio",8741,245354
+164,"Washington County,Ohio","Mahoning County,Ohio",9547,245812
+165,"Washington County,Ohio","Marion County,Ohio",10175,272839
+166,"Washington County,Ohio","Medina County,Ohio",8919,248207
+167,"Washington County,Ohio","Meigs County,Ohio",3547,76814
+168,"Washington County,Ohio","Mercer County,Ohio",14107,392465
+169,"Washington County,Ohio","Miami County,Ohio",11580,334331
+170,"Washington County,Ohio","Monroe County,Ohio",4629,77121
+171,"Washington County,Ohio","Montgomery County,Ohio",11840,339778
+172,"Washington County,Ohio","Morgan County,Ohio",2531,43633
+173,"Washington County,Ohio","Morrow County,Ohio",9598,223187
+174,"Washington County,Ohio","Muskingum County,Ohio",4241,113799
+175,"Washington County,Ohio","Noble County,Ohio",2837,58160
+176,"Washington County,Ohio","Paulding County,Ohio",15794,437744
+177,"Washington County,Ohio","Perry County,Ohio",5056,89501
+178,"Washington County,Ohio","Pickaway County,Ohio",7370,183081
+179,"Washington County,Ohio","Pike County,Ohio",7155,186597
+180,"Washington County,Ohio","Portage County,Ohio",8768,243758
+181,"Washington County,Ohio","Preble County,Ohio",12611,362489
+182,"Washington County,Ohio","Putnam County,Ohio",14380,394196
+183,"Washington County,Ohio","Richland County,Ohio",9885,243404
+184,"Washington County,Ohio","Ross County,Ohio",7435,195104
+185,"Washington County,Ohio","Sandusky County,Ohio",13331,379519
+186,"Washington County,Ohio","Scioto County,Ohio",7794,202668
+187,"Washington County,Ohio","Seneca County,Ohio",13165,347681
+188,"Washington County,Ohio","Shelby County,Ohio",12547,342192
+189,"Washington County,Ohio","Stark County,Ohio",7069,192007
+190,"Washington County,Ohio","Summit County,Ohio",7827,217795
+191,"Washington County,Ohio","Trumbull County,Ohio",10502,272060
+192,"Washington County,Ohio","Tuscarawas County,Ohio",5269,132595
+193,"Washington County,Ohio","Union County,Ohio",9293,262176
+194,"Washington County,Ohio","Van Wert County,Ohio",14492,404708
+195,"Washington County,Ohio","Vinton County,Ohio",5700,132677
+196,"Washington County,Ohio","Warren County,Ohio",11259,326809
+197,"Washington County,Ohio","Wayne County,Ohio",8040,194885
+198,"Washington County,Ohio","Williams County,Ohio",17334,499550
+199,"Washington County,Ohio","Wood County,Ohio",14190,396709
+200,"Washington County,Ohio","Wyandot County,Ohio",11761,319237
+201,"Washington County,Ohio","Accomack County,Virginia",30003,814722
+202,"Washington County,Ohio","Albemarle County,Virginia",18426,534093
+203,"Washington County,Ohio","Alleghany County,Virginia",13095,371116
+204,"Washington County,Ohio","Amelia County,Virginia",23127,634211
+205,"Washington County,Ohio","Amherst County,Virginia",18424,502082
+206,"Washington County,Ohio","Appomattox County,Virginia",20017,540841
+207,"Washington County,Ohio","Arlington County,Virginia",18867,531649
+208,"Washington County,Ohio","Augusta County,Virginia",17037,472432
+209,"Washington County,Ohio","Bath County,Virginia",16107,446425
+210,"Washington County,Ohio","Bedford County,Virginia",18684,488206
+211,"Washington County,Ohio","Bland County,Virginia",12057,337335
+212,"Washington County,Ohio","Botetourt County,Virginia",16250,442415
+213,"Washington County,Ohio","Brunswick County,Virginia",25670,683884
+214,"Washington County,Ohio","Buchanan County,Virginia",16052,421565
+215,"Washington County,Ohio","Buckingham County,Virginia",20300,551776
+216,"Washington County,Ohio","Campbell County,Virginia",19941,543313
+217,"Washington County,Ohio","Caroline County,Virginia",22872,650638
+218,"Washington County,Ohio","Carroll County,Virginia",14303,406773
+219,"Washington County,Ohio","Charles City County,Virginia",23866,699973
+220,"Washington County,Ohio","Charlotte County,Virginia",21902,594361
+221,"Washington County,Ohio","Chesterfield County,Virginia",23002,677757
+222,"Washington County,Ohio","Clarke County,Virginia",16979,432285
+223,"Washington County,Ohio","Craig County,Virginia",14739,392201
+224,"Washington County,Ohio","Culpeper County,Virginia",20101,487188
+225,"Washington County,Ohio","Cumberland County,Virginia",21510,579778
+226,"Washington County,Ohio","Dickenson County,Virginia",16733,416927
+227,"Washington County,Ohio","Dinwiddie County,Virginia",24749,728188
+228,"Washington County,Ohio","Essex County,Virginia",24274,674692
+229,"Washington County,Ohio","Fairfax County,Virginia",18558,522316
+230,"Washington County,Ohio","Fauquier County,Virginia",18531,453915
+231,"Washington County,Ohio","Floyd County,Virginia",15924,425737
+232,"Washington County,Ohio","Fluvanna County,Virginia",20104,586264
+233,"Washington County,Ohio","Franklin County,Virginia",18197,489440
+234,"Washington County,Ohio","Frederick County,Virginia",15769,407006
+235,"Washington County,Ohio","Giles County,Virginia",12788,348894
+236,"Washington County,Ohio","Gloucester County,Virginia",26037,754161
+237,"Washington County,Ohio","Goochland County,Virginia",21008,616875
+238,"Washington County,Ohio","Grayson County,Virginia",14706,396480
+239,"Washington County,Ohio","Greene County,Virginia",20025,445889
+240,"Washington County,Ohio","Greensville County,Virginia",26165,776940
+241,"Washington County,Ohio","Halifax County,Virginia",22606,604460
+242,"Washington County,Ohio","Hanover County,Virginia",22214,657982
+243,"Washington County,Ohio","Henrico County,Virginia",22725,670942
+244,"Washington County,Ohio","Henry County,Virginia",18176,493494
+245,"Washington County,Ohio","Highland County,Virginia",14634,340299
+246,"Washington County,Ohio","Isle of Wight County,Virginia",26978,775519
+247,"Washington County,Ohio","James City County,Virginia",25102,740744
+248,"Washington County,Ohio","King and Queen County,Virginia",24760,716328
+249,"Washington County,Ohio","King George County,Virginia",22832,634499
+250,"Washington County,Ohio","King William County,Virginia",23448,686250
+251,"Washington County,Ohio","Lancaster County,Virginia",26697,730687
+252,"Washington County,Ohio","Lee County,Virginia",18033,465443
+253,"Washington County,Ohio","Loudoun County,Virginia",18475,468151
+254,"Washington County,Ohio","Louisa County,Virginia",20665,599970
+255,"Washington County,Ohio","Lunenburg County,Virginia",23674,635645
+256,"Washington County,Ohio","Madison County,Virginia",20524,475447
+257,"Washington County,Ohio","Mathews County,Virginia",26862,777585
+258,"Washington County,Ohio","Mecklenburg County,Virginia",24665,648770
+259,"Washington County,Ohio","Middlesex County,Virginia",25638,750362
+260,"Washington County,Ohio","Montgomery County,Virginia",13871,376900
+261,"Washington County,Ohio","Nelson County,Virginia",18965,513773
+262,"Washington County,Ohio","New Kent County,Virginia",24538,714658
+263,"Washington County,Ohio","Northampton County,Virginia",29519,857407
+264,"Washington County,Ohio","Northumberland County,Virginia",26736,729199
+265,"Washington County,Ohio","Nottoway County,Virginia",23167,636025
+266,"Washington County,Ohio","Orange County,Virginia",21442,521687
+267,"Washington County,Ohio","Page County,Virginia",18553,431592
+268,"Washington County,Ohio","Patrick County,Virginia",16408,451809
+269,"Washington County,Ohio","Pittsylvania County,Virginia",20492,547702
+270,"Washington County,Ohio","Powhatan County,Virginia",22261,642097
+271,"Washington County,Ohio","Prince Edward County,Virginia",21782,593361
+272,"Washington County,Ohio","Prince George County,Virginia",24513,714772
+273,"Washington County,Ohio","Prince William County,Virginia",18631,460019
+274,"Washington County,Ohio","Pulaski County,Virginia",13966,373232
+275,"Washington County,Ohio","Rappahannock County,Virginia",18842,439053
+276,"Washington County,Ohio","Richmond County,Virginia",25436,701842
+277,"Washington County,Ohio","Roanoke County,Virginia",15491,419694
+278,"Washington County,Ohio","Rockbridge County,Virginia",15428,439472
+279,"Washington County,Ohio","Rockingham County,Virginia",16725,399524
+280,"Washington County,Ohio","Russell County,Virginia",15866,417515
+281,"Washington County,Ohio","Scott County,Virginia",18209,464381
+282,"Washington County,Ohio","Shenandoah County,Virginia",16991,388987
+283,"Washington County,Ohio","Smyth County,Virginia",14415,402687
+284,"Washington County,Ohio","Southampton County,Virginia",26543,773054
+285,"Washington County,Ohio","Spotsylvania County,Virginia",22148,529056
+286,"Washington County,Ohio","Stafford County,Virginia",20532,585603
+287,"Washington County,Ohio","Surry County,Virginia",25846,739605
+288,"Washington County,Ohio","Sussex County,Virginia",25207,743297
+289,"Washington County,Ohio","Tazewell County,Virginia",12873,355923
+290,"Washington County,Ohio","Warren County,Virginia",17171,401716
+291,"Washington County,Ohio","Washington County,Virginia",15808,442154
+292,"Washington County,Ohio","Westmoreland County,Virginia",23800,653300
+293,"Washington County,Ohio","Wise County,Virginia",14998,392826
+294,"Washington County,Ohio","Wythe County,Virginia",12662,355552
+295,"Washington County,Ohio","York County,Virginia",26390,771518
+296,"Washington County,Ohio","Alexandria City County,Virginia",19382,548830
+297,"Washington County,Ohio","Bedford City County,Virginia",17848,479638
+298,"Washington County,Ohio","Bristol City County,Virginia",16283,467871
+299,"Washington County,Ohio","Buena Vista City County,Virginia",15783,453449
+300,"Washington County,Ohio","Charlottesville City County,Virginia",18896,549307
+301,"Washington County,Ohio","Chesapeake City County,Virginia",27853,824424
+302,"Washington County,Ohio","Clifton Forge City County,Virginia",13639,391322
+303,"Washington County,Ohio","Colonial Heights City County,Virginia",23562,693649
+304,"Washington County,Ohio","Covington City County,Virginia",13164,374701
+305,"Washington County,Ohio","Danville City County,Virginia",20334,547950
+306,"Washington County,Ohio","Emporia City County,Virginia",25873,763533
+307,"Washington County,Ohio","Fairfax City County,Virginia",19028,533949
+308,"Washington County,Ohio","Falls Church City County,Virginia",18575,525961
+309,"Washington County,Ohio","Franklin City County,Virginia",27091,780909
+310,"Washington County,Ohio","Fredericksburg City County,Virginia",21345,601193
+311,"Washington County,Ohio","Galax City County,Virginia",14926,412639
+312,"Washington County,Ohio","Hampton City County,Virginia",26340,781225
+313,"Washington County,Ohio","Harrisonburg City County,Virginia",17320,396463
+314,"Washington County,Ohio","Hopewell City County,Virginia",23598,692615
+315,"Washington County,Ohio","Lexington City County,Virginia",15417,441941
+316,"Washington County,Ohio","Lynchburg City County,Virginia",19000,517055
+317,"Washington County,Ohio","Manassas City County,Virginia",18858,464964
+318,"Washington County,Ohio","Manassas Park City County,Virginia",19360,471307
+319,"Washington County,Ohio","Martinsville City County,Virginia",18704,502287
+320,"Washington County,Ohio","Newport News City County,Virginia",25897,767710
+321,"Washington County,Ohio","Norfolk City County,Virginia",27646,806641
+322,"Washington County,Ohio","Norton City County,Virginia",15626,404638
+323,"Washington County,Ohio","Petersburg City County,Virginia",23434,694637
+324,"Washington County,Ohio","Poquoson City County,Virginia",26568,778287
+325,"Washington County,Ohio","Portsmouth City County,Virginia",27585,815461
+326,"Washington County,Ohio","Radford County,Virginia",14279,374941
+327,"Washington County,Ohio","Richmond City County,Virginia",22302,658752
+328,"Washington County,Ohio","Roanoke City County,Virginia",16093,439799
+329,"Washington County,Ohio","Salem City County,Virginia",15505,426349
+330,"Washington County,Ohio","South Boston City County,Virginia",22346,602128
+331,"Washington County,Ohio","Staunton City County,Virginia",17188,496584
+332,"Washington County,Ohio","Suffolk City County,Virginia",27821,790243
+333,"Washington County,Ohio","Virginia Beach City County,Virginia",28207,829899
+334,"Washington County,Ohio","Waynesboro City County,Virginia",17526,509302
+335,"Washington County,Ohio","Williamsburg City County,Virginia",24941,739960
+336,"Washington County,Ohio","Winchester City County,Virginia",15908,410810
+337,"Washington County,Ohio","Barbour County,West Virginia",7761,183211
+338,"Washington County,Ohio","Berkeley County,West Virginia",15322,409666
+339,"Washington County,Ohio","Boone County,West Virginia",8808,216114
+340,"Washington County,Ohio","Braxton County,West Virginia",9674,168103
+341,"Washington County,Ohio","Brooke County,West Virginia",7359,182134
+342,"Washington County,Ohio","Cabell County,West Virginia",7996,175437
+343,"Washington County,Ohio","Calhoun County,West Virginia",5900,113088
+344,"Washington County,Ohio","Clay County,West Virginia",8479,225543
+345,"Washington County,Ohio","Doddridge County,West Virginia",4748,108928
+346,"Washington County,Ohio","Fayette County,West Virginia",9975,250219
+347,"Washington County,Ohio","Gilmer County,West Virginia",7034,128092
+348,"Washington County,Ohio","Grant County,West Virginia",12895,296606
+349,"Washington County,Ohio","Greenbrier County,West Virginia",13050,328257
+350,"Washington County,Ohio","Hampshire County,West Virginia",14576,371270
+351,"Washington County,Ohio","Hancock County,West Virginia",8948,216670
+352,"Washington County,Ohio","Hardy County,West Virginia",13982,324209
+353,"Washington County,Ohio","Harrison County,West Virginia",5830,141922
+354,"Washington County,Ohio","Jackson County,West Virginia",4113,97733
+355,"Washington County,Ohio","Jefferson County,West Virginia",16787,465664
+356,"Washington County,Ohio","Kanawha County,West Virginia",7284,184283
+357,"Washington County,Ohio","Lewis County,West Virginia",7523,144073
+358,"Washington County,Ohio","Lincoln County,West Virginia",9066,210701
+359,"Washington County,Ohio","Logan County,West Virginia",9738,253232
+360,"Washington County,Ohio","McDowell County,West Virginia",13647,331595
+361,"Washington County,Ohio","Marion County,West Virginia",7767,185045
+362,"Washington County,Ohio","Marshall County,West Virginia",7212,131301
+363,"Washington County,Ohio","Mason County,West Virginia",5308,125240
+364,"Washington County,Ohio","Mercer County,West Virginia",10611,295842
+365,"Washington County,Ohio","Mineral County,West Virginia",13455,345821
+366,"Washington County,Ohio","Mingo County,West Virginia",9783,257740
+367,"Washington County,Ohio","Monongalia County,West Virginia",7978,210513
+368,"Washington County,Ohio","Monroe County,West Virginia",13656,340553
+369,"Washington County,Ohio","Morgan County,West Virginia",14813,399058
+370,"Washington County,Ohio","Nicholas County,West Virginia",10195,285424
+371,"Washington County,Ohio","Ohio County,West Virginia",6378,163371
+372,"Washington County,Ohio","Pendleton County,West Virginia",14147,341732
+373,"Washington County,Ohio","Pleasants County,West Virginia",2907,44872
+374,"Washington County,Ohio","Pocahontas County,West Virginia",14439,322964
+375,"Washington County,Ohio","Preston County,West Virginia",10124,237244
+376,"Washington County,Ohio","Putnam County,West Virginia",6659,184548
+377,"Washington County,Ohio","Raleigh County,West Virginia",9152,249535
+378,"Washington County,Ohio","Randolph County,West Virginia",9825,239859
+379,"Washington County,Ohio","Ritchie County,West Virginia",3913,81970
+380,"Washington County,Ohio","Roane County,West Virginia",5738,126549
+381,"Washington County,Ohio","Summers County,West Virginia",12604,310972
+382,"Washington County,Ohio","Taylor County,West Virginia",7660,180617
+383,"Washington County,Ohio","Tucker County,West Virginia",10326,233938
+384,"Washington County,Ohio","Tyler County,West Virginia",4786,83543
+385,"Washington County,Ohio","Upshur County,West Virginia",8800,214300
+386,"Washington County,Ohio","Wayne County,West Virginia",9691,217714
+387,"Washington County,Ohio","Webster County,West Virginia",12328,226419
+388,"Washington County,Ohio","Wetzel County,West Virginia",5923,109160
+389,"Washington County,Ohio","Wirt County,West Virginia",3357,62197
+390,"Washington County,Ohio","Wood County,West Virginia",2119,37394
+391,"Washington County,Ohio","Wyoming County,West Virginia",11097,289476

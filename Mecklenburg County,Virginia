@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Mecklenburg County,Virginia","Adair County,Kentucky",31602,785120
+1,"Mecklenburg County,Virginia","Allen County,Kentucky",32998,904930
+2,"Mecklenburg County,Virginia","Anderson County,Kentucky",30658,838577
+3,"Mecklenburg County,Virginia","Ballard County,Kentucky",39902,1140185
+4,"Mecklenburg County,Virginia","Barren County,Kentucky",32787,863875
+5,"Mecklenburg County,Virginia","Bath County,Kentucky",26306,709759
+6,"Mecklenburg County,Virginia","Bell County,Kentucky",24097,586427
+7,"Mecklenburg County,Virginia","Boone County,Kentucky",32118,831152
+8,"Mecklenburg County,Virginia","Bourbon County,Kentucky",28219,756176
+9,"Mecklenburg County,Virginia","Boyd County,Kentucky",22981,604083
+10,"Mecklenburg County,Virginia","Boyle County,Kentucky",30779,759276
+11,"Mecklenburg County,Virginia","Bracken County,Kentucky",28630,750259
+12,"Mecklenburg County,Virginia","Breathitt County,Kentucky",25721,622190
+13,"Mecklenburg County,Virginia","Breckinridge County,Kentucky",36192,991259
+14,"Mecklenburg County,Virginia","Bullitt County,Kentucky",32762,912378
+15,"Mecklenburg County,Virginia","Butler County,Kentucky",35458,975135
+16,"Mecklenburg County,Virginia","Caldwell County,Kentucky",37042,1047999
+17,"Mecklenburg County,Virginia","Calloway County,Kentucky",37743,1072044
+18,"Mecklenburg County,Virginia","Campbell County,Kentucky",30331,790130
+19,"Mecklenburg County,Virginia","Carlisle County,Kentucky",40359,1155553
+20,"Mecklenburg County,Virginia","Carroll County,Kentucky",33203,886392
+21,"Mecklenburg County,Virginia","Carter County,Kentucky",24146,634180
+22,"Mecklenburg County,Virginia","Casey County,Kentucky",31539,758395
+23,"Mecklenburg County,Virginia","Christian County,Kentucky",34636,993024
+24,"Mecklenburg County,Virginia","Clay County,Kentucky",26669,646769
+25,"Mecklenburg County,Virginia","Clinton County,Kentucky",30045,784335
+26,"Mecklenburg County,Virginia","Crittenden County,Kentucky",38306,1080759
+27,"Mecklenburg County,Virginia","Cumberland County,Kentucky",30924,805004
+28,"Mecklenburg County,Virginia","Daviess County,Kentucky",37892,1048929
+29,"Mecklenburg County,Virginia","Edmonson County,Kentucky",34767,917238
+30,"Mecklenburg County,Virginia","Elliott County,Kentucky",25476,659950
+31,"Mecklenburg County,Virginia","Estill County,Kentucky",29298,772074
+32,"Mecklenburg County,Virginia","Fayette County,Kentucky",28465,776070
+33,"Mecklenburg County,Virginia","Fleming County,Kentucky",26732,712944
+34,"Mecklenburg County,Virginia","Floyd County,Kentucky",24382,599499
+35,"Mecklenburg County,Virginia","Franklin County,Kentucky",30503,824987
+36,"Mecklenburg County,Virginia","Fulton County,Kentucky",40763,1176518
+37,"Mecklenburg County,Virginia","Gallatin County,Kentucky",32201,877051
+38,"Mecklenburg County,Virginia","Garrard County,Kentucky",30448,744063
+39,"Mecklenburg County,Virginia","Grant County,Kentucky",31000,851158
+40,"Mecklenburg County,Virginia","Graves County,Kentucky",39384,1128260
+41,"Mecklenburg County,Virginia","Grayson County,Kentucky",35184,969892
+42,"Mecklenburg County,Virginia","Green County,Kentucky",33354,827285
+43,"Mecklenburg County,Virginia","Greenup County,Kentucky",24757,645209
+44,"Mecklenburg County,Virginia","Hancock County,Kentucky",36987,1024152
+45,"Mecklenburg County,Virginia","Hardin County,Kentucky",34060,932025
+46,"Mecklenburg County,Virginia","Harlan County,Kentucky",23172,563053
+47,"Mecklenburg County,Virginia","Harrison County,Kentucky",29790,789276
+48,"Mecklenburg County,Virginia","Hart County,Kentucky",34704,873563
+49,"Mecklenburg County,Virginia","Henderson County,Kentucky",38394,1102157
+50,"Mecklenburg County,Virginia","Henry County,Kentucky",32104,868705
+51,"Mecklenburg County,Virginia","Hickman County,Kentucky",40392,1156845
+52,"Mecklenburg County,Virginia","Hopkins County,Kentucky",37163,1058276
+53,"Mecklenburg County,Virginia","Jackson County,Kentucky",28541,683188
+54,"Mecklenburg County,Virginia","Jefferson County,Kentucky",32198,884239
+55,"Mecklenburg County,Virginia","Jessamine County,Kentucky",29934,797534
+56,"Mecklenburg County,Virginia","Johnson County,Kentucky",24997,616729
+57,"Mecklenburg County,Virginia","Kenton County,Kentucky",31488,818846
+58,"Mecklenburg County,Virginia","Knott County,Kentucky",23262,564940
+59,"Mecklenburg County,Virginia","Knox County,Kentucky",25427,628419
+60,"Mecklenburg County,Virginia","Larue County,Kentucky",34132,919201
+61,"Mecklenburg County,Virginia","Laurel County,Kentucky",27321,663247
+62,"Mecklenburg County,Virginia","Lawrence County,Kentucky",24904,648403
+63,"Mecklenburg County,Virginia","Lee County,Kentucky",27832,663380
+64,"Mecklenburg County,Virginia","Leslie County,Kentucky",24634,591333
+65,"Mecklenburg County,Virginia","Letcher County,Kentucky",21662,528487
+66,"Mecklenburg County,Virginia","Lewis County,Kentucky",26184,685998
+67,"Mecklenburg County,Virginia","Lincoln County,Kentucky",30010,743643
+68,"Mecklenburg County,Virginia","Livingston County,Kentucky",38233,1094124
+69,"Mecklenburg County,Virginia","Logan County,Kentucky",35068,945924
+70,"Mecklenburg County,Virginia","Lyon County,Kentucky",37990,1071298
+71,"Mecklenburg County,Virginia","McCracken County,Kentucky",38514,1108245
+72,"Mecklenburg County,Virginia","McCreary County,Kentucky",27051,721181
+73,"Mecklenburg County,Virginia","Madison County,Kentucky",29467,741493
+74,"Mecklenburg County,Virginia","Magoffin County,Kentucky",25341,620705
+75,"Mecklenburg County,Virginia","Marion County,Kentucky",32477,797881
+76,"Mecklenburg County,Virginia","Marshall County,Kentucky",37929,1091817
+77,"Mecklenburg County,Virginia","Martin County,Kentucky",26018,630127
+78,"Mecklenburg County,Virginia","Mason County,Kentucky",27979,729805
+79,"Mecklenburg County,Virginia","Meade County,Kentucky",34659,956553
+80,"Mecklenburg County,Virginia","Menifee County,Kentucky",27422,721822
+81,"Mecklenburg County,Virginia","Mercer County,Kentucky",30886,836521
+82,"Mecklenburg County,Virginia","Metcalfe County,Kentucky",32258,815385
+83,"Mecklenburg County,Virginia","Monroe County,Kentucky",31485,835424
+84,"Mecklenburg County,Virginia","Montgomery County,Kentucky",27119,728299
+85,"Mecklenburg County,Virginia","Morgan County,Kentucky",27200,697538
+86,"Mecklenburg County,Virginia","Muhlenberg County,Kentucky",36848,1028387
+87,"Mecklenburg County,Virginia","Nelson County,Kentucky",32117,879882
+88,"Mecklenburg County,Virginia","Nicholas County,Kentucky",28797,756182
+89,"Mecklenburg County,Virginia","Ohio County,Kentucky",36993,1016965
+90,"Mecklenburg County,Virginia","Oldham County,Kentucky",32270,896120
+91,"Mecklenburg County,Virginia","Owen County,Kentucky",31325,851764
+92,"Mecklenburg County,Virginia","Owsley County,Kentucky",27859,660065
+93,"Mecklenburg County,Virginia","Pendleton County,Kentucky",30568,791183
+94,"Mecklenburg County,Virginia","Perry County,Kentucky",24235,585363
+95,"Mecklenburg County,Virginia","Pike County,Kentucky",22757,534013
+96,"Mecklenburg County,Virginia","Powell County,Kentucky",28363,686727
+97,"Mecklenburg County,Virginia","Robertson County,Kentucky",28714,755688
+98,"Mecklenburg County,Virginia","Rockcastle County,Kentucky",28492,705242
+99,"Mecklenburg County,Virginia","Rowan County,Kentucky",25448,681966
+100,"Mecklenburg County,Virginia","Russell County,Kentucky",31206,769104
+101,"Mecklenburg County,Virginia","Scott County,Kentucky",29300,804097
+102,"Mecklenburg County,Virginia","Shelby County,Kentucky",31127,855373
+103,"Mecklenburg County,Virginia","Simpson County,Kentucky",34035,921900
+104,"Mecklenburg County,Virginia","Spencer County,Kentucky",31656,861221
+105,"Mecklenburg County,Virginia","Taylor County,Kentucky",32956,809380
+106,"Mecklenburg County,Virginia","Todd County,Kentucky",35051,985971
+107,"Mecklenburg County,Virginia","Trigg County,Kentucky",35543,1010383
+108,"Mecklenburg County,Virginia","Trimble County,Kentucky",33343,902160
+109,"Mecklenburg County,Virginia","Union County,Kentucky",39812,1122517
+110,"Mecklenburg County,Virginia","Warren County,Kentucky",34460,944568
+111,"Mecklenburg County,Virginia","Washington County,Kentucky",32127,865118
+112,"Mecklenburg County,Virginia","Wayne County,Kentucky",29556,768312
+113,"Mecklenburg County,Virginia","Webster County,Kentucky",38272,1086365
+114,"Mecklenburg County,Virginia","Whitley County,Kentucky",25655,705943
+115,"Mecklenburg County,Virginia","Wolfe County,Kentucky",27215,654274
+116,"Mecklenburg County,Virginia","Woodford County,Kentucky",29519,806733
+117,"Mecklenburg County,Virginia","Adams County,Ohio",28072,732361
+118,"Mecklenburg County,Virginia","Allen County,Ohio",34804,907778
+119,"Mecklenburg County,Virginia","Ashland County,Ohio",32549,861670
+120,"Mecklenburg County,Virginia","Ashtabula County,Ohio",31050,911053
+121,"Mecklenburg County,Virginia","Athens County,Ohio",24480,637960
+122,"Mecklenburg County,Virginia","Auglaize County,Ohio",34054,924478
+123,"Mecklenburg County,Virginia","Belmont County,Ohio",27620,807348
+124,"Mecklenburg County,Virginia","Brown County,Ohio",29316,759289
+125,"Mecklenburg County,Virginia","Butler County,Ohio",32429,841314
+126,"Mecklenburg County,Virginia","Carroll County,Ohio",29566,823274
+127,"Mecklenburg County,Virginia","Champaign County,Ohio",31358,826576
+128,"Mecklenburg County,Virginia","Clark County,Ohio",30037,786120
+129,"Mecklenburg County,Virginia","Clermont County,Ohio",30150,790385
+130,"Mecklenburg County,Virginia","Clinton County,Ohio",29541,773801
+131,"Mecklenburg County,Virginia","Columbiana County,Ohio",28353,805290
+132,"Mecklenburg County,Virginia","Coshocton County,Ohio",28864,779495
+133,"Mecklenburg County,Virginia","Crawford County,Ohio",33156,872830
+134,"Mecklenburg County,Virginia","Cuyahoga County,Ohio",31046,908896
+135,"Mecklenburg County,Virginia","Darke County,Ohio",33152,881525
+136,"Mecklenburg County,Virginia","Defiance County,Ohio",38240,986099
+137,"Mecklenburg County,Virginia","Delaware County,Ohio",30310,805567
+138,"Mecklenburg County,Virginia","Fairfield County,Ohio",27840,732661
+139,"Mecklenburg County,Virginia","Fayette County,Ohio",28105,744265
+140,"Mecklenburg County,Virginia","Franklin County,Ohio",28841,762516
+141,"Mecklenburg County,Virginia","Fulton County,Ohio",37717,1114711
+142,"Mecklenburg County,Virginia","Gallia County,Ohio",23418,603377
+143,"Mecklenburg County,Virginia","Geauga County,Ohio",30540,883715
+144,"Mecklenburg County,Virginia","Greene County,Ohio",28975,777418
+145,"Mecklenburg County,Virginia","Guernsey County,Ohio",26414,717414
+146,"Mecklenburg County,Virginia","Hamilton County,Ohio",31930,851892
+147,"Mecklenburg County,Virginia","Hancock County,Ohio",34333,913922
+148,"Mecklenburg County,Virginia","Hardin County,Ohio",33315,863608
+149,"Mecklenburg County,Virginia","Harrison County,Ohio",28780,825491
+150,"Mecklenburg County,Virginia","Henry County,Ohio",37046,985544
+151,"Mecklenburg County,Virginia","Highland County,Ohio",28609,732375
+152,"Mecklenburg County,Virginia","Hocking County,Ohio",26282,688624
+153,"Mecklenburg County,Virginia","Holmes County,Ohio",29923,802379
+154,"Mecklenburg County,Virginia","Huron County,Ohio",34446,903298
+155,"Mecklenburg County,Virginia","Jackson County,Ohio",24596,642926
+156,"Mecklenburg County,Virginia","Jefferson County,Ohio",27522,786765
+157,"Mecklenburg County,Virginia","Knox County,Ohio",30652,821971
+158,"Mecklenburg County,Virginia","Lawrence County,Ohio",24121,609140
+159,"Mecklenburg County,Virginia","Licking County,Ohio",29785,759671
+160,"Mecklenburg County,Virginia","Logan County,Ohio",32336,857885
+161,"Mecklenburg County,Virginia","Lorain County,Ohio",32098,938617
+162,"Mecklenburg County,Virginia","Lucas County,Ohio",36671,1067561
+163,"Mecklenburg County,Virginia","Madison County,Ohio",29806,767350
+164,"Mecklenburg County,Virginia","Mahoning County,Ohio",27537,801045
+165,"Mecklenburg County,Virginia","Marion County,Ohio",31716,831660
+166,"Mecklenburg County,Virginia","Medina County,Ohio",31685,923703
+167,"Mecklenburg County,Virginia","Meigs County,Ohio",23361,608931
+168,"Mecklenburg County,Virginia","Mercer County,Ohio",35290,951412
+169,"Mecklenburg County,Virginia","Miami County,Ohio",31640,846917
+170,"Mecklenburg County,Virginia","Monroe County,Ohio",27350,706605
+171,"Mecklenburg County,Virginia","Montgomery County,Ohio",31010,824873
+172,"Mecklenburg County,Virginia","Morgan County,Ohio",26356,693253
+173,"Mecklenburg County,Virginia","Morrow County,Ohio",31117,828388
+174,"Mecklenburg County,Virginia","Muskingum County,Ohio",27260,745405
+175,"Mecklenburg County,Virginia","Noble County,Ohio",25856,689766
+176,"Mecklenburg County,Virginia","Paulding County,Ohio",37341,983684
+177,"Mecklenburg County,Virginia","Perry County,Ohio",27698,703381
+178,"Mecklenburg County,Virginia","Pickaway County,Ohio",27545,724364
+179,"Mecklenburg County,Virginia","Pike County,Ohio",26042,682233
+180,"Mecklenburg County,Virginia","Portage County,Ohio",29391,857058
+181,"Mecklenburg County,Virginia","Preble County,Ohio",32629,853451
+182,"Mecklenburg County,Virginia","Putnam County,Ohio",35927,940137
+183,"Mecklenburg County,Virginia","Richland County,Ohio",32147,863626
+184,"Mecklenburg County,Virginia","Ross County,Ohio",26290,690670
+185,"Mecklenburg County,Virginia","Sandusky County,Ohio",34959,1026136
+186,"Mecklenburg County,Virginia","Scioto County,Ohio",25926,666413
+187,"Mecklenburg County,Virginia","Seneca County,Ohio",34707,906502
+188,"Mecklenburg County,Virginia","Shelby County,Ohio",32679,883203
+189,"Mecklenburg County,Virginia","Stark County,Ohio",30088,823613
+190,"Mecklenburg County,Virginia","Summit County,Ohio",30449,882873
+191,"Mecklenburg County,Virginia","Trumbull County,Ohio",28694,838509
+192,"Mecklenburg County,Virginia","Tuscarawas County,Ohio",28288,764200
+193,"Mecklenburg County,Virginia","Union County,Ohio",30840,808116
+194,"Mecklenburg County,Virginia","Van Wert County,Ohio",36038,950648
+195,"Mecklenburg County,Virginia","Vinton County,Ohio",26491,668431
+196,"Mecklenburg County,Virginia","Warren County,Ohio",30347,807860
+197,"Mecklenburg County,Virginia","Washington County,Ohio",24715,647702
+198,"Mecklenburg County,Virginia","Wayne County,Ohio",31059,826491
+199,"Mecklenburg County,Virginia","Williams County,Ohio",38962,1146168
+200,"Mecklenburg County,Virginia","Wood County,Ohio",35731,955530
+201,"Mecklenburg County,Virginia","Wyandot County,Ohio",33303,878058
+202,"Mecklenburg County,Virginia","Accomack County,Virginia",14316,340343
+203,"Mecklenburg County,Virginia","Albemarle County,Virginia",9156,189800
+204,"Mecklenburg County,Virginia","Alleghany County,Virginia",12510,286732
+205,"Mecklenburg County,Virginia","Amelia County,Virginia",5134,105721
+206,"Mecklenburg County,Virginia","Amherst County,Virginia",7368,157872
+207,"Mecklenburg County,Virginia","Appomattox County,Virginia",5465,110895
+208,"Mecklenburg County,Virginia","Arlington County,Virginia",11539,329538
+209,"Mecklenburg County,Virginia","Augusta County,Virginia",11352,245661
+210,"Mecklenburg County,Virginia","Bath County,Virginia",13031,280060
+211,"Mecklenburg County,Virginia","Bedford County,Virginia",7871,153543
+212,"Mecklenburg County,Virginia","Bland County,Virginia",13364,325744
+213,"Mecklenburg County,Virginia","Botetourt County,Virginia",10806,223115
+214,"Mecklenburg County,Virginia","Brunswick County,Virginia",2920,58817
+215,"Mecklenburg County,Virginia","Buchanan County,Virginia",19120,460203
+216,"Mecklenburg County,Virginia","Buckingham County,Virginia",5812,120575
+217,"Mecklenburg County,Virginia","Campbell County,Virginia",5693,110665
+218,"Mecklenburg County,Virginia","Caroline County,Virginia",8268,226897
+219,"Mecklenburg County,Virginia","Carroll County,Virginia",11305,261269
+220,"Mecklenburg County,Virginia","Charles City County,Virginia",6643,161805
+221,"Mecklenburg County,Virginia","Charlotte County,Virginia",3094,56236
+222,"Mecklenburg County,Virginia","Chesterfield County,Virginia",6112,147262
+223,"Mecklenburg County,Virginia","Clarke County,Virginia",14219,372013
+224,"Mecklenburg County,Virginia","Craig County,Virginia",12769,278329
+225,"Mecklenburg County,Virginia","Culpeper County,Virginia",11518,302742
+226,"Mecklenburg County,Virginia","Cumberland County,Virginia",5958,118796
+227,"Mecklenburg County,Virginia","Dickenson County,Virginia",19830,478381
+228,"Mecklenburg County,Virginia","Dinwiddie County,Virginia",4064,100922
+229,"Mecklenburg County,Virginia","Essex County,Virginia",9767,242741
+230,"Mecklenburg County,Virginia","Fairfax County,Virginia",11836,332767
+231,"Mecklenburg County,Virginia","Fauquier County,Virginia",11532,312780
+232,"Mecklenburg County,Virginia","Floyd County,Virginia",10749,241795
+233,"Mecklenburg County,Virginia","Fluvanna County,Virginia",7961,169500
+234,"Mecklenburg County,Virginia","Franklin County,Virginia",8104,171277
+235,"Mecklenburg County,Virginia","Frederick County,Virginia",14775,405076
+236,"Mecklenburg County,Virginia","Giles County,Virginia",13589,317045
+237,"Mecklenburg County,Virginia","Gloucester County,Virginia",9526,246268
+238,"Mecklenburg County,Virginia","Goochland County,Virginia",7739,160711
+239,"Mecklenburg County,Virginia","Grayson County,Virginia",13618,311519
+240,"Mecklenburg County,Virginia","Greene County,Virginia",11445,235218
+241,"Mecklenburg County,Virginia","Greensville County,Virginia",4594,93245
+242,"Mecklenburg County,Virginia","Halifax County,Virginia",2937,59215
+243,"Mecklenburg County,Virginia","Hanover County,Virginia",6753,177856
+244,"Mecklenburg County,Virginia","Henrico County,Virginia",5993,161695
+245,"Mecklenburg County,Virginia","Henry County,Virginia",7296,173166
+246,"Mecklenburg County,Virginia","Highland County,Virginia",14554,303400
+247,"Mecklenburg County,Virginia","Isle of Wight County,Virginia",7877,188541
+248,"Mecklenburg County,Virginia","James City County,Virginia",8234,197250
+249,"Mecklenburg County,Virginia","King and Queen County,Virginia",8944,232088
+250,"Mecklenburg County,Virginia","King George County,Virginia",9381,254883
+251,"Mecklenburg County,Virginia","King William County,Virginia",7632,202010
+252,"Mecklenburg County,Virginia","Lancaster County,Virginia",11392,282308
+253,"Mecklenburg County,Virginia","Lee County,Virginia",20324,510035
+254,"Mecklenburg County,Virginia","Loudoun County,Virginia",13803,386012
+255,"Mecklenburg County,Virginia","Louisa County,Virginia",8913,244976
+256,"Mecklenburg County,Virginia","Lunenburg County,Virginia",2908,54850
+257,"Mecklenburg County,Virginia","Madison County,Virginia",11560,244785
+258,"Mecklenburg County,Virginia","Mathews County,Virginia",10350,269692
+259,"Mecklenburg County,Virginia","Middlesex County,Virginia",9127,242469
+260,"Mecklenburg County,Virginia","Montgomery County,Virginia",12153,281316
+261,"Mecklenburg County,Virginia","Nelson County,Virginia",7747,161742
+262,"Mecklenburg County,Virginia","New Kent County,Virginia",8027,206765
+263,"Mecklenburg County,Virginia","Northampton County,Virginia",11559,276157
+264,"Mecklenburg County,Virginia","Northumberland County,Virginia",11464,283608
+265,"Mecklenburg County,Virginia","Nottoway County,Virginia",4283,84887
+266,"Mecklenburg County,Virginia","Orange County,Virginia",10641,221091
+267,"Mecklenburg County,Virginia","Page County,Virginia",13719,286902
+268,"Mecklenburg County,Virginia","Patrick County,Virginia",8878,212074
+269,"Mecklenburg County,Virginia","Pittsylvania County,Virginia",5661,129167
+270,"Mecklenburg County,Virginia","Powhatan County,Virginia",6603,138399
+271,"Mecklenburg County,Virginia","Prince Edward County,Virginia",3503,72835
+272,"Mecklenburg County,Virginia","Prince George County,Virginia",5613,141477
+273,"Mecklenburg County,Virginia","Prince William County,Virginia",11996,322616
+274,"Mecklenburg County,Virginia","Pulaski County,Virginia",12880,303949
+275,"Mecklenburg County,Virginia","Rappahannock County,Virginia",13090,279611
+276,"Mecklenburg County,Virginia","Richmond County,Virginia",10164,256251
+277,"Mecklenburg County,Virginia","Roanoke County,Virginia",11144,246254
+278,"Mecklenburg County,Virginia","Rockbridge County,Virginia",10501,214680
+279,"Mecklenburg County,Virginia","Rockingham County,Virginia",12710,285807
+280,"Mecklenburg County,Virginia","Russell County,Virginia",18286,443540
+281,"Mecklenburg County,Virginia","Scott County,Virginia",18898,470763
+282,"Mecklenburg County,Virginia","Shenandoah County,Virginia",13215,315910
+283,"Mecklenburg County,Virginia","Smyth County,Virginia",14480,354485
+284,"Mecklenburg County,Virginia","Southampton County,Virginia",5732,133759
+285,"Mecklenburg County,Virginia","Spotsylvania County,Virginia",9278,249847
+286,"Mecklenburg County,Virginia","Stafford County,Virginia",9350,267319
+287,"Mecklenburg County,Virginia","Surry County,Virginia",7302,174958
+288,"Mecklenburg County,Virginia","Sussex County,Virginia",5055,124896
+289,"Mecklenburg County,Virginia","Tazewell County,Virginia",15941,394562
+290,"Mecklenburg County,Virginia","Warren County,Virginia",14002,374486
+291,"Mecklenburg County,Virginia","Washington County,Virginia",15874,393951
+292,"Mecklenburg County,Virginia","Westmoreland County,Virginia",10356,271708
+293,"Mecklenburg County,Virginia","Wise County,Virginia",19737,484883
+294,"Mecklenburg County,Virginia","Wythe County,Virginia",12734,306470
+295,"Mecklenburg County,Virginia","York County,Virginia",9879,263625
+296,"Mecklenburg County,Virginia","Alexandria City County,Virginia",11511,326586
+297,"Mecklenburg County,Virginia","Bedford City County,Virginia",7940,171835
+298,"Mecklenburg County,Virginia","Bristol City County,Virginia",16349,419669
+299,"Mecklenburg County,Virginia","Buena Vista City County,Virginia",9255,196310
+300,"Mecklenburg County,Virginia","Charlottesville City County,Virginia",8652,181936
+301,"Mecklenburg County,Virginia","Chesapeake City County,Virginia",8951,215520
+302,"Mecklenburg County,Virginia","Clifton Forge City County,Virginia",11412,255551
+303,"Mecklenburg County,Virginia","Colonial Heights City County,Virginia",4866,126182
+304,"Mecklenburg County,Virginia","Covington City County,Virginia",12155,273893
+305,"Mecklenburg County,Virginia","Danville City County,Virginia",4752,104140
+306,"Mecklenburg County,Virginia","Emporia City County,Virginia",4273,90424
+307,"Mecklenburg County,Virginia","Fairfax City County,Virginia",11770,321550
+308,"Mecklenburg County,Virginia","Falls Church City County,Virginia",11718,333836
+309,"Mecklenburg County,Virginia","Franklin City County,Virginia",6359,146894
+310,"Mecklenburg County,Virginia","Fredericksburg City County,Virginia",9149,253254
+311,"Mecklenburg County,Virginia","Galax City County,Virginia",12146,280023
+312,"Mecklenburg County,Virginia","Hampton City County,Virginia",9650,233915
+313,"Mecklenburg County,Virginia","Harrisonburg City County,Virginia",11770,265703
+314,"Mecklenburg County,Virginia","Hopewell City County,Virginia",5778,137967
+315,"Mecklenburg County,Virginia","Lexington City County,Virginia",9786,205495
+316,"Mecklenburg County,Virginia","Lynchburg City County,Virginia",6666,135383
+317,"Mecklenburg County,Virginia","Manassas City County,Virginia",11739,319953
+318,"Mecklenburg County,Virginia","Manassas Park City County,Virginia",11959,317152
+319,"Mecklenburg County,Virginia","Martinsville City County,Virginia",6893,157145
+320,"Mecklenburg County,Virginia","Newport News City County,Virginia",9385,259817
+321,"Mecklenburg County,Virginia","Norfolk City County,Virginia",8904,214380
+322,"Mecklenburg County,Virginia","Norton City County,Virginia",19261,475773
+323,"Mecklenburg County,Virginia","Petersburg City County,Virginia",4616,124080
+324,"Mecklenburg County,Virginia","Poquoson City County,Virginia",10057,270394
+325,"Mecklenburg County,Virginia","Portsmouth City County,Virginia",8822,211916
+326,"Mecklenburg County,Virginia","Radford County,Virginia",12516,291160
+327,"Mecklenburg County,Virginia","Richmond City County,Virginia",5964,160476
+328,"Mecklenburg County,Virginia","Roanoke City County,Virginia",9897,201405
+329,"Mecklenburg County,Virginia","Salem City County,Virginia",10512,236167
+330,"Mecklenburg County,Virginia","South Boston City County,Virginia",2641,56706
+331,"Mecklenburg County,Virginia","Staunton City County,Virginia",10658,227384
+332,"Mecklenburg County,Virginia","Suffolk City County,Virginia",7675,180196
+333,"Mecklenburg County,Virginia","Virginia Beach City County,Virginia",10018,242176
+334,"Mecklenburg County,Virginia","Waynesboro City County,Virginia",9894,207573
+335,"Mecklenburg County,Virginia","Williamsburg City County,Virginia",8430,232067
+336,"Mecklenburg County,Virginia","Winchester City County,Virginia",14596,378823
+337,"Mecklenburg County,Virginia","Barbour County,West Virginia",21461,444105
+338,"Mecklenburg County,Virginia","Berkeley County,West Virginia",16377,429005
+339,"Mecklenburg County,Virginia","Boone County,West Virginia",20870,486438
+340,"Mecklenburg County,Virginia","Braxton County,West Virginia",20567,467113
+341,"Mecklenburg County,Virginia","Brooke County,West Virginia",26828,770248
+342,"Mecklenburg County,Virginia","Cabell County,West Virginia",22437,582344
+343,"Mecklenburg County,Virginia","Calhoun County,West Virginia",22338,521064
+344,"Mecklenburg County,Virginia","Clay County,West Virginia",20603,457896
+345,"Mecklenburg County,Virginia","Doddridge County,West Virginia",24081,552990
+346,"Mecklenburg County,Virginia","Fayette County,West Virginia",17991,404636
+347,"Mecklenburg County,Virginia","Gilmer County,West Virginia",22135,516793
+348,"Mecklenburg County,Virginia","Grant County,West Virginia",17166,404970
+349,"Mecklenburg County,Virginia","Greenbrier County,West Virginia",16347,363861
+350,"Mecklenburg County,Virginia","Hampshire County,West Virginia",16901,438081
+351,"Mecklenburg County,Virginia","Hancock County,West Virginia",27536,778185
+352,"Mecklenburg County,Virginia","Hardy County,West Virginia",16414,376299
+353,"Mecklenburg County,Virginia","Harrison County,West Virginia",23111,562504
+354,"Mecklenburg County,Virginia","Jackson County,West Virginia",21756,562155
+355,"Mecklenburg County,Virginia","Jefferson County,West Virginia",15275,417439
+356,"Mecklenburg County,Virginia","Kanawha County,West Virginia",19519,484137
+357,"Mecklenburg County,Virginia","Lewis County,West Virginia",21740,515974
+358,"Mecklenburg County,Virginia","Lincoln County,West Virginia",23101,560022
+359,"Mecklenburg County,Virginia","Logan County,West Virginia",22660,516927
+360,"Mecklenburg County,Virginia","McDowell County,West Virginia",18458,423239
+361,"Mecklenburg County,Virginia","Marion County,West Virginia",24256,589672
+362,"Mecklenburg County,Virginia","Marshall County,West Virginia",27815,764692
+363,"Mecklenburg County,Virginia","Mason County,West Virginia",21913,568250
+364,"Mecklenburg County,Virginia","Mercer County,West Virginia",15065,376023
+365,"Mecklenburg County,Virginia","Mineral County,West Virginia",18640,416493
+366,"Mecklenburg County,Virginia","Mingo County,West Virginia",23239,580862
+367,"Mecklenburg County,Virginia","Monongalia County,West Virginia",21969,644848
+368,"Mecklenburg County,Virginia","Monroe County,West Virginia",15281,350182
+369,"Mecklenburg County,Virginia","Morgan County,West Virginia",16623,430131
+370,"Mecklenburg County,Virginia","Nicholas County,West Virginia",18186,417286
+371,"Mecklenburg County,Virginia","Ohio County,West Virginia",26735,779194
+372,"Mecklenburg County,Virginia","Pendleton County,West Virginia",15558,336991
+373,"Mecklenburg County,Virginia","Pleasants County,West Virginia",25239,660007
+374,"Mecklenburg County,Virginia","Pocahontas County,West Virginia",17565,358554
+375,"Mecklenburg County,Virginia","Preston County,West Virginia",21346,483421
+376,"Mecklenburg County,Virginia","Putnam County,West Virginia",20694,533869
+377,"Mecklenburg County,Virginia","Raleigh County,West Virginia",16544,409318
+378,"Mecklenburg County,Virginia","Randolph County,West Virginia",19477,397498
+379,"Mecklenburg County,Virginia","Ritchie County,West Virginia",24811,563439
+380,"Mecklenburg County,Virginia","Roane County,West Virginia",23382,590970
+381,"Mecklenburg County,Virginia","Summers County,West Virginia",16496,371341
+382,"Mecklenburg County,Virginia","Taylor County,West Virginia",21689,501242
+383,"Mecklenburg County,Virginia","Tucker County,West Virginia",19826,466617
+384,"Mecklenburg County,Virginia","Tyler County,West Virginia",26836,631311
+385,"Mecklenburg County,Virginia","Upshur County,West Virginia",22072,433141
+386,"Mecklenburg County,Virginia","Wayne County,West Virginia",24028,614970
+387,"Mecklenburg County,Virginia","Webster County,West Virginia",20938,461774
+388,"Mecklenburg County,Virginia","Wetzel County,West Virginia",25790,613987
+389,"Mecklenburg County,Virginia","Wirt County,West Virginia",24023,619493
+390,"Mecklenburg County,Virginia","Wood County,West Virginia",23537,621182
+391,"Mecklenburg County,Virginia","Wyoming County,West Virginia",18489,449260

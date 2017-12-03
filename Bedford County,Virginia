@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Bedford County,Virginia","Adair County,Kentucky",26183,652427
+1,"Bedford County,Virginia","Allen County,Kentucky",27579,772236
+2,"Bedford County,Virginia","Anderson County,Kentucky",24616,678176
+3,"Bedford County,Virginia","Ballard County,Kentucky",34483,1007491
+4,"Bedford County,Virginia","Barren County,Kentucky",27368,731182
+5,"Bedford County,Virginia","Bath County,Kentucky",20263,549357
+6,"Bedford County,Virginia","Bell County,Kentucky",18678,453733
+7,"Bedford County,Virginia","Boone County,Kentucky",26076,670750
+8,"Bedford County,Virginia","Bourbon County,Kentucky",22177,595775
+9,"Bedford County,Virginia","Boyd County,Kentucky",16939,443682
+10,"Bedford County,Virginia","Boyle County,Kentucky",25360,626582
+11,"Bedford County,Virginia","Bracken County,Kentucky",22588,589858
+12,"Bedford County,Virginia","Breathitt County,Kentucky",20302,489497
+13,"Bedford County,Virginia","Breckinridge County,Kentucky",30149,830857
+14,"Bedford County,Virginia","Bullitt County,Kentucky",26719,751977
+15,"Bedford County,Virginia","Butler County,Kentucky",30039,842442
+16,"Bedford County,Virginia","Caldwell County,Kentucky",31623,915305
+17,"Bedford County,Virginia","Calloway County,Kentucky",32324,939351
+18,"Bedford County,Virginia","Campbell County,Kentucky",24288,629729
+19,"Bedford County,Virginia","Carlisle County,Kentucky",34940,1022860
+20,"Bedford County,Virginia","Carroll County,Kentucky",27160,725991
+21,"Bedford County,Virginia","Carter County,Kentucky",18103,473779
+22,"Bedford County,Virginia","Casey County,Kentucky",26120,625701
+23,"Bedford County,Virginia","Christian County,Kentucky",29217,860330
+24,"Bedford County,Virginia","Clay County,Kentucky",21250,514075
+25,"Bedford County,Virginia","Clinton County,Kentucky",24626,651641
+26,"Bedford County,Virginia","Crittenden County,Kentucky",32887,948065
+27,"Bedford County,Virginia","Cumberland County,Kentucky",25505,672310
+28,"Bedford County,Virginia","Daviess County,Kentucky",31837,899298
+29,"Bedford County,Virginia","Edmonson County,Kentucky",29348,784544
+30,"Bedford County,Virginia","Elliott County,Kentucky",19434,499549
+31,"Bedford County,Virginia","Estill County,Kentucky",23256,611673
+32,"Bedford County,Virginia","Fayette County,Kentucky",22423,615669
+33,"Bedford County,Virginia","Fleming County,Kentucky",20689,552543
+34,"Bedford County,Virginia","Floyd County,Kentucky",18963,466805
+35,"Bedford County,Virginia","Franklin County,Kentucky",24461,664585
+36,"Bedford County,Virginia","Fulton County,Kentucky",35344,1043824
+37,"Bedford County,Virginia","Gallatin County,Kentucky",26158,716649
+38,"Bedford County,Virginia","Garrard County,Kentucky",25029,611369
+39,"Bedford County,Virginia","Grant County,Kentucky",24957,690757
+40,"Bedford County,Virginia","Graves County,Kentucky",33965,995566
+41,"Bedford County,Virginia","Grayson County,Kentucky",29141,809491
+42,"Bedford County,Virginia","Green County,Kentucky",27935,694591
+43,"Bedford County,Virginia","Greenup County,Kentucky",18714,484808
+44,"Bedford County,Virginia","Hancock County,Kentucky",30945,863750
+45,"Bedford County,Virginia","Hardin County,Kentucky",28018,771624
+46,"Bedford County,Virginia","Harlan County,Kentucky",17753,430360
+47,"Bedford County,Virginia","Harrison County,Kentucky",23748,628874
+48,"Bedford County,Virginia","Hart County,Kentucky",28817,799252
+49,"Bedford County,Virginia","Henderson County,Kentucky",32975,969463
+50,"Bedford County,Virginia","Henry County,Kentucky",26062,708304
+51,"Bedford County,Virginia","Hickman County,Kentucky",34973,1024151
+52,"Bedford County,Virginia","Hopkins County,Kentucky",31744,925583
+53,"Bedford County,Virginia","Jackson County,Kentucky",23122,550494
+54,"Bedford County,Virginia","Jefferson County,Kentucky",26156,723837
+55,"Bedford County,Virginia","Jessamine County,Kentucky",23892,637133
+56,"Bedford County,Virginia","Johnson County,Kentucky",19578,484035
+57,"Bedford County,Virginia","Kenton County,Kentucky",25445,658444
+58,"Bedford County,Virginia","Knott County,Kentucky",17843,432246
+59,"Bedford County,Virginia","Knox County,Kentucky",20008,495726
+60,"Bedford County,Virginia","Larue County,Kentucky",28089,758800
+61,"Bedford County,Virginia","Laurel County,Kentucky",21902,530553
+62,"Bedford County,Virginia","Lawrence County,Kentucky",18862,488002
+63,"Bedford County,Virginia","Lee County,Kentucky",22413,530686
+64,"Bedford County,Virginia","Leslie County,Kentucky",19215,458639
+65,"Bedford County,Virginia","Letcher County,Kentucky",16243,395793
+66,"Bedford County,Virginia","Lewis County,Kentucky",20142,525597
+67,"Bedford County,Virginia","Lincoln County,Kentucky",24591,610950
+68,"Bedford County,Virginia","Livingston County,Kentucky",32814,961430
+69,"Bedford County,Virginia","Logan County,Kentucky",29649,813231
+70,"Bedford County,Virginia","Lyon County,Kentucky",32571,938605
+71,"Bedford County,Virginia","McCracken County,Kentucky",33095,975551
+72,"Bedford County,Virginia","McCreary County,Kentucky",21632,588487
+73,"Bedford County,Virginia","Madison County,Kentucky",23421,626692
+74,"Bedford County,Virginia","Magoffin County,Kentucky",19922,488011
+75,"Bedford County,Virginia","Marion County,Kentucky",26467,720409
+76,"Bedford County,Virginia","Marshall County,Kentucky",32510,959123
+77,"Bedford County,Virginia","Martin County,Kentucky",19976,469726
+78,"Bedford County,Virginia","Mason County,Kentucky",21937,569403
+79,"Bedford County,Virginia","Meade County,Kentucky",28616,796152
+80,"Bedford County,Virginia","Menifee County,Kentucky",21379,561421
+81,"Bedford County,Virginia","Mercer County,Kentucky",24844,676120
+82,"Bedford County,Virginia","Metcalfe County,Kentucky",26839,682691
+83,"Bedford County,Virginia","Monroe County,Kentucky",26066,702731
+84,"Bedford County,Virginia","Montgomery County,Kentucky",21076,567898
+85,"Bedford County,Virginia","Morgan County,Kentucky",21158,537137
+86,"Bedford County,Virginia","Muhlenberg County,Kentucky",31429,895693
+87,"Bedford County,Virginia","Nelson County,Kentucky",26075,719480
+88,"Bedford County,Virginia","Nicholas County,Kentucky",22754,595781
+89,"Bedford County,Virginia","Ohio County,Kentucky",30938,867334
+90,"Bedford County,Virginia","Oldham County,Kentucky",26227,735719
+91,"Bedford County,Virginia","Owen County,Kentucky",25282,691362
+92,"Bedford County,Virginia","Owsley County,Kentucky",22440,527371
+93,"Bedford County,Virginia","Pendleton County,Kentucky",24526,630782
+94,"Bedford County,Virginia","Perry County,Kentucky",18816,452670
+95,"Bedford County,Virginia","Pike County,Kentucky",17338,401320
+96,"Bedford County,Virginia","Powell County,Kentucky",22520,597644
+97,"Bedford County,Virginia","Robertson County,Kentucky",22672,595287
+98,"Bedford County,Virginia","Rockcastle County,Kentucky",23073,572548
+99,"Bedford County,Virginia","Rowan County,Kentucky",19406,521565
+100,"Bedford County,Virginia","Russell County,Kentucky",25787,636410
+101,"Bedford County,Virginia","Scott County,Kentucky",23257,643696
+102,"Bedford County,Virginia","Shelby County,Kentucky",25084,694972
+103,"Bedford County,Virginia","Simpson County,Kentucky",28616,789206
+104,"Bedford County,Virginia","Spencer County,Kentucky",25614,700820
+105,"Bedford County,Virginia","Taylor County,Kentucky",27537,676686
+106,"Bedford County,Virginia","Todd County,Kentucky",29632,853277
+107,"Bedford County,Virginia","Trigg County,Kentucky",30124,877690
+108,"Bedford County,Virginia","Trimble County,Kentucky",27301,741758
+109,"Bedford County,Virginia","Union County,Kentucky",34393,989823
+110,"Bedford County,Virginia","Warren County,Kentucky",29041,811874
+111,"Bedford County,Virginia","Washington County,Kentucky",26085,704717
+112,"Bedford County,Virginia","Wayne County,Kentucky",24136,635618
+113,"Bedford County,Virginia","Webster County,Kentucky",32853,953671
+114,"Bedford County,Virginia","Whitley County,Kentucky",20236,573250
+115,"Bedford County,Virginia","Wolfe County,Kentucky",21796,521580
+116,"Bedford County,Virginia","Woodford County,Kentucky",23477,646332
+117,"Bedford County,Virginia","Adams County,Ohio",22029,571960
+118,"Bedford County,Virginia","Allen County,Ohio",28762,747377
+119,"Bedford County,Virginia","Ashland County,Ohio",26506,701268
+120,"Bedford County,Virginia","Ashtabula County,Ohio",28986,776853
+121,"Bedford County,Virginia","Athens County,Ohio",18438,477559
+122,"Bedford County,Virginia","Auglaize County,Ohio",28011,764077
+123,"Bedford County,Virginia","Belmont County,Ohio",22257,611091
+124,"Bedford County,Virginia","Brown County,Ohio",23274,598887
+125,"Bedford County,Virginia","Butler County,Ohio",26387,680913
+126,"Bedford County,Virginia","Carroll County,Ohio",24186,647977
+127,"Bedford County,Virginia","Champaign County,Ohio",25315,666174
+128,"Bedford County,Virginia","Clark County,Ohio",23994,625719
+129,"Bedford County,Virginia","Clermont County,Ohio",24108,629984
+130,"Bedford County,Virginia","Clinton County,Ohio",23499,613400
+131,"Bedford County,Virginia","Columbiana County,Ohio",25589,628786
+132,"Bedford County,Virginia","Coshocton County,Ohio",22821,619094
+133,"Bedford County,Virginia","Crawford County,Ohio",27113,712429
+134,"Bedford County,Virginia","Cuyahoga County,Ohio",26222,733381
+135,"Bedford County,Virginia","Darke County,Ohio",27109,721124
+136,"Bedford County,Virginia","Defiance County,Ohio",32197,825698
+137,"Bedford County,Virginia","Delaware County,Ohio",24267,645166
+138,"Bedford County,Virginia","Fairfield County,Ohio",21798,572260
+139,"Bedford County,Virginia","Fayette County,Ohio",22062,583864
+140,"Bedford County,Virginia","Franklin County,Ohio",22798,602115
+141,"Bedford County,Virginia","Fulton County,Ohio",32204,867997
+142,"Bedford County,Virginia","Gallia County,Ohio",17376,442976
+143,"Bedford County,Virginia","Geauga County,Ohio",27294,759098
+144,"Bedford County,Virginia","Greene County,Ohio",22933,617016
+145,"Bedford County,Virginia","Guernsey County,Ohio",20372,557012
+146,"Bedford County,Virginia","Hamilton County,Ohio",25888,691491
+147,"Bedford County,Virginia","Hancock County,Ohio",28290,753521
+148,"Bedford County,Virginia","Hardin County,Ohio",27272,703207
+149,"Bedford County,Virginia","Harrison County,Ohio",23192,630042
+150,"Bedford County,Virginia","Henry County,Ohio",31003,825142
+151,"Bedford County,Virginia","Highland County,Ohio",22566,571973
+152,"Bedford County,Virginia","Hocking County,Ohio",20240,528223
+153,"Bedford County,Virginia","Holmes County,Ohio",23880,641978
+154,"Bedford County,Virginia","Huron County,Ohio",28403,742897
+155,"Bedford County,Virginia","Jackson County,Ohio",18553,482525
+156,"Bedford County,Virginia","Jefferson County,Ohio",24185,639820
+157,"Bedford County,Virginia","Knox County,Ohio",24610,661569
+158,"Bedford County,Virginia","Lawrence County,Ohio",18078,448738
+159,"Bedford County,Virginia","Licking County,Ohio",23743,599269
+160,"Bedford County,Virginia","Logan County,Ohio",26293,697484
+161,"Bedford County,Virginia","Lorain County,Ohio",27447,763204
+162,"Bedford County,Virginia","Lucas County,Ohio",31926,841020
+163,"Bedford County,Virginia","Madison County,Ohio",23764,606948
+164,"Bedford County,Virginia","Mahoning County,Ohio",25472,666845
+165,"Bedford County,Virginia","Marion County,Ohio",25673,671259
+166,"Bedford County,Virginia","Medina County,Ohio",25895,719412
+167,"Bedford County,Virginia","Meigs County,Ohio",17318,448529
+168,"Bedford County,Virginia","Mercer County,Ohio",29247,791011
+169,"Bedford County,Virginia","Miami County,Ohio",25598,686516
+170,"Bedford County,Virginia","Monroe County,Ohio",21308,546204
+171,"Bedford County,Virginia","Montgomery County,Ohio",24967,664472
+172,"Bedford County,Virginia","Morgan County,Ohio",20313,532852
+173,"Bedford County,Virginia","Morrow County,Ohio",25075,667987
+174,"Bedford County,Virginia","Muskingum County,Ohio",21218,585004
+175,"Bedford County,Virginia","Noble County,Ohio",19814,529364
+176,"Bedford County,Virginia","Paulding County,Ohio",31298,823283
+177,"Bedford County,Virginia","Perry County,Ohio",21655,542979
+178,"Bedford County,Virginia","Pickaway County,Ohio",21503,563963
+179,"Bedford County,Virginia","Pike County,Ohio",19999,521832
+180,"Bedford County,Virginia","Portage County,Ohio",25744,714963
+181,"Bedford County,Virginia","Preble County,Ohio",26586,693050
+182,"Bedford County,Virginia","Putnam County,Ohio",29884,779736
+183,"Bedford County,Virginia","Richland County,Ohio",26105,703225
+184,"Bedford County,Virginia","Ross County,Ohio",20247,530269
+185,"Bedford County,Virginia","Sandusky County,Ohio",30047,772216
+186,"Bedford County,Virginia","Scioto County,Ohio",19883,506012
+187,"Bedford County,Virginia","Seneca County,Ohio",28664,746100
+188,"Bedford County,Virginia","Shelby County,Ohio",26636,722801
+189,"Bedford County,Virginia","Stark County,Ohio",24045,663212
+190,"Bedford County,Virginia","Summit County,Ohio",24804,689000
+191,"Bedford County,Virginia","Trumbull County,Ohio",26630,704309
+192,"Bedford County,Virginia","Tuscarawas County,Ohio",22246,603799
+193,"Bedford County,Virginia","Union County,Ohio",24797,647715
+194,"Bedford County,Virginia","Van Wert County,Ohio",29996,790247
+195,"Bedford County,Virginia","Vinton County,Ohio",20449,508030
+196,"Bedford County,Virginia","Warren County,Ohio",24304,647459
+197,"Bedford County,Virginia","Washington County,Ohio",18672,487301
+198,"Bedford County,Virginia","Wayne County,Ohio",25016,666090
+199,"Bedford County,Virginia","Williams County,Ohio",33374,849214
+200,"Bedford County,Virginia","Wood County,Ohio",29688,795128
+201,"Bedford County,Virginia","Wyandot County,Ohio",27260,717656
+202,"Bedford County,Virginia","Accomack County,Virginia",19613,490792
+203,"Bedford County,Virginia","Albemarle County,Virginia",6374,146310
+204,"Bedford County,Virginia","Alleghany County,Virginia",6918,146112
+205,"Bedford County,Virginia","Amelia County,Virginia",6801,162095
+206,"Bedford County,Virginia","Amherst County,Virginia",3760,78018
+207,"Bedford County,Virginia","Appomattox County,Virginia",3879,81764
+208,"Bedford County,Virginia","Arlington County,Virginia",13784,332485
+209,"Bedford County,Virginia","Augusta County,Virginia",7381,156480
+210,"Bedford County,Virginia","Bath County,Virginia",7963,162616
+211,"Bedford County,Virginia","Bland County,Virginia",7944,193051
+212,"Bedford County,Virginia","Botetourt County,Virginia",4280,70896
+213,"Bedford County,Virginia","Brunswick County,Virginia",9344,211768
+214,"Bedford County,Virginia","Buchanan County,Virginia",13701,327510
+215,"Bedford County,Virginia","Buckingham County,Virginia",4993,105674
+216,"Bedford County,Virginia","Campbell County,Virginia",2588,45491
+217,"Bedford County,Virginia","Caroline County,Virginia",11298,307103
+218,"Bedford County,Virginia","Carroll County,Virginia",8066,198467
+219,"Bedford County,Virginia","Charles City County,Virginia",10883,258811
+220,"Bedford County,Virginia","Charlotte County,Virginia",5078,99373
+221,"Bedford County,Virginia","Chesterfield County,Virginia",8496,200985
+222,"Bedford County,Virginia","Clarke County,Virginia",12139,305844
+223,"Bedford County,Virginia","Craig County,Virginia",5913,109450
+224,"Bedford County,Virginia","Culpeper County,Virginia",9722,227085
+225,"Bedford County,Virginia","Cumberland County,Virginia",6406,142905
+226,"Bedford County,Virginia","Dickenson County,Virginia",14411,345687
+227,"Bedford County,Virginia","Dinwiddie County,Virginia",8575,205156
+228,"Bedford County,Virginia","Essex County,Virginia",13116,331145
+229,"Bedford County,Virginia","Fairfax County,Virginia",13532,317540
+230,"Bedford County,Virginia","Fauquier County,Virginia",10996,263414
+231,"Bedford County,Virginia","Floyd County,Virginia",5854,116059
+232,"Bedford County,Virginia","Fluvanna County,Virginia",7617,171151
+233,"Bedford County,Virginia","Franklin County,Virginia",3603,62383
+234,"Bedford County,Virginia","Frederick County,Virginia",11591,293571
+235,"Bedford County,Virginia","Giles County,Virginia",6733,148166
+236,"Bedford County,Virginia","Gloucester County,Virginia",13373,323360
+237,"Bedford County,Virginia","Goochland County,Virginia",8431,186337
+238,"Bedford County,Virginia","Grayson County,Virginia",9398,214647
+239,"Bedford County,Virginia","Greene County,Virginia",8723,193626
+240,"Bedford County,Virginia","Greensville County,Virginia",11061,254794
+241,"Bedford County,Virginia","Halifax County,Virginia",5397,98918
+242,"Bedford County,Virginia","Hanover County,Virginia",9747,262146
+243,"Bedford County,Virginia","Henrico County,Virginia",9841,238787
+244,"Bedford County,Virginia","Henry County,Virginia",5309,101991
+245,"Bedford County,Virginia","Highland County,Virginia",10095,210408
+246,"Bedford County,Virginia","Isle of Wight County,Virginia",12695,305277
+247,"Bedford County,Virginia","James City County,Virginia",12439,309943
+248,"Bedford County,Virginia","King and Queen County,Virginia",12293,320492
+249,"Bedford County,Virginia","King George County,Virginia",12412,335089
+250,"Bedford County,Virginia","King William County,Virginia",10981,290415
+251,"Bedford County,Virginia","Lancaster County,Virginia",14773,373500
+252,"Bedford County,Virginia","Lee County,Virginia",14905,377341
+253,"Bedford County,Virginia","Loudoun County,Virginia",13664,310739
+254,"Bedford County,Virginia","Louisa County,Virginia",8198,204135
+255,"Bedford County,Virginia","Lunenburg County,Virginia",6891,141026
+256,"Bedford County,Virginia","Madison County,Virginia",8838,203193
+257,"Bedford County,Virginia","Mathews County,Virginia",14198,346784
+258,"Bedford County,Virginia","Mecklenburg County,Virginia",7841,153781
+259,"Bedford County,Virginia","Middlesex County,Virginia",12975,319561
+260,"Bedford County,Virginia","Montgomery County,Virginia",5297,112437
+261,"Bedford County,Virginia","Nelson County,Virginia",4255,98551
+262,"Bedford County,Virginia","New Kent County,Virginia",11875,283857
+263,"Bedford County,Virginia","Northampton County,Virginia",16856,426606
+264,"Bedford County,Virginia","Northumberland County,Virginia",14813,372012
+265,"Bedford County,Virginia","Nottoway County,Virginia",6842,163909
+266,"Bedford County,Virginia","Orange County,Virginia",9161,212242
+267,"Bedford County,Virginia","Page County,Virginia",9805,227896
+268,"Bedford County,Virginia","Patrick County,Virginia",6800,127356
+269,"Bedford County,Virginia","Pittsylvania County,Virginia",3711,80438
+270,"Bedford County,Virginia","Powhatan County,Virginia",7904,177612
+271,"Bedford County,Virginia","Prince Edward County,Virginia",5456,121245
+272,"Bedford County,Virginia","Prince George County,Virginia",10230,244530
+273,"Bedford County,Virginia","Prince William County,Virginia",11806,279496
+274,"Bedford County,Virginia","Pulaski County,Virginia",6025,135070
+275,"Bedford County,Virginia","Rappahannock County,Virginia",10367,238020
+276,"Bedford County,Virginia","Richmond County,Virginia",13513,344656
+277,"Bedford County,Virginia","Roanoke County,Virginia",4288,77376
+278,"Bedford County,Virginia","Rockbridge County,Virginia",5615,96515
+279,"Bedford County,Virginia","Rockingham County,Virginia",8844,200247
+280,"Bedford County,Virginia","Russell County,Virginia",12867,310847
+281,"Bedford County,Virginia","Scott County,Virginia",13479,338070
+282,"Bedford County,Virginia","Shenandoah County,Virginia",9349,230350
+283,"Bedford County,Virginia","Smyth County,Virginia",9061,221791
+284,"Bedford County,Virginia","Southampton County,Virginia",12188,284493
+285,"Bedford County,Virginia","Spotsylvania County,Virginia",10214,245973
+286,"Bedford County,Virginia","Stafford County,Virginia",11595,270266
+287,"Bedford County,Virginia","Surry County,Virginia",11911,283494
+288,"Bedford County,Virginia","Sussex County,Virginia",10583,250287
+289,"Bedford County,Virginia","Tazewell County,Virginia",10522,261868
+290,"Bedford County,Virginia","Warren County,Virginia",11251,274943
+291,"Bedford County,Virginia","Washington County,Virginia",10455,261257
+292,"Bedford County,Virginia","Westmoreland County,Virginia",13386,351914
+293,"Bedford County,Virginia","Wise County,Virginia",14318,352189
+294,"Bedford County,Virginia","Wythe County,Virginia",7315,173776
+295,"Bedford County,Virginia","York County,Virginia",13727,340717
+296,"Bedford County,Virginia","Alexandria City County,Virginia",13755,329534
+297,"Bedford County,Virginia","Bedford City County,Virginia",1093,15849
+298,"Bedford County,Virginia","Bristol City County,Virginia",10930,286975
+299,"Bedford County,Virginia","Buena Vista City County,Virginia",4215,77223
+300,"Bedford County,Virginia","Charlottesville City County,Virginia",6428,153472
+301,"Bedford County,Virginia","Chesapeake City County,Virginia",14564,349188
+302,"Bedford County,Virginia","Clifton Forge City County,Virginia",5578,112434
+303,"Bedford County,Virginia","Colonial Heights City County,Virginia",9482,229236
+304,"Bedford County,Virginia","Covington City County,Virginia",6562,133272
+305,"Bedford County,Virginia","Danville City County,Virginia",4311,96781
+306,"Bedford County,Virginia","Emporia City County,Virginia",10728,241158
+307,"Bedford County,Virginia","Fairfax City County,Virginia",13075,307116
+308,"Bedford County,Virginia","Falls Church City County,Virginia",13407,321589
+309,"Bedford County,Virginia","Franklin City County,Virginia",12815,297628
+310,"Bedford County,Virginia","Fredericksburg City County,Virginia",11347,255633
+311,"Bedford County,Virginia","Galax City County,Virginia",8690,204333
+312,"Bedford County,Virginia","Hampton City County,Virginia",13677,350424
+313,"Bedford County,Virginia","Harrisonburg City County,Virginia",7904,180143
+314,"Bedford County,Virginia","Hopewell City County,Virginia",9761,232793
+315,"Bedford County,Virginia","Lexington City County,Virginia",4901,87330
+316,"Bedford County,Virginia","Lynchburg City County,Virginia",2801,49381
+317,"Bedford County,Virginia","Manassas City County,Virginia",12155,280080
+318,"Bedford County,Virginia","Manassas Park City County,Virginia",12524,283328
+319,"Bedford County,Virginia","Martinsville City County,Virginia",5215,97945
+320,"Bedford County,Virginia","Newport News City County,Virginia",13233,336909
+321,"Bedford County,Virginia","Norfolk City County,Virginia",14516,348048
+322,"Bedford County,Virginia","Norton City County,Virginia",13842,343079
+323,"Bedford County,Virginia","Petersburg City County,Virginia",9233,227134
+324,"Bedford County,Virginia","Poquoson City County,Virginia",13905,347486
+325,"Bedford County,Virginia","Portsmouth City County,Virginia",14435,345584
+326,"Bedford County,Virginia","Radford County,Virginia",5661,122281
+327,"Bedford County,Virginia","Richmond City County,Virginia",9487,223716
+328,"Bedford County,Virginia","Roanoke City County,Virginia",3035,50064
+329,"Bedford County,Virginia","Salem City County,Virginia",3656,67289
+330,"Bedford County,Virginia","South Boston City County,Virginia",5400,97736
+331,"Bedford County,Virginia","Staunton City County,Virginia",6721,141278
+332,"Bedford County,Virginia","Suffolk City County,Virginia",13538,320001
+333,"Bedford County,Virginia","Virginia Beach City County,Virginia",15544,399098
+334,"Bedford County,Virginia","Waynesboro City County,Virginia",6402,144382
+335,"Bedford County,Virginia","Williamsburg City County,Virginia",12277,309159
+336,"Bedford County,Virginia","Winchester City County,Virginia",11470,289715
+337,"Bedford County,Virginia","Barbour County,West Virginia",17007,348826
+338,"Bedford County,Virginia","Berkeley County,West Virginia",13208,336922
+339,"Bedford County,Virginia","Boone County,West Virginia",14827,326037
+340,"Bedford County,Virginia","Braxton County,West Virginia",14975,326492
+341,"Bedford County,Virginia","Brooke County,West Virginia",22643,567306
+342,"Bedford County,Virginia","Cabell County,West Virginia",16395,421943
+343,"Bedford County,Virginia","Calhoun County,West Virginia",16746,380443
+344,"Bedford County,Virginia","Clay County,West Virginia",14820,342942
+345,"Bedford County,Virginia","Doddridge County,West Virginia",18488,412369
+346,"Bedford County,Virginia","Fayette County,West Virginia",12327,288679
+347,"Bedford County,Virginia","Gilmer County,West Virginia",16543,376172
+348,"Bedford County,Virginia","Grant County,West Virginia",13300,319410
+349,"Bedford County,Virginia","Greenbrier County,West Virginia",10754,223240
+350,"Bedford County,Virginia","Hampshire County,West Virginia",13327,307826
+351,"Bedford County,Virginia","Hancock County,West Virginia",24269,594653
+352,"Bedford County,Virginia","Hardy County,West Virginia",12548,290739
+353,"Bedford County,Virginia","Harrison County,West Virginia",17518,421883
+354,"Bedford County,Virginia","Jackson County,West Virginia",15714,401753
+355,"Bedford County,Virginia","Jefferson County,West Virginia",13259,324328
+356,"Bedford County,Virginia","Kanawha County,West Virginia",13477,323736
+357,"Bedford County,Virginia","Lewis County,West Virginia",16147,375354
+358,"Bedford County,Virginia","Lincoln County,West Virginia",17059,399621
+359,"Bedford County,Virginia","Logan County,West Virginia",16617,356526
+360,"Bedford County,Virginia","McDowell County,West Virginia",12829,269053
+361,"Bedford County,Virginia","Marion County,West Virginia",18663,449051
+362,"Bedford County,Virginia","Marshall County,West Virginia",23630,561750
+363,"Bedford County,Virginia","Mason County,West Virginia",15870,407849
+364,"Bedford County,Virginia","Mercer County,West Virginia",8906,204343
+365,"Bedford County,Virginia","Mineral County,West Virginia",14774,330933
+366,"Bedford County,Virginia","Mingo County,West Virginia",17196,420461
+367,"Bedford County,Virginia","Monongalia County,West Virginia",18476,443668
+368,"Bedford County,Virginia","Monroe County,West Virginia",9058,169449
+369,"Bedford County,Virginia","Morgan County,West Virginia",13454,338049
+370,"Bedford County,Virginia","Nicholas County,West Virginia",12593,276665
+371,"Bedford County,Virginia","Ohio County,West Virginia",22549,576253
+372,"Bedford County,Virginia","Pendleton County,West Virginia",11692,251431
+373,"Bedford County,Virginia","Pleasants County,West Virginia",19196,499605
+374,"Bedford County,Virginia","Pocahontas County,West Virginia",12451,260450
+375,"Bedford County,Virginia","Preston County,West Virginia",17480,397861
+376,"Bedford County,Virginia","Putnam County,West Virginia",14652,373468
+377,"Bedford County,Virginia","Raleigh County,West Virginia",10502,248917
+378,"Bedford County,Virginia","Randolph County,West Virginia",15023,302220
+379,"Bedford County,Virginia","Ritchie County,West Virginia",19219,422818
+380,"Bedford County,Virginia","Roane County,West Virginia",17339,430569
+381,"Bedford County,Virginia","Summers County,West Virginia",9641,202462
+382,"Bedford County,Virginia","Taylor County,West Virginia",17823,415682
+383,"Bedford County,Virginia","Tucker County,West Virginia",15960,381057
+384,"Bedford County,Virginia","Tyler County,West Virginia",21105,539221
+385,"Bedford County,Virginia","Upshur County,West Virginia",17618,337862
+386,"Bedford County,Virginia","Wayne County,West Virginia",17986,454569
+387,"Bedford County,Virginia","Webster County,West Virginia",15345,321153
+388,"Bedford County,Virginia","Wetzel County,West Virginia",20197,473366
+389,"Bedford County,Virginia","Wirt County,West Virginia",17980,459091
+390,"Bedford County,Virginia","Wood County,West Virginia",17495,460781
+391,"Bedford County,Virginia","Wyoming County,West Virginia",12446,288858

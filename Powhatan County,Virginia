@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Powhatan County,Virginia","Adair County,Kentucky",32510,822189
+1,"Powhatan County,Virginia","Allen County,Kentucky",33906,941999
+2,"Powhatan County,Virginia","Anderson County,Kentucky",28271,834042
+3,"Powhatan County,Virginia","Ballard County,Kentucky",40810,1177254
+4,"Powhatan County,Virginia","Barren County,Kentucky",33695,900944
+5,"Powhatan County,Virginia","Bath County,Kentucky",23919,705223
+6,"Powhatan County,Virginia","Bell County,Kentucky",25005,623496
+7,"Powhatan County,Virginia","Boone County,Kentucky",29732,826617
+8,"Powhatan County,Virginia","Bourbon County,Kentucky",25833,751641
+9,"Powhatan County,Virginia","Boyd County,Kentucky",20594,599548
+10,"Powhatan County,Virginia","Boyle County,Kentucky",29500,837929
+11,"Powhatan County,Virginia","Bracken County,Kentucky",26244,745724
+12,"Powhatan County,Virginia","Breathitt County,Kentucky",26629,659259
+13,"Powhatan County,Virginia","Breckinridge County,Kentucky",33805,986723
+14,"Powhatan County,Virginia","Bullitt County,Kentucky",30375,907843
+15,"Powhatan County,Virginia","Butler County,Kentucky",34470,1008721
+16,"Powhatan County,Virginia","Caldwell County,Kentucky",37362,1114666
+17,"Powhatan County,Virginia","Calloway County,Kentucky",38651,1109113
+18,"Powhatan County,Virginia","Campbell County,Kentucky",27944,785595
+19,"Powhatan County,Virginia","Carlisle County,Kentucky",41267,1192622
+20,"Powhatan County,Virginia","Carroll County,Kentucky",30816,881857
+21,"Powhatan County,Virginia","Carter County,Kentucky",21759,629645
+22,"Powhatan County,Virginia","Casey County,Kentucky",30995,869434
+23,"Powhatan County,Virginia","Christian County,Kentucky",35544,1030093
+24,"Powhatan County,Virginia","Clay County,Kentucky",27577,683838
+25,"Powhatan County,Virginia","Clinton County,Kentucky",30953,821404
+26,"Powhatan County,Virginia","Crittenden County,Kentucky",38941,1147737
+27,"Powhatan County,Virginia","Cumberland County,Kentucky",31833,842073
+28,"Powhatan County,Virginia","Daviess County,Kentucky",35493,1055164
+29,"Powhatan County,Virginia","Edmonson County,Kentucky",33910,996596
+30,"Powhatan County,Virginia","Elliott County,Kentucky",23090,655415
+31,"Powhatan County,Virginia","Estill County,Kentucky",26911,767539
+32,"Powhatan County,Virginia","Fayette County,Kentucky",26079,771535
+33,"Powhatan County,Virginia","Fleming County,Kentucky",24345,708409
+34,"Powhatan County,Virginia","Floyd County,Kentucky",24727,706813
+35,"Powhatan County,Virginia","Franklin County,Kentucky",28116,820451
+36,"Powhatan County,Virginia","Fulton County,Kentucky",41671,1213587
+37,"Powhatan County,Virginia","Gallatin County,Kentucky",29814,872515
+38,"Powhatan County,Virginia","Garrard County,Kentucky",28684,818689
+39,"Powhatan County,Virginia","Grant County,Kentucky",28613,846623
+40,"Powhatan County,Virginia","Graves County,Kentucky",40292,1165329
+41,"Powhatan County,Virginia","Grayson County,Kentucky",32797,965357
+42,"Powhatan County,Virginia","Green County,Kentucky",32577,930562
+43,"Powhatan County,Virginia","Greenup County,Kentucky",22370,640674
+44,"Powhatan County,Virginia","Hancock County,Kentucky",34600,1019617
+45,"Powhatan County,Virginia","Hardin County,Kentucky",31673,927490
+46,"Powhatan County,Virginia","Harlan County,Kentucky",24080,600122
+47,"Powhatan County,Virginia","Harrison County,Kentucky",27403,784740
+48,"Powhatan County,Virginia","Hart County,Kentucky",32473,955118
+49,"Powhatan County,Virginia","Henderson County,Kentucky",37299,1107593
+50,"Powhatan County,Virginia","Henry County,Kentucky",29718,864170
+51,"Powhatan County,Virginia","Hickman County,Kentucky",41301,1193914
+52,"Powhatan County,Virginia","Hopkins County,Kentucky",36820,1089135
+53,"Powhatan County,Virginia","Jackson County,Kentucky",29449,720257
+54,"Powhatan County,Virginia","Jefferson County,Kentucky",29811,879703
+55,"Powhatan County,Virginia","Jessamine County,Kentucky",27548,792999
+56,"Powhatan County,Virginia","Johnson County,Kentucky",23376,672444
+57,"Powhatan County,Virginia","Kenton County,Kentucky",29101,814310
+58,"Powhatan County,Virginia","Knott County,Kentucky",24170,602009
+59,"Powhatan County,Virginia","Knox County,Kentucky",26335,665488
+60,"Powhatan County,Virginia","Larue County,Kentucky",31745,914666
+61,"Powhatan County,Virginia","Laurel County,Kentucky",28229,700316
+62,"Powhatan County,Virginia","Lawrence County,Kentucky",22517,643868
+63,"Powhatan County,Virginia","Lee County,Kentucky",27756,761275
+64,"Powhatan County,Virginia","Leslie County,Kentucky",25542,628402
+65,"Powhatan County,Virginia","Letcher County,Kentucky",22570,565556
+66,"Powhatan County,Virginia","Lewis County,Kentucky",23797,681463
+67,"Powhatan County,Virginia","Lincoln County,Kentucky",29393,835607
+68,"Powhatan County,Virginia","Livingston County,Kentucky",39141,1131193
+69,"Powhatan County,Virginia","Logan County,Kentucky",35976,982993
+70,"Powhatan County,Virginia","Lyon County,Kentucky",38898,1108367
+71,"Powhatan County,Virginia","McCracken County,Kentucky",39422,1145314
+72,"Powhatan County,Virginia","McCreary County,Kentucky",27959,758250
+73,"Powhatan County,Virginia","Madison County,Kentucky",27077,782558
+74,"Powhatan County,Virginia","Magoffin County,Kentucky",24343,693123
+75,"Powhatan County,Virginia","Marion County,Kentucky",30123,876275
+76,"Powhatan County,Virginia","Marshall County,Kentucky",38837,1128886
+77,"Powhatan County,Virginia","Martin County,Kentucky",23631,625592
+78,"Powhatan County,Virginia","Mason County,Kentucky",25592,725269
+79,"Powhatan County,Virginia","Meade County,Kentucky",32272,952018
+80,"Powhatan County,Virginia","Menifee County,Kentucky",25035,717287
+81,"Powhatan County,Virginia","Mercer County,Kentucky",28499,831986
+82,"Powhatan County,Virginia","Metcalfe County,Kentucky",33166,852454
+83,"Powhatan County,Virginia","Monroe County,Kentucky",32393,872493
+84,"Powhatan County,Virginia","Montgomery County,Kentucky",24732,723764
+85,"Powhatan County,Virginia","Morgan County,Kentucky",24813,693003
+86,"Powhatan County,Virginia","Muhlenberg County,Kentucky",35681,1055611
+87,"Powhatan County,Virginia","Nelson County,Kentucky",29730,875346
+88,"Powhatan County,Virginia","Nicholas County,Kentucky",26410,751647
+89,"Powhatan County,Virginia","Ohio County,Kentucky",34594,1023200
+90,"Powhatan County,Virginia","Oldham County,Kentucky",29883,891585
+91,"Powhatan County,Virginia","Owen County,Kentucky",28938,847229
+92,"Powhatan County,Virginia","Owsley County,Kentucky",28767,697134
+93,"Powhatan County,Virginia","Pendleton County,Kentucky",28181,786648
+94,"Powhatan County,Virginia","Perry County,Kentucky",25143,622432
+95,"Powhatan County,Virginia","Pike County,Kentucky",23665,571082
+96,"Powhatan County,Virginia","Powell County,Kentucky",26175,753510
+97,"Powhatan County,Virginia","Robertson County,Kentucky",26327,751153
+98,"Powhatan County,Virginia","Rockcastle County,Kentucky",28511,823701
+99,"Powhatan County,Virginia","Rowan County,Kentucky",23061,677431
+100,"Powhatan County,Virginia","Russell County,Kentucky",32114,806173
+101,"Powhatan County,Virginia","Scott County,Kentucky",26913,799562
+102,"Powhatan County,Virginia","Shelby County,Kentucky",28740,850838
+103,"Powhatan County,Virginia","Simpson County,Kentucky",34943,958969
+104,"Powhatan County,Virginia","Spencer County,Kentucky",29269,856686
+105,"Powhatan County,Virginia","Taylor County,Kentucky",31412,907771
+106,"Powhatan County,Virginia","Todd County,Kentucky",35959,1023040
+107,"Powhatan County,Virginia","Trigg County,Kentucky",36451,1047452
+108,"Powhatan County,Virginia","Trimble County,Kentucky",30956,897625
+109,"Powhatan County,Virginia","Union County,Kentucky",39019,1138040
+110,"Powhatan County,Virginia","Warren County,Kentucky",34826,1024965
+111,"Powhatan County,Virginia","Washington County,Kentucky",29741,860583
+112,"Powhatan County,Virginia","Wayne County,Kentucky",30464,805381
+113,"Powhatan County,Virginia","Webster County,Kentucky",37929,1117223
+114,"Powhatan County,Virginia","Whitley County,Kentucky",26563,743012
+115,"Powhatan County,Virginia","Wolfe County,Kentucky",25908,716364
+116,"Powhatan County,Virginia","Woodford County,Kentucky",27133,802198
+117,"Powhatan County,Virginia","Adams County,Ohio",25685,727826
+118,"Powhatan County,Virginia","Allen County,Ohio",32417,903243
+119,"Powhatan County,Virginia","Ashland County,Ohio",28892,833802
+120,"Powhatan County,Virginia","Ashtabula County,Ohio",26889,788272
+121,"Powhatan County,Virginia","Athens County,Ohio",22093,633425
+122,"Powhatan County,Virginia","Auglaize County,Ohio",31667,919943
+123,"Powhatan County,Virginia","Belmont County,Ohio",23509,621958
+124,"Powhatan County,Virginia","Brown County,Ohio",26929,754753
+125,"Powhatan County,Virginia","Butler County,Ohio",30042,836779
+126,"Powhatan County,Virginia","Carroll County,Ohio",25405,700493
+127,"Powhatan County,Virginia","Champaign County,Ohio",28971,822040
+128,"Powhatan County,Virginia","Clark County,Ohio",27650,781585
+129,"Powhatan County,Virginia","Clermont County,Ohio",27763,785850
+130,"Powhatan County,Virginia","Clinton County,Ohio",27154,769266
+131,"Powhatan County,Virginia","Columbiana County,Ohio",24192,682510
+132,"Powhatan County,Virginia","Coshocton County,Ohio",26477,774960
+133,"Powhatan County,Virginia","Crawford County,Ohio",30769,868295
+134,"Powhatan County,Virginia","Cuyahoga County,Ohio",26885,786116
+135,"Powhatan County,Virginia","Darke County,Ohio",30765,876990
+136,"Powhatan County,Virginia","Defiance County,Ohio",35204,1035080
+137,"Powhatan County,Virginia","Delaware County,Ohio",27923,801032
+138,"Powhatan County,Virginia","Fairfield County,Ohio",25454,728126
+139,"Powhatan County,Virginia","Fayette County,Ohio",25718,739730
+140,"Powhatan County,Virginia","Franklin County,Ohio",26454,757981
+141,"Powhatan County,Virginia","Fulton County,Ohio",33556,991930
+142,"Powhatan County,Virginia","Gallia County,Ohio",21031,598842
+143,"Powhatan County,Virginia","Geauga County,Ohio",26379,760935
+144,"Powhatan County,Virginia","Greene County,Ohio",26588,772882
+145,"Powhatan County,Virginia","Guernsey County,Ohio",24027,712879
+146,"Powhatan County,Virginia","Hamilton County,Ohio",29544,847357
+147,"Powhatan County,Virginia","Hancock County,Ohio",31946,909387
+148,"Powhatan County,Virginia","Hardin County,Ohio",30928,859073
+149,"Powhatan County,Virginia","Harrison County,Ohio",24619,702711
+150,"Powhatan County,Virginia","Henry County,Ohio",34010,981697
+151,"Powhatan County,Virginia","Highland County,Ohio",26222,727839
+152,"Powhatan County,Virginia","Hocking County,Ohio",23896,684089
+153,"Powhatan County,Virginia","Holmes County,Ohio",27536,797844
+154,"Powhatan County,Virginia","Huron County,Ohio",30168,863408
+155,"Powhatan County,Virginia","Jackson County,Ohio",22209,638391
+156,"Powhatan County,Virginia","Jefferson County,Ohio",23361,663984
+157,"Powhatan County,Virginia","Knox County,Ohio",28265,817435
+158,"Powhatan County,Virginia","Lawrence County,Ohio",21734,604604
+159,"Powhatan County,Virginia","Licking County,Ohio",27399,755135
+160,"Powhatan County,Virginia","Logan County,Ohio",29949,853350
+161,"Powhatan County,Virginia","Lorain County,Ohio",27937,815836
+162,"Powhatan County,Virginia","Lucas County,Ohio",32510,944780
+163,"Powhatan County,Virginia","Madison County,Ohio",27419,762814
+164,"Powhatan County,Virginia","Mahoning County,Ohio",23375,678264
+165,"Powhatan County,Virginia","Marion County,Ohio",29329,827125
+166,"Powhatan County,Virginia","Medina County,Ohio",27524,800922
+167,"Powhatan County,Virginia","Meigs County,Ohio",20974,604395
+168,"Powhatan County,Virginia","Mercer County,Ohio",32903,946877
+169,"Powhatan County,Virginia","Miami County,Ohio",29253,842382
+170,"Powhatan County,Virginia","Monroe County,Ohio",25019,578026
+171,"Powhatan County,Virginia","Montgomery County,Ohio",28623,820338
+172,"Powhatan County,Virginia","Morgan County,Ohio",23969,688718
+173,"Powhatan County,Virginia","Morrow County,Ohio",28730,823853
+174,"Powhatan County,Virginia","Muskingum County,Ohio",24873,740870
+175,"Powhatan County,Virginia","Noble County,Ohio",23469,685230
+176,"Powhatan County,Virginia","Paulding County,Ohio",34954,979149
+177,"Powhatan County,Virginia","Perry County,Ohio",25311,698845
+178,"Powhatan County,Virginia","Pickaway County,Ohio",25158,719829
+179,"Powhatan County,Virginia","Pike County,Ohio",23655,677698
+180,"Powhatan County,Virginia","Portage County,Ohio",25230,734278
+181,"Powhatan County,Virginia","Preble County,Ohio",30242,848916
+182,"Powhatan County,Virginia","Putnam County,Ohio",33540,935602
+183,"Powhatan County,Virginia","Richland County,Ohio",29448,855230
+184,"Powhatan County,Virginia","Ross County,Ohio",23903,686135
+185,"Powhatan County,Virginia","Sandusky County,Ohio",30798,903355
+186,"Powhatan County,Virginia","Scioto County,Ohio",23539,661878
+187,"Powhatan County,Virginia","Seneca County,Ohio",31529,913027
+188,"Powhatan County,Virginia","Shelby County,Ohio",30292,878668
+189,"Powhatan County,Virginia","Stark County,Ohio",26010,730410
+190,"Powhatan County,Virginia","Summit County,Ohio",26288,760093
+191,"Powhatan County,Virginia","Trumbull County,Ohio",24533,715728
+192,"Powhatan County,Virginia","Tuscarawas County,Ohio",25901,759665
+193,"Powhatan County,Virginia","Union County,Ohio",28453,803581
+194,"Powhatan County,Virginia","Van Wert County,Ohio",33651,946113
+195,"Powhatan County,Virginia","Vinton County,Ohio",24104,663896
+196,"Powhatan County,Virginia","Warren County,Ohio",27960,803325
+197,"Powhatan County,Virginia","Washington County,Ohio",22328,643167
+198,"Powhatan County,Virginia","Wayne County,Ohio",28672,821956
+199,"Powhatan County,Virginia","Williams County,Ohio",34801,1023387
+200,"Powhatan County,Virginia","Wood County,Ohio",32695,951683
+201,"Powhatan County,Virginia","Wyandot County,Ohio",30916,873522
+202,"Powhatan County,Virginia","Accomack County,Virginia",12618,322771
+203,"Powhatan County,Virginia","Albemarle County,Virginia",4614,113257
+204,"Powhatan County,Virginia","Alleghany County,Virginia",10124,282197
+205,"Powhatan County,Virginia","Amelia County,Virginia",2051,38108
+206,"Powhatan County,Virginia","Amherst County,Virginia",5786,126488
+207,"Powhatan County,Virginia","Appomattox County,Virginia",4478,101572
+208,"Powhatan County,Virginia","Arlington County,Virginia",7378,206757
+209,"Powhatan County,Virginia","Augusta County,Virginia",6867,175891
+210,"Powhatan County,Virginia","Bath County,Virginia",9841,241550
+211,"Powhatan County,Virginia","Bedford County,Virginia",7910,177635
+212,"Powhatan County,Virginia","Bland County,Virginia",14272,362813
+213,"Powhatan County,Virginia","Botetourt County,Virginia",9430,253134
+214,"Powhatan County,Virginia","Brunswick County,Virginia",5449,110596
+215,"Powhatan County,Virginia","Buchanan County,Virginia",20028,497272
+216,"Powhatan County,Virginia","Buckingham County,Virginia",3320,73550
+217,"Powhatan County,Virginia","Campbell County,Virginia",6355,140950
+218,"Powhatan County,Virginia","Caroline County,Virginia",4107,104116
+219,"Powhatan County,Virginia","Carroll County,Virginia",14393,368230
+220,"Powhatan County,Virginia","Charles City County,Virginia",4120,89827
+221,"Powhatan County,Virginia","Charlotte County,Virginia",4903,112133
+222,"Powhatan County,Virginia","Chesterfield County,Virginia",2328,48477
+223,"Powhatan County,Virginia","Clarke County,Virginia",10058,249233
+224,"Powhatan County,Virginia","Craig County,Virginia",12240,279213
+225,"Powhatan County,Virginia","Culpeper County,Virginia",6248,127988
+226,"Powhatan County,Virginia","Cumberland County,Virginia",1753,38502
+227,"Powhatan County,Virginia","Dickenson County,Virginia",20738,515450
+228,"Powhatan County,Virginia","Dinwiddie County,Virginia",4012,87053
+229,"Powhatan County,Virginia","Essex County,Virginia",5924,128159
+230,"Powhatan County,Virginia","Fairfax County,Virginia",7675,209987
+231,"Powhatan County,Virginia","Fauquier County,Virginia",7371,190000
+232,"Powhatan County,Virginia","Floyd County,Virginia",12715,284292
+233,"Powhatan County,Virginia","Fluvanna County,Virginia",3318,68096
+234,"Powhatan County,Virginia","Franklin County,Virginia",10183,234363
+235,"Powhatan County,Virginia","Frederick County,Virginia",10613,282295
+236,"Powhatan County,Virginia","Giles County,Virginia",13060,317929
+237,"Powhatan County,Virginia","Gloucester County,Virginia",6378,155339
+238,"Powhatan County,Virginia","Goochland County,Virginia",1991,37367
+239,"Powhatan County,Virginia","Grayson County,Virginia",15725,384409
+240,"Powhatan County,Virginia","Greene County,Virginia",6334,131292
+241,"Powhatan County,Virginia","Greensville County,Virginia",5624,154395
+242,"Powhatan County,Virginia","Halifax County,Virginia",6536,155278
+243,"Powhatan County,Virginia","Hanover County,Virginia",2556,59160
+244,"Powhatan County,Virginia","Henrico County,Virginia",3067,72120
+245,"Powhatan County,Virginia","Henry County,Virginia",11027,271555
+246,"Powhatan County,Virginia","Highland County,Virginia",10069,233630
+247,"Powhatan County,Virginia","Isle of Wight County,Virginia",6436,152974
+248,"Powhatan County,Virginia","James City County,Virginia",5443,141922
+249,"Powhatan County,Virginia","King and Queen County,Virginia",5101,117506
+250,"Powhatan County,Virginia","King George County,Virginia",5220,132103
+251,"Powhatan County,Virginia","King William County,Virginia",3789,87428
+252,"Powhatan County,Virginia","Lancaster County,Virginia",7582,170514
+253,"Powhatan County,Virginia","Lee County,Virginia",21232,547104
+254,"Powhatan County,Virginia","Loudoun County,Virginia",9641,263232
+255,"Powhatan County,Virginia","Louisa County,Virginia",3312,69703
+256,"Powhatan County,Virginia","Lunenburg County,Virginia",4453,95982
+257,"Powhatan County,Virginia","Madison County,Virginia",6248,131323
+258,"Powhatan County,Virginia","Mathews County,Virginia",7203,178763
+259,"Powhatan County,Virginia","Mecklenburg County,Virginia",6559,137663
+260,"Powhatan County,Virginia","Middlesex County,Virginia",5979,151540
+261,"Powhatan County,Virginia","Montgomery County,Virginia",11624,282200
+262,"Powhatan County,Virginia","Nelson County,Virginia",5342,112119
+263,"Powhatan County,Virginia","New Kent County,Virginia",4880,115836
+264,"Powhatan County,Virginia","Northampton County,Virginia",9861,258585
+265,"Powhatan County,Virginia","Northumberland County,Virginia",7621,169026
+266,"Powhatan County,Virginia","Nottoway County,Virginia",3042,67095
+267,"Powhatan County,Virginia","Orange County,Virginia",4893,97747
+268,"Powhatan County,Virginia","Page County,Virginia",8608,182976
+269,"Powhatan County,Virginia","Patrick County,Virginia",12609,310462
+270,"Powhatan County,Virginia","Pittsylvania County,Virginia",9103,215560
+271,"Powhatan County,Virginia","Prince Edward County,Virginia",3781,85251
+272,"Powhatan County,Virginia","Prince George County,Virginia",3971,92227
+273,"Powhatan County,Virginia","Prince William County,Virginia",7834,199835
+274,"Powhatan County,Virginia","Pulaski County,Virginia",12352,304833
+275,"Powhatan County,Virginia","Rappahannock County,Virginia",7822,157565
+276,"Powhatan County,Virginia","Richmond County,Virginia",6321,141669
+277,"Powhatan County,Virginia","Roanoke County,Virginia",10616,247138
+278,"Powhatan County,Virginia","Rockbridge County,Virginia",8172,219143
+279,"Powhatan County,Virginia","Rockingham County,Virginia",8226,216037
+280,"Powhatan County,Virginia","Russell County,Virginia",19194,480609
+281,"Powhatan County,Virginia","Scott County,Virginia",19806,507832
+282,"Powhatan County,Virginia","Shenandoah County,Virginia",8730,246140
+283,"Powhatan County,Virginia","Smyth County,Virginia",15388,391554
+284,"Powhatan County,Virginia","Southampton County,Virginia",6002,150509
+285,"Powhatan County,Virginia","Spotsylvania County,Virginia",5117,127067
+286,"Powhatan County,Virginia","Stafford County,Virginia",5189,144538
+287,"Powhatan County,Virginia","Surry County,Virginia",5304,117061
+288,"Powhatan County,Virginia","Sussex County,Virginia",4665,120752
+289,"Powhatan County,Virginia","Tazewell County,Virginia",16849,431630
+290,"Powhatan County,Virginia","Warren County,Virginia",9455,201616
+291,"Powhatan County,Virginia","Washington County,Virginia",16782,431020
+292,"Powhatan County,Virginia","Westmoreland County,Virginia",6194,148927
+293,"Powhatan County,Virginia","Wise County,Virginia",20645,521952
+294,"Powhatan County,Virginia","Wythe County,Virginia",13642,343539
+295,"Powhatan County,Virginia","York County,Virginia",6731,172696
+296,"Powhatan County,Virginia","Alexandria City County,Virginia",7349,203806
+297,"Powhatan County,Virginia","Bedford City County,Virginia",7411,172719
+298,"Powhatan County,Virginia","Bristol City County,Virginia",17257,456737
+299,"Powhatan County,Virginia","Buena Vista City County,Virginia",7540,163219
+300,"Powhatan County,Virginia","Charlottesville City County,Virginia",4165,98664
+301,"Powhatan County,Virginia","Chesapeake City County,Virginia",8194,225602
+302,"Powhatan County,Virginia","Clifton Forge City County,Virginia",9025,251016
+303,"Powhatan County,Virginia","Colonial Heights City County,Virginia",3020,71104
+304,"Powhatan County,Virginia","Covington City County,Virginia",9768,269358
+305,"Powhatan County,Virginia","Danville City County,Virginia",8483,202529
+306,"Powhatan County,Virginia","Emporia City County,Virginia",5331,140989
+307,"Powhatan County,Virginia","Fairfax City County,Virginia",7609,198769
+308,"Powhatan County,Virginia","Falls Church City County,Virginia",7557,211055
+309,"Powhatan County,Virginia","Franklin City County,Virginia",6549,158364
+310,"Powhatan County,Virginia","Fredericksburg City County,Virginia",4988,130474
+311,"Powhatan County,Virginia","Galax City County,Virginia",15017,374096
+312,"Powhatan County,Virginia","Hampton City County,Virginia",6681,182403
+313,"Powhatan County,Virginia","Harrisonburg City County,Virginia",7285,195933
+314,"Powhatan County,Virginia","Hopewell City County,Virginia",3057,70071
+315,"Powhatan County,Virginia","Lexington City County,Virginia",7690,209387
+316,"Powhatan County,Virginia","Lynchburg City County,Virginia",6138,136267
+317,"Powhatan County,Virginia","Manassas City County,Virginia",7578,197172
+318,"Powhatan County,Virginia","Manassas Park City County,Virginia",7798,194372
+319,"Powhatan County,Virginia","Martinsville City County,Virginia",10624,255534
+320,"Powhatan County,Virginia","Newport News City County,Virginia",6238,168888
+321,"Powhatan County,Virginia","Norfolk City County,Virginia",7988,207819
+322,"Powhatan County,Virginia","Norton City County,Virginia",20169,512842
+323,"Powhatan County,Virginia","Petersburg City County,Virginia",2892,72092
+324,"Powhatan County,Virginia","Poquoson City County,Virginia",6910,179465
+325,"Powhatan County,Virginia","Portsmouth City County,Virginia",7927,216639
+326,"Powhatan County,Virginia","Radford County,Virginia",11988,292044
+327,"Powhatan County,Virginia","Richmond City County,Virginia",2506,52700
+328,"Powhatan County,Virginia","Roanoke City County,Virginia",9633,218453
+329,"Powhatan County,Virginia","Salem City County,Virginia",9983,237051
+330,"Powhatan County,Virginia","South Boston City County,Virginia",6230,152529
+331,"Powhatan County,Virginia","Staunton City County,Virginia",6173,157613
+332,"Powhatan County,Virginia","Suffolk City County,Virginia",7279,167698
+333,"Powhatan County,Virginia","Virginia Beach City County,Virginia",8548,231077
+334,"Powhatan County,Virginia","Waynesboro City County,Virginia",5450,139611
+335,"Powhatan County,Virginia","Williamsburg City County,Virginia",5282,141138
+336,"Powhatan County,Virginia","Winchester City County,Virginia",10435,256043
+337,"Powhatan County,Virginia","Barbour County,West Virginia",16976,374334
+338,"Powhatan County,Virginia","Berkeley County,West Virginia",12216,306224
+339,"Powhatan County,Virginia","Boone County,West Virginia",18483,481903
+340,"Powhatan County,Virginia","Braxton County,West Virginia",18181,462578
+341,"Powhatan County,Virginia","Brooke County,West Virginia",22716,584858
+342,"Powhatan County,Virginia","Cabell County,West Virginia",20050,577809
+343,"Powhatan County,Virginia","Calhoun County,West Virginia",19952,516528
+344,"Powhatan County,Virginia","Clay County,West Virginia",18216,453361
+345,"Powhatan County,Virginia","Doddridge County,West Virginia",20429,436736
+346,"Powhatan County,Virginia","Fayette County,West Virginia",15604,400100
+347,"Powhatan County,Virginia","Gilmer County,West Virginia",19749,512258
+348,"Powhatan County,Virginia","Grant County,West Virginia",12681,335200
+349,"Powhatan County,Virginia","Greenbrier County,West Virginia",13960,359325
+350,"Powhatan County,Virginia","Hampshire County,West Virginia",12709,323616
+351,"Powhatan County,Virginia","Hancock County,West Virginia",23375,655404
+352,"Powhatan County,Virginia","Hardy County,West Virginia",11929,306529
+353,"Powhatan County,Virginia","Harrison County,West Virginia",19073,439204
+354,"Powhatan County,Virginia","Jackson County,West Virginia",19369,557620
+355,"Powhatan County,Virginia","Jefferson County,West Virginia",11114,294659
+356,"Powhatan County,Virginia","Kanawha County,West Virginia",17133,479602
+357,"Powhatan County,Virginia","Lewis County,West Virginia",18118,406699
+358,"Powhatan County,Virginia","Lincoln County,West Virginia",20715,555487
+359,"Powhatan County,Virginia","Logan County,West Virginia",20273,512392
+360,"Powhatan County,Virginia","McDowell County,West Virginia",18652,486843
+361,"Powhatan County,Virginia","Marion County,West Virginia",20103,472049
+362,"Powhatan County,Virginia","Marshall County,West Virginia",23703,579302
+363,"Powhatan County,Virginia","Mason County,West Virginia",19526,563715
+364,"Powhatan County,Virginia","Mercer County,West Virginia",15233,374106
+365,"Powhatan County,Virginia","Mineral County,West Virginia",14155,346723
+366,"Powhatan County,Virginia","Mingo County,West Virginia",20852,576327
+367,"Powhatan County,Virginia","Monongalia County,West Virginia",17857,459458
+368,"Powhatan County,Virginia","Monroe County,West Virginia",12894,345647
+369,"Powhatan County,Virginia","Morgan County,West Virginia",12461,307350
+370,"Powhatan County,Virginia","Nicholas County,West Virginia",15799,412750
+371,"Powhatan County,Virginia","Ohio County,West Virginia",22623,593805
+372,"Powhatan County,Virginia","Pendleton County,West Virginia",11073,267221
+373,"Powhatan County,Virginia","Pleasants County,West Virginia",21871,515345
+374,"Powhatan County,Virginia","Pocahontas County,West Virginia",13532,295315
+375,"Powhatan County,Virginia","Preston County,West Virginia",16861,413651
+376,"Powhatan County,Virginia","Putnam County,West Virginia",18307,529334
+377,"Powhatan County,Virginia","Raleigh County,West Virginia",14157,404783
+378,"Powhatan County,Virginia","Randolph County,West Virginia",14992,327728
+379,"Powhatan County,Virginia","Ritchie County,West Virginia",21782,509646
+380,"Powhatan County,Virginia","Roane County,West Virginia",20995,586435
+381,"Powhatan County,Virginia","Summers County,West Virginia",14879,384660
+382,"Powhatan County,Virginia","Taylor County,West Virginia",17204,431472
+383,"Powhatan County,Virginia","Tucker County,West Virginia",15341,396847
+384,"Powhatan County,Virginia","Tyler County,West Virginia",22798,508011
+385,"Powhatan County,Virginia","Upshur County,West Virginia",17587,363371
+386,"Powhatan County,Virginia","Wayne County,West Virginia",21642,610435
+387,"Powhatan County,Virginia","Webster County,West Virginia",17419,374736
+388,"Powhatan County,Virginia","Wetzel County,West Virginia",21752,490687
+389,"Powhatan County,Virginia","Wirt County,West Virginia",21636,614957
+390,"Powhatan County,Virginia","Wood County,West Virginia",21150,616647
+391,"Powhatan County,Virginia","Wyoming County,West Virginia",16102,444725

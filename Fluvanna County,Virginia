@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Fluvanna County,Virginia","Adair County,Kentucky",30552,810664
+1,"Fluvanna County,Virginia","Allen County,Kentucky",31948,930474
+2,"Fluvanna County,Virginia","Anderson County,Kentucky",26180,773449
+3,"Fluvanna County,Virginia","Ballard County,Kentucky",38852,1165729
+4,"Fluvanna County,Virginia","Barren County,Kentucky",31737,889419
+5,"Fluvanna County,Virginia","Bath County,Kentucky",21827,644631
+6,"Fluvanna County,Virginia","Bell County,Kentucky",23047,611971
+7,"Fluvanna County,Virginia","Boone County,Kentucky",27640,766024
+8,"Fluvanna County,Virginia","Bourbon County,Kentucky",23741,691048
+9,"Fluvanna County,Virginia","Boyd County,Kentucky",18503,538955
+10,"Fluvanna County,Virginia","Boyle County,Kentucky",27409,777336
+11,"Fluvanna County,Virginia","Bracken County,Kentucky",24152,685131
+12,"Fluvanna County,Virginia","Breathitt County,Kentucky",24672,647734
+13,"Fluvanna County,Virginia","Breckinridge County,Kentucky",31713,926131
+14,"Fluvanna County,Virginia","Bullitt County,Kentucky",28283,847250
+15,"Fluvanna County,Virginia","Butler County,Kentucky",32378,948128
+16,"Fluvanna County,Virginia","Caldwell County,Kentucky",35270,1054074
+17,"Fluvanna County,Virginia","Calloway County,Kentucky",36693,1097588
+18,"Fluvanna County,Virginia","Campbell County,Kentucky",25852,725002
+19,"Fluvanna County,Virginia","Carlisle County,Kentucky",39310,1181097
+20,"Fluvanna County,Virginia","Carroll County,Kentucky",28724,821264
+21,"Fluvanna County,Virginia","Carter County,Kentucky",19667,569052
+22,"Fluvanna County,Virginia","Casey County,Kentucky",28903,808841
+23,"Fluvanna County,Virginia","Christian County,Kentucky",33586,1018568
+24,"Fluvanna County,Virginia","Clay County,Kentucky",25619,672313
+25,"Fluvanna County,Virginia","Clinton County,Kentucky",28995,809879
+26,"Fluvanna County,Virginia","Crittenden County,Kentucky",36850,1087144
+27,"Fluvanna County,Virginia","Cumberland County,Kentucky",29875,830547
+28,"Fluvanna County,Virginia","Daviess County,Kentucky",33401,994571
+29,"Fluvanna County,Virginia","Edmonson County,Kentucky",31818,936003
+30,"Fluvanna County,Virginia","Elliott County,Kentucky",20998,594822
+31,"Fluvanna County,Virginia","Estill County,Kentucky",24819,706946
+32,"Fluvanna County,Virginia","Fayette County,Kentucky",23987,710942
+33,"Fluvanna County,Virginia","Fleming County,Kentucky",22253,647816
+34,"Fluvanna County,Virginia","Floyd County,Kentucky",22636,646220
+35,"Fluvanna County,Virginia","Franklin County,Kentucky",26024,759859
+36,"Fluvanna County,Virginia","Fulton County,Kentucky",39713,1202061
+37,"Fluvanna County,Virginia","Gallatin County,Kentucky",27722,811922
+38,"Fluvanna County,Virginia","Garrard County,Kentucky",26592,758096
+39,"Fluvanna County,Virginia","Grant County,Kentucky",26521,786030
+40,"Fluvanna County,Virginia","Graves County,Kentucky",38334,1153803
+41,"Fluvanna County,Virginia","Grayson County,Kentucky",30705,904764
+42,"Fluvanna County,Virginia","Green County,Kentucky",30485,869970
+43,"Fluvanna County,Virginia","Greenup County,Kentucky",20278,580081
+44,"Fluvanna County,Virginia","Hancock County,Kentucky",32509,959024
+45,"Fluvanna County,Virginia","Hardin County,Kentucky",29581,866897
+46,"Fluvanna County,Virginia","Harlan County,Kentucky",22122,588597
+47,"Fluvanna County,Virginia","Harrison County,Kentucky",25312,724148
+48,"Fluvanna County,Virginia","Hart County,Kentucky",30381,894525
+49,"Fluvanna County,Virginia","Henderson County,Kentucky",35208,1047001
+50,"Fluvanna County,Virginia","Henry County,Kentucky",27626,803577
+51,"Fluvanna County,Virginia","Hickman County,Kentucky",39343,1182389
+52,"Fluvanna County,Virginia","Hopkins County,Kentucky",34729,1028542
+53,"Fluvanna County,Virginia","Jackson County,Kentucky",27491,708732
+54,"Fluvanna County,Virginia","Jefferson County,Kentucky",27720,819111
+55,"Fluvanna County,Virginia","Jessamine County,Kentucky",25456,732406
+56,"Fluvanna County,Virginia","Johnson County,Kentucky",21284,611851
+57,"Fluvanna County,Virginia","Kenton County,Kentucky",27009,753718
+58,"Fluvanna County,Virginia","Knott County,Kentucky",22212,590484
+59,"Fluvanna County,Virginia","Knox County,Kentucky",24377,653963
+60,"Fluvanna County,Virginia","Larue County,Kentucky",29653,854073
+61,"Fluvanna County,Virginia","Laurel County,Kentucky",26271,688790
+62,"Fluvanna County,Virginia","Lawrence County,Kentucky",20426,583275
+63,"Fluvanna County,Virginia","Lee County,Kentucky",25664,700682
+64,"Fluvanna County,Virginia","Leslie County,Kentucky",23584,616876
+65,"Fluvanna County,Virginia","Letcher County,Kentucky",20612,554031
+66,"Fluvanna County,Virginia","Lewis County,Kentucky",21705,620870
+67,"Fluvanna County,Virginia","Lincoln County,Kentucky",27302,775014
+68,"Fluvanna County,Virginia","Livingston County,Kentucky",37184,1119667
+69,"Fluvanna County,Virginia","Logan County,Kentucky",34018,971468
+70,"Fluvanna County,Virginia","Lyon County,Kentucky",36940,1096842
+71,"Fluvanna County,Virginia","McCracken County,Kentucky",37465,1133789
+72,"Fluvanna County,Virginia","McCreary County,Kentucky",26002,746725
+73,"Fluvanna County,Virginia","Madison County,Kentucky",24985,721965
+74,"Fluvanna County,Virginia","Magoffin County,Kentucky",22252,632530
+75,"Fluvanna County,Virginia","Marion County,Kentucky",28031,815682
+76,"Fluvanna County,Virginia","Marshall County,Kentucky",36879,1117361
+77,"Fluvanna County,Virginia","Martin County,Kentucky",21540,564999
+78,"Fluvanna County,Virginia","Mason County,Kentucky",23501,664676
+79,"Fluvanna County,Virginia","Meade County,Kentucky",30180,891425
+80,"Fluvanna County,Virginia","Menifee County,Kentucky",22943,656694
+81,"Fluvanna County,Virginia","Mercer County,Kentucky",26407,771393
+82,"Fluvanna County,Virginia","Metcalfe County,Kentucky",31208,840929
+83,"Fluvanna County,Virginia","Monroe County,Kentucky",30436,860968
+84,"Fluvanna County,Virginia","Montgomery County,Kentucky",22640,663171
+85,"Fluvanna County,Virginia","Morgan County,Kentucky",22721,632410
+86,"Fluvanna County,Virginia","Muhlenberg County,Kentucky",33589,995018
+87,"Fluvanna County,Virginia","Nelson County,Kentucky",27639,814754
+88,"Fluvanna County,Virginia","Nicholas County,Kentucky",24318,691054
+89,"Fluvanna County,Virginia","Ohio County,Kentucky",32502,962607
+90,"Fluvanna County,Virginia","Oldham County,Kentucky",27791,830992
+91,"Fluvanna County,Virginia","Owen County,Kentucky",26846,786636
+92,"Fluvanna County,Virginia","Owsley County,Kentucky",26809,685608
+93,"Fluvanna County,Virginia","Pendleton County,Kentucky",26089,726055
+94,"Fluvanna County,Virginia","Perry County,Kentucky",23186,610907
+95,"Fluvanna County,Virginia","Pike County,Kentucky",21735,530245
+96,"Fluvanna County,Virginia","Powell County,Kentucky",24084,692917
+97,"Fluvanna County,Virginia","Robertson County,Kentucky",24236,690560
+98,"Fluvanna County,Virginia","Rockcastle County,Kentucky",26419,763108
+99,"Fluvanna County,Virginia","Rowan County,Kentucky",20970,616838
+100,"Fluvanna County,Virginia","Russell County,Kentucky",30157,794648
+101,"Fluvanna County,Virginia","Scott County,Kentucky",24821,738969
+102,"Fluvanna County,Virginia","Shelby County,Kentucky",26648,790245
+103,"Fluvanna County,Virginia","Simpson County,Kentucky",32985,947444
+104,"Fluvanna County,Virginia","Spencer County,Kentucky",27178,796093
+105,"Fluvanna County,Virginia","Taylor County,Kentucky",29320,847178
+106,"Fluvanna County,Virginia","Todd County,Kentucky",34002,1011515
+107,"Fluvanna County,Virginia","Trigg County,Kentucky",34493,1035927
+108,"Fluvanna County,Virginia","Trimble County,Kentucky",28865,837032
+109,"Fluvanna County,Virginia","Union County,Kentucky",36927,1077447
+110,"Fluvanna County,Virginia","Warren County,Kentucky",32734,964372
+111,"Fluvanna County,Virginia","Washington County,Kentucky",27649,799990
+112,"Fluvanna County,Virginia","Wayne County,Kentucky",28506,793855
+113,"Fluvanna County,Virginia","Webster County,Kentucky",35838,1056631
+114,"Fluvanna County,Virginia","Whitley County,Kentucky",24606,731487
+115,"Fluvanna County,Virginia","Wolfe County,Kentucky",23816,655772
+116,"Fluvanna County,Virginia","Woodford County,Kentucky",25041,741605
+117,"Fluvanna County,Virginia","Adams County,Ohio",23593,667233
+118,"Fluvanna County,Virginia","Allen County,Ohio",30325,842650
+119,"Fluvanna County,Virginia","Ashland County,Ohio",28070,796542
+120,"Fluvanna County,Virginia","Ashtabula County,Ohio",26344,746768
+121,"Fluvanna County,Virginia","Athens County,Ohio",20001,572832
+122,"Fluvanna County,Virginia","Auglaize County,Ohio",29575,859350
+123,"Fluvanna County,Virginia","Belmont County,Ohio",21417,561365
+124,"Fluvanna County,Virginia","Brown County,Ohio",24838,694161
+125,"Fluvanna County,Virginia","Butler County,Ohio",27950,776186
+126,"Fluvanna County,Virginia","Carroll County,Ohio",24362,597224
+127,"Fluvanna County,Virginia","Champaign County,Ohio",26879,761448
+128,"Fluvanna County,Virginia","Clark County,Ohio",25558,720992
+129,"Fluvanna County,Virginia","Clermont County,Ohio",25672,725257
+130,"Fluvanna County,Virginia","Clinton County,Ohio",25063,708673
+131,"Fluvanna County,Virginia","Columbiana County,Ohio",23571,585745
+132,"Fluvanna County,Virginia","Coshocton County,Ohio",24385,714367
+133,"Fluvanna County,Virginia","Crawford County,Ohio",28677,807702
+134,"Fluvanna County,Virginia","Cuyahoga County,Ohio",26340,744612
+135,"Fluvanna County,Virginia","Darke County,Ohio",28673,816397
+136,"Fluvanna County,Virginia","Defiance County,Ohio",33761,920971
+137,"Fluvanna County,Virginia","Delaware County,Ohio",25831,740439
+138,"Fluvanna County,Virginia","Fairfield County,Ohio",23362,667533
+139,"Fluvanna County,Virginia","Fayette County,Ohio",23626,679137
+140,"Fluvanna County,Virginia","Franklin County,Ohio",24362,697388
+141,"Fluvanna County,Virginia","Fulton County,Ohio",33011,950426
+142,"Fluvanna County,Virginia","Gallia County,Ohio",18940,538249
+143,"Fluvanna County,Virginia","Geauga County,Ohio",25834,719431
+144,"Fluvanna County,Virginia","Greene County,Ohio",24497,712290
+145,"Fluvanna County,Virginia","Guernsey County,Ohio",21936,652286
+146,"Fluvanna County,Virginia","Hamilton County,Ohio",27452,786764
+147,"Fluvanna County,Virginia","Hancock County,Ohio",29854,848794
+148,"Fluvanna County,Virginia","Hardin County,Ohio",28836,798480
+149,"Fluvanna County,Virginia","Harrison County,Ohio",23377,600080
+150,"Fluvanna County,Virginia","Henry County,Ohio",32567,920416
+151,"Fluvanna County,Virginia","Highland County,Ohio",24130,667247
+152,"Fluvanna County,Virginia","Hocking County,Ohio",21804,623496
+153,"Fluvanna County,Virginia","Holmes County,Ohio",25444,737251
+154,"Fluvanna County,Virginia","Huron County,Ohio",29624,821904
+155,"Fluvanna County,Virginia","Jackson County,Ohio",20117,577798
+156,"Fluvanna County,Virginia","Jefferson County,Ohio",22318,560715
+157,"Fluvanna County,Virginia","Knox County,Ohio",26174,756843
+158,"Fluvanna County,Virginia","Lawrence County,Ohio",19642,544012
+159,"Fluvanna County,Virginia","Licking County,Ohio",25307,694543
+160,"Fluvanna County,Virginia","Logan County,Ohio",27857,792757
+161,"Fluvanna County,Virginia","Lorain County,Ohio",27392,774332
+162,"Fluvanna County,Virginia","Lucas County,Ohio",31966,903276
+163,"Fluvanna County,Virginia","Madison County,Ohio",25328,702222
+164,"Fluvanna County,Virginia","Mahoning County,Ohio",22831,636760
+165,"Fluvanna County,Virginia","Marion County,Ohio",27237,766532
+166,"Fluvanna County,Virginia","Medina County,Ohio",26980,759418
+167,"Fluvanna County,Virginia","Meigs County,Ohio",18882,543803
+168,"Fluvanna County,Virginia","Mercer County,Ohio",30811,886284
+169,"Fluvanna County,Virginia","Miami County,Ohio",27161,781789
+170,"Fluvanna County,Virginia","Monroe County,Ohio",22928,517433
+171,"Fluvanna County,Virginia","Montgomery County,Ohio",26531,759745
+172,"Fluvanna County,Virginia","Morgan County,Ohio",21877,628125
+173,"Fluvanna County,Virginia","Morrow County,Ohio",26639,763260
+174,"Fluvanna County,Virginia","Muskingum County,Ohio",22782,680277
+175,"Fluvanna County,Virginia","Noble County,Ohio",21377,624637
+176,"Fluvanna County,Virginia","Paulding County,Ohio",32862,918556
+177,"Fluvanna County,Virginia","Perry County,Ohio",23219,638253
+178,"Fluvanna County,Virginia","Pickaway County,Ohio",23067,659236
+179,"Fluvanna County,Virginia","Pike County,Ohio",21563,617105
+180,"Fluvanna County,Virginia","Portage County,Ohio",24685,692774
+181,"Fluvanna County,Virginia","Preble County,Ohio",28150,788323
+182,"Fluvanna County,Virginia","Putnam County,Ohio",31448,875009
+183,"Fluvanna County,Virginia","Richland County,Ohio",27668,798498
+184,"Fluvanna County,Virginia","Ross County,Ohio",21811,625542
+185,"Fluvanna County,Virginia","Sandusky County,Ohio",30253,861851
+186,"Fluvanna County,Virginia","Scioto County,Ohio",21447,601285
+187,"Fluvanna County,Virginia","Seneca County,Ohio",30228,841374
+188,"Fluvanna County,Virginia","Shelby County,Ohio",28200,818075
+189,"Fluvanna County,Virginia","Stark County,Ohio",25465,688906
+190,"Fluvanna County,Virginia","Summit County,Ohio",25743,718589
+191,"Fluvanna County,Virginia","Trumbull County,Ohio",23988,674224
+192,"Fluvanna County,Virginia","Tuscarawas County,Ohio",23810,699072
+193,"Fluvanna County,Virginia","Union County,Ohio",26361,742988
+194,"Fluvanna County,Virginia","Van Wert County,Ohio",31559,885520
+195,"Fluvanna County,Virginia","Vinton County,Ohio",22012,603303
+196,"Fluvanna County,Virginia","Warren County,Ohio",25868,742732
+197,"Fluvanna County,Virginia","Washington County,Ohio",20236,582574
+198,"Fluvanna County,Virginia","Wayne County,Ohio",26580,761363
+199,"Fluvanna County,Virginia","Williams County,Ohio",34256,981883
+200,"Fluvanna County,Virginia","Wood County,Ohio",31252,890402
+201,"Fluvanna County,Virginia","Wyandot County,Ohio",28824,812930
+202,"Fluvanna County,Virginia","Accomack County,Virginia",13743,355855
+203,"Fluvanna County,Virginia","Albemarle County,Virginia",2522,52664
+204,"Fluvanna County,Virginia","Alleghany County,Virginia",8032,221604
+205,"Fluvanna County,Virginia","Amelia County,Virginia",4474,87899
+206,"Fluvanna County,Virginia","Amherst County,Virginia",5245,107022
+207,"Fluvanna County,Virginia","Appomattox County,Virginia",4399,91734
+208,"Fluvanna County,Virginia","Arlington County,Virginia",7952,180123
+209,"Fluvanna County,Virginia","Augusta County,Virginia",4775,115298
+210,"Fluvanna County,Virginia","Bath County,Virginia",7750,180957
+211,"Fluvanna County,Virginia","Bedford County,Virginia",7728,170425
+212,"Fluvanna County,Virginia","Bland County,Virginia",12314,351288
+213,"Fluvanna County,Virginia","Botetourt County,Virginia",7339,192541
+214,"Fluvanna County,Virginia","Brunswick County,Virginia",7578,202483
+215,"Fluvanna County,Virginia","Buchanan County,Virginia",18070,485747
+216,"Fluvanna County,Virginia","Buckingham County,Virginia",3241,63712
+217,"Fluvanna County,Virginia","Campbell County,Virginia",6276,131112
+218,"Fluvanna County,Virginia","Caroline County,Virginia",5232,137200
+219,"Fluvanna County,Virginia","Carroll County,Virginia",12436,356705
+220,"Fluvanna County,Virginia","Charles City County,Virginia",5333,134235
+221,"Fluvanna County,Virginia","Charlotte County,Virginia",6051,130408
+222,"Fluvanna County,Virginia","Chesterfield County,Virginia",4469,112019
+223,"Fluvanna County,Virginia","Clarke County,Virginia",8454,181086
+224,"Fluvanna County,Virginia","Craig County,Virginia",10180,248868
+225,"Fluvanna County,Virginia","Culpeper County,Virginia",4501,84372
+226,"Fluvanna County,Virginia","Cumberland County,Virginia",2807,55431
+227,"Fluvanna County,Virginia","Dickenson County,Virginia",18780,503925
+228,"Fluvanna County,Virginia","Dinwiddie County,Virginia",6216,162450
+229,"Fluvanna County,Virginia","Essex County,Virginia",7050,161243
+230,"Fluvanna County,Virginia","Fairfax County,Virginia",8249,183352
+231,"Fluvanna County,Virginia","Fauquier County,Virginia",5767,121852
+232,"Fluvanna County,Virginia","Floyd County,Virginia",10962,298252
+233,"Fluvanna County,Virginia","Franklin County,Virginia",10104,224526
+234,"Fluvanna County,Virginia","Frederick County,Virginia",8880,248768
+235,"Fluvanna County,Virginia","Giles County,Virginia",11102,306404
+236,"Fluvanna County,Virginia","Gloucester County,Virginia",7503,188423
+237,"Fluvanna County,Virginia","Goochland County,Virginia",2018,39643
+238,"Fluvanna County,Virginia","Grayson County,Virginia",13767,372884
+239,"Fluvanna County,Virginia","Greene County,Virginia",4268,75515
+240,"Fluvanna County,Virginia","Greensville County,Virginia",7632,211202
+241,"Fluvanna County,Virginia","Halifax County,Virginia",7892,177237
+242,"Fluvanna County,Virginia","Hanover County,Virginia",3681,92244
+243,"Fluvanna County,Virginia","Henrico County,Virginia",4192,105204
+244,"Fluvanna County,Virginia","Henry County,Virginia",11559,261481
+245,"Fluvanna County,Virginia","Highland County,Virginia",7978,173037
+246,"Fluvanna County,Virginia","Isle of Wight County,Virginia",8444,209781
+247,"Fluvanna County,Virginia","James City County,Virginia",6569,175006
+248,"Fluvanna County,Virginia","King and Queen County,Virginia",6227,150590
+249,"Fluvanna County,Virginia","King George County,Virginia",6345,165187
+250,"Fluvanna County,Virginia","King William County,Virginia",4914,120512
+251,"Fluvanna County,Virginia","Lancaster County,Virginia",8707,203598
+252,"Fluvanna County,Virginia","Lee County,Virginia",19275,535579
+253,"Fluvanna County,Virginia","Loudoun County,Virginia",8435,169177
+254,"Fluvanna County,Virginia","Louisa County,Virginia",2183,40921
+255,"Fluvanna County,Virginia","Lunenburg County,Virginia",6591,144521
+256,"Fluvanna County,Virginia","Madison County,Virginia",4182,75546
+257,"Fluvanna County,Virginia","Mathews County,Virginia",8328,211847
+258,"Fluvanna County,Virginia","Mecklenburg County,Virginia",7940,168967
+259,"Fluvanna County,Virginia","Middlesex County,Virginia",7105,184624
+260,"Fluvanna County,Virginia","Montgomery County,Virginia",9667,270674
+261,"Fluvanna County,Virginia","Nelson County,Virginia",3691,74616
+262,"Fluvanna County,Virginia","New Kent County,Virginia",6005,148920
+263,"Fluvanna County,Virginia","Northampton County,Virginia",10986,291669
+264,"Fluvanna County,Virginia","Northumberland County,Virginia",8747,202110
+265,"Fluvanna County,Virginia","Nottoway County,Virginia",5753,114627
+266,"Fluvanna County,Virginia","Orange County,Virginia",3600,62023
+267,"Fluvanna County,Virginia","Page County,Virginia",6542,127198
+268,"Fluvanna County,Virginia","Patrick County,Virginia",13082,335155
+269,"Fluvanna County,Virginia","Pittsylvania County,Virginia",9115,205587
+270,"Fluvanna County,Virginia","Powhatan County,Virginia",3296,68084
+271,"Fluvanna County,Virginia","Prince Edward County,Virginia",4514,96739
+272,"Fluvanna County,Virginia","Prince George County,Virginia",5979,149034
+273,"Fluvanna County,Virginia","Prince William County,Virginia",6577,137935
+274,"Fluvanna County,Virginia","Pulaski County,Virginia",10394,293308
+275,"Fluvanna County,Virginia","Rappahannock County,Virginia",5744,111087
+276,"Fluvanna County,Virginia","Richmond County,Virginia",7447,174753
+277,"Fluvanna County,Virginia","Roanoke County,Virginia",8658,235613
+278,"Fluvanna County,Virginia","Rockbridge County,Virginia",6081,158550
+279,"Fluvanna County,Virginia","Rockingham County,Virginia",6134,155444
+280,"Fluvanna County,Virginia","Russell County,Virginia",17236,469084
+281,"Fluvanna County,Virginia","Scott County,Virginia",17848,496307
+282,"Fluvanna County,Virginia","Shenandoah County,Virginia",6638,185547
+283,"Fluvanna County,Virginia","Smyth County,Virginia",13431,380028
+284,"Fluvanna County,Virginia","Southampton County,Virginia",8010,207316
+285,"Fluvanna County,Virginia","Spotsylvania County,Virginia",4245,82144
+286,"Fluvanna County,Virginia","Stafford County,Virginia",5763,117904
+287,"Fluvanna County,Virginia","Surry County,Virginia",7312,173867
+288,"Fluvanna County,Virginia","Sussex County,Virginia",6674,177559
+289,"Fluvanna County,Virginia","Tazewell County,Virginia",14891,420105
+290,"Fluvanna County,Virginia","Warren County,Virginia",7389,145839
+291,"Fluvanna County,Virginia","Washington County,Virginia",14824,419495
+292,"Fluvanna County,Virginia","Westmoreland County,Virginia",7320,182011
+293,"Fluvanna County,Virginia","Wise County,Virginia",18687,510427
+294,"Fluvanna County,Virginia","Wythe County,Virginia",11685,332014
+295,"Fluvanna County,Virginia","York County,Virginia",7856,205780
+296,"Fluvanna County,Virginia","Alexandria City County,Virginia",7923,177171
+297,"Fluvanna County,Virginia","Bedford City County,Virginia",7230,165509
+298,"Fluvanna County,Virginia","Bristol City County,Virginia",15299,445212
+299,"Fluvanna County,Virginia","Buena Vista City County,Virginia",5739,151816
+300,"Fluvanna County,Virginia","Charlottesville City County,Virginia",2073,38071
+301,"Fluvanna County,Virginia","Chesapeake City County,Virginia",9320,258686
+302,"Fluvanna County,Virginia","Clifton Forge City County,Virginia",6933,190423
+303,"Fluvanna County,Virginia","Colonial Heights City County,Virginia",5029,127911
+304,"Fluvanna County,Virginia","Covington City County,Virginia",7676,208765
+305,"Fluvanna County,Virginia","Danville City County,Virginia",9714,221930
+306,"Fluvanna County,Virginia","Emporia City County,Virginia",7339,197795
+307,"Fluvanna County,Virginia","Fairfax City County,Virginia",7847,165555
+308,"Fluvanna County,Virginia","Falls Church City County,Virginia",8178,180027
+309,"Fluvanna County,Virginia","Franklin City County,Virginia",8557,215171
+310,"Fluvanna County,Virginia","Fredericksburg City County,Virginia",5461,99415
+311,"Fluvanna County,Virginia","Galax City County,Virginia",13059,362571
+312,"Fluvanna County,Virginia","Hampton City County,Virginia",7806,215487
+313,"Fluvanna County,Virginia","Harrisonburg City County,Virginia",5193,135340
+314,"Fluvanna County,Virginia","Hopewell City County,Virginia",5065,126877
+315,"Fluvanna County,Virginia","Lexington City County,Virginia",5599,148794
+316,"Fluvanna County,Virginia","Lynchburg City County,Virginia",5793,127078
+317,"Fluvanna County,Virginia","Manassas City County,Virginia",6926,138519
+318,"Fluvanna County,Virginia","Manassas Park City County,Virginia",7295,141767
+319,"Fluvanna County,Virginia","Martinsville City County,Virginia",10743,237696
+320,"Fluvanna County,Virginia","Newport News City County,Virginia",7363,201973
+321,"Fluvanna County,Virginia","Norfolk City County,Virginia",9113,240903
+322,"Fluvanna County,Virginia","Norton City County,Virginia",18211,501317
+323,"Fluvanna County,Virginia","Petersburg City County,Virginia",4900,128899
+324,"Fluvanna County,Virginia","Poquoson City County,Virginia",8035,212549
+325,"Fluvanna County,Virginia","Portsmouth City County,Virginia",9052,249723
+326,"Fluvanna County,Virginia","Radford County,Virginia",10030,280518
+327,"Fluvanna County,Virginia","Richmond City County,Virginia",3768,93014
+328,"Fluvanna County,Virginia","Roanoke City County,Virginia",8196,227055
+329,"Fluvanna County,Virginia","Salem City County,Virginia",8026,225526
+330,"Fluvanna County,Virginia","South Boston City County,Virginia",7586,174488
+331,"Fluvanna County,Virginia","Staunton City County,Virginia",4082,97021
+332,"Fluvanna County,Virginia","Suffolk City County,Virginia",9287,224505
+333,"Fluvanna County,Virginia","Virginia Beach City County,Virginia",9674,264161
+334,"Fluvanna County,Virginia","Waynesboro City County,Virginia",3358,79019
+335,"Fluvanna County,Virginia","Williamsburg City County,Virginia",6407,174222
+336,"Fluvanna County,Virginia","Winchester City County,Virginia",8760,244912
+337,"Fluvanna County,Virginia","Barbour County,West Virginia",14884,313742
+338,"Fluvanna County,Virginia","Berkeley County,West Virginia",10497,292119
+339,"Fluvanna County,Virginia","Boone County,West Virginia",16391,421310
+340,"Fluvanna County,Virginia","Braxton County,West Virginia",16089,401985
+341,"Fluvanna County,Virginia","Brooke County,West Virginia",20624,524266
+342,"Fluvanna County,Virginia","Cabell County,West Virginia",17959,517216
+343,"Fluvanna County,Virginia","Calhoun County,West Virginia",17860,455936
+344,"Fluvanna County,Virginia","Clay County,West Virginia",16124,392768
+345,"Fluvanna County,Virginia","Doddridge County,West Virginia",18338,376143
+346,"Fluvanna County,Virginia","Fayette County,West Virginia",13513,339508
+347,"Fluvanna County,Virginia","Gilmer County,West Virginia",17657,451665
+348,"Fluvanna County,Virginia","Grant County,West Virginia",10589,274607
+349,"Fluvanna County,Virginia","Greenbrier County,West Virginia",11868,298733
+350,"Fluvanna County,Virginia","Hampshire County,West Virginia",10617,263023
+351,"Fluvanna County,Virginia","Hancock County,West Virginia",22251,551613
+352,"Fluvanna County,Virginia","Hardy County,West Virginia",9837,245936
+353,"Fluvanna County,Virginia","Harrison County,West Virginia",16981,378611
+354,"Fluvanna County,Virginia","Jackson County,West Virginia",17278,497027
+355,"Fluvanna County,Virginia","Jefferson County,West Virginia",9792,203974
+356,"Fluvanna County,Virginia","Kanawha County,West Virginia",15041,419009
+357,"Fluvanna County,Virginia","Lewis County,West Virginia",16026,346106
+358,"Fluvanna County,Virginia","Lincoln County,West Virginia",18623,494894
+359,"Fluvanna County,Virginia","Logan County,West Virginia",18181,451799
+360,"Fluvanna County,Virginia","McDowell County,West Virginia",16560,426250
+361,"Fluvanna County,Virginia","Marion County,West Virginia",18011,411456
+362,"Fluvanna County,Virginia","Marshall County,West Virginia",21612,518710
+363,"Fluvanna County,Virginia","Mason County,West Virginia",17434,503122
+364,"Fluvanna County,Virginia","Mercer County,West Virginia",13275,362580
+365,"Fluvanna County,Virginia","Mineral County,West Virginia",12063,286130
+366,"Fluvanna County,Virginia","Mingo County,West Virginia",18760,515734
+367,"Fluvanna County,Virginia","Monongalia County,West Virginia",15765,398865
+368,"Fluvanna County,Virginia","Monroe County,West Virginia",10803,285054
+369,"Fluvanna County,Virginia","Morgan County,West Virginia",10743,293246
+370,"Fluvanna County,Virginia","Nicholas County,West Virginia",13708,352158
+371,"Fluvanna County,Virginia","Ohio County,West Virginia",20531,533212
+372,"Fluvanna County,Virginia","Pendleton County,West Virginia",8981,206628
+373,"Fluvanna County,Virginia","Pleasants County,West Virginia",19779,454752
+374,"Fluvanna County,Virginia","Pocahontas County,West Virginia",11440,234722
+375,"Fluvanna County,Virginia","Preston County,West Virginia",14769,353058
+376,"Fluvanna County,Virginia","Putnam County,West Virginia",16216,468741
+377,"Fluvanna County,Virginia","Raleigh County,West Virginia",12066,344190
+378,"Fluvanna County,Virginia","Randolph County,West Virginia",12900,267135
+379,"Fluvanna County,Virginia","Ritchie County,West Virginia",19690,449054
+380,"Fluvanna County,Virginia","Roane County,West Virginia",18903,525842
+381,"Fluvanna County,Virginia","Summers County,West Virginia",12787,324068
+382,"Fluvanna County,Virginia","Taylor County,West Virginia",15112,370879
+383,"Fluvanna County,Virginia","Tucker County,West Virginia",13249,336254
+384,"Fluvanna County,Virginia","Tyler County,West Virginia",20706,447418
+385,"Fluvanna County,Virginia","Upshur County,West Virginia",15496,302778
+386,"Fluvanna County,Virginia","Wayne County,West Virginia",19550,549842
+387,"Fluvanna County,Virginia","Webster County,West Virginia",15328,314143
+388,"Fluvanna County,Virginia","Wetzel County,West Virginia",19661,430094
+389,"Fluvanna County,Virginia","Wirt County,West Virginia",19544,554365
+390,"Fluvanna County,Virginia","Wood County,West Virginia",19058,556054
+391,"Fluvanna County,Virginia","Wyoming County,West Virginia",14010,384132

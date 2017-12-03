@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Patrick County,Virginia","Adair County,Kentucky",23280,578753
+1,"Patrick County,Virginia","Allen County,Kentucky",24676,698562
+2,"Patrick County,Virginia","Anderson County,Kentucky",22454,643488
+3,"Patrick County,Virginia","Ballard County,Kentucky",31581,933817
+4,"Patrick County,Virginia","Barren County,Kentucky",24466,657508
+5,"Patrick County,Virginia","Bath County,Kentucky",18101,514669
+6,"Patrick County,Virginia","Bell County,Kentucky",15776,380059
+7,"Patrick County,Virginia","Boone County,Kentucky",23914,636063
+8,"Patrick County,Virginia","Bourbon County,Kentucky",20015,561087
+9,"Patrick County,Virginia","Boyd County,Kentucky",14777,408994
+10,"Patrick County,Virginia","Boyle County,Kentucky",22458,552908
+11,"Patrick County,Virginia","Bracken County,Kentucky",20426,555170
+12,"Patrick County,Virginia","Breathitt County,Kentucky",17400,415823
+13,"Patrick County,Virginia","Breckinridge County,Kentucky",27987,796169
+14,"Patrick County,Virginia","Bullitt County,Kentucky",24557,717289
+15,"Patrick County,Virginia","Butler County,Kentucky",27137,768768
+16,"Patrick County,Virginia","Caldwell County,Kentucky",28720,841631
+17,"Patrick County,Virginia","Calloway County,Kentucky",29422,865677
+18,"Patrick County,Virginia","Campbell County,Kentucky",22126,595041
+19,"Patrick County,Virginia","Carlisle County,Kentucky",32038,949186
+20,"Patrick County,Virginia","Carroll County,Kentucky",24998,691303
+21,"Patrick County,Virginia","Carter County,Kentucky",15941,439091
+22,"Patrick County,Virginia","Casey County,Kentucky",23218,552027
+23,"Patrick County,Virginia","Christian County,Kentucky",26315,786656
+24,"Patrick County,Virginia","Clay County,Kentucky",18348,440401
+25,"Patrick County,Virginia","Clinton County,Kentucky",21724,577967
+26,"Patrick County,Virginia","Crittenden County,Kentucky",29985,874391
+27,"Patrick County,Virginia","Cumberland County,Kentucky",22603,598636
+28,"Patrick County,Virginia","Daviess County,Kentucky",29571,842561
+29,"Patrick County,Virginia","Edmonson County,Kentucky",26445,710870
+30,"Patrick County,Virginia","Elliott County,Kentucky",17272,464861
+31,"Patrick County,Virginia","Estill County,Kentucky",21157,512105
+32,"Patrick County,Virginia","Fayette County,Kentucky",20261,580981
+33,"Patrick County,Virginia","Fleming County,Kentucky",18527,517855
+34,"Patrick County,Virginia","Floyd County,Kentucky",16061,393131
+35,"Patrick County,Virginia","Franklin County,Kentucky",22298,629897
+36,"Patrick County,Virginia","Fulton County,Kentucky",32442,970150
+37,"Patrick County,Virginia","Gallatin County,Kentucky",23996,681961
+38,"Patrick County,Virginia","Garrard County,Kentucky",22127,537695
+39,"Patrick County,Virginia","Grant County,Kentucky",22795,656069
+40,"Patrick County,Virginia","Graves County,Kentucky",31063,921892
+41,"Patrick County,Virginia","Grayson County,Kentucky",26979,774803
+42,"Patrick County,Virginia","Green County,Kentucky",25033,620917
+43,"Patrick County,Virginia","Greenup County,Kentucky",16552,450120
+44,"Patrick County,Virginia","Hancock County,Kentucky",28783,829063
+45,"Patrick County,Virginia","Hardin County,Kentucky",25855,736936
+46,"Patrick County,Virginia","Harlan County,Kentucky",14851,356686
+47,"Patrick County,Virginia","Harrison County,Kentucky",21585,594186
+48,"Patrick County,Virginia","Hart County,Kentucky",26383,667195
+49,"Patrick County,Virginia","Henderson County,Kentucky",30073,895789
+50,"Patrick County,Virginia","Henry County,Kentucky",23900,673616
+51,"Patrick County,Virginia","Hickman County,Kentucky",32071,950477
+52,"Patrick County,Virginia","Hopkins County,Kentucky",28842,851909
+53,"Patrick County,Virginia","Jackson County,Kentucky",20220,476820
+54,"Patrick County,Virginia","Jefferson County,Kentucky",23993,689149
+55,"Patrick County,Virginia","Jessamine County,Kentucky",21730,602445
+56,"Patrick County,Virginia","Johnson County,Kentucky",16676,410361
+57,"Patrick County,Virginia","Kenton County,Kentucky",23283,623757
+58,"Patrick County,Virginia","Knott County,Kentucky",14941,358572
+59,"Patrick County,Virginia","Knox County,Kentucky",17106,422052
+60,"Patrick County,Virginia","Larue County,Kentucky",25927,724112
+61,"Patrick County,Virginia","Laurel County,Kentucky",19000,456879
+62,"Patrick County,Virginia","Lawrence County,Kentucky",16700,453314
+63,"Patrick County,Virginia","Lee County,Kentucky",19511,457012
+64,"Patrick County,Virginia","Leslie County,Kentucky",16313,384965
+65,"Patrick County,Virginia","Letcher County,Kentucky",13341,322119
+66,"Patrick County,Virginia","Lewis County,Kentucky",17979,490909
+67,"Patrick County,Virginia","Lincoln County,Kentucky",21689,537276
+68,"Patrick County,Virginia","Livingston County,Kentucky",29912,887756
+69,"Patrick County,Virginia","Logan County,Kentucky",26747,739557
+70,"Patrick County,Virginia","Lyon County,Kentucky",29669,864931
+71,"Patrick County,Virginia","McCracken County,Kentucky",30193,901877
+72,"Patrick County,Virginia","McCreary County,Kentucky",18730,514813
+73,"Patrick County,Virginia","Madison County,Kentucky",21146,535125
+74,"Patrick County,Virginia","Magoffin County,Kentucky",17020,414337
+75,"Patrick County,Virginia","Marion County,Kentucky",24156,591513
+76,"Patrick County,Virginia","Marshall County,Kentucky",29608,885449
+77,"Patrick County,Virginia","Martin County,Kentucky",17814,435038
+78,"Patrick County,Virginia","Mason County,Kentucky",19775,534715
+79,"Patrick County,Virginia","Meade County,Kentucky",26454,761464
+80,"Patrick County,Virginia","Menifee County,Kentucky",19217,526733
+81,"Patrick County,Virginia","Mercer County,Kentucky",22681,641432
+82,"Patrick County,Virginia","Metcalfe County,Kentucky",23936,609017
+83,"Patrick County,Virginia","Monroe County,Kentucky",23164,629057
+84,"Patrick County,Virginia","Montgomery County,Kentucky",18914,533210
+85,"Patrick County,Virginia","Morgan County,Kentucky",18995,502449
+86,"Patrick County,Virginia","Muhlenberg County,Kentucky",28527,822019
+87,"Patrick County,Virginia","Nelson County,Kentucky",23913,684792
+88,"Patrick County,Virginia","Nicholas County,Kentucky",20592,561093
+89,"Patrick County,Virginia","Ohio County,Kentucky",28672,810598
+90,"Patrick County,Virginia","Oldham County,Kentucky",24065,701031
+91,"Patrick County,Virginia","Owen County,Kentucky",23120,656675
+92,"Patrick County,Virginia","Owsley County,Kentucky",19538,453697
+93,"Patrick County,Virginia","Pendleton County,Kentucky",22363,596094
+94,"Patrick County,Virginia","Perry County,Kentucky",15914,378996
+95,"Patrick County,Virginia","Pike County,Kentucky",14436,327646
+96,"Patrick County,Virginia","Powell County,Kentucky",20042,480359
+97,"Patrick County,Virginia","Robertson County,Kentucky",20509,560599
+98,"Patrick County,Virginia","Rockcastle County,Kentucky",20170,498874
+99,"Patrick County,Virginia","Rowan County,Kentucky",17244,486877
+100,"Patrick County,Virginia","Russell County,Kentucky",22885,562736
+101,"Patrick County,Virginia","Scott County,Kentucky",21095,609008
+102,"Patrick County,Virginia","Shelby County,Kentucky",22922,660284
+103,"Patrick County,Virginia","Simpson County,Kentucky",25714,715532
+104,"Patrick County,Virginia","Spencer County,Kentucky",23452,666132
+105,"Patrick County,Virginia","Taylor County,Kentucky",24634,603012
+106,"Patrick County,Virginia","Todd County,Kentucky",26730,779603
+107,"Patrick County,Virginia","Trigg County,Kentucky",27222,804016
+108,"Patrick County,Virginia","Trimble County,Kentucky",25139,707071
+109,"Patrick County,Virginia","Union County,Kentucky",31491,916149
+110,"Patrick County,Virginia","Warren County,Kentucky",26139,738200
+111,"Patrick County,Virginia","Washington County,Kentucky",23923,670029
+112,"Patrick County,Virginia","Wayne County,Kentucky",21234,561944
+113,"Patrick County,Virginia","Webster County,Kentucky",29951,879997
+114,"Patrick County,Virginia","Whitley County,Kentucky",17334,499576
+115,"Patrick County,Virginia","Wolfe County,Kentucky",18894,447906
+116,"Patrick County,Virginia","Woodford County,Kentucky",21315,611644
+117,"Patrick County,Virginia","Adams County,Ohio",19867,537272
+118,"Patrick County,Virginia","Allen County,Ohio",26599,712689
+119,"Patrick County,Virginia","Ashland County,Ohio",24344,666581
+120,"Patrick County,Virginia","Ashtabula County,Ohio",27031,787478
+121,"Patrick County,Virginia","Athens County,Ohio",16275,442871
+122,"Patrick County,Virginia","Auglaize County,Ohio",25849,729389
+123,"Patrick County,Virginia","Belmont County,Ohio",20094,576403
+124,"Patrick County,Virginia","Brown County,Ohio",21112,564199
+125,"Patrick County,Virginia","Butler County,Ohio",24224,646225
+126,"Patrick County,Virginia","Carroll County,Ohio",22024,613289
+127,"Patrick County,Virginia","Champaign County,Ohio",23153,631486
+128,"Patrick County,Virginia","Clark County,Ohio",21832,591031
+129,"Patrick County,Virginia","Clermont County,Ohio",21945,595296
+130,"Patrick County,Virginia","Clinton County,Ohio",21337,578712
+131,"Patrick County,Virginia","Columbiana County,Ohio",23866,667524
+132,"Patrick County,Virginia","Coshocton County,Ohio",20659,584406
+133,"Patrick County,Virginia","Crawford County,Ohio",24951,677741
+134,"Patrick County,Virginia","Cuyahoga County,Ohio",24060,698693
+135,"Patrick County,Virginia","Darke County,Ohio",24947,686436
+136,"Patrick County,Virginia","Defiance County,Ohio",30035,791010
+137,"Patrick County,Virginia","Delaware County,Ohio",22105,610478
+138,"Patrick County,Virginia","Fairfield County,Ohio",19636,537572
+139,"Patrick County,Virginia","Fayette County,Ohio",19900,549176
+140,"Patrick County,Virginia","Franklin County,Ohio",20636,567427
+141,"Patrick County,Virginia","Fulton County,Ohio",30042,833310
+142,"Patrick County,Virginia","Gallia County,Ohio",15214,408288
+143,"Patrick County,Virginia","Geauga County,Ohio",25132,724410
+144,"Patrick County,Virginia","Greene County,Ohio",20771,582328
+145,"Patrick County,Virginia","Guernsey County,Ohio",18210,522325
+146,"Patrick County,Virginia","Hamilton County,Ohio",23726,656803
+147,"Patrick County,Virginia","Hancock County,Ohio",26128,718833
+148,"Patrick County,Virginia","Hardin County,Ohio",25110,668519
+149,"Patrick County,Virginia","Harrison County,Ohio",21030,595355
+150,"Patrick County,Virginia","Henry County,Ohio",28841,790454
+151,"Patrick County,Virginia","Highland County,Ohio",20404,537285
+152,"Patrick County,Virginia","Hocking County,Ohio",18078,493535
+153,"Patrick County,Virginia","Holmes County,Ohio",21718,607290
+154,"Patrick County,Virginia","Huron County,Ohio",26241,708209
+155,"Patrick County,Virginia","Jackson County,Ohio",16391,447837
+156,"Patrick County,Virginia","Jefferson County,Ohio",22023,605132
+157,"Patrick County,Virginia","Knox County,Ohio",22448,626882
+158,"Patrick County,Virginia","Lawrence County,Ohio",15916,414050
+159,"Patrick County,Virginia","Licking County,Ohio",21581,564582
+160,"Patrick County,Virginia","Logan County,Ohio",24131,662796
+161,"Patrick County,Virginia","Lorain County,Ohio",25284,728516
+162,"Patrick County,Virginia","Lucas County,Ohio",29763,806332
+163,"Patrick County,Virginia","Madison County,Ohio",21601,572261
+164,"Patrick County,Virginia","Mahoning County,Ohio",24361,682329
+165,"Patrick County,Virginia","Marion County,Ohio",23511,636571
+166,"Patrick County,Virginia","Medina County,Ohio",23733,684724
+167,"Patrick County,Virginia","Meigs County,Ohio",15156,413842
+168,"Patrick County,Virginia","Mercer County,Ohio",27085,756323
+169,"Patrick County,Virginia","Miami County,Ohio",23435,651828
+170,"Patrick County,Virginia","Monroe County,Ohio",19146,511516
+171,"Patrick County,Virginia","Montgomery County,Ohio",22805,629784
+172,"Patrick County,Virginia","Morgan County,Ohio",18151,498164
+173,"Patrick County,Virginia","Morrow County,Ohio",22913,633299
+174,"Patrick County,Virginia","Muskingum County,Ohio",19056,550316
+175,"Patrick County,Virginia","Noble County,Ohio",17651,494676
+176,"Patrick County,Virginia","Paulding County,Ohio",29136,788595
+177,"Patrick County,Virginia","Perry County,Ohio",19493,508291
+178,"Patrick County,Virginia","Pickaway County,Ohio",19341,529275
+179,"Patrick County,Virginia","Pike County,Ohio",17837,487144
+180,"Patrick County,Virginia","Portage County,Ohio",23582,680275
+181,"Patrick County,Virginia","Preble County,Ohio",24424,658362
+182,"Patrick County,Virginia","Putnam County,Ohio",27722,745048
+183,"Patrick County,Virginia","Richland County,Ohio",23942,668537
+184,"Patrick County,Virginia","Ross County,Ohio",18085,495581
+185,"Patrick County,Virginia","Sandusky County,Ohio",27884,737528
+186,"Patrick County,Virginia","Scioto County,Ohio",17721,471324
+187,"Patrick County,Virginia","Seneca County,Ohio",26502,711412
+188,"Patrick County,Virginia","Shelby County,Ohio",24474,688114
+189,"Patrick County,Virginia","Stark County,Ohio",21883,628524
+190,"Patrick County,Virginia","Summit County,Ohio",22641,654312
+191,"Patrick County,Virginia","Trumbull County,Ohio",25316,708576
+192,"Patrick County,Virginia","Tuscarawas County,Ohio",20084,569111
+193,"Patrick County,Virginia","Union County,Ohio",22635,613027
+194,"Patrick County,Virginia","Van Wert County,Ohio",27833,755559
+195,"Patrick County,Virginia","Vinton County,Ohio",18286,473342
+196,"Patrick County,Virginia","Warren County,Ohio",22142,612771
+197,"Patrick County,Virginia","Washington County,Ohio",16510,452613
+198,"Patrick County,Virginia","Wayne County,Ohio",22854,631402
+199,"Patrick County,Virginia","Williams County,Ohio",31212,814526
+200,"Patrick County,Virginia","Wood County,Ohio",27526,760440
+201,"Patrick County,Virginia","Wyandot County,Ohio",25098,682968
+202,"Patrick County,Virginia","Accomack County,Virginia",21973,541707
+203,"Patrick County,Virginia","Albemarle County,Virginia",11241,289142
+204,"Patrick County,Virginia","Alleghany County,Virginia",9905,222911
+205,"Patrick County,Virginia","Amelia County,Virginia",10991,276491
+206,"Patrick County,Virginia","Amherst County,Virginia",9262,220476
+207,"Patrick County,Virginia","Appomattox County,Virginia",9197,214863
+208,"Patrick County,Virginia","Arlington County,Virginia",17925,489452
+209,"Patrick County,Virginia","Augusta County,Virginia",10663,266835
+210,"Patrick County,Virginia","Bath County,Virginia",10951,239415
+211,"Patrick County,Virginia","Bedford County,Virginia",6749,129392
+212,"Patrick County,Virginia","Bland County,Virginia",5042,119377
+213,"Patrick County,Virginia","Botetourt County,Virginia",7479,163041
+214,"Patrick County,Virginia","Brunswick County,Virginia",10577,260180
+215,"Patrick County,Virginia","Buchanan County,Virginia",10799,253836
+216,"Patrick County,Virginia","Buckingham County,Virginia",10311,238773
+217,"Patrick County,Virginia","Campbell County,Virginia",7319,174526
+218,"Patrick County,Virginia","Caroline County,Virginia",15700,397540
+219,"Patrick County,Virginia","Carroll County,Virginia",2984,54901
+220,"Patrick County,Virginia","Charles City County,Virginia",14300,363168
+221,"Patrick County,Virginia","Charlotte County,Virginia",8942,217654
+222,"Patrick County,Virginia","Chesterfield County,Virginia",12686,315381
+223,"Patrick County,Virginia","Clarke County,Virginia",15421,416200
+224,"Patrick County,Virginia","Craig County,Virginia",6878,140610
+225,"Patrick County,Virginia","Culpeper County,Virginia",15038,378359
+226,"Patrick County,Virginia","Cumberland County,Virginia",11724,276005
+227,"Patrick County,Virginia","Dickenson County,Virginia",11509,272013
+228,"Patrick County,Virginia","Dinwiddie County,Virginia",11721,302285
+229,"Patrick County,Virginia","Essex County,Virginia",17424,444104
+230,"Patrick County,Virginia","Fairfax County,Virginia",17548,479727
+231,"Patrick County,Virginia","Fauquier County,Virginia",15859,437452
+232,"Patrick County,Virginia","Floyd County,Virginia",2698,46354
+233,"Patrick County,Virginia","Fluvanna County,Virginia",12919,341314
+234,"Patrick County,Virginia","Franklin County,Virginia",3621,70154
+235,"Patrick County,Virginia","Frederick County,Virginia",14873,403927
+236,"Patrick County,Virginia","Giles County,Virginia",6085,126257
+237,"Patrick County,Virginia","Gloucester County,Virginia",17182,447632
+238,"Patrick County,Virginia","Goochland County,Virginia",13596,331481
+239,"Patrick County,Virginia","Grayson County,Virginia",5297,105151
+240,"Patrick County,Virginia","Greene County,Virginia",13234,324726
+241,"Patrick County,Virginia","Greensville County,Virginia",12250,294608
+242,"Patrick County,Virginia","Halifax County,Virginia",6640,158357
+243,"Patrick County,Virginia","Hanover County,Virginia",14185,348499
+244,"Patrick County,Virginia","Henrico County,Virginia",13650,363059
+245,"Patrick County,Virginia","Henry County,Virginia",2210,47391
+246,"Patrick County,Virginia","Highland County,Virginia",13083,287207
+247,"Patrick County,Virginia","Isle of Wight County,Virginia",15533,389904
+248,"Patrick County,Virginia","James City County,Virginia",15891,398613
+249,"Patrick County,Virginia","King and Queen County,Virginia",16601,433451
+250,"Patrick County,Virginia","King George County,Virginia",16813,425527
+251,"Patrick County,Virginia","King William County,Virginia",15288,403374
+252,"Patrick County,Virginia","Lancaster County,Virginia",19049,483671
+253,"Patrick County,Virginia","Lee County,Virginia",12003,303667
+254,"Patrick County,Virginia","Loudoun County,Virginia",16916,452067
+255,"Patrick County,Virginia","Louisa County,Virginia",13480,355020
+256,"Patrick County,Virginia","Lunenburg County,Virginia",9778,234820
+257,"Patrick County,Virginia","Madison County,Virginia",14154,354467
+258,"Patrick County,Virginia","Mathews County,Virginia",18007,471055
+259,"Patrick County,Virginia","Mecklenburg County,Virginia",8673,209903
+260,"Patrick County,Virginia","Middlesex County,Virginia",16784,443832
+261,"Patrick County,Virginia","Montgomery County,Virginia",4649,90528
+262,"Patrick County,Virginia","Nelson County,Virginia",9757,241009
+263,"Patrick County,Virginia","New Kent County,Virginia",15684,408128
+264,"Patrick County,Virginia","Northampton County,Virginia",19216,477521
+265,"Patrick County,Virginia","Northumberland County,Virginia",19120,484971
+266,"Patrick County,Virginia","Nottoway County,Virginia",10654,266666
+267,"Patrick County,Virginia","Orange County,Virginia",14442,363127
+268,"Patrick County,Virginia","Page County,Virginia",13087,338252
+269,"Patrick County,Virginia","Pittsylvania County,Virginia",4526,101599
+270,"Patrick County,Virginia","Powhatan County,Virginia",12460,309170
+271,"Patrick County,Virginia","Prince Edward County,Virginia",9359,234252
+272,"Patrick County,Virginia","Prince George County,Virginia",13270,342840
+273,"Patrick County,Virginia","Prince William County,Virginia",15959,443555
+274,"Patrick County,Virginia","Pulaski County,Virginia",4702,97797
+275,"Patrick County,Virginia","Rappahannock County,Virginia",14918,374739
+276,"Patrick County,Virginia","Richmond County,Virginia",17820,457615
+277,"Patrick County,Virginia","Roanoke County,Virginia",5430,110464
+278,"Patrick County,Virginia","Rockbridge County,Virginia",8927,207112
+279,"Patrick County,Virginia","Rockingham County,Virginia",12126,310602
+280,"Patrick County,Virginia","Russell County,Virginia",9965,237173
+281,"Patrick County,Virginia","Scott County,Virginia",10577,264396
+282,"Patrick County,Virginia","Shenandoah County,Virginia",12631,340706
+283,"Patrick County,Virginia","Smyth County,Virginia",6159,148117
+284,"Patrick County,Virginia","Southampton County,Virginia",13389,335123
+285,"Patrick County,Virginia","Spotsylvania County,Virginia",15496,396858
+286,"Patrick County,Virginia","Stafford County,Virginia",16782,437962
+287,"Patrick County,Virginia","Surry County,Virginia",14958,376321
+288,"Patrick County,Virginia","Sussex County,Virginia",12712,326260
+289,"Patrick County,Virginia","Tazewell County,Virginia",7620,188194
+290,"Patrick County,Virginia","Warren County,Virginia",14533,385299
+291,"Patrick County,Virginia","Washington County,Virginia",7552,187584
+292,"Patrick County,Virginia","Westmoreland County,Virginia",17787,442351
+293,"Patrick County,Virginia","Wise County,Virginia",11416,278515
+294,"Patrick County,Virginia","Wythe County,Virginia",4413,100102
+295,"Patrick County,Virginia","York County,Virginia",17535,464989
+296,"Patrick County,Virginia","Alexandria City County,Virginia",18128,502098
+297,"Patrick County,Virginia","Bedford City County,Virginia",6691,130715
+298,"Patrick County,Virginia","Bristol City County,Virginia",8027,213301
+299,"Patrick County,Virginia","Buena Vista City County,Virginia",8299,199600
+300,"Patrick County,Virginia","Charlottesville City County,Virginia",11710,304357
+301,"Patrick County,Virginia","Chesapeake City County,Virginia",16608,416884
+302,"Patrick County,Virginia","Clifton Forge City County,Virginia",8566,189233
+303,"Patrick County,Virginia","Colonial Heights City County,Virginia",12523,327546
+304,"Patrick County,Virginia","Covington City County,Virginia",9550,210071
+305,"Patrick County,Virginia","Danville City County,Virginia",4368,101847
+306,"Patrick County,Virginia","Emporia City County,Virginia",11929,291787
+307,"Patrick County,Virginia","Fairfax City County,Virginia",17091,469303
+308,"Patrick County,Virginia","Falls Church City County,Virginia",17423,483776
+309,"Patrick County,Virginia","Franklin City County,Virginia",14016,348258
+310,"Patrick County,Virginia","Fredericksburg City County,Virginia",16629,406518
+311,"Patrick County,Virginia","Galax City County,Virginia",3825,73655
+312,"Patrick County,Virginia","Hampton City County,Virginia",17307,435278
+313,"Patrick County,Virginia","Harrisonburg City County,Virginia",11186,290499
+314,"Patrick County,Virginia","Hopewell City County,Virginia",13435,339331
+315,"Patrick County,Virginia","Lexington City County,Virginia",8213,197927
+316,"Patrick County,Virginia","Lynchburg City County,Virginia",8303,191838
+317,"Patrick County,Virginia","Manassas City County,Virginia",16186,448500
+318,"Patrick County,Virginia","Manassas Park City County,Virginia",16688,454843
+319,"Patrick County,Virginia","Martinsville City County,Virginia",2738,56185
+320,"Patrick County,Virginia","Newport News City County,Virginia",17042,461181
+321,"Patrick County,Virginia","Norfolk City County,Virginia",16560,415744
+322,"Patrick County,Virginia","Norton City County,Virginia",10940,269406
+323,"Patrick County,Virginia","Petersburg City County,Virginia",12273,325444
+324,"Patrick County,Virginia","Poquoson City County,Virginia",17714,471757
+325,"Patrick County,Virginia","Portsmouth City County,Virginia",16479,413279
+326,"Patrick County,Virginia","Radford County,Virginia",4530,82527
+327,"Patrick County,Virginia","Richmond City County,Virginia",13677,338112
+328,"Patrick County,Virginia","Roanoke City County,Virginia",5489,112779
+329,"Patrick County,Virginia","Salem City County,Virginia",5443,117119
+330,"Patrick County,Virginia","South Boston City County,Virginia",6380,156025
+331,"Patrick County,Virginia","Staunton City County,Virginia",10003,251634
+332,"Patrick County,Virginia","Suffolk City County,Virginia",15332,381560
+333,"Patrick County,Virginia","Virginia Beach City County,Virginia",17675,443540
+334,"Patrick County,Virginia","Waynesboro City County,Virginia",10341,264352
+335,"Patrick County,Virginia","Williamsburg City County,Virginia",16086,433430
+336,"Patrick County,Virginia","Winchester City County,Virginia",14752,400071
+337,"Patrick County,Virginia","Barbour County,West Virginia",17302,453837
+338,"Patrick County,Virginia","Berkeley County,West Virginia",16490,447278
+339,"Patrick County,Virginia","Boone County,West Virginia",12665,291349
+340,"Patrick County,Virginia","Braxton County,West Virginia",13992,344817
+341,"Patrick County,Virginia","Brooke County,West Virginia",21660,585631
+342,"Patrick County,Virginia","Cabell County,West Virginia",14233,387255
+343,"Patrick County,Virginia","Calhoun County,West Virginia",15667,412734
+344,"Patrick County,Virginia","Clay County,West Virginia",12658,308254
+345,"Patrick County,Virginia","Doddridge County,West Virginia",17506,430693
+346,"Patrick County,Virginia","Fayette County,West Virginia",10164,253991
+347,"Patrick County,Virginia","Gilmer County,West Virginia",15560,394497
+348,"Patrick County,Virginia","Grant County,West Virginia",16582,429765
+349,"Patrick County,Virginia","Greenbrier County,West Virginia",11967,284512
+350,"Patrick County,Virginia","Hampshire County,West Virginia",16609,418182
+351,"Patrick County,Virginia","Hancock County,West Virginia",23287,612978
+352,"Patrick County,Virginia","Hardy County,West Virginia",15830,401095
+353,"Patrick County,Virginia","Harrison County,West Virginia",16536,440208
+354,"Patrick County,Virginia","Jackson County,West Virginia",13551,367066
+355,"Patrick County,Virginia","Jefferson County,West Virginia",16541,434684
+356,"Patrick County,Virginia","Kanawha County,West Virginia",11315,289048
+357,"Patrick County,Virginia","Lewis County,West Virginia",15165,393678
+358,"Patrick County,Virginia","Lincoln County,West Virginia",14897,364933
+359,"Patrick County,Virginia","Logan County,West Virginia",14455,321838
+360,"Patrick County,Virginia","McDowell County,West Virginia",10137,216871
+361,"Patrick County,Virginia","Marion County,West Virginia",17681,467375
+362,"Patrick County,Virginia","Marshall County,West Virginia",21560,554751
+363,"Patrick County,Virginia","Mason County,West Virginia",13708,373161
+364,"Patrick County,Virginia","Mercer County,West Virginia",6744,169655
+365,"Patrick County,Virginia","Mineral County,West Virginia",18056,441289
+366,"Patrick County,Virginia","Mingo County,West Virginia",15034,385773
+367,"Patrick County,Virginia","Monongalia County,West Virginia",17891,492844
+368,"Patrick County,Virginia","Monroe County,West Virginia",8833,184170
+369,"Patrick County,Virginia","Morgan County,West Virginia",16736,448404
+370,"Patrick County,Virginia","Nicholas County,West Virginia",11611,294990
+371,"Patrick County,Virginia","Ohio County,West Virginia",21192,599888
+372,"Patrick County,Virginia","Pendleton County,West Virginia",14974,361787
+373,"Patrick County,Virginia","Pleasants County,West Virginia",17034,464917
+374,"Patrick County,Virginia","Pocahontas County,West Virginia",15046,364725
+375,"Patrick County,Virginia","Preston County,West Virginia",20037,519575
+376,"Patrick County,Virginia","Putnam County,West Virginia",12490,338780
+377,"Patrick County,Virginia","Raleigh County,West Virginia",8340,214229
+378,"Patrick County,Virginia","Randolph County,West Virginia",17667,456133
+379,"Patrick County,Virginia","Ritchie County,West Virginia",17365,478621
+380,"Patrick County,Virginia","Roane County,West Virginia",15177,395881
+381,"Patrick County,Virginia","Summers County,West Virginia",8993,180553
+382,"Patrick County,Virginia","Taylor County,West Virginia",17574,462948
+383,"Patrick County,Virginia","Tucker County,West Virginia",18733,486658
+384,"Patrick County,Virginia","Tyler County,West Virginia",18943,504533
+385,"Patrick County,Virginia","Upshur County,West Virginia",16730,408375
+386,"Patrick County,Virginia","Wayne County,West Virginia",15824,419881
+387,"Patrick County,Virginia","Webster County,West Virginia",14955,351941
+388,"Patrick County,Virginia","Wetzel County,West Virginia",19215,491690
+389,"Patrick County,Virginia","Wirt County,West Virginia",15818,424403
+390,"Patrick County,Virginia","Wood County,West Virginia",15332,426093
+391,"Patrick County,Virginia","Wyoming County,West Virginia",10284,254171

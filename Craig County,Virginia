@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Craig County,Virginia","Adair County,Kentucky",24352,613350
+1,"Craig County,Virginia","Allen County,Kentucky",25748,733160
+2,"Craig County,Virginia","Anderson County,Kentucky",20659,583025
+3,"Craig County,Virginia","Ballard County,Kentucky",32653,968415
+4,"Craig County,Virginia","Barren County,Kentucky",25538,692105
+5,"Craig County,Virginia","Bath County,Kentucky",16307,454206
+6,"Craig County,Virginia","Bell County,Kentucky",16847,414656
+7,"Craig County,Virginia","Boone County,Kentucky",22119,575599
+8,"Craig County,Virginia","Bourbon County,Kentucky",18220,500623
+9,"Craig County,Virginia","Boyd County,Kentucky",12982,348530
+10,"Craig County,Virginia","Boyle County,Kentucky",21888,586911
+11,"Craig County,Virginia","Bracken County,Kentucky",18631,494706
+12,"Craig County,Virginia","Breathitt County,Kentucky",18472,450420
+13,"Craig County,Virginia","Breckinridge County,Kentucky",26193,735706
+14,"Craig County,Virginia","Bullitt County,Kentucky",22762,656825
+15,"Craig County,Virginia","Butler County,Kentucky",26858,757704
+16,"Craig County,Virginia","Caldwell County,Kentucky",29792,876229
+17,"Craig County,Virginia","Calloway County,Kentucky",30493,900274
+18,"Craig County,Virginia","Campbell County,Kentucky",20332,534578
+19,"Craig County,Virginia","Carlisle County,Kentucky",33110,983783
+20,"Craig County,Virginia","Carroll County,Kentucky",23204,630839
+21,"Craig County,Virginia","Carter County,Kentucky",14147,378628
+22,"Craig County,Virginia","Casey County,Kentucky",23383,618416
+23,"Craig County,Virginia","Christian County,Kentucky",27386,821254
+24,"Craig County,Virginia","Clay County,Kentucky",19420,474999
+25,"Craig County,Virginia","Clinton County,Kentucky",22795,612565
+26,"Craig County,Virginia","Crittenden County,Kentucky",31057,908989
+27,"Craig County,Virginia","Cumberland County,Kentucky",23675,633233
+28,"Craig County,Virginia","Daviess County,Kentucky",27880,804146
+29,"Craig County,Virginia","Edmonson County,Kentucky",26298,745579
+30,"Craig County,Virginia","Elliott County,Kentucky",15477,404398
+31,"Craig County,Virginia","Estill County,Kentucky",19299,516521
+32,"Craig County,Virginia","Fayette County,Kentucky",18466,520518
+33,"Craig County,Virginia","Fleming County,Kentucky",16733,457392
+34,"Craig County,Virginia","Floyd County,Kentucky",15522,343728
+35,"Craig County,Virginia","Franklin County,Kentucky",20504,569434
+36,"Craig County,Virginia","Fulton County,Kentucky",33514,1004747
+37,"Craig County,Virginia","Gallatin County,Kentucky",22202,621498
+38,"Craig County,Virginia","Garrard County,Kentucky",21071,567671
+39,"Craig County,Virginia","Grant County,Kentucky",21001,595605
+40,"Craig County,Virginia","Graves County,Kentucky",32134,956489
+41,"Craig County,Virginia","Grayson County,Kentucky",25185,714340
+42,"Craig County,Virginia","Green County,Kentucky",24964,679545
+43,"Craig County,Virginia","Greenup County,Kentucky",14758,389657
+44,"Craig County,Virginia","Hancock County,Kentucky",26988,768599
+45,"Craig County,Virginia","Hardin County,Kentucky",24061,676472
+46,"Craig County,Virginia","Harlan County,Kentucky",15922,391283
+47,"Craig County,Virginia","Harrison County,Kentucky",19791,533723
+48,"Craig County,Virginia","Hart County,Kentucky",24860,704101
+49,"Craig County,Virginia","Henderson County,Kentucky",29687,856576
+50,"Craig County,Virginia","Henry County,Kentucky",22105,613153
+51,"Craig County,Virginia","Hickman County,Kentucky",33143,985075
+52,"Craig County,Virginia","Hopkins County,Kentucky",29208,838117
+53,"Craig County,Virginia","Jackson County,Kentucky",21292,511417
+54,"Craig County,Virginia","Jefferson County,Kentucky",22199,628686
+55,"Craig County,Virginia","Jessamine County,Kentucky",19935,541981
+56,"Craig County,Virginia","Johnson County,Kentucky",15764,421427
+57,"Craig County,Virginia","Kenton County,Kentucky",21489,563293
+58,"Craig County,Virginia","Knott County,Kentucky",16012,393170
+59,"Craig County,Virginia","Knox County,Kentucky",18178,456649
+60,"Craig County,Virginia","Larue County,Kentucky",24133,663648
+61,"Craig County,Virginia","Laurel County,Kentucky",20072,491476
+62,"Craig County,Virginia","Lawrence County,Kentucky",14905,392851
+63,"Craig County,Virginia","Lee County,Kentucky",20006,448626
+64,"Craig County,Virginia","Leslie County,Kentucky",17384,419562
+65,"Craig County,Virginia","Letcher County,Kentucky",14412,356717
+66,"Craig County,Virginia","Lewis County,Kentucky",16185,430445
+67,"Craig County,Virginia","Lincoln County,Kentucky",21781,584589
+68,"Craig County,Virginia","Livingston County,Kentucky",30984,922353
+69,"Craig County,Virginia","Logan County,Kentucky",27818,774154
+70,"Craig County,Virginia","Lyon County,Kentucky",30740,899528
+71,"Craig County,Virginia","McCracken County,Kentucky",31265,936475
+72,"Craig County,Virginia","McCreary County,Kentucky",19802,549410
+73,"Craig County,Virginia","Madison County,Kentucky",19465,531541
+74,"Craig County,Virginia","Magoffin County,Kentucky",16482,364934
+75,"Craig County,Virginia","Marion County,Kentucky",22510,625257
+76,"Craig County,Virginia","Marshall County,Kentucky",30679,920046
+77,"Craig County,Virginia","Martin County,Kentucky",16019,374574
+78,"Craig County,Virginia","Mason County,Kentucky",17980,474252
+79,"Craig County,Virginia","Meade County,Kentucky",24660,701001
+80,"Craig County,Virginia","Menifee County,Kentucky",17423,466270
+81,"Craig County,Virginia","Mercer County,Kentucky",20887,580969
+82,"Craig County,Virginia","Metcalfe County,Kentucky",25008,643615
+83,"Craig County,Virginia","Monroe County,Kentucky",24236,663654
+84,"Craig County,Virginia","Montgomery County,Kentucky",17120,472746
+85,"Craig County,Virginia","Morgan County,Kentucky",17201,441985
+86,"Craig County,Virginia","Muhlenberg County,Kentucky",28068,804593
+87,"Craig County,Virginia","Nelson County,Kentucky",22118,624329
+88,"Craig County,Virginia","Nicholas County,Kentucky",18798,500630
+89,"Craig County,Virginia","Ohio County,Kentucky",26982,772183
+90,"Craig County,Virginia","Oldham County,Kentucky",22271,640567
+91,"Craig County,Virginia","Owen County,Kentucky",21326,596211
+92,"Craig County,Virginia","Owsley County,Kentucky",20609,488294
+93,"Craig County,Virginia","Pendleton County,Kentucky",20569,535630
+94,"Craig County,Virginia","Perry County,Kentucky",16986,413593
+95,"Craig County,Virginia","Pike County,Kentucky",13585,293472
+96,"Craig County,Virginia","Powell County,Kentucky",18563,502492
+97,"Craig County,Virginia","Robertson County,Kentucky",18715,500136
+98,"Craig County,Virginia","Rockcastle County,Kentucky",20899,572683
+99,"Craig County,Virginia","Rowan County,Kentucky",15449,426413
+100,"Craig County,Virginia","Russell County,Kentucky",23957,597334
+101,"Craig County,Virginia","Scott County,Kentucky",19301,548545
+102,"Craig County,Virginia","Shelby County,Kentucky",21128,599821
+103,"Craig County,Virginia","Simpson County,Kentucky",26785,750130
+104,"Craig County,Virginia","Spencer County,Kentucky",21657,605669
+105,"Craig County,Virginia","Taylor County,Kentucky",23800,656753
+106,"Craig County,Virginia","Todd County,Kentucky",27802,814201
+107,"Craig County,Virginia","Trigg County,Kentucky",28293,838613
+108,"Craig County,Virginia","Trimble County,Kentucky",23344,646607
+109,"Craig County,Virginia","Union County,Kentucky",31407,887022
+110,"Craig County,Virginia","Warren County,Kentucky",27210,772797
+111,"Craig County,Virginia","Washington County,Kentucky",22128,609565
+112,"Craig County,Virginia","Wayne County,Kentucky",22306,596541
+113,"Craig County,Virginia","Webster County,Kentucky",30317,866206
+114,"Craig County,Virginia","Whitley County,Kentucky",18406,534173
+115,"Craig County,Virginia","Wolfe County,Kentucky",18296,465347
+116,"Craig County,Virginia","Woodford County,Kentucky",19520,551180
+117,"Craig County,Virginia","Adams County,Ohio",18073,476808
+118,"Craig County,Virginia","Allen County,Ohio",24805,652226
+119,"Craig County,Virginia","Ashland County,Ohio",22549,606117
+120,"Craig County,Virginia","Ashtabula County,Ohio",25237,727015
+121,"Craig County,Virginia","Athens County,Ohio",14481,382408
+122,"Craig County,Virginia","Auglaize County,Ohio",24055,668926
+123,"Craig County,Virginia","Belmont County,Ohio",18300,515939
+124,"Craig County,Virginia","Brown County,Ohio",19317,503736
+125,"Craig County,Virginia","Butler County,Ohio",22430,585762
+126,"Craig County,Virginia","Carroll County,Ohio",20230,552825
+127,"Craig County,Virginia","Champaign County,Ohio",21359,571023
+128,"Craig County,Virginia","Clark County,Ohio",20038,530567
+129,"Craig County,Virginia","Clermont County,Ohio",20151,534832
+130,"Craig County,Virginia","Clinton County,Ohio",19542,518249
+131,"Craig County,Virginia","Columbiana County,Ohio",22071,607061
+132,"Craig County,Virginia","Coshocton County,Ohio",18865,523942
+133,"Craig County,Virginia","Crawford County,Ohio",23157,617277
+134,"Craig County,Virginia","Cuyahoga County,Ohio",22266,638229
+135,"Craig County,Virginia","Darke County,Ohio",23153,625972
+136,"Craig County,Virginia","Defiance County,Ohio",28241,730547
+137,"Craig County,Virginia","Delaware County,Ohio",20311,550014
+138,"Craig County,Virginia","Fairfield County,Ohio",17841,477108
+139,"Craig County,Virginia","Fayette County,Ohio",18106,488713
+140,"Craig County,Virginia","Franklin County,Ohio",18841,506963
+141,"Craig County,Virginia","Fulton County,Ohio",28247,772846
+142,"Craig County,Virginia","Gallia County,Ohio",13419,347824
+143,"Craig County,Virginia","Geauga County,Ohio",23337,663947
+144,"Craig County,Virginia","Greene County,Ohio",18976,521865
+145,"Craig County,Virginia","Guernsey County,Ohio",16415,461861
+146,"Craig County,Virginia","Hamilton County,Ohio",21931,596339
+147,"Craig County,Virginia","Hancock County,Ohio",24334,658369
+148,"Craig County,Virginia","Hardin County,Ohio",23316,608055
+149,"Craig County,Virginia","Harrison County,Ohio",19235,534891
+150,"Craig County,Virginia","Henry County,Ohio",27047,729991
+151,"Craig County,Virginia","Highland County,Ohio",18610,476822
+152,"Craig County,Virginia","Hocking County,Ohio",16283,433072
+153,"Craig County,Virginia","Holmes County,Ohio",19924,546826
+154,"Craig County,Virginia","Huron County,Ohio",24446,647746
+155,"Craig County,Virginia","Jackson County,Ohio",14597,387373
+156,"Craig County,Virginia","Jefferson County,Ohio",20228,544669
+157,"Craig County,Virginia","Knox County,Ohio",20653,566418
+158,"Craig County,Virginia","Lawrence County,Ohio",14122,353587
+159,"Craig County,Virginia","Licking County,Ohio",19786,504118
+160,"Craig County,Virginia","Logan County,Ohio",22337,602332
+161,"Craig County,Virginia","Lorain County,Ohio",23490,668053
+162,"Craig County,Virginia","Lucas County,Ohio",27969,745869
+163,"Craig County,Virginia","Madison County,Ohio",19807,511797
+164,"Craig County,Virginia","Mahoning County,Ohio",22567,621865
+165,"Craig County,Virginia","Marion County,Ohio",21717,576107
+166,"Craig County,Virginia","Medina County,Ohio",21939,624260
+167,"Craig County,Virginia","Meigs County,Ohio",13362,353378
+168,"Craig County,Virginia","Mercer County,Ohio",25291,695859
+169,"Craig County,Virginia","Miami County,Ohio",21641,591364
+170,"Craig County,Virginia","Monroe County,Ohio",17351,451053
+171,"Craig County,Virginia","Montgomery County,Ohio",21010,569321
+172,"Craig County,Virginia","Morgan County,Ohio",16357,437701
+173,"Craig County,Virginia","Morrow County,Ohio",21118,572835
+174,"Craig County,Virginia","Muskingum County,Ohio",17261,489853
+175,"Craig County,Virginia","Noble County,Ohio",15857,434213
+176,"Craig County,Virginia","Paulding County,Ohio",27342,728132
+177,"Craig County,Virginia","Perry County,Ohio",17699,447828
+178,"Craig County,Virginia","Pickaway County,Ohio",17546,468811
+179,"Craig County,Virginia","Pike County,Ohio",16043,426680
+180,"Craig County,Virginia","Portage County,Ohio",21788,619811
+181,"Craig County,Virginia","Preble County,Ohio",22630,597898
+182,"Craig County,Virginia","Putnam County,Ohio",25928,684584
+183,"Craig County,Virginia","Richland County,Ohio",22148,608074
+184,"Craig County,Virginia","Ross County,Ohio",16290,435118
+185,"Craig County,Virginia","Sandusky County,Ohio",26090,677064
+186,"Craig County,Virginia","Scioto County,Ohio",15927,410860
+187,"Craig County,Virginia","Seneca County,Ohio",24707,650949
+188,"Craig County,Virginia","Shelby County,Ohio",22679,627650
+189,"Craig County,Virginia","Stark County,Ohio",20089,568060
+190,"Craig County,Virginia","Summit County,Ohio",20847,593849
+191,"Craig County,Virginia","Trumbull County,Ohio",23522,648113
+192,"Craig County,Virginia","Tuscarawas County,Ohio",18289,508648
+193,"Craig County,Virginia","Union County,Ohio",20841,552563
+194,"Craig County,Virginia","Van Wert County,Ohio",26039,695096
+195,"Craig County,Virginia","Vinton County,Ohio",16492,412878
+196,"Craig County,Virginia","Warren County,Ohio",20348,552308
+197,"Craig County,Virginia","Washington County,Ohio",14716,392149
+198,"Craig County,Virginia","Wayne County,Ohio",21060,570939
+199,"Craig County,Virginia","Williams County,Ohio",29418,754063
+200,"Craig County,Virginia","Wood County,Ohio",25732,699977
+201,"Craig County,Virginia","Wyandot County,Ohio",23304,622505
+202,"Craig County,Virginia","Accomack County,Virginia",22264,588537
+203,"Craig County,Virginia","Albemarle County,Virginia",8414,201036
+204,"Craig County,Virginia","Alleghany County,Virginia",4991,84948
+205,"Craig County,Virginia","Amelia County,Virginia",11149,258606
+206,"Craig County,Virginia","Amherst County,Virginia",7888,145950
+207,"Craig County,Virginia","Appomattox County,Virginia",8226,178275
+208,"Craig County,Virginia","Arlington County,Virginia",15098,401345
+209,"Craig County,Virginia","Augusta County,Virginia",7835,178729
+210,"Craig County,Virginia","Bath County,Virginia",7130,130045
+211,"Craig County,Virginia","Bedford County,Virginia",5959,109585
+212,"Craig County,Virginia","Bland County,Virginia",5429,102816
+213,"Craig County,Virginia","Botetourt County,Virginia",4170,63677
+214,"Craig County,Virginia","Brunswick County,Virginia",13692,308279
+215,"Craig County,Virginia","Buchanan County,Virginia",9949,219662
+216,"Craig County,Virginia","Buckingham County,Virginia",9340,202185
+217,"Craig County,Virginia","Campbell County,Virginia",7375,150820
+218,"Craig County,Virginia","Caroline County,Virginia",13753,369882
+219,"Craig County,Virginia","Carroll County,Virginia",6236,159390
+220,"Craig County,Virginia","Charles City County,Virginia",13853,366916
+221,"Craig County,Virginia","Charlotte County,Virginia",9924,218757
+222,"Craig County,Virginia","Chesterfield County,Virginia",12843,297496
+223,"Craig County,Virginia","Clarke County,Virginia",12593,328094
+224,"Craig County,Virginia","Culpeper County,Virginia",12211,290253
+225,"Craig County,Virginia","Cumberland County,Virginia",10754,239417
+226,"Craig County,Virginia","Dickenson County,Virginia",12629,259767
+227,"Craig County,Virginia","Dinwiddie County,Virginia",12922,301668
+228,"Craig County,Virginia","Essex County,Virginia",15570,393924
+229,"Craig County,Virginia","Fairfax County,Virginia",14721,391621
+230,"Craig County,Virginia","Fauquier County,Virginia",13032,349345
+231,"Craig County,Virginia","Floyd County,Virginia",4762,100938
+232,"Craig County,Virginia","Fluvanna County,Virginia",10092,253208
+233,"Craig County,Virginia","Franklin County,Virginia",5472,110819
+234,"Craig County,Virginia","Frederick County,Virginia",12045,315821
+235,"Craig County,Virginia","Giles County,Virginia",2777,53015
+236,"Craig County,Virginia","Gloucester County,Virginia",16024,421105
+237,"Craig County,Virginia","Goochland County,Virginia",10995,283819
+238,"Craig County,Virginia","Grayson County,Virginia",7568,175570
+239,"Craig County,Virginia","Greene County,Virginia",10406,236620
+240,"Craig County,Virginia","Greensville County,Virginia",15408,351305
+241,"Craig County,Virginia","Halifax County,Virginia",10196,204497
+242,"Craig County,Virginia","Hanover County,Virginia",12201,324925
+243,"Craig County,Virginia","Henrico County,Virginia",12713,337885
+244,"Craig County,Virginia","Henry County,Virginia",6881,145781
+245,"Craig County,Virginia","Highland County,Virginia",8885,158020
+246,"Craig County,Virginia","Isle of Wight County,Virginia",16965,442462
+247,"Craig County,Virginia","James City County,Virginia",15089,407687
+248,"Craig County,Virginia","King and Queen County,Virginia",14747,383271
+249,"Craig County,Virginia","King George County,Virginia",14866,397868
+250,"Craig County,Virginia","King William County,Virginia",13435,353194
+251,"Craig County,Virginia","Lancaster County,Virginia",17228,436279
+252,"Craig County,Virginia","Lee County,Virginia",13075,338264
+253,"Craig County,Virginia","Loudoun County,Virginia",14089,363961
+254,"Craig County,Virginia","Louisa County,Virginia",10652,266914
+255,"Craig County,Virginia","Lunenburg County,Virginia",11696,260041
+256,"Craig County,Virginia","Madison County,Virginia",11326,266361
+257,"Craig County,Virginia","Mathews County,Virginia",16849,444528
+258,"Craig County,Virginia","Mecklenburg County,Virginia",12687,273165
+259,"Craig County,Virginia","Middlesex County,Virginia",15625,417305
+260,"Craig County,Virginia","Montgomery County,Virginia",2710,52101
+261,"Craig County,Virginia","Nelson County,Virginia",8654,171817
+262,"Craig County,Virginia","New Kent County,Virginia",14525,381601
+263,"Craig County,Virginia","Northampton County,Virginia",19507,524351
+264,"Craig County,Virginia","Northumberland County,Virginia",17267,434791
+265,"Craig County,Virginia","Nottoway County,Virginia",11189,260421
+266,"Craig County,Virginia","Orange County,Virginia",11615,275021
+267,"Craig County,Virginia","Page County,Virginia",10260,250146
+268,"Craig County,Virginia","Patrick County,Virginia",6882,137841
+269,"Craig County,Virginia","Pittsylvania County,Virginia",7896,160767
+270,"Craig County,Virginia","Powhatan County,Virginia",12252,274123
+271,"Craig County,Virginia","Prince Edward County,Virginia",9804,217756
+272,"Craig County,Virginia","Prince George County,Virginia",14500,381716
+273,"Craig County,Virginia","Prince William County,Virginia",13131,355449
+274,"Craig County,Virginia","Pulaski County,Virginia",4194,95994
+275,"Craig County,Virginia","Rappahannock County,Virginia",12091,286633
+276,"Craig County,Virginia","Richmond County,Virginia",15967,407435
+277,"Craig County,Virginia","Roanoke County,Virginia",3509,61289
+278,"Craig County,Virginia","Rockbridge County,Virginia",6100,119006
+279,"Craig County,Virginia","Rockingham County,Virginia",9299,222496
+280,"Craig County,Virginia","Russell County,Virginia",9763,215613
+281,"Craig County,Virginia","Scott County,Virginia",11648,298993
+282,"Craig County,Virginia","Shenandoah County,Virginia",9804,252600
+283,"Craig County,Virginia","Smyth County,Virginia",7231,182714
+284,"Craig County,Virginia","Southampton County,Virginia",16530,439997
+285,"Craig County,Virginia","Spotsylvania County,Virginia",12668,308752
+286,"Craig County,Virginia","Stafford County,Virginia",14050,333045
+287,"Craig County,Virginia","Surry County,Virginia",15833,406549
+288,"Craig County,Virginia","Sussex County,Virginia",14931,346799
+289,"Craig County,Virginia","Tazewell County,Virginia",6770,154020
+290,"Craig County,Virginia","Warren County,Virginia",11706,297192
+291,"Craig County,Virginia","Washington County,Virginia",8624,222181
+292,"Craig County,Virginia","Westmoreland County,Virginia",15840,414693
+293,"Craig County,Virginia","Wise County,Virginia",12487,313113
+294,"Craig County,Virginia","Wythe County,Virginia",5485,134700
+295,"Craig County,Virginia","York County,Virginia",16377,438462
+296,"Craig County,Virginia","Alexandria City County,Virginia",15301,413992
+297,"Craig County,Virginia","Bedford City County,Virginia",5123,101017
+298,"Craig County,Virginia","Bristol City County,Virginia",9099,247898
+299,"Craig County,Virginia","Buena Vista City County,Virginia",5471,111494
+300,"Craig County,Virginia","Charlottesville City County,Virginia",8883,216251
+301,"Craig County,Virginia","Chesapeake City County,Virginia",17840,491367
+302,"Craig County,Virginia","Clifton Forge City County,Virginia",4662,74942
+303,"Craig County,Virginia","Colonial Heights City County,Virginia",13549,360592
+304,"Craig County,Virginia","Covington City County,Virginia",4395,70203
+305,"Craig County,Virginia","Danville City County,Virginia",8935,180984
+306,"Craig County,Virginia","Emporia City County,Virginia",15076,337669
+307,"Craig County,Virginia","Fairfax City County,Virginia",14264,381197
+308,"Craig County,Virginia","Falls Church City County,Virginia",14596,395669
+309,"Craig County,Virginia","Franklin City County,Virginia",17078,447852
+310,"Craig County,Virginia","Fredericksburg City County,Virginia",13801,318412
+311,"Craig County,Virginia","Galax City County,Virginia",6859,165257
+312,"Craig County,Virginia","Hampton City County,Virginia",16327,448168
+313,"Craig County,Virginia","Harrisonburg City County,Virginia",8358,202393
+314,"Craig County,Virginia","Hopewell City County,Virginia",13586,359559
+315,"Craig County,Virginia","Lexington City County,Virginia",5385,109821
+316,"Craig County,Virginia","Lynchburg City County,Virginia",7148,145892
+317,"Craig County,Virginia","Manassas City County,Virginia",13359,360394
+318,"Craig County,Virginia","Manassas Park City County,Virginia",13861,366737
+319,"Craig County,Virginia","Martinsville City County,Virginia",7034,140883
+320,"Craig County,Virginia","Newport News City County,Virginia",15884,434654
+321,"Craig County,Virginia","Norfolk City County,Virginia",17633,473584
+322,"Craig County,Virginia","Norton City County,Virginia",12011,304003
+323,"Craig County,Virginia","Petersburg City County,Virginia",13421,361580
+324,"Craig County,Virginia","Poquoson City County,Virginia",16556,445230
+325,"Craig County,Virginia","Portsmouth City County,Virginia",17573,482405
+326,"Craig County,Virginia","Radford County,Virginia",3577,67086
+327,"Craig County,Virginia","Richmond City County,Virginia",12289,325695
+328,"Craig County,Virginia","Roanoke City County,Virginia",3368,61178
+329,"Craig County,Virginia","Salem City County,Virginia",2845,50946
+330,"Craig County,Virginia","South Boston City County,Virginia",10365,205555
+331,"Craig County,Virginia","Staunton City County,Virginia",7175,163528
+332,"Craig County,Virginia","Suffolk City County,Virginia",17808,457186
+333,"Craig County,Virginia","Virginia Beach City County,Virginia",18194,496842
+334,"Craig County,Virginia","Waynesboro City County,Virginia",7513,176246
+335,"Craig County,Virginia","Williamsburg City County,Virginia",14928,406903
+336,"Craig County,Virginia","Winchester City County,Virginia",11925,311965
+337,"Craig County,Virginia","Barbour County,West Virginia",15119,296681
+338,"Craig County,Virginia","Berkeley County,West Virginia",13663,359172
+339,"Craig County,Virginia","Boone County,West Virginia",10870,230885
+340,"Craig County,Virginia","Braxton County,West Virginia",12198,284353
+341,"Craig County,Virginia","Brooke County,West Virginia",19866,525167
+342,"Craig County,Virginia","Cabell County,West Virginia",12438,326792
+343,"Craig County,Virginia","Calhoun County,West Virginia",13873,352270
+344,"Craig County,Virginia","Clay County,West Virginia",10863,247790
+345,"Craig County,Virginia","Doddridge County,West Virginia",15712,370230
+346,"Craig County,Virginia","Fayette County,West Virginia",8370,193528
+347,"Craig County,Virginia","Gilmer County,West Virginia",13766,334033
+348,"Craig County,Virginia","Grant County,West Virginia",13415,254267
+349,"Craig County,Virginia","Greenbrier County,West Virginia",8181,140781
+350,"Craig County,Virginia","Hampshire County,West Virginia",13782,330076
+351,"Craig County,Virginia","Hancock County,West Virginia",21492,552514
+352,"Craig County,Virginia","Hardy County,West Virginia",13002,312989
+353,"Craig County,Virginia","Harrison County,West Virginia",14741,379744
+354,"Craig County,Virginia","Jackson County,West Virginia",11757,306602
+355,"Craig County,Virginia","Jefferson County,West Virginia",13714,346578
+356,"Craig County,Virginia","Kanawha County,West Virginia",9520,228584
+357,"Craig County,Virginia","Lewis County,West Virginia",13371,333215
+358,"Craig County,Virginia","Lincoln County,West Virginia",13102,304469
+359,"Craig County,Virginia","Logan County,West Virginia",12661,261375
+360,"Craig County,Virginia","McDowell County,West Virginia",8872,173902
+361,"Craig County,Virginia","Marion County,West Virginia",15887,406912
+362,"Craig County,Virginia","Marshall County,West Virginia",19765,494288
+363,"Craig County,Virginia","Mason County,West Virginia",11914,312698
+364,"Craig County,Virginia","Mercer County,West Virginia",4949,109192
+365,"Craig County,Virginia","Mineral County,West Virginia",15228,353183
+366,"Craig County,Virginia","Mingo County,West Virginia",13240,325310
+367,"Craig County,Virginia","Monongalia County,West Virginia",16097,432380
+368,"Craig County,Virginia","Monroe County,West Virginia",5273,91232
+369,"Craig County,Virginia","Morgan County,West Virginia",13908,360298
+370,"Craig County,Virginia","Nicholas County,West Virginia",9817,234526
+371,"Craig County,Virginia","Ohio County,West Virginia",19398,539424
+372,"Craig County,Virginia","Pendleton County,West Virginia",11023,206116
+373,"Craig County,Virginia","Pleasants County,West Virginia",15240,404454
+374,"Craig County,Virginia","Pocahontas County,West Virginia",9879,177991
+375,"Craig County,Virginia","Preston County,West Virginia",17944,353176
+376,"Craig County,Virginia","Putnam County,West Virginia",10695,278316
+377,"Craig County,Virginia","Raleigh County,West Virginia",6545,153765
+378,"Craig County,Virginia","Randolph County,West Virginia",13135,250075
+379,"Craig County,Virginia","Ritchie County,West Virginia",15570,418158
+380,"Craig County,Virginia","Roane County,West Virginia",13383,335417
+381,"Craig County,Virginia","Summers County,West Virginia",5684,107311
+382,"Craig County,Virginia","Taylor County,West Virginia",15779,402484
+383,"Craig County,Virginia","Tucker County,West Virginia",15266,295299
+384,"Craig County,Virginia","Tyler County,West Virginia",17149,444069
+385,"Craig County,Virginia","Upshur County,West Virginia",14936,347912
+386,"Craig County,Virginia","Wayne County,West Virginia",14029,359418
+387,"Craig County,Virginia","Webster County,West Virginia",12773,238694
+388,"Craig County,Virginia","Wetzel County,West Virginia",17421,431227
+389,"Craig County,Virginia","Wirt County,West Virginia",14024,363940
+390,"Craig County,Virginia","Wood County,West Virginia",13538,365630
+391,"Craig County,Virginia","Wyoming County,West Virginia",8490,193707

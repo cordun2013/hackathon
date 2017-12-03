@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Nelson County,Virginia","Adair County,Kentucky",28722,740569
+1,"Nelson County,Virginia","Allen County,Kentucky",30118,860378
+2,"Nelson County,Virginia","Anderson County,Kentucky",24783,704169
+3,"Nelson County,Virginia","Ballard County,Kentucky",37023,1095633
+4,"Nelson County,Virginia","Barren County,Kentucky",29908,819324
+5,"Nelson County,Virginia","Bath County,Kentucky",20431,575350
+6,"Nelson County,Virginia","Bell County,Kentucky",21218,541875
+7,"Nelson County,Virginia","Boone County,Kentucky",26243,696743
+8,"Nelson County,Virginia","Bourbon County,Kentucky",22344,621768
+9,"Nelson County,Virginia","Boyd County,Kentucky",17106,469675
+10,"Nelson County,Virginia","Boyle County,Kentucky",26012,708056
+11,"Nelson County,Virginia","Bracken County,Kentucky",22755,615850
+12,"Nelson County,Virginia","Breathitt County,Kentucky",22842,577639
+13,"Nelson County,Virginia","Breckinridge County,Kentucky",30317,856850
+14,"Nelson County,Virginia","Bullitt County,Kentucky",26886,777970
+15,"Nelson County,Virginia","Butler County,Kentucky",30981,878848
+16,"Nelson County,Virginia","Caldwell County,Kentucky",33873,984793
+17,"Nelson County,Virginia","Calloway County,Kentucky",34864,1027493
+18,"Nelson County,Virginia","Campbell County,Kentucky",24456,655722
+19,"Nelson County,Virginia","Carlisle County,Kentucky",37480,1111002
+20,"Nelson County,Virginia","Carroll County,Kentucky",27328,751984
+21,"Nelson County,Virginia","Carter County,Kentucky",18271,499772
+22,"Nelson County,Virginia","Casey County,Kentucky",27507,739561
+23,"Nelson County,Virginia","Christian County,Kentucky",31757,948472
+24,"Nelson County,Virginia","Clay County,Kentucky",23790,602217
+25,"Nelson County,Virginia","Clinton County,Kentucky",27166,739783
+26,"Nelson County,Virginia","Crittenden County,Kentucky",35427,1036207
+27,"Nelson County,Virginia","Cumberland County,Kentucky",28045,760452
+28,"Nelson County,Virginia","Daviess County,Kentucky",32004,925291
+29,"Nelson County,Virginia","Edmonson County,Kentucky",30422,866723
+30,"Nelson County,Virginia","Elliott County,Kentucky",19601,525542
+31,"Nelson County,Virginia","Estill County,Kentucky",23423,637666
+32,"Nelson County,Virginia","Fayette County,Kentucky",22590,641662
+33,"Nelson County,Virginia","Fleming County,Kentucky",20856,578536
+34,"Nelson County,Virginia","Floyd County,Kentucky",21239,576940
+35,"Nelson County,Virginia","Franklin County,Kentucky",24628,690578
+36,"Nelson County,Virginia","Fulton County,Kentucky",37884,1131966
+37,"Nelson County,Virginia","Gallatin County,Kentucky",26326,742642
+38,"Nelson County,Virginia","Garrard County,Kentucky",25195,688815
+39,"Nelson County,Virginia","Grant County,Kentucky",25125,716750
+40,"Nelson County,Virginia","Graves County,Kentucky",36505,1083708
+41,"Nelson County,Virginia","Grayson County,Kentucky",29309,835484
+42,"Nelson County,Virginia","Green County,Kentucky",29088,800689
+43,"Nelson County,Virginia","Greenup County,Kentucky",18882,510801
+44,"Nelson County,Virginia","Hancock County,Kentucky",31112,889743
+45,"Nelson County,Virginia","Hardin County,Kentucky",28185,797617
+46,"Nelson County,Virginia","Harlan County,Kentucky",20292,518502
+47,"Nelson County,Virginia","Harrison County,Kentucky",23915,654867
+48,"Nelson County,Virginia","Hart County,Kentucky",28984,825245
+49,"Nelson County,Virginia","Henderson County,Kentucky",33811,977720
+50,"Nelson County,Virginia","Henry County,Kentucky",26229,734297
+51,"Nelson County,Virginia","Hickman County,Kentucky",37513,1112294
+52,"Nelson County,Virginia","Hopkins County,Kentucky",33332,959262
+53,"Nelson County,Virginia","Jackson County,Kentucky",25662,638636
+54,"Nelson County,Virginia","Jefferson County,Kentucky",26323,749830
+55,"Nelson County,Virginia","Jessamine County,Kentucky",24059,663126
+56,"Nelson County,Virginia","Johnson County,Kentucky",19887,542571
+57,"Nelson County,Virginia","Kenton County,Kentucky",25613,684437
+58,"Nelson County,Virginia","Knott County,Kentucky",20382,520389
+59,"Nelson County,Virginia","Knox County,Kentucky",22548,583868
+60,"Nelson County,Virginia","Larue County,Kentucky",28257,784793
+61,"Nelson County,Virginia","Laurel County,Kentucky",24442,618695
+62,"Nelson County,Virginia","Lawrence County,Kentucky",19029,513995
+63,"Nelson County,Virginia","Lee County,Kentucky",24268,631402
+64,"Nelson County,Virginia","Leslie County,Kentucky",21755,546781
+65,"Nelson County,Virginia","Letcher County,Kentucky",18783,483935
+66,"Nelson County,Virginia","Lewis County,Kentucky",20309,551590
+67,"Nelson County,Virginia","Lincoln County,Kentucky",25905,705734
+68,"Nelson County,Virginia","Livingston County,Kentucky",35354,1049572
+69,"Nelson County,Virginia","Logan County,Kentucky",32189,901373
+70,"Nelson County,Virginia","Lyon County,Kentucky",35111,1026747
+71,"Nelson County,Virginia","McCracken County,Kentucky",35635,1063693
+72,"Nelson County,Virginia","McCreary County,Kentucky",24172,676629
+73,"Nelson County,Virginia","Madison County,Kentucky",23589,652685
+74,"Nelson County,Virginia","Magoffin County,Kentucky",20855,563250
+75,"Nelson County,Virginia","Marion County,Kentucky",26634,746402
+76,"Nelson County,Virginia","Marshall County,Kentucky",35050,1047265
+77,"Nelson County,Virginia","Martin County,Kentucky",20143,495719
+78,"Nelson County,Virginia","Mason County,Kentucky",22104,595396
+79,"Nelson County,Virginia","Meade County,Kentucky",28784,822145
+80,"Nelson County,Virginia","Menifee County,Kentucky",21547,587414
+81,"Nelson County,Virginia","Mercer County,Kentucky",25011,702113
+82,"Nelson County,Virginia","Metcalfe County,Kentucky",29378,770833
+83,"Nelson County,Virginia","Monroe County,Kentucky",28606,790873
+84,"Nelson County,Virginia","Montgomery County,Kentucky",21243,593891
+85,"Nelson County,Virginia","Morgan County,Kentucky",21325,563130
+86,"Nelson County,Virginia","Muhlenberg County,Kentucky",32192,925737
+87,"Nelson County,Virginia","Nelson County,Kentucky",26242,745473
+88,"Nelson County,Virginia","Nicholas County,Kentucky",22921,621774
+89,"Nelson County,Virginia","Ohio County,Kentucky",31105,893327
+90,"Nelson County,Virginia","Oldham County,Kentucky",26395,761712
+91,"Nelson County,Virginia","Owen County,Kentucky",25450,717355
+92,"Nelson County,Virginia","Owsley County,Kentucky",24980,615513
+93,"Nelson County,Virginia","Pendleton County,Kentucky",24693,656775
+94,"Nelson County,Virginia","Perry County,Kentucky",21356,540812
+95,"Nelson County,Virginia","Pike County,Kentucky",19877,489462
+96,"Nelson County,Virginia","Powell County,Kentucky",22687,623636
+97,"Nelson County,Virginia","Robertson County,Kentucky",22839,621280
+98,"Nelson County,Virginia","Rockcastle County,Kentucky",25023,693828
+99,"Nelson County,Virginia","Rowan County,Kentucky",19573,547558
+100,"Nelson County,Virginia","Russell County,Kentucky",28327,724552
+101,"Nelson County,Virginia","Scott County,Kentucky",23425,669689
+102,"Nelson County,Virginia","Shelby County,Kentucky",25252,720965
+103,"Nelson County,Virginia","Simpson County,Kentucky",31156,877348
+104,"Nelson County,Virginia","Spencer County,Kentucky",25781,726813
+105,"Nelson County,Virginia","Taylor County,Kentucky",27924,777898
+106,"Nelson County,Virginia","Todd County,Kentucky",32172,941419
+107,"Nelson County,Virginia","Trigg County,Kentucky",32664,965832
+108,"Nelson County,Virginia","Trimble County,Kentucky",27468,767751
+109,"Nelson County,Virginia","Union County,Kentucky",35530,1008167
+110,"Nelson County,Virginia","Warren County,Kentucky",31338,895092
+111,"Nelson County,Virginia","Washington County,Kentucky",26252,730710
+112,"Nelson County,Virginia","Wayne County,Kentucky",26676,723760
+113,"Nelson County,Virginia","Webster County,Kentucky",34441,987350
+114,"Nelson County,Virginia","Whitley County,Kentucky",22776,661392
+115,"Nelson County,Virginia","Wolfe County,Kentucky",22420,586491
+116,"Nelson County,Virginia","Woodford County,Kentucky",23644,672325
+117,"Nelson County,Virginia","Adams County,Ohio",22197,597953
+118,"Nelson County,Virginia","Allen County,Ohio",28929,773370
+119,"Nelson County,Virginia","Ashland County,Ohio",26673,727261
+120,"Nelson County,Virginia","Ashtabula County,Ohio",25549,719837
+121,"Nelson County,Virginia","Athens County,Ohio",18605,503552
+122,"Nelson County,Virginia","Auglaize County,Ohio",28179,790070
+123,"Nelson County,Virginia","Belmont County,Ohio",20622,534434
+124,"Nelson County,Virginia","Brown County,Ohio",23441,624880
+125,"Nelson County,Virginia","Butler County,Ohio",26554,706906
+126,"Nelson County,Virginia","Carroll County,Ohio",23567,570293
+127,"Nelson County,Virginia","Champaign County,Ohio",25483,692167
+128,"Nelson County,Virginia","Clark County,Ohio",24162,651712
+129,"Nelson County,Virginia","Clermont County,Ohio",24275,655977
+130,"Nelson County,Virginia","Clinton County,Ohio",23666,639393
+131,"Nelson County,Virginia","Columbiana County,Ohio",22776,558814
+132,"Nelson County,Virginia","Coshocton County,Ohio",22989,645086
+133,"Nelson County,Virginia","Crawford County,Ohio",27281,738422
+134,"Nelson County,Virginia","Cuyahoga County,Ohio",25546,717681
+135,"Nelson County,Virginia","Darke County,Ohio",27276,747117
+136,"Nelson County,Virginia","Defiance County,Ohio",32365,851691
+137,"Nelson County,Virginia","Delaware County,Ohio",24435,671159
+138,"Nelson County,Virginia","Fairfield County,Ohio",21965,598253
+139,"Nelson County,Virginia","Fayette County,Ohio",22230,609857
+140,"Nelson County,Virginia","Franklin County,Ohio",22965,628108
+141,"Nelson County,Virginia","Fulton County,Ohio",32216,923496
+142,"Nelson County,Virginia","Gallia County,Ohio",17543,468969
+143,"Nelson County,Virginia","Geauga County,Ohio",25039,692500
+144,"Nelson County,Virginia","Greene County,Ohio",23100,643009
+145,"Nelson County,Virginia","Guernsey County,Ohio",20539,583005
+146,"Nelson County,Virginia","Hamilton County,Ohio",26055,717484
+147,"Nelson County,Virginia","Hancock County,Ohio",28458,779514
+148,"Nelson County,Virginia","Hardin County,Ohio",27440,729200
+149,"Nelson County,Virginia","Harrison County,Ohio",22583,573149
+150,"Nelson County,Virginia","Henry County,Ohio",31171,851135
+151,"Nelson County,Virginia","Highland County,Ohio",22734,597966
+152,"Nelson County,Virginia","Hocking County,Ohio",20407,554216
+153,"Nelson County,Virginia","Holmes County,Ohio",24048,667971
+154,"Nelson County,Virginia","Huron County,Ohio",28570,768890
+155,"Nelson County,Virginia","Jackson County,Ohio",18721,508518
+156,"Nelson County,Virginia","Jefferson County,Ohio",21523,533784
+157,"Nelson County,Virginia","Knox County,Ohio",24777,687562
+158,"Nelson County,Virginia","Lawrence County,Ohio",18246,474731
+159,"Nelson County,Virginia","Licking County,Ohio",23910,625262
+160,"Nelson County,Virginia","Logan County,Ohio",26461,723477
+161,"Nelson County,Virginia","Lorain County,Ohio",26597,747401
+162,"Nelson County,Virginia","Lucas County,Ohio",31171,876346
+163,"Nelson County,Virginia","Madison County,Ohio",23931,632941
+164,"Nelson County,Virginia","Mahoning County,Ohio",22036,609829
+165,"Nelson County,Virginia","Marion County,Ohio",25841,697252
+166,"Nelson County,Virginia","Medina County,Ohio",26063,745405
+167,"Nelson County,Virginia","Meigs County,Ohio",17486,474522
+168,"Nelson County,Virginia","Mercer County,Ohio",29415,817004
+169,"Nelson County,Virginia","Miami County,Ohio",25765,712509
+170,"Nelson County,Virginia","Monroe County,Ohio",21475,572197
+171,"Nelson County,Virginia","Montgomery County,Ohio",25134,690465
+172,"Nelson County,Virginia","Morgan County,Ohio",20481,558845
+173,"Nelson County,Virginia","Morrow County,Ohio",25242,693979
+174,"Nelson County,Virginia","Muskingum County,Ohio",21385,610997
+175,"Nelson County,Virginia","Noble County,Ohio",19981,555357
+176,"Nelson County,Virginia","Paulding County,Ohio",31466,849276
+177,"Nelson County,Virginia","Perry County,Ohio",21823,568972
+178,"Nelson County,Virginia","Pickaway County,Ohio",21670,589956
+179,"Nelson County,Virginia","Pike County,Ohio",20167,547824
+180,"Nelson County,Virginia","Portage County,Ohio",23890,665843
+181,"Nelson County,Virginia","Preble County,Ohio",26753,719043
+182,"Nelson County,Virginia","Putnam County,Ohio",30052,805729
+183,"Nelson County,Virginia","Richland County,Ohio",26272,729218
+184,"Nelson County,Virginia","Ross County,Ohio",20414,556262
+185,"Nelson County,Virginia","Sandusky County,Ohio",29458,834920
+186,"Nelson County,Virginia","Scioto County,Ohio",20051,532005
+187,"Nelson County,Virginia","Seneca County,Ohio",28831,772093
+188,"Nelson County,Virginia","Shelby County,Ohio",26803,748794
+189,"Nelson County,Virginia","Stark County,Ohio",24212,689205
+190,"Nelson County,Virginia","Summit County,Ohio",24971,714993
+191,"Nelson County,Virginia","Trumbull County,Ohio",23193,647293
+192,"Nelson County,Virginia","Tuscarawas County,Ohio",22413,629792
+193,"Nelson County,Virginia","Union County,Ohio",24965,673708
+194,"Nelson County,Virginia","Van Wert County,Ohio",30163,816240
+195,"Nelson County,Virginia","Vinton County,Ohio",20616,534023
+196,"Nelson County,Virginia","Warren County,Ohio",24472,673452
+197,"Nelson County,Virginia","Washington County,Ohio",18839,513294
+198,"Nelson County,Virginia","Wayne County,Ohio",25184,692083
+199,"Nelson County,Virginia","Williams County,Ohio",33542,875207
+200,"Nelson County,Virginia","Wood County,Ohio",29856,821121
+201,"Nelson County,Virginia","Wyandot County,Ohio",27428,743649
+202,"Nelson County,Virginia","Accomack County,Virginia",15930,431655
+203,"Nelson County,Virginia","Albemarle County,Virginia",2495,52207
+204,"Nelson County,Virginia","Alleghany County,Virginia",6635,152324
+205,"Nelson County,Virginia","Amelia County,Virginia",5903,121172
+206,"Nelson County,Virginia","Amherst County,Virginia",1639,32611
+207,"Nelson County,Virginia","Appomattox County,Virginia",2854,57240
+208,"Nelson County,Virginia","Arlington County,Virginia",9905,238382
+209,"Nelson County,Virginia","Augusta County,Virginia",3980,88367
+210,"Nelson County,Virginia","Bath County,Virginia",7180,127474
+211,"Nelson County,Virginia","Bedford County,Virginia",4123,96014
+212,"Nelson County,Virginia","Bland County,Virginia",10484,281193
+213,"Nelson County,Virginia","Botetourt County,Virginia",5627,116040
+214,"Nelson County,Virginia","Brunswick County,Virginia",8522,181927
+215,"Nelson County,Virginia","Buchanan County,Virginia",16241,415652
+216,"Nelson County,Virginia","Buckingham County,Virginia",2794,53355
+217,"Nelson County,Virginia","Campbell County,Virginia",3001,72743
+218,"Nelson County,Virginia","Caroline County,Virginia",7419,213000
+219,"Nelson County,Virginia","Carroll County,Virginia",10606,286609
+220,"Nelson County,Virginia","Charles City County,Virginia",7520,210034
+221,"Nelson County,Virginia","Charlotte County,Virginia",4836,105739
+222,"Nelson County,Virginia","Chesterfield County,Virginia",6656,187818
+223,"Nelson County,Virginia","Clarke County,Virginia",8633,234110
+224,"Nelson County,Virginia","Craig County,Virginia",8468,172367
+225,"Nelson County,Virginia","Culpeper County,Virginia",5843,132982
+226,"Nelson County,Virginia","Cumberland County,Virginia",4003,81357
+227,"Nelson County,Virginia","Dickenson County,Virginia",16950,433829
+228,"Nelson County,Virginia","Dinwiddie County,Virginia",7752,175315
+229,"Nelson County,Virginia","Essex County,Virginia",9237,237042
+230,"Nelson County,Virginia","Fairfax County,Virginia",9653,223438
+231,"Nelson County,Virginia","Fauquier County,Virginia",7117,169311
+232,"Nelson County,Virginia","Floyd County,Virginia",8928,202671
+233,"Nelson County,Virginia","Fluvanna County,Virginia",3738,77048
+234,"Nelson County,Virginia","Franklin County,Virginia",6560,163309
+235,"Nelson County,Virginia","Frederick County,Virginia",8085,221837
+236,"Nelson County,Virginia","Giles County,Virginia",9273,236308
+237,"Nelson County,Virginia","Gloucester County,Virginia",9690,264223
+238,"Nelson County,Virginia","Goochland County,Virginia",4661,126937
+239,"Nelson County,Virginia","Grayson County,Virginia",11938,302789
+240,"Nelson County,Virginia","Greene County,Virginia",4843,99523
+241,"Nelson County,Virginia","Greensville County,Virginia",9819,287001
+242,"Nelson County,Virginia","Halifax County,Virginia",6322,144450
+243,"Nelson County,Virginia","Hanover County,Virginia",5868,168043
+244,"Nelson County,Virginia","Henrico County,Virginia",6379,181003
+245,"Nelson County,Virginia","Henry County,Virginia",8015,200265
+246,"Nelson County,Virginia","Highland County,Virginia",7183,146106
+247,"Nelson County,Virginia","Isle of Wight County,Virginia",10631,285580
+248,"Nelson County,Virginia","James City County,Virginia",8756,250805
+249,"Nelson County,Virginia","King and Queen County,Virginia",8414,226389
+250,"Nelson County,Virginia","King George County,Virginia",8532,240986
+251,"Nelson County,Virginia","King William County,Virginia",7101,196312
+252,"Nelson County,Virginia","Lancaster County,Virginia",10894,279397
+253,"Nelson County,Virginia","Lee County,Virginia",17445,465483
+254,"Nelson County,Virginia","Loudoun County,Virginia",9785,216636
+255,"Nelson County,Virginia","Louisa County,Virginia",4319,110032
+256,"Nelson County,Virginia","Lunenburg County,Virginia",6608,147024
+257,"Nelson County,Virginia","Madison County,Virginia",4959,109090
+258,"Nelson County,Virginia","Mathews County,Virginia",10515,287646
+259,"Nelson County,Virginia","Mecklenburg County,Virginia",7599,160148
+260,"Nelson County,Virginia","Middlesex County,Virginia",9292,260423
+261,"Nelson County,Virginia","Montgomery County,Virginia",7837,200579
+262,"Nelson County,Virginia","New Kent County,Virginia",8192,224719
+263,"Nelson County,Virginia","Northampton County,Virginia",13173,367469
+264,"Nelson County,Virginia","Northumberland County,Virginia",10934,277909
+265,"Nelson County,Virginia","Nottoway County,Virginia",6019,134068
+266,"Nelson County,Virginia","Orange County,Virginia",5281,118139
+267,"Nelson County,Virginia","Page County,Virginia",6300,156163
+268,"Nelson County,Virginia","Patrick County,Virginia",9598,239172
+269,"Nelson County,Virginia","Pittsylvania County,Virginia",5571,144371
+270,"Nelson County,Virginia","Powhatan County,Virginia",5501,116064
+271,"Nelson County,Virginia","Prince Edward County,Virginia",4690,99732
+272,"Nelson County,Virginia","Prince George County,Virginia",8166,224834
+273,"Nelson County,Virginia","Prince William County,Virginia",7926,185393
+274,"Nelson County,Virginia","Pulaski County,Virginia",8565,223212
+275,"Nelson County,Virginia","Rappahannock County,Virginia",6488,143917
+276,"Nelson County,Virginia","Richmond County,Virginia",9634,250553
+277,"Nelson County,Virginia","Roanoke County,Virginia",6828,165518
+278,"Nelson County,Virginia","Rockbridge County,Virginia",4625,80271
+279,"Nelson County,Virginia","Rockingham County,Virginia",5339,128513
+280,"Nelson County,Virginia","Russell County,Virginia",15407,398989
+281,"Nelson County,Virginia","Scott County,Virginia",16018,426212
+282,"Nelson County,Virginia","Shenandoah County,Virginia",5844,158616
+283,"Nelson County,Virginia","Smyth County,Virginia",11601,309933
+284,"Nelson County,Virginia","Southampton County,Virginia",10197,283115
+285,"Nelson County,Virginia","Spotsylvania County,Virginia",6335,151870
+286,"Nelson County,Virginia","Stafford County,Virginia",7716,176163
+287,"Nelson County,Virginia","Surry County,Virginia",9499,249667
+288,"Nelson County,Virginia","Sussex County,Virginia",8861,253358
+289,"Nelson County,Virginia","Tazewell County,Virginia",13062,350010
+290,"Nelson County,Virginia","Warren County,Virginia",7746,203209
+291,"Nelson County,Virginia","Washington County,Virginia",12994,349400
+292,"Nelson County,Virginia","Westmoreland County,Virginia",9507,257811
+293,"Nelson County,Virginia","Wise County,Virginia",16858,440331
+294,"Nelson County,Virginia","Wythe County,Virginia",9855,261918
+295,"Nelson County,Virginia","York County,Virginia",10043,281580
+296,"Nelson County,Virginia","Alexandria City County,Virginia",9876,235431
+297,"Nelson County,Virginia","Bedford City County,Virginia",3624,91098
+298,"Nelson County,Virginia","Bristol City County,Virginia",13469,375117
+299,"Nelson County,Virginia","Buena Vista City County,Virginia",3380,61902
+300,"Nelson County,Virginia","Charlottesville City County,Virginia",2549,59369
+301,"Nelson County,Virginia","Chesapeake City County,Virginia",11507,334485
+302,"Nelson County,Virginia","Clifton Forge City County,Virginia",5537,121142
+303,"Nelson County,Virginia","Colonial Heights City County,Virginia",7216,203710
+304,"Nelson County,Virginia","Covington City County,Virginia",6280,139485
+305,"Nelson County,Virginia","Danville City County,Virginia",6170,160714
+306,"Nelson County,Virginia","Emporia City County,Virginia",9526,273595
+307,"Nelson County,Virginia","Fairfax City County,Virginia",9196,213013
+308,"Nelson County,Virginia","Falls Church City County,Virginia",9528,227486
+309,"Nelson County,Virginia","Franklin City County,Virginia",10744,290970
+310,"Nelson County,Virginia","Fredericksburg City County,Virginia",7468,161530
+311,"Nelson County,Virginia","Galax City County,Virginia",11229,292475
+312,"Nelson County,Virginia","Hampton City County,Virginia",9994,291286
+313,"Nelson County,Virginia","Harrisonburg City County,Virginia",4398,108409
+314,"Nelson County,Virginia","Hopewell City County,Virginia",7252,202677
+315,"Nelson County,Virginia","Lexington City County,Virginia",3911,71086
+316,"Nelson County,Virginia","Lynchburg City County,Virginia",2187,52667
+317,"Nelson County,Virginia","Manassas City County,Virginia",8276,185977
+318,"Nelson County,Virginia","Manassas Park City County,Virginia",8644,189225
+319,"Nelson County,Virginia","Martinsville City County,Virginia",7199,176480
+320,"Nelson County,Virginia","Newport News City County,Virginia",9550,277772
+321,"Nelson County,Virginia","Norfolk City County,Virginia",11300,316702
+322,"Nelson County,Virginia","Norton City County,Virginia",16382,431222
+323,"Nelson County,Virginia","Petersburg City County,Virginia",7087,204698
+324,"Nelson County,Virginia","Poquoson City County,Virginia",10222,288348
+325,"Nelson County,Virginia","Portsmouth City County,Virginia",11239,325523
+326,"Nelson County,Virginia","Radford County,Virginia",8201,210423
+327,"Nelson County,Virginia","Richmond City County,Virginia",5955,168813
+328,"Nelson County,Virginia","Roanoke City County,Virginia",5846,136832
+329,"Nelson County,Virginia","Salem City County,Virginia",6196,155431
+330,"Nelson County,Virginia","South Boston City County,Virginia",6325,143268
+331,"Nelson County,Virginia","Staunton City County,Virginia",3287,70090
+332,"Nelson County,Virginia","Suffolk City County,Virginia",11474,300304
+333,"Nelson County,Virginia","Virginia Beach City County,Virginia",11861,339960
+334,"Nelson County,Virginia","Waynesboro City County,Virginia",2523,50279
+335,"Nelson County,Virginia","Williamsburg City County,Virginia",8594,250021
+336,"Nelson County,Virginia","Winchester City County,Virginia",7965,217981
+337,"Nelson County,Virginia","Barbour County,West Virginia",14089,286811
+338,"Nelson County,Virginia","Berkeley County,West Virginia",9703,265189
+339,"Nelson County,Virginia","Boone County,West Virginia",14994,352030
+340,"Nelson County,Virginia","Braxton County,West Virginia",14692,332704
+341,"Nelson County,Virginia","Brooke County,West Virginia",19829,497335
+342,"Nelson County,Virginia","Cabell County,West Virginia",16562,447936
+343,"Nelson County,Virginia","Calhoun County,West Virginia",16463,386655
+344,"Nelson County,Virginia","Clay County,West Virginia",14727,323488
+345,"Nelson County,Virginia","Doddridge County,West Virginia",17543,349212
+346,"Nelson County,Virginia","Fayette County,West Virginia",12116,270227
+347,"Nelson County,Virginia","Gilmer County,West Virginia",16260,382384
+348,"Nelson County,Virginia","Grant County,West Virginia",9795,247676
+349,"Nelson County,Virginia","Greenbrier County,West Virginia",10472,229452
+350,"Nelson County,Virginia","Hampshire County,West Virginia",9822,236092
+351,"Nelson County,Virginia","Hancock County,West Virginia",21456,524682
+352,"Nelson County,Virginia","Hardy County,West Virginia",9042,219005
+353,"Nelson County,Virginia","Harrison County,West Virginia",16186,351680
+354,"Nelson County,Virginia","Jackson County,West Virginia",15881,427746
+355,"Nelson County,Virginia","Jefferson County,West Virginia",9753,252595
+356,"Nelson County,Virginia","Kanawha County,West Virginia",13644,349729
+357,"Nelson County,Virginia","Lewis County,West Virginia",15231,319175
+358,"Nelson County,Virginia","Lincoln County,West Virginia",17226,425614
+359,"Nelson County,Virginia","Logan County,West Virginia",16785,382519
+360,"Nelson County,Virginia","McDowell County,West Virginia",15164,356970
+361,"Nelson County,Virginia","Marion County,West Virginia",17216,384525
+362,"Nelson County,Virginia","Marshall County,West Virginia",20817,491779
+363,"Nelson County,Virginia","Mason County,West Virginia",16038,433842
+364,"Nelson County,Virginia","Mercer County,West Virginia",11446,292485
+365,"Nelson County,Virginia","Mineral County,West Virginia",11268,259199
+366,"Nelson County,Virginia","Mingo County,West Virginia",17364,446454
+367,"Nelson County,Virginia","Monongalia County,West Virginia",14971,371934
+368,"Nelson County,Virginia","Monroe County,West Virginia",9406,215774
+369,"Nelson County,Virginia","Morgan County,West Virginia",9948,266315
+370,"Nelson County,Virginia","Nicholas County,West Virginia",12311,282877
+371,"Nelson County,Virginia","Ohio County,West Virginia",19736,506281
+372,"Nelson County,Virginia","Pendleton County,West Virginia",8186,179697
+373,"Nelson County,Virginia","Pleasants County,West Virginia",18985,427821
+374,"Nelson County,Virginia","Pocahontas County,West Virginia",10646,207792
+375,"Nelson County,Virginia","Preston County,West Virginia",13974,326127
+376,"Nelson County,Virginia","Putnam County,West Virginia",14819,399461
+377,"Nelson County,Virginia","Raleigh County,West Virginia",10669,274910
+378,"Nelson County,Virginia","Randolph County,West Virginia",12105,240204
+379,"Nelson County,Virginia","Ritchie County,West Virginia",18895,422123
+380,"Nelson County,Virginia","Roane County,West Virginia",17507,456562
+381,"Nelson County,Virginia","Summers County,West Virginia",11390,254787
+382,"Nelson County,Virginia","Taylor County,West Virginia",14318,343948
+383,"Nelson County,Virginia","Tucker County,West Virginia",12454,309323
+384,"Nelson County,Virginia","Tyler County,West Virginia",19911,420487
+385,"Nelson County,Virginia","Upshur County,West Virginia",14701,275847
+386,"Nelson County,Virginia","Wayne County,West Virginia",18153,480562
+387,"Nelson County,Virginia","Webster County,West Virginia",14533,287213
+388,"Nelson County,Virginia","Wetzel County,West Virginia",18866,403163
+389,"Nelson County,Virginia","Wirt County,West Virginia",18147,485084
+390,"Nelson County,Virginia","Wood County,West Virginia",17662,486774
+391,"Nelson County,Virginia","Wyoming County,West Virginia",12614,314851

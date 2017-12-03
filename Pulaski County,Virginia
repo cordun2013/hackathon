@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Pulaski County,Virginia","Adair County,Kentucky",20905,524077
+1,"Pulaski County,Virginia","Allen County,Kentucky",22301,643887
+2,"Pulaski County,Virginia","Anderson County,Kentucky",19901,564258
+3,"Pulaski County,Virginia","Ballard County,Kentucky",29206,879142
+4,"Pulaski County,Virginia","Barren County,Kentucky",22091,602832
+5,"Pulaski County,Virginia","Bath County,Kentucky",15548,435439
+6,"Pulaski County,Virginia","Bell County,Kentucky",13400,325383
+7,"Pulaski County,Virginia","Boone County,Kentucky",21361,556832
+8,"Pulaski County,Virginia","Bourbon County,Kentucky",17462,481857
+9,"Pulaski County,Virginia","Boyd County,Kentucky",12224,329764
+10,"Pulaski County,Virginia","Boyle County,Kentucky",20083,498233
+11,"Pulaski County,Virginia","Bracken County,Kentucky",17873,475939
+12,"Pulaski County,Virginia","Breathitt County,Kentucky",15025,361147
+13,"Pulaski County,Virginia","Breckinridge County,Kentucky",25434,716939
+14,"Pulaski County,Virginia","Bullitt County,Kentucky",22004,638059
+15,"Pulaski County,Virginia","Butler County,Kentucky",24761,714092
+16,"Pulaski County,Virginia","Caldwell County,Kentucky",26345,786956
+17,"Pulaski County,Virginia","Calloway County,Kentucky",27046,811001
+18,"Pulaski County,Virginia","Campbell County,Kentucky",19574,515811
+19,"Pulaski County,Virginia","Carlisle County,Kentucky",29663,894510
+20,"Pulaski County,Virginia","Carroll County,Kentucky",22446,612073
+21,"Pulaski County,Virginia","Carter County,Kentucky",13388,359861
+22,"Pulaski County,Virginia","Casey County,Kentucky",20843,497351
+23,"Pulaski County,Virginia","Christian County,Kentucky",23939,731981
+24,"Pulaski County,Virginia","Clay County,Kentucky",15973,385726
+25,"Pulaski County,Virginia","Clinton County,Kentucky",19348,523292
+26,"Pulaski County,Virginia","Crittenden County,Kentucky",27610,819716
+27,"Pulaski County,Virginia","Cumberland County,Kentucky",20228,543960
+28,"Pulaski County,Virginia","Daviess County,Kentucky",27195,787885
+29,"Pulaski County,Virginia","Edmonson County,Kentucky",24070,656195
+30,"Pulaski County,Virginia","Elliott County,Kentucky",14719,385631
+31,"Pulaski County,Virginia","Estill County,Kentucky",18541,497755
+32,"Pulaski County,Virginia","Fayette County,Kentucky",17708,501751
+33,"Pulaski County,Virginia","Fleming County,Kentucky",15974,438625
+34,"Pulaski County,Virginia","Floyd County,Kentucky",13685,338456
+35,"Pulaski County,Virginia","Franklin County,Kentucky",19746,550667
+36,"Pulaski County,Virginia","Fulton County,Kentucky",30067,915474
+37,"Pulaski County,Virginia","Gallatin County,Kentucky",21443,602731
+38,"Pulaski County,Virginia","Garrard County,Kentucky",19752,483019
+39,"Pulaski County,Virginia","Grant County,Kentucky",20242,576839
+40,"Pulaski County,Virginia","Graves County,Kentucky",28687,867216
+41,"Pulaski County,Virginia","Grayson County,Kentucky",24427,695573
+42,"Pulaski County,Virginia","Green County,Kentucky",22658,566242
+43,"Pulaski County,Virginia","Greenup County,Kentucky",13999,370890
+44,"Pulaski County,Virginia","Hancock County,Kentucky",26230,749832
+45,"Pulaski County,Virginia","Hardin County,Kentucky",23303,657706
+46,"Pulaski County,Virginia","Harlan County,Kentucky",12475,302010
+47,"Pulaski County,Virginia","Harrison County,Kentucky",19033,514956
+48,"Pulaski County,Virginia","Hart County,Kentucky",24008,612519
+49,"Pulaski County,Virginia","Henderson County,Kentucky",27697,841114
+50,"Pulaski County,Virginia","Henry County,Kentucky",21347,594386
+51,"Pulaski County,Virginia","Hickman County,Kentucky",29696,895802
+52,"Pulaski County,Virginia","Hopkins County,Kentucky",26466,797233
+53,"Pulaski County,Virginia","Jackson County,Kentucky",17845,422144
+54,"Pulaski County,Virginia","Jefferson County,Kentucky",21441,609919
+55,"Pulaski County,Virginia","Jessamine County,Kentucky",19177,523215
+56,"Pulaski County,Virginia","Johnson County,Kentucky",14301,355685
+57,"Pulaski County,Virginia","Kenton County,Kentucky",20730,544526
+58,"Pulaski County,Virginia","Knott County,Kentucky",12565,303897
+59,"Pulaski County,Virginia","Knox County,Kentucky",14731,367376
+60,"Pulaski County,Virginia","Larue County,Kentucky",23374,644882
+61,"Pulaski County,Virginia","Laurel County,Kentucky",16625,402203
+62,"Pulaski County,Virginia","Lawrence County,Kentucky",14147,374084
+63,"Pulaski County,Virginia","Lee County,Kentucky",17136,402337
+64,"Pulaski County,Virginia","Leslie County,Kentucky",13938,330289
+65,"Pulaski County,Virginia","Letcher County,Kentucky",10966,267444
+66,"Pulaski County,Virginia","Lewis County,Kentucky",15427,411679
+67,"Pulaski County,Virginia","Lincoln County,Kentucky",19314,482600
+68,"Pulaski County,Virginia","Livingston County,Kentucky",27537,833080
+69,"Pulaski County,Virginia","Logan County,Kentucky",24372,684881
+70,"Pulaski County,Virginia","Lyon County,Kentucky",27293,810255
+71,"Pulaski County,Virginia","McCracken County,Kentucky",27818,847202
+72,"Pulaski County,Virginia","McCreary County,Kentucky",16355,460137
+73,"Pulaski County,Virginia","Madison County,Kentucky",18706,512774
+74,"Pulaski County,Virginia","Magoffin County,Kentucky",14645,359661
+75,"Pulaski County,Virginia","Marion County,Kentucky",21781,536838
+76,"Pulaski County,Virginia","Marshall County,Kentucky",27233,830773
+77,"Pulaski County,Virginia","Martin County,Kentucky",15261,355808
+78,"Pulaski County,Virginia","Mason County,Kentucky",17222,455485
+79,"Pulaski County,Virginia","Meade County,Kentucky",23901,682234
+80,"Pulaski County,Virginia","Menifee County,Kentucky",16664,447503
+81,"Pulaski County,Virginia","Mercer County,Kentucky",20129,562202
+82,"Pulaski County,Virginia","Metcalfe County,Kentucky",21561,554342
+83,"Pulaski County,Virginia","Monroe County,Kentucky",20789,574381
+84,"Pulaski County,Virginia","Montgomery County,Kentucky",16361,453980
+85,"Pulaski County,Virginia","Morgan County,Kentucky",16443,423219
+86,"Pulaski County,Virginia","Muhlenberg County,Kentucky",26152,767344
+87,"Pulaski County,Virginia","Nelson County,Kentucky",21360,605562
+88,"Pulaski County,Virginia","Nicholas County,Kentucky",18039,481863
+89,"Pulaski County,Virginia","Ohio County,Kentucky",26296,755922
+90,"Pulaski County,Virginia","Oldham County,Kentucky",21512,621801
+91,"Pulaski County,Virginia","Owen County,Kentucky",20568,577444
+92,"Pulaski County,Virginia","Owsley County,Kentucky",17162,399021
+93,"Pulaski County,Virginia","Pendleton County,Kentucky",19811,516864
+94,"Pulaski County,Virginia","Perry County,Kentucky",13539,324320
+95,"Pulaski County,Virginia","Pike County,Kentucky",12092,253424
+96,"Pulaski County,Virginia","Powell County,Kentucky",17667,425683
+97,"Pulaski County,Virginia","Robertson County,Kentucky",17957,481369
+98,"Pulaski County,Virginia","Rockcastle County,Kentucky",17795,444199
+99,"Pulaski County,Virginia","Rowan County,Kentucky",14691,407647
+100,"Pulaski County,Virginia","Russell County,Kentucky",20510,508061
+101,"Pulaski County,Virginia","Scott County,Kentucky",18542,529778
+102,"Pulaski County,Virginia","Shelby County,Kentucky",20370,581054
+103,"Pulaski County,Virginia","Simpson County,Kentucky",23339,660857
+104,"Pulaski County,Virginia","Spencer County,Kentucky",20899,586902
+105,"Pulaski County,Virginia","Taylor County,Kentucky",22259,548336
+106,"Pulaski County,Virginia","Todd County,Kentucky",24355,724928
+107,"Pulaski County,Virginia","Trigg County,Kentucky",24847,749340
+108,"Pulaski County,Virginia","Trimble County,Kentucky",22586,627840
+109,"Pulaski County,Virginia","Union County,Kentucky",29116,861473
+110,"Pulaski County,Virginia","Warren County,Kentucky",23763,683524
+111,"Pulaski County,Virginia","Washington County,Kentucky",21370,590799
+112,"Pulaski County,Virginia","Wayne County,Kentucky",18859,507268
+113,"Pulaski County,Virginia","Webster County,Kentucky",27575,825321
+114,"Pulaski County,Virginia","Whitley County,Kentucky",14959,444900
+115,"Pulaski County,Virginia","Wolfe County,Kentucky",16519,393231
+116,"Pulaski County,Virginia","Woodford County,Kentucky",18762,532414
+117,"Pulaski County,Virginia","Adams County,Ohio",17314,458042
+118,"Pulaski County,Virginia","Allen County,Ohio",24047,633459
+119,"Pulaski County,Virginia","Ashland County,Ohio",21791,587350
+120,"Pulaski County,Virginia","Ashtabula County,Ohio",24479,708248
+121,"Pulaski County,Virginia","Athens County,Ohio",13723,363641
+122,"Pulaski County,Virginia","Auglaize County,Ohio",23297,650159
+123,"Pulaski County,Virginia","Belmont County,Ohio",17542,497173
+124,"Pulaski County,Virginia","Brown County,Ohio",18559,484969
+125,"Pulaski County,Virginia","Butler County,Ohio",21672,566995
+126,"Pulaski County,Virginia","Carroll County,Ohio",19471,534059
+127,"Pulaski County,Virginia","Champaign County,Ohio",20601,552256
+128,"Pulaski County,Virginia","Clark County,Ohio",19280,511801
+129,"Pulaski County,Virginia","Clermont County,Ohio",19393,516066
+130,"Pulaski County,Virginia","Clinton County,Ohio",18784,499482
+131,"Pulaski County,Virginia","Columbiana County,Ohio",21313,588294
+132,"Pulaski County,Virginia","Coshocton County,Ohio",18107,505175
+133,"Pulaski County,Virginia","Crawford County,Ohio",22398,598511
+134,"Pulaski County,Virginia","Cuyahoga County,Ohio",21507,619463
+135,"Pulaski County,Virginia","Darke County,Ohio",22394,607206
+136,"Pulaski County,Virginia","Defiance County,Ohio",27482,711780
+137,"Pulaski County,Virginia","Delaware County,Ohio",19552,531248
+138,"Pulaski County,Virginia","Fairfield County,Ohio",17083,458342
+139,"Pulaski County,Virginia","Fayette County,Ohio",17348,469946
+140,"Pulaski County,Virginia","Franklin County,Ohio",18083,488197
+141,"Pulaski County,Virginia","Fulton County,Ohio",27489,754079
+142,"Pulaski County,Virginia","Gallia County,Ohio",12661,329058
+143,"Pulaski County,Virginia","Geauga County,Ohio",22579,645180
+144,"Pulaski County,Virginia","Greene County,Ohio",18218,503098
+145,"Pulaski County,Virginia","Guernsey County,Ohio",15657,443094
+146,"Pulaski County,Virginia","Hamilton County,Ohio",21173,577573
+147,"Pulaski County,Virginia","Hancock County,Ohio",23576,639603
+148,"Pulaski County,Virginia","Hardin County,Ohio",22557,589289
+149,"Pulaski County,Virginia","Harrison County,Ohio",18477,516124
+150,"Pulaski County,Virginia","Henry County,Ohio",26288,711224
+151,"Pulaski County,Virginia","Highland County,Ohio",17852,458055
+152,"Pulaski County,Virginia","Hocking County,Ohio",15525,414305
+153,"Pulaski County,Virginia","Holmes County,Ohio",19165,528060
+154,"Pulaski County,Virginia","Huron County,Ohio",23688,628979
+155,"Pulaski County,Virginia","Jackson County,Ohio",13838,368607
+156,"Pulaski County,Virginia","Jefferson County,Ohio",19470,525902
+157,"Pulaski County,Virginia","Knox County,Ohio",19895,547651
+158,"Pulaski County,Virginia","Lawrence County,Ohio",13363,334820
+159,"Pulaski County,Virginia","Licking County,Ohio",19028,485351
+160,"Pulaski County,Virginia","Logan County,Ohio",21578,583566
+161,"Pulaski County,Virginia","Lorain County,Ohio",22732,649286
+162,"Pulaski County,Virginia","Lucas County,Ohio",27211,727102
+163,"Pulaski County,Virginia","Madison County,Ohio",19049,493030
+164,"Pulaski County,Virginia","Mahoning County,Ohio",21808,603099
+165,"Pulaski County,Virginia","Marion County,Ohio",20959,557341
+166,"Pulaski County,Virginia","Medina County,Ohio",21181,605494
+167,"Pulaski County,Virginia","Meigs County,Ohio",12603,334611
+168,"Pulaski County,Virginia","Mercer County,Ohio",24532,677093
+169,"Pulaski County,Virginia","Miami County,Ohio",20883,572598
+170,"Pulaski County,Virginia","Monroe County,Ohio",16593,432286
+171,"Pulaski County,Virginia","Montgomery County,Ohio",20252,550554
+172,"Pulaski County,Virginia","Morgan County,Ohio",15598,418934
+173,"Pulaski County,Virginia","Morrow County,Ohio",20360,554068
+174,"Pulaski County,Virginia","Muskingum County,Ohio",16503,471086
+175,"Pulaski County,Virginia","Noble County,Ohio",15099,415446
+176,"Pulaski County,Virginia","Paulding County,Ohio",26583,709365
+177,"Pulaski County,Virginia","Perry County,Ohio",16940,429061
+178,"Pulaski County,Virginia","Pickaway County,Ohio",16788,450045
+179,"Pulaski County,Virginia","Pike County,Ohio",15284,407913
+180,"Pulaski County,Virginia","Portage County,Ohio",21029,601045
+181,"Pulaski County,Virginia","Preble County,Ohio",21871,579132
+182,"Pulaski County,Virginia","Putnam County,Ohio",25170,665818
+183,"Pulaski County,Virginia","Richland County,Ohio",21390,589307
+184,"Pulaski County,Virginia","Ross County,Ohio",15532,416351
+185,"Pulaski County,Virginia","Sandusky County,Ohio",25332,658298
+186,"Pulaski County,Virginia","Scioto County,Ohio",15168,392094
+187,"Pulaski County,Virginia","Seneca County,Ohio",23949,632182
+188,"Pulaski County,Virginia","Shelby County,Ohio",21921,608883
+189,"Pulaski County,Virginia","Stark County,Ohio",19330,549294
+190,"Pulaski County,Virginia","Summit County,Ohio",20089,575082
+191,"Pulaski County,Virginia","Trumbull County,Ohio",22764,629346
+192,"Pulaski County,Virginia","Tuscarawas County,Ohio",17531,489881
+193,"Pulaski County,Virginia","Union County,Ohio",20082,533797
+194,"Pulaski County,Virginia","Van Wert County,Ohio",25281,676329
+195,"Pulaski County,Virginia","Vinton County,Ohio",15734,394112
+196,"Pulaski County,Virginia","Warren County,Ohio",19590,533541
+197,"Pulaski County,Virginia","Washington County,Ohio",13957,373383
+198,"Pulaski County,Virginia","Wayne County,Ohio",20302,552172
+199,"Pulaski County,Virginia","Williams County,Ohio",28659,735296
+200,"Pulaski County,Virginia","Wood County,Ohio",24974,681210
+201,"Pulaski County,Virginia","Wyandot County,Ohio",22545,603738
+202,"Pulaski County,Virginia","Accomack County,Virginia",22437,632601
+203,"Pulaski County,Virginia","Albemarle County,Virginia",8587,245101
+204,"Pulaski County,Virginia","Alleghany County,Virginia",7251,178870
+205,"Pulaski County,Virginia","Amelia County,Virginia",11158,283956
+206,"Pulaski County,Virginia","Amherst County,Virginia",8061,190015
+207,"Pulaski County,Virginia","Appomattox County,Virginia",8235,203625
+208,"Pulaski County,Virginia","Arlington County,Virginia",15271,445410
+209,"Pulaski County,Virginia","Augusta County,Virginia",8008,222794
+210,"Pulaski County,Virginia","Bath County,Virginia",8296,195374
+211,"Pulaski County,Virginia","Bedford County,Virginia",5969,134935
+212,"Pulaski County,Virginia","Bland County,Virginia",2667,64701
+213,"Pulaski County,Virginia","Botetourt County,Virginia",4825,119000
+214,"Pulaski County,Virginia","Brunswick County,Virginia",13701,333629
+215,"Pulaski County,Virginia","Buchanan County,Virginia",8456,179614
+216,"Pulaski County,Virginia","Buckingham County,Virginia",9350,227535
+217,"Pulaski County,Virginia","Campbell County,Virginia",7384,176170
+218,"Pulaski County,Virginia","Caroline County,Virginia",13926,413946
+219,"Pulaski County,Virginia","Carroll County,Virginia",2789,70117
+220,"Pulaski County,Virginia","Charles City County,Virginia",14026,410981
+221,"Pulaski County,Virginia","Charlotte County,Virginia",9933,244106
+222,"Pulaski County,Virginia","Chesterfield County,Virginia",12853,322846
+223,"Pulaski County,Virginia","Clarke County,Virginia",12766,372159
+224,"Pulaski County,Virginia","Craig County,Virginia",4224,96568
+225,"Pulaski County,Virginia","Culpeper County,Virginia",12384,334317
+226,"Pulaski County,Virginia","Cumberland County,Virginia",10763,264766
+227,"Pulaski County,Virginia","Dickenson County,Virginia",9133,217338
+228,"Pulaski County,Virginia","Dinwiddie County,Virginia",12931,327017
+229,"Pulaski County,Virginia","Essex County,Virginia",15743,437989
+230,"Pulaski County,Virginia","Fairfax County,Virginia",14894,435686
+231,"Pulaski County,Virginia","Fauquier County,Virginia",13205,393410
+232,"Pulaski County,Virginia","Floyd County,Virginia",2820,55982
+233,"Pulaski County,Virginia","Fluvanna County,Virginia",10264,297272
+234,"Pulaski County,Virginia","Franklin County,Virginia",5481,136168
+235,"Pulaski County,Virginia","Frederick County,Virginia",12218,359885
+236,"Pulaski County,Virginia","Giles County,Virginia",2614,41756
+237,"Pulaski County,Virginia","Gloucester County,Virginia",16197,465169
+238,"Pulaski County,Virginia","Goochland County,Virginia",11168,327883
+239,"Pulaski County,Virginia","Grayson County,Virginia",4121,86297
+240,"Pulaski County,Virginia","Greene County,Virginia",10579,280685
+241,"Pulaski County,Virginia","Greensville County,Virginia",15417,376654
+242,"Pulaski County,Virginia","Halifax County,Virginia",10205,229846
+243,"Pulaski County,Virginia","Hanover County,Virginia",12374,368990
+244,"Pulaski County,Virginia","Henrico County,Virginia",12886,381950
+245,"Pulaski County,Virginia","Henry County,Virginia",6180,118576
+246,"Pulaski County,Virginia","Highland County,Virginia",10428,243166
+247,"Pulaski County,Virginia","Isle of Wight County,Virginia",17052,427138
+248,"Pulaski County,Virginia","James City County,Virginia",15262,451752
+249,"Pulaski County,Virginia","King and Queen County,Virginia",14920,427336
+250,"Pulaski County,Virginia","King George County,Virginia",15039,441933
+251,"Pulaski County,Virginia","King William County,Virginia",13608,397258
+252,"Pulaski County,Virginia","Lancaster County,Virginia",17401,480343
+253,"Pulaski County,Virginia","Lee County,Virginia",9628,248991
+254,"Pulaski County,Virginia","Loudoun County,Virginia",14262,408025
+255,"Pulaski County,Virginia","Louisa County,Virginia",10825,310978
+256,"Pulaski County,Virginia","Lunenburg County,Virginia",11706,285390
+257,"Pulaski County,Virginia","Madison County,Virginia",11499,310425
+258,"Pulaski County,Virginia","Mathews County,Virginia",17022,488593
+259,"Pulaski County,Virginia","Mecklenburg County,Virginia",12696,298515
+260,"Pulaski County,Virginia","Middlesex County,Virginia",15798,461370
+261,"Pulaski County,Virginia","Montgomery County,Virginia",1995,46486
+262,"Pulaski County,Virginia","Nelson County,Virginia",8612,220412
+263,"Pulaski County,Virginia","New Kent County,Virginia",14698,425666
+264,"Pulaski County,Virginia","Northampton County,Virginia",19679,568415
+265,"Pulaski County,Virginia","Northumberland County,Virginia",17440,478856
+266,"Pulaski County,Virginia","Nottoway County,Virginia",11198,285770
+267,"Pulaski County,Virginia","Orange County,Virginia",11788,319086
+268,"Pulaski County,Virginia","Page County,Virginia",10433,294211
+269,"Pulaski County,Virginia","Patrick County,Virginia",4692,97637
+270,"Pulaski County,Virginia","Pittsylvania County,Virginia",7906,186117
+271,"Pulaski County,Virginia","Powhatan County,Virginia",12261,299473
+272,"Pulaski County,Virginia","Prince Edward County,Virginia",9813,243106
+273,"Pulaski County,Virginia","Prince George County,Virginia",14587,366391
+274,"Pulaski County,Virginia","Prince William County,Virginia",13304,399514
+275,"Pulaski County,Virginia","Rappahannock County,Virginia",12264,330698
+276,"Pulaski County,Virginia","Richmond County,Virginia",16140,451499
+277,"Pulaski County,Virginia","Roanoke County,Virginia",2775,66423
+278,"Pulaski County,Virginia","Rockbridge County,Virginia",6273,163071
+279,"Pulaski County,Virginia","Rockingham County,Virginia",9472,266561
+280,"Pulaski County,Virginia","Russell County,Virginia",7589,182497
+281,"Pulaski County,Virginia","Scott County,Virginia",8201,209720
+282,"Pulaski County,Virginia","Shenandoah County,Virginia",9977,296664
+283,"Pulaski County,Virginia","Smyth County,Virginia",3784,93441
+284,"Pulaski County,Virginia","Southampton County,Virginia",16545,406354
+285,"Pulaski County,Virginia","Spotsylvania County,Virginia",12841,352817
+286,"Pulaski County,Virginia","Stafford County,Virginia",14223,377110
+287,"Pulaski County,Virginia","Surry County,Virginia",16006,450613
+288,"Pulaski County,Virginia","Sussex County,Virginia",14940,372148
+289,"Pulaski County,Virginia","Tazewell County,Virginia",5277,113973
+290,"Pulaski County,Virginia","Warren County,Virginia",11879,341257
+291,"Pulaski County,Virginia","Washington County,Virginia",5177,132908
+292,"Pulaski County,Virginia","Westmoreland County,Virginia",16013,458757
+293,"Pulaski County,Virginia","Wise County,Virginia",9040,223840
+294,"Pulaski County,Virginia","Wythe County,Virginia",2038,45427
+295,"Pulaski County,Virginia","York County,Virginia",16550,482526
+296,"Pulaski County,Virginia","Alexandria City County,Virginia",15474,458056
+297,"Pulaski County,Virginia","Bedford City County,Virginia",5133,126366
+298,"Pulaski County,Virginia","Bristol City County,Virginia",5652,158625
+299,"Pulaski County,Virginia","Buena Vista City County,Virginia",5644,155558
+300,"Pulaski County,Virginia","Charlottesville City County,Virginia",9056,260315
+301,"Pulaski County,Virginia","Chesapeake City County,Virginia",18013,535432
+302,"Pulaski County,Virginia","Clifton Forge City County,Virginia",5912,145192
+303,"Pulaski County,Virginia","Colonial Heights City County,Virginia",13722,404657
+304,"Pulaski County,Virginia","Covington City County,Virginia",6895,166030
+305,"Pulaski County,Virginia","Danville City County,Virginia",8475,176244
+306,"Pulaski County,Virginia","Emporia City County,Virginia",15085,363019
+307,"Pulaski County,Virginia","Fairfax City County,Virginia",14437,425261
+308,"Pulaski County,Virginia","Falls Church City County,Virginia",14769,439734
+309,"Pulaski County,Virginia","Franklin City County,Virginia",17172,419489
+310,"Pulaski County,Virginia","Fredericksburg City County,Virginia",13974,362476
+311,"Pulaski County,Virginia","Galax City County,Virginia",3412,75984
+312,"Pulaski County,Virginia","Hampton City County,Virginia",16500,492233
+313,"Pulaski County,Virginia","Harrisonburg City County,Virginia",8531,246457
+314,"Pulaski County,Virginia","Hopewell City County,Virginia",13759,403623
+315,"Pulaski County,Virginia","Lexington City County,Virginia",5558,153886
+316,"Pulaski County,Virginia","Lynchburg City County,Virginia",7158,171241
+317,"Pulaski County,Virginia","Manassas City County,Virginia",13532,404459
+318,"Pulaski County,Virginia","Manassas Park City County,Virginia",14034,410802
+319,"Pulaski County,Virginia","Martinsville City County,Virginia",6682,123753
+320,"Pulaski County,Virginia","Newport News City County,Virginia",16057,478718
+321,"Pulaski County,Virginia","Norfolk City County,Virginia",17806,517648
+322,"Pulaski County,Virginia","Norton City County,Virginia",8564,214730
+323,"Pulaski County,Virginia","Petersburg City County,Virginia",13590,348995
+324,"Pulaski County,Virginia","Poquoson City County,Virginia",16728,489295
+325,"Pulaski County,Virginia","Portsmouth City County,Virginia",17746,526469
+326,"Pulaski County,Virginia","Radford County,Virginia",1182,21250
+327,"Pulaski County,Virginia","Richmond City County,Virginia",12462,369760
+328,"Pulaski County,Virginia","Roanoke City County,Virginia",3377,86527
+329,"Pulaski County,Virginia","Salem City County,Virginia",2789,73077
+330,"Pulaski County,Virginia","South Boston City County,Virginia",10375,230905
+331,"Pulaski County,Virginia","Staunton City County,Virginia",7348,207592
+332,"Pulaski County,Virginia","Suffolk City County,Virginia",17895,441862
+333,"Pulaski County,Virginia","Virginia Beach City County,Virginia",18367,540907
+334,"Pulaski County,Virginia","Waynesboro City County,Virginia",7686,220310
+335,"Pulaski County,Virginia","Williamsburg City County,Virginia",15101,450968
+336,"Pulaski County,Virginia","Winchester City County,Virginia",12098,356029
+337,"Pulaski County,Virginia","Barbour County,West Virginia",14749,374607
+338,"Pulaski County,Virginia","Berkeley County,West Virginia",13836,403237
+339,"Pulaski County,Virginia","Boone County,West Virginia",10112,212119
+340,"Pulaski County,Virginia","Braxton County,West Virginia",11440,265587
+341,"Pulaski County,Virginia","Brooke County,West Virginia",19108,506401
+342,"Pulaski County,Virginia","Cabell County,West Virginia",11680,308025
+343,"Pulaski County,Virginia","Calhoun County,West Virginia",13115,333504
+344,"Pulaski County,Virginia","Clay County,West Virginia",10105,229024
+345,"Pulaski County,Virginia","Doddridge County,West Virginia",14953,351463
+346,"Pulaski County,Virginia","Fayette County,West Virginia",7612,174761
+347,"Pulaski County,Virginia","Gilmer County,West Virginia",13008,315266
+348,"Pulaski County,Virginia","Grant County,West Virginia",13928,385724
+349,"Pulaski County,Virginia","Greenbrier County,West Virginia",9287,164393
+350,"Pulaski County,Virginia","Hampshire County,West Virginia",13955,374141
+351,"Pulaski County,Virginia","Hancock County,West Virginia",20734,533748
+352,"Pulaski County,Virginia","Hardy County,West Virginia",13175,357054
+353,"Pulaski County,Virginia","Harrison County,West Virginia",13983,360978
+354,"Pulaski County,Virginia","Jackson County,West Virginia",10999,287835
+355,"Pulaski County,Virginia","Jefferson County,West Virginia",13886,390643
+356,"Pulaski County,Virginia","Kanawha County,West Virginia",8762,209818
+357,"Pulaski County,Virginia","Lewis County,West Virginia",12612,314448
+358,"Pulaski County,Virginia","Lincoln County,West Virginia",12344,285703
+359,"Pulaski County,Virginia","Logan County,West Virginia",11903,242608
+360,"Pulaski County,Virginia","McDowell County,West Virginia",7794,142650
+361,"Pulaski County,Virginia","Marion County,West Virginia",15128,388145
+362,"Pulaski County,Virginia","Marshall County,West Virginia",19007,475521
+363,"Pulaski County,Virginia","Mason County,West Virginia",11155,293931
+364,"Pulaski County,Virginia","Mercer County,West Virginia",4191,90425
+365,"Pulaski County,Virginia","Mineral County,West Virginia",15401,397247
+366,"Pulaski County,Virginia","Mingo County,West Virginia",12482,306543
+367,"Pulaski County,Virginia","Monongalia County,West Virginia",15339,413614
+368,"Pulaski County,Virginia","Monroe County,West Virginia",4767,92161
+369,"Pulaski County,Virginia","Morgan County,West Virginia",14081,404363
+370,"Pulaski County,Virginia","Nicholas County,West Virginia",9058,215759
+371,"Pulaski County,Virginia","Ohio County,West Virginia",18639,520658
+372,"Pulaski County,Virginia","Pendleton County,West Virginia",12319,317746
+373,"Pulaski County,Virginia","Pleasants County,West Virginia",14481,385687
+374,"Pulaski County,Virginia","Pocahontas County,West Virginia",11414,210142
+375,"Pulaski County,Virginia","Preston County,West Virginia",17485,440345
+376,"Pulaski County,Virginia","Putnam County,West Virginia",9937,259550
+377,"Pulaski County,Virginia","Raleigh County,West Virginia",5787,134999
+378,"Pulaski County,Virginia","Randolph County,West Virginia",15349,302993
+379,"Pulaski County,Virginia","Ritchie County,West Virginia",14812,399391
+380,"Pulaski County,Virginia","Roane County,West Virginia",12624,316651
+381,"Pulaski County,Virginia","Summers County,West Virginia",4926,88544
+382,"Pulaski County,Virginia","Taylor County,West Virginia",15021,383718
+383,"Pulaski County,Virginia","Tucker County,West Virginia",16181,407427
+384,"Pulaski County,Virginia","Tyler County,West Virginia",16390,425303
+385,"Pulaski County,Virginia","Upshur County,West Virginia",14177,329145
+386,"Pulaski County,Virginia","Wayne County,West Virginia",13271,340651
+387,"Pulaski County,Virginia","Webster County,West Virginia",12402,272711
+388,"Pulaski County,Virginia","Wetzel County,West Virginia",16662,412460
+389,"Pulaski County,Virginia","Wirt County,West Virginia",13265,345173
+390,"Pulaski County,Virginia","Wood County,West Virginia",12780,346863
+391,"Pulaski County,Virginia","Wyoming County,West Virginia",7732,174940

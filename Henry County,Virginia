@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Henry County,Virginia","Adair County,Kentucky",24920,620367
+1,"Henry County,Virginia","Allen County,Kentucky",26316,740177
+2,"Henry County,Virginia","Anderson County,Kentucky",24093,685102
+3,"Henry County,Virginia","Ballard County,Kentucky",33221,975432
+4,"Henry County,Virginia","Barren County,Kentucky",26106,699122
+5,"Henry County,Virginia","Bath County,Kentucky",19741,556284
+6,"Henry County,Virginia","Bell County,Kentucky",17416,421673
+7,"Henry County,Virginia","Boone County,Kentucky",25554,677677
+8,"Henry County,Virginia","Bourbon County,Kentucky",21655,602701
+9,"Henry County,Virginia","Boyd County,Kentucky",16416,450608
+10,"Henry County,Virginia","Boyle County,Kentucky",24098,594523
+11,"Henry County,Virginia","Bracken County,Kentucky",22066,596784
+12,"Henry County,Virginia","Breathitt County,Kentucky",19040,457437
+13,"Henry County,Virginia","Breckinridge County,Kentucky",29627,837784
+14,"Henry County,Virginia","Bullitt County,Kentucky",26197,758903
+15,"Henry County,Virginia","Butler County,Kentucky",28777,810382
+16,"Henry County,Virginia","Caldwell County,Kentucky",30360,883245
+17,"Henry County,Virginia","Calloway County,Kentucky",31062,907291
+18,"Henry County,Virginia","Campbell County,Kentucky",23766,636655
+19,"Henry County,Virginia","Carlisle County,Kentucky",33678,990800
+20,"Henry County,Virginia","Carroll County,Kentucky",26638,732917
+21,"Henry County,Virginia","Carter County,Kentucky",17581,480705
+22,"Henry County,Virginia","Casey County,Kentucky",24858,593641
+23,"Henry County,Virginia","Christian County,Kentucky",27955,828271
+24,"Henry County,Virginia","Clay County,Kentucky",19988,482016
+25,"Henry County,Virginia","Clinton County,Kentucky",23364,619582
+26,"Henry County,Virginia","Crittenden County,Kentucky",31625,916006
+27,"Henry County,Virginia","Cumberland County,Kentucky",24243,640250
+28,"Henry County,Virginia","Daviess County,Kentucky",31210,884175
+29,"Henry County,Virginia","Edmonson County,Kentucky",28085,752485
+30,"Henry County,Virginia","Elliott County,Kentucky",18912,506475
+31,"Henry County,Virginia","Estill County,Kentucky",22797,553719
+32,"Henry County,Virginia","Fayette County,Kentucky",21901,622595
+33,"Henry County,Virginia","Fleming County,Kentucky",20167,559469
+34,"Henry County,Virginia","Floyd County,Kentucky",17701,434746
+35,"Henry County,Virginia","Franklin County,Kentucky",23938,671512
+36,"Henry County,Virginia","Fulton County,Kentucky",34082,1011764
+37,"Henry County,Virginia","Gallatin County,Kentucky",25636,723576
+38,"Henry County,Virginia","Garrard County,Kentucky",23767,579309
+39,"Henry County,Virginia","Grant County,Kentucky",24435,697683
+40,"Henry County,Virginia","Graves County,Kentucky",32703,963506
+41,"Henry County,Virginia","Grayson County,Kentucky",28619,816417
+42,"Henry County,Virginia","Green County,Kentucky",26673,662532
+43,"Henry County,Virginia","Greenup County,Kentucky",18192,491734
+44,"Henry County,Virginia","Hancock County,Kentucky",30423,870677
+45,"Henry County,Virginia","Hardin County,Kentucky",27495,778550
+46,"Henry County,Virginia","Harlan County,Kentucky",16490,398300
+47,"Henry County,Virginia","Harrison County,Kentucky",23225,635801
+48,"Henry County,Virginia","Hart County,Kentucky",28023,708809
+49,"Henry County,Virginia","Henderson County,Kentucky",31713,937403
+50,"Henry County,Virginia","Henry County,Kentucky",25540,715230
+51,"Henry County,Virginia","Hickman County,Kentucky",33711,992092
+52,"Henry County,Virginia","Hopkins County,Kentucky",30482,893523
+53,"Henry County,Virginia","Jackson County,Kentucky",21860,518434
+54,"Henry County,Virginia","Jefferson County,Kentucky",25633,730764
+55,"Henry County,Virginia","Jessamine County,Kentucky",23370,644059
+56,"Henry County,Virginia","Johnson County,Kentucky",18316,451975
+57,"Henry County,Virginia","Kenton County,Kentucky",24923,665371
+58,"Henry County,Virginia","Knott County,Kentucky",16580,400187
+59,"Henry County,Virginia","Knox County,Kentucky",18746,463666
+60,"Henry County,Virginia","Larue County,Kentucky",27567,765726
+61,"Henry County,Virginia","Laurel County,Kentucky",20640,498493
+62,"Henry County,Virginia","Lawrence County,Kentucky",18340,494928
+63,"Henry County,Virginia","Lee County,Kentucky",21151,498627
+64,"Henry County,Virginia","Leslie County,Kentucky",17953,426579
+65,"Henry County,Virginia","Letcher County,Kentucky",14981,363734
+66,"Henry County,Virginia","Lewis County,Kentucky",19619,532523
+67,"Henry County,Virginia","Lincoln County,Kentucky",23329,578890
+68,"Henry County,Virginia","Livingston County,Kentucky",31552,929370
+69,"Henry County,Virginia","Logan County,Kentucky",28387,781171
+70,"Henry County,Virginia","Lyon County,Kentucky",31309,906545
+71,"Henry County,Virginia","McCracken County,Kentucky",31833,943492
+72,"Henry County,Virginia","McCreary County,Kentucky",20370,556427
+73,"Henry County,Virginia","Madison County,Kentucky",22786,576739
+74,"Henry County,Virginia","Magoffin County,Kentucky",18660,455951
+75,"Henry County,Virginia","Marion County,Kentucky",25796,633128
+76,"Henry County,Virginia","Marshall County,Kentucky",31248,927063
+77,"Henry County,Virginia","Martin County,Kentucky",19453,476652
+78,"Henry County,Virginia","Mason County,Kentucky",21414,576330
+79,"Henry County,Virginia","Meade County,Kentucky",28094,803078
+80,"Henry County,Virginia","Menifee County,Kentucky",20857,568347
+81,"Henry County,Virginia","Mercer County,Kentucky",24321,683046
+82,"Henry County,Virginia","Metcalfe County,Kentucky",25576,650632
+83,"Henry County,Virginia","Monroe County,Kentucky",24804,670671
+84,"Henry County,Virginia","Montgomery County,Kentucky",20554,574824
+85,"Henry County,Virginia","Morgan County,Kentucky",20635,544063
+86,"Henry County,Virginia","Muhlenberg County,Kentucky",30167,863634
+87,"Henry County,Virginia","Nelson County,Kentucky",25552,726407
+88,"Henry County,Virginia","Nicholas County,Kentucky",22232,602707
+89,"Henry County,Virginia","Ohio County,Kentucky",30312,852212
+90,"Henry County,Virginia","Oldham County,Kentucky",25705,742645
+91,"Henry County,Virginia","Owen County,Kentucky",24760,698289
+92,"Henry County,Virginia","Owsley County,Kentucky",21178,495311
+93,"Henry County,Virginia","Pendleton County,Kentucky",24003,637708
+94,"Henry County,Virginia","Perry County,Kentucky",17554,420610
+95,"Henry County,Virginia","Pike County,Kentucky",16075,369260
+96,"Henry County,Virginia","Powell County,Kentucky",21682,521973
+97,"Henry County,Virginia","Robertson County,Kentucky",22149,602214
+98,"Henry County,Virginia","Rockcastle County,Kentucky",21810,540488
+99,"Henry County,Virginia","Rowan County,Kentucky",18884,528491
+100,"Henry County,Virginia","Russell County,Kentucky",24525,604351
+101,"Henry County,Virginia","Scott County,Kentucky",22735,650622
+102,"Henry County,Virginia","Shelby County,Kentucky",24562,701898
+103,"Henry County,Virginia","Simpson County,Kentucky",27354,757147
+104,"Henry County,Virginia","Spencer County,Kentucky",25092,707746
+105,"Henry County,Virginia","Taylor County,Kentucky",26274,644626
+106,"Henry County,Virginia","Todd County,Kentucky",28370,821217
+107,"Henry County,Virginia","Trigg County,Kentucky",28862,845630
+108,"Henry County,Virginia","Trimble County,Kentucky",26778,748685
+109,"Henry County,Virginia","Union County,Kentucky",33131,957763
+110,"Henry County,Virginia","Warren County,Kentucky",27779,779814
+111,"Henry County,Virginia","Washington County,Kentucky",25563,711643
+112,"Henry County,Virginia","Wayne County,Kentucky",22874,603558
+113,"Henry County,Virginia","Webster County,Kentucky",31591,921611
+114,"Henry County,Virginia","Whitley County,Kentucky",18974,541190
+115,"Henry County,Virginia","Wolfe County,Kentucky",20534,489521
+116,"Henry County,Virginia","Woodford County,Kentucky",22955,653258
+117,"Henry County,Virginia","Adams County,Ohio",21507,578886
+118,"Henry County,Virginia","Allen County,Ohio",28239,754303
+119,"Henry County,Virginia","Ashland County,Ohio",25984,708195
+120,"Henry County,Virginia","Ashtabula County,Ohio",28671,829093
+121,"Henry County,Virginia","Athens County,Ohio",17915,484485
+122,"Henry County,Virginia","Auglaize County,Ohio",27489,771003
+123,"Henry County,Virginia","Belmont County,Ohio",21734,618017
+124,"Henry County,Virginia","Brown County,Ohio",22752,605814
+125,"Henry County,Virginia","Butler County,Ohio",25864,687839
+126,"Henry County,Virginia","Carroll County,Ohio",23664,654903
+127,"Henry County,Virginia","Champaign County,Ohio",24793,673101
+128,"Henry County,Virginia","Clark County,Ohio",23472,632645
+129,"Henry County,Virginia","Clermont County,Ohio",23585,636910
+130,"Henry County,Virginia","Clinton County,Ohio",22976,620326
+131,"Henry County,Virginia","Columbiana County,Ohio",25506,709138
+132,"Henry County,Virginia","Coshocton County,Ohio",22299,626020
+133,"Henry County,Virginia","Crawford County,Ohio",26591,719355
+134,"Henry County,Virginia","Cuyahoga County,Ohio",25700,740307
+135,"Henry County,Virginia","Darke County,Ohio",26587,728050
+136,"Henry County,Virginia","Defiance County,Ohio",31675,832624
+137,"Henry County,Virginia","Delaware County,Ohio",23745,652092
+138,"Henry County,Virginia","Fairfield County,Ohio",21276,579186
+139,"Henry County,Virginia","Fayette County,Ohio",21540,590790
+140,"Henry County,Virginia","Franklin County,Ohio",22276,609041
+141,"Henry County,Virginia","Fulton County,Ohio",31682,874924
+142,"Henry County,Virginia","Gallia County,Ohio",16853,449902
+143,"Henry County,Virginia","Geauga County,Ohio",26772,766024
+144,"Henry County,Virginia","Greene County,Ohio",22410,623943
+145,"Henry County,Virginia","Guernsey County,Ohio",19850,563939
+146,"Henry County,Virginia","Hamilton County,Ohio",25366,698417
+147,"Henry County,Virginia","Hancock County,Ohio",27768,760447
+148,"Henry County,Virginia","Hardin County,Ohio",26750,710133
+149,"Henry County,Virginia","Harrison County,Ohio",22669,636969
+150,"Henry County,Virginia","Henry County,Ohio",30481,832069
+151,"Henry County,Virginia","Highland County,Ohio",22044,578900
+152,"Henry County,Virginia","Hocking County,Ohio",19718,535149
+153,"Henry County,Virginia","Holmes County,Ohio",23358,648904
+154,"Henry County,Virginia","Huron County,Ohio",27881,749823
+155,"Henry County,Virginia","Jackson County,Ohio",18031,489451
+156,"Henry County,Virginia","Jefferson County,Ohio",23663,646747
+157,"Henry County,Virginia","Knox County,Ohio",24087,668496
+158,"Henry County,Virginia","Lawrence County,Ohio",17556,455665
+159,"Henry County,Virginia","Licking County,Ohio",23221,606196
+160,"Henry County,Virginia","Logan County,Ohio",25771,704410
+161,"Henry County,Virginia","Lorain County,Ohio",26924,770131
+162,"Henry County,Virginia","Lucas County,Ohio",31403,847946
+163,"Henry County,Virginia","Madison County,Ohio",23241,613875
+164,"Henry County,Virginia","Mahoning County,Ohio",26001,723943
+165,"Henry County,Virginia","Marion County,Ohio",25151,678185
+166,"Henry County,Virginia","Medina County,Ohio",25373,726338
+167,"Henry County,Virginia","Meigs County,Ohio",16796,455456
+168,"Henry County,Virginia","Mercer County,Ohio",28725,797937
+169,"Henry County,Virginia","Miami County,Ohio",25075,693442
+170,"Henry County,Virginia","Monroe County,Ohio",20786,553130
+171,"Henry County,Virginia","Montgomery County,Ohio",24445,671398
+172,"Henry County,Virginia","Morgan County,Ohio",19791,539778
+173,"Henry County,Virginia","Morrow County,Ohio",24553,674913
+174,"Henry County,Virginia","Muskingum County,Ohio",20695,591930
+175,"Henry County,Virginia","Noble County,Ohio",19291,536291
+176,"Henry County,Virginia","Paulding County,Ohio",30776,830209
+177,"Henry County,Virginia","Perry County,Ohio",21133,549906
+178,"Henry County,Virginia","Pickaway County,Ohio",20980,570889
+179,"Henry County,Virginia","Pike County,Ohio",19477,528758
+180,"Henry County,Virginia","Portage County,Ohio",25222,721889
+181,"Henry County,Virginia","Preble County,Ohio",26064,699976
+182,"Henry County,Virginia","Putnam County,Ohio",29362,786662
+183,"Henry County,Virginia","Richland County,Ohio",25582,710151
+184,"Henry County,Virginia","Ross County,Ohio",19725,537195
+185,"Henry County,Virginia","Sandusky County,Ohio",29524,779142
+186,"Henry County,Virginia","Scioto County,Ohio",19361,512938
+187,"Henry County,Virginia","Seneca County,Ohio",28142,753027
+188,"Henry County,Virginia","Shelby County,Ohio",26114,729728
+189,"Henry County,Virginia","Stark County,Ohio",23523,670138
+190,"Henry County,Virginia","Summit County,Ohio",24281,695926
+191,"Henry County,Virginia","Trumbull County,Ohio",26956,750190
+192,"Henry County,Virginia","Tuscarawas County,Ohio",21723,610725
+193,"Henry County,Virginia","Union County,Ohio",24275,654641
+194,"Henry County,Virginia","Van Wert County,Ohio",29473,797173
+195,"Henry County,Virginia","Vinton County,Ohio",19926,514956
+196,"Henry County,Virginia","Warren County,Ohio",23782,654385
+197,"Henry County,Virginia","Washington County,Ohio",18150,494227
+198,"Henry County,Virginia","Wayne County,Ohio",24494,673016
+199,"Henry County,Virginia","Williams County,Ohio",32852,856141
+200,"Henry County,Virginia","Wood County,Ohio",29166,802055
+201,"Henry County,Virginia","Wyandot County,Ohio",26738,724583
+202,"Henry County,Virginia","Accomack County,Virginia",20389,502778
+203,"Henry County,Virginia","Albemarle County,Virginia",9947,263578
+204,"Henry County,Virginia","Alleghany County,Virginia",8611,197347
+205,"Henry County,Virginia","Amelia County,Virginia",9407,237562
+206,"Henry County,Virginia","Amherst County,Virginia",7678,181547
+207,"Henry County,Virginia","Appomattox County,Virginia",7612,175934
+208,"Henry County,Virginia","Arlington County,Virginia",16631,463887
+209,"Henry County,Virginia","Augusta County,Virginia",9369,241271
+210,"Henry County,Virginia","Bath County,Virginia",9657,213851
+211,"Henry County,Virginia","Bedford County,Virginia",5277,102144
+212,"Henry County,Virginia","Bland County,Virginia",6682,160991
+213,"Henry County,Virginia","Botetourt County,Virginia",6185,137477
+214,"Henry County,Virginia","Brunswick County,Virginia",8993,221251
+215,"Henry County,Virginia","Buchanan County,Virginia",12439,295450
+216,"Henry County,Virginia","Buckingham County,Virginia",8727,199844
+217,"Henry County,Virginia","Campbell County,Virginia",5735,135597
+218,"Henry County,Virginia","Caroline County,Virginia",14115,358611
+219,"Henry County,Virginia","Carroll County,Virginia",4624,96515
+220,"Henry County,Virginia","Charles City County,Virginia",12715,324239
+221,"Henry County,Virginia","Charlotte County,Virginia",7358,178725
+222,"Henry County,Virginia","Chesterfield County,Virginia",11102,276452
+223,"Henry County,Virginia","Clarke County,Virginia",14126,390636
+224,"Henry County,Virginia","Craig County,Virginia",6844,146160
+225,"Henry County,Virginia","Culpeper County,Virginia",13640,330613
+226,"Henry County,Virginia","Cumberland County,Virginia",10140,237076
+227,"Henry County,Virginia","Dickenson County,Virginia",13148,313628
+228,"Henry County,Virginia","Dinwiddie County,Virginia",10137,263356
+229,"Henry County,Virginia","Essex County,Virginia",15839,405175
+230,"Henry County,Virginia","Fairfax County,Virginia",16254,454163
+231,"Henry County,Virginia","Fauquier County,Virginia",14565,411887
+232,"Henry County,Virginia","Floyd County,Virginia",3953,72429
+233,"Henry County,Virginia","Fluvanna County,Virginia",11507,262166
+234,"Henry County,Virginia","Franklin County,Virginia",2149,42907
+235,"Henry County,Virginia","Frederick County,Virginia",13578,378363
+236,"Henry County,Virginia","Giles County,Virginia",7341,152333
+237,"Henry County,Virginia","Gloucester County,Virginia",15598,408703
+238,"Henry County,Virginia","Goochland County,Virginia",12012,292552
+239,"Henry County,Virginia","Grayson County,Virginia",6937,146765
+240,"Henry County,Virginia","Greene County,Virginia",11939,299162
+241,"Henry County,Virginia","Greensville County,Virginia",10666,255679
+242,"Henry County,Virginia","Halifax County,Virginia",5056,119428
+243,"Henry County,Virginia","Hanover County,Virginia",12601,309570
+244,"Henry County,Virginia","Henrico County,Virginia",12066,324130
+245,"Henry County,Virginia","Highland County,Virginia",11789,261643
+246,"Henry County,Virginia","Isle of Wight County,Virginia",13949,350975
+247,"Henry County,Virginia","James City County,Virginia",14307,359684
+248,"Henry County,Virginia","King and Queen County,Virginia",15016,394522
+249,"Henry County,Virginia","King George County,Virginia",15228,386597
+250,"Henry County,Virginia","King William County,Virginia",13704,364445
+251,"Henry County,Virginia","Lancaster County,Virginia",17465,444742
+252,"Henry County,Virginia","Lee County,Virginia",13643,345281
+253,"Henry County,Virginia","Loudoun County,Virginia",15622,426503
+254,"Henry County,Virginia","Louisa County,Virginia",12185,329456
+255,"Henry County,Virginia","Lunenburg County,Virginia",8194,195891
+256,"Henry County,Virginia","Madison County,Virginia",12755,306721
+257,"Henry County,Virginia","Mathews County,Virginia",16423,432126
+258,"Henry County,Virginia","Mecklenburg County,Virginia",7089,170974
+259,"Henry County,Virginia","Middlesex County,Virginia",15199,404903
+260,"Henry County,Virginia","Montgomery County,Virginia",5905,116604
+261,"Henry County,Virginia","Nelson County,Virginia",8172,202080
+262,"Henry County,Virginia","New Kent County,Virginia",14100,369199
+263,"Henry County,Virginia","Northampton County,Virginia",17632,438592
+264,"Henry County,Virginia","Northumberland County,Virginia",17536,446042
+265,"Henry County,Virginia","Nottoway County,Virginia",9070,227737
+266,"Henry County,Virginia","Orange County,Virginia",13148,337563
+267,"Henry County,Virginia","Page County,Virginia",11793,312688
+268,"Henry County,Virginia","Patrick County,Virginia",2197,47320
+269,"Henry County,Virginia","Pittsylvania County,Virginia",2942,62670
+270,"Henry County,Virginia","Powhatan County,Virginia",10876,270241
+271,"Henry County,Virginia","Prince Edward County,Virginia",7775,195323
+272,"Henry County,Virginia","Prince George County,Virginia",11686,303911
+273,"Henry County,Virginia","Prince William County,Virginia",14665,417991
+274,"Henry County,Virginia","Pulaski County,Virginia",6178,121409
+275,"Henry County,Virginia","Rappahannock County,Virginia",13624,349175
+276,"Henry County,Virginia","Richmond County,Virginia",16236,418686
+277,"Henry County,Virginia","Roanoke County,Virginia",5220,114085
+278,"Henry County,Virginia","Rockbridge County,Virginia",7633,181548
+279,"Henry County,Virginia","Rockingham County,Virginia",10832,285038
+280,"Henry County,Virginia","Russell County,Virginia",11605,278787
+281,"Henry County,Virginia","Scott County,Virginia",12216,306010
+282,"Henry County,Virginia","Shenandoah County,Virginia",11337,315142
+283,"Henry County,Virginia","Smyth County,Virginia",7799,189731
+284,"Henry County,Virginia","Southampton County,Virginia",11805,296194
+285,"Henry County,Virginia","Spotsylvania County,Virginia",14202,371294
+286,"Henry County,Virginia","Stafford County,Virginia",15198,399033
+287,"Henry County,Virginia","Surry County,Virginia",13374,337392
+288,"Henry County,Virginia","Sussex County,Virginia",11128,287331
+289,"Henry County,Virginia","Tazewell County,Virginia",9260,229808
+290,"Henry County,Virginia","Warren County,Virginia",13239,359734
+291,"Henry County,Virginia","Washington County,Virginia",9192,229198
+292,"Henry County,Virginia","Westmoreland County,Virginia",16203,403422
+293,"Henry County,Virginia","Wise County,Virginia",13056,320130
+294,"Henry County,Virginia","Wythe County,Virginia",6053,141717
+295,"Henry County,Virginia","York County,Virginia",15951,426060
+296,"Henry County,Virginia","Alexandria City County,Virginia",16834,476534
+297,"Henry County,Virginia","Bedford City County,Virginia",5218,103468
+298,"Henry County,Virginia","Bristol City County,Virginia",9667,254915
+299,"Henry County,Virginia","Buena Vista City County,Virginia",7005,174036
+300,"Henry County,Virginia","Charlottesville City County,Virginia",10416,278793
+301,"Henry County,Virginia","Chesapeake City County,Virginia",15024,377955
+302,"Henry County,Virginia","Clifton Forge City County,Virginia",7272,163669
+303,"Henry County,Virginia","Colonial Heights City County,Virginia",10938,288617
+304,"Henry County,Virginia","Covington City County,Virginia",8256,184507
+305,"Henry County,Virginia","Danville City County,Virginia",2784,62918
+306,"Henry County,Virginia","Emporia City County,Virginia",10345,252858
+307,"Henry County,Virginia","Fairfax City County,Virginia",15797,443739
+308,"Henry County,Virginia","Falls Church City County,Virginia",16129,458211
+309,"Henry County,Virginia","Franklin City County,Virginia",12431,309328
+310,"Henry County,Virginia","Fredericksburg City County,Virginia",14997,384969
+311,"Henry County,Virginia","Galax City County,Virginia",5465,115269
+312,"Henry County,Virginia","Hampton City County,Virginia",15722,396349
+313,"Henry County,Virginia","Harrisonburg City County,Virginia",9891,264935
+314,"Henry County,Virginia","Hopewell City County,Virginia",11851,300402
+315,"Henry County,Virginia","Lexington City County,Virginia",6919,172363
+316,"Henry County,Virginia","Lynchburg City County,Virginia",6718,152909
+317,"Henry County,Virginia","Manassas City County,Virginia",14892,422936
+318,"Henry County,Virginia","Manassas Park City County,Virginia",15394,429279
+319,"Henry County,Virginia","Martinsville City County,Virginia",1154,17255
+320,"Henry County,Virginia","Newport News City County,Virginia",15458,422252
+321,"Henry County,Virginia","Norfolk City County,Virginia",14976,376815
+322,"Henry County,Virginia","Norton City County,Virginia",12580,311020
+323,"Henry County,Virginia","Petersburg City County,Virginia",10689,286515
+324,"Henry County,Virginia","Poquoson City County,Virginia",16130,432828
+325,"Henry County,Virginia","Portsmouth City County,Virginia",14895,374350
+326,"Henry County,Virginia","Radford County,Virginia",5785,108603
+327,"Henry County,Virginia","Richmond City County,Virginia",12092,299183
+328,"Henry County,Virginia","Roanoke City County,Virginia",4016,85531
+329,"Henry County,Virginia","Salem City County,Virginia",4588,103998
+330,"Henry County,Virginia","South Boston City County,Virginia",4796,117096
+331,"Henry County,Virginia","Staunton City County,Virginia",8709,226070
+332,"Henry County,Virginia","Suffolk City County,Virginia",13747,342631
+333,"Henry County,Virginia","Virginia Beach City County,Virginia",16091,404611
+334,"Henry County,Virginia","Waynesboro City County,Virginia",9047,238788
+335,"Henry County,Virginia","Williamsburg City County,Virginia",14502,394501
+336,"Henry County,Virginia","Winchester City County,Virginia",13458,374507
+337,"Henry County,Virginia","Barbour County,West Virginia",18701,400061
+338,"Henry County,Virginia","Berkeley County,West Virginia",15196,421714
+339,"Henry County,Virginia","Boone County,West Virginia",14305,332963
+340,"Henry County,Virginia","Braxton County,West Virginia",15632,386431
+341,"Henry County,Virginia","Brooke County,West Virginia",23300,627245
+342,"Henry County,Virginia","Cabell County,West Virginia",15872,428869
+343,"Henry County,Virginia","Calhoun County,West Virginia",17307,454348
+344,"Henry County,Virginia","Clay County,West Virginia",14298,349868
+345,"Henry County,Virginia","Doddridge County,West Virginia",19146,472308
+346,"Henry County,Virginia","Fayette County,West Virginia",11804,295605
+347,"Henry County,Virginia","Gilmer County,West Virginia",17200,436111
+348,"Henry County,Virginia","Grant County,West Virginia",15288,404201
+349,"Henry County,Virginia","Greenbrier County,West Virginia",12447,274475
+350,"Henry County,Virginia","Hampshire County,West Virginia",15315,392618
+351,"Henry County,Virginia","Hancock County,West Virginia",24927,654592
+352,"Henry County,Virginia","Hardy County,West Virginia",14535,375531
+353,"Henry County,Virginia","Harrison County,West Virginia",18175,481822
+354,"Henry County,Virginia","Jackson County,West Virginia",15191,408680
+355,"Henry County,Virginia","Jefferson County,West Virginia",15247,409120
+356,"Henry County,Virginia","Kanawha County,West Virginia",12955,330662
+357,"Henry County,Virginia","Lewis County,West Virginia",16805,435292
+358,"Henry County,Virginia","Lincoln County,West Virginia",16537,406547
+359,"Henry County,Virginia","Logan County,West Virginia",16095,363452
+360,"Henry County,Virginia","McDowell County,West Virginia",11777,258485
+361,"Henry County,Virginia","Marion County,West Virginia",19321,508990
+362,"Henry County,Virginia","Marshall County,West Virginia",23200,596366
+363,"Henry County,Virginia","Mason County,West Virginia",15348,414776
+364,"Henry County,Virginia","Mercer County,West Virginia",8384,211269
+365,"Henry County,Virginia","Mineral County,West Virginia",16762,415725
+366,"Henry County,Virginia","Mingo County,West Virginia",16674,427387
+367,"Henry County,Virginia","Monongalia County,West Virginia",19531,534458
+368,"Henry County,Virginia","Monroe County,West Virginia",9989,206159
+369,"Henry County,Virginia","Morgan County,West Virginia",15442,422840
+370,"Henry County,Virginia","Nicholas County,West Virginia",13251,336604
+371,"Henry County,Virginia","Ohio County,West Virginia",22832,641502
+372,"Henry County,Virginia","Pendleton County,West Virginia",13680,336223
+373,"Henry County,Virginia","Pleasants County,West Virginia",18674,506532
+374,"Henry County,Virginia","Pocahontas County,West Virginia",14145,311685
+375,"Henry County,Virginia","Preston County,West Virginia",19468,482652
+376,"Henry County,Virginia","Putnam County,West Virginia",14130,380394
+377,"Henry County,Virginia","Raleigh County,West Virginia",9979,255843
+378,"Henry County,Virginia","Randolph County,West Virginia",16716,353455
+379,"Henry County,Virginia","Ritchie County,West Virginia",19005,520236
+380,"Henry County,Virginia","Roane County,West Virginia",16817,437495
+381,"Henry County,Virginia","Summers County,West Virginia",10248,206629
+382,"Henry County,Virginia","Taylor County,West Virginia",19213,504562
+383,"Henry County,Virginia","Tucker County,West Virginia",17948,465849
+384,"Henry County,Virginia","Tyler County,West Virginia",20583,546147
+385,"Henry County,Virginia","Upshur County,West Virginia",18370,449989
+386,"Henry County,Virginia","Wayne County,West Virginia",17464,461496
+387,"Henry County,Virginia","Webster County,West Virginia",16595,393555
+388,"Henry County,Virginia","Wetzel County,West Virginia",20855,533305
+389,"Henry County,Virginia","Wirt County,West Virginia",17458,466018
+390,"Henry County,Virginia","Wood County,West Virginia",16972,467707
+391,"Henry County,Virginia","Wyoming County,West Virginia",11924,295785

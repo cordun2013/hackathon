@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Campbell County,Virginia","Adair County,Kentucky",27613,695842
+1,"Campbell County,Virginia","Allen County,Kentucky",29009,815652
+2,"Campbell County,Virginia","Anderson County,Kentucky",25909,735105
+3,"Campbell County,Virginia","Ballard County,Kentucky",35914,1050907
+4,"Campbell County,Virginia","Barren County,Kentucky",28799,774597
+5,"Campbell County,Virginia","Bath County,Kentucky",21557,606286
+6,"Campbell County,Virginia","Bell County,Kentucky",20108,497149
+7,"Campbell County,Virginia","Boone County,Kentucky",27370,727679
+8,"Campbell County,Virginia","Bourbon County,Kentucky",23471,652703
+9,"Campbell County,Virginia","Boyd County,Kentucky",18232,500611
+10,"Campbell County,Virginia","Boyle County,Kentucky",26791,669998
+11,"Campbell County,Virginia","Bracken County,Kentucky",23881,646786
+12,"Campbell County,Virginia","Breathitt County,Kentucky",21733,532912
+13,"Campbell County,Virginia","Breckinridge County,Kentucky",31443,887786
+14,"Campbell County,Virginia","Bullitt County,Kentucky",28013,808905
+15,"Campbell County,Virginia","Butler County,Kentucky",31469,885857
+16,"Campbell County,Virginia","Caldwell County,Kentucky",33053,958721
+17,"Campbell County,Virginia","Calloway County,Kentucky",33754,982766
+18,"Campbell County,Virginia","Campbell County,Kentucky",25582,686658
+19,"Campbell County,Virginia","Carlisle County,Kentucky",36371,1066275
+20,"Campbell County,Virginia","Carroll County,Kentucky",28454,782919
+21,"Campbell County,Virginia","Carter County,Kentucky",19397,530708
+22,"Campbell County,Virginia","Casey County,Kentucky",27551,669117
+23,"Campbell County,Virginia","Christian County,Kentucky",30647,903746
+24,"Campbell County,Virginia","Clay County,Kentucky",22681,557491
+25,"Campbell County,Virginia","Clinton County,Kentucky",26056,695057
+26,"Campbell County,Virginia","Crittenden County,Kentucky",34318,991481
+27,"Campbell County,Virginia","Cumberland County,Kentucky",26936,715725
+28,"Campbell County,Virginia","Daviess County,Kentucky",33131,956226
+29,"Campbell County,Virginia","Edmonson County,Kentucky",30778,827960
+30,"Campbell County,Virginia","Elliott County,Kentucky",20728,556478
+31,"Campbell County,Virginia","Estill County,Kentucky",24549,668601
+32,"Campbell County,Virginia","Fayette County,Kentucky",23716,672598
+33,"Campbell County,Virginia","Fleming County,Kentucky",21983,609472
+34,"Campbell County,Virginia","Floyd County,Kentucky",20393,510221
+35,"Campbell County,Virginia","Franklin County,Kentucky",25754,721514
+36,"Campbell County,Virginia","Fulton County,Kentucky",36775,1087239
+37,"Campbell County,Virginia","Gallatin County,Kentucky",27452,773578
+38,"Campbell County,Virginia","Garrard County,Kentucky",26321,719751
+39,"Campbell County,Virginia","Grant County,Kentucky",26251,747685
+40,"Campbell County,Virginia","Graves County,Kentucky",35395,1038981
+41,"Campbell County,Virginia","Grayson County,Kentucky",30435,866420
+42,"Campbell County,Virginia","Green County,Kentucky",29366,738007
+43,"Campbell County,Virginia","Greenup County,Kentucky",20008,541737
+44,"Campbell County,Virginia","Hancock County,Kentucky",32238,920679
+45,"Campbell County,Virginia","Hardin County,Kentucky",29311,828553
+46,"Campbell County,Virginia","Harlan County,Kentucky",19183,473775
+47,"Campbell County,Virginia","Harrison County,Kentucky",25041,685803
+48,"Campbell County,Virginia","Hart County,Kentucky",30111,856181
+49,"Campbell County,Virginia","Henderson County,Kentucky",34405,1012879
+50,"Campbell County,Virginia","Henry County,Kentucky",27355,765233
+51,"Campbell County,Virginia","Hickman County,Kentucky",36404,1067567
+52,"Campbell County,Virginia","Hopkins County,Kentucky",33174,968998
+53,"Campbell County,Virginia","Jackson County,Kentucky",24553,593910
+54,"Campbell County,Virginia","Jefferson County,Kentucky",27449,780766
+55,"Campbell County,Virginia","Jessamine County,Kentucky",25186,694062
+56,"Campbell County,Virginia","Johnson County,Kentucky",21009,527450
+57,"Campbell County,Virginia","Kenton County,Kentucky",26739,715373
+58,"Campbell County,Virginia","Knott County,Kentucky",19273,475662
+59,"Campbell County,Virginia","Knox County,Kentucky",21439,539141
+60,"Campbell County,Virginia","Larue County,Kentucky",29383,815728
+61,"Campbell County,Virginia","Laurel County,Kentucky",23333,573968
+62,"Campbell County,Virginia","Lawrence County,Kentucky",20155,544931
+63,"Campbell County,Virginia","Lee County,Kentucky",23844,574102
+64,"Campbell County,Virginia","Leslie County,Kentucky",20645,502055
+65,"Campbell County,Virginia","Letcher County,Kentucky",17674,439209
+66,"Campbell County,Virginia","Lewis County,Kentucky",21435,582525
+67,"Campbell County,Virginia","Lincoln County,Kentucky",26022,654365
+68,"Campbell County,Virginia","Livingston County,Kentucky",34245,1004846
+69,"Campbell County,Virginia","Logan County,Kentucky",31079,856646
+70,"Campbell County,Virginia","Lyon County,Kentucky",34001,982020
+71,"Campbell County,Virginia","McCracken County,Kentucky",34526,1018967
+72,"Campbell County,Virginia","McCreary County,Kentucky",23063,631903
+73,"Campbell County,Virginia","Madison County,Kentucky",24715,683621
+74,"Campbell County,Virginia","Magoffin County,Kentucky",21353,531426
+75,"Campbell County,Virginia","Marion County,Kentucky",27761,777337
+76,"Campbell County,Virginia","Marshall County,Kentucky",33940,1002539
+77,"Campbell County,Virginia","Martin County,Kentucky",21269,526654
+78,"Campbell County,Virginia","Mason County,Kentucky",23230,626332
+79,"Campbell County,Virginia","Meade County,Kentucky",29910,853081
+80,"Campbell County,Virginia","Menifee County,Kentucky",22673,618350
+81,"Campbell County,Virginia","Mercer County,Kentucky",26137,733049
+82,"Campbell County,Virginia","Metcalfe County,Kentucky",28269,726107
+83,"Campbell County,Virginia","Monroe County,Kentucky",27497,746146
+84,"Campbell County,Virginia","Montgomery County,Kentucky",22370,624826
+85,"Campbell County,Virginia","Morgan County,Kentucky",22451,594065
+86,"Campbell County,Virginia","Muhlenberg County,Kentucky",32860,939109
+87,"Campbell County,Virginia","Nelson County,Kentucky",27368,776409
+88,"Campbell County,Virginia","Nicholas County,Kentucky",24048,652710
+89,"Campbell County,Virginia","Ohio County,Kentucky",32232,924263
+90,"Campbell County,Virginia","Oldham County,Kentucky",27521,792647
+91,"Campbell County,Virginia","Owen County,Kentucky",26576,748291
+92,"Campbell County,Virginia","Owsley County,Kentucky",23870,570786
+93,"Campbell County,Virginia","Pendleton County,Kentucky",25819,687710
+94,"Campbell County,Virginia","Perry County,Kentucky",20247,496085
+95,"Campbell County,Virginia","Pike County,Kentucky",18768,444735
+96,"Campbell County,Virginia","Powell County,Kentucky",23813,654572
+97,"Campbell County,Virginia","Robertson County,Kentucky",23965,652216
+98,"Campbell County,Virginia","Rockcastle County,Kentucky",24503,615964
+99,"Campbell County,Virginia","Rowan County,Kentucky",20699,578493
+100,"Campbell County,Virginia","Russell County,Kentucky",27218,679826
+101,"Campbell County,Virginia","Scott County,Kentucky",24551,700625
+102,"Campbell County,Virginia","Shelby County,Kentucky",26378,751901
+103,"Campbell County,Virginia","Simpson County,Kentucky",30046,832622
+104,"Campbell County,Virginia","Spencer County,Kentucky",26907,757749
+105,"Campbell County,Virginia","Taylor County,Kentucky",28967,720102
+106,"Campbell County,Virginia","Todd County,Kentucky",31063,896693
+107,"Campbell County,Virginia","Trigg County,Kentucky",31554,921105
+108,"Campbell County,Virginia","Trimble County,Kentucky",28594,798687
+109,"Campbell County,Virginia","Union County,Kentucky",35824,1033239
+110,"Campbell County,Virginia","Warren County,Kentucky",30471,855289
+111,"Campbell County,Virginia","Washington County,Kentucky",27378,761645
+112,"Campbell County,Virginia","Wayne County,Kentucky",25567,679033
+113,"Campbell County,Virginia","Webster County,Kentucky",34283,997087
+114,"Campbell County,Virginia","Whitley County,Kentucky",21667,616665
+115,"Campbell County,Virginia","Wolfe County,Kentucky",23226,564996
+116,"Campbell County,Virginia","Woodford County,Kentucky",24770,703261
+117,"Campbell County,Virginia","Adams County,Ohio",23323,628889
+118,"Campbell County,Virginia","Allen County,Ohio",30055,804306
+119,"Campbell County,Virginia","Ashland County,Ohio",27800,758197
+120,"Campbell County,Virginia","Ashtabula County,Ohio",28287,790321
+121,"Campbell County,Virginia","Athens County,Ohio",19731,534488
+122,"Campbell County,Virginia","Auglaize County,Ohio",29305,821006
+123,"Campbell County,Virginia","Belmont County,Ohio",23360,604919
+124,"Campbell County,Virginia","Brown County,Ohio",24567,655816
+125,"Campbell County,Virginia","Butler County,Ohio",27680,737842
+126,"Campbell County,Virginia","Carroll County,Ohio",25480,704905
+127,"Campbell County,Virginia","Champaign County,Ohio",26609,723103
+128,"Campbell County,Virginia","Clark County,Ohio",25288,682648
+129,"Campbell County,Virginia","Clermont County,Ohio",25401,686912
+130,"Campbell County,Virginia","Clinton County,Ohio",24792,670329
+131,"Campbell County,Virginia","Columbiana County,Ohio",25514,629298
+132,"Campbell County,Virginia","Coshocton County,Ohio",24115,676022
+133,"Campbell County,Virginia","Crawford County,Ohio",28407,769357
+134,"Campbell County,Virginia","Cuyahoga County,Ohio",27516,790309
+135,"Campbell County,Virginia","Darke County,Ohio",28403,778052
+136,"Campbell County,Virginia","Defiance County,Ohio",33491,882627
+137,"Campbell County,Virginia","Delaware County,Ohio",25561,702094
+138,"Campbell County,Virginia","Fairfield County,Ohio",23091,629189
+139,"Campbell County,Virginia","Fayette County,Ohio",23356,640793
+140,"Campbell County,Virginia","Franklin County,Ohio",24092,659043
+141,"Campbell County,Virginia","Fulton County,Ohio",33497,924926
+142,"Campbell County,Virginia","Gallia County,Ohio",18669,499904
+143,"Campbell County,Virginia","Geauga County,Ohio",27777,762984
+144,"Campbell County,Virginia","Greene County,Ohio",24226,673945
+145,"Campbell County,Virginia","Guernsey County,Ohio",21665,613941
+146,"Campbell County,Virginia","Hamilton County,Ohio",27181,748419
+147,"Campbell County,Virginia","Hancock County,Ohio",29584,810449
+148,"Campbell County,Virginia","Hardin County,Ohio",28566,760135
+149,"Campbell County,Virginia","Harrison County,Ohio",24485,686971
+150,"Campbell County,Virginia","Henry County,Ohio",32297,882071
+151,"Campbell County,Virginia","Highland County,Ohio",23860,628902
+152,"Campbell County,Virginia","Hocking County,Ohio",21533,585152
+153,"Campbell County,Virginia","Holmes County,Ohio",25174,698906
+154,"Campbell County,Virginia","Huron County,Ohio",29697,799826
+155,"Campbell County,Virginia","Jackson County,Ohio",19847,539453
+156,"Campbell County,Virginia","Jefferson County,Ohio",24261,604269
+157,"Campbell County,Virginia","Knox County,Ohio",25903,718498
+158,"Campbell County,Virginia","Lawrence County,Ohio",19372,505667
+159,"Campbell County,Virginia","Licking County,Ohio",25036,656198
+160,"Campbell County,Virginia","Logan County,Ohio",27587,754412
+161,"Campbell County,Virginia","Lorain County,Ohio",28740,820133
+162,"Campbell County,Virginia","Lucas County,Ohio",33219,897949
+163,"Campbell County,Virginia","Madison County,Ohio",25057,663877
+164,"Campbell County,Virginia","Mahoning County,Ohio",24773,680313
+165,"Campbell County,Virginia","Marion County,Ohio",26967,728187
+166,"Campbell County,Virginia","Medina County,Ohio",27189,776340
+167,"Campbell County,Virginia","Meigs County,Ohio",18612,505458
+168,"Campbell County,Virginia","Mercer County,Ohio",30541,847939
+169,"Campbell County,Virginia","Miami County,Ohio",26891,743445
+170,"Campbell County,Virginia","Monroe County,Ohio",22601,603133
+171,"Campbell County,Virginia","Montgomery County,Ohio",26261,721401
+172,"Campbell County,Virginia","Morgan County,Ohio",21607,589781
+173,"Campbell County,Virginia","Morrow County,Ohio",26368,724915
+174,"Campbell County,Virginia","Muskingum County,Ohio",22511,641933
+175,"Campbell County,Virginia","Noble County,Ohio",21107,586293
+176,"Campbell County,Virginia","Paulding County,Ohio",32592,880212
+177,"Campbell County,Virginia","Perry County,Ohio",22949,599908
+178,"Campbell County,Virginia","Pickaway County,Ohio",22796,620891
+179,"Campbell County,Virginia","Pike County,Ohio",21293,578760
+180,"Campbell County,Virginia","Portage County,Ohio",26628,736327
+181,"Campbell County,Virginia","Preble County,Ohio",27880,749979
+182,"Campbell County,Virginia","Putnam County,Ohio",31178,836664
+183,"Campbell County,Virginia","Richland County,Ohio",27398,760154
+184,"Campbell County,Virginia","Ross County,Ohio",21541,587198
+185,"Campbell County,Virginia","Sandusky County,Ohio",31340,829144
+186,"Campbell County,Virginia","Scioto County,Ohio",21177,562940
+187,"Campbell County,Virginia","Seneca County,Ohio",29958,803029
+188,"Campbell County,Virginia","Shelby County,Ohio",27930,779730
+189,"Campbell County,Virginia","Stark County,Ohio",25339,720140
+190,"Campbell County,Virginia","Summit County,Ohio",26097,745929
+191,"Campbell County,Virginia","Trumbull County,Ohio",25931,717777
+192,"Campbell County,Virginia","Tuscarawas County,Ohio",23539,660728
+193,"Campbell County,Virginia","Union County,Ohio",26091,704643
+194,"Campbell County,Virginia","Van Wert County,Ohio",31289,847176
+195,"Campbell County,Virginia","Vinton County,Ohio",21742,564959
+196,"Campbell County,Virginia","Warren County,Ohio",25598,704388
+197,"Campbell County,Virginia","Washington County,Ohio",19966,544229
+198,"Campbell County,Virginia","Wayne County,Ohio",26310,723019
+199,"Campbell County,Virginia","Williams County,Ohio",34668,906143
+200,"Campbell County,Virginia","Wood County,Ohio",30982,852057
+201,"Campbell County,Virginia","Wyandot County,Ohio",28554,774585
+202,"Campbell County,Virginia","Accomack County,Virginia",18071,454496
+203,"Campbell County,Virginia","Albemarle County,Virginia",5233,122691
+204,"Campbell County,Virginia","Alleghany County,Virginia",7761,183260
+205,"Campbell County,Virginia","Amelia County,Virginia",5259,125799
+206,"Campbell County,Virginia","Amherst County,Virginia",2619,54399
+207,"Campbell County,Virginia","Appomattox County,Virginia",2336,45468
+208,"Campbell County,Virginia","Arlington County,Virginia",12642,308867
+209,"Campbell County,Virginia","Augusta County,Virginia",6718,158851
+210,"Campbell County,Virginia","Bath County,Virginia",8282,176587
+211,"Campbell County,Virginia","Bedford County,Virginia",2586,45501
+212,"Campbell County,Virginia","Bland County,Virginia",9375,236466
+213,"Campbell County,Virginia","Botetourt County,Virginia",5553,100515
+214,"Campbell County,Virginia","Brunswick County,Virginia",7366,148212
+215,"Campbell County,Virginia","Buchanan County,Virginia",15132,370925
+216,"Campbell County,Virginia","Buckingham County,Virginia",3451,69378
+217,"Campbell County,Virginia","Caroline County,Virginia",9967,246849
+218,"Campbell County,Virginia","Carroll County,Virginia",9497,241883
+219,"Campbell County,Virginia","Charles City County,Virginia",9341,222515
+220,"Campbell County,Virginia","Charlotte County,Virginia",2866,56259
+221,"Campbell County,Virginia","Chesterfield County,Virginia",6954,164689
+222,"Campbell County,Virginia","Clarke County,Virginia",11371,304595
+223,"Campbell County,Virginia","Craig County,Virginia",7344,152866
+224,"Campbell County,Virginia","Culpeper County,Virginia",8581,203466
+225,"Campbell County,Virginia","Cumberland County,Virginia",4864,106610
+226,"Campbell County,Virginia","Dickenson County,Virginia",15841,389103
+227,"Campbell County,Virginia","Dinwiddie County,Virginia",7032,168861
+228,"Campbell County,Virginia","Essex County,Virginia",11833,271276
+229,"Campbell County,Virginia","Fairfax County,Virginia",12390,293922
+230,"Campbell County,Virginia","Fauquier County,Virginia",9854,239795
+231,"Campbell County,Virginia","Floyd County,Virginia",7590,152978
+232,"Campbell County,Virginia","Fluvanna County,Virginia",6231,131700
+233,"Campbell County,Virginia","Franklin County,Virginia",4317,98575
+234,"Campbell County,Virginia","Frederick County,Virginia",10823,292322
+235,"Campbell County,Virginia","Giles County,Virginia",8164,191582
+236,"Campbell County,Virginia","Gloucester County,Virginia",11831,287064
+237,"Campbell County,Virginia","Goochland County,Virginia",6889,150042
+238,"Campbell County,Virginia","Grayson County,Virginia",10829,258062
+239,"Campbell County,Virginia","Greene County,Virginia",7581,170007
+240,"Campbell County,Virginia","Greensville County,Virginia",9082,191238
+241,"Campbell County,Virginia","Halifax County,Virginia",3613,73237
+242,"Campbell County,Virginia","Hanover County,Virginia",8453,197808
+243,"Campbell County,Virginia","Henrico County,Virginia",8299,202491
+244,"Campbell County,Virginia","Henry County,Virginia",5772,135531
+245,"Campbell County,Virginia","Highland County,Virginia",9920,216590
+246,"Campbell County,Virginia","Isle of Wight County,Virginia",11153,268981
+247,"Campbell County,Virginia","James City County,Virginia",10897,273647
+248,"Campbell County,Virginia","King and Queen County,Virginia",11010,260623
+249,"Campbell County,Virginia","King George County,Virginia",11081,274835
+250,"Campbell County,Virginia","King William County,Virginia",9698,230546
+251,"Campbell County,Virginia","Lancaster County,Virginia",13491,313631
+252,"Campbell County,Virginia","Lee County,Virginia",16336,420757
+253,"Campbell County,Virginia","Loudoun County,Virginia",12522,287120
+254,"Campbell County,Virginia","Louisa County,Virginia",7056,180516
+255,"Campbell County,Virginia","Lunenburg County,Virginia",4679,97913
+256,"Campbell County,Virginia","Madison County,Virginia",7696,179574
+257,"Campbell County,Virginia","Mathews County,Virginia",12656,310488
+258,"Campbell County,Virginia","Mecklenburg County,Virginia",5629,110668
+259,"Campbell County,Virginia","Middlesex County,Virginia",11433,283265
+260,"Campbell County,Virginia","Montgomery County,Virginia",6728,155852
+261,"Campbell County,Virginia","Nelson County,Virginia",3113,74933
+262,"Campbell County,Virginia","New Kent County,Virginia",10333,247561
+263,"Campbell County,Virginia","Northampton County,Virginia",15314,390311
+264,"Campbell County,Virginia","Northumberland County,Virginia",13530,312143
+265,"Campbell County,Virginia","Nottoway County,Virginia",5299,127614
+266,"Campbell County,Virginia","Orange County,Virginia",8019,188624
+267,"Campbell County,Virginia","Page County,Virginia",9037,226647
+268,"Campbell County,Virginia","Patrick County,Virginia",7355,174439
+269,"Campbell County,Virginia","Pittsylvania County,Virginia",3328,79637
+270,"Campbell County,Virginia","Powhatan County,Virginia",6362,141316
+271,"Campbell County,Virginia","Prince Edward County,Virginia",3716,71181
+272,"Campbell County,Virginia","Prince George County,Virginia",8688,208235
+273,"Campbell County,Virginia","Prince William County,Virginia",10664,255878
+274,"Campbell County,Virginia","Pulaski County,Virginia",7455,178486
+275,"Campbell County,Virginia","Rappahannock County,Virginia",9226,214401
+276,"Campbell County,Virginia","Richmond County,Virginia",12230,284787
+277,"Campbell County,Virginia","Roanoke County,Virginia",5719,120791
+278,"Campbell County,Virginia","Rockbridge County,Virginia",5752,111207
+279,"Campbell County,Virginia","Rockingham County,Virginia",8077,198997
+280,"Campbell County,Virginia","Russell County,Virginia",14297,354262
+281,"Campbell County,Virginia","Scott County,Virginia",14909,381485
+282,"Campbell County,Virginia","Shenandoah County,Virginia",8581,229101
+283,"Campbell County,Virginia","Smyth County,Virginia",10492,265207
+284,"Campbell County,Virginia","Southampton County,Virginia",10210,220937
+285,"Campbell County,Virginia","Spotsylvania County,Virginia",9073,222354
+286,"Campbell County,Virginia","Stafford County,Virginia",10454,246647
+287,"Campbell County,Virginia","Surry County,Virginia",10369,247199
+288,"Campbell County,Virginia","Sussex County,Virginia",9041,213992
+289,"Campbell County,Virginia","Tazewell County,Virginia",11952,305283
+290,"Campbell County,Virginia","Warren County,Virginia",10483,273693
+291,"Campbell County,Virginia","Washington County,Virginia",11885,304673
+292,"Campbell County,Virginia","Westmoreland County,Virginia",12055,291660
+293,"Campbell County,Virginia","Wise County,Virginia",15748,395605
+294,"Campbell County,Virginia","Wythe County,Virginia",8746,217192
+295,"Campbell County,Virginia","York County,Virginia",12184,304422
+296,"Campbell County,Virginia","Alexandria City County,Virginia",12614,305915
+297,"Campbell County,Virginia","Bedford City County,Virginia",2515,46372
+298,"Campbell County,Virginia","Bristol City County,Virginia",12360,330390
+299,"Campbell County,Virginia","Buena Vista City County,Virginia",4506,92838
+300,"Campbell County,Virginia","Charlottesville City County,Virginia",5287,129853
+301,"Campbell County,Virginia","Chesapeake City County,Virginia",13022,312892
+302,"Campbell County,Virginia","Clifton Forge City County,Virginia",6663,152078
+303,"Campbell County,Virginia","Colonial Heights City County,Virginia",7940,192940
+304,"Campbell County,Virginia","Covington City County,Virginia",7406,170420
+305,"Campbell County,Virginia","Danville City County,Virginia",3927,95980
+306,"Campbell County,Virginia","Emporia City County,Virginia",8750,177602
+307,"Campbell County,Virginia","Fairfax City County,Virginia",11933,283497
+308,"Campbell County,Virginia","Falls Church City County,Virginia",12265,297970
+309,"Campbell County,Virginia","Franklin City County,Virginia",10837,234072
+310,"Campbell County,Virginia","Fredericksburg City County,Virginia",10206,232014
+311,"Campbell County,Virginia","Galax City County,Virginia",10120,247749
+312,"Campbell County,Virginia","Hampton City County,Virginia",12134,314128
+313,"Campbell County,Virginia","Harrisonburg City County,Virginia",7136,178893
+314,"Campbell County,Virginia","Hopewell City County,Virginia",8219,196497
+315,"Campbell County,Virginia","Lexington City County,Virginia",5037,102022
+316,"Campbell County,Virginia","Lynchburg City County,Virginia",1734,26577
+317,"Campbell County,Virginia","Manassas City County,Virginia",11013,256462
+318,"Campbell County,Virginia","Manassas Park City County,Virginia",11382,259709
+319,"Campbell County,Virginia","Martinsville City County,Virginia",4956,111746
+320,"Campbell County,Virginia","Newport News City County,Virginia",11691,300614
+321,"Campbell County,Virginia","Norfolk City County,Virginia",12974,311752
+322,"Campbell County,Virginia","Norton City County,Virginia",15272,386495
+323,"Campbell County,Virginia","Petersburg City County,Virginia",7691,190838
+324,"Campbell County,Virginia","Poquoson City County,Virginia",12363,311190
+325,"Campbell County,Virginia","Portsmouth City County,Virginia",12893,309288
+326,"Campbell County,Virginia","Radford County,Virginia",7092,165697
+327,"Campbell County,Virginia","Richmond City County,Virginia",7944,187420
+328,"Campbell County,Virginia","Roanoke City County,Virginia",4771,86984
+329,"Campbell County,Virginia","Salem City County,Virginia",5087,110704
+330,"Campbell County,Virginia","South Boston City County,Virginia",3616,72056
+331,"Campbell County,Virginia","Staunton City County,Virginia",6024,140574
+332,"Campbell County,Virginia","Suffolk City County,Virginia",12153,267374
+333,"Campbell County,Virginia","Virginia Beach City County,Virginia",14002,362802
+334,"Campbell County,Virginia","Waynesboro City County,Virginia",5260,120763
+335,"Campbell County,Virginia","Williamsburg City County,Virginia",10735,272863
+336,"Campbell County,Virginia","Winchester City County,Virginia",10702,288465
+337,"Campbell County,Virginia","Barbour County,West Virginia",16827,357295
+338,"Campbell County,Virginia","Berkeley County,West Virginia",12440,335673
+339,"Campbell County,Virginia","Boone County,West Virginia",16121,382966
+340,"Campbell County,Virginia","Braxton County,West Virginia",15818,363640
+341,"Campbell County,Virginia","Brooke County,West Virginia",22567,567819
+342,"Campbell County,Virginia","Cabell County,West Virginia",17688,478872
+343,"Campbell County,Virginia","Calhoun County,West Virginia",17589,417591
+344,"Campbell County,Virginia","Clay County,West Virginia",15854,354424
+345,"Campbell County,Virginia","Doddridge County,West Virginia",19332,449517
+346,"Campbell County,Virginia","Fayette County,West Virginia",13242,301163
+347,"Campbell County,Virginia","Gilmer County,West Virginia",17386,413320
+348,"Campbell County,Virginia","Grant County,West Virginia",12532,318160
+349,"Campbell County,Virginia","Greenbrier County,West Virginia",11598,260388
+350,"Campbell County,Virginia","Hampshire County,West Virginia",12559,306577
+351,"Campbell County,Virginia","Hancock County,West Virginia",24194,595166
+352,"Campbell County,Virginia","Hardy County,West Virginia",11780,289490
+353,"Campbell County,Virginia","Harrison County,West Virginia",18362,459032
+354,"Campbell County,Virginia","Jackson County,West Virginia",17007,458682
+355,"Campbell County,Virginia","Jefferson County,West Virginia",12491,323079
+356,"Campbell County,Virginia","Kanawha County,West Virginia",14771,380664
+357,"Campbell County,Virginia","Lewis County,West Virginia",16991,412502
+358,"Campbell County,Virginia","Lincoln County,West Virginia",18352,456549
+359,"Campbell County,Virginia","Logan County,West Virginia",17911,413455
+360,"Campbell County,Virginia","McDowell County,West Virginia",14260,312468
+361,"Campbell County,Virginia","Marion County,West Virginia",19507,486199
+362,"Campbell County,Virginia","Marshall County,West Virginia",23554,562263
+363,"Campbell County,Virginia","Mason County,West Virginia",17164,464778
+364,"Campbell County,Virginia","Mercer County,West Virginia",10337,247759
+365,"Campbell County,Virginia","Mineral County,West Virginia",14006,329683
+366,"Campbell County,Virginia","Mingo County,West Virginia",18490,477390
+367,"Campbell County,Virginia","Monongalia County,West Virginia",17708,442419
+368,"Campbell County,Virginia","Monroe County,West Virginia",10489,212865
+369,"Campbell County,Virginia","Morgan County,West Virginia",12686,336799
+370,"Campbell County,Virginia","Nicholas County,West Virginia",13437,313813
+371,"Campbell County,Virginia","Ohio County,West Virginia",22474,576765
+372,"Campbell County,Virginia","Pendleton County,West Virginia",10924,250182
+373,"Campbell County,Virginia","Pleasants County,West Virginia",20490,556534
+374,"Campbell County,Virginia","Pocahontas County,West Virginia",12816,255081
+375,"Campbell County,Virginia","Preston County,West Virginia",16712,396611
+376,"Campbell County,Virginia","Putnam County,West Virginia",15945,430396
+377,"Campbell County,Virginia","Raleigh County,West Virginia",11795,305845
+378,"Campbell County,Virginia","Randolph County,West Virginia",14843,310689
+379,"Campbell County,Virginia","Ritchie County,West Virginia",20062,459966
+380,"Campbell County,Virginia","Roane County,West Virginia",18633,487498
+381,"Campbell County,Virginia","Summers County,West Virginia",11071,245878
+382,"Campbell County,Virginia","Taylor County,West Virginia",17055,414432
+383,"Campbell County,Virginia","Tucker County,West Virginia",15192,379807
+384,"Campbell County,Virginia","Tyler County,West Virginia",22087,527838
+385,"Campbell County,Virginia","Upshur County,West Virginia",17438,346331
+386,"Campbell County,Virginia","Wayne County,West Virginia",19279,511498
+387,"Campbell County,Virginia","Webster County,West Virginia",16189,358301
+388,"Campbell County,Virginia","Wetzel County,West Virginia",21041,510514
+389,"Campbell County,Virginia","Wirt County,West Virginia",19274,516020
+390,"Campbell County,Virginia","Wood County,West Virginia",18788,517710
+391,"Campbell County,Virginia","Wyoming County,West Virginia",13740,345787

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Spotsylvania County,Virginia","Adair County,Kentucky",33021,870291
+1,"Spotsylvania County,Virginia","Allen County,Kentucky",34417,990100
+2,"Spotsylvania County,Virginia","Anderson County,Kentucky",28649,833076
+3,"Spotsylvania County,Virginia","Ballard County,Kentucky",41321,1225355
+4,"Spotsylvania County,Virginia","Barren County,Kentucky",34206,949046
+5,"Spotsylvania County,Virginia","Bath County,Kentucky",24296,704257
+6,"Spotsylvania County,Virginia","Bell County,Kentucky",25516,671597
+7,"Spotsylvania County,Virginia","Boone County,Kentucky",30109,825650
+8,"Spotsylvania County,Virginia","Bourbon County,Kentucky",26210,750675
+9,"Spotsylvania County,Virginia","Boyd County,Kentucky",20972,598582
+10,"Spotsylvania County,Virginia","Boyle County,Kentucky",29878,836962
+11,"Spotsylvania County,Virginia","Bracken County,Kentucky",26621,744757
+12,"Spotsylvania County,Virginia","Breathitt County,Kentucky",27141,707361
+13,"Spotsylvania County,Virginia","Breckinridge County,Kentucky",34182,985757
+14,"Spotsylvania County,Virginia","Bullitt County,Kentucky",30752,906876
+15,"Spotsylvania County,Virginia","Butler County,Kentucky",34847,1007755
+16,"Spotsylvania County,Virginia","Caldwell County,Kentucky",37739,1113700
+17,"Spotsylvania County,Virginia","Calloway County,Kentucky",39162,1157215
+18,"Spotsylvania County,Virginia","Campbell County,Kentucky",28321,784629
+19,"Spotsylvania County,Virginia","Carlisle County,Kentucky",41778,1240724
+20,"Spotsylvania County,Virginia","Carroll County,Kentucky",31193,880890
+21,"Spotsylvania County,Virginia","Carter County,Kentucky",22136,628679
+22,"Spotsylvania County,Virginia","Casey County,Kentucky",31372,868467
+23,"Spotsylvania County,Virginia","Christian County,Kentucky",36055,1078194
+24,"Spotsylvania County,Virginia","Clay County,Kentucky",28088,731939
+25,"Spotsylvania County,Virginia","Clinton County,Kentucky",31464,869505
+26,"Spotsylvania County,Virginia","Crittenden County,Kentucky",39319,1146771
+27,"Spotsylvania County,Virginia","Cumberland County,Kentucky",32344,890174
+28,"Spotsylvania County,Virginia","Daviess County,Kentucky",35870,1054197
+29,"Spotsylvania County,Virginia","Edmonson County,Kentucky",34287,995630
+30,"Spotsylvania County,Virginia","Elliott County,Kentucky",23467,654449
+31,"Spotsylvania County,Virginia","Estill County,Kentucky",27288,766572
+32,"Spotsylvania County,Virginia","Fayette County,Kentucky",26456,770569
+33,"Spotsylvania County,Virginia","Fleming County,Kentucky",24722,707443
+34,"Spotsylvania County,Virginia","Floyd County,Kentucky",25104,705847
+35,"Spotsylvania County,Virginia","Franklin County,Kentucky",28493,819485
+36,"Spotsylvania County,Virginia","Fulton County,Kentucky",42182,1261688
+37,"Spotsylvania County,Virginia","Gallatin County,Kentucky",30191,871549
+38,"Spotsylvania County,Virginia","Garrard County,Kentucky",29061,817722
+39,"Spotsylvania County,Virginia","Grant County,Kentucky",28990,845656
+40,"Spotsylvania County,Virginia","Graves County,Kentucky",40803,1213430
+41,"Spotsylvania County,Virginia","Grayson County,Kentucky",33174,964391
+42,"Spotsylvania County,Virginia","Green County,Kentucky",32954,929596
+43,"Spotsylvania County,Virginia","Greenup County,Kentucky",22747,639708
+44,"Spotsylvania County,Virginia","Hancock County,Kentucky",34978,1018650
+45,"Spotsylvania County,Virginia","Hardin County,Kentucky",32050,926524
+46,"Spotsylvania County,Virginia","Harlan County,Kentucky",24591,648224
+47,"Spotsylvania County,Virginia","Harrison County,Kentucky",27780,783774
+48,"Spotsylvania County,Virginia","Hart County,Kentucky",32850,954152
+49,"Spotsylvania County,Virginia","Henderson County,Kentucky",37676,1106627
+50,"Spotsylvania County,Virginia","Henry County,Kentucky",30095,863204
+51,"Spotsylvania County,Virginia","Hickman County,Kentucky",41812,1242015
+52,"Spotsylvania County,Virginia","Hopkins County,Kentucky",37198,1088169
+53,"Spotsylvania County,Virginia","Jackson County,Kentucky",29960,768358
+54,"Spotsylvania County,Virginia","Jefferson County,Kentucky",30188,878737
+55,"Spotsylvania County,Virginia","Jessamine County,Kentucky",27925,792033
+56,"Spotsylvania County,Virginia","Johnson County,Kentucky",23753,671478
+57,"Spotsylvania County,Virginia","Kenton County,Kentucky",29478,813344
+58,"Spotsylvania County,Virginia","Knott County,Kentucky",24681,650110
+59,"Spotsylvania County,Virginia","Knox County,Kentucky",26846,713590
+60,"Spotsylvania County,Virginia","Larue County,Kentucky",32122,913699
+61,"Spotsylvania County,Virginia","Laurel County,Kentucky",28740,748417
+62,"Spotsylvania County,Virginia","Lawrence County,Kentucky",22895,642902
+63,"Spotsylvania County,Virginia","Lee County,Kentucky",28133,760309
+64,"Spotsylvania County,Virginia","Leslie County,Kentucky",26053,676503
+65,"Spotsylvania County,Virginia","Letcher County,Kentucky",23081,613657
+66,"Spotsylvania County,Virginia","Lewis County,Kentucky",24174,680496
+67,"Spotsylvania County,Virginia","Lincoln County,Kentucky",29771,834641
+68,"Spotsylvania County,Virginia","Livingston County,Kentucky",39652,1179294
+69,"Spotsylvania County,Virginia","Logan County,Kentucky",36487,1031095
+70,"Spotsylvania County,Virginia","Lyon County,Kentucky",39409,1156469
+71,"Spotsylvania County,Virginia","McCracken County,Kentucky",39934,1193415
+72,"Spotsylvania County,Virginia","McCreary County,Kentucky",28471,806351
+73,"Spotsylvania County,Virginia","Madison County,Kentucky",27454,781592
+74,"Spotsylvania County,Virginia","Magoffin County,Kentucky",24721,692157
+75,"Spotsylvania County,Virginia","Marion County,Kentucky",30500,875309
+76,"Spotsylvania County,Virginia","Marshall County,Kentucky",39348,1176987
+77,"Spotsylvania County,Virginia","Martin County,Kentucky",24009,624625
+78,"Spotsylvania County,Virginia","Mason County,Kentucky",25970,724303
+79,"Spotsylvania County,Virginia","Meade County,Kentucky",32649,951052
+80,"Spotsylvania County,Virginia","Menifee County,Kentucky",25412,716321
+81,"Spotsylvania County,Virginia","Mercer County,Kentucky",28876,831020
+82,"Spotsylvania County,Virginia","Metcalfe County,Kentucky",33677,900555
+83,"Spotsylvania County,Virginia","Monroe County,Kentucky",32905,920595
+84,"Spotsylvania County,Virginia","Montgomery County,Kentucky",25109,722797
+85,"Spotsylvania County,Virginia","Morgan County,Kentucky",25190,692036
+86,"Spotsylvania County,Virginia","Muhlenberg County,Kentucky",36058,1054644
+87,"Spotsylvania County,Virginia","Nelson County,Kentucky",30108,874380
+88,"Spotsylvania County,Virginia","Nicholas County,Kentucky",26787,750681
+89,"Spotsylvania County,Virginia","Ohio County,Kentucky",34971,1022234
+90,"Spotsylvania County,Virginia","Oldham County,Kentucky",30260,890618
+91,"Spotsylvania County,Virginia","Owen County,Kentucky",29315,846262
+92,"Spotsylvania County,Virginia","Owsley County,Kentucky",29278,745235
+93,"Spotsylvania County,Virginia","Pendleton County,Kentucky",28558,785681
+94,"Spotsylvania County,Virginia","Perry County,Kentucky",25655,670534
+95,"Spotsylvania County,Virginia","Pike County,Kentucky",24204,589872
+96,"Spotsylvania County,Virginia","Powell County,Kentucky",26553,752543
+97,"Spotsylvania County,Virginia","Robertson County,Kentucky",26705,750187
+98,"Spotsylvania County,Virginia","Rockcastle County,Kentucky",28888,822734
+99,"Spotsylvania County,Virginia","Rowan County,Kentucky",23439,676464
+100,"Spotsylvania County,Virginia","Russell County,Kentucky",32626,854274
+101,"Spotsylvania County,Virginia","Scott County,Kentucky",27290,798596
+102,"Spotsylvania County,Virginia","Shelby County,Kentucky",29117,849872
+103,"Spotsylvania County,Virginia","Simpson County,Kentucky",35454,1007070
+104,"Spotsylvania County,Virginia","Spencer County,Kentucky",29647,855720
+105,"Spotsylvania County,Virginia","Taylor County,Kentucky",31789,906805
+106,"Spotsylvania County,Virginia","Todd County,Kentucky",36471,1071141
+107,"Spotsylvania County,Virginia","Trigg County,Kentucky",36962,1095554
+108,"Spotsylvania County,Virginia","Trimble County,Kentucky",31334,896658
+109,"Spotsylvania County,Virginia","Union County,Kentucky",39396,1137073
+110,"Spotsylvania County,Virginia","Warren County,Kentucky",35203,1023999
+111,"Spotsylvania County,Virginia","Washington County,Kentucky",30118,859617
+112,"Spotsylvania County,Virginia","Wayne County,Kentucky",30975,853482
+113,"Spotsylvania County,Virginia","Webster County,Kentucky",38307,1116257
+114,"Spotsylvania County,Virginia","Whitley County,Kentucky",27075,791114
+115,"Spotsylvania County,Virginia","Wolfe County,Kentucky",26285,715398
+116,"Spotsylvania County,Virginia","Woodford County,Kentucky",27510,801232
+117,"Spotsylvania County,Virginia","Adams County,Ohio",26062,726860
+118,"Spotsylvania County,Virginia","Allen County,Ohio",31095,901774
+119,"Spotsylvania County,Virginia","Ashland County,Ohio",25644,728464
+120,"Spotsylvania County,Virginia","Ashtabula County,Ohio",23641,682933
+121,"Spotsylvania County,Virginia","Athens County,Ohio",22470,632459
+122,"Spotsylvania County,Virginia","Auglaize County,Ohio",31591,922461
+123,"Spotsylvania County,Virginia","Belmont County,Ohio",20211,579229
+124,"Spotsylvania County,Virginia","Brown County,Ohio",27307,753787
+125,"Spotsylvania County,Virginia","Butler County,Ohio",30419,835813
+126,"Spotsylvania County,Virginia","Carroll County,Ohio",22157,595154
+127,"Spotsylvania County,Virginia","Champaign County,Ohio",29334,837356
+128,"Spotsylvania County,Virginia","Clark County,Ohio",28027,780619
+129,"Spotsylvania County,Virginia","Clermont County,Ohio",28140,784883
+130,"Spotsylvania County,Virginia","Clinton County,Ohio",27532,768300
+131,"Spotsylvania County,Virginia","Columbiana County,Ohio",20944,577171
+132,"Spotsylvania County,Virginia","Coshocton County,Ohio",24568,704678
+133,"Spotsylvania County,Virginia","Crawford County,Ohio",27553,799658
+134,"Spotsylvania County,Virginia","Cuyahoga County,Ohio",23637,680777
+135,"Spotsylvania County,Virginia","Darke County,Ohio",31142,876023
+136,"Spotsylvania County,Virginia","Defiance County,Ohio",31956,929741
+137,"Spotsylvania County,Virginia","Delaware County,Ohio",27488,803676
+138,"Spotsylvania County,Virginia","Fairfield County,Ohio",25583,740461
+139,"Spotsylvania County,Virginia","Fayette County,Ohio",26095,738764
+140,"Spotsylvania County,Virginia","Franklin County,Ohio",26184,767562
+141,"Spotsylvania County,Virginia","Fulton County,Ohio",30308,886592
+142,"Spotsylvania County,Virginia","Gallia County,Ohio",21409,597875
+143,"Spotsylvania County,Virginia","Geauga County,Ohio",23131,655596
+144,"Spotsylvania County,Virginia","Greene County,Ohio",26966,771916
+145,"Spotsylvania County,Virginia","Guernsey County,Ohio",22115,642738
+146,"Spotsylvania County,Virginia","Hamilton County,Ohio",29921,846390
+147,"Spotsylvania County,Virginia","Hancock County,Ohio",29583,861739
+148,"Spotsylvania County,Virginia","Hardin County,Ohio",30239,864330
+149,"Spotsylvania County,Virginia","Harrison County,Ohio",21371,597372
+150,"Spotsylvania County,Virginia","Henry County,Ohio",30762,876359
+151,"Spotsylvania County,Virginia","Highland County,Ohio",26599,726873
+152,"Spotsylvania County,Virginia","Hocking County,Ohio",24273,683123
+153,"Spotsylvania County,Virginia","Holmes County,Ohio",25311,679449
+154,"Spotsylvania County,Virginia","Huron County,Ohio",26921,758069
+155,"Spotsylvania County,Virginia","Jackson County,Ohio",22586,637424
+156,"Spotsylvania County,Virginia","Jefferson County,Ohio",20113,558645
+157,"Spotsylvania County,Virginia","Knox County,Ohio",26357,747154
+158,"Spotsylvania County,Virginia","Lawrence County,Ohio",22111,603638
+159,"Spotsylvania County,Virginia","Licking County,Ohio",25743,728226
+160,"Spotsylvania County,Virginia","Logan County,Ohio",29509,868874
+161,"Spotsylvania County,Virginia","Lorain County,Ohio",24689,710498
+162,"Spotsylvania County,Virginia","Lucas County,Ohio",29262,839442
+163,"Spotsylvania County,Virginia","Madison County,Ohio",27461,802284
+164,"Spotsylvania County,Virginia","Mahoning County,Ohio",20128,572925
+165,"Spotsylvania County,Virginia","Marion County,Ohio",28581,816641
+166,"Spotsylvania County,Virginia","Medina County,Ohio",24276,695583
+167,"Spotsylvania County,Virginia","Meigs County,Ohio",21351,603429
+168,"Spotsylvania County,Virginia","Mercer County,Ohio",32826,949395
+169,"Spotsylvania County,Virginia","Miami County,Ohio",29630,841416
+170,"Spotsylvania County,Virginia","Monroe County,Ohio",22644,625912
+171,"Spotsylvania County,Virginia","Montgomery County,Ohio",29000,819372
+172,"Spotsylvania County,Virginia","Morgan County,Ohio",23918,570388
+173,"Spotsylvania County,Virginia","Morrow County,Ohio",27282,789916
+174,"Spotsylvania County,Virginia","Muskingum County,Ohio",22961,670729
+175,"Spotsylvania County,Virginia","Noble County,Ohio",23398,567914
+176,"Spotsylvania County,Virginia","Paulding County,Ohio",33161,965728
+177,"Spotsylvania County,Virginia","Perry County,Ohio",25060,718672
+178,"Spotsylvania County,Virginia","Pickaway County,Ohio",25536,718863
+179,"Spotsylvania County,Virginia","Pike County,Ohio",24032,676731
+180,"Spotsylvania County,Virginia","Portage County,Ohio",21982,628939
+181,"Spotsylvania County,Virginia","Preble County,Ohio",30619,847950
+182,"Spotsylvania County,Virginia","Putnam County,Ohio",31781,921545
+183,"Spotsylvania County,Virginia","Richland County,Ohio",26200,749892
+184,"Spotsylvania County,Virginia","Ross County,Ohio",24280,685169
+185,"Spotsylvania County,Virginia","Sandusky County,Ohio",27550,798016
+186,"Spotsylvania County,Virginia","Scioto County,Ohio",23916,660911
+187,"Spotsylvania County,Virginia","Seneca County,Ohio",28281,807688
+188,"Spotsylvania County,Virginia","Shelby County,Ohio",30669,877701
+189,"Spotsylvania County,Virginia","Stark County,Ohio",22762,625072
+190,"Spotsylvania County,Virginia","Summit County,Ohio",23040,654754
+191,"Spotsylvania County,Virginia","Trumbull County,Ohio",21285,610389
+192,"Spotsylvania County,Virginia","Tuscarawas County,Ohio",22880,628655
+193,"Spotsylvania County,Virginia","Union County,Ohio",28013,819105
+194,"Spotsylvania County,Virginia","Van Wert County,Ohio",31892,932056
+195,"Spotsylvania County,Virginia","Vinton County,Ohio",24481,662930
+196,"Spotsylvania County,Virginia","Warren County,Ohio",28337,802359
+197,"Spotsylvania County,Virginia","Washington County,Ohio",22257,525851
+198,"Spotsylvania County,Virginia","Wayne County,Ohio",25382,714394
+199,"Spotsylvania County,Virginia","Williams County,Ohio",31553,918048
+200,"Spotsylvania County,Virginia","Wood County,Ohio",29448,846345
+201,"Spotsylvania County,Virginia","Wyandot County,Ohio",28553,825875
+202,"Spotsylvania County,Virginia","Accomack County,Virginia",13372,343852
+203,"Spotsylvania County,Virginia","Albemarle County,Virginia",4991,112290
+204,"Spotsylvania County,Virginia","Alleghany County,Virginia",10501,281231
+205,"Spotsylvania County,Virginia","Amelia County,Virginia",6192,149596
+206,"Spotsylvania County,Virginia","Amherst County,Virginia",7784,182037
+207,"Spotsylvania County,Virginia","Appomattox County,Virginia",8146,166149
+208,"Spotsylvania County,Virginia","Arlington County,Virginia",4130,101418
+209,"Spotsylvania County,Virginia","Augusta County,Virginia",7244,174925
+210,"Spotsylvania County,Virginia","Bath County,Virginia",10219,240584
+211,"Spotsylvania County,Virginia","Bedford County,Virginia",10267,245440
+212,"Spotsylvania County,Virginia","Bland County,Virginia",14783,410915
+213,"Spotsylvania County,Virginia","Botetourt County,Virginia",9808,252167
+214,"Spotsylvania County,Virginia","Brunswick County,Virginia",7495,200182
+215,"Spotsylvania County,Virginia","Buchanan County,Virginia",20539,545374
+216,"Spotsylvania County,Virginia","Buckingham County,Virginia",6988,138126
+217,"Spotsylvania County,Virginia","Campbell County,Virginia",9146,222169
+218,"Spotsylvania County,Virginia","Caroline County,Virginia",2542,44261
+219,"Spotsylvania County,Virginia","Carroll County,Virginia",14905,416331
+220,"Spotsylvania County,Virginia","Charles City County,Virginia",4962,122232
+221,"Spotsylvania County,Virginia","Charlotte County,Virginia",9058,224192
+222,"Spotsylvania County,Virginia","Chesterfield County,Virginia",4892,115149
+223,"Spotsylvania County,Virginia","Clarke County,Virginia",6543,137848
+224,"Spotsylvania County,Virginia","Craig County,Virginia",12649,308494
+225,"Spotsylvania County,Virginia","Culpeper County,Virginia",2895,52481
+226,"Spotsylvania County,Virginia","Cumberland County,Virginia",5938,118861
+227,"Spotsylvania County,Virginia","Dickenson County,Virginia",21249,563551
+228,"Spotsylvania County,Virginia","Dinwiddie County,Virginia",6133,160148
+229,"Spotsylvania County,Virginia","Essex County,Virginia",3852,80377
+230,"Spotsylvania County,Virginia","Fairfax County,Virginia",4427,104648
+231,"Spotsylvania County,Virginia","Fauquier County,Virginia",3856,78614
+232,"Spotsylvania County,Virginia","Floyd County,Virginia",13431,357878
+233,"Spotsylvania County,Virginia","Fluvanna County,Virginia",4255,82144
+234,"Spotsylvania County,Virginia","Franklin County,Virginia",12704,312734
+235,"Spotsylvania County,Virginia","Frederick County,Virginia",7098,170910
+236,"Spotsylvania County,Virginia","Giles County,Virginia",13571,366030
+237,"Spotsylvania County,Virginia","Gloucester County,Virginia",7132,176420
+238,"Spotsylvania County,Virginia","Goochland County,Virginia",4104,82331
+239,"Spotsylvania County,Virginia","Grayson County,Virginia",16236,432511
+240,"Spotsylvania County,Virginia","Greene County,Virginia",5331,97519
+241,"Spotsylvania County,Virginia","Greensville County,Virginia",7549,208900
+242,"Spotsylvania County,Virginia","Halifax County,Virginia",10691,267337
+243,"Spotsylvania County,Virginia","Hanover County,Virginia",3310,80241
+244,"Spotsylvania County,Virginia","Henrico County,Virginia",4109,102902
+245,"Spotsylvania County,Virginia","Henry County,Virginia",14178,371285
+246,"Spotsylvania County,Virginia","Highland County,Virginia",10447,232664
+247,"Spotsylvania County,Virginia","Isle of Wight County,Virginia",8243,211492
+248,"Spotsylvania County,Virginia","James City County,Virginia",6198,163003
+249,"Spotsylvania County,Virginia","King and Queen County,Virginia",4945,110064
+250,"Spotsylvania County,Virginia","King George County,Virginia",2907,56529
+251,"Spotsylvania County,Virginia","King William County,Virginia",3911,87861
+252,"Spotsylvania County,Virginia","Lancaster County,Virginia",6275,136372
+253,"Spotsylvania County,Virginia","Lee County,Virginia",21744,595205
+254,"Spotsylvania County,Virginia","Loudoun County,Virginia",6524,125940
+255,"Spotsylvania County,Virginia","Louisa County,Virginia",2385,47224
+256,"Spotsylvania County,Virginia","Lunenburg County,Virginia",8608,208041
+257,"Spotsylvania County,Virginia","Madison County,Virginia",3797,78878
+258,"Spotsylvania County,Virginia","Mathews County,Virginia",7986,180759
+259,"Spotsylvania County,Virginia","Mecklenburg County,Virginia",9221,248453
+260,"Spotsylvania County,Virginia","Middlesex County,Virginia",6356,144340
+261,"Spotsylvania County,Virginia","Montgomery County,Virginia",12136,330301
+262,"Spotsylvania County,Virginia","Nelson County,Virginia",6230,149631
+263,"Spotsylvania County,Virginia","New Kent County,Virginia",5634,136917
+264,"Spotsylvania County,Virginia","Northampton County,Virginia",10615,279666
+265,"Spotsylvania County,Virginia","Northumberland County,Virginia",6315,134884
+266,"Spotsylvania County,Virginia","Nottoway County,Virginia",7003,174729
+267,"Spotsylvania County,Virginia","Orange County,Virginia",2428,43243
+268,"Spotsylvania County,Virginia","Page County,Virginia",5780,110186
+269,"Spotsylvania County,Virginia","Patrick County,Virginia",15551,394781
+270,"Spotsylvania County,Virginia","Pittsylvania County,Virginia",11716,293796
+271,"Spotsylvania County,Virginia","Powhatan County,Virginia",4996,125836
+272,"Spotsylvania County,Virginia","Prince Edward County,Virginia",7936,197309
+273,"Spotsylvania County,Virginia","Prince George County,Virginia",5778,150745
+274,"Spotsylvania County,Virginia","Prince William County,Virginia",4587,94497
+275,"Spotsylvania County,Virginia","Pulaski County,Virginia",12863,352934
+276,"Spotsylvania County,Virginia","Rappahannock County,Virginia",4479,84467
+277,"Spotsylvania County,Virginia","Richmond County,Virginia",5015,107527
+278,"Spotsylvania County,Virginia","Roanoke County,Virginia",11127,295240
+279,"Spotsylvania County,Virginia","Rockbridge County,Virginia",8550,218177
+280,"Spotsylvania County,Virginia","Rockingham County,Virginia",8109,156532
+281,"Spotsylvania County,Virginia","Russell County,Virginia",19705,528711
+282,"Spotsylvania County,Virginia","Scott County,Virginia",20317,555934
+283,"Spotsylvania County,Virginia","Shenandoah County,Virginia",7034,176019
+284,"Spotsylvania County,Virginia","Smyth County,Virginia",15900,439655
+285,"Spotsylvania County,Virginia","Southampton County,Virginia",7927,205014
+286,"Spotsylvania County,Virginia","Stafford County,Virginia",1942,39199
+287,"Spotsylvania County,Virginia","Surry County,Virginia",6890,172439
+288,"Spotsylvania County,Virginia","Sussex County,Virginia",6590,175257
+289,"Spotsylvania County,Virginia","Tazewell County,Virginia",17360,479732
+290,"Spotsylvania County,Virginia","Warren County,Virginia",6117,117829
+291,"Spotsylvania County,Virginia","Washington County,Virginia",17293,479121
+292,"Spotsylvania County,Virginia","Westmoreland County,Virginia",3881,73354
+293,"Spotsylvania County,Virginia","Wise County,Virginia",21156,570053
+294,"Spotsylvania County,Virginia","Wythe County,Virginia",14154,391640
+295,"Spotsylvania County,Virginia","York County,Virginia",7486,193777
+296,"Spotsylvania County,Virginia","Alexandria City County,Virginia",4102,98467
+297,"Spotsylvania County,Virginia","Bedford City County,Virginia",9769,240524
+298,"Spotsylvania County,Virginia","Bristol City County,Virginia",17768,504839
+299,"Spotsylvania County,Virginia","Buena Vista City County,Virginia",8208,211443
+300,"Spotsylvania County,Virginia","Charlottesville City County,Virginia",4542,97697
+301,"Spotsylvania County,Virginia","Chesapeake City County,Virginia",8949,246683
+302,"Spotsylvania County,Virginia","Clifton Forge City County,Virginia",9402,250049
+303,"Spotsylvania County,Virginia","Colonial Heights City County,Virginia",4945,125609
+304,"Spotsylvania County,Virginia","Covington City County,Virginia",10145,268391
+305,"Spotsylvania County,Virginia","Danville City County,Virginia",12315,310139
+306,"Spotsylvania County,Virginia","Emporia City County,Virginia",7256,195493
+307,"Spotsylvania County,Virginia","Fairfax City County,Virginia",4362,93430
+308,"Spotsylvania County,Virginia","Falls Church City County,Virginia",4309,105716
+309,"Spotsylvania County,Virginia","Franklin City County,Virginia",8474,212869
+310,"Spotsylvania County,Virginia","Fredericksburg City County,Virginia",1639,20711
+311,"Spotsylvania County,Virginia","Galax City County,Virginia",15528,422197
+312,"Spotsylvania County,Virginia","Hampton City County,Virginia",7436,203484
+313,"Spotsylvania County,Virginia","Harrisonburg City County,Virginia",7139,138469
+314,"Spotsylvania County,Virginia","Hopewell City County,Virginia",4709,125646
+315,"Spotsylvania County,Virginia","Lexington City County,Virginia",8068,208420
+316,"Spotsylvania County,Virginia","Lynchburg City County,Virginia",8332,202093
+317,"Spotsylvania County,Virginia","Manassas City County,Virginia",4330,91833
+318,"Spotsylvania County,Virginia","Manassas Park City County,Virginia",4550,89033
+319,"Spotsylvania County,Virginia","Martinsville City County,Virginia",13344,325905
+320,"Spotsylvania County,Virginia","Newport News City County,Virginia",6992,189969
+321,"Spotsylvania County,Virginia","Norfolk City County,Virginia",8742,228899
+322,"Spotsylvania County,Virginia","Norton City County,Virginia",20680,560943
+323,"Spotsylvania County,Virginia","Petersburg City County,Virginia",4817,126597
+324,"Spotsylvania County,Virginia","Poquoson City County,Virginia",7664,200546
+325,"Spotsylvania County,Virginia","Portsmouth City County,Virginia",8681,237720
+326,"Spotsylvania County,Virginia","Radford County,Virginia",12499,340145
+327,"Spotsylvania County,Virginia","Richmond City County,Virginia",3685,90712
+328,"Spotsylvania County,Virginia","Roanoke City County,Virginia",10665,286682
+329,"Spotsylvania County,Virginia","Salem City County,Virginia",10495,285153
+330,"Spotsylvania County,Virginia","South Boston City County,Virginia",10385,264587
+331,"Spotsylvania County,Virginia","Staunton City County,Virginia",6551,156647
+332,"Spotsylvania County,Virginia","Suffolk City County,Virginia",9086,226216
+333,"Spotsylvania County,Virginia","Virginia Beach City County,Virginia",9303,252158
+334,"Spotsylvania County,Virginia","Waynesboro City County,Virginia",5827,138645
+335,"Spotsylvania County,Virginia","Williamsburg City County,Virginia",6036,162218
+336,"Spotsylvania County,Virginia","Winchester City County,Virginia",6920,144658
+337,"Spotsylvania County,Virginia","Barbour County,West Virginia",14803,345221
+338,"Spotsylvania County,Virginia","Berkeley County,West Virginia",8700,194839
+339,"Spotsylvania County,Virginia","Boone County,West Virginia",18860,480937
+340,"Spotsylvania County,Virginia","Braxton County,West Virginia",18558,461611
+341,"Spotsylvania County,Virginia","Brooke County,West Virginia",19419,542129
+342,"Spotsylvania County,Virginia","Cabell County,West Virginia",20428,576843
+343,"Spotsylvania County,Virginia","Calhoun County,West Virginia",20329,515562
+344,"Spotsylvania County,Virginia","Clay County,West Virginia",18593,452395
+345,"Spotsylvania County,Virginia","Doddridge County,West Virginia",18985,433319
+346,"Spotsylvania County,Virginia","Fayette County,West Virginia",15982,399134
+347,"Spotsylvania County,Virginia","Gilmer County,West Virginia",19304,462470
+348,"Spotsylvania County,Virginia","Grant County,West Virginia",10148,248317
+349,"Spotsylvania County,Virginia","Greenbrier County,West Virginia",14337,358359
+350,"Spotsylvania County,Virginia","Hampshire County,West Virginia",9225,203915
+351,"Spotsylvania County,Virginia","Hancock County,West Virginia",20127,550065
+352,"Spotsylvania County,Virginia","Hardy County,West Virginia",9395,219647
+353,"Spotsylvania County,Virginia","Harrison County,West Virginia",17422,394947
+354,"Spotsylvania County,Virginia","Jackson County,West Virginia",19747,556653
+355,"Spotsylvania County,Virginia","Jefferson County,West Virginia",7880,160736
+356,"Spotsylvania County,Virginia","Kanawha County,West Virginia",17510,478635
+357,"Spotsylvania County,Virginia","Lewis County,West Virginia",17205,412101
+358,"Spotsylvania County,Virginia","Lincoln County,West Virginia",21092,554520
+359,"Spotsylvania County,Virginia","Logan County,West Virginia",20650,511426
+360,"Spotsylvania County,Virginia","McDowell County,West Virginia",19029,485877
+361,"Spotsylvania County,Virginia","Marion County,West Virginia",16737,464989
+362,"Spotsylvania County,Virginia","Marshall County,West Virginia",20406,536573
+363,"Spotsylvania County,Virginia","Mason County,West Virginia",19903,562749
+364,"Spotsylvania County,Virginia","Mercer County,West Virginia",15744,422207
+365,"Spotsylvania County,Virginia","Mineral County,West Virginia",11621,259840
+366,"Spotsylvania County,Virginia","Mingo County,West Virginia",21229,575361
+367,"Spotsylvania County,Virginia","Monongalia County,West Virginia",14560,416729
+368,"Spotsylvania County,Virginia","Monroe County,West Virginia",13272,344681
+369,"Spotsylvania County,Virginia","Morgan County,West Virginia",8946,195965
+370,"Spotsylvania County,Virginia","Nicholas County,West Virginia",16177,411784
+371,"Spotsylvania County,Virginia","Ohio County,West Virginia",19326,551075
+372,"Spotsylvania County,Virginia","Pendleton County,West Virginia",11067,216914
+373,"Spotsylvania County,Virginia","Pleasants County,West Virginia",20220,471087
+374,"Spotsylvania County,Virginia","Pocahontas County,West Virginia",13909,294349
+375,"Spotsylvania County,Virginia","Preston County,West Virginia",14328,326768
+376,"Spotsylvania County,Virginia","Putnam County,West Virginia",18685,528367
+377,"Spotsylvania County,Virginia","Raleigh County,West Virginia",14535,403816
+378,"Spotsylvania County,Virginia","Randolph County,West Virginia",15369,326762
+379,"Spotsylvania County,Virginia","Ritchie County,West Virginia",20131,465389
+380,"Spotsylvania County,Virginia","Roane County,West Virginia",21372,585469
+381,"Spotsylvania County,Virginia","Summers County,West Virginia",15256,383694
+382,"Spotsylvania County,Virginia","Taylor County,West Virginia",14671,344589
+383,"Spotsylvania County,Virginia","Tucker County,West Virginia",12808,309964
+384,"Spotsylvania County,Virginia","Tyler County,West Virginia",21147,463754
+385,"Spotsylvania County,Virginia","Upshur County,West Virginia",16881,393083
+386,"Spotsylvania County,Virginia","Wayne County,West Virginia",22019,609469
+387,"Spotsylvania County,Virginia","Webster County,West Virginia",17797,373770
+388,"Spotsylvania County,Virginia","Wetzel County,West Virginia",20080,441874
+389,"Spotsylvania County,Virginia","Wirt County,West Virginia",22013,613991
+390,"Spotsylvania County,Virginia","Wood County,West Virginia",21001,496350
+391,"Spotsylvania County,Virginia","Wyoming County,West Virginia",16479,443758

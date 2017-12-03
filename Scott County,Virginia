@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Scott County,Virginia","Adair County,Kentucky",13972,326166
+1,"Scott County,Virginia","Allen County,Kentucky",17169,421808
+2,"Scott County,Virginia","Anderson County,Kentucky",15374,353417
+3,"Scott County,Virginia","Ballard County,Kentucky",24720,726473
+4,"Scott County,Virginia","Barren County,Kentucky",15718,385193
+5,"Scott County,Virginia","Bath County,Kentucky",13597,302096
+6,"Scott County,Virginia","Bell County,Kentucky",6468,127472
+7,"Scott County,Virginia","Boone County,Kentucky",17150,441408
+8,"Scott County,Virginia","Bourbon County,Kentucky",14336,338698
+9,"Scott County,Virginia","Boyd County,Kentucky",12108,291126
+10,"Scott County,Virginia","Boyle County,Kentucky",13150,300322
+11,"Scott County,Virginia","Bracken County,Kentucky",17402,385380
+12,"Scott County,Virginia","Breathitt County,Kentucky",9482,209345
+13,"Scott County,Virginia","Breckinridge County,Kentucky",20391,475727
+14,"Scott County,Virginia","Bullitt County,Kentucky",17437,400212
+15,"Scott County,Virginia","Butler County,Kentucky",18757,481667
+16,"Scott County,Virginia","Caldwell County,Kentucky",21859,634287
+17,"Scott County,Virginia","Calloway County,Kentucky",22560,658332
+18,"Scott County,Virginia","Campbell County,Kentucky",17681,438222
+19,"Scott County,Virginia","Carlisle County,Kentucky",25177,741841
+20,"Scott County,Virginia","Carroll County,Kentucky",17986,437515
+21,"Scott County,Virginia","Carter County,Kentucky",12901,279840
+22,"Scott County,Virginia","Casey County,Kentucky",13910,299440
+23,"Scott County,Virginia","Christian County,Kentucky",19453,579312
+24,"Scott County,Virginia","Clay County,Kentucky",9473,198772
+25,"Scott County,Virginia","Clinton County,Kentucky",14380,329532
+26,"Scott County,Virginia","Crittenden County,Kentucky",23124,667047
+27,"Scott County,Virginia","Cumberland County,Kentucky",15134,347770
+28,"Scott County,Virginia","Daviess County,Kentucky",21191,555460
+29,"Scott County,Virginia","Edmonson County,Kentucky",17247,429354
+30,"Scott County,Virginia","Elliott County,Kentucky",12510,266220
+31,"Scott County,Virginia","Estill County,Kentucky",13238,305628
+32,"Scott County,Virginia","Fayette County,Kentucky",13248,327193
+33,"Scott County,Virginia","Fleming County,Kentucky",14619,323360
+34,"Scott County,Virginia","Floyd County,Kentucky",8142,186654
+35,"Scott County,Virginia","Franklin County,Kentucky",15286,376109
+36,"Scott County,Virginia","Fulton County,Kentucky",25581,762805
+37,"Scott County,Virginia","Gallatin County,Kentucky",16984,428173
+38,"Scott County,Virginia","Garrard County,Kentucky",12819,285108
+39,"Scott County,Virginia","Grant County,Kentucky",15783,402281
+40,"Scott County,Virginia","Graves County,Kentucky",24201,714547
+41,"Scott County,Virginia","Grayson County,Kentucky",19133,461947
+42,"Scott County,Virginia","Green County,Kentucky",15725,368331
+43,"Scott County,Virginia","Greenup County,Kentucky",14106,341533
+44,"Scott County,Virginia","Hancock County,Kentucky",21612,510363
+45,"Scott County,Virginia","Hardin County,Kentucky",18009,424079
+46,"Scott County,Virginia","Harlan County,Kentucky",5543,104099
+47,"Scott County,Virginia","Harrison County,Kentucky",15299,381743
+48,"Scott County,Virginia","Hart County,Kentucky",17075,414608
+49,"Scott County,Virginia","Henderson County,Kentucky",23098,611880
+50,"Scott County,Virginia","Henry County,Kentucky",16888,419828
+51,"Scott County,Virginia","Hickman County,Kentucky",25210,743133
+52,"Scott County,Virginia","Hopkins County,Kentucky",21980,644564
+53,"Scott County,Virginia","Jackson County,Kentucky",11099,241456
+54,"Scott County,Virginia","Jefferson County,Kentucky",16981,435361
+55,"Scott County,Virginia","Jessamine County,Kentucky",13816,329831
+56,"Scott County,Virginia","Johnson County,Kentucky",8757,203883
+57,"Scott County,Virginia","Kenton County,Kentucky",17036,437124
+58,"Scott County,Virginia","Knott County,Kentucky",7022,152095
+59,"Scott County,Virginia","Knox County,Kentucky",7798,169465
+60,"Scott County,Virginia","Larue County,Kentucky",17207,400304
+61,"Scott County,Virginia","Laurel County,Kentucky",9692,204292
+62,"Scott County,Virginia","Lawrence County,Kentucky",10532,237571
+63,"Scott County,Virginia","Lee County,Kentucky",11592,250535
+64,"Scott County,Virginia","Leslie County,Kentucky",7005,132378
+65,"Scott County,Virginia","Letcher County,Kentucky",5422,115642
+66,"Scott County,Virginia","Lewis County,Kentucky",15245,334526
+67,"Scott County,Virginia","Lincoln County,Kentucky",12381,284689
+68,"Scott County,Virginia","Livingston County,Kentucky",23051,680412
+69,"Scott County,Virginia","Logan County,Kentucky",19120,487086
+70,"Scott County,Virginia","Lyon County,Kentucky",22807,657586
+71,"Scott County,Virginia","McCracken County,Kentucky",23332,694533
+72,"Scott County,Virginia","McCreary County,Kentucky",10930,233763
+73,"Scott County,Virginia","Madison County,Kentucky",11838,282538
+74,"Scott County,Virginia","Magoffin County,Kentucky",9101,207859
+75,"Scott County,Virginia","Marion County,Kentucky",14848,338927
+76,"Scott County,Virginia","Marshall County,Kentucky",22747,678105
+77,"Scott County,Virginia","Martin County,Kentucky",10286,229885
+78,"Scott County,Virginia","Mason County,Kentucky",16751,364925
+79,"Scott County,Virginia","Meade County,Kentucky",19442,507676
+80,"Scott County,Virginia","Menifee County,Kentucky",12769,282059
+81,"Scott County,Virginia","Mercer County,Kentucky",14150,325253
+82,"Scott County,Virginia","Metcalfe County,Kentucky",14628,356431
+83,"Scott County,Virginia","Monroe County,Kentucky",16303,421712
+84,"Scott County,Virginia","Montgomery County,Kentucky",13336,302596
+85,"Scott County,Virginia","Morgan County,Kentucky",11214,259045
+86,"Scott County,Virginia","Muhlenberg County,Kentucky",20876,530306
+87,"Scott County,Virginia","Nelson County,Kentucky",16066,371936
+88,"Scott County,Virginia","Nicholas County,Kentucky",15607,380490
+89,"Scott County,Virginia","Ohio County,Kentucky",20292,523497
+90,"Scott County,Virginia","Oldham County,Kentucky",17053,447243
+91,"Scott County,Virginia","Owen County,Kentucky",16108,402886
+92,"Scott County,Virginia","Owsley County,Kentucky",11496,216899
+93,"Scott County,Virginia","Pendleton County,Kentucky",16859,418870
+94,"Scott County,Virginia","Perry County,Kentucky",7995,172518
+95,"Scott County,Virginia","Pike County,Kentucky",6611,146036
+96,"Scott County,Virginia","Powell County,Kentucky",12124,273881
+97,"Scott County,Virginia","Robertson County,Kentucky",16377,401616
+98,"Scott County,Virginia","Rockcastle County,Kentucky",10862,246288
+99,"Scott County,Virginia","Rowan County,Kentucky",13037,287819
+100,"Scott County,Virginia","Russell County,Kentucky",13577,310150
+101,"Scott County,Virginia","Scott County,Kentucky",14083,355220
+102,"Scott County,Virginia","Shelby County,Kentucky",15910,406496
+103,"Scott County,Virginia","Simpson County,Kentucky",18710,475959
+104,"Scott County,Virginia","Spencer County,Kentucky",16439,412344
+105,"Scott County,Virginia","Taylor County,Kentucky",15326,350425
+106,"Scott County,Virginia","Todd County,Kentucky",19869,572259
+107,"Scott County,Virginia","Trigg County,Kentucky",20361,596671
+108,"Scott County,Virginia","Trimble County,Kentucky",18126,453282
+109,"Scott County,Virginia","Union County,Kentucky",24630,708805
+110,"Scott County,Virginia","Warren County,Kentucky",17744,440908
+111,"Scott County,Virginia","Washington County,Kentucky",15137,346785
+112,"Scott County,Virginia","Wayne County,Kentucky",13434,280893
+113,"Scott County,Virginia","Webster County,Kentucky",23090,672653
+114,"Scott County,Virginia","Whitley County,Kentucky",9295,197848
+115,"Scott County,Virginia","Wolfe County,Kentucky",10975,241429
+116,"Scott County,Virginia","Woodford County,Kentucky",14303,357856
+117,"Scott County,Virginia","Adams County,Ohio",17954,417882
+118,"Scott County,Virginia","Allen County,Ohio",24456,663017
+119,"Scott County,Virginia","Ashland County,Ohio",25585,628046
+120,"Scott County,Virginia","Ashtabula County,Ohio",28766,799639
+121,"Scott County,Virginia","Athens County,Ohio",17906,432439
+122,"Scott County,Virginia","Auglaize County,Ohio",23712,650282
+123,"Scott County,Virginia","Belmont County,Ohio",21829,588563
+124,"Scott County,Virginia","Brown County,Ohio",18086,394409
+125,"Scott County,Virginia","Butler County,Ohio",19533,512892
+126,"Scott County,Virginia","Carroll County,Ohio",23758,625449
+127,"Scott County,Virginia","Champaign County,Ohio",22490,604464
+128,"Scott County,Virginia","Clark County,Ohio",21750,514699
+129,"Scott County,Virginia","Clermont County,Ohio",18284,484070
+130,"Scott County,Virginia","Clinton County,Ohio",20378,535377
+131,"Scott County,Virginia","Columbiana County,Ohio",25600,679684
+132,"Scott County,Virginia","Coshocton County,Ohio",22394,596566
+133,"Scott County,Virginia","Crawford County,Ohio",25199,596504
+134,"Scott County,Virginia","Cuyahoga County,Ohio",25795,710853
+135,"Scott County,Virginia","Darke County,Ohio",22809,607329
+136,"Scott County,Virginia","Defiance County,Ohio",27943,741448
+137,"Scott County,Virginia","Delaware County,Ohio",22502,534718
+138,"Scott County,Virginia","Fairfield County,Ohio",21046,486541
+139,"Scott County,Virginia","Fayette County,Ohio",19818,472845
+140,"Scott County,Virginia","Franklin County,Ohio",21019,494645
+141,"Scott County,Virginia","Fulton County,Ohio",28706,758391
+142,"Scott County,Virginia","Gallia County,Ohio",15864,374792
+143,"Scott County,Virginia","Geauga County,Ohio",26866,736571
+144,"Scott County,Virginia","Greene County,Ohio",20688,505997
+145,"Scott County,Virginia","Guernsey County,Ohio",19944,534485
+146,"Scott County,Virginia","Hamilton County,Ohio",18188,477376
+147,"Scott County,Virginia","Hancock County,Ohio",25565,703913
+148,"Scott County,Virginia","Hardin County,Ohio",25028,592187
+149,"Scott County,Virginia","Harrison County,Ohio",22764,607515
+150,"Scott County,Virginia","Henry County,Ohio",27289,728381
+151,"Scott County,Virginia","Highland County,Ohio",18919,431965
+152,"Scott County,Virginia","Hocking County,Ohio",19604,429847
+153,"Scott County,Virginia","Holmes County,Ohio",23452,619450
+154,"Scott County,Virginia","Huron County,Ohio",26731,626816
+155,"Scott County,Virginia","Jackson County,Ohio",16283,379480
+156,"Scott County,Virginia","Jefferson County,Ohio",23757,617293
+157,"Scott County,Virginia","Knox County,Ohio",24182,639042
+158,"Scott County,Virginia","Lawrence County,Ohio",14087,319395
+159,"Scott County,Virginia","Licking County,Ohio",23023,542402
+160,"Scott County,Virginia","Logan County,Ohio",23724,637001
+161,"Scott County,Virginia","Lorain County,Ohio",27019,740677
+162,"Scott County,Virginia","Lucas County,Ohio",28890,790433
+163,"Scott County,Virginia","Madison County,Ohio",21519,495929
+164,"Scott County,Virginia","Mahoning County,Ohio",26096,694489
+165,"Scott County,Virginia","Marion County,Ohio",23759,555334
+166,"Scott County,Virginia","Medina County,Ohio",25468,696884
+167,"Scott County,Virginia","Meigs County,Ohio",16796,405175
+168,"Scott County,Virginia","Mercer County,Ohio",24947,677216
+169,"Scott County,Virginia","Miami County,Ohio",21298,572721
+170,"Scott County,Virginia","Monroe County,Ohio",20880,523677
+171,"Scott County,Virginia","Montgomery County,Ohio",20681,550461
+172,"Scott County,Virginia","Morgan County,Ohio",19885,510324
+173,"Scott County,Virginia","Morrow County,Ohio",23309,557538
+174,"Scott County,Virginia","Muskingum County,Ohio",20790,562476
+175,"Scott County,Virginia","Noble County,Ohio",19386,506837
+176,"Scott County,Virginia","Paulding County,Ohio",26987,725995
+177,"Scott County,Virginia","Perry County,Ohio",21124,497860
+178,"Scott County,Virginia","Pickaway County,Ohio",19258,452943
+179,"Scott County,Virginia","Pike County,Ohio",16352,381823
+180,"Scott County,Virginia","Portage County,Ohio",25317,692435
+181,"Scott County,Virginia","Preble County,Ohio",21578,557291
+182,"Scott County,Virginia","Putnam County,Ohio",25630,695485
+183,"Scott County,Virginia","Richland County,Ohio",24339,592777
+184,"Scott County,Virginia","Ross County,Ohio",18002,419250
+185,"Scott County,Virginia","Sandusky County,Ohio",28132,656291
+186,"Scott County,Virginia","Scioto County,Ohio",15432,358461
+187,"Scott County,Virginia","Seneca County,Ohio",26749,630175
+188,"Scott County,Virginia","Shelby County,Ohio",22336,609007
+189,"Scott County,Virginia","Stark County,Ohio",23617,640684
+190,"Scott County,Virginia","Summit County,Ohio",24376,666472
+191,"Scott County,Virginia","Trumbull County,Ohio",27051,720736
+192,"Scott County,Virginia","Tuscarawas County,Ohio",21818,581272
+193,"Scott County,Virginia","Union County,Ohio",22552,536695
+194,"Scott County,Virginia","Van Wert County,Ohio",25621,695541
+195,"Scott County,Virginia","Vinton County,Ohio",18543,406259
+196,"Scott County,Virginia","Warren County,Ohio",19067,503633
+197,"Scott County,Virginia","Washington County,Ohio",18244,464773
+198,"Scott County,Virginia","Wayne County,Ohio",24589,643562
+199,"Scott County,Virginia","Williams County,Ohio",29120,764964
+200,"Scott County,Virginia","Wood County,Ohio",26653,744541
+201,"Scott County,Virginia","Wyandot County,Ohio",25346,601731
+202,"Scott County,Virginia","Accomack County,Virginia",30038,835714
+203,"Scott County,Virginia","Albemarle County,Virginia",16188,448214
+204,"Scott County,Virginia","Alleghany County,Virginia",14018,355615
+205,"Scott County,Virginia","Amelia County,Virginia",18760,487069
+206,"Scott County,Virginia","Amherst County,Virginia",15662,393128
+207,"Scott County,Virginia","Appomattox County,Virginia",15837,406738
+208,"Scott County,Virginia","Arlington County,Virginia",22872,648523
+209,"Scott County,Virginia","Augusta County,Virginia",15610,425907
+210,"Scott County,Virginia","Bath County,Virginia",15898,398487
+211,"Scott County,Virginia","Bedford County,Virginia",13570,338048
+212,"Scott County,Virginia","Bland County,Virginia",7586,187650
+213,"Scott County,Virginia","Botetourt County,Virginia",12426,322113
+214,"Scott County,Virginia","Brunswick County,Virginia",20731,574163
+215,"Scott County,Virginia","Buchanan County,Virginia",7229,133610
+216,"Scott County,Virginia","Buckingham County,Virginia",16951,430648
+217,"Scott County,Virginia","Campbell County,Virginia",14986,379283
+218,"Scott County,Virginia","Caroline County,Virginia",21527,617059
+219,"Scott County,Virginia","Carroll County,Virginia",8530,218995
+220,"Scott County,Virginia","Charles City County,Virginia",21628,614094
+221,"Scott County,Virginia","Charlotte County,Virginia",17535,447219
+222,"Scott County,Virginia","Chesterfield County,Virginia",20454,525959
+223,"Scott County,Virginia","Clarke County,Virginia",20368,575271
+224,"Scott County,Virginia","Craig County,Virginia",11825,299681
+225,"Scott County,Virginia","Culpeper County,Virginia",19985,537430
+226,"Scott County,Virginia","Cumberland County,Virginia",18365,467879
+227,"Scott County,Virginia","Dickenson County,Virginia",5152,86295
+228,"Scott County,Virginia","Dinwiddie County,Virginia",20533,530130
+229,"Scott County,Virginia","Essex County,Virginia",23345,641102
+230,"Scott County,Virginia","Fairfax County,Virginia",22495,638799
+231,"Scott County,Virginia","Fauquier County,Virginia",20806,596523
+232,"Scott County,Virginia","Floyd County,Virginia",10422,259095
+233,"Scott County,Virginia","Fluvanna County,Virginia",17866,500385
+234,"Scott County,Virginia","Franklin County,Virginia",13083,339281
+235,"Scott County,Virginia","Frederick County,Virginia",19820,562998
+236,"Scott County,Virginia","Giles County,Virginia",10348,234940
+237,"Scott County,Virginia","Gloucester County,Virginia",23798,668282
+238,"Scott County,Virginia","Goochland County,Virginia",18770,530996
+239,"Scott County,Virginia","Grayson County,Virginia",8263,182162
+240,"Scott County,Virginia","Greene County,Virginia",18181,483798
+241,"Scott County,Virginia","Greensville County,Virginia",21927,591582
+242,"Scott County,Virginia","Halifax County,Virginia",16833,416681
+243,"Scott County,Virginia","Hanover County,Virginia",19976,572103
+244,"Scott County,Virginia","Henrico County,Virginia",20487,585063
+245,"Scott County,Virginia","Henry County,Virginia",12403,305715
+246,"Scott County,Virginia","Highland County,Virginia",18030,446278
+247,"Scott County,Virginia","Isle of Wight County,Virginia",24653,630251
+248,"Scott County,Virginia","James City County,Virginia",22864,654865
+249,"Scott County,Virginia","King and Queen County,Virginia",22522,630449
+250,"Scott County,Virginia","King George County,Virginia",22640,645045
+251,"Scott County,Virginia","King William County,Virginia",21209,600371
+252,"Scott County,Virginia","Lancaster County,Virginia",25002,683456
+253,"Scott County,Virginia","Lee County,Virginia",2695,51080
+254,"Scott County,Virginia","Loudoun County,Virginia",21864,611138
+255,"Scott County,Virginia","Louisa County,Virginia",18427,514091
+256,"Scott County,Virginia","Lunenburg County,Virginia",19307,488503
+257,"Scott County,Virginia","Madison County,Virginia",19101,513538
+258,"Scott County,Virginia","Mathews County,Virginia",24623,691706
+259,"Scott County,Virginia","Mecklenburg County,Virginia",18866,468227
+260,"Scott County,Virginia","Middlesex County,Virginia",23400,664482
+261,"Scott County,Virginia","Montgomery County,Virginia",9596,249599
+262,"Scott County,Virginia","Nelson County,Virginia",16213,423525
+263,"Scott County,Virginia","New Kent County,Virginia",22300,628779
+264,"Scott County,Virginia","Northampton County,Virginia",27281,771528
+265,"Scott County,Virginia","Northumberland County,Virginia",25042,681969
+266,"Scott County,Virginia","Nottoway County,Virginia",18800,488883
+267,"Scott County,Virginia","Orange County,Virginia",19389,522199
+268,"Scott County,Virginia","Page County,Virginia",18034,497324
+269,"Scott County,Virginia","Patrick County,Virginia",10636,264030
+270,"Scott County,Virginia","Pittsylvania County,Virginia",14719,359923
+271,"Scott County,Virginia","Powhatan County,Virginia",19863,502586
+272,"Scott County,Virginia","Prince Edward County,Virginia",17415,446219
+273,"Scott County,Virginia","Prince George County,Virginia",22188,569504
+274,"Scott County,Virginia","Prince William County,Virginia",20906,602627
+275,"Scott County,Virginia","Pulaski County,Virginia",8273,210415
+276,"Scott County,Virginia","Rappahannock County,Virginia",19866,533811
+277,"Scott County,Virginia","Richmond County,Virginia",23742,654612
+278,"Scott County,Virginia","Roanoke County,Virginia",10377,269535
+279,"Scott County,Virginia","Rockbridge County,Virginia",13874,366184
+280,"Scott County,Virginia","Rockingham County,Virginia",17074,469674
+281,"Scott County,Virginia","Russell County,Virginia",4625,82667
+282,"Scott County,Virginia","Shenandoah County,Virginia",17578,499777
+283,"Scott County,Virginia","Smyth County,Virginia",5542,121865
+284,"Scott County,Virginia","Southampton County,Virginia",23543,649106
+285,"Scott County,Virginia","Spotsylvania County,Virginia",20443,555930
+286,"Scott County,Virginia","Stafford County,Virginia",21824,580223
+287,"Scott County,Virginia","Surry County,Virginia",23607,653726
+288,"Scott County,Virginia","Sussex County,Virginia",22542,575261
+289,"Scott County,Virginia","Tazewell County,Virginia",5888,125508
+290,"Scott County,Virginia","Warren County,Virginia",19481,544370
+291,"Scott County,Virginia","Washington County,Virginia",4266,86494
+292,"Scott County,Virginia","Westmoreland County,Virginia",23615,661870
+293,"Scott County,Virginia","Wise County,Virginia",3497,72038
+294,"Scott County,Virginia","Wythe County,Virginia",6756,164324
+295,"Scott County,Virginia","York County,Virginia",24152,685639
+296,"Scott County,Virginia","Alexandria City County,Virginia",23075,661169
+297,"Scott County,Virginia","Bedford City County,Virginia",12734,329479
+298,"Scott County,Virginia","Bristol City County,Virginia",3235,53170
+299,"Scott County,Virginia","Buena Vista City County,Virginia",13246,358671
+300,"Scott County,Virginia","Charlottesville City County,Virginia",16657,463428
+301,"Scott County,Virginia","Chesapeake City County,Virginia",25615,738545
+302,"Scott County,Virginia","Clifton Forge City County,Virginia",13513,348305
+303,"Scott County,Virginia","Colonial Heights City County,Virginia",21324,607770
+304,"Scott County,Virginia","Covington City County,Virginia",14087,359201
+305,"Scott County,Virginia","Danville City County,Virginia",14561,360171
+306,"Scott County,Virginia","Emporia City County,Virginia",22084,605771
+307,"Scott County,Virginia","Fairfax City County,Virginia",22038,628374
+308,"Scott County,Virginia","Falls Church City County,Virginia",22370,642847
+309,"Scott County,Virginia","Franklin City County,Virginia",24170,662241
+310,"Scott County,Virginia","Fredericksburg City County,Virginia",21576,565589
+311,"Scott County,Virginia","Galax City County,Virginia",9153,224861
+312,"Scott County,Virginia","Hampton City County,Virginia",24102,695346
+313,"Scott County,Virginia","Harrisonburg City County,Virginia",16133,449570
+314,"Scott County,Virginia","Hopewell City County,Virginia",21360,606736
+315,"Scott County,Virginia","Lexington City County,Virginia",13160,356999
+316,"Scott County,Virginia","Lynchburg City County,Virginia",14759,374354
+317,"Scott County,Virginia","Manassas City County,Virginia",21133,607571
+318,"Scott County,Virginia","Manassas Park City County,Virginia",21636,613915
+319,"Scott County,Virginia","Martinsville City County,Virginia",12931,314509
+320,"Scott County,Virginia","Newport News City County,Virginia",23658,681831
+321,"Scott County,Virginia","Norfolk City County,Virginia",25408,720761
+322,"Scott County,Virginia","Norton City County,Virginia",2917,59948
+323,"Scott County,Virginia","Petersburg City County,Virginia",21191,552108
+324,"Scott County,Virginia","Poquoson City County,Virginia",24330,692408
+325,"Scott County,Virginia","Portsmouth City County,Virginia",25347,729582
+326,"Scott County,Virginia","Radford County,Virginia",8783,224363
+327,"Scott County,Virginia","Richmond City County,Virginia",20063,572873
+328,"Scott County,Virginia","Roanoke City County,Virginia",10979,289640
+329,"Scott County,Virginia","Salem City County,Virginia",10391,276190
+330,"Scott County,Virginia","South Boston City County,Virginia",16573,414350
+331,"Scott County,Virginia","Staunton City County,Virginia",14950,410705
+332,"Scott County,Virginia","Suffolk City County,Virginia",25486,695543
+333,"Scott County,Virginia","Virginia Beach City County,Virginia",25969,744020
+334,"Scott County,Virginia","Waynesboro City County,Virginia",15288,423423
+335,"Scott County,Virginia","Williamsburg City County,Virginia",22702,654080
+336,"Scott County,Virginia","Winchester City County,Virginia",19700,559142
+337,"Scott County,Virginia","Barbour County,West Virginia",19308,482082
+338,"Scott County,Virginia","Berkeley County,West Virginia",21437,606350
+339,"Scott County,Virginia","Boone County,West Virginia",12363,288064
+340,"Scott County,Virginia","Braxton County,West Virginia",15998,373061
+341,"Scott County,Virginia","Brooke County,West Virginia",23666,613875
+342,"Scott County,Virginia","Cabell County,West Virginia",12369,296804
+343,"Scott County,Virginia","Calhoun County,West Virginia",17402,424894
+344,"Scott County,Virginia","Clay County,West Virginia",14663,336498
+345,"Scott County,Virginia","Doddridge County,West Virginia",19512,458938
+346,"Scott County,Virginia","Fayette County,West Virginia",12170,282236
+347,"Scott County,Virginia","Gilmer County,West Virginia",17566,422741
+348,"Scott County,Virginia","Grant County,West Virginia",21529,588837
+349,"Scott County,Virginia","Greenbrier County,West Virginia",13972,312757
+350,"Scott County,Virginia","Hampshire County,West Virginia",21557,577253
+351,"Scott County,Virginia","Hancock County,West Virginia",25293,641222
+352,"Scott County,Virginia","Hardy County,West Virginia",20777,560166
+353,"Scott County,Virginia","Harrison County,West Virginia",18541,468452
+354,"Scott County,Virginia","Jackson County,West Virginia",15286,379226
+355,"Scott County,Virginia","Jefferson County,West Virginia",21488,593756
+356,"Scott County,Virginia","Kanawha County,West Virginia",13320,317292
+357,"Scott County,Virginia","Lewis County,West Virginia",17171,421923
+358,"Scott County,Virginia","Lincoln County,West Virginia",13097,295803
+359,"Scott County,Virginia","Logan County,West Virginia",10469,244700
+360,"Scott County,Virginia","McDowell County,West Virginia",9202,163618
+361,"Scott County,Virginia","Marion County,West Virginia",19687,495620
+362,"Scott County,Virginia","Marshall County,West Virginia",23294,566912
+363,"Scott County,Virginia","Mason County,West Virginia",15107,373464
+364,"Scott County,Virginia","Mercer County,West Virginia",8749,197900
+365,"Scott County,Virginia","Mineral County,West Virginia",23003,600360
+366,"Scott County,Virginia","Mingo County,West Virginia",9153,211153
+367,"Scott County,Virginia","Monongalia County,West Virginia",19897,521088
+368,"Scott County,Virginia","Monroe County,West Virginia",11213,247299
+369,"Scott County,Virginia","Morgan County,West Virginia",21683,607476
+370,"Scott County,Virginia","Nicholas County,West Virginia",13617,323234
+371,"Scott County,Virginia","Ohio County,West Virginia",22926,612048
+372,"Scott County,Virginia","Pendleton County,West Virginia",19921,520858
+373,"Scott County,Virginia","Pleasants County,West Virginia",18769,477078
+374,"Scott County,Virginia","Pocahontas County,West Virginia",17052,392970
+375,"Scott County,Virginia","Preston County,West Virginia",22043,547819
+376,"Scott County,Virginia","Putnam County,West Virginia",13889,339083
+377,"Scott County,Virginia","Raleigh County,West Virginia",10345,242473
+378,"Scott County,Virginia","Randolph County,West Virginia",19672,484378
+379,"Scott County,Virginia","Ritchie County,West Virginia",19099,490782
+380,"Scott County,Virginia","Roane County,West Virginia",16912,408041
+381,"Scott County,Virginia","Summers County,West Virginia",11305,242838
+382,"Scott County,Virginia","Taylor County,West Virginia",19579,491192
+383,"Scott County,Virginia","Tucker County,West Virginia",20739,514902
+384,"Scott County,Virginia","Tyler County,West Virginia",20678,516693
+385,"Scott County,Virginia","Upshur County,West Virginia",18736,436620
+386,"Scott County,Virginia","Wayne County,West Virginia",11697,266600
+387,"Scott County,Virginia","Webster County,West Virginia",16961,380186
+388,"Scott County,Virginia","Wetzel County,West Virginia",21221,519935
+389,"Scott County,Virginia","Wirt County,West Virginia",17552,436564
+390,"Scott County,Virginia","Wood County,West Virginia",17067,438253
+391,"Scott County,Virginia","Wyoming County,West Virginia",10970,207711

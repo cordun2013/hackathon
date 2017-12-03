@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Grayson County,Virginia","Adair County,Kentucky",20848,496837
+1,"Grayson County,Virginia","Allen County,Kentucky",22244,616646
+2,"Grayson County,Virginia","Anderson County,Kentucky",20754,588337
+3,"Grayson County,Virginia","Ballard County,Kentucky",29148,851901
+4,"Grayson County,Virginia","Barren County,Kentucky",22033,575592
+5,"Grayson County,Virginia","Bath County,Kentucky",16401,459518
+6,"Grayson County,Virginia","Bell County,Kentucky",13343,298143
+7,"Grayson County,Virginia","Boone County,Kentucky",22214,580911
+8,"Grayson County,Virginia","Bourbon County,Kentucky",18315,505935
+9,"Grayson County,Virginia","Boyd County,Kentucky",13077,353842
+10,"Grayson County,Virginia","Boyle County,Kentucky",20026,470992
+11,"Grayson County,Virginia","Bracken County,Kentucky",18726,500018
+12,"Grayson County,Virginia","Breathitt County,Kentucky",14968,333907
+13,"Grayson County,Virginia","Breckinridge County,Kentucky",26287,741018
+14,"Grayson County,Virginia","Bullitt County,Kentucky",22857,662137
+15,"Grayson County,Virginia","Butler County,Kentucky",24704,686852
+16,"Grayson County,Virginia","Caldwell County,Kentucky",26288,759715
+17,"Grayson County,Virginia","Calloway County,Kentucky",26989,783761
+18,"Grayson County,Virginia","Campbell County,Kentucky",20427,539889
+19,"Grayson County,Virginia","Carlisle County,Kentucky",29605,867270
+20,"Grayson County,Virginia","Carroll County,Kentucky",23299,636151
+21,"Grayson County,Virginia","Carter County,Kentucky",14241,383939
+22,"Grayson County,Virginia","Casey County,Kentucky",20786,470111
+23,"Grayson County,Virginia","Christian County,Kentucky",23882,704740
+24,"Grayson County,Virginia","Clay County,Kentucky",15915,358485
+25,"Grayson County,Virginia","Clinton County,Kentucky",19291,496051
+26,"Grayson County,Virginia","Crittenden County,Kentucky",27553,792475
+27,"Grayson County,Virginia","Cumberland County,Kentucky",20171,516720
+28,"Grayson County,Virginia","Daviess County,Kentucky",27138,760645
+29,"Grayson County,Virginia","Edmonson County,Kentucky",24013,628954
+30,"Grayson County,Virginia","Elliott County,Kentucky",15572,409709
+31,"Grayson County,Virginia","Estill County,Kentucky",18724,430189
+32,"Grayson County,Virginia","Fayette County,Kentucky",18561,525829
+33,"Grayson County,Virginia","Fleming County,Kentucky",16827,462703
+34,"Grayson County,Virginia","Floyd County,Kentucky",13628,311215
+35,"Grayson County,Virginia","Franklin County,Kentucky",20599,574746
+36,"Grayson County,Virginia","Fulton County,Kentucky",30009,888234
+37,"Grayson County,Virginia","Gallatin County,Kentucky",22296,626810
+38,"Grayson County,Virginia","Garrard County,Kentucky",19695,455779
+39,"Grayson County,Virginia","Grant County,Kentucky",21095,600917
+40,"Grayson County,Virginia","Graves County,Kentucky",28630,839976
+41,"Grayson County,Virginia","Grayson County,Kentucky",25280,719652
+42,"Grayson County,Virginia","Green County,Kentucky",22600,539001
+43,"Grayson County,Virginia","Greenup County,Kentucky",14852,394969
+44,"Grayson County,Virginia","Hancock County,Kentucky",27083,773911
+45,"Grayson County,Virginia","Hardin County,Kentucky",24156,681784
+46,"Grayson County,Virginia","Harlan County,Kentucky",12418,274770
+47,"Grayson County,Virginia","Harrison County,Kentucky",19886,539035
+48,"Grayson County,Virginia","Hart County,Kentucky",23950,585279
+49,"Grayson County,Virginia","Henderson County,Kentucky",27640,813873
+50,"Grayson County,Virginia","Henry County,Kentucky",22200,618464
+51,"Grayson County,Virginia","Hickman County,Kentucky",29639,868561
+52,"Grayson County,Virginia","Hopkins County,Kentucky",26409,769992
+53,"Grayson County,Virginia","Jackson County,Kentucky",17787,394904
+54,"Grayson County,Virginia","Jefferson County,Kentucky",22294,633998
+55,"Grayson County,Virginia","Jessamine County,Kentucky",20030,547293
+56,"Grayson County,Virginia","Johnson County,Kentucky",14243,328445
+57,"Grayson County,Virginia","Kenton County,Kentucky",21583,568605
+58,"Grayson County,Virginia","Knott County,Kentucky",12508,276656
+59,"Grayson County,Virginia","Knox County,Kentucky",14673,340135
+60,"Grayson County,Virginia","Larue County,Kentucky",24082,570975
+61,"Grayson County,Virginia","Laurel County,Kentucky",16567,374963
+62,"Grayson County,Virginia","Lawrence County,Kentucky",15000,398162
+63,"Grayson County,Virginia","Lee County,Kentucky",17078,375096
+64,"Grayson County,Virginia","Leslie County,Kentucky",13880,303049
+65,"Grayson County,Virginia","Letcher County,Kentucky",10908,240203
+66,"Grayson County,Virginia","Lewis County,Kentucky",16280,435757
+67,"Grayson County,Virginia","Lincoln County,Kentucky",19256,455359
+68,"Grayson County,Virginia","Livingston County,Kentucky",27479,805840
+69,"Grayson County,Virginia","Logan County,Kentucky",24314,657641
+70,"Grayson County,Virginia","Lyon County,Kentucky",27236,783014
+71,"Grayson County,Virginia","McCracken County,Kentucky",27761,819961
+72,"Grayson County,Virginia","McCreary County,Kentucky",16298,432897
+73,"Grayson County,Virginia","Madison County,Kentucky",18713,453209
+74,"Grayson County,Virginia","Magoffin County,Kentucky",14587,332421
+75,"Grayson County,Virginia","Marion County,Kentucky",21723,509597
+76,"Grayson County,Virginia","Marshall County,Kentucky",27175,803533
+77,"Grayson County,Virginia","Martin County,Kentucky",15772,354447
+78,"Grayson County,Virginia","Mason County,Kentucky",18075,479564
+79,"Grayson County,Virginia","Meade County,Kentucky",24754,706313
+80,"Grayson County,Virginia","Menifee County,Kentucky",17518,471581
+81,"Grayson County,Virginia","Mercer County,Kentucky",21025,495924
+82,"Grayson County,Virginia","Metcalfe County,Kentucky",21504,527101
+83,"Grayson County,Virginia","Monroe County,Kentucky",20732,547141
+84,"Grayson County,Virginia","Montgomery County,Kentucky",17214,478058
+85,"Grayson County,Virginia","Morgan County,Kentucky",16700,383607
+86,"Grayson County,Virginia","Muhlenberg County,Kentucky",26094,740103
+87,"Grayson County,Virginia","Nelson County,Kentucky",22213,629641
+88,"Grayson County,Virginia","Nicholas County,Kentucky",18892,505942
+89,"Grayson County,Virginia","Ohio County,Kentucky",26239,728681
+90,"Grayson County,Virginia","Oldham County,Kentucky",22365,645879
+91,"Grayson County,Virginia","Owen County,Kentucky",21421,601523
+92,"Grayson County,Virginia","Owsley County,Kentucky",17105,371781
+93,"Grayson County,Virginia","Pendleton County,Kentucky",20664,540942
+94,"Grayson County,Virginia","Perry County,Kentucky",13482,297079
+95,"Grayson County,Virginia","Pike County,Kentucky",12097,270598
+96,"Grayson County,Virginia","Powell County,Kentucky",17610,398443
+97,"Grayson County,Virginia","Robertson County,Kentucky",18810,505448
+98,"Grayson County,Virginia","Rockcastle County,Kentucky",17738,416958
+99,"Grayson County,Virginia","Rowan County,Kentucky",15544,431725
+100,"Grayson County,Virginia","Russell County,Kentucky",20453,480820
+101,"Grayson County,Virginia","Scott County,Kentucky",19396,553856
+102,"Grayson County,Virginia","Shelby County,Kentucky",21223,605132
+103,"Grayson County,Virginia","Simpson County,Kentucky",23281,633616
+104,"Grayson County,Virginia","Spencer County,Kentucky",21752,610980
+105,"Grayson County,Virginia","Taylor County,Kentucky",22202,521096
+106,"Grayson County,Virginia","Todd County,Kentucky",24298,697687
+107,"Grayson County,Virginia","Trigg County,Kentucky",24789,722099
+108,"Grayson County,Virginia","Trimble County,Kentucky",23439,651919
+109,"Grayson County,Virginia","Union County,Kentucky",29059,834233
+110,"Grayson County,Virginia","Warren County,Kentucky",23706,656284
+111,"Grayson County,Virginia","Washington County,Kentucky",22013,517456
+112,"Grayson County,Virginia","Wayne County,Kentucky",18802,480028
+113,"Grayson County,Virginia","Webster County,Kentucky",27518,798081
+114,"Grayson County,Virginia","Whitley County,Kentucky",14902,417660
+115,"Grayson County,Virginia","Wolfe County,Kentucky",16461,365990
+116,"Grayson County,Virginia","Woodford County,Kentucky",19615,556492
+117,"Grayson County,Virginia","Adams County,Ohio",18168,482120
+118,"Grayson County,Virginia","Allen County,Ohio",24900,657538
+119,"Grayson County,Virginia","Ashland County,Ohio",22644,611429
+120,"Grayson County,Virginia","Ashtabula County,Ohio",25332,732327
+121,"Grayson County,Virginia","Athens County,Ohio",14576,387719
+122,"Grayson County,Virginia","Auglaize County,Ohio",24150,674237
+123,"Grayson County,Virginia","Belmont County,Ohio",18395,521251
+124,"Grayson County,Virginia","Brown County,Ohio",19412,509048
+125,"Grayson County,Virginia","Butler County,Ohio",22525,591073
+126,"Grayson County,Virginia","Carroll County,Ohio",20324,558137
+127,"Grayson County,Virginia","Champaign County,Ohio",21454,576335
+128,"Grayson County,Virginia","Clark County,Ohio",20133,535879
+129,"Grayson County,Virginia","Clermont County,Ohio",20246,540144
+130,"Grayson County,Virginia","Clinton County,Ohio",19637,523561
+131,"Grayson County,Virginia","Columbiana County,Ohio",22166,612372
+132,"Grayson County,Virginia","Coshocton County,Ohio",18960,529254
+133,"Grayson County,Virginia","Crawford County,Ohio",23252,622589
+134,"Grayson County,Virginia","Cuyahoga County,Ohio",22360,643541
+135,"Grayson County,Virginia","Darke County,Ohio",23247,631284
+136,"Grayson County,Virginia","Defiance County,Ohio",28335,735858
+137,"Grayson County,Virginia","Delaware County,Ohio",20406,555326
+138,"Grayson County,Virginia","Fairfield County,Ohio",17936,482420
+139,"Grayson County,Virginia","Fayette County,Ohio",18201,494024
+140,"Grayson County,Virginia","Franklin County,Ohio",18936,512275
+141,"Grayson County,Virginia","Fulton County,Ohio",28342,778158
+142,"Grayson County,Virginia","Gallia County,Ohio",13514,353136
+143,"Grayson County,Virginia","Geauga County,Ohio",23432,669259
+144,"Grayson County,Virginia","Greene County,Ohio",19071,527177
+145,"Grayson County,Virginia","Guernsey County,Ohio",16510,467173
+146,"Grayson County,Virginia","Hamilton County,Ohio",22026,601651
+147,"Grayson County,Virginia","Hancock County,Ohio",24429,663681
+148,"Grayson County,Virginia","Hardin County,Ohio",23411,613367
+149,"Grayson County,Virginia","Harrison County,Ohio",19330,540203
+150,"Grayson County,Virginia","Henry County,Ohio",27141,735303
+151,"Grayson County,Virginia","Highland County,Ohio",18705,482134
+152,"Grayson County,Virginia","Hocking County,Ohio",16378,438383
+153,"Grayson County,Virginia","Holmes County,Ohio",20018,552138
+154,"Grayson County,Virginia","Huron County,Ohio",24541,653058
+155,"Grayson County,Virginia","Jackson County,Ohio",14691,392685
+156,"Grayson County,Virginia","Jefferson County,Ohio",20323,549981
+157,"Grayson County,Virginia","Knox County,Ohio",20748,571730
+158,"Grayson County,Virginia","Lawrence County,Ohio",14216,358899
+159,"Grayson County,Virginia","Licking County,Ohio",19881,509430
+160,"Grayson County,Virginia","Logan County,Ohio",22431,607644
+161,"Grayson County,Virginia","Lorain County,Ohio",23585,673365
+162,"Grayson County,Virginia","Lucas County,Ohio",28064,751180
+163,"Grayson County,Virginia","Madison County,Ohio",19902,517109
+164,"Grayson County,Virginia","Mahoning County,Ohio",22661,627177
+165,"Grayson County,Virginia","Marion County,Ohio",21812,581419
+166,"Grayson County,Virginia","Medina County,Ohio",22034,629572
+167,"Grayson County,Virginia","Meigs County,Ohio",13457,358690
+168,"Grayson County,Virginia","Mercer County,Ohio",25385,701171
+169,"Grayson County,Virginia","Miami County,Ohio",21736,596676
+170,"Grayson County,Virginia","Monroe County,Ohio",17446,456365
+171,"Grayson County,Virginia","Montgomery County,Ohio",21105,574632
+172,"Grayson County,Virginia","Morgan County,Ohio",16451,443012
+173,"Grayson County,Virginia","Morrow County,Ohio",21213,578147
+174,"Grayson County,Virginia","Muskingum County,Ohio",17356,495164
+175,"Grayson County,Virginia","Noble County,Ohio",15952,439525
+176,"Grayson County,Virginia","Paulding County,Ohio",27437,733443
+177,"Grayson County,Virginia","Perry County,Ohio",17794,453140
+178,"Grayson County,Virginia","Pickaway County,Ohio",17641,474123
+179,"Grayson County,Virginia","Pike County,Ohio",16137,431992
+180,"Grayson County,Virginia","Portage County,Ohio",21882,625123
+181,"Grayson County,Virginia","Preble County,Ohio",22724,603210
+182,"Grayson County,Virginia","Putnam County,Ohio",26023,689896
+183,"Grayson County,Virginia","Richland County,Ohio",22243,613385
+184,"Grayson County,Virginia","Ross County,Ohio",16385,440430
+185,"Grayson County,Virginia","Sandusky County,Ohio",26185,682376
+186,"Grayson County,Virginia","Scioto County,Ohio",16022,416172
+187,"Grayson County,Virginia","Seneca County,Ohio",24802,656261
+188,"Grayson County,Virginia","Shelby County,Ohio",22774,632962
+189,"Grayson County,Virginia","Stark County,Ohio",20183,573372
+190,"Grayson County,Virginia","Summit County,Ohio",20942,599160
+191,"Grayson County,Virginia","Trumbull County,Ohio",23617,653424
+192,"Grayson County,Virginia","Tuscarawas County,Ohio",18384,513960
+193,"Grayson County,Virginia","Union County,Ohio",20935,557875
+194,"Grayson County,Virginia","Van Wert County,Ohio",26134,700407
+195,"Grayson County,Virginia","Vinton County,Ohio",16587,418190
+196,"Grayson County,Virginia","Warren County,Ohio",20443,557619
+197,"Grayson County,Virginia","Washington County,Ohio",14810,397461
+198,"Grayson County,Virginia","Wayne County,Ohio",21155,576250
+199,"Grayson County,Virginia","Williams County,Ohio",29512,759375
+200,"Grayson County,Virginia","Wood County,Ohio",25827,705289
+201,"Grayson County,Virginia","Wyandot County,Ohio",23398,627817
+202,"Grayson County,Virginia","Accomack County,Virginia",25799,711943
+203,"Grayson County,Virginia","Albemarle County,Virginia",11949,324443
+204,"Grayson County,Virginia","Alleghany County,Virginia",10313,272219
+205,"Grayson County,Virginia","Amelia County,Virginia",14520,363298
+206,"Grayson County,Virginia","Amherst County,Virginia",11423,269357
+207,"Grayson County,Virginia","Appomattox County,Virginia",11598,282967
+208,"Grayson County,Virginia","Arlington County,Virginia",18633,524752
+209,"Grayson County,Virginia","Augusta County,Virginia",11370,302136
+210,"Grayson County,Virginia","Bath County,Virginia",11658,274716
+211,"Grayson County,Virginia","Bedford County,Virginia",9331,214277
+212,"Grayson County,Virginia","Bland County,Virginia",3343,64225
+213,"Grayson County,Virginia","Botetourt County,Virginia",8187,198342
+214,"Grayson County,Virginia","Brunswick County,Virginia",14753,393453
+215,"Grayson County,Virginia","Buchanan County,Virginia",9099,198684
+216,"Grayson County,Virginia","Buckingham County,Virginia",12712,306877
+217,"Grayson County,Virginia","Campbell County,Virginia",10746,255512
+218,"Grayson County,Virginia","Caroline County,Virginia",17288,493288
+219,"Grayson County,Virginia","Carroll County,Virginia",3086,58403
+220,"Grayson County,Virginia","Charles City County,Virginia",17388,490323
+221,"Grayson County,Virginia","Charlotte County,Virginia",13295,323448
+222,"Grayson County,Virginia","Chesterfield County,Virginia",16215,402188
+223,"Grayson County,Virginia","Clarke County,Virginia",16128,451501
+224,"Grayson County,Virginia","Craig County,Virginia",7586,175910
+225,"Grayson County,Virginia","Culpeper County,Virginia",15746,413659
+226,"Grayson County,Virginia","Cumberland County,Virginia",14125,344108
+227,"Grayson County,Virginia","Dickenson County,Virginia",9076,190097
+228,"Grayson County,Virginia","Dinwiddie County,Virginia",15859,435200
+229,"Grayson County,Virginia","Essex County,Virginia",19105,517331
+230,"Grayson County,Virginia","Fairfax County,Virginia",18256,515028
+231,"Grayson County,Virginia","Fauquier County,Virginia",16567,472752
+232,"Grayson County,Virginia","Floyd County,Virginia",5502,102027
+233,"Grayson County,Virginia","Fluvanna County,Virginia",13627,376614
+234,"Grayson County,Virginia","Franklin County,Virginia",8375,169496
+235,"Grayson County,Virginia","Frederick County,Virginia",15580,439227
+236,"Grayson County,Virginia","Giles County,Virginia",6128,121952
+237,"Grayson County,Virginia","Gloucester County,Virginia",19559,544511
+238,"Grayson County,Virginia","Goochland County,Virginia",14530,407225
+239,"Grayson County,Virginia","Greene County,Virginia",13941,360027
+240,"Grayson County,Virginia","Greensville County,Virginia",15949,410872
+241,"Grayson County,Virginia","Halifax County,Virginia",11395,257699
+242,"Grayson County,Virginia","Hanover County,Virginia",15736,448332
+243,"Grayson County,Virginia","Henrico County,Virginia",16248,461292
+244,"Grayson County,Virginia","Henry County,Virginia",6965,146733
+245,"Grayson County,Virginia","Highland County,Virginia",13790,322507
+246,"Grayson County,Virginia","Isle of Wight County,Virginia",19671,522819
+247,"Grayson County,Virginia","James City County,Virginia",18624,531094
+248,"Grayson County,Virginia","King and Queen County,Virginia",18282,506678
+249,"Grayson County,Virginia","King George County,Virginia",18401,521275
+250,"Grayson County,Virginia","King William County,Virginia",16970,476600
+251,"Grayson County,Virginia","Lancaster County,Virginia",20763,559685
+252,"Grayson County,Virginia","Lee County,Virginia",9571,221751
+253,"Grayson County,Virginia","Loudoun County,Virginia",17624,487367
+254,"Grayson County,Virginia","Louisa County,Virginia",14187,390320
+255,"Grayson County,Virginia","Lunenburg County,Virginia",14533,334162
+256,"Grayson County,Virginia","Madison County,Virginia",14861,389767
+257,"Grayson County,Virginia","Mathews County,Virginia",20384,567935
+258,"Grayson County,Virginia","Mecklenburg County,Virginia",13427,309244
+259,"Grayson County,Virginia","Middlesex County,Virginia",19160,540712
+260,"Grayson County,Virginia","Montgomery County,Virginia",5357,125828
+261,"Grayson County,Virginia","Nelson County,Virginia",11974,299754
+262,"Grayson County,Virginia","New Kent County,Virginia",18060,505008
+263,"Grayson County,Virginia","Northampton County,Virginia",23042,647757
+264,"Grayson County,Virginia","Northumberland County,Virginia",20802,558198
+265,"Grayson County,Virginia","Nottoway County,Virginia",14561,365112
+266,"Grayson County,Virginia","Orange County,Virginia",15150,398428
+267,"Grayson County,Virginia","Page County,Virginia",13795,373553
+268,"Grayson County,Virginia","Patrick County,Virginia",5197,105047
+269,"Grayson County,Virginia","Pittsylvania County,Virginia",9281,200941
+270,"Grayson County,Virginia","Powhatan County,Virginia",15623,378815
+271,"Grayson County,Virginia","Prince Edward County,Virginia",13175,322448
+272,"Grayson County,Virginia","Prince George County,Virginia",17408,475755
+273,"Grayson County,Virginia","Prince William County,Virginia",16666,478856
+274,"Grayson County,Virginia","Pulaski County,Virginia",4033,86644
+275,"Grayson County,Virginia","Rappahannock County,Virginia",15626,410040
+276,"Grayson County,Virginia","Richmond County,Virginia",19502,530841
+277,"Grayson County,Virginia","Roanoke County,Virginia",6137,145765
+278,"Grayson County,Virginia","Rockbridge County,Virginia",9635,242413
+279,"Grayson County,Virginia","Rockingham County,Virginia",12834,345903
+280,"Grayson County,Virginia","Russell County,Virginia",7532,155256
+281,"Grayson County,Virginia","Scott County,Virginia",8144,182480
+282,"Grayson County,Virginia","Shenandoah County,Virginia",13339,376006
+283,"Grayson County,Virginia","Smyth County,Virginia",3727,66201
+284,"Grayson County,Virginia","Southampton County,Virginia",17566,468395
+285,"Grayson County,Virginia","Spotsylvania County,Virginia",16204,432159
+286,"Grayson County,Virginia","Stafford County,Virginia",17585,456452
+287,"Grayson County,Virginia","Surry County,Virginia",19096,509236
+288,"Grayson County,Virginia","Sussex County,Virginia",16850,459174
+289,"Grayson County,Virginia","Tazewell County,Virginia",5920,133042
+290,"Grayson County,Virginia","Warren County,Virginia",15241,420599
+291,"Grayson County,Virginia","Washington County,Virginia",5120,105667
+292,"Grayson County,Virginia","Westmoreland County,Virginia",19375,538099
+293,"Grayson County,Virginia","Wise County,Virginia",8983,196599
+294,"Grayson County,Virginia","Wythe County,Virginia",2116,40986
+295,"Grayson County,Virginia","York County,Virginia",19912,561868
+296,"Grayson County,Virginia","Alexandria City County,Virginia",18836,537398
+297,"Grayson County,Virginia","Bedford City County,Virginia",8495,205708
+298,"Grayson County,Virginia","Bristol City County,Virginia",5595,131385
+299,"Grayson County,Virginia","Buena Vista City County,Virginia",9006,234900
+300,"Grayson County,Virginia","Charlottesville City County,Virginia",12418,339657
+301,"Grayson County,Virginia","Chesapeake City County,Virginia",20785,550156
+302,"Grayson County,Virginia","Clifton Forge City County,Virginia",9274,224534
+303,"Grayson County,Virginia","Colonial Heights City County,Virginia",16660,460460
+304,"Grayson County,Virginia","Covington City County,Virginia",10257,245372
+305,"Grayson County,Virginia","Danville City County,Virginia",9122,201188
+306,"Grayson County,Virginia","Emporia City County,Virginia",16106,425060
+307,"Grayson County,Virginia","Fairfax City County,Virginia",17799,504603
+308,"Grayson County,Virginia","Falls Church City County,Virginia",18131,519076
+309,"Grayson County,Virginia","Franklin City County,Virginia",18192,481530
+310,"Grayson County,Virginia","Fredericksburg City County,Virginia",17337,441818
+311,"Grayson County,Virginia","Galax City County,Virginia",1747,32186
+312,"Grayson County,Virginia","Hampton City County,Virginia",19862,571575
+313,"Grayson County,Virginia","Harrisonburg City County,Virginia",11893,325799
+314,"Grayson County,Virginia","Hopewell City County,Virginia",17121,482965
+315,"Grayson County,Virginia","Lexington City County,Virginia",8920,233228
+316,"Grayson County,Virginia","Lynchburg City County,Virginia",10520,250583
+317,"Grayson County,Virginia","Manassas City County,Virginia",16894,483801
+318,"Grayson County,Virginia","Manassas Park City County,Virginia",17396,490144
+319,"Grayson County,Virginia","Martinsville City County,Virginia",7492,155526
+320,"Grayson County,Virginia","Newport News City County,Virginia",19419,558060
+321,"Grayson County,Virginia","Norfolk City County,Virginia",20737,549016
+322,"Grayson County,Virginia","Norton City County,Virginia",8507,187489
+323,"Grayson County,Virginia","Petersburg City County,Virginia",16411,458358
+324,"Grayson County,Virginia","Poquoson City County,Virginia",20091,568637
+325,"Grayson County,Virginia","Portsmouth City County,Virginia",20656,546552
+326,"Grayson County,Virginia","Radford County,Virginia",4544,100592
+327,"Grayson County,Virginia","Richmond City County,Virginia",15824,449102
+328,"Grayson County,Virginia","Roanoke City County,Virginia",6739,165869
+329,"Grayson County,Virginia","Salem City County,Virginia",6151,152419
+330,"Grayson County,Virginia","South Boston City County,Virginia",11134,255367
+331,"Grayson County,Virginia","Staunton City County,Virginia",10710,286934
+332,"Grayson County,Virginia","Suffolk City County,Virginia",19508,514832
+333,"Grayson County,Virginia","Virginia Beach City County,Virginia",21852,576812
+334,"Grayson County,Virginia","Waynesboro City County,Virginia",11048,299652
+335,"Grayson County,Virginia","Williamsburg City County,Virginia",18463,530309
+336,"Grayson County,Virginia","Winchester City County,Virginia",15460,435371
+337,"Grayson County,Virginia","Barbour County,West Virginia",15602,398686
+338,"Grayson County,Virginia","Berkeley County,West Virginia",17198,482579
+339,"Grayson County,Virginia","Boone County,West Virginia",10965,236197
+340,"Grayson County,Virginia","Braxton County,West Virginia",12293,289665
+341,"Grayson County,Virginia","Brooke County,West Virginia",19961,530479
+342,"Grayson County,Virginia","Cabell County,West Virginia",12533,332103
+343,"Grayson County,Virginia","Calhoun County,West Virginia",13968,357582
+344,"Grayson County,Virginia","Clay County,West Virginia",10958,253102
+345,"Grayson County,Virginia","Doddridge County,West Virginia",15806,375542
+346,"Grayson County,Virginia","Fayette County,West Virginia",8465,198839
+347,"Grayson County,Virginia","Gilmer County,West Virginia",13861,339345
+348,"Grayson County,Virginia","Grant County,West Virginia",17290,465066
+349,"Grayson County,Virginia","Greenbrier County,West Virginia",10267,229361
+350,"Grayson County,Virginia","Hampshire County,West Virginia",17317,453483
+351,"Grayson County,Virginia","Hancock County,West Virginia",21587,557826
+352,"Grayson County,Virginia","Hardy County,West Virginia",16537,436396
+353,"Grayson County,Virginia","Harrison County,West Virginia",14836,385056
+354,"Grayson County,Virginia","Jackson County,West Virginia",11852,311914
+355,"Grayson County,Virginia","Jefferson County,West Virginia",17249,469985
+356,"Grayson County,Virginia","Kanawha County,West Virginia",9615,233896
+357,"Grayson County,Virginia","Lewis County,West Virginia",13465,338526
+358,"Grayson County,Virginia","Lincoln County,West Virginia",13197,309781
+359,"Grayson County,Virginia","Logan County,West Virginia",12756,266687
+360,"Grayson County,Virginia","McDowell County,West Virginia",8438,161719
+361,"Grayson County,Virginia","Marion County,West Virginia",15981,412224
+362,"Grayson County,Virginia","Marshall County,West Virginia",19860,499600
+363,"Grayson County,Virginia","Mason County,West Virginia",12008,318010
+364,"Grayson County,Virginia","Mercer County,West Virginia",5044,114503
+365,"Grayson County,Virginia","Mineral County,West Virginia",18763,476589
+366,"Grayson County,Virginia","Mingo County,West Virginia",13335,330621
+367,"Grayson County,Virginia","Monongalia County,West Virginia",16192,437692
+368,"Grayson County,Virginia","Monroe County,West Virginia",7508,163903
+369,"Grayson County,Virginia","Morgan County,West Virginia",17443,483705
+370,"Grayson County,Virginia","Nicholas County,West Virginia",9912,239838
+371,"Grayson County,Virginia","Ohio County,West Virginia",19492,544736
+372,"Grayson County,Virginia","Pendleton County,West Virginia",15681,397088
+373,"Grayson County,Virginia","Pleasants County,West Virginia",15334,409766
+374,"Grayson County,Virginia","Pocahontas County,West Virginia",13347,309573
+375,"Grayson County,Virginia","Preston County,West Virginia",18338,464423
+376,"Grayson County,Virginia","Putnam County,West Virginia",10790,283628
+377,"Grayson County,Virginia","Raleigh County,West Virginia",6640,159077
+378,"Grayson County,Virginia","Randolph County,West Virginia",15967,400981
+379,"Grayson County,Virginia","Ritchie County,West Virginia",15665,423470
+380,"Grayson County,Virginia","Roane County,West Virginia",13477,340729
+381,"Grayson County,Virginia","Summers County,West Virginia",7599,159442
+382,"Grayson County,Virginia","Taylor County,West Virginia",15874,407796
+383,"Grayson County,Virginia","Tucker County,West Virginia",17034,431506
+384,"Grayson County,Virginia","Tyler County,West Virginia",17243,449381
+385,"Grayson County,Virginia","Upshur County,West Virginia",15030,353223
+386,"Grayson County,Virginia","Wayne County,West Virginia",14124,364730
+387,"Grayson County,Virginia","Webster County,West Virginia",13255,296789
+388,"Grayson County,Virginia","Wetzel County,West Virginia",17515,436539
+389,"Grayson County,Virginia","Wirt County,West Virginia",14118,369252
+390,"Grayson County,Virginia","Wood County,West Virginia",13633,370941
+391,"Grayson County,Virginia","Wyoming County,West Virginia",8585,199019

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Richmond County,Virginia","Adair County,Kentucky",36332,968777
+1,"Richmond County,Virginia","Allen County,Kentucky",37728,1088587
+2,"Richmond County,Virginia","Anderson County,Kentucky",31960,931562
+3,"Richmond County,Virginia","Ballard County,Kentucky",44632,1323842
+4,"Richmond County,Virginia","Barren County,Kentucky",37517,1047532
+5,"Richmond County,Virginia","Bath County,Kentucky",27607,802744
+6,"Richmond County,Virginia","Bell County,Kentucky",28827,770084
+7,"Richmond County,Virginia","Boone County,Kentucky",33420,924137
+8,"Richmond County,Virginia","Bourbon County,Kentucky",29521,849161
+9,"Richmond County,Virginia","Boyd County,Kentucky",24283,697068
+10,"Richmond County,Virginia","Boyle County,Kentucky",33189,935449
+11,"Richmond County,Virginia","Bracken County,Kentucky",29932,843244
+12,"Richmond County,Virginia","Breathitt County,Kentucky",30452,805847
+13,"Richmond County,Virginia","Breckinridge County,Kentucky",37493,1084244
+14,"Richmond County,Virginia","Bullitt County,Kentucky",34063,1005363
+15,"Richmond County,Virginia","Butler County,Kentucky",38158,1106242
+16,"Richmond County,Virginia","Caldwell County,Kentucky",41050,1212187
+17,"Richmond County,Virginia","Calloway County,Kentucky",42473,1255701
+18,"Richmond County,Virginia","Campbell County,Kentucky",31632,883115
+19,"Richmond County,Virginia","Carlisle County,Kentucky",45089,1339210
+20,"Richmond County,Virginia","Carroll County,Kentucky",34504,979377
+21,"Richmond County,Virginia","Carter County,Kentucky",25447,727165
+22,"Richmond County,Virginia","Casey County,Kentucky",34683,966954
+23,"Richmond County,Virginia","Christian County,Kentucky",39366,1176681
+24,"Richmond County,Virginia","Clay County,Kentucky",31399,830426
+25,"Richmond County,Virginia","Clinton County,Kentucky",34775,967992
+26,"Richmond County,Virginia","Crittenden County,Kentucky",42630,1245257
+27,"Richmond County,Virginia","Cumberland County,Kentucky",35655,988660
+28,"Richmond County,Virginia","Daviess County,Kentucky",39181,1152684
+29,"Richmond County,Virginia","Edmonson County,Kentucky",37598,1094116
+30,"Richmond County,Virginia","Elliott County,Kentucky",26778,752935
+31,"Richmond County,Virginia","Estill County,Kentucky",30599,865059
+32,"Richmond County,Virginia","Fayette County,Kentucky",29767,869055
+33,"Richmond County,Virginia","Fleming County,Kentucky",28033,805929
+34,"Richmond County,Virginia","Floyd County,Kentucky",28416,804333
+35,"Richmond County,Virginia","Franklin County,Kentucky",31804,917972
+36,"Richmond County,Virginia","Fulton County,Kentucky",45493,1360174
+37,"Richmond County,Virginia","Gallatin County,Kentucky",33502,970036
+38,"Richmond County,Virginia","Garrard County,Kentucky",32372,916209
+39,"Richmond County,Virginia","Grant County,Kentucky",32301,944143
+40,"Richmond County,Virginia","Graves County,Kentucky",44114,1311917
+41,"Richmond County,Virginia","Grayson County,Kentucky",36485,1062877
+42,"Richmond County,Virginia","Green County,Kentucky",36265,1028083
+43,"Richmond County,Virginia","Greenup County,Kentucky",26058,738194
+44,"Richmond County,Virginia","Hancock County,Kentucky",38289,1117137
+45,"Richmond County,Virginia","Hardin County,Kentucky",35361,1025010
+46,"Richmond County,Virginia","Harlan County,Kentucky",27902,746710
+47,"Richmond County,Virginia","Harrison County,Kentucky",31092,882261
+48,"Richmond County,Virginia","Hart County,Kentucky",36161,1052639
+49,"Richmond County,Virginia","Henderson County,Kentucky",40987,1205114
+50,"Richmond County,Virginia","Henry County,Kentucky",33406,961690
+51,"Richmond County,Virginia","Hickman County,Kentucky",45123,1340502
+52,"Richmond County,Virginia","Hopkins County,Kentucky",40509,1186655
+53,"Richmond County,Virginia","Jackson County,Kentucky",33271,866845
+54,"Richmond County,Virginia","Jefferson County,Kentucky",33500,977224
+55,"Richmond County,Virginia","Jessamine County,Kentucky",31236,890519
+56,"Richmond County,Virginia","Johnson County,Kentucky",27064,769964
+57,"Richmond County,Virginia","Kenton County,Kentucky",32789,911831
+58,"Richmond County,Virginia","Knott County,Kentucky",27992,748597
+59,"Richmond County,Virginia","Knox County,Kentucky",30157,812076
+60,"Richmond County,Virginia","Larue County,Kentucky",35433,1012186
+61,"Richmond County,Virginia","Laurel County,Kentucky",32051,846903
+62,"Richmond County,Virginia","Lawrence County,Kentucky",26206,741388
+63,"Richmond County,Virginia","Lee County,Kentucky",31444,858796
+64,"Richmond County,Virginia","Leslie County,Kentucky",29364,774990
+65,"Richmond County,Virginia","Letcher County,Kentucky",26392,712144
+66,"Richmond County,Virginia","Lewis County,Kentucky",27485,778983
+67,"Richmond County,Virginia","Lincoln County,Kentucky",33082,933127
+68,"Richmond County,Virginia","Livingston County,Kentucky",42963,1277781
+69,"Richmond County,Virginia","Logan County,Kentucky",39798,1129581
+70,"Richmond County,Virginia","Lyon County,Kentucky",42720,1254955
+71,"Richmond County,Virginia","McCracken County,Kentucky",43245,1291902
+72,"Richmond County,Virginia","McCreary County,Kentucky",31782,904838
+73,"Richmond County,Virginia","Madison County,Kentucky",30765,880078
+74,"Richmond County,Virginia","Magoffin County,Kentucky",28032,790643
+75,"Richmond County,Virginia","Marion County,Kentucky",33811,973795
+76,"Richmond County,Virginia","Marshall County,Kentucky",42659,1275474
+77,"Richmond County,Virginia","Martin County,Kentucky",27320,723112
+78,"Richmond County,Virginia","Mason County,Kentucky",29281,822790
+79,"Richmond County,Virginia","Meade County,Kentucky",35960,1049539
+80,"Richmond County,Virginia","Menifee County,Kentucky",28723,814807
+81,"Richmond County,Virginia","Mercer County,Kentucky",32187,929506
+82,"Richmond County,Virginia","Metcalfe County,Kentucky",36988,999042
+83,"Richmond County,Virginia","Monroe County,Kentucky",36216,1019081
+84,"Richmond County,Virginia","Montgomery County,Kentucky",28420,821284
+85,"Richmond County,Virginia","Morgan County,Kentucky",28501,790523
+86,"Richmond County,Virginia","Muhlenberg County,Kentucky",39369,1153131
+87,"Richmond County,Virginia","Nelson County,Kentucky",33419,972867
+88,"Richmond County,Virginia","Nicholas County,Kentucky",30098,849167
+89,"Richmond County,Virginia","Ohio County,Kentucky",38282,1120721
+90,"Richmond County,Virginia","Oldham County,Kentucky",33571,989105
+91,"Richmond County,Virginia","Owen County,Kentucky",32626,944749
+92,"Richmond County,Virginia","Owsley County,Kentucky",32589,843721
+93,"Richmond County,Virginia","Pendleton County,Kentucky",31869,884168
+94,"Richmond County,Virginia","Perry County,Kentucky",28966,769020
+95,"Richmond County,Virginia","Pike County,Kentucky",27515,688358
+96,"Richmond County,Virginia","Powell County,Kentucky",29864,851030
+97,"Richmond County,Virginia","Robertson County,Kentucky",30016,848674
+98,"Richmond County,Virginia","Rockcastle County,Kentucky",32199,921221
+99,"Richmond County,Virginia","Rowan County,Kentucky",26750,774951
+100,"Richmond County,Virginia","Russell County,Kentucky",35937,952761
+101,"Richmond County,Virginia","Scott County,Kentucky",30601,897082
+102,"Richmond County,Virginia","Shelby County,Kentucky",32428,948358
+103,"Richmond County,Virginia","Simpson County,Kentucky",38765,1105557
+104,"Richmond County,Virginia","Spencer County,Kentucky",32958,954206
+105,"Richmond County,Virginia","Taylor County,Kentucky",35100,1005291
+106,"Richmond County,Virginia","Todd County,Kentucky",39782,1169628
+107,"Richmond County,Virginia","Trigg County,Kentucky",40273,1194040
+108,"Richmond County,Virginia","Trimble County,Kentucky",34645,995145
+109,"Richmond County,Virginia","Union County,Kentucky",42707,1235560
+110,"Richmond County,Virginia","Warren County,Kentucky",38514,1122485
+111,"Richmond County,Virginia","Washington County,Kentucky",33429,958103
+112,"Richmond County,Virginia","Wayne County,Kentucky",34286,951968
+113,"Richmond County,Virginia","Webster County,Kentucky",41618,1214744
+114,"Richmond County,Virginia","Whitley County,Kentucky",30386,889600
+115,"Richmond County,Virginia","Wolfe County,Kentucky",29596,813885
+116,"Richmond County,Virginia","Woodford County,Kentucky",30821,899718
+117,"Richmond County,Virginia","Adams County,Ohio",29373,825346
+118,"Richmond County,Virginia","Allen County,Ohio",34364,982117
+119,"Richmond County,Virginia","Ashland County,Ohio",28913,808806
+120,"Richmond County,Virginia","Ashtabula County,Ohio",26910,763276
+121,"Richmond County,Virginia","Athens County,Ohio",25781,730945
+122,"Richmond County,Virginia","Auglaize County,Ohio",34859,1002804
+123,"Richmond County,Virginia","Belmont County,Ohio",23480,659571
+124,"Richmond County,Virginia","Brown County,Ohio",30618,852274
+125,"Richmond County,Virginia","Butler County,Ohio",33730,934299
+126,"Richmond County,Virginia","Carroll County,Ohio",25426,675497
+127,"Richmond County,Virginia","Champaign County,Ohio",32603,917699
+128,"Richmond County,Virginia","Clark County,Ohio",31338,879105
+129,"Richmond County,Virginia","Clermont County,Ohio",31452,883370
+130,"Richmond County,Virginia","Clinton County,Ohio",30843,866786
+131,"Richmond County,Virginia","Columbiana County,Ohio",24213,657514
+132,"Richmond County,Virginia","Coshocton County,Ohio",27837,785021
+133,"Richmond County,Virginia","Crawford County,Ohio",30821,880000
+134,"Richmond County,Virginia","Cuyahoga County,Ohio",26906,761120
+135,"Richmond County,Virginia","Darke County,Ohio",34453,974510
+136,"Richmond County,Virginia","Defiance County,Ohio",35225,1010083
+137,"Richmond County,Virginia","Delaware County,Ohio",30757,884018
+138,"Richmond County,Virginia","Fairfield County,Ohio",28852,820804
+139,"Richmond County,Virginia","Fayette County,Ohio",29406,837250
+140,"Richmond County,Virginia","Franklin County,Ohio",29452,847905
+141,"Richmond County,Virginia","Fulton County,Ohio",33577,966934
+142,"Richmond County,Virginia","Gallia County,Ohio",24720,696362
+143,"Richmond County,Virginia","Geauga County,Ohio",26400,735938
+144,"Richmond County,Virginia","Greene County,Ohio",30277,870403
+145,"Richmond County,Virginia","Guernsey County,Ohio",25384,723080
+146,"Richmond County,Virginia","Hamilton County,Ohio",33232,944877
+147,"Richmond County,Virginia","Hancock County,Ohio",32852,942081
+148,"Richmond County,Virginia","Hardin County,Ohio",33507,944672
+149,"Richmond County,Virginia","Harrison County,Ohio",24640,677714
+150,"Richmond County,Virginia","Henry County,Ohio",34031,956701
+151,"Richmond County,Virginia","Highland County,Ohio",29910,825360
+152,"Richmond County,Virginia","Hocking County,Ohio",27584,781609
+153,"Richmond County,Virginia","Holmes County,Ohio",28579,759791
+154,"Richmond County,Virginia","Huron County,Ohio",30189,838412
+155,"Richmond County,Virginia","Jackson County,Ohio",25897,735911
+156,"Richmond County,Virginia","Jefferson County,Ohio",23382,638988
+157,"Richmond County,Virginia","Knox County,Ohio",29626,827497
+158,"Richmond County,Virginia","Lawrence County,Ohio",25422,702125
+159,"Richmond County,Virginia","Licking County,Ohio",29011,808568
+160,"Richmond County,Virginia","Logan County,Ohio",32778,949217
+161,"Richmond County,Virginia","Lorain County,Ohio",27958,790840
+162,"Richmond County,Virginia","Lucas County,Ohio",32531,919784
+163,"Richmond County,Virginia","Madison County,Ohio",30730,882626
+164,"Richmond County,Virginia","Mahoning County,Ohio",23396,653268
+165,"Richmond County,Virginia","Marion County,Ohio",31850,896984
+166,"Richmond County,Virginia","Medina County,Ohio",27545,775926
+167,"Richmond County,Virginia","Meigs County,Ohio",24662,701916
+168,"Richmond County,Virginia","Mercer County,Ohio",36095,1029738
+169,"Richmond County,Virginia","Miami County,Ohio",32941,939902
+170,"Richmond County,Virginia","Monroe County,Ohio",25913,706254
+171,"Richmond County,Virginia","Montgomery County,Ohio",32311,917858
+172,"Richmond County,Virginia","Morgan County,Ohio",27016,746859
+173,"Richmond County,Virginia","Morrow County,Ohio",30550,870259
+174,"Richmond County,Virginia","Muskingum County,Ohio",26230,751072
+175,"Richmond County,Virginia","Noble County,Ohio",26496,744386
+176,"Richmond County,Virginia","Paulding County,Ohio",36430,1046071
+177,"Richmond County,Virginia","Perry County,Ohio",28329,799014
+178,"Richmond County,Virginia","Pickaway County,Ohio",28847,817349
+179,"Richmond County,Virginia","Pike County,Ohio",27343,775218
+180,"Richmond County,Virginia","Portage County,Ohio",25251,709281
+181,"Richmond County,Virginia","Preble County,Ohio",33930,946436
+182,"Richmond County,Virginia","Putnam County,Ohio",35050,1001887
+183,"Richmond County,Virginia","Richland County,Ohio",29469,830234
+184,"Richmond County,Virginia","Ross County,Ohio",27591,783655
+185,"Richmond County,Virginia","Sandusky County,Ohio",30819,878359
+186,"Richmond County,Virginia","Scioto County,Ohio",27227,759398
+187,"Richmond County,Virginia","Seneca County,Ohio",31550,888031
+188,"Richmond County,Virginia","Shelby County,Ohio",33980,976188
+189,"Richmond County,Virginia","Stark County,Ohio",26031,705414
+190,"Richmond County,Virginia","Summit County,Ohio",26309,735096
+191,"Richmond County,Virginia","Trumbull County,Ohio",24554,690732
+192,"Richmond County,Virginia","Tuscarawas County,Ohio",26149,708998
+193,"Richmond County,Virginia","Union County,Ohio",31282,899448
+194,"Richmond County,Virginia","Van Wert County,Ohio",35161,1012399
+195,"Richmond County,Virginia","Vinton County,Ohio",27792,761416
+196,"Richmond County,Virginia","Warren County,Ohio",31648,900845
+197,"Richmond County,Virginia","Washington County,Ohio",25354,702322
+198,"Richmond County,Virginia","Wayne County,Ohio",28651,794736
+199,"Richmond County,Virginia","Williams County,Ohio",34822,998391
+200,"Richmond County,Virginia","Wood County,Ohio",32716,926687
+201,"Richmond County,Virginia","Wyandot County,Ohio",31822,906217
+202,"Richmond County,Virginia","Accomack County,Virginia",12936,285392
+203,"Richmond County,Virginia","Albemarle County,Virginia",8302,210777
+204,"Richmond County,Virginia","Alleghany County,Virginia",13812,379718
+205,"Richmond County,Virginia","Amelia County,Virginia",7471,161199
+206,"Richmond County,Virginia","Amherst County,Virginia",11095,280523
+207,"Richmond County,Virginia","Appomattox County,Virginia",10520,243897
+208,"Richmond County,Virginia","Arlington County,Virginia",7399,181761
+209,"Richmond County,Virginia","Augusta County,Virginia",10555,273411
+210,"Richmond County,Virginia","Bath County,Virginia",13530,339071
+211,"Richmond County,Virginia","Bedford County,Virginia",13578,343926
+212,"Richmond County,Virginia","Bland County,Virginia",18094,509401
+213,"Richmond County,Virginia","Botetourt County,Virginia",13119,350654
+214,"Richmond County,Virginia","Brunswick County,Virginia",8528,207894
+215,"Richmond County,Virginia","Buchanan County,Virginia",23850,643860
+216,"Richmond County,Virginia","Buckingham County,Virginia",9362,215874
+217,"Richmond County,Virginia","Campbell County,Virginia",12151,280756
+218,"Richmond County,Virginia","Caroline County,Virginia",3546,81687
+219,"Richmond County,Virginia","Carroll County,Virginia",18216,514818
+220,"Richmond County,Virginia","Charles City County,Virginia",5382,104220
+221,"Richmond County,Virginia","Charlotte County,Virginia",10336,235795
+222,"Richmond County,Virginia","Chesterfield County,Virginia",6171,126752
+223,"Richmond County,Virginia","Clarke County,Virginia",10079,224237
+224,"Richmond County,Virginia","Craig County,Virginia",15960,406981
+225,"Richmond County,Virginia","Culpeper County,Virginia",7349,149904
+226,"Richmond County,Virginia","Cumberland County,Virginia",7795,180827
+227,"Richmond County,Virginia","Dickenson County,Virginia",24560,662038
+228,"Richmond County,Virginia","Dinwiddie County,Virginia",7165,167861
+229,"Richmond County,Virginia","Essex County,Virginia",1856,32177
+230,"Richmond County,Virginia","Fairfax County,Virginia",7696,184990
+231,"Richmond County,Virginia","Fauquier County,Virginia",7392,165003
+232,"Richmond County,Virginia","Floyd County,Virginia",16742,456365
+233,"Richmond County,Virginia","Fluvanna County,Virginia",7503,174348
+234,"Richmond County,Virginia","Franklin County,Virginia",16004,359140
+235,"Richmond County,Virginia","Frederick County,Virginia",10635,257299
+236,"Richmond County,Virginia","Giles County,Virginia",16882,464517
+237,"Richmond County,Virginia","Gloucester County,Virginia",4510,94101
+238,"Richmond County,Virginia","Goochland County,Virginia",6233,143635
+239,"Richmond County,Virginia","Grayson County,Virginia",19547,530997
+240,"Richmond County,Virginia","Greene County,Virginia",9846,196899
+241,"Richmond County,Virginia","Greensville County,Virginia",8199,209803
+242,"Richmond County,Virginia","Halifax County,Virginia",11970,278940
+243,"Richmond County,Virginia","Hanover County,Virginia",4305,87213
+244,"Richmond County,Virginia","Henrico County,Virginia",4658,91047
+245,"Richmond County,Virginia","Henry County,Virginia",16460,395216
+246,"Richmond County,Virginia","Highland County,Virginia",13758,331150
+247,"Richmond County,Virginia","Isle of Wight County,Virginia",8554,170584
+248,"Richmond County,Virginia","James City County,Virginia",5911,116415
+249,"Richmond County,Virginia","King and Queen County,Virginia",2621,47810
+250,"Richmond County,Virginia","King George County,Virginia",3115,64678
+251,"Richmond County,Virginia","King William County,Virginia",2839,56329
+252,"Richmond County,Virginia","Lancaster County,Virginia",1513,30402
+253,"Richmond County,Virginia","Lee County,Virginia",25055,693692
+254,"Richmond County,Virginia","Loudoun County,Virginia",9662,238235
+255,"Richmond County,Virginia","Louisa County,Virginia",7000,167223
+256,"Richmond County,Virginia","Lunenburg County,Virginia",9887,219643
+257,"Richmond County,Virginia","Madison County,Virginia",8251,176302
+258,"Richmond County,Virginia","Mathews County,Virginia",4744,91286
+259,"Richmond County,Virginia","Mecklenburg County,Virginia",10254,256165
+260,"Richmond County,Virginia","Middlesex County,Virginia",3346,65821
+261,"Richmond County,Virginia","Montgomery County,Virginia",15447,428788
+262,"Richmond County,Virginia","Nelson County,Virginia",9541,248118
+263,"Richmond County,Virginia","New Kent County,Virginia",5282,98880
+264,"Richmond County,Virginia","Northampton County,Virginia",10179,221206
+265,"Richmond County,Virginia","Northumberland County,Virginia",1895,33654
+266,"Richmond County,Virginia","Nottoway County,Virginia",8101,196386
+267,"Richmond County,Virginia","Orange County,Virginia",6943,142622
+268,"Richmond County,Virginia","Page County,Virginia",10234,207609
+269,"Richmond County,Virginia","Patrick County,Virginia",18043,434124
+270,"Richmond County,Virginia","Pittsylvania County,Virginia",14536,339222
+271,"Richmond County,Virginia","Powhatan County,Virginia",6259,141243
+272,"Richmond County,Virginia","Prince Edward County,Virginia",9215,208912
+273,"Richmond County,Virginia","Prince George County,Virginia",6383,143923
+274,"Richmond County,Virginia","Prince William County,Virginia",7855,174839
+275,"Richmond County,Virginia","Pulaski County,Virginia",16174,451421
+276,"Richmond County,Virginia","Rappahannock County,Virginia",8832,193003
+277,"Richmond County,Virginia","Roanoke County,Virginia",14438,393726
+278,"Richmond County,Virginia","Rockbridge County,Virginia",11861,316663
+279,"Richmond County,Virginia","Rockingham County,Virginia",11914,313557
+280,"Richmond County,Virginia","Russell County,Virginia",23016,627197
+281,"Richmond County,Virginia","Scott County,Virginia",23628,654420
+282,"Richmond County,Virginia","Shenandoah County,Virginia",10571,262408
+283,"Richmond County,Virginia","Smyth County,Virginia",19211,538142
+284,"Richmond County,Virginia","Southampton County,Virginia",8577,205917
+285,"Richmond County,Virginia","Spotsylvania County,Virginia",5123,107613
+286,"Richmond County,Virginia","Stafford County,Virginia",5210,119542
+287,"Richmond County,Virginia","Surry County,Virginia",7495,165618
+288,"Richmond County,Virginia","Sussex County,Virginia",7241,176160
+289,"Richmond County,Virginia","Tazewell County,Virginia",20671,578218
+290,"Richmond County,Virginia","Warren County,Virginia",9862,226709
+291,"Richmond County,Virginia","Washington County,Virginia",20604,577608
+292,"Richmond County,Virginia","Westmoreland County,Virginia",2961,58709
+293,"Richmond County,Virginia","Wise County,Virginia",24467,668540
+294,"Richmond County,Virginia","Wythe County,Virginia",17465,490127
+295,"Richmond County,Virginia","York County,Virginia",6213,128515
+296,"Richmond County,Virginia","Alexandria City County,Virginia",7406,143742
+297,"Richmond County,Virginia","Bedford City County,Virginia",13080,339010
+298,"Richmond County,Virginia","Bristol City County,Virginia",21079,603325
+299,"Richmond County,Virginia","Buena Vista City County,Virginia",11519,309929
+300,"Richmond County,Virginia","Charlottesville City County,Virginia",7853,196184
+301,"Richmond County,Virginia","Chesapeake City County,Virginia",8512,188223
+302,"Richmond County,Virginia","Clifton Forge City County,Virginia",12713,348536
+303,"Richmond County,Virginia","Colonial Heights City County,Virginia",5978,133321
+304,"Richmond County,Virginia","Covington City County,Virginia",13456,366878
+305,"Richmond County,Virginia","Danville City County,Virginia",13916,326190
+306,"Richmond County,Virginia","Emporia City County,Virginia",7906,196397
+307,"Richmond County,Virginia","Fairfax City County,Virginia",7630,173773
+308,"Richmond County,Virginia","Falls Church City County,Virginia",7578,186059
+309,"Richmond County,Virginia","Franklin City County,Virginia",9124,213772
+310,"Richmond County,Virginia","Fredericksburg City County,Virginia",4404,93899
+311,"Richmond County,Virginia","Galax City County,Virginia",18839,520684
+312,"Richmond County,Virginia","Hampton City County,Virginia",6999,145023
+313,"Richmond County,Virginia","Harrisonburg City County,Virginia",10973,293453
+314,"Richmond County,Virginia","Hopewell City County,Virginia",5314,118825
+315,"Richmond County,Virginia","Lexington City County,Virginia",11379,306907
+316,"Richmond County,Virginia","Lynchburg City County,Virginia",11643,300579
+317,"Richmond County,Virginia","Manassas City County,Virginia",7599,172176
+318,"Richmond County,Virginia","Manassas Park City County,Virginia",7819,169375
+319,"Richmond County,Virginia","Martinsville City County,Virginia",16057,379195
+320,"Richmond County,Virginia","Newport News City County,Virginia",6519,132645
+321,"Richmond County,Virginia","Norfolk City County,Virginia",8305,170439
+322,"Richmond County,Virginia","Norton City County,Virginia",23991,659430
+323,"Richmond County,Virginia","Petersburg City County,Virginia",5916,129784
+324,"Richmond County,Virginia","Poquoson City County,Virginia",6797,137741
+325,"Richmond County,Virginia","Portsmouth City County,Virginia",8245,179260
+326,"Richmond County,Virginia","Radford County,Virginia",15810,438632
+327,"Richmond County,Virginia","Richmond City County,Virginia",4736,91194
+328,"Richmond County,Virginia","Roanoke City County,Virginia",13976,385168
+329,"Richmond County,Virginia","Salem City County,Virginia",13806,383639
+330,"Richmond County,Virginia","South Boston City County,Virginia",11663,276190
+331,"Richmond County,Virginia","Staunton City County,Virginia",9862,255134
+332,"Richmond County,Virginia","Suffolk City County,Virginia",8620,187297
+333,"Richmond County,Virginia","Virginia Beach City County,Virginia",8866,193698
+334,"Richmond County,Virginia","Waynesboro City County,Virginia",9138,237132
+335,"Richmond County,Virginia","Williamsburg City County,Virginia",5761,120246
+336,"Richmond County,Virginia","Winchester City County,Virginia",10456,231046
+337,"Richmond County,Virginia","Barbour County,West Virginia",18340,431610
+338,"Richmond County,Virginia","Berkeley County,West Virginia",12237,281228
+339,"Richmond County,Virginia","Boone County,West Virginia",22171,579423
+340,"Richmond County,Virginia","Braxton County,West Virginia",21869,560098
+341,"Richmond County,Virginia","Brooke County,West Virginia",22688,622471
+342,"Richmond County,Virginia","Cabell County,West Virginia",23739,675329
+343,"Richmond County,Virginia","Calhoun County,West Virginia",23640,614049
+344,"Richmond County,Virginia","Clay County,West Virginia",21904,550882
+345,"Richmond County,Virginia","Doddridge County,West Virginia",22083,609791
+346,"Richmond County,Virginia","Fayette County,West Virginia",19293,497621
+347,"Richmond County,Virginia","Gilmer County,West Virginia",22840,548859
+348,"Richmond County,Virginia","Grant County,West Virginia",13684,334706
+349,"Richmond County,Virginia","Greenbrier County,West Virginia",17648,456846
+350,"Richmond County,Virginia","Hampshire County,West Virginia",12761,290304
+351,"Richmond County,Virginia","Hancock County,West Virginia",23396,630408
+352,"Richmond County,Virginia","Hardy County,West Virginia",12932,306035
+353,"Richmond County,Virginia","Harrison County,West Virginia",20520,571418
+354,"Richmond County,Virginia","Jackson County,West Virginia",23058,655140
+355,"Richmond County,Virginia","Jefferson County,West Virginia",11135,269662
+356,"Richmond County,Virginia","Kanawha County,West Virginia",20821,577122
+357,"Richmond County,Virginia","Lewis County,West Virginia",20741,498489
+358,"Richmond County,Virginia","Lincoln County,West Virginia",24403,653007
+359,"Richmond County,Virginia","Logan County,West Virginia",23961,609912
+360,"Richmond County,Virginia","McDowell County,West Virginia",22340,584363
+361,"Richmond County,Virginia","Marion County,West Virginia",20006,545331
+362,"Richmond County,Virginia","Marshall County,West Virginia",23675,616915
+363,"Richmond County,Virginia","Mason County,West Virginia",23214,661236
+364,"Richmond County,Virginia","Mercer County,West Virginia",19055,520694
+365,"Richmond County,Virginia","Mineral County,West Virginia",15158,346229
+366,"Richmond County,Virginia","Mingo County,West Virginia",24540,673847
+367,"Richmond County,Virginia","Monongalia County,West Virginia",17829,497071
+368,"Richmond County,Virginia","Monroe County,West Virginia",16583,443167
+369,"Richmond County,Virginia","Morgan County,West Virginia",12482,282354
+370,"Richmond County,Virginia","Nicholas County,West Virginia",19488,510271
+371,"Richmond County,Virginia","Ohio County,West Virginia",22594,631418
+372,"Richmond County,Virginia","Pendleton County,West Virginia",14761,364741
+373,"Richmond County,Virginia","Pleasants County,West Virginia",23318,647559
+374,"Richmond County,Virginia","Pocahontas County,West Virginia",17220,392836
+375,"Richmond County,Virginia","Preston County,West Virginia",17864,413157
+376,"Richmond County,Virginia","Putnam County,West Virginia",21996,626854
+377,"Richmond County,Virginia","Raleigh County,West Virginia",17846,502303
+378,"Richmond County,Virginia","Randolph County,West Virginia",18680,425248
+379,"Richmond County,Virginia","Ritchie County,West Virginia",23229,641861
+380,"Richmond County,Virginia","Roane County,West Virginia",24683,683955
+381,"Richmond County,Virginia","Summers County,West Virginia",18567,482181
+382,"Richmond County,Virginia","Taylor County,West Virginia",18207,430978
+383,"Richmond County,Virginia","Tucker County,West Virginia",16344,396353
+384,"Richmond County,Virginia","Tyler County,West Virginia",24245,640225
+385,"Richmond County,Virginia","Upshur County,West Virginia",20417,479471
+386,"Richmond County,Virginia","Wayne County,West Virginia",25330,707956
+387,"Richmond County,Virginia","Webster County,West Virginia",21108,472257
+388,"Richmond County,Virginia","Wetzel County,West Virginia",23162,607455
+389,"Richmond County,Virginia","Wirt County,West Virginia",25324,712478
+390,"Richmond County,Virginia","Wood County,West Virginia",24098,672821
+391,"Richmond County,Virginia","Wyoming County,West Virginia",19790,542245

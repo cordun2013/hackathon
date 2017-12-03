@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Buckingham County,Virginia","Adair County,Kentucky",29673,750275
+1,"Buckingham County,Virginia","Allen County,Kentucky",31069,870084
+2,"Buckingham County,Virginia","Anderson County,Kentucky",26258,742801
+3,"Buckingham County,Virginia","Ballard County,Kentucky",37974,1105339
+4,"Buckingham County,Virginia","Barren County,Kentucky",30859,829030
+5,"Buckingham County,Virginia","Bath County,Kentucky",21906,613982
+6,"Buckingham County,Virginia","Bell County,Kentucky",22169,551581
+7,"Buckingham County,Virginia","Boone County,Kentucky",27718,735375
+8,"Buckingham County,Virginia","Bourbon County,Kentucky",23819,660399
+9,"Buckingham County,Virginia","Boyd County,Kentucky",18581,508306
+10,"Buckingham County,Virginia","Boyle County,Kentucky",27487,746687
+11,"Buckingham County,Virginia","Bracken County,Kentucky",24230,654482
+12,"Buckingham County,Virginia","Breathitt County,Kentucky",23793,587345
+13,"Buckingham County,Virginia","Breckinridge County,Kentucky",31792,895482
+14,"Buckingham County,Virginia","Bullitt County,Kentucky",28361,816601
+15,"Buckingham County,Virginia","Butler County,Kentucky",32456,917480
+16,"Buckingham County,Virginia","Caldwell County,Kentucky",35113,1013153
+17,"Buckingham County,Virginia","Calloway County,Kentucky",35815,1037199
+18,"Buckingham County,Virginia","Campbell County,Kentucky",25931,694353
+19,"Buckingham County,Virginia","Carlisle County,Kentucky",38431,1120708
+20,"Buckingham County,Virginia","Carroll County,Kentucky",28803,790615
+21,"Buckingham County,Virginia","Carter County,Kentucky",19746,538403
+22,"Buckingham County,Virginia","Casey County,Kentucky",28982,778192
+23,"Buckingham County,Virginia","Christian County,Kentucky",32708,958178
+24,"Buckingham County,Virginia","Clay County,Kentucky",24741,611923
+25,"Buckingham County,Virginia","Clinton County,Kentucky",28117,749489
+26,"Buckingham County,Virginia","Crittenden County,Kentucky",36378,1045913
+27,"Buckingham County,Virginia","Cumberland County,Kentucky",28996,770158
+28,"Buckingham County,Virginia","Daviess County,Kentucky",33479,963922
+29,"Buckingham County,Virginia","Edmonson County,Kentucky",31897,905354
+30,"Buckingham County,Virginia","Elliott County,Kentucky",21076,564174
+31,"Buckingham County,Virginia","Estill County,Kentucky",24898,676297
+32,"Buckingham County,Virginia","Fayette County,Kentucky",24065,680293
+33,"Buckingham County,Virginia","Fleming County,Kentucky",22331,617167
+34,"Buckingham County,Virginia","Floyd County,Kentucky",22454,564653
+35,"Buckingham County,Virginia","Franklin County,Kentucky",26103,729210
+36,"Buckingham County,Virginia","Fulton County,Kentucky",38835,1141672
+37,"Buckingham County,Virginia","Gallatin County,Kentucky",27801,781274
+38,"Buckingham County,Virginia","Garrard County,Kentucky",26670,727447
+39,"Buckingham County,Virginia","Grant County,Kentucky",26600,755381
+40,"Buckingham County,Virginia","Graves County,Kentucky",37456,1093414
+41,"Buckingham County,Virginia","Grayson County,Kentucky",30784,874116
+42,"Buckingham County,Virginia","Green County,Kentucky",30563,839321
+43,"Buckingham County,Virginia","Greenup County,Kentucky",20357,549433
+44,"Buckingham County,Virginia","Hancock County,Kentucky",32587,928375
+45,"Buckingham County,Virginia","Hardin County,Kentucky",29660,836248
+46,"Buckingham County,Virginia","Harlan County,Kentucky",21244,528208
+47,"Buckingham County,Virginia","Harrison County,Kentucky",25390,693499
+48,"Buckingham County,Virginia","Hart County,Kentucky",30459,863877
+49,"Buckingham County,Virginia","Henderson County,Kentucky",35286,1016352
+50,"Buckingham County,Virginia","Henry County,Kentucky",27704,772928
+51,"Buckingham County,Virginia","Hickman County,Kentucky",38464,1121999
+52,"Buckingham County,Virginia","Hopkins County,Kentucky",34807,997893
+53,"Buckingham County,Virginia","Jackson County,Kentucky",26613,648342
+54,"Buckingham County,Virginia","Jefferson County,Kentucky",27798,788462
+55,"Buckingham County,Virginia","Jessamine County,Kentucky",25534,701757
+56,"Buckingham County,Virginia","Johnson County,Kentucky",21362,581202
+57,"Buckingham County,Virginia","Kenton County,Kentucky",27088,723069
+58,"Buckingham County,Virginia","Knott County,Kentucky",21333,530094
+59,"Buckingham County,Virginia","Knox County,Kentucky",23499,593574
+60,"Buckingham County,Virginia","Larue County,Kentucky",29732,823424
+61,"Buckingham County,Virginia","Laurel County,Kentucky",25393,628401
+62,"Buckingham County,Virginia","Lawrence County,Kentucky",20504,552626
+63,"Buckingham County,Virginia","Lee County,Kentucky",25743,670034
+64,"Buckingham County,Virginia","Leslie County,Kentucky",22706,556487
+65,"Buckingham County,Virginia","Letcher County,Kentucky",19734,493641
+66,"Buckingham County,Virginia","Lewis County,Kentucky",21784,590221
+67,"Buckingham County,Virginia","Lincoln County,Kentucky",27380,744365
+68,"Buckingham County,Virginia","Livingston County,Kentucky",36305,1059278
+69,"Buckingham County,Virginia","Logan County,Kentucky",33140,911079
+70,"Buckingham County,Virginia","Lyon County,Kentucky",36062,1036453
+71,"Buckingham County,Virginia","McCracken County,Kentucky",36586,1073399
+72,"Buckingham County,Virginia","McCreary County,Kentucky",25123,686335
+73,"Buckingham County,Virginia","Madison County,Kentucky",25064,691317
+74,"Buckingham County,Virginia","Magoffin County,Kentucky",22330,601881
+75,"Buckingham County,Virginia","Marion County,Kentucky",28109,785033
+76,"Buckingham County,Virginia","Marshall County,Kentucky",36001,1056971
+77,"Buckingham County,Virginia","Martin County,Kentucky",21618,534350
+78,"Buckingham County,Virginia","Mason County,Kentucky",23579,634028
+79,"Buckingham County,Virginia","Meade County,Kentucky",30259,860777
+80,"Buckingham County,Virginia","Menifee County,Kentucky",23022,626045
+81,"Buckingham County,Virginia","Mercer County,Kentucky",26486,740744
+82,"Buckingham County,Virginia","Metcalfe County,Kentucky",30329,780539
+83,"Buckingham County,Virginia","Monroe County,Kentucky",29557,800579
+84,"Buckingham County,Virginia","Montgomery County,Kentucky",22718,632522
+85,"Buckingham County,Virginia","Morgan County,Kentucky",22800,601761
+86,"Buckingham County,Virginia","Muhlenberg County,Kentucky",33667,964369
+87,"Buckingham County,Virginia","Nelson County,Kentucky",27717,784105
+88,"Buckingham County,Virginia","Nicholas County,Kentucky",24396,660406
+89,"Buckingham County,Virginia","Ohio County,Kentucky",32580,931959
+90,"Buckingham County,Virginia","Oldham County,Kentucky",27870,800343
+91,"Buckingham County,Virginia","Owen County,Kentucky",26925,755987
+92,"Buckingham County,Virginia","Owsley County,Kentucky",25931,625219
+93,"Buckingham County,Virginia","Pendleton County,Kentucky",26168,695406
+94,"Buckingham County,Virginia","Perry County,Kentucky",22307,550518
+95,"Buckingham County,Virginia","Pike County,Kentucky",20828,499168
+96,"Buckingham County,Virginia","Powell County,Kentucky",24162,662268
+97,"Buckingham County,Virginia","Robertson County,Kentucky",24314,659912
+98,"Buckingham County,Virginia","Rockcastle County,Kentucky",26498,732459
+99,"Buckingham County,Virginia","Rowan County,Kentucky",21048,586189
+100,"Buckingham County,Virginia","Russell County,Kentucky",29278,734258
+101,"Buckingham County,Virginia","Scott County,Kentucky",24900,708320
+102,"Buckingham County,Virginia","Shelby County,Kentucky",26727,759596
+103,"Buckingham County,Virginia","Simpson County,Kentucky",32107,887054
+104,"Buckingham County,Virginia","Spencer County,Kentucky",27256,765444
+105,"Buckingham County,Virginia","Taylor County,Kentucky",29399,816529
+106,"Buckingham County,Virginia","Todd County,Kentucky",33123,951125
+107,"Buckingham County,Virginia","Trigg County,Kentucky",33615,975538
+108,"Buckingham County,Virginia","Trimble County,Kentucky",28943,806383
+109,"Buckingham County,Virginia","Union County,Kentucky",37005,1046798
+110,"Buckingham County,Virginia","Warren County,Kentucky",32532,909722
+111,"Buckingham County,Virginia","Washington County,Kentucky",27727,769341
+112,"Buckingham County,Virginia","Wayne County,Kentucky",27627,733466
+113,"Buckingham County,Virginia","Webster County,Kentucky",35916,1025982
+114,"Buckingham County,Virginia","Whitley County,Kentucky",23727,671098
+115,"Buckingham County,Virginia","Wolfe County,Kentucky",23895,625123
+116,"Buckingham County,Virginia","Woodford County,Kentucky",25119,710956
+117,"Buckingham County,Virginia","Adams County,Ohio",23672,636584
+118,"Buckingham County,Virginia","Allen County,Ohio",30404,812002
+119,"Buckingham County,Virginia","Ashland County,Ohio",28148,765893
+120,"Buckingham County,Virginia","Ashtabula County,Ohio",27791,764000
+121,"Buckingham County,Virginia","Athens County,Ohio",20080,542183
+122,"Buckingham County,Virginia","Auglaize County,Ohio",29654,828701
+123,"Buckingham County,Virginia","Belmont County,Ohio",22864,578597
+124,"Buckingham County,Virginia","Brown County,Ohio",24916,663512
+125,"Buckingham County,Virginia","Butler County,Ohio",28029,745537
+126,"Buckingham County,Virginia","Carroll County,Ohio",25829,712601
+127,"Buckingham County,Virginia","Champaign County,Ohio",26958,730799
+128,"Buckingham County,Virginia","Clark County,Ohio",25637,690343
+129,"Buckingham County,Virginia","Clermont County,Ohio",25750,694608
+130,"Buckingham County,Virginia","Clinton County,Ohio",25141,678025
+131,"Buckingham County,Virginia","Columbiana County,Ohio",25018,602977
+132,"Buckingham County,Virginia","Coshocton County,Ohio",24464,683718
+133,"Buckingham County,Virginia","Crawford County,Ohio",28756,777053
+134,"Buckingham County,Virginia","Cuyahoga County,Ohio",27787,761844
+135,"Buckingham County,Virginia","Darke County,Ohio",28751,785748
+136,"Buckingham County,Virginia","Defiance County,Ohio",33840,890322
+137,"Buckingham County,Virginia","Delaware County,Ohio",25910,709790
+138,"Buckingham County,Virginia","Fairfield County,Ohio",23440,636884
+139,"Buckingham County,Virginia","Fayette County,Ohio",23705,648488
+140,"Buckingham County,Virginia","Franklin County,Ohio",24440,666739
+141,"Buckingham County,Virginia","Fulton County,Ohio",33846,932622
+142,"Buckingham County,Virginia","Gallia County,Ohio",19018,507600
+143,"Buckingham County,Virginia","Geauga County,Ohio",27281,736663
+144,"Buckingham County,Virginia","Greene County,Ohio",24575,681641
+145,"Buckingham County,Virginia","Guernsey County,Ohio",22014,621637
+146,"Buckingham County,Virginia","Hamilton County,Ohio",27530,756115
+147,"Buckingham County,Virginia","Hancock County,Ohio",29933,818145
+148,"Buckingham County,Virginia","Hardin County,Ohio",28915,767831
+149,"Buckingham County,Virginia","Harrison County,Ohio",24834,694667
+150,"Buckingham County,Virginia","Henry County,Ohio",32646,889767
+151,"Buckingham County,Virginia","Highland County,Ohio",24209,636598
+152,"Buckingham County,Virginia","Hocking County,Ohio",21882,592847
+153,"Buckingham County,Virginia","Holmes County,Ohio",25522,706602
+154,"Buckingham County,Virginia","Huron County,Ohio",30045,807522
+155,"Buckingham County,Virginia","Jackson County,Ohio",20196,547149
+156,"Buckingham County,Virginia","Jefferson County,Ohio",23765,577947
+157,"Buckingham County,Virginia","Knox County,Ohio",26252,726194
+158,"Buckingham County,Virginia","Lawrence County,Ohio",19721,513363
+159,"Buckingham County,Virginia","Licking County,Ohio",25385,663894
+160,"Buckingham County,Virginia","Logan County,Ohio",27936,762108
+161,"Buckingham County,Virginia","Lorain County,Ohio",28839,791564
+162,"Buckingham County,Virginia","Lucas County,Ohio",33412,920508
+163,"Buckingham County,Virginia","Madison County,Ohio",25406,671573
+164,"Buckingham County,Virginia","Mahoning County,Ohio",24278,653992
+165,"Buckingham County,Virginia","Marion County,Ohio",27316,735883
+166,"Buckingham County,Virginia","Medina County,Ohio",27538,784036
+167,"Buckingham County,Virginia","Meigs County,Ohio",18961,513154
+168,"Buckingham County,Virginia","Mercer County,Ohio",30890,855635
+169,"Buckingham County,Virginia","Miami County,Ohio",27240,751140
+170,"Buckingham County,Virginia","Monroe County,Ohio",22950,610829
+171,"Buckingham County,Virginia","Montgomery County,Ohio",26609,729096
+172,"Buckingham County,Virginia","Morgan County,Ohio",21956,597476
+173,"Buckingham County,Virginia","Morrow County,Ohio",26717,732611
+174,"Buckingham County,Virginia","Muskingum County,Ohio",22860,649628
+175,"Buckingham County,Virginia","Noble County,Ohio",21456,593989
+176,"Buckingham County,Virginia","Paulding County,Ohio",32941,887907
+177,"Buckingham County,Virginia","Perry County,Ohio",23298,607604
+178,"Buckingham County,Virginia","Pickaway County,Ohio",23145,628587
+179,"Buckingham County,Virginia","Pike County,Ohio",21642,586456
+180,"Buckingham County,Virginia","Portage County,Ohio",26132,710006
+181,"Buckingham County,Virginia","Preble County,Ohio",28228,757674
+182,"Buckingham County,Virginia","Putnam County,Ohio",31527,844360
+183,"Buckingham County,Virginia","Richland County,Ohio",27747,767849
+184,"Buckingham County,Virginia","Ross County,Ohio",21889,594894
+185,"Buckingham County,Virginia","Sandusky County,Ohio",31689,836840
+186,"Buckingham County,Virginia","Scioto County,Ohio",21526,570636
+187,"Buckingham County,Virginia","Seneca County,Ohio",30306,810725
+188,"Buckingham County,Virginia","Shelby County,Ohio",28278,787426
+189,"Buckingham County,Virginia","Stark County,Ohio",25687,727836
+190,"Buckingham County,Virginia","Summit County,Ohio",26446,753624
+191,"Buckingham County,Virginia","Trumbull County,Ohio",25435,691456
+192,"Buckingham County,Virginia","Tuscarawas County,Ohio",23888,668424
+193,"Buckingham County,Virginia","Union County,Ohio",26440,712339
+194,"Buckingham County,Virginia","Van Wert County,Ohio",31638,854871
+195,"Buckingham County,Virginia","Vinton County,Ohio",22091,572654
+196,"Buckingham County,Virginia","Warren County,Ohio",25947,712083
+197,"Buckingham County,Virginia","Washington County,Ohio",20314,551925
+198,"Buckingham County,Virginia","Wayne County,Ohio",26659,730714
+199,"Buckingham County,Virginia","Williams County,Ohio",35017,913839
+200,"Buckingham County,Virginia","Wood County,Ohio",31331,859753
+201,"Buckingham County,Virginia","Wyandot County,Ohio",28903,782281
+202,"Buckingham County,Virginia","Accomack County,Virginia",15543,384595
+203,"Buckingham County,Virginia","Albemarle County,Virginia",4184,78903
+204,"Buckingham County,Virginia","Alleghany County,Virginia",8110,190956
+205,"Buckingham County,Virginia","Amelia County,Virginia",3637,80554
+206,"Buckingham County,Virginia","Amherst County,Virginia",3101,63802
+207,"Buckingham County,Virginia","Appomattox County,Virginia",1641,29658
+208,"Buckingham County,Virginia","Arlington County,Virginia",10455,277716
+209,"Buckingham County,Virginia","Augusta County,Virginia",6222,132530
+210,"Buckingham County,Virginia","Bath County,Virginia",8631,184283
+211,"Buckingham County,Virginia","Bedford County,Virginia",5074,105720
+212,"Buckingham County,Virginia","Bland County,Virginia",11435,290899
+213,"Buckingham County,Virginia","Botetourt County,Virginia",7166,153607
+214,"Buckingham County,Virginia","Brunswick County,Virginia",6180,130227
+215,"Buckingham County,Virginia","Buchanan County,Virginia",17192,425358
+216,"Buckingham County,Virginia","Campbell County,Virginia",3519,69036
+217,"Buckingham County,Virginia","Caroline County,Virginia",7184,175075
+218,"Buckingham County,Virginia","Carroll County,Virginia",11557,296315
+219,"Buckingham County,Virginia","Charles City County,Virginia",6929,156768
+220,"Buckingham County,Virginia","Charlotte County,Virginia",3750,70779
+221,"Buckingham County,Virginia","Chesterfield County,Virginia",5136,115418
+222,"Buckingham County,Virginia","Clarke County,Virginia",10875,278273
+223,"Buckingham County,Virginia","Craig County,Virginia",9404,207298
+224,"Buckingham County,Virginia","Culpeper County,Virginia",7329,144287
+225,"Buckingham County,Virginia","Cumberland County,Virginia",1844,38867
+226,"Buckingham County,Virginia","Dickenson County,Virginia",17902,443535
+227,"Buckingham County,Virginia","Dinwiddie County,Virginia",5410,123615
+228,"Buckingham County,Virginia","Essex County,Virginia",9001,199118
+229,"Buckingham County,Virginia","Fairfax County,Virginia",10752,280945
+230,"Buckingham County,Virginia","Fauquier County,Virginia",8596,181768
+231,"Buckingham County,Virginia","Floyd County,Virginia",9879,212377
+232,"Buckingham County,Virginia","Fluvanna County,Virginia",3211,63957
+233,"Buckingham County,Virginia","Franklin County,Virginia",7346,162449
+234,"Buckingham County,Virginia","Frederick County,Virginia",10327,266000
+235,"Buckingham County,Virginia","Giles County,Virginia",10224,246014
+236,"Buckingham County,Virginia","Gloucester County,Virginia",9303,217163
+237,"Buckingham County,Virginia","Goochland County,Virginia",3869,82299
+238,"Buckingham County,Virginia","Grayson County,Virginia",12889,312495
+239,"Buckingham County,Virginia","Greene County,Virginia",6473,124321
+240,"Buckingham County,Virginia","Greensville County,Virginia",7896,173252
+241,"Buckingham County,Virginia","Halifax County,Virginia",5726,128530
+242,"Buckingham County,Virginia","Hanover County,Virginia",5632,130119
+243,"Buckingham County,Virginia","Henrico County,Virginia",5886,136744
+244,"Buckingham County,Virginia","Henry County,Virginia",8802,199404
+245,"Buckingham County,Virginia","Highland County,Virginia",9424,190269
+246,"Buckingham County,Virginia","Isle of Wight County,Virginia",9245,219915
+247,"Buckingham County,Virginia","James City County,Virginia",8368,203746
+248,"Buckingham County,Virginia","King and Queen County,Virginia",8178,188465
+249,"Buckingham County,Virginia","King George County,Virginia",8297,203061
+250,"Buckingham County,Virginia","King William County,Virginia",6866,158387
+251,"Buckingham County,Virginia","Lancaster County,Virginia",10659,241472
+252,"Buckingham County,Virginia","Lee County,Virginia",18396,475189
+253,"Buckingham County,Virginia","Loudoun County,Virginia",11264,229093
+254,"Buckingham County,Virginia","Louisa County,Virginia",4842,97453
+255,"Buckingham County,Virginia","Lunenburg County,Virginia",4425,95813
+256,"Buckingham County,Virginia","Madison County,Virginia",6588,133888
+257,"Buckingham County,Virginia","Mathews County,Virginia",10127,240587
+258,"Buckingham County,Virginia","Mecklenburg County,Virginia",5774,120260
+259,"Buckingham County,Virginia","Middlesex County,Virginia",8904,213364
+260,"Buckingham County,Virginia","Montgomery County,Virginia",8788,210285
+261,"Buckingham County,Virginia","Nelson County,Virginia",2657,49433
+262,"Buckingham County,Virginia","New Kent County,Virginia",7804,177660
+263,"Buckingham County,Virginia","Northampton County,Virginia",12785,320409
+264,"Buckingham County,Virginia","Northumberland County,Virginia",10698,239985
+265,"Buckingham County,Virginia","Nottoway County,Virginia",3677,82368
+266,"Buckingham County,Virginia","Orange County,Virginia",6346,119559
+267,"Buckingham County,Virginia","Page County,Virginia",8541,200325
+268,"Buckingham County,Virginia","Patrick County,Virginia",10385,238312
+269,"Buckingham County,Virginia","Pittsylvania County,Virginia",6357,143511
+270,"Buckingham County,Virginia","Powhatan County,Virginia",3342,73573
+271,"Buckingham County,Virginia","Prince Edward County,Virginia",2348,48032
+272,"Buckingham County,Virginia","Prince George County,Virginia",6780,159169
+273,"Buckingham County,Virginia","Prince William County,Virginia",9405,197851
+274,"Buckingham County,Virginia","Pulaski County,Virginia",9516,232918
+275,"Buckingham County,Virginia","Rappahannock County,Virginia",8118,168714
+276,"Buckingham County,Virginia","Richmond County,Virginia",9398,212628
+277,"Buckingham County,Virginia","Roanoke County,Virginia",7779,175224
+278,"Buckingham County,Virginia","Rockbridge County,Virginia",6100,118903
+279,"Buckingham County,Virginia","Rockingham County,Virginia",7581,172676
+280,"Buckingham County,Virginia","Russell County,Virginia",16358,408695
+281,"Buckingham County,Virginia","Scott County,Virginia",16969,435918
+282,"Buckingham County,Virginia","Shenandoah County,Virginia",8085,202779
+283,"Buckingham County,Virginia","Smyth County,Virginia",12552,319639
+284,"Buckingham County,Virginia","Southampton County,Virginia",8810,217450
+285,"Buckingham County,Virginia","Spotsylvania County,Virginia",6972,138138
+286,"Buckingham County,Virginia","Stafford County,Virginia",8266,215497
+287,"Buckingham County,Virginia","Surry County,Virginia",8113,184002
+288,"Buckingham County,Virginia","Sussex County,Virginia",7419,168746
+289,"Buckingham County,Virginia","Tazewell County,Virginia",14013,359716
+290,"Buckingham County,Virginia","Warren County,Virginia",9764,203466
+291,"Buckingham County,Virginia","Washington County,Virginia",13945,359106
+292,"Buckingham County,Virginia","Westmoreland County,Virginia",9271,219886
+293,"Buckingham County,Virginia","Wise County,Virginia",17809,450037
+294,"Buckingham County,Virginia","Wythe County,Virginia",10806,271624
+295,"Buckingham County,Virginia","York County,Virginia",9656,234520
+296,"Buckingham County,Virginia","Alexandria City County,Virginia",10426,274765
+297,"Buckingham County,Virginia","Bedford City County,Virginia",4575,100804
+298,"Buckingham County,Virginia","Bristol City County,Virginia",14420,384823
+299,"Buckingham County,Virginia","Buena Vista City County,Virginia",4855,100534
+300,"Buckingham County,Virginia","Charlottesville City County,Virginia",3680,71038
+301,"Buckingham County,Virginia","Chesapeake City County,Virginia",11114,263826
+302,"Buckingham County,Virginia","Clifton Forge City County,Virginia",7012,159774
+303,"Buckingham County,Virginia","Colonial Heights City County,Virginia",5829,138045
+304,"Buckingham County,Virginia","Covington City County,Virginia",7755,178116
+305,"Buckingham County,Virginia","Danville City County,Virginia",6957,159854
+306,"Buckingham County,Virginia","Emporia City County,Virginia",7564,159617
+307,"Buckingham County,Virginia","Fairfax City County,Virginia",10675,225470
+308,"Buckingham County,Virginia","Falls Church City County,Virginia",10633,282014
+309,"Buckingham County,Virginia","Franklin City County,Virginia",9358,225305
+310,"Buckingham County,Virginia","Fredericksburg City County,Virginia",8187,155409
+311,"Buckingham County,Virginia","Galax City County,Virginia",12180,302181
+312,"Buckingham County,Virginia","Hampton City County,Virginia",9606,244227
+313,"Buckingham County,Virginia","Harrisonburg City County,Virginia",6640,152572
+314,"Buckingham County,Virginia","Hopewell City County,Virginia",5866,137012
+315,"Buckingham County,Virginia","Lexington City County,Virginia",5386,109718
+316,"Buckingham County,Virginia","Lynchburg City County,Virginia",3302,64353
+317,"Buckingham County,Virginia","Manassas City County,Virginia",9755,198435
+318,"Buckingham County,Virginia","Manassas Park City County,Virginia",10123,201682
+319,"Buckingham County,Virginia","Martinsville City County,Virginia",7985,175620
+320,"Buckingham County,Virginia","Newport News City County,Virginia",9162,230713
+321,"Buckingham County,Virginia","Norfolk City County,Virginia",10912,269643
+322,"Buckingham County,Virginia","Norton City County,Virginia",17333,440928
+323,"Buckingham County,Virginia","Petersburg City County,Virginia",5701,139033
+324,"Buckingham County,Virginia","Poquoson City County,Virginia",9834,241289
+325,"Buckingham County,Virginia","Portsmouth City County,Virginia",10851,278463
+326,"Buckingham County,Virginia","Radford County,Virginia",9152,220129
+327,"Buckingham County,Virginia","Richmond City County,Virginia",5315,119641
+328,"Buckingham County,Virginia","Roanoke City County,Virginia",6797,146538
+329,"Buckingham County,Virginia","Salem City County,Virginia",7147,165137
+330,"Buckingham County,Virginia","South Boston City County,Virginia",5420,125781
+331,"Buckingham County,Virginia","Staunton City County,Virginia",5528,114253
+332,"Buckingham County,Virginia","Suffolk City County,Virginia",10088,234639
+333,"Buckingham County,Virginia","Virginia Beach City County,Virginia",11473,292901
+334,"Buckingham County,Virginia","Waynesboro City County,Virginia",4764,94442
+335,"Buckingham County,Virginia","Williamsburg City County,Virginia",8207,202962
+336,"Buckingham County,Virginia","Winchester City County,Virginia",10206,262144
+337,"Buckingham County,Virginia","Barbour County,West Virginia",16331,330974
+338,"Buckingham County,Virginia","Berkeley County,West Virginia",11944,309351
+339,"Buckingham County,Virginia","Boone County,West Virginia",16469,390661
+340,"Buckingham County,Virginia","Braxton County,West Virginia",16167,371336
+341,"Buckingham County,Virginia","Brooke County,West Virginia",22071,541497
+342,"Buckingham County,Virginia","Cabell County,West Virginia",18037,486567
+343,"Buckingham County,Virginia","Calhoun County,West Virginia",17938,425287
+344,"Buckingham County,Virginia","Clay County,West Virginia",16202,362120
+345,"Buckingham County,Virginia","Doddridge County,West Virginia",19784,393375
+346,"Buckingham County,Virginia","Fayette County,West Virginia",13591,308859
+347,"Buckingham County,Virginia","Gilmer County,West Virginia",17735,421016
+348,"Buckingham County,Virginia","Grant County,West Virginia",12036,291839
+349,"Buckingham County,Virginia","Greenbrier County,West Virginia",11947,268084
+350,"Buckingham County,Virginia","Hampshire County,West Virginia",12063,280255
+351,"Buckingham County,Virginia","Hancock County,West Virginia",23698,568845
+352,"Buckingham County,Virginia","Hardy County,West Virginia",11284,263168
+353,"Buckingham County,Virginia","Harrison County,West Virginia",18428,395843
+354,"Buckingham County,Virginia","Jackson County,West Virginia",17356,466378
+355,"Buckingham County,Virginia","Jefferson County,West Virginia",11995,296757
+356,"Buckingham County,Virginia","Kanawha County,West Virginia",15119,388360
+357,"Buckingham County,Virginia","Lewis County,West Virginia",17473,363338
+358,"Buckingham County,Virginia","Lincoln County,West Virginia",18701,464245
+359,"Buckingham County,Virginia","Logan County,West Virginia",18260,421151
+360,"Buckingham County,Virginia","McDowell County,West Virginia",16320,366901
+361,"Buckingham County,Virginia","Marion County,West Virginia",19458,428688
+362,"Buckingham County,Virginia","Marshall County,West Virginia",23058,535942
+363,"Buckingham County,Virginia","Mason County,West Virginia",17513,472474
+364,"Buckingham County,Virginia","Mercer County,West Virginia",12397,302191
+365,"Buckingham County,Virginia","Mineral County,West Virginia",13510,303362
+366,"Buckingham County,Virginia","Mingo County,West Virginia",18839,485085
+367,"Buckingham County,Virginia","Monongalia County,West Virginia",17212,416097
+368,"Buckingham County,Virginia","Monroe County,West Virginia",10881,254405
+369,"Buckingham County,Virginia","Morgan County,West Virginia",12190,310477
+370,"Buckingham County,Virginia","Nicholas County,West Virginia",13786,321509
+371,"Buckingham County,Virginia","Ohio County,West Virginia",21978,550444
+372,"Buckingham County,Virginia","Pendleton County,West Virginia",10428,223860
+373,"Buckingham County,Virginia","Pleasants County,West Virginia",20839,564230
+374,"Buckingham County,Virginia","Pocahontas County,West Virginia",12887,251954
+375,"Buckingham County,Virginia","Preston County,West Virginia",16216,370290
+376,"Buckingham County,Virginia","Putnam County,West Virginia",16294,438092
+377,"Buckingham County,Virginia","Raleigh County,West Virginia",12144,313541
+378,"Buckingham County,Virginia","Randolph County,West Virginia",14347,284367
+379,"Buckingham County,Virginia","Ritchie County,West Virginia",20411,467662
+380,"Buckingham County,Virginia","Roane County,West Virginia",18982,495193
+381,"Buckingham County,Virginia","Summers County,West Virginia",12865,293419
+382,"Buckingham County,Virginia","Taylor County,West Virginia",16559,388111
+383,"Buckingham County,Virginia","Tucker County,West Virginia",14696,353486
+384,"Buckingham County,Virginia","Tyler County,West Virginia",22153,464650
+385,"Buckingham County,Virginia","Upshur County,West Virginia",16942,320010
+386,"Buckingham County,Virginia","Wayne County,West Virginia",19628,519194
+387,"Buckingham County,Virginia","Webster County,West Virginia",16538,365997
+388,"Buckingham County,Virginia","Wetzel County,West Virginia",21107,447326
+389,"Buckingham County,Virginia","Wirt County,West Virginia",19622,523716
+390,"Buckingham County,Virginia","Wood County,West Virginia",19137,525405
+391,"Buckingham County,Virginia","Wyoming County,West Virginia",14089,353483

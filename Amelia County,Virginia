@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Amelia County,Virginia","Adair County,Kentucky",31480,806007
+1,"Amelia County,Virginia","Allen County,Kentucky",32876,925816
+2,"Amelia County,Virginia","Anderson County,Kentucky",29100,823279
+3,"Amelia County,Virginia","Ballard County,Kentucky",39780,1161071
+4,"Amelia County,Virginia","Barren County,Kentucky",32665,884762
+5,"Amelia County,Virginia","Bath County,Kentucky",24747,694460
+6,"Amelia County,Virginia","Bell County,Kentucky",23975,607313
+7,"Amelia County,Virginia","Boone County,Kentucky",30560,815853
+8,"Amelia County,Virginia","Bourbon County,Kentucky",26661,740877
+9,"Amelia County,Virginia","Boyd County,Kentucky",21423,588784
+10,"Amelia County,Virginia","Boyle County,Kentucky",30329,827165
+11,"Amelia County,Virginia","Bracken County,Kentucky",27072,734960
+12,"Amelia County,Virginia","Breathitt County,Kentucky",25600,643077
+13,"Amelia County,Virginia","Breckinridge County,Kentucky",34633,975960
+14,"Amelia County,Virginia","Bullitt County,Kentucky",31203,897079
+15,"Amelia County,Virginia","Butler County,Kentucky",35336,996022
+16,"Amelia County,Virginia","Caldwell County,Kentucky",36920,1068885
+17,"Amelia County,Virginia","Calloway County,Kentucky",37621,1092931
+18,"Amelia County,Virginia","Campbell County,Kentucky",28773,774832
+19,"Amelia County,Virginia","Carlisle County,Kentucky",40237,1176440
+20,"Amelia County,Virginia","Carroll County,Kentucky",31645,871093
+21,"Amelia County,Virginia","Carter County,Kentucky",22587,618882
+22,"Amelia County,Virginia","Casey County,Kentucky",31418,779281
+23,"Amelia County,Virginia","Christian County,Kentucky",34514,1013910
+24,"Amelia County,Virginia","Clay County,Kentucky",26547,667655
+25,"Amelia County,Virginia","Clinton County,Kentucky",29923,805221
+26,"Amelia County,Virginia","Crittenden County,Kentucky",38184,1101645
+27,"Amelia County,Virginia","Cumberland County,Kentucky",30803,825890
+28,"Amelia County,Virginia","Daviess County,Kentucky",36321,1044400
+29,"Amelia County,Virginia","Edmonson County,Kentucky",34645,938124
+30,"Amelia County,Virginia","Elliott County,Kentucky",23918,644652
+31,"Amelia County,Virginia","Estill County,Kentucky",27740,756775
+32,"Amelia County,Virginia","Fayette County,Kentucky",26907,760772
+33,"Amelia County,Virginia","Fleming County,Kentucky",25173,697645
+34,"Amelia County,Virginia","Floyd County,Kentucky",24260,620385
+35,"Amelia County,Virginia","Franklin County,Kentucky",28945,809688
+36,"Amelia County,Virginia","Fulton County,Kentucky",40641,1197404
+37,"Amelia County,Virginia","Gallatin County,Kentucky",30642,861752
+38,"Amelia County,Virginia","Garrard County,Kentucky",29512,807925
+39,"Amelia County,Virginia","Grant County,Kentucky",29441,835859
+40,"Amelia County,Virginia","Graves County,Kentucky",39262,1149146
+41,"Amelia County,Virginia","Grayson County,Kentucky",33626,954594
+42,"Amelia County,Virginia","Green County,Kentucky",33232,848171
+43,"Amelia County,Virginia","Greenup County,Kentucky",23198,629911
+44,"Amelia County,Virginia","Hancock County,Kentucky",35429,1008853
+45,"Amelia County,Virginia","Hardin County,Kentucky",32502,916726
+46,"Amelia County,Virginia","Harlan County,Kentucky",23050,583940
+47,"Amelia County,Virginia","Harrison County,Kentucky",28232,773977
+48,"Amelia County,Virginia","Hart County,Kentucky",33301,944355
+49,"Amelia County,Virginia","Henderson County,Kentucky",38128,1096830
+50,"Amelia County,Virginia","Henry County,Kentucky",30546,853406
+51,"Amelia County,Virginia","Hickman County,Kentucky",40271,1177731
+52,"Amelia County,Virginia","Hopkins County,Kentucky",37041,1079162
+53,"Amelia County,Virginia","Jackson County,Kentucky",28419,704074
+54,"Amelia County,Virginia","Jefferson County,Kentucky",30640,868940
+55,"Amelia County,Virginia","Jessamine County,Kentucky",28376,782235
+56,"Amelia County,Virginia","Johnson County,Kentucky",24204,661680
+57,"Amelia County,Virginia","Kenton County,Kentucky",29929,803547
+58,"Amelia County,Virginia","Knott County,Kentucky",23140,585826
+59,"Amelia County,Virginia","Knox County,Kentucky",25305,649306
+60,"Amelia County,Virginia","Larue County,Kentucky",32573,903902
+61,"Amelia County,Virginia","Laurel County,Kentucky",27199,684133
+62,"Amelia County,Virginia","Lawrence County,Kentucky",23346,633104
+63,"Amelia County,Virginia","Lee County,Kentucky",27710,684266
+64,"Amelia County,Virginia","Leslie County,Kentucky",24512,612219
+65,"Amelia County,Virginia","Letcher County,Kentucky",21540,549373
+66,"Amelia County,Virginia","Lewis County,Kentucky",24626,670699
+67,"Amelia County,Virginia","Lincoln County,Kentucky",29888,764529
+68,"Amelia County,Virginia","Livingston County,Kentucky",38111,1115010
+69,"Amelia County,Virginia","Logan County,Kentucky",34946,966811
+70,"Amelia County,Virginia","Lyon County,Kentucky",37868,1092184
+71,"Amelia County,Virginia","McCracken County,Kentucky",38393,1129131
+72,"Amelia County,Virginia","McCreary County,Kentucky",26930,742067
+73,"Amelia County,Virginia","Madison County,Kentucky",27905,771795
+74,"Amelia County,Virginia","Magoffin County,Kentucky",25219,641591
+75,"Amelia County,Virginia","Marion County,Kentucky",30951,865511
+76,"Amelia County,Virginia","Marshall County,Kentucky",37807,1112703
+77,"Amelia County,Virginia","Martin County,Kentucky",24460,614828
+78,"Amelia County,Virginia","Mason County,Kentucky",26421,714506
+79,"Amelia County,Virginia","Meade County,Kentucky",33100,941255
+80,"Amelia County,Virginia","Menifee County,Kentucky",25864,706523
+81,"Amelia County,Virginia","Mercer County,Kentucky",29328,821222
+82,"Amelia County,Virginia","Metcalfe County,Kentucky",32136,836271
+83,"Amelia County,Virginia","Monroe County,Kentucky",31363,856311
+84,"Amelia County,Virginia","Montgomery County,Kentucky",25560,713000
+85,"Amelia County,Virginia","Morgan County,Kentucky",25642,682239
+86,"Amelia County,Virginia","Muhlenberg County,Kentucky",36509,1044847
+87,"Amelia County,Virginia","Nelson County,Kentucky",30559,864583
+88,"Amelia County,Virginia","Nicholas County,Kentucky",27238,740884
+89,"Amelia County,Virginia","Ohio County,Kentucky",35422,1012437
+90,"Amelia County,Virginia","Oldham County,Kentucky",30711,880821
+91,"Amelia County,Virginia","Owen County,Kentucky",29767,836465
+92,"Amelia County,Virginia","Owsley County,Kentucky",27737,680951
+93,"Amelia County,Virginia","Pendleton County,Kentucky",29010,775884
+94,"Amelia County,Virginia","Perry County,Kentucky",24113,606249
+95,"Amelia County,Virginia","Pike County,Kentucky",22635,554899
+96,"Amelia County,Virginia","Powell County,Kentucky",27004,742746
+97,"Amelia County,Virginia","Robertson County,Kentucky",27156,740390
+98,"Amelia County,Virginia","Rockcastle County,Kentucky",28370,726128
+99,"Amelia County,Virginia","Rowan County,Kentucky",23890,666667
+100,"Amelia County,Virginia","Russell County,Kentucky",31084,789990
+101,"Amelia County,Virginia","Scott County,Kentucky",27741,788798
+102,"Amelia County,Virginia","Shelby County,Kentucky",29569,840075
+103,"Amelia County,Virginia","Simpson County,Kentucky",33913,942786
+104,"Amelia County,Virginia","Spencer County,Kentucky",30098,845922
+105,"Amelia County,Virginia","Taylor County,Kentucky",32241,897007
+106,"Amelia County,Virginia","Todd County,Kentucky",34930,1006857
+107,"Amelia County,Virginia","Trigg County,Kentucky",35421,1031269
+108,"Amelia County,Virginia","Trimble County,Kentucky",31785,886861
+109,"Amelia County,Virginia","Union County,Kentucky",39691,1143403
+110,"Amelia County,Virginia","Warren County,Kentucky",34338,965454
+111,"Amelia County,Virginia","Washington County,Kentucky",30569,849819
+112,"Amelia County,Virginia","Wayne County,Kentucky",29434,789198
+113,"Amelia County,Virginia","Webster County,Kentucky",38150,1107251
+114,"Amelia County,Virginia","Whitley County,Kentucky",25533,726830
+115,"Amelia County,Virginia","Wolfe County,Kentucky",26737,705601
+116,"Amelia County,Virginia","Woodford County,Kentucky",27961,791434
+117,"Amelia County,Virginia","Adams County,Ohio",26513,717062
+118,"Amelia County,Virginia","Allen County,Ohio",33246,892480
+119,"Amelia County,Virginia","Ashland County,Ohio",30029,856359
+120,"Amelia County,Virginia","Ashtabula County,Ohio",28027,810829
+121,"Amelia County,Virginia","Athens County,Ohio",22922,622661
+122,"Amelia County,Virginia","Auglaize County,Ohio",32496,909180
+123,"Amelia County,Virginia","Belmont County,Ohio",24597,707124
+124,"Amelia County,Virginia","Brown County,Ohio",27758,743990
+125,"Amelia County,Virginia","Butler County,Ohio",30871,826015
+126,"Amelia County,Virginia","Carroll County,Ohio",26543,723050
+127,"Amelia County,Virginia","Champaign County,Ohio",29800,811277
+128,"Amelia County,Virginia","Clark County,Ohio",28479,770821
+129,"Amelia County,Virginia","Clermont County,Ohio",28592,775086
+130,"Amelia County,Virginia","Clinton County,Ohio",27983,758503
+131,"Amelia County,Virginia","Columbiana County,Ohio",25329,705067
+132,"Amelia County,Virginia","Coshocton County,Ohio",27306,764196
+133,"Amelia County,Virginia","Crawford County,Ohio",31598,857531
+134,"Amelia County,Virginia","Cuyahoga County,Ohio",28023,808672
+135,"Amelia County,Virginia","Darke County,Ohio",31593,866226
+136,"Amelia County,Virginia","Defiance County,Ohio",36341,1057636
+137,"Amelia County,Virginia","Delaware County,Ohio",28752,790268
+138,"Amelia County,Virginia","Fairfield County,Ohio",26282,717362
+139,"Amelia County,Virginia","Fayette County,Ohio",26547,728966
+140,"Amelia County,Virginia","Franklin County,Ohio",27282,747217
+141,"Amelia County,Virginia","Fulton County,Ohio",34694,1014487
+142,"Amelia County,Virginia","Gallia County,Ohio",21860,588078
+143,"Amelia County,Virginia","Geauga County,Ohio",27516,783491
+144,"Amelia County,Virginia","Greene County,Ohio",27417,762119
+145,"Amelia County,Virginia","Guernsey County,Ohio",24856,702115
+146,"Amelia County,Virginia","Hamilton County,Ohio",30372,836593
+147,"Amelia County,Virginia","Hancock County,Ohio",32775,898623
+148,"Amelia County,Virginia","Hardin County,Ohio",31757,848309
+149,"Amelia County,Virginia","Harrison County,Ohio",25757,725267
+150,"Amelia County,Virginia","Henry County,Ohio",35148,1004254
+151,"Amelia County,Virginia","Highland County,Ohio",27051,717076
+152,"Amelia County,Virginia","Hocking County,Ohio",24724,673325
+153,"Amelia County,Virginia","Holmes County,Ohio",28364,787080
+154,"Amelia County,Virginia","Huron County,Ohio",31306,885965
+155,"Amelia County,Virginia","Jackson County,Ohio",23037,627627
+156,"Amelia County,Virginia","Jefferson County,Ohio",24499,686541
+157,"Amelia County,Virginia","Knox County,Ohio",29094,806672
+158,"Amelia County,Virginia","Lawrence County,Ohio",22562,593841
+159,"Amelia County,Virginia","Licking County,Ohio",28227,744372
+160,"Amelia County,Virginia","Logan County,Ohio",30777,842586
+161,"Amelia County,Virginia","Lorain County,Ohio",29075,838393
+162,"Amelia County,Virginia","Lucas County,Ohio",33648,967337
+163,"Amelia County,Virginia","Madison County,Ohio",28248,752051
+164,"Amelia County,Virginia","Mahoning County,Ohio",24513,700821
+165,"Amelia County,Virginia","Marion County,Ohio",30158,816361
+166,"Amelia County,Virginia","Medina County,Ohio",28662,823479
+167,"Amelia County,Virginia","Meigs County,Ohio",21802,593632
+168,"Amelia County,Virginia","Mercer County,Ohio",33731,936113
+169,"Amelia County,Virginia","Miami County,Ohio",30082,831618
+170,"Amelia County,Virginia","Monroe County,Ohio",25792,691307
+171,"Amelia County,Virginia","Montgomery County,Ohio",29451,809574
+172,"Amelia County,Virginia","Morgan County,Ohio",24797,677954
+173,"Amelia County,Virginia","Morrow County,Ohio",29559,813089
+174,"Amelia County,Virginia","Muskingum County,Ohio",25702,730106
+175,"Amelia County,Virginia","Noble County,Ohio",24298,674467
+176,"Amelia County,Virginia","Paulding County,Ohio",35783,968385
+177,"Amelia County,Virginia","Perry County,Ohio",26140,688082
+178,"Amelia County,Virginia","Pickaway County,Ohio",25987,709065
+179,"Amelia County,Virginia","Pike County,Ohio",24483,666934
+180,"Amelia County,Virginia","Portage County,Ohio",26368,756834
+181,"Amelia County,Virginia","Preble County,Ohio",31070,838152
+182,"Amelia County,Virginia","Putnam County,Ohio",34369,924838
+183,"Amelia County,Virginia","Richland County,Ohio",30589,848328
+184,"Amelia County,Virginia","Ross County,Ohio",24731,675372
+185,"Amelia County,Virginia","Sandusky County,Ohio",31936,925912
+186,"Amelia County,Virginia","Scioto County,Ohio",24368,651114
+187,"Amelia County,Virginia","Seneca County,Ohio",32667,935584
+188,"Amelia County,Virginia","Shelby County,Ohio",31120,867904
+189,"Amelia County,Virginia","Stark County,Ohio",27148,752967
+190,"Amelia County,Virginia","Summit County,Ohio",27426,782649
+191,"Amelia County,Virginia","Trumbull County,Ohio",25671,738285
+192,"Amelia County,Virginia","Tuscarawas County,Ohio",26730,748902
+193,"Amelia County,Virginia","Union County,Ohio",29281,792817
+194,"Amelia County,Virginia","Van Wert County,Ohio",34480,935349
+195,"Amelia County,Virginia","Vinton County,Ohio",24933,653132
+196,"Amelia County,Virginia","Warren County,Ohio",28789,792561
+197,"Amelia County,Virginia","Washington County,Ohio",23156,632403
+198,"Amelia County,Virginia","Wayne County,Ohio",29501,811192
+199,"Amelia County,Virginia","Williams County,Ohio",35939,1045944
+200,"Amelia County,Virginia","Wood County,Ohio",33833,974240
+201,"Amelia County,Virginia","Wyandot County,Ohio",31744,862759
+202,"Amelia County,Virginia","Accomack County,Virginia",13349,334321
+203,"Amelia County,Virginia","Albemarle County,Virginia",5877,137071
+204,"Amelia County,Virginia","Alleghany County,Virginia",10952,271434
+205,"Amelia County,Virginia","Amherst County,Virginia",5809,142573
+206,"Amelia County,Virginia","Appomattox County,Virginia",3907,95596
+207,"Amelia County,Virginia","Arlington County,Virginia",8516,229314
+208,"Amelia County,Virginia","Augusta County,Virginia",8131,199705
+209,"Amelia County,Virginia","Bath County,Virginia",11105,265365
+210,"Amelia County,Virginia","Bedford County,Virginia",6880,161452
+211,"Amelia County,Virginia","Bland County,Virginia",13242,346631
+212,"Amelia County,Virginia","Botetourt County,Virginia",9247,207816
+213,"Amelia County,Virginia","Brunswick County,Virginia",4251,86384
+214,"Amelia County,Virginia","Buchanan County,Virginia",18998,481089
+215,"Amelia County,Virginia","Buckingham County,Virginia",3637,79211
+216,"Amelia County,Virginia","Campbell County,Virginia",5325,124767
+217,"Amelia County,Virginia","Caroline County,Virginia",5245,126673
+218,"Amelia County,Virginia","Carroll County,Virginia",13363,352047
+219,"Amelia County,Virginia","Charles City County,Virginia",4619,102340
+220,"Amelia County,Virginia","Charlotte County,Virginia",3511,79806
+221,"Amelia County,Virginia","Chesterfield County,Virginia",2106,39029
+222,"Amelia County,Virginia","Clarke County,Virginia",11196,271789
+223,"Amelia County,Virginia","Craig County,Virginia",11210,263030
+224,"Amelia County,Virginia","Culpeper County,Virginia",7512,151802
+225,"Amelia County,Virginia","Cumberland County,Virginia",2272,43637
+226,"Amelia County,Virginia","Dickenson County,Virginia",19708,499267
+227,"Amelia County,Virginia","Dinwiddie County,Virginia",2814,62841
+228,"Amelia County,Virginia","Essex County,Virginia",7111,151101
+229,"Amelia County,Virginia","Fairfax County,Virginia",8813,232543
+230,"Amelia County,Virginia","Fauquier County,Virginia",8509,212556
+231,"Amelia County,Virginia","Floyd County,Virginia",11685,268109
+232,"Amelia County,Virginia","Fluvanna County,Virginia",4536,87902
+233,"Amelia County,Virginia","Franklin County,Virginia",9179,203152
+234,"Amelia County,Virginia","Frederick County,Virginia",11751,304852
+235,"Amelia County,Virginia","Giles County,Virginia",12030,301746
+236,"Amelia County,Virginia","Gloucester County,Virginia",7109,166889
+237,"Amelia County,Virginia","Goochland County,Virginia",3255,61181
+238,"Amelia County,Virginia","Grayson County,Virginia",14695,368227
+239,"Amelia County,Virginia","Greene County,Virginia",7598,155106
+240,"Amelia County,Virginia","Greensville County,Virginia",5396,120017
+241,"Amelia County,Virginia","Halifax County,Virginia",5144,122951
+242,"Amelia County,Virginia","Hanover County,Virginia",3730,77632
+243,"Amelia County,Virginia","Henrico County,Virginia",3576,82316
+244,"Amelia County,Virginia","Henry County,Virginia",9634,239228
+245,"Amelia County,Virginia","Highland County,Virginia",11333,257444
+246,"Amelia County,Virginia","Isle of Wight County,Virginia",6862,146974
+247,"Amelia County,Virginia","James City County,Virginia",6174,153471
+248,"Amelia County,Virginia","King and Queen County,Virginia",6288,140448
+249,"Amelia County,Virginia","King George County,Virginia",6358,154659
+250,"Amelia County,Virginia","King William County,Virginia",4975,110370
+251,"Amelia County,Virginia","Lancaster County,Virginia",8768,193455
+252,"Amelia County,Virginia","Lee County,Virginia",20203,530921
+253,"Amelia County,Virginia","Loudoun County,Virginia",10779,285788
+254,"Amelia County,Virginia","Louisa County,Virginia",4576,93517
+255,"Amelia County,Virginia","Lunenburg County,Virginia",3061,63655
+256,"Amelia County,Virginia","Madison County,Virginia",7512,155138
+257,"Amelia County,Virginia","Mathews County,Virginia",7934,190312
+258,"Amelia County,Virginia","Mecklenburg County,Virginia",5167,105336
+259,"Amelia County,Virginia","Middlesex County,Virginia",6710,163089
+260,"Amelia County,Virginia","Montgomery County,Virginia",10595,266017
+261,"Amelia County,Virginia","Nelson County,Virginia",5862,117253
+262,"Amelia County,Virginia","New Kent County,Virginia",5610,127385
+263,"Amelia County,Virginia","Northampton County,Virginia",10591,270135
+264,"Amelia County,Virginia","Northumberland County,Virginia",8808,191968
+265,"Amelia County,Virginia","Nottoway County,Virginia",1677,29815
+266,"Amelia County,Virginia","Orange County,Virginia",6157,121562
+267,"Amelia County,Virginia","Page County,Virginia",9872,206790
+268,"Amelia County,Virginia","Patrick County,Virginia",11217,278135
+269,"Amelia County,Virginia","Pittsylvania County,Virginia",7710,183233
+270,"Amelia County,Virginia","Powhatan County,Virginia",2119,38870
+271,"Amelia County,Virginia","Prince Edward County,Virginia",2389,52923
+272,"Amelia County,Virginia","Prince George County,Virginia",4397,86227
+273,"Amelia County,Virginia","Prince William County,Virginia",8972,222392
+274,"Amelia County,Virginia","Pulaski County,Virginia",11322,288650
+275,"Amelia County,Virginia","Rappahannock County,Virginia",9086,181379
+276,"Amelia County,Virginia","Richmond County,Virginia",7508,164611
+277,"Amelia County,Virginia","Roanoke County,Virginia",9586,230956
+278,"Amelia County,Virginia","Rockbridge County,Virginia",8942,199381
+279,"Amelia County,Virginia","Rockingham County,Virginia",9489,239851
+280,"Amelia County,Virginia","Russell County,Virginia",18164,464426
+281,"Amelia County,Virginia","Scott County,Virginia",18776,491650
+282,"Amelia County,Virginia","Shenandoah County,Virginia",9994,269955
+283,"Amelia County,Virginia","Smyth County,Virginia",14358,375371
+284,"Amelia County,Virginia","Southampton County,Virginia",6427,144509
+285,"Amelia County,Virginia","Spotsylvania County,Virginia",6255,149623
+286,"Amelia County,Virginia","Stafford County,Virginia",6327,167095
+287,"Amelia County,Virginia","Surry County,Virginia",5743,123312
+288,"Amelia County,Virginia","Sussex County,Virginia",4823,107972
+289,"Amelia County,Virginia","Tazewell County,Virginia",15819,415448
+290,"Amelia County,Virginia","Warren County,Virginia",10719,225431
+291,"Amelia County,Virginia","Washington County,Virginia",15752,414837
+292,"Amelia County,Virginia","Westmoreland County,Virginia",7332,171484
+293,"Amelia County,Virginia","Wise County,Virginia",19615,505769
+294,"Amelia County,Virginia","Wythe County,Virginia",12613,327356
+295,"Amelia County,Virginia","York County,Virginia",7462,184246
+296,"Amelia County,Virginia","Alexandria City County,Virginia",8487,226362
+297,"Amelia County,Virginia","Bedford City County,Virginia",6382,156536
+298,"Amelia County,Virginia","Bristol City County,Virginia",16227,440555
+299,"Amelia County,Virginia","Buena Vista City County,Virginia",7697,181012
+300,"Amelia County,Virginia","Charlottesville City County,Virginia",5428,122478
+301,"Amelia County,Virginia","Chesapeake City County,Virginia",8731,190884
+302,"Amelia County,Virginia","Clifton Forge City County,Virginia",9854,240252
+303,"Amelia County,Virginia","Colonial Heights City County,Virginia",3106,57555
+304,"Amelia County,Virginia","Covington City County,Virginia",10597,258594
+305,"Amelia County,Virginia","Danville City County,Virginia",7091,170202
+306,"Amelia County,Virginia","Emporia City County,Virginia",5064,106381
+307,"Amelia County,Virginia","Fairfax City County,Virginia",8747,221326
+308,"Amelia County,Virginia","Falls Church City County,Virginia",8694,233612
+309,"Amelia County,Virginia","Franklin City County,Virginia",6975,152363
+310,"Amelia County,Virginia","Fredericksburg City County,Virginia",6126,153030
+311,"Amelia County,Virginia","Galax City County,Virginia",13987,357913
+312,"Amelia County,Virginia","Hampton City County,Virginia",7412,193952
+313,"Amelia County,Virginia","Harrisonburg City County,Virginia",8549,219747
+314,"Amelia County,Virginia","Hopewell City County,Virginia",3496,76321
+315,"Amelia County,Virginia","Lexington City County,Virginia",8228,190196
+316,"Amelia County,Virginia","Lynchburg City County,Virginia",5108,120084
+317,"Amelia County,Virginia","Manassas City County,Virginia",8715,219729
+318,"Amelia County,Virginia","Manassas Park City County,Virginia",8936,216928
+319,"Amelia County,Virginia","Martinsville City County,Virginia",9231,223206
+320,"Amelia County,Virginia","Newport News City County,Virginia",6969,180438
+321,"Amelia County,Virginia","Norfolk City County,Virginia",8683,189744
+322,"Amelia County,Virginia","Norton City County,Virginia",19139,496659
+323,"Amelia County,Virginia","Petersburg City County,Virginia",3363,58972
+324,"Amelia County,Virginia","Poquoson City County,Virginia",7640,191015
+325,"Amelia County,Virginia","Portsmouth City County,Virginia",8602,187280
+326,"Amelia County,Virginia","Radford County,Virginia",10958,275861
+327,"Amelia County,Virginia","Richmond City County,Virginia",3222,67245
+328,"Amelia County,Virginia","Roanoke City County,Virginia",8603,202270
+329,"Amelia County,Virginia","Salem City County,Virginia",8954,220869
+330,"Amelia County,Virginia","South Boston City County,Virginia",4838,120202
+331,"Amelia County,Virginia","Staunton City County,Virginia",7437,181428
+332,"Amelia County,Virginia","Suffolk City County,Virginia",7705,161698
+333,"Amelia County,Virginia","Virginia Beach City County,Virginia",9279,242626
+334,"Amelia County,Virginia","Waynesboro City County,Virginia",6713,163426
+335,"Amelia County,Virginia","Williamsburg City County,Virginia",6013,152687
+336,"Amelia County,Virginia","Winchester City County,Virginia",11573,278599
+337,"Amelia County,Virginia","Barbour County,West Virginia",18240,398149
+338,"Amelia County,Virginia","Berkeley County,West Virginia",13354,328781
+339,"Amelia County,Virginia","Boone County,West Virginia",19311,471139
+340,"Amelia County,Virginia","Braxton County,West Virginia",19009,451814
+341,"Amelia County,Virginia","Brooke County,West Virginia",23804,670024
+342,"Amelia County,Virginia","Cabell County,West Virginia",20879,567045
+343,"Amelia County,Virginia","Calhoun County,West Virginia",20780,505765
+344,"Amelia County,Virginia","Clay County,West Virginia",19044,442598
+345,"Amelia County,Virginia","Doddridge County,West Virginia",21693,460551
+346,"Amelia County,Virginia","Fayette County,West Virginia",16433,389337
+347,"Amelia County,Virginia","Gilmer County,West Virginia",20577,501494
+348,"Amelia County,Virginia","Grant County,West Virginia",13945,359014
+349,"Amelia County,Virginia","Greenbrier County,West Virginia",14788,348562
+350,"Amelia County,Virginia","Hampshire County,West Virginia",13972,347431
+351,"Amelia County,Virginia","Hancock County,West Virginia",24512,677961
+352,"Amelia County,Virginia","Hardy County,West Virginia",13193,330344
+353,"Amelia County,Virginia","Harrison County,West Virginia",20337,463019
+354,"Amelia County,Virginia","Jackson County,West Virginia",20198,546856
+355,"Amelia County,Virginia","Jefferson County,West Virginia",12252,317215
+356,"Amelia County,Virginia","Kanawha County,West Virginia",17961,468838
+357,"Amelia County,Virginia","Lewis County,West Virginia",19382,430514
+358,"Amelia County,Virginia","Lincoln County,West Virginia",21543,544723
+359,"Amelia County,Virginia","Logan County,West Virginia",21102,501629
+360,"Amelia County,Virginia","McDowell County,West Virginia",18126,422633
+361,"Amelia County,Virginia","Marion County,West Virginia",21367,495863
+362,"Amelia County,Virginia","Marshall County,West Virginia",24792,664468
+363,"Amelia County,Virginia","Mason County,West Virginia",20354,552952
+364,"Amelia County,Virginia","Mercer County,West Virginia",14203,357923
+365,"Amelia County,Virginia","Mineral County,West Virginia",15419,370537
+366,"Amelia County,Virginia","Mingo County,West Virginia",21681,565564
+367,"Amelia County,Virginia","Monongalia County,West Virginia",18946,544624
+368,"Amelia County,Virginia","Monroe County,West Virginia",13723,334883
+369,"Amelia County,Virginia","Morgan County,West Virginia",13599,329907
+370,"Amelia County,Virginia","Nicholas County,West Virginia",16628,401987
+371,"Amelia County,Virginia","Ohio County,West Virginia",23711,678970
+372,"Amelia County,Virginia","Pendleton County,West Virginia",12337,291036
+373,"Amelia County,Virginia","Pleasants County,West Virginia",23135,539159
+374,"Amelia County,Virginia","Pocahontas County,West Virginia",14796,319130
+375,"Amelia County,Virginia","Preston County,West Virginia",18125,437465
+376,"Amelia County,Virginia","Putnam County,West Virginia",19136,518570
+377,"Amelia County,Virginia","Raleigh County,West Virginia",14986,394019
+378,"Amelia County,Virginia","Randolph County,West Virginia",16256,351543
+379,"Amelia County,Virginia","Ritchie County,West Virginia",23046,533461
+380,"Amelia County,Virginia","Roane County,West Virginia",21823,575671
+381,"Amelia County,Virginia","Summers County,West Virginia",14938,356042
+382,"Amelia County,Virginia","Taylor County,West Virginia",18468,455286
+383,"Amelia County,Virginia","Tucker County,West Virginia",16605,420661
+384,"Amelia County,Virginia","Tyler County,West Virginia",24062,531826
+385,"Amelia County,Virginia","Upshur County,West Virginia",18851,387185
+386,"Amelia County,Virginia","Wayne County,West Virginia",22470,599672
+387,"Amelia County,Virginia","Webster County,West Virginia",18683,398551
+388,"Amelia County,Virginia","Wetzel County,West Virginia",23016,514501
+389,"Amelia County,Virginia","Wirt County,West Virginia",22464,604194
+390,"Amelia County,Virginia","Wood County,West Virginia",21979,605883
+391,"Amelia County,Virginia","Wyoming County,West Virginia",16931,433961

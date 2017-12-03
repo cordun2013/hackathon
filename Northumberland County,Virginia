@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Northumberland County,Virginia","Adair County,Kentucky",37560,997081
+1,"Northumberland County,Virginia","Allen County,Kentucky",38956,1116891
+2,"Northumberland County,Virginia","Anderson County,Kentucky",33188,959866
+3,"Northumberland County,Virginia","Ballard County,Kentucky",45861,1352146
+4,"Northumberland County,Virginia","Barren County,Kentucky",38746,1075836
+5,"Northumberland County,Virginia","Bath County,Kentucky",28835,831048
+6,"Northumberland County,Virginia","Bell County,Kentucky",30055,798388
+7,"Northumberland County,Virginia","Boone County,Kentucky",34648,952441
+8,"Northumberland County,Virginia","Bourbon County,Kentucky",30749,877465
+9,"Northumberland County,Virginia","Boyd County,Kentucky",25511,725372
+10,"Northumberland County,Virginia","Boyle County,Kentucky",34417,963753
+11,"Northumberland County,Virginia","Bracken County,Kentucky",31160,871548
+12,"Northumberland County,Virginia","Breathitt County,Kentucky",31680,834151
+13,"Northumberland County,Virginia","Breckinridge County,Kentucky",38721,1112548
+14,"Northumberland County,Virginia","Bullitt County,Kentucky",35291,1033667
+15,"Northumberland County,Virginia","Butler County,Kentucky",39386,1134545
+16,"Northumberland County,Virginia","Caldwell County,Kentucky",42278,1240491
+17,"Northumberland County,Virginia","Calloway County,Kentucky",43701,1284005
+18,"Northumberland County,Virginia","Campbell County,Kentucky",32861,911419
+19,"Northumberland County,Virginia","Carlisle County,Kentucky",46318,1367514
+20,"Northumberland County,Virginia","Carroll County,Kentucky",35733,1007681
+21,"Northumberland County,Virginia","Carter County,Kentucky",26675,755469
+22,"Northumberland County,Virginia","Casey County,Kentucky",35912,995258
+23,"Northumberland County,Virginia","Christian County,Kentucky",40594,1204985
+24,"Northumberland County,Virginia","Clay County,Kentucky",32628,858730
+25,"Northumberland County,Virginia","Clinton County,Kentucky",36003,996296
+26,"Northumberland County,Virginia","Crittenden County,Kentucky",43858,1273561
+27,"Northumberland County,Virginia","Cumberland County,Kentucky",36883,1016964
+28,"Northumberland County,Virginia","Daviess County,Kentucky",40409,1180988
+29,"Northumberland County,Virginia","Edmonson County,Kentucky",38826,1122420
+30,"Northumberland County,Virginia","Elliott County,Kentucky",28006,781239
+31,"Northumberland County,Virginia","Estill County,Kentucky",31828,893363
+32,"Northumberland County,Virginia","Fayette County,Kentucky",30995,897359
+33,"Northumberland County,Virginia","Fleming County,Kentucky",29261,834233
+34,"Northumberland County,Virginia","Floyd County,Kentucky",29644,832637
+35,"Northumberland County,Virginia","Franklin County,Kentucky",33033,946276
+36,"Northumberland County,Virginia","Fulton County,Kentucky",46722,1388478
+37,"Northumberland County,Virginia","Gallatin County,Kentucky",34730,998340
+38,"Northumberland County,Virginia","Garrard County,Kentucky",33600,944513
+39,"Northumberland County,Virginia","Grant County,Kentucky",33529,972447
+40,"Northumberland County,Virginia","Graves County,Kentucky",45342,1340220
+41,"Northumberland County,Virginia","Grayson County,Kentucky",37714,1091181
+42,"Northumberland County,Virginia","Green County,Kentucky",37493,1056387
+43,"Northumberland County,Virginia","Greenup County,Kentucky",27286,766498
+44,"Northumberland County,Virginia","Hancock County,Kentucky",39517,1145441
+45,"Northumberland County,Virginia","Hardin County,Kentucky",36590,1053314
+46,"Northumberland County,Virginia","Harlan County,Kentucky",29130,775014
+47,"Northumberland County,Virginia","Harrison County,Kentucky",32320,910565
+48,"Northumberland County,Virginia","Hart County,Kentucky",37389,1080943
+49,"Northumberland County,Virginia","Henderson County,Kentucky",42216,1233418
+50,"Northumberland County,Virginia","Henry County,Kentucky",34634,989994
+51,"Northumberland County,Virginia","Hickman County,Kentucky",46351,1368806
+52,"Northumberland County,Virginia","Hopkins County,Kentucky",41737,1214959
+53,"Northumberland County,Virginia","Jackson County,Kentucky",34500,895149
+54,"Northumberland County,Virginia","Jefferson County,Kentucky",34728,1005528
+55,"Northumberland County,Virginia","Jessamine County,Kentucky",32464,918823
+56,"Northumberland County,Virginia","Johnson County,Kentucky",28292,798268
+57,"Northumberland County,Virginia","Kenton County,Kentucky",34017,940135
+58,"Northumberland County,Virginia","Knott County,Kentucky",29220,776901
+59,"Northumberland County,Virginia","Knox County,Kentucky",31386,840380
+60,"Northumberland County,Virginia","Larue County,Kentucky",36661,1040490
+61,"Northumberland County,Virginia","Laurel County,Kentucky",33280,875207
+62,"Northumberland County,Virginia","Lawrence County,Kentucky",27434,769692
+63,"Northumberland County,Virginia","Lee County,Kentucky",32672,887100
+64,"Northumberland County,Virginia","Leslie County,Kentucky",30593,803293
+65,"Northumberland County,Virginia","Letcher County,Kentucky",27621,740448
+66,"Northumberland County,Virginia","Lewis County,Kentucky",28714,807287
+67,"Northumberland County,Virginia","Lincoln County,Kentucky",34310,961431
+68,"Northumberland County,Virginia","Livingston County,Kentucky",44192,1306085
+69,"Northumberland County,Virginia","Logan County,Kentucky",41027,1157885
+70,"Northumberland County,Virginia","Lyon County,Kentucky",43948,1283259
+71,"Northumberland County,Virginia","McCracken County,Kentucky",44473,1320206
+72,"Northumberland County,Virginia","McCreary County,Kentucky",33010,933142
+73,"Northumberland County,Virginia","Madison County,Kentucky",31993,908382
+74,"Northumberland County,Virginia","Magoffin County,Kentucky",29260,818947
+75,"Northumberland County,Virginia","Marion County,Kentucky",35039,1002099
+76,"Northumberland County,Virginia","Marshall County,Kentucky",43888,1303778
+77,"Northumberland County,Virginia","Martin County,Kentucky",28548,751416
+78,"Northumberland County,Virginia","Mason County,Kentucky",30509,851094
+79,"Northumberland County,Virginia","Meade County,Kentucky",37188,1077842
+80,"Northumberland County,Virginia","Menifee County,Kentucky",29951,843111
+81,"Northumberland County,Virginia","Mercer County,Kentucky",33416,957810
+82,"Northumberland County,Virginia","Metcalfe County,Kentucky",38216,1027346
+83,"Northumberland County,Virginia","Monroe County,Kentucky",37444,1047385
+84,"Northumberland County,Virginia","Montgomery County,Kentucky",29648,849588
+85,"Northumberland County,Virginia","Morgan County,Kentucky",29730,818827
+86,"Northumberland County,Virginia","Muhlenberg County,Kentucky",40597,1181435
+87,"Northumberland County,Virginia","Nelson County,Kentucky",34647,1001171
+88,"Northumberland County,Virginia","Nicholas County,Kentucky",31326,877471
+89,"Northumberland County,Virginia","Ohio County,Kentucky",39510,1149024
+90,"Northumberland County,Virginia","Oldham County,Kentucky",34799,1017409
+91,"Northumberland County,Virginia","Owen County,Kentucky",33855,973053
+92,"Northumberland County,Virginia","Owsley County,Kentucky",33817,872025
+93,"Northumberland County,Virginia","Pendleton County,Kentucky",33098,912472
+94,"Northumberland County,Virginia","Perry County,Kentucky",30194,797324
+95,"Northumberland County,Virginia","Pike County,Kentucky",28744,716662
+96,"Northumberland County,Virginia","Powell County,Kentucky",31092,879334
+97,"Northumberland County,Virginia","Robertson County,Kentucky",31244,876978
+98,"Northumberland County,Virginia","Rockcastle County,Kentucky",33427,949525
+99,"Northumberland County,Virginia","Rowan County,Kentucky",27978,803255
+100,"Northumberland County,Virginia","Russell County,Kentucky",37165,981065
+101,"Northumberland County,Virginia","Scott County,Kentucky",31829,925386
+102,"Northumberland County,Virginia","Shelby County,Kentucky",33657,976662
+103,"Northumberland County,Virginia","Simpson County,Kentucky",39994,1133861
+104,"Northumberland County,Virginia","Spencer County,Kentucky",34186,982510
+105,"Northumberland County,Virginia","Taylor County,Kentucky",36329,1033595
+106,"Northumberland County,Virginia","Todd County,Kentucky",41010,1197932
+107,"Northumberland County,Virginia","Trigg County,Kentucky",41502,1222344
+108,"Northumberland County,Virginia","Trimble County,Kentucky",35873,1023449
+109,"Northumberland County,Virginia","Union County,Kentucky",43935,1263864
+110,"Northumberland County,Virginia","Warren County,Kentucky",39743,1150789
+111,"Northumberland County,Virginia","Washington County,Kentucky",34657,986407
+112,"Northumberland County,Virginia","Wayne County,Kentucky",35514,980272
+113,"Northumberland County,Virginia","Webster County,Kentucky",42846,1243048
+114,"Northumberland County,Virginia","Whitley County,Kentucky",31614,917904
+115,"Northumberland County,Virginia","Wolfe County,Kentucky",30825,842189
+116,"Northumberland County,Virginia","Woodford County,Kentucky",32049,928022
+117,"Northumberland County,Virginia","Adams County,Ohio",30601,853650
+118,"Northumberland County,Virginia","Allen County,Ohio",35592,1010421
+119,"Northumberland County,Virginia","Ashland County,Ohio",30141,837110
+120,"Northumberland County,Virginia","Ashtabula County,Ohio",28138,791580
+121,"Northumberland County,Virginia","Athens County,Ohio",27010,759249
+122,"Northumberland County,Virginia","Auglaize County,Ohio",36088,1031108
+123,"Northumberland County,Virginia","Belmont County,Ohio",24709,687875
+124,"Northumberland County,Virginia","Brown County,Ohio",31846,880578
+125,"Northumberland County,Virginia","Butler County,Ohio",34959,962603
+126,"Northumberland County,Virginia","Carroll County,Ohio",26654,703801
+127,"Northumberland County,Virginia","Champaign County,Ohio",33831,946002
+128,"Northumberland County,Virginia","Clark County,Ohio",32567,907409
+129,"Northumberland County,Virginia","Clermont County,Ohio",32680,911674
+130,"Northumberland County,Virginia","Clinton County,Ohio",32071,895090
+131,"Northumberland County,Virginia","Columbiana County,Ohio",25441,685818
+132,"Northumberland County,Virginia","Coshocton County,Ohio",29066,813325
+133,"Northumberland County,Virginia","Crawford County,Ohio",32050,908304
+134,"Northumberland County,Virginia","Cuyahoga County,Ohio",28134,789424
+135,"Northumberland County,Virginia","Darke County,Ohio",35681,1002814
+136,"Northumberland County,Virginia","Defiance County,Ohio",36453,1038387
+137,"Northumberland County,Virginia","Delaware County,Ohio",31985,912322
+138,"Northumberland County,Virginia","Fairfield County,Ohio",30080,849108
+139,"Northumberland County,Virginia","Fayette County,Ohio",30635,865554
+140,"Northumberland County,Virginia","Franklin County,Ohio",30681,876209
+141,"Northumberland County,Virginia","Fulton County,Ohio",34805,995238
+142,"Northumberland County,Virginia","Gallia County,Ohio",25948,724666
+143,"Northumberland County,Virginia","Geauga County,Ohio",27628,764242
+144,"Northumberland County,Virginia","Greene County,Ohio",31505,898707
+145,"Northumberland County,Virginia","Guernsey County,Ohio",26612,751384
+146,"Northumberland County,Virginia","Hamilton County,Ohio",34460,973181
+147,"Northumberland County,Virginia","Hancock County,Ohio",34080,970385
+148,"Northumberland County,Virginia","Hardin County,Ohio",34736,972976
+149,"Northumberland County,Virginia","Harrison County,Ohio",25868,706018
+150,"Northumberland County,Virginia","Henry County,Ohio",35259,985005
+151,"Northumberland County,Virginia","Highland County,Ohio",31139,853664
+152,"Northumberland County,Virginia","Hocking County,Ohio",28812,809913
+153,"Northumberland County,Virginia","Holmes County,Ohio",29808,788095
+154,"Northumberland County,Virginia","Huron County,Ohio",31418,866716
+155,"Northumberland County,Virginia","Jackson County,Ohio",27125,764215
+156,"Northumberland County,Virginia","Jefferson County,Ohio",24610,667292
+157,"Northumberland County,Virginia","Knox County,Ohio",30854,855801
+158,"Northumberland County,Virginia","Lawrence County,Ohio",26650,730429
+159,"Northumberland County,Virginia","Licking County,Ohio",30240,836872
+160,"Northumberland County,Virginia","Logan County,Ohio",34006,977521
+161,"Northumberland County,Virginia","Lorain County,Ohio",29186,819144
+162,"Northumberland County,Virginia","Lucas County,Ohio",33759,948088
+163,"Northumberland County,Virginia","Madison County,Ohio",31958,910930
+164,"Northumberland County,Virginia","Mahoning County,Ohio",24625,681572
+165,"Northumberland County,Virginia","Marion County,Ohio",33078,925288
+166,"Northumberland County,Virginia","Medina County,Ohio",28773,804230
+167,"Northumberland County,Virginia","Meigs County,Ohio",25890,730220
+168,"Northumberland County,Virginia","Mercer County,Ohio",37324,1058041
+169,"Northumberland County,Virginia","Miami County,Ohio",34170,968206
+170,"Northumberland County,Virginia","Monroe County,Ohio",27141,734558
+171,"Northumberland County,Virginia","Montgomery County,Ohio",33539,946162
+172,"Northumberland County,Virginia","Morgan County,Ohio",28244,775163
+173,"Northumberland County,Virginia","Morrow County,Ohio",31779,898563
+174,"Northumberland County,Virginia","Muskingum County,Ohio",27458,779376
+175,"Northumberland County,Virginia","Noble County,Ohio",27724,772690
+176,"Northumberland County,Virginia","Paulding County,Ohio",37658,1074375
+177,"Northumberland County,Virginia","Perry County,Ohio",29557,827318
+178,"Northumberland County,Virginia","Pickaway County,Ohio",30075,845653
+179,"Northumberland County,Virginia","Pike County,Ohio",28571,803522
+180,"Northumberland County,Virginia","Portage County,Ohio",26479,737585
+181,"Northumberland County,Virginia","Preble County,Ohio",35158,974740
+182,"Northumberland County,Virginia","Putnam County,Ohio",36278,1030191
+183,"Northumberland County,Virginia","Richland County,Ohio",30697,858538
+184,"Northumberland County,Virginia","Ross County,Ohio",28819,811959
+185,"Northumberland County,Virginia","Sandusky County,Ohio",32047,906663
+186,"Northumberland County,Virginia","Scioto County,Ohio",28455,787702
+187,"Northumberland County,Virginia","Seneca County,Ohio",32778,916335
+188,"Northumberland County,Virginia","Shelby County,Ohio",35208,1004492
+189,"Northumberland County,Virginia","Stark County,Ohio",27259,733718
+190,"Northumberland County,Virginia","Summit County,Ohio",27537,763400
+191,"Northumberland County,Virginia","Trumbull County,Ohio",25782,719036
+192,"Northumberland County,Virginia","Tuscarawas County,Ohio",27377,737302
+193,"Northumberland County,Virginia","Union County,Ohio",32510,927752
+194,"Northumberland County,Virginia","Van Wert County,Ohio",36389,1040703
+195,"Northumberland County,Virginia","Vinton County,Ohio",29021,789720
+196,"Northumberland County,Virginia","Warren County,Ohio",32877,929149
+197,"Northumberland County,Virginia","Washington County,Ohio",26582,730626
+198,"Northumberland County,Virginia","Wayne County,Ohio",29879,823040
+199,"Northumberland County,Virginia","Williams County,Ohio",36050,1026695
+200,"Northumberland County,Virginia","Wood County,Ohio",33945,954991
+201,"Northumberland County,Virginia","Wyandot County,Ohio",33050,934521
+202,"Northumberland County,Virginia","Accomack County,Virginia",12770,269885
+203,"Northumberland County,Virginia","Albemarle County,Virginia",9530,239081
+204,"Northumberland County,Virginia","Alleghany County,Virginia",15040,408021
+205,"Northumberland County,Virginia","Amelia County,Virginia",8699,189503
+206,"Northumberland County,Virginia","Amherst County,Virginia",12323,308827
+207,"Northumberland County,Virginia","Appomattox County,Virginia",11748,272201
+208,"Northumberland County,Virginia","Arlington County,Virginia",8627,210065
+209,"Northumberland County,Virginia","Augusta County,Virginia",11784,301715
+210,"Northumberland County,Virginia","Bath County,Virginia",14758,367375
+211,"Northumberland County,Virginia","Bedford County,Virginia",14807,372230
+212,"Northumberland County,Virginia","Bland County,Virginia",19322,537705
+213,"Northumberland County,Virginia","Botetourt County,Virginia",14347,378958
+214,"Northumberland County,Virginia","Brunswick County,Virginia",9756,236198
+215,"Northumberland County,Virginia","Buchanan County,Virginia",25079,672164
+216,"Northumberland County,Virginia","Buckingham County,Virginia",10590,244178
+217,"Northumberland County,Virginia","Campbell County,Virginia",13379,309060
+218,"Northumberland County,Virginia","Caroline County,Virginia",4774,109991
+219,"Northumberland County,Virginia","Carroll County,Virginia",19444,543122
+220,"Northumberland County,Virginia","Charles City County,Virginia",6147,126831
+221,"Northumberland County,Virginia","Charlotte County,Virginia",11565,264099
+222,"Northumberland County,Virginia","Chesterfield County,Virginia",7399,155056
+223,"Northumberland County,Virginia","Clarke County,Virginia",11307,252540
+224,"Northumberland County,Virginia","Craig County,Virginia",17188,435285
+225,"Northumberland County,Virginia","Culpeper County,Virginia",8577,178208
+226,"Northumberland County,Virginia","Cumberland County,Virginia",9023,209131
+227,"Northumberland County,Virginia","Dickenson County,Virginia",25788,690342
+228,"Northumberland County,Virginia","Dinwiddie County,Virginia",8394,196165
+229,"Northumberland County,Virginia","Essex County,Virginia",3084,60481
+230,"Northumberland County,Virginia","Fairfax County,Virginia",8924,213294
+231,"Northumberland County,Virginia","Fauquier County,Virginia",8620,193307
+232,"Northumberland County,Virginia","Floyd County,Virginia",17970,484669
+233,"Northumberland County,Virginia","Fluvanna County,Virginia",8731,202652
+234,"Northumberland County,Virginia","Franklin County,Virginia",17233,387444
+235,"Northumberland County,Virginia","Frederick County,Virginia",11863,285603
+236,"Northumberland County,Virginia","Giles County,Virginia",18111,492821
+237,"Northumberland County,Virginia","Gloucester County,Virginia",4056,77251
+238,"Northumberland County,Virginia","Goochland County,Virginia",7461,171939
+239,"Northumberland County,Virginia","Grayson County,Virginia",20776,559301
+240,"Northumberland County,Virginia","Greene County,Virginia",11075,225203
+241,"Northumberland County,Virginia","Greensville County,Virginia",9427,238107
+242,"Northumberland County,Virginia","Halifax County,Virginia",13198,307243
+243,"Northumberland County,Virginia","Hanover County,Virginia",5533,115517
+244,"Northumberland County,Virginia","Henrico County,Virginia",5886,119351
+245,"Northumberland County,Virginia","Henry County,Virginia",17688,423520
+246,"Northumberland County,Virginia","Highland County,Virginia",14986,359454
+247,"Northumberland County,Virginia","Isle of Wight County,Virginia",8389,155076
+248,"Northumberland County,Virginia","James City County,Virginia",6164,119204
+249,"Northumberland County,Virginia","King and Queen County,Virginia",3850,76113
+250,"Northumberland County,Virginia","King George County,Virginia",4179,88261
+251,"Northumberland County,Virginia","King William County,Virginia",4067,84633
+252,"Northumberland County,Virginia","Lancaster County,Virginia",1590,28775
+253,"Northumberland County,Virginia","Lee County,Virginia",26283,721996
+254,"Northumberland County,Virginia","Loudoun County,Virginia",10891,266539
+255,"Northumberland County,Virginia","Louisa County,Virginia",8229,195527
+256,"Northumberland County,Virginia","Lunenburg County,Virginia",11115,247947
+257,"Northumberland County,Virginia","Madison County,Virginia",9479,204606
+258,"Northumberland County,Virginia","Mathews County,Virginia",4148,79052
+259,"Northumberland County,Virginia","Mecklenburg County,Virginia",11483,284469
+260,"Northumberland County,Virginia","Middlesex County,Virginia",2751,53587
+261,"Northumberland County,Virginia","Montgomery County,Virginia",16675,457091
+262,"Northumberland County,Virginia","Nelson County,Virginia",10769,276422
+263,"Northumberland County,Virginia","New Kent County,Virginia",5535,101670
+264,"Northumberland County,Virginia","Northampton County,Virginia",10013,205699
+265,"Northumberland County,Virginia","Nottoway County,Virginia",9329,224690
+266,"Northumberland County,Virginia","Orange County,Virginia",8172,170926
+267,"Northumberland County,Virginia","Page County,Virginia",11462,235913
+268,"Northumberland County,Virginia","Patrick County,Virginia",19271,462428
+269,"Northumberland County,Virginia","Pittsylvania County,Virginia",15764,367526
+270,"Northumberland County,Virginia","Powhatan County,Virginia",7487,169546
+271,"Northumberland County,Virginia","Prince Edward County,Virginia",10443,237216
+272,"Northumberland County,Virginia","Prince George County,Virginia",7611,172227
+273,"Northumberland County,Virginia","Prince William County,Virginia",9084,203143
+274,"Northumberland County,Virginia","Pulaski County,Virginia",17402,479725
+275,"Northumberland County,Virginia","Rappahannock County,Virginia",10060,221307
+276,"Northumberland County,Virginia","Richmond County,Virginia",1922,33826
+277,"Northumberland County,Virginia","Roanoke County,Virginia",15666,422030
+278,"Northumberland County,Virginia","Rockbridge County,Virginia",13089,344967
+279,"Northumberland County,Virginia","Rockingham County,Virginia",13142,341861
+280,"Northumberland County,Virginia","Russell County,Virginia",24245,655501
+281,"Northumberland County,Virginia","Scott County,Virginia",24856,682724
+282,"Northumberland County,Virginia","Shenandoah County,Virginia",11799,290712
+283,"Northumberland County,Virginia","Smyth County,Virginia",20439,566446
+284,"Northumberland County,Virginia","Southampton County,Virginia",9805,234221
+285,"Northumberland County,Virginia","Spotsylvania County,Virginia",6351,135917
+286,"Northumberland County,Virginia","Stafford County,Virginia",6439,147846
+287,"Northumberland County,Virginia","Surry County,Virginia",8430,181062
+288,"Northumberland County,Virginia","Sussex County,Virginia",8469,204464
+289,"Northumberland County,Virginia","Tazewell County,Virginia",21900,606522
+290,"Northumberland County,Virginia","Warren County,Virginia",11090,255013
+291,"Northumberland County,Virginia","Washington County,Virginia",21832,605912
+292,"Northumberland County,Virginia","Westmoreland County,Virginia",4025,82292
+293,"Northumberland County,Virginia","Wise County,Virginia",25696,696844
+294,"Northumberland County,Virginia","Wythe County,Virginia",18693,518431
+295,"Northumberland County,Virginia","York County,Virginia",6048,113008
+296,"Northumberland County,Virginia","Alexandria City County,Virginia",8470,167324
+297,"Northumberland County,Virginia","Bedford City County,Virginia",14308,367314
+298,"Northumberland County,Virginia","Bristol City County,Virginia",22307,631629
+299,"Northumberland County,Virginia","Buena Vista City County,Virginia",12748,338233
+300,"Northumberland County,Virginia","Charlottesville City County,Virginia",9081,224488
+301,"Northumberland County,Virginia","Chesapeake City County,Virginia",8346,172715
+302,"Northumberland County,Virginia","Clifton Forge City County,Virginia",13942,376840
+303,"Northumberland County,Virginia","Colonial Heights City County,Virginia",7207,161625
+304,"Northumberland County,Virginia","Covington City County,Virginia",14685,395182
+305,"Northumberland County,Virginia","Danville City County,Virginia",15144,354494
+306,"Northumberland County,Virginia","Emporia City County,Virginia",9135,224701
+307,"Northumberland County,Virginia","Fairfax City County,Virginia",8859,202077
+308,"Northumberland County,Virginia","Falls Church City County,Virginia",8806,214363
+309,"Northumberland County,Virginia","Franklin City County,Virginia",9807,209253
+310,"Northumberland County,Virginia","Fredericksburg City County,Virginia",5633,122203
+311,"Northumberland County,Virginia","Galax City County,Virginia",20067,548988
+312,"Northumberland County,Virginia","Hampton City County,Virginia",6833,129516
+313,"Northumberland County,Virginia","Harrisonburg City County,Virginia",12201,321757
+314,"Northumberland County,Virginia","Hopewell City County,Virginia",6542,147129
+315,"Northumberland County,Virginia","Lexington City County,Virginia",12607,335211
+316,"Northumberland County,Virginia","Lynchburg City County,Virginia",12871,328883
+317,"Northumberland County,Virginia","Manassas City County,Virginia",8827,200480
+318,"Northumberland County,Virginia","Manassas Park City County,Virginia",9047,197679
+319,"Northumberland County,Virginia","Martinsville City County,Virginia",17285,407499
+320,"Northumberland County,Virginia","Newport News City County,Virginia",6353,117138
+321,"Northumberland County,Virginia","Norfolk City County,Virginia",8140,154932
+322,"Northumberland County,Virginia","Norton City County,Virginia",25219,687734
+323,"Northumberland County,Virginia","Petersburg City County,Virginia",7144,158088
+324,"Northumberland County,Virginia","Poquoson City County,Virginia",6631,122233
+325,"Northumberland County,Virginia","Portsmouth City County,Virginia",8079,163753
+326,"Northumberland County,Virginia","Radford County,Virginia",17039,466936
+327,"Northumberland County,Virginia","Richmond City County,Virginia",5964,119498
+328,"Northumberland County,Virginia","Roanoke City County,Virginia",15204,413472
+329,"Northumberland County,Virginia","Salem City County,Virginia",15034,411943
+330,"Northumberland County,Virginia","South Boston City County,Virginia",12892,304494
+331,"Northumberland County,Virginia","Staunton City County,Virginia",11090,283438
+332,"Northumberland County,Virginia","Suffolk City County,Virginia",8454,171789
+333,"Northumberland County,Virginia","Virginia Beach City County,Virginia",8701,178190
+334,"Northumberland County,Virginia","Waynesboro City County,Virginia",10366,265436
+335,"Northumberland County,Virginia","Williamsburg City County,Virginia",6015,123035
+336,"Northumberland County,Virginia","Winchester City County,Virginia",11684,259350
+337,"Northumberland County,Virginia","Barbour County,West Virginia",19568,459914
+338,"Northumberland County,Virginia","Berkeley County,West Virginia",13465,309532
+339,"Northumberland County,Virginia","Boone County,West Virginia",23399,607727
+340,"Northumberland County,Virginia","Braxton County,West Virginia",23097,588402
+341,"Northumberland County,Virginia","Brooke County,West Virginia",23916,650775
+342,"Northumberland County,Virginia","Cabell County,West Virginia",24967,703633
+343,"Northumberland County,Virginia","Calhoun County,West Virginia",24868,642353
+344,"Northumberland County,Virginia","Clay County,West Virginia",23132,579185
+345,"Northumberland County,Virginia","Doddridge County,West Virginia",23311,638095
+346,"Northumberland County,Virginia","Fayette County,West Virginia",20521,525925
+347,"Northumberland County,Virginia","Gilmer County,West Virginia",24068,577163
+348,"Northumberland County,Virginia","Grant County,West Virginia",14912,363010
+349,"Northumberland County,Virginia","Greenbrier County,West Virginia",18876,485150
+350,"Northumberland County,Virginia","Hampshire County,West Virginia",13990,318608
+351,"Northumberland County,Virginia","Hancock County,West Virginia",24624,658712
+352,"Northumberland County,Virginia","Hardy County,West Virginia",14160,334339
+353,"Northumberland County,Virginia","Harrison County,West Virginia",21748,599722
+354,"Northumberland County,Virginia","Jackson County,West Virginia",24286,683444
+355,"Northumberland County,Virginia","Jefferson County,West Virginia",12363,297966
+356,"Northumberland County,Virginia","Kanawha County,West Virginia",22049,605426
+357,"Northumberland County,Virginia","Lewis County,West Virginia",21969,526793
+358,"Northumberland County,Virginia","Lincoln County,West Virginia",25631,681311
+359,"Northumberland County,Virginia","Logan County,West Virginia",25190,638216
+360,"Northumberland County,Virginia","McDowell County,West Virginia",23569,612667
+361,"Northumberland County,Virginia","Marion County,West Virginia",21234,573635
+362,"Northumberland County,Virginia","Marshall County,West Virginia",24903,645219
+363,"Northumberland County,Virginia","Mason County,West Virginia",24442,689539
+364,"Northumberland County,Virginia","Mercer County,West Virginia",20284,548998
+365,"Northumberland County,Virginia","Mineral County,West Virginia",16386,374533
+366,"Northumberland County,Virginia","Mingo County,West Virginia",25769,702151
+367,"Northumberland County,Virginia","Monongalia County,West Virginia",19057,525375
+368,"Northumberland County,Virginia","Monroe County,West Virginia",17811,471471
+369,"Northumberland County,Virginia","Morgan County,West Virginia",13711,310658
+370,"Northumberland County,Virginia","Nicholas County,West Virginia",20716,538575
+371,"Northumberland County,Virginia","Ohio County,West Virginia",23823,659722
+372,"Northumberland County,Virginia","Pendleton County,West Virginia",15989,393045
+373,"Northumberland County,Virginia","Pleasants County,West Virginia",24546,675863
+374,"Northumberland County,Virginia","Pocahontas County,West Virginia",18449,421140
+375,"Northumberland County,Virginia","Preston County,West Virginia",19092,441461
+376,"Northumberland County,Virginia","Putnam County,West Virginia",23224,655158
+377,"Northumberland County,Virginia","Raleigh County,West Virginia",19074,530607
+378,"Northumberland County,Virginia","Randolph County,West Virginia",19908,453552
+379,"Northumberland County,Virginia","Ritchie County,West Virginia",24457,670165
+380,"Northumberland County,Virginia","Roane County,West Virginia",25911,712259
+381,"Northumberland County,Virginia","Summers County,West Virginia",19795,510485
+382,"Northumberland County,Virginia","Taylor County,West Virginia",19436,459282
+383,"Northumberland County,Virginia","Tucker County,West Virginia",17572,424657
+384,"Northumberland County,Virginia","Tyler County,West Virginia",25473,668529
+385,"Northumberland County,Virginia","Upshur County,West Virginia",21645,507775
+386,"Northumberland County,Virginia","Wayne County,West Virginia",26558,736260
+387,"Northumberland County,Virginia","Webster County,West Virginia",22336,500561
+388,"Northumberland County,Virginia","Wetzel County,West Virginia",24390,635759
+389,"Northumberland County,Virginia","Wirt County,West Virginia",26552,740782
+390,"Northumberland County,Virginia","Wood County,West Virginia",25327,701125
+391,"Northumberland County,Virginia","Wyoming County,West Virginia",21019,570549

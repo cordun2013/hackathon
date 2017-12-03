@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Middlesex County,Virginia","Adair County,Kentucky",35843,976808
+1,"Middlesex County,Virginia","Allen County,Kentucky",37239,1096618
+2,"Middlesex County,Virginia","Anderson County,Kentucky",31470,939594
+3,"Middlesex County,Virginia","Ballard County,Kentucky",44143,1331873
+4,"Middlesex County,Virginia","Barren County,Kentucky",37028,1055563
+5,"Middlesex County,Virginia","Bath County,Kentucky",27118,810775
+6,"Middlesex County,Virginia","Bell County,Kentucky",28338,778115
+7,"Middlesex County,Virginia","Boone County,Kentucky",32931,932168
+8,"Middlesex County,Virginia","Bourbon County,Kentucky",29032,857192
+9,"Middlesex County,Virginia","Boyd County,Kentucky",23793,705099
+10,"Middlesex County,Virginia","Boyle County,Kentucky",32699,943480
+11,"Middlesex County,Virginia","Bracken County,Kentucky",29443,851275
+12,"Middlesex County,Virginia","Breathitt County,Kentucky",29963,813878
+13,"Middlesex County,Virginia","Breckinridge County,Kentucky",37004,1092275
+14,"Middlesex County,Virginia","Bullitt County,Kentucky",33574,1013394
+15,"Middlesex County,Virginia","Butler County,Kentucky",37669,1114273
+16,"Middlesex County,Virginia","Caldwell County,Kentucky",40561,1220218
+17,"Middlesex County,Virginia","Calloway County,Kentucky",41984,1263732
+18,"Middlesex County,Virginia","Campbell County,Kentucky",31143,891147
+19,"Middlesex County,Virginia","Carlisle County,Kentucky",44600,1347241
+20,"Middlesex County,Virginia","Carroll County,Kentucky",34015,987408
+21,"Middlesex County,Virginia","Carter County,Kentucky",24958,735197
+22,"Middlesex County,Virginia","Casey County,Kentucky",34194,974985
+23,"Middlesex County,Virginia","Christian County,Kentucky",38877,1184712
+24,"Middlesex County,Virginia","Clay County,Kentucky",30910,838457
+25,"Middlesex County,Virginia","Clinton County,Kentucky",34286,976023
+26,"Middlesex County,Virginia","Crittenden County,Kentucky",42140,1253288
+27,"Middlesex County,Virginia","Cumberland County,Kentucky",35166,996692
+28,"Middlesex County,Virginia","Daviess County,Kentucky",38692,1160715
+29,"Middlesex County,Virginia","Edmonson County,Kentucky",37109,1102148
+30,"Middlesex County,Virginia","Elliott County,Kentucky",26289,760967
+31,"Middlesex County,Virginia","Estill County,Kentucky",30110,873090
+32,"Middlesex County,Virginia","Fayette County,Kentucky",29278,877087
+33,"Middlesex County,Virginia","Fleming County,Kentucky",27544,813960
+34,"Middlesex County,Virginia","Floyd County,Kentucky",27926,812364
+35,"Middlesex County,Virginia","Franklin County,Kentucky",31315,926003
+36,"Middlesex County,Virginia","Fulton County,Kentucky",45004,1368206
+37,"Middlesex County,Virginia","Gallatin County,Kentucky",33013,978067
+38,"Middlesex County,Virginia","Garrard County,Kentucky",31883,924240
+39,"Middlesex County,Virginia","Grant County,Kentucky",31812,952174
+40,"Middlesex County,Virginia","Graves County,Kentucky",43625,1319948
+41,"Middlesex County,Virginia","Grayson County,Kentucky",35996,1070909
+42,"Middlesex County,Virginia","Green County,Kentucky",35776,1036114
+43,"Middlesex County,Virginia","Greenup County,Kentucky",25569,746226
+44,"Middlesex County,Virginia","Hancock County,Kentucky",37799,1125168
+45,"Middlesex County,Virginia","Hardin County,Kentucky",34872,1033041
+46,"Middlesex County,Virginia","Harlan County,Kentucky",27413,754741
+47,"Middlesex County,Virginia","Harrison County,Kentucky",30602,890292
+48,"Middlesex County,Virginia","Hart County,Kentucky",35672,1060670
+49,"Middlesex County,Virginia","Henderson County,Kentucky",40498,1213145
+50,"Middlesex County,Virginia","Henry County,Kentucky",32917,969721
+51,"Middlesex County,Virginia","Hickman County,Kentucky",44634,1348533
+52,"Middlesex County,Virginia","Hopkins County,Kentucky",40019,1194686
+53,"Middlesex County,Virginia","Jackson County,Kentucky",32782,874876
+54,"Middlesex County,Virginia","Jefferson County,Kentucky",33010,985255
+55,"Middlesex County,Virginia","Jessamine County,Kentucky",30747,898550
+56,"Middlesex County,Virginia","Johnson County,Kentucky",26575,777995
+57,"Middlesex County,Virginia","Kenton County,Kentucky",32300,919862
+58,"Middlesex County,Virginia","Knott County,Kentucky",27503,756628
+59,"Middlesex County,Virginia","Knox County,Kentucky",29668,820107
+60,"Middlesex County,Virginia","Larue County,Kentucky",34944,1020217
+61,"Middlesex County,Virginia","Laurel County,Kentucky",31562,854935
+62,"Middlesex County,Virginia","Lawrence County,Kentucky",25716,749419
+63,"Middlesex County,Virginia","Lee County,Kentucky",30955,866827
+64,"Middlesex County,Virginia","Leslie County,Kentucky",28875,783021
+65,"Middlesex County,Virginia","Letcher County,Kentucky",25903,720175
+66,"Middlesex County,Virginia","Lewis County,Kentucky",26996,787014
+67,"Middlesex County,Virginia","Lincoln County,Kentucky",32592,941158
+68,"Middlesex County,Virginia","Livingston County,Kentucky",42474,1285812
+69,"Middlesex County,Virginia","Logan County,Kentucky",39309,1137612
+70,"Middlesex County,Virginia","Lyon County,Kentucky",42231,1262986
+71,"Middlesex County,Virginia","McCracken County,Kentucky",42756,1299933
+72,"Middlesex County,Virginia","McCreary County,Kentucky",31293,912869
+73,"Middlesex County,Virginia","Madison County,Kentucky",30276,888110
+74,"Middlesex County,Virginia","Magoffin County,Kentucky",27542,798674
+75,"Middlesex County,Virginia","Marion County,Kentucky",33322,981826
+76,"Middlesex County,Virginia","Marshall County,Kentucky",42170,1283505
+77,"Middlesex County,Virginia","Martin County,Kentucky",26830,731143
+78,"Middlesex County,Virginia","Mason County,Kentucky",28791,830821
+79,"Middlesex County,Virginia","Meade County,Kentucky",35471,1057570
+80,"Middlesex County,Virginia","Menifee County,Kentucky",28234,822838
+81,"Middlesex County,Virginia","Mercer County,Kentucky",31698,937537
+82,"Middlesex County,Virginia","Metcalfe County,Kentucky",36499,1007073
+83,"Middlesex County,Virginia","Monroe County,Kentucky",35726,1027112
+84,"Middlesex County,Virginia","Montgomery County,Kentucky",27931,829315
+85,"Middlesex County,Virginia","Morgan County,Kentucky",28012,798554
+86,"Middlesex County,Virginia","Muhlenberg County,Kentucky",38880,1161162
+87,"Middlesex County,Virginia","Nelson County,Kentucky",32929,980898
+88,"Middlesex County,Virginia","Nicholas County,Kentucky",29609,857199
+89,"Middlesex County,Virginia","Ohio County,Kentucky",37793,1128752
+90,"Middlesex County,Virginia","Oldham County,Kentucky",33082,997136
+91,"Middlesex County,Virginia","Owen County,Kentucky",32137,952780
+92,"Middlesex County,Virginia","Owsley County,Kentucky",32100,851753
+93,"Middlesex County,Virginia","Pendleton County,Kentucky",31380,892199
+94,"Middlesex County,Virginia","Perry County,Kentucky",28476,777051
+95,"Middlesex County,Virginia","Pike County,Kentucky",27026,696390
+96,"Middlesex County,Virginia","Powell County,Kentucky",29374,859061
+97,"Middlesex County,Virginia","Robertson County,Kentucky",29526,856705
+98,"Middlesex County,Virginia","Rockcastle County,Kentucky",31710,929252
+99,"Middlesex County,Virginia","Rowan County,Kentucky",26260,782982
+100,"Middlesex County,Virginia","Russell County,Kentucky",35447,960792
+101,"Middlesex County,Virginia","Scott County,Kentucky",30112,905113
+102,"Middlesex County,Virginia","Shelby County,Kentucky",31939,956390
+103,"Middlesex County,Virginia","Simpson County,Kentucky",38276,1113588
+104,"Middlesex County,Virginia","Spencer County,Kentucky",32468,962237
+105,"Middlesex County,Virginia","Taylor County,Kentucky",34611,1013322
+106,"Middlesex County,Virginia","Todd County,Kentucky",39292,1177659
+107,"Middlesex County,Virginia","Trigg County,Kentucky",39784,1202071
+108,"Middlesex County,Virginia","Trimble County,Kentucky",34155,1003176
+109,"Middlesex County,Virginia","Union County,Kentucky",42218,1243591
+110,"Middlesex County,Virginia","Warren County,Kentucky",38025,1130517
+111,"Middlesex County,Virginia","Washington County,Kentucky",32940,966134
+112,"Middlesex County,Virginia","Wayne County,Kentucky",33797,960000
+113,"Middlesex County,Virginia","Webster County,Kentucky",41128,1222775
+114,"Middlesex County,Virginia","Whitley County,Kentucky",29896,897631
+115,"Middlesex County,Virginia","Wolfe County,Kentucky",29107,821916
+116,"Middlesex County,Virginia","Woodford County,Kentucky",30332,907749
+117,"Middlesex County,Virginia","Adams County,Ohio",28884,833377
+118,"Middlesex County,Virginia","Allen County,Ohio",35516,1017216
+119,"Middlesex County,Virginia","Ashland County,Ohio",30064,843905
+120,"Middlesex County,Virginia","Ashtabula County,Ohio",28061,798375
+121,"Middlesex County,Virginia","Athens County,Ohio",25292,738976
+122,"Middlesex County,Virginia","Auglaize County,Ohio",34866,1025495
+123,"Middlesex County,Virginia","Belmont County,Ohio",24632,694670
+124,"Middlesex County,Virginia","Brown County,Ohio",30128,860305
+125,"Middlesex County,Virginia","Butler County,Ohio",33241,942330
+126,"Middlesex County,Virginia","Carroll County,Ohio",26578,710596
+127,"Middlesex County,Virginia","Champaign County,Ohio",32170,927592
+128,"Middlesex County,Virginia","Clark County,Ohio",30849,887136
+129,"Middlesex County,Virginia","Clermont County,Ohio",30962,891401
+130,"Middlesex County,Virginia","Clinton County,Ohio",30353,874818
+131,"Middlesex County,Virginia","Columbiana County,Ohio",25364,692613
+132,"Middlesex County,Virginia","Coshocton County,Ohio",28989,820120
+133,"Middlesex County,Virginia","Crawford County,Ohio",31973,915100
+134,"Middlesex County,Virginia","Cuyahoga County,Ohio",28058,796219
+135,"Middlesex County,Virginia","Darke County,Ohio",33964,982541
+136,"Middlesex County,Virginia","Defiance County,Ohio",36376,1045183
+137,"Middlesex County,Virginia","Delaware County,Ohio",31122,906583
+138,"Middlesex County,Virginia","Fairfield County,Ohio",28653,833677
+139,"Middlesex County,Virginia","Fayette County,Ohio",28917,845281
+140,"Middlesex County,Virginia","Franklin County,Ohio",29653,863532
+141,"Middlesex County,Virginia","Fulton County,Ohio",34728,1002034
+142,"Middlesex County,Virginia","Gallia County,Ohio",24230,704393
+143,"Middlesex County,Virginia","Geauga County,Ohio",27551,771038
+144,"Middlesex County,Virginia","Greene County,Ohio",29787,878434
+145,"Middlesex County,Virginia","Guernsey County,Ohio",26535,758179
+146,"Middlesex County,Virginia","Hamilton County,Ohio",32743,952908
+147,"Middlesex County,Virginia","Hancock County,Ohio",34003,977181
+148,"Middlesex County,Virginia","Hardin County,Ohio",34127,964624
+149,"Middlesex County,Virginia","Harrison County,Ohio",25791,712814
+150,"Middlesex County,Virginia","Henry County,Ohio",35183,991801
+151,"Middlesex County,Virginia","Highland County,Ohio",29421,833391
+152,"Middlesex County,Virginia","Hocking County,Ohio",27095,789640
+153,"Middlesex County,Virginia","Holmes County,Ohio",29731,794890
+154,"Middlesex County,Virginia","Huron County,Ohio",31341,873511
+155,"Middlesex County,Virginia","Jackson County,Ohio",25408,743942
+156,"Middlesex County,Virginia","Jefferson County,Ohio",24534,674087
+157,"Middlesex County,Virginia","Knox County,Ohio",30777,862596
+158,"Middlesex County,Virginia","Lawrence County,Ohio",24933,710156
+159,"Middlesex County,Virginia","Licking County,Ohio",30163,843668
+160,"Middlesex County,Virginia","Logan County,Ohio",33148,958901
+161,"Middlesex County,Virginia","Lorain County,Ohio",29109,825939
+162,"Middlesex County,Virginia","Lucas County,Ohio",33683,954884
+163,"Middlesex County,Virginia","Madison County,Ohio",30618,868366
+164,"Middlesex County,Virginia","Mahoning County,Ohio",24548,688367
+165,"Middlesex County,Virginia","Marion County,Ohio",32528,932676
+166,"Middlesex County,Virginia","Medina County,Ohio",28697,811025
+167,"Middlesex County,Virginia","Meigs County,Ohio",24173,709947
+168,"Middlesex County,Virginia","Mercer County,Ohio",36102,1052428
+169,"Middlesex County,Virginia","Miami County,Ohio",32452,947933
+170,"Middlesex County,Virginia","Monroe County,Ohio",27065,741354
+171,"Middlesex County,Virginia","Montgomery County,Ohio",31822,925889
+172,"Middlesex County,Virginia","Morgan County,Ohio",27168,794269
+173,"Middlesex County,Virginia","Morrow County,Ohio",31702,905358
+174,"Middlesex County,Virginia","Muskingum County,Ohio",27381,786171
+175,"Middlesex County,Virginia","Noble County,Ohio",26668,790782
+176,"Middlesex County,Virginia","Paulding County,Ohio",37581,1081170
+177,"Middlesex County,Virginia","Perry County,Ohio",28510,804397
+178,"Middlesex County,Virginia","Pickaway County,Ohio",28357,825380
+179,"Middlesex County,Virginia","Pike County,Ohio",26854,783249
+180,"Middlesex County,Virginia","Portage County,Ohio",26402,744381
+181,"Middlesex County,Virginia","Preble County,Ohio",33441,954467
+182,"Middlesex County,Virginia","Putnam County,Ohio",36201,1036987
+183,"Middlesex County,Virginia","Richland County,Ohio",30621,865334
+184,"Middlesex County,Virginia","Ross County,Ohio",27102,791687
+185,"Middlesex County,Virginia","Sandusky County,Ohio",31970,913458
+186,"Middlesex County,Virginia","Scioto County,Ohio",26738,767429
+187,"Middlesex County,Virginia","Seneca County,Ohio",32701,923130
+188,"Middlesex County,Virginia","Shelby County,Ohio",33491,984219
+189,"Middlesex County,Virginia","Stark County,Ohio",27182,740514
+190,"Middlesex County,Virginia","Summit County,Ohio",27460,770196
+191,"Middlesex County,Virginia","Trumbull County,Ohio",25705,725831
+192,"Middlesex County,Virginia","Tuscarawas County,Ohio",27300,744097
+193,"Middlesex County,Virginia","Union County,Ohio",31652,909132
+194,"Middlesex County,Virginia","Van Wert County,Ohio",36313,1047498
+195,"Middlesex County,Virginia","Vinton County,Ohio",27303,769447
+196,"Middlesex County,Virginia","Warren County,Ohio",31159,908876
+197,"Middlesex County,Virginia","Washington County,Ohio",25527,748718
+198,"Middlesex County,Virginia","Wayne County,Ohio",29802,829836
+199,"Middlesex County,Virginia","Williams County,Ohio",35974,1033490
+200,"Middlesex County,Virginia","Wood County,Ohio",33868,961787
+201,"Middlesex County,Virginia","Wyandot County,Ohio",32973,941316
+202,"Middlesex County,Virginia","Accomack County,Virginia",10399,227449
+203,"Middlesex County,Virginia","Albemarle County,Virginia",7813,218808
+204,"Middlesex County,Virginia","Alleghany County,Virginia",13323,387749
+205,"Middlesex County,Virginia","Amelia County,Virginia",6609,162121
+206,"Middlesex County,Virginia","Amherst County,Virginia",10606,288555
+207,"Middlesex County,Virginia","Appomattox County,Virginia",9913,239846
+208,"Middlesex County,Virginia","Arlington County,Virginia",8550,216860
+209,"Middlesex County,Virginia","Augusta County,Virginia",10066,281442
+210,"Middlesex County,Virginia","Bath County,Virginia",13040,347102
+211,"Middlesex County,Virginia","Bedford County,Virginia",12844,318363
+212,"Middlesex County,Virginia","Bland County,Virginia",17605,517432
+213,"Middlesex County,Virginia","Botetourt County,Virginia",12629,358685
+214,"Middlesex County,Virginia","Brunswick County,Virginia",7297,192464
+215,"Middlesex County,Virginia","Buchanan County,Virginia",23361,651891
+216,"Middlesex County,Virginia","Buckingham County,Virginia",8755,211823
+217,"Middlesex County,Virginia","Campbell County,Virginia",11289,281678
+218,"Middlesex County,Virginia","Caroline County,Virginia",4454,106109
+219,"Middlesex County,Virginia","Carroll County,Virginia",17726,522849
+220,"Middlesex County,Virginia","Charles City County,Virginia",3397,73244
+221,"Middlesex County,Virginia","Charlotte County,Virginia",9475,236717
+222,"Middlesex County,Virginia","Chesterfield County,Virginia",5070,124883
+223,"Middlesex County,Virginia","Clarke County,Virginia",11231,259336
+224,"Middlesex County,Virginia","Craig County,Virginia",15471,415012
+225,"Middlesex County,Virginia","Culpeper County,Virginia",8500,185004
+226,"Middlesex County,Virginia","Cumberland County,Virginia",7188,176776
+227,"Middlesex County,Virginia","Dickenson County,Virginia",24071,670069
+228,"Middlesex County,Virginia","Dinwiddie County,Virginia",5934,152431
+229,"Middlesex County,Virginia","Essex County,Virginia",3008,67276
+230,"Middlesex County,Virginia","Fairfax County,Virginia",8847,220090
+231,"Middlesex County,Virginia","Fauquier County,Virginia",8544,200103
+232,"Middlesex County,Virginia","Floyd County,Virginia",16253,464396
+233,"Middlesex County,Virginia","Fluvanna County,Virginia",7014,182380
+234,"Middlesex County,Virginia","Franklin County,Virginia",15143,360062
+235,"Middlesex County,Virginia","Frederick County,Virginia",11786,292398
+236,"Middlesex County,Virginia","Giles County,Virginia",16393,472548
+237,"Middlesex County,Virginia","Gloucester County,Virginia",1786,35433
+238,"Middlesex County,Virginia","Goochland County,Virginia",5743,151666
+239,"Middlesex County,Virginia","Grayson County,Virginia",19058,539028
+240,"Middlesex County,Virginia","Greene County,Virginia",9533,236843
+241,"Middlesex County,Virginia","Greensville County,Virginia",6968,194374
+242,"Middlesex County,Virginia","Halifax County,Virginia",10907,291354
+243,"Middlesex County,Virginia","Hanover County,Virginia",3816,95244
+244,"Middlesex County,Virginia","Henrico County,Virginia",3417,82633
+245,"Middlesex County,Virginia","Henry County,Virginia",15266,405306
+246,"Middlesex County,Virginia","Highland County,Virginia",13268,339181
+247,"Middlesex County,Virginia","Isle of Wight County,Virginia",6018,112640
+248,"Middlesex County,Virginia","James City County,Virginia",3414,65617
+249,"Middlesex County,Virginia","King and Queen County,Virginia",2089,41712
+250,"Middlesex County,Virginia","King George County,Virginia",4351,106700
+251,"Middlesex County,Virginia","King William County,Virginia",3168,75834
+252,"Middlesex County,Virginia","Lancaster County,Virginia",2428,41695
+253,"Middlesex County,Virginia","Lee County,Virginia",24566,701723
+254,"Middlesex County,Virginia","Loudoun County,Virginia",10814,273335
+255,"Middlesex County,Virginia","Louisa County,Virginia",6511,175254
+256,"Middlesex County,Virginia","Lunenburg County,Virginia",8758,211882
+257,"Middlesex County,Virginia","Madison County,Virginia",9402,211401
+258,"Middlesex County,Virginia","Mathews County,Virginia",1878,37234
+259,"Middlesex County,Virginia","Mecklenburg County,Virginia",9023,240736
+260,"Middlesex County,Virginia","Montgomery County,Virginia",14958,436819
+261,"Middlesex County,Virginia","Nelson County,Virginia",9052,256149
+262,"Middlesex County,Virginia","New Kent County,Virginia",2784,48083
+263,"Middlesex County,Virginia","Northampton County,Virginia",7642,163263
+264,"Middlesex County,Virginia","Northumberland County,Virginia",2796,53857
+265,"Middlesex County,Virginia","Nottoway County,Virginia",6870,180957
+266,"Middlesex County,Virginia","Orange County,Virginia",8095,177722
+267,"Middlesex County,Virginia","Page County,Virginia",11385,242709
+268,"Middlesex County,Virginia","Patrick County,Virginia",16848,444213
+269,"Middlesex County,Virginia","Pittsylvania County,Virginia",13674,340144
+270,"Middlesex County,Virginia","Powhatan County,Virginia",5770,149274
+271,"Middlesex County,Virginia","Prince Edward County,Virginia",8353,209834
+272,"Middlesex County,Virginia","Prince George County,Virginia",4969,106263
+273,"Middlesex County,Virginia","Prince William County,Virginia",9007,209938
+274,"Middlesex County,Virginia","Pulaski County,Virginia",15685,459452
+275,"Middlesex County,Virginia","Rappahannock County,Virginia",9983,228102
+276,"Middlesex County,Virginia","Richmond County,Virginia",3263,72444
+277,"Middlesex County,Virginia","Roanoke County,Virginia",13949,401757
+278,"Middlesex County,Virginia","Rockbridge County,Virginia",11371,324695
+279,"Middlesex County,Virginia","Rockingham County,Virginia",11425,321588
+280,"Middlesex County,Virginia","Russell County,Virginia",22527,635228
+281,"Middlesex County,Virginia","Scott County,Virginia",23139,662451
+282,"Middlesex County,Virginia","Shenandoah County,Virginia",11722,297507
+283,"Middlesex County,Virginia","Smyth County,Virginia",18721,546173
+284,"Middlesex County,Virginia","Southampton County,Virginia",7346,190488
+285,"Middlesex County,Virginia","Spotsylvania County,Virginia",6274,142713
+286,"Middlesex County,Virginia","Stafford County,Virginia",6362,154641
+287,"Middlesex County,Virginia","Surry County,Virginia",5680,127474
+288,"Middlesex County,Virginia","Sussex County,Virginia",6009,160731
+289,"Middlesex County,Virginia","Tazewell County,Virginia",20182,586249
+290,"Middlesex County,Virginia","Warren County,Virginia",11013,261809
+291,"Middlesex County,Virginia","Washington County,Virginia",20115,585639
+292,"Middlesex County,Virginia","Westmoreland County,Virginia",4997,107546
+293,"Middlesex County,Virginia","Wise County,Virginia",23978,676571
+294,"Middlesex County,Virginia","Wythe County,Virginia",16975,498158
+295,"Middlesex County,Virginia","York County,Virginia",3677,70572
+296,"Middlesex County,Virginia","Alexandria City County,Virginia",8522,213909
+297,"Middlesex County,Virginia","Bedford City County,Virginia",12346,313447
+298,"Middlesex County,Virginia","Bristol City County,Virginia",20590,611357
+299,"Middlesex County,Virginia","Buena Vista City County,Virginia",11030,317960
+300,"Middlesex County,Virginia","Charlottesville City County,Virginia",7364,204215
+301,"Middlesex County,Virginia","Chesapeake City County,Virginia",5975,130279
+302,"Middlesex County,Virginia","Clifton Forge City County,Virginia",12224,356567
+303,"Middlesex County,Virginia","Colonial Heights City County,Virginia",4747,117892
+304,"Middlesex County,Virginia","Covington City County,Virginia",12967,374909
+305,"Middlesex County,Virginia","Danville City County,Virginia",12722,336280
+306,"Middlesex County,Virginia","Emporia City County,Virginia",6675,180968
+307,"Middlesex County,Virginia","Fairfax City County,Virginia",8782,208872
+308,"Middlesex County,Virginia","Falls Church City County,Virginia",8729,221158
+309,"Middlesex County,Virginia","Franklin City County,Virginia",7436,166817
+310,"Middlesex County,Virginia","Fredericksburg City County,Virginia",5556,128999
+311,"Middlesex County,Virginia","Galax City County,Virginia",18350,528715
+312,"Middlesex County,Virginia","Hampton City County,Virginia",4462,87080
+313,"Middlesex County,Virginia","Harrisonburg City County,Virginia",10484,301484
+314,"Middlesex County,Virginia","Hopewell City County,Virginia",4082,103395
+315,"Middlesex County,Virginia","Lexington City County,Virginia",10889,314938
+316,"Middlesex County,Virginia","Lynchburg City County,Virginia",11072,276995
+317,"Middlesex County,Virginia","Manassas City County,Virginia",8750,207275
+318,"Middlesex County,Virginia","Manassas Park City County,Virginia",8970,204475
+319,"Middlesex County,Virginia","Martinsville City County,Virginia",14863,389285
+320,"Middlesex County,Virginia","Newport News City County,Virginia",3982,74702
+321,"Middlesex County,Virginia","Norfolk City County,Virginia",5769,112496
+322,"Middlesex County,Virginia","Norton City County,Virginia",23502,667461
+323,"Middlesex County,Virginia","Petersburg City County,Virginia",4685,114355
+324,"Middlesex County,Virginia","Poquoson City County,Virginia",4260,79797
+325,"Middlesex County,Virginia","Portsmouth City County,Virginia",5708,121317
+326,"Middlesex County,Virginia","Radford County,Virginia",15321,446663
+327,"Middlesex County,Virginia","Richmond City County,Virginia",3734,91130
+328,"Middlesex County,Virginia","Roanoke City County,Virginia",13487,393199
+329,"Middlesex County,Virginia","Salem City County,Virginia",13317,391670
+330,"Middlesex County,Virginia","South Boston City County,Virginia",10611,288846
+331,"Middlesex County,Virginia","Staunton City County,Virginia",9372,263165
+332,"Middlesex County,Virginia","Suffolk City County,Virginia",6083,129353
+333,"Middlesex County,Virginia","Virginia Beach City County,Virginia",6329,135754
+334,"Middlesex County,Virginia","Waynesboro City County,Virginia",8649,245163
+335,"Middlesex County,Virginia","Williamsburg City County,Virginia",3264,69448
+336,"Middlesex County,Virginia","Winchester City County,Virginia",11608,266146
+337,"Middlesex County,Virginia","Barbour County,West Virginia",19491,466709
+338,"Middlesex County,Virginia","Berkeley County,West Virginia",13388,316327
+339,"Middlesex County,Virginia","Boone County,West Virginia",21682,587454
+340,"Middlesex County,Virginia","Braxton County,West Virginia",21380,568129
+341,"Middlesex County,Virginia","Brooke County,West Virginia",23839,657571
+342,"Middlesex County,Virginia","Cabell County,West Virginia",23249,683360
+343,"Middlesex County,Virginia","Calhoun County,West Virginia",23151,622080
+344,"Middlesex County,Virginia","Clay County,West Virginia",21415,558913
+345,"Middlesex County,Virginia","Doddridge County,West Virginia",23234,644890
+346,"Middlesex County,Virginia","Fayette County,West Virginia",18803,505652
+347,"Middlesex County,Virginia","Gilmer County,West Virginia",22948,617809
+348,"Middlesex County,Virginia","Grant County,West Virginia",14836,369805
+349,"Middlesex County,Virginia","Greenbrier County,West Virginia",17159,464877
+350,"Middlesex County,Virginia","Hampshire County,West Virginia",13913,325403
+351,"Middlesex County,Virginia","Hancock County,West Virginia",24547,665507
+352,"Middlesex County,Virginia","Hardy County,West Virginia",14083,341135
+353,"Middlesex County,Virginia","Harrison County,West Virginia",21671,606518
+354,"Middlesex County,Virginia","Jackson County,West Virginia",22568,663171
+355,"Middlesex County,Virginia","Jefferson County,West Virginia",12287,304762
+356,"Middlesex County,Virginia","Kanawha County,West Virginia",20332,585153
+357,"Middlesex County,Virginia","Lewis County,West Virginia",21317,512251
+358,"Middlesex County,Virginia","Lincoln County,West Virginia",23914,661038
+359,"Middlesex County,Virginia","Logan County,West Virginia",23472,617944
+360,"Middlesex County,Virginia","McDowell County,West Virginia",21851,592395
+361,"Middlesex County,Virginia","Marion County,West Virginia",21157,580431
+362,"Middlesex County,Virginia","Marshall County,West Virginia",24827,652015
+363,"Middlesex County,Virginia","Mason County,West Virginia",22725,669267
+364,"Middlesex County,Virginia","Mercer County,West Virginia",18566,528725
+365,"Middlesex County,Virginia","Mineral County,West Virginia",16309,381329
+366,"Middlesex County,Virginia","Mingo County,West Virginia",24051,681879
+367,"Middlesex County,Virginia","Monongalia County,West Virginia",18980,532170
+368,"Middlesex County,Virginia","Monroe County,West Virginia",16093,451198
+369,"Middlesex County,Virginia","Morgan County,West Virginia",13634,317454
+370,"Middlesex County,Virginia","Nicholas County,West Virginia",18998,518302
+371,"Middlesex County,Virginia","Ohio County,West Virginia",23746,666517
+372,"Middlesex County,Virginia","Pendleton County,West Virginia",14272,372773
+373,"Middlesex County,Virginia","Pleasants County,West Virginia",24469,682658
+374,"Middlesex County,Virginia","Pocahontas County,West Virginia",16731,400867
+375,"Middlesex County,Virginia","Preston County,West Virginia",19016,448256
+376,"Middlesex County,Virginia","Putnam County,West Virginia",21506,634885
+377,"Middlesex County,Virginia","Raleigh County,West Virginia",17356,510334
+378,"Middlesex County,Virginia","Randolph County,West Virginia",18191,433280
+379,"Middlesex County,Virginia","Ritchie County,West Virginia",24380,676960
+380,"Middlesex County,Virginia","Roane County,West Virginia",24194,691986
+381,"Middlesex County,Virginia","Summers County,West Virginia",18078,490212
+382,"Middlesex County,Virginia","Taylor County,West Virginia",19359,466078
+383,"Middlesex County,Virginia","Tucker County,West Virginia",17495,431453
+384,"Middlesex County,Virginia","Tyler County,West Virginia",25396,675325
+385,"Middlesex County,Virginia","Upshur County,West Virginia",20786,468922
+386,"Middlesex County,Virginia","Wayne County,West Virginia",24841,715987
+387,"Middlesex County,Virginia","Webster County,West Virginia",20618,480288
+388,"Middlesex County,Virginia","Wetzel County,West Virginia",24313,642555
+389,"Middlesex County,Virginia","Wirt County,West Virginia",24835,720509
+390,"Middlesex County,Virginia","Wood County,West Virginia",24349,722198
+391,"Middlesex County,Virginia","Wyoming County,West Virginia",19301,550276

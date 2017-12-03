@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Dinwiddie County,Virginia","Adair County,Kentucky",33180,849376
+1,"Dinwiddie County,Virginia","Allen County,Kentucky",34576,969186
+2,"Dinwiddie County,Virginia","Anderson County,Kentucky",30800,866648
+3,"Dinwiddie County,Virginia","Ballard County,Kentucky",41480,1204441
+4,"Dinwiddie County,Virginia","Barren County,Kentucky",34365,928131
+5,"Dinwiddie County,Virginia","Bath County,Kentucky",26448,737829
+6,"Dinwiddie County,Virginia","Bell County,Kentucky",25675,650683
+7,"Dinwiddie County,Virginia","Boone County,Kentucky",32260,859222
+8,"Dinwiddie County,Virginia","Bourbon County,Kentucky",28361,784247
+9,"Dinwiddie County,Virginia","Boyd County,Kentucky",23123,632154
+10,"Dinwiddie County,Virginia","Boyle County,Kentucky",32029,870535
+11,"Dinwiddie County,Virginia","Bracken County,Kentucky",28772,778329
+12,"Dinwiddie County,Virginia","Breathitt County,Kentucky",27300,686446
+13,"Dinwiddie County,Virginia","Breckinridge County,Kentucky",36334,1019329
+14,"Dinwiddie County,Virginia","Bullitt County,Kentucky",32903,940449
+15,"Dinwiddie County,Virginia","Butler County,Kentucky",37036,1039391
+16,"Dinwiddie County,Virginia","Caldwell County,Kentucky",38620,1112255
+17,"Dinwiddie County,Virginia","Calloway County,Kentucky",39321,1136300
+18,"Dinwiddie County,Virginia","Campbell County,Kentucky",30473,818201
+19,"Dinwiddie County,Virginia","Carlisle County,Kentucky",41938,1219809
+20,"Dinwiddie County,Virginia","Carroll County,Kentucky",33345,914463
+21,"Dinwiddie County,Virginia","Carter County,Kentucky",24288,662251
+22,"Dinwiddie County,Virginia","Casey County,Kentucky",33118,822650
+23,"Dinwiddie County,Virginia","Christian County,Kentucky",36214,1057280
+24,"Dinwiddie County,Virginia","Clay County,Kentucky",28247,711025
+25,"Dinwiddie County,Virginia","Clinton County,Kentucky",31623,848591
+26,"Dinwiddie County,Virginia","Crittenden County,Kentucky",39885,1145015
+27,"Dinwiddie County,Virginia","Cumberland County,Kentucky",32503,869259
+28,"Dinwiddie County,Virginia","Daviess County,Kentucky",38021,1087770
+29,"Dinwiddie County,Virginia","Edmonson County,Kentucky",36345,981494
+30,"Dinwiddie County,Virginia","Elliott County,Kentucky",25618,688021
+31,"Dinwiddie County,Virginia","Estill County,Kentucky",29440,800145
+32,"Dinwiddie County,Virginia","Fayette County,Kentucky",28607,804141
+33,"Dinwiddie County,Virginia","Fleming County,Kentucky",26873,741015
+34,"Dinwiddie County,Virginia","Floyd County,Kentucky",25960,663755
+35,"Dinwiddie County,Virginia","Franklin County,Kentucky",30645,853057
+36,"Dinwiddie County,Virginia","Fulton County,Kentucky",42342,1240773
+37,"Dinwiddie County,Virginia","Gallatin County,Kentucky",32343,905121
+38,"Dinwiddie County,Virginia","Garrard County,Kentucky",31212,851294
+39,"Dinwiddie County,Virginia","Grant County,Kentucky",31142,879229
+40,"Dinwiddie County,Virginia","Graves County,Kentucky",40962,1192515
+41,"Dinwiddie County,Virginia","Grayson County,Kentucky",35326,997963
+42,"Dinwiddie County,Virginia","Green County,Kentucky",34932,891541
+43,"Dinwiddie County,Virginia","Greenup County,Kentucky",24899,673280
+44,"Dinwiddie County,Virginia","Hancock County,Kentucky",37129,1052222
+45,"Dinwiddie County,Virginia","Hardin County,Kentucky",34202,960096
+46,"Dinwiddie County,Virginia","Harlan County,Kentucky",24750,627309
+47,"Dinwiddie County,Virginia","Harrison County,Kentucky",29932,817346
+48,"Dinwiddie County,Virginia","Hart County,Kentucky",35001,987724
+49,"Dinwiddie County,Virginia","Henderson County,Kentucky",39828,1140199
+50,"Dinwiddie County,Virginia","Henry County,Kentucky",32246,896776
+51,"Dinwiddie County,Virginia","Hickman County,Kentucky",41971,1221101
+52,"Dinwiddie County,Virginia","Hopkins County,Kentucky",38741,1122532
+53,"Dinwiddie County,Virginia","Jackson County,Kentucky",30119,747444
+54,"Dinwiddie County,Virginia","Jefferson County,Kentucky",32340,912309
+55,"Dinwiddie County,Virginia","Jessamine County,Kentucky",30076,825605
+56,"Dinwiddie County,Virginia","Johnson County,Kentucky",25904,705050
+57,"Dinwiddie County,Virginia","Kenton County,Kentucky",31630,846916
+58,"Dinwiddie County,Virginia","Knott County,Kentucky",24840,629196
+59,"Dinwiddie County,Virginia","Knox County,Kentucky",27005,692675
+60,"Dinwiddie County,Virginia","Larue County,Kentucky",34274,947272
+61,"Dinwiddie County,Virginia","Laurel County,Kentucky",28900,727502
+62,"Dinwiddie County,Virginia","Lawrence County,Kentucky",25046,676474
+63,"Dinwiddie County,Virginia","Lee County,Kentucky",29410,727636
+64,"Dinwiddie County,Virginia","Leslie County,Kentucky",26212,655588
+65,"Dinwiddie County,Virginia","Letcher County,Kentucky",23240,592743
+66,"Dinwiddie County,Virginia","Lewis County,Kentucky",26326,714069
+67,"Dinwiddie County,Virginia","Lincoln County,Kentucky",31589,807899
+68,"Dinwiddie County,Virginia","Livingston County,Kentucky",39812,1158379
+69,"Dinwiddie County,Virginia","Logan County,Kentucky",36646,1010180
+70,"Dinwiddie County,Virginia","Lyon County,Kentucky",39568,1135554
+71,"Dinwiddie County,Virginia","McCracken County,Kentucky",40093,1172501
+72,"Dinwiddie County,Virginia","McCreary County,Kentucky",28630,785437
+73,"Dinwiddie County,Virginia","Madison County,Kentucky",29606,815164
+74,"Dinwiddie County,Virginia","Magoffin County,Kentucky",26919,684960
+75,"Dinwiddie County,Virginia","Marion County,Kentucky",32651,908881
+76,"Dinwiddie County,Virginia","Marshall County,Kentucky",39507,1156072
+77,"Dinwiddie County,Virginia","Martin County,Kentucky",26160,658198
+78,"Dinwiddie County,Virginia","Mason County,Kentucky",28121,757875
+79,"Dinwiddie County,Virginia","Meade County,Kentucky",34801,984624
+80,"Dinwiddie County,Virginia","Menifee County,Kentucky",27564,749893
+81,"Dinwiddie County,Virginia","Mercer County,Kentucky",31028,864592
+82,"Dinwiddie County,Virginia","Metcalfe County,Kentucky",33836,879641
+83,"Dinwiddie County,Virginia","Monroe County,Kentucky",33064,899680
+84,"Dinwiddie County,Virginia","Montgomery County,Kentucky",27260,756370
+85,"Dinwiddie County,Virginia","Morgan County,Kentucky",27342,725609
+86,"Dinwiddie County,Virginia","Muhlenberg County,Kentucky",38209,1088216
+87,"Dinwiddie County,Virginia","Nelson County,Kentucky",32259,907952
+88,"Dinwiddie County,Virginia","Nicholas County,Kentucky",28938,784253
+89,"Dinwiddie County,Virginia","Ohio County,Kentucky",37122,1055806
+90,"Dinwiddie County,Virginia","Oldham County,Kentucky",32412,924191
+91,"Dinwiddie County,Virginia","Owen County,Kentucky",31467,879834
+92,"Dinwiddie County,Virginia","Owsley County,Kentucky",29437,724320
+93,"Dinwiddie County,Virginia","Pendleton County,Kentucky",30710,819254
+94,"Dinwiddie County,Virginia","Perry County,Kentucky",25814,649619
+95,"Dinwiddie County,Virginia","Pike County,Kentucky",24335,598269
+96,"Dinwiddie County,Virginia","Powell County,Kentucky",28704,786115
+97,"Dinwiddie County,Virginia","Robertson County,Kentucky",28856,783759
+98,"Dinwiddie County,Virginia","Rockcastle County,Kentucky",30070,769498
+99,"Dinwiddie County,Virginia","Rowan County,Kentucky",25590,710037
+100,"Dinwiddie County,Virginia","Russell County,Kentucky",32785,833360
+101,"Dinwiddie County,Virginia","Scott County,Kentucky",29442,832168
+102,"Dinwiddie County,Virginia","Shelby County,Kentucky",31269,883444
+103,"Dinwiddie County,Virginia","Simpson County,Kentucky",35613,986156
+104,"Dinwiddie County,Virginia","Spencer County,Kentucky",31798,889292
+105,"Dinwiddie County,Virginia","Taylor County,Kentucky",33941,940377
+106,"Dinwiddie County,Virginia","Todd County,Kentucky",36630,1050227
+107,"Dinwiddie County,Virginia","Trigg County,Kentucky",37121,1074639
+108,"Dinwiddie County,Virginia","Trimble County,Kentucky",33485,930230
+109,"Dinwiddie County,Virginia","Union County,Kentucky",41391,1186772
+110,"Dinwiddie County,Virginia","Warren County,Kentucky",36038,1008823
+111,"Dinwiddie County,Virginia","Washington County,Kentucky",32269,893189
+112,"Dinwiddie County,Virginia","Wayne County,Kentucky",31134,832567
+113,"Dinwiddie County,Virginia","Webster County,Kentucky",39850,1150620
+114,"Dinwiddie County,Virginia","Whitley County,Kentucky",27234,770199
+115,"Dinwiddie County,Virginia","Wolfe County,Kentucky",28437,748970
+116,"Dinwiddie County,Virginia","Woodford County,Kentucky",29661,834804
+117,"Dinwiddie County,Virginia","Adams County,Ohio",28214,760432
+118,"Dinwiddie County,Virginia","Allen County,Ohio",34946,935849
+119,"Dinwiddie County,Virginia","Ashland County,Ohio",29995,868129
+120,"Dinwiddie County,Virginia","Ashtabula County,Ohio",27992,822598
+121,"Dinwiddie County,Virginia","Athens County,Ohio",24622,666031
+122,"Dinwiddie County,Virginia","Auglaize County,Ohio",34196,952549
+123,"Dinwiddie County,Virginia","Belmont County,Ohio",24562,718894
+124,"Dinwiddie County,Virginia","Brown County,Ohio",29458,787359
+125,"Dinwiddie County,Virginia","Butler County,Ohio",32571,869385
+126,"Dinwiddie County,Virginia","Carroll County,Ohio",26508,734819
+127,"Dinwiddie County,Virginia","Champaign County,Ohio",31500,854646
+128,"Dinwiddie County,Virginia","Clark County,Ohio",30179,814191
+129,"Dinwiddie County,Virginia","Clermont County,Ohio",30292,818456
+130,"Dinwiddie County,Virginia","Clinton County,Ohio",29683,801872
+131,"Dinwiddie County,Virginia","Columbiana County,Ohio",25295,716836
+132,"Dinwiddie County,Virginia","Coshocton County,Ohio",29006,807565
+133,"Dinwiddie County,Virginia","Crawford County,Ohio",31903,939323
+134,"Dinwiddie County,Virginia","Cuyahoga County,Ohio",27988,820442
+135,"Dinwiddie County,Virginia","Darke County,Ohio",33293,909596
+136,"Dinwiddie County,Virginia","Defiance County,Ohio",36307,1069406
+137,"Dinwiddie County,Virginia","Delaware County,Ohio",30452,833638
+138,"Dinwiddie County,Virginia","Fairfield County,Ohio",27982,760732
+139,"Dinwiddie County,Virginia","Fayette County,Ohio",28247,772336
+140,"Dinwiddie County,Virginia","Franklin County,Ohio",28982,790587
+141,"Dinwiddie County,Virginia","Fulton County,Ohio",34659,1026257
+142,"Dinwiddie County,Virginia","Gallia County,Ohio",23560,631448
+143,"Dinwiddie County,Virginia","Geauga County,Ohio",27482,795261
+144,"Dinwiddie County,Virginia","Greene County,Ohio",29117,805488
+145,"Dinwiddie County,Virginia","Guernsey County,Ohio",26466,782403
+146,"Dinwiddie County,Virginia","Hamilton County,Ohio",32072,879963
+147,"Dinwiddie County,Virginia","Hancock County,Ohio",33934,1001404
+148,"Dinwiddie County,Virginia","Hardin County,Ohio",33457,891679
+149,"Dinwiddie County,Virginia","Harrison County,Ohio",25722,737037
+150,"Dinwiddie County,Virginia","Henry County,Ohio",35113,1016024
+151,"Dinwiddie County,Virginia","Highland County,Ohio",28751,760445
+152,"Dinwiddie County,Virginia","Hocking County,Ohio",26424,716695
+153,"Dinwiddie County,Virginia","Holmes County,Ohio",29661,819114
+154,"Dinwiddie County,Virginia","Huron County,Ohio",31271,897734
+155,"Dinwiddie County,Virginia","Jackson County,Ohio",24738,670997
+156,"Dinwiddie County,Virginia","Jefferson County,Ohio",24464,698310
+157,"Dinwiddie County,Virginia","Knox County,Ohio",30794,850041
+158,"Dinwiddie County,Virginia","Lawrence County,Ohio",24263,637210
+159,"Dinwiddie County,Virginia","Licking County,Ohio",29927,787741
+160,"Dinwiddie County,Virginia","Logan County,Ohio",32478,885956
+161,"Dinwiddie County,Virginia","Lorain County,Ohio",29040,850163
+162,"Dinwiddie County,Virginia","Lucas County,Ohio",33613,979107
+163,"Dinwiddie County,Virginia","Madison County,Ohio",29948,795420
+164,"Dinwiddie County,Virginia","Mahoning County,Ohio",24478,712590
+165,"Dinwiddie County,Virginia","Marion County,Ohio",31858,859731
+166,"Dinwiddie County,Virginia","Medina County,Ohio",28627,835248
+167,"Dinwiddie County,Virginia","Meigs County,Ohio",23503,637001
+168,"Dinwiddie County,Virginia","Mercer County,Ohio",35432,979483
+169,"Dinwiddie County,Virginia","Miami County,Ohio",31782,874988
+170,"Dinwiddie County,Virginia","Monroe County,Ohio",26995,765577
+171,"Dinwiddie County,Virginia","Montgomery County,Ohio",31151,852944
+172,"Dinwiddie County,Virginia","Morgan County,Ohio",26498,721324
+173,"Dinwiddie County,Virginia","Morrow County,Ohio",31259,856458
+174,"Dinwiddie County,Virginia","Muskingum County,Ohio",27312,810394
+175,"Dinwiddie County,Virginia","Noble County,Ohio",25998,717836
+176,"Dinwiddie County,Virginia","Paulding County,Ohio",37483,1011755
+177,"Dinwiddie County,Virginia","Perry County,Ohio",27840,731451
+178,"Dinwiddie County,Virginia","Pickaway County,Ohio",27687,752435
+179,"Dinwiddie County,Virginia","Pike County,Ohio",26183,710303
+180,"Dinwiddie County,Virginia","Portage County,Ohio",26333,768604
+181,"Dinwiddie County,Virginia","Preble County,Ohio",32770,881522
+182,"Dinwiddie County,Virginia","Putnam County,Ohio",36069,968208
+183,"Dinwiddie County,Virginia","Richland County,Ohio",30551,889557
+184,"Dinwiddie County,Virginia","Ross County,Ohio",26431,718741
+185,"Dinwiddie County,Virginia","Sandusky County,Ohio",31901,937681
+186,"Dinwiddie County,Virginia","Scioto County,Ohio",26068,694484
+187,"Dinwiddie County,Virginia","Seneca County,Ohio",32632,947353
+188,"Dinwiddie County,Virginia","Shelby County,Ohio",32820,911273
+189,"Dinwiddie County,Virginia","Stark County,Ohio",27113,764737
+190,"Dinwiddie County,Virginia","Summit County,Ohio",27391,794419
+191,"Dinwiddie County,Virginia","Trumbull County,Ohio",25636,750054
+192,"Dinwiddie County,Virginia","Tuscarawas County,Ohio",27231,768320
+193,"Dinwiddie County,Virginia","Union County,Ohio",30982,836187
+194,"Dinwiddie County,Virginia","Van Wert County,Ohio",36180,978719
+195,"Dinwiddie County,Virginia","Vinton County,Ohio",26633,696502
+196,"Dinwiddie County,Virginia","Warren County,Ohio",30489,835931
+197,"Dinwiddie County,Virginia","Washington County,Ohio",24856,675773
+198,"Dinwiddie County,Virginia","Wayne County,Ohio",29733,854059
+199,"Dinwiddie County,Virginia","Williams County,Ohio",35904,1057713
+200,"Dinwiddie County,Virginia","Wood County,Ohio",33798,986010
+201,"Dinwiddie County,Virginia","Wyandot County,Ohio",32904,965540
+202,"Dinwiddie County,Virginia","Accomack County,Virginia",12254,282503
+203,"Dinwiddie County,Virginia","Albemarle County,Virginia",7156,200075
+204,"Dinwiddie County,Virginia","Alleghany County,Virginia",12652,314803
+205,"Dinwiddie County,Virginia","Amelia County,Virginia",2787,53318
+206,"Dinwiddie County,Virginia","Amherst County,Virginia",7510,185943
+207,"Dinwiddie County,Virginia","Appomattox County,Virginia",5607,138966
+208,"Dinwiddie County,Virginia","Arlington County,Virginia",8481,241083
+209,"Dinwiddie County,Virginia","Augusta County,Virginia",9410,262710
+210,"Dinwiddie County,Virginia","Bath County,Virginia",12384,328369
+211,"Dinwiddie County,Virginia","Bedford County,Virginia",8580,204822
+212,"Dinwiddie County,Virginia","Bland County,Virginia",14942,390000
+213,"Dinwiddie County,Virginia","Botetourt County,Virginia",10948,251185
+214,"Dinwiddie County,Virginia","Brunswick County,Virginia",2242,49964
+215,"Dinwiddie County,Virginia","Buchanan County,Virginia",20698,524459
+216,"Dinwiddie County,Virginia","Buckingham County,Virginia",5337,122580
+217,"Dinwiddie County,Virginia","Campbell County,Virginia",7025,168137
+218,"Dinwiddie County,Virginia","Caroline County,Virginia",5210,138443
+219,"Dinwiddie County,Virginia","Carroll County,Virginia",13685,397266
+220,"Dinwiddie County,Virginia","Charles City County,Virginia",3585,73351
+221,"Dinwiddie County,Virginia","Charlotte County,Virginia",4828,111642
+222,"Dinwiddie County,Virginia","Chesterfield County,Virginia",3054,58808
+223,"Dinwiddie County,Virginia","Clarke County,Virginia",11161,283559
+224,"Dinwiddie County,Virginia","Craig County,Virginia",12910,306400
+225,"Dinwiddie County,Virginia","Culpeper County,Virginia",8460,214288
+226,"Dinwiddie County,Virginia","Cumberland County,Virginia",4763,95958
+227,"Dinwiddie County,Virginia","Dickenson County,Virginia",21408,542637
+228,"Dinwiddie County,Virginia","Essex County,Virginia",6709,154287
+229,"Dinwiddie County,Virginia","Fairfax County,Virginia",8778,244313
+230,"Dinwiddie County,Virginia","Fauquier County,Virginia",8474,224326
+231,"Dinwiddie County,Virginia","Floyd County,Virginia",13386,311479
+232,"Dinwiddie County,Virginia","Fluvanna County,Virginia",6357,163647
+233,"Dinwiddie County,Virginia","Franklin County,Virginia",10496,234987
+234,"Dinwiddie County,Virginia","Frederick County,Virginia",11717,316621
+235,"Dinwiddie County,Virginia","Giles County,Virginia",13730,345116
+236,"Dinwiddie County,Virginia","Gloucester County,Virginia",6467,157814
+237,"Dinwiddie County,Virginia","Goochland County,Virginia",5087,132933
+238,"Dinwiddie County,Virginia","Grayson County,Virginia",15816,433810
+239,"Dinwiddie County,Virginia","Greene County,Virginia",8877,218110
+240,"Dinwiddie County,Virginia","Greensville County,Virginia",3341,76002
+241,"Dinwiddie County,Virginia","Halifax County,Virginia",5852,148854
+242,"Dinwiddie County,Virginia","Hanover County,Virginia",3695,89402
+243,"Dinwiddie County,Virginia","Henrico County,Virginia",2935,73241
+244,"Dinwiddie County,Virginia","Henry County,Virginia",10211,262805
+245,"Dinwiddie County,Virginia","Highland County,Virginia",12612,320448
+246,"Dinwiddie County,Virginia","Isle of Wight County,Virginia",5020,113769
+247,"Dinwiddie County,Virginia","James City County,Virginia",5176,108796
+248,"Dinwiddie County,Virginia","King and Queen County,Virginia",5886,143634
+249,"Dinwiddie County,Virginia","King George County,Virginia",6323,166429
+250,"Dinwiddie County,Virginia","King William County,Virginia",4573,113556
+251,"Dinwiddie County,Virginia","Lancaster County,Virginia",8334,193853
+252,"Dinwiddie County,Virginia","Lee County,Virginia",21903,574290
+253,"Dinwiddie County,Virginia","Loudoun County,Virginia",10744,297558
+254,"Dinwiddie County,Virginia","Louisa County,Virginia",5855,156521
+255,"Dinwiddie County,Virginia","Lunenburg County,Virginia",3637,68395
+256,"Dinwiddie County,Virginia","Madison County,Virginia",8790,218142
+257,"Dinwiddie County,Virginia","Mathews County,Virginia",7292,181237
+258,"Dinwiddie County,Virginia","Mecklenburg County,Virginia",3969,98236
+259,"Dinwiddie County,Virginia","Middlesex County,Virginia",6069,154014
+260,"Dinwiddie County,Virginia","Montgomery County,Virginia",12295,309386
+261,"Dinwiddie County,Virginia","Nelson County,Virginia",7575,170381
+262,"Dinwiddie County,Virginia","New Kent County,Virginia",4969,118311
+263,"Dinwiddie County,Virginia","Northampton County,Virginia",9497,218317
+264,"Dinwiddie County,Virginia","Northumberland County,Virginia",8406,195154
+265,"Dinwiddie County,Virginia","Nottoway County,Virginia",1819,42209
+266,"Dinwiddie County,Virginia","Orange County,Virginia",7470,184595
+267,"Dinwiddie County,Virginia","Page County,Virginia",11150,269794
+268,"Dinwiddie County,Virginia","Patrick County,Virginia",11794,301713
+269,"Dinwiddie County,Virginia","Pittsylvania County,Virginia",8576,218806
+270,"Dinwiddie County,Virginia","Powhatan County,Virginia",3980,77531
+271,"Dinwiddie County,Virginia","Prince Edward County,Virginia",4083,92631
+272,"Dinwiddie County,Virginia","Prince George County,Virginia",2555,53022
+273,"Dinwiddie County,Virginia","Prince William County,Virginia",8937,234162
+274,"Dinwiddie County,Virginia","Pulaski County,Virginia",13022,332020
+275,"Dinwiddie County,Virginia","Rappahannock County,Virginia",9914,252326
+276,"Dinwiddie County,Virginia","Richmond County,Virginia",7106,167797
+277,"Dinwiddie County,Virginia","Roanoke County,Virginia",11286,274325
+278,"Dinwiddie County,Virginia","Rockbridge County,Virginia",10642,242750
+279,"Dinwiddie County,Virginia","Rockingham County,Virginia",10768,302855
+280,"Dinwiddie County,Virginia","Russell County,Virginia",19864,507796
+281,"Dinwiddie County,Virginia","Scott County,Virginia",20476,535019
+282,"Dinwiddie County,Virginia","Shenandoah County,Virginia",11273,332959
+283,"Dinwiddie County,Virginia","Smyth County,Virginia",16059,418740
+284,"Dinwiddie County,Virginia","Southampton County,Virginia",4213,87571
+285,"Dinwiddie County,Virginia","Spotsylvania County,Virginia",6220,161393
+286,"Dinwiddie County,Virginia","Stafford County,Virginia",6292,178864
+287,"Dinwiddie County,Virginia","Surry County,Virginia",4237,91986
+288,"Dinwiddie County,Virginia","Sussex County,Virginia",2499,47905
+289,"Dinwiddie County,Virginia","Tazewell County,Virginia",17519,458817
+290,"Dinwiddie County,Virginia","Warren County,Virginia",10944,286032
+291,"Dinwiddie County,Virginia","Washington County,Virginia",17452,458207
+292,"Dinwiddie County,Virginia","Westmoreland County,Virginia",7297,183254
+293,"Dinwiddie County,Virginia","Wise County,Virginia",21315,549139
+294,"Dinwiddie County,Virginia","Wythe County,Virginia",14313,370726
+295,"Dinwiddie County,Virginia","York County,Virginia",6821,175171
+296,"Dinwiddie County,Virginia","Alexandria City County,Virginia",8452,238132
+297,"Dinwiddie County,Virginia","Bedford City County,Virginia",8082,199905
+298,"Dinwiddie County,Virginia","Bristol City County,Virginia",17927,483924
+299,"Dinwiddie County,Virginia","Buena Vista City County,Virginia",9397,224381
+300,"Dinwiddie County,Virginia","Charlottesville City County,Virginia",6707,185482
+301,"Dinwiddie County,Virginia","Chesapeake City County,Virginia",6889,157680
+302,"Dinwiddie County,Virginia","Clifton Forge City County,Virginia",11554,283621
+303,"Dinwiddie County,Virginia","Colonial Heights City County,Virginia",1808,37728
+304,"Dinwiddie County,Virginia","Covington City County,Virginia",12297,301964
+305,"Dinwiddie County,Virginia","Danville City County,Virginia",7668,193779
+306,"Dinwiddie County,Virginia","Emporia City County,Virginia",3009,62366
+307,"Dinwiddie County,Virginia","Fairfax City County,Virginia",8712,233095
+308,"Dinwiddie County,Virginia","Falls Church City County,Virginia",8660,245381
+309,"Dinwiddie County,Virginia","Franklin City County,Virginia",4803,99042
+310,"Dinwiddie County,Virginia","Fredericksburg City County,Virginia",6091,164800
+311,"Dinwiddie County,Virginia","Galax City County,Virginia",14413,407804
+312,"Dinwiddie County,Virginia","Hampton City County,Virginia",6771,184877
+313,"Dinwiddie County,Virginia","Harrisonburg City County,Virginia",9827,282751
+314,"Dinwiddie County,Virginia","Hopewell City County,Virginia",2720,49513
+315,"Dinwiddie County,Virginia","Lexington City County,Virginia",9928,233565
+316,"Dinwiddie County,Virginia","Lynchburg City County,Virginia",6808,163454
+317,"Dinwiddie County,Virginia","Manassas City County,Virginia",8681,231498
+318,"Dinwiddie County,Virginia","Manassas Park City County,Virginia",8901,228698
+319,"Dinwiddie County,Virginia","Martinsville City County,Virginia",9808,246784
+320,"Dinwiddie County,Virginia","Newport News City County,Virginia",6327,171363
+321,"Dinwiddie County,Virginia","Norfolk City County,Virginia",6842,156540
+322,"Dinwiddie County,Virginia","Norton City County,Virginia",20839,540029
+323,"Dinwiddie County,Virginia","Petersburg City County,Virginia",1558,35626
+324,"Dinwiddie County,Virginia","Poquoson City County,Virginia",6999,181940
+325,"Dinwiddie County,Virginia","Portsmouth City County,Virginia",6760,154075
+326,"Dinwiddie County,Virginia","Radford County,Virginia",12658,319230
+327,"Dinwiddie County,Virginia","Richmond City County,Virginia",2906,72022
+328,"Dinwiddie County,Virginia","Roanoke City County,Virginia",10304,245639
+329,"Dinwiddie County,Virginia","Salem City County,Virginia",10654,264238
+330,"Dinwiddie County,Virginia","South Boston City County,Virginia",5557,146345
+331,"Dinwiddie County,Virginia","Staunton City County,Virginia",8716,244432
+332,"Dinwiddie County,Virginia","Suffolk City County,Virginia",5863,128493
+333,"Dinwiddie County,Virginia","Virginia Beach City County,Virginia",7956,184336
+334,"Dinwiddie County,Virginia","Waynesboro City County,Virginia",7992,226430
+335,"Dinwiddie County,Virginia","Williamsburg City County,Virginia",5371,143612
+336,"Dinwiddie County,Virginia","Winchester City County,Virginia",11538,290369
+337,"Dinwiddie County,Virginia","Barbour County,West Virginia",19519,461153
+338,"Dinwiddie County,Virginia","Berkeley County,West Virginia",13319,340551
+339,"Dinwiddie County,Virginia","Boone County,West Virginia",21011,514509
+340,"Dinwiddie County,Virginia","Braxton County,West Virginia",20709,495183
+341,"Dinwiddie County,Virginia","Brooke County,West Virginia",23770,681794
+342,"Dinwiddie County,Virginia","Cabell County,West Virginia",22579,610415
+343,"Dinwiddie County,Virginia","Calhoun County,West Virginia",22480,549134
+344,"Dinwiddie County,Virginia","Clay County,West Virginia",20744,485967
+345,"Dinwiddie County,Virginia","Doddridge County,West Virginia",22972,523555
+346,"Dinwiddie County,Virginia","Fayette County,West Virginia",18133,432706
+347,"Dinwiddie County,Virginia","Gilmer County,West Virginia",22277,544863
+348,"Dinwiddie County,Virginia","Grant County,West Virginia",14766,394028
+349,"Dinwiddie County,Virginia","Greenbrier County,West Virginia",16489,391931
+350,"Dinwiddie County,Virginia","Hampshire County,West Virginia",13843,349627
+351,"Dinwiddie County,Virginia","Hancock County,West Virginia",24478,689730
+352,"Dinwiddie County,Virginia","Hardy County,West Virginia",14014,365358
+353,"Dinwiddie County,Virginia","Harrison County,West Virginia",21616,526023
+354,"Dinwiddie County,Virginia","Jackson County,West Virginia",21898,590225
+355,"Dinwiddie County,Virginia","Jefferson County,West Virginia",12217,328985
+356,"Dinwiddie County,Virginia","Kanawha County,West Virginia",19661,512208
+357,"Dinwiddie County,Virginia","Lewis County,West Virginia",20660,493518
+358,"Dinwiddie County,Virginia","Lincoln County,West Virginia",23243,588093
+359,"Dinwiddie County,Virginia","Logan County,West Virginia",22802,544998
+360,"Dinwiddie County,Virginia","McDowell County,West Virginia",19826,466002
+361,"Dinwiddie County,Virginia","Marion County,West Virginia",21088,604654
+362,"Dinwiddie County,Virginia","Marshall County,West Virginia",24757,676238
+363,"Dinwiddie County,Virginia","Mason County,West Virginia",22055,596321
+364,"Dinwiddie County,Virginia","Mercer County,West Virginia",15903,401292
+365,"Dinwiddie County,Virginia","Mineral County,West Virginia",16240,405552
+366,"Dinwiddie County,Virginia","Mingo County,West Virginia",23381,608933
+367,"Dinwiddie County,Virginia","Monongalia County,West Virginia",18911,556394
+368,"Dinwiddie County,Virginia","Monroe County,West Virginia",15423,378253
+369,"Dinwiddie County,Virginia","Morgan County,West Virginia",13565,341677
+370,"Dinwiddie County,Virginia","Nicholas County,West Virginia",18328,445356
+371,"Dinwiddie County,Virginia","Ohio County,West Virginia",23676,690740
+372,"Dinwiddie County,Virginia","Pendleton County,West Virginia",13615,354040
+373,"Dinwiddie County,Virginia","Pleasants County,West Virginia",24414,602163
+374,"Dinwiddie County,Virginia","Pocahontas County,West Virginia",16075,382134
+375,"Dinwiddie County,Virginia","Preston County,West Virginia",18946,472479
+376,"Dinwiddie County,Virginia","Putnam County,West Virginia",20836,561940
+377,"Dinwiddie County,Virginia","Raleigh County,West Virginia",16686,437389
+378,"Dinwiddie County,Virginia","Randolph County,West Virginia",17534,414547
+379,"Dinwiddie County,Virginia","Ritchie County,West Virginia",24325,596465
+380,"Dinwiddie County,Virginia","Roane County,West Virginia",23524,619041
+381,"Dinwiddie County,Virginia","Summers County,West Virginia",16638,399412
+382,"Dinwiddie County,Virginia","Taylor County,West Virginia",19289,490301
+383,"Dinwiddie County,Virginia","Tucker County,West Virginia",17426,455676
+384,"Dinwiddie County,Virginia","Tyler County,West Virginia",25340,594830
+385,"Dinwiddie County,Virginia","Upshur County,West Virginia",20130,450189
+386,"Dinwiddie County,Virginia","Wayne County,West Virginia",24170,643041
+387,"Dinwiddie County,Virginia","Webster County,West Virginia",19962,461555
+388,"Dinwiddie County,Virginia","Wetzel County,West Virginia",24295,577505
+389,"Dinwiddie County,Virginia","Wirt County,West Virginia",24164,647563
+390,"Dinwiddie County,Virginia","Wood County,West Virginia",23679,649253
+391,"Dinwiddie County,Virginia","Wyoming County,West Virginia",18631,477330

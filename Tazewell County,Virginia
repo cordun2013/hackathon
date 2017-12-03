@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Tazewell County,Virginia","Adair County,Kentucky",18402,441267
+1,"Tazewell County,Virginia","Allen County,Kentucky",21599,536909
+2,"Tazewell County,Virginia","Anderson County,Kentucky",17573,429066
+3,"Tazewell County,Virginia","Ballard County,Kentucky",28430,831996
+4,"Tazewell County,Virginia","Barren County,Kentucky",20148,500294
+5,"Tazewell County,Virginia","Bath County,Kentucky",14435,305881
+6,"Tazewell County,Virginia","Bell County,Kentucky",11291,248146
+7,"Tazewell County,Virginia","Boone County,Kentucky",19281,480774
+8,"Tazewell County,Virginia","Bourbon County,Kentucky",15575,362630
+9,"Tazewell County,Virginia","Boyd County,Kentucky",11103,312247
+10,"Tazewell County,Virginia","Boyle County,Kentucky",17629,415425
+11,"Tazewell County,Virginia","Bracken County,Kentucky",16752,458422
+12,"Tazewell County,Virginia","Breathitt County,Kentucky",11982,271966
+13,"Tazewell County,Virginia","Breckinridge County,Kentucky",23106,581747
+14,"Tazewell County,Virginia","Bullitt County,Kentucky",19676,502867
+15,"Tazewell County,Virginia","Butler County,Kentucky",23187,596768
+16,"Tazewell County,Virginia","Caldwell County,Kentucky",25569,739810
+17,"Tazewell County,Virginia","Calloway County,Kentucky",26271,763856
+18,"Tazewell County,Virginia","Campbell County,Kentucky",18453,498294
+19,"Tazewell County,Virginia","Carlisle County,Kentucky",28887,847365
+20,"Tazewell County,Virginia","Carroll County,Kentucky",20117,476881
+21,"Tazewell County,Virginia","Carter County,Kentucky",12267,342344
+22,"Tazewell County,Virginia","Casey County,Kentucky",18340,414541
+23,"Tazewell County,Virginia","Christian County,Kentucky",23164,684835
+24,"Tazewell County,Virginia","Clay County,Kentucky",12930,296545
+25,"Tazewell County,Virginia","Clinton County,Kentucky",18573,476146
+26,"Tazewell County,Virginia","Crittenden County,Kentucky",26834,772570
+27,"Tazewell County,Virginia","Cumberland County,Kentucky",19563,462871
+28,"Tazewell County,Virginia","Daviess County,Kentucky",24794,650188
+29,"Tazewell County,Virginia","Edmonson County,Kentucky",21677,544455
+30,"Tazewell County,Virginia","Elliott County,Kentucky",13348,270004
+31,"Tazewell County,Virginia","Estill County,Kentucky",14478,329559
+32,"Tazewell County,Virginia","Fayette County,Kentucky",15380,366559
+33,"Tazewell County,Virginia","Fleming County,Kentucky",14853,421108
+34,"Tazewell County,Virginia","Floyd County,Kentucky",8979,190438
+35,"Tazewell County,Virginia","Franklin County,Kentucky",17418,415475
+36,"Tazewell County,Virginia","Fulton County,Kentucky",29291,868329
+37,"Tazewell County,Virginia","Gallatin County,Kentucky",19115,467539
+38,"Tazewell County,Virginia","Garrard County,Kentucky",17298,400211
+39,"Tazewell County,Virginia","Grant County,Kentucky",17914,441647
+40,"Tazewell County,Virginia","Graves County,Kentucky",27912,820071
+41,"Tazewell County,Virginia","Grayson County,Kentucky",22098,560381
+42,"Tazewell County,Virginia","Green County,Kentucky",20155,483432
+43,"Tazewell County,Virginia","Greenup County,Kentucky",12878,353373
+44,"Tazewell County,Virginia","Hancock County,Kentucky",23902,614641
+45,"Tazewell County,Virginia","Hardin County,Kentucky",20975,522514
+46,"Tazewell County,Virginia","Harlan County,Kentucky",9894,195772
+47,"Tazewell County,Virginia","Harrison County,Kentucky",16888,390968
+48,"Tazewell County,Virginia","Hart County,Kentucky",21505,529709
+49,"Tazewell County,Virginia","Henderson County,Kentucky",26601,702617
+50,"Tazewell County,Virginia","Henry County,Kentucky",19019,459194
+51,"Tazewell County,Virginia","Hickman County,Kentucky",28920,848657
+52,"Tazewell County,Virginia","Hopkins County,Kentucky",25691,750088
+53,"Tazewell County,Virginia","Jackson County,Kentucky",14802,332963
+54,"Tazewell County,Virginia","Jefferson County,Kentucky",19113,474727
+55,"Tazewell County,Virginia","Jessamine County,Kentucky",16849,388023
+56,"Tazewell County,Virginia","Johnson County,Kentucky",9595,207668
+57,"Tazewell County,Virginia","Kenton County,Kentucky",19167,476490
+58,"Tazewell County,Virginia","Knott County,Kentucky",9522,214716
+59,"Tazewell County,Virginia","Knox County,Kentucky",12796,292954
+60,"Tazewell County,Virginia","Larue County,Kentucky",21046,509690
+61,"Tazewell County,Virginia","Laurel County,Kentucky",14531,333341
+62,"Tazewell County,Virginia","Lawrence County,Kentucky",11370,241355
+63,"Tazewell County,Virginia","Lee County,Kentucky",13463,295336
+64,"Tazewell County,Virginia","Leslie County,Kentucky",11829,253052
+65,"Tazewell County,Virginia","Letcher County,Kentucky",7922,178263
+66,"Tazewell County,Virginia","Lewis County,Kentucky",14306,394162
+67,"Tazewell County,Virginia","Lincoln County,Kentucky",16860,399792
+68,"Tazewell County,Virginia","Livingston County,Kentucky",26761,785935
+69,"Tazewell County,Virginia","Logan County,Kentucky",23550,602187
+70,"Tazewell County,Virginia","Lyon County,Kentucky",26518,763110
+71,"Tazewell County,Virginia","McCracken County,Kentucky",27042,800056
+72,"Tazewell County,Virginia","McCreary County,Kentucky",15579,412992
+73,"Tazewell County,Virginia","Madison County,Kentucky",15981,361575
+74,"Tazewell County,Virginia","Magoffin County,Kentucky",9939,211644
+75,"Tazewell County,Virginia","Marion County,Kentucky",19327,454029
+76,"Tazewell County,Virginia","Marshall County,Kentucky",26457,783628
+77,"Tazewell County,Virginia","Martin County,Kentucky",11124,233670
+78,"Tazewell County,Virginia","Mason County,Kentucky",16101,437968
+79,"Tazewell County,Virginia","Meade County,Kentucky",21573,547042
+80,"Tazewell County,Virginia","Menifee County,Kentucky",13607,285843
+81,"Tazewell County,Virginia","Mercer County,Kentucky",17801,427010
+82,"Tazewell County,Virginia","Metcalfe County,Kentucky",19058,471532
+83,"Tazewell County,Virginia","Monroe County,Kentucky",20013,527236
+84,"Tazewell County,Virginia","Montgomery County,Kentucky",14576,326528
+85,"Tazewell County,Virginia","Morgan County,Kentucky",12052,262830
+86,"Tazewell County,Virginia","Muhlenberg County,Kentucky",24982,650635
+87,"Tazewell County,Virginia","Nelson County,Kentucky",19032,470370
+88,"Tazewell County,Virginia","Nicholas County,Kentucky",16881,390549
+89,"Tazewell County,Virginia","Ohio County,Kentucky",23895,618224
+90,"Tazewell County,Virginia","Oldham County,Kentucky",19184,486609
+91,"Tazewell County,Virginia","Owen County,Kentucky",18239,442253
+92,"Tazewell County,Virginia","Owsley County,Kentucky",14119,309840
+93,"Tazewell County,Virginia","Pendleton County,Kentucky",18447,428096
+94,"Tazewell County,Virginia","Perry County,Kentucky",10496,235139
+95,"Tazewell County,Virginia","Pike County,Kentucky",7043,140182
+96,"Tazewell County,Virginia","Powell County,Kentucky",13363,297813
+97,"Tazewell County,Virginia","Robertson County,Kentucky",16836,463852
+98,"Tazewell County,Virginia","Rockcastle County,Kentucky",15342,361390
+99,"Tazewell County,Virginia","Rowan County,Kentucky",13570,390130
+100,"Tazewell County,Virginia","Russell County,Kentucky",18007,425250
+101,"Tazewell County,Virginia","Scott County,Kentucky",16214,394586
+102,"Tazewell County,Virginia","Shelby County,Kentucky",18041,445862
+103,"Tazewell County,Virginia","Simpson County,Kentucky",22563,613711
+104,"Tazewell County,Virginia","Spencer County,Kentucky",18571,451710
+105,"Tazewell County,Virginia","Taylor County,Kentucky",19756,465526
+106,"Tazewell County,Virginia","Todd County,Kentucky",23579,677782
+107,"Tazewell County,Virginia","Trigg County,Kentucky",24071,702195
+108,"Tazewell County,Virginia","Trimble County,Kentucky",20258,492649
+109,"Tazewell County,Virginia","Union County,Kentucky",28320,733064
+110,"Tazewell County,Virginia","Warren County,Kentucky",22174,556009
+111,"Tazewell County,Virginia","Washington County,Kentucky",19042,455607
+112,"Tazewell County,Virginia","Wayne County,Kentucky",18183,422323
+113,"Tazewell County,Virginia","Webster County,Kentucky",26800,778176
+114,"Tazewell County,Virginia","Whitley County,Kentucky",14293,321338
+115,"Tazewell County,Virginia","Wolfe County,Kentucky",11966,263581
+116,"Tazewell County,Virginia","Woodford County,Kentucky",16434,397222
+117,"Tazewell County,Virginia","Adams County,Ohio",16193,440525
+118,"Tazewell County,Virginia","Allen County,Ohio",22926,615942
+119,"Tazewell County,Virginia","Ashland County,Ohio",20670,569833
+120,"Tazewell County,Virginia","Ashtabula County,Ohio",23358,690731
+121,"Tazewell County,Virginia","Athens County,Ohio",12602,346124
+122,"Tazewell County,Virginia","Auglaize County,Ohio",22176,632642
+123,"Tazewell County,Virginia","Belmont County,Ohio",16421,479655
+124,"Tazewell County,Virginia","Brown County,Ohio",17438,467452
+125,"Tazewell County,Virginia","Butler County,Ohio",20551,549478
+126,"Tazewell County,Virginia","Carroll County,Ohio",18350,516542
+127,"Tazewell County,Virginia","Champaign County,Ohio",19479,534739
+128,"Tazewell County,Virginia","Clark County,Ohio",18159,494284
+129,"Tazewell County,Virginia","Clermont County,Ohio",18272,498549
+130,"Tazewell County,Virginia","Clinton County,Ohio",17663,481965
+131,"Tazewell County,Virginia","Columbiana County,Ohio",20192,570777
+132,"Tazewell County,Virginia","Coshocton County,Ohio",16985,487658
+133,"Tazewell County,Virginia","Crawford County,Ohio",21277,580993
+134,"Tazewell County,Virginia","Cuyahoga County,Ohio",20386,601946
+135,"Tazewell County,Virginia","Darke County,Ohio",21273,589689
+136,"Tazewell County,Virginia","Defiance County,Ohio",26361,694263
+137,"Tazewell County,Virginia","Delaware County,Ohio",18431,513731
+138,"Tazewell County,Virginia","Fairfield County,Ohio",15962,440825
+139,"Tazewell County,Virginia","Fayette County,Ohio",16227,452429
+140,"Tazewell County,Virginia","Franklin County,Ohio",16962,470680
+141,"Tazewell County,Virginia","Fulton County,Ohio",26368,736562
+142,"Tazewell County,Virginia","Gallia County,Ohio",11540,311541
+143,"Tazewell County,Virginia","Geauga County,Ohio",21458,627663
+144,"Tazewell County,Virginia","Greene County,Ohio",17097,485581
+145,"Tazewell County,Virginia","Guernsey County,Ohio",14536,425577
+146,"Tazewell County,Virginia","Hamilton County,Ohio",20052,560055
+147,"Tazewell County,Virginia","Hancock County,Ohio",22454,622086
+148,"Tazewell County,Virginia","Hardin County,Ohio",21436,571772
+149,"Tazewell County,Virginia","Harrison County,Ohio",17356,498607
+150,"Tazewell County,Virginia","Henry County,Ohio",25167,693707
+151,"Tazewell County,Virginia","Highland County,Ohio",16731,440538
+152,"Tazewell County,Virginia","Hocking County,Ohio",14404,396788
+153,"Tazewell County,Virginia","Holmes County,Ohio",18044,510543
+154,"Tazewell County,Virginia","Huron County,Ohio",22567,611462
+155,"Tazewell County,Virginia","Jackson County,Ohio",12717,351090
+156,"Tazewell County,Virginia","Jefferson County,Ohio",18349,508385
+157,"Tazewell County,Virginia","Knox County,Ohio",18774,530134
+158,"Tazewell County,Virginia","Lawrence County,Ohio",12242,317303
+159,"Tazewell County,Virginia","Licking County,Ohio",17907,467834
+160,"Tazewell County,Virginia","Logan County,Ohio",20457,566049
+161,"Tazewell County,Virginia","Lorain County,Ohio",21611,631769
+162,"Tazewell County,Virginia","Lucas County,Ohio",26090,709585
+163,"Tazewell County,Virginia","Madison County,Ohio",17928,475513
+164,"Tazewell County,Virginia","Mahoning County,Ohio",20687,585582
+165,"Tazewell County,Virginia","Marion County,Ohio",19838,539824
+166,"Tazewell County,Virginia","Medina County,Ohio",20059,587977
+167,"Tazewell County,Virginia","Meigs County,Ohio",11482,317094
+168,"Tazewell County,Virginia","Mercer County,Ohio",23411,659576
+169,"Tazewell County,Virginia","Miami County,Ohio",19762,555081
+170,"Tazewell County,Virginia","Monroe County,Ohio",15472,414769
+171,"Tazewell County,Virginia","Montgomery County,Ohio",19131,533037
+172,"Tazewell County,Virginia","Morgan County,Ohio",14477,401417
+173,"Tazewell County,Virginia","Morrow County,Ohio",19239,536551
+174,"Tazewell County,Virginia","Muskingum County,Ohio",15382,453569
+175,"Tazewell County,Virginia","Noble County,Ohio",13978,397929
+176,"Tazewell County,Virginia","Paulding County,Ohio",25462,691848
+177,"Tazewell County,Virginia","Perry County,Ohio",15819,411544
+178,"Tazewell County,Virginia","Pickaway County,Ohio",15667,432528
+179,"Tazewell County,Virginia","Pike County,Ohio",14163,390396
+180,"Tazewell County,Virginia","Portage County,Ohio",19908,583528
+181,"Tazewell County,Virginia","Preble County,Ohio",20750,561615
+182,"Tazewell County,Virginia","Putnam County,Ohio",24048,648301
+183,"Tazewell County,Virginia","Richland County,Ohio",20269,571790
+184,"Tazewell County,Virginia","Ross County,Ohio",14411,398834
+185,"Tazewell County,Virginia","Sandusky County,Ohio",24211,640781
+186,"Tazewell County,Virginia","Scioto County,Ohio",14047,374577
+187,"Tazewell County,Virginia","Seneca County,Ohio",22828,614665
+188,"Tazewell County,Virginia","Shelby County,Ohio",20800,591366
+189,"Tazewell County,Virginia","Stark County,Ohio",18209,531777
+190,"Tazewell County,Virginia","Summit County,Ohio",18968,557565
+191,"Tazewell County,Virginia","Trumbull County,Ohio",21642,611829
+192,"Tazewell County,Virginia","Tuscarawas County,Ohio",16410,472364
+193,"Tazewell County,Virginia","Union County,Ohio",18961,516280
+194,"Tazewell County,Virginia","Van Wert County,Ohio",24160,658812
+195,"Tazewell County,Virginia","Vinton County,Ohio",14613,376595
+196,"Tazewell County,Virginia","Warren County,Ohio",18469,516024
+197,"Tazewell County,Virginia","Washington County,Ohio",12836,355866
+198,"Tazewell County,Virginia","Wayne County,Ohio",19180,534655
+199,"Tazewell County,Virginia","Williams County,Ohio",27538,717779
+200,"Tazewell County,Virginia","Wood County,Ohio",23852,663693
+201,"Tazewell County,Virginia","Wyandot County,Ohio",21424,586221
+202,"Tazewell County,Virginia","Accomack County,Virginia",26841,758472
+203,"Tazewell County,Virginia","Albemarle County,Virginia",12991,370971
+204,"Tazewell County,Virginia","Alleghany County,Virginia",8339,230624
+205,"Tazewell County,Virginia","Amelia County,Virginia",15563,409827
+206,"Tazewell County,Virginia","Amherst County,Virginia",12465,315886
+207,"Tazewell County,Virginia","Appomattox County,Virginia",12640,329495
+208,"Tazewell County,Virginia","Arlington County,Virginia",19675,571281
+209,"Tazewell County,Virginia","Augusta County,Virginia",12280,331940
+210,"Tazewell County,Virginia","Bath County,Virginia",11350,305933
+211,"Tazewell County,Virginia","Bedford County,Virginia",10373,260805
+212,"Tazewell County,Virginia","Bland County,Virginia",3087,72315
+213,"Tazewell County,Virginia","Botetourt County,Virginia",9229,244870
+214,"Tazewell County,Virginia","Brunswick County,Virginia",17534,496921
+215,"Tazewell County,Virginia","Buchanan County,Virginia",3406,66372
+216,"Tazewell County,Virginia","Buckingham County,Virginia",13754,353405
+217,"Tazewell County,Virginia","Campbell County,Virginia",11789,302041
+218,"Tazewell County,Virginia","Caroline County,Virginia",18330,539817
+219,"Tazewell County,Virginia","Carroll County,Virginia",5333,141752
+220,"Tazewell County,Virginia","Charles City County,Virginia",18431,536852
+221,"Tazewell County,Virginia","Charlotte County,Virginia",14338,369977
+222,"Tazewell County,Virginia","Chesterfield County,Virginia",17257,448716
+223,"Tazewell County,Virginia","Clarke County,Virginia",17171,498029
+224,"Tazewell County,Virginia","Craig County,Virginia",6619,153255
+225,"Tazewell County,Virginia","Culpeper County,Virginia",16788,460188
+226,"Tazewell County,Virginia","Cumberland County,Virginia",15168,390637
+227,"Tazewell County,Virginia","Dickenson County,Virginia",6086,106477
+228,"Tazewell County,Virginia","Dinwiddie County,Virginia",17336,452888
+229,"Tazewell County,Virginia","Essex County,Virginia",20148,563859
+230,"Tazewell County,Virginia","Fairfax County,Virginia",19298,561557
+231,"Tazewell County,Virginia","Fauquier County,Virginia",17609,519281
+232,"Tazewell County,Virginia","Floyd County,Virginia",7225,181853
+233,"Tazewell County,Virginia","Fluvanna County,Virginia",14669,423143
+234,"Tazewell County,Virginia","Franklin County,Virginia",9886,262039
+235,"Tazewell County,Virginia","Frederick County,Virginia",16623,485756
+236,"Tazewell County,Virginia","Giles County,Virginia",4669,109948
+237,"Tazewell County,Virginia","Gloucester County,Virginia",20601,591040
+238,"Tazewell County,Virginia","Goochland County,Virginia",15572,453754
+239,"Tazewell County,Virginia","Grayson County,Virginia",5735,131459
+240,"Tazewell County,Virginia","Greene County,Virginia",14984,406556
+241,"Tazewell County,Virginia","Greensville County,Virginia",18730,514340
+242,"Tazewell County,Virginia","Halifax County,Virginia",13636,339439
+243,"Tazewell County,Virginia","Hanover County,Virginia",16779,494861
+244,"Tazewell County,Virginia","Henrico County,Virginia",17290,507820
+245,"Tazewell County,Virginia","Henry County,Virginia",9206,228473
+246,"Tazewell County,Virginia","Highland County,Virginia",12939,275244
+247,"Tazewell County,Virginia","Isle of Wight County,Virginia",21456,553008
+248,"Tazewell County,Virginia","James City County,Virginia",19667,577622
+249,"Tazewell County,Virginia","King and Queen County,Virginia",19325,553206
+250,"Tazewell County,Virginia","King George County,Virginia",19443,567803
+251,"Tazewell County,Virginia","King William County,Virginia",18012,523129
+252,"Tazewell County,Virginia","Lancaster County,Virginia",21805,606214
+253,"Tazewell County,Virginia","Lee County,Virginia",7694,174570
+254,"Tazewell County,Virginia","Loudoun County,Virginia",18667,533896
+255,"Tazewell County,Virginia","Louisa County,Virginia",15230,436849
+256,"Tazewell County,Virginia","Lunenburg County,Virginia",16110,411261
+257,"Tazewell County,Virginia","Madison County,Virginia",15904,436296
+258,"Tazewell County,Virginia","Mathews County,Virginia",21426,614463
+259,"Tazewell County,Virginia","Mecklenburg County,Virginia",15669,390985
+260,"Tazewell County,Virginia","Middlesex County,Virginia",20203,587240
+261,"Tazewell County,Virginia","Montgomery County,Virginia",5752,137955
+262,"Tazewell County,Virginia","Nelson County,Virginia",13016,346283
+263,"Tazewell County,Virginia","New Kent County,Virginia",19103,551536
+264,"Tazewell County,Virginia","Northampton County,Virginia",24084,694286
+265,"Tazewell County,Virginia","Northumberland County,Virginia",21845,604726
+266,"Tazewell County,Virginia","Nottoway County,Virginia",15603,411641
+267,"Tazewell County,Virginia","Orange County,Virginia",16192,444957
+268,"Tazewell County,Virginia","Page County,Virginia",14837,420081
+269,"Tazewell County,Virginia","Patrick County,Virginia",7438,186788
+270,"Tazewell County,Virginia","Pittsylvania County,Virginia",11522,282681
+271,"Tazewell County,Virginia","Powhatan County,Virginia",16665,425344
+272,"Tazewell County,Virginia","Prince Edward County,Virginia",14218,368976
+273,"Tazewell County,Virginia","Prince George County,Virginia",18991,492262
+274,"Tazewell County,Virginia","Prince William County,Virginia",17709,525384
+275,"Tazewell County,Virginia","Pulaski County,Virginia",5076,133173
+276,"Tazewell County,Virginia","Rappahannock County,Virginia",16668,456568
+277,"Tazewell County,Virginia","Richmond County,Virginia",20545,577370
+278,"Tazewell County,Virginia","Roanoke County,Virginia",7180,192293
+279,"Tazewell County,Virginia","Rockbridge County,Virginia",10677,288941
+280,"Tazewell County,Virginia","Rockingham County,Virginia",13877,392432
+281,"Tazewell County,Virginia","Russell County,Virginia",3220,62323
+282,"Tazewell County,Virginia","Scott County,Virginia",5884,130450
+283,"Tazewell County,Virginia","Shenandoah County,Virginia",14381,422535
+284,"Tazewell County,Virginia","Smyth County,Virginia",3624,52793
+285,"Tazewell County,Virginia","Southampton County,Virginia",20346,571863
+286,"Tazewell County,Virginia","Spotsylvania County,Virginia",17246,478687
+287,"Tazewell County,Virginia","Stafford County,Virginia",18627,502980
+288,"Tazewell County,Virginia","Surry County,Virginia",20410,576484
+289,"Tazewell County,Virginia","Sussex County,Virginia",19345,498019
+290,"Tazewell County,Virginia","Warren County,Virginia",16283,467128
+291,"Tazewell County,Virginia","Washington County,Virginia",4036,90594
+292,"Tazewell County,Virginia","Westmoreland County,Virginia",20418,584628
+293,"Tazewell County,Virginia","Wise County,Virginia",5997,134659
+294,"Tazewell County,Virginia","Wythe County,Virginia",3692,90532
+295,"Tazewell County,Virginia","York County,Virginia",20954,608397
+296,"Tazewell County,Virginia","Alexandria City County,Virginia",19878,583927
+297,"Tazewell County,Virginia","Bedford City County,Virginia",9537,252237
+298,"Tazewell County,Virginia","Bristol City County,Virginia",4876,111480
+299,"Tazewell County,Virginia","Buena Vista City County,Virginia",10049,281429
+300,"Tazewell County,Virginia","Charlottesville City County,Virginia",13460,386186
+301,"Tazewell County,Virginia","Chesapeake City County,Virginia",22418,661302
+302,"Tazewell County,Virginia","Clifton Forge City County,Virginia",8882,250830
+303,"Tazewell County,Virginia","Colonial Heights City County,Virginia",18127,530528
+304,"Tazewell County,Virginia","Covington City County,Virginia",8408,234209
+305,"Tazewell County,Virginia","Danville City County,Virginia",11364,282929
+306,"Tazewell County,Virginia","Emporia City County,Virginia",18886,528528
+307,"Tazewell County,Virginia","Fairfax City County,Virginia",18841,551132
+308,"Tazewell County,Virginia","Falls Church City County,Virginia",19173,565605
+309,"Tazewell County,Virginia","Franklin City County,Virginia",20973,584998
+310,"Tazewell County,Virginia","Fredericksburg City County,Virginia",18379,488347
+311,"Tazewell County,Virginia","Galax City County,Virginia",5956,147618
+312,"Tazewell County,Virginia","Hampton City County,Virginia",20905,618103
+313,"Tazewell County,Virginia","Harrisonburg City County,Virginia",12936,372328
+314,"Tazewell County,Virginia","Hopewell City County,Virginia",18163,529494
+315,"Tazewell County,Virginia","Lexington City County,Virginia",9963,279756
+316,"Tazewell County,Virginia","Lynchburg City County,Virginia",11562,297112
+317,"Tazewell County,Virginia","Manassas City County,Virginia",17936,530329
+318,"Tazewell County,Virginia","Manassas Park City County,Virginia",18439,536672
+319,"Tazewell County,Virginia","Martinsville City County,Virginia",9734,237266
+320,"Tazewell County,Virginia","Newport News City County,Virginia",20461,604589
+321,"Tazewell County,Virginia","Norfolk City County,Virginia",22211,643519
+322,"Tazewell County,Virginia","Norton City County,Virginia",5521,125549
+323,"Tazewell County,Virginia","Petersburg City County,Virginia",17994,474865
+324,"Tazewell County,Virginia","Poquoson City County,Virginia",21133,615166
+325,"Tazewell County,Virginia","Portsmouth City County,Virginia",22150,652340
+326,"Tazewell County,Virginia","Radford County,Virginia",5509,114699
+327,"Tazewell County,Virginia","Richmond City County,Virginia",16866,495631
+328,"Tazewell County,Virginia","Roanoke City County,Virginia",7782,212398
+329,"Tazewell County,Virginia","Salem City County,Virginia",7194,198948
+330,"Tazewell County,Virginia","South Boston City County,Virginia",13376,337107
+331,"Tazewell County,Virginia","Staunton City County,Virginia",11753,333463
+332,"Tazewell County,Virginia","Suffolk City County,Virginia",22289,618301
+333,"Tazewell County,Virginia","Virginia Beach City County,Virginia",22772,666777
+334,"Tazewell County,Virginia","Waynesboro City County,Virginia",12091,346181
+335,"Tazewell County,Virginia","Williamsburg City County,Virginia",19505,576838
+336,"Tazewell County,Virginia","Winchester City County,Virginia",16502,481900
+337,"Tazewell County,Virginia","Barbour County,West Virginia",13628,357090
+338,"Tazewell County,Virginia","Berkeley County,West Virginia",18240,529107
+339,"Tazewell County,Virginia","Boone County,West Virginia",8991,194602
+340,"Tazewell County,Virginia","Braxton County,West Virginia",10318,248070
+341,"Tazewell County,Virginia","Brooke County,West Virginia",17987,488884
+342,"Tazewell County,Virginia","Cabell County,West Virginia",10559,290508
+343,"Tazewell County,Virginia","Calhoun County,West Virginia",11994,315987
+344,"Tazewell County,Virginia","Clay County,West Virginia",8984,211507
+345,"Tazewell County,Virginia","Doddridge County,West Virginia",13832,333946
+346,"Tazewell County,Virginia","Fayette County,West Virginia",6491,157244
+347,"Tazewell County,Virginia","Gilmer County,West Virginia",11886,297749
+348,"Tazewell County,Virginia","Grant County,West Virginia",17297,375614
+349,"Tazewell County,Virginia","Greenbrier County,West Virginia",8293,187765
+350,"Tazewell County,Virginia","Hampshire County,West Virginia",18359,500011
+351,"Tazewell County,Virginia","Hancock County,West Virginia",19613,516231
+352,"Tazewell County,Virginia","Hardy County,West Virginia",17580,482924
+353,"Tazewell County,Virginia","Harrison County,West Virginia",12862,343461
+354,"Tazewell County,Virginia","Jackson County,West Virginia",9878,270318
+355,"Tazewell County,Virginia","Jefferson County,West Virginia",18291,516513
+356,"Tazewell County,Virginia","Kanawha County,West Virginia",7641,192301
+357,"Tazewell County,Virginia","Lewis County,West Virginia",11491,296931
+358,"Tazewell County,Virginia","Lincoln County,West Virginia",11223,268186
+359,"Tazewell County,Virginia","Logan County,West Virginia",8710,152800
+360,"Tazewell County,Virginia","McDowell County,West Virginia",3545,51495
+361,"Tazewell County,Virginia","Marion County,West Virginia",14007,370628
+362,"Tazewell County,Virginia","Marshall County,West Virginia",17886,458004
+363,"Tazewell County,Virginia","Mason County,West Virginia",10034,276414
+364,"Tazewell County,Virginia","Mercer County,West Virginia",3070,72908
+365,"Tazewell County,Virginia","Mineral County,West Virginia",19893,421273
+366,"Tazewell County,Virginia","Mingo County,West Virginia",9430,162070
+367,"Tazewell County,Virginia","Monongalia County,West Virginia",14218,396097
+368,"Tazewell County,Virginia","Monroe County,West Virginia",5534,122307
+369,"Tazewell County,Virginia","Morgan County,West Virginia",18486,530233
+370,"Tazewell County,Virginia","Nicholas County,West Virginia",7937,198242
+371,"Tazewell County,Virginia","Ohio County,West Virginia",17518,503141
+372,"Tazewell County,Virginia","Pendleton County,West Virginia",15077,323339
+373,"Tazewell County,Virginia","Pleasants County,West Virginia",13360,368170
+374,"Tazewell County,Virginia","Pocahontas County,West Virginia",11372,267978
+375,"Tazewell County,Virginia","Preston County,West Virginia",16364,422828
+376,"Tazewell County,Virginia","Putnam County,West Virginia",8816,242033
+377,"Tazewell County,Virginia","Raleigh County,West Virginia",4666,117482
+378,"Tazewell County,Virginia","Randolph County,West Virginia",13993,359386
+379,"Tazewell County,Virginia","Ritchie County,West Virginia",13691,381874
+380,"Tazewell County,Virginia","Roane County,West Virginia",11503,299134
+381,"Tazewell County,Virginia","Summers County,West Virginia",5625,117847
+382,"Tazewell County,Virginia","Taylor County,West Virginia",13900,366201
+383,"Tazewell County,Virginia","Tucker County,West Virginia",15060,389910
+384,"Tazewell County,Virginia","Tyler County,West Virginia",15269,407786
+385,"Tazewell County,Virginia","Upshur County,West Virginia",13056,311628
+386,"Tazewell County,Virginia","Wayne County,West Virginia",12150,323134
+387,"Tazewell County,Virginia","Webster County,West Virginia",11281,255194
+388,"Tazewell County,Virginia","Wetzel County,West Virginia",15541,394943
+389,"Tazewell County,Virginia","Wirt County,West Virginia",12144,327656
+390,"Tazewell County,Virginia","Wood County,West Virginia",11659,329346
+391,"Tazewell County,Virginia","Wyoming County,West Virginia",5156,81103

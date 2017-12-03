@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Prince George County,Virginia","Adair County,Kentucky",34834,888792
+1,"Prince George County,Virginia","Allen County,Kentucky",36230,1008602
+2,"Prince George County,Virginia","Anderson County,Kentucky",30533,906555
+3,"Prince George County,Virginia","Ballard County,Kentucky",43135,1243857
+4,"Prince George County,Virginia","Barren County,Kentucky",36020,967547
+5,"Prince George County,Virginia","Bath County,Kentucky",26181,777736
+6,"Prince George County,Virginia","Bell County,Kentucky",27330,690098
+7,"Prince George County,Virginia","Boone County,Kentucky",31994,899129
+8,"Prince George County,Virginia","Bourbon County,Kentucky",28095,824153
+9,"Prince George County,Virginia","Boyd County,Kentucky",22856,672060
+10,"Prince George County,Virginia","Boyle County,Kentucky",31762,910441
+11,"Prince George County,Virginia","Bracken County,Kentucky",28505,818236
+12,"Prince George County,Virginia","Breathitt County,Kentucky",28954,725862
+13,"Prince George County,Virginia","Breckinridge County,Kentucky",36067,1059236
+14,"Prince George County,Virginia","Bullitt County,Kentucky",32637,980355
+15,"Prince George County,Virginia","Butler County,Kentucky",36732,1081234
+16,"Prince George County,Virginia","Caldwell County,Kentucky",39624,1187179
+17,"Prince George County,Virginia","Calloway County,Kentucky",40976,1175716
+18,"Prince George County,Virginia","Campbell County,Kentucky",30206,858107
+19,"Prince George County,Virginia","Carlisle County,Kentucky",43592,1259225
+20,"Prince George County,Virginia","Carroll County,Kentucky",33078,954369
+21,"Prince George County,Virginia","Carter County,Kentucky",24021,702157
+22,"Prince George County,Virginia","Casey County,Kentucky",33257,941946
+23,"Prince George County,Virginia","Christian County,Kentucky",37869,1096695
+24,"Prince George County,Virginia","Clay County,Kentucky",29902,750441
+25,"Prince George County,Virginia","Clinton County,Kentucky",33278,888006
+26,"Prince George County,Virginia","Crittenden County,Kentucky",41203,1220249
+27,"Prince George County,Virginia","Cumberland County,Kentucky",34157,908675
+28,"Prince George County,Virginia","Daviess County,Kentucky",37755,1127676
+29,"Prince George County,Virginia","Edmonson County,Kentucky",36172,1069108
+30,"Prince George County,Virginia","Elliott County,Kentucky",25352,727928
+31,"Prince George County,Virginia","Estill County,Kentucky",29173,840051
+32,"Prince George County,Virginia","Fayette County,Kentucky",28341,844047
+33,"Prince George County,Virginia","Fleming County,Kentucky",26607,780921
+34,"Prince George County,Virginia","Floyd County,Kentucky",26989,779325
+35,"Prince George County,Virginia","Franklin County,Kentucky",30378,892964
+36,"Prince George County,Virginia","Fulton County,Kentucky",43996,1280189
+37,"Prince George County,Virginia","Gallatin County,Kentucky",32076,945028
+38,"Prince George County,Virginia","Garrard County,Kentucky",30945,891201
+39,"Prince George County,Virginia","Grant County,Kentucky",30875,919135
+40,"Prince George County,Virginia","Graves County,Kentucky",42617,1231931
+41,"Prince George County,Virginia","Grayson County,Kentucky",35059,1037870
+42,"Prince George County,Virginia","Green County,Kentucky",34839,1003075
+43,"Prince George County,Virginia","Greenup County,Kentucky",24632,713187
+44,"Prince George County,Virginia","Hancock County,Kentucky",36862,1092129
+45,"Prince George County,Virginia","Hardin County,Kentucky",33935,1000002
+46,"Prince George County,Virginia","Harlan County,Kentucky",26404,666725
+47,"Prince George County,Virginia","Harrison County,Kentucky",29665,857253
+48,"Prince George County,Virginia","Hart County,Kentucky",34735,1027631
+49,"Prince George County,Virginia","Henderson County,Kentucky",39561,1180106
+50,"Prince George County,Virginia","Henry County,Kentucky",31980,936682
+51,"Prince George County,Virginia","Hickman County,Kentucky",43625,1260517
+52,"Prince George County,Virginia","Hopkins County,Kentucky",39082,1161647
+53,"Prince George County,Virginia","Jackson County,Kentucky",31774,786859
+54,"Prince George County,Virginia","Jefferson County,Kentucky",32073,952216
+55,"Prince George County,Virginia","Jessamine County,Kentucky",29810,865511
+56,"Prince George County,Virginia","Johnson County,Kentucky",25638,744956
+57,"Prince George County,Virginia","Kenton County,Kentucky",31363,886823
+58,"Prince George County,Virginia","Knott County,Kentucky",26494,668612
+59,"Prince George County,Virginia","Knox County,Kentucky",28660,732091
+60,"Prince George County,Virginia","Larue County,Kentucky",34007,987178
+61,"Prince George County,Virginia","Laurel County,Kentucky",30554,766918
+62,"Prince George County,Virginia","Lawrence County,Kentucky",24779,716380
+63,"Prince George County,Virginia","Lee County,Kentucky",30018,833788
+64,"Prince George County,Virginia","Leslie County,Kentucky",27867,695004
+65,"Prince George County,Virginia","Letcher County,Kentucky",24895,632159
+66,"Prince George County,Virginia","Lewis County,Kentucky",26059,753975
+67,"Prince George County,Virginia","Lincoln County,Kentucky",31655,908119
+68,"Prince George County,Virginia","Livingston County,Kentucky",41466,1197795
+69,"Prince George County,Virginia","Logan County,Kentucky",38301,1049596
+70,"Prince George County,Virginia","Lyon County,Kentucky",41223,1174970
+71,"Prince George County,Virginia","McCracken County,Kentucky",41747,1211916
+72,"Prince George County,Virginia","McCreary County,Kentucky",30284,824852
+73,"Prince George County,Virginia","Madison County,Kentucky",29339,855071
+74,"Prince George County,Virginia","Magoffin County,Kentucky",26605,765635
+75,"Prince George County,Virginia","Marion County,Kentucky",32385,948787
+76,"Prince George County,Virginia","Marshall County,Kentucky",41162,1195488
+77,"Prince George County,Virginia","Martin County,Kentucky",25893,698104
+78,"Prince George County,Virginia","Mason County,Kentucky",27854,797782
+79,"Prince George County,Virginia","Meade County,Kentucky",34534,1024531
+80,"Prince George County,Virginia","Menifee County,Kentucky",27297,789799
+81,"Prince George County,Virginia","Mercer County,Kentucky",30761,904498
+82,"Prince George County,Virginia","Metcalfe County,Kentucky",35490,919057
+83,"Prince George County,Virginia","Monroe County,Kentucky",34718,939096
+84,"Prince George County,Virginia","Montgomery County,Kentucky",26994,796276
+85,"Prince George County,Virginia","Morgan County,Kentucky",27075,765515
+86,"Prince George County,Virginia","Muhlenberg County,Kentucky",37943,1128123
+87,"Prince George County,Virginia","Nelson County,Kentucky",31992,947859
+88,"Prince George County,Virginia","Nicholas County,Kentucky",28672,824160
+89,"Prince George County,Virginia","Ohio County,Kentucky",36856,1095713
+90,"Prince George County,Virginia","Oldham County,Kentucky",32145,964097
+91,"Prince George County,Virginia","Owen County,Kentucky",31200,919741
+92,"Prince George County,Virginia","Owsley County,Kentucky",31092,763736
+93,"Prince George County,Virginia","Pendleton County,Kentucky",30443,859160
+94,"Prince George County,Virginia","Perry County,Kentucky",27468,689035
+95,"Prince George County,Virginia","Pike County,Kentucky",26089,663350
+96,"Prince George County,Virginia","Powell County,Kentucky",28437,826022
+97,"Prince George County,Virginia","Robertson County,Kentucky",28589,823666
+98,"Prince George County,Virginia","Rockcastle County,Kentucky",30773,896213
+99,"Prince George County,Virginia","Rowan County,Kentucky",25323,749943
+100,"Prince George County,Virginia","Russell County,Kentucky",34439,872775
+101,"Prince George County,Virginia","Scott County,Kentucky",29175,872074
+102,"Prince George County,Virginia","Shelby County,Kentucky",31002,923350
+103,"Prince George County,Virginia","Simpson County,Kentucky",37268,1025571
+104,"Prince George County,Virginia","Spencer County,Kentucky",31531,929198
+105,"Prince George County,Virginia","Taylor County,Kentucky",33674,980283
+106,"Prince George County,Virginia","Todd County,Kentucky",38284,1089642
+107,"Prince George County,Virginia","Trigg County,Kentucky",38776,1114055
+108,"Prince George County,Virginia","Trimble County,Kentucky",33218,970137
+109,"Prince George County,Virginia","Union County,Kentucky",41281,1210552
+110,"Prince George County,Virginia","Warren County,Kentucky",37088,1097478
+111,"Prince George County,Virginia","Washington County,Kentucky",32002,933095
+112,"Prince George County,Virginia","Wayne County,Kentucky",32788,871983
+113,"Prince George County,Virginia","Webster County,Kentucky",40191,1189736
+114,"Prince George County,Virginia","Whitley County,Kentucky",28888,809615
+115,"Prince George County,Virginia","Wolfe County,Kentucky",28170,788877
+116,"Prince George County,Virginia","Woodford County,Kentucky",29395,874710
+117,"Prince George County,Virginia","Adams County,Ohio",27947,800338
+118,"Prince George County,Virginia","Allen County,Ohio",34679,975756
+119,"Prince George County,Virginia","Ashland County,Ohio",29533,856482
+120,"Prince George County,Virginia","Ashtabula County,Ohio",27530,810952
+121,"Prince George County,Virginia","Athens County,Ohio",24355,705937
+122,"Prince George County,Virginia","Auglaize County,Ohio",33929,992455
+123,"Prince George County,Virginia","Belmont County,Ohio",24100,707247
+124,"Prince George County,Virginia","Brown County,Ohio",29191,827266
+125,"Prince George County,Virginia","Butler County,Ohio",32304,909291
+126,"Prince George County,Virginia","Carroll County,Ohio",26046,723173
+127,"Prince George County,Virginia","Champaign County,Ohio",31233,894553
+128,"Prince George County,Virginia","Clark County,Ohio",29912,854097
+129,"Prince George County,Virginia","Clermont County,Ohio",30025,858362
+130,"Prince George County,Virginia","Clinton County,Ohio",29416,841779
+131,"Prince George County,Virginia","Columbiana County,Ohio",24833,705190
+132,"Prince George County,Virginia","Coshocton County,Ohio",28457,832697
+133,"Prince George County,Virginia","Crawford County,Ohio",31442,927676
+134,"Prince George County,Virginia","Cuyahoga County,Ohio",27526,808796
+135,"Prince George County,Virginia","Darke County,Ohio",33027,949502
+136,"Prince George County,Virginia","Defiance County,Ohio",35845,1057759
+137,"Prince George County,Virginia","Delaware County,Ohio",30185,873544
+138,"Prince George County,Virginia","Fairfield County,Ohio",27716,800638
+139,"Prince George County,Virginia","Fayette County,Ohio",27980,812242
+140,"Prince George County,Virginia","Franklin County,Ohio",28716,830493
+141,"Prince George County,Virginia","Fulton County,Ohio",34197,1014610
+142,"Prince George County,Virginia","Gallia County,Ohio",23293,671354
+143,"Prince George County,Virginia","Geauga County,Ohio",27020,783614
+144,"Prince George County,Virginia","Greene County,Ohio",28850,845395
+145,"Prince George County,Virginia","Guernsey County,Ohio",26004,770756
+146,"Prince George County,Virginia","Hamilton County,Ohio",31806,919869
+147,"Prince George County,Virginia","Hancock County,Ohio",33472,989757
+148,"Prince George County,Virginia","Hardin County,Ohio",33190,931585
+149,"Prince George County,Virginia","Harrison County,Ohio",25260,725391
+150,"Prince George County,Virginia","Henry County,Ohio",34651,1004377
+151,"Prince George County,Virginia","Highland County,Ohio",28484,800352
+152,"Prince George County,Virginia","Hocking County,Ohio",26158,756601
+153,"Prince George County,Virginia","Holmes County,Ohio",29200,807467
+154,"Prince George County,Virginia","Huron County,Ohio",30810,886088
+155,"Prince George County,Virginia","Jackson County,Ohio",24471,710903
+156,"Prince George County,Virginia","Jefferson County,Ohio",24002,686664
+157,"Prince George County,Virginia","Knox County,Ohio",30246,875173
+158,"Prince George County,Virginia","Lawrence County,Ohio",23996,677117
+159,"Prince George County,Virginia","Licking County,Ohio",29660,827648
+160,"Prince George County,Virginia","Logan County,Ohio",32211,925862
+161,"Prince George County,Virginia","Lorain County,Ohio",28578,838516
+162,"Prince George County,Virginia","Lucas County,Ohio",33151,967460
+163,"Prince George County,Virginia","Madison County,Ohio",29681,835327
+164,"Prince George County,Virginia","Mahoning County,Ohio",24017,700944
+165,"Prince George County,Virginia","Marion County,Ohio",31591,899637
+166,"Prince George County,Virginia","Medina County,Ohio",28165,823602
+167,"Prince George County,Virginia","Meigs County,Ohio",23236,676908
+168,"Prince George County,Virginia","Mercer County,Ohio",35165,1019389
+169,"Prince George County,Virginia","Miami County,Ohio",31515,914894
+170,"Prince George County,Virginia","Monroe County,Ohio",26533,753930
+171,"Prince George County,Virginia","Montgomery County,Ohio",30885,892850
+172,"Prince George County,Virginia","Morgan County,Ohio",26231,761230
+173,"Prince George County,Virginia","Morrow County,Ohio",30992,896365
+174,"Prince George County,Virginia","Muskingum County,Ohio",26850,798748
+175,"Prince George County,Virginia","Noble County,Ohio",25731,757743
+176,"Prince George County,Virginia","Paulding County,Ohio",37050,1093747
+177,"Prince George County,Virginia","Perry County,Ohio",27573,771358
+178,"Prince George County,Virginia","Pickaway County,Ohio",27420,792341
+179,"Prince George County,Virginia","Pike County,Ohio",25917,750210
+180,"Prince George County,Virginia","Portage County,Ohio",25871,756957
+181,"Prince George County,Virginia","Preble County,Ohio",32504,921428
+182,"Prince George County,Virginia","Putnam County,Ohio",35802,1008114
+183,"Prince George County,Virginia","Richland County,Ohio",30089,877910
+184,"Prince George County,Virginia","Ross County,Ohio",26165,758648
+185,"Prince George County,Virginia","Sandusky County,Ohio",31439,926035
+186,"Prince George County,Virginia","Scioto County,Ohio",25801,734390
+187,"Prince George County,Virginia","Seneca County,Ohio",32170,935707
+188,"Prince George County,Virginia","Shelby County,Ohio",32554,951180
+189,"Prince George County,Virginia","Stark County,Ohio",26651,753090
+190,"Prince George County,Virginia","Summit County,Ohio",26929,782772
+191,"Prince George County,Virginia","Trumbull County,Ohio",25174,738408
+192,"Prince George County,Virginia","Tuscarawas County,Ohio",26769,756674
+193,"Prince George County,Virginia","Union County,Ohio",30715,876093
+194,"Prince George County,Virginia","Van Wert County,Ohio",35913,1018625
+195,"Prince George County,Virginia","Vinton County,Ohio",26366,736408
+196,"Prince George County,Virginia","Warren County,Ohio",30222,875837
+197,"Prince George County,Virginia","Washington County,Ohio",24590,715679
+198,"Prince George County,Virginia","Wayne County,Ohio",29271,842412
+199,"Prince George County,Virginia","Williams County,Ohio",35442,1046067
+200,"Prince George County,Virginia","Wood County,Ohio",33337,974363
+201,"Prince George County,Virginia","Wyandot County,Ohio",32442,953893
+202,"Prince George County,Virginia","Accomack County,Virginia",10373,234324
+203,"Prince George County,Virginia","Albemarle County,Virginia",6876,185769
+204,"Prince George County,Virginia","Alleghany County,Virginia",12385,354710
+205,"Prince George County,Virginia","Amelia County,Virginia",4378,86273
+206,"Prince George County,Virginia","Amherst County,Virginia",9164,225358
+207,"Prince George County,Virginia","Appomattox County,Virginia",7261,178381
+208,"Prince George County,Virginia","Arlington County,Virginia",8019,229437
+209,"Prince George County,Virginia","Augusta County,Virginia",9129,248403
+210,"Prince George County,Virginia","Bath County,Virginia",12103,314063
+211,"Prince George County,Virginia","Bedford County,Virginia",10235,244237
+212,"Prince George County,Virginia","Bland County,Virginia",16596,429416
+213,"Prince George County,Virginia","Botetourt County,Virginia",11692,325646
+214,"Prince George County,Virginia","Brunswick County,Virginia",3900,93132
+215,"Prince George County,Virginia","Buchanan County,Virginia",22353,563875
+216,"Prince George County,Virginia","Buckingham County,Virginia",6853,160461
+217,"Prince George County,Virginia","Campbell County,Virginia",8680,207553
+218,"Prince George County,Virginia","Caroline County,Virginia",4760,118701
+219,"Prince George County,Virginia","Carroll County,Virginia",15343,440434
+220,"Prince George County,Virginia","Charles City County,Virginia",2086,37968
+221,"Prince George County,Virginia","Charlotte County,Virginia",6482,151058
+222,"Prince George County,Virginia","Chesterfield County,Virginia",2925,62353
+223,"Prince George County,Virginia","Clarke County,Virginia",10699,271913
+224,"Prince George County,Virginia","Craig County,Virginia",14534,381973
+225,"Prince George County,Virginia","Culpeper County,Virginia",7998,202641
+226,"Prince George County,Virginia","Cumberland County,Virginia",5286,125414
+227,"Prince George County,Virginia","Dickenson County,Virginia",23062,582053
+228,"Prince George County,Virginia","Dinwiddie County,Virginia",2538,53099
+229,"Prince George County,Virginia","Essex County,Virginia",5839,128249
+230,"Prince George County,Virginia","Fairfax County,Virginia",8316,232666
+231,"Prince George County,Virginia","Fauquier County,Virginia",8012,212679
+232,"Prince George County,Virginia","Floyd County,Virginia",15040,350894
+233,"Prince George County,Virginia","Fluvanna County,Virginia",6077,149340
+234,"Prince George County,Virginia","Franklin County,Virginia",12151,274403
+235,"Prince George County,Virginia","Frederick County,Virginia",11255,304975
+236,"Prince George County,Virginia","Giles County,Virginia",15385,384532
+237,"Prince George County,Virginia","Gloucester County,Virginia",5510,111879
+238,"Prince George County,Virginia","Goochland County,Virginia",4806,118627
+239,"Prince George County,Virginia","Grayson County,Virginia",17474,476978
+240,"Prince George County,Virginia","Greene County,Virginia",8596,203804
+241,"Prince George County,Virginia","Greensville County,Virginia",3467,85699
+242,"Prince George County,Virginia","Halifax County,Virginia",7510,192022
+243,"Prince George County,Virginia","Hanover County,Virginia",2979,74530
+244,"Prince George County,Virginia","Henrico County,Virginia",2332,53672
+245,"Prince George County,Virginia","Henry County,Virginia",11869,305973
+246,"Prince George County,Virginia","Highland County,Virginia",12331,306142
+247,"Prince George County,Virginia","Isle of Wight County,Virginia",3138,65590
+248,"Prince George County,Virginia","James City County,Virginia",3678,73413
+249,"Prince George County,Virginia","King and Queen County,Virginia",5016,117596
+250,"Prince George County,Virginia","King George County,Virginia",5861,154782
+251,"Prince George County,Virginia","King William County,Virginia",3703,87519
+252,"Prince George County,Virginia","Lancaster County,Virginia",7377,147918
+253,"Prince George County,Virginia","Lee County,Virginia",23557,613706
+254,"Prince George County,Virginia","Loudoun County,Virginia",10283,285911
+255,"Prince George County,Virginia","Louisa County,Virginia",5574,142215
+256,"Prince George County,Virginia","Lunenburg County,Virginia",5362,112549
+257,"Prince George County,Virginia","Madison County,Virginia",8510,203836
+258,"Prince George County,Virginia","Mathews County,Virginia",6335,135302
+259,"Prince George County,Virginia","Mecklenburg County,Virginia",5627,141404
+260,"Prince George County,Virginia","Middlesex County,Virginia",5112,108079
+261,"Prince George County,Virginia","Montgomery County,Virginia",13949,348802
+262,"Prince George County,Virginia","Nelson County,Virginia",8115,223110
+263,"Prince George County,Virginia","New Kent County,Virginia",4012,72375
+264,"Prince George County,Virginia","Northampton County,Virginia",7615,170138
+265,"Prince George County,Virginia","Northumberland County,Virginia",7536,169116
+266,"Prince George County,Virginia","Nottoway County,Virginia",3474,81624
+267,"Prince George County,Virginia","Orange County,Virginia",7189,170289
+268,"Prince George County,Virginia","Page County,Virginia",10870,255488
+269,"Prince George County,Virginia","Patrick County,Virginia",13452,344881
+270,"Prince George County,Virginia","Pittsylvania County,Virginia",10234,261974
+271,"Prince George County,Virginia","Powhatan County,Virginia",4025,93492
+272,"Prince George County,Virginia","Prince Edward County,Virginia",5738,132047
+273,"Prince George County,Virginia","Prince William County,Virginia",8476,222515
+274,"Prince George County,Virginia","Pulaski County,Virginia",14677,371435
+275,"Prince George County,Virginia","Rappahannock County,Virginia",9452,240679
+276,"Prince George County,Virginia","Richmond County,Virginia",6236,141760
+277,"Prince George County,Virginia","Roanoke County,Virginia",12940,313741
+278,"Prince George County,Virginia","Rockbridge County,Virginia",10434,291655
+279,"Prince George County,Virginia","Rockingham County,Virginia",10488,288549
+280,"Prince George County,Virginia","Russell County,Virginia",21519,547212
+281,"Prince George County,Virginia","Scott County,Virginia",22130,574435
+282,"Prince George County,Virginia","Shenandoah County,Virginia",10992,318652
+283,"Prince George County,Virginia","Smyth County,Virginia",17713,458156
+284,"Prince George County,Virginia","Southampton County,Virginia",3312,65140
+285,"Prince George County,Virginia","Spotsylvania County,Virginia",5758,149747
+286,"Prince George County,Virginia","Stafford County,Virginia",5831,167218
+287,"Prince George County,Virginia","Surry County,Virginia",2406,45879
+288,"Prince George County,Virginia","Sussex County,Virginia",2225,36233
+289,"Prince George County,Virginia","Tazewell County,Virginia",19174,498233
+290,"Prince George County,Virginia","Warren County,Virginia",10482,274385
+291,"Prince George County,Virginia","Washington County,Virginia",19106,497623
+292,"Prince George County,Virginia","Westmoreland County,Virginia",6836,171607
+293,"Prince George County,Virginia","Wise County,Virginia",22970,588555
+294,"Prince George County,Virginia","Wythe County,Virginia",15967,410142
+295,"Prince George County,Virginia","York County,Virginia",5863,129236
+296,"Prince George County,Virginia","Alexandria City County,Virginia",7991,226486
+297,"Prince George County,Virginia","Bedford City County,Virginia",9736,239321
+298,"Prince George County,Virginia","Bristol City County,Virginia",19581,523340
+299,"Prince George County,Virginia","Buena Vista City County,Virginia",10093,284921
+300,"Prince George County,Virginia","Charlottesville City County,Virginia",6426,171176
+301,"Prince George County,Virginia","Chesapeake City County,Virginia",5007,109501
+302,"Prince George County,Virginia","Clifton Forge City County,Virginia",11287,323528
+303,"Prince George County,Virginia","Colonial Heights City County,Virginia",1527,23422
+304,"Prince George County,Virginia","Covington City County,Virginia",12030,341870
+305,"Prince George County,Virginia","Danville City County,Virginia",9326,236947
+306,"Prince George County,Virginia","Emporia City County,Virginia",3175,72292
+307,"Prince George County,Virginia","Fairfax City County,Virginia",8251,221449
+308,"Prince George County,Virginia","Falls Church City County,Virginia",8198,233735
+309,"Prince George County,Virginia","Franklin City County,Virginia",3860,72995
+310,"Prince George County,Virginia","Fredericksburg City County,Virginia",5630,153153
+311,"Prince George County,Virginia","Galax City County,Virginia",16071,450972
+312,"Prince George County,Virginia","Hampton City County,Virginia",5293,104314
+313,"Prince George County,Virginia","Harrisonburg City County,Virginia",9547,268445
+314,"Prince George County,Virginia","Hopewell City County,Virginia",1408,23445
+315,"Prince George County,Virginia","Lexington City County,Virginia",9952,281899
+316,"Prince George County,Virginia","Lynchburg City County,Virginia",8463,202870
+317,"Prince George County,Virginia","Manassas City County,Virginia",8219,219852
+318,"Prince George County,Virginia","Manassas Park City County,Virginia",8439,217051
+319,"Prince George County,Virginia","Martinsville City County,Virginia",11466,289952
+320,"Prince George County,Virginia","Newport News City County,Virginia",5236,102168
+321,"Prince George County,Virginia","Norfolk City County,Virginia",4960,108361
+322,"Prince George County,Virginia","Norton City County,Virginia",22494,579445
+323,"Prince George County,Virginia","Petersburg City County,Virginia",1325,19863
+324,"Prince George County,Virginia","Poquoson City County,Virginia",5948,113913
+325,"Prince George County,Virginia","Portsmouth City County,Virginia",4878,105896
+326,"Prince George County,Virginia","Radford County,Virginia",14313,358646
+327,"Prince George County,Virginia","Richmond City County,Virginia",2625,57715
+328,"Prince George County,Virginia","Roanoke City County,Virginia",11958,285055
+329,"Prince George County,Virginia","Salem City County,Virginia",12308,303654
+330,"Prince George County,Virginia","South Boston City County,Virginia",7215,189513
+331,"Prince George County,Virginia","Staunton City County,Virginia",8435,230126
+332,"Prince George County,Virginia","Suffolk City County,Virginia",3981,80314
+333,"Prince George County,Virginia","Virginia Beach City County,Virginia",6075,136157
+334,"Prince George County,Virginia","Waynesboro City County,Virginia",7712,212124
+335,"Prince George County,Virginia","Williamsburg City County,Virginia",4089,79280
+336,"Prince George County,Virginia","Winchester City County,Virginia",11076,278722
+337,"Prince George County,Virginia","Barbour County,West Virginia",19238,446847
+338,"Prince George County,Virginia","Berkeley County,West Virginia",12857,328904
+339,"Prince George County,Virginia","Boone County,West Virginia",20745,554415
+340,"Prince George County,Virginia","Braxton County,West Virginia",20442,535090
+341,"Prince George County,Virginia","Brooke County,West Virginia",23308,670147
+342,"Prince George County,Virginia","Cabell County,West Virginia",22312,650321
+343,"Prince George County,Virginia","Calhoun County,West Virginia",22214,589041
+344,"Prince George County,Virginia","Clay County,West Virginia",20478,525874
+345,"Prince George County,Virginia","Doddridge County,West Virginia",22691,509249
+346,"Prince George County,Virginia","Fayette County,West Virginia",17866,472613
+347,"Prince George County,Virginia","Gilmer County,West Virginia",22011,584770
+348,"Prince George County,Virginia","Grant County,West Virginia",14304,382382
+349,"Prince George County,Virginia","Greenbrier County,West Virginia",16222,431838
+350,"Prince George County,Virginia","Hampshire County,West Virginia",13382,337980
+351,"Prince George County,Virginia","Hancock County,West Virginia",24016,678084
+352,"Prince George County,Virginia","Hardy County,West Virginia",13552,353711
+353,"Prince George County,Virginia","Harrison County,West Virginia",21335,511717
+354,"Prince George County,Virginia","Jackson County,West Virginia",21631,630132
+355,"Prince George County,Virginia","Jefferson County,West Virginia",11755,317338
+356,"Prince George County,Virginia","Kanawha County,West Virginia",19395,552114
+357,"Prince George County,Virginia","Lewis County,West Virginia",20380,479212
+358,"Prince George County,Virginia","Lincoln County,West Virginia",22977,627999
+359,"Prince George County,Virginia","Logan County,West Virginia",22535,584905
+360,"Prince George County,Virginia","McDowell County,West Virginia",20914,559356
+361,"Prince George County,Virginia","Marion County,West Virginia",20626,593007
+362,"Prince George County,Virginia","Marshall County,West Virginia",24295,664591
+363,"Prince George County,Virginia","Mason County,West Virginia",21788,636228
+364,"Prince George County,Virginia","Mercer County,West Virginia",17558,440708
+365,"Prince George County,Virginia","Mineral County,West Virginia",15778,393905
+366,"Prince George County,Virginia","Mingo County,West Virginia",23114,648839
+367,"Prince George County,Virginia","Monongalia County,West Virginia",18449,544747
+368,"Prince George County,Virginia","Monroe County,West Virginia",15156,418159
+369,"Prince George County,Virginia","Morgan County,West Virginia",13103,330030
+370,"Prince George County,Virginia","Nicholas County,West Virginia",18061,485263
+371,"Prince George County,Virginia","Ohio County,West Virginia",23215,679094
+372,"Prince George County,Virginia","Pendleton County,West Virginia",13335,339734
+373,"Prince George County,Virginia","Pleasants County,West Virginia",24133,587857
+374,"Prince George County,Virginia","Pocahontas County,West Virginia",15794,367828
+375,"Prince George County,Virginia","Preston County,West Virginia",18484,460833
+376,"Prince George County,Virginia","Putnam County,West Virginia",20569,601846
+377,"Prince George County,Virginia","Raleigh County,West Virginia",16419,477295
+378,"Prince George County,Virginia","Randolph County,West Virginia",17254,400240
+379,"Prince George County,Virginia","Ritchie County,West Virginia",24044,582159
+380,"Prince George County,Virginia","Roane County,West Virginia",23257,658947
+381,"Prince George County,Virginia","Summers County,West Virginia",17141,457173
+382,"Prince George County,Virginia","Taylor County,West Virginia",18828,478654
+383,"Prince George County,Virginia","Tucker County,West Virginia",16964,444029
+384,"Prince George County,Virginia","Tyler County,West Virginia",25060,580523
+385,"Prince George County,Virginia","Upshur County,West Virginia",19849,435883
+386,"Prince George County,Virginia","Wayne County,West Virginia",23904,682948
+387,"Prince George County,Virginia","Webster County,West Virginia",19681,447249
+388,"Prince George County,Virginia","Wetzel County,West Virginia",24014,563199
+389,"Prince George County,Virginia","Wirt County,West Virginia",23898,687470
+390,"Prince George County,Virginia","Wood County,West Virginia",23412,689159
+391,"Prince George County,Virginia","Wyoming County,West Virginia",18364,517237

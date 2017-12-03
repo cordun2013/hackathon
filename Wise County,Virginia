@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wise County,Virginia","Adair County,Kentucky",12712,307134
+1,"Wise County,Virginia","Allen County,Kentucky",15909,402776
+2,"Wise County,Virginia","Anderson County,Kentucky",13143,333622
+3,"Wise County,Virginia","Ballard County,Kentucky",25721,705452
+4,"Wise County,Virginia","Barren County,Kentucky",14457,366161
+5,"Wise County,Virginia","Bath County,Kentucky",10407,230584
+6,"Wise County,Virginia","Bell County,Kentucky",6565,131139
+7,"Wise County,Virginia","Boone County,Kentucky",14851,385330
+8,"Wise County,Virginia","Bourbon County,Kentucky",11146,267186
+9,"Wise County,Virginia","Boyd County,Kentucky",8918,219614
+10,"Wise County,Virginia","Boyle County,Kentucky",11939,281291
+11,"Wise County,Virginia","Bracken County,Kentucky",14212,313868
+12,"Wise County,Virginia","Breathitt County,Kentucky",6292,137833
+13,"Wise County,Virginia","Breckinridge County,Kentucky",18676,486304
+14,"Wise County,Virginia","Bullitt County,Kentucky",15246,407423
+15,"Wise County,Virginia","Butler County,Kentucky",17497,462635
+16,"Wise County,Virginia","Caldwell County,Kentucky",21832,596305
+17,"Wise County,Virginia","Calloway County,Kentucky",23901,621287
+18,"Wise County,Virginia","Campbell County,Kentucky",14839,352004
+19,"Wise County,Virginia","Carlisle County,Kentucky",26178,720820
+20,"Wise County,Virginia","Carroll County,Kentucky",15688,381437
+21,"Wise County,Virginia","Carter County,Kentucky",9711,208328
+22,"Wise County,Virginia","Casey County,Kentucky",12650,280408
+23,"Wise County,Virginia","Christian County,Kentucky",20188,528774
+24,"Wise County,Virginia","Clay County,Kentucky",7239,162412
+25,"Wise County,Virginia","Clinton County,Kentucky",13119,310499
+26,"Wise County,Virginia","Crittenden County,Kentucky",23412,629376
+27,"Wise County,Virginia","Cumberland County,Kentucky",13873,328738
+28,"Wise County,Virginia","Daviess County,Kentucky",19930,536428
+29,"Wise County,Virginia","Edmonson County,Kentucky",15986,410322
+30,"Wise County,Virginia","Elliott County,Kentucky",9320,194708
+31,"Wise County,Virginia","Estill County,Kentucky",10048,234115
+32,"Wise County,Virginia","Fayette County,Kentucky",10950,271115
+33,"Wise County,Virginia","Fleming County,Kentucky",11429,251848
+34,"Wise County,Virginia","Floyd County,Kentucky",4952,115142
+35,"Wise County,Virginia","Franklin County,Kentucky",12988,320031
+36,"Wise County,Virginia","Fulton County,Kentucky",26582,741785
+37,"Wise County,Virginia","Gallatin County,Kentucky",14686,372095
+38,"Wise County,Virginia","Garrard County,Kentucky",11608,266078
+39,"Wise County,Virginia","Grant County,Kentucky",13484,346203
+40,"Wise County,Virginia","Graves County,Kentucky",25203,693527
+41,"Wise County,Virginia","Grayson County,Kentucky",17669,464937
+42,"Wise County,Virginia","Green County,Kentucky",14464,349298
+43,"Wise County,Virginia","Greenup County,Kentucky",10916,270021
+44,"Wise County,Virginia","Hancock County,Kentucky",19472,519197
+45,"Wise County,Virginia","Hardin County,Kentucky",16545,427070
+46,"Wise County,Virginia","Harlan County,Kentucky",5181,84578
+47,"Wise County,Virginia","Harrison County,Kentucky",12458,295525
+48,"Wise County,Virginia","Hart County,Kentucky",15814,395576
+49,"Wise County,Virginia","Henderson County,Kentucky",21838,592848
+50,"Wise County,Virginia","Henry County,Kentucky",14589,363750
+51,"Wise County,Virginia","Hickman County,Kentucky",26211,722112
+52,"Wise County,Virginia","Hopkins County,Kentucky",21291,570773
+53,"Wise County,Virginia","Jackson County,Kentucky",9111,198830
+54,"Wise County,Virginia","Jefferson County,Kentucky",14683,379284
+55,"Wise County,Virginia","Jessamine County,Kentucky",12419,292579
+56,"Wise County,Virginia","Johnson County,Kentucky",5567,132371
+57,"Wise County,Virginia","Kenton County,Kentucky",14738,381047
+58,"Wise County,Virginia","Knott County,Kentucky",3832,80583
+59,"Wise County,Virginia","Knox County,Kentucky",8341,191509
+60,"Wise County,Virginia","Larue County,Kentucky",15946,381272
+61,"Wise County,Virginia","Laurel County,Kentucky",8841,199207
+62,"Wise County,Virginia","Lawrence County,Kentucky",7342,166059
+63,"Wise County,Virginia","Lee County,Kentucky",8402,179023
+64,"Wise County,Virginia","Leslie County,Kentucky",6424,137416
+65,"Wise County,Virginia","Letcher County,Kentucky",2232,44130
+66,"Wise County,Virginia","Lewis County,Kentucky",12056,263014
+67,"Wise County,Virginia","Lincoln County,Kentucky",11170,265659
+68,"Wise County,Virginia","Livingston County,Kentucky",24008,646272
+69,"Wise County,Virginia","Logan County,Kentucky",17860,468054
+70,"Wise County,Virginia","Lyon County,Kentucky",24148,620541
+71,"Wise County,Virginia","McCracken County,Kentucky",24333,673512
+72,"Wise County,Virginia","McCreary County,Kentucky",11473,255807
+73,"Wise County,Virginia","Madison County,Kentucky",10627,263508
+74,"Wise County,Virginia","Magoffin County,Kentucky",5911,136347
+75,"Wise County,Virginia","Marion County,Kentucky",13637,319896
+76,"Wise County,Virginia","Marshall County,Kentucky",23748,657084
+77,"Wise County,Virginia","Martin County,Kentucky",7096,158373
+78,"Wise County,Virginia","Mason County,Kentucky",13561,293413
+79,"Wise County,Virginia","Meade County,Kentucky",17143,451598
+80,"Wise County,Virginia","Menifee County,Kentucky",9579,210547
+81,"Wise County,Virginia","Mercer County,Kentucky",12939,306223
+82,"Wise County,Virginia","Metcalfe County,Kentucky",13368,337398
+83,"Wise County,Virginia","Monroe County,Kentucky",15338,374903
+84,"Wise County,Virginia","Montgomery County,Kentucky",10146,231084
+85,"Wise County,Virginia","Morgan County,Kentucky",8024,187533
+86,"Wise County,Virginia","Muhlenberg County,Kentucky",19615,511274
+87,"Wise County,Virginia","Nelson County,Kentucky",14602,374927
+88,"Wise County,Virginia","Nicholas County,Kentucky",12452,295105
+89,"Wise County,Virginia","Ohio County,Kentucky",19032,504464
+90,"Wise County,Virginia","Oldham County,Kentucky",14754,391165
+91,"Wise County,Virginia","Owen County,Kentucky",13810,346809
+92,"Wise County,Virginia","Owsley County,Kentucky",8429,175707
+93,"Wise County,Virginia","Pendleton County,Kentucky",14018,332652
+94,"Wise County,Virginia","Perry County,Kentucky",4806,101006
+95,"Wise County,Virginia","Pike County,Kentucky",3421,74524
+96,"Wise County,Virginia","Powell County,Kentucky",8934,202369
+97,"Wise County,Virginia","Robertson County,Kentucky",13222,316231
+98,"Wise County,Virginia","Rockcastle County,Kentucky",9651,227257
+99,"Wise County,Virginia","Rowan County,Kentucky",9848,216307
+100,"Wise County,Virginia","Russell County,Kentucky",12317,291117
+101,"Wise County,Virginia","Scott County,Kentucky",11785,299142
+102,"Wise County,Virginia","Shelby County,Kentucky",13612,350418
+103,"Wise County,Virginia","Simpson County,Kentucky",17449,456927
+104,"Wise County,Virginia","Spencer County,Kentucky",14141,356266
+105,"Wise County,Virginia","Taylor County,Kentucky",14066,331393
+106,"Wise County,Virginia","Todd County,Kentucky",19035,498109
+107,"Wise County,Virginia","Trigg County,Kentucky",21723,559394
+108,"Wise County,Virginia","Trimble County,Kentucky",15828,397205
+109,"Wise County,Virginia","Union County,Kentucky",23582,629949
+110,"Wise County,Virginia","Warren County,Kentucky",16484,421876
+111,"Wise County,Virginia","Washington County,Kentucky",13926,327755
+112,"Wise County,Virginia","Wayne County,Kentucky",12493,288190
+113,"Wise County,Virginia","Webster County,Kentucky",22400,598862
+114,"Wise County,Virginia","Whitley County,Kentucky",9838,219892
+115,"Wise County,Virginia","Wolfe County,Kentucky",7785,169917
+116,"Wise County,Virginia","Woodford County,Kentucky",12004,301778
+117,"Wise County,Virginia","Adams County,Ohio",14764,346370
+118,"Wise County,Virginia","Allen County,Ohio",22157,606940
+119,"Wise County,Virginia","Ashland County,Ohio",22395,556534
+120,"Wise County,Virginia","Ashtabula County,Ohio",25576,728127
+121,"Wise County,Virginia","Athens County,Ohio",14716,360927
+122,"Wise County,Virginia","Auglaize County,Ohio",21413,594205
+123,"Wise County,Virginia","Belmont County,Ohio",18639,517051
+124,"Wise County,Virginia","Brown County,Ohio",14896,322897
+125,"Wise County,Virginia","Butler County,Ohio",17235,456814
+126,"Wise County,Virginia","Carroll County,Ohio",20569,553937
+127,"Wise County,Virginia","Champaign County,Ohio",19881,483643
+128,"Wise County,Virginia","Clark County,Ohio",18560,443187
+129,"Wise County,Virginia","Clermont County,Ohio",15986,427992
+130,"Wise County,Virginia","Clinton County,Ohio",17593,382787
+131,"Wise County,Virginia","Columbiana County,Ohio",22410,608172
+132,"Wise County,Virginia","Coshocton County,Ohio",19204,525054
+133,"Wise County,Virginia","Crawford County,Ohio",22009,524992
+134,"Wise County,Virginia","Cuyahoga County,Ohio",22605,639341
+135,"Wise County,Virginia","Darke County,Ohio",20511,551251
+136,"Wise County,Virginia","Defiance County,Ohio",25645,685370
+137,"Wise County,Virginia","Delaware County,Ohio",19312,463206
+138,"Wise County,Virginia","Fairfield County,Ohio",17856,415029
+139,"Wise County,Virginia","Fayette County,Ohio",16628,401333
+140,"Wise County,Virginia","Franklin County,Ohio",17829,423133
+141,"Wise County,Virginia","Fulton County,Ohio",26408,702313
+142,"Wise County,Virginia","Gallia County,Ohio",12674,303280
+143,"Wise County,Virginia","Geauga County,Ohio",23676,665058
+144,"Wise County,Virginia","Greene County,Ohio",17498,434485
+145,"Wise County,Virginia","Guernsey County,Ohio",16754,462973
+146,"Wise County,Virginia","Hamilton County,Ohio",15889,421298
+147,"Wise County,Virginia","Hancock County,Ohio",23186,566084
+148,"Wise County,Virginia","Hardin County,Ohio",21838,520675
+149,"Wise County,Virginia","Harrison County,Ohio",19574,536003
+150,"Wise County,Virginia","Henry County,Ohio",24990,672304
+151,"Wise County,Virginia","Highland County,Ohio",15729,360452
+152,"Wise County,Virginia","Hocking County,Ohio",16414,358335
+153,"Wise County,Virginia","Holmes County,Ohio",20262,547938
+154,"Wise County,Virginia","Huron County,Ohio",23541,555304
+155,"Wise County,Virginia","Jackson County,Ohio",13093,307968
+156,"Wise County,Virginia","Jefferson County,Ohio",20567,545781
+157,"Wise County,Virginia","Knox County,Ohio",20992,567530
+158,"Wise County,Virginia","Lawrence County,Ohio",10897,247883
+159,"Wise County,Virginia","Licking County,Ohio",19833,470890
+160,"Wise County,Virginia","Logan County,Ohio",20858,514952
+161,"Wise County,Virginia","Lorain County,Ohio",23829,669165
+162,"Wise County,Virginia","Lucas County,Ohio",26592,734355
+163,"Wise County,Virginia","Madison County,Ohio",18329,424417
+164,"Wise County,Virginia","Mahoning County,Ohio",22906,622977
+165,"Wise County,Virginia","Marion County,Ohio",20569,483822
+166,"Wise County,Virginia","Medina County,Ohio",22278,625372
+167,"Wise County,Virginia","Meigs County,Ohio",13606,333663
+168,"Wise County,Virginia","Mercer County,Ohio",22649,621138
+169,"Wise County,Virginia","Miami County,Ohio",18999,516643
+170,"Wise County,Virginia","Monroe County,Ohio",17690,452165
+171,"Wise County,Virginia","Montgomery County,Ohio",18383,494383
+172,"Wise County,Virginia","Morgan County,Ohio",16696,438812
+173,"Wise County,Virginia","Morrow County,Ohio",20119,486026
+174,"Wise County,Virginia","Muskingum County,Ohio",17600,490964
+175,"Wise County,Virginia","Noble County,Ohio",16196,435325
+176,"Wise County,Virginia","Paulding County,Ohio",24688,669918
+177,"Wise County,Virginia","Perry County,Ohio",17934,426348
+178,"Wise County,Virginia","Pickaway County,Ohio",16068,381431
+179,"Wise County,Virginia","Pike County,Ohio",13162,310311
+180,"Wise County,Virginia","Portage County,Ohio",22127,620923
+181,"Wise County,Virginia","Preble County,Ohio",19279,501213
+182,"Wise County,Virginia","Putnam County,Ohio",23332,639407
+183,"Wise County,Virginia","Richland County,Ohio",21149,521265
+184,"Wise County,Virginia","Ross County,Ohio",14812,347738
+185,"Wise County,Virginia","Sandusky County,Ohio",24942,584779
+186,"Wise County,Virginia","Scioto County,Ohio",12242,286949
+187,"Wise County,Virginia","Seneca County,Ohio",23560,558663
+188,"Wise County,Virginia","Shelby County,Ohio",20038,552929
+189,"Wise County,Virginia","Stark County,Ohio",20427,569172
+190,"Wise County,Virginia","Summit County,Ohio",21186,594960
+191,"Wise County,Virginia","Trumbull County,Ohio",23861,649224
+192,"Wise County,Virginia","Tuscarawas County,Ohio",18628,509759
+193,"Wise County,Virginia","Union County,Ohio",19362,465183
+194,"Wise County,Virginia","Van Wert County,Ohio",23322,639463
+195,"Wise County,Virginia","Vinton County,Ohio",15353,334747
+196,"Wise County,Virginia","Warren County,Ohio",16769,447555
+197,"Wise County,Virginia","Washington County,Ohio",15054,393261
+198,"Wise County,Virginia","Wayne County,Ohio",21399,572050
+199,"Wise County,Virginia","Williams County,Ohio",26822,708886
+200,"Wise County,Virginia","Wood County,Ohio",24354,688463
+201,"Wise County,Virginia","Wyandot County,Ohio",22156,530219
+202,"Wise County,Virginia","Accomack County,Virginia",30721,854059
+203,"Wise County,Virginia","Albemarle County,Virginia",16871,466558
+204,"Wise County,Virginia","Alleghany County,Virginia",14088,360447
+205,"Wise County,Virginia","Amelia County,Virginia",19443,505413
+206,"Wise County,Virginia","Amherst County,Virginia",16345,411472
+207,"Wise County,Virginia","Appomattox County,Virginia",16520,425082
+208,"Wise County,Virginia","Arlington County,Virginia",23556,666867
+209,"Wise County,Virginia","Augusta County,Virginia",16293,444251
+210,"Wise County,Virginia","Bath County,Virginia",16581,416831
+211,"Wise County,Virginia","Bedford County,Virginia",14253,356392
+212,"Wise County,Virginia","Bland County,Virginia",8269,205994
+213,"Wise County,Virginia","Botetourt County,Virginia",13109,340457
+214,"Wise County,Virginia","Brunswick County,Virginia",21414,592508
+215,"Wise County,Virginia","Buchanan County,Virginia",5465,89482
+216,"Wise County,Virginia","Buckingham County,Virginia",17634,448992
+217,"Wise County,Virginia","Campbell County,Virginia",15669,397627
+218,"Wise County,Virginia","Caroline County,Virginia",22210,635404
+219,"Wise County,Virginia","Carroll County,Virginia",9213,237339
+220,"Wise County,Virginia","Charles City County,Virginia",22311,632438
+221,"Wise County,Virginia","Charlotte County,Virginia",18218,465564
+222,"Wise County,Virginia","Chesterfield County,Virginia",21137,544303
+223,"Wise County,Virginia","Clarke County,Virginia",21051,593616
+224,"Wise County,Virginia","Craig County,Virginia",12369,283079
+225,"Wise County,Virginia","Culpeper County,Virginia",20668,555775
+226,"Wise County,Virginia","Cumberland County,Virginia",19048,486224
+227,"Wise County,Virginia","Dickenson County,Virginia",2892,47157
+228,"Wise County,Virginia","Dinwiddie County,Virginia",21216,548475
+229,"Wise County,Virginia","Essex County,Virginia",24028,659446
+230,"Wise County,Virginia","Fairfax County,Virginia",23178,657143
+231,"Wise County,Virginia","Fauquier County,Virginia",21489,614867
+232,"Wise County,Virginia","Floyd County,Virginia",11105,277439
+233,"Wise County,Virginia","Fluvanna County,Virginia",18549,518730
+234,"Wise County,Virginia","Franklin County,Virginia",13766,357626
+235,"Wise County,Virginia","Frederick County,Virginia",20503,581343
+236,"Wise County,Virginia","Giles County,Virginia",10418,239772
+237,"Wise County,Virginia","Gloucester County,Virginia",24481,686627
+238,"Wise County,Virginia","Goochland County,Virginia",19453,549341
+239,"Wise County,Virginia","Grayson County,Virginia",8946,200506
+240,"Wise County,Virginia","Greene County,Virginia",18864,502142
+241,"Wise County,Virginia","Greensville County,Virginia",22610,609927
+242,"Wise County,Virginia","Halifax County,Virginia",17516,435026
+243,"Wise County,Virginia","Hanover County,Virginia",20659,590448
+244,"Wise County,Virginia","Henrico County,Virginia",21170,603407
+245,"Wise County,Virginia","Henry County,Virginia",13086,324060
+246,"Wise County,Virginia","Highland County,Virginia",18689,405067
+247,"Wise County,Virginia","Isle of Wight County,Virginia",25336,648595
+248,"Wise County,Virginia","James City County,Virginia",23547,673209
+249,"Wise County,Virginia","King and Queen County,Virginia",23205,648793
+250,"Wise County,Virginia","King George County,Virginia",23323,663390
+251,"Wise County,Virginia","King William County,Virginia",21892,618716
+252,"Wise County,Virginia","Lancaster County,Virginia",25685,701801
+253,"Wise County,Virginia","Lee County,Virginia",3238,73124
+254,"Wise County,Virginia","Loudoun County,Virginia",22547,629483
+255,"Wise County,Virginia","Louisa County,Virginia",19110,532436
+256,"Wise County,Virginia","Lunenburg County,Virginia",19990,506848
+257,"Wise County,Virginia","Madison County,Virginia",19784,531883
+258,"Wise County,Virginia","Mathews County,Virginia",25306,710050
+259,"Wise County,Virginia","Mecklenburg County,Virginia",19549,486572
+260,"Wise County,Virginia","Middlesex County,Virginia",24083,682827
+261,"Wise County,Virginia","Montgomery County,Virginia",10279,267944
+262,"Wise County,Virginia","Nelson County,Virginia",16896,441870
+263,"Wise County,Virginia","New Kent County,Virginia",22983,647123
+264,"Wise County,Virginia","Northampton County,Virginia",27964,789873
+265,"Wise County,Virginia","Northumberland County,Virginia",25725,700313
+266,"Wise County,Virginia","Nottoway County,Virginia",19483,507228
+267,"Wise County,Virginia","Orange County,Virginia",20072,540543
+268,"Wise County,Virginia","Page County,Virginia",18717,515668
+269,"Wise County,Virginia","Patrick County,Virginia",11319,282375
+270,"Wise County,Virginia","Pittsylvania County,Virginia",15402,378268
+271,"Wise County,Virginia","Powhatan County,Virginia",20546,520930
+272,"Wise County,Virginia","Prince Edward County,Virginia",18098,464563
+273,"Wise County,Virginia","Prince George County,Virginia",22871,587849
+274,"Wise County,Virginia","Prince William County,Virginia",21589,620971
+275,"Wise County,Virginia","Pulaski County,Virginia",8956,228760
+276,"Wise County,Virginia","Rappahannock County,Virginia",20549,552155
+277,"Wise County,Virginia","Richmond County,Virginia",24425,672957
+278,"Wise County,Virginia","Roanoke County,Virginia",11060,287880
+279,"Wise County,Virginia","Rockbridge County,Virginia",14557,384528
+280,"Wise County,Virginia","Rockingham County,Virginia",17757,488018
+281,"Wise County,Virginia","Russell County,Virginia",4470,77430
+282,"Wise County,Virginia","Scott County,Virginia",3414,72061
+283,"Wise County,Virginia","Shenandoah County,Virginia",18261,518122
+284,"Wise County,Virginia","Smyth County,Virginia",6225,140209
+285,"Wise County,Virginia","Southampton County,Virginia",24226,667450
+286,"Wise County,Virginia","Spotsylvania County,Virginia",21126,574274
+287,"Wise County,Virginia","Stafford County,Virginia",22507,598567
+288,"Wise County,Virginia","Surry County,Virginia",24290,672071
+289,"Wise County,Virginia","Sussex County,Virginia",23225,593606
+290,"Wise County,Virginia","Tazewell County,Virginia",5958,130340
+291,"Wise County,Virginia","Warren County,Virginia",20164,562714
+292,"Wise County,Virginia","Washington County,Virginia",4336,91326
+293,"Wise County,Virginia","Westmoreland County,Virginia",24298,680215
+294,"Wise County,Virginia","Wythe County,Virginia",7439,182669
+295,"Wise County,Virginia","York County,Virginia",24835,703984
+296,"Wise County,Virginia","Alexandria City County,Virginia",23758,679514
+297,"Wise County,Virginia","Bedford City County,Virginia",13417,347824
+298,"Wise County,Virginia","Bristol City County,Virginia",5176,112212
+299,"Wise County,Virginia","Buena Vista City County,Virginia",13929,377016
+300,"Wise County,Virginia","Charlottesville City County,Virginia",17340,481773
+301,"Wise County,Virginia","Chesapeake City County,Virginia",26298,756889
+302,"Wise County,Virginia","Clifton Forge City County,Virginia",14196,366649
+303,"Wise County,Virginia","Colonial Heights City County,Virginia",22007,626114
+304,"Wise County,Virginia","Covington City County,Virginia",14157,364033
+305,"Wise County,Virginia","Danville City County,Virginia",15244,378516
+306,"Wise County,Virginia","Emporia City County,Virginia",22767,624115
+307,"Wise County,Virginia","Fairfax City County,Virginia",22721,646719
+308,"Wise County,Virginia","Falls Church City County,Virginia",23053,661191
+309,"Wise County,Virginia","Franklin City County,Virginia",24853,680585
+310,"Wise County,Virginia","Fredericksburg City County,Virginia",22259,583934
+311,"Wise County,Virginia","Galax City County,Virginia",9836,243205
+312,"Wise County,Virginia","Hampton City County,Virginia",24785,713690
+313,"Wise County,Virginia","Harrisonburg City County,Virginia",16816,467915
+314,"Wise County,Virginia","Hopewell City County,Virginia",22043,625081
+315,"Wise County,Virginia","Lexington City County,Virginia",13843,375343
+316,"Wise County,Virginia","Lynchburg City County,Virginia",15442,392699
+317,"Wise County,Virginia","Manassas City County,Virginia",21816,625916
+318,"Wise County,Virginia","Manassas Park City County,Virginia",22319,632259
+319,"Wise County,Virginia","Martinsville City County,Virginia",13614,332853
+320,"Wise County,Virginia","Newport News City County,Virginia",24341,700176
+321,"Wise County,Virginia","Norfolk City County,Virginia",26091,739106
+322,"Wise County,Virginia","Norton City County,Virginia",831,12319
+323,"Wise County,Virginia","Petersburg City County,Virginia",21874,570452
+324,"Wise County,Virginia","Poquoson City County,Virginia",25013,710752
+325,"Wise County,Virginia","Portsmouth City County,Virginia",26030,747927
+326,"Wise County,Virginia","Radford County,Virginia",9466,242707
+327,"Wise County,Virginia","Richmond City County,Virginia",20746,591217
+328,"Wise County,Virginia","Roanoke City County,Virginia",11662,307985
+329,"Wise County,Virginia","Salem City County,Virginia",11074,294534
+330,"Wise County,Virginia","South Boston City County,Virginia",17256,432694
+331,"Wise County,Virginia","Staunton City County,Virginia",15633,429050
+332,"Wise County,Virginia","Suffolk City County,Virginia",26169,713887
+333,"Wise County,Virginia","Virginia Beach City County,Virginia",26652,762364
+334,"Wise County,Virginia","Waynesboro City County,Virginia",15971,441768
+335,"Wise County,Virginia","Williamsburg City County,Virginia",23385,672425
+336,"Wise County,Virginia","Winchester City County,Virginia",20383,577487
+337,"Wise County,Virginia","Barbour County,West Virginia",17601,464718
+338,"Wise County,Virginia","Berkeley County,West Virginia",22120,624694
+339,"Wise County,Virginia","Boone County,West Virginia",9173,216552
+340,"Wise County,Virginia","Braxton County,West Virginia",14291,355698
+341,"Wise County,Virginia","Brooke County,West Virginia",20718,559299
+342,"Wise County,Virginia","Cabell County,West Virginia",9179,225292
+343,"Wise County,Virginia","Calhoun County,West Virginia",14212,353382
+344,"Wise County,Virginia","Clay County,West Virginia",13058,326610
+345,"Wise County,Virginia","Doddridge County,West Virginia",16744,446228
+346,"Wise County,Virginia","Fayette County,West Virginia",12240,287067
+347,"Wise County,Virginia","Gilmer County,West Virginia",15490,377884
+348,"Wise County,Virginia","Grant County,West Virginia",21956,566264
+349,"Wise County,Virginia","Greenbrier County,West Virginia",14043,317589
+350,"Wise County,Virginia","Hampshire County,West Virginia",22240,595598
+351,"Wise County,Virginia","Hancock County,West Virginia",22307,593835
+352,"Wise County,Virginia","Hardy County,West Virginia",21460,578511
+353,"Wise County,Virginia","Harrison County,West Virginia",16834,451089
+354,"Wise County,Virginia","Jackson County,West Virginia",12096,307714
+355,"Wise County,Virginia","Jefferson County,West Virginia",22171,612100
+356,"Wise County,Virginia","Kanawha County,West Virginia",11066,256457
+357,"Wise County,Virginia","Lewis County,West Virginia",15464,404559
+358,"Wise County,Virginia","Lincoln County,West Virginia",9907,224291
+359,"Wise County,Virginia","Logan County,West Virginia",7279,173188
+360,"Wise County,Virginia","McDowell County,West Virginia",9167,148648
+361,"Wise County,Virginia","Marion County,West Virginia",17980,478256
+362,"Wise County,Virginia","Marshall County,West Virginia",20104,495400
+363,"Wise County,Virginia","Mason County,West Virginia",11917,301952
+364,"Wise County,Virginia","Mercer County,West Virginia",8820,202732
+365,"Wise County,Virginia","Mineral County,West Virginia",23651,595084
+366,"Wise County,Virginia","Mingo County,West Virginia",5963,139641
+367,"Wise County,Virginia","Monongalia County,West Virginia",18190,503725
+368,"Wise County,Virginia","Monroe County,West Virginia",11284,252131
+369,"Wise County,Virginia","Morgan County,West Virginia",22366,625820
+370,"Wise County,Virginia","Nicholas County,West Virginia",13687,328066
+371,"Wise County,Virginia","Ohio County,West Virginia",19737,540536
+372,"Wise County,Virginia","Pendleton County,West Virginia",20604,539203
+373,"Wise County,Virginia","Pleasants County,West Virginia",15579,405566
+374,"Wise County,Virginia","Pocahontas County,West Virginia",17122,397801
+375,"Wise County,Virginia","Preston County,West Virginia",20336,530456
+376,"Wise County,Virginia","Putnam County,West Virginia",10699,267571
+377,"Wise County,Virginia","Raleigh County,West Virginia",10416,247305
+378,"Wise County,Virginia","Randolph County,West Virginia",17965,467014
+379,"Wise County,Virginia","Ritchie County,West Virginia",15909,419270
+380,"Wise County,Virginia","Roane County,West Virginia",13722,336529
+381,"Wise County,Virginia","Summers County,West Virginia",11375,247670
+382,"Wise County,Virginia","Taylor County,West Virginia",17872,473829
+383,"Wise County,Virginia","Tucker County,West Virginia",19032,497539
+384,"Wise County,Virginia","Tyler County,West Virginia",17488,445181
+385,"Wise County,Virginia","Upshur County,West Virginia",17029,419256
+386,"Wise County,Virginia","Wayne County,West Virginia",8507,195088
+387,"Wise County,Virginia","Webster County,West Virginia",16958,413571
+388,"Wise County,Virginia","Wetzel County,West Virginia",18700,467087
+389,"Wise County,Virginia","Wirt County,West Virginia",14362,365052
+390,"Wise County,Virginia","Wood County,West Virginia",13877,366741
+391,"Wise County,Virginia","Wyoming County,West Virginia",10249,212127

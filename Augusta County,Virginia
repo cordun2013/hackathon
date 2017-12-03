@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Augusta County,Virginia","Adair County,Kentucky",27098,760727
+1,"Augusta County,Virginia","Allen County,Kentucky",29450,859574
+2,"Augusta County,Virginia","Anderson County,Kentucky",22898,663766
+3,"Augusta County,Virginia","Ballard County,Kentucky",35876,1053537
+4,"Augusta County,Virginia","Barren County,Kentucky",28844,819755
+5,"Augusta County,Virginia","Bath County,Kentucky",18545,534947
+6,"Augusta County,Virginia","Bell County,Kentucky",20549,541070
+7,"Augusta County,Virginia","Boone County,Kentucky",24358,656341
+8,"Augusta County,Virginia","Bourbon County,Kentucky",20459,581365
+9,"Augusta County,Virginia","Boyd County,Kentucky",15221,429272
+10,"Augusta County,Virginia","Boyle County,Kentucky",24127,667653
+11,"Augusta County,Virginia","Bracken County,Kentucky",20870,575448
+12,"Augusta County,Virginia","Breathitt County,Kentucky",21932,575974
+13,"Augusta County,Virginia","Breckinridge County,Kentucky",28431,816447
+14,"Augusta County,Virginia","Bullitt County,Kentucky",25001,737567
+15,"Augusta County,Virginia","Butler County,Kentucky",29096,838445
+16,"Augusta County,Virginia","Caldwell County,Kentucky",31988,944391
+17,"Augusta County,Virginia","Calloway County,Kentucky",34195,1026688
+18,"Augusta County,Virginia","Campbell County,Kentucky",22571,615319
+19,"Augusta County,Virginia","Carlisle County,Kentucky",36334,1068906
+20,"Augusta County,Virginia","Carroll County,Kentucky",25442,711581
+21,"Augusta County,Virginia","Carter County,Kentucky",16385,459369
+22,"Augusta County,Virginia","Casey County,Kentucky",25621,699158
+23,"Augusta County,Virginia","Christian County,Kentucky",31088,947668
+24,"Augusta County,Virginia","Clay County,Kentucky",23122,601413
+25,"Augusta County,Virginia","Clinton County,Kentucky",26497,738979
+26,"Augusta County,Virginia","Crittenden County,Kentucky",33568,977461
+27,"Augusta County,Virginia","Cumberland County,Kentucky",27377,759647
+28,"Augusta County,Virginia","Daviess County,Kentucky",30119,884888
+29,"Augusta County,Virginia","Edmonson County,Kentucky",28536,826320
+30,"Augusta County,Virginia","Elliott County,Kentucky",17716,485139
+31,"Augusta County,Virginia","Estill County,Kentucky",21538,597263
+32,"Augusta County,Virginia","Fayette County,Kentucky",20705,601259
+33,"Augusta County,Virginia","Fleming County,Kentucky",18971,538133
+34,"Augusta County,Virginia","Floyd County,Kentucky",19354,536537
+35,"Augusta County,Virginia","Franklin County,Kentucky",22743,650175
+36,"Augusta County,Virginia","Fulton County,Kentucky",36738,1089870
+37,"Augusta County,Virginia","Gallatin County,Kentucky",24440,702239
+38,"Augusta County,Virginia","Garrard County,Kentucky",23310,648413
+39,"Augusta County,Virginia","Grant County,Kentucky",23239,676347
+40,"Augusta County,Virginia","Graves County,Kentucky",35358,1041612
+41,"Augusta County,Virginia","Grayson County,Kentucky",27423,795081
+42,"Augusta County,Virginia","Green County,Kentucky",27203,760286
+43,"Augusta County,Virginia","Greenup County,Kentucky",16996,470398
+44,"Augusta County,Virginia","Hancock County,Kentucky",29227,849341
+45,"Augusta County,Virginia","Hardin County,Kentucky",26300,757214
+46,"Augusta County,Virginia","Harlan County,Kentucky",19624,517697
+47,"Augusta County,Virginia","Harrison County,Kentucky",22030,614464
+48,"Augusta County,Virginia","Hart County,Kentucky",27099,784842
+49,"Augusta County,Virginia","Henderson County,Kentucky",31926,937317
+50,"Augusta County,Virginia","Henry County,Kentucky",24344,693894
+51,"Augusta County,Virginia","Hickman County,Kentucky",36367,1070198
+52,"Augusta County,Virginia","Hopkins County,Kentucky",31447,918859
+53,"Augusta County,Virginia","Jackson County,Kentucky",24210,645271
+54,"Augusta County,Virginia","Jefferson County,Kentucky",24438,709427
+55,"Augusta County,Virginia","Jessamine County,Kentucky",22174,622723
+56,"Augusta County,Virginia","Johnson County,Kentucky",18002,502168
+57,"Augusta County,Virginia","Kenton County,Kentucky",23727,644035
+58,"Augusta County,Virginia","Knott County,Kentucky",19714,519584
+59,"Augusta County,Virginia","Knox County,Kentucky",21879,583063
+60,"Augusta County,Virginia","Larue County,Kentucky",26371,744390
+61,"Augusta County,Virginia","Laurel County,Kentucky",23774,617890
+62,"Augusta County,Virginia","Lawrence County,Kentucky",17144,473592
+63,"Augusta County,Virginia","Lee County,Kentucky",22382,590999
+64,"Augusta County,Virginia","Leslie County,Kentucky",21086,545976
+65,"Augusta County,Virginia","Letcher County,Kentucky",18114,483131
+66,"Augusta County,Virginia","Lewis County,Kentucky",18424,511187
+67,"Augusta County,Virginia","Lincoln County,Kentucky",24020,665331
+68,"Augusta County,Virginia","Livingston County,Kentucky",34164,994358
+69,"Augusta County,Virginia","Logan County,Kentucky",30836,881684
+70,"Augusta County,Virginia","Lyon County,Kentucky",34297,1004748
+71,"Augusta County,Virginia","McCracken County,Kentucky",34489,1021597
+72,"Augusta County,Virginia","McCreary County,Kentucky",23504,675824
+73,"Augusta County,Virginia","Madison County,Kentucky",21703,612282
+74,"Augusta County,Virginia","Magoffin County,Kentucky",18970,522847
+75,"Augusta County,Virginia","Marion County,Kentucky",24749,705999
+76,"Augusta County,Virginia","Marshall County,Kentucky",33903,1005169
+77,"Augusta County,Virginia","Martin County,Kentucky",18258,455316
+78,"Augusta County,Virginia","Mason County,Kentucky",20219,554993
+79,"Augusta County,Virginia","Meade County,Kentucky",26898,781742
+80,"Augusta County,Virginia","Menifee County,Kentucky",19661,547011
+81,"Augusta County,Virginia","Mercer County,Kentucky",23126,661710
+82,"Augusta County,Virginia","Metcalfe County,Kentucky",27754,790992
+83,"Augusta County,Virginia","Monroe County,Kentucky",27938,790068
+84,"Augusta County,Virginia","Montgomery County,Kentucky",19358,553488
+85,"Augusta County,Virginia","Morgan County,Kentucky",19440,522727
+86,"Augusta County,Virginia","Muhlenberg County,Kentucky",30307,885335
+87,"Augusta County,Virginia","Nelson County,Kentucky",24357,705070
+88,"Augusta County,Virginia","Nicholas County,Kentucky",21036,581371
+89,"Augusta County,Virginia","Ohio County,Kentucky",29220,852924
+90,"Augusta County,Virginia","Oldham County,Kentucky",24509,721309
+91,"Augusta County,Virginia","Owen County,Kentucky",23564,676953
+92,"Augusta County,Virginia","Owsley County,Kentucky",23529,610976
+93,"Augusta County,Virginia","Pendleton County,Kentucky",22808,616372
+94,"Augusta County,Virginia","Perry County,Kentucky",20688,540007
+95,"Augusta County,Virginia","Pike County,Kentucky",18454,420562
+96,"Augusta County,Virginia","Powell County,Kentucky",20802,583234
+97,"Augusta County,Virginia","Robertson County,Kentucky",20954,580877
+98,"Augusta County,Virginia","Rockcastle County,Kentucky",23137,653425
+99,"Augusta County,Virginia","Rowan County,Kentucky",17688,507155
+100,"Augusta County,Virginia","Russell County,Kentucky",26703,744711
+101,"Augusta County,Virginia","Scott County,Kentucky",21539,629286
+102,"Augusta County,Virginia","Shelby County,Kentucky",23366,680562
+103,"Augusta County,Virginia","Simpson County,Kentucky",30487,876544
+104,"Augusta County,Virginia","Spencer County,Kentucky",23896,686410
+105,"Augusta County,Virginia","Taylor County,Kentucky",26039,737495
+106,"Augusta County,Virginia","Todd County,Kentucky",31504,940614
+107,"Augusta County,Virginia","Trigg County,Kentucky",31995,965027
+108,"Augusta County,Virginia","Trimble County,Kentucky",25583,727349
+109,"Augusta County,Virginia","Union County,Kentucky",33645,967764
+110,"Augusta County,Virginia","Warren County,Kentucky",29453,854689
+111,"Augusta County,Virginia","Washington County,Kentucky",24367,690307
+112,"Augusta County,Virginia","Wayne County,Kentucky",26008,722955
+113,"Augusta County,Virginia","Webster County,Kentucky",32556,946948
+114,"Augusta County,Virginia","Whitley County,Kentucky",22108,660587
+115,"Augusta County,Virginia","Wolfe County,Kentucky",20535,546089
+116,"Augusta County,Virginia","Woodford County,Kentucky",21759,631922
+117,"Augusta County,Virginia","Adams County,Ohio",20311,557550
+118,"Augusta County,Virginia","Allen County,Ohio",27044,732967
+119,"Augusta County,Virginia","Ashland County,Ohio",24788,686859
+120,"Augusta County,Virginia","Ashtabula County,Ohio",23999,677182
+121,"Augusta County,Virginia","Athens County,Ohio",16720,463149
+122,"Augusta County,Virginia","Auglaize County,Ohio",26294,749667
+123,"Augusta County,Virginia","Belmont County,Ohio",19146,460667
+124,"Augusta County,Virginia","Brown County,Ohio",21556,584477
+125,"Augusta County,Virginia","Butler County,Ohio",24669,666503
+126,"Augusta County,Virginia","Carroll County,Ohio",22092,496525
+127,"Augusta County,Virginia","Champaign County,Ohio",23597,651764
+128,"Augusta County,Virginia","Clark County,Ohio",22277,611309
+129,"Augusta County,Virginia","Clermont County,Ohio",22390,615574
+130,"Augusta County,Virginia","Clinton County,Ohio",21781,598990
+131,"Augusta County,Virginia","Columbiana County,Ohio",21301,485046
+132,"Augusta County,Virginia","Coshocton County,Ohio",21103,604684
+133,"Augusta County,Virginia","Crawford County,Ohio",25395,698019
+134,"Augusta County,Virginia","Cuyahoga County,Ohio",23995,675026
+135,"Augusta County,Virginia","Darke County,Ohio",25391,706714
+136,"Augusta County,Virginia","Defiance County,Ohio",30479,811288
+137,"Augusta County,Virginia","Delaware County,Ohio",22549,630756
+138,"Augusta County,Virginia","Fairfield County,Ohio",20080,557850
+139,"Augusta County,Virginia","Fayette County,Ohio",20345,569454
+140,"Augusta County,Virginia","Franklin County,Ohio",21080,587705
+141,"Augusta County,Virginia","Fulton County,Ohio",30486,853588
+142,"Augusta County,Virginia","Gallia County,Ohio",15658,428566
+143,"Augusta County,Virginia","Geauga County,Ohio",23488,649845
+144,"Augusta County,Virginia","Greene County,Ohio",21215,602606
+145,"Augusta County,Virginia","Guernsey County,Ohio",18654,542603
+146,"Augusta County,Virginia","Hamilton County,Ohio",24170,677081
+147,"Augusta County,Virginia","Hancock County,Ohio",26572,739111
+148,"Augusta County,Virginia","Hardin County,Ohio",25554,688797
+149,"Augusta County,Virginia","Harrison County,Ohio",21107,499381
+150,"Augusta County,Virginia","Henry County,Ohio",29285,810732
+151,"Augusta County,Virginia","Highland County,Ohio",20849,557564
+152,"Augusta County,Virginia","Hocking County,Ohio",18522,513813
+153,"Augusta County,Virginia","Holmes County,Ohio",22162,627568
+154,"Augusta County,Virginia","Huron County,Ohio",26685,728487
+155,"Augusta County,Virginia","Jackson County,Ohio",16835,468115
+156,"Augusta County,Virginia","Jefferson County,Ohio",20048,460016
+157,"Augusta County,Virginia","Knox County,Ohio",22892,647160
+158,"Augusta County,Virginia","Lawrence County,Ohio",16360,434328
+159,"Augusta County,Virginia","Licking County,Ohio",22025,584860
+160,"Augusta County,Virginia","Logan County,Ohio",24575,683074
+161,"Augusta County,Virginia","Lorain County,Ohio",25047,704747
+162,"Augusta County,Virginia","Lucas County,Ohio",29620,833691
+163,"Augusta County,Virginia","Madison County,Ohio",22046,592539
+164,"Augusta County,Virginia","Mahoning County,Ohio",20485,567174
+165,"Augusta County,Virginia","Marion County,Ohio",23956,656849
+166,"Augusta County,Virginia","Medina County,Ohio",24177,705002
+167,"Augusta County,Virginia","Meigs County,Ohio",15600,434120
+168,"Augusta County,Virginia","Mercer County,Ohio",27529,776601
+169,"Augusta County,Virginia","Miami County,Ohio",23880,672106
+170,"Augusta County,Virginia","Monroe County,Ohio",19175,416965
+171,"Augusta County,Virginia","Montgomery County,Ohio",23249,650062
+172,"Augusta County,Virginia","Morgan County,Ohio",18595,518442
+173,"Augusta County,Virginia","Morrow County,Ohio",23357,653577
+174,"Augusta County,Virginia","Muskingum County,Ohio",19500,570594
+175,"Augusta County,Virginia","Noble County,Ohio",18096,514954
+176,"Augusta County,Virginia","Paulding County,Ohio",29580,808873
+177,"Augusta County,Virginia","Perry County,Ohio",19937,528569
+178,"Augusta County,Virginia","Pickaway County,Ohio",19785,549553
+179,"Augusta County,Virginia","Pike County,Ohio",18281,507422
+180,"Augusta County,Virginia","Portage County,Ohio",22340,623188
+181,"Augusta County,Virginia","Preble County,Ohio",24868,678640
+182,"Augusta County,Virginia","Putnam County,Ohio",28166,765326
+183,"Augusta County,Virginia","Richland County,Ohio",24387,688815
+184,"Augusta County,Virginia","Ross County,Ohio",18529,515859
+185,"Augusta County,Virginia","Sandusky County,Ohio",27908,792265
+186,"Augusta County,Virginia","Scioto County,Ohio",18165,491602
+187,"Augusta County,Virginia","Seneca County,Ohio",26946,731690
+188,"Augusta County,Virginia","Shelby County,Ohio",24918,708392
+189,"Augusta County,Virginia","Stark County,Ohio",22327,648802
+190,"Augusta County,Virginia","Summit County,Ohio",23086,674590
+191,"Augusta County,Virginia","Trumbull County,Ohio",21643,604638
+192,"Augusta County,Virginia","Tuscarawas County,Ohio",20528,589389
+193,"Augusta County,Virginia","Union County,Ohio",23079,633305
+194,"Augusta County,Virginia","Van Wert County,Ohio",28278,775837
+195,"Augusta County,Virginia","Vinton County,Ohio",18731,493620
+196,"Augusta County,Virginia","Warren County,Ohio",22587,633049
+197,"Augusta County,Virginia","Washington County,Ohio",16954,472891
+198,"Augusta County,Virginia","Wayne County,Ohio",23298,651680
+199,"Augusta County,Virginia","Williams County,Ohio",31656,834805
+200,"Augusta County,Virginia","Wood County,Ohio",27970,780718
+201,"Augusta County,Virginia","Wyandot County,Ohio",25542,703246
+202,"Augusta County,Virginia","Accomack County,Virginia",16782,455889
+203,"Augusta County,Virginia","Albemarle County,Virginia",2932,68388
+204,"Augusta County,Virginia","Alleghany County,Virginia",4750,111921
+205,"Augusta County,Virginia","Amelia County,Virginia",7986,200207
+206,"Augusta County,Virginia","Amherst County,Virginia",5366,119295
+207,"Augusta County,Virginia","Appomattox County,Virginia",6580,143923
+208,"Augusta County,Virginia","Arlington County,Virginia",9587,264707
+209,"Augusta County,Virginia","Bath County,Virginia",3463,70319
+210,"Augusta County,Virginia","Bedford County,Virginia",7350,159119
+211,"Augusta County,Virginia","Bland County,Virginia",9816,280388
+212,"Augusta County,Virginia","Botetourt County,Virginia",4841,121641
+213,"Augusta County,Virginia","Brunswick County,Virginia",10617,302517
+214,"Augusta County,Virginia","Buchanan County,Virginia",15413,398280
+215,"Augusta County,Virginia","Buckingham County,Virginia",6264,133344
+216,"Augusta County,Virginia","Campbell County,Virginia",6728,159427
+217,"Augusta County,Virginia","Caroline County,Virginia",8271,237234
+218,"Augusta County,Virginia","Carroll County,Virginia",9938,285804
+219,"Augusta County,Virginia","Charles City County,Virginia",8372,234269
+220,"Augusta County,Virginia","Charlotte County,Virginia",8562,192423
+221,"Augusta County,Virginia","Chesterfield County,Virginia",7508,212052
+222,"Augusta County,Virginia","Clarke County,Virginia",7082,191456
+223,"Augusta County,Virginia","Craig County,Virginia",7682,177968
+224,"Augusta County,Virginia","Culpeper County,Virginia",6729,157605
+225,"Augusta County,Virginia","Cumberland County,Virginia",6975,158745
+226,"Augusta County,Virginia","Dickenson County,Virginia",16282,433025
+227,"Augusta County,Virginia","Dinwiddie County,Virginia",9255,262484
+228,"Augusta County,Virginia","Essex County,Virginia",10089,261276
+229,"Augusta County,Virginia","Fairfax County,Virginia",9210,254983
+230,"Augusta County,Virginia","Fauquier County,Virginia",7521,212707
+231,"Augusta County,Virginia","Floyd County,Virginia",8464,227352
+232,"Augusta County,Virginia","Fluvanna County,Virginia",4610,120560
+233,"Augusta County,Virginia","Franklin County,Virginia",7802,205796
+234,"Augusta County,Virginia","Frederick County,Virginia",6534,179183
+235,"Augusta County,Virginia","Giles County,Virginia",8604,235504
+236,"Augusta County,Virginia","Gloucester County,Virginia",10542,288457
+237,"Augusta County,Virginia","Goochland County,Virginia",5513,151171
+238,"Augusta County,Virginia","Grayson County,Virginia",11269,301984
+239,"Augusta County,Virginia","Greene County,Virginia",4895,99982
+240,"Augusta County,Virginia","Greensville County,Virginia",10671,311235
+241,"Augusta County,Virginia","Halifax County,Virginia",10048,231133
+242,"Augusta County,Virginia","Hanover County,Virginia",6720,192278
+243,"Augusta County,Virginia","Henrico County,Virginia",7231,205237
+244,"Augusta County,Virginia","Henry County,Virginia",9211,240758
+245,"Augusta County,Virginia","Highland County,Virginia",4226,72570
+246,"Augusta County,Virginia","Isle of Wight County,Virginia",11483,309814
+247,"Augusta County,Virginia","James City County,Virginia",9608,275039
+248,"Augusta County,Virginia","King and Queen County,Virginia",9266,250623
+249,"Augusta County,Virginia","King George County,Virginia",9384,265220
+250,"Augusta County,Virginia","King William County,Virginia",7953,220546
+251,"Augusta County,Virginia","Lancaster County,Virginia",11746,303631
+252,"Augusta County,Virginia","Lee County,Virginia",16777,464678
+253,"Augusta County,Virginia","Loudoun County,Virginia",8578,227322
+254,"Augusta County,Virginia","Louisa County,Virginia",5171,134266
+255,"Augusta County,Virginia","Lunenburg County,Virginia",9860,235143
+256,"Augusta County,Virginia","Madison County,Virginia",5845,133713
+257,"Augusta County,Virginia","Mathews County,Virginia",11367,311880
+258,"Augusta County,Virginia","Mecklenburg County,Virginia",11209,259589
+259,"Augusta County,Virginia","Middlesex County,Virginia",10144,284657
+260,"Augusta County,Virginia","Montgomery County,Virginia",7169,199774
+261,"Augusta County,Virginia","Nelson County,Virginia",3812,86889
+262,"Augusta County,Virginia","New Kent County,Virginia",9044,248953
+263,"Augusta County,Virginia","Northampton County,Virginia",14025,391703
+264,"Augusta County,Virginia","Northumberland County,Virginia",11786,302143
+265,"Augusta County,Virginia","Nottoway County,Virginia",9111,221698
+266,"Augusta County,Virginia","Orange County,Virginia",6133,142373
+267,"Augusta County,Virginia","Page County,Virginia",4749,113508
+268,"Augusta County,Virginia","Patrick County,Virginia",10584,264255
+269,"Augusta County,Virginia","Pittsylvania County,Virginia",9297,231054
+270,"Augusta County,Virginia","Powhatan County,Virginia",6767,176392
+271,"Augusta County,Virginia","Prince Edward County,Virginia",7782,187361
+272,"Augusta County,Virginia","Prince George County,Virginia",9018,249068
+273,"Augusta County,Virginia","Prince William County,Virginia",7620,218811
+274,"Augusta County,Virginia","Pulaski County,Virginia",7896,222407
+275,"Augusta County,Virginia","Rappahannock County,Virginia",6580,149995
+276,"Augusta County,Virginia","Richmond County,Virginia",10486,274787
+277,"Augusta County,Virginia","Roanoke County,Virginia",6160,164713
+278,"Augusta County,Virginia","Rockbridge County,Virginia",3554,72490
+279,"Augusta County,Virginia","Rockingham County,Virginia",3700,67146
+280,"Augusta County,Virginia","Russell County,Virginia",14738,398184
+281,"Augusta County,Virginia","Scott County,Virginia",15350,425407
+282,"Augusta County,Virginia","Shenandoah County,Virginia",4293,115962
+283,"Augusta County,Virginia","Smyth County,Virginia",10933,309128
+284,"Augusta County,Virginia","Southampton County,Virginia",11049,307349
+285,"Augusta County,Virginia","Spotsylvania County,Virginia",7187,176104
+286,"Augusta County,Virginia","Stafford County,Virginia",8568,200397
+287,"Augusta County,Virginia","Surry County,Virginia",10351,273901
+288,"Augusta County,Virginia","Sussex County,Virginia",9713,277592
+289,"Augusta County,Virginia","Tazewell County,Virginia",12234,332638
+290,"Augusta County,Virginia","Warren County,Virginia",6195,160554
+291,"Augusta County,Virginia","Washington County,Virginia",12326,348595
+292,"Augusta County,Virginia","Westmoreland County,Virginia",10359,282045
+293,"Augusta County,Virginia","Wise County,Virginia",16189,439527
+294,"Augusta County,Virginia","Wythe County,Virginia",9187,261114
+295,"Augusta County,Virginia","York County,Virginia",10895,305814
+296,"Augusta County,Virginia","Alexandria City County,Virginia",9790,277354
+297,"Augusta County,Virginia","Bedford City County,Virginia",6375,150458
+298,"Augusta County,Virginia","Bristol City County,Virginia",12801,374312
+299,"Augusta County,Virginia","Buena Vista City County,Virginia",3241,80916
+300,"Augusta County,Virginia","Charlottesville City County,Virginia",3401,83603
+301,"Augusta County,Virginia","Chesapeake City County,Virginia",12359,358719
+302,"Augusta County,Virginia","Clifton Forge City County,Virginia",3652,80740
+303,"Augusta County,Virginia","Colonial Heights City County,Virginia",8068,227945
+304,"Augusta County,Virginia","Covington City County,Virginia",4394,99082
+305,"Augusta County,Virginia","Danville City County,Virginia",9897,247397
+306,"Augusta County,Virginia","Emporia City County,Virginia",10378,297829
+307,"Augusta County,Virginia","Fairfax City County,Virginia",8753,244559
+308,"Augusta County,Virginia","Falls Church City County,Virginia",9085,259031
+309,"Augusta County,Virginia","Franklin City County,Virginia",11596,315204
+310,"Augusta County,Virginia","Fredericksburg City County,Virginia",8320,185764
+311,"Augusta County,Virginia","Galax City County,Virginia",10561,291671
+312,"Augusta County,Virginia","Hampton City County,Virginia",10846,315520
+313,"Augusta County,Virginia","Harrisonburg City County,Virginia",2847,65754
+314,"Augusta County,Virginia","Hopewell City County,Virginia",8104,226911
+315,"Augusta County,Virginia","Lexington City County,Virginia",3101,77894
+316,"Augusta County,Virginia","Lynchburg City County,Virginia",5914,139350
+317,"Augusta County,Virginia","Manassas City County,Virginia",7848,223756
+318,"Augusta County,Virginia","Manassas Park City County,Virginia",8350,230099
+319,"Augusta County,Virginia","Martinsville City County,Virginia",9364,235860
+320,"Augusta County,Virginia","Newport News City County,Virginia",10402,302006
+321,"Augusta County,Virginia","Norfolk City County,Virginia",12152,340936
+322,"Augusta County,Virginia","Norton City County,Virginia",15713,430417
+323,"Augusta County,Virginia","Petersburg City County,Virginia",7939,228932
+324,"Augusta County,Virginia","Poquoson City County,Virginia",11074,312583
+325,"Augusta County,Virginia","Portsmouth City County,Virginia",12091,349757
+326,"Augusta County,Virginia","Radford County,Virginia",7532,209618
+327,"Augusta County,Virginia","Richmond City County,Virginia",6807,193048
+328,"Augusta County,Virginia","Roanoke City County,Virginia",5698,156155
+329,"Augusta County,Virginia","Salem City County,Virginia",5528,154626
+330,"Augusta County,Virginia","South Boston City County,Virginia",10052,229952
+331,"Augusta County,Virginia","Staunton City County,Virginia",1305,19009
+332,"Augusta County,Virginia","Suffolk City County,Virginia",12326,324538
+333,"Augusta County,Virginia","Virginia Beach City County,Virginia",12713,364194
+334,"Augusta County,Virginia","Waynesboro City County,Virginia",2032,43598
+335,"Augusta County,Virginia","Williamsburg City County,Virginia",9446,274255
+336,"Augusta County,Virginia","Winchester City County,Virginia",6414,175326
+337,"Augusta County,Virginia","Barbour County,West Virginia",11132,213274
+338,"Augusta County,Virginia","Berkeley County,West Virginia",8152,222534
+339,"Augusta County,Virginia","Boone County,West Virginia",13109,311627
+340,"Augusta County,Virginia","Braxton County,West Virginia",12807,292302
+341,"Augusta County,Virginia","Brooke County,West Virginia",18354,423567
+342,"Augusta County,Virginia","Cabell County,West Virginia",14677,407533
+343,"Augusta County,Virginia","Calhoun County,West Virginia",14578,346252
+344,"Augusta County,Virginia","Clay County,West Virginia",12842,283085
+345,"Augusta County,Virginia","Doddridge County,West Virginia",14586,275676
+346,"Augusta County,Virginia","Fayette County,West Virginia",10231,229824
+347,"Augusta County,Virginia","Gilmer County,West Virginia",14373,296009
+348,"Augusta County,Virginia","Grant County,West Virginia",8427,163220
+349,"Augusta County,Virginia","Greenbrier County,West Virginia",8586,189049
+350,"Augusta County,Virginia","Hampshire County,West Virginia",8271,193438
+351,"Augusta County,Virginia","Hancock County,West Virginia",19980,450914
+352,"Augusta County,Virginia","Hardy County,West Virginia",7491,176351
+353,"Augusta County,Virginia","Harrison County,West Virginia",13229,278144
+354,"Augusta County,Virginia","Jackson County,West Virginia",13996,387344
+355,"Augusta County,Virginia","Jefferson County,West Virginia",8203,209940
+356,"Augusta County,Virginia","Kanawha County,West Virginia",11759,309326
+357,"Augusta County,Virginia","Lewis County,West Virginia",12274,245639
+358,"Augusta County,Virginia","Lincoln County,West Virginia",15341,385211
+359,"Augusta County,Virginia","Logan County,West Virginia",14900,342116
+360,"Augusta County,Virginia","McDowell County,West Virginia",13278,316567
+361,"Augusta County,Virginia","Marion County,West Virginia",14375,305311
+362,"Augusta County,Virginia","Marshall County,West Virginia",19341,418011
+363,"Augusta County,Virginia","Mason County,West Virginia",14152,393439
+364,"Augusta County,Virginia","Mercer County,West Virginia",9972,272557
+365,"Augusta County,Virginia","Mineral County,West Virginia",9717,216544
+366,"Augusta County,Virginia","Mingo County,West Virginia",15478,406051
+367,"Augusta County,Virginia","Monongalia County,West Virginia",13420,329280
+368,"Augusta County,Virginia","Monroe County,West Virginia",7521,175371
+369,"Augusta County,Virginia","Morgan County,West Virginia",8397,223660
+370,"Augusta County,Virginia","Nicholas County,West Virginia",10426,242475
+371,"Augusta County,Virginia","Ohio County,West Virginia",18261,432513
+372,"Augusta County,Virginia","Pendleton County,West Virginia",6035,115068
+373,"Augusta County,Virginia","Pleasants County,West Virginia",16027,354284
+374,"Augusta County,Virginia","Pocahontas County,West Virginia",7688,134255
+375,"Augusta County,Virginia","Preston County,West Virginia",12424,283472
+376,"Augusta County,Virginia","Putnam County,West Virginia",12934,359058
+377,"Augusta County,Virginia","Raleigh County,West Virginia",8784,234507
+378,"Augusta County,Virginia","Randolph County,West Virginia",9148,166668
+379,"Augusta County,Virginia","Ritchie County,West Virginia",15938,348586
+380,"Augusta County,Virginia","Roane County,West Virginia",15621,416159
+381,"Augusta County,Virginia","Summers County,West Virginia",9505,214384
+382,"Augusta County,Virginia","Taylor County,West Virginia",12605,248582
+383,"Augusta County,Virginia","Tucker County,West Virginia",10739,188017
+384,"Augusta County,Virginia","Tyler County,West Virginia",16954,346951
+385,"Augusta County,Virginia","Upshur County,West Virginia",11744,202310
+386,"Augusta County,Virginia","Wayne County,West Virginia",16268,440159
+387,"Augusta County,Virginia","Webster County,West Virginia",11576,213676
+388,"Augusta County,Virginia","Wetzel County,West Virginia",15909,329626
+389,"Augusta County,Virginia","Wirt County,West Virginia",16262,444681
+390,"Augusta County,Virginia","Wood County,West Virginia",15777,446371
+391,"Augusta County,Virginia","Wyoming County,West Virginia",10729,274449

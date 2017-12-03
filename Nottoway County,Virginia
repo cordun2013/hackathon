@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Nottoway County,Virginia","Adair County,Kentucky",31439,808135
+1,"Nottoway County,Virginia","Allen County,Kentucky",32835,927945
+2,"Nottoway County,Virginia","Anderson County,Kentucky",29060,825407
+3,"Nottoway County,Virginia","Ballard County,Kentucky",39740,1163200
+4,"Nottoway County,Virginia","Barren County,Kentucky",32625,886890
+5,"Nottoway County,Virginia","Bath County,Kentucky",24707,696589
+6,"Nottoway County,Virginia","Bell County,Kentucky",23935,609442
+7,"Nottoway County,Virginia","Boone County,Kentucky",30520,817982
+8,"Nottoway County,Virginia","Bourbon County,Kentucky",26621,743006
+9,"Nottoway County,Virginia","Boyd County,Kentucky",21383,590913
+10,"Nottoway County,Virginia","Boyle County,Kentucky",30289,829294
+11,"Nottoway County,Virginia","Bracken County,Kentucky",27032,737089
+12,"Nottoway County,Virginia","Breathitt County,Kentucky",25559,645205
+13,"Nottoway County,Virginia","Breckinridge County,Kentucky",34593,978089
+14,"Nottoway County,Virginia","Bullitt County,Kentucky",31163,899208
+15,"Nottoway County,Virginia","Butler County,Kentucky",35296,998150
+16,"Nottoway County,Virginia","Caldwell County,Kentucky",36879,1071014
+17,"Nottoway County,Virginia","Calloway County,Kentucky",37581,1095059
+18,"Nottoway County,Virginia","Campbell County,Kentucky",28732,776960
+19,"Nottoway County,Virginia","Carlisle County,Kentucky",40197,1178568
+20,"Nottoway County,Virginia","Carroll County,Kentucky",31604,873222
+21,"Nottoway County,Virginia","Carter County,Kentucky",22547,621010
+22,"Nottoway County,Virginia","Casey County,Kentucky",31377,781410
+23,"Nottoway County,Virginia","Christian County,Kentucky",34474,1016039
+24,"Nottoway County,Virginia","Clay County,Kentucky",26507,669784
+25,"Nottoway County,Virginia","Clinton County,Kentucky",29883,807350
+26,"Nottoway County,Virginia","Crittenden County,Kentucky",38144,1103774
+27,"Nottoway County,Virginia","Cumberland County,Kentucky",30762,828019
+28,"Nottoway County,Virginia","Daviess County,Kentucky",36281,1046529
+29,"Nottoway County,Virginia","Edmonson County,Kentucky",34604,940253
+30,"Nottoway County,Virginia","Elliott County,Kentucky",23878,646780
+31,"Nottoway County,Virginia","Estill County,Kentucky",27699,758904
+32,"Nottoway County,Virginia","Fayette County,Kentucky",26867,762900
+33,"Nottoway County,Virginia","Fleming County,Kentucky",25133,699774
+34,"Nottoway County,Virginia","Floyd County,Kentucky",24220,622514
+35,"Nottoway County,Virginia","Franklin County,Kentucky",28904,811817
+36,"Nottoway County,Virginia","Fulton County,Kentucky",40601,1199533
+37,"Nottoway County,Virginia","Gallatin County,Kentucky",30602,863881
+38,"Nottoway County,Virginia","Garrard County,Kentucky",29472,810054
+39,"Nottoway County,Virginia","Grant County,Kentucky",29401,837988
+40,"Nottoway County,Virginia","Graves County,Kentucky",39222,1151275
+41,"Nottoway County,Virginia","Grayson County,Kentucky",33585,956722
+42,"Nottoway County,Virginia","Green County,Kentucky",33192,850300
+43,"Nottoway County,Virginia","Greenup County,Kentucky",23158,632039
+44,"Nottoway County,Virginia","Hancock County,Kentucky",35389,1010982
+45,"Nottoway County,Virginia","Hardin County,Kentucky",32461,918855
+46,"Nottoway County,Virginia","Harlan County,Kentucky",23009,586068
+47,"Nottoway County,Virginia","Harrison County,Kentucky",28191,776106
+48,"Nottoway County,Virginia","Hart County,Kentucky",33261,946484
+49,"Nottoway County,Virginia","Henderson County,Kentucky",38087,1098959
+50,"Nottoway County,Virginia","Henry County,Kentucky",30506,855535
+51,"Nottoway County,Virginia","Hickman County,Kentucky",40230,1179860
+52,"Nottoway County,Virginia","Hopkins County,Kentucky",37000,1081291
+53,"Nottoway County,Virginia","Jackson County,Kentucky",28379,706203
+54,"Nottoway County,Virginia","Jefferson County,Kentucky",30599,871069
+55,"Nottoway County,Virginia","Jessamine County,Kentucky",28336,784364
+56,"Nottoway County,Virginia","Johnson County,Kentucky",24164,663809
+57,"Nottoway County,Virginia","Kenton County,Kentucky",29889,805676
+58,"Nottoway County,Virginia","Knott County,Kentucky",23099,587955
+59,"Nottoway County,Virginia","Knox County,Kentucky",25265,651434
+60,"Nottoway County,Virginia","Larue County,Kentucky",32533,906031
+61,"Nottoway County,Virginia","Laurel County,Kentucky",27159,686262
+62,"Nottoway County,Virginia","Lawrence County,Kentucky",23306,635233
+63,"Nottoway County,Virginia","Lee County,Kentucky",27670,686395
+64,"Nottoway County,Virginia","Leslie County,Kentucky",24472,614348
+65,"Nottoway County,Virginia","Letcher County,Kentucky",21500,551502
+66,"Nottoway County,Virginia","Lewis County,Kentucky",24585,672828
+67,"Nottoway County,Virginia","Lincoln County,Kentucky",29848,766658
+68,"Nottoway County,Virginia","Livingston County,Kentucky",38071,1117139
+69,"Nottoway County,Virginia","Logan County,Kentucky",34906,968939
+70,"Nottoway County,Virginia","Lyon County,Kentucky",37828,1094313
+71,"Nottoway County,Virginia","McCracken County,Kentucky",38352,1131260
+72,"Nottoway County,Virginia","McCreary County,Kentucky",26889,744196
+73,"Nottoway County,Virginia","Madison County,Kentucky",27865,773923
+74,"Nottoway County,Virginia","Magoffin County,Kentucky",25179,643720
+75,"Nottoway County,Virginia","Marion County,Kentucky",30911,867640
+76,"Nottoway County,Virginia","Marshall County,Kentucky",37767,1114832
+77,"Nottoway County,Virginia","Martin County,Kentucky",24420,616957
+78,"Nottoway County,Virginia","Mason County,Kentucky",26381,716635
+79,"Nottoway County,Virginia","Meade County,Kentucky",33060,943384
+80,"Nottoway County,Virginia","Menifee County,Kentucky",25823,708652
+81,"Nottoway County,Virginia","Mercer County,Kentucky",29287,823351
+82,"Nottoway County,Virginia","Metcalfe County,Kentucky",32095,838400
+83,"Nottoway County,Virginia","Monroe County,Kentucky",31323,858439
+84,"Nottoway County,Virginia","Montgomery County,Kentucky",25520,715129
+85,"Nottoway County,Virginia","Morgan County,Kentucky",25601,684368
+86,"Nottoway County,Virginia","Muhlenberg County,Kentucky",36469,1046976
+87,"Nottoway County,Virginia","Nelson County,Kentucky",30519,866712
+88,"Nottoway County,Virginia","Nicholas County,Kentucky",27198,743013
+89,"Nottoway County,Virginia","Ohio County,Kentucky",35382,1014566
+90,"Nottoway County,Virginia","Oldham County,Kentucky",30671,882950
+91,"Nottoway County,Virginia","Owen County,Kentucky",29726,838594
+92,"Nottoway County,Virginia","Owsley County,Kentucky",27697,683080
+93,"Nottoway County,Virginia","Pendleton County,Kentucky",28969,778013
+94,"Nottoway County,Virginia","Perry County,Kentucky",24073,608378
+95,"Nottoway County,Virginia","Pike County,Kentucky",22594,557028
+96,"Nottoway County,Virginia","Powell County,Kentucky",26964,744875
+97,"Nottoway County,Virginia","Robertson County,Kentucky",27115,742519
+98,"Nottoway County,Virginia","Rockcastle County,Kentucky",28329,728257
+99,"Nottoway County,Virginia","Rowan County,Kentucky",23850,668796
+100,"Nottoway County,Virginia","Russell County,Kentucky",31044,792119
+101,"Nottoway County,Virginia","Scott County,Kentucky",27701,790927
+102,"Nottoway County,Virginia","Shelby County,Kentucky",29528,842203
+103,"Nottoway County,Virginia","Simpson County,Kentucky",33873,944915
+104,"Nottoway County,Virginia","Spencer County,Kentucky",30058,848051
+105,"Nottoway County,Virginia","Taylor County,Kentucky",32200,899136
+106,"Nottoway County,Virginia","Todd County,Kentucky",34889,1008986
+107,"Nottoway County,Virginia","Trigg County,Kentucky",35381,1033398
+108,"Nottoway County,Virginia","Trimble County,Kentucky",31745,888990
+109,"Nottoway County,Virginia","Union County,Kentucky",39650,1145532
+110,"Nottoway County,Virginia","Warren County,Kentucky",34298,967583
+111,"Nottoway County,Virginia","Washington County,Kentucky",30529,851948
+112,"Nottoway County,Virginia","Wayne County,Kentucky",29393,791327
+113,"Nottoway County,Virginia","Webster County,Kentucky",38110,1109380
+114,"Nottoway County,Virginia","Whitley County,Kentucky",25493,728958
+115,"Nottoway County,Virginia","Wolfe County,Kentucky",26696,707730
+116,"Nottoway County,Virginia","Woodford County,Kentucky",27921,793563
+117,"Nottoway County,Virginia","Adams County,Ohio",26473,719191
+118,"Nottoway County,Virginia","Allen County,Ohio",33205,894608
+119,"Nottoway County,Virginia","Ashland County,Ohio",30859,881573
+120,"Nottoway County,Virginia","Ashtabula County,Ohio",28856,836043
+121,"Nottoway County,Virginia","Athens County,Ohio",22881,624790
+122,"Nottoway County,Virginia","Auglaize County,Ohio",32455,911308
+123,"Nottoway County,Virginia","Belmont County,Ohio",25427,732338
+124,"Nottoway County,Virginia","Brown County,Ohio",27718,746119
+125,"Nottoway County,Virginia","Butler County,Ohio",30830,828144
+126,"Nottoway County,Virginia","Carroll County,Ohio",27373,748264
+127,"Nottoway County,Virginia","Champaign County,Ohio",29759,813406
+128,"Nottoway County,Virginia","Clark County,Ohio",28438,772950
+129,"Nottoway County,Virginia","Clermont County,Ohio",28551,777215
+130,"Nottoway County,Virginia","Clinton County,Ohio",27942,760631
+131,"Nottoway County,Virginia","Columbiana County,Ohio",26159,730281
+132,"Nottoway County,Virginia","Coshocton County,Ohio",27265,766325
+133,"Nottoway County,Virginia","Crawford County,Ohio",31557,859660
+134,"Nottoway County,Virginia","Cuyahoga County,Ohio",28853,833887
+135,"Nottoway County,Virginia","Darke County,Ohio",31553,868355
+136,"Nottoway County,Virginia","Defiance County,Ohio",36641,972929
+137,"Nottoway County,Virginia","Delaware County,Ohio",28711,792397
+138,"Nottoway County,Virginia","Fairfield County,Ohio",26242,719491
+139,"Nottoway County,Virginia","Fayette County,Ohio",26506,731095
+140,"Nottoway County,Virginia","Franklin County,Ohio",27242,749346
+141,"Nottoway County,Virginia","Fulton County,Ohio",35523,1039701
+142,"Nottoway County,Virginia","Gallia County,Ohio",21820,590207
+143,"Nottoway County,Virginia","Geauga County,Ohio",28346,808705
+144,"Nottoway County,Virginia","Greene County,Ohio",27377,764248
+145,"Nottoway County,Virginia","Guernsey County,Ohio",24816,704244
+146,"Nottoway County,Virginia","Hamilton County,Ohio",30332,838722
+147,"Nottoway County,Virginia","Hancock County,Ohio",32734,900752
+148,"Nottoway County,Virginia","Hardin County,Ohio",31716,850438
+149,"Nottoway County,Virginia","Harrison County,Ohio",26586,750481
+150,"Nottoway County,Virginia","Henry County,Ohio",35447,972374
+151,"Nottoway County,Virginia","Highland County,Ohio",27010,719205
+152,"Nottoway County,Virginia","Hocking County,Ohio",24684,675454
+153,"Nottoway County,Virginia","Holmes County,Ohio",28324,789209
+154,"Nottoway County,Virginia","Huron County,Ohio",32136,911179
+155,"Nottoway County,Virginia","Jackson County,Ohio",22997,629756
+156,"Nottoway County,Virginia","Jefferson County,Ohio",25329,711755
+157,"Nottoway County,Virginia","Knox County,Ohio",29053,808801
+158,"Nottoway County,Virginia","Lawrence County,Ohio",22522,595970
+159,"Nottoway County,Virginia","Licking County,Ohio",28187,746501
+160,"Nottoway County,Virginia","Logan County,Ohio",30737,844715
+161,"Nottoway County,Virginia","Lorain County,Ohio",29904,863607
+162,"Nottoway County,Virginia","Lucas County,Ohio",34478,992551
+163,"Nottoway County,Virginia","Madison County,Ohio",28207,754180
+164,"Nottoway County,Virginia","Mahoning County,Ohio",25343,726035
+165,"Nottoway County,Virginia","Marion County,Ohio",30117,818490
+166,"Nottoway County,Virginia","Medina County,Ohio",29492,848693
+167,"Nottoway County,Virginia","Meigs County,Ohio",21762,595761
+168,"Nottoway County,Virginia","Mercer County,Ohio",33691,938242
+169,"Nottoway County,Virginia","Miami County,Ohio",30041,833747
+170,"Nottoway County,Virginia","Monroe County,Ohio",25752,693435
+171,"Nottoway County,Virginia","Montgomery County,Ohio",29411,811703
+172,"Nottoway County,Virginia","Morgan County,Ohio",24757,680083
+173,"Nottoway County,Virginia","Morrow County,Ohio",29519,815218
+174,"Nottoway County,Virginia","Muskingum County,Ohio",25662,732235
+175,"Nottoway County,Virginia","Noble County,Ohio",24257,676596
+176,"Nottoway County,Virginia","Paulding County,Ohio",35742,970514
+177,"Nottoway County,Virginia","Perry County,Ohio",26099,690211
+178,"Nottoway County,Virginia","Pickaway County,Ohio",25947,711194
+179,"Nottoway County,Virginia","Pike County,Ohio",24443,669063
+180,"Nottoway County,Virginia","Portage County,Ohio",27197,782048
+181,"Nottoway County,Virginia","Preble County,Ohio",31030,840281
+182,"Nottoway County,Virginia","Putnam County,Ohio",34328,926967
+183,"Nottoway County,Virginia","Richland County,Ohio",30548,850456
+184,"Nottoway County,Virginia","Ross County,Ohio",24691,677500
+185,"Nottoway County,Virginia","Sandusky County,Ohio",32765,951126
+186,"Nottoway County,Virginia","Scioto County,Ohio",24327,653243
+187,"Nottoway County,Virginia","Seneca County,Ohio",33108,893332
+188,"Nottoway County,Virginia","Shelby County,Ohio",31080,870033
+189,"Nottoway County,Virginia","Stark County,Ohio",27977,778181
+190,"Nottoway County,Virginia","Summit County,Ohio",28255,807863
+191,"Nottoway County,Virginia","Trumbull County,Ohio",26500,763499
+192,"Nottoway County,Virginia","Tuscarawas County,Ohio",26689,751030
+193,"Nottoway County,Virginia","Union County,Ohio",29241,794946
+194,"Nottoway County,Virginia","Van Wert County,Ohio",34439,937478
+195,"Nottoway County,Virginia","Vinton County,Ohio",24892,655261
+196,"Nottoway County,Virginia","Warren County,Ohio",28748,794690
+197,"Nottoway County,Virginia","Washington County,Ohio",23116,634532
+198,"Nottoway County,Virginia","Wayne County,Ohio",29460,813321
+199,"Nottoway County,Virginia","Williams County,Ohio",36769,1071158
+200,"Nottoway County,Virginia","Wood County,Ohio",34132,942360
+201,"Nottoway County,Virginia","Wyandot County,Ohio",31704,864888
+202,"Nottoway County,Virginia","Accomack County,Virginia",13176,311126
+203,"Nottoway County,Virginia","Albemarle County,Virginia",6941,150565
+204,"Nottoway County,Virginia","Alleghany County,Virginia",10912,273563
+205,"Nottoway County,Virginia","Amelia County,Virginia",1585,29815
+206,"Nottoway County,Virginia","Amherst County,Virginia",5769,144702
+207,"Nottoway County,Virginia","Appomattox County,Virginia",3866,97725
+208,"Nottoway County,Virginia","Arlington County,Virginia",9345,254528
+209,"Nottoway County,Virginia","Augusta County,Virginia",9184,220885
+210,"Nottoway County,Virginia","Bath County,Virginia",11432,266890
+211,"Nottoway County,Virginia","Bedford County,Virginia",6840,163581
+212,"Nottoway County,Virginia","Bland County,Virginia",13201,348759
+213,"Nottoway County,Virginia","Botetourt County,Virginia",9207,209945
+214,"Nottoway County,Virginia","Brunswick County,Virginia",2637,50414
+215,"Nottoway County,Virginia","Buchanan County,Virginia",18958,483218
+216,"Nottoway County,Virginia","Buckingham County,Virginia",3597,81340
+217,"Nottoway County,Virginia","Campbell County,Virginia",5285,126896
+218,"Nottoway County,Virginia","Caroline County,Virginia",6075,151887
+219,"Nottoway County,Virginia","Carroll County,Virginia",13220,317925
+220,"Nottoway County,Virginia","Charles City County,Virginia",4507,101974
+221,"Nottoway County,Virginia","Charlotte County,Virginia",3087,70401
+222,"Nottoway County,Virginia","Chesterfield County,Virginia",2938,64243
+223,"Nottoway County,Virginia","Clarke County,Virginia",12026,297003
+224,"Nottoway County,Virginia","Craig County,Virginia",11170,265159
+225,"Nottoway County,Virginia","Culpeper County,Virginia",8699,178530
+226,"Nottoway County,Virginia","Cumberland County,Virginia",3298,71294
+227,"Nottoway County,Virginia","Dickenson County,Virginia",19667,501396
+228,"Nottoway County,Virginia","Dinwiddie County,Virginia",1822,42272
+229,"Nottoway County,Virginia","Essex County,Virginia",7631,182910
+230,"Nottoway County,Virginia","Fairfax County,Virginia",9642,257757
+231,"Nottoway County,Virginia","Fauquier County,Virginia",9339,237770
+232,"Nottoway County,Virginia","Floyd County,Virginia",11645,270238
+233,"Nottoway County,Virginia","Fluvanna County,Virginia",5724,114630
+234,"Nottoway County,Virginia","Franklin County,Virginia",8756,193747
+235,"Nottoway County,Virginia","Frederick County,Virginia",12581,330066
+236,"Nottoway County,Virginia","Giles County,Virginia",11990,303875
+237,"Nottoway County,Virginia","Gloucester County,Virginia",7389,186437
+238,"Nottoway County,Virginia","Goochland County,Virginia",4443,87909
+239,"Nottoway County,Virginia","Grayson County,Virginia",14655,370355
+240,"Nottoway County,Virginia","Greene County,Virginia",8786,181834
+241,"Nottoway County,Virginia","Greensville County,Virginia",4353,93439
+242,"Nottoway County,Virginia","Halifax County,Virginia",4721,113546
+243,"Nottoway County,Virginia","Hanover County,Virginia",4560,102846
+244,"Nottoway County,Virginia","Henrico County,Virginia",3857,101864
+245,"Nottoway County,Virginia","Henry County,Virginia",9211,229823
+246,"Nottoway County,Virginia","Highland County,Virginia",12387,278624
+247,"Nottoway County,Virginia","Isle of Wight County,Virginia",5942,142392
+248,"Nottoway County,Virginia","James City County,Virginia",6098,137419
+249,"Nottoway County,Virginia","King and Queen County,Virginia",6808,172257
+250,"Nottoway County,Virginia","King George County,Virginia",7188,179873
+251,"Nottoway County,Virginia","King William County,Virginia",5495,142179
+252,"Nottoway County,Virginia","Lancaster County,Virginia",9256,222477
+253,"Nottoway County,Virginia","Lee County,Virginia",20162,533050
+254,"Nottoway County,Virginia","Loudoun County,Virginia",11609,311002
+255,"Nottoway County,Virginia","Louisa County,Virginia",5764,120245
+256,"Nottoway County,Virginia","Lunenburg County,Virginia",2118,37837
+257,"Nottoway County,Virginia","Madison County,Virginia",8699,181866
+258,"Nottoway County,Virginia","Mathews County,Virginia",8214,209861
+259,"Nottoway County,Virginia","Mecklenburg County,Virginia",4097,84684
+260,"Nottoway County,Virginia","Middlesex County,Virginia",6991,182637
+261,"Nottoway County,Virginia","Montgomery County,Virginia",10554,268146
+262,"Nottoway County,Virginia","Nelson County,Virginia",5834,129141
+263,"Nottoway County,Virginia","New Kent County,Virginia",5891,146934
+264,"Nottoway County,Virginia","Northampton County,Virginia",10419,246940
+265,"Nottoway County,Virginia","Northumberland County,Virginia",9328,223777
+266,"Nottoway County,Virginia","Orange County,Virginia",7345,148289
+267,"Nottoway County,Virginia","Page County,Virginia",11059,233518
+268,"Nottoway County,Virginia","Patrick County,Virginia",10794,268730
+269,"Nottoway County,Virginia","Pittsylvania County,Virginia",7287,173828
+270,"Nottoway County,Virginia","Powhatan County,Virginia",3052,67176
+271,"Nottoway County,Virginia","Prince Edward County,Virginia",2343,51390
+272,"Nottoway County,Virginia","Prince George County,Virginia",3477,81646
+273,"Nottoway County,Virginia","Prince William County,Virginia",9802,247606
+274,"Nottoway County,Virginia","Pulaski County,Virginia",11282,290779
+275,"Nottoway County,Virginia","Rappahannock County,Virginia",10274,208107
+276,"Nottoway County,Virginia","Richmond County,Virginia",8028,196420
+277,"Nottoway County,Virginia","Roanoke County,Virginia",9545,233084
+278,"Nottoway County,Virginia","Rockbridge County,Virginia",8902,201510
+279,"Nottoway County,Virginia","Rockingham County,Virginia",10543,261031
+280,"Nottoway County,Virginia","Russell County,Virginia",18124,466555
+281,"Nottoway County,Virginia","Scott County,Virginia",18735,493778
+282,"Nottoway County,Virginia","Shenandoah County,Virginia",11047,291135
+283,"Nottoway County,Virginia","Smyth County,Virginia",14318,377500
+284,"Nottoway County,Virginia","Southampton County,Virginia",5544,127069
+285,"Nottoway County,Virginia","Spotsylvania County,Virginia",7085,174837
+286,"Nottoway County,Virginia","Stafford County,Virginia",7157,192309
+287,"Nottoway County,Virginia","Surry County,Virginia",5159,120609
+288,"Nottoway County,Virginia","Sussex County,Virginia",3831,87403
+289,"Nottoway County,Virginia","Tazewell County,Virginia",15779,417577
+290,"Nottoway County,Virginia","Warren County,Virginia",11906,252158
+291,"Nottoway County,Virginia","Washington County,Virginia",15711,416966
+292,"Nottoway County,Virginia","Westmoreland County,Virginia",8162,196698
+293,"Nottoway County,Virginia","Wise County,Virginia",19575,507898
+294,"Nottoway County,Virginia","Wythe County,Virginia",12572,329485
+295,"Nottoway County,Virginia","York County,Virginia",7742,203794
+296,"Nottoway County,Virginia","Alexandria City County,Virginia",9317,251576
+297,"Nottoway County,Virginia","Bedford City County,Virginia",6341,158665
+298,"Nottoway County,Virginia","Bristol City County,Virginia",16186,442684
+299,"Nottoway County,Virginia","Buena Vista City County,Virginia",7656,183141
+300,"Nottoway County,Virginia","Charlottesville City County,Virginia",6437,142701
+301,"Nottoway County,Virginia","Chesapeake City County,Virginia",7811,186303
+302,"Nottoway County,Virginia","Clifton Forge City County,Virginia",9813,242381
+303,"Nottoway County,Virginia","Colonial Heights City County,Virginia",2730,66351
+304,"Nottoway County,Virginia","Covington City County,Virginia",10556,260723
+305,"Nottoway County,Virginia","Danville City County,Virginia",6667,160797
+306,"Nottoway County,Virginia","Emporia City County,Virginia",4020,79803
+307,"Nottoway County,Virginia","Fairfax City County,Virginia",9577,246540
+308,"Nottoway County,Virginia","Falls Church City County,Virginia",9524,258826
+309,"Nottoway County,Virginia","Franklin City County,Virginia",6135,138540
+310,"Nottoway County,Virginia","Fredericksburg City County,Virginia",6956,178244
+311,"Nottoway County,Virginia","Galax City County,Virginia",13946,360042
+312,"Nottoway County,Virginia","Hampton City County,Virginia",7693,213500
+313,"Nottoway County,Virginia","Harrisonburg City County,Virginia",9602,240927
+314,"Nottoway County,Virginia","Hopewell City County,Virginia",3642,78136
+315,"Nottoway County,Virginia","Lexington City County,Virginia",8188,192325
+316,"Nottoway County,Virginia","Lynchburg City County,Virginia",5068,122213
+317,"Nottoway County,Virginia","Manassas City County,Virginia",9545,244943
+318,"Nottoway County,Virginia","Manassas Park City County,Virginia",9765,242142
+319,"Nottoway County,Virginia","Martinsville City County,Virginia",8808,213802
+320,"Nottoway County,Virginia","Newport News City County,Virginia",7249,199986
+321,"Nottoway County,Virginia","Norfolk City County,Virginia",7763,185163
+322,"Nottoway County,Virginia","Norton City County,Virginia",19099,498788
+323,"Nottoway County,Virginia","Petersburg City County,Virginia",2480,64249
+324,"Nottoway County,Virginia","Poquoson City County,Virginia",7921,210563
+325,"Nottoway County,Virginia","Portsmouth City County,Virginia",7682,182699
+326,"Nottoway County,Virginia","Radford County,Virginia",10918,277990
+327,"Nottoway County,Virginia","Richmond City County,Virginia",3828,100645
+328,"Nottoway County,Virginia","Roanoke City County,Virginia",8563,204399
+329,"Nottoway County,Virginia","Salem City County,Virginia",8913,222998
+330,"Nottoway County,Virginia","South Boston City County,Virginia",4414,110797
+331,"Nottoway County,Virginia","Staunton City County,Virginia",8491,202608
+332,"Nottoway County,Virginia","Suffolk City County,Virginia",6785,157116
+333,"Nottoway County,Virginia","Virginia Beach City County,Virginia",8878,212959
+334,"Nottoway County,Virginia","Waynesboro City County,Virginia",7846,166390
+335,"Nottoway County,Virginia","Williamsburg City County,Virginia",6293,172235
+336,"Nottoway County,Virginia","Winchester City County,Virginia",12402,303813
+337,"Nottoway County,Virginia","Barbour County,West Virginia",19293,419329
+338,"Nottoway County,Virginia","Berkeley County,West Virginia",14183,353995
+339,"Nottoway County,Virginia","Boone County,West Virginia",19271,473268
+340,"Nottoway County,Virginia","Braxton County,West Virginia",18969,453943
+341,"Nottoway County,Virginia","Brooke County,West Virginia",24634,695238
+342,"Nottoway County,Virginia","Cabell County,West Virginia",20838,569174
+343,"Nottoway County,Virginia","Calhoun County,West Virginia",20740,507894
+344,"Nottoway County,Virginia","Clay County,West Virginia",19004,444727
+345,"Nottoway County,Virginia","Doddridge County,West Virginia",22747,481731
+346,"Nottoway County,Virginia","Fayette County,West Virginia",16393,391466
+347,"Nottoway County,Virginia","Gilmer County,West Virginia",20537,503623
+348,"Nottoway County,Virginia","Grant County,West Virginia",14998,380194
+349,"Nottoway County,Virginia","Greenbrier County,West Virginia",14748,350691
+350,"Nottoway County,Virginia","Hampshire County,West Virginia",14708,363071
+351,"Nottoway County,Virginia","Hancock County,West Virginia",25342,703175
+352,"Nottoway County,Virginia","Hardy County,West Virginia",14246,351524
+353,"Nottoway County,Virginia","Harrison County,West Virginia",21390,484199
+354,"Nottoway County,Virginia","Jackson County,West Virginia",20157,548985
+355,"Nottoway County,Virginia","Jefferson County,West Virginia",13082,342429
+356,"Nottoway County,Virginia","Kanawha County,West Virginia",17921,470967
+357,"Nottoway County,Virginia","Lewis County,West Virginia",20142,502804
+358,"Nottoway County,Virginia","Lincoln County,West Virginia",21503,546852
+359,"Nottoway County,Virginia","Logan County,West Virginia",21061,503758
+360,"Nottoway County,Virginia","McDowell County,West Virginia",18086,424762
+361,"Nottoway County,Virginia","Marion County,West Virginia",21952,618098
+362,"Nottoway County,Virginia","Marshall County,West Virginia",25621,689682
+363,"Nottoway County,Virginia","Mason County,West Virginia",20314,555081
+364,"Nottoway County,Virginia","Mercer County,West Virginia",14163,360052
+365,"Nottoway County,Virginia","Mineral County,West Virginia",16472,391717
+366,"Nottoway County,Virginia","Mingo County,West Virginia",21640,567692
+367,"Nottoway County,Virginia","Monongalia County,West Virginia",19775,569838
+368,"Nottoway County,Virginia","Monroe County,West Virginia",13683,337012
+369,"Nottoway County,Virginia","Morgan County,West Virginia",14429,355121
+370,"Nottoway County,Virginia","Nicholas County,West Virginia",16588,404116
+371,"Nottoway County,Virginia","Ohio County,West Virginia",24541,704184
+372,"Nottoway County,Virginia","Pendleton County,West Virginia",13390,312216
+373,"Nottoway County,Virginia","Pleasants County,West Virginia",23640,646837
+374,"Nottoway County,Virginia","Pocahontas County,West Virginia",15849,340310
+375,"Nottoway County,Virginia","Preston County,West Virginia",19178,458645
+376,"Nottoway County,Virginia","Putnam County,West Virginia",19096,520699
+377,"Nottoway County,Virginia","Raleigh County,West Virginia",14946,396148
+378,"Nottoway County,Virginia","Randolph County,West Virginia",17309,372723
+379,"Nottoway County,Virginia","Ritchie County,West Virginia",23213,550269
+380,"Nottoway County,Virginia","Roane County,West Virginia",21783,577800
+381,"Nottoway County,Virginia","Summers County,West Virginia",14898,358171
+382,"Nottoway County,Virginia","Taylor County,West Virginia",19521,476466
+383,"Nottoway County,Virginia","Tucker County,West Virginia",17658,441841
+384,"Nottoway County,Virginia","Tyler County,West Virginia",25115,553006
+385,"Nottoway County,Virginia","Upshur County,West Virginia",19905,408365
+386,"Nottoway County,Virginia","Wayne County,West Virginia",22430,601801
+387,"Nottoway County,Virginia","Webster County,West Virginia",19340,448604
+388,"Nottoway County,Virginia","Wetzel County,West Virginia",24070,535681
+389,"Nottoway County,Virginia","Wirt County,West Virginia",22424,606323
+390,"Nottoway County,Virginia","Wood County,West Virginia",21938,608012
+391,"Nottoway County,Virginia","Wyoming County,West Virginia",16890,436090

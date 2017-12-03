@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Prince Edward County,Virginia","Adair County,Kentucky",30088,765834
+1,"Prince Edward County,Virginia","Allen County,Kentucky",31483,885643
+2,"Prince Edward County,Virginia","Anderson County,Kentucky",27708,783106
+3,"Prince Edward County,Virginia","Ballard County,Kentucky",38388,1120898
+4,"Prince Edward County,Virginia","Barren County,Kentucky",31273,844589
+5,"Prince Edward County,Virginia","Bath County,Kentucky",23355,654287
+6,"Prince Edward County,Virginia","Bell County,Kentucky",22583,567140
+7,"Prince Edward County,Virginia","Boone County,Kentucky",29168,775680
+8,"Prince Edward County,Virginia","Bourbon County,Kentucky",25269,700704
+9,"Prince Edward County,Virginia","Boyd County,Kentucky",20031,548611
+10,"Prince Edward County,Virginia","Boyle County,Kentucky",28937,786992
+11,"Prince Edward County,Virginia","Bracken County,Kentucky",25680,694787
+12,"Prince Edward County,Virginia","Breathitt County,Kentucky",24207,602904
+13,"Prince Edward County,Virginia","Breckinridge County,Kentucky",33241,935787
+14,"Prince Edward County,Virginia","Bullitt County,Kentucky",29811,856906
+15,"Prince Edward County,Virginia","Butler County,Kentucky",33944,955849
+16,"Prince Edward County,Virginia","Caldwell County,Kentucky",35528,1028712
+17,"Prince Edward County,Virginia","Calloway County,Kentucky",36229,1052758
+18,"Prince Edward County,Virginia","Campbell County,Kentucky",27380,734659
+19,"Prince Edward County,Virginia","Carlisle County,Kentucky",38845,1136267
+20,"Prince Edward County,Virginia","Carroll County,Kentucky",30252,830920
+21,"Prince Edward County,Virginia","Carter County,Kentucky",21195,578709
+22,"Prince Edward County,Virginia","Casey County,Kentucky",30025,739108
+23,"Prince Edward County,Virginia","Christian County,Kentucky",33122,973737
+24,"Prince Edward County,Virginia","Clay County,Kentucky",25155,627482
+25,"Prince Edward County,Virginia","Clinton County,Kentucky",28531,765048
+26,"Prince Edward County,Virginia","Crittenden County,Kentucky",36792,1061472
+27,"Prince Edward County,Virginia","Cumberland County,Kentucky",29410,785717
+28,"Prince Edward County,Virginia","Daviess County,Kentucky",34929,1004227
+29,"Prince Edward County,Virginia","Edmonson County,Kentucky",33252,897951
+30,"Prince Edward County,Virginia","Elliott County,Kentucky",22526,604479
+31,"Prince Edward County,Virginia","Estill County,Kentucky",26348,716602
+32,"Prince Edward County,Virginia","Fayette County,Kentucky",25515,720599
+33,"Prince Edward County,Virginia","Fleming County,Kentucky",23781,657473
+34,"Prince Edward County,Virginia","Floyd County,Kentucky",22868,580212
+35,"Prince Edward County,Virginia","Franklin County,Kentucky",27553,769515
+36,"Prince Edward County,Virginia","Fulton County,Kentucky",39249,1157231
+37,"Prince Edward County,Virginia","Gallatin County,Kentucky",29250,821579
+38,"Prince Edward County,Virginia","Garrard County,Kentucky",28120,767752
+39,"Prince Edward County,Virginia","Grant County,Kentucky",28049,795686
+40,"Prince Edward County,Virginia","Graves County,Kentucky",37870,1108973
+41,"Prince Edward County,Virginia","Grayson County,Kentucky",32233,914421
+42,"Prince Edward County,Virginia","Green County,Kentucky",31840,807998
+43,"Prince Edward County,Virginia","Greenup County,Kentucky",21806,589738
+44,"Prince Edward County,Virginia","Hancock County,Kentucky",34037,968680
+45,"Prince Edward County,Virginia","Hardin County,Kentucky",31110,876553
+46,"Prince Edward County,Virginia","Harlan County,Kentucky",21658,543767
+47,"Prince Edward County,Virginia","Harrison County,Kentucky",26840,733804
+48,"Prince Edward County,Virginia","Hart County,Kentucky",31909,904182
+49,"Prince Edward County,Virginia","Henderson County,Kentucky",36736,1056657
+50,"Prince Edward County,Virginia","Henry County,Kentucky",29154,813233
+51,"Prince Edward County,Virginia","Hickman County,Kentucky",38878,1137558
+52,"Prince Edward County,Virginia","Hopkins County,Kentucky",35649,1038989
+53,"Prince Edward County,Virginia","Jackson County,Kentucky",27027,663901
+54,"Prince Edward County,Virginia","Jefferson County,Kentucky",29248,828767
+55,"Prince Edward County,Virginia","Jessamine County,Kentucky",26984,742062
+56,"Prince Edward County,Virginia","Johnson County,Kentucky",22812,621507
+57,"Prince Edward County,Virginia","Kenton County,Kentucky",28537,763374
+58,"Prince Edward County,Virginia","Knott County,Kentucky",21748,545653
+59,"Prince Edward County,Virginia","Knox County,Kentucky",23913,609133
+60,"Prince Edward County,Virginia","Larue County,Kentucky",31181,863729
+61,"Prince Edward County,Virginia","Laurel County,Kentucky",25807,643960
+62,"Prince Edward County,Virginia","Lawrence County,Kentucky",21954,592931
+63,"Prince Edward County,Virginia","Lee County,Kentucky",26318,644093
+64,"Prince Edward County,Virginia","Leslie County,Kentucky",23120,572046
+65,"Prince Edward County,Virginia","Letcher County,Kentucky",20148,509200
+66,"Prince Edward County,Virginia","Lewis County,Kentucky",23234,630526
+67,"Prince Edward County,Virginia","Lincoln County,Kentucky",28496,724357
+68,"Prince Edward County,Virginia","Livingston County,Kentucky",36719,1074837
+69,"Prince Edward County,Virginia","Logan County,Kentucky",33554,926638
+70,"Prince Edward County,Virginia","Lyon County,Kentucky",36476,1052012
+71,"Prince Edward County,Virginia","McCracken County,Kentucky",37000,1088958
+72,"Prince Edward County,Virginia","McCreary County,Kentucky",25537,701894
+73,"Prince Edward County,Virginia","Madison County,Kentucky",26513,731622
+74,"Prince Edward County,Virginia","Magoffin County,Kentucky",23827,601418
+75,"Prince Edward County,Virginia","Marion County,Kentucky",29559,825338
+76,"Prince Edward County,Virginia","Marshall County,Kentucky",36415,1072530
+77,"Prince Edward County,Virginia","Martin County,Kentucky",23068,574655
+78,"Prince Edward County,Virginia","Mason County,Kentucky",25029,674333
+79,"Prince Edward County,Virginia","Meade County,Kentucky",31708,901082
+80,"Prince Edward County,Virginia","Menifee County,Kentucky",24471,666350
+81,"Prince Edward County,Virginia","Mercer County,Kentucky",27935,781049
+82,"Prince Edward County,Virginia","Metcalfe County,Kentucky",30744,796098
+83,"Prince Edward County,Virginia","Monroe County,Kentucky",29971,816138
+84,"Prince Edward County,Virginia","Montgomery County,Kentucky",24168,672827
+85,"Prince Edward County,Virginia","Morgan County,Kentucky",24250,642066
+86,"Prince Edward County,Virginia","Muhlenberg County,Kentucky",35117,1004674
+87,"Prince Edward County,Virginia","Nelson County,Kentucky",29167,824410
+88,"Prince Edward County,Virginia","Nicholas County,Kentucky",25846,700711
+89,"Prince Edward County,Virginia","Ohio County,Kentucky",34030,972264
+90,"Prince Edward County,Virginia","Oldham County,Kentucky",29319,840648
+91,"Prince Edward County,Virginia","Owen County,Kentucky",28374,796292
+92,"Prince Edward County,Virginia","Owsley County,Kentucky",26345,640778
+93,"Prince Edward County,Virginia","Pendleton County,Kentucky",27617,735711
+94,"Prince Edward County,Virginia","Perry County,Kentucky",22721,566076
+95,"Prince Edward County,Virginia","Pike County,Kentucky",21243,514726
+96,"Prince Edward County,Virginia","Powell County,Kentucky",25612,702573
+97,"Prince Edward County,Virginia","Robertson County,Kentucky",25764,700217
+98,"Prince Edward County,Virginia","Rockcastle County,Kentucky",26977,685955
+99,"Prince Edward County,Virginia","Rowan County,Kentucky",22498,626494
+100,"Prince Edward County,Virginia","Russell County,Kentucky",29692,749817
+101,"Prince Edward County,Virginia","Scott County,Kentucky",26349,748625
+102,"Prince Edward County,Virginia","Shelby County,Kentucky",28176,799902
+103,"Prince Edward County,Virginia","Simpson County,Kentucky",32521,902613
+104,"Prince Edward County,Virginia","Spencer County,Kentucky",28706,805750
+105,"Prince Edward County,Virginia","Taylor County,Kentucky",30848,856834
+106,"Prince Edward County,Virginia","Todd County,Kentucky",33537,966684
+107,"Prince Edward County,Virginia","Trigg County,Kentucky",34029,991096
+108,"Prince Edward County,Virginia","Trimble County,Kentucky",30393,846688
+109,"Prince Edward County,Virginia","Union County,Kentucky",38298,1103230
+110,"Prince Edward County,Virginia","Warren County,Kentucky",32946,925281
+111,"Prince Edward County,Virginia","Washington County,Kentucky",29177,809646
+112,"Prince Edward County,Virginia","Wayne County,Kentucky",28041,749025
+113,"Prince Edward County,Virginia","Webster County,Kentucky",36758,1067078
+114,"Prince Edward County,Virginia","Whitley County,Kentucky",24141,686657
+115,"Prince Edward County,Virginia","Wolfe County,Kentucky",25344,665428
+116,"Prince Edward County,Virginia","Woodford County,Kentucky",26569,751261
+117,"Prince Edward County,Virginia","Adams County,Ohio",25121,676889
+118,"Prince Edward County,Virginia","Allen County,Ohio",31853,852307
+119,"Prince Edward County,Virginia","Ashland County,Ohio",29598,806198
+120,"Prince Edward County,Virginia","Ashtabula County,Ohio",29481,818835
+121,"Prince Edward County,Virginia","Athens County,Ohio",21529,582488
+122,"Prince Edward County,Virginia","Auglaize County,Ohio",31103,869007
+123,"Prince Edward County,Virginia","Belmont County,Ohio",24554,633433
+124,"Prince Edward County,Virginia","Brown County,Ohio",26366,703817
+125,"Prince Edward County,Virginia","Butler County,Ohio",29479,785842
+126,"Prince Edward County,Virginia","Carroll County,Ohio",27278,752906
+127,"Prince Edward County,Virginia","Champaign County,Ohio",28407,771104
+128,"Prince Edward County,Virginia","Clark County,Ohio",27086,730648
+129,"Prince Edward County,Virginia","Clermont County,Ohio",27200,734913
+130,"Prince Edward County,Virginia","Clinton County,Ohio",26591,718330
+131,"Prince Edward County,Virginia","Columbiana County,Ohio",26708,657812
+132,"Prince Edward County,Virginia","Coshocton County,Ohio",25913,724023
+133,"Prince Edward County,Virginia","Crawford County,Ohio",30205,817358
+134,"Prince Edward County,Virginia","Cuyahoga County,Ohio",29314,838310
+135,"Prince Edward County,Virginia","Darke County,Ohio",30201,826053
+136,"Prince Edward County,Virginia","Defiance County,Ohio",35289,930628
+137,"Prince Edward County,Virginia","Delaware County,Ohio",27359,750095
+138,"Prince Edward County,Virginia","Fairfield County,Ohio",24890,677189
+139,"Prince Edward County,Virginia","Fayette County,Ohio",25154,688793
+140,"Prince Edward County,Virginia","Franklin County,Ohio",25890,707044
+141,"Prince Edward County,Virginia","Fulton County,Ohio",35296,972927
+142,"Prince Edward County,Virginia","Gallia County,Ohio",20468,547905
+143,"Prince Edward County,Virginia","Geauga County,Ohio",28971,791498
+144,"Prince Edward County,Virginia","Greene County,Ohio",26025,721946
+145,"Prince Edward County,Virginia","Guernsey County,Ohio",23464,661942
+146,"Prince Edward County,Virginia","Hamilton County,Ohio",28980,796420
+147,"Prince Edward County,Virginia","Hancock County,Ohio",31382,858450
+148,"Prince Edward County,Virginia","Hardin County,Ohio",30364,808136
+149,"Prince Edward County,Virginia","Harrison County,Ohio",26284,734972
+150,"Prince Edward County,Virginia","Henry County,Ohio",34095,930072
+151,"Prince Edward County,Virginia","Highland County,Ohio",25658,676903
+152,"Prince Edward County,Virginia","Hocking County,Ohio",23332,633153
+153,"Prince Edward County,Virginia","Holmes County,Ohio",26972,746907
+154,"Prince Edward County,Virginia","Huron County,Ohio",31495,847827
+155,"Prince Edward County,Virginia","Jackson County,Ohio",21645,587454
+156,"Prince Edward County,Virginia","Jefferson County,Ohio",25455,632783
+157,"Prince Edward County,Virginia","Knox County,Ohio",27702,766499
+158,"Prince Edward County,Virginia","Lawrence County,Ohio",21170,553668
+159,"Prince Edward County,Virginia","Licking County,Ohio",26835,704199
+160,"Prince Edward County,Virginia","Logan County,Ohio",29385,802413
+161,"Prince Edward County,Virginia","Lorain County,Ohio",30529,846400
+162,"Prince Edward County,Virginia","Lucas County,Ohio",35103,975344
+163,"Prince Edward County,Virginia","Madison County,Ohio",26856,711878
+164,"Prince Edward County,Virginia","Mahoning County,Ohio",25968,708827
+165,"Prince Edward County,Virginia","Marion County,Ohio",28765,776188
+166,"Prince Edward County,Virginia","Medina County,Ohio",28987,824341
+167,"Prince Edward County,Virginia","Meigs County,Ohio",20410,553459
+168,"Prince Edward County,Virginia","Mercer County,Ohio",32339,895940
+169,"Prince Edward County,Virginia","Miami County,Ohio",28690,791445
+170,"Prince Edward County,Virginia","Monroe County,Ohio",24400,651134
+171,"Prince Edward County,Virginia","Montgomery County,Ohio",28059,769401
+172,"Prince Edward County,Virginia","Morgan County,Ohio",23405,637782
+173,"Prince Edward County,Virginia","Morrow County,Ohio",28167,772916
+174,"Prince Edward County,Virginia","Muskingum County,Ohio",24310,689933
+175,"Prince Edward County,Virginia","Noble County,Ohio",22906,634294
+176,"Prince Edward County,Virginia","Paulding County,Ohio",34390,928213
+177,"Prince Edward County,Virginia","Perry County,Ohio",24747,647909
+178,"Prince Edward County,Virginia","Pickaway County,Ohio",24595,668892
+179,"Prince Edward County,Virginia","Pike County,Ohio",23091,626761
+180,"Prince Edward County,Virginia","Portage County,Ohio",27822,764841
+181,"Prince Edward County,Virginia","Preble County,Ohio",29678,797979
+182,"Prince Edward County,Virginia","Putnam County,Ohio",32976,884665
+183,"Prince Edward County,Virginia","Richland County,Ohio",29197,808155
+184,"Prince Edward County,Virginia","Ross County,Ohio",23339,635199
+185,"Prince Edward County,Virginia","Sandusky County,Ohio",33139,877145
+186,"Prince Edward County,Virginia","Scioto County,Ohio",22975,610941
+187,"Prince Edward County,Virginia","Seneca County,Ohio",31756,851030
+188,"Prince Edward County,Virginia","Shelby County,Ohio",29728,827731
+189,"Prince Edward County,Virginia","Stark County,Ohio",27137,768141
+190,"Prince Edward County,Virginia","Summit County,Ohio",27896,793929
+191,"Prince Edward County,Virginia","Trumbull County,Ohio",27125,746291
+192,"Prince Edward County,Virginia","Tuscarawas County,Ohio",25338,708729
+193,"Prince Edward County,Virginia","Union County,Ohio",27889,752644
+194,"Prince Edward County,Virginia","Van Wert County,Ohio",33088,895176
+195,"Prince Edward County,Virginia","Vinton County,Ohio",23541,612959
+196,"Prince Edward County,Virginia","Warren County,Ohio",27396,752389
+197,"Prince Edward County,Virginia","Washington County,Ohio",21764,592230
+198,"Prince Edward County,Virginia","Wayne County,Ohio",28108,771019
+199,"Prince Edward County,Virginia","Williams County,Ohio",36466,954144
+200,"Prince Edward County,Virginia","Wood County,Ohio",32780,900058
+201,"Prince Edward County,Virginia","Wyandot County,Ohio",30352,822586
+202,"Prince Edward County,Virginia","Accomack County,Virginia",15110,382104
+203,"Prince Edward County,Virginia","Albemarle County,Virginia",5669,117045
+204,"Prince Edward County,Virginia","Alleghany County,Virginia",9560,231261
+205,"Prince Edward County,Virginia","Amelia County,Virginia",2298,53407
+206,"Prince Edward County,Virginia","Amherst County,Virginia",4417,102400
+207,"Prince Edward County,Virginia","Appomattox County,Virginia",2514,55423
+208,"Prince Edward County,Virginia","Arlington County,Virginia",10277,277097
+209,"Prince Edward County,Virginia","Augusta County,Virginia",7912,187365
+210,"Prince Edward County,Virginia","Bath County,Virginia",10080,224588
+211,"Prince Edward County,Virginia","Bedford County,Virginia",5488,121279
+212,"Prince Edward County,Virginia","Bland County,Virginia",11849,306458
+213,"Prince Edward County,Virginia","Botetourt County,Virginia",7855,167643
+214,"Prince Edward County,Virginia","Brunswick County,Virginia",4634,86015
+215,"Prince Edward County,Virginia","Buchanan County,Virginia",17606,440917
+216,"Prince Edward County,Virginia","Buckingham County,Virginia",2325,47820
+217,"Prince Edward County,Virginia","Campbell County,Virginia",3754,71181
+218,"Prince Edward County,Virginia","Caroline County,Virginia",7006,174456
+219,"Prince Edward County,Virginia","Carroll County,Virginia",11895,284957
+220,"Prince Edward County,Virginia","Charles City County,Virginia",6380,150123
+221,"Prince Edward County,Virginia","Charlotte County,Virginia",1723,37181
+222,"Prince Edward County,Virginia","Chesterfield County,Virginia",3993,92297
+223,"Prince Edward County,Virginia","Clarke County,Virginia",12565,333109
+224,"Prince Edward County,Virginia","Craig County,Virginia",9818,222857
+225,"Prince Edward County,Virginia","Culpeper County,Virginia",8593,177076
+226,"Prince Edward County,Virginia","Cumberland County,Virginia",2471,46041
+227,"Prince Edward County,Virginia","Dickenson County,Virginia",18316,459094
+228,"Prince Edward County,Virginia","Dinwiddie County,Virginia",4088,92662
+229,"Prince Edward County,Virginia","Essex County,Virginia",8872,198884
+230,"Prince Edward County,Virginia","Fairfax County,Virginia",10574,280327
+231,"Prince Edward County,Virginia","Fauquier County,Virginia",9859,214556
+232,"Prince Edward County,Virginia","Floyd County,Virginia",10293,227936
+233,"Prince Edward County,Virginia","Fluvanna County,Virginia",4475,96745
+234,"Prince Edward County,Virginia","Franklin County,Virginia",7392,160527
+235,"Prince Edward County,Virginia","Frederick County,Virginia",12017,320835
+236,"Prince Edward County,Virginia","Giles County,Virginia",10638,261573
+237,"Prince Edward County,Virginia","Gloucester County,Virginia",8870,214672
+238,"Prince Edward County,Virginia","Goochland County,Virginia",4496,89473
+239,"Prince Edward County,Virginia","Grayson County,Virginia",13303,328054
+240,"Prince Edward County,Virginia","Greene County,Virginia",7958,162463
+241,"Prince Edward County,Virginia","Greensville County,Virginia",6350,129040
+242,"Prince Edward County,Virginia","Halifax County,Virginia",3395,80578
+243,"Prince Edward County,Virginia","Hanover County,Virginia",5491,125415
+244,"Prince Edward County,Virginia","Henrico County,Virginia",5338,130099
+245,"Prince Edward County,Virginia","Henry County,Virginia",7886,196855
+246,"Prince Edward County,Virginia","Highland County,Virginia",11115,245104
+247,"Prince Edward County,Virginia","Isle of Wight County,Virginia",8209,192783
+248,"Prince Edward County,Virginia","James City County,Virginia",7936,201255
+249,"Prince Edward County,Virginia","King and Queen County,Virginia",8049,188231
+250,"Prince Edward County,Virginia","King George County,Virginia",8119,202443
+251,"Prince Edward County,Virginia","King William County,Virginia",6737,158153
+252,"Prince Edward County,Virginia","Lancaster County,Virginia",10530,241239
+253,"Prince Edward County,Virginia","Lee County,Virginia",18810,490748
+254,"Prince Edward County,Virginia","Loudoun County,Virginia",12527,261882
+255,"Prince Edward County,Virginia","Louisa County,Virginia",5847,117373
+256,"Prince Edward County,Virginia","Lunenburg County,Virginia",2095,47861
+257,"Prince Edward County,Virginia","Madison County,Virginia",8074,172030
+258,"Prince Edward County,Virginia","Mathews County,Virginia",9695,238096
+259,"Prince Edward County,Virginia","Mecklenburg County,Virginia",3444,72307
+260,"Prince Edward County,Virginia","Middlesex County,Virginia",8471,210873
+261,"Prince Edward County,Virginia","Montgomery County,Virginia",9202,225844
+262,"Prince Edward County,Virginia","Nelson County,Virginia",4562,95621
+263,"Prince Edward County,Virginia","New Kent County,Virginia",7372,175169
+264,"Prince Edward County,Virginia","Northampton County,Virginia",12353,317918
+265,"Prince Edward County,Virginia","Northumberland County,Virginia",10569,239751
+266,"Prince Edward County,Virginia","Nottoway County,Virginia",2356,51415
+267,"Prince Edward County,Virginia","Orange County,Virginia",7632,152134
+268,"Prince Edward County,Virginia","Page County,Virginia",10232,214147
+269,"Prince Edward County,Virginia","Patrick County,Virginia",9468,235762
+270,"Prince Edward County,Virginia","Pittsylvania County,Virginia",5962,140860
+271,"Prince Edward County,Virginia","Powhatan County,Virginia",3767,86086
+272,"Prince Edward County,Virginia","Prince George County,Virginia",5744,132036
+273,"Prince Edward County,Virginia","Prince William County,Virginia",10669,230639
+274,"Prince Edward County,Virginia","Pulaski County,Virginia",9930,248477
+275,"Prince Edward County,Virginia","Rappahannock County,Virginia",9603,206856
+276,"Prince Edward County,Virginia","Richmond County,Virginia",9269,212394
+277,"Prince Edward County,Virginia","Roanoke County,Virginia",8193,190783
+278,"Prince Edward County,Virginia","Rockbridge County,Virginia",7550,159208
+279,"Prince Edward County,Virginia","Rockingham County,Virginia",9271,227511
+280,"Prince Edward County,Virginia","Russell County,Virginia",16772,424254
+281,"Prince Edward County,Virginia","Scott County,Virginia",17384,451477
+282,"Prince Edward County,Virginia","Shenandoah County,Virginia",9775,257614
+283,"Prince Edward County,Virginia","Smyth County,Virginia",12966,335198
+284,"Prince Edward County,Virginia","Southampton County,Virginia",7477,158740
+285,"Prince Edward County,Virginia","Spotsylvania County,Virginia",8088,161902
+286,"Prince Edward County,Virginia","Stafford County,Virginia",8088,214878
+287,"Prince Edward County,Virginia","Surry County,Virginia",7425,171000
+288,"Prince Edward County,Virginia","Sussex County,Virginia",6097,137793
+289,"Prince Edward County,Virginia","Tazewell County,Virginia",14427,375275
+290,"Prince Edward County,Virginia","Warren County,Virginia",11249,241608
+291,"Prince Edward County,Virginia","Washington County,Virginia",14360,374664
+292,"Prince Edward County,Virginia","Westmoreland County,Virginia",9094,219268
+293,"Prince Edward County,Virginia","Wise County,Virginia",18223,465596
+294,"Prince Edward County,Virginia","Wythe County,Virginia",11220,287183
+295,"Prince Edward County,Virginia","York County,Virginia",9223,232029
+296,"Prince Edward County,Virginia","Alexandria City County,Virginia",10249,274146
+297,"Prince Edward County,Virginia","Bedford City County,Virginia",4989,116363
+298,"Prince Edward County,Virginia","Bristol City County,Virginia",14835,400382
+299,"Prince Edward County,Virginia","Buena Vista City County,Virginia",6304,140839
+300,"Prince Edward County,Virginia","Charlottesville City County,Virginia",5165,109181
+301,"Prince Edward County,Virginia","Chesapeake City County,Virginia",10078,236694
+302,"Prince Edward County,Virginia","Clifton Forge City County,Virginia",8461,200079
+303,"Prince Edward County,Virginia","Colonial Heights City County,Virginia",4996,116742
+304,"Prince Edward County,Virginia","Covington City County,Virginia",9204,218421
+305,"Prince Edward County,Virginia","Danville City County,Virginia",5342,127829
+306,"Prince Edward County,Virginia","Emporia City County,Virginia",6018,115404
+307,"Prince Edward County,Virginia","Fairfax City County,Virginia",10508,269109
+308,"Prince Edward County,Virginia","Falls Church City County,Virginia",10456,281395
+309,"Prince Edward County,Virginia","Franklin City County,Virginia",8104,171874
+310,"Prince Edward County,Virginia","Fredericksburg City County,Virginia",7888,200814
+311,"Prince Edward County,Virginia","Galax City County,Virginia",12595,317740
+312,"Prince Edward County,Virginia","Hampton City County,Virginia",9173,241736
+313,"Prince Edward County,Virginia","Harrisonburg City County,Virginia",8330,207407
+314,"Prince Edward County,Virginia","Hopewell City County,Virginia",5258,124105
+315,"Prince Edward County,Virginia","Lexington City County,Virginia",6836,150023
+316,"Prince Edward County,Virginia","Lynchburg City County,Virginia",3716,79911
+317,"Prince Edward County,Virginia","Manassas City County,Virginia",10477,267512
+318,"Prince Edward County,Virginia","Manassas Park City County,Virginia",10697,264712
+319,"Prince Edward County,Virginia","Martinsville City County,Virginia",7483,180833
+320,"Prince Edward County,Virginia","Newport News City County,Virginia",8730,228221
+321,"Prince Edward County,Virginia","Norfolk City County,Virginia",10030,235554
+322,"Prince Edward County,Virginia","Norton City County,Virginia",17747,456486
+323,"Prince Edward County,Virginia","Petersburg City County,Virginia",4747,114640
+324,"Prince Edward County,Virginia","Poquoson City County,Virginia",9402,238798
+325,"Prince Edward County,Virginia","Portsmouth City County,Virginia",9949,233089
+326,"Prince Edward County,Virginia","Radford County,Virginia",9566,235688
+327,"Prince Edward County,Virginia","Richmond City County,Virginia",4983,115028
+328,"Prince Edward County,Virginia","Roanoke City County,Virginia",7211,162097
+329,"Prince Edward County,Virginia","Salem City County,Virginia",7561,180696
+330,"Prince Edward County,Virginia","South Boston City County,Virginia",3089,77829
+331,"Prince Edward County,Virginia","Staunton City County,Virginia",7219,169088
+332,"Prince Edward County,Virginia","Suffolk City County,Virginia",9052,207507
+333,"Prince Edward County,Virginia","Virginia Beach City County,Virginia",11041,290410
+334,"Prince Edward County,Virginia","Waynesboro City County,Virginia",6574,132870
+335,"Prince Edward County,Virginia","Williamsburg City County,Virginia",7774,200471
+336,"Prince Edward County,Virginia","Winchester City County,Virginia",11897,316979
+337,"Prince Edward County,Virginia","Barbour County,West Virginia",18021,385809
+338,"Prince Edward County,Virginia","Berkeley County,West Virginia",13635,364187
+339,"Prince Edward County,Virginia","Boone County,West Virginia",17919,430966
+340,"Prince Edward County,Virginia","Braxton County,West Virginia",17617,411641
+341,"Prince Edward County,Virginia","Brooke County,West Virginia",23761,596333
+342,"Prince Edward County,Virginia","Cabell County,West Virginia",19487,526872
+343,"Prince Edward County,Virginia","Calhoun County,West Virginia",19388,465592
+344,"Prince Edward County,Virginia","Clay County,West Virginia",17652,402425
+345,"Prince Edward County,Virginia","Doddridge County,West Virginia",21131,497518
+346,"Prince Edward County,Virginia","Fayette County,West Virginia",15041,349164
+347,"Prince Edward County,Virginia","Gilmer County,West Virginia",19185,461321
+348,"Prince Edward County,Virginia","Grant County,West Virginia",13726,346674
+349,"Prince Edward County,Virginia","Greenbrier County,West Virginia",13396,308389
+350,"Prince Edward County,Virginia","Hampshire County,West Virginia",13754,335091
+351,"Prince Edward County,Virginia","Hancock County,West Virginia",25388,623680
+352,"Prince Edward County,Virginia","Hardy County,West Virginia",12974,318004
+353,"Prince Edward County,Virginia","Harrison County,West Virginia",20118,450679
+354,"Prince Edward County,Virginia","Jackson County,West Virginia",18806,506683
+355,"Prince Edward County,Virginia","Jefferson County,West Virginia",13685,351593
+356,"Prince Edward County,Virginia","Kanawha County,West Virginia",16569,428665
+357,"Prince Edward County,Virginia","Lewis County,West Virginia",18790,460503
+358,"Prince Edward County,Virginia","Lincoln County,West Virginia",20151,504550
+359,"Prince Edward County,Virginia","Logan County,West Virginia",19709,461456
+360,"Prince Edward County,Virginia","McDowell County,West Virginia",16734,382460
+361,"Prince Edward County,Virginia","Marion County,West Virginia",21148,483523
+362,"Prince Edward County,Virginia","Marshall County,West Virginia",24749,590777
+363,"Prince Edward County,Virginia","Mason County,West Virginia",18962,512779
+364,"Prince Edward County,Virginia","Mercer County,West Virginia",12811,317750
+365,"Prince Edward County,Virginia","Mineral County,West Virginia",15200,358197
+366,"Prince Edward County,Virginia","Mingo County,West Virginia",20288,525391
+367,"Prince Edward County,Virginia","Monongalia County,West Virginia",18903,470933
+368,"Prince Edward County,Virginia","Monroe County,West Virginia",12331,294710
+369,"Prince Edward County,Virginia","Morgan County,West Virginia",13880,365313
+370,"Prince Edward County,Virginia","Nicholas County,West Virginia",15236,361814
+371,"Prince Edward County,Virginia","Ohio County,West Virginia",23668,605279
+372,"Prince Edward County,Virginia","Pendleton County,West Virginia",12118,278696
+373,"Prince Edward County,Virginia","Pleasants County,West Virginia",22288,604535
+374,"Prince Edward County,Virginia","Pocahontas County,West Virginia",14577,306790
+375,"Prince Edward County,Virginia","Preston County,West Virginia",17906,425125
+376,"Prince Edward County,Virginia","Putnam County,West Virginia",17744,478397
+377,"Prince Edward County,Virginia","Raleigh County,West Virginia",13594,353846
+378,"Prince Edward County,Virginia","Randolph County,West Virginia",16037,339203
+379,"Prince Edward County,Virginia","Ritchie County,West Virginia",21861,507967
+380,"Prince Edward County,Virginia","Roane County,West Virginia",20431,535498
+381,"Prince Edward County,Virginia","Summers County,West Virginia",13546,315869
+382,"Prince Edward County,Virginia","Taylor County,West Virginia",18250,442946
+383,"Prince Edward County,Virginia","Tucker County,West Virginia",16386,408321
+384,"Prince Edward County,Virginia","Tyler County,West Virginia",23843,519486
+385,"Prince Edward County,Virginia","Upshur County,West Virginia",18633,374845
+386,"Prince Edward County,Virginia","Wayne County,West Virginia",21078,559499
+387,"Prince Edward County,Virginia","Webster County,West Virginia",17988,406302
+388,"Prince Edward County,Virginia","Wetzel County,West Virginia",22798,502161
+389,"Prince Edward County,Virginia","Wirt County,West Virginia",21072,564021
+390,"Prince Edward County,Virginia","Wood County,West Virginia",20586,565710
+391,"Prince Edward County,Virginia","Wyoming County,West Virginia",15538,393788

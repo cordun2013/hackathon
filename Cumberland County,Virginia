@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Cumberland County,Virginia","Adair County,Kentucky",31042,787501
+1,"Cumberland County,Virginia","Allen County,Kentucky",32438,907310
+2,"Cumberland County,Virginia","Anderson County,Kentucky",27475,770797
+3,"Cumberland County,Virginia","Ballard County,Kentucky",39342,1142565
+4,"Cumberland County,Virginia","Barren County,Kentucky",32227,866256
+5,"Cumberland County,Virginia","Bath County,Kentucky",23123,641978
+6,"Cumberland County,Virginia","Bell County,Kentucky",23537,588807
+7,"Cumberland County,Virginia","Boone County,Kentucky",28935,763371
+8,"Cumberland County,Virginia","Bourbon County,Kentucky",25036,688396
+9,"Cumberland County,Virginia","Boyd County,Kentucky",19798,536303
+10,"Cumberland County,Virginia","Boyle County,Kentucky",28704,774684
+11,"Cumberland County,Virginia","Bracken County,Kentucky",25447,682478
+12,"Cumberland County,Virginia","Breathitt County,Kentucky",25162,624570
+13,"Cumberland County,Virginia","Breckinridge County,Kentucky",33009,923478
+14,"Cumberland County,Virginia","Bullitt County,Kentucky",29579,844598
+15,"Cumberland County,Virginia","Butler County,Kentucky",33674,945476
+16,"Cumberland County,Virginia","Caldwell County,Kentucky",36482,1050379
+17,"Cumberland County,Virginia","Calloway County,Kentucky",37183,1074425
+18,"Cumberland County,Virginia","Campbell County,Kentucky",27148,722350
+19,"Cumberland County,Virginia","Carlisle County,Kentucky",39799,1157933
+20,"Cumberland County,Virginia","Carroll County,Kentucky",30020,818611
+21,"Cumberland County,Virginia","Carter County,Kentucky",20963,566400
+22,"Cumberland County,Virginia","Casey County,Kentucky",30199,806189
+23,"Cumberland County,Virginia","Christian County,Kentucky",34076,995404
+24,"Cumberland County,Virginia","Clay County,Kentucky",26109,649149
+25,"Cumberland County,Virginia","Clinton County,Kentucky",29485,786715
+26,"Cumberland County,Virginia","Crittenden County,Kentucky",37747,1083139
+27,"Cumberland County,Virginia","Cumberland County,Kentucky",30365,807384
+28,"Cumberland County,Virginia","Daviess County,Kentucky",34696,991918
+29,"Cumberland County,Virginia","Edmonson County,Kentucky",33114,933351
+30,"Cumberland County,Virginia","Elliott County,Kentucky",22293,592170
+31,"Cumberland County,Virginia","Estill County,Kentucky",26115,704293
+32,"Cumberland County,Virginia","Fayette County,Kentucky",25282,708290
+33,"Cumberland County,Virginia","Fleming County,Kentucky",23549,645164
+34,"Cumberland County,Virginia","Floyd County,Kentucky",23822,601879
+35,"Cumberland County,Virginia","Franklin County,Kentucky",27320,757206
+36,"Cumberland County,Virginia","Fulton County,Kentucky",40203,1178898
+37,"Cumberland County,Virginia","Gallatin County,Kentucky",29018,809270
+38,"Cumberland County,Virginia","Garrard County,Kentucky",27887,755443
+39,"Cumberland County,Virginia","Grant County,Kentucky",27817,783378
+40,"Cumberland County,Virginia","Graves County,Kentucky",38824,1130640
+41,"Cumberland County,Virginia","Grayson County,Kentucky",32001,902112
+42,"Cumberland County,Virginia","Green County,Kentucky",31780,867317
+43,"Cumberland County,Virginia","Greenup County,Kentucky",21574,577429
+44,"Cumberland County,Virginia","Hancock County,Kentucky",33804,956371
+45,"Cumberland County,Virginia","Hardin County,Kentucky",30877,864245
+46,"Cumberland County,Virginia","Harlan County,Kentucky",22612,565434
+47,"Cumberland County,Virginia","Harrison County,Kentucky",26607,721495
+48,"Cumberland County,Virginia","Hart County,Kentucky",31676,891873
+49,"Cumberland County,Virginia","Henderson County,Kentucky",36503,1044348
+50,"Cumberland County,Virginia","Henry County,Kentucky",28921,800925
+51,"Cumberland County,Virginia","Hickman County,Kentucky",39833,1159225
+52,"Cumberland County,Virginia","Hopkins County,Kentucky",36024,1025890
+53,"Cumberland County,Virginia","Jackson County,Kentucky",27981,685568
+54,"Cumberland County,Virginia","Jefferson County,Kentucky",29015,816458
+55,"Cumberland County,Virginia","Jessamine County,Kentucky",26751,729754
+56,"Cumberland County,Virginia","Johnson County,Kentucky",22580,609199
+57,"Cumberland County,Virginia","Kenton County,Kentucky",28305,751065
+58,"Cumberland County,Virginia","Knott County,Kentucky",22702,567320
+59,"Cumberland County,Virginia","Knox County,Kentucky",24867,630799
+60,"Cumberland County,Virginia","Larue County,Kentucky",30949,851421
+61,"Cumberland County,Virginia","Laurel County,Kentucky",26761,665627
+62,"Cumberland County,Virginia","Lawrence County,Kentucky",21721,580623
+63,"Cumberland County,Virginia","Lee County,Kentucky",26960,698030
+64,"Cumberland County,Virginia","Leslie County,Kentucky",24074,593713
+65,"Cumberland County,Virginia","Letcher County,Kentucky",21102,530867
+66,"Cumberland County,Virginia","Lewis County,Kentucky",23001,618217
+67,"Cumberland County,Virginia","Lincoln County,Kentucky",28597,772362
+68,"Cumberland County,Virginia","Livingston County,Kentucky",37673,1096504
+69,"Cumberland County,Virginia","Logan County,Kentucky",34508,948305
+70,"Cumberland County,Virginia","Lyon County,Kentucky",37430,1073678
+71,"Cumberland County,Virginia","McCracken County,Kentucky",37955,1110625
+72,"Cumberland County,Virginia","McCreary County,Kentucky",26492,723561
+73,"Cumberland County,Virginia","Madison County,Kentucky",26281,719313
+74,"Cumberland County,Virginia","Magoffin County,Kentucky",23547,629878
+75,"Cumberland County,Virginia","Marion County,Kentucky",29327,813030
+76,"Cumberland County,Virginia","Marshall County,Kentucky",37369,1094197
+77,"Cumberland County,Virginia","Martin County,Kentucky",22835,562347
+78,"Cumberland County,Virginia","Mason County,Kentucky",24796,662024
+79,"Cumberland County,Virginia","Meade County,Kentucky",31476,888773
+80,"Cumberland County,Virginia","Menifee County,Kentucky",24239,654042
+81,"Cumberland County,Virginia","Mercer County,Kentucky",27703,768741
+82,"Cumberland County,Virginia","Metcalfe County,Kentucky",31698,817765
+83,"Cumberland County,Virginia","Monroe County,Kentucky",30926,837804
+84,"Cumberland County,Virginia","Montgomery County,Kentucky",23936,660519
+85,"Cumberland County,Virginia","Morgan County,Kentucky",24017,629757
+86,"Cumberland County,Virginia","Muhlenberg County,Kentucky",34884,992365
+87,"Cumberland County,Virginia","Nelson County,Kentucky",28934,812101
+88,"Cumberland County,Virginia","Nicholas County,Kentucky",25614,688402
+89,"Cumberland County,Virginia","Ohio County,Kentucky",33798,959955
+90,"Cumberland County,Virginia","Oldham County,Kentucky",29087,828339
+91,"Cumberland County,Virginia","Owen County,Kentucky",28142,783983
+92,"Cumberland County,Virginia","Owsley County,Kentucky",27299,662445
+93,"Cumberland County,Virginia","Pendleton County,Kentucky",27385,723402
+94,"Cumberland County,Virginia","Perry County,Kentucky",23676,587743
+95,"Cumberland County,Virginia","Pike County,Kentucky",22197,536393
+96,"Cumberland County,Virginia","Powell County,Kentucky",25379,690264
+97,"Cumberland County,Virginia","Robertson County,Kentucky",25531,687908
+98,"Cumberland County,Virginia","Rockcastle County,Kentucky",27715,760455
+99,"Cumberland County,Virginia","Rowan County,Kentucky",22265,614186
+100,"Cumberland County,Virginia","Russell County,Kentucky",30647,771484
+101,"Cumberland County,Virginia","Scott County,Kentucky",26117,736317
+102,"Cumberland County,Virginia","Shelby County,Kentucky",27944,787593
+103,"Cumberland County,Virginia","Simpson County,Kentucky",33475,924280
+104,"Cumberland County,Virginia","Spencer County,Kentucky",28473,793441
+105,"Cumberland County,Virginia","Taylor County,Kentucky",30616,844526
+106,"Cumberland County,Virginia","Todd County,Kentucky",34492,988351
+107,"Cumberland County,Virginia","Trigg County,Kentucky",34983,1012763
+108,"Cumberland County,Virginia","Trimble County,Kentucky",30160,834379
+109,"Cumberland County,Virginia","Union County,Kentucky",38223,1074795
+110,"Cumberland County,Virginia","Warren County,Kentucky",33900,946948
+111,"Cumberland County,Virginia","Washington County,Kentucky",28944,797338
+112,"Cumberland County,Virginia","Wayne County,Kentucky",28996,770692
+113,"Cumberland County,Virginia","Webster County,Kentucky",37133,1053978
+114,"Cumberland County,Virginia","Whitley County,Kentucky",25096,708323
+115,"Cumberland County,Virginia","Wolfe County,Kentucky",25112,653119
+116,"Cumberland County,Virginia","Woodford County,Kentucky",26336,738953
+117,"Cumberland County,Virginia","Adams County,Ohio",24889,664581
+118,"Cumberland County,Virginia","Allen County,Ohio",31621,839998
+119,"Cumberland County,Virginia","Ashland County,Ohio",29365,793889
+120,"Cumberland County,Virginia","Ashtabula County,Ohio",28414,824195
+121,"Cumberland County,Virginia","Athens County,Ohio",21297,570180
+122,"Cumberland County,Virginia","Auglaize County,Ohio",30871,856698
+123,"Cumberland County,Virginia","Belmont County,Ohio",23750,605041
+124,"Cumberland County,Virginia","Brown County,Ohio",26133,691508
+125,"Cumberland County,Virginia","Butler County,Ohio",29246,773534
+126,"Cumberland County,Virginia","Carroll County,Ohio",26695,640900
+127,"Cumberland County,Virginia","Champaign County,Ohio",28175,758795
+128,"Cumberland County,Virginia","Clark County,Ohio",26854,718340
+129,"Cumberland County,Virginia","Clermont County,Ohio",26967,722605
+130,"Cumberland County,Virginia","Clinton County,Ohio",26358,706021
+131,"Cumberland County,Virginia","Columbiana County,Ohio",25717,718432
+132,"Cumberland County,Virginia","Coshocton County,Ohio",25681,711714
+133,"Cumberland County,Virginia","Crawford County,Ohio",29973,805049
+134,"Cumberland County,Virginia","Cuyahoga County,Ohio",28410,822038
+135,"Cumberland County,Virginia","Darke County,Ohio",29969,813745
+136,"Cumberland County,Virginia","Defiance County,Ohio",35057,918319
+137,"Cumberland County,Virginia","Delaware County,Ohio",27127,737787
+138,"Cumberland County,Virginia","Fairfield County,Ohio",24657,664881
+139,"Cumberland County,Virginia","Fayette County,Ohio",24922,676485
+140,"Cumberland County,Virginia","Franklin County,Ohio",25658,694736
+141,"Cumberland County,Virginia","Fulton County,Ohio",35063,960618
+142,"Cumberland County,Virginia","Gallia County,Ohio",20235,535596
+143,"Cumberland County,Virginia","Geauga County,Ohio",27904,796857
+144,"Cumberland County,Virginia","Greene County,Ohio",25792,709637
+145,"Cumberland County,Virginia","Guernsey County,Ohio",23231,649633
+146,"Cumberland County,Virginia","Hamilton County,Ohio",28747,784111
+147,"Cumberland County,Virginia","Hancock County,Ohio",31150,846142
+148,"Cumberland County,Virginia","Hardin County,Ohio",30132,795828
+149,"Cumberland County,Virginia","Harrison County,Ohio",25711,643755
+150,"Cumberland County,Virginia","Henry County,Ohio",33863,917763
+151,"Cumberland County,Virginia","Highland County,Ohio",25426,664594
+152,"Cumberland County,Virginia","Hocking County,Ohio",23099,620844
+153,"Cumberland County,Virginia","Holmes County,Ohio",26740,734599
+154,"Cumberland County,Virginia","Huron County,Ohio",31263,835518
+155,"Cumberland County,Virginia","Jackson County,Ohio",21413,575146
+156,"Cumberland County,Virginia","Jefferson County,Ohio",24651,604391
+157,"Cumberland County,Virginia","Knox County,Ohio",27469,754190
+158,"Cumberland County,Virginia","Lawrence County,Ohio",20938,541359
+159,"Cumberland County,Virginia","Licking County,Ohio",26602,691890
+160,"Cumberland County,Virginia","Logan County,Ohio",29153,790105
+161,"Cumberland County,Virginia","Lorain County,Ohio",29462,851759
+162,"Cumberland County,Virginia","Lucas County,Ohio",34035,980703
+163,"Cumberland County,Virginia","Madison County,Ohio",26623,699569
+164,"Cumberland County,Virginia","Mahoning County,Ohio",24901,714187
+165,"Cumberland County,Virginia","Marion County,Ohio",28533,763880
+166,"Cumberland County,Virginia","Medina County,Ohio",28755,812033
+167,"Cumberland County,Virginia","Meigs County,Ohio",20178,541150
+168,"Cumberland County,Virginia","Mercer County,Ohio",32107,883632
+169,"Cumberland County,Virginia","Miami County,Ohio",28457,779137
+170,"Cumberland County,Virginia","Monroe County,Ohio",24167,638825
+171,"Cumberland County,Virginia","Montgomery County,Ohio",27827,757093
+172,"Cumberland County,Virginia","Morgan County,Ohio",23173,625473
+173,"Cumberland County,Virginia","Morrow County,Ohio",27934,760607
+174,"Cumberland County,Virginia","Muskingum County,Ohio",24077,677625
+175,"Cumberland County,Virginia","Noble County,Ohio",22673,621985
+176,"Cumberland County,Virginia","Paulding County,Ohio",34158,915904
+177,"Cumberland County,Virginia","Perry County,Ohio",24515,635600
+178,"Cumberland County,Virginia","Pickaway County,Ohio",24362,656584
+179,"Cumberland County,Virginia","Pike County,Ohio",22859,614452
+180,"Cumberland County,Virginia","Portage County,Ohio",26755,770200
+181,"Cumberland County,Virginia","Preble County,Ohio",29446,785671
+182,"Cumberland County,Virginia","Putnam County,Ohio",32744,872356
+183,"Cumberland County,Virginia","Richland County,Ohio",28964,795846
+184,"Cumberland County,Virginia","Ross County,Ohio",23107,622890
+185,"Cumberland County,Virginia","Sandusky County,Ohio",32323,939278
+186,"Cumberland County,Virginia","Scioto County,Ohio",22743,598633
+187,"Cumberland County,Virginia","Seneca County,Ohio",31524,838721
+188,"Cumberland County,Virginia","Shelby County,Ohio",29496,815422
+189,"Cumberland County,Virginia","Stark County,Ohio",26905,755833
+190,"Cumberland County,Virginia","Summit County,Ohio",27663,781621
+191,"Cumberland County,Virginia","Trumbull County,Ohio",26058,751651
+192,"Cumberland County,Virginia","Tuscarawas County,Ohio",25105,696420
+193,"Cumberland County,Virginia","Union County,Ohio",27657,740336
+194,"Cumberland County,Virginia","Van Wert County,Ohio",32855,882868
+195,"Cumberland County,Virginia","Vinton County,Ohio",23308,600651
+196,"Cumberland County,Virginia","Warren County,Ohio",27164,740080
+197,"Cumberland County,Virginia","Washington County,Ohio",21532,579922
+198,"Cumberland County,Virginia","Wayne County,Ohio",27876,758711
+199,"Cumberland County,Virginia","Williams County,Ohio",36234,941835
+200,"Cumberland County,Virginia","Wood County,Ohio",32548,887749
+201,"Cumberland County,Virginia","Wyandot County,Ohio",30120,810277
+202,"Cumberland County,Virginia","Accomack County,Virginia",13991,349559
+203,"Cumberland County,Virginia","Albemarle County,Virginia",4866,88653
+204,"Cumberland County,Virginia","Alleghany County,Virginia",9327,218952
+205,"Cumberland County,Virginia","Amelia County,Virginia",2192,43645
+206,"Cumberland County,Virginia","Amherst County,Virginia",4318,91799
+207,"Cumberland County,Virginia","Appomattox County,Virginia",3010,66883
+208,"Cumberland County,Virginia","Arlington County,Virginia",8903,242680
+209,"Cumberland County,Virginia","Augusta County,Virginia",7108,158974
+210,"Cumberland County,Virginia","Bath County,Virginia",9848,212280
+211,"Cumberland County,Virginia","Bedford County,Virginia",6442,142946
+212,"Cumberland County,Virginia","Bland County,Virginia",12804,328124
+213,"Cumberland County,Virginia","Botetourt County,Virginia",8383,181604
+214,"Cumberland County,Virginia","Brunswick County,Virginia",5808,119241
+215,"Cumberland County,Virginia","Buchanan County,Virginia",18560,462583
+216,"Cumberland County,Virginia","Buckingham County,Virginia",1852,38861
+217,"Cumberland County,Virginia","Campbell County,Virginia",4887,106261
+218,"Cumberland County,Virginia","Caroline County,Virginia",5632,140039
+219,"Cumberland County,Virginia","Carroll County,Virginia",12926,333541
+220,"Cumberland County,Virginia","Charles City County,Virginia",5377,121732
+221,"Cumberland County,Virginia","Charlotte County,Virginia",4067,74035
+222,"Cumberland County,Virginia","Chesterfield County,Virginia",3585,80382
+223,"Cumberland County,Virginia","Clarke County,Virginia",10805,235766
+224,"Cumberland County,Virginia","Craig County,Virginia",10772,244524
+225,"Cumberland County,Virginia","Culpeper County,Virginia",6808,140165
+226,"Cumberland County,Virginia","Dickenson County,Virginia",19270,480761
+227,"Cumberland County,Virginia","Dinwiddie County,Virginia",4798,105490
+228,"Cumberland County,Virginia","Essex County,Virginia",7450,164081
+229,"Cumberland County,Virginia","Fairfax County,Virginia",9200,245909
+230,"Cumberland County,Virginia","Fauquier County,Virginia",8118,176533
+231,"Cumberland County,Virginia","Floyd County,Virginia",11248,249603
+232,"Cumberland County,Virginia","Fluvanna County,Virginia",2783,55661
+233,"Cumberland County,Virginia","Franklin County,Virginia",8715,199675
+234,"Cumberland County,Virginia","Frederick County,Virginia",11213,292444
+235,"Cumberland County,Virginia","Giles County,Virginia",11592,283240
+236,"Cumberland County,Virginia","Gloucester County,Virginia",7751,182127
+237,"Cumberland County,Virginia","Goochland County,Virginia",2317,47262
+238,"Cumberland County,Virginia","Grayson County,Virginia",14257,349720
+239,"Cumberland County,Virginia","Greene County,Virginia",6668,127134
+240,"Cumberland County,Virginia","Greensville County,Virginia",6881,186300
+241,"Cumberland County,Virginia","Halifax County,Virginia",5856,126557
+242,"Cumberland County,Virginia","Hanover County,Virginia",4081,95083
+243,"Cumberland County,Virginia","Henrico County,Virginia",4335,101708
+244,"Cumberland County,Virginia","Henry County,Virginia",10170,236630
+245,"Cumberland County,Virginia","Highland County,Virginia",10311,216713
+246,"Cumberland County,Virginia","Isle of Wight County,Virginia",7693,184879
+247,"Cumberland County,Virginia","James City County,Virginia",6816,168710
+248,"Cumberland County,Virginia","King and Queen County,Virginia",6627,153428
+249,"Cumberland County,Virginia","King George County,Virginia",6745,168025
+250,"Cumberland County,Virginia","King William County,Virginia",5314,123351
+251,"Cumberland County,Virginia","Lancaster County,Virginia",9107,206436
+252,"Cumberland County,Virginia","Lee County,Virginia",19765,512415
+253,"Cumberland County,Virginia","Loudoun County,Virginia",10786,223858
+254,"Cumberland County,Virginia","Louisa County,Virginia",3668,75162
+255,"Cumberland County,Virginia","Lunenburg County,Virginia",4369,93412
+256,"Cumberland County,Virginia","Madison County,Virginia",6582,127165
+257,"Cumberland County,Virginia","Mathews County,Virginia",8576,205551
+258,"Cumberland County,Virginia","Mecklenburg County,Virginia",5904,118286
+259,"Cumberland County,Virginia","Middlesex County,Virginia",7352,178327
+260,"Cumberland County,Virginia","Montgomery County,Virginia",10157,247511
+261,"Cumberland County,Virginia","Nelson County,Virginia",3874,77430
+262,"Cumberland County,Virginia","New Kent County,Virginia",6252,142624
+263,"Cumberland County,Virginia","Northampton County,Virginia",11234,285373
+264,"Cumberland County,Virginia","Northumberland County,Virginia",9147,204948
+265,"Cumberland County,Virginia","Nottoway County,Virginia",3305,71382
+266,"Cumberland County,Virginia","Orange County,Virginia",5454,109924
+267,"Cumberland County,Virginia","Page County,Virginia",8942,178818
+268,"Cumberland County,Virginia","Patrick County,Virginia",11753,275538
+269,"Cumberland County,Virginia","Pittsylvania County,Virginia",7726,180736
+270,"Cumberland County,Virginia","Powhatan County,Virginia",1790,38537
+271,"Cumberland County,Virginia","Prince Edward County,Virginia",2478,46059
+272,"Cumberland County,Virginia","Prince George County,Virginia",5228,124132
+273,"Cumberland County,Virginia","Prince William County,Virginia",8928,192616
+274,"Cumberland County,Virginia","Pulaski County,Virginia",10884,270144
+275,"Cumberland County,Virginia","Rappahannock County,Virginia",8143,162706
+276,"Cumberland County,Virginia","Richmond County,Virginia",7847,177592
+277,"Cumberland County,Virginia","Roanoke County,Virginia",9148,212449
+278,"Cumberland County,Virginia","Rockbridge County,Virginia",7318,146899
+279,"Cumberland County,Virginia","Rockingham County,Virginia",8467,199119
+280,"Cumberland County,Virginia","Russell County,Virginia",17726,445920
+281,"Cumberland County,Virginia","Scott County,Virginia",18338,473144
+282,"Cumberland County,Virginia","Shenandoah County,Virginia",8972,229223
+283,"Cumberland County,Virginia","Smyth County,Virginia",13921,356865
+284,"Cumberland County,Virginia","Southampton County,Virginia",7259,182414
+285,"Cumberland County,Virginia","Spotsylvania County,Virginia",5909,119692
+286,"Cumberland County,Virginia","Stafford County,Virginia",6714,180461
+287,"Cumberland County,Virginia","Surry County,Virginia",6561,148966
+288,"Cumberland County,Virginia","Sussex County,Virginia",5922,152657
+289,"Cumberland County,Virginia","Tazewell County,Virginia",15381,396942
+290,"Cumberland County,Virginia","Warren County,Virginia",9789,197458
+291,"Cumberland County,Virginia","Washington County,Virginia",15314,396331
+292,"Cumberland County,Virginia","Westmoreland County,Virginia",7720,184850
+293,"Cumberland County,Virginia","Wise County,Virginia",19177,487263
+294,"Cumberland County,Virginia","Wythe County,Virginia",12175,308850
+295,"Cumberland County,Virginia","York County,Virginia",8104,199484
+296,"Cumberland County,Virginia","Alexandria City County,Virginia",8874,239728
+297,"Cumberland County,Virginia","Bedford City County,Virginia",5944,138030
+298,"Cumberland County,Virginia","Bristol City County,Virginia",15789,422049
+299,"Cumberland County,Virginia","Buena Vista City County,Virginia",6072,128530
+300,"Cumberland County,Virginia","Charlottesville City County,Virginia",4361,80789
+301,"Cumberland County,Virginia","Chesapeake City County,Virginia",9562,228790
+302,"Cumberland County,Virginia","Clifton Forge City County,Virginia",8229,187770
+303,"Cumberland County,Virginia","Colonial Heights City County,Virginia",4277,103009
+304,"Cumberland County,Virginia","Covington City County,Virginia",8972,206112
+305,"Cumberland County,Virginia","Danville City County,Virginia",7803,173808
+306,"Cumberland County,Virginia","Emporia City County,Virginia",6588,172893
+307,"Cumberland County,Virginia","Fairfax City County,Virginia",9134,234692
+308,"Cumberland County,Virginia","Falls Church City County,Virginia",9082,246978
+309,"Cumberland County,Virginia","Franklin City County,Virginia",7806,190269
+310,"Cumberland County,Virginia","Fredericksburg City County,Virginia",6513,166396
+311,"Cumberland County,Virginia","Galax City County,Virginia",13549,339407
+312,"Cumberland County,Virginia","Hampton City County,Virginia",8054,209190
+313,"Cumberland County,Virginia","Harrisonburg City County,Virginia",7526,179015
+314,"Cumberland County,Virginia","Hopewell City County,Virginia",4314,101975
+315,"Cumberland County,Virginia","Lexington City County,Virginia",6603,137714
+316,"Cumberland County,Virginia","Lynchburg City County,Virginia",4670,101578
+317,"Cumberland County,Virginia","Manassas City County,Virginia",9103,233094
+318,"Cumberland County,Virginia","Manassas Park City County,Virginia",9323,230294
+319,"Cumberland County,Virginia","Martinsville City County,Virginia",9354,212845
+320,"Cumberland County,Virginia","Newport News City County,Virginia",7611,195676
+321,"Cumberland County,Virginia","Norfolk City County,Virginia",9361,234606
+322,"Cumberland County,Virginia","Norton City County,Virginia",18701,478153
+323,"Cumberland County,Virginia","Petersburg City County,Virginia",4149,103997
+324,"Cumberland County,Virginia","Poquoson City County,Virginia",8283,206253
+325,"Cumberland County,Virginia","Portsmouth City County,Virginia",9300,243427
+326,"Cumberland County,Virginia","Radford County,Virginia",10520,257355
+327,"Cumberland County,Virginia","Richmond City County,Virginia",3763,84604
+328,"Cumberland County,Virginia","Roanoke City County,Virginia",8165,183764
+329,"Cumberland County,Virginia","Salem City County,Virginia",8516,202363
+330,"Cumberland County,Virginia","South Boston City County,Virginia",5550,123808
+331,"Cumberland County,Virginia","Staunton City County,Virginia",6415,140696
+332,"Cumberland County,Virginia","Suffolk City County,Virginia",8536,199603
+333,"Cumberland County,Virginia","Virginia Beach City County,Virginia",9921,257865
+334,"Cumberland County,Virginia","Waynesboro City County,Virginia",5770,104479
+335,"Cumberland County,Virginia","Williamsburg City County,Virginia",6655,167925
+336,"Cumberland County,Virginia","Winchester City County,Virginia",11093,288587
+337,"Cumberland County,Virginia","Barbour County,West Virginia",17217,357417
+338,"Cumberland County,Virginia","Berkeley County,West Virginia",12831,335795
+339,"Cumberland County,Virginia","Boone County,West Virginia",17687,418658
+340,"Cumberland County,Virginia","Braxton County,West Virginia",17384,399332
+341,"Cumberland County,Virginia","Brooke County,West Virginia",22957,567941
+342,"Cumberland County,Virginia","Cabell County,West Virginia",19254,514564
+343,"Cumberland County,Virginia","Calhoun County,West Virginia",19155,453283
+344,"Cumberland County,Virginia","Clay County,West Virginia",17420,390116
+345,"Cumberland County,Virginia","Doddridge County,West Virginia",20671,419819
+346,"Cumberland County,Virginia","Fayette County,West Virginia",14808,336855
+347,"Cumberland County,Virginia","Gilmer County,West Virginia",18952,449012
+348,"Cumberland County,Virginia","Grant County,West Virginia",12923,318282
+349,"Cumberland County,Virginia","Greenbrier County,West Virginia",13164,296080
+350,"Cumberland County,Virginia","Hampshire County,West Virginia",12950,306699
+351,"Cumberland County,Virginia","Hancock County,West Virginia",24584,595288
+352,"Cumberland County,Virginia","Hardy County,West Virginia",12170,289612
+353,"Cumberland County,Virginia","Harrison County,West Virginia",19314,422287
+354,"Cumberland County,Virginia","Jackson County,West Virginia",18573,494374
+355,"Cumberland County,Virginia","Jefferson County,West Virginia",12143,258654
+356,"Cumberland County,Virginia","Kanawha County,West Virginia",16336,416356
+357,"Cumberland County,Virginia","Lewis County,West Virginia",18359,389782
+358,"Cumberland County,Virginia","Lincoln County,West Virginia",19918,492242
+359,"Cumberland County,Virginia","Logan County,West Virginia",19477,449147
+360,"Cumberland County,Virginia","McDowell County,West Virginia",17688,404127
+361,"Cumberland County,Virginia","Marion County,West Virginia",20344,455131
+362,"Cumberland County,Virginia","Marshall County,West Virginia",23945,562385
+363,"Cumberland County,Virginia","Mason County,West Virginia",18730,500470
+364,"Cumberland County,Virginia","Mercer County,West Virginia",13765,339417
+365,"Cumberland County,Virginia","Mineral County,West Virginia",14396,329806
+366,"Cumberland County,Virginia","Mingo County,West Virginia",20056,513082
+367,"Cumberland County,Virginia","Monongalia County,West Virginia",18099,442541
+368,"Cumberland County,Virginia","Monroe County,West Virginia",12098,282402
+369,"Cumberland County,Virginia","Morgan County,West Virginia",13076,336921
+370,"Cumberland County,Virginia","Nicholas County,West Virginia",15003,349505
+371,"Cumberland County,Virginia","Ohio County,West Virginia",22864,576887
+372,"Cumberland County,Virginia","Pendleton County,West Virginia",11314,250304
+373,"Cumberland County,Virginia","Pleasants County,West Virginia",22113,498427
+374,"Cumberland County,Virginia","Pocahontas County,West Virginia",13774,278398
+375,"Cumberland County,Virginia","Preston County,West Virginia",17102,396733
+376,"Cumberland County,Virginia","Putnam County,West Virginia",17511,466089
+377,"Cumberland County,Virginia","Raleigh County,West Virginia",13361,341538
+378,"Cumberland County,Virginia","Randolph County,West Virginia",15233,310811
+379,"Cumberland County,Virginia","Ritchie County,West Virginia",21628,495658
+380,"Cumberland County,Virginia","Roane County,West Virginia",20199,523190
+381,"Cumberland County,Virginia","Summers County,West Virginia",14082,321415
+382,"Cumberland County,Virginia","Taylor County,West Virginia",17446,414555
+383,"Cumberland County,Virginia","Tucker County,West Virginia",15582,379930
+384,"Cumberland County,Virginia","Tyler County,West Virginia",23039,491094
+385,"Cumberland County,Virginia","Upshur County,West Virginia",17829,346453
+386,"Cumberland County,Virginia","Wayne County,West Virginia",20845,547190
+387,"Cumberland County,Virginia","Webster County,West Virginia",17661,357819
+388,"Cumberland County,Virginia","Wetzel County,West Virginia",21994,473769
+389,"Cumberland County,Virginia","Wirt County,West Virginia",20840,551712
+390,"Cumberland County,Virginia","Wood County,West Virginia",20354,553402
+391,"Cumberland County,Virginia","Wyoming County,West Virginia",15306,381479

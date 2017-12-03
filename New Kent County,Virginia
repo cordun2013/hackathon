@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"New Kent County,Virginia","Adair County,Kentucky",34868,942661
+1,"New Kent County,Virginia","Allen County,Kentucky",36264,1062471
+2,"New Kent County,Virginia","Anderson County,Kentucky",30495,905446
+3,"New Kent County,Virginia","Ballard County,Kentucky",43168,1297726
+4,"New Kent County,Virginia","Barren County,Kentucky",36053,1021416
+5,"New Kent County,Virginia","Bath County,Kentucky",26143,776628
+6,"New Kent County,Virginia","Bell County,Kentucky",27363,743968
+7,"New Kent County,Virginia","Boone County,Kentucky",31956,898021
+8,"New Kent County,Virginia","Bourbon County,Kentucky",28056,823045
+9,"New Kent County,Virginia","Boyd County,Kentucky",22818,670952
+10,"New Kent County,Virginia","Boyle County,Kentucky",31724,909333
+11,"New Kent County,Virginia","Bracken County,Kentucky",28467,817128
+12,"New Kent County,Virginia","Breathitt County,Kentucky",28987,779731
+13,"New Kent County,Virginia","Breckinridge County,Kentucky",36029,1058128
+14,"New Kent County,Virginia","Bullitt County,Kentucky",32599,979247
+15,"New Kent County,Virginia","Butler County,Kentucky",36694,1080125
+16,"New Kent County,Virginia","Caldwell County,Kentucky",39586,1186071
+17,"New Kent County,Virginia","Calloway County,Kentucky",41009,1229585
+18,"New Kent County,Virginia","Campbell County,Kentucky",30168,856999
+19,"New Kent County,Virginia","Carlisle County,Kentucky",43625,1313094
+20,"New Kent County,Virginia","Carroll County,Kentucky",33040,953261
+21,"New Kent County,Virginia","Carter County,Kentucky",23983,701049
+22,"New Kent County,Virginia","Casey County,Kentucky",33219,940838
+23,"New Kent County,Virginia","Christian County,Kentucky",37902,1150565
+24,"New Kent County,Virginia","Clay County,Kentucky",29935,804310
+25,"New Kent County,Virginia","Clinton County,Kentucky",33311,941876
+26,"New Kent County,Virginia","Crittenden County,Kentucky",41165,1219141
+27,"New Kent County,Virginia","Cumberland County,Kentucky",34191,962544
+28,"New Kent County,Virginia","Daviess County,Kentucky",37717,1126568
+29,"New Kent County,Virginia","Edmonson County,Kentucky",36134,1068000
+30,"New Kent County,Virginia","Elliott County,Kentucky",25313,726819
+31,"New Kent County,Virginia","Estill County,Kentucky",29135,838943
+32,"New Kent County,Virginia","Fayette County,Kentucky",28302,842939
+33,"New Kent County,Virginia","Fleming County,Kentucky",26569,779813
+34,"New Kent County,Virginia","Floyd County,Kentucky",26951,778217
+35,"New Kent County,Virginia","Franklin County,Kentucky",30340,891856
+36,"New Kent County,Virginia","Fulton County,Kentucky",44029,1334058
+37,"New Kent County,Virginia","Gallatin County,Kentucky",32038,943920
+38,"New Kent County,Virginia","Garrard County,Kentucky",30907,890093
+39,"New Kent County,Virginia","Grant County,Kentucky",30837,918027
+40,"New Kent County,Virginia","Graves County,Kentucky",42650,1285801
+41,"New Kent County,Virginia","Grayson County,Kentucky",35021,1036761
+42,"New Kent County,Virginia","Green County,Kentucky",34801,1001967
+43,"New Kent County,Virginia","Greenup County,Kentucky",24594,712078
+44,"New Kent County,Virginia","Hancock County,Kentucky",36824,1091021
+45,"New Kent County,Virginia","Hardin County,Kentucky",33897,998894
+46,"New Kent County,Virginia","Harlan County,Kentucky",26438,720594
+47,"New Kent County,Virginia","Harrison County,Kentucky",29627,856145
+48,"New Kent County,Virginia","Hart County,Kentucky",34697,1026523
+49,"New Kent County,Virginia","Henderson County,Kentucky",39523,1178998
+50,"New Kent County,Virginia","Henry County,Kentucky",31941,935574
+51,"New Kent County,Virginia","Hickman County,Kentucky",43659,1314386
+52,"New Kent County,Virginia","Hopkins County,Kentucky",39044,1160539
+53,"New Kent County,Virginia","Jackson County,Kentucky",31807,840729
+54,"New Kent County,Virginia","Jefferson County,Kentucky",32035,951108
+55,"New Kent County,Virginia","Jessamine County,Kentucky",29772,864403
+56,"New Kent County,Virginia","Johnson County,Kentucky",25600,743848
+57,"New Kent County,Virginia","Kenton County,Kentucky",31325,885715
+58,"New Kent County,Virginia","Knott County,Kentucky",26528,722481
+59,"New Kent County,Virginia","Knox County,Kentucky",28693,785960
+60,"New Kent County,Virginia","Larue County,Kentucky",33969,986070
+61,"New Kent County,Virginia","Laurel County,Kentucky",30587,820787
+62,"New Kent County,Virginia","Lawrence County,Kentucky",24741,715272
+63,"New Kent County,Virginia","Lee County,Kentucky",29980,832680
+64,"New Kent County,Virginia","Leslie County,Kentucky",27900,748874
+65,"New Kent County,Virginia","Letcher County,Kentucky",24928,686028
+66,"New Kent County,Virginia","Lewis County,Kentucky",26021,752867
+67,"New Kent County,Virginia","Lincoln County,Kentucky",31617,907011
+68,"New Kent County,Virginia","Livingston County,Kentucky",41499,1251665
+69,"New Kent County,Virginia","Logan County,Kentucky",38334,1103465
+70,"New Kent County,Virginia","Lyon County,Kentucky",41256,1228839
+71,"New Kent County,Virginia","McCracken County,Kentucky",41780,1265786
+72,"New Kent County,Virginia","McCreary County,Kentucky",30317,878722
+73,"New Kent County,Virginia","Madison County,Kentucky",29301,853962
+74,"New Kent County,Virginia","Magoffin County,Kentucky",26567,764527
+75,"New Kent County,Virginia","Marion County,Kentucky",32347,947679
+76,"New Kent County,Virginia","Marshall County,Kentucky",41195,1249358
+77,"New Kent County,Virginia","Martin County,Kentucky",25855,696996
+78,"New Kent County,Virginia","Mason County,Kentucky",27816,796674
+79,"New Kent County,Virginia","Meade County,Kentucky",34496,1023422
+80,"New Kent County,Virginia","Menifee County,Kentucky",27259,788691
+81,"New Kent County,Virginia","Mercer County,Kentucky",30723,903390
+82,"New Kent County,Virginia","Metcalfe County,Kentucky",35524,972926
+83,"New Kent County,Virginia","Monroe County,Kentucky",34751,992965
+84,"New Kent County,Virginia","Montgomery County,Kentucky",26956,795168
+85,"New Kent County,Virginia","Morgan County,Kentucky",27037,764407
+86,"New Kent County,Virginia","Muhlenberg County,Kentucky",37904,1127015
+87,"New Kent County,Virginia","Nelson County,Kentucky",31954,946751
+88,"New Kent County,Virginia","Nicholas County,Kentucky",28634,823051
+89,"New Kent County,Virginia","Ohio County,Kentucky",36818,1094605
+90,"New Kent County,Virginia","Oldham County,Kentucky",32107,962989
+91,"New Kent County,Virginia","Owen County,Kentucky",31162,918633
+92,"New Kent County,Virginia","Owsley County,Kentucky",31125,817605
+93,"New Kent County,Virginia","Pendleton County,Kentucky",30405,858052
+94,"New Kent County,Virginia","Perry County,Kentucky",27501,742904
+95,"New Kent County,Virginia","Pike County,Kentucky",26051,662242
+96,"New Kent County,Virginia","Powell County,Kentucky",28399,824914
+97,"New Kent County,Virginia","Robertson County,Kentucky",28551,822558
+98,"New Kent County,Virginia","Rockcastle County,Kentucky",30735,895105
+99,"New Kent County,Virginia","Rowan County,Kentucky",25285,748835
+100,"New Kent County,Virginia","Russell County,Kentucky",34472,926645
+101,"New Kent County,Virginia","Scott County,Kentucky",29137,870966
+102,"New Kent County,Virginia","Shelby County,Kentucky",30964,922242
+103,"New Kent County,Virginia","Simpson County,Kentucky",37301,1079441
+104,"New Kent County,Virginia","Spencer County,Kentucky",31493,928090
+105,"New Kent County,Virginia","Taylor County,Kentucky",33636,979175
+106,"New Kent County,Virginia","Todd County,Kentucky",38317,1143512
+107,"New Kent County,Virginia","Trigg County,Kentucky",38809,1167924
+108,"New Kent County,Virginia","Trimble County,Kentucky",33180,969029
+109,"New Kent County,Virginia","Union County,Kentucky",41243,1209444
+110,"New Kent County,Virginia","Warren County,Kentucky",37050,1096369
+111,"New Kent County,Virginia","Washington County,Kentucky",31964,931987
+112,"New Kent County,Virginia","Wayne County,Kentucky",32822,925852
+113,"New Kent County,Virginia","Webster County,Kentucky",40153,1188628
+114,"New Kent County,Virginia","Whitley County,Kentucky",28921,863484
+115,"New Kent County,Virginia","Wolfe County,Kentucky",28132,787769
+116,"New Kent County,Virginia","Woodford County,Kentucky",29356,873602
+117,"New Kent County,Virginia","Adams County,Ohio",27909,799230
+118,"New Kent County,Virginia","Allen County,Ohio",34641,974647
+119,"New Kent County,Virginia","Ashland County,Ohio",29395,843049
+120,"New Kent County,Virginia","Ashtabula County,Ohio",27392,797519
+121,"New Kent County,Virginia","Athens County,Ohio",24317,704829
+122,"New Kent County,Virginia","Auglaize County,Ohio",33891,991347
+123,"New Kent County,Virginia","Belmont County,Ohio",23962,693814
+124,"New Kent County,Virginia","Brown County,Ohio",29153,826158
+125,"New Kent County,Virginia","Butler County,Ohio",32266,908183
+126,"New Kent County,Virginia","Carroll County,Ohio",25908,709740
+127,"New Kent County,Virginia","Champaign County,Ohio",31195,893445
+128,"New Kent County,Virginia","Clark County,Ohio",29874,852989
+129,"New Kent County,Virginia","Clermont County,Ohio",29987,857254
+130,"New Kent County,Virginia","Clinton County,Ohio",29378,840670
+131,"New Kent County,Virginia","Columbiana County,Ohio",24695,691757
+132,"New Kent County,Virginia","Coshocton County,Ohio",28319,819264
+133,"New Kent County,Virginia","Crawford County,Ohio",31304,914244
+134,"New Kent County,Virginia","Cuyahoga County,Ohio",27388,795363
+135,"New Kent County,Virginia","Darke County,Ohio",32989,948394
+136,"New Kent County,Virginia","Defiance County,Ohio",35707,1044327
+137,"New Kent County,Virginia","Delaware County,Ohio",30147,872436
+138,"New Kent County,Virginia","Fairfield County,Ohio",27677,799530
+139,"New Kent County,Virginia","Fayette County,Ohio",27942,811134
+140,"New Kent County,Virginia","Franklin County,Ohio",28678,829385
+141,"New Kent County,Virginia","Fulton County,Ohio",34059,1001178
+142,"New Kent County,Virginia","Gallia County,Ohio",23255,670246
+143,"New Kent County,Virginia","Geauga County,Ohio",26882,770182
+144,"New Kent County,Virginia","Greene County,Ohio",28812,844287
+145,"New Kent County,Virginia","Guernsey County,Ohio",25866,757323
+146,"New Kent County,Virginia","Hamilton County,Ohio",31767,918761
+147,"New Kent County,Virginia","Hancock County,Ohio",33334,976325
+148,"New Kent County,Virginia","Hardin County,Ohio",33152,930477
+149,"New Kent County,Virginia","Harrison County,Ohio",25122,711958
+150,"New Kent County,Virginia","Henry County,Ohio",34513,990945
+151,"New Kent County,Virginia","Highland County,Ohio",28446,799244
+152,"New Kent County,Virginia","Hocking County,Ohio",26119,755493
+153,"New Kent County,Virginia","Holmes County,Ohio",29062,794034
+154,"New Kent County,Virginia","Huron County,Ohio",30672,872655
+155,"New Kent County,Virginia","Jackson County,Ohio",24433,709795
+156,"New Kent County,Virginia","Jefferson County,Ohio",23864,673231
+157,"New Kent County,Virginia","Knox County,Ohio",30108,861740
+158,"New Kent County,Virginia","Lawrence County,Ohio",23958,676009
+159,"New Kent County,Virginia","Licking County,Ohio",29493,842812
+160,"New Kent County,Virginia","Logan County,Ohio",32173,924754
+161,"New Kent County,Virginia","Lorain County,Ohio",28440,825083
+162,"New Kent County,Virginia","Lucas County,Ohio",33013,954028
+163,"New Kent County,Virginia","Madison County,Ohio",29643,834219
+164,"New Kent County,Virginia","Mahoning County,Ohio",23879,687511
+165,"New Kent County,Virginia","Marion County,Ohio",31553,898529
+166,"New Kent County,Virginia","Medina County,Ohio",28027,810169
+167,"New Kent County,Virginia","Meigs County,Ohio",23198,675800
+168,"New Kent County,Virginia","Mercer County,Ohio",35127,1018281
+169,"New Kent County,Virginia","Miami County,Ohio",31477,913786
+170,"New Kent County,Virginia","Monroe County,Ohio",26395,740498
+171,"New Kent County,Virginia","Montgomery County,Ohio",30847,891742
+172,"New Kent County,Virginia","Morgan County,Ohio",26193,760122
+173,"New Kent County,Virginia","Morrow County,Ohio",30954,895257
+174,"New Kent County,Virginia","Muskingum County,Ohio",26712,785315
+175,"New Kent County,Virginia","Noble County,Ohio",25693,756635
+176,"New Kent County,Virginia","Paulding County,Ohio",36912,1080314
+177,"New Kent County,Virginia","Perry County,Ohio",27535,770250
+178,"New Kent County,Virginia","Pickaway County,Ohio",27382,791233
+179,"New Kent County,Virginia","Pike County,Ohio",25879,749102
+180,"New Kent County,Virginia","Portage County,Ohio",25733,743525
+181,"New Kent County,Virginia","Preble County,Ohio",32466,920320
+182,"New Kent County,Virginia","Putnam County,Ohio",35532,1036131
+183,"New Kent County,Virginia","Richland County,Ohio",29951,864478
+184,"New Kent County,Virginia","Ross County,Ohio",26127,757539
+185,"New Kent County,Virginia","Sandusky County,Ohio",31301,912602
+186,"New Kent County,Virginia","Scioto County,Ohio",25763,733282
+187,"New Kent County,Virginia","Seneca County,Ohio",32032,922274
+188,"New Kent County,Virginia","Shelby County,Ohio",32516,950072
+189,"New Kent County,Virginia","Stark County,Ohio",26513,739658
+190,"New Kent County,Virginia","Summit County,Ohio",26791,769340
+191,"New Kent County,Virginia","Trumbull County,Ohio",25036,724975
+192,"New Kent County,Virginia","Tuscarawas County,Ohio",26631,743241
+193,"New Kent County,Virginia","Union County,Ohio",30677,874985
+194,"New Kent County,Virginia","Van Wert County,Ohio",35643,1046642
+195,"New Kent County,Virginia","Vinton County,Ohio",26328,735300
+196,"New Kent County,Virginia","Warren County,Ohio",30184,874729
+197,"New Kent County,Virginia","Washington County,Ohio",24552,714571
+198,"New Kent County,Virginia","Wayne County,Ohio",29133,828980
+199,"New Kent County,Virginia","Williams County,Ohio",35304,1032634
+200,"New Kent County,Virginia","Wood County,Ohio",33199,960931
+201,"New Kent County,Virginia","Wyandot County,Ohio",32304,940460
+202,"New Kent County,Virginia","Accomack County,Virginia",9721,224124
+203,"New Kent County,Virginia","Albemarle County,Virginia",6838,184661
+204,"New Kent County,Virginia","Alleghany County,Virginia",12347,353602
+205,"New Kent County,Virginia","Amelia County,Virginia",5634,127974
+206,"New Kent County,Virginia","Amherst County,Virginia",9631,254407
+207,"New Kent County,Virginia","Appomattox County,Virginia",8938,205699
+208,"New Kent County,Virginia","Arlington County,Virginia",7881,216004
+209,"New Kent County,Virginia","Augusta County,Virginia",9091,247295
+210,"New Kent County,Virginia","Bath County,Virginia",12065,312955
+211,"New Kent County,Virginia","Bedford County,Virginia",11869,284216
+212,"New Kent County,Virginia","Bland County,Virginia",16630,483285
+213,"New Kent County,Virginia","Botetourt County,Virginia",11654,324538
+214,"New Kent County,Virginia","Brunswick County,Virginia",6322,158317
+215,"New Kent County,Virginia","Buchanan County,Virginia",22386,617744
+216,"New Kent County,Virginia","Buckingham County,Virginia",7780,177676
+217,"New Kent County,Virginia","Campbell County,Virginia",10314,247531
+218,"New Kent County,Virginia","Caroline County,Virginia",4622,105268
+219,"New Kent County,Virginia","Carroll County,Virginia",16751,488702
+220,"New Kent County,Virginia","Charles City County,Virginia",2421,39097
+221,"New Kent County,Virginia","Charlotte County,Virginia",8500,202570
+222,"New Kent County,Virginia","Chesterfield County,Virginia",4094,90736
+223,"New Kent County,Virginia","Clarke County,Virginia",10561,258480
+224,"New Kent County,Virginia","Craig County,Virginia",14496,380865
+225,"New Kent County,Virginia","Culpeper County,Virginia",7860,189209
+226,"New Kent County,Virginia","Cumberland County,Virginia",6213,142629
+227,"New Kent County,Virginia","Dickenson County,Virginia",23096,635922
+228,"New Kent County,Virginia","Dinwiddie County,Virginia",4959,118284
+229,"New Kent County,Virginia","Essex County,Virginia",4973,93712
+230,"New Kent County,Virginia","Fairfax County,Virginia",8178,219234
+231,"New Kent County,Virginia","Fauquier County,Virginia",7874,199247
+232,"New Kent County,Virginia","Floyd County,Virginia",15278,430249
+233,"New Kent County,Virginia","Fluvanna County,Virginia",6039,148232
+234,"New Kent County,Virginia","Franklin County,Virginia",14168,325915
+235,"New Kent County,Virginia","Frederick County,Virginia",11117,291542
+236,"New Kent County,Virginia","Giles County,Virginia",15418,438401
+237,"New Kent County,Virginia","Gloucester County,Virginia",3317,53480
+238,"New Kent County,Virginia","Goochland County,Virginia",4768,117519
+239,"New Kent County,Virginia","Grayson County,Virginia",18083,504881
+240,"New Kent County,Virginia","Greene County,Virginia",8558,202696
+241,"New Kent County,Virginia","Greensville County,Virginia",5993,160227
+242,"New Kent County,Virginia","Halifax County,Virginia",9932,257207
+243,"New Kent County,Virginia","Hanover County,Virginia",2841,61097
+244,"New Kent County,Virginia","Henrico County,Virginia",2442,48486
+245,"New Kent County,Virginia","Henry County,Virginia",14291,371159
+246,"New Kent County,Virginia","Highland County,Virginia",12293,305034
+247,"New Kent County,Virginia","Isle of Wight County,Virginia",5348,113433
+248,"New Kent County,Virginia","James City County,Virginia",2589,36760
+249,"New Kent County,Virginia","King and Queen County,Virginia",3054,53642
+250,"New Kent County,Virginia","King George County,Virginia",5723,141350
+251,"New Kent County,Virginia","King William County,Virginia",3338,56238
+252,"New Kent County,Virginia","Lancaster County,Virginia",5184,89520
+253,"New Kent County,Virginia","Lee County,Virginia",23590,667576
+254,"New Kent County,Virginia","Loudoun County,Virginia",10145,272479
+255,"New Kent County,Virginia","Louisa County,Virginia",5536,141107
+256,"New Kent County,Virginia","Lunenburg County,Virginia",7783,177734
+257,"New Kent County,Virginia","Madison County,Virginia",8472,202727
+258,"New Kent County,Virginia","Mathews County,Virginia",4142,76904
+259,"New Kent County,Virginia","Mecklenburg County,Virginia",8048,206589
+260,"New Kent County,Virginia","Middlesex County,Virginia",2918,49680
+261,"New Kent County,Virginia","Montgomery County,Virginia",13982,402671
+262,"New Kent County,Virginia","Nelson County,Virginia",8077,222002
+263,"New Kent County,Virginia","Northampton County,Virginia",6964,159938
+264,"New Kent County,Virginia","Northumberland County,Virginia",5552,101682
+265,"New Kent County,Virginia","Nottoway County,Virginia",5895,146810
+266,"New Kent County,Virginia","Orange County,Virginia",7149,157634
+267,"New Kent County,Virginia","Page County,Virginia",10745,246913
+268,"New Kent County,Virginia","Patrick County,Virginia",15873,410066
+269,"New Kent County,Virginia","Pittsylvania County,Virginia",12699,305996
+270,"New Kent County,Virginia","Powhatan County,Virginia",4795,115127
+271,"New Kent County,Virginia","Prince Edward County,Virginia",7378,175687
+272,"New Kent County,Virginia","Prince George County,Virginia",3994,72116
+273,"New Kent County,Virginia","Prince William County,Virginia",8338,209082
+274,"New Kent County,Virginia","Pulaski County,Virginia",14710,425305
+275,"New Kent County,Virginia","Rappahannock County,Virginia",9314,227246
+276,"New Kent County,Virginia","Richmond County,Virginia",5229,98880
+277,"New Kent County,Virginia","Roanoke County,Virginia",12974,367610
+278,"New Kent County,Virginia","Rockbridge County,Virginia",10396,290547
+279,"New Kent County,Virginia","Rockingham County,Virginia",10450,287441
+280,"New Kent County,Virginia","Russell County,Virginia",21552,601081
+281,"New Kent County,Virginia","Scott County,Virginia",22164,628304
+282,"New Kent County,Virginia","Shenandoah County,Virginia",10954,317544
+283,"New Kent County,Virginia","Smyth County,Virginia",17746,512026
+284,"New Kent County,Virginia","Southampton County,Virginia",6370,156341
+285,"New Kent County,Virginia","Spotsylvania County,Virginia",5620,136314
+286,"New Kent County,Virginia","Stafford County,Virginia",5692,153785
+287,"New Kent County,Virginia","Surry County,Virginia",4705,93327
+288,"New Kent County,Virginia","Sussex County,Virginia",5034,126584
+289,"New Kent County,Virginia","Tazewell County,Virginia",19207,552102
+290,"New Kent County,Virginia","Warren County,Virginia",10344,260953
+291,"New Kent County,Virginia","Washington County,Virginia",19140,551492
+292,"New Kent County,Virginia","Westmoreland County,Virginia",6698,158175
+293,"New Kent County,Virginia","Wise County,Virginia",23003,642424
+294,"New Kent County,Virginia","Wythe County,Virginia",16000,464011
+295,"New Kent County,Virginia","York County,Virginia",3834,74049
+296,"New Kent County,Virginia","Alexandria City County,Virginia",7853,213053
+297,"New Kent County,Virginia","Bedford City County,Virginia",11370,279299
+298,"New Kent County,Virginia","Bristol City County,Virginia",19615,577209
+299,"New Kent County,Virginia","Buena Vista City County,Virginia",10055,283813
+300,"New Kent County,Virginia","Charlottesville City County,Virginia",6388,170068
+301,"New Kent County,Virginia","Chesapeake City County,Virginia",5297,126954
+302,"New Kent County,Virginia","Clifton Forge City County,Virginia",11249,322420
+303,"New Kent County,Virginia","Colonial Heights City County,Virginia",3772,83745
+304,"New Kent County,Virginia","Covington City County,Virginia",11992,340762
+305,"New Kent County,Virginia","Danville City County,Virginia",11747,302133
+306,"New Kent County,Virginia","Emporia City County,Virginia",5700,146820
+307,"New Kent County,Virginia","Fairfax City County,Virginia",8112,208016
+308,"New Kent County,Virginia","Falls Church City County,Virginia",8060,220302
+309,"New Kent County,Virginia","Franklin City County,Virginia",6758,163492
+310,"New Kent County,Virginia","Fredericksburg City County,Virginia",5492,139721
+311,"New Kent County,Virginia","Galax City County,Virginia",17375,494568
+312,"New Kent County,Virginia","Hampton City County,Virginia",3784,83755
+313,"New Kent County,Virginia","Harrisonburg City County,Virginia",9509,267337
+314,"New Kent County,Virginia","Hopewell City County,Virginia",3107,69248
+315,"New Kent County,Virginia","Lexington City County,Virginia",9914,280791
+316,"New Kent County,Virginia","Lynchburg City County,Virginia",10097,242848
+317,"New Kent County,Virginia","Manassas City County,Virginia",8081,206419
+318,"New Kent County,Virginia","Manassas Park City County,Virginia",8301,203619
+319,"New Kent County,Virginia","Martinsville City County,Virginia",13888,355138
+320,"New Kent County,Virginia","Newport News City County,Virginia",3341,70241
+321,"New Kent County,Virginia","Norfolk City County,Virginia",5090,109171
+322,"New Kent County,Virginia","Norton City County,Virginia",22527,633314
+323,"New Kent County,Virginia","Petersburg City County,Virginia",3709,80208
+324,"New Kent County,Virginia","Poquoson City County,Virginia",4013,80818
+325,"New Kent County,Virginia","Portsmouth City County,Virginia",5030,117992
+326,"New Kent County,Virginia","Radford County,Virginia",14346,412516
+327,"New Kent County,Virginia","Richmond City County,Virginia",2759,56983
+328,"New Kent County,Virginia","Roanoke City County,Virginia",12512,359052
+329,"New Kent County,Virginia","Salem City County,Virginia",12341,357523
+330,"New Kent County,Virginia","South Boston City County,Virginia",9636,254699
+331,"New Kent County,Virginia","Staunton City County,Virginia",8397,229018
+332,"New Kent County,Virginia","Suffolk City County,Virginia",5405,126029
+333,"New Kent County,Virginia","Virginia Beach City County,Virginia",5651,132429
+334,"New Kent County,Virginia","Waynesboro City County,Virginia",7674,211016
+335,"New Kent County,Virginia","Williamsburg City County,Virginia",2385,42490
+336,"New Kent County,Virginia","Winchester City County,Virginia",10938,265290
+337,"New Kent County,Virginia","Barbour County,West Virginia",18822,465853
+338,"New Kent County,Virginia","Berkeley County,West Virginia",12719,315471
+339,"New Kent County,Virginia","Boone County,West Virginia",20707,553307
+340,"New Kent County,Virginia","Braxton County,West Virginia",20404,533982
+341,"New Kent County,Virginia","Brooke County,West Virginia",23170,656715
+342,"New Kent County,Virginia","Cabell County,West Virginia",22274,649213
+343,"New Kent County,Virginia","Calhoun County,West Virginia",22175,587933
+344,"New Kent County,Virginia","Clay County,West Virginia",20440,524766
+345,"New Kent County,Virginia","Doddridge County,West Virginia",22653,508140
+346,"New Kent County,Virginia","Fayette County,West Virginia",17828,471505
+347,"New Kent County,Virginia","Gilmer County,West Virginia",21972,583662
+348,"New Kent County,Virginia","Grant County,West Virginia",14166,368949
+349,"New Kent County,Virginia","Greenbrier County,West Virginia",16184,430730
+350,"New Kent County,Virginia","Hampshire County,West Virginia",13243,324547
+351,"New Kent County,Virginia","Hancock County,West Virginia",23878,664651
+352,"New Kent County,Virginia","Hardy County,West Virginia",13414,340279
+353,"New Kent County,Virginia","Harrison County,West Virginia",21297,510609
+354,"New Kent County,Virginia","Jackson County,West Virginia",21593,629024
+355,"New Kent County,Virginia","Jefferson County,West Virginia",11617,303906
+356,"New Kent County,Virginia","Kanawha County,West Virginia",19356,551006
+357,"New Kent County,Virginia","Lewis County,West Virginia",20342,478104
+358,"New Kent County,Virginia","Lincoln County,West Virginia",22938,626891
+359,"New Kent County,Virginia","Logan County,West Virginia",22497,583796
+360,"New Kent County,Virginia","McDowell County,West Virginia",20876,558247
+361,"New Kent County,Virginia","Marion County,West Virginia",20488,579575
+362,"New Kent County,Virginia","Marshall County,West Virginia",24157,651159
+363,"New Kent County,Virginia","Mason County,West Virginia",21750,635120
+364,"New Kent County,Virginia","Mercer County,West Virginia",17591,494578
+365,"New Kent County,Virginia","Mineral County,West Virginia",15640,380473
+366,"New Kent County,Virginia","Mingo County,West Virginia",23076,647731
+367,"New Kent County,Virginia","Monongalia County,West Virginia",18311,531314
+368,"New Kent County,Virginia","Monroe County,West Virginia",15118,417051
+369,"New Kent County,Virginia","Morgan County,West Virginia",12965,316598
+370,"New Kent County,Virginia","Nicholas County,West Virginia",18023,484155
+371,"New Kent County,Virginia","Ohio County,West Virginia",23077,665661
+372,"New Kent County,Virginia","Pendleton County,West Virginia",13297,338625
+373,"New Kent County,Virginia","Pleasants County,West Virginia",24095,586749
+374,"New Kent County,Virginia","Pocahontas County,West Virginia",15756,366720
+375,"New Kent County,Virginia","Preston County,West Virginia",18346,447400
+376,"New Kent County,Virginia","Putnam County,West Virginia",20531,600738
+377,"New Kent County,Virginia","Raleigh County,West Virginia",16381,476187
+378,"New Kent County,Virginia","Randolph County,West Virginia",17216,399132
+379,"New Kent County,Virginia","Ritchie County,West Virginia",24006,581051
+380,"New Kent County,Virginia","Roane County,West Virginia",23219,657839
+381,"New Kent County,Virginia","Summers County,West Virginia",17103,456065
+382,"New Kent County,Virginia","Taylor County,West Virginia",18689,465222
+383,"New Kent County,Virginia","Tucker County,West Virginia",16826,430597
+384,"New Kent County,Virginia","Tyler County,West Virginia",25022,579415
+385,"New Kent County,Virginia","Upshur County,West Virginia",19811,434775
+386,"New Kent County,Virginia","Wayne County,West Virginia",23865,681840
+387,"New Kent County,Virginia","Webster County,West Virginia",19643,446141
+388,"New Kent County,Virginia","Wetzel County,West Virginia",23644,641699
+389,"New Kent County,Virginia","Wirt County,West Virginia",23860,686362
+390,"New Kent County,Virginia","Wood County,West Virginia",23374,688051
+391,"New Kent County,Virginia","Wyoming County,West Virginia",18326,516129

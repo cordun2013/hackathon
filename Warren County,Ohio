@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Warren County,Ohio","Adair County,Kentucky",13256,351397
+1,"Warren County,Ohio","Allen County,Kentucky",14013,404683
+2,"Warren County,Ohio","Anderson County,Kentucky",8238,230542
+3,"Warren County,Ohio","Ballard County,Kentucky",20173,596846
+4,"Warren County,Ohio","Barren County,Kentucky",13140,373096
+5,"Warren County,Ohio","Bath County,Kentucky",8523,251851
+6,"Warren County,Ohio","Bell County,Kentucky",13757,379577
+7,"Warren County,Ohio","Boone County,Kentucky",3707,81268
+8,"Warren County,Ohio","Bourbon County,Kentucky",7111,189810
+9,"Warren County,Ohio","Boyd County,Kentucky",10584,226067
+10,"Warren County,Ohio","Boyle County,Kentucky",9548,258431
+11,"Warren County,Ohio","Bracken County,Kentucky",5094,126803
+12,"Warren County,Ohio","Breathitt County,Kentucky",11123,316031
+13,"Warren County,Ohio","Breckinridge County,Kentucky",12052,323248
+14,"Warren County,Ohio","Bullitt County,Kentucky",8589,244079
+15,"Warren County,Ohio","Butler County,Kentucky",13392,381754
+16,"Warren County,Ohio","Caldwell County,Kentucky",16284,487699
+17,"Warren County,Ohio","Calloway County,Kentucky",19094,572692
+18,"Warren County,Ohio","Campbell County,Kentucky",3624,79752
+19,"Warren County,Ohio","Carlisle County,Kentucky",20630,612214
+20,"Warren County,Ohio","Carroll County,Kentucky",5280,143033
+21,"Warren County,Ohio","Carter County,Kentucky",10010,248629
+22,"Warren County,Ohio","Casey County,Kentucky",11472,288559
+23,"Warren County,Ohio","Christian County,Kentucky",15933,482956
+24,"Warren County,Ohio","Clay County,Kentucky",11989,338621
+25,"Warren County,Ohio","Clinton County,Kentucky",13711,378105
+26,"Warren County,Ohio","Crittenden County,Kentucky",17864,520769
+27,"Warren County,Ohio","Cumberland County,Kentucky",14465,396344
+28,"Warren County,Ohio","Daviess County,Kentucky",13365,386565
+29,"Warren County,Ohio","Edmonson County,Kentucky",12832,369629
+30,"Warren County,Ohio","Elliott County,Kentucky",11284,251028
+31,"Warren County,Ohio","Estill County,Kentucky",9057,252572
+32,"Warren County,Ohio","Fayette County,Kentucky",6486,183066
+33,"Warren County,Ohio","Fleming County,Kentucky",7369,179542
+34,"Warren County,Ohio","Floyd County,Kentucky",13310,376062
+35,"Warren County,Ohio","Franklin County,Kentucky",7720,186416
+36,"Warren County,Ohio","Fulton County,Kentucky",21034,633178
+37,"Warren County,Ohio","Gallatin County,Kentucky",4492,115446
+38,"Warren County,Ohio","Garrard County,Kentucky",9516,262425
+39,"Warren County,Ohio","Grant County,Kentucky",4559,115920
+40,"Warren County,Ohio","Graves County,Kentucky",19654,584920
+41,"Warren County,Ohio","Grayson County,Kentucky",11720,338390
+42,"Warren County,Ohio","Green County,Kentucky",12407,344385
+43,"Warren County,Ohio","Greenup County,Kentucky",8966,190000
+44,"Warren County,Ohio","Hancock County,Kentucky",12250,341084
+45,"Warren County,Ohio","Hardin County,Kentucky",10596,300522
+46,"Warren County,Ohio","Harlan County,Kentucky",16052,435182
+47,"Warren County,Ohio","Harrison County,Kentucky",5995,149983
+48,"Warren County,Ohio","Hart County,Kentucky",11395,328151
+49,"Warren County,Ohio","Henderson County,Kentucky",14949,429061
+50,"Warren County,Ohio","Henry County,Kentucky",6466,171356
+51,"Warren County,Ohio","Hickman County,Kentucky",20663,613506
+52,"Warren County,Ohio","Hopkins County,Kentucky",15743,462167
+53,"Warren County,Ohio","Jackson County,Kentucky",10501,282408
+54,"Warren County,Ohio","Jefferson County,Kentucky",7682,213515
+55,"Warren County,Ohio","Jessamine County,Kentucky",7747,206378
+56,"Warren County,Ohio","Johnson County,Kentucky",12264,352055
+57,"Warren County,Ohio","Kenton County,Kentucky",3352,74825
+58,"Warren County,Ohio","Knott County,Kentucky",13583,379410
+59,"Warren County,Ohio","Knox County,Kentucky",11919,341318
+60,"Warren County,Ohio","Larue County,Kentucky",10665,304122
+61,"Warren County,Ohio","Laurel County,Kentucky",10770,312713
+62,"Warren County,Ohio","Lawrence County,Kentucky",12523,293046
+63,"Warren County,Ohio","Lee County,Kentucky",10373,292489
+64,"Warren County,Ohio","Leslie County,Kentucky",13939,389745
+65,"Warren County,Ohio","Letcher County,Kentucky",14836,404383
+66,"Warren County,Ohio","Lewis County,Kentucky",8223,191198
+67,"Warren County,Ohio","Lincoln County,Kentucky",10226,279344
+68,"Warren County,Ohio","Livingston County,Kentucky",18460,537666
+69,"Warren County,Ohio","Logan County,Kentucky",15133,424992
+70,"Warren County,Ohio","Lyon County,Kentucky",18593,548057
+71,"Warren County,Ohio","McCracken County,Kentucky",18785,564906
+72,"Warren County,Ohio","McCreary County,Kentucky",12875,357154
+73,"Warren County,Ohio","Madison County,Kentucky",7909,226295
+74,"Warren County,Ohio","Magoffin County,Kentucky",11733,333922
+75,"Warren County,Ohio","Marion County,Kentucky",10246,282895
+76,"Warren County,Ohio","Marshall County,Kentucky",18199,548478
+77,"Warren County,Ohio","Martin County,Kentucky",14317,343301
+78,"Warren County,Ohio","Mason County,Kentucky",5828,141850
+79,"Warren County,Ohio","Meade County,Kentucky",10129,280756
+80,"Warren County,Ohio","Menifee County,Kentucky",9798,264389
+81,"Warren County,Ohio","Mercer County,Kentucky",8622,238606
+82,"Warren County,Ohio","Metcalfe County,Kentucky",13591,393189
+83,"Warren County,Ohio","Monroe County,Kentucky",14487,416772
+84,"Warren County,Ohio","Montgomery County,Kentucky",8441,242298
+85,"Warren County,Ohio","Morgan County,Kentucky",11123,322207
+86,"Warren County,Ohio","Muhlenberg County,Kentucky",14603,428643
+87,"Warren County,Ohio","Nelson County,Kentucky",9853,281966
+88,"Warren County,Ohio","Nicholas County,Kentucky",7526,187442
+89,"Warren County,Ohio","Ohio County,Kentucky",13516,396233
+90,"Warren County,Ohio","Oldham County,Kentucky",6581,184461
+91,"Warren County,Ohio","Owen County,Kentucky",5724,141835
+92,"Warren County,Ohio","Owsley County,Kentucky",11519,312465
+93,"Warren County,Ohio","Pendleton County,Kentucky",4500,101594
+94,"Warren County,Ohio","Perry County,Kentucky",12735,355915
+95,"Warren County,Ohio","Pike County,Kentucky",14990,406386
+96,"Warren County,Ohio","Powell County,Kentucky",8734,251157
+97,"Warren County,Ohio","Robertson County,Kentucky",6423,145588
+98,"Warren County,Ohio","Rockcastle County,Kentucky",9343,267437
+99,"Warren County,Ohio","Rowan County,Kentucky",8855,212904
+100,"Warren County,Ohio","Russell County,Kentucky",12909,358723
+101,"Warren County,Ohio","Scott County,Kentucky",5488,150440
+102,"Warren County,Ohio","Shelby County,Kentucky",7837,198346
+103,"Warren County,Ohio","Simpson County,Kentucky",14714,433049
+104,"Warren County,Ohio","Spencer County,Kentucky",8796,243135
+105,"Warren County,Ohio","Taylor County,Kentucky",11535,314391
+106,"Warren County,Ohio","Todd County,Kentucky",16369,449152
+107,"Warren County,Ohio","Trigg County,Kentucky",17347,508885
+108,"Warren County,Ohio","Trimble County,Kentucky",6179,166357
+109,"Warren County,Ohio","Union County,Kentucky",16668,459507
+110,"Warren County,Ohio","Warren County,Kentucky",13749,397998
+111,"Warren County,Ohio","Washington County,Kentucky",9863,267203
+112,"Warren County,Ohio","Wayne County,Kentucky",13084,355796
+113,"Warren County,Ohio","Webster County,Kentucky",16592,465683
+114,"Warren County,Ohio","Whitley County,Kentucky",11603,347198
+115,"Warren County,Ohio","Wolfe County,Kentucky",9998,289028
+116,"Warren County,Ohio","Woodford County,Kentucky",7100,198698
+117,"Warren County,Ohio","Adams County,Ohio",5096,103208
+118,"Warren County,Ohio","Allen County,Ohio",6755,174120
+119,"Warren County,Ohio","Ashland County,Ohio",9203,267101
+120,"Warren County,Ohio","Ashtabula County,Ohio",14949,451852
+121,"Warren County,Ohio","Athens County,Ohio",8330,235764
+122,"Warren County,Ohio","Auglaize County,Ohio",6011,161385
+123,"Warren County,Ohio","Belmont County,Ohio",10541,313533
+124,"Warren County,Ohio","Brown County,Ohio",4309,79734
+125,"Warren County,Ohio","Butler County,Ohio",2331,35359
+126,"Warren County,Ohio","Carroll County,Ohio",12505,350756
+127,"Warren County,Ohio","Champaign County,Ohio",4638,102633
+128,"Warren County,Ohio","Clark County,Ohio",3883,82061
+129,"Warren County,Ohio","Clermont County,Ohio",2511,55384
+130,"Warren County,Ohio","Clinton County,Ohio",1937,37582
+131,"Warren County,Ohio","Columbiana County,Ohio",14062,386345
+132,"Warren County,Ohio","Coshocton County,Ohio",9064,246173
+133,"Warren County,Ohio","Crawford County,Ohio",8817,235558
+134,"Warren County,Ohio","Cuyahoga County,Ohio",11521,349565
+135,"Warren County,Ohio","Darke County,Ohio",5109,118432
+136,"Warren County,Ohio","Defiance County,Ohio",10243,252551
+137,"Warren County,Ohio","Delaware County,Ohio",6120,173773
+138,"Warren County,Ohio","Fairfield County,Ohio",5524,157022
+139,"Warren County,Ohio","Fayette County,Ohio",2836,75187
+140,"Warren County,Ohio","Franklin County,Ohio",4638,133700
+141,"Warren County,Ohio","Fulton County,Ohio",11006,269494
+142,"Warren County,Ohio","Gallia County,Ohio",7241,204838
+143,"Warren County,Ohio","Geauga County,Ohio",13050,388784
+144,"Warren County,Ohio","Greene County,Ohio",1980,43640
+145,"Warren County,Ohio","Guernsey County,Ohio",8270,247214
+146,"Warren County,Ohio","Hamilton County,Ohio",2205,49224
+147,"Warren County,Ohio","Hancock County,Ohio",7864,215016
+148,"Warren County,Ohio","Hardin County,Ohio",7652,199413
+149,"Warren County,Ohio","Harrison County,Ohio",11511,332822
+150,"Warren County,Ohio","Henry County,Ohio",9588,239484
+151,"Warren County,Ohio","Highland County,Ohio",3750,81532
+152,"Warren County,Ohio","Hocking County,Ohio",6961,200426
+153,"Warren County,Ohio","Holmes County,Ohio",10614,283031
+154,"Warren County,Ohio","Huron County,Ohio",10350,265871
+155,"Warren County,Ohio","Jackson County,Ohio",6182,177379
+156,"Warren County,Ohio","Jefferson County,Ohio",12504,342600
+157,"Warren County,Ohio","Knox County,Ohio",8570,233394
+158,"Warren County,Ohio","Lawrence County,Ohio",9864,239452
+159,"Warren County,Ohio","Licking County,Ohio",6902,188618
+160,"Warren County,Ohio","Logan County,Ohio",6061,128397
+161,"Warren County,Ohio","Lorain County,Ohio",12135,324525
+162,"Warren County,Ohio","Lucas County,Ohio",11189,301536
+163,"Warren County,Ohio","Madison County,Ohio",4057,110369
+164,"Warren County,Ohio","Mahoning County,Ohio",13919,403484
+165,"Warren County,Ohio","Marion County,Ohio",7377,194389
+166,"Warren County,Ohio","Medina County,Ohio",9848,292114
+167,"Warren County,Ohio","Meigs County,Ohio",9063,244617
+168,"Warren County,Ohio","Mercer County,Ohio",7247,188319
+169,"Warren County,Ohio","Miami County,Ohio",3597,83824
+170,"Warren County,Ohio","Monroe County,Ohio",11946,328097
+171,"Warren County,Ohio","Montgomery County,Ohio",2980,61564
+172,"Warren County,Ohio","Morgan County,Ohio",9335,255710
+173,"Warren County,Ohio","Morrow County,Ohio",6928,196593
+174,"Warren County,Ohio","Muskingum County,Ohio",7121,213370
+175,"Warren County,Ohio","Noble County,Ohio",9969,284333
+176,"Warren County,Ohio","Paulding County,Ohio",9286,237098
+177,"Warren County,Ohio","Perry County,Ohio",7189,201953
+178,"Warren County,Ohio","Pickaway County,Ohio",4772,123783
+179,"Warren County,Ohio","Pike County,Ohio",5751,158059
+180,"Warren County,Ohio","Portage County,Ohio",12370,363263
+181,"Warren County,Ohio","Preble County,Ohio",4101,66423
+182,"Warren County,Ohio","Putnam County,Ohio",7930,206588
+183,"Warren County,Ohio","Richland County,Ohio",7957,231832
+184,"Warren County,Ohio","Ross County,Ohio",4416,123100
+185,"Warren County,Ohio","Sandusky County,Ohio",10904,295092
+186,"Warren County,Ohio","Scioto County,Ohio",6710,181513
+187,"Warren County,Ohio","Seneca County,Ohio",10209,271355
+188,"Warren County,Ohio","Shelby County,Ohio",4636,120110
+189,"Warren County,Ohio","Stark County,Ohio",12115,347647
+190,"Warren County,Ohio","Summit County,Ohio",11051,327441
+191,"Warren County,Ohio","Trumbull County,Ohio",13952,413755
+192,"Warren County,Ohio","Tuscarawas County,Ohio",10565,306578
+193,"Warren County,Ohio","Union County,Ohio",5639,137003
+194,"Warren County,Ohio","Van Wert County,Ohio",7920,206644
+195,"Warren County,Ohio","Vinton County,Ohio",6599,171853
+196,"Warren County,Ohio","Washington County,Ohio",11153,325278
+197,"Warren County,Ohio","Wayne County,Ohio",9576,281111
+198,"Warren County,Ohio","Williams County,Ohio",11420,276067
+199,"Warren County,Ohio","Wood County,Ohio",8952,255644
+200,"Warren County,Ohio","Wyandot County,Ohio",8560,235896
+201,"Warren County,Ohio","Accomack County,Virginia",37754,1075404
+202,"Warren County,Ohio","Albemarle County,Virginia",23933,694816
+203,"Warren County,Ohio","Alleghany County,Virginia",18602,531839
+204,"Warren County,Ohio","Amelia County,Virginia",28634,794934
+205,"Warren County,Ohio","Amherst County,Virginia",23931,662805
+206,"Warren County,Ohio","Appomattox County,Virginia",25524,701564
+207,"Warren County,Ohio","Arlington County,Virginia",26618,792331
+208,"Warren County,Ohio","Augusta County,Virginia",22544,633155
+209,"Warren County,Ohio","Bath County,Virginia",21614,607149
+210,"Warren County,Ohio","Bedford County,Virginia",24191,648930
+211,"Warren County,Ohio","Bland County,Virginia",17564,498059
+212,"Warren County,Ohio","Botetourt County,Virginia",21757,603138
+213,"Warren County,Ohio","Brunswick County,Virginia",31177,844607
+214,"Warren County,Ohio","Buchanan County,Virginia",19042,485892
+215,"Warren County,Ohio","Buckingham County,Virginia",25807,712499
+216,"Warren County,Ohio","Campbell County,Virginia",25448,704036
+217,"Warren County,Ohio","Caroline County,Virginia",29272,863662
+218,"Warren County,Ohio","Carroll County,Virginia",19810,567496
+219,"Warren County,Ohio","Charles City County,Virginia",29373,860696
+220,"Warren County,Ohio","Charlotte County,Virginia",27409,755085
+221,"Warren County,Ohio","Chesterfield County,Virginia",28509,838480
+222,"Warren County,Ohio","Clarke County,Virginia",24730,692967
+223,"Warren County,Ohio","Craig County,Virginia",20245,552924
+224,"Warren County,Ohio","Culpeper County,Virginia",27730,784032
+225,"Warren County,Ohio","Cumberland County,Virginia",27017,740502
+226,"Warren County,Ohio","Dickenson County,Virginia",18396,471329
+227,"Warren County,Ohio","Dinwiddie County,Virginia",30256,888912
+228,"Warren County,Ohio","Essex County,Virginia",31090,887704
+229,"Warren County,Ohio","Fairfax County,Virginia",26308,782998
+230,"Warren County,Ohio","Fauquier County,Virginia",26481,759132
+231,"Warren County,Ohio","Floyd County,Virginia",21431,586460
+232,"Warren County,Ohio","Fluvanna County,Virginia",25611,746988
+233,"Warren County,Ohio","Franklin County,Virginia",23704,650163
+234,"Warren County,Ohio","Frederick County,Virginia",23520,667688
+235,"Warren County,Ohio","Giles County,Virginia",18295,509617
+236,"Warren County,Ohio","Gloucester County,Virginia",31544,914885
+237,"Warren County,Ohio","Goochland County,Virginia",26515,777599
+238,"Warren County,Ohio","Grayson County,Virginia",20212,557203
+239,"Warren County,Ohio","Greene County,Virginia",25926,730400
+240,"Warren County,Ohio","Greensville County,Virginia",31672,937663
+241,"Warren County,Ohio","Halifax County,Virginia",28113,765183
+242,"Warren County,Ohio","Hanover County,Virginia",27721,818705
+243,"Warren County,Ohio","Henrico County,Virginia",28232,831665
+244,"Warren County,Ohio","Henry County,Virginia",23683,654217
+245,"Warren County,Ohio","Highland County,Virginia",23058,617119
+246,"Warren County,Ohio","Isle of Wight County,Virginia",32485,936242
+247,"Warren County,Ohio","James City County,Virginia",30609,901467
+248,"Warren County,Ohio","King and Queen County,Virginia",30267,877051
+249,"Warren County,Ohio","King George County,Virginia",30386,891648
+250,"Warren County,Ohio","King William County,Virginia",28955,846973
+251,"Warren County,Ohio","Lancaster County,Virginia",32747,930059
+252,"Warren County,Ohio","Lee County,Virginia",16849,456136
+253,"Warren County,Ohio","Loudoun County,Virginia",26226,728833
+254,"Warren County,Ohio","Louisa County,Virginia",26172,760694
+255,"Warren County,Ohio","Lunenburg County,Virginia",29181,796369
+256,"Warren County,Ohio","Madison County,Virginia",26846,760141
+257,"Warren County,Ohio","Mathews County,Virginia",32368,938308
+258,"Warren County,Ohio","Mecklenburg County,Virginia",30172,809493
+259,"Warren County,Ohio","Middlesex County,Virginia",31145,911085
+260,"Warren County,Ohio","Montgomery County,Virginia",19378,537624
+261,"Warren County,Ohio","Nelson County,Virginia",24472,674496
+262,"Warren County,Ohio","New Kent County,Virginia",30045,875381
+263,"Warren County,Ohio","Northampton County,Virginia",35026,1018131
+264,"Warren County,Ohio","Northumberland County,Virginia",32787,928571
+265,"Warren County,Ohio","Nottoway County,Virginia",28674,796748
+266,"Warren County,Ohio","Orange County,Virginia",27135,768801
+267,"Warren County,Ohio","Page County,Virginia",25779,743926
+268,"Warren County,Ohio","Patrick County,Virginia",21915,612532
+269,"Warren County,Ohio","Pittsylvania County,Virginia",25999,708425
+270,"Warren County,Ohio","Powhatan County,Virginia",27768,802820
+271,"Warren County,Ohio","Prince Edward County,Virginia",27289,754084
+272,"Warren County,Ohio","Prince George County,Virginia",30020,875495
+273,"Warren County,Ohio","Prince William County,Virginia",26580,765236
+274,"Warren County,Ohio","Pulaski County,Virginia",19473,533955
+275,"Warren County,Ohio","Rappahannock County,Virginia",26792,744269
+276,"Warren County,Ohio","Richmond County,Virginia",31487,901214
+277,"Warren County,Ohio","Roanoke County,Virginia",20998,580417
+278,"Warren County,Ohio","Rockbridge County,Virginia",20935,600195
+279,"Warren County,Ohio","Rockingham County,Virginia",24819,716276
+280,"Warren County,Ohio","Russell County,Virginia",20573,504441
+281,"Warren County,Ohio","Scott County,Virginia",19169,503977
+282,"Warren County,Ohio","Shenandoah County,Virginia",25323,746380
+283,"Warren County,Ohio","Smyth County,Virginia",19922,563411
+284,"Warren County,Ohio","Southampton County,Virginia",32050,933777
+285,"Warren County,Ohio","Spotsylvania County,Virginia",28188,802532
+286,"Warren County,Ohio","Stafford County,Virginia",28282,846285
+287,"Warren County,Ohio","Surry County,Virginia",31352,900329
+288,"Warren County,Ohio","Sussex County,Virginia",30714,904020
+289,"Warren County,Ohio","Tazewell County,Virginia",18380,516646
+290,"Warren County,Ohio","Warren County,Virginia",25335,715627
+291,"Warren County,Ohio","Washington County,Virginia",20794,538046
+292,"Warren County,Ohio","Westmoreland County,Virginia",31360,908473
+293,"Warren County,Ohio","Wise County,Virginia",16660,447228
+294,"Warren County,Ohio","Wythe County,Virginia",18169,516276
+295,"Warren County,Ohio","York County,Virginia",31897,932242
+296,"Warren County,Ohio","Alexandria City County,Virginia",27133,809512
+297,"Warren County,Ohio","Bedford City County,Virginia",23355,640361
+298,"Warren County,Ohio","Bristol City County,Virginia",21122,545304
+299,"Warren County,Ohio","Buena Vista City County,Virginia",21290,614173
+300,"Warren County,Ohio","Charlottesville City County,Virginia",24402,710031
+301,"Warren County,Ohio","Chesapeake City County,Virginia",33360,985147
+302,"Warren County,Ohio","Clifton Forge City County,Virginia",19146,552046
+303,"Warren County,Ohio","Colonial Heights City County,Virginia",29069,854372
+304,"Warren County,Ohio","Covington City County,Virginia",18671,535424
+305,"Warren County,Ohio","Danville City County,Virginia",25841,708673
+306,"Warren County,Ohio","Emporia City County,Virginia",31380,924257
+307,"Warren County,Ohio","Fairfax City County,Virginia",26779,794631
+308,"Warren County,Ohio","Falls Church City County,Virginia",26326,786643
+309,"Warren County,Ohio","Franklin City County,Virginia",32597,941632
+310,"Warren County,Ohio","Fredericksburg City County,Virginia",29096,861875
+311,"Warren County,Ohio","Galax City County,Virginia",20433,573362
+312,"Warren County,Ohio","Hampton City County,Virginia",31847,941948
+313,"Warren County,Ohio","Harrisonburg City County,Virginia",23878,696172
+314,"Warren County,Ohio","Hopewell City County,Virginia",29105,853339
+315,"Warren County,Ohio","Lexington City County,Virginia",20924,602664
+316,"Warren County,Ohio","Lynchburg City County,Virginia",24507,677778
+317,"Warren County,Ohio","Manassas City County,Virginia",26808,770180
+318,"Warren County,Ohio","Manassas Park City County,Virginia",27310,776523
+319,"Warren County,Ohio","Martinsville City County,Virginia",24211,663010
+320,"Warren County,Ohio","Newport News City County,Virginia",31403,928434
+321,"Warren County,Ohio","Norfolk City County,Virginia",33153,967364
+322,"Warren County,Ohio","Norton City County,Virginia",17289,459039
+323,"Warren County,Ohio","Petersburg City County,Virginia",28940,855360
+324,"Warren County,Ohio","Poquoson City County,Virginia",32075,939010
+325,"Warren County,Ohio","Portsmouth City County,Virginia",33092,976185
+326,"Warren County,Ohio","Radford County,Virginia",19786,535664
+327,"Warren County,Ohio","Richmond City County,Virginia",27808,819475
+328,"Warren County,Ohio","Roanoke City County,Virginia",21600,600522
+329,"Warren County,Ohio","Salem City County,Virginia",21012,587072
+330,"Warren County,Ohio","South Boston City County,Virginia",27853,762851
+331,"Warren County,Ohio","Staunton City County,Virginia",22695,657307
+332,"Warren County,Ohio","Suffolk City County,Virginia",33327,950966
+333,"Warren County,Ohio","Virginia Beach City County,Virginia",33714,990622
+334,"Warren County,Ohio","Waynesboro City County,Virginia",23033,670026
+335,"Warren County,Ohio","Williamsburg City County,Virginia",30448,900683
+336,"Warren County,Ohio","Winchester City County,Virginia",23659,671492
+337,"Warren County,Ohio","Barbour County,West Virginia",16637,456690
+338,"Warren County,Ohio","Berkeley County,West Virginia",23072,670348
+339,"Warren County,Ohio","Boone County,West Virginia",13917,364323
+340,"Warren County,Ohio","Braxton County,West Virginia",15428,421685
+341,"Warren County,Ohio","Brooke County,West Virginia",12620,355780
+342,"Warren County,Ohio","Cabell County,West Virginia",10617,265280
+343,"Warren County,Ohio","Calhoun County,West Virginia",14051,347664
+344,"Warren County,Ohio","Clay County,West Virginia",14195,392598
+345,"Warren County,Ohio","Doddridge County,West Virginia",13624,382407
+346,"Warren County,Ohio","Fayette County,West Virginia",15482,410942
+347,"Warren County,Ohio","Gilmer County,West Virginia",15329,372166
+348,"Warren County,Ohio","Grant County,West Virginia",21447,601157
+349,"Warren County,Ohio","Greenbrier County,West Virginia",18557,488981
+350,"Warren County,Ohio","Hampshire County,West Virginia",22327,631952
+351,"Warren County,Ohio","Hancock County,West Virginia",14209,390316
+352,"Warren County,Ohio","Hardy County,West Virginia",22533,633758
+353,"Warren County,Ohio","Harrison County,West Virginia",14707,415401
+354,"Warren County,Ohio","Jackson County,West Virginia",10498,279008
+355,"Warren County,Ohio","Jefferson County,West Virginia",24538,726346
+356,"Warren County,Ohio","Kanawha County,West Virginia",12791,345006
+357,"Warren County,Ohio","Lewis County,West Virginia",16400,417552
+358,"Warren County,Ohio","Lincoln County,West Virginia",13357,342614
+359,"Warren County,Ohio","Logan County,West Virginia",14846,401441
+360,"Warren County,Ohio","McDowell County,West Virginia",19153,492318
+361,"Warren County,Ohio","Marion County,West Virginia",16644,458524
+362,"Warren County,Ohio","Marshall County,West Virginia",12577,350288
+363,"Warren County,Ohio","Mason County,West Virginia",8272,239302
+364,"Warren County,Ohio","Mercer County,West Virginia",16118,456565
+365,"Warren County,Ohio","Mineral County,West Virginia",21206,606503
+366,"Warren County,Ohio","Mingo County,West Virginia",14891,405949
+367,"Warren County,Ohio","Monongalia County,West Virginia",15729,471195
+368,"Warren County,Ohio","Monroe County,West Virginia",19163,501277
+369,"Warren County,Ohio","Morgan County,West Virginia",22564,659740
+370,"Warren County,Ohio","Nicholas County,West Virginia",15911,452478
+371,"Warren County,Ohio","Ohio County,West Virginia",11638,337018
+372,"Warren County,Ohio","Pendleton County,West Virginia",23023,615212
+373,"Warren County,Ohio","Pleasants County,West Virginia",12447,354966
+374,"Warren County,Ohio","Pocahontas County,West Virginia",21240,522017
+375,"Warren County,Ohio","Preston County,West Virginia",17966,502980
+376,"Warren County,Ohio","Putnam County,West Virginia",9907,279325
+377,"Warren County,Ohio","Raleigh County,West Virginia",14659,410258
+378,"Warren County,Ohio","Randolph County,West Virginia",18701,513338
+379,"Warren County,Ohio","Ritchie County,West Virginia",12789,355449
+380,"Warren County,Ohio","Roane County,West Virginia",12124,307824
+381,"Warren County,Ohio","Summers County,West Virginia",18111,471696
+382,"Warren County,Ohio","Taylor County,West Virginia",16536,454096
+383,"Warren County,Ohio","Tucker County,West Virginia",19202,507418
+384,"Warren County,Ohio","Tyler County,West Virginia",14326,393637
+385,"Warren County,Ohio","Upshur County,West Virginia",17676,487779
+386,"Warren County,Ohio","Wayne County,West Virginia",12445,300543
+387,"Warren County,Ohio","Webster County,West Virginia",18096,479558
+388,"Warren County,Ohio","Wetzel County,West Virginia",15011,409736
+389,"Warren County,Ohio","Wirt County,West Virginia",12212,332084
+390,"Warren County,Ohio","Wood County,West Virginia",10896,306814
+391,"Warren County,Ohio","Wyoming County,West Virginia",16604,450200

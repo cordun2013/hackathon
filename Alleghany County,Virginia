@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Alleghany County,Virginia","Adair County,Kentucky",23234,659681
+1,"Alleghany County,Virginia","Allen County,Kentucky",25853,760329
+2,"Alleghany County,Virginia","Anderson County,Kentucky",19034,562720
+3,"Alleghany County,Virginia","Ballard County,Kentucky",32013,952491
+4,"Alleghany County,Virginia","Barren County,Kentucky",24980,718708
+5,"Alleghany County,Virginia","Bath County,Kentucky",14682,433901
+6,"Alleghany County,Virginia","Bell County,Kentucky",19435,479008
+7,"Alleghany County,Virginia","Boone County,Kentucky",20494,555294
+8,"Alleghany County,Virginia","Bourbon County,Kentucky",16595,480319
+9,"Alleghany County,Virginia","Boyd County,Kentucky",11357,328226
+10,"Alleghany County,Virginia","Boyle County,Kentucky",20263,566607
+11,"Alleghany County,Virginia","Bracken County,Kentucky",17006,474401
+12,"Alleghany County,Virginia","Breathitt County,Kentucky",18068,474928
+13,"Alleghany County,Virginia","Breckinridge County,Kentucky",24568,715401
+14,"Alleghany County,Virginia","Bullitt County,Kentucky",21137,636521
+15,"Alleghany County,Virginia","Butler County,Kentucky",25232,737399
+16,"Alleghany County,Virginia","Caldwell County,Kentucky",28124,843344
+17,"Alleghany County,Virginia","Calloway County,Kentucky",30934,928337
+18,"Alleghany County,Virginia","Campbell County,Kentucky",18707,514273
+19,"Alleghany County,Virginia","Carlisle County,Kentucky",32470,967860
+20,"Alleghany County,Virginia","Carroll County,Kentucky",21579,610535
+21,"Alleghany County,Virginia","Carter County,Kentucky",12522,358323
+22,"Alleghany County,Virginia","Casey County,Kentucky",21758,598112
+23,"Alleghany County,Virginia","Christian County,Kentucky",27773,838601
+24,"Alleghany County,Virginia","Clay County,Kentucky",20567,562042
+25,"Alleghany County,Virginia","Clinton County,Kentucky",23642,663047
+26,"Alleghany County,Virginia","Crittenden County,Kentucky",29704,876415
+27,"Alleghany County,Virginia","Cumberland County,Kentucky",24396,681285
+28,"Alleghany County,Virginia","Daviess County,Kentucky",26255,783842
+29,"Alleghany County,Virginia","Edmonson County,Kentucky",24673,725274
+30,"Alleghany County,Virginia","Elliott County,Kentucky",13852,384093
+31,"Alleghany County,Virginia","Estill County,Kentucky",17674,496217
+32,"Alleghany County,Virginia","Fayette County,Kentucky",16841,500213
+33,"Alleghany County,Virginia","Fleming County,Kentucky",15108,437087
+34,"Alleghany County,Virginia","Floyd County,Kentucky",15490,435491
+35,"Alleghany County,Virginia","Franklin County,Kentucky",18879,549129
+36,"Alleghany County,Virginia","Fulton County,Kentucky",32874,988824
+37,"Alleghany County,Virginia","Gallatin County,Kentucky",20577,601193
+38,"Alleghany County,Virginia","Garrard County,Kentucky",19446,547366
+39,"Alleghany County,Virginia","Grant County,Kentucky",19376,575301
+40,"Alleghany County,Virginia","Graves County,Kentucky",31494,940566
+41,"Alleghany County,Virginia","Grayson County,Kentucky",23560,694035
+42,"Alleghany County,Virginia","Green County,Kentucky",23339,659240
+43,"Alleghany County,Virginia","Greenup County,Kentucky",13133,369352
+44,"Alleghany County,Virginia","Hancock County,Kentucky",25363,748294
+45,"Alleghany County,Virginia","Hardin County,Kentucky",22436,656168
+46,"Alleghany County,Virginia","Harlan County,Kentucky",18038,426634
+47,"Alleghany County,Virginia","Harrison County,Kentucky",18166,513418
+48,"Alleghany County,Virginia","Hart County,Kentucky",23235,683796
+49,"Alleghany County,Virginia","Henderson County,Kentucky",28062,836271
+50,"Alleghany County,Virginia","Henry County,Kentucky",20480,592848
+51,"Alleghany County,Virginia","Hickman County,Kentucky",32503,969151
+52,"Alleghany County,Virginia","Hopkins County,Kentucky",27583,817813
+53,"Alleghany County,Virginia","Jackson County,Kentucky",20347,544225
+54,"Alleghany County,Virginia","Jefferson County,Kentucky",20574,608381
+55,"Alleghany County,Virginia","Jessamine County,Kentucky",18310,521677
+56,"Alleghany County,Virginia","Johnson County,Kentucky",14139,401122
+57,"Alleghany County,Virginia","Kenton County,Kentucky",19864,542988
+58,"Alleghany County,Virginia","Knott County,Kentucky",16672,467373
+59,"Alleghany County,Virginia","Knox County,Kentucky",20940,523816
+60,"Alleghany County,Virginia","Larue County,Kentucky",22508,643344
+61,"Alleghany County,Virginia","Laurel County,Kentucky",20701,597654
+62,"Alleghany County,Virginia","Lawrence County,Kentucky",13280,372546
+63,"Alleghany County,Virginia","Lee County,Kentucky",18519,489953
+64,"Alleghany County,Virginia","Leslie County,Kentucky",19751,537046
+65,"Alleghany County,Virginia","Letcher County,Kentucky",16066,409124
+66,"Alleghany County,Virginia","Lewis County,Kentucky",14560,410141
+67,"Alleghany County,Virginia","Lincoln County,Kentucky",20156,564285
+68,"Alleghany County,Virginia","Livingston County,Kentucky",30300,893311
+69,"Alleghany County,Virginia","Logan County,Kentucky",26973,780637
+70,"Alleghany County,Virginia","Lyon County,Kentucky",30433,903702
+71,"Alleghany County,Virginia","McCracken County,Kentucky",30625,920551
+72,"Alleghany County,Virginia","McCreary County,Kentucky",22484,645053
+73,"Alleghany County,Virginia","Madison County,Kentucky",17840,511236
+74,"Alleghany County,Virginia","Magoffin County,Kentucky",15106,421801
+75,"Alleghany County,Virginia","Marion County,Kentucky",20885,604953
+76,"Alleghany County,Virginia","Marshall County,Kentucky",30040,904123
+77,"Alleghany County,Virginia","Martin County,Kentucky",14394,354270
+78,"Alleghany County,Virginia","Mason County,Kentucky",16355,453947
+79,"Alleghany County,Virginia","Meade County,Kentucky",23035,680696
+80,"Alleghany County,Virginia","Menifee County,Kentucky",15798,445965
+81,"Alleghany County,Virginia","Mercer County,Kentucky",19262,560664
+82,"Alleghany County,Virginia","Metcalfe County,Kentucky",23891,689946
+83,"Alleghany County,Virginia","Monroe County,Kentucky",25860,727450
+84,"Alleghany County,Virginia","Montgomery County,Kentucky",15495,452442
+85,"Alleghany County,Virginia","Morgan County,Kentucky",15576,421681
+86,"Alleghany County,Virginia","Muhlenberg County,Kentucky",26443,784288
+87,"Alleghany County,Virginia","Nelson County,Kentucky",20493,604024
+88,"Alleghany County,Virginia","Nicholas County,Kentucky",17173,480325
+89,"Alleghany County,Virginia","Ohio County,Kentucky",25356,751878
+90,"Alleghany County,Virginia","Oldham County,Kentucky",20646,620263
+91,"Alleghany County,Virginia","Owen County,Kentucky",19701,575906
+92,"Alleghany County,Virginia","Owsley County,Kentucky",19665,509930
+93,"Alleghany County,Virginia","Pendleton County,Kentucky",18944,515326
+94,"Alleghany County,Virginia","Perry County,Kentucky",18051,497930
+95,"Alleghany County,Virginia","Pike County,Kentucky",14590,319516
+96,"Alleghany County,Virginia","Powell County,Kentucky",16938,482187
+97,"Alleghany County,Virginia","Robertson County,Kentucky",17090,479831
+98,"Alleghany County,Virginia","Rockcastle County,Kentucky",19274,552379
+99,"Alleghany County,Virginia","Rowan County,Kentucky",13824,406109
+100,"Alleghany County,Virginia","Russell County,Kentucky",22839,643665
+101,"Alleghany County,Virginia","Scott County,Kentucky",17676,528240
+102,"Alleghany County,Virginia","Shelby County,Kentucky",19503,579516
+103,"Alleghany County,Virginia","Simpson County,Kentucky",26554,788695
+104,"Alleghany County,Virginia","Spencer County,Kentucky",20032,585364
+105,"Alleghany County,Virginia","Taylor County,Kentucky",22175,636449
+106,"Alleghany County,Virginia","Todd County,Kentucky",28209,804798
+107,"Alleghany County,Virginia","Trigg County,Kentucky",29187,864530
+108,"Alleghany County,Virginia","Trimble County,Kentucky",21719,626302
+109,"Alleghany County,Virginia","Union County,Kentucky",29782,866718
+110,"Alleghany County,Virginia","Warren County,Kentucky",25589,753643
+111,"Alleghany County,Virginia","Washington County,Kentucky",20503,589261
+112,"Alleghany County,Virginia","Wayne County,Kentucky",23015,640737
+113,"Alleghany County,Virginia","Webster County,Kentucky",28692,845901
+114,"Alleghany County,Virginia","Whitley County,Kentucky",21088,629815
+115,"Alleghany County,Virginia","Wolfe County,Kentucky",16671,445042
+116,"Alleghany County,Virginia","Woodford County,Kentucky",17895,530876
+117,"Alleghany County,Virginia","Adams County,Ohio",16448,456504
+118,"Alleghany County,Virginia","Allen County,Ohio",23180,631921
+119,"Alleghany County,Virginia","Ashland County,Ohio",20924,585812
+120,"Alleghany County,Virginia","Ashtabula County,Ohio",22955,641616
+121,"Alleghany County,Virginia","Athens County,Ohio",12856,362103
+122,"Alleghany County,Virginia","Auglaize County,Ohio",22430,648621
+123,"Alleghany County,Virginia","Belmont County,Ohio",16675,495635
+124,"Alleghany County,Virginia","Brown County,Ohio",17692,483431
+125,"Alleghany County,Virginia","Butler County,Ohio",20805,565457
+126,"Alleghany County,Virginia","Carroll County,Ohio",18605,532521
+127,"Alleghany County,Virginia","Champaign County,Ohio",19734,550718
+128,"Alleghany County,Virginia","Clark County,Ohio",18413,510263
+129,"Alleghany County,Virginia","Clermont County,Ohio",18526,514528
+130,"Alleghany County,Virginia","Clinton County,Ohio",17917,497944
+131,"Alleghany County,Virginia","Columbiana County,Ohio",19558,493549
+132,"Alleghany County,Virginia","Coshocton County,Ohio",17240,503637
+133,"Alleghany County,Virginia","Crawford County,Ohio",21532,596973
+134,"Alleghany County,Virginia","Cuyahoga County,Ohio",20641,617925
+135,"Alleghany County,Virginia","Darke County,Ohio",21528,605668
+136,"Alleghany County,Virginia","Defiance County,Ohio",26616,710242
+137,"Alleghany County,Virginia","Delaware County,Ohio",18686,529710
+138,"Alleghany County,Virginia","Fairfield County,Ohio",16216,456804
+139,"Alleghany County,Virginia","Fayette County,Ohio",16481,468408
+140,"Alleghany County,Virginia","Franklin County,Ohio",17216,486659
+141,"Alleghany County,Virginia","Fulton County,Ohio",26622,752541
+142,"Alleghany County,Virginia","Gallia County,Ohio",11794,327520
+143,"Alleghany County,Virginia","Geauga County,Ohio",21712,643642
+144,"Alleghany County,Virginia","Greene County,Ohio",17351,501560
+145,"Alleghany County,Virginia","Guernsey County,Ohio",14790,441556
+146,"Alleghany County,Virginia","Hamilton County,Ohio",20306,576035
+147,"Alleghany County,Virginia","Hancock County,Ohio",22709,638065
+148,"Alleghany County,Virginia","Hardin County,Ohio",21691,587751
+149,"Alleghany County,Virginia","Harrison County,Ohio",17610,514586
+150,"Alleghany County,Virginia","Henry County,Ohio",25422,709686
+151,"Alleghany County,Virginia","Highland County,Ohio",16985,456517
+152,"Alleghany County,Virginia","Hocking County,Ohio",14658,412767
+153,"Alleghany County,Virginia","Holmes County,Ohio",18299,526522
+154,"Alleghany County,Virginia","Huron County,Ohio",22822,627441
+155,"Alleghany County,Virginia","Jackson County,Ohio",12972,367069
+156,"Alleghany County,Virginia","Jefferson County,Ohio",18305,468519
+157,"Alleghany County,Virginia","Knox County,Ohio",19028,546113
+158,"Alleghany County,Virginia","Lawrence County,Ohio",12497,333282
+159,"Alleghany County,Virginia","Licking County,Ohio",18161,483813
+160,"Alleghany County,Virginia","Logan County,Ohio",20712,582028
+161,"Alleghany County,Virginia","Lorain County,Ohio",21865,647748
+162,"Alleghany County,Virginia","Lucas County,Ohio",26344,725564
+163,"Alleghany County,Virginia","Madison County,Ohio",18182,491492
+164,"Alleghany County,Virginia","Mahoning County,Ohio",19441,531608
+165,"Alleghany County,Virginia","Marion County,Ohio",20092,555803
+166,"Alleghany County,Virginia","Medina County,Ohio",20314,603956
+167,"Alleghany County,Virginia","Meigs County,Ohio",11737,333073
+168,"Alleghany County,Virginia","Mercer County,Ohio",23666,675555
+169,"Alleghany County,Virginia","Miami County,Ohio",20016,571060
+170,"Alleghany County,Virginia","Monroe County,Ohio",15726,430748
+171,"Alleghany County,Virginia","Montgomery County,Ohio",19385,549016
+172,"Alleghany County,Virginia","Morgan County,Ohio",14732,417396
+173,"Alleghany County,Virginia","Morrow County,Ohio",19493,552530
+174,"Alleghany County,Virginia","Muskingum County,Ohio",15636,469548
+175,"Alleghany County,Virginia","Noble County,Ohio",14232,413908
+176,"Alleghany County,Virginia","Paulding County,Ohio",25717,707827
+177,"Alleghany County,Virginia","Perry County,Ohio",16074,427523
+178,"Alleghany County,Virginia","Pickaway County,Ohio",15921,448507
+179,"Alleghany County,Virginia","Pike County,Ohio",14418,406375
+180,"Alleghany County,Virginia","Portage County,Ohio",20163,599507
+181,"Alleghany County,Virginia","Preble County,Ohio",21005,577594
+182,"Alleghany County,Virginia","Putnam County,Ohio",24303,664280
+183,"Alleghany County,Virginia","Richland County,Ohio",20523,587769
+184,"Alleghany County,Virginia","Ross County,Ohio",14666,414813
+185,"Alleghany County,Virginia","Sandusky County,Ohio",24465,656760
+186,"Alleghany County,Virginia","Scioto County,Ohio",14302,390556
+187,"Alleghany County,Virginia","Seneca County,Ohio",23082,630644
+188,"Alleghany County,Virginia","Shelby County,Ohio",21054,607345
+189,"Alleghany County,Virginia","Stark County,Ohio",18464,547756
+190,"Alleghany County,Virginia","Summit County,Ohio",19222,573544
+191,"Alleghany County,Virginia","Trumbull County,Ohio",20599,569072
+192,"Alleghany County,Virginia","Tuscarawas County,Ohio",16664,488343
+193,"Alleghany County,Virginia","Union County,Ohio",19216,532259
+194,"Alleghany County,Virginia","Van Wert County,Ohio",24414,674791
+195,"Alleghany County,Virginia","Vinton County,Ohio",14867,392574
+196,"Alleghany County,Virginia","Warren County,Ohio",18723,532003
+197,"Alleghany County,Virginia","Washington County,Ohio",13091,371845
+198,"Alleghany County,Virginia","Wayne County,Ohio",19435,550634
+199,"Alleghany County,Virginia","Williams County,Ohio",27793,733758
+200,"Alleghany County,Virginia","Wood County,Ohio",24107,679672
+201,"Alleghany County,Virginia","Wyandot County,Ohio",21679,602200
+202,"Alleghany County,Virginia","Accomack County,Virginia",20054,560952
+203,"Alleghany County,Virginia","Albemarle County,Virginia",6204,173452
+204,"Alleghany County,Virginia","Amelia County,Virginia",10904,273570
+205,"Alleghany County,Virginia","Amherst County,Virginia",6202,141441
+206,"Alleghany County,Virginia","Appomattox County,Virginia",7795,180200
+207,"Alleghany County,Virginia","Arlington County,Virginia",12888,373761
+208,"Alleghany County,Virginia","Augusta County,Virginia",4814,111791
+209,"Alleghany County,Virginia","Bath County,Virginia",3644,59514
+210,"Alleghany County,Virginia","Bedford County,Virginia",6859,145461
+211,"Alleghany County,Virginia","Bland County,Virginia",7555,213005
+212,"Alleghany County,Virginia","Botetourt County,Virginia",4027,81774
+213,"Alleghany County,Virginia","Brunswick County,Virginia",13447,323243
+214,"Alleghany County,Virginia","Buchanan County,Virginia",11550,297234
+215,"Alleghany County,Virginia","Buckingham County,Virginia",8077,191135
+216,"Alleghany County,Virginia","Campbell County,Virginia",7718,182672
+217,"Alleghany County,Virginia","Caroline County,Virginia",11543,342297
+218,"Alleghany County,Virginia","Carroll County,Virginia",9163,240892
+219,"Alleghany County,Virginia","Charles City County,Virginia",11643,339332
+220,"Alleghany County,Virginia","Charlotte County,Virginia",9679,233720
+221,"Alleghany County,Virginia","Chesterfield County,Virginia",10779,317116
+222,"Alleghany County,Virginia","Clarke County,Virginia",10383,300510
+223,"Alleghany County,Virginia","Craig County,Virginia",5045,88410
+224,"Alleghany County,Virginia","Culpeper County,Virginia",10001,262668
+225,"Alleghany County,Virginia","Cumberland County,Virginia",9287,219137
+226,"Alleghany County,Virginia","Dickenson County,Virginia",14230,337338
+227,"Alleghany County,Virginia","Dinwiddie County,Virginia",12526,367547
+228,"Alleghany County,Virginia","Essex County,Virginia",13360,366340
+229,"Alleghany County,Virginia","Fairfax County,Virginia",12511,364037
+230,"Alleghany County,Virginia","Fauquier County,Virginia",10822,321761
+231,"Alleghany County,Virginia","Floyd County,Virginia",7690,182439
+232,"Alleghany County,Virginia","Fluvanna County,Virginia",7882,225623
+233,"Alleghany County,Virginia","Franklin County,Virginia",7027,160884
+234,"Alleghany County,Virginia","Frederick County,Virginia",9835,288236
+235,"Alleghany County,Virginia","Giles County,Virginia",6228,109101
+236,"Alleghany County,Virginia","Gloucester County,Virginia",13814,393520
+237,"Alleghany County,Virginia","Goochland County,Virginia",8785,256234
+238,"Alleghany County,Virginia","Grayson County,Virginia",10203,272150
+239,"Alleghany County,Virginia","Greene County,Virginia",8196,209036
+240,"Alleghany County,Virginia","Greensville County,Virginia",13942,416299
+241,"Alleghany County,Virginia","Halifax County,Virginia",11039,254378
+242,"Alleghany County,Virginia","Hanover County,Virginia",9991,297341
+243,"Alleghany County,Virginia","Henrico County,Virginia",10503,310301
+244,"Alleghany County,Virginia","Henry County,Virginia",8437,195846
+245,"Alleghany County,Virginia","Highland County,Virginia",4804,89482
+246,"Alleghany County,Virginia","Isle of Wight County,Virginia",14755,414878
+247,"Alleghany County,Virginia","James City County,Virginia",12879,380103
+248,"Alleghany County,Virginia","King and Queen County,Virginia",12537,355687
+249,"Alleghany County,Virginia","King George County,Virginia",12656,370284
+250,"Alleghany County,Virginia","King William County,Virginia",11225,325609
+251,"Alleghany County,Virginia","Lancaster County,Virginia",15018,408694
+252,"Alleghany County,Virginia","Lee County,Virginia",15838,405432
+253,"Alleghany County,Virginia","Loudoun County,Virginia",11879,336376
+254,"Alleghany County,Virginia","Louisa County,Virginia",8442,239329
+255,"Alleghany County,Virginia","Lunenburg County,Virginia",11452,275004
+256,"Alleghany County,Virginia","Madison County,Virginia",9116,238776
+257,"Alleghany County,Virginia","Mathews County,Virginia",14639,416944
+258,"Alleghany County,Virginia","Mecklenburg County,Virginia",12442,288129
+259,"Alleghany County,Virginia","Middlesex County,Virginia",13415,389721
+260,"Alleghany County,Virginia","Montgomery County,Virginia",6394,154862
+261,"Alleghany County,Virginia","Nelson County,Virginia",6742,153132
+262,"Alleghany County,Virginia","New Kent County,Virginia",12315,354017
+263,"Alleghany County,Virginia","Northampton County,Virginia",17297,496766
+264,"Alleghany County,Virginia","Northumberland County,Virginia",15057,407207
+265,"Alleghany County,Virginia","Nottoway County,Virginia",10944,275384
+266,"Alleghany County,Virginia","Orange County,Virginia",9405,247437
+267,"Alleghany County,Virginia","Page County,Virginia",8050,222562
+268,"Alleghany County,Virginia","Patrick County,Virginia",9809,219342
+269,"Alleghany County,Virginia","Pittsylvania County,Virginia",9452,210832
+270,"Alleghany County,Virginia","Powhatan County,Virginia",10038,281456
+271,"Alleghany County,Virginia","Prince Edward County,Virginia",9559,232720
+272,"Alleghany County,Virginia","Prince George County,Virginia",12290,354131
+273,"Alleghany County,Virginia","Prince William County,Virginia",10921,327865
+274,"Alleghany County,Virginia","Pulaski County,Virginia",7122,177495
+275,"Alleghany County,Virginia","Rappahannock County,Virginia",9881,259049
+276,"Alleghany County,Virginia","Richmond County,Virginia",13757,379850
+277,"Alleghany County,Virginia","Roanoke County,Virginia",5385,119801
+278,"Alleghany County,Virginia","Rockbridge County,Virginia",3206,78831
+279,"Alleghany County,Virginia","Rockingham County,Virginia",7089,194912
+280,"Alleghany County,Virginia","Russell County,Virginia",11364,293185
+281,"Alleghany County,Virginia","Scott County,Virginia",14028,361312
+282,"Alleghany County,Virginia","Shenandoah County,Virginia",7594,225015
+283,"Alleghany County,Virginia","Smyth County,Virginia",9913,278357
+284,"Alleghany County,Virginia","Southampton County,Virginia",14320,412413
+285,"Alleghany County,Virginia","Spotsylvania County,Virginia",10458,281168
+286,"Alleghany County,Virginia","Stafford County,Virginia",11840,305461
+287,"Alleghany County,Virginia","Surry County,Virginia",13623,378964
+288,"Alleghany County,Virginia","Sussex County,Virginia",12984,382656
+289,"Alleghany County,Virginia","Tazewell County,Virginia",8371,231592
+290,"Alleghany County,Virginia","Warren County,Virginia",9496,269608
+291,"Alleghany County,Virginia","Washington County,Virginia",11306,317823
+292,"Alleghany County,Virginia","Westmoreland County,Virginia",13630,387108
+293,"Alleghany County,Virginia","Wise County,Virginia",14141,365521
+294,"Alleghany County,Virginia","Wythe County,Virginia",8160,231222
+295,"Alleghany County,Virginia","York County,Virginia",14167,410877
+296,"Alleghany County,Virginia","Alexandria City County,Virginia",13091,386407
+297,"Alleghany County,Virginia","Bedford City County,Virginia",5891,128608
+298,"Alleghany County,Virginia","Bristol City County,Virginia",11781,343541
+299,"Alleghany County,Virginia","Buena Vista City County,Virginia",3560,92808
+300,"Alleghany County,Virginia","Charlottesville City County,Virginia",6673,188666
+301,"Alleghany County,Virginia","Chesapeake City County,Virginia",15630,463783
+302,"Alleghany County,Virginia","Clifton Forge City County,Virginia",1416,30681
+303,"Alleghany County,Virginia","Colonial Heights City County,Virginia",11339,333008
+304,"Alleghany County,Virginia","Covington City County,Virginia",884,13876
+305,"Alleghany County,Virginia","Danville City County,Virginia",10490,231049
+306,"Alleghany County,Virginia","Emporia City County,Virginia",13650,402892
+307,"Alleghany County,Virginia","Fairfax City County,Virginia",12054,353612
+308,"Alleghany County,Virginia","Falls Church City County,Virginia",12386,368085
+309,"Alleghany County,Virginia","Franklin City County,Virginia",14868,420268
+310,"Alleghany County,Virginia","Fredericksburg City County,Virginia",11591,290827
+311,"Alleghany County,Virginia","Galax City County,Virginia",9786,246758
+312,"Alleghany County,Virginia","Hampton City County,Virginia",14117,420584
+313,"Alleghany County,Virginia","Harrisonburg City County,Virginia",6148,174808
+314,"Alleghany County,Virginia","Hopewell City County,Virginia",11376,331974
+315,"Alleghany County,Virginia","Lexington City County,Virginia",3194,81300
+316,"Alleghany County,Virginia","Lynchburg City County,Virginia",6778,156414
+317,"Alleghany County,Virginia","Manassas City County,Virginia",11149,332810
+318,"Alleghany County,Virginia","Manassas Park City County,Virginia",11651,339153
+319,"Alleghany County,Virginia","Martinsville City County,Virginia",8590,190948
+320,"Alleghany County,Virginia","Newport News City County,Virginia",13674,407069
+321,"Alleghany County,Virginia","Norfolk City County,Virginia",15423,446000
+322,"Alleghany County,Virginia","Norton City County,Virginia",13665,356411
+323,"Alleghany County,Virginia","Petersburg City County,Virginia",11211,333996
+324,"Alleghany County,Virginia","Poquoson City County,Virginia",14346,417646
+325,"Alleghany County,Virginia","Portsmouth City County,Virginia",15363,454820
+326,"Alleghany County,Virginia","Radford County,Virginia",6758,164706
+327,"Alleghany County,Virginia","Richmond City County,Virginia",10079,298111
+328,"Alleghany County,Virginia","Roanoke City County,Virginia",4923,111243
+329,"Alleghany County,Virginia","Salem City County,Virginia",4753,109714
+330,"Alleghany County,Virginia","South Boston City County,Virginia",11042,253197
+331,"Alleghany County,Virginia","Staunton City County,Virginia",4965,135943
+332,"Alleghany County,Virginia","Suffolk City County,Virginia",15598,429602
+333,"Alleghany County,Virginia","Virginia Beach City County,Virginia",15984,469258
+334,"Alleghany County,Virginia","Waynesboro City County,Virginia",5303,148661
+335,"Alleghany County,Virginia","Williamsburg City County,Virginia",12718,379319
+336,"Alleghany County,Virginia","Winchester City County,Virginia",9715,284380
+337,"Alleghany County,Virginia","Barbour County,West Virginia",11716,227900
+338,"Alleghany County,Virginia","Berkeley County,West Virginia",11453,331588
+339,"Alleghany County,Virginia","Boone County,West Virginia",9245,210581
+340,"Alleghany County,Virginia","Braxton County,West Virginia",8943,191256
+341,"Alleghany County,Virginia","Brooke County,West Virginia",16611,432070
+342,"Alleghany County,Virginia","Cabell County,West Virginia",10813,306487
+343,"Alleghany County,Virginia","Calhoun County,West Virginia",10714,245206
+344,"Alleghany County,Virginia","Clay County,West Virginia",8978,182039
+345,"Alleghany County,Virginia","Doddridge County,West Virginia",12457,277132
+346,"Alleghany County,Virginia","Fayette County,West Virginia",6367,128778
+347,"Alleghany County,Virginia","Gilmer County,West Virginia",10511,240935
+348,"Alleghany County,Virginia","Grant County,West Virginia",9334,185729
+349,"Alleghany County,Virginia","Greenbrier County,West Virginia",4723,88003
+350,"Alleghany County,Virginia","Hampshire County,West Virginia",11572,302492
+351,"Alleghany County,Virginia","Hancock County,West Virginia",18238,459417
+352,"Alleghany County,Virginia","Hardy County,West Virginia",10274,197321
+353,"Alleghany County,Virginia","Harrison County,West Virginia",11487,286647
+354,"Alleghany County,Virginia","Jackson County,West Virginia",10132,286297
+355,"Alleghany County,Virginia","Jefferson County,West Virginia",11504,318994
+356,"Alleghany County,Virginia","Kanawha County,West Virginia",7895,208280
+357,"Alleghany County,Virginia","Lewis County,West Virginia",10116,240117
+358,"Alleghany County,Virginia","Lincoln County,West Virginia",11477,284165
+359,"Alleghany County,Virginia","Logan County,West Virginia",11036,241070
+360,"Alleghany County,Virginia","McDowell County,West Virginia",9415,215521
+361,"Alleghany County,Virginia","Marion County,West Virginia",12632,313814
+362,"Alleghany County,Virginia","Marshall County,West Virginia",17599,426514
+363,"Alleghany County,Virginia","Mason County,West Virginia",10289,292393
+364,"Alleghany County,Virginia","Mercer County,West Virginia",6109,171511
+365,"Alleghany County,Virginia","Mineral County,West Virginia",11930,231388
+366,"Alleghany County,Virginia","Mingo County,West Virginia",11615,305005
+367,"Alleghany County,Virginia","Monongalia County,West Virginia",12843,339283
+368,"Alleghany County,Virginia","Monroe County,West Virginia",3657,74325
+369,"Alleghany County,Virginia","Morgan County,West Virginia",11698,332714
+370,"Alleghany County,Virginia","Nicholas County,West Virginia",6562,141428
+371,"Alleghany County,Virginia","Ohio County,West Virginia",16518,441016
+372,"Alleghany County,Virginia","Pendleton County,West Virginia",6942,137578
+373,"Alleghany County,Virginia","Pleasants County,West Virginia",13615,384149
+374,"Alleghany County,Virginia","Pocahontas County,West Virginia",6420,125213
+375,"Alleghany County,Virginia","Preston County,West Virginia",13934,261968
+376,"Alleghany County,Virginia","Putnam County,West Virginia",9070,258012
+377,"Alleghany County,Virginia","Raleigh County,West Virginia",4920,133461
+378,"Alleghany County,Virginia","Randolph County,West Virginia",9732,181294
+379,"Alleghany County,Virginia","Ritchie County,West Virginia",13187,287581
+380,"Alleghany County,Virginia","Roane County,West Virginia",11758,315113
+381,"Alleghany County,Virginia","Summers County,West Virginia",5641,113338
+382,"Alleghany County,Virginia","Taylor County,West Virginia",12525,309387
+383,"Alleghany County,Virginia","Tucker County,West Virginia",11646,210526
+384,"Alleghany County,Virginia","Tyler County,West Virginia",15212,355454
+385,"Alleghany County,Virginia","Upshur County,West Virginia",11681,254814
+386,"Alleghany County,Virginia","Wayne County,West Virginia",12404,339113
+387,"Alleghany County,Virginia","Webster County,West Virginia",9314,185917
+388,"Alleghany County,Virginia","Wetzel County,West Virginia",14166,338129
+389,"Alleghany County,Virginia","Wirt County,West Virginia",12398,343635
+390,"Alleghany County,Virginia","Wood County,West Virginia",11913,345325
+391,"Alleghany County,Virginia","Wyoming County,West Virginia",6865,173402

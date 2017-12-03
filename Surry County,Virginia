@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Surry County,Virginia","Adair County,Kentucky",36171,978290
+1,"Surry County,Virginia","Allen County,Kentucky",37567,1098100
+2,"Surry County,Virginia","Anderson County,Kentucky",31799,941076
+3,"Surry County,Virginia","Ballard County,Kentucky",44472,1333355
+4,"Surry County,Virginia","Barren County,Kentucky",37357,1057045
+5,"Surry County,Virginia","Bath County,Kentucky",27446,812257
+6,"Surry County,Virginia","Bell County,Kentucky",28666,779597
+7,"Surry County,Virginia","Boone County,Kentucky",33259,933650
+8,"Surry County,Virginia","Bourbon County,Kentucky",29360,858674
+9,"Surry County,Virginia","Boyd County,Kentucky",24122,706581
+10,"Surry County,Virginia","Boyle County,Kentucky",33028,944962
+11,"Surry County,Virginia","Bracken County,Kentucky",29771,852757
+12,"Surry County,Virginia","Breathitt County,Kentucky",30291,815360
+13,"Surry County,Virginia","Breckinridge County,Kentucky",37332,1093757
+14,"Surry County,Virginia","Bullitt County,Kentucky",33902,1014876
+15,"Surry County,Virginia","Butler County,Kentucky",37997,1115755
+16,"Surry County,Virginia","Caldwell County,Kentucky",40889,1221700
+17,"Surry County,Virginia","Calloway County,Kentucky",42312,1265214
+18,"Surry County,Virginia","Campbell County,Kentucky",31472,892628
+19,"Surry County,Virginia","Carlisle County,Kentucky",44929,1348723
+20,"Surry County,Virginia","Carroll County,Kentucky",34344,988890
+21,"Surry County,Virginia","Carter County,Kentucky",25286,736678
+22,"Surry County,Virginia","Casey County,Kentucky",34522,976467
+23,"Surry County,Virginia","Christian County,Kentucky",39205,1186194
+24,"Surry County,Virginia","Clay County,Kentucky",31239,839939
+25,"Surry County,Virginia","Clinton County,Kentucky",34614,977505
+26,"Surry County,Virginia","Crittenden County,Kentucky",42469,1254770
+27,"Surry County,Virginia","Cumberland County,Kentucky",35494,998173
+28,"Surry County,Virginia","Daviess County,Kentucky",39020,1162197
+29,"Surry County,Virginia","Edmonson County,Kentucky",37437,1103629
+30,"Surry County,Virginia","Elliott County,Kentucky",26617,762448
+31,"Surry County,Virginia","Estill County,Kentucky",30439,874572
+32,"Surry County,Virginia","Fayette County,Kentucky",29606,878568
+33,"Surry County,Virginia","Fleming County,Kentucky",27872,815442
+34,"Surry County,Virginia","Floyd County,Kentucky",28255,813846
+35,"Surry County,Virginia","Franklin County,Kentucky",31644,927485
+36,"Surry County,Virginia","Fulton County,Kentucky",45333,1369688
+37,"Surry County,Virginia","Gallatin County,Kentucky",33341,979549
+38,"Surry County,Virginia","Garrard County,Kentucky",32211,925722
+39,"Surry County,Virginia","Grant County,Kentucky",32140,953656
+40,"Surry County,Virginia","Graves County,Kentucky",43953,1321430
+41,"Surry County,Virginia","Grayson County,Kentucky",36325,1072391
+42,"Surry County,Virginia","Green County,Kentucky",36104,1037596
+43,"Surry County,Virginia","Greenup County,Kentucky",25897,747707
+44,"Surry County,Virginia","Hancock County,Kentucky",38128,1126650
+45,"Surry County,Virginia","Hardin County,Kentucky",35201,1034523
+46,"Surry County,Virginia","Harlan County,Kentucky",27741,756223
+47,"Surry County,Virginia","Harrison County,Kentucky",30931,891774
+48,"Surry County,Virginia","Hart County,Kentucky",36000,1062152
+49,"Surry County,Virginia","Henderson County,Kentucky",40827,1214627
+50,"Surry County,Virginia","Henry County,Kentucky",33245,971203
+51,"Surry County,Virginia","Hickman County,Kentucky",44962,1350015
+52,"Surry County,Virginia","Hopkins County,Kentucky",40348,1196168
+53,"Surry County,Virginia","Jackson County,Kentucky",33111,876358
+54,"Surry County,Virginia","Jefferson County,Kentucky",33339,986737
+55,"Surry County,Virginia","Jessamine County,Kentucky",31075,900032
+56,"Surry County,Virginia","Johnson County,Kentucky",26903,779477
+57,"Surry County,Virginia","Kenton County,Kentucky",32628,921344
+58,"Surry County,Virginia","Knott County,Kentucky",27831,758110
+59,"Surry County,Virginia","Knox County,Kentucky",29997,821589
+60,"Surry County,Virginia","Larue County,Kentucky",35272,1021699
+61,"Surry County,Virginia","Laurel County,Kentucky",31891,856417
+62,"Surry County,Virginia","Lawrence County,Kentucky",26045,750901
+63,"Surry County,Virginia","Lee County,Kentucky",31283,868309
+64,"Surry County,Virginia","Leslie County,Kentucky",29204,784503
+65,"Surry County,Virginia","Letcher County,Kentucky",26232,721657
+66,"Surry County,Virginia","Lewis County,Kentucky",27325,788496
+67,"Surry County,Virginia","Lincoln County,Kentucky",32921,942640
+68,"Surry County,Virginia","Livingston County,Kentucky",42803,1287294
+69,"Surry County,Virginia","Logan County,Kentucky",39638,1139094
+70,"Surry County,Virginia","Lyon County,Kentucky",42559,1264468
+71,"Surry County,Virginia","McCracken County,Kentucky",43084,1301415
+72,"Surry County,Virginia","McCreary County,Kentucky",31621,914351
+73,"Surry County,Virginia","Madison County,Kentucky",30604,889591
+74,"Surry County,Virginia","Magoffin County,Kentucky",27871,800156
+75,"Surry County,Virginia","Marion County,Kentucky",33650,983308
+76,"Surry County,Virginia","Marshall County,Kentucky",42499,1284987
+77,"Surry County,Virginia","Martin County,Kentucky",27159,732625
+78,"Surry County,Virginia","Mason County,Kentucky",29120,832303
+79,"Surry County,Virginia","Meade County,Kentucky",35799,1059052
+80,"Surry County,Virginia","Menifee County,Kentucky",28562,824320
+81,"Surry County,Virginia","Mercer County,Kentucky",32027,939019
+82,"Surry County,Virginia","Metcalfe County,Kentucky",36827,1008555
+83,"Surry County,Virginia","Monroe County,Kentucky",36055,1028594
+84,"Surry County,Virginia","Montgomery County,Kentucky",28259,830797
+85,"Surry County,Virginia","Morgan County,Kentucky",28341,800036
+86,"Surry County,Virginia","Muhlenberg County,Kentucky",39208,1162644
+87,"Surry County,Virginia","Nelson County,Kentucky",33258,982380
+88,"Surry County,Virginia","Nicholas County,Kentucky",29937,858681
+89,"Surry County,Virginia","Ohio County,Kentucky",38121,1130234
+90,"Surry County,Virginia","Oldham County,Kentucky",33410,998618
+91,"Surry County,Virginia","Owen County,Kentucky",32466,954262
+92,"Surry County,Virginia","Owsley County,Kentucky",32428,853234
+93,"Surry County,Virginia","Pendleton County,Kentucky",31709,893681
+94,"Surry County,Virginia","Perry County,Kentucky",28805,778533
+95,"Surry County,Virginia","Pike County,Kentucky",27355,697871
+96,"Surry County,Virginia","Powell County,Kentucky",29703,860543
+97,"Surry County,Virginia","Robertson County,Kentucky",29855,858187
+98,"Surry County,Virginia","Rockcastle County,Kentucky",32038,930734
+99,"Surry County,Virginia","Rowan County,Kentucky",26589,784464
+100,"Surry County,Virginia","Russell County,Kentucky",35776,962274
+101,"Surry County,Virginia","Scott County,Kentucky",30440,906595
+102,"Surry County,Virginia","Shelby County,Kentucky",32268,957871
+103,"Surry County,Virginia","Simpson County,Kentucky",38605,1115070
+104,"Surry County,Virginia","Spencer County,Kentucky",32797,963719
+105,"Surry County,Virginia","Taylor County,Kentucky",34940,1014804
+106,"Surry County,Virginia","Todd County,Kentucky",39621,1179141
+107,"Surry County,Virginia","Trigg County,Kentucky",40113,1203553
+108,"Surry County,Virginia","Trimble County,Kentucky",34484,1004658
+109,"Surry County,Virginia","Union County,Kentucky",42546,1245073
+110,"Surry County,Virginia","Warren County,Kentucky",38354,1131998
+111,"Surry County,Virginia","Washington County,Kentucky",33268,967616
+112,"Surry County,Virginia","Wayne County,Kentucky",34125,961482
+113,"Surry County,Virginia","Webster County,Kentucky",41457,1224257
+114,"Surry County,Virginia","Whitley County,Kentucky",30225,899113
+115,"Surry County,Virginia","Wolfe County,Kentucky",29436,823398
+116,"Surry County,Virginia","Woodford County,Kentucky",30660,909231
+117,"Surry County,Virginia","Adams County,Ohio",29212,834859
+118,"Surry County,Virginia","Allen County,Ohio",35945,1010276
+119,"Surry County,Virginia","Ashland County,Ohio",30699,878678
+120,"Surry County,Virginia","Ashtabula County,Ohio",28696,833148
+121,"Surry County,Virginia","Athens County,Ohio",25621,740458
+122,"Surry County,Virginia","Auglaize County,Ohio",35195,1026976
+123,"Surry County,Virginia","Belmont County,Ohio",25266,729443
+124,"Surry County,Virginia","Brown County,Ohio",30457,861787
+125,"Surry County,Virginia","Butler County,Ohio",33570,943812
+126,"Surry County,Virginia","Carroll County,Ohio",27212,745369
+127,"Surry County,Virginia","Champaign County,Ohio",32499,929074
+128,"Surry County,Virginia","Clark County,Ohio",31178,888618
+129,"Surry County,Virginia","Clermont County,Ohio",31291,892883
+130,"Surry County,Virginia","Clinton County,Ohio",30682,876300
+131,"Surry County,Virginia","Columbiana County,Ohio",25998,727386
+132,"Surry County,Virginia","Coshocton County,Ohio",29623,854893
+133,"Surry County,Virginia","Crawford County,Ohio",32607,949873
+134,"Surry County,Virginia","Cuyahoga County,Ohio",28692,830992
+135,"Surry County,Virginia","Darke County,Ohio",34292,984023
+136,"Surry County,Virginia","Defiance County,Ohio",37011,1079956
+137,"Surry County,Virginia","Delaware County,Ohio",31450,908065
+138,"Surry County,Virginia","Fairfield County,Ohio",28981,835159
+139,"Surry County,Virginia","Fayette County,Ohio",29246,846763
+140,"Surry County,Virginia","Franklin County,Ohio",29981,865014
+141,"Surry County,Virginia","Fulton County,Ohio",35363,1036807
+142,"Surry County,Virginia","Gallia County,Ohio",24559,705875
+143,"Surry County,Virginia","Geauga County,Ohio",28185,805811
+144,"Surry County,Virginia","Greene County,Ohio",30116,879916
+145,"Surry County,Virginia","Guernsey County,Ohio",27170,792952
+146,"Surry County,Virginia","Hamilton County,Ohio",33071,954390
+147,"Surry County,Virginia","Hancock County,Ohio",34637,1011954
+148,"Surry County,Virginia","Hardin County,Ohio",34455,966106
+149,"Surry County,Virginia","Harrison County,Ohio",26426,747587
+150,"Surry County,Virginia","Henry County,Ohio",35817,1026574
+151,"Surry County,Virginia","Highland County,Ohio",29750,834873
+152,"Surry County,Virginia","Hocking County,Ohio",27423,791122
+153,"Surry County,Virginia","Holmes County,Ohio",30365,829663
+154,"Surry County,Virginia","Huron County,Ohio",31975,908284
+155,"Surry County,Virginia","Jackson County,Ohio",25736,745424
+156,"Surry County,Virginia","Jefferson County,Ohio",25168,708860
+157,"Surry County,Virginia","Knox County,Ohio",31411,897369
+158,"Surry County,Virginia","Lawrence County,Ohio",25261,711638
+159,"Surry County,Virginia","Licking County,Ohio",30797,878441
+160,"Surry County,Virginia","Logan County,Ohio",33476,960383
+161,"Surry County,Virginia","Lorain County,Ohio",29744,860712
+162,"Surry County,Virginia","Lucas County,Ohio",34317,989657
+163,"Surry County,Virginia","Madison County,Ohio",30947,869848
+164,"Surry County,Virginia","Mahoning County,Ohio",25182,723140
+165,"Surry County,Virginia","Marion County,Ohio",32857,934158
+166,"Surry County,Virginia","Medina County,Ohio",29331,845798
+167,"Surry County,Virginia","Meigs County,Ohio",24501,711429
+168,"Surry County,Virginia","Mercer County,Ohio",36430,1053910
+169,"Surry County,Virginia","Miami County,Ohio",32781,949415
+170,"Surry County,Virginia","Monroe County,Ohio",27699,776127
+171,"Surry County,Virginia","Montgomery County,Ohio",32150,927371
+172,"Surry County,Virginia","Morgan County,Ohio",27496,795751
+173,"Surry County,Virginia","Morrow County,Ohio",32258,930886
+174,"Surry County,Virginia","Muskingum County,Ohio",28015,820944
+175,"Surry County,Virginia","Noble County,Ohio",26997,792264
+176,"Surry County,Virginia","Paulding County,Ohio",38216,1115943
+177,"Surry County,Virginia","Perry County,Ohio",28838,805879
+178,"Surry County,Virginia","Pickaway County,Ohio",28686,826862
+179,"Surry County,Virginia","Pike County,Ohio",27182,784731
+180,"Surry County,Virginia","Portage County,Ohio",27037,779154
+181,"Surry County,Virginia","Preble County,Ohio",33769,955949
+182,"Surry County,Virginia","Putnam County,Ohio",36836,1071760
+183,"Surry County,Virginia","Richland County,Ohio",31255,900107
+184,"Surry County,Virginia","Ross County,Ohio",27430,793168
+185,"Surry County,Virginia","Sandusky County,Ohio",32605,948231
+186,"Surry County,Virginia","Scioto County,Ohio",27066,768911
+187,"Surry County,Virginia","Seneca County,Ohio",33336,957903
+188,"Surry County,Virginia","Shelby County,Ohio",33819,985701
+189,"Surry County,Virginia","Stark County,Ohio",27817,775287
+190,"Surry County,Virginia","Summit County,Ohio",28095,804969
+191,"Surry County,Virginia","Trumbull County,Ohio",26340,760604
+192,"Surry County,Virginia","Tuscarawas County,Ohio",27935,778870
+193,"Surry County,Virginia","Union County,Ohio",31980,910614
+194,"Surry County,Virginia","Van Wert County,Ohio",36947,1082271
+195,"Surry County,Virginia","Vinton County,Ohio",27632,770929
+196,"Surry County,Virginia","Warren County,Ohio",31488,910358
+197,"Surry County,Virginia","Washington County,Ohio",25855,750200
+198,"Surry County,Virginia","Wayne County,Ohio",30436,864609
+199,"Surry County,Virginia","Williams County,Ohio",36608,1068263
+200,"Surry County,Virginia","Wood County,Ohio",34502,996560
+201,"Surry County,Virginia","Wyandot County,Ohio",33607,976089
+202,"Surry County,Virginia","Accomack County,Virginia",9416,205625
+203,"Surry County,Virginia","Albemarle County,Virginia",8141,220290
+204,"Surry County,Virginia","Alleghany County,Virginia",13651,389231
+205,"Surry County,Virginia","Amelia County,Virginia",5816,123620
+206,"Surry County,Virginia","Amherst County,Virginia",10671,237428
+207,"Surry County,Virginia","Appomattox County,Virginia",9077,214006
+208,"Surry County,Virginia","Arlington County,Virginia",9185,251633
+209,"Surry County,Virginia","Augusta County,Virginia",10395,282924
+210,"Surry County,Virginia","Bath County,Virginia",13369,348584
+211,"Surry County,Virginia","Bedford County,Virginia",12050,279862
+212,"Surry County,Virginia","Bland County,Virginia",17933,518914
+213,"Surry County,Virginia","Botetourt County,Virginia",12958,360167
+214,"Surry County,Virginia","Brunswick County,Virginia",5318,126319
+215,"Surry County,Virginia","Buchanan County,Virginia",23690,653373
+216,"Surry County,Virginia","Buckingham County,Virginia",8204,184490
+217,"Surry County,Virginia","Campbell County,Virginia",10495,243177
+218,"Surry County,Virginia","Caroline County,Virginia",5925,140897
+219,"Surry County,Virginia","Carroll County,Virginia",17072,473350
+220,"Surry County,Virginia","Charles City County,Virginia",2828,59155
+221,"Surry County,Virginia","Charlotte County,Virginia",8211,190020
+222,"Surry County,Virginia","Chesterfield County,Virginia",4276,86382
+223,"Surry County,Virginia","Clarke County,Virginia",11865,294109
+224,"Surry County,Virginia","Craig County,Virginia",15799,416494
+225,"Surry County,Virginia","Culpeper County,Virginia",9164,224838
+226,"Surry County,Virginia","Cumberland County,Virginia",6637,149443
+227,"Surry County,Virginia","Dickenson County,Virginia",24399,671551
+228,"Surry County,Virginia","Dinwiddie County,Virginia",4266,92061
+229,"Surry County,Virginia","Essex County,Virginia",7004,150446
+230,"Surry County,Virginia","Fairfax County,Virginia",9482,254863
+231,"Surry County,Virginia","Fauquier County,Virginia",9178,234876
+232,"Surry County,Virginia","Floyd County,Virginia",16581,465878
+233,"Surry County,Virginia","Fluvanna County,Virginia",7342,183861
+234,"Surry County,Virginia","Franklin County,Virginia",13879,313366
+235,"Surry County,Virginia","Frederick County,Virginia",12420,327171
+236,"Surry County,Virginia","Giles County,Virginia",16722,474030
+237,"Surry County,Virginia","Gloucester County,Virginia",5921,72407
+238,"Surry County,Virginia","Goochland County,Virginia",6072,153148
+239,"Surry County,Virginia","Grayson County,Virginia",19203,509895
+240,"Surry County,Virginia","Greene County,Virginia",9862,238325
+241,"Surry County,Virginia","Greensville County,Virginia",4785,113758
+242,"Surry County,Virginia","Halifax County,Virginia",9239,224938
+243,"Surry County,Virginia","Hanover County,Virginia",4144,96726
+244,"Surry County,Virginia","Henrico County,Virginia",3545,73336
+245,"Surry County,Virginia","Henry County,Virginia",13598,338889
+246,"Surry County,Virginia","Highland County,Virginia",13597,340663
+247,"Surry County,Virginia","Isle of Wight County,Virginia",2071,41203
+248,"Surry County,Virginia","James City County,Virginia",3583,27437
+249,"Surry County,Virginia","King and Queen County,Virginia",5990,133227
+250,"Surry County,Virginia","King George County,Virginia",7027,176979
+251,"Surry County,Virginia","King William County,Virginia",4869,109715
+252,"Surry County,Virginia","Lancaster County,Virginia",8119,169105
+253,"Surry County,Virginia","Lee County,Virginia",24894,703205
+254,"Surry County,Virginia","Loudoun County,Virginia",11448,308108
+255,"Surry County,Virginia","Louisa County,Virginia",6840,176736
+256,"Surry County,Virginia","Lunenburg County,Virginia",7090,151512
+257,"Surry County,Virginia","Madison County,Virginia",9775,238357
+258,"Surry County,Virginia","Mathews County,Virginia",7082,100807
+259,"Surry County,Virginia","Mecklenburg County,Virginia",7356,174320
+260,"Surry County,Virginia","Middlesex County,Virginia",5854,129266
+261,"Surry County,Virginia","Montgomery County,Virginia",15286,438301
+262,"Surry County,Virginia","Nelson County,Virginia",9380,257631
+263,"Surry County,Virginia","New Kent County,Virginia",4754,93562
+264,"Surry County,Virginia","Northampton County,Virginia",6658,141439
+265,"Surry County,Virginia","Northumberland County,Virginia",8487,181267
+266,"Surry County,Virginia","Nottoway County,Virginia",5202,120587
+267,"Surry County,Virginia","Orange County,Virginia",8452,193263
+268,"Surry County,Virginia","Page County,Virginia",12049,282542
+269,"Surry County,Virginia","Patrick County,Virginia",15181,377797
+270,"Surry County,Virginia","Pittsylvania County,Virginia",11963,294890
+271,"Surry County,Virginia","Powhatan County,Virginia",5376,117521
+272,"Surry County,Virginia","Prince Edward County,Virginia",7466,171009
+273,"Surry County,Virginia","Prince George County,Virginia",2456,46069
+274,"Surry County,Virginia","Prince William County,Virginia",9641,244712
+275,"Surry County,Virginia","Pulaski County,Virginia",16013,460934
+276,"Surry County,Virginia","Rappahannock County,Virginia",10617,262875
+277,"Surry County,Virginia","Richmond County,Virginia",7401,163956
+278,"Surry County,Virginia","Roanoke County,Virginia",14277,403239
+279,"Surry County,Virginia","Rockbridge County,Virginia",11700,326176
+280,"Surry County,Virginia","Rockingham County,Virginia",11753,323070
+281,"Surry County,Virginia","Russell County,Virginia",22855,636710
+282,"Surry County,Virginia","Scott County,Virginia",23467,663933
+283,"Surry County,Virginia","Shenandoah County,Virginia",12258,353173
+284,"Surry County,Virginia","Smyth County,Virginia",19050,547655
+285,"Surry County,Virginia","Southampton County,Virginia",3473,67305
+286,"Surry County,Virginia","Spotsylvania County,Virginia",6924,171943
+287,"Surry County,Virginia","Stafford County,Virginia",6996,189414
+288,"Surry County,Virginia","Sussex County,Virginia",2764,54116
+289,"Surry County,Virginia","Tazewell County,Virginia",20511,587731
+290,"Surry County,Virginia","Warren County,Virginia",11648,296582
+291,"Surry County,Virginia","Washington County,Virginia",20443,587121
+292,"Surry County,Virginia","Westmoreland County,Virginia",8001,193804
+293,"Surry County,Virginia","Wise County,Virginia",24306,678053
+294,"Surry County,Virginia","Wythe County,Virginia",17304,499640
+295,"Surry County,Virginia","York County,Virginia",4888,85587
+296,"Surry County,Virginia","Alexandria City County,Virginia",9156,248682
+297,"Surry County,Virginia","Bedford City County,Virginia",11552,274945
+298,"Surry County,Virginia","Bristol City County,Virginia",20918,612838
+299,"Surry County,Virginia","Buena Vista City County,Virginia",11359,319442
+300,"Surry County,Virginia","Charlottesville City County,Virginia",7692,205697
+301,"Surry County,Virginia","Chesapeake City County,Virginia",4235,86154
+302,"Surry County,Virginia","Clifton Forge City County,Virginia",12553,358049
+303,"Surry County,Virginia","Colonial Heights City County,Virginia",3256,62385
+304,"Surry County,Virginia","Covington City County,Virginia",13295,376391
+305,"Surry County,Virginia","Danville City County,Virginia",11055,269863
+306,"Surry County,Virginia","Emporia City County,Virginia",4493,100352
+307,"Surry County,Virginia","Fairfax City County,Virginia",9416,243645
+308,"Surry County,Virginia","Falls Church City County,Virginia",9363,255931
+309,"Surry County,Virginia","Franklin City County,Virginia",3601,72065
+310,"Surry County,Virginia","Fredericksburg City County,Virginia",6795,175350
+311,"Surry County,Virginia","Galax City County,Virginia",17800,483888
+312,"Surry County,Virginia","Hampton City County,Virginia",3733,68362
+313,"Surry County,Virginia","Harrisonburg City County,Virginia",10812,302966
+314,"Surry County,Virginia","Hopewell City County,Virginia",2295,46965
+315,"Surry County,Virginia","Lexington City County,Virginia",11218,316420
+316,"Surry County,Virginia","Lynchburg City County,Virginia",10278,238494
+317,"Surry County,Virginia","Manassas City County,Virginia",9385,242048
+318,"Surry County,Virginia","Manassas Park City County,Virginia",9605,239248
+319,"Surry County,Virginia","Martinsville City County,Virginia",13195,322868
+320,"Surry County,Virginia","Newport News City County,Virginia",3676,66216
+321,"Surry County,Virginia","Norfolk City County,Virginia",4003,79662
+322,"Surry County,Virginia","Norton City County,Virginia",23830,668943
+323,"Surry County,Virginia","Petersburg City County,Virginia",3053,58825
+324,"Surry County,Virginia","Poquoson City County,Virginia",4387,77961
+325,"Surry County,Virginia","Portsmouth City County,Virginia",3921,77198
+326,"Surry County,Virginia","Radford County,Virginia",15650,448145
+327,"Surry County,Virginia","Richmond City County,Virginia",3976,81744
+328,"Surry County,Virginia","Roanoke City County,Virginia",13773,320679
+329,"Surry County,Virginia","Salem City County,Virginia",13645,393152
+330,"Surry County,Virginia","South Boston City County,Virginia",8944,222429
+331,"Surry County,Virginia","Staunton City County,Virginia",9701,264647
+332,"Surry County,Virginia","Suffolk City County,Virginia",3625,65395
+333,"Surry County,Virginia","Virginia Beach City County,Virginia",5117,107458
+334,"Surry County,Virginia","Waynesboro City County,Virginia",8977,246645
+335,"Surry County,Virginia","Williamsburg City County,Virginia",3525,26582
+336,"Surry County,Virginia","Winchester City County,Virginia",12242,300919
+337,"Surry County,Virginia","Barbour County,West Virginia",20126,501482
+338,"Surry County,Virginia","Berkeley County,West Virginia",14023,351100
+339,"Surry County,Virginia","Boone County,West Virginia",22010,588936
+340,"Surry County,Virginia","Braxton County,West Virginia",21708,569611
+341,"Surry County,Virginia","Brooke County,West Virginia",24474,692344
+342,"Surry County,Virginia","Cabell County,West Virginia",23578,684842
+343,"Surry County,Virginia","Calhoun County,West Virginia",23479,623562
+344,"Surry County,Virginia","Clay County,West Virginia",21743,560395
+345,"Surry County,Virginia","Doddridge County,West Virginia",23957,543769
+346,"Surry County,Virginia","Fayette County,West Virginia",19132,507134
+347,"Surry County,Virginia","Gilmer County,West Virginia",23276,619291
+348,"Surry County,Virginia","Grant County,West Virginia",15470,404578
+349,"Surry County,Virginia","Greenbrier County,West Virginia",17487,466359
+350,"Surry County,Virginia","Hampshire County,West Virginia",14547,360177
+351,"Surry County,Virginia","Hancock County,West Virginia",25182,700280
+352,"Surry County,Virginia","Hardy County,West Virginia",14718,375908
+353,"Surry County,Virginia","Harrison County,West Virginia",22600,546238
+354,"Surry County,Virginia","Jackson County,West Virginia",22897,664653
+355,"Surry County,Virginia","Jefferson County,West Virginia",12921,339535
+356,"Surry County,Virginia","Kanawha County,West Virginia",20660,586635
+357,"Surry County,Virginia","Lewis County,West Virginia",21645,513733
+358,"Surry County,Virginia","Lincoln County,West Virginia",24242,662520
+359,"Surry County,Virginia","Logan County,West Virginia",23801,619426
+360,"Surry County,Virginia","McDowell County,West Virginia",22180,593877
+361,"Surry County,Virginia","Marion County,West Virginia",21792,615204
+362,"Surry County,Virginia","Marshall County,West Virginia",25461,686788
+363,"Surry County,Virginia","Mason County,West Virginia",23053,670749
+364,"Surry County,Virginia","Mercer County,West Virginia",18895,530207
+365,"Surry County,Virginia","Mineral County,West Virginia",16944,416102
+366,"Surry County,Virginia","Mingo County,West Virginia",24380,683360
+367,"Surry County,Virginia","Monongalia County,West Virginia",19615,566943
+368,"Surry County,Virginia","Monroe County,West Virginia",16422,452680
+369,"Surry County,Virginia","Morgan County,West Virginia",14268,352227
+370,"Surry County,Virginia","Nicholas County,West Virginia",19327,519784
+371,"Surry County,Virginia","Ohio County,West Virginia",24380,701290
+372,"Surry County,Virginia","Pendleton County,West Virginia",14600,374255
+373,"Surry County,Virginia","Pleasants County,West Virginia",25399,622378
+374,"Surry County,Virginia","Pocahontas County,West Virginia",17060,402349
+375,"Surry County,Virginia","Preston County,West Virginia",19650,483029
+376,"Surry County,Virginia","Putnam County,West Virginia",21835,636367
+377,"Surry County,Virginia","Raleigh County,West Virginia",17685,511816
+378,"Surry County,Virginia","Randolph County,West Virginia",18519,434761
+379,"Surry County,Virginia","Ritchie County,West Virginia",25310,616680
+380,"Surry County,Virginia","Roane County,West Virginia",24522,693468
+381,"Surry County,Virginia","Summers County,West Virginia",18406,491694
+382,"Surry County,Virginia","Taylor County,West Virginia",19993,500851
+383,"Surry County,Virginia","Tucker County,West Virginia",18130,466226
+384,"Surry County,Virginia","Tyler County,West Virginia",26325,615044
+385,"Surry County,Virginia","Upshur County,West Virginia",21115,470404
+386,"Surry County,Virginia","Wayne County,West Virginia",25169,717469
+387,"Surry County,Virginia","Webster County,West Virginia",20947,481770
+388,"Surry County,Virginia","Wetzel County,West Virginia",24948,677328
+389,"Surry County,Virginia","Wirt County,West Virginia",25163,721991
+390,"Surry County,Virginia","Wood County,West Virginia",24678,723680
+391,"Surry County,Virginia","Wyoming County,West Virginia",19630,551758

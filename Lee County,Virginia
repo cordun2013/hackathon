@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Lee County,Virginia","Adair County,Kentucky",11607,278323
+1,"Lee County,Virginia","Allen County,Kentucky",14804,373964
+2,"Lee County,Virginia","Anderson County,Kentucky",13008,305573
+3,"Lee County,Virginia","Ballard County,Kentucky",24616,676641
+4,"Lee County,Virginia","Barren County,Kentucky",13353,337350
+5,"Lee County,Virginia","Bath County,Kentucky",12438,315095
+6,"Lee County,Virginia","Bell County,Kentucky",4376,93039
+7,"Lee County,Virginia","Boone County,Kentucky",14784,393565
+8,"Lee County,Virginia","Bourbon County,Kentucky",11985,305265
+9,"Lee County,Virginia","Boyd County,Kentucky",11931,292401
+10,"Lee County,Virginia","Boyle County,Kentucky",10785,252478
+11,"Lee County,Virginia","Bracken County,Kentucky",15371,379792
+12,"Lee County,Virginia","Breathitt County,Kentucky",8737,173217
+13,"Lee County,Virginia","Breckinridge County,Kentucky",18026,427883
+14,"Lee County,Virginia","Bullitt County,Kentucky",15072,352369
+15,"Lee County,Virginia","Butler County,Kentucky",16392,433823
+16,"Lee County,Virginia","Caldwell County,Kentucky",20728,567494
+17,"Lee County,Virginia","Calloway County,Kentucky",22796,592476
+18,"Lee County,Virginia","Campbell County,Kentucky",15315,390379
+19,"Lee County,Virginia","Carlisle County,Kentucky",25073,692009
+20,"Lee County,Virginia","Carroll County,Kentucky",15621,389671
+21,"Lee County,Virginia","Carter County,Kentucky",12724,281115
+22,"Lee County,Virginia","Casey County,Kentucky",11545,251597
+23,"Lee County,Virginia","Christian County,Kentucky",19084,499963
+24,"Lee County,Virginia","Clay County,Kentucky",7107,150929
+25,"Lee County,Virginia","Clinton County,Kentucky",12015,281688
+26,"Lee County,Virginia","Crittenden County,Kentucky",22308,600564
+27,"Lee County,Virginia","Cumberland County,Kentucky",12768,299927
+28,"Lee County,Virginia","Daviess County,Kentucky",18826,507616
+29,"Lee County,Virginia","Edmonson County,Kentucky",14882,381511
+30,"Lee County,Virginia","Elliott County,Kentucky",12334,267494
+31,"Lee County,Virginia","Estill County,Kentucky",10916,265919
+32,"Lee County,Virginia","Fayette County,Kentucky",10883,279349
+33,"Lee County,Virginia","Fleming County,Kentucky",13866,345314
+34,"Lee County,Virginia","Floyd County,Kentucky",7965,187928
+35,"Lee County,Virginia","Franklin County,Kentucky",12921,328266
+36,"Lee County,Virginia","Fulton County,Kentucky",25477,712973
+37,"Lee County,Virginia","Gallatin County,Kentucky",14619,380330
+38,"Lee County,Virginia","Garrard County,Kentucky",10454,237265
+39,"Lee County,Virginia","Grant County,Kentucky",13418,354437
+40,"Lee County,Virginia","Graves County,Kentucky",24098,664715
+41,"Lee County,Virginia","Grayson County,Kentucky",16768,414103
+42,"Lee County,Virginia","Green County,Kentucky",13360,320487
+43,"Lee County,Virginia","Greenup County,Kentucky",13929,342807
+44,"Lee County,Virginia","Hancock County,Kentucky",19247,462520
+45,"Lee County,Virginia","Hardin County,Kentucky",15644,376236
+46,"Lee County,Virginia","Harlan County,Kentucky",3510,61248
+47,"Lee County,Virginia","Harrison County,Kentucky",12934,333899
+48,"Lee County,Virginia","Hart County,Kentucky",14710,366765
+49,"Lee County,Virginia","Henderson County,Kentucky",20733,564037
+50,"Lee County,Virginia","Henry County,Kentucky",14522,371984
+51,"Lee County,Virginia","Hickman County,Kentucky",25107,693301
+52,"Lee County,Virginia","Hopkins County,Kentucky",20186,541962
+53,"Lee County,Virginia","Jackson County,Kentucky",8733,193613
+54,"Lee County,Virginia","Jefferson County,Kentucky",14616,387518
+55,"Lee County,Virginia","Jessamine County,Kentucky",11450,281988
+56,"Lee County,Virginia","Johnson County,Kentucky",8581,205158
+57,"Lee County,Virginia","Kenton County,Kentucky",14671,389281
+58,"Lee County,Virginia","Knott County,Kentucky",6845,153369
+59,"Lee County,Virginia","Knox County,Kentucky",5433,121621
+60,"Lee County,Virginia","Larue County,Kentucky",14842,352461
+61,"Lee County,Virginia","Laurel County,Kentucky",7327,156449
+62,"Lee County,Virginia","Lawrence County,Kentucky",10355,238845
+63,"Lee County,Virginia","Lee County,Kentucky",10189,195630
+64,"Lee County,Virginia","Leslie County,Kentucky",4972,89527
+65,"Lee County,Virginia","Letcher County,Kentucky",5246,116916
+66,"Lee County,Virginia","Lewis County,Kentucky",15069,335801
+67,"Lee County,Virginia","Lincoln County,Kentucky",10016,236845
+68,"Lee County,Virginia","Livingston County,Kentucky",22903,617461
+69,"Lee County,Virginia","Logan County,Kentucky",16755,439242
+70,"Lee County,Virginia","Lyon County,Kentucky",23043,591729
+71,"Lee County,Virginia","McCracken County,Kentucky",23228,644701
+72,"Lee County,Virginia","McCreary County,Kentucky",8565,185919
+73,"Lee County,Virginia","Madison County,Kentucky",9473,234695
+74,"Lee County,Virginia","Magoffin County,Kentucky",8925,209134
+75,"Lee County,Virginia","Marion County,Kentucky",12483,291083
+76,"Lee County,Virginia","Marshall County,Kentucky",22643,628272
+77,"Lee County,Virginia","Martin County,Kentucky",10110,231159
+78,"Lee County,Virginia","Mason County,Kentucky",15115,376831
+79,"Lee County,Virginia","Meade County,Kentucky",17077,459833
+80,"Lee County,Virginia","Menifee County,Kentucky",12555,244888
+81,"Lee County,Virginia","Mercer County,Kentucky",11785,277410
+82,"Lee County,Virginia","Metcalfe County,Kentucky",12263,308587
+83,"Lee County,Virginia","Monroe County,Kentucky",14233,346091
+84,"Lee County,Virginia","Montgomery County,Kentucky",12356,305542
+85,"Lee County,Virginia","Morgan County,Kentucky",10976,225778
+86,"Lee County,Virginia","Muhlenberg County,Kentucky",18511,482462
+87,"Lee County,Virginia","Nelson County,Kentucky",13701,324092
+88,"Lee County,Virginia","Nicholas County,Kentucky",13242,332646
+89,"Lee County,Virginia","Ohio County,Kentucky",17927,475653
+90,"Lee County,Virginia","Oldham County,Kentucky",14688,399399
+91,"Lee County,Virginia","Owen County,Kentucky",13743,355043
+92,"Lee County,Virginia","Owsley County,Kentucky",9464,174048
+93,"Lee County,Virginia","Pendleton County,Kentucky",14494,371026
+94,"Lee County,Virginia","Perry County,Kentucky",7251,136390
+95,"Lee County,Virginia","Pike County,Kentucky",6434,147311
+96,"Lee County,Virginia","Powell County,Kentucky",11379,237753
+97,"Lee County,Virginia","Robertson County,Kentucky",14012,353773
+98,"Lee County,Virginia","Rockcastle County,Kentucky",8497,198444
+99,"Lee County,Virginia","Rowan County,Kentucky",12861,289094
+100,"Lee County,Virginia","Russell County,Kentucky",11212,262306
+101,"Lee County,Virginia","Scott County,Kentucky",11718,307376
+102,"Lee County,Virginia","Shelby County,Kentucky",13545,358652
+103,"Lee County,Virginia","Simpson County,Kentucky",16344,428116
+104,"Lee County,Virginia","Spencer County,Kentucky",14074,364500
+105,"Lee County,Virginia","Taylor County,Kentucky",12961,302582
+106,"Lee County,Virginia","Todd County,Kentucky",17930,469298
+107,"Lee County,Virginia","Trigg County,Kentucky",20619,530583
+108,"Lee County,Virginia","Trimble County,Kentucky",15761,405439
+109,"Lee County,Virginia","Union County,Kentucky",22477,601138
+110,"Lee County,Virginia","Warren County,Kentucky",15379,393064
+111,"Lee County,Virginia","Washington County,Kentucky",12772,298942
+112,"Lee County,Virginia","Wayne County,Kentucky",11069,233050
+113,"Lee County,Virginia","Webster County,Kentucky",21296,570051
+114,"Lee County,Virginia","Whitley County,Kentucky",6929,150005
+115,"Lee County,Virginia","Wolfe County,Kentucky",10231,205300
+116,"Lee County,Virginia","Woodford County,Kentucky",11937,310012
+117,"Lee County,Virginia","Adams County,Ohio",17544,423564
+118,"Lee County,Virginia","Allen County,Ohio",22090,615174
+119,"Lee County,Virginia","Ashland County,Ohio",25279,717052
+120,"Lee County,Virginia","Ashtabula County,Ohio",28589,800913
+121,"Lee County,Virginia","Athens County,Ohio",17729,433714
+122,"Lee County,Virginia","Auglaize County,Ohio",21346,602439
+123,"Lee County,Virginia","Belmont County,Ohio",21652,589837
+124,"Lee County,Virginia","Brown County,Ohio",16530,411809
+125,"Lee County,Virginia","Butler County,Ohio",17168,465048
+126,"Lee County,Virginia","Carroll County,Ohio",23582,626724
+127,"Lee County,Virginia","Champaign County,Ohio",20124,556621
+128,"Lee County,Virginia","Clark County,Ohio",19553,543253
+129,"Lee County,Virginia","Clermont County,Ohio",15919,436226
+130,"Lee County,Virginia","Clinton County,Ohio",18013,487533
+131,"Lee County,Virginia","Columbiana County,Ohio",25423,680959
+132,"Lee County,Virginia","Coshocton County,Ohio",22217,597840
+133,"Lee County,Virginia","Crawford County,Ohio",24817,709024
+134,"Lee County,Virginia","Cuyahoga County,Ohio",25618,712128
+135,"Lee County,Virginia","Darke County,Ohio",20444,559485
+136,"Lee County,Virginia","Defiance County,Ohio",25578,693604
+137,"Lee County,Virginia","Delaware County,Ohio",22196,623724
+138,"Lee County,Virginia","Fairfield County,Ohio",20870,487815
+139,"Lee County,Virginia","Fayette County,Ohio",18912,525138
+140,"Lee County,Virginia","Franklin County,Ohio",20714,583651
+141,"Lee County,Virginia","Fulton County,Ohio",26341,710548
+142,"Lee County,Virginia","Gallia County,Ohio",15687,376066
+143,"Lee County,Virginia","Geauga County,Ohio",26690,737845
+144,"Lee County,Virginia","Greene County,Ohio",18340,496887
+145,"Lee County,Virginia","Guernsey County,Ohio",19768,535759
+146,"Lee County,Virginia","Hamilton County,Ohio",15822,429532
+147,"Lee County,Virginia","Hancock County,Ohio",23200,656069
+148,"Lee County,Virginia","Hardin County,Ohio",22987,640467
+149,"Lee County,Virginia","Harrison County,Ohio",22587,608789
+150,"Lee County,Virginia","Henry County,Ohio",24923,680538
+151,"Lee County,Virginia","Highland County,Ohio",18677,457012
+152,"Lee County,Virginia","Hocking County,Ohio",19428,431122
+153,"Lee County,Virginia","Holmes County,Ohio",23276,620725
+154,"Lee County,Virginia","Huron County,Ohio",26426,715822
+155,"Lee County,Virginia","Jackson County,Ohio",16107,380755
+156,"Lee County,Virginia","Jefferson County,Ohio",23581,618567
+157,"Lee County,Virginia","Knox County,Ohio",24005,640316
+158,"Lee County,Virginia","Lawrence County,Ohio",13910,320669
+159,"Lee County,Virginia","Licking County,Ohio",22846,543677
+160,"Lee County,Virginia","Logan County,Ohio",21359,589157
+161,"Lee County,Virginia","Lorain County,Ohio",26842,741951
+162,"Lee County,Virginia","Lucas County,Ohio",26525,742589
+163,"Lee County,Virginia","Madison County,Ohio",20134,560320
+164,"Lee County,Virginia","Mahoning County,Ohio",25919,695764
+165,"Lee County,Virginia","Marion County,Ohio",23243,631159
+166,"Lee County,Virginia","Medina County,Ohio",25291,698159
+167,"Lee County,Virginia","Meigs County,Ohio",16619,406450
+168,"Lee County,Virginia","Mercer County,Ohio",22582,629372
+169,"Lee County,Virginia","Miami County,Ohio",18933,524878
+170,"Lee County,Virginia","Monroe County,Ohio",20704,524951
+171,"Lee County,Virginia","Montgomery County,Ohio",18316,502618
+172,"Lee County,Virginia","Morgan County,Ohio",19709,511599
+173,"Lee County,Virginia","Morrow County,Ohio",23004,646545
+174,"Lee County,Virginia","Muskingum County,Ohio",20613,563751
+175,"Lee County,Virginia","Noble County,Ohio",19209,508111
+176,"Lee County,Virginia","Paulding County,Ohio",24621,678152
+177,"Lee County,Virginia","Perry County,Ohio",20947,499134
+178,"Lee County,Virginia","Pickaway County,Ohio",19081,454218
+179,"Lee County,Virginia","Pike County,Ohio",16175,383097
+180,"Lee County,Virginia","Portage County,Ohio",25140,693709
+181,"Lee County,Virginia","Preble County,Ohio",19213,509447
+182,"Lee County,Virginia","Putnam County,Ohio",23265,647642
+183,"Lee County,Virginia","Richland County,Ohio",24034,681783
+184,"Lee County,Virginia","Ross County,Ohio",17826,420524
+185,"Lee County,Virginia","Sandusky County,Ohio",26240,736145
+186,"Lee County,Virginia","Scioto County,Ohio",15255,359735
+187,"Lee County,Virginia","Seneca County,Ohio",25544,712409
+188,"Lee County,Virginia","Shelby County,Ohio",19971,561163
+189,"Lee County,Virginia","Stark County,Ohio",23441,641959
+190,"Lee County,Virginia","Summit County,Ohio",24199,667747
+191,"Lee County,Virginia","Trumbull County,Ohio",26874,722011
+192,"Lee County,Virginia","Tuscarawas County,Ohio",21641,582546
+193,"Lee County,Virginia","Union County,Ohio",21486,586541
+194,"Lee County,Virginia","Van Wert County,Ohio",23255,647697
+195,"Lee County,Virginia","Vinton County,Ohio",18366,407533
+196,"Lee County,Virginia","Warren County,Ohio",16702,455789
+197,"Lee County,Virginia","Washington County,Ohio",18068,466048
+198,"Lee County,Virginia","Wayne County,Ohio",24412,644837
+199,"Lee County,Virginia","Williams County,Ohio",26755,717121
+200,"Lee County,Virginia","Wood County,Ohio",24287,696698
+201,"Lee County,Virginia","Wyandot County,Ohio",23895,676949
+202,"Lee County,Virginia","Accomack County,Virginia",31409,874949
+203,"Lee County,Virginia","Albemarle County,Virginia",17559,487449
+204,"Lee County,Virginia","Alleghany County,Virginia",15826,399756
+205,"Lee County,Virginia","Amelia County,Virginia",20131,526304
+206,"Lee County,Virginia","Amherst County,Virginia",17033,432363
+207,"Lee County,Virginia","Appomattox County,Virginia",17208,445973
+208,"Lee County,Virginia","Arlington County,Virginia",24243,687758
+209,"Lee County,Virginia","Augusta County,Virginia",16981,465142
+210,"Lee County,Virginia","Bath County,Virginia",17269,437722
+211,"Lee County,Virginia","Bedford County,Virginia",14941,377283
+212,"Lee County,Virginia","Bland County,Virginia",8957,226885
+213,"Lee County,Virginia","Botetourt County,Virginia",13797,361348
+214,"Lee County,Virginia","Brunswick County,Virginia",22102,613398
+215,"Lee County,Virginia","Buchanan County,Virginia",8478,162269
+216,"Lee County,Virginia","Buckingham County,Virginia",18322,469883
+217,"Lee County,Virginia","Campbell County,Virginia",16357,418518
+218,"Lee County,Virginia","Caroline County,Virginia",22898,656294
+219,"Lee County,Virginia","Carroll County,Virginia",9901,258230
+220,"Lee County,Virginia","Charles City County,Virginia",22999,653329
+221,"Lee County,Virginia","Charlotte County,Virginia",18906,486454
+222,"Lee County,Virginia","Chesterfield County,Virginia",21825,565194
+223,"Lee County,Virginia","Clarke County,Virginia",21739,614507
+224,"Lee County,Virginia","Craig County,Virginia",13196,338916
+225,"Lee County,Virginia","Culpeper County,Virginia",21356,576665
+226,"Lee County,Virginia","Cumberland County,Virginia",19736,507114
+227,"Lee County,Virginia","Dickenson County,Virginia",5629,107807
+228,"Lee County,Virginia","Dinwiddie County,Virginia",21904,569365
+229,"Lee County,Virginia","Essex County,Virginia",24716,680337
+230,"Lee County,Virginia","Fairfax County,Virginia",23866,678034
+231,"Lee County,Virginia","Fauquier County,Virginia",22177,635758
+232,"Lee County,Virginia","Floyd County,Virginia",11793,298330
+233,"Lee County,Virginia","Fluvanna County,Virginia",19237,539620
+234,"Lee County,Virginia","Franklin County,Virginia",14454,378516
+235,"Lee County,Virginia","Frederick County,Virginia",21191,602233
+236,"Lee County,Virginia","Giles County,Virginia",11738,284958
+237,"Lee County,Virginia","Gloucester County,Virginia",25169,707517
+238,"Lee County,Virginia","Goochland County,Virginia",20140,570231
+239,"Lee County,Virginia","Grayson County,Virginia",9634,221397
+240,"Lee County,Virginia","Greene County,Virginia",19552,523033
+241,"Lee County,Virginia","Greensville County,Virginia",23298,630817
+242,"Lee County,Virginia","Halifax County,Virginia",18204,455916
+243,"Lee County,Virginia","Hanover County,Virginia",21347,611338
+244,"Lee County,Virginia","Henrico County,Virginia",21858,624298
+245,"Lee County,Virginia","Henry County,Virginia",13774,344950
+246,"Lee County,Virginia","Highland County,Virginia",19401,485513
+247,"Lee County,Virginia","Isle of Wight County,Virginia",26024,669486
+248,"Lee County,Virginia","James City County,Virginia",24235,694100
+249,"Lee County,Virginia","King and Queen County,Virginia",23893,669684
+250,"Lee County,Virginia","King George County,Virginia",24011,684281
+251,"Lee County,Virginia","King William County,Virginia",22580,639606
+252,"Lee County,Virginia","Lancaster County,Virginia",26373,722691
+253,"Lee County,Virginia","Loudoun County,Virginia",23235,650373
+254,"Lee County,Virginia","Louisa County,Virginia",19798,553326
+255,"Lee County,Virginia","Lunenburg County,Virginia",20678,527738
+256,"Lee County,Virginia","Madison County,Virginia",20472,552773
+257,"Lee County,Virginia","Mathews County,Virginia",25994,730941
+258,"Lee County,Virginia","Mecklenburg County,Virginia",20237,507462
+259,"Lee County,Virginia","Middlesex County,Virginia",24771,703718
+260,"Lee County,Virginia","Montgomery County,Virginia",10967,288834
+261,"Lee County,Virginia","Nelson County,Virginia",17584,462760
+262,"Lee County,Virginia","New Kent County,Virginia",23671,668014
+263,"Lee County,Virginia","Northampton County,Virginia",28652,810763
+264,"Lee County,Virginia","Northumberland County,Virginia",26413,721204
+265,"Lee County,Virginia","Nottoway County,Virginia",20171,528118
+266,"Lee County,Virginia","Orange County,Virginia",20760,561434
+267,"Lee County,Virginia","Page County,Virginia",19405,536559
+268,"Lee County,Virginia","Patrick County,Virginia",12006,303265
+269,"Lee County,Virginia","Pittsylvania County,Virginia",16090,399159
+270,"Lee County,Virginia","Powhatan County,Virginia",21233,541821
+271,"Lee County,Virginia","Prince Edward County,Virginia",18786,485454
+272,"Lee County,Virginia","Prince George County,Virginia",23559,608739
+273,"Lee County,Virginia","Prince William County,Virginia",22277,641862
+274,"Lee County,Virginia","Pulaski County,Virginia",9644,249650
+275,"Lee County,Virginia","Rappahannock County,Virginia",21236,573046
+276,"Lee County,Virginia","Richmond County,Virginia",25113,693847
+277,"Lee County,Virginia","Roanoke County,Virginia",11748,308771
+278,"Lee County,Virginia","Rockbridge County,Virginia",15245,405419
+279,"Lee County,Virginia","Rockingham County,Virginia",18445,508909
+280,"Lee County,Virginia","Russell County,Virginia",6432,126807
+281,"Lee County,Virginia","Scott County,Virginia",2653,51078
+282,"Lee County,Virginia","Shenandoah County,Virginia",18949,539012
+283,"Lee County,Virginia","Smyth County,Virginia",6913,161100
+284,"Lee County,Virginia","Southampton County,Virginia",24914,688341
+285,"Lee County,Virginia","Spotsylvania County,Virginia",21814,595165
+286,"Lee County,Virginia","Stafford County,Virginia",23195,619458
+287,"Lee County,Virginia","Surry County,Virginia",24978,692961
+288,"Lee County,Virginia","Sussex County,Virginia",23913,614496
+289,"Lee County,Virginia","Tazewell County,Virginia",7696,169649
+290,"Lee County,Virginia","Warren County,Virginia",20851,583605
+291,"Lee County,Virginia","Washington County,Virginia",6073,118123
+292,"Lee County,Virginia","Westmoreland County,Virginia",24986,701105
+293,"Lee County,Virginia","Wise County,Virginia",3320,73312
+294,"Lee County,Virginia","Wythe County,Virginia",8127,203559
+295,"Lee County,Virginia","York County,Virginia",25522,724874
+296,"Lee County,Virginia","Alexandria City County,Virginia",24446,700404
+297,"Lee County,Virginia","Bedford City County,Virginia",14105,368714
+298,"Lee County,Virginia","Bristol City County,Virginia",4606,92405
+299,"Lee County,Virginia","Buena Vista City County,Virginia",14617,397906
+300,"Lee County,Virginia","Charlottesville City County,Virginia",18028,502663
+301,"Lee County,Virginia","Chesapeake City County,Virginia",26986,777780
+302,"Lee County,Virginia","Clifton Forge City County,Virginia",14884,387540
+303,"Lee County,Virginia","Colonial Heights City County,Virginia",22695,647005
+304,"Lee County,Virginia","Covington City County,Virginia",15868,408378
+305,"Lee County,Virginia","Danville City County,Virginia",15932,399406
+306,"Lee County,Virginia","Emporia City County,Virginia",23454,645006
+307,"Lee County,Virginia","Fairfax City County,Virginia",23409,667609
+308,"Lee County,Virginia","Falls Church City County,Virginia",23741,682082
+309,"Lee County,Virginia","Franklin City County,Virginia",25541,701476
+310,"Lee County,Virginia","Fredericksburg City County,Virginia",22947,604824
+311,"Lee County,Virginia","Galax City County,Virginia",10524,264096
+312,"Lee County,Virginia","Hampton City County,Virginia",25472,734581
+313,"Lee County,Virginia","Harrisonburg City County,Virginia",17504,488805
+314,"Lee County,Virginia","Hopewell City County,Virginia",22731,645971
+315,"Lee County,Virginia","Lexington City County,Virginia",14531,396234
+316,"Lee County,Virginia","Lynchburg City County,Virginia",16130,413589
+317,"Lee County,Virginia","Manassas City County,Virginia",22504,646807
+318,"Lee County,Virginia","Manassas Park City County,Virginia",23007,653150
+319,"Lee County,Virginia","Martinsville City County,Virginia",14302,353744
+320,"Lee County,Virginia","Newport News City County,Virginia",25029,721066
+321,"Lee County,Virginia","Norfolk City County,Virginia",26779,759996
+322,"Lee County,Virginia","Norton City County,Virginia",2740,61223
+323,"Lee County,Virginia","Petersburg City County,Virginia",22562,591343
+324,"Lee County,Virginia","Poquoson City County,Virginia",25701,731643
+325,"Lee County,Virginia","Portsmouth City County,Virginia",26718,768817
+326,"Lee County,Virginia","Radford County,Virginia",10154,263598
+327,"Lee County,Virginia","Richmond City County,Virginia",21434,612108
+328,"Lee County,Virginia","Roanoke City County,Virginia",12350,328875
+329,"Lee County,Virginia","Salem City County,Virginia",11762,315425
+330,"Lee County,Virginia","South Boston City County,Virginia",17944,453585
+331,"Lee County,Virginia","Staunton City County,Virginia",16321,449940
+332,"Lee County,Virginia","Suffolk City County,Virginia",26857,734778
+333,"Lee County,Virginia","Virginia Beach City County,Virginia",27340,783255
+334,"Lee County,Virginia","Waynesboro City County,Virginia",16659,462658
+335,"Lee County,Virginia","Williamsburg City County,Virginia",24073,693316
+336,"Lee County,Virginia","Winchester City County,Virginia",21070,598377
+337,"Lee County,Virginia","Barbour County,West Virginia",20614,537505
+338,"Lee County,Virginia","Berkeley County,West Virginia",22808,645585
+339,"Lee County,Virginia","Boone County,West Virginia",12186,289339
+340,"Lee County,Virginia","Braxton County,West Virginia",17304,428484
+341,"Lee County,Virginia","Brooke County,West Virginia",23731,632085
+342,"Lee County,Virginia","Cabell County,West Virginia",12192,298078
+343,"Lee County,Virginia","Calhoun County,West Virginia",17225,426169
+344,"Lee County,Virginia","Clay County,West Virginia",16071,399397
+345,"Lee County,Virginia","Doddridge County,West Virginia",19758,519014
+346,"Lee County,Virginia","Fayette County,West Virginia",13978,326376
+347,"Lee County,Virginia","Gilmer County,West Virginia",18503,450671
+348,"Lee County,Virginia","Grant County,West Virginia",22900,628072
+349,"Lee County,Virginia","Greenbrier County,West Virginia",15780,356897
+350,"Lee County,Virginia","Hampshire County,West Virginia",22927,616489
+351,"Lee County,Virginia","Hancock County,West Virginia",25321,666621
+352,"Lee County,Virginia","Hardy County,West Virginia",22148,599402
+353,"Lee County,Virginia","Harrison County,West Virginia",19848,523875
+354,"Lee County,Virginia","Jackson County,West Virginia",15109,380500
+355,"Lee County,Virginia","Jefferson County,West Virginia",22859,632991
+356,"Lee County,Virginia","Kanawha County,West Virginia",14079,329243
+357,"Lee County,Virginia","Lewis County,West Virginia",18477,477346
+358,"Lee County,Virginia","Lincoln County,West Virginia",12920,297078
+359,"Lee County,Virginia","Logan County,West Virginia",10292,245974
+360,"Lee County,Virginia","McDowell County,West Virginia",11010,207759
+361,"Lee County,Virginia","Marion County,West Virginia",20993,551043
+362,"Lee County,Virginia","Marshall County,West Virginia",23118,568186
+363,"Lee County,Virginia","Mason County,West Virginia",14931,374739
+364,"Lee County,Virginia","Mercer County,West Virginia",10557,242040
+365,"Lee County,Virginia","Mineral County,West Virginia",24374,639595
+366,"Lee County,Virginia","Mingo County,West Virginia",8976,212427
+367,"Lee County,Virginia","Monongalia County,West Virginia",21204,576511
+368,"Lee County,Virginia","Monroe County,West Virginia",13021,291439
+369,"Lee County,Virginia","Morgan County,West Virginia",23054,646711
+370,"Lee County,Virginia","Nicholas County,West Virginia",15425,367375
+371,"Lee County,Virginia","Ohio County,West Virginia",22750,613323
+372,"Lee County,Virginia","Pendleton County,West Virginia",21292,560094
+373,"Lee County,Virginia","Pleasants County,West Virginia",18592,478352
+374,"Lee County,Virginia","Pocahontas County,West Virginia",18860,437110
+375,"Lee County,Virginia","Preston County,West Virginia",23349,603242
+376,"Lee County,Virginia","Putnam County,West Virginia",13712,340357
+377,"Lee County,Virginia","Raleigh County,West Virginia",12153,286614
+378,"Lee County,Virginia","Randolph County,West Virginia",20979,539801
+379,"Lee County,Virginia","Ritchie County,West Virginia",18923,492056
+380,"Lee County,Virginia","Roane County,West Virginia",16735,409316
+381,"Lee County,Virginia","Summers County,West Virginia",13112,286979
+382,"Lee County,Virginia","Taylor County,West Virginia",20886,546615
+383,"Lee County,Virginia","Tucker County,West Virginia",22046,570325
+384,"Lee County,Virginia","Tyler County,West Virginia",20501,517967
+385,"Lee County,Virginia","Upshur County,West Virginia",20042,492043
+386,"Lee County,Virginia","Wayne County,West Virginia",11521,267875
+387,"Lee County,Virginia","Webster County,West Virginia",18768,424326
+388,"Lee County,Virginia","Wetzel County,West Virginia",21713,539874
+389,"Lee County,Virginia","Wirt County,West Virginia",17376,437838
+390,"Lee County,Virginia","Wood County,West Virginia",16890,439528
+391,"Lee County,Virginia","Wyoming County,West Virginia",12778,251852

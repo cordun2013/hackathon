@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Culpeper County,Virginia","Adair County,Kentucky",32613,851059
+1,"Culpeper County,Virginia","Allen County,Kentucky",34008,970869
+2,"Culpeper County,Virginia","Anderson County,Kentucky",28240,813845
+3,"Culpeper County,Virginia","Ballard County,Kentucky",40913,1206124
+4,"Culpeper County,Virginia","Barren County,Kentucky",33798,929814
+5,"Culpeper County,Virginia","Bath County,Kentucky",23888,685026
+6,"Culpeper County,Virginia","Bell County,Kentucky",25108,652366
+7,"Culpeper County,Virginia","Boone County,Kentucky",29700,806419
+8,"Culpeper County,Virginia","Bourbon County,Kentucky",25801,731443
+9,"Culpeper County,Virginia","Boyd County,Kentucky",20563,579350
+10,"Culpeper County,Virginia","Boyle County,Kentucky",29469,817731
+11,"Culpeper County,Virginia","Bracken County,Kentucky",26212,725526
+12,"Culpeper County,Virginia","Breathitt County,Kentucky",26732,688129
+13,"Culpeper County,Virginia","Breckinridge County,Kentucky",33774,966526
+14,"Culpeper County,Virginia","Bullitt County,Kentucky",30343,887645
+15,"Culpeper County,Virginia","Butler County,Kentucky",34439,988524
+16,"Culpeper County,Virginia","Caldwell County,Kentucky",37330,1094469
+17,"Culpeper County,Virginia","Calloway County,Kentucky",38754,1137983
+18,"Culpeper County,Virginia","Campbell County,Kentucky",27913,765397
+19,"Culpeper County,Virginia","Carlisle County,Kentucky",41370,1221492
+20,"Culpeper County,Virginia","Carroll County,Kentucky",30785,861659
+21,"Culpeper County,Virginia","Carter County,Kentucky",21728,609447
+22,"Culpeper County,Virginia","Casey County,Kentucky",30964,849236
+23,"Culpeper County,Virginia","Christian County,Kentucky",35647,1058963
+24,"Culpeper County,Virginia","Clay County,Kentucky",27680,712708
+25,"Culpeper County,Virginia","Clinton County,Kentucky",31056,850274
+26,"Culpeper County,Virginia","Crittenden County,Kentucky",38910,1127539
+27,"Culpeper County,Virginia","Cumberland County,Kentucky",31935,870942
+28,"Culpeper County,Virginia","Daviess County,Kentucky",35461,1034966
+29,"Culpeper County,Virginia","Edmonson County,Kentucky",33879,976398
+30,"Culpeper County,Virginia","Elliott County,Kentucky",23058,635217
+31,"Culpeper County,Virginia","Estill County,Kentucky",26880,747341
+32,"Culpeper County,Virginia","Fayette County,Kentucky",26047,751337
+33,"Culpeper County,Virginia","Fleming County,Kentucky",24314,688211
+34,"Culpeper County,Virginia","Floyd County,Kentucky",24696,686615
+35,"Culpeper County,Virginia","Franklin County,Kentucky",28085,800254
+36,"Culpeper County,Virginia","Fulton County,Kentucky",41774,1242457
+37,"Culpeper County,Virginia","Gallatin County,Kentucky",29783,852318
+38,"Culpeper County,Virginia","Garrard County,Kentucky",28652,798491
+39,"Culpeper County,Virginia","Grant County,Kentucky",28582,826425
+40,"Culpeper County,Virginia","Graves County,Kentucky",40395,1194199
+41,"Culpeper County,Virginia","Grayson County,Kentucky",32766,945160
+42,"Culpeper County,Virginia","Green County,Kentucky",32545,910365
+43,"Culpeper County,Virginia","Greenup County,Kentucky",22339,620476
+44,"Culpeper County,Virginia","Hancock County,Kentucky",34569,999419
+45,"Culpeper County,Virginia","Hardin County,Kentucky",31642,907292
+46,"Culpeper County,Virginia","Harlan County,Kentucky",24183,628992
+47,"Culpeper County,Virginia","Harrison County,Kentucky",27372,764543
+48,"Culpeper County,Virginia","Hart County,Kentucky",32441,934921
+49,"Culpeper County,Virginia","Henderson County,Kentucky",37268,1087396
+50,"Culpeper County,Virginia","Henry County,Kentucky",29686,843972
+51,"Culpeper County,Virginia","Hickman County,Kentucky",41403,1222784
+52,"Culpeper County,Virginia","Hopkins County,Kentucky",36789,1068937
+53,"Culpeper County,Virginia","Jackson County,Kentucky",29552,749127
+54,"Culpeper County,Virginia","Jefferson County,Kentucky",29780,859506
+55,"Culpeper County,Virginia","Jessamine County,Kentucky",27516,772801
+56,"Culpeper County,Virginia","Johnson County,Kentucky",23345,652246
+57,"Culpeper County,Virginia","Kenton County,Kentucky",29070,794113
+58,"Culpeper County,Virginia","Knott County,Kentucky",24273,630879
+59,"Culpeper County,Virginia","Knox County,Kentucky",26438,694358
+60,"Culpeper County,Virginia","Larue County,Kentucky",31714,894468
+61,"Culpeper County,Virginia","Laurel County,Kentucky",28332,729186
+62,"Culpeper County,Virginia","Lawrence County,Kentucky",22486,623670
+63,"Culpeper County,Virginia","Lee County,Kentucky",27725,741078
+64,"Culpeper County,Virginia","Leslie County,Kentucky",25645,657272
+65,"Culpeper County,Virginia","Letcher County,Kentucky",22673,594426
+66,"Culpeper County,Virginia","Lewis County,Kentucky",23766,661265
+67,"Culpeper County,Virginia","Lincoln County,Kentucky",29362,815409
+68,"Culpeper County,Virginia","Livingston County,Kentucky",39244,1160063
+69,"Culpeper County,Virginia","Logan County,Kentucky",36079,1011863
+70,"Culpeper County,Virginia","Lyon County,Kentucky",39001,1137237
+71,"Culpeper County,Virginia","McCracken County,Kentucky",39525,1174184
+72,"Culpeper County,Virginia","McCreary County,Kentucky",28062,787120
+73,"Culpeper County,Virginia","Madison County,Kentucky",27046,762360
+74,"Culpeper County,Virginia","Magoffin County,Kentucky",24312,672925
+75,"Culpeper County,Virginia","Marion County,Kentucky",30091,856077
+76,"Culpeper County,Virginia","Marshall County,Kentucky",38940,1157756
+77,"Culpeper County,Virginia","Martin County,Kentucky",23600,605394
+78,"Culpeper County,Virginia","Mason County,Kentucky",25561,705072
+79,"Culpeper County,Virginia","Meade County,Kentucky",32241,931821
+80,"Culpeper County,Virginia","Menifee County,Kentucky",25004,697089
+81,"Culpeper County,Virginia","Mercer County,Kentucky",28468,811788
+82,"Culpeper County,Virginia","Metcalfe County,Kentucky",33269,881324
+83,"Culpeper County,Virginia","Monroe County,Kentucky",32496,901363
+84,"Culpeper County,Virginia","Montgomery County,Kentucky",24701,703566
+85,"Culpeper County,Virginia","Morgan County,Kentucky",24782,672805
+86,"Culpeper County,Virginia","Muhlenberg County,Kentucky",35649,1035413
+87,"Culpeper County,Virginia","Nelson County,Kentucky",29699,855149
+88,"Culpeper County,Virginia","Nicholas County,Kentucky",26379,731450
+89,"Culpeper County,Virginia","Ohio County,Kentucky",34563,1003003
+90,"Culpeper County,Virginia","Oldham County,Kentucky",29852,871387
+91,"Culpeper County,Virginia","Owen County,Kentucky",28907,827031
+92,"Culpeper County,Virginia","Owsley County,Kentucky",28870,726003
+93,"Culpeper County,Virginia","Pendleton County,Kentucky",28150,766450
+94,"Culpeper County,Virginia","Perry County,Kentucky",25246,651302
+95,"Culpeper County,Virginia","Pike County,Kentucky",23796,570640
+96,"Culpeper County,Virginia","Powell County,Kentucky",26144,733312
+97,"Culpeper County,Virginia","Robertson County,Kentucky",26296,730956
+98,"Culpeper County,Virginia","Rockcastle County,Kentucky",28480,803503
+99,"Culpeper County,Virginia","Rowan County,Kentucky",23030,657233
+100,"Culpeper County,Virginia","Russell County,Kentucky",32217,835043
+101,"Culpeper County,Virginia","Scott County,Kentucky",26882,779364
+102,"Culpeper County,Virginia","Shelby County,Kentucky",28709,830640
+103,"Culpeper County,Virginia","Simpson County,Kentucky",35046,987839
+104,"Culpeper County,Virginia","Spencer County,Kentucky",29238,836488
+105,"Culpeper County,Virginia","Taylor County,Kentucky",31381,887573
+106,"Culpeper County,Virginia","Todd County,Kentucky",36062,1051910
+107,"Culpeper County,Virginia","Trigg County,Kentucky",36554,1076322
+108,"Culpeper County,Virginia","Trimble County,Kentucky",30925,877427
+109,"Culpeper County,Virginia","Union County,Kentucky",38988,1117842
+110,"Culpeper County,Virginia","Warren County,Kentucky",34795,1004767
+111,"Culpeper County,Virginia","Washington County,Kentucky",29709,840385
+112,"Culpeper County,Virginia","Wayne County,Kentucky",30566,834251
+113,"Culpeper County,Virginia","Webster County,Kentucky",37898,1097026
+114,"Culpeper County,Virginia","Whitley County,Kentucky",26666,771882
+115,"Culpeper County,Virginia","Wolfe County,Kentucky",25877,696167
+116,"Culpeper County,Virginia","Woodford County,Kentucky",27101,782000
+117,"Culpeper County,Virginia","Adams County,Ohio",25654,707628
+118,"Culpeper County,Virginia","Allen County,Ohio",30095,826464
+119,"Culpeper County,Virginia","Ashland County,Ohio",24644,653153
+120,"Culpeper County,Virginia","Ashtabula County,Ohio",22641,607623
+121,"Culpeper County,Virginia","Athens County,Ohio",21565,513417
+122,"Culpeper County,Virginia","Auglaize County,Ohio",30061,818055
+123,"Culpeper County,Virginia","Belmont County,Ohio",18682,474822
+124,"Culpeper County,Virginia","Brown County,Ohio",26898,734556
+125,"Culpeper County,Virginia","Butler County,Ohio",30011,816581
+126,"Culpeper County,Virginia","Carroll County,Ohio",21157,519844
+127,"Culpeper County,Virginia","Champaign County,Ohio",27804,732950
+128,"Culpeper County,Virginia","Clark County,Ohio",26682,723521
+129,"Culpeper County,Virginia","Clermont County,Ohio",27732,765652
+130,"Culpeper County,Virginia","Clinton County,Ohio",27123,749069
+131,"Culpeper County,Virginia","Columbiana County,Ohio",19943,501861
+132,"Culpeper County,Virginia","Coshocton County,Ohio",23039,600272
+133,"Culpeper County,Virginia","Crawford County,Ohio",26552,724347
+134,"Culpeper County,Virginia","Cuyahoga County,Ohio",22637,605467
+135,"Culpeper County,Virginia","Darke County,Ohio",30258,821423
+136,"Culpeper County,Virginia","Defiance County,Ohio",30956,854430
+137,"Culpeper County,Virginia","Delaware County,Ohio",25958,699270
+138,"Culpeper County,Virginia","Fairfield County,Ohio",24053,636055
+139,"Culpeper County,Virginia","Fayette County,Ohio",25687,719532
+140,"Culpeper County,Virginia","Franklin County,Ohio",24654,663156
+141,"Culpeper County,Virginia","Fulton County,Ohio",29308,811281
+142,"Culpeper County,Virginia","Gallia County,Ohio",21000,578644
+143,"Culpeper County,Virginia","Geauga County,Ohio",22130,580286
+144,"Culpeper County,Virginia","Greene County,Ohio",26557,752685
+145,"Culpeper County,Virginia","Guernsey County,Ohio",20585,538331
+146,"Culpeper County,Virginia","Hamilton County,Ohio",29512,827159
+147,"Culpeper County,Virginia","Hancock County,Ohio",28582,786429
+148,"Culpeper County,Virginia","Hardin County,Ohio",28958,770191
+149,"Culpeper County,Virginia","Harrison County,Ohio",20371,522062
+150,"Culpeper County,Virginia","Henry County,Ohio",29762,801048
+151,"Culpeper County,Virginia","Highland County,Ohio",26191,707642
+152,"Culpeper County,Virginia","Hocking County,Ohio",23191,559321
+153,"Culpeper County,Virginia","Holmes County,Ohio",24097,623156
+154,"Culpeper County,Virginia","Huron County,Ohio",25920,682759
+155,"Culpeper County,Virginia","Jackson County,Ohio",22178,618193
+156,"Culpeper County,Virginia","Jefferson County,Ohio",19113,483335
+157,"Culpeper County,Virginia","Knox County,Ohio",24827,642748
+158,"Culpeper County,Virginia","Lawrence County,Ohio",21703,584407
+159,"Culpeper County,Virginia","Licking County,Ohio",24213,623819
+160,"Culpeper County,Virginia","Logan County,Ohio",27979,764468
+161,"Culpeper County,Virginia","Lorain County,Ohio",23689,635187
+162,"Culpeper County,Virginia","Lucas County,Ohio",28262,764131
+163,"Culpeper County,Virginia","Madison County,Ohio",25931,697877
+164,"Culpeper County,Virginia","Mahoning County,Ohio",19127,497615
+165,"Culpeper County,Virginia","Marion County,Ohio",27364,725363
+166,"Culpeper County,Virginia","Medina County,Ohio",23276,620273
+167,"Culpeper County,Virginia","Meigs County,Ohio",20943,584198
+168,"Culpeper County,Virginia","Mercer County,Ohio",31297,844989
+169,"Culpeper County,Virginia","Miami County,Ohio",28769,786855
+170,"Culpeper County,Virginia","Monroe County,Ohio",21114,521506
+171,"Culpeper County,Virginia","Montgomery County,Ohio",28591,800140
+172,"Culpeper County,Virginia","Morgan County,Ohio",22008,515764
+173,"Culpeper County,Virginia","Morrow County,Ohio",26281,714606
+174,"Culpeper County,Virginia","Muskingum County,Ohio",21431,566323
+175,"Culpeper County,Virginia","Noble County,Ohio",21488,513291
+176,"Culpeper County,Virginia","Paulding County,Ohio",32161,890418
+177,"Culpeper County,Virginia","Perry County,Ohio",23530,614266
+178,"Culpeper County,Virginia","Pickaway County,Ohio",25127,699631
+179,"Culpeper County,Virginia","Pike County,Ohio",23624,657500
+180,"Culpeper County,Virginia","Portage County,Ohio",20982,553628
+181,"Culpeper County,Virginia","Preble County,Ohio",29800,815013
+182,"Culpeper County,Virginia","Putnam County,Ohio",30781,846234
+183,"Culpeper County,Virginia","Richland County,Ohio",25200,674581
+184,"Culpeper County,Virginia","Ross County,Ohio",23872,665937
+185,"Culpeper County,Virginia","Sandusky County,Ohio",26550,722706
+186,"Culpeper County,Virginia","Scioto County,Ohio",23508,641680
+187,"Culpeper County,Virginia","Seneca County,Ohio",27281,732378
+188,"Culpeper County,Virginia","Shelby County,Ohio",29737,794716
+189,"Culpeper County,Virginia","Stark County,Ohio",21762,549761
+190,"Culpeper County,Virginia","Summit County,Ohio",22040,579444
+191,"Culpeper County,Virginia","Trumbull County,Ohio",20285,535079
+192,"Culpeper County,Virginia","Tuscarawas County,Ohio",21880,553345
+193,"Culpeper County,Virginia","Union County,Ohio",26483,714699
+194,"Culpeper County,Virginia","Van Wert County,Ohio",30892,856746
+195,"Culpeper County,Virginia","Vinton County,Ohio",23683,561858
+196,"Culpeper County,Virginia","Warren County,Ohio",27929,783127
+197,"Culpeper County,Virginia","Washington County,Ohio",20346,471227
+198,"Culpeper County,Virginia","Wayne County,Ohio",24381,639084
+199,"Culpeper County,Virginia","Williams County,Ohio",30553,842738
+200,"Culpeper County,Virginia","Wood County,Ohio",28447,771034
+201,"Culpeper County,Virginia","Wyandot County,Ohio",27552,750564
+202,"Culpeper County,Virginia","Accomack County,Virginia",15732,395991
+203,"Culpeper County,Virginia","Albemarle County,Virginia",4325,86225
+204,"Culpeper County,Virginia","Alleghany County,Virginia",10092,262000
+205,"Culpeper County,Virginia","Amelia County,Virginia",7471,151816
+206,"Culpeper County,Virginia","Amherst County,Virginia",7336,162353
+207,"Culpeper County,Virginia","Appomattox County,Virginia",8488,172310
+208,"Culpeper County,Virginia","Arlington County,Virginia",4908,105065
+209,"Culpeper County,Virginia","Augusta County,Virginia",6836,155693
+210,"Culpeper County,Virginia","Bath County,Virginia",9810,221353
+211,"Culpeper County,Virginia","Bedford County,Virginia",9820,225756
+212,"Culpeper County,Virginia","Bland County,Virginia",14374,391683
+213,"Culpeper County,Virginia","Botetourt County,Virginia",9399,232936
+214,"Culpeper County,Virginia","Brunswick County,Virginia",9854,252321
+215,"Culpeper County,Virginia","Buchanan County,Virginia",20131,526142
+216,"Culpeper County,Virginia","Buckingham County,Virginia",7330,144288
+217,"Culpeper County,Virginia","Campbell County,Virginia",8698,202485
+218,"Culpeper County,Virginia","Caroline County,Virginia",4851,102888
+219,"Culpeper County,Virginia","Carroll County,Virginia",14496,397100
+220,"Culpeper County,Virginia","Charles City County,Virginia",7321,174371
+221,"Culpeper County,Virginia","Charlotte County,Virginia",10140,210983
+222,"Culpeper County,Virginia","Chesterfield County,Virginia",7028,163694
+223,"Culpeper County,Virginia","Clarke County,Virginia",4636,95983
+224,"Culpeper County,Virginia","Craig County,Virginia",12240,289263
+225,"Culpeper County,Virginia","Cumberland County,Virginia",6831,139310
+226,"Culpeper County,Virginia","Dickenson County,Virginia",20841,544320
+227,"Culpeper County,Virginia","Dinwiddie County,Virginia",8492,212288
+228,"Culpeper County,Virginia","Essex County,Virginia",6247,122289
+229,"Culpeper County,Virginia","Fairfax County,Virginia",4531,95341
+230,"Culpeper County,Virginia","Fauquier County,Virginia",1847,36588
+231,"Culpeper County,Virginia","Floyd County,Virginia",13023,338647
+232,"Culpeper County,Virginia","Fluvanna County,Virginia",4416,84387
+233,"Culpeper County,Virginia","Franklin County,Virginia",12257,293051
+234,"Culpeper County,Virginia","Frederick County,Virginia",5188,116286
+235,"Culpeper County,Virginia","Giles County,Virginia",13163,346799
+236,"Culpeper County,Virginia","Gloucester County,Virginia",9492,228559
+237,"Culpeper County,Virginia","Goochland County,Virginia",4998,102780
+238,"Culpeper County,Virginia","Grayson County,Virginia",15828,413279
+239,"Culpeper County,Virginia","Greene County,Virginia",3485,67609
+240,"Culpeper County,Virginia","Greensville County,Virginia",9908,261039
+241,"Culpeper County,Virginia","Halifax County,Virginia",11955,268987
+242,"Culpeper County,Virginia","Hanover County,Virginia",5669,132380
+243,"Culpeper County,Virginia","Henrico County,Virginia",6468,155041
+244,"Culpeper County,Virginia","Henry County,Virginia",13712,330006
+245,"Culpeper County,Virginia","Highland County,Virginia",10038,213432
+246,"Culpeper County,Virginia","Isle of Wight County,Virginia",10602,263631
+247,"Culpeper County,Virginia","James City County,Virginia",8557,215142
+248,"Culpeper County,Virginia","King and Queen County,Virginia",7304,162203
+249,"Culpeper County,Virginia","King George County,Virginia",4837,89841
+250,"Culpeper County,Virginia","King William County,Virginia",6270,140000
+251,"Culpeper County,Virginia","Lancaster County,Virginia",8670,178283
+252,"Culpeper County,Virginia","Lee County,Virginia",21335,575974
+253,"Culpeper County,Virginia","Loudoun County,Virginia",4663,88539
+254,"Culpeper County,Virginia","Louisa County,Virginia",3182,63501
+255,"Culpeper County,Virginia","Lunenburg County,Virginia",9873,209690
+256,"Culpeper County,Virginia","Madison County,Virginia",1857,35932
+257,"Culpeper County,Virginia","Mathews County,Virginia",10381,222671
+258,"Culpeper County,Virginia","Mecklenburg County,Virginia",11580,300592
+259,"Culpeper County,Virginia","Middlesex County,Virginia",8751,186252
+260,"Culpeper County,Virginia","Montgomery County,Virginia",11727,311070
+261,"Culpeper County,Virginia","Nelson County,Virginia",5782,129947
+262,"Culpeper County,Virginia","New Kent County,Virginia",7993,189056
+263,"Culpeper County,Virginia","Northampton County,Virginia",12974,331805
+264,"Culpeper County,Virginia","Northumberland County,Virginia",8710,176796
+265,"Culpeper County,Virginia","Nottoway County,Virginia",8749,178544
+266,"Culpeper County,Virginia","Orange County,Virginia",1916,34625
+267,"Culpeper County,Virginia","Page County,Virginia",3214,60554
+268,"Culpeper County,Virginia","Patrick County,Virginia",15143,375550
+269,"Culpeper County,Virginia","Pittsylvania County,Virginia",11268,274112
+270,"Culpeper County,Virginia","Powhatan County,Virginia",6251,128002
+271,"Culpeper County,Virginia","Prince Edward County,Virginia",8603,177315
+272,"Culpeper County,Virginia","Prince George County,Virginia",8137,202884
+273,"Culpeper County,Virginia","Prince William County,Virginia",2805,57297
+274,"Culpeper County,Virginia","Pulaski County,Virginia",12455,333703
+275,"Culpeper County,Virginia","Rappahannock County,Virginia",1913,34835
+276,"Culpeper County,Virginia","Richmond County,Virginia",7410,149439
+277,"Culpeper County,Virginia","Roanoke County,Virginia",10718,276008
+278,"Culpeper County,Virginia","Rockbridge County,Virginia",8141,198945
+279,"Culpeper County,Virginia","Rockingham County,Virginia",5669,107229
+280,"Culpeper County,Virginia","Russell County,Virginia",19297,509479
+281,"Culpeper County,Virginia","Scott County,Virginia",19909,536702
+282,"Culpeper County,Virginia","Shenandoah County,Virginia",5208,92057
+283,"Culpeper County,Virginia","Smyth County,Virginia",15491,420424
+284,"Culpeper County,Virginia","Southampton County,Virginia",10286,257153
+285,"Culpeper County,Virginia","Spotsylvania County,Virginia",2960,52474
+286,"Culpeper County,Virginia","Stafford County,Virginia",3433,67560
+287,"Culpeper County,Virginia","Surry County,Virginia",9249,224578
+288,"Culpeper County,Virginia","Sussex County,Virginia",8950,227396
+289,"Culpeper County,Virginia","Tazewell County,Virginia",16952,460500
+290,"Culpeper County,Virginia","Warren County,Virginia",3479,68795
+291,"Culpeper County,Virginia","Washington County,Virginia",16885,459890
+292,"Culpeper County,Virginia","Westmoreland County,Virginia",5805,108642
+293,"Culpeper County,Virginia","Wise County,Virginia",20748,550822
+294,"Culpeper County,Virginia","Wythe County,Virginia",13745,372409
+295,"Culpeper County,Virginia","York County,Virginia",9845,245916
+296,"Culpeper County,Virginia","Alexandria City County,Virginia",5111,117712
+297,"Culpeper County,Virginia","Bedford City County,Virginia",9321,220840
+298,"Culpeper County,Virginia","Bristol City County,Virginia",17360,485607
+299,"Culpeper County,Virginia","Buena Vista City County,Virginia",7800,192211
+300,"Culpeper County,Virginia","Charlottesville City County,Virginia",4183,79587
+301,"Culpeper County,Virginia","Chesapeake City County,Virginia",11308,298822
+302,"Culpeper County,Virginia","Clifton Forge City County,Virginia",8994,230818
+303,"Culpeper County,Virginia","Colonial Heights City County,Virginia",7304,177748
+304,"Culpeper County,Virginia","Covington City County,Virginia",9737,249160
+305,"Culpeper County,Virginia","Danville City County,Virginia",11867,290455
+306,"Culpeper County,Virginia","Emporia City County,Virginia",9615,247633
+307,"Culpeper County,Virginia","Fairfax City County,Virginia",4074,84917
+308,"Culpeper County,Virginia","Falls Church City County,Virginia",4406,99389
+309,"Culpeper County,Virginia","Franklin City County,Virginia",10833,265008
+310,"Culpeper County,Virginia","Fredericksburg City County,Virginia",3409,62685
+311,"Culpeper County,Virginia","Galax City County,Virginia",15120,402966
+312,"Culpeper County,Virginia","Hampton City County,Virginia",9795,255623
+313,"Culpeper County,Virginia","Harrisonburg City County,Virginia",5293,108558
+314,"Culpeper County,Virginia","Hopewell City County,Virginia",7068,177785
+315,"Culpeper County,Virginia","Lexington City County,Virginia",7659,189189
+316,"Culpeper County,Virginia","Lynchburg City County,Virginia",7884,182409
+317,"Culpeper County,Virginia","Manassas City County,Virginia",3154,57881
+318,"Culpeper County,Virginia","Manassas Park City County,Virginia",3523,61128
+319,"Culpeper County,Virginia","Martinsville City County,Virginia",12896,306221
+320,"Culpeper County,Virginia","Newport News City County,Virginia",9351,242108
+321,"Culpeper County,Virginia","Norfolk City County,Virginia",11101,281039
+322,"Culpeper County,Virginia","Norton City County,Virginia",20272,541712
+323,"Culpeper County,Virginia","Petersburg City County,Virginia",7176,178736
+324,"Culpeper County,Virginia","Poquoson City County,Virginia",10023,252685
+325,"Culpeper County,Virginia","Portsmouth City County,Virginia",11040,289859
+326,"Culpeper County,Virginia","Radford County,Virginia",12091,320914
+327,"Culpeper County,Virginia","Richmond City County,Virginia",6044,142851
+328,"Culpeper County,Virginia","Roanoke City County,Virginia",10257,267450
+329,"Culpeper County,Virginia","Salem City County,Virginia",10086,265921
+330,"Culpeper County,Virginia","South Boston City County,Virginia",11649,266237
+331,"Culpeper County,Virginia","Staunton City County,Virginia",6142,137416
+332,"Culpeper County,Virginia","Suffolk City County,Virginia",11445,278355
+333,"Culpeper County,Virginia","Virginia Beach City County,Virginia",11662,304297
+334,"Culpeper County,Virginia","Waynesboro City County,Virginia",5418,119414
+335,"Culpeper County,Virginia","Williamsburg City County,Virginia",8396,214358
+336,"Culpeper County,Virginia","Winchester City County,Virginia",5013,102793
+337,"Culpeper County,Virginia","Barbour County,West Virginia",12893,290597
+338,"Culpeper County,Virginia","Berkeley County,West Virginia",6794,152974
+339,"Culpeper County,Virginia","Boone County,West Virginia",18451,461705
+340,"Culpeper County,Virginia","Braxton County,West Virginia",17590,408489
+341,"Culpeper County,Virginia","Brooke County,West Virginia",17889,437723
+342,"Culpeper County,Virginia","Cabell County,West Virginia",20019,557611
+343,"Culpeper County,Virginia","Calhoun County,West Virginia",18913,443156
+344,"Culpeper County,Virginia","Clay County,West Virginia",18184,433164
+345,"Culpeper County,Virginia","Doddridge County,West Virginia",17075,378696
+346,"Culpeper County,Virginia","Fayette County,West Virginia",15573,379903
+347,"Culpeper County,Virginia","Gilmer County,West Virginia",17394,407847
+348,"Culpeper County,Virginia","Grant County,West Virginia",8238,193694
+349,"Culpeper County,Virginia","Greenbrier County,West Virginia",13929,339128
+350,"Culpeper County,Virginia","Hampshire County,West Virginia",7318,162050
+351,"Culpeper County,Virginia","Hancock County,West Virginia",19127,474755
+352,"Culpeper County,Virginia","Hardy County,West Virginia",7485,165023
+353,"Culpeper County,Virginia","Harrison County,West Virginia",15512,340324
+354,"Culpeper County,Virginia","Jackson County,West Virginia",19338,537422
+355,"Culpeper County,Virginia","Jefferson County,West Virginia",5974,118871
+356,"Culpeper County,Virginia","Kanawha County,West Virginia",17101,459404
+357,"Culpeper County,Virginia","Lewis County,West Virginia",15295,357477
+358,"Culpeper County,Virginia","Lincoln County,West Virginia",20683,535289
+359,"Culpeper County,Virginia","Logan County,West Virginia",20242,492195
+360,"Culpeper County,Virginia","McDowell County,West Virginia",18621,466646
+361,"Culpeper County,Virginia","Marion County,West Virginia",15207,360583
+362,"Culpeper County,Virginia","Marshall County,West Virginia",18876,432167
+363,"Culpeper County,Virginia","Mason County,West Virginia",19495,543518
+364,"Culpeper County,Virginia","Mercer County,West Virginia",15336,402976
+365,"Culpeper County,Virginia","Mineral County,West Virginia",9711,205217
+366,"Culpeper County,Virginia","Mingo County,West Virginia",20821,556129
+367,"Culpeper County,Virginia","Monongalia County,West Virginia",13030,312322
+368,"Culpeper County,Virginia","Monroe County,West Virginia",12863,325449
+369,"Culpeper County,Virginia","Morgan County,West Virginia",7039,154100
+370,"Culpeper County,Virginia","Nicholas County,West Virginia",15768,392553
+371,"Culpeper County,Virginia","Ohio County,West Virginia",17796,446669
+372,"Culpeper County,Virginia","Pendleton County,West Virginia",9222,187003
+373,"Culpeper County,Virginia","Pleasants County,West Virginia",18310,416464
+374,"Culpeper County,Virginia","Pocahontas County,West Virginia",13501,275118
+375,"Culpeper County,Virginia","Preston County,West Virginia",12418,272145
+376,"Culpeper County,Virginia","Putnam County,West Virginia",18276,509136
+377,"Culpeper County,Virginia","Raleigh County,West Virginia",14126,384585
+378,"Culpeper County,Virginia","Randolph County,West Virginia",13923,316882
+379,"Culpeper County,Virginia","Ritchie County,West Virginia",18221,410766
+380,"Culpeper County,Virginia","Roane County,West Virginia",20964,566237
+381,"Culpeper County,Virginia","Summers County,West Virginia",14847,364463
+382,"Culpeper County,Virginia","Taylor County,West Virginia",12761,289966
+383,"Culpeper County,Virginia","Tucker County,West Virginia",10897,255341
+384,"Culpeper County,Virginia","Tyler County,West Virginia",19237,409130
+385,"Culpeper County,Virginia","Upshur County,West Virginia",14971,338459
+386,"Culpeper County,Virginia","Wayne County,West Virginia",21610,590238
+387,"Culpeper County,Virginia","Webster County,West Virginia",17454,342209
+388,"Culpeper County,Virginia","Wetzel County,West Virginia",18170,387250
+389,"Culpeper County,Virginia","Wirt County,West Virginia",20354,474722
+390,"Culpeper County,Virginia","Wood County,West Virginia",19091,441726
+391,"Culpeper County,Virginia","Wyoming County,West Virginia",16071,424527

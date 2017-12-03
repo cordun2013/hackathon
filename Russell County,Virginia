@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Russell County,Virginia","Adair County,Kentucky",16964,383422
+1,"Russell County,Virginia","Allen County,Kentucky",20161,479064
+2,"Russell County,Virginia","Anderson County,Kentucky",16966,390853
+3,"Russell County,Virginia","Ballard County,Kentucky",27287,790726
+4,"Russell County,Virginia","Barren County,Kentucky",18710,442449
+5,"Russell County,Virginia","Bath County,Kentucky",13828,267667
+6,"Russell County,Virginia","Bell County,Kentucky",9854,190301
+7,"Russell County,Virginia","Boone County,Kentucky",18674,442561
+8,"Russell County,Virginia","Bourbon County,Kentucky",14968,324416
+9,"Russell County,Virginia","Boyd County,Kentucky",12338,256698
+10,"Russell County,Virginia","Boyle County,Kentucky",16192,357580
+11,"Russell County,Virginia","Bracken County,Kentucky",17632,350951
+12,"Russell County,Virginia","Breathitt County,Kentucky",10544,214121
+13,"Russell County,Virginia","Breckinridge County,Kentucky",22499,543534
+14,"Russell County,Virginia","Bullitt County,Kentucky",19069,464654
+15,"Russell County,Virginia","Butler County,Kentucky",21749,538923
+16,"Russell County,Virginia","Caldwell County,Kentucky",24427,698540
+17,"Russell County,Virginia","Calloway County,Kentucky",25128,722585
+18,"Russell County,Virginia","Campbell County,Kentucky",18662,409235
+19,"Russell County,Virginia","Carlisle County,Kentucky",27745,806094
+20,"Russell County,Virginia","Carroll County,Kentucky",19510,438668
+21,"Russell County,Virginia","Carter County,Kentucky",13131,245412
+22,"Russell County,Virginia","Casey County,Kentucky",16902,356696
+23,"Russell County,Virginia","Christian County,Kentucky",22021,643565
+24,"Russell County,Virginia","Clay County,Kentucky",11492,238700
+25,"Russell County,Virginia","Clinton County,Kentucky",17372,386788
+26,"Russell County,Virginia","Crittenden County,Kentucky",25692,731300
+27,"Russell County,Virginia","Cumberland County,Kentucky",18126,405026
+28,"Russell County,Virginia","Daviess County,Kentucky",24183,612716
+29,"Russell County,Virginia","Edmonson County,Kentucky",20239,486610
+30,"Russell County,Virginia","Elliott County,Kentucky",12741,231791
+31,"Russell County,Virginia","Estill County,Kentucky",13871,291346
+32,"Russell County,Virginia","Fayette County,Kentucky",14773,328346
+33,"Russell County,Virginia","Fleming County,Kentucky",14849,288932
+34,"Russell County,Virginia","Floyd County,Kentucky",8372,152225
+35,"Russell County,Virginia","Franklin County,Kentucky",16810,377262
+36,"Russell County,Virginia","Fulton County,Kentucky",28149,827058
+37,"Russell County,Virginia","Gallatin County,Kentucky",18508,429326
+38,"Russell County,Virginia","Garrard County,Kentucky",15861,342366
+39,"Russell County,Virginia","Grant County,Kentucky",17307,403434
+40,"Russell County,Virginia","Graves County,Kentucky",26769,778800
+41,"Russell County,Virginia","Grayson County,Kentucky",21491,522168
+42,"Russell County,Virginia","Green County,Kentucky",18717,425587
+43,"Russell County,Virginia","Greenup County,Kentucky",14336,307104
+44,"Russell County,Virginia","Hancock County,Kentucky",23295,576427
+45,"Russell County,Virginia","Hardin County,Kentucky",20367,484301
+46,"Russell County,Virginia","Harlan County,Kentucky",8456,137927
+47,"Russell County,Virginia","Harrison County,Kentucky",16281,352755
+48,"Russell County,Virginia","Hart County,Kentucky",20067,471864
+49,"Russell County,Virginia","Henderson County,Kentucky",25994,664404
+50,"Russell County,Virginia","Henry County,Kentucky",18412,420981
+51,"Russell County,Virginia","Hickman County,Kentucky",27778,807386
+52,"Russell County,Virginia","Hopkins County,Kentucky",24548,708817
+53,"Russell County,Virginia","Jackson County,Kentucky",13364,275119
+54,"Russell County,Virginia","Jefferson County,Kentucky",18506,436514
+55,"Russell County,Virginia","Jessamine County,Kentucky",16242,349810
+56,"Russell County,Virginia","Johnson County,Kentucky",8988,169455
+57,"Russell County,Virginia","Kenton County,Kentucky",18560,438277
+58,"Russell County,Virginia","Knott County,Kentucky",8084,156871
+59,"Russell County,Virginia","Knox County,Kentucky",11515,245301
+60,"Russell County,Virginia","Larue County,Kentucky",20199,457560
+61,"Russell County,Virginia","Laurel County,Kentucky",13093,275496
+62,"Russell County,Virginia","Lawrence County,Kentucky",10762,203142
+63,"Russell County,Virginia","Lee County,Kentucky",12655,255311
+64,"Russell County,Virginia","Leslie County,Kentucky",10391,195207
+65,"Russell County,Virginia","Letcher County,Kentucky",6485,120418
+66,"Russell County,Virginia","Lewis County,Kentucky",15476,300098
+67,"Russell County,Virginia","Lincoln County,Kentucky",15422,341947
+68,"Russell County,Virginia","Livingston County,Kentucky",25619,744665
+69,"Russell County,Virginia","Logan County,Kentucky",22112,544342
+70,"Russell County,Virginia","Lyon County,Kentucky",25375,721839
+71,"Russell County,Virginia","McCracken County,Kentucky",25900,758786
+72,"Russell County,Virginia","McCreary County,Kentucky",14647,309599
+73,"Russell County,Virginia","Madison County,Kentucky",14879,339796
+74,"Russell County,Virginia","Magoffin County,Kentucky",9332,173431
+75,"Russell County,Virginia","Marion County,Kentucky",17889,396185
+76,"Russell County,Virginia","Marshall County,Kentucky",25314,742358
+77,"Russell County,Virginia","Martin County,Kentucky",10517,195456
+78,"Russell County,Virginia","Mason County,Kentucky",16981,330497
+79,"Russell County,Virginia","Meade County,Kentucky",20966,508829
+80,"Russell County,Virginia","Menifee County,Kentucky",13000,247630
+81,"Russell County,Virginia","Mercer County,Kentucky",17191,382511
+82,"Russell County,Virginia","Metcalfe County,Kentucky",17620,413687
+83,"Russell County,Virginia","Monroe County,Kentucky",18871,485965
+84,"Russell County,Virginia","Montgomery County,Kentucky",13969,288315
+85,"Russell County,Virginia","Morgan County,Kentucky",11445,224617
+86,"Russell County,Virginia","Muhlenberg County,Kentucky",23868,587562
+87,"Russell County,Virginia","Nelson County,Kentucky",18425,432157
+88,"Russell County,Virginia","Nicholas County,Kentucky",16274,352336
+89,"Russell County,Virginia","Ohio County,Kentucky",23284,580753
+90,"Russell County,Virginia","Oldham County,Kentucky",18577,448396
+91,"Russell County,Virginia","Owen County,Kentucky",17632,404039
+92,"Russell County,Virginia","Owsley County,Kentucky",12681,251995
+93,"Russell County,Virginia","Pendleton County,Kentucky",17840,389883
+94,"Russell County,Virginia","Perry County,Kentucky",9058,177294
+95,"Russell County,Virginia","Pike County,Kentucky",6435,101969
+96,"Russell County,Virginia","Powell County,Kentucky",12756,259600
+97,"Russell County,Virginia","Robertson County,Kentucky",16832,331676
+98,"Russell County,Virginia","Rockcastle County,Kentucky",13904,303545
+99,"Russell County,Virginia","Rowan County,Kentucky",13268,253391
+100,"Russell County,Virginia","Russell County,Kentucky",16569,367406
+101,"Russell County,Virginia","Scott County,Kentucky",15607,356373
+102,"Russell County,Virginia","Shelby County,Kentucky",17434,407649
+103,"Russell County,Virginia","Simpson County,Kentucky",21420,572441
+104,"Russell County,Virginia","Spencer County,Kentucky",17964,413497
+105,"Russell County,Virginia","Taylor County,Kentucky",18318,407681
+106,"Russell County,Virginia","Todd County,Kentucky",22437,636512
+107,"Russell County,Virginia","Trigg County,Kentucky",22928,660924
+108,"Russell County,Virginia","Trimble County,Kentucky",19651,454435
+109,"Russell County,Virginia","Union County,Kentucky",27198,773058
+110,"Russell County,Virginia","Warren County,Kentucky",20736,498164
+111,"Russell County,Virginia","Washington County,Kentucky",18179,404043
+112,"Russell County,Virginia","Wayne County,Kentucky",16745,364478
+113,"Russell County,Virginia","Webster County,Kentucky",25657,736906
+114,"Russell County,Virginia","Whitley County,Kentucky",13011,273685
+115,"Russell County,Virginia","Wolfe County,Kentucky",11359,225368
+116,"Russell County,Virginia","Woodford County,Kentucky",15827,359009
+117,"Russell County,Virginia","Adams County,Ohio",18184,383453
+118,"Russell County,Virginia","Allen County,Ohio",25980,664171
+119,"Russell County,Virginia","Ashland County,Ohio",23698,631690
+120,"Russell County,Virginia","Ashtabula County,Ohio",26385,752588
+121,"Russell County,Virginia","Athens County,Ohio",15629,407980
+122,"Russell County,Virginia","Auglaize County,Ohio",25236,651435
+123,"Russell County,Virginia","Belmont County,Ohio",19448,541512
+124,"Russell County,Virginia","Brown County,Ohio",18317,359981
+125,"Russell County,Virginia","Butler County,Ohio",21058,514045
+126,"Russell County,Virginia","Carroll County,Ohio",21378,578398
+127,"Russell County,Virginia","Champaign County,Ohio",22507,596596
+128,"Russell County,Virginia","Clark County,Ohio",21186,556140
+129,"Russell County,Virginia","Clermont County,Ohio",19808,485223
+130,"Russell County,Virginia","Clinton County,Ohio",21013,419871
+131,"Russell County,Virginia","Columbiana County,Ohio",23219,632633
+132,"Russell County,Virginia","Coshocton County,Ohio",20013,549515
+133,"Russell County,Virginia","Crawford County,Ohio",24305,642850
+134,"Russell County,Virginia","Cuyahoga County,Ohio",23414,663802
+135,"Russell County,Virginia","Darke County,Ohio",24334,608482
+136,"Russell County,Virginia","Defiance County,Ohio",29467,742601
+137,"Russell County,Virginia","Delaware County,Ohio",21459,575587
+138,"Russell County,Virginia","Fairfield County,Ohio",18989,502681
+139,"Russell County,Virginia","Fayette County,Ohio",19254,514285
+140,"Russell County,Virginia","Franklin County,Ohio",19990,532536
+141,"Russell County,Virginia","Fulton County,Ohio",29395,798419
+142,"Russell County,Virginia","Gallia County,Ohio",14567,373397
+143,"Russell County,Virginia","Geauga County,Ohio",24486,689519
+144,"Russell County,Virginia","Greene County,Ohio",20124,547438
+145,"Russell County,Virginia","Guernsey County,Ohio",17563,487434
+146,"Russell County,Virginia","Hamilton County,Ohio",19712,478529
+147,"Russell County,Virginia","Hancock County,Ohio",25482,683942
+148,"Russell County,Virginia","Hardin County,Ohio",24464,633628
+149,"Russell County,Virginia","Harrison County,Ohio",20383,560464
+150,"Russell County,Virginia","Henry County,Ohio",28195,755564
+151,"Russell County,Virginia","Highland County,Ohio",19150,397536
+152,"Russell County,Virginia","Hocking County,Ohio",17431,458644
+153,"Russell County,Virginia","Holmes County,Ohio",21072,572399
+154,"Russell County,Virginia","Huron County,Ohio",25595,673318
+155,"Russell County,Virginia","Jackson County,Ohio",15745,412946
+156,"Russell County,Virginia","Jefferson County,Ohio",21376,570242
+157,"Russell County,Virginia","Knox County,Ohio",21801,591991
+158,"Russell County,Virginia","Lawrence County,Ohio",14317,284966
+159,"Russell County,Virginia","Licking County,Ohio",20934,529691
+160,"Russell County,Virginia","Logan County,Ohio",23485,627905
+161,"Russell County,Virginia","Lorain County,Ohio",24638,693626
+162,"Russell County,Virginia","Lucas County,Ohio",29117,771441
+163,"Russell County,Virginia","Madison County,Ohio",20955,537370
+164,"Russell County,Virginia","Mahoning County,Ohio",23715,647438
+165,"Russell County,Virginia","Marion County,Ohio",22865,601680
+166,"Russell County,Virginia","Medina County,Ohio",23087,649833
+167,"Russell County,Virginia","Meigs County,Ohio",14510,378951
+168,"Russell County,Virginia","Mercer County,Ohio",26472,678369
+169,"Russell County,Virginia","Miami County,Ohio",22822,573874
+170,"Russell County,Virginia","Monroe County,Ohio",18499,476625
+171,"Russell County,Virginia","Montgomery County,Ohio",22205,551614
+172,"Russell County,Virginia","Morgan County,Ohio",17505,463273
+173,"Russell County,Virginia","Morrow County,Ohio",22266,598408
+174,"Russell County,Virginia","Muskingum County,Ohio",18409,515425
+175,"Russell County,Virginia","Noble County,Ohio",17005,459786
+176,"Russell County,Virginia","Paulding County,Ohio",28511,727148
+177,"Russell County,Virginia","Perry County,Ohio",18847,473401
+178,"Russell County,Virginia","Pickaway County,Ohio",18694,494384
+179,"Russell County,Virginia","Pike County,Ohio",16582,347394
+180,"Russell County,Virginia","Portage County,Ohio",22936,645384
+181,"Russell County,Virginia","Preble County,Ohio",23102,558444
+182,"Russell County,Virginia","Putnam County,Ohio",27155,696638
+183,"Russell County,Virginia","Richland County,Ohio",23296,633646
+184,"Russell County,Virginia","Ross County,Ohio",17439,460690
+185,"Russell County,Virginia","Sandusky County,Ohio",27238,702637
+186,"Russell County,Virginia","Scioto County,Ohio",15662,324032
+187,"Russell County,Virginia","Seneca County,Ohio",25856,676522
+188,"Russell County,Virginia","Shelby County,Ohio",23861,610160
+189,"Russell County,Virginia","Stark County,Ohio",21237,593633
+190,"Russell County,Virginia","Summit County,Ohio",21995,619421
+191,"Russell County,Virginia","Trumbull County,Ohio",24670,673685
+192,"Russell County,Virginia","Tuscarawas County,Ohio",19437,534220
+193,"Russell County,Virginia","Union County,Ohio",21989,578136
+194,"Russell County,Virginia","Van Wert County,Ohio",27145,696694
+195,"Russell County,Virginia","Vinton County,Ohio",17640,438451
+196,"Russell County,Virginia","Warren County,Ohio",20591,504786
+197,"Russell County,Virginia","Washington County,Ohio",15864,417722
+198,"Russell County,Virginia","Wayne County,Ohio",22208,596511
+199,"Russell County,Virginia","Williams County,Ohio",30644,766117
+200,"Russell County,Virginia","Wood County,Ohio",26880,725550
+201,"Russell County,Virginia","Wyandot County,Ohio",24452,648078
+202,"Russell County,Virginia","Accomack County,Virginia",29279,812056
+203,"Russell County,Virginia","Albemarle County,Virginia",15429,424555
+204,"Russell County,Virginia","Alleghany County,Virginia",11366,292480
+205,"Russell County,Virginia","Amelia County,Virginia",18001,463410
+206,"Russell County,Virginia","Amherst County,Virginia",14903,369469
+207,"Russell County,Virginia","Appomattox County,Virginia",15078,383079
+208,"Russell County,Virginia","Arlington County,Virginia",22113,624865
+209,"Russell County,Virginia","Augusta County,Virginia",14851,402248
+210,"Russell County,Virginia","Bath County,Virginia",14378,367790
+211,"Russell County,Virginia","Bedford County,Virginia",12811,314389
+212,"Russell County,Virginia","Bland County,Virginia",6115,134171
+213,"Russell County,Virginia","Botetourt County,Virginia",11667,298454
+214,"Russell County,Virginia","Brunswick County,Virginia",19972,550505
+215,"Russell County,Virginia","Buchanan County,Virginia",3463,49329
+216,"Russell County,Virginia","Buckingham County,Virginia",16192,406989
+217,"Russell County,Virginia","Campbell County,Virginia",14227,355624
+218,"Russell County,Virginia","Caroline County,Virginia",20768,593401
+219,"Russell County,Virginia","Carroll County,Virginia",7771,195336
+220,"Russell County,Virginia","Charles City County,Virginia",20869,590435
+221,"Russell County,Virginia","Charlotte County,Virginia",16776,423561
+222,"Russell County,Virginia","Chesterfield County,Virginia",19695,502300
+223,"Russell County,Virginia","Clarke County,Virginia",19609,551613
+224,"Russell County,Virginia","Craig County,Virginia",9646,215112
+225,"Russell County,Virginia","Culpeper County,Virginia",19226,513772
+226,"Russell County,Virginia","Cumberland County,Virginia",17606,444221
+227,"Russell County,Virginia","Dickenson County,Virginia",3886,58581
+228,"Russell County,Virginia","Dinwiddie County,Virginia",19774,506472
+229,"Russell County,Virginia","Essex County,Virginia",22586,617443
+230,"Russell County,Virginia","Fairfax County,Virginia",21736,615140
+231,"Russell County,Virginia","Fauquier County,Virginia",20047,572865
+232,"Russell County,Virginia","Floyd County,Virginia",9663,235436
+233,"Russell County,Virginia","Fluvanna County,Virginia",17107,476727
+234,"Russell County,Virginia","Franklin County,Virginia",12324,315623
+235,"Russell County,Virginia","Frederick County,Virginia",19061,539340
+236,"Russell County,Virginia","Giles County,Virginia",7696,171805
+237,"Russell County,Virginia","Gloucester County,Virginia",23039,644624
+238,"Russell County,Virginia","Goochland County,Virginia",18011,507338
+239,"Russell County,Virginia","Grayson County,Virginia",7504,158503
+240,"Russell County,Virginia","Greene County,Virginia",17422,460139
+241,"Russell County,Virginia","Greensville County,Virginia",21168,567924
+242,"Russell County,Virginia","Halifax County,Virginia",16074,393023
+243,"Russell County,Virginia","Hanover County,Virginia",19217,548445
+244,"Russell County,Virginia","Henrico County,Virginia",19728,561404
+245,"Russell County,Virginia","Henry County,Virginia",11644,282057
+246,"Russell County,Virginia","Highland County,Virginia",15967,337100
+247,"Russell County,Virginia","Isle of Wight County,Virginia",23894,606592
+248,"Russell County,Virginia","James City County,Virginia",22105,631206
+249,"Russell County,Virginia","King and Queen County,Virginia",21763,606790
+250,"Russell County,Virginia","King George County,Virginia",21881,621387
+251,"Russell County,Virginia","King William County,Virginia",20450,576713
+252,"Russell County,Virginia","Lancaster County,Virginia",24243,659798
+253,"Russell County,Virginia","Lee County,Virginia",6412,126917
+254,"Russell County,Virginia","Loudoun County,Virginia",21105,587480
+255,"Russell County,Virginia","Louisa County,Virginia",17668,490433
+256,"Russell County,Virginia","Lunenburg County,Virginia",18548,464845
+257,"Russell County,Virginia","Madison County,Virginia",18342,489880
+258,"Russell County,Virginia","Mathews County,Virginia",23864,668047
+259,"Russell County,Virginia","Mecklenburg County,Virginia",18107,444569
+260,"Russell County,Virginia","Middlesex County,Virginia",22641,640824
+261,"Russell County,Virginia","Montgomery County,Virginia",8779,199811
+262,"Russell County,Virginia","Nelson County,Virginia",15454,399867
+263,"Russell County,Virginia","New Kent County,Virginia",21541,605120
+264,"Russell County,Virginia","Northampton County,Virginia",26522,747870
+265,"Russell County,Virginia","Northumberland County,Virginia",24283,658310
+266,"Russell County,Virginia","Nottoway County,Virginia",18041,465225
+267,"Russell County,Virginia","Orange County,Virginia",18630,498540
+268,"Russell County,Virginia","Page County,Virginia",17275,473665
+269,"Russell County,Virginia","Patrick County,Virginia",9877,240372
+270,"Russell County,Virginia","Pittsylvania County,Virginia",13960,336265
+271,"Russell County,Virginia","Powhatan County,Virginia",19104,478927
+272,"Russell County,Virginia","Prince Edward County,Virginia",16656,422560
+273,"Russell County,Virginia","Prince George County,Virginia",21429,545846
+274,"Russell County,Virginia","Prince William County,Virginia",20147,578968
+275,"Russell County,Virginia","Pulaski County,Virginia",7514,186757
+276,"Russell County,Virginia","Rappahannock County,Virginia",19107,510152
+277,"Russell County,Virginia","Richmond County,Virginia",22983,630954
+278,"Russell County,Virginia","Roanoke County,Virginia",9618,245877
+279,"Russell County,Virginia","Rockbridge County,Virginia",13115,342525
+280,"Russell County,Virginia","Rockingham County,Virginia",16315,446015
+281,"Russell County,Virginia","Scott County,Virginia",4602,82797
+282,"Russell County,Virginia","Shenandoah County,Virginia",16819,476119
+283,"Russell County,Virginia","Smyth County,Virginia",4783,98206
+284,"Russell County,Virginia","Southampton County,Virginia",22784,625447
+285,"Russell County,Virginia","Spotsylvania County,Virginia",19684,532271
+286,"Russell County,Virginia","Stafford County,Virginia",21065,556564
+287,"Russell County,Virginia","Surry County,Virginia",22848,630068
+288,"Russell County,Virginia","Sussex County,Virginia",21783,551603
+289,"Russell County,Virginia","Tazewell County,Virginia",3236,62373
+290,"Russell County,Virginia","Warren County,Virginia",18722,520711
+291,"Russell County,Virginia","Washington County,Virginia",2894,49323
+292,"Russell County,Virginia","Westmoreland County,Virginia",22856,638212
+293,"Russell County,Virginia","Wise County,Virginia",4560,76814
+294,"Russell County,Virginia","Wythe County,Virginia",5997,140666
+295,"Russell County,Virginia","York County,Virginia",23393,661981
+296,"Russell County,Virginia","Alexandria City County,Virginia",22316,637511
+297,"Russell County,Virginia","Bedford City County,Virginia",11975,305821
+298,"Russell County,Virginia","Bristol City County,Virginia",3734,70209
+299,"Russell County,Virginia","Buena Vista City County,Virginia",12487,335013
+300,"Russell County,Virginia","Charlottesville City County,Virginia",15898,439770
+301,"Russell County,Virginia","Chesapeake City County,Virginia",24856,714886
+302,"Russell County,Virginia","Clifton Forge City County,Virginia",11910,312687
+303,"Russell County,Virginia","Colonial Heights City County,Virginia",20565,584111
+304,"Russell County,Virginia","Covington City County,Virginia",11435,296065
+305,"Russell County,Virginia","Danville City County,Virginia",13802,336513
+306,"Russell County,Virginia","Emporia City County,Virginia",21325,582112
+307,"Russell County,Virginia","Fairfax City County,Virginia",21279,604716
+308,"Russell County,Virginia","Falls Church City County,Virginia",21611,619188
+309,"Russell County,Virginia","Franklin City County,Virginia",23411,638582
+310,"Russell County,Virginia","Fredericksburg City County,Virginia",20817,541931
+311,"Russell County,Virginia","Galax City County,Virginia",8394,201202
+312,"Russell County,Virginia","Hampton City County,Virginia",23343,671687
+313,"Russell County,Virginia","Harrisonburg City County,Virginia",15374,425912
+314,"Russell County,Virginia","Hopewell City County,Virginia",20601,583078
+315,"Russell County,Virginia","Lexington City County,Virginia",12401,333340
+316,"Russell County,Virginia","Lynchburg City County,Virginia",14000,350696
+317,"Russell County,Virginia","Manassas City County,Virginia",20374,583913
+318,"Russell County,Virginia","Manassas Park City County,Virginia",20877,590256
+319,"Russell County,Virginia","Martinsville City County,Virginia",12172,290850
+320,"Russell County,Virginia","Newport News City County,Virginia",22899,658173
+321,"Russell County,Virginia","Norfolk City County,Virginia",24649,697103
+322,"Russell County,Virginia","Norton City County,Virginia",4083,67704
+323,"Russell County,Virginia","Petersburg City County,Virginia",20432,528449
+324,"Russell County,Virginia","Poquoson City County,Virginia",23571,668749
+325,"Russell County,Virginia","Portsmouth City County,Virginia",24588,705924
+326,"Russell County,Virginia","Radford County,Virginia",8024,200704
+327,"Russell County,Virginia","Richmond City County,Virginia",19304,549215
+328,"Russell County,Virginia","Roanoke City County,Virginia",10220,265982
+329,"Russell County,Virginia","Salem City County,Virginia",9632,252532
+330,"Russell County,Virginia","South Boston City County,Virginia",15814,390691
+331,"Russell County,Virginia","Staunton City County,Virginia",14191,387047
+332,"Russell County,Virginia","Suffolk City County,Virginia",24727,671884
+333,"Russell County,Virginia","Virginia Beach City County,Virginia",25210,720361
+334,"Russell County,Virginia","Waynesboro City County,Virginia",14529,399765
+335,"Russell County,Virginia","Williamsburg City County,Virginia",21943,630422
+336,"Russell County,Virginia","Winchester City County,Virginia",18941,535484
+337,"Russell County,Virginia","Barbour County,West Virginia",16656,418946
+338,"Russell County,Virginia","Berkeley County,West Virginia",20678,582691
+339,"Russell County,Virginia","Boone County,West Virginia",12019,256458
+340,"Russell County,Virginia","Braxton County,West Virginia",13346,309926
+341,"Russell County,Virginia","Brooke County,West Virginia",21014,550740
+342,"Russell County,Virginia","Cabell County,West Virginia",12599,262375
+343,"Russell County,Virginia","Calhoun County,West Virginia",15021,377843
+344,"Russell County,Virginia","Clay County,West Virginia",12011,273363
+345,"Russell County,Virginia","Doddridge County,West Virginia",16860,395803
+346,"Russell County,Virginia","Fayette County,West Virginia",9518,219100
+347,"Russell County,Virginia","Gilmer County,West Virginia",14914,359606
+348,"Russell County,Virginia","Grant County,West Virginia",20324,437470
+349,"Russell County,Virginia","Greenbrier County,West Virginia",11320,249622
+350,"Russell County,Virginia","Hampshire County,West Virginia",20798,553595
+351,"Russell County,Virginia","Hancock County,West Virginia",22641,578087
+352,"Russell County,Virginia","Hardy County,West Virginia",20018,536508
+353,"Russell County,Virginia","Harrison County,West Virginia",15889,405317
+354,"Russell County,Virginia","Jackson County,West Virginia",12905,332175
+355,"Russell County,Virginia","Jefferson County,West Virginia",20729,570097
+356,"Russell County,Virginia","Kanawha County,West Virginia",10669,254157
+357,"Russell County,Virginia","Lewis County,West Virginia",14519,358787
+358,"Russell County,Virginia","Lincoln County,West Virginia",13327,261375
+359,"Russell County,Virginia","Logan County,West Virginia",10408,169333
+360,"Russell County,Virginia","McDowell County,West Virginia",6550,100483
+361,"Russell County,Virginia","Marion County,West Virginia",17035,432485
+362,"Russell County,Virginia","Marshall County,West Virginia",20914,519861
+363,"Russell County,Virginia","Mason County,West Virginia",13062,338270
+364,"Russell County,Virginia","Mercer County,West Virginia",6098,134764
+365,"Russell County,Virginia","Mineral County,West Virginia",22244,576702
+366,"Russell County,Virginia","Mingo County,West Virginia",9383,176724
+367,"Russell County,Virginia","Monongalia County,West Virginia",17245,457953
+368,"Russell County,Virginia","Monroe County,West Virginia",8561,184164
+369,"Russell County,Virginia","Morgan County,West Virginia",20924,583817
+370,"Russell County,Virginia","Nicholas County,West Virginia",10965,260099
+371,"Russell County,Virginia","Ohio County,West Virginia",20546,564997
+372,"Russell County,Virginia","Pendleton County,West Virginia",18105,385196
+373,"Russell County,Virginia","Pleasants County,West Virginia",16388,430027
+374,"Russell County,Virginia","Pocahontas County,West Virginia",14400,329834
+375,"Russell County,Virginia","Preston County,West Virginia",19391,484684
+376,"Russell County,Virginia","Putnam County,West Virginia",11843,303889
+377,"Russell County,Virginia","Raleigh County,West Virginia",7693,179338
+378,"Russell County,Virginia","Randolph County,West Virginia",17020,421242
+379,"Russell County,Virginia","Ritchie County,West Virginia",16719,443731
+380,"Russell County,Virginia","Roane County,West Virginia",14531,360990
+381,"Russell County,Virginia","Summers County,West Virginia",8653,179703
+382,"Russell County,Virginia","Taylor County,West Virginia",16927,428057
+383,"Russell County,Virginia","Tucker County,West Virginia",18087,451767
+384,"Russell County,Virginia","Tyler County,West Virginia",18297,469642
+385,"Russell County,Virginia","Upshur County,West Virginia",16084,373484
+386,"Russell County,Virginia","Wayne County,West Virginia",11928,232172
+387,"Russell County,Virginia","Webster County,West Virginia",14309,317050
+388,"Russell County,Virginia","Wetzel County,West Virginia",18569,456800
+389,"Russell County,Virginia","Wirt County,West Virginia",15172,389513
+390,"Russell County,Virginia","Wood County,West Virginia",14686,391202
+391,"Russell County,Virginia","Wyoming County,West Virginia",8318,144576

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Northampton County,Virginia","Adair County,Kentucky",39857,1085299
+1,"Northampton County,Virginia","Allen County,Kentucky",41253,1205109
+2,"Northampton County,Virginia","Anderson County,Kentucky",35484,1048084
+3,"Northampton County,Virginia","Ballard County,Kentucky",48157,1440364
+4,"Northampton County,Virginia","Barren County,Kentucky",41042,1164054
+5,"Northampton County,Virginia","Bath County,Kentucky",31132,919266
+6,"Northampton County,Virginia","Bell County,Kentucky",32352,886606
+7,"Northampton County,Virginia","Boone County,Kentucky",36945,1040659
+8,"Northampton County,Virginia","Bourbon County,Kentucky",33045,965683
+9,"Northampton County,Virginia","Boyd County,Kentucky",27807,813590
+10,"Northampton County,Virginia","Boyle County,Kentucky",36713,1051971
+11,"Northampton County,Virginia","Bracken County,Kentucky",33456,959766
+12,"Northampton County,Virginia","Breathitt County,Kentucky",33976,922369
+13,"Northampton County,Virginia","Breckinridge County,Kentucky",41018,1200766
+14,"Northampton County,Virginia","Bullitt County,Kentucky",37588,1121885
+15,"Northampton County,Virginia","Butler County,Kentucky",41683,1222763
+16,"Northampton County,Virginia","Caldwell County,Kentucky",44575,1328709
+17,"Northampton County,Virginia","Calloway County,Kentucky",45998,1372223
+18,"Northampton County,Virginia","Campbell County,Kentucky",35157,999637
+19,"Northampton County,Virginia","Carlisle County,Kentucky",48614,1455732
+20,"Northampton County,Virginia","Carroll County,Kentucky",38029,1095899
+21,"Northampton County,Virginia","Carter County,Kentucky",28972,843687
+22,"Northampton County,Virginia","Casey County,Kentucky",38208,1083476
+23,"Northampton County,Virginia","Christian County,Kentucky",42891,1293203
+24,"Northampton County,Virginia","Clay County,Kentucky",34924,946948
+25,"Northampton County,Virginia","Clinton County,Kentucky",38300,1084514
+26,"Northampton County,Virginia","Crittenden County,Kentucky",46154,1361779
+27,"Northampton County,Virginia","Cumberland County,Kentucky",39180,1105182
+28,"Northampton County,Virginia","Daviess County,Kentucky",42706,1269206
+29,"Northampton County,Virginia","Edmonson County,Kentucky",41123,1210638
+30,"Northampton County,Virginia","Elliott County,Kentucky",30302,869457
+31,"Northampton County,Virginia","Estill County,Kentucky",34124,981581
+32,"Northampton County,Virginia","Fayette County,Kentucky",33291,985577
+33,"Northampton County,Virginia","Fleming County,Kentucky",31558,922451
+34,"Northampton County,Virginia","Floyd County,Kentucky",31940,920855
+35,"Northampton County,Virginia","Franklin County,Kentucky",35329,1034494
+36,"Northampton County,Virginia","Fulton County,Kentucky",49018,1476696
+37,"Northampton County,Virginia","Gallatin County,Kentucky",37027,1086558
+38,"Northampton County,Virginia","Garrard County,Kentucky",35896,1032731
+39,"Northampton County,Virginia","Grant County,Kentucky",35826,1060665
+40,"Northampton County,Virginia","Graves County,Kentucky",47639,1428438
+41,"Northampton County,Virginia","Grayson County,Kentucky",40010,1179399
+42,"Northampton County,Virginia","Green County,Kentucky",39790,1144605
+43,"Northampton County,Virginia","Greenup County,Kentucky",29583,854716
+44,"Northampton County,Virginia","Hancock County,Kentucky",41813,1233659
+45,"Northampton County,Virginia","Hardin County,Kentucky",38886,1141532
+46,"Northampton County,Virginia","Harlan County,Kentucky",31427,863232
+47,"Northampton County,Virginia","Harrison County,Kentucky",34616,998783
+48,"Northampton County,Virginia","Hart County,Kentucky",39686,1169161
+49,"Northampton County,Virginia","Henderson County,Kentucky",44512,1321636
+50,"Northampton County,Virginia","Henry County,Kentucky",36930,1078212
+51,"Northampton County,Virginia","Hickman County,Kentucky",48648,1457024
+52,"Northampton County,Virginia","Hopkins County,Kentucky",44033,1303177
+53,"Northampton County,Virginia","Jackson County,Kentucky",36796,983367
+54,"Northampton County,Virginia","Jefferson County,Kentucky",37024,1093746
+55,"Northampton County,Virginia","Jessamine County,Kentucky",34761,1007041
+56,"Northampton County,Virginia","Johnson County,Kentucky",30589,886486
+57,"Northampton County,Virginia","Kenton County,Kentucky",36314,1028353
+58,"Northampton County,Virginia","Knott County,Kentucky",31517,865119
+59,"Northampton County,Virginia","Knox County,Kentucky",33682,928598
+60,"Northampton County,Virginia","Larue County,Kentucky",38958,1128708
+61,"Northampton County,Virginia","Laurel County,Kentucky",35576,963425
+62,"Northampton County,Virginia","Lawrence County,Kentucky",29730,857910
+63,"Northampton County,Virginia","Lee County,Kentucky",34969,975318
+64,"Northampton County,Virginia","Leslie County,Kentucky",32889,891512
+65,"Northampton County,Virginia","Letcher County,Kentucky",29917,828666
+66,"Northampton County,Virginia","Lewis County,Kentucky",31010,895505
+67,"Northampton County,Virginia","Lincoln County,Kentucky",36606,1049649
+68,"Northampton County,Virginia","Livingston County,Kentucky",46488,1394303
+69,"Northampton County,Virginia","Logan County,Kentucky",43323,1246103
+70,"Northampton County,Virginia","Lyon County,Kentucky",46245,1371477
+71,"Northampton County,Virginia","McCracken County,Kentucky",46769,1408424
+72,"Northampton County,Virginia","McCreary County,Kentucky",35306,1021360
+73,"Northampton County,Virginia","Madison County,Kentucky",34290,996600
+74,"Northampton County,Virginia","Magoffin County,Kentucky",31556,907165
+75,"Northampton County,Virginia","Marion County,Kentucky",37336,1090317
+76,"Northampton County,Virginia","Marshall County,Kentucky",46184,1391996
+77,"Northampton County,Virginia","Martin County,Kentucky",30844,839634
+78,"Northampton County,Virginia","Mason County,Kentucky",32805,939312
+79,"Northampton County,Virginia","Meade County,Kentucky",39485,1166060
+80,"Northampton County,Virginia","Menifee County,Kentucky",32248,931329
+81,"Northampton County,Virginia","Mercer County,Kentucky",35712,1046028
+82,"Northampton County,Virginia","Metcalfe County,Kentucky",40513,1115564
+83,"Northampton County,Virginia","Monroe County,Kentucky",39740,1135603
+84,"Northampton County,Virginia","Montgomery County,Kentucky",31945,937806
+85,"Northampton County,Virginia","Morgan County,Kentucky",32026,907045
+86,"Northampton County,Virginia","Muhlenberg County,Kentucky",42894,1269653
+87,"Northampton County,Virginia","Nelson County,Kentucky",36943,1089389
+88,"Northampton County,Virginia","Nicholas County,Kentucky",33623,965689
+89,"Northampton County,Virginia","Ohio County,Kentucky",41807,1237242
+90,"Northampton County,Virginia","Oldham County,Kentucky",37096,1105627
+91,"Northampton County,Virginia","Owen County,Kentucky",36151,1061271
+92,"Northampton County,Virginia","Owsley County,Kentucky",36114,960243
+93,"Northampton County,Virginia","Pendleton County,Kentucky",35394,1000690
+94,"Northampton County,Virginia","Perry County,Kentucky",32490,885542
+95,"Northampton County,Virginia","Pike County,Kentucky",31040,804880
+96,"Northampton County,Virginia","Powell County,Kentucky",33388,967552
+97,"Northampton County,Virginia","Robertson County,Kentucky",33540,965196
+98,"Northampton County,Virginia","Rockcastle County,Kentucky",35724,1037743
+99,"Northampton County,Virginia","Rowan County,Kentucky",30274,891473
+100,"Northampton County,Virginia","Russell County,Kentucky",39461,1069283
+101,"Northampton County,Virginia","Scott County,Kentucky",34126,1013604
+102,"Northampton County,Virginia","Shelby County,Kentucky",35953,1064880
+103,"Northampton County,Virginia","Simpson County,Kentucky",42290,1222079
+104,"Northampton County,Virginia","Spencer County,Kentucky",36482,1070728
+105,"Northampton County,Virginia","Taylor County,Kentucky",38625,1121813
+106,"Northampton County,Virginia","Todd County,Kentucky",43306,1286150
+107,"Northampton County,Virginia","Trigg County,Kentucky",43798,1310562
+108,"Northampton County,Virginia","Trimble County,Kentucky",38169,1111667
+109,"Northampton County,Virginia","Union County,Kentucky",46232,1352082
+110,"Northampton County,Virginia","Warren County,Kentucky",42039,1239007
+111,"Northampton County,Virginia","Washington County,Kentucky",36953,1074625
+112,"Northampton County,Virginia","Wayne County,Kentucky",37811,1068490
+113,"Northampton County,Virginia","Webster County,Kentucky",45142,1331266
+114,"Northampton County,Virginia","Whitley County,Kentucky",33910,1006122
+115,"Northampton County,Virginia","Wolfe County,Kentucky",33121,930407
+116,"Northampton County,Virginia","Woodford County,Kentucky",34345,1016240
+117,"Northampton County,Virginia","Adams County,Ohio",32898,941868
+118,"Northampton County,Virginia","Allen County,Ohio",39630,1117285
+119,"Northampton County,Virginia","Ashland County,Ohio",34384,985687
+120,"Northampton County,Virginia","Ashtabula County,Ohio",32381,940157
+121,"Northampton County,Virginia","Athens County,Ohio",29306,847467
+122,"Northampton County,Virginia","Auglaize County,Ohio",38880,1133985
+123,"Northampton County,Virginia","Belmont County,Ohio",28951,836452
+124,"Northampton County,Virginia","Brown County,Ohio",34142,968796
+125,"Northampton County,Virginia","Butler County,Ohio",37255,1050821
+126,"Northampton County,Virginia","Carroll County,Ohio",30897,852378
+127,"Northampton County,Virginia","Champaign County,Ohio",36184,1036083
+128,"Northampton County,Virginia","Clark County,Ohio",34863,995627
+129,"Northampton County,Virginia","Clermont County,Ohio",34976,999892
+130,"Northampton County,Virginia","Clinton County,Ohio",34367,983308
+131,"Northampton County,Virginia","Columbiana County,Ohio",29684,834395
+132,"Northampton County,Virginia","Coshocton County,Ohio",33308,961902
+133,"Northampton County,Virginia","Crawford County,Ohio",36293,1056882
+134,"Northampton County,Virginia","Cuyahoga County,Ohio",32377,938001
+135,"Northampton County,Virginia","Darke County,Ohio",37978,1091032
+136,"Northampton County,Virginia","Defiance County,Ohio",40696,1186965
+137,"Northampton County,Virginia","Delaware County,Ohio",35136,1015074
+138,"Northampton County,Virginia","Fairfield County,Ohio",32666,942168
+139,"Northampton County,Virginia","Fayette County,Ohio",32931,953772
+140,"Northampton County,Virginia","Franklin County,Ohio",33667,972023
+141,"Northampton County,Virginia","Fulton County,Ohio",39048,1143816
+142,"Northampton County,Virginia","Gallia County,Ohio",28244,812884
+143,"Northampton County,Virginia","Geauga County,Ohio",31871,912820
+144,"Northampton County,Virginia","Greene County,Ohio",33801,986925
+145,"Northampton County,Virginia","Guernsey County,Ohio",30855,899961
+146,"Northampton County,Virginia","Hamilton County,Ohio",36756,1061399
+147,"Northampton County,Virginia","Hancock County,Ohio",38323,1118963
+148,"Northampton County,Virginia","Hardin County,Ohio",38141,1073115
+149,"Northampton County,Virginia","Harrison County,Ohio",30111,854596
+150,"Northampton County,Virginia","Henry County,Ohio",39502,1133583
+151,"Northampton County,Virginia","Highland County,Ohio",33435,941882
+152,"Northampton County,Virginia","Hocking County,Ohio",31108,898131
+153,"Northampton County,Virginia","Holmes County,Ohio",34051,936672
+154,"Northampton County,Virginia","Huron County,Ohio",35661,1015293
+155,"Northampton County,Virginia","Jackson County,Ohio",29422,852433
+156,"Northampton County,Virginia","Jefferson County,Ohio",28853,815869
+157,"Northampton County,Virginia","Knox County,Ohio",35097,1004378
+158,"Northampton County,Virginia","Lawrence County,Ohio",28947,818647
+159,"Northampton County,Virginia","Licking County,Ohio",34482,985449
+160,"Northampton County,Virginia","Logan County,Ohio",37162,1067392
+161,"Northampton County,Virginia","Lorain County,Ohio",33429,967721
+162,"Northampton County,Virginia","Lucas County,Ohio",38002,1096666
+163,"Northampton County,Virginia","Madison County,Ohio",34632,976857
+164,"Northampton County,Virginia","Mahoning County,Ohio",28868,830149
+165,"Northampton County,Virginia","Marion County,Ohio",36542,1041167
+166,"Northampton County,Virginia","Medina County,Ohio",33016,952807
+167,"Northampton County,Virginia","Meigs County,Ohio",28187,818438
+168,"Northampton County,Virginia","Mercer County,Ohio",40116,1160919
+169,"Northampton County,Virginia","Miami County,Ohio",36466,1056424
+170,"Northampton County,Virginia","Monroe County,Ohio",31384,883136
+171,"Northampton County,Virginia","Montgomery County,Ohio",35836,1034380
+172,"Northampton County,Virginia","Morgan County,Ohio",31182,902760
+173,"Northampton County,Virginia","Morrow County,Ohio",35943,1037895
+174,"Northampton County,Virginia","Muskingum County,Ohio",31701,927953
+175,"Northampton County,Virginia","Noble County,Ohio",30682,899273
+176,"Northampton County,Virginia","Paulding County,Ohio",41901,1222952
+177,"Northampton County,Virginia","Perry County,Ohio",32524,912888
+178,"Northampton County,Virginia","Pickaway County,Ohio",32371,933871
+179,"Northampton County,Virginia","Pike County,Ohio",30868,891740
+180,"Northampton County,Virginia","Portage County,Ohio",30722,886163
+181,"Northampton County,Virginia","Preble County,Ohio",37455,1062958
+182,"Northampton County,Virginia","Putnam County,Ohio",40521,1178769
+183,"Northampton County,Virginia","Richland County,Ohio",34940,1007116
+184,"Northampton County,Virginia","Ross County,Ohio",31116,900177
+185,"Northampton County,Virginia","Sandusky County,Ohio",36290,1055240
+186,"Northampton County,Virginia","Scioto County,Ohio",30752,875920
+187,"Northampton County,Virginia","Seneca County,Ohio",37021,1064912
+188,"Northampton County,Virginia","Shelby County,Ohio",37505,1092710
+189,"Northampton County,Virginia","Stark County,Ohio",31502,882296
+190,"Northampton County,Virginia","Summit County,Ohio",31780,911978
+191,"Northampton County,Virginia","Trumbull County,Ohio",30025,867613
+192,"Northampton County,Virginia","Tuscarawas County,Ohio",31620,885879
+193,"Northampton County,Virginia","Union County,Ohio",35666,1017623
+194,"Northampton County,Virginia","Van Wert County,Ohio",40632,1189280
+195,"Northampton County,Virginia","Vinton County,Ohio",31317,877938
+196,"Northampton County,Virginia","Warren County,Ohio",35173,1017367
+197,"Northampton County,Virginia","Washington County,Ohio",29541,857209
+198,"Northampton County,Virginia","Wayne County,Ohio",34122,971618
+199,"Northampton County,Virginia","Williams County,Ohio",40293,1175272
+200,"Northampton County,Virginia","Wood County,Ohio",38188,1103569
+201,"Northampton County,Virginia","Wyandot County,Ohio",37293,1083098
+202,"Northampton County,Virginia","Accomack County,Virginia",3264,69571
+203,"Northampton County,Virginia","Albemarle County,Virginia",11827,327299
+204,"Northampton County,Virginia","Alleghany County,Virginia",17336,496240
+205,"Northampton County,Virginia","Amelia County,Virginia",10623,270612
+206,"Northampton County,Virginia","Amherst County,Virginia",14620,397045
+207,"Northampton County,Virginia","Appomattox County,Virginia",13927,348337
+208,"Northampton County,Virginia","Arlington County,Virginia",12870,358642
+209,"Northampton County,Virginia","Augusta County,Virginia",14080,389933
+210,"Northampton County,Virginia","Bath County,Virginia",17054,455593
+211,"Northampton County,Virginia","Bedford County,Virginia",16858,426854
+212,"Northampton County,Virginia","Bland County,Virginia",21619,625923
+213,"Northampton County,Virginia","Botetourt County,Virginia",16643,467176
+214,"Northampton County,Virginia","Brunswick County,Virginia",8866,217994
+215,"Northampton County,Virginia","Buchanan County,Virginia",27375,760382
+216,"Northampton County,Virginia","Buckingham County,Virginia",12769,320314
+217,"Northampton County,Virginia","Campbell County,Virginia",15303,390169
+218,"Northampton County,Virginia","Caroline County,Virginia",9611,247906
+219,"Northampton County,Virginia","Carroll County,Virginia",21277,575915
+220,"Northampton County,Virginia","Charles City County,Virginia",7410,181735
+221,"Northampton County,Virginia","Charlotte County,Virginia",13498,316741
+222,"Northampton County,Virginia","Chesterfield County,Virginia",9083,233374
+223,"Northampton County,Virginia","Clarke County,Virginia",15550,401118
+224,"Northampton County,Virginia","Craig County,Virginia",19485,523503
+225,"Northampton County,Virginia","Culpeper County,Virginia",12849,331847
+226,"Northampton County,Virginia","Cumberland County,Virginia",11202,285267
+227,"Northampton County,Virginia","Dickenson County,Virginia",28085,778560
+228,"Northampton County,Virginia","Dinwiddie County,Virginia",9407,218141
+229,"Northampton County,Virginia","Essex County,Virginia",9791,214828
+230,"Northampton County,Virginia","Fairfax County,Virginia",13167,361872
+231,"Northampton County,Virginia","Fauquier County,Virginia",12863,341885
+232,"Northampton County,Virginia","Floyd County,Virginia",20267,572887
+233,"Northampton County,Virginia","Fluvanna County,Virginia",11028,290870
+234,"Northampton County,Virginia","Franklin County,Virginia",18552,439227
+235,"Northampton County,Virginia","Frederick County,Virginia",16106,434180
+236,"Northampton County,Virginia","Giles County,Virginia",20407,581039
+237,"Northampton County,Virginia","Gloucester County,Virginia",6331,130769
+238,"Northampton County,Virginia","Goochland County,Virginia",9757,260157
+239,"Northampton County,Virginia","Grayson County,Virginia",23072,647519
+240,"Northampton County,Virginia","Greene County,Virginia",13547,345334
+241,"Northampton County,Virginia","Greensville County,Virginia",8368,205659
+242,"Northampton County,Virginia","Halifax County,Virginia",13384,327165
+243,"Northampton County,Virginia","Hanover County,Virginia",7830,203735
+244,"Northampton County,Virginia","Henrico County,Virginia",7431,191124
+245,"Northampton County,Virginia","Henry County,Virginia",17743,441116
+246,"Northampton County,Virginia","Highland County,Virginia",17282,447672
+247,"Northampton County,Virginia","Isle of Wight County,Virginia",5375,114291
+248,"Northampton County,Virginia","James City County,Virginia",6076,135156
+249,"Northampton County,Virginia","King and Queen County,Virginia",8024,191254
+250,"Northampton County,Virginia","King George County,Virginia",10712,283988
+251,"Northampton County,Virginia","King William County,Virginia",8381,198106
+252,"Northampton County,Virginia","Lancaster County,Virginia",9558,192365
+253,"Northampton County,Virginia","Lee County,Virginia",28579,810214
+254,"Northampton County,Virginia","Loudoun County,Virginia",15134,415117
+255,"Northampton County,Virginia","Louisa County,Virginia",10525,283745
+256,"Northampton County,Virginia","Lunenburg County,Virginia",11637,270304
+257,"Northampton County,Virginia","Madison County,Virginia",13461,345365
+258,"Northampton County,Virginia","Mathews County,Virginia",7492,159169
+259,"Northampton County,Virginia","Mecklenburg County,Virginia",11501,276547
+260,"Northampton County,Virginia","Middlesex County,Virginia",7638,162466
+261,"Northampton County,Virginia","Montgomery County,Virginia",18971,545309
+262,"Northampton County,Virginia","Nelson County,Virginia",13066,364640
+263,"Northampton County,Virginia","New Kent County,Virginia",6899,158229
+264,"Northampton County,Virginia","Northumberland County,Virginia",9926,204527
+265,"Northampton County,Virginia","Nottoway County,Virginia",10342,246667
+266,"Northampton County,Virginia","Orange County,Virginia",12138,300271
+267,"Northampton County,Virginia","Page County,Virginia",15734,389551
+268,"Northampton County,Virginia","Patrick County,Virginia",19326,480024
+269,"Northampton County,Virginia","Pittsylvania County,Virginia",16108,397117
+270,"Northampton County,Virginia","Powhatan County,Virginia",9784,257765
+271,"Northampton County,Virginia","Prince Edward County,Virginia",12367,318325
+272,"Northampton County,Virginia","Prince George County,Virginia",7536,169885
+273,"Northampton County,Virginia","Prince William County,Virginia",13327,351720
+274,"Northampton County,Virginia","Pulaski County,Virginia",19699,567943
+275,"Northampton County,Virginia","Rappahannock County,Virginia",14303,369884
+276,"Northampton County,Virginia","Richmond County,Virginia",10046,219996
+277,"Northampton County,Virginia","Roanoke County,Virginia",17963,510248
+278,"Northampton County,Virginia","Rockbridge County,Virginia",15385,433185
+279,"Northampton County,Virginia","Rockingham County,Virginia",15439,430079
+280,"Northampton County,Virginia","Russell County,Virginia",26541,743719
+281,"Northampton County,Virginia","Scott County,Virginia",27153,770942
+282,"Northampton County,Virginia","Shenandoah County,Virginia",15943,460182
+283,"Northampton County,Virginia","Smyth County,Virginia",22735,654664
+284,"Northampton County,Virginia","Southampton County,Virginia",6415,151300
+285,"Northampton County,Virginia","Spotsylvania County,Virginia",10609,278952
+286,"Northampton County,Virginia","Stafford County,Virginia",10681,296423
+287,"Northampton County,Virginia","Surry County,Virginia",6707,140930
+288,"Northampton County,Virginia","Sussex County,Virginia",7674,171991
+289,"Northampton County,Virginia","Tazewell County,Virginia",24196,694740
+290,"Northampton County,Virginia","Warren County,Virginia",15333,403591
+291,"Northampton County,Virginia","Washington County,Virginia",24129,694130
+292,"Northampton County,Virginia","Westmoreland County,Virginia",11780,255098
+293,"Northampton County,Virginia","Wise County,Virginia",27992,785062
+294,"Northampton County,Virginia","Wythe County,Virginia",20989,606649
+295,"Northampton County,Virginia","York County,Virginia",5157,108380
+296,"Northampton County,Virginia","Alexandria City County,Virginia",12842,355691
+297,"Northampton County,Virginia","Bedford City County,Virginia",16359,421937
+298,"Northampton County,Virginia","Bristol City County,Virginia",24604,719847
+299,"Northampton County,Virginia","Buena Vista City County,Virginia",15044,426451
+300,"Northampton County,Virginia","Charlottesville City County,Virginia",11377,312706
+301,"Northampton County,Virginia","Chesapeake City County,Virginia",3332,71150
+302,"Northampton County,Virginia","Clifton Forge City County,Virginia",16238,465058
+303,"Northampton County,Virginia","Colonial Heights City County,Virginia",8396,188464
+304,"Northampton County,Virginia","Covington City County,Virginia",16981,483400
+305,"Northampton County,Virginia","Danville City County,Virginia",15200,372090
+306,"Northampton County,Virginia","Emporia City County,Virginia",7685,187662
+307,"Northampton County,Virginia","Fairfax City County,Virginia",13102,350654
+308,"Northampton County,Virginia","Falls Church City County,Virginia",13049,362940
+309,"Northampton County,Virginia","Franklin City County,Virginia",5695,131510
+310,"Northampton County,Virginia","Fredericksburg City County,Virginia",10481,282359
+311,"Northampton County,Virginia","Galax City County,Virginia",22005,586453
+312,"Northampton County,Virginia","Hampton City County,Virginia",3614,76834
+313,"Northampton County,Virginia","Harrisonburg City County,Virginia",14498,409975
+314,"Northampton County,Virginia","Hopewell City County,Virginia",8096,211886
+315,"Northampton County,Virginia","Lexington City County,Virginia",14903,423429
+316,"Northampton County,Virginia","Lynchburg City County,Virginia",15086,385486
+317,"Northampton County,Virginia","Manassas City County,Virginia",13070,349057
+318,"Northampton County,Virginia","Manassas Park City County,Virginia",13290,346257
+319,"Northampton County,Virginia","Martinsville City County,Virginia",17340,425095
+320,"Northampton County,Virginia","Newport News City County,Virginia",4111,92138
+321,"Northampton County,Virginia","Norfolk City County,Virginia",3062,63597
+322,"Northampton County,Virginia","Norton City County,Virginia",27516,775952
+323,"Northampton County,Virginia","Petersburg City County,Virginia",8193,184905
+324,"Northampton County,Virginia","Poquoson City County,Virginia",4582,96383
+325,"Northampton County,Virginia","Portsmouth City County,Virginia",3177,66527
+326,"Northampton County,Virginia","Radford County,Virginia",19335,555154
+327,"Northampton County,Virginia","Richmond City County,Virginia",7748,199621
+328,"Northampton County,Virginia","Roanoke City County,Virginia",17501,501690
+329,"Northampton County,Virginia","Salem City County,Virginia",17330,500161
+330,"Northampton County,Virginia","South Boston City County,Virginia",13089,324656
+331,"Northampton County,Virginia","Staunton City County,Virginia",13386,371656
+332,"Northampton County,Virginia","Suffolk City County,Virginia",4342,94046
+333,"Northampton County,Virginia","Virginia Beach City County,Virginia",3424,63744
+334,"Northampton County,Virginia","Waynesboro City County,Virginia",12663,353654
+335,"Northampton County,Virginia","Williamsburg City County,Virginia",5390,124521
+336,"Northampton County,Virginia","Winchester City County,Virginia",15927,407928
+337,"Northampton County,Virginia","Barbour County,West Virginia",23811,608491
+338,"Northampton County,Virginia","Berkeley County,West Virginia",17708,458109
+339,"Northampton County,Virginia","Boone County,West Virginia",25696,695945
+340,"Northampton County,Virginia","Braxton County,West Virginia",25393,676620
+341,"Northampton County,Virginia","Brooke County,West Virginia",28159,799353
+342,"Northampton County,Virginia","Cabell County,West Virginia",27263,791851
+343,"Northampton County,Virginia","Calhoun County,West Virginia",27164,730571
+344,"Northampton County,Virginia","Clay County,West Virginia",25429,667403
+345,"Northampton County,Virginia","Doddridge County,West Virginia",27642,650778
+346,"Northampton County,Virginia","Fayette County,West Virginia",22817,614143
+347,"Northampton County,Virginia","Gilmer County,West Virginia",26961,726300
+348,"Northampton County,Virginia","Grant County,West Virginia",19155,511587
+349,"Northampton County,Virginia","Greenbrier County,West Virginia",21173,573368
+350,"Northampton County,Virginia","Hampshire County,West Virginia",18232,467185
+351,"Northampton County,Virginia","Hancock County,West Virginia",28867,807289
+352,"Northampton County,Virginia","Hardy County,West Virginia",18403,482917
+353,"Northampton County,Virginia","Harrison County,West Virginia",26286,653246
+354,"Northampton County,Virginia","Jackson County,West Virginia",26582,771662
+355,"Northampton County,Virginia","Jefferson County,West Virginia",16606,446544
+356,"Northampton County,Virginia","Kanawha County,West Virginia",24345,693644
+357,"Northampton County,Virginia","Lewis County,West Virginia",25331,620741
+358,"Northampton County,Virginia","Lincoln County,West Virginia",27927,769529
+359,"Northampton County,Virginia","Logan County,West Virginia",27486,726434
+360,"Northampton County,Virginia","McDowell County,West Virginia",25865,700885
+361,"Northampton County,Virginia","Marion County,West Virginia",25477,722213
+362,"Northampton County,Virginia","Marshall County,West Virginia",29146,793797
+363,"Northampton County,Virginia","Mason County,West Virginia",26739,777758
+364,"Northampton County,Virginia","Mercer County,West Virginia",22580,637216
+365,"Northampton County,Virginia","Mineral County,West Virginia",20629,523110
+366,"Northampton County,Virginia","Mingo County,West Virginia",28065,790369
+367,"Northampton County,Virginia","Monongalia County,West Virginia",23300,673952
+368,"Northampton County,Virginia","Monroe County,West Virginia",20107,559689
+369,"Northampton County,Virginia","Morgan County,West Virginia",17954,459236
+370,"Northampton County,Virginia","Nicholas County,West Virginia",23012,626793
+371,"Northampton County,Virginia","Ohio County,West Virginia",28066,808299
+372,"Northampton County,Virginia","Pendleton County,West Virginia",18286,481263
+373,"Northampton County,Virginia","Pleasants County,West Virginia",29084,729387
+374,"Northampton County,Virginia","Pocahontas County,West Virginia",20745,509358
+375,"Northampton County,Virginia","Preston County,West Virginia",23335,590038
+376,"Northampton County,Virginia","Putnam County,West Virginia",25520,743376
+377,"Northampton County,Virginia","Raleigh County,West Virginia",21370,618825
+378,"Northampton County,Virginia","Randolph County,West Virginia",22205,541770
+379,"Northampton County,Virginia","Ritchie County,West Virginia",28995,723689
+380,"Northampton County,Virginia","Roane County,West Virginia",28208,800477
+381,"Northampton County,Virginia","Summers County,West Virginia",22092,598703
+382,"Northampton County,Virginia","Taylor County,West Virginia",23678,607860
+383,"Northampton County,Virginia","Tucker County,West Virginia",21815,573235
+384,"Northampton County,Virginia","Tyler County,West Virginia",30011,722053
+385,"Northampton County,Virginia","Upshur County,West Virginia",24800,577413
+386,"Northampton County,Virginia","Wayne County,West Virginia",28854,824478
+387,"Northampton County,Virginia","Webster County,West Virginia",24632,588779
+388,"Northampton County,Virginia","Wetzel County,West Virginia",28633,784337
+389,"Northampton County,Virginia","Wirt County,West Virginia",28849,829000
+390,"Northampton County,Virginia","Wood County,West Virginia",28363,830689
+391,"Northampton County,Virginia","Wyoming County,West Virginia",23315,658767

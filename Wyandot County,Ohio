@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wyandot County,Ohio","Adair County,Kentucky",20377,572288
+1,"Wyandot County,Ohio","Allen County,Kentucky",21133,625574
+2,"Wyandot County,Ohio","Anderson County,Kentucky",15359,451433
+3,"Wyandot County,Ohio","Ballard County,Kentucky",27293,817736
+4,"Wyandot County,Ohio","Barren County,Kentucky",20260,593987
+5,"Wyandot County,Ohio","Bath County,Kentucky",15644,472742
+6,"Wyandot County,Ohio","Bell County,Kentucky",20878,600468
+7,"Wyandot County,Ohio","Boone County,Kentucky",10827,302158
+8,"Wyandot County,Ohio","Bourbon County,Kentucky",14232,410701
+9,"Wyandot County,Ohio","Boyd County,Kentucky",13935,328150
+10,"Wyandot County,Ohio","Boyle County,Kentucky",16669,479322
+11,"Wyandot County,Ohio","Bracken County,Kentucky",12390,351518
+12,"Wyandot County,Ohio","Breathitt County,Kentucky",18244,536922
+13,"Wyandot County,Ohio","Breckinridge County,Kentucky",19173,544138
+14,"Wyandot County,Ohio","Bullitt County,Kentucky",15709,464970
+15,"Wyandot County,Ohio","Butler County,Kentucky",20513,602644
+16,"Wyandot County,Ohio","Caldwell County,Kentucky",23405,708590
+17,"Wyandot County,Ohio","Calloway County,Kentucky",26215,793582
+18,"Wyandot County,Ohio","Campbell County,Kentucky",10921,304467
+19,"Wyandot County,Ohio","Carlisle County,Kentucky",27750,833105
+20,"Wyandot County,Ohio","Carroll County,Kentucky",12401,363924
+21,"Wyandot County,Ohio","Carter County,Kentucky",14302,340864
+22,"Wyandot County,Ohio","Casey County,Kentucky",18593,509450
+23,"Wyandot County,Ohio","Christian County,Kentucky",23054,703846
+24,"Wyandot County,Ohio","Clay County,Kentucky",19109,559512
+25,"Wyandot County,Ohio","Clinton County,Kentucky",20832,598996
+26,"Wyandot County,Ohio","Crittenden County,Kentucky",24985,741660
+27,"Wyandot County,Ohio","Cumberland County,Kentucky",21586,617235
+28,"Wyandot County,Ohio","Daviess County,Kentucky",20486,607456
+29,"Wyandot County,Ohio","Edmonson County,Kentucky",19953,590519
+30,"Wyandot County,Ohio","Elliott County,Kentucky",15646,369404
+31,"Wyandot County,Ohio","Estill County,Kentucky",16178,473462
+32,"Wyandot County,Ohio","Fayette County,Kentucky",13607,403957
+33,"Wyandot County,Ohio","Fleming County,Kentucky",14692,351652
+34,"Wyandot County,Ohio","Floyd County,Kentucky",18391,438918
+35,"Wyandot County,Ohio","Franklin County,Kentucky",14841,407307
+36,"Wyandot County,Ohio","Fulton County,Kentucky",28154,854069
+37,"Wyandot County,Ohio","Gallatin County,Kentucky",11613,336337
+38,"Wyandot County,Ohio","Garrard County,Kentucky",16636,483316
+39,"Wyandot County,Ohio","Grant County,Kentucky",11680,336811
+40,"Wyandot County,Ohio","Graves County,Kentucky",26775,805811
+41,"Wyandot County,Ohio","Grayson County,Kentucky",18840,559280
+42,"Wyandot County,Ohio","Green County,Kentucky",19528,565276
+43,"Wyandot County,Ohio","Greenup County,Kentucky",12316,292082
+44,"Wyandot County,Ohio","Hancock County,Kentucky",19371,561975
+45,"Wyandot County,Ohio","Hardin County,Kentucky",17717,521413
+46,"Wyandot County,Ohio","Harlan County,Kentucky",23173,656073
+47,"Wyandot County,Ohio","Harrison County,Kentucky",13116,370873
+48,"Wyandot County,Ohio","Hart County,Kentucky",18516,549041
+49,"Wyandot County,Ohio","Henderson County,Kentucky",22070,649952
+50,"Wyandot County,Ohio","Henry County,Kentucky",13587,392247
+51,"Wyandot County,Ohio","Hickman County,Kentucky",27784,834397
+52,"Wyandot County,Ohio","Hopkins County,Kentucky",22864,683058
+53,"Wyandot County,Ohio","Jackson County,Kentucky",17621,503298
+54,"Wyandot County,Ohio","Jefferson County,Kentucky",14803,434406
+55,"Wyandot County,Ohio","Jessamine County,Kentucky",14868,427269
+56,"Wyandot County,Ohio","Johnson County,Kentucky",17039,404549
+57,"Wyandot County,Ohio","Kenton County,Kentucky",10472,295716
+58,"Wyandot County,Ohio","Knott County,Kentucky",19572,470800
+59,"Wyandot County,Ohio","Knox County,Kentucky",19040,562208
+60,"Wyandot County,Ohio","Larue County,Kentucky",17786,525012
+61,"Wyandot County,Ohio","Laurel County,Kentucky",17891,533603
+62,"Wyandot County,Ohio","Lawrence County,Kentucky",16181,375973
+63,"Wyandot County,Ohio","Lee County,Kentucky",17493,513379
+64,"Wyandot County,Ohio","Leslie County,Kentucky",21060,610636
+65,"Wyandot County,Ohio","Letcher County,Kentucky",21427,508409
+66,"Wyandot County,Ohio","Lewis County,Kentucky",13226,313933
+67,"Wyandot County,Ohio","Lincoln County,Kentucky",17346,500234
+68,"Wyandot County,Ohio","Livingston County,Kentucky",25580,758557
+69,"Wyandot County,Ohio","Logan County,Kentucky",22253,645883
+70,"Wyandot County,Ohio","Lyon County,Kentucky",25714,768947
+71,"Wyandot County,Ohio","McCracken County,Kentucky",25906,785796
+72,"Wyandot County,Ohio","McCreary County,Kentucky",19996,578045
+73,"Wyandot County,Ohio","Madison County,Kentucky",15030,447186
+74,"Wyandot County,Ohio","Magoffin County,Kentucky",18007,425229
+75,"Wyandot County,Ohio","Marion County,Kentucky",17366,503785
+76,"Wyandot County,Ohio","Marshall County,Kentucky",25320,769368
+77,"Wyandot County,Ohio","Martin County,Kentucky",17667,408318
+78,"Wyandot County,Ohio","Mason County,Kentucky",13124,366565
+79,"Wyandot County,Ohio","Meade County,Kentucky",17249,501646
+80,"Wyandot County,Ohio","Menifee County,Kentucky",16918,485279
+81,"Wyandot County,Ohio","Mercer County,Kentucky",15743,459496
+82,"Wyandot County,Ohio","Metcalfe County,Kentucky",20712,614080
+83,"Wyandot County,Ohio","Monroe County,Kentucky",21608,637662
+84,"Wyandot County,Ohio","Montgomery County,Kentucky",15562,463188
+85,"Wyandot County,Ohio","Morgan County,Kentucky",17369,406992
+86,"Wyandot County,Ohio","Muhlenberg County,Kentucky",21724,649534
+87,"Wyandot County,Ohio","Nelson County,Kentucky",16974,502857
+88,"Wyandot County,Ohio","Nicholas County,Kentucky",14823,412157
+89,"Wyandot County,Ohio","Ohio County,Kentucky",20637,617123
+90,"Wyandot County,Ohio","Oldham County,Kentucky",13702,405352
+91,"Wyandot County,Ohio","Owen County,Kentucky",12844,362726
+92,"Wyandot County,Ohio","Owsley County,Kentucky",18640,533356
+93,"Wyandot County,Ohio","Pendleton County,Kentucky",11796,326309
+94,"Wyandot County,Ohio","Perry County,Kentucky",19856,576805
+95,"Wyandot County,Ohio","Pike County,Kentucky",20070,469243
+96,"Wyandot County,Ohio","Powell County,Kentucky",15855,472047
+97,"Wyandot County,Ohio","Robertson County,Kentucky",13720,370303
+98,"Wyandot County,Ohio","Rockcastle County,Kentucky",16464,488328
+99,"Wyandot County,Ohio","Rowan County,Kentucky",15312,358480
+100,"Wyandot County,Ohio","Russell County,Kentucky",20029,579614
+101,"Wyandot County,Ohio","Scott County,Kentucky",12609,371331
+102,"Wyandot County,Ohio","Shelby County,Kentucky",14958,419237
+103,"Wyandot County,Ohio","Simpson County,Kentucky",21835,653940
+104,"Wyandot County,Ohio","Spencer County,Kentucky",15917,464026
+105,"Wyandot County,Ohio","Taylor County,Kentucky",18656,535281
+106,"Wyandot County,Ohio","Todd County,Kentucky",23489,670043
+107,"Wyandot County,Ohio","Trigg County,Kentucky",24468,729775
+108,"Wyandot County,Ohio","Trimble County,Kentucky",13300,387248
+109,"Wyandot County,Ohio","Union County,Kentucky",23789,680398
+110,"Wyandot County,Ohio","Warren County,Kentucky",20869,618888
+111,"Wyandot County,Ohio","Washington County,Kentucky",16984,488093
+112,"Wyandot County,Ohio","Wayne County,Kentucky",20205,576687
+113,"Wyandot County,Ohio","Webster County,Kentucky",23713,686573
+114,"Wyandot County,Ohio","Whitley County,Kentucky",18724,568088
+115,"Wyandot County,Ohio","Wolfe County,Kentucky",17119,509919
+116,"Wyandot County,Ohio","Woodford County,Kentucky",14220,419588
+117,"Wyandot County,Ohio","Adams County,Ohio",11427,279271
+118,"Wyandot County,Ohio","Allen County,Ohio",3015,78717
+119,"Wyandot County,Ohio","Ashland County,Ohio",4481,112195
+120,"Wyandot County,Ohio","Ashtabula County,Ohio",10322,302961
+121,"Wyandot County,Ohio","Athens County,Ohio",9279,236434
+122,"Wyandot County,Ohio","Auglaize County,Ohio",4157,117074
+123,"Wyandot County,Ohio","Belmont County,Ohio",11197,308231
+124,"Wyandot County,Ohio","Brown County,Ohio",11710,282952
+125,"Wyandot County,Ohio","Butler County,Ohio",8912,248917
+126,"Wyandot County,Ohio","Carroll County,Ohio",8915,223172
+127,"Wyandot County,Ohio","Champaign County,Ohio",5564,107766
+128,"Wyandot County,Ohio","Clark County,Ohio",6380,134574
+129,"Wyandot County,Ohio","Clermont County,Ohio",9995,286650
+130,"Wyandot County,Ohio","Clinton County,Ohio",8527,219456
+131,"Wyandot County,Ohio","Columbiana County,Ohio",9365,236659
+132,"Wyandot County,Ohio","Coshocton County,Ohio",7692,168085
+133,"Wyandot County,Ohio","Crawford County,Ohio",1339,34392
+134,"Wyandot County,Ohio","Cuyahoga County,Ohio",6894,200675
+135,"Wyandot County,Ohio","Darke County,Ohio",7289,184869
+136,"Wyandot County,Ohio","Defiance County,Ohio",6013,144450
+137,"Wyandot County,Ohio","Delaware County,Ohio",3297,79234
+138,"Wyandot County,Ohio","Fairfield County,Ohio",6473,157691
+139,"Wyandot County,Ohio","Fayette County,Ohio",7164,181506
+140,"Wyandot County,Ohio","Franklin County,Ohio",4761,112907
+141,"Wyandot County,Ohio","Fulton County,Ohio",5609,156991
+142,"Wyandot County,Ohio","Gallia County,Ohio",10590,269855
+143,"Wyandot County,Ohio","Geauga County,Ohio",8423,239893
+144,"Wyandot County,Ohio","Greene County,Ohio",7618,159578
+145,"Wyandot County,Ohio","Guernsey County,Ohio",8926,241912
+146,"Wyandot County,Ohio","Hamilton County,Ohio",9359,265681
+147,"Wyandot County,Ohio","Hancock County,Ohio",1696,42515
+148,"Wyandot County,Ohio","Hardin County,Ohio",2158,41273
+149,"Wyandot County,Ohio","Harrison County,Ohio",9150,225540
+150,"Wyandot County,Ohio","Henry County,Ohio",4408,114136
+151,"Wyandot County,Ohio","Highland County,Ohio",9598,221753
+152,"Wyandot County,Ohio","Hocking County,Ohio",7910,201096
+153,"Wyandot County,Ohio","Holmes County,Ohio",6022,146196
+154,"Wyandot County,Ohio","Huron County,Ohio",3539,84377
+155,"Wyandot County,Ohio","Jackson County,Ohio",9532,242396
+156,"Wyandot County,Ohio","Jefferson County,Ohio",10961,262770
+157,"Wyandot County,Ohio","Knox County,Ohio",5487,116400
+158,"Wyandot County,Ohio","Lawrence County,Ohio",13213,304469
+159,"Wyandot County,Ohio","Licking County,Ohio",5594,132039
+160,"Wyandot County,Ohio","Logan County,Ohio",3781,80556
+161,"Wyandot County,Ohio","Lorain County,Ohio",6220,143212
+162,"Wyandot County,Ohio","Lucas County,Ohio",5504,105254
+163,"Wyandot County,Ohio","Madison County,Ohio",5570,132226
+164,"Wyandot County,Ohio","Mahoning County,Ohio",9292,254593
+165,"Wyandot County,Ohio","Marion County,Ohio",2265,51973
+166,"Wyandot County,Ohio","Medina County,Ohio",5222,143223
+167,"Wyandot County,Ohio","Meigs County,Ohio",10204,266542
+168,"Wyandot County,Ohio","Mercer County,Ohio",5393,144008
+169,"Wyandot County,Ohio","Miami County,Ohio",5416,154831
+170,"Wyandot County,Ohio","Monroe County,Ohio",12602,322795
+171,"Wyandot County,Ohio","Montgomery County,Ohio",7118,204200
+172,"Wyandot County,Ohio","Morgan County,Ohio",9992,250408
+173,"Wyandot County,Ohio","Morrow County,Ohio",3210,71299
+174,"Wyandot County,Ohio","Muskingum County,Ohio",7777,208068
+175,"Wyandot County,Ohio","Noble County,Ohio",10625,279032
+176,"Wyandot County,Ohio","Paulding County,Ohio",5114,142035
+177,"Wyandot County,Ohio","Perry County,Ohio",7845,196652
+178,"Wyandot County,Ohio","Pickaway County,Ohio",6159,148872
+179,"Wyandot County,Ohio","Pike County,Ohio",9100,223076
+180,"Wyandot County,Ohio","Portage County,Ohio",7744,214372
+181,"Wyandot County,Ohio","Preble County,Ohio",7888,226911
+182,"Wyandot County,Ohio","Putnam County,Ohio",3701,98488
+183,"Wyandot County,Ohio","Richland County,Ohio",3109,80027
+184,"Wyandot County,Ohio","Ross County,Ohio",7844,189545
+185,"Wyandot County,Ohio","Sandusky County,Ohio",3609,67568
+186,"Wyandot County,Ohio","Scioto County,Ohio",10059,246530
+187,"Wyandot County,Ohio","Seneca County,Ohio",2226,41453
+188,"Wyandot County,Ohio","Shelby County,Ohio",4551,123650
+189,"Wyandot County,Ohio","Stark County,Ohio",7418,197961
+190,"Wyandot County,Ohio","Summit County,Ohio",6425,178550
+191,"Wyandot County,Ohio","Trumbull County,Ohio",9325,264865
+192,"Wyandot County,Ohio","Tuscarawas County,Ohio",8223,198608
+193,"Wyandot County,Ohio","Union County,Ohio",3992,80378
+194,"Wyandot County,Ohio","Van Wert County,Ohio",3812,108999
+195,"Wyandot County,Ohio","Vinton County,Ohio",9614,230600
+196,"Wyandot County,Ohio","Warren County,Ohio",8580,233488
+197,"Wyandot County,Ohio","Washington County,Ohio",11809,319977
+198,"Wyandot County,Ohio","Wayne County,Ohio",4879,131425
+199,"Wyandot County,Ohio","Williams County,Ohio",6739,169921
+200,"Wyandot County,Ohio","Wood County,Ohio",3094,84122
+201,"Wyandot County,Ohio","Accomack County,Virginia",36576,1020432
+202,"Wyandot County,Ohio","Albemarle County,Virginia",27132,763331
+203,"Wyandot County,Ohio","Alleghany County,Virginia",21801,600354
+204,"Wyandot County,Ohio","Amelia County,Virginia",31833,863449
+205,"Wyandot County,Ohio","Amherst County,Virginia",27130,731320
+206,"Wyandot County,Ohio","Appomattox County,Virginia",28723,770079
+207,"Wyandot County,Ohio","Arlington County,Virginia",25440,737359
+208,"Wyandot County,Ohio","Augusta County,Virginia",25743,701671
+209,"Wyandot County,Ohio","Bath County,Virginia",24813,675664
+210,"Wyandot County,Ohio","Bedford County,Virginia",27390,717445
+211,"Wyandot County,Ohio","Bland County,Virginia",20763,566574
+212,"Wyandot County,Ohio","Botetourt County,Virginia",24955,671654
+213,"Wyandot County,Ohio","Brunswick County,Virginia",34376,913122
+214,"Wyandot County,Ohio","Buchanan County,Virginia",24122,548749
+215,"Wyandot County,Ohio","Buckingham County,Virginia",29006,781014
+216,"Wyandot County,Ohio","Campbell County,Virginia",28647,772551
+217,"Wyandot County,Ohio","Caroline County,Virginia",29445,856349
+218,"Wyandot County,Ohio","Carroll County,Virginia",23008,636011
+219,"Wyandot County,Ohio","Charles City County,Virginia",31915,927832
+220,"Wyandot County,Ohio","Charlotte County,Virginia",30608,823600
+221,"Wyandot County,Ohio","Chesterfield County,Virginia",31708,906995
+222,"Wyandot County,Ohio","Clarke County,Virginia",24188,667092
+223,"Wyandot County,Ohio","Craig County,Virginia",23444,621439
+224,"Wyandot County,Ohio","Culpeper County,Virginia",27508,766531
+225,"Wyandot County,Ohio","Cumberland County,Virginia",30215,809017
+226,"Wyandot County,Ohio","Dickenson County,Virginia",23931,554246
+227,"Wyandot County,Ohio","Dinwiddie County,Virginia",33086,965748
+228,"Wyandot County,Ohio","Essex County,Virginia",30847,880403
+229,"Wyandot County,Ohio","Fairfax County,Virginia",25131,728026
+230,"Wyandot County,Ohio","Fauquier County,Virginia",25938,733257
+231,"Wyandot County,Ohio","Floyd County,Virginia",24629,654976
+232,"Wyandot County,Ohio","Fluvanna County,Virginia",28810,815503
+233,"Wyandot County,Ohio","Franklin County,Virginia",26902,718678
+234,"Wyandot County,Ohio","Frederick County,Virginia",22978,641814
+235,"Wyandot County,Ohio","Giles County,Virginia",21494,578132
+236,"Wyandot County,Ohio","Gloucester County,Virginia",34086,982020
+237,"Wyandot County,Ohio","Goochland County,Virginia",29713,846114
+238,"Wyandot County,Ohio","Grayson County,Virginia",23411,625719
+239,"Wyandot County,Ohio","Greene County,Virginia",29053,785689
+240,"Wyandot County,Ohio","Greensville County,Virginia",34502,1014500
+241,"Wyandot County,Ohio","Halifax County,Virginia",31312,833698
+242,"Wyandot County,Ohio","Hanover County,Virginia",30264,885841
+243,"Wyandot County,Ohio","Henrico County,Virginia",31062,908502
+244,"Wyandot County,Ohio","Henry County,Virginia",26882,722732
+245,"Wyandot County,Ohio","Highland County,Virginia",24460,614448
+246,"Wyandot County,Ohio","Isle of Wight County,Virginia",35197,1017091
+247,"Wyandot County,Ohio","James City County,Virginia",33151,968603
+248,"Wyandot County,Ohio","King and Queen County,Virginia",31899,915664
+249,"Wyandot County,Ohio","King George County,Virginia",29406,840210
+250,"Wyandot County,Ohio","King William County,Virginia",30864,893461
+251,"Wyandot County,Ohio","Lancaster County,Virginia",33270,936397
+252,"Wyandot County,Ohio","Lee County,Virginia",23970,677027
+253,"Wyandot County,Ohio","Loudoun County,Virginia",25145,711995
+254,"Wyandot County,Ohio","Louisa County,Virginia",29371,829209
+255,"Wyandot County,Ohio","Lunenburg County,Virginia",32380,864884
+256,"Wyandot County,Ohio","Madison County,Virginia",27931,754789
+257,"Wyandot County,Ohio","Mathews County,Virginia",34981,980785
+258,"Wyandot County,Ohio","Mecklenburg County,Virginia",33371,878008
+259,"Wyandot County,Ohio","Middlesex County,Virginia",33351,944366
+260,"Wyandot County,Ohio","Montgomery County,Virginia",22577,606139
+261,"Wyandot County,Ohio","Nelson County,Virginia",27671,743011
+262,"Wyandot County,Ohio","New Kent County,Virginia",32587,942517
+263,"Wyandot County,Ohio","Northampton County,Virginia",37569,1085266
+264,"Wyandot County,Ohio","Northumberland County,Virginia",33310,934910
+265,"Wyandot County,Ohio","Nottoway County,Virginia",31873,865263
+266,"Wyandot County,Ohio","Orange County,Virginia",28849,801029
+267,"Wyandot County,Ohio","Page County,Virginia",26471,723491
+268,"Wyandot County,Ohio","Patrick County,Virginia",25114,681047
+269,"Wyandot County,Ohio","Pittsylvania County,Virginia",29198,776940
+270,"Wyandot County,Ohio","Powhatan County,Virginia",30967,871335
+271,"Wyandot County,Ohio","Prince Edward County,Virginia",30488,822599
+272,"Wyandot County,Ohio","Prince George County,Virginia",32732,956345
+273,"Wyandot County,Ohio","Prince William County,Virginia",26038,739361
+274,"Wyandot County,Ohio","Pulaski County,Virginia",22672,602470
+275,"Wyandot County,Ohio","Rappahannock County,Virginia",26249,718395
+276,"Wyandot County,Ohio","Richmond County,Virginia",32010,907553
+277,"Wyandot County,Ohio","Roanoke County,Virginia",24196,648932
+278,"Wyandot County,Ohio","Rockbridge County,Virginia",24134,668710
+279,"Wyandot County,Ohio","Rockingham County,Virginia",25932,703771
+280,"Wyandot County,Ohio","Russell County,Virginia",24571,646754
+281,"Wyandot County,Ohio","Scott County,Virginia",25407,601699
+282,"Wyandot County,Ohio","Shenandoah County,Virginia",24869,704205
+283,"Wyandot County,Ohio","Smyth County,Virginia",23121,631926
+284,"Wyandot County,Ohio","Southampton County,Virginia",34880,1010614
+285,"Wyandot County,Ohio","Spotsylvania County,Virginia",28817,824609
+286,"Wyandot County,Ohio","Stafford County,Virginia",27105,791313
+287,"Wyandot County,Ohio","Surry County,Virginia",33844,978039
+288,"Wyandot County,Ohio","Sussex County,Virginia",33544,980857
+289,"Wyandot County,Ohio","Tazewell County,Virginia",21578,585161
+290,"Wyandot County,Ohio","Warren County,Virginia",24793,689753
+291,"Wyandot County,Ohio","Washington County,Virginia",24514,671392
+292,"Wyandot County,Ohio","Westmoreland County,Virginia",30374,859010
+293,"Wyandot County,Ohio","Wise County,Virginia",22195,530145
+294,"Wyandot County,Ohio","Wythe County,Virginia",21368,584791
+295,"Wyandot County,Ohio","York County,Virginia",34439,999377
+296,"Wyandot County,Ohio","Alexandria City County,Virginia",25956,754541
+297,"Wyandot County,Ohio","Bedford City County,Virginia",26554,708876
+298,"Wyandot County,Ohio","Bristol City County,Virginia",24989,697110
+299,"Wyandot County,Ohio","Buena Vista City County,Virginia",24489,682688
+300,"Wyandot County,Ohio","Charlottesville City County,Virginia",27601,778546
+301,"Wyandot County,Ohio","Chesapeake City County,Virginia",35902,1052283
+302,"Wyandot County,Ohio","Clifton Forge City County,Virginia",22345,620561
+303,"Wyandot County,Ohio","Colonial Heights City County,Virginia",31899,931209
+304,"Wyandot County,Ohio","Covington City County,Virginia",21870,603940
+305,"Wyandot County,Ohio","Danville City County,Virginia",29039,777188
+306,"Wyandot County,Ohio","Emporia City County,Virginia",34210,1001093
+307,"Wyandot County,Ohio","Fairfax City County,Virginia",25601,739659
+308,"Wyandot County,Ohio","Falls Church City County,Virginia",25149,731671
+309,"Wyandot County,Ohio","Franklin City County,Virginia",35428,1018469
+310,"Wyandot County,Ohio","Fredericksburg City County,Virginia",27918,806904
+311,"Wyandot County,Ohio","Galax City County,Virginia",23632,641877
+312,"Wyandot County,Ohio","Hampton City County,Virginia",34389,1009083
+313,"Wyandot County,Ohio","Harrisonburg City County,Virginia",26676,756094
+314,"Wyandot County,Ohio","Hopewell City County,Virginia",31663,931246
+315,"Wyandot County,Ohio","Lexington City County,Virginia",24123,671179
+316,"Wyandot County,Ohio","Lynchburg City County,Virginia",27706,746294
+317,"Wyandot County,Ohio","Manassas City County,Virginia",26266,744306
+318,"Wyandot County,Ohio","Manassas Park City County,Virginia",26341,756899
+319,"Wyandot County,Ohio","Martinsville City County,Virginia",27409,731526
+320,"Wyandot County,Ohio","Newport News City County,Virginia",33946,995569
+321,"Wyandot County,Ohio","Norfolk City County,Virginia",35696,1034499
+322,"Wyandot County,Ohio","Norton City County,Virginia",22824,541956
+323,"Wyandot County,Ohio","Petersburg City County,Virginia",31771,932197
+324,"Wyandot County,Ohio","Poquoson City County,Virginia",34618,1006146
+325,"Wyandot County,Ohio","Portsmouth City County,Virginia",35635,1043320
+326,"Wyandot County,Ohio","Radford County,Virginia",22984,604179
+327,"Wyandot County,Ohio","Richmond City County,Virginia",30639,896312
+328,"Wyandot County,Ohio","Roanoke City County,Virginia",24798,669037
+329,"Wyandot County,Ohio","Salem City County,Virginia",24210,655587
+330,"Wyandot County,Ohio","South Boston City County,Virginia",31052,831366
+331,"Wyandot County,Ohio","Staunton City County,Virginia",25894,725823
+332,"Wyandot County,Ohio","Suffolk City County,Virginia",36040,1031815
+333,"Wyandot County,Ohio","Virginia Beach City County,Virginia",36256,1057758
+334,"Wyandot County,Ohio","Waynesboro City County,Virginia",26232,738541
+335,"Wyandot County,Ohio","Williamsburg City County,Virginia",32990,967818
+336,"Wyandot County,Ohio","Winchester City County,Virginia",23117,645618
+337,"Wyandot County,Ohio","Barbour County,West Virginia",17586,457359
+338,"Wyandot County,Ohio","Berkeley County,West Virginia",21904,615502
+339,"Wyandot County,Ohio","Boone County,West Virginia",17266,429340
+340,"Wyandot County,Ohio","Braxton County,West Virginia",18418,483869
+341,"Wyandot County,Ohio","Brooke County,West Virginia",12263,295597
+342,"Wyandot County,Ohio","Cabell County,West Virginia",13967,330297
+343,"Wyandot County,Ohio","Calhoun County,West Virginia",15705,383644
+344,"Wyandot County,Ohio","Clay County,West Virginia",17184,454782
+345,"Wyandot County,Ohio","Doddridge County,West Virginia",14573,383077
+346,"Wyandot County,Ohio","Fayette County,West Virginia",18681,479457
+347,"Wyandot County,Ohio","Gilmer County,West Virginia",16760,398181
+348,"Wyandot County,Ohio","Grant County,West Virginia",22103,595855
+349,"Wyandot County,Ohio","Greenbrier County,West Virginia",21755,557496
+350,"Wyandot County,Ohio","Hampshire County,West Virginia",22168,571341
+351,"Wyandot County,Ohio","Hancock County,West Virginia",11225,278022
+352,"Wyandot County,Ohio","Hardy County,West Virginia",23189,628457
+353,"Wyandot County,Ohio","Harrison County,West Virginia",15656,416071
+354,"Wyandot County,Ohio","Jackson County,West Virginia",12818,326972
+355,"Wyandot County,Ohio","Jefferson County,West Virginia",23361,671374
+356,"Wyandot County,Ohio","Kanawha County,West Virginia",15990,413521
+357,"Wyandot County,Ohio","Lewis County,West Virginia",17349,418222
+358,"Wyandot County,Ohio","Lincoln County,West Virginia",16706,407631
+359,"Wyandot County,Ohio","Logan County,West Virginia",18195,466458
+360,"Wyandot County,Ohio","McDowell County,West Virginia",22352,560833
+361,"Wyandot County,Ohio","Marion County,West Virginia",17457,481163
+362,"Wyandot County,Ohio","Marshall County,West Virginia",13233,344987
+363,"Wyandot County,Ohio","Mason County,West Virginia",11621,304319
+364,"Wyandot County,Ohio","Mercer County,West Virginia",19316,525080
+365,"Wyandot County,Ohio","Mineral County,West Virginia",21024,556049
+366,"Wyandot County,Ohio","Mingo County,West Virginia",18241,470966
+367,"Wyandot County,Ohio","Monongalia County,West Virginia",16385,465894
+368,"Wyandot County,Ohio","Monroe County,West Virginia",22362,569792
+369,"Wyandot County,Ohio","Morgan County,West Virginia",21395,604894
+370,"Wyandot County,Ohio","Nicholas County,West Virginia",18901,514662
+371,"Wyandot County,Ohio","Ohio County,West Virginia",12295,331716
+372,"Wyandot County,Ohio","Pendleton County,West Virginia",23972,615881
+373,"Wyandot County,Ohio","Pleasants County,West Virginia",13103,349664
+374,"Wyandot County,Ohio","Pocahontas County,West Virginia",24230,584201
+375,"Wyandot County,Ohio","Preston County,West Virginia",18622,497679
+376,"Wyandot County,Ohio","Putnam County,West Virginia",13257,344342
+377,"Wyandot County,Ohio","Raleigh County,West Virginia",17858,478773
+378,"Wyandot County,Ohio","Randolph County,West Virginia",19650,514008
+379,"Wyandot County,Ohio","Ritchie County,West Virginia",13738,356119
+380,"Wyandot County,Ohio","Roane County,West Virginia",14444,355787
+381,"Wyandot County,Ohio","Summers County,West Virginia",21310,540211
+382,"Wyandot County,Ohio","Taylor County,West Virginia",17485,454766
+383,"Wyandot County,Ohio","Tucker County,West Virginia",20151,508087
+384,"Wyandot County,Ohio","Tyler County,West Virginia",14982,388335
+385,"Wyandot County,Ohio","Upshur County,West Virginia",18625,488449
+386,"Wyandot County,Ohio","Wayne County,West Virginia",15794,365560
+387,"Wyandot County,Ohio","Webster County,West Virginia",21085,541742
+388,"Wyandot County,Ohio","Wetzel County,West Virginia",15667,404435
+389,"Wyandot County,Ohio","Wirt County,West Virginia",13161,332753
+390,"Wyandot County,Ohio","Wood County,West Virginia",11845,307484
+391,"Wyandot County,Ohio","Wyoming County,West Virginia",19802,518715

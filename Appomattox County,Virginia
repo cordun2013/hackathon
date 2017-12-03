@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Appomattox County,Virginia","Adair County,Kentucky",28510,726365
+1,"Appomattox County,Virginia","Allen County,Kentucky",29906,846175
+2,"Appomattox County,Virginia","Anderson County,Kentucky",26000,731865
+3,"Appomattox County,Virginia","Ballard County,Kentucky",36811,1081430
+4,"Appomattox County,Virginia","Barren County,Kentucky",29696,805120
+5,"Appomattox County,Virginia","Bath County,Kentucky",21647,603046
+6,"Appomattox County,Virginia","Bell County,Kentucky",21006,527671
+7,"Appomattox County,Virginia","Boone County,Kentucky",27460,724439
+8,"Appomattox County,Virginia","Bourbon County,Kentucky",23561,649464
+9,"Appomattox County,Virginia","Boyd County,Kentucky",18323,497371
+10,"Appomattox County,Virginia","Boyle County,Kentucky",27229,735752
+11,"Appomattox County,Virginia","Bracken County,Kentucky",23972,643546
+12,"Appomattox County,Virginia","Breathitt County,Kentucky",22630,563435
+13,"Appomattox County,Virginia","Breckinridge County,Kentucky",31533,884546
+14,"Appomattox County,Virginia","Bullitt County,Kentucky",28103,805666
+15,"Appomattox County,Virginia","Butler County,Kentucky",32198,906544
+16,"Appomattox County,Virginia","Caldwell County,Kentucky",33950,989243
+17,"Appomattox County,Virginia","Calloway County,Kentucky",34652,1013289
+18,"Appomattox County,Virginia","Campbell County,Kentucky",25673,683418
+19,"Appomattox County,Virginia","Carlisle County,Kentucky",37268,1096798
+20,"Appomattox County,Virginia","Carroll County,Kentucky",28545,779680
+21,"Appomattox County,Virginia","Carter County,Kentucky",19487,527468
+22,"Appomattox County,Virginia","Casey County,Kentucky",28448,699639
+23,"Appomattox County,Virginia","Christian County,Kentucky",31545,934269
+24,"Appomattox County,Virginia","Clay County,Kentucky",23578,588014
+25,"Appomattox County,Virginia","Clinton County,Kentucky",26953,725579
+26,"Appomattox County,Virginia","Crittenden County,Kentucky",35215,1022004
+27,"Appomattox County,Virginia","Cumberland County,Kentucky",27833,746248
+28,"Appomattox County,Virginia","Daviess County,Kentucky",33221,952987
+29,"Appomattox County,Virginia","Edmonson County,Kentucky",31638,894419
+30,"Appomattox County,Virginia","Elliott County,Kentucky",20818,553238
+31,"Appomattox County,Virginia","Estill County,Kentucky",24640,665362
+32,"Appomattox County,Virginia","Fayette County,Kentucky",23807,669358
+33,"Appomattox County,Virginia","Fleming County,Kentucky",22073,606232
+34,"Appomattox County,Virginia","Floyd County,Kentucky",21291,540744
+35,"Appomattox County,Virginia","Franklin County,Kentucky",25845,718274
+36,"Appomattox County,Virginia","Fulton County,Kentucky",37672,1117762
+37,"Appomattox County,Virginia","Gallatin County,Kentucky",27542,770338
+38,"Appomattox County,Virginia","Garrard County,Kentucky",26412,716511
+39,"Appomattox County,Virginia","Grant County,Kentucky",26341,744446
+40,"Appomattox County,Virginia","Graves County,Kentucky",36293,1069504
+41,"Appomattox County,Virginia","Grayson County,Kentucky",30526,863180
+42,"Appomattox County,Virginia","Green County,Kentucky",30263,768530
+43,"Appomattox County,Virginia","Greenup County,Kentucky",20098,538497
+44,"Appomattox County,Virginia","Hancock County,Kentucky",32329,917439
+45,"Appomattox County,Virginia","Hardin County,Kentucky",29402,825313
+46,"Appomattox County,Virginia","Harlan County,Kentucky",20080,504298
+47,"Appomattox County,Virginia","Harrison County,Kentucky",25132,682563
+48,"Appomattox County,Virginia","Hart County,Kentucky",30201,852941
+49,"Appomattox County,Virginia","Henderson County,Kentucky",35028,1005416
+50,"Appomattox County,Virginia","Henry County,Kentucky",27446,761993
+51,"Appomattox County,Virginia","Hickman County,Kentucky",37301,1098090
+52,"Appomattox County,Virginia","Hopkins County,Kentucky",34071,999521
+53,"Appomattox County,Virginia","Jackson County,Kentucky",25450,624432
+54,"Appomattox County,Virginia","Jefferson County,Kentucky",27540,777526
+55,"Appomattox County,Virginia","Jessamine County,Kentucky",25276,690822
+56,"Appomattox County,Virginia","Johnson County,Kentucky",21104,570267
+57,"Appomattox County,Virginia","Kenton County,Kentucky",26829,712133
+58,"Appomattox County,Virginia","Knott County,Kentucky",20170,506185
+59,"Appomattox County,Virginia","Knox County,Kentucky",22336,569664
+60,"Appomattox County,Virginia","Larue County,Kentucky",29473,812489
+61,"Appomattox County,Virginia","Laurel County,Kentucky",24230,604491
+62,"Appomattox County,Virginia","Lawrence County,Kentucky",20246,541691
+63,"Appomattox County,Virginia","Lee County,Kentucky",24741,604625
+64,"Appomattox County,Virginia","Leslie County,Kentucky",21543,532577
+65,"Appomattox County,Virginia","Letcher County,Kentucky",18571,469732
+66,"Appomattox County,Virginia","Lewis County,Kentucky",21526,579286
+67,"Appomattox County,Virginia","Lincoln County,Kentucky",26919,684888
+68,"Appomattox County,Virginia","Livingston County,Kentucky",35142,1035368
+69,"Appomattox County,Virginia","Logan County,Kentucky",31977,887169
+70,"Appomattox County,Virginia","Lyon County,Kentucky",34899,1012543
+71,"Appomattox County,Virginia","McCracken County,Kentucky",35423,1049489
+72,"Appomattox County,Virginia","McCreary County,Kentucky",23960,662425
+73,"Appomattox County,Virginia","Madison County,Kentucky",24805,680381
+74,"Appomattox County,Virginia","Magoffin County,Kentucky",22072,590946
+75,"Appomattox County,Virginia","Marion County,Kentucky",27851,774098
+76,"Appomattox County,Virginia","Marshall County,Kentucky",34838,1033061
+77,"Appomattox County,Virginia","Martin County,Kentucky",21360,523415
+78,"Appomattox County,Virginia","Mason County,Kentucky",23321,623092
+79,"Appomattox County,Virginia","Meade County,Kentucky",30000,849841
+80,"Appomattox County,Virginia","Menifee County,Kentucky",22763,615110
+81,"Appomattox County,Virginia","Mercer County,Kentucky",26228,729809
+82,"Appomattox County,Virginia","Metcalfe County,Kentucky",29166,756630
+83,"Appomattox County,Virginia","Monroe County,Kentucky",28394,776669
+84,"Appomattox County,Virginia","Montgomery County,Kentucky",22460,621587
+85,"Appomattox County,Virginia","Morgan County,Kentucky",22542,590826
+86,"Appomattox County,Virginia","Muhlenberg County,Kentucky",33409,953433
+87,"Appomattox County,Virginia","Nelson County,Kentucky",27459,773169
+88,"Appomattox County,Virginia","Nicholas County,Kentucky",24138,649470
+89,"Appomattox County,Virginia","Ohio County,Kentucky",32322,921023
+90,"Appomattox County,Virginia","Oldham County,Kentucky",27611,789408
+91,"Appomattox County,Virginia","Owen County,Kentucky",26667,745051
+92,"Appomattox County,Virginia","Owsley County,Kentucky",24768,601309
+93,"Appomattox County,Virginia","Pendleton County,Kentucky",25910,684471
+94,"Appomattox County,Virginia","Perry County,Kentucky",21144,526608
+95,"Appomattox County,Virginia","Pike County,Kentucky",19665,475258
+96,"Appomattox County,Virginia","Powell County,Kentucky",23904,651332
+97,"Appomattox County,Virginia","Robertson County,Kentucky",24056,648976
+98,"Appomattox County,Virginia","Rockcastle County,Kentucky",25400,646486
+99,"Appomattox County,Virginia","Rowan County,Kentucky",20790,575254
+100,"Appomattox County,Virginia","Russell County,Kentucky",28115,710349
+101,"Appomattox County,Virginia","Scott County,Kentucky",24641,697385
+102,"Appomattox County,Virginia","Shelby County,Kentucky",26469,748661
+103,"Appomattox County,Virginia","Simpson County,Kentucky",30944,863145
+104,"Appomattox County,Virginia","Spencer County,Kentucky",26998,754509
+105,"Appomattox County,Virginia","Taylor County,Kentucky",29141,805594
+106,"Appomattox County,Virginia","Todd County,Kentucky",31960,927215
+107,"Appomattox County,Virginia","Trigg County,Kentucky",32452,951628
+108,"Appomattox County,Virginia","Trimble County,Kentucky",28685,795447
+109,"Appomattox County,Virginia","Union County,Kentucky",36747,1035863
+110,"Appomattox County,Virginia","Warren County,Kentucky",31369,885812
+111,"Appomattox County,Virginia","Washington County,Kentucky",27469,758406
+112,"Appomattox County,Virginia","Wayne County,Kentucky",26464,709556
+113,"Appomattox County,Virginia","Webster County,Kentucky",35181,1027609
+114,"Appomattox County,Virginia","Whitley County,Kentucky",22564,647188
+115,"Appomattox County,Virginia","Wolfe County,Kentucky",23637,614187
+116,"Appomattox County,Virginia","Woodford County,Kentucky",24861,700021
+117,"Appomattox County,Virginia","Adams County,Ohio",23413,625649
+118,"Appomattox County,Virginia","Allen County,Ohio",30146,801066
+119,"Appomattox County,Virginia","Ashland County,Ohio",27890,754957
+120,"Appomattox County,Virginia","Ashtabula County,Ohio",28163,774386
+121,"Appomattox County,Virginia","Athens County,Ohio",19822,531248
+122,"Appomattox County,Virginia","Auglaize County,Ohio",29396,817766
+123,"Appomattox County,Virginia","Belmont County,Ohio",23235,588983
+124,"Appomattox County,Virginia","Brown County,Ohio",24658,652576
+125,"Appomattox County,Virginia","Butler County,Ohio",27771,734602
+126,"Appomattox County,Virginia","Carroll County,Ohio",25570,701666
+127,"Appomattox County,Virginia","Champaign County,Ohio",26700,719863
+128,"Appomattox County,Virginia","Clark County,Ohio",25379,679408
+129,"Appomattox County,Virginia","Clermont County,Ohio",25492,683673
+130,"Appomattox County,Virginia","Clinton County,Ohio",24883,667089
+131,"Appomattox County,Virginia","Columbiana County,Ohio",25389,613363
+132,"Appomattox County,Virginia","Coshocton County,Ohio",24206,672782
+133,"Appomattox County,Virginia","Crawford County,Ohio",28497,766117
+134,"Appomattox County,Virginia","Cuyahoga County,Ohio",27606,787070
+135,"Appomattox County,Virginia","Darke County,Ohio",28493,774813
+136,"Appomattox County,Virginia","Defiance County,Ohio",33581,879387
+137,"Appomattox County,Virginia","Delaware County,Ohio",25651,698855
+138,"Appomattox County,Virginia","Fairfield County,Ohio",23182,625949
+139,"Appomattox County,Virginia","Fayette County,Ohio",23447,637553
+140,"Appomattox County,Virginia","Franklin County,Ohio",24182,655804
+141,"Appomattox County,Virginia","Fulton County,Ohio",33588,921686
+142,"Appomattox County,Virginia","Gallia County,Ohio",18760,496665
+143,"Appomattox County,Virginia","Geauga County,Ohio",27652,747049
+144,"Appomattox County,Virginia","Greene County,Ohio",24317,670705
+145,"Appomattox County,Virginia","Guernsey County,Ohio",21756,610701
+146,"Appomattox County,Virginia","Hamilton County,Ohio",27272,745180
+147,"Appomattox County,Virginia","Hancock County,Ohio",29675,807210
+148,"Appomattox County,Virginia","Hardin County,Ohio",28656,756896
+149,"Appomattox County,Virginia","Harrison County,Ohio",24576,683731
+150,"Appomattox County,Virginia","Henry County,Ohio",32387,878831
+151,"Appomattox County,Virginia","Highland County,Ohio",23951,625662
+152,"Appomattox County,Virginia","Hocking County,Ohio",21624,581912
+153,"Appomattox County,Virginia","Holmes County,Ohio",25264,695667
+154,"Appomattox County,Virginia","Huron County,Ohio",29787,796586
+155,"Appomattox County,Virginia","Jackson County,Ohio",19937,536214
+156,"Appomattox County,Virginia","Jefferson County,Ohio",24136,588333
+157,"Appomattox County,Virginia","Knox County,Ohio",25994,715258
+158,"Appomattox County,Virginia","Lawrence County,Ohio",19462,502427
+159,"Appomattox County,Virginia","Licking County,Ohio",25127,652958
+160,"Appomattox County,Virginia","Logan County,Ohio",27677,751173
+161,"Appomattox County,Virginia","Lorain County,Ohio",28831,816893
+162,"Appomattox County,Virginia","Lucas County,Ohio",33310,894709
+163,"Appomattox County,Virginia","Madison County,Ohio",25148,660637
+164,"Appomattox County,Virginia","Mahoning County,Ohio",24649,664378
+165,"Appomattox County,Virginia","Marion County,Ohio",27058,724948
+166,"Appomattox County,Virginia","Medina County,Ohio",27280,773101
+167,"Appomattox County,Virginia","Meigs County,Ohio",18702,502218
+168,"Appomattox County,Virginia","Mercer County,Ohio",30631,844700
+169,"Appomattox County,Virginia","Miami County,Ohio",26982,740205
+170,"Appomattox County,Virginia","Monroe County,Ohio",22692,599893
+171,"Appomattox County,Virginia","Montgomery County,Ohio",26351,718161
+172,"Appomattox County,Virginia","Morgan County,Ohio",21697,586541
+173,"Appomattox County,Virginia","Morrow County,Ohio",26459,721675
+174,"Appomattox County,Virginia","Muskingum County,Ohio",22602,638693
+175,"Appomattox County,Virginia","Noble County,Ohio",21198,583053
+176,"Appomattox County,Virginia","Paulding County,Ohio",32682,876972
+177,"Appomattox County,Virginia","Perry County,Ohio",23039,596668
+178,"Appomattox County,Virginia","Pickaway County,Ohio",22887,617652
+179,"Appomattox County,Virginia","Pike County,Ohio",21383,575520
+180,"Appomattox County,Virginia","Portage County,Ohio",26504,720392
+181,"Appomattox County,Virginia","Preble County,Ohio",27970,746739
+182,"Appomattox County,Virginia","Putnam County,Ohio",31269,833425
+183,"Appomattox County,Virginia","Richland County,Ohio",27489,756914
+184,"Appomattox County,Virginia","Ross County,Ohio",21631,583958
+185,"Appomattox County,Virginia","Sandusky County,Ohio",31431,825905
+186,"Appomattox County,Virginia","Scioto County,Ohio",21267,559701
+187,"Appomattox County,Virginia","Seneca County,Ohio",30048,799789
+188,"Appomattox County,Virginia","Shelby County,Ohio",28020,776490
+189,"Appomattox County,Virginia","Stark County,Ohio",25429,716901
+190,"Appomattox County,Virginia","Summit County,Ohio",26188,742689
+191,"Appomattox County,Virginia","Trumbull County,Ohio",25807,701842
+192,"Appomattox County,Virginia","Tuscarawas County,Ohio",23630,657488
+193,"Appomattox County,Virginia","Union County,Ohio",26181,701404
+194,"Appomattox County,Virginia","Van Wert County,Ohio",31380,843936
+195,"Appomattox County,Virginia","Vinton County,Ohio",21833,561719
+196,"Appomattox County,Virginia","Warren County,Ohio",25689,701148
+197,"Appomattox County,Virginia","Washington County,Ohio",20056,540990
+198,"Appomattox County,Virginia","Wayne County,Ohio",26401,719779
+199,"Appomattox County,Virginia","Williams County,Ohio",34758,902903
+200,"Appomattox County,Virginia","Wood County,Ohio",31073,848817
+201,"Appomattox County,Virginia","Wyandot County,Ohio",28644,771345
+202,"Appomattox County,Virginia","Accomack County,Virginia",16705,412618
+203,"Appomattox County,Virginia","Albemarle County,Virginia",5108,106755
+204,"Appomattox County,Virginia","Alleghany County,Virginia",7852,180020
+205,"Appomattox County,Virginia","Amelia County,Virginia",3995,94066
+206,"Appomattox County,Virginia","Amherst County,Virginia",2843,52867
+207,"Appomattox County,Virginia","Arlington County,Virginia",11617,305738
+208,"Appomattox County,Virginia","Augusta County,Virginia",6594,142916
+209,"Appomattox County,Virginia","Bath County,Virginia",8372,173348
+210,"Appomattox County,Virginia","Bedford County,Virginia",3911,81811
+211,"Appomattox County,Virginia","Bland County,Virginia",10272,266989
+212,"Appomattox County,Virginia","Botetourt County,Virginia",6278,128174
+213,"Appomattox County,Virginia","Brunswick County,Virginia",6537,143739
+214,"Appomattox County,Virginia","Buchanan County,Virginia",16029,401448
+215,"Appomattox County,Virginia","Buckingham County,Virginia",1593,29658
+216,"Appomattox County,Virginia","Campbell County,Virginia",2356,45126
+217,"Appomattox County,Virginia","Caroline County,Virginia",8346,203098
+218,"Appomattox County,Virginia","Carroll County,Virginia",10394,272405
+219,"Appomattox County,Virginia","Charles City County,Virginia",8091,184791
+220,"Appomattox County,Virginia","Charlotte County,Virginia",2770,54217
+221,"Appomattox County,Virginia","Chesterfield County,Virginia",5689,132956
+222,"Appomattox County,Virginia","Clarke County,Virginia",11246,288659
+223,"Appomattox County,Virginia","Craig County,Virginia",8241,183389
+224,"Appomattox County,Virginia","Culpeper County,Virginia",8456,187531
+225,"Appomattox County,Virginia","Cumberland County,Virginia",3006,66889
+226,"Appomattox County,Virginia","Dickenson County,Virginia",16738,419626
+227,"Appomattox County,Virginia","Dinwiddie County,Virginia",5768,137127
+228,"Appomattox County,Virginia","Essex County,Virginia",10164,227140
+229,"Appomattox County,Virginia","Fairfax County,Virginia",11914,308968
+230,"Appomattox County,Virginia","Fauquier County,Virginia",9730,223859
+231,"Appomattox County,Virginia","Floyd County,Virginia",8716,188467
+232,"Appomattox County,Virginia","Fluvanna County,Virginia",4373,91979
+233,"Appomattox County,Virginia","Franklin County,Virginia",6183,138539
+234,"Appomattox County,Virginia","Frederick County,Virginia",10698,276386
+235,"Appomattox County,Virginia","Giles County,Virginia",9061,222105
+236,"Appomattox County,Virginia","Gloucester County,Virginia",10465,245186
+237,"Appomattox County,Virginia","Goochland County,Virginia",5031,110321
+238,"Appomattox County,Virginia","Grayson County,Virginia",11726,288585
+239,"Appomattox County,Virginia","Greene County,Virginia",7457,154072
+240,"Appomattox County,Virginia","Greensville County,Virginia",8254,186764
+241,"Appomattox County,Virginia","Halifax County,Virginia",4991,102751
+242,"Appomattox County,Virginia","Hanover County,Virginia",6795,158141
+243,"Appomattox County,Virginia","Henrico County,Virginia",7049,164767
+244,"Appomattox County,Virginia","Henry County,Virginia",7639,175495
+245,"Appomattox County,Virginia","Highland County,Virginia",9796,200655
+246,"Appomattox County,Virginia","Isle of Wight County,Virginia",9888,237248
+247,"Appomattox County,Virginia","James City County,Virginia",9530,231769
+248,"Appomattox County,Virginia","King and Queen County,Virginia",9341,216487
+249,"Appomattox County,Virginia","King George County,Virginia",9459,231084
+250,"Appomattox County,Virginia","King William County,Virginia",8028,186410
+251,"Appomattox County,Virginia","Lancaster County,Virginia",11821,269495
+252,"Appomattox County,Virginia","Lee County,Virginia",17233,451279
+253,"Appomattox County,Virginia","Loudoun County,Virginia",12398,271185
+254,"Appomattox County,Virginia","Louisa County,Virginia",6004,125475
+255,"Appomattox County,Virginia","Lunenburg County,Virginia",4542,95501
+256,"Appomattox County,Virginia","Madison County,Virginia",7572,163639
+257,"Appomattox County,Virginia","Mathews County,Virginia",11290,268609
+258,"Appomattox County,Virginia","Mecklenburg County,Virginia",5533,108625
+259,"Appomattox County,Virginia","Middlesex County,Virginia",10066,241386
+260,"Appomattox County,Virginia","Montgomery County,Virginia",7625,186375
+261,"Appomattox County,Virginia","Nelson County,Virginia",2989,58997
+262,"Appomattox County,Virginia","New Kent County,Virginia",8966,205683
+263,"Appomattox County,Virginia","Northampton County,Virginia",13947,348432
+264,"Appomattox County,Virginia","Northumberland County,Virginia",11861,268007
+265,"Appomattox County,Virginia","Nottoway County,Virginia",4035,95880
+266,"Appomattox County,Virginia","Orange County,Virginia",7509,147582
+267,"Appomattox County,Virginia","Page County,Virginia",8913,210711
+268,"Appomattox County,Virginia","Patrick County,Virginia",9221,214402
+269,"Appomattox County,Virginia","Pittsylvania County,Virginia",5194,119601
+270,"Appomattox County,Virginia","Powhatan County,Virginia",4504,101596
+271,"Appomattox County,Virginia","Prince Edward County,Virginia",2650,53216
+272,"Appomattox County,Virginia","Prince George County,Virginia",7423,176501
+273,"Appomattox County,Virginia","Prince William County,Virginia",10540,239942
+274,"Appomattox County,Virginia","Pulaski County,Virginia",8353,209008
+275,"Appomattox County,Virginia","Rappahannock County,Virginia",9101,198465
+276,"Appomattox County,Virginia","Richmond County,Virginia",10561,240651
+277,"Appomattox County,Virginia","Roanoke County,Virginia",6616,151314
+278,"Appomattox County,Virginia","Rockbridge County,Virginia",5842,107967
+279,"Appomattox County,Virginia","Rockingham County,Virginia",7952,183062
+280,"Appomattox County,Virginia","Russell County,Virginia",15195,384785
+281,"Appomattox County,Virginia","Scott County,Virginia",15806,412008
+282,"Appomattox County,Virginia","Shenandoah County,Virginia",8457,213165
+283,"Appomattox County,Virginia","Smyth County,Virginia",11389,295729
+284,"Appomattox County,Virginia","Southampton County,Virginia",9381,216464
+285,"Appomattox County,Virginia","Spotsylvania County,Virginia",8134,166161
+286,"Appomattox County,Virginia","Stafford County,Virginia",9428,243519
+287,"Appomattox County,Virginia","Surry County,Virginia",9105,215465
+288,"Appomattox County,Virginia","Sussex County,Virginia",7776,182258
+289,"Appomattox County,Virginia","Tazewell County,Virginia",12850,335806
+290,"Appomattox County,Virginia","Warren County,Virginia",10359,257758
+291,"Appomattox County,Virginia","Washington County,Virginia",12782,335196
+292,"Appomattox County,Virginia","Westmoreland County,Virginia",10433,247909
+293,"Appomattox County,Virginia","Wise County,Virginia",16646,426128
+294,"Appomattox County,Virginia","Wythe County,Virginia",9643,247715
+295,"Appomattox County,Virginia","York County,Virginia",10818,262543
+296,"Appomattox County,Virginia","Alexandria City County,Virginia",11588,302787
+297,"Appomattox County,Virginia","Bedford City County,Virginia",3412,76894
+298,"Appomattox County,Virginia","Bristol City County,Virginia",13257,360913
+299,"Appomattox County,Virginia","Buena Vista City County,Virginia",4597,89598
+300,"Appomattox County,Virginia","Charlottesville City County,Virginia",4761,96872
+301,"Appomattox County,Virginia","Chesapeake City County,Virginia",11757,281159
+302,"Appomattox County,Virginia","Clifton Forge City County,Virginia",6754,148838
+303,"Appomattox County,Virginia","Colonial Heights City County,Virginia",6676,161207
+304,"Appomattox County,Virginia","Covington City County,Virginia",7496,167181
+305,"Appomattox County,Virginia","Danville City County,Virginia",5794,135944
+306,"Appomattox County,Virginia","Emporia City County,Virginia",7921,173129
+307,"Appomattox County,Virginia","Fairfax City County,Virginia",11809,267562
+308,"Appomattox County,Virginia","Falls Church City County,Virginia",11796,310036
+309,"Appomattox County,Virginia","Franklin City County,Virginia",10008,229599
+310,"Appomattox County,Virginia","Fredericksburg City County,Virginia",9350,183432
+311,"Appomattox County,Virginia","Galax City County,Virginia",11017,278271
+312,"Appomattox County,Virginia","Hampton City County,Virginia",10768,272249
+313,"Appomattox County,Virginia","Harrisonburg City County,Virginia",7011,162958
+314,"Appomattox County,Virginia","Hopewell City County,Virginia",6954,164764
+315,"Appomattox County,Virginia","Lexington City County,Virginia",5128,98782
+316,"Appomattox County,Virginia","Lynchburg City County,Virginia",2139,40443
+317,"Appomattox County,Virginia","Manassas City County,Virginia",10889,240526
+318,"Appomattox County,Virginia","Manassas Park City County,Virginia",11258,243774
+319,"Appomattox County,Virginia","Martinsville City County,Virginia",6822,151710
+320,"Appomattox County,Virginia","Newport News City County,Virginia",10325,258735
+321,"Appomattox County,Virginia","Norfolk City County,Virginia",11709,280019
+322,"Appomattox County,Virginia","Norton City County,Virginia",16170,417018
+323,"Appomattox County,Virginia","Petersburg City County,Virginia",6426,159105
+324,"Appomattox County,Virginia","Poquoson City County,Virginia",10997,269312
+325,"Appomattox County,Virginia","Portsmouth City County,Virginia",11628,277554
+326,"Appomattox County,Virginia","Radford County,Virginia",7989,196219
+327,"Appomattox County,Virginia","Richmond City County,Virginia",6477,147663
+328,"Appomattox County,Virginia","Roanoke City County,Virginia",5634,122628
+329,"Appomattox County,Virginia","Salem City County,Virginia",5984,141227
+330,"Appomattox County,Virginia","South Boston City County,Virginia",4685,100001
+331,"Appomattox County,Virginia","Staunton City County,Virginia",5900,124639
+332,"Appomattox County,Virginia","Suffolk City County,Virginia",10731,251972
+333,"Appomattox County,Virginia","Virginia Beach City County,Virginia",12635,320924
+334,"Appomattox County,Virginia","Waynesboro City County,Virginia",5136,104828
+335,"Appomattox County,Virginia","Williamsburg City County,Virginia",9369,230984
+336,"Appomattox County,Virginia","Winchester City County,Virginia",10578,272530
+337,"Appomattox County,Virginia","Barbour County,West Virginia",16703,341360
+338,"Appomattox County,Virginia","Berkeley County,West Virginia",12316,319737
+339,"Appomattox County,Virginia","Boone County,West Virginia",16211,379726
+340,"Appomattox County,Virginia","Braxton County,West Virginia",15909,360400
+341,"Appomattox County,Virginia","Brooke County,West Virginia",22443,551884
+342,"Appomattox County,Virginia","Cabell County,West Virginia",17779,475632
+343,"Appomattox County,Virginia","Calhoun County,West Virginia",17680,414351
+344,"Appomattox County,Virginia","Clay County,West Virginia",15944,351184
+345,"Appomattox County,Virginia","Doddridge County,West Virginia",19423,446277
+346,"Appomattox County,Virginia","Fayette County,West Virginia",13333,297923
+347,"Appomattox County,Virginia","Gilmer County,West Virginia",17477,410080
+348,"Appomattox County,Virginia","Grant County,West Virginia",12408,302225
+349,"Appomattox County,Virginia","Greenbrier County,West Virginia",11688,257148
+350,"Appomattox County,Virginia","Hampshire County,West Virginia",12435,290641
+351,"Appomattox County,Virginia","Hancock County,West Virginia",24069,579231
+352,"Appomattox County,Virginia","Hardy County,West Virginia",11655,273554
+353,"Appomattox County,Virginia","Harrison County,West Virginia",18452,455792
+354,"Appomattox County,Virginia","Jackson County,West Virginia",17098,455442
+355,"Appomattox County,Virginia","Jefferson County,West Virginia",12367,307143
+356,"Appomattox County,Virginia","Kanawha County,West Virginia",14861,377425
+357,"Appomattox County,Virginia","Lewis County,West Virginia",17082,409262
+358,"Appomattox County,Virginia","Lincoln County,West Virginia",18443,453310
+359,"Appomattox County,Virginia","Logan County,West Virginia",18002,410215
+360,"Appomattox County,Virginia","McDowell County,West Virginia",15157,342991
+361,"Appomattox County,Virginia","Marion County,West Virginia",19598,482959
+362,"Appomattox County,Virginia","Marshall County,West Virginia",23430,546328
+363,"Appomattox County,Virginia","Mason County,West Virginia",17254,461538
+364,"Appomattox County,Virginia","Mercer County,West Virginia",11234,278281
+365,"Appomattox County,Virginia","Mineral County,West Virginia",13881,313748
+366,"Appomattox County,Virginia","Mingo County,West Virginia",18581,474150
+367,"Appomattox County,Virginia","Monongalia County,West Virginia",17584,426483
+368,"Appomattox County,Virginia","Monroe County,West Virginia",10623,243470
+369,"Appomattox County,Virginia","Morgan County,West Virginia",12561,320864
+370,"Appomattox County,Virginia","Nicholas County,West Virginia",13528,310573
+371,"Appomattox County,Virginia","Ohio County,West Virginia",22349,560830
+372,"Appomattox County,Virginia","Pendleton County,West Virginia",10799,234246
+373,"Appomattox County,Virginia","Pleasants County,West Virginia",20580,553294
+374,"Appomattox County,Virginia","Pocahontas County,West Virginia",12906,251841
+375,"Appomattox County,Virginia","Preston County,West Virginia",16588,380676
+376,"Appomattox County,Virginia","Putnam County,West Virginia",16036,427157
+377,"Appomattox County,Virginia","Raleigh County,West Virginia",11886,302606
+378,"Appomattox County,Virginia","Randolph County,West Virginia",14718,294753
+379,"Appomattox County,Virginia","Ritchie County,West Virginia",20153,456726
+380,"Appomattox County,Virginia","Roane County,West Virginia",18723,484258
+381,"Appomattox County,Virginia","Summers County,West Virginia",11969,276401
+382,"Appomattox County,Virginia","Taylor County,West Virginia",16931,398497
+383,"Appomattox County,Virginia","Tucker County,West Virginia",15067,363872
+384,"Appomattox County,Virginia","Tyler County,West Virginia",22177,524599
+385,"Appomattox County,Virginia","Upshur County,West Virginia",17314,330396
+386,"Appomattox County,Virginia","Wayne County,West Virginia",19370,508258
+387,"Appomattox County,Virginia","Webster County,West Virginia",16280,355062
+388,"Appomattox County,Virginia","Wetzel County,West Virginia",21132,507274
+389,"Appomattox County,Virginia","Wirt County,West Virginia",19364,512780
+390,"Appomattox County,Virginia","Wood County,West Virginia",18879,514470
+391,"Appomattox County,Virginia","Wyoming County,West Virginia",13831,342547
