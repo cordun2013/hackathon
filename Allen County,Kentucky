@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Allen County,Kentucky","Adair County,Kentucky",3778,100312
+1,"Allen County,Kentucky","Anderson County,Kentucky",7948,220097
+2,"Allen County,Kentucky","Ballard County,Kentucky",10875,314854
+3,"Allen County,Kentucky","Barren County,Kentucky",2189,48007
+4,"Allen County,Kentucky","Bath County,Kentucky",11640,337366
+5,"Allen County,Kentucky","Bell County,Kentucky",11748,296473
+6,"Allen County,Kentucky","Boone County,Kentucky",12070,340762
+7,"Allen County,Kentucky","Bourbon County,Kentucky",10704,291876
+8,"Allen County,Kentucky","Boyd County,Kentucky",14897,438823
+9,"Allen County,Kentucky","Boyle County,Kentucky",8236,194600
+10,"Allen County,Kentucky","Bracken County,Kentucky",13913,354715
+11,"Allen County,Kentucky","Breathitt County,Kentucky",13582,352154
+12,"Allen County,Kentucky","Breckinridge County,Kentucky",6505,166664
+13,"Allen County,Kentucky","Bullitt County,Kentucky",5904,164172
+14,"Allen County,Kentucky","Butler County,Kentucky",2650,72036
+15,"Allen County,Kentucky","Caldwell County,Kentucky",6986,205707
+16,"Allen County,Kentucky","Calloway County,Kentucky",9055,230689
+17,"Allen County,Kentucky","Campbell County,Kentucky",12940,370465
+18,"Allen County,Kentucky","Carlisle County,Kentucky",11332,330222
+19,"Allen County,Kentucky","Carroll County,Kentucky",9554,274539
+20,"Allen County,Kentucky","Carter County,Kentucky",14034,408079
+21,"Allen County,Kentucky","Casey County,Kentucky",6377,153349
+22,"Allen County,Kentucky","Christian County,Kentucky",5342,138176
+23,"Allen County,Kentucky","Clay County,Kentucky",9912,255502
+24,"Allen County,Kentucky","Clinton County,Kentucky",5728,128842
+25,"Allen County,Kentucky","Crittenden County,Kentucky",8566,238777
+26,"Allen County,Kentucky","Cumberland County,Kentucky",4887,104941
+27,"Allen County,Kentucky","Daviess County,Kentucky",5084,145830
+28,"Allen County,Kentucky","Edmonson County,Kentucky",2832,57454
+29,"Allen County,Kentucky","Elliott County,Kentucky",14810,399342
+30,"Allen County,Kentucky","Estill County,Kentucky",10679,279468
+31,"Allen County,Kentucky","Fayette County,Kentucky",9266,262101
+32,"Allen County,Kentucky","Fleming County,Kentucky",13068,367585
+33,"Allen County,Kentucky","Floyd County,Kentucky",13930,366666
+34,"Allen County,Kentucky","Franklin County,Kentucky",9607,258789
+35,"Allen County,Kentucky","Fulton County,Kentucky",11736,351186
+36,"Allen County,Kentucky","Gallatin County,Kentucky",10263,293865
+37,"Allen County,Kentucky","Garrard County,Kentucky",8520,224786
+38,"Allen County,Kentucky","Grant County,Kentucky",11629,319317
+39,"Allen County,Kentucky","Graves County,Kentucky",10356,302928
+40,"Allen County,Kentucky","Grayson County,Kentucky",4865,117307
+41,"Allen County,Kentucky","Green County,Kentucky",4306,93005
+42,"Allen County,Kentucky","Greenup County,Kentucky",15502,435410
+43,"Allen County,Kentucky","Hancock County,Kentucky",6094,158561
+44,"Allen County,Kentucky","Hardin County,Kentucky",5063,130868
+45,"Allen County,Kentucky","Harlan County,Kentucky",14042,352079
+46,"Allen County,Kentucky","Harrison County,Kentucky",11476,308822
+47,"Allen County,Kentucky","Hart County,Kentucky",3384,83284
+48,"Allen County,Kentucky","Henderson County,Kentucky",6992,202250
+49,"Allen County,Kentucky","Henry County,Kentucky",9228,255287
+50,"Allen County,Kentucky","Hickman County,Kentucky",11365,331514
+51,"Allen County,Kentucky","Hopkins County,Kentucky",6445,180175
+52,"Allen County,Kentucky","Jackson County,Kentucky",9642,249854
+53,"Allen County,Kentucky","Jefferson County,Kentucky",7162,195678
+54,"Allen County,Kentucky","Jessamine County,Kentucky",9397,259762
+55,"Allen County,Kentucky","Johnson County,Kentucky",15492,406936
+56,"Allen County,Kentucky","Kenton County,Kentucky",11956,336478
+57,"Allen County,Kentucky","Knott County,Kentucky",12714,336208
+58,"Allen County,Kentucky","Knox County,Kentucky",9980,249383
+59,"Allen County,Kentucky","Larue County,Kentucky",4657,116010
+60,"Allen County,Kentucky","Laurel County,Kentucky",8722,220254
+61,"Allen County,Kentucky","Lawrence County,Kentucky",16901,465958
+62,"Allen County,Kentucky","Lee County,Kentucky",11648,288235
+63,"Allen County,Kentucky","Leslie County,Kentucky",11862,306625
+64,"Allen County,Kentucky","Letcher County,Kentucky",13885,358212
+65,"Allen County,Kentucky","Lewis County,Kentucky",14593,405725
+66,"Allen County,Kentucky","Lincoln County,Kentucky",7346,203090
+67,"Allen County,Kentucky","Livingston County,Kentucky",9162,255674
+68,"Allen County,Kentucky","Logan County,Kentucky",3013,77456
+69,"Allen County,Kentucky","Lyon County,Kentucky",9302,229943
+70,"Allen County,Kentucky","McCracken County,Kentucky",9487,282914
+71,"Allen County,Kentucky","McCreary County,Kentucky",8031,213159
+72,"Allen County,Kentucky","Madison County,Kentucky",9236,248244
+73,"Allen County,Kentucky","Magoffin County,Kentucky",14849,419438
+74,"Allen County,Kentucky","Marion County,Kentucky",6809,167401
+75,"Allen County,Kentucky","Marshall County,Kentucky",8901,266486
+76,"Allen County,Kentucky","Martin County,Kentucky",17021,432938
+77,"Allen County,Kentucky","Mason County,Kentucky",13833,363442
+78,"Allen County,Kentucky","Meade County,Kentucky",7016,172638
+79,"Allen County,Kentucky","Menifee County,Kentucky",12914,349904
+80,"Allen County,Kentucky","Mercer County,Kentucky",8307,226892
+81,"Allen County,Kentucky","Metcalfe County,Kentucky",2751,70658
+82,"Allen County,Kentucky","Monroe County,Kentucky",3392,65314
+83,"Allen County,Kentucky","Montgomery County,Kentucky",11557,327813
+84,"Allen County,Kentucky","Morgan County,Kentucky",14239,407722
+85,"Allen County,Kentucky","Muhlenberg County,Kentucky",4769,120675
+86,"Allen County,Kentucky","Nelson County,Kentucky",5800,162378
+87,"Allen County,Kentucky","Nicholas County,Kentucky",11961,319258
+88,"Allen County,Kentucky","Ohio County,Kentucky",4185,113866
+89,"Allen County,Kentucky","Oldham County,Kentucky",7954,222587
+90,"Allen County,Kentucky","Owen County,Kentucky",10950,290963
+91,"Allen County,Kentucky","Owsley County,Kentucky",10941,271356
+92,"Allen County,Kentucky","Pendleton County,Kentucky",12895,355182
+93,"Allen County,Kentucky","Perry County,Kentucky",12096,315327
+94,"Allen County,Kentucky","Pike County,Kentucky",16491,419666
+95,"Allen County,Kentucky","Powell County,Kentucky",11851,336672
+96,"Allen County,Kentucky","Robertson County,Kentucky",12731,340384
+97,"Allen County,Kentucky","Rockcastle County,Kentucky",8207,211995
+98,"Allen County,Kentucky","Rowan County,Kentucky",12381,361218
+99,"Allen County,Kentucky","Russell County,Kentucky",4885,128521
+100,"Allen County,Kentucky","Scott County,Kentucky",10285,290749
+101,"Allen County,Kentucky","Shelby County,Kentucky",8291,229870
+102,"Allen County,Kentucky","Simpson County,Kentucky",2391,46629
+103,"Allen County,Kentucky","Spencer County,Kentucky",7320,200126
+104,"Allen County,Kentucky","Taylor County,Kentucky",5344,134098
+105,"Allen County,Kentucky","Todd County,Kentucky",4189,107511
+106,"Allen County,Kentucky","Trigg County,Kentucky",6877,168796
+107,"Allen County,Kentucky","Trimble County,Kentucky",9353,262386
+108,"Allen County,Kentucky","Union County,Kentucky",8735,239351
+109,"Allen County,Kentucky","Warren County,Kentucky",1652,41469
+110,"Allen County,Kentucky","Washington County,Kentucky",7631,202997
+111,"Allen County,Kentucky","Wayne County,Kentucky",7129,159041
+112,"Allen County,Kentucky","Webster County,Kentucky",7554,208264
+113,"Allen County,Kentucky","Whitley County,Kentucky",9364,245237
+114,"Allen County,Kentucky","Wolfe County,Kentucky",13114,374543
+115,"Allen County,Kentucky","Woodford County,Kentucky",8522,242359
+116,"Allen County,Kentucky","Adams County,Ohio",15834,447123
+117,"Allen County,Kentucky","Allen County,Ohio",19376,562372
+118,"Allen County,Kentucky","Ashland County,Ohio",22565,664250
+119,"Allen County,Kentucky","Ashtabula County,Ohio",28311,849001
+120,"Allen County,Kentucky","Athens County,Ohio",21028,593465
+121,"Allen County,Kentucky","Auglaize County,Ohio",18632,549637
+122,"Allen County,Kentucky","Belmont County,Ohio",23903,710681
+123,"Allen County,Kentucky","Brown County,Ohio",15087,423677
+124,"Allen County,Kentucky","Butler County,Ohio",14454,412246
+125,"Allen County,Kentucky","Carroll County,Ohio",25867,747905
+126,"Allen County,Kentucky","Champaign County,Ohio",17410,503818
+127,"Allen County,Kentucky","Clark County,Ohio",16839,490451
+128,"Allen County,Kentucky","Clermont County,Ohio",13204,383424
+129,"Allen County,Kentucky","Clinton County,Ohio",15299,434731
+130,"Allen County,Kentucky","Columbiana County,Ohio",27424,783494
+131,"Allen County,Kentucky","Coshocton County,Ohio",22426,643322
+132,"Allen County,Kentucky","Crawford County,Ohio",22102,656222
+133,"Allen County,Kentucky","Cuyahoga County,Ohio",24883,746714
+134,"Allen County,Kentucky","Darke County,Ohio",17730,506683
+135,"Allen County,Kentucky","Defiance County,Ohio",22135,642903
+136,"Allen County,Kentucky","Delaware County,Ohio",19482,570921
+137,"Allen County,Kentucky","Fairfield County,Ohio",18885,554171
+138,"Allen County,Kentucky","Fayette County,Ohio",16197,472336
+139,"Allen County,Kentucky","Franklin County,Ohio",17999,530849
+140,"Allen County,Kentucky","Fulton County,Ohio",23569,685481
+141,"Allen County,Kentucky","Gallia County,Ohio",19183,539194
+142,"Allen County,Kentucky","Geauga County,Ohio",26411,785933
+143,"Allen County,Kentucky","Greene County,Ohio",15626,444085
+144,"Allen County,Kentucky","Guernsey County,Ohio",21632,644362
+145,"Allen County,Kentucky","Hamilton County,Ohio",13108,376730
+146,"Allen County,Kentucky","Hancock County,Ohio",20485,603267
+147,"Allen County,Kentucky","Hardin County,Ohio",20273,587664
+148,"Allen County,Kentucky","Harrison County,Ohio",24873,729971
+149,"Allen County,Kentucky","Henry County,Ohio",22209,627735
+150,"Allen County,Kentucky","Highland County,Ohio",16147,446376
+151,"Allen County,Kentucky","Hocking County,Ohio",20323,597575
+152,"Allen County,Kentucky","Holmes County,Ohio",23976,680180
+153,"Allen County,Kentucky","Huron County,Ohio",23711,663020
+154,"Allen County,Kentucky","Jackson County,Ohio",18426,527834
+155,"Allen County,Kentucky","Jefferson County,Ohio",25866,739748
+156,"Allen County,Kentucky","Knox County,Ohio",21932,630543
+157,"Allen County,Kentucky","Lawrence County,Ohio",17304,475251
+158,"Allen County,Kentucky","Licking County,Ohio",20264,585767
+159,"Allen County,Kentucky","Logan County,Ohio",18645,536355
+160,"Allen County,Kentucky","Lorain County,Ohio",25497,721674
+161,"Allen County,Kentucky","Lucas County,Ohio",23810,689787
+162,"Allen County,Kentucky","Madison County,Ohio",17419,507518
+163,"Allen County,Kentucky","Mahoning County,Ohio",27281,800633
+164,"Allen County,Kentucky","Marion County,Ohio",20529,578357
+165,"Allen County,Kentucky","Medina County,Ohio",23210,689262
+166,"Allen County,Kentucky","Meigs County,Ohio",20115,569578
+167,"Allen County,Kentucky","Mercer County,Ohio",19868,576570
+168,"Allen County,Kentucky","Miami County,Ohio",16218,472075
+169,"Allen County,Kentucky","Monroe County,Ohio",25308,725246
+170,"Allen County,Kentucky","Montgomery County,Ohio",15601,449815
+171,"Allen County,Kentucky","Morgan County,Ohio",22697,652858
+172,"Allen County,Kentucky","Morrow County,Ohio",20289,593742
+173,"Allen County,Kentucky","Muskingum County,Ohio",20482,610519
+174,"Allen County,Kentucky","Noble County,Ohio",23331,681482
+175,"Allen County,Kentucky","Paulding County,Ohio",21068,607822
+176,"Allen County,Kentucky","Perry County,Ohio",20551,599102
+177,"Allen County,Kentucky","Pickaway County,Ohio",18134,520932
+178,"Allen County,Kentucky","Pike County,Ohio",17202,492819
+179,"Allen County,Kentucky","Portage County,Ohio",25732,760412
+180,"Allen County,Kentucky","Preble County,Ohio",16498,456645
+181,"Allen County,Kentucky","Putnam County,Ohio",20551,594839
+182,"Allen County,Kentucky","Richland County,Ohio",21319,628981
+183,"Allen County,Kentucky","Ross County,Ohio",17778,520249
+184,"Allen County,Kentucky","Sandusky County,Ohio",23525,683343
+185,"Allen County,Kentucky","Scioto County,Ohio",17584,473942
+186,"Allen County,Kentucky","Seneca County,Ohio",22830,659607
+187,"Allen County,Kentucky","Shelby County,Ohio",17257,508361
+188,"Allen County,Kentucky","Stark County,Ohio",25477,744796
+189,"Allen County,Kentucky","Summit County,Ohio",24413,724590
+190,"Allen County,Kentucky","Trumbull County,Ohio",27313,810904
+191,"Allen County,Kentucky","Tuscarawas County,Ohio",23927,703727
+192,"Allen County,Kentucky","Union County,Ohio",18772,533739
+193,"Allen County,Kentucky","Van Wert County,Ohio",20541,594895
+194,"Allen County,Kentucky","Vinton County,Ohio",19960,569001
+195,"Allen County,Kentucky","Warren County,Ohio",13988,402987
+196,"Allen County,Kentucky","Washington County,Ohio",23151,641527
+197,"Allen County,Kentucky","Wayne County,Ohio",22938,678260
+198,"Allen County,Kentucky","Williams County,Ohio",23125,662783
+199,"Allen County,Kentucky","Wood County,Ohio",21573,643895
+200,"Allen County,Kentucky","Wyandot County,Ohio",21181,624147
+201,"Allen County,Kentucky","Accomack County,Virginia",44145,1270532
+202,"Allen County,Kentucky","Albemarle County,Virginia",30295,883032
+203,"Allen County,Kentucky","Alleghany County,Virginia",25801,762214
+204,"Allen County,Kentucky","Amelia County,Virginia",32867,921887
+205,"Allen County,Kentucky","Amherst County,Virginia",29769,827946
+206,"Allen County,Kentucky","Appomattox County,Virginia",29944,841556
+207,"Allen County,Kentucky","Arlington County,Virginia",36979,1083341
+208,"Allen County,Kentucky","Augusta County,Virginia",29717,860725
+209,"Allen County,Kentucky","Bath County,Virginia",28813,837523
+210,"Allen County,Kentucky","Bedford County,Virginia",27677,772866
+211,"Allen County,Kentucky","Bland County,Virginia",21693,622468
+212,"Allen County,Kentucky","Botetourt County,Virginia",26533,756931
+213,"Allen County,Kentucky","Brunswick County,Virginia",34425,986609
+214,"Allen County,Kentucky","Buchanan County,Virginia",20018,467483
+215,"Allen County,Kentucky","Buckingham County,Virginia",31058,865466
+216,"Allen County,Kentucky","Campbell County,Virginia",29093,814101
+217,"Allen County,Kentucky","Caroline County,Virginia",35634,1051878
+218,"Allen County,Kentucky","Carroll County,Virginia",22637,653813
+219,"Allen County,Kentucky","Charles City County,Virginia",35735,1048912
+220,"Allen County,Kentucky","Charlotte County,Virginia",31642,882038
+221,"Allen County,Kentucky","Chesterfield County,Virginia",34561,960777
+222,"Allen County,Kentucky","Clarke County,Virginia",34475,1010090
+223,"Allen County,Kentucky","Craig County,Virginia",25932,734500
+224,"Allen County,Kentucky","Culpeper County,Virginia",34092,972248
+225,"Allen County,Kentucky","Cumberland County,Virginia",32472,902698
+226,"Allen County,Kentucky","Dickenson County,Virginia",17444,425158
+227,"Allen County,Kentucky","Dinwiddie County,Virginia",34640,964948
+228,"Allen County,Kentucky","Essex County,Virginia",37452,1075920
+229,"Allen County,Kentucky","Fairfax County,Virginia",36602,1073617
+230,"Allen County,Kentucky","Fauquier County,Virginia",34913,1031341
+231,"Allen County,Kentucky","Floyd County,Virginia",24529,693913
+232,"Allen County,Kentucky","Fluvanna County,Virginia",31973,935204
+233,"Allen County,Kentucky","Franklin County,Virginia",27190,774100
+234,"Allen County,Kentucky","Frederick County,Virginia",33927,997817
+235,"Allen County,Kentucky","Giles County,Virginia",24474,680542
+236,"Allen County,Kentucky","Gloucester County,Virginia",37905,1103101
+237,"Allen County,Kentucky","Goochland County,Virginia",32876,965815
+238,"Allen County,Kentucky","Grayson County,Virginia",22370,616980
+239,"Allen County,Kentucky","Greene County,Virginia",32288,918616
+240,"Allen County,Kentucky","Greensville County,Virginia",35621,1004028
+241,"Allen County,Kentucky","Halifax County,Virginia",30940,851500
+242,"Allen County,Kentucky","Hanover County,Virginia",34083,1006921
+243,"Allen County,Kentucky","Henrico County,Virginia",34594,1019881
+244,"Allen County,Kentucky","Henry County,Virginia",26510,740534
+245,"Allen County,Kentucky","Highland County,Virginia",30257,847494
+246,"Allen County,Kentucky","Isle of Wight County,Virginia",38760,1065069
+247,"Allen County,Kentucky","James City County,Virginia",36971,1089683
+248,"Allen County,Kentucky","King and Queen County,Virginia",36629,1065267
+249,"Allen County,Kentucky","King George County,Virginia",36747,1079864
+250,"Allen County,Kentucky","King William County,Virginia",35316,1035189
+251,"Allen County,Kentucky","Lancaster County,Virginia",39109,1118275
+252,"Allen County,Kentucky","Lee County,Virginia",14840,373032
+253,"Allen County,Kentucky","Loudoun County,Virginia",35971,1045957
+254,"Allen County,Kentucky","Louisa County,Virginia",32534,948910
+255,"Allen County,Kentucky","Lunenburg County,Virginia",33414,923322
+256,"Allen County,Kentucky","Madison County,Virginia",33208,948357
+257,"Allen County,Kentucky","Mathews County,Virginia",38730,1126524
+258,"Allen County,Kentucky","Mecklenburg County,Virginia",32972,903045
+259,"Allen County,Kentucky","Middlesex County,Virginia",37507,1099301
+260,"Allen County,Kentucky","Montgomery County,Virginia",23703,684418
+261,"Allen County,Kentucky","Nelson County,Virginia",30320,858343
+262,"Allen County,Kentucky","New Kent County,Virginia",36407,1063597
+263,"Allen County,Kentucky","Northampton County,Virginia",41388,1206347
+264,"Allen County,Kentucky","Northumberland County,Virginia",39149,1116787
+265,"Allen County,Kentucky","Nottoway County,Virginia",32907,923701
+266,"Allen County,Kentucky","Orange County,Virginia",33496,957017
+267,"Allen County,Kentucky","Page County,Virginia",32141,932142
+268,"Allen County,Kentucky","Patrick County,Virginia",24742,698849
+269,"Allen County,Kentucky","Pittsylvania County,Virginia",28826,794742
+270,"Allen County,Kentucky","Powhatan County,Virginia",33969,937404
+271,"Allen County,Kentucky","Prince Edward County,Virginia",31522,881037
+272,"Allen County,Kentucky","Prince George County,Virginia",36295,1004323
+273,"Allen County,Kentucky","Prince William County,Virginia",35013,1037445
+274,"Allen County,Kentucky","Pulaski County,Virginia",22380,645233
+275,"Allen County,Kentucky","Rappahannock County,Virginia",33972,968629
+276,"Allen County,Kentucky","Richmond County,Virginia",37849,1089430
+277,"Allen County,Kentucky","Roanoke County,Virginia",24484,704354
+278,"Allen County,Kentucky","Rockbridge County,Virginia",27981,801002
+279,"Allen County,Kentucky","Rockingham County,Virginia",31180,904492
+280,"Allen County,Kentucky","Russell County,Virginia",19976,477980
+281,"Allen County,Kentucky","Scott County,Virginia",17159,420873
+282,"Allen County,Kentucky","Shenandoah County,Virginia",31685,934596
+283,"Allen County,Kentucky","Smyth County,Virginia",19649,556683
+284,"Allen County,Kentucky","Southampton County,Virginia",37237,1061552
+285,"Allen County,Kentucky","Spotsylvania County,Virginia",34550,990748
+286,"Allen County,Kentucky","Stafford County,Virginia",35931,1015041
+287,"Allen County,Kentucky","Surry County,Virginia",37714,1088545
+288,"Allen County,Kentucky","Sussex County,Virginia",36521,1052331
+289,"Allen County,Kentucky","Tazewell County,Virginia",21464,530890
+290,"Allen County,Kentucky","Warren County,Virginia",33587,979188
+291,"Allen County,Kentucky","Washington County,Virginia",18760,520768
+292,"Allen County,Kentucky","Westmoreland County,Virginia",37721,1096689
+293,"Allen County,Kentucky","Wise County,Virginia",15709,401057
+294,"Allen County,Kentucky","Wythe County,Virginia",20863,599143
+295,"Allen County,Kentucky","York County,Virginia",38258,1120458
+296,"Allen County,Kentucky","Alexandria City County,Virginia",37182,1095988
+297,"Allen County,Kentucky","Bedford City County,Virginia",26841,764298
+298,"Allen County,Kentucky","Bristol City County,Virginia",17359,488750
+299,"Allen County,Kentucky","Buena Vista City County,Virginia",27353,793489
+300,"Allen County,Kentucky","Charlottesville City County,Virginia",30764,898247
+301,"Allen County,Kentucky","Chesapeake City County,Virginia",39721,1173363
+302,"Allen County,Kentucky","Clifton Forge City County,Virginia",26345,782420
+303,"Allen County,Kentucky","Colonial Heights City County,Virginia",35430,1042588
+304,"Allen County,Kentucky","Covington City County,Virginia",25870,765799
+305,"Allen County,Kentucky","Danville City County,Virginia",28668,794990
+306,"Allen County,Kentucky","Emporia City County,Virginia",35777,1018217
+307,"Allen County,Kentucky","Fairfax City County,Virginia",36145,1063193
+308,"Allen County,Kentucky","Falls Church City County,Virginia",36477,1077665
+309,"Allen County,Kentucky","Franklin City County,Virginia",37864,1074687
+310,"Allen County,Kentucky","Fredericksburg City County,Virginia",35683,1000408
+311,"Allen County,Kentucky","Galax City County,Virginia",23260,659679
+312,"Allen County,Kentucky","Hampton City County,Virginia",38208,1130164
+313,"Allen County,Kentucky","Harrisonburg City County,Virginia",30240,884388
+314,"Allen County,Kentucky","Hopewell City County,Virginia",35467,1041555
+315,"Allen County,Kentucky","Lexington City County,Virginia",27267,791817
+316,"Allen County,Kentucky","Lynchburg City County,Virginia",28866,809173
+317,"Allen County,Kentucky","Manassas City County,Virginia",35240,1042390
+318,"Allen County,Kentucky","Manassas Park City County,Virginia",35742,1048733
+319,"Allen County,Kentucky","Martinsville City County,Virginia",27038,749327
+320,"Allen County,Kentucky","Newport News City County,Virginia",37765,1116650
+321,"Allen County,Kentucky","Norfolk City County,Virginia",39515,1155580
+322,"Allen County,Kentucky","Norton City County,Virginia",16337,412869
+323,"Allen County,Kentucky","Petersburg City County,Virginia",35298,986926
+324,"Allen County,Kentucky","Poquoson City County,Virginia",38437,1127226
+325,"Allen County,Kentucky","Portsmouth City County,Virginia",39454,1164401
+326,"Allen County,Kentucky","Radford County,Virginia",22890,659181
+327,"Allen County,Kentucky","Richmond City County,Virginia",34170,1007691
+328,"Allen County,Kentucky","Roanoke City County,Virginia",25086,724459
+329,"Allen County,Kentucky","Salem City County,Virginia",24497,711008
+330,"Allen County,Kentucky","South Boston City County,Virginia",30680,849168
+331,"Allen County,Kentucky","Staunton City County,Virginia",29057,845523
+332,"Allen County,Kentucky","Suffolk City County,Virginia",39180,1107989
+333,"Allen County,Kentucky","Virginia Beach City County,Virginia",40076,1178838
+334,"Allen County,Kentucky","Waynesboro City County,Virginia",29395,858242
+335,"Allen County,Kentucky","Williamsburg City County,Virginia",36809,1088899
+336,"Allen County,Kentucky","Winchester City County,Virginia",33806,993960
+337,"Allen County,Kentucky","Barbour County,West Virginia",25937,761080
+338,"Allen County,Kentucky","Berkeley County,West Virginia",33870,999240
+339,"Allen County,Kentucky","Boone County,West Virginia",21116,594697
+340,"Allen County,Kentucky","Braxton County,West Virginia",22627,652060
+341,"Allen County,Kentucky","Brooke County,West Virginia",25982,752929
+342,"Allen County,Kentucky","Cabell County,West Virginia",15688,461206
+343,"Allen County,Kentucky","Calhoun County,West Virginia",22548,649744
+344,"Allen County,Kentucky","Clay County,West Virginia",21394,622972
+345,"Allen County,Kentucky","Doddridge County,West Virginia",25081,742590
+346,"Allen County,Kentucky","Fayette County,West Virginia",22681,641317
+347,"Allen County,Kentucky","Gilmer County,West Virginia",23826,674246
+348,"Allen County,Kentucky","Grant County,West Virginia",30293,862626
+349,"Allen County,Kentucky","Greenbrier County,West Virginia",25756,719355
+350,"Allen County,Kentucky","Hampshire County,West Virginia",33124,960843
+351,"Allen County,Kentucky","Hancock County,West Virginia",27571,787465
+352,"Allen County,Kentucky","Hardy County,West Virginia",31348,894123
+353,"Allen County,Kentucky","Harrison County,West Virginia",25171,747451
+354,"Allen County,Kentucky","Jackson County,West Virginia",20432,604076
+355,"Allen County,Kentucky","Jefferson County,West Virginia",35595,1028574
+356,"Allen County,Kentucky","Kanawha County,West Virginia",19990,575380
+357,"Allen County,Kentucky","Lewis County,West Virginia",23800,700921
+358,"Allen County,Kentucky","Lincoln County,West Virginia",18905,518856
+359,"Allen County,Kentucky","Logan County,West Virginia",20007,509956
+360,"Allen County,Kentucky","McDowell County,West Virginia",23355,543037
+361,"Allen County,Kentucky","Marion County,West Virginia",26316,774618
+362,"Allen County,Kentucky","Marshall County,West Virginia",25939,747437
+363,"Allen County,Kentucky","Mason County,West Virginia",18669,551950
+364,"Allen County,Kentucky","Mercer County,West Virginia",23394,672746
+365,"Allen County,Kentucky","Mineral County,West Virginia",31987,891446
+366,"Allen County,Kentucky","Mingo County,West Virginia",18691,476409
+367,"Allen County,Kentucky","Monongalia County,West Virginia",26526,800087
+368,"Allen County,Kentucky","Monroe County,West Virginia",25858,722146
+369,"Allen County,Kentucky","Morgan County,West Virginia",33362,988631
+370,"Allen County,Kentucky","Nicholas County,West Virginia",23110,682853
+371,"Allen County,Kentucky","Ohio County,West Virginia",25000,734167
+372,"Allen County,Kentucky","Pendleton County,West Virginia",30624,865250
+373,"Allen County,Kentucky","Pleasants County,West Virginia",23915,701928
+374,"Allen County,Kentucky","Pocahontas County,West Virginia",28439,752392
+375,"Allen County,Kentucky","Preston County,West Virginia",28672,826818
+376,"Allen County,Kentucky","Putnam County,West Virginia",17371,513983
+377,"Allen County,Kentucky","Raleigh County,West Virginia",21858,640632
+378,"Allen County,Kentucky","Randolph County,West Virginia",26302,763376
+379,"Allen County,Kentucky","Ritchie County,West Virginia",24246,715632
+380,"Allen County,Kentucky","Roane County,West Virginia",22058,632891
+381,"Allen County,Kentucky","Summers County,West Virginia",25310,702070
+382,"Allen County,Kentucky","Taylor County,West Virginia",26209,770191
+383,"Allen County,Kentucky","Tucker County,West Virginia",27368,793901
+384,"Allen County,Kentucky","Tyler County,West Virginia",25824,741543
+385,"Allen County,Kentucky","Upshur County,West Virginia",25365,715618
+386,"Allen County,Kentucky","Wayne County,West Virginia",17218,482401
+387,"Allen County,Kentucky","Webster County,West Virginia",25295,709933
+388,"Allen County,Kentucky","Wetzel County,West Virginia",27036,763449
+389,"Allen County,Kentucky","Wirt County,West Virginia",22699,661414
+390,"Allen County,Kentucky","Wood County,West Virginia",22213,663103
+391,"Allen County,Kentucky","Wyoming County,West Virginia",22977,548896

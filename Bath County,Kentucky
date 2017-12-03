@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Bath County,Kentucky","Adair County,Kentucky",9079,234869
+1,"Bath County,Kentucky","Allen County,Kentucky",11698,335517
+2,"Bath County,Kentucky","Anderson County,Kentucky",4879,137908
+3,"Bath County,Kentucky","Ballard County,Kentucky",17857,527680
+4,"Bath County,Kentucky","Barren County,Kentucky",10825,293897
+5,"Bath County,Kentucky","Bell County,Kentucky",9533,239707
+6,"Bath County,Kentucky","Boone County,Kentucky",6587,189617
+7,"Bath County,Kentucky","Bourbon County,Kentucky",2440,55507
+8,"Bath County,Kentucky","Boyd County,Kentucky",3738,109998
+9,"Bath County,Kentucky","Boyle County,Kentucky",6108,141795
+10,"Bath County,Kentucky","Bracken County,Kentucky",4879,102697
+11,"Bath County,Kentucky","Breathitt County,Kentucky",5191,98047
+12,"Bath County,Kentucky","Breckinridge County,Kentucky",10412,290590
+13,"Bath County,Kentucky","Bullitt County,Kentucky",6982,211709
+14,"Bath County,Kentucky","Butler County,Kentucky",11077,312587
+15,"Bath County,Kentucky","Caldwell County,Kentucky",13969,418533
+16,"Bath County,Kentucky","Calloway County,Kentucky",16779,503525
+17,"Bath County,Kentucky","Campbell County,Kentucky",6392,145086
+18,"Bath County,Kentucky","Carlisle County,Kentucky",18315,543048
+19,"Bath County,Kentucky","Carroll County,Kentucky",7423,185723
+20,"Bath County,Kentucky","Carter County,Kentucky",2875,79255
+21,"Bath County,Kentucky","Casey County,Kentucky",7602,173300
+22,"Bath County,Kentucky","Christian County,Kentucky",13618,413789
+23,"Bath County,Kentucky","Clay County,Kentucky",7521,150130
+24,"Bath County,Kentucky","Clinton County,Kentucky",9486,238235
+25,"Bath County,Kentucky","Crittenden County,Kentucky",15549,451603
+26,"Bath County,Kentucky","Cumberland County,Kentucky",10240,256474
+27,"Bath County,Kentucky","Daviess County,Kentucky",12100,359030
+28,"Bath County,Kentucky","Edmonson County,Kentucky",10517,300462
+29,"Bath County,Kentucky","Elliott County,Kentucky",3651,70517
+30,"Bath County,Kentucky","Estill County,Kentucky",3519,71405
+31,"Bath County,Kentucky","Fayette County,Kentucky",2686,75401
+32,"Bath County,Kentucky","Fleming County,Kentucky",2266,43595
+33,"Bath County,Kentucky","Floyd County,Kentucky",6431,139032
+34,"Bath County,Kentucky","Franklin County,Kentucky",4724,124318
+35,"Bath County,Kentucky","Fulton County,Kentucky",18719,564012
+36,"Bath County,Kentucky","Gallatin County,Kentucky",6421,176382
+37,"Bath County,Kentucky","Garrard County,Kentucky",5291,122555
+38,"Bath County,Kentucky","Grant County,Kentucky",5220,150489
+39,"Bath County,Kentucky","Graves County,Kentucky",17339,515754
+40,"Bath County,Kentucky","Grayson County,Kentucky",9404,269223
+41,"Bath County,Kentucky","Green County,Kentucky",9184,234429
+42,"Bath County,Kentucky","Greenup County,Kentucky",4343,106585
+43,"Bath County,Kentucky","Hancock County,Kentucky",11208,323483
+44,"Bath County,Kentucky","Hardin County,Kentucky",8281,231356
+45,"Bath County,Kentucky","Harlan County,Kentucky",11651,234685
+46,"Bath County,Kentucky","Harrison County,Kentucky",4011,88607
+47,"Bath County,Kentucky","Hart County,Kentucky",9080,258985
+48,"Bath County,Kentucky","Henderson County,Kentucky",13907,411460
+49,"Bath County,Kentucky","Henry County,Kentucky",6325,168036
+50,"Bath County,Kentucky","Hickman County,Kentucky",18348,544340
+51,"Bath County,Kentucky","Hopkins County,Kentucky",13428,393001
+52,"Bath County,Kentucky","Jackson County,Kentucky",6191,119413
+53,"Bath County,Kentucky","Jefferson County,Kentucky",6419,183570
+54,"Bath County,Kentucky","Jessamine County,Kentucky",4155,96865
+55,"Bath County,Kentucky","Johnson County,Kentucky",5385,115025
+56,"Bath County,Kentucky","Kenton County,Kentucky",6474,185333
+57,"Bath County,Kentucky","Knott County,Kentucky",7651,161426
+58,"Bath County,Kentucky","Knox County,Kentucky",7694,201447
+59,"Bath County,Kentucky","Larue County,Kentucky",8352,218532
+60,"Bath County,Kentucky","Laurel County,Kentucky",6545,172842
+61,"Bath County,Kentucky","Lawrence County,Kentucky",5741,137134
+62,"Bath County,Kentucky","Lee County,Kentucky",4379,87842
+63,"Bath County,Kentucky","Leslie County,Kentucky",8680,179592
+64,"Bath County,Kentucky","Letcher County,Kentucky",8904,186398
+65,"Bath County,Kentucky","Lewis County,Kentucky",3433,76901
+66,"Bath County,Kentucky","Lincoln County,Kentucky",6001,139473
+67,"Bath County,Kentucky","Livingston County,Kentucky",16145,468500
+68,"Bath County,Kentucky","Logan County,Kentucky",12817,355826
+69,"Bath County,Kentucky","Lyon County,Kentucky",16278,478890
+70,"Bath County,Kentucky","McCracken County,Kentucky",16470,495739
+71,"Bath County,Kentucky","McCreary County,Kentucky",8650,217284
+72,"Bath County,Kentucky","Madison County,Kentucky",3684,86424
+73,"Bath County,Kentucky","Magoffin County,Kentucky",4854,96893
+74,"Bath County,Kentucky","Marion County,Kentucky",6730,180141
+75,"Bath County,Kentucky","Marshall County,Kentucky",15884,479311
+76,"Bath County,Kentucky","Martin County,Kentucky",7609,202877
+77,"Bath County,Kentucky","Mason County,Kentucky",4228,82243
+78,"Bath County,Kentucky","Meade County,Kentucky",8879,255884
+79,"Bath County,Kentucky","Menifee County,Kentucky",1361,25128
+80,"Bath County,Kentucky","Mercer County,Kentucky",5107,135852
+81,"Bath County,Kentucky","Metcalfe County,Kentucky",9735,265134
+82,"Bath County,Kentucky","Monroe County,Kentucky",11705,302638
+83,"Bath County,Kentucky","Montgomery County,Kentucky",1339,27630
+84,"Bath County,Kentucky","Morgan County,Kentucky",3187,66591
+85,"Bath County,Kentucky","Muhlenberg County,Kentucky",12288,359477
+86,"Bath County,Kentucky","Nelson County,Kentucky",6338,179213
+87,"Bath County,Kentucky","Nicholas County,Kentucky",3135,55322
+88,"Bath County,Kentucky","Ohio County,Kentucky",11201,327066
+89,"Bath County,Kentucky","Oldham County,Kentucky",6490,195451
+90,"Bath County,Kentucky","Owen County,Kentucky",5546,151095
+91,"Bath County,Kentucky","Owsley County,Kentucky",5526,107819
+92,"Bath County,Kentucky","Pendleton County,Kentucky",5570,125734
+93,"Bath County,Kentucky","Perry County,Kentucky",6803,137930
+94,"Bath County,Kentucky","Pike County,Kentucky",8111,169356
+95,"Bath County,Kentucky","Powell County,Kentucky",2530,45338
+96,"Bath County,Kentucky","Robertson County,Kentucky",3906,76449
+97,"Bath County,Kentucky","Rockcastle County,Kentucky",5118,127567
+98,"Bath County,Kentucky","Rowan County,Kentucky",1221,32394
+99,"Bath County,Kentucky","Russell County,Kentucky",8684,218853
+100,"Bath County,Kentucky","Scott County,Kentucky",3520,103428
+101,"Bath County,Kentucky","Shelby County,Kentucky",5347,154704
+102,"Bath County,Kentucky","Simpson County,Kentucky",12399,363883
+103,"Bath County,Kentucky","Spencer County,Kentucky",5877,160552
+104,"Bath County,Kentucky","Taylor County,Kentucky",8020,211637
+105,"Bath County,Kentucky","Todd County,Kentucky",14054,379986
+106,"Bath County,Kentucky","Trigg County,Kentucky",15032,439719
+107,"Bath County,Kentucky","Trimble County,Kentucky",7564,201491
+108,"Bath County,Kentucky","Union County,Kentucky",15626,441906
+109,"Bath County,Kentucky","Warren County,Kentucky",11434,328831
+110,"Bath County,Kentucky","Washington County,Kentucky",6348,164449
+111,"Bath County,Kentucky","Wayne County,Kentucky",8860,215926
+112,"Bath County,Kentucky","Webster County,Kentucky",14537,421090
+113,"Bath County,Kentucky","Whitley County,Kentucky",7378,207327
+114,"Bath County,Kentucky","Wolfe County,Kentucky",3146,57915
+115,"Bath County,Kentucky","Woodford County,Kentucky",3740,106064
+116,"Bath County,Kentucky","Adams County,Ohio",6136,116450
+117,"Bath County,Kentucky","Allen County,Ohio",13893,411226
+118,"Bath County,Kentucky","Ashland County,Ohio",16480,412968
+119,"Bath County,Kentucky","Ashtabula County,Ohio",22226,597719
+120,"Bath County,Kentucky","Athens County,Ohio",10065,268018
+121,"Bath County,Kentucky","Auglaize County,Ohio",13149,398491
+122,"Bath County,Kentucky","Belmont County,Ohio",15816,484589
+123,"Bath County,Kentucky","Brown County,Ohio",5564,111727
+124,"Bath County,Kentucky","Butler County,Ohio",8971,261100
+125,"Bath County,Kentucky","Carroll County,Ohio",17746,521475
+126,"Bath County,Kentucky","Champaign County,Ohio",11927,352672
+127,"Bath County,Kentucky","Clark County,Ohio",11356,339305
+128,"Bath County,Kentucky","Clermont County,Ohio",7384,153127
+129,"Bath County,Kentucky","Clinton County,Ohio",8260,171616
+130,"Bath County,Kentucky","Columbiana County,Ohio",19587,575710
+131,"Bath County,Kentucky","Coshocton County,Ohio",16080,384880
+132,"Bath County,Kentucky","Crawford County,Ohio",16094,381426
+133,"Bath County,Kentucky","Cuyahoga County,Ohio",18798,495433
+134,"Bath County,Kentucky","Darke County,Ohio",12247,355537
+135,"Bath County,Kentucky","Defiance County,Ohio",17381,489656
+136,"Bath County,Kentucky","Delaware County,Ohio",13397,319640
+137,"Bath County,Kentucky","Fairfield County,Ohio",11942,271463
+138,"Bath County,Kentucky","Fayette County,Ohio",9717,195913
+139,"Bath County,Kentucky","Franklin County,Ohio",11915,279567
+140,"Bath County,Kentucky","Fulton County,Ohio",18144,506600
+141,"Bath County,Kentucky","Gallia County,Ohio",8023,210370
+142,"Bath County,Kentucky","Geauga County,Ohio",20326,534651
+143,"Bath County,Kentucky","Greene County,Ohio",10083,207547
+144,"Bath County,Kentucky","Guernsey County,Ohio",13931,430510
+145,"Bath County,Kentucky","Hamilton County,Ohio",7625,225584
+146,"Bath County,Kentucky","Hancock County,Ohio",15002,452121
+147,"Bath County,Kentucky","Hardin County,Ohio",14790,436518
+148,"Bath County,Kentucky","Harrison County,Ohio",16751,503540
+149,"Bath County,Kentucky","Henry County,Ohio",16726,476590
+150,"Bath County,Kentucky","Highland County,Ohio",7711,156930
+151,"Bath County,Kentucky","Hocking County,Ohio",11207,261256
+152,"Bath County,Kentucky","Holmes County,Ohio",17440,515476
+153,"Bath County,Kentucky","Huron County,Ohio",17627,411738
+154,"Bath County,Kentucky","Jackson County,Ohio",7574,193565
+155,"Bath County,Kentucky","Jefferson County,Ohio",17744,513318
+156,"Bath County,Kentucky","Knox County,Ohio",15847,379261
+157,"Bath County,Kentucky","Lawrence County,Ohio",6144,146427
+158,"Bath County,Kentucky","Licking County,Ohio",13918,327325
+159,"Bath County,Kentucky","Logan County,Ohio",13162,385209
+160,"Bath County,Kentucky","Lorain County,Ohio",19412,470392
+161,"Bath County,Kentucky","Lucas County,Ohio",18327,538641
+162,"Bath County,Kentucky","Madison County,Ohio",11801,255858
+163,"Bath County,Kentucky","Mahoning County,Ohio",20083,590515
+164,"Bath County,Kentucky","Marion County,Ohio",14654,340256
+165,"Bath County,Kentucky","Medina County,Ohio",17125,437981
+166,"Bath County,Kentucky","Meigs County,Ohio",8955,240753
+167,"Bath County,Kentucky","Mercer County,Ohio",14385,425424
+168,"Bath County,Kentucky","Miami County,Ohio",10735,320930
+169,"Bath County,Kentucky","Monroe County,Ohio",14867,419702
+170,"Bath County,Kentucky","Montgomery County,Ohio",10118,298669
+171,"Bath County,Kentucky","Morgan County,Ohio",13019,335042
+172,"Bath County,Kentucky","Morrow County,Ohio",14205,342461
+173,"Bath County,Kentucky","Muskingum County,Ohio",14136,352076
+174,"Bath County,Kentucky","Noble County,Ohio",13373,402862
+175,"Bath County,Kentucky","Paulding County,Ohio",16424,474204
+176,"Bath County,Kentucky","Perry County,Ohio",13123,288706
+177,"Bath County,Kentucky","Pickaway County,Ohio",10153,237866
+178,"Bath County,Kentucky","Pike County,Ohio",7115,162992
+179,"Bath County,Kentucky","Portage County,Ohio",19304,588461
+180,"Bath County,Kentucky","Preble County,Ohio",11015,305499
+181,"Bath County,Kentucky","Putnam County,Ohio",15068,443694
+182,"Bath County,Kentucky","Richland County,Ohio",15234,377699
+183,"Bath County,Kentucky","Ross County,Ohio",8898,204172
+184,"Bath County,Kentucky","Sandusky County,Ohio",18042,532197
+185,"Bath County,Kentucky","Scioto County,Ohio",6425,145117
+186,"Bath County,Kentucky","Seneca County,Ohio",17347,508461
+187,"Bath County,Kentucky","Shelby County,Ohio",11774,357215
+188,"Bath County,Kentucky","Stark County,Ohio",17605,536710
+189,"Bath County,Kentucky","Summit County,Ohio",18328,473308
+190,"Bath County,Kentucky","Trumbull County,Ohio",21038,616762
+191,"Bath County,Kentucky","Tuscarawas County,Ohio",15805,477297
+192,"Bath County,Kentucky","Union County,Ohio",13382,282492
+193,"Bath County,Kentucky","Van Wert County,Ohio",15058,443749
+194,"Bath County,Kentucky","Vinton County,Ohio",10145,237667
+195,"Bath County,Kentucky","Warren County,Ohio",8505,251841
+196,"Bath County,Kentucky","Washington County,Ohio",11992,312703
+197,"Bath County,Kentucky","Wayne County,Ohio",16853,426978
+198,"Bath County,Kentucky","Williams County,Ohio",18558,513172
+199,"Bath County,Kentucky","Wood County,Ohio",16090,492749
+200,"Bath County,Kentucky","Wyandot County,Ohio",15698,473001
+201,"Bath County,Kentucky","Accomack County,Virginia",33823,983867
+202,"Bath County,Kentucky","Albemarle County,Virginia",19973,596366
+203,"Bath County,Kentucky","Alleghany County,Virginia",14642,433389
+204,"Bath County,Kentucky","Amelia County,Virginia",24674,696484
+205,"Bath County,Kentucky","Amherst County,Virginia",19971,564355
+206,"Bath County,Kentucky","Appomattox County,Virginia",21564,603114
+207,"Bath County,Kentucky","Arlington County,Virginia",26256,792398
+208,"Bath County,Kentucky","Augusta County,Virginia",18584,534706
+209,"Bath County,Kentucky","Bath County,Virginia",17654,508699
+210,"Bath County,Kentucky","Bedford County,Virginia",20231,550480
+211,"Bath County,Kentucky","Bland County,Virginia",13604,399609
+212,"Bath County,Kentucky","Botetourt County,Virginia",17796,504689
+213,"Bath County,Kentucky","Brunswick County,Virginia",27217,746157
+214,"Bath County,Kentucky","Buchanan County,Virginia",12163,248863
+215,"Bath County,Kentucky","Buckingham County,Virginia",21847,614049
+216,"Bath County,Kentucky","Campbell County,Virginia",21488,605586
+217,"Bath County,Kentucky","Caroline County,Virginia",25312,765212
+218,"Bath County,Kentucky","Carroll County,Virginia",15850,469046
+219,"Bath County,Kentucky","Charles City County,Virginia",25413,762246
+220,"Bath County,Kentucky","Charlotte County,Virginia",23449,656635
+221,"Bath County,Kentucky","Chesterfield County,Virginia",24549,740030
+222,"Bath County,Kentucky","Clarke County,Virginia",24153,723424
+223,"Bath County,Kentucky","Craig County,Virginia",16285,454474
+224,"Bath County,Kentucky","Culpeper County,Virginia",23770,685583
+225,"Bath County,Kentucky","Cumberland County,Virginia",23057,642052
+226,"Bath County,Kentucky","Dickenson County,Virginia",11971,254359
+227,"Bath County,Kentucky","Dinwiddie County,Virginia",26296,790462
+228,"Bath County,Kentucky","Essex County,Virginia",27130,789254
+229,"Bath County,Kentucky","Fairfax County,Virginia",25947,783065
+230,"Bath County,Kentucky","Fauquier County,Virginia",24591,744676
+231,"Bath County,Kentucky","Floyd County,Virginia",17470,488011
+232,"Bath County,Kentucky","Fluvanna County,Virginia",21651,648538
+233,"Bath County,Kentucky","Franklin County,Virginia",19744,551713
+234,"Bath County,Kentucky","Frederick County,Virginia",22818,637558
+235,"Bath County,Kentucky","Giles County,Virginia",14335,411167
+236,"Bath County,Kentucky","Gloucester County,Virginia",27583,816435
+237,"Bath County,Kentucky","Goochland County,Virginia",22555,679149
+238,"Bath County,Kentucky","Grayson County,Virginia",16252,458754
+239,"Bath County,Kentucky","Greene County,Virginia",21966,631950
+240,"Bath County,Kentucky","Greensville County,Virginia",27712,839213
+241,"Bath County,Kentucky","Halifax County,Virginia",24153,666733
+242,"Bath County,Kentucky","Hanover County,Virginia",23761,720256
+243,"Bath County,Kentucky","Henrico County,Virginia",24272,733215
+244,"Bath County,Kentucky","Henry County,Virginia",19723,555767
+245,"Bath County,Kentucky","Highland County,Virginia",19098,518669
+246,"Bath County,Kentucky","Isle of Wight County,Virginia",28524,837792
+247,"Bath County,Kentucky","James City County,Virginia",26649,803017
+248,"Bath County,Kentucky","King and Queen County,Virginia",26307,778601
+249,"Bath County,Kentucky","King George County,Virginia",26425,793198
+250,"Bath County,Kentucky","King William County,Virginia",24994,748524
+251,"Bath County,Kentucky","Lancaster County,Virginia",28787,831609
+252,"Bath County,Kentucky","Lee County,Virginia",12624,316265
+253,"Bath County,Kentucky","Loudoun County,Virginia",25649,759291
+254,"Bath County,Kentucky","Louisa County,Virginia",22212,662244
+255,"Bath County,Kentucky","Lunenburg County,Virginia",25221,697919
+256,"Bath County,Kentucky","Madison County,Virginia",22886,661691
+257,"Bath County,Kentucky","Mathews County,Virginia",28408,839858
+258,"Bath County,Kentucky","Mecklenburg County,Virginia",26212,711043
+259,"Bath County,Kentucky","Middlesex County,Virginia",27185,812635
+260,"Bath County,Kentucky","Montgomery County,Virginia",15418,439174
+261,"Bath County,Kentucky","Nelson County,Virginia",20512,576046
+262,"Bath County,Kentucky","New Kent County,Virginia",26085,776931
+263,"Bath County,Kentucky","Northampton County,Virginia",31066,919681
+264,"Bath County,Kentucky","Northumberland County,Virginia",28827,830121
+265,"Bath County,Kentucky","Nottoway County,Virginia",24714,698299
+266,"Bath County,Kentucky","Orange County,Virginia",23174,670351
+267,"Bath County,Kentucky","Page County,Virginia",21819,645476
+268,"Bath County,Kentucky","Patrick County,Virginia",17955,514082
+269,"Bath County,Kentucky","Pittsylvania County,Virginia",22039,609975
+270,"Bath County,Kentucky","Powhatan County,Virginia",23808,704370
+271,"Bath County,Kentucky","Prince Edward County,Virginia",23329,655634
+272,"Bath County,Kentucky","Prince George County,Virginia",26059,777046
+273,"Bath County,Kentucky","Prince William County,Virginia",24691,750779
+274,"Bath County,Kentucky","Pulaski County,Virginia",15513,435505
+275,"Bath County,Kentucky","Rappahannock County,Virginia",23650,681963
+276,"Bath County,Kentucky","Richmond County,Virginia",27527,802765
+277,"Bath County,Kentucky","Roanoke County,Virginia",17038,481967
+278,"Bath County,Kentucky","Rockbridge County,Virginia",16975,501746
+279,"Bath County,Kentucky","Rockingham County,Virginia",20859,617826
+280,"Bath County,Kentucky","Russell County,Virginia",13694,267412
+281,"Bath County,Kentucky","Scott County,Virginia",13447,301813
+282,"Bath County,Kentucky","Shenandoah County,Virginia",21363,647930
+283,"Bath County,Kentucky","Smyth County,Virginia",15962,464961
+284,"Bath County,Kentucky","Southampton County,Virginia",28090,835327
+285,"Bath County,Kentucky","Spotsylvania County,Virginia",24228,704082
+286,"Bath County,Kentucky","Stafford County,Virginia",25609,728375
+287,"Bath County,Kentucky","Surry County,Virginia",27392,801879
+288,"Bath County,Kentucky","Sussex County,Virginia",26754,805570
+289,"Bath County,Kentucky","Tazewell County,Virginia",14407,305637
+290,"Bath County,Kentucky","Warren County,Virginia",23265,692523
+291,"Bath County,Kentucky","Washington County,Virginia",14369,321077
+292,"Bath County,Kentucky","Westmoreland County,Virginia",27400,810023
+293,"Bath County,Kentucky","Wise County,Virginia",10235,230258
+294,"Bath County,Kentucky","Wythe County,Virginia",14209,417826
+295,"Bath County,Kentucky","York County,Virginia",27936,833792
+296,"Bath County,Kentucky","Alexandria City County,Virginia",26772,809580
+297,"Bath County,Kentucky","Bedford City County,Virginia",19395,541911
+298,"Bath County,Kentucky","Bristol City County,Virginia",15209,341964
+299,"Bath County,Kentucky","Buena Vista City County,Virginia",17330,515723
+300,"Bath County,Kentucky","Charlottesville City County,Virginia",20442,611581
+301,"Bath County,Kentucky","Chesapeake City County,Virginia",29400,886697
+302,"Bath County,Kentucky","Clifton Forge City County,Virginia",15186,453596
+303,"Bath County,Kentucky","Colonial Heights City County,Virginia",25109,755923
+304,"Bath County,Kentucky","Covington City County,Virginia",14711,436975
+305,"Bath County,Kentucky","Danville City County,Virginia",21881,610223
+306,"Bath County,Kentucky","Emporia City County,Virginia",27419,825807
+307,"Bath County,Kentucky","Fairfax City County,Virginia",25823,776527
+308,"Bath County,Kentucky","Falls Church City County,Virginia",25964,786710
+309,"Bath County,Kentucky","Franklin City County,Virginia",28637,843182
+310,"Bath County,Kentucky","Fredericksburg City County,Virginia",25361,713742
+311,"Bath County,Kentucky","Galax City County,Virginia",16473,474913
+312,"Bath County,Kentucky","Hampton City County,Virginia",27887,843498
+313,"Bath County,Kentucky","Harrisonburg City County,Virginia",19918,597723
+314,"Bath County,Kentucky","Hopewell City County,Virginia",25145,754889
+315,"Bath County,Kentucky","Lexington City County,Virginia",16964,504214
+316,"Bath County,Kentucky","Lynchburg City County,Virginia",20547,579329
+317,"Bath County,Kentucky","Manassas City County,Virginia",24918,755724
+318,"Bath County,Kentucky","Manassas Park City County,Virginia",25421,762067
+319,"Bath County,Kentucky","Martinsville City County,Virginia",20251,564561
+320,"Bath County,Kentucky","Newport News City County,Virginia",27443,829984
+321,"Bath County,Kentucky","Norfolk City County,Virginia",29193,868914
+322,"Bath County,Kentucky","Norton City County,Virginia",10864,242070
+323,"Bath County,Kentucky","Petersburg City County,Virginia",24980,756910
+324,"Bath County,Kentucky","Poquoson City County,Virginia",28115,840560
+325,"Bath County,Kentucky","Portsmouth City County,Virginia",29132,877735
+326,"Bath County,Kentucky","Radford County,Virginia",15825,437214
+327,"Bath County,Kentucky","Richmond City County,Virginia",23848,721026
+328,"Bath County,Kentucky","Roanoke City County,Virginia",17640,502072
+329,"Bath County,Kentucky","Salem City County,Virginia",17051,488622
+330,"Bath County,Kentucky","South Boston City County,Virginia",23893,664402
+331,"Bath County,Kentucky","Staunton City County,Virginia",18735,558858
+332,"Bath County,Kentucky","Suffolk City County,Virginia",29367,852516
+333,"Bath County,Kentucky","Virginia Beach City County,Virginia",29754,892172
+334,"Bath County,Kentucky","Waynesboro City County,Virginia",19073,571576
+335,"Bath County,Kentucky","Williamsburg City County,Virginia",26487,802233
+336,"Bath County,Kentucky","Winchester City County,Virginia",23297,671560
+337,"Bath County,Kentucky","Barbour County,West Virginia",14778,432256
+338,"Bath County,Kentucky","Berkeley County,West Virginia",22711,670415
+339,"Bath County,Kentucky","Boone County,West Virginia",9957,265873
+340,"Bath County,Kentucky","Braxton County,West Virginia",11468,323235
+341,"Bath County,Kentucky","Brooke County,West Virginia",17895,526836
+342,"Bath County,Kentucky","Cabell County,West Virginia",4528,132382
+343,"Bath County,Kentucky","Calhoun County,West Virginia",11389,320920
+344,"Bath County,Kentucky","Clay County,West Virginia",10235,294148
+345,"Bath County,Kentucky","Doddridge County,West Virginia",13921,413765
+346,"Bath County,Kentucky","Fayette County,West Virginia",11522,312492
+347,"Bath County,Kentucky","Gilmer County,West Virginia",12667,345422
+348,"Bath County,Kentucky","Grant County,West Virginia",19133,533801
+349,"Bath County,Kentucky","Greenbrier County,West Virginia",14596,390531
+350,"Bath County,Kentucky","Hampshire County,West Virginia",21965,632019
+351,"Bath County,Kentucky","Hancock County,West Virginia",19484,561372
+352,"Bath County,Kentucky","Hardy County,West Virginia",20189,565299
+353,"Bath County,Kentucky","Harrison County,West Virginia",14011,418627
+354,"Bath County,Kentucky","Jackson County,West Virginia",9273,275252
+355,"Bath County,Kentucky","Jefferson County,West Virginia",24177,726413
+356,"Bath County,Kentucky","Kanawha County,West Virginia",8831,246556
+357,"Bath County,Kentucky","Lewis County,West Virginia",12641,372097
+358,"Bath County,Kentucky","Lincoln County,West Virginia",7745,190032
+359,"Bath County,Kentucky","Logan County,West Virginia",10275,262360
+360,"Bath County,Kentucky","McDowell County,West Virginia",14681,335425
+361,"Bath County,Kentucky","Marion County,West Virginia",15157,445794
+362,"Bath County,Kentucky","Marshall County,West Virginia",17281,462937
+363,"Bath County,Kentucky","Mason County,West Virginia",7510,223126
+364,"Bath County,Kentucky","Mercer County,West Virginia",12158,358115
+365,"Bath County,Kentucky","Mineral County,West Virginia",20828,562622
+366,"Bath County,Kentucky","Mingo County,West Virginia",8959,228813
+367,"Bath County,Kentucky","Monongalia County,West Virginia",15367,471262
+368,"Bath County,Kentucky","Monroe County,West Virginia",15203,402827
+369,"Bath County,Kentucky","Morgan County,West Virginia",22202,659807
+370,"Bath County,Kentucky","Nicholas County,West Virginia",11951,354029
+371,"Bath County,Kentucky","Ohio County,West Virginia",16914,508074
+372,"Bath County,Kentucky","Pendleton County,West Virginia",19464,536425
+373,"Bath County,Kentucky","Pleasants County,West Virginia",12756,373103
+374,"Bath County,Kentucky","Pocahontas County,West Virginia",17280,423567
+375,"Bath County,Kentucky","Preston County,West Virginia",17513,497993
+376,"Bath County,Kentucky","Putnam County,West Virginia",6212,185159
+377,"Bath County,Kentucky","Raleigh County,West Virginia",10699,311808
+378,"Bath County,Kentucky","Randolph County,West Virginia",15142,434552
+379,"Bath County,Kentucky","Ritchie County,West Virginia",13086,386807
+380,"Bath County,Kentucky","Roane County,West Virginia",10899,304067
+381,"Bath County,Kentucky","Summers County,West Virginia",14151,373246
+382,"Bath County,Kentucky","Taylor County,West Virginia",15049,441366
+383,"Bath County,Kentucky","Tucker County,West Virginia",16209,465076
+384,"Bath County,Kentucky","Tyler County,West Virginia",14665,412719
+385,"Bath County,Kentucky","Upshur County,West Virginia",14206,386794
+386,"Bath County,Kentucky","Wayne County,West Virginia",6059,153577
+387,"Bath County,Kentucky","Webster County,West Virginia",14135,381108
+388,"Bath County,Kentucky","Wetzel County,West Virginia",15877,434625
+389,"Bath County,Kentucky","Wirt County,West Virginia",11539,332589
+390,"Bath County,Kentucky","Wood County,West Virginia",11054,334279
+391,"Bath County,Kentucky","Wyoming County,West Virginia",12643,351750

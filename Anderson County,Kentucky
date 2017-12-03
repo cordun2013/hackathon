@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Anderson County,Kentucky","Adair County,Kentucky",5928,133440
+1,"Anderson County,Kentucky","Allen County,Kentucky",7885,220313
+2,"Anderson County,Kentucky","Ballard County,Kentucky",14044,412475
+3,"Anderson County,Kentucky","Barren County,Kentucky",7011,188726
+4,"Anderson County,Kentucky","Bath County,Kentucky",4870,137076
+5,"Anderson County,Kentucky","Bell County,Kentucky",10022,229377
+6,"Anderson County,Kentucky","Boone County,Kentucky",6346,169026
+7,"Anderson County,Kentucky","Bourbon County,Kentucky",3993,94732
+8,"Anderson County,Kentucky","Boyd County,Kentucky",8128,238532
+9,"Anderson County,Kentucky","Boyle County,Kentucky",2660,56619
+10,"Anderson County,Kentucky","Bracken County,Kentucky",6948,146769
+11,"Anderson County,Kentucky","Breathitt County,Kentucky",7471,201256
+12,"Anderson County,Kentucky","Breckinridge County,Kentucky",6850,167799
+13,"Anderson County,Kentucky","Bullitt County,Kentucky",3937,92312
+14,"Anderson County,Kentucky","Butler County,Kentucky",7264,197383
+15,"Anderson County,Kentucky","Caldwell County,Kentucky",10156,303329
+16,"Anderson County,Kentucky","Calloway County,Kentucky",12966,388321
+17,"Anderson County,Kentucky","Campbell County,Kentucky",6892,157355
+18,"Anderson County,Kentucky","Carlisle County,Kentucky",14501,427844
+19,"Anderson County,Kentucky","Carroll County,Kentucky",5150,107369
+20,"Anderson County,Kentucky","Carter County,Kentucky",7265,207789
+21,"Anderson County,Kentucky","Casey County,Kentucky",4558,100602
+22,"Anderson County,Kentucky","Christian County,Kentucky",9805,298585
+23,"Anderson County,Kentucky","Clay County,Kentucky",8253,188421
+24,"Anderson County,Kentucky","Clinton County,Kentucky",8544,184987
+25,"Anderson County,Kentucky","Crittenden County,Kentucky",11736,336399
+26,"Anderson County,Kentucky","Cumberland County,Kentucky",7779,175707
+27,"Anderson County,Kentucky","Daviess County,Kentucky",8287,243826
+28,"Anderson County,Kentucky","Edmonson County,Kentucky",6704,185258
+29,"Anderson County,Kentucky","Elliott County,Kentucky",8041,199051
+30,"Anderson County,Kentucky","Estill County,Kentucky",5404,137797
+31,"Anderson County,Kentucky","Fayette County,Kentucky",2613,57044
+32,"Anderson County,Kentucky","Fleming County,Kentucky",6299,167295
+33,"Anderson County,Kentucky","Floyd County,Kentucky",9657,261287
+34,"Anderson County,Kentucky","Franklin County,Kentucky",2212,38323
+35,"Anderson County,Kentucky","Fulton County,Kentucky",14905,448808
+36,"Anderson County,Kentucky","Gallatin County,Kentucky",5130,105243
+37,"Anderson County,Kentucky","Garrard County,Kentucky",3806,79307
+38,"Anderson County,Kentucky","Grant County,Kentucky",4980,101285
+39,"Anderson County,Kentucky","Graves County,Kentucky",13526,400550
+40,"Anderson County,Kentucky","Grayson County,Kentucky",5591,154019
+41,"Anderson County,Kentucky","Green County,Kentucky",5371,119225
+42,"Anderson County,Kentucky","Greenup County,Kentucky",8733,235119
+43,"Anderson County,Kentucky","Hancock County,Kentucky",8071,202436
+44,"Anderson County,Kentucky","Hardin County,Kentucky",4468,116152
+45,"Anderson County,Kentucky","Harlan County,Kentucky",12316,284982
+46,"Anderson County,Kentucky","Harrison County,Kentucky",4511,100876
+47,"Anderson County,Kentucky","Hart County,Kentucky",5267,143780
+48,"Anderson County,Kentucky","Henderson County,Kentucky",10194,300246
+49,"Anderson County,Kentucky","Henry County,Kentucky",3615,69591
+50,"Anderson County,Kentucky","Hickman County,Kentucky",14535,429136
+51,"Anderson County,Kentucky","Hopkins County,Kentucky",9615,277797
+52,"Anderson County,Kentucky","Jackson County,Kentucky",6848,167633
+53,"Anderson County,Kentucky","Jefferson County,Kentucky",3744,85278
+54,"Anderson County,Kentucky","Jessamine County,Kentucky",2743,54705
+55,"Anderson County,Kentucky","Johnson County,Kentucky",8611,237280
+56,"Anderson County,Kentucky","Kenton County,Kentucky",6233,164742
+57,"Anderson County,Kentucky","Knott County,Kentucky",9930,264635
+58,"Anderson County,Kentucky","Knox County,Kentucky",8183,191118
+59,"Anderson County,Kentucky","Larue County,Kentucky",4539,103328
+60,"Anderson County,Kentucky","Laurel County,Kentucky",7034,162513
+61,"Anderson County,Kentucky","Lawrence County,Kentucky",10131,265668
+62,"Anderson County,Kentucky","Lee County,Kentucky",6720,177714
+63,"Anderson County,Kentucky","Leslie County,Kentucky",10203,239545
+64,"Anderson County,Kentucky","Letcher County,Kentucky",11183,289608
+65,"Anderson County,Kentucky","Lewis County,Kentucky",7823,205435
+66,"Anderson County,Kentucky","Lincoln County,Kentucky",3916,84147
+67,"Anderson County,Kentucky","Livingston County,Kentucky",12331,353296
+68,"Anderson County,Kentucky","Logan County,Kentucky",9004,240622
+69,"Anderson County,Kentucky","Lyon County,Kentucky",12465,363686
+70,"Anderson County,Kentucky","McCracken County,Kentucky",12657,380535
+71,"Anderson County,Kentucky","McCreary County,Kentucky",8052,181986
+72,"Anderson County,Kentucky","Madison County,Kentucky",4256,111520
+73,"Anderson County,Kentucky","Magoffin County,Kentucky",8080,219148
+74,"Anderson County,Kentucky","Marion County,Kentucky",2917,64937
+75,"Anderson County,Kentucky","Marshall County,Kentucky",12071,364107
+76,"Anderson County,Kentucky","Martin County,Kentucky",11397,295626
+77,"Anderson County,Kentucky","Mason County,Kentucky",7122,166299
+78,"Anderson County,Kentucky","Meade County,Kentucky",5976,145103
+79,"Anderson County,Kentucky","Menifee County,Kentucky",6145,149614
+80,"Anderson County,Kentucky","Mercer County,Kentucky",1734,36794
+81,"Anderson County,Kentucky","Metcalfe County,Kentucky",6747,161949
+82,"Anderson County,Kentucky","Monroe County,Kentucky",8477,183134
+83,"Anderson County,Kentucky","Montgomery County,Kentucky",4788,127523
+84,"Anderson County,Kentucky","Morgan County,Kentucky",7470,207432
+85,"Anderson County,Kentucky","Muhlenberg County,Kentucky",8475,244273
+86,"Anderson County,Kentucky","Nelson County,Kentucky",2525,64009
+87,"Anderson County,Kentucky","Nicholas County,Kentucky",5249,122114
+88,"Anderson County,Kentucky","Ohio County,Kentucky",7388,211862
+89,"Anderson County,Kentucky","Oldham County,Kentucky",3816,97160
+90,"Anderson County,Kentucky","Owen County,Kentucky",3555,70497
+91,"Anderson County,Kentucky","Owsley County,Kentucky",7866,197690
+92,"Anderson County,Kentucky","Pendleton County,Kentucky",6071,138003
+93,"Anderson County,Kentucky","Perry County,Kentucky",9082,241140
+94,"Anderson County,Kentucky","Pike County,Kentucky",11337,291611
+95,"Anderson County,Kentucky","Powell County,Kentucky",5081,136382
+96,"Anderson County,Kentucky","Robertson County,Kentucky",6019,143240
+97,"Anderson County,Kentucky","Rockcastle County,Kentucky",5662,120833
+98,"Anderson County,Kentucky","Rowan County,Kentucky",5611,160928
+99,"Anderson County,Kentucky","Russell County,Kentucky",6603,143200
+100,"Anderson County,Kentucky","Scott County,Kentucky",3099,70351
+101,"Anderson County,Kentucky","Shelby County,Kentucky",2420,45867
+102,"Anderson County,Kentucky","Simpson County,Kentucky",8586,248679
+103,"Anderson County,Kentucky","Spencer County,Kentucky",2010,41196
+104,"Anderson County,Kentucky","Taylor County,Kentucky",4207,96433
+105,"Anderson County,Kentucky","Todd County,Kentucky",10241,264782
+106,"Anderson County,Kentucky","Trigg County,Kentucky",11219,324514
+107,"Anderson County,Kentucky","Trimble County,Kentucky",4922,95239
+108,"Anderson County,Kentucky","Union County,Kentucky",11938,337347
+109,"Anderson County,Kentucky","Warren County,Kentucky",7620,213627
+110,"Anderson County,Kentucky","Washington County,Kentucky",2535,49245
+111,"Anderson County,Kentucky","Wayne County,Kentucky",8308,181196
+112,"Anderson County,Kentucky","Webster County,Kentucky",10724,305886
+113,"Anderson County,Kentucky","Whitley County,Kentucky",7867,196998
+114,"Anderson County,Kentucky","Wolfe County,Kentucky",6345,174253
+115,"Anderson County,Kentucky","Woodford County,Kentucky",1803,29043
+116,"Anderson County,Kentucky","Adams County,Ohio",9551,213031
+117,"Anderson County,Kentucky","Allen County,Ohio",13652,390636
+118,"Anderson County,Kentucky","Ashland County,Ohio",16841,492514
+119,"Anderson County,Kentucky","Ashtabula County,Ohio",22587,677265
+120,"Anderson County,Kentucky","Athens County,Ohio",14455,396552
+121,"Anderson County,Kentucky","Auglaize County,Ohio",12909,377901
+122,"Anderson County,Kentucky","Belmont County,Ohio",18179,538946
+123,"Anderson County,Kentucky","Brown County,Ohio",8537,201277
+124,"Anderson County,Kentucky","Butler County,Ohio",8730,240510
+125,"Anderson County,Kentucky","Carroll County,Ohio",20144,576169
+126,"Anderson County,Kentucky","Champaign County,Ohio",11687,332082
+127,"Anderson County,Kentucky","Clark County,Ohio",11115,318715
+128,"Anderson County,Kentucky","Clermont County,Ohio",7481,211688
+129,"Anderson County,Kentucky","Clinton County,Ohio",9575,262995
+130,"Anderson County,Kentucky","Columbiana County,Ohio",21700,611758
+131,"Anderson County,Kentucky","Coshocton County,Ohio",16702,471586
+132,"Anderson County,Kentucky","Crawford County,Ohio",16379,484486
+133,"Anderson County,Kentucky","Cuyahoga County,Ohio",19159,574978
+134,"Anderson County,Kentucky","Darke County,Ohio",12006,334947
+135,"Anderson County,Kentucky","Defiance County,Ohio",17140,469066
+136,"Anderson County,Kentucky","Delaware County,Ohio",13758,399185
+137,"Anderson County,Kentucky","Fairfield County,Ohio",13162,382435
+138,"Anderson County,Kentucky","Fayette County,Ohio",10474,300600
+139,"Anderson County,Kentucky","Franklin County,Ohio",12276,359113
+140,"Anderson County,Kentucky","Fulton County,Ohio",17903,486009
+141,"Anderson County,Kentucky","Gallia County,Ohio",12413,338904
+142,"Anderson County,Kentucky","Geauga County,Ohio",20688,614197
+143,"Anderson County,Kentucky","Greene County,Ohio",9902,272349
+144,"Anderson County,Kentucky","Guernsey County,Ohio",15908,472626
+145,"Anderson County,Kentucky","Hamilton County,Ohio",7385,204994
+146,"Anderson County,Kentucky","Hancock County,Ohio",14762,431531
+147,"Anderson County,Kentucky","Hardin County,Ohio",14549,415928
+148,"Anderson County,Kentucky","Harrison County,Ohio",19149,558235
+149,"Anderson County,Kentucky","Henry County,Ohio",16486,456000
+150,"Anderson County,Kentucky","Highland County,Ohio",10424,274641
+151,"Anderson County,Kentucky","Hocking County,Ohio",14599,425839
+152,"Anderson County,Kentucky","Holmes County,Ohio",18253,508444
+153,"Anderson County,Kentucky","Huron County,Ohio",17988,491284
+154,"Anderson County,Kentucky","Jackson County,Ohio",11964,322099
+155,"Anderson County,Kentucky","Jefferson County,Ohio",20142,568012
+156,"Anderson County,Kentucky","Knox County,Ohio",16208,458807
+157,"Anderson County,Kentucky","Lawrence County,Ohio",10534,274961
+158,"Anderson County,Kentucky","Licking County,Ohio",14541,414031
+159,"Anderson County,Kentucky","Logan County,Ohio",12921,364619
+160,"Anderson County,Kentucky","Lorain County,Ohio",19773,549938
+161,"Anderson County,Kentucky","Lucas County,Ohio",18087,518051
+162,"Anderson County,Kentucky","Madison County,Ohio",11696,335782
+163,"Anderson County,Kentucky","Mahoning County,Ohio",21557,628897
+164,"Anderson County,Kentucky","Marion County,Ohio",14805,406621
+165,"Anderson County,Kentucky","Medina County,Ohio",17486,517527
+166,"Anderson County,Kentucky","Meigs County,Ohio",13345,369288
+167,"Anderson County,Kentucky","Mercer County,Ohio",14144,404834
+168,"Anderson County,Kentucky","Miami County,Ohio",10495,300339
+169,"Anderson County,Kentucky","Monroe County,Ohio",19257,548236
+170,"Anderson County,Kentucky","Montgomery County,Ohio",9878,278079
+171,"Anderson County,Kentucky","Morgan County,Ohio",16974,481123
+172,"Anderson County,Kentucky","Morrow County,Ohio",14566,422006
+173,"Anderson County,Kentucky","Muskingum County,Ohio",14759,438783
+174,"Anderson County,Kentucky","Noble County,Ohio",17608,509746
+175,"Anderson County,Kentucky","Paulding County,Ohio",16184,453614
+176,"Anderson County,Kentucky","Perry County,Ohio",14828,427366
+177,"Anderson County,Kentucky","Pickaway County,Ohio",12411,349196
+178,"Anderson County,Kentucky","Pike County,Ohio",11257,261091
+179,"Anderson County,Kentucky","Portage County,Ohio",20009,588676
+180,"Anderson County,Kentucky","Preble County,Ohio",10775,284909
+181,"Anderson County,Kentucky","Putnam County,Ohio",14827,423103
+182,"Anderson County,Kentucky","Richland County,Ohio",15596,457245
+183,"Anderson County,Kentucky","Ross County,Ohio",12054,348513
+184,"Anderson County,Kentucky","Sandusky County,Ohio",17802,511607
+185,"Anderson County,Kentucky","Scioto County,Ohio",10815,273652
+186,"Anderson County,Kentucky","Seneca County,Ohio",17106,487871
+187,"Anderson County,Kentucky","Shelby County,Ohio",11533,336625
+188,"Anderson County,Kentucky","Stark County,Ohio",19754,573060
+189,"Anderson County,Kentucky","Summit County,Ohio",18690,552854
+190,"Anderson County,Kentucky","Trumbull County,Ohio",21590,639168
+191,"Anderson County,Kentucky","Tuscarawas County,Ohio",18203,531991
+192,"Anderson County,Kentucky","Union County,Ohio",13048,362003
+193,"Anderson County,Kentucky","Van Wert County,Ohio",14817,423159
+194,"Anderson County,Kentucky","Vinton County,Ohio",14237,397266
+195,"Anderson County,Kentucky","Warren County,Ohio",8264,231251
+196,"Anderson County,Kentucky","Washington County,Ohio",16382,441237
+197,"Anderson County,Kentucky","Wayne County,Ohio",17214,506524
+198,"Anderson County,Kentucky","Williams County,Ohio",18317,492582
+199,"Anderson County,Kentucky","Wood County,Ohio",15850,472159
+200,"Anderson County,Kentucky","Wyandot County,Ohio",15457,452411
+201,"Anderson County,Kentucky","Accomack County,Virginia",38213,1112401
+202,"Anderson County,Kentucky","Albemarle County,Virginia",24363,724900
+203,"Anderson County,Kentucky","Alleghany County,Virginia",19032,561923
+204,"Anderson County,Kentucky","Amelia County,Virginia",29064,825019
+205,"Anderson County,Kentucky","Amherst County,Virginia",24361,692889
+206,"Anderson County,Kentucky","Appomattox County,Virginia",25954,731648
+207,"Anderson County,Kentucky","Arlington County,Virginia",30646,920932
+208,"Anderson County,Kentucky","Augusta County,Virginia",22974,663240
+209,"Anderson County,Kentucky","Bath County,Virginia",22044,637233
+210,"Anderson County,Kentucky","Bedford County,Virginia",24621,679014
+211,"Anderson County,Kentucky","Bland County,Virginia",17994,528143
+212,"Anderson County,Kentucky","Botetourt County,Virginia",22186,633223
+213,"Anderson County,Kentucky","Brunswick County,Virginia",31607,874692
+214,"Anderson County,Kentucky","Buchanan County,Virginia",15389,371117
+215,"Anderson County,Kentucky","Buckingham County,Virginia",26237,742584
+216,"Anderson County,Kentucky","Campbell County,Virginia",25878,734120
+217,"Anderson County,Kentucky","Caroline County,Virginia",29702,893746
+218,"Anderson County,Kentucky","Carroll County,Virginia",20240,597581
+219,"Anderson County,Kentucky","Charles City County,Virginia",29803,890781
+220,"Anderson County,Kentucky","Charlotte County,Virginia",27839,785169
+221,"Anderson County,Kentucky","Chesterfield County,Virginia",28939,868564
+222,"Anderson County,Kentucky","Clarke County,Virginia",28543,851958
+223,"Anderson County,Kentucky","Craig County,Virginia",20675,583008
+224,"Anderson County,Kentucky","Culpeper County,Virginia",28160,814117
+225,"Anderson County,Kentucky","Cumberland County,Virginia",27446,770586
+226,"Anderson County,Kentucky","Dickenson County,Virginia",14743,356554
+227,"Anderson County,Kentucky","Dinwiddie County,Virginia",30686,918996
+228,"Anderson County,Kentucky","Essex County,Virginia",31520,917788
+229,"Anderson County,Kentucky","Fairfax County,Virginia",30337,911599
+230,"Anderson County,Kentucky","Fauquier County,Virginia",28981,873210
+231,"Anderson County,Kentucky","Floyd County,Virginia",21860,616545
+232,"Anderson County,Kentucky","Fluvanna County,Virginia",26041,777072
+233,"Anderson County,Kentucky","Franklin County,Virginia",24133,680247
+234,"Anderson County,Kentucky","Frederick County,Virginia",27208,766092
+235,"Anderson County,Kentucky","Giles County,Virginia",18725,539701
+236,"Anderson County,Kentucky","Gloucester County,Virginia",31973,944969
+237,"Anderson County,Kentucky","Goochland County,Virginia",26944,807683
+238,"Anderson County,Kentucky","Grayson County,Virginia",20642,587288
+239,"Anderson County,Kentucky","Greene County,Virginia",26356,760485
+240,"Anderson County,Kentucky","Greensville County,Virginia",32102,967747
+241,"Anderson County,Kentucky","Halifax County,Virginia",28543,795267
+242,"Anderson County,Kentucky","Hanover County,Virginia",28151,848790
+243,"Anderson County,Kentucky","Henrico County,Virginia",28662,861749
+244,"Anderson County,Kentucky","Henry County,Virginia",24113,684301
+245,"Anderson County,Kentucky","Highland County,Virginia",23488,647203
+246,"Anderson County,Kentucky","Isle of Wight County,Virginia",32914,966326
+247,"Anderson County,Kentucky","James City County,Virginia",31039,931552
+248,"Anderson County,Kentucky","King and Queen County,Virginia",30697,907135
+249,"Anderson County,Kentucky","King George County,Virginia",30815,921732
+250,"Anderson County,Kentucky","King William County,Virginia",29384,877058
+251,"Anderson County,Kentucky","Lancaster County,Virginia",33177,960143
+252,"Anderson County,Kentucky","Lee County,Virginia",13113,305936
+253,"Anderson County,Kentucky","Loudoun County,Virginia",30039,887825
+254,"Anderson County,Kentucky","Louisa County,Virginia",26602,790778
+255,"Anderson County,Kentucky","Lunenburg County,Virginia",29611,826453
+256,"Anderson County,Kentucky","Madison County,Virginia",27276,790225
+257,"Anderson County,Kentucky","Mathews County,Virginia",32798,968392
+258,"Anderson County,Kentucky","Mecklenburg County,Virginia",30602,839577
+259,"Anderson County,Kentucky","Middlesex County,Virginia",31575,941169
+260,"Anderson County,Kentucky","Montgomery County,Virginia",19808,567708
+261,"Anderson County,Kentucky","Nelson County,Virginia",24902,704580
+262,"Anderson County,Kentucky","New Kent County,Virginia",30475,905465
+263,"Anderson County,Kentucky","Northampton County,Virginia",35456,1048215
+264,"Anderson County,Kentucky","Northumberland County,Virginia",33217,958655
+265,"Anderson County,Kentucky","Nottoway County,Virginia",29104,826833
+266,"Anderson County,Kentucky","Orange County,Virginia",27564,798886
+267,"Anderson County,Kentucky","Page County,Virginia",26209,774010
+268,"Anderson County,Kentucky","Patrick County,Virginia",22345,642616
+269,"Anderson County,Kentucky","Pittsylvania County,Virginia",26429,738509
+270,"Anderson County,Kentucky","Powhatan County,Virginia",28198,832905
+271,"Anderson County,Kentucky","Prince Edward County,Virginia",27719,784168
+272,"Anderson County,Kentucky","Prince George County,Virginia",30449,905580
+273,"Anderson County,Kentucky","Prince William County,Virginia",29081,879313
+274,"Anderson County,Kentucky","Pulaski County,Virginia",19903,564039
+275,"Anderson County,Kentucky","Rappahannock County,Virginia",28040,810497
+276,"Anderson County,Kentucky","Richmond County,Virginia",31917,931299
+277,"Anderson County,Kentucky","Roanoke County,Virginia",21427,610502
+278,"Anderson County,Kentucky","Rockbridge County,Virginia",21365,630280
+279,"Anderson County,Kentucky","Rockingham County,Virginia",25248,746361
+280,"Anderson County,Kentucky","Russell County,Virginia",16920,389666
+281,"Anderson County,Kentucky","Scott County,Virginia",15433,353777
+282,"Anderson County,Kentucky","Shenandoah County,Virginia",25753,776464
+283,"Anderson County,Kentucky","Smyth County,Virginia",19030,472154
+284,"Anderson County,Kentucky","Southampton County,Virginia",32480,963861
+285,"Anderson County,Kentucky","Spotsylvania County,Virginia",28618,832616
+286,"Anderson County,Kentucky","Stafford County,Virginia",29999,856909
+287,"Anderson County,Kentucky","Surry County,Virginia",31782,930413
+288,"Anderson County,Kentucky","Sussex County,Virginia",31144,934104
+289,"Anderson County,Kentucky","Tazewell County,Virginia",17633,427892
+290,"Anderson County,Kentucky","Warren County,Virginia",27655,821057
+291,"Anderson County,Kentucky","Washington County,Virginia",17141,423271
+292,"Anderson County,Kentucky","Westmoreland County,Virginia",31789,938557
+293,"Anderson County,Kentucky","Wise County,Virginia",13007,332453
+294,"Anderson County,Kentucky","Wythe County,Virginia",18599,546360
+295,"Anderson County,Kentucky","York County,Virginia",32326,962326
+296,"Anderson County,Kentucky","Alexandria City County,Virginia",31162,938114
+297,"Anderson County,Kentucky","Bedford City County,Virginia",23785,670445
+298,"Anderson County,Kentucky","Bristol City County,Virginia",17386,395104
+299,"Anderson County,Kentucky","Buena Vista City County,Virginia",21720,644257
+300,"Anderson County,Kentucky","Charlottesville City County,Virginia",24832,740115
+301,"Anderson County,Kentucky","Chesapeake City County,Virginia",33789,1015231
+302,"Anderson County,Kentucky","Clifton Forge City County,Virginia",19576,582130
+303,"Anderson County,Kentucky","Colonial Heights City County,Virginia",29498,884457
+304,"Anderson County,Kentucky","Covington City County,Virginia",19101,565509
+305,"Anderson County,Kentucky","Danville City County,Virginia",26270,738757
+306,"Anderson County,Kentucky","Emporia City County,Virginia",31809,954341
+307,"Anderson County,Kentucky","Fairfax City County,Virginia",30213,905061
+308,"Anderson County,Kentucky","Falls Church City County,Virginia",30354,915244
+309,"Anderson County,Kentucky","Franklin City County,Virginia",33027,971716
+310,"Anderson County,Kentucky","Fredericksburg City County,Virginia",29751,842276
+311,"Anderson County,Kentucky","Galax City County,Virginia",20863,603447
+312,"Anderson County,Kentucky","Hampton City County,Virginia",32276,972032
+313,"Anderson County,Kentucky","Harrisonburg City County,Virginia",24308,726257
+314,"Anderson County,Kentucky","Hopewell City County,Virginia",29535,883423
+315,"Anderson County,Kentucky","Lexington City County,Virginia",21354,632748
+316,"Anderson County,Kentucky","Lynchburg City County,Virginia",24937,707863
+317,"Anderson County,Kentucky","Manassas City County,Virginia",29308,884258
+318,"Anderson County,Kentucky","Manassas Park City County,Virginia",29810,890601
+319,"Anderson County,Kentucky","Martinsville City County,Virginia",24640,693095
+320,"Anderson County,Kentucky","Newport News City County,Virginia",31833,958518
+321,"Anderson County,Kentucky","Norfolk City County,Virginia",33583,997448
+322,"Anderson County,Kentucky","Norton City County,Virginia",13636,344264
+323,"Anderson County,Kentucky","Petersburg City County,Virginia",29370,885444
+324,"Anderson County,Kentucky","Poquoson City County,Virginia",32505,969095
+325,"Anderson County,Kentucky","Portsmouth City County,Virginia",33522,1006269
+326,"Anderson County,Kentucky","Radford County,Virginia",20215,565749
+327,"Anderson County,Kentucky","Richmond City County,Virginia",28238,849560
+328,"Anderson County,Kentucky","Roanoke City County,Virginia",22029,630606
+329,"Anderson County,Kentucky","Salem City County,Virginia",21441,617156
+330,"Anderson County,Kentucky","South Boston City County,Virginia",28283,792936
+331,"Anderson County,Kentucky","Staunton City County,Virginia",23125,687392
+332,"Anderson County,Kentucky","Suffolk City County,Virginia",33757,981050
+333,"Anderson County,Kentucky","Virginia Beach City County,Virginia",34144,1020706
+334,"Anderson County,Kentucky","Waynesboro City County,Virginia",23463,700110
+335,"Anderson County,Kentucky","Williamsburg City County,Virginia",30877,930767
+336,"Anderson County,Kentucky","Winchester City County,Virginia",27687,800094
+337,"Anderson County,Kentucky","Barbour County,West Virginia",19168,560790
+338,"Anderson County,Kentucky","Berkeley County,West Virginia",27101,798950
+339,"Anderson County,Kentucky","Boone County,West Virginia",14347,394407
+340,"Anderson County,Kentucky","Braxton County,West Virginia",15858,451769
+341,"Anderson County,Kentucky","Brooke County,West Virginia",20258,581193
+342,"Anderson County,Kentucky","Cabell County,West Virginia",8918,260916
+343,"Anderson County,Kentucky","Calhoun County,West Virginia",15779,449454
+344,"Anderson County,Kentucky","Clay County,West Virginia",14625,422682
+345,"Anderson County,Kentucky","Doddridge County,West Virginia",18311,542299
+346,"Anderson County,Kentucky","Fayette County,West Virginia",15912,441027
+347,"Anderson County,Kentucky","Gilmer County,West Virginia",17057,473956
+348,"Anderson County,Kentucky","Grant County,West Virginia",23523,662335
+349,"Anderson County,Kentucky","Greenbrier County,West Virginia",18986,519065
+350,"Anderson County,Kentucky","Hampshire County,West Virginia",26355,760553
+351,"Anderson County,Kentucky","Hancock County,West Virginia",21847,615729
+352,"Anderson County,Kentucky","Hardy County,West Virginia",24579,693833
+353,"Anderson County,Kentucky","Harrison County,West Virginia",18401,547161
+354,"Anderson County,Kentucky","Jackson County,West Virginia",13663,403786
+355,"Anderson County,Kentucky","Jefferson County,West Virginia",28567,854947
+356,"Anderson County,Kentucky","Kanawha County,West Virginia",13221,375090
+357,"Anderson County,Kentucky","Lewis County,West Virginia",17031,500631
+358,"Anderson County,Kentucky","Lincoln County,West Virginia",12135,318566
+359,"Anderson County,Kentucky","Logan County,West Virginia",14391,362380
+360,"Anderson County,Kentucky","McDowell County,West Virginia",18243,414569
+361,"Anderson County,Kentucky","Marion County,West Virginia",19547,574328
+362,"Anderson County,Kentucky","Marshall County,West Virginia",20215,575701
+363,"Anderson County,Kentucky","Mason County,West Virginia",11899,351660
+364,"Anderson County,Kentucky","Mercer County,West Virginia",16547,486649
+365,"Anderson County,Kentucky","Mineral County,West Virginia",25217,691156
+366,"Anderson County,Kentucky","Mingo County,West Virginia",13075,328833
+367,"Anderson County,Kentucky","Monongalia County,West Virginia",19757,599797
+368,"Anderson County,Kentucky","Monroe County,West Virginia",19593,531361
+369,"Anderson County,Kentucky","Morgan County,West Virginia",26592,788341
+370,"Anderson County,Kentucky","Nicholas County,West Virginia",16341,482563
+371,"Anderson County,Kentucky","Ohio County,West Virginia",19277,562431
+372,"Anderson County,Kentucky","Pendleton County,West Virginia",23854,664960
+373,"Anderson County,Kentucky","Pleasants County,West Virginia",17146,501637
+374,"Anderson County,Kentucky","Pocahontas County,West Virginia",21670,552102
+375,"Anderson County,Kentucky","Preston County,West Virginia",21903,626527
+376,"Anderson County,Kentucky","Putnam County,West Virginia",10601,313693
+377,"Anderson County,Kentucky","Raleigh County,West Virginia",15089,440342
+378,"Anderson County,Kentucky","Randolph County,West Virginia",19532,563086
+379,"Anderson County,Kentucky","Ritchie County,West Virginia",17476,515341
+380,"Anderson County,Kentucky","Roane County,West Virginia",15289,432601
+381,"Anderson County,Kentucky","Summers County,West Virginia",18541,501780
+382,"Anderson County,Kentucky","Taylor County,West Virginia",19439,569900
+383,"Anderson County,Kentucky","Tucker County,West Virginia",20599,593610
+384,"Anderson County,Kentucky","Tyler County,West Virginia",19055,541253
+385,"Anderson County,Kentucky","Upshur County,West Virginia",18596,515328
+386,"Anderson County,Kentucky","Wayne County,West Virginia",10449,282111
+387,"Anderson County,Kentucky","Webster County,West Virginia",18525,509643
+388,"Anderson County,Kentucky","Wetzel County,West Virginia",20267,563159
+389,"Anderson County,Kentucky","Wirt County,West Virginia",15929,461123
+390,"Anderson County,Kentucky","Wood County,West Virginia",15444,462813
+391,"Anderson County,Kentucky","Wyoming County,West Virginia",17033,480284
