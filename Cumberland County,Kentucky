@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Cumberland County,Kentucky","Adair County,Kentucky",2257,48716
+1,"Cumberland County,Kentucky","Allen County,Kentucky",4873,105356
+2,"Cumberland County,Kentucky","Anderson County,Kentucky",7806,175705
+3,"Cumberland County,Kentucky","Ballard County,Kentucky",14685,408032
+4,"Cumberland County,Kentucky","Barren County,Kentucky",2971,59539
+5,"Cumberland County,Kentucky","Bath County,Kentucky",10202,255769
+6,"Cumberland County,Kentucky","Bell County,Kentucky",9750,223598
+7,"Cumberland County,Kentucky","Boone County,Kentucky",12549,334238
+8,"Cumberland County,Kentucky","Bourbon County,Kentucky",9750,245938
+9,"Cumberland County,Kentucky","Boyd County,Kentucky",13460,357225
+10,"Cumberland County,Kentucky","Boyle County,Kentucky",6714,143078
+11,"Cumberland County,Kentucky","Bracken County,Kentucky",13135,320465
+12,"Cumberland County,Kentucky","Breathitt County,Kentucky",11584,279278
+13,"Cumberland County,Kentucky","Breckinridge County,Kentucky",9329,202662
+14,"Cumberland County,Kentucky","Bullitt County,Kentucky",7501,183225
+15,"Cumberland County,Kentucky","Butler County,Kentucky",6460,165214
+16,"Cumberland County,Kentucky","Caldwell County,Kentucky",10796,298885
+17,"Cumberland County,Kentucky","Calloway County,Kentucky",12865,323867
+18,"Cumberland County,Kentucky","Campbell County,Kentucky",13080,331052
+19,"Cumberland County,Kentucky","Carlisle County,Kentucky",15142,423400
+20,"Cumberland County,Kentucky","Carroll County,Kentucky",11151,293592
+21,"Cumberland County,Kentucky","Carter County,Kentucky",12597,326482
+22,"Cumberland County,Kentucky","Casey County,Kentucky",4855,101827
+23,"Cumberland County,Kentucky","Christian County,Kentucky",9152,231354
+24,"Cumberland County,Kentucky","Clay County,Kentucky",7913,182626
+25,"Cumberland County,Kentucky","Clinton County,Kentucky",1331,26114
+26,"Cumberland County,Kentucky","Crittenden County,Kentucky",12376,331955
+27,"Cumberland County,Kentucky","Daviess County,Kentucky",8894,239008
+28,"Cumberland County,Kentucky","Edmonson County,Kentucky",4950,112902
+29,"Cumberland County,Kentucky","Elliott County,Kentucky",13373,317744
+30,"Cumberland County,Kentucky","Estill County,Kentucky",8681,206593
+31,"Cumberland County,Kentucky","Fayette County,Kentucky",8648,220023
+32,"Cumberland County,Kentucky","Fleming County,Kentucky",11631,285988
+33,"Cumberland County,Kentucky","Floyd County,Kentucky",11932,293790
+34,"Cumberland County,Kentucky","Franklin County,Kentucky",9465,214397
+35,"Cumberland County,Kentucky","Fulton County,Kentucky",15546,444364
+36,"Cumberland County,Kentucky","Gallatin County,Kentucky",11860,312917
+37,"Cumberland County,Kentucky","Garrard County,Kentucky",7000,173189
+38,"Cumberland County,Kentucky","Grant County,Kentucky",11182,295111
+39,"Cumberland County,Kentucky","Graves County,Kentucky",14166,396106
+40,"Cumberland County,Kentucky","Grayson County,Kentucky",7245,161146
+41,"Cumberland County,Kentucky","Green County,Kentucky",3971,84678
+42,"Cumberland County,Kentucky","Greenup County,Kentucky",14065,353813
+43,"Cumberland County,Kentucky","Hancock County,Kentucky",9904,251739
+44,"Cumberland County,Kentucky","Hardin County,Kentucky",6852,170339
+45,"Cumberland County,Kentucky","Harlan County,Kentucky",12044,279203
+46,"Cumberland County,Kentucky","Harrison County,Kentucky",10698,274573
+47,"Cumberland County,Kentucky","Hart County,Kentucky",4920,102637
+48,"Cumberland County,Kentucky","Henderson County,Kentucky",10802,295428
+49,"Cumberland County,Kentucky","Henry County,Kentucky",10184,221742
+50,"Cumberland County,Kentucky","Hickman County,Kentucky",15175,424692
+51,"Cumberland County,Kentucky","Hopkins County,Kentucky",10255,273353
+52,"Cumberland County,Kentucky","Jackson County,Kentucky",7644,176978
+53,"Cumberland County,Kentucky","Jefferson County,Kentucky",8759,214731
+54,"Cumberland County,Kentucky","Jessamine County,Kentucky",8489,179981
+55,"Cumberland County,Kentucky","Johnson County,Kentucky",13494,334060
+56,"Cumberland County,Kentucky","Kenton County,Kentucky",12435,329954
+57,"Cumberland County,Kentucky","Knott County,Kentucky",10715,263332
+58,"Cumberland County,Kentucky","Knox County,Kentucky",7982,176508
+59,"Cumberland County,Kentucky","Larue County,Kentucky",5453,116651
+60,"Cumberland County,Kentucky","Laurel County,Kentucky",6723,147378
+61,"Cumberland County,Kentucky","Lawrence County,Kentucky",15269,367748
+62,"Cumberland County,Kentucky","Lee County,Kentucky",9650,215360
+63,"Cumberland County,Kentucky","Leslie County,Kentucky",9864,233750
+64,"Cumberland County,Kentucky","Letcher County,Kentucky",11886,285336
+65,"Cumberland County,Kentucky","Lewis County,Kentucky",13155,324128
+66,"Cumberland County,Kentucky","Lincoln County,Kentucky",5825,151493
+67,"Cumberland County,Kentucky","Livingston County,Kentucky",12972,348852
+68,"Cumberland County,Kentucky","Logan County,Kentucky",6823,170634
+69,"Cumberland County,Kentucky","Lyon County,Kentucky",13112,323121
+70,"Cumberland County,Kentucky","McCracken County,Kentucky",13297,376092
+71,"Cumberland County,Kentucky","McCreary County,Kentucky",4685,97375
+72,"Cumberland County,Kentucky","Madison County,Kentucky",7237,175368
+73,"Cumberland County,Kentucky","Magoffin County,Kentucky",13171,298697
+74,"Cumberland County,Kentucky","Marion County,Kentucky",5255,115812
+75,"Cumberland County,Kentucky","Marshall County,Kentucky",12712,359664
+76,"Cumberland County,Kentucky","Martin County,Kentucky",15023,360062
+77,"Cumberland County,Kentucky","Mason County,Kentucky",12879,317505
+78,"Cumberland County,Kentucky","Meade County,Kentucky",8562,191339
+79,"Cumberland County,Kentucky","Menifee County,Kentucky",11477,268307
+80,"Cumberland County,Kentucky","Mercer County,Kentucky",7714,168009
+81,"Cumberland County,Kentucky","Metcalfe County,Kentucky",2724,52375
+82,"Cumberland County,Kentucky","Monroe County,Kentucky",2840,54941
+83,"Cumberland County,Kentucky","Montgomery County,Kentucky",10120,246216
+84,"Cumberland County,Kentucky","Morgan County,Kentucky",12561,286981
+85,"Cumberland County,Kentucky","Muhlenberg County,Kentucky",8579,213853
+86,"Cumberland County,Kentucky","Nelson County,Kentucky",6666,139842
+87,"Cumberland County,Kentucky","Nicholas County,Kentucky",11006,273320
+88,"Cumberland County,Kentucky","Ohio County,Kentucky",7995,207044
+89,"Cumberland County,Kentucky","Oldham County,Kentucky",9551,241639
+90,"Cumberland County,Kentucky","Owen County,Kentucky",10807,246571
+91,"Cumberland County,Kentucky","Owsley County,Kentucky",8943,198480
+92,"Cumberland County,Kentucky","Pendleton County,Kentucky",12258,311700
+93,"Cumberland County,Kentucky","Perry County,Kentucky",10098,242451
+94,"Cumberland County,Kentucky","Pike County,Kentucky",14493,346790
+95,"Cumberland County,Kentucky","Powell County,Kentucky",10246,241314
+96,"Cumberland County,Kentucky","Robertson County,Kentucky",11777,294446
+97,"Cumberland County,Kentucky","Rockcastle County,Kentucky",6209,139119
+98,"Cumberland County,Kentucky","Rowan County,Kentucky",10943,279621
+99,"Cumberland County,Kentucky","Russell County,Kentucky",2832,54946
+100,"Cumberland County,Kentucky","Scott County,Kentucky",9482,248050
+101,"Cumberland County,Kentucky","Shelby County,Kentucky",8727,198705
+102,"Cumberland County,Kentucky","Simpson County,Kentucky",6413,159507
+103,"Cumberland County,Kentucky","Spencer County,Kentucky",7734,168724
+104,"Cumberland County,Kentucky","Taylor County,Kentucky",3790,82509
+105,"Cumberland County,Kentucky","Todd County,Kentucky",7999,200689
+106,"Cumberland County,Kentucky","Trigg County,Kentucky",10687,261974
+107,"Cumberland County,Kentucky","Trimble County,Kentucky",10950,281439
+108,"Cumberland County,Kentucky","Union County,Kentucky",12546,332529
+109,"Cumberland County,Kentucky","Warren County,Kentucky",5447,124455
+110,"Cumberland County,Kentucky","Washington County,Kentucky",6469,138060
+111,"Cumberland County,Kentucky","Wayne County,Kentucky",2732,56314
+112,"Cumberland County,Kentucky","Webster County,Kentucky",11364,301442
+113,"Cumberland County,Kentucky","Whitley County,Kentucky",6305,133467
+114,"Cumberland County,Kentucky","Wolfe County,Kentucky",11436,253803
+115,"Cumberland County,Kentucky","Woodford County,Kentucky",8380,197968
+116,"Cumberland County,Kentucky","Adams County,Ohio",15309,364237
+117,"Cumberland County,Kentucky","Allen County,Ohio",19855,555848
+118,"Cumberland County,Kentucky","Ashland County,Ohio",23044,657726
+119,"Cumberland County,Kentucky","Ashtabula County,Ohio",28790,842477
+120,"Cumberland County,Kentucky","Athens County,Ohio",19787,515245
+121,"Cumberland County,Kentucky","Auglaize County,Ohio",19111,543112
+122,"Cumberland County,Kentucky","Belmont County,Ohio",24381,704157
+123,"Cumberland County,Kentucky","Brown County,Ohio",14294,352483
+124,"Cumberland County,Kentucky","Butler County,Ohio",14933,405722
+125,"Cumberland County,Kentucky","Carroll County,Ohio",26346,741381
+126,"Cumberland County,Kentucky","Champaign County,Ohio",17889,497294
+127,"Cumberland County,Kentucky","Clark County,Ohio",17317,483927
+128,"Cumberland County,Kentucky","Clermont County,Ohio",13683,376900
+129,"Cumberland County,Kentucky","Clinton County,Ohio",15778,428207
+130,"Cumberland County,Kentucky","Columbiana County,Ohio",27902,776970
+131,"Cumberland County,Kentucky","Coshocton County,Ohio",22905,636798
+132,"Cumberland County,Kentucky","Crawford County,Ohio",22581,649698
+133,"Cumberland County,Kentucky","Cuyahoga County,Ohio",25362,740190
+134,"Cumberland County,Kentucky","Darke County,Ohio",18209,500159
+135,"Cumberland County,Kentucky","Defiance County,Ohio",23342,634278
+136,"Cumberland County,Kentucky","Delaware County,Ohio",19961,564397
+137,"Cumberland County,Kentucky","Fairfield County,Ohio",19364,547647
+138,"Cumberland County,Kentucky","Fayette County,Ohio",16676,465812
+139,"Cumberland County,Kentucky","Franklin County,Ohio",18478,524325
+140,"Cumberland County,Kentucky","Fulton County,Ohio",24106,651221
+141,"Cumberland County,Kentucky","Gallia County,Ohio",17745,457597
+142,"Cumberland County,Kentucky","Geauga County,Ohio",26890,779409
+143,"Cumberland County,Kentucky","Greene County,Ohio",16105,437560
+144,"Cumberland County,Kentucky","Guernsey County,Ohio",22111,637838
+145,"Cumberland County,Kentucky","Hamilton County,Ohio",13587,370206
+146,"Cumberland County,Kentucky","Hancock County,Ohio",20964,596743
+147,"Cumberland County,Kentucky","Hardin County,Ohio",20751,581140
+148,"Cumberland County,Kentucky","Harrison County,Ohio",25351,723447
+149,"Cumberland County,Kentucky","Henry County,Ohio",22688,621211
+150,"Cumberland County,Kentucky","Highland County,Ohio",16442,397686
+151,"Cumberland County,Kentucky","Hocking County,Ohio",20802,591051
+152,"Cumberland County,Kentucky","Holmes County,Ohio",24455,673656
+153,"Cumberland County,Kentucky","Huron County,Ohio",24190,656496
+154,"Cumberland County,Kentucky","Jackson County,Ohio",17296,440792
+155,"Cumberland County,Kentucky","Jefferson County,Ohio",26345,733224
+156,"Cumberland County,Kentucky","Knox County,Ohio",22410,624019
+157,"Cumberland County,Kentucky","Lawrence County,Ohio",15866,393654
+158,"Cumberland County,Kentucky","Licking County,Ohio",20743,579243
+159,"Cumberland County,Kentucky","Logan County,Ohio",19123,529831
+160,"Cumberland County,Kentucky","Lorain County,Ohio",25976,715150
+161,"Cumberland County,Kentucky","Lucas County,Ohio",24289,683263
+162,"Cumberland County,Kentucky","Madison County,Ohio",17898,500994
+163,"Cumberland County,Kentucky","Mahoning County,Ohio",27759,794109
+164,"Cumberland County,Kentucky","Marion County,Ohio",21008,571833
+165,"Cumberland County,Kentucky","Medina County,Ohio",23689,682738
+166,"Cumberland County,Kentucky","Meigs County,Ohio",18677,487981
+167,"Cumberland County,Kentucky","Mercer County,Ohio",20347,570046
+168,"Cumberland County,Kentucky","Miami County,Ohio",16697,465551
+169,"Cumberland County,Kentucky","Monroe County,Ohio",24589,666929
+170,"Cumberland County,Kentucky","Montgomery County,Ohio",16080,443291
+171,"Cumberland County,Kentucky","Morgan County,Ohio",22741,582269
+172,"Cumberland County,Kentucky","Morrow County,Ohio",20768,587218
+173,"Cumberland County,Kentucky","Muskingum County,Ohio",20961,603995
+174,"Cumberland County,Kentucky","Noble County,Ohio",23095,650089
+175,"Cumberland County,Kentucky","Paulding County,Ohio",22386,618826
+176,"Cumberland County,Kentucky","Perry County,Ohio",21030,592578
+177,"Cumberland County,Kentucky","Pickaway County,Ohio",18613,514408
+178,"Cumberland County,Kentucky","Pike County,Ohio",16837,410219
+179,"Cumberland County,Kentucky","Portage County,Ohio",26211,753888
+180,"Cumberland County,Kentucky","Preble County,Ohio",16977,450121
+181,"Cumberland County,Kentucky","Putnam County,Ohio",21030,588315
+182,"Cumberland County,Kentucky","Richland County,Ohio",21798,622457
+183,"Cumberland County,Kentucky","Ross County,Ohio",18257,513725
+184,"Cumberland County,Kentucky","Sandusky County,Ohio",24004,676819
+185,"Cumberland County,Kentucky","Scioto County,Ohio",16147,392345
+186,"Cumberland County,Kentucky","Seneca County,Ohio",23308,653083
+187,"Cumberland County,Kentucky","Shelby County,Ohio",17735,501837
+188,"Cumberland County,Kentucky","Stark County,Ohio",25956,738272
+189,"Cumberland County,Kentucky","Summit County,Ohio",24892,718066
+190,"Cumberland County,Kentucky","Trumbull County,Ohio",27792,804380
+191,"Cumberland County,Kentucky","Tuscarawas County,Ohio",24405,697203
+192,"Cumberland County,Kentucky","Union County,Ohio",19250,527215
+193,"Cumberland County,Kentucky","Van Wert County,Ohio",21020,588371
+194,"Cumberland County,Kentucky","Vinton County,Ohio",19867,484894
+195,"Cumberland County,Kentucky","Warren County,Ohio",14466,396463
+196,"Cumberland County,Kentucky","Washington County,Ohio",21714,559930
+197,"Cumberland County,Kentucky","Wayne County,Ohio",23417,671736
+198,"Cumberland County,Kentucky","Williams County,Ohio",24519,657794
+199,"Cumberland County,Kentucky","Wood County,Ohio",22052,637371
+200,"Cumberland County,Kentucky","Wyandot County,Ohio",21660,617623
+201,"Cumberland County,Kentucky","Accomack County,Virginia",42066,1199027
+202,"Cumberland County,Kentucky","Albemarle County,Virginia",28215,811527
+203,"Cumberland County,Kentucky","Alleghany County,Virginia",24364,680616
+204,"Cumberland County,Kentucky","Amelia County,Virginia",30787,850382
+205,"Cumberland County,Kentucky","Amherst County,Virginia",27689,756441
+206,"Cumberland County,Kentucky","Appomattox County,Virginia",27864,770051
+207,"Cumberland County,Kentucky","Arlington County,Virginia",34900,1011836
+208,"Cumberland County,Kentucky","Augusta County,Virginia",27637,789220
+209,"Cumberland County,Kentucky","Bath County,Virginia",27376,755926
+210,"Cumberland County,Kentucky","Bedford County,Virginia",25597,701361
+211,"Cumberland County,Kentucky","Bland County,Virginia",19613,550963
+212,"Cumberland County,Kentucky","Botetourt County,Virginia",24454,685426
+213,"Cumberland County,Kentucky","Brunswick County,Virginia",32345,915104
+214,"Cumberland County,Kentucky","Buchanan County,Virginia",18019,394607
+215,"Cumberland County,Kentucky","Buckingham County,Virginia",28978,793961
+216,"Cumberland County,Kentucky","Campbell County,Virginia",27013,742596
+217,"Cumberland County,Kentucky","Caroline County,Virginia",33554,980373
+218,"Cumberland County,Kentucky","Carroll County,Virginia",20557,582308
+219,"Cumberland County,Kentucky","Charles City County,Virginia",33655,977407
+220,"Cumberland County,Kentucky","Charlotte County,Virginia",29562,810533
+221,"Cumberland County,Kentucky","Chesterfield County,Virginia",32481,889272
+222,"Cumberland County,Kentucky","Clarke County,Virginia",32395,938585
+223,"Cumberland County,Kentucky","Craig County,Virginia",23852,662994
+224,"Cumberland County,Kentucky","Culpeper County,Virginia",32012,900743
+225,"Cumberland County,Kentucky","Cumberland County,Virginia",30392,831192
+226,"Cumberland County,Kentucky","Dickenson County,Virginia",15446,352282
+227,"Cumberland County,Kentucky","Dinwiddie County,Virginia",32560,893443
+228,"Cumberland County,Kentucky","Essex County,Virginia",35372,1004415
+229,"Cumberland County,Kentucky","Fairfax County,Virginia",34523,1002112
+230,"Cumberland County,Kentucky","Fauquier County,Virginia",32833,959836
+231,"Cumberland County,Kentucky","Floyd County,Virginia",22449,622408
+232,"Cumberland County,Kentucky","Fluvanna County,Virginia",29893,863699
+233,"Cumberland County,Kentucky","Franklin County,Virginia",25110,702595
+234,"Cumberland County,Kentucky","Frederick County,Virginia",31847,926312
+235,"Cumberland County,Kentucky","Giles County,Virginia",22394,609037
+236,"Cumberland County,Kentucky","Gloucester County,Virginia",35826,1031595
+237,"Cumberland County,Kentucky","Goochland County,Virginia",30797,894310
+238,"Cumberland County,Kentucky","Grayson County,Virginia",20290,545475
+239,"Cumberland County,Kentucky","Greene County,Virginia",30208,847111
+240,"Cumberland County,Kentucky","Greensville County,Virginia",33541,932523
+241,"Cumberland County,Kentucky","Halifax County,Virginia",28860,779995
+242,"Cumberland County,Kentucky","Hanover County,Virginia",32003,935416
+243,"Cumberland County,Kentucky","Henrico County,Virginia",32514,948376
+244,"Cumberland County,Kentucky","Henry County,Virginia",24430,669029
+245,"Cumberland County,Kentucky","Highland County,Virginia",28820,765896
+246,"Cumberland County,Kentucky","Isle of Wight County,Virginia",36680,993564
+247,"Cumberland County,Kentucky","James City County,Virginia",34891,1018178
+248,"Cumberland County,Kentucky","King and Queen County,Virginia",34549,993762
+249,"Cumberland County,Kentucky","King George County,Virginia",34668,1008359
+250,"Cumberland County,Kentucky","King William County,Virginia",33237,963684
+251,"Cumberland County,Kentucky","Lancaster County,Virginia",37029,1046770
+252,"Cumberland County,Kentucky","Lee County,Virginia",12841,300156
+253,"Cumberland County,Kentucky","Loudoun County,Virginia",33891,974451
+254,"Cumberland County,Kentucky","Louisa County,Virginia",30454,877405
+255,"Cumberland County,Kentucky","Lunenburg County,Virginia",31334,851817
+256,"Cumberland County,Kentucky","Madison County,Virginia",31128,876852
+257,"Cumberland County,Kentucky","Mathews County,Virginia",36650,1055019
+258,"Cumberland County,Kentucky","Mecklenburg County,Virginia",30893,831540
+259,"Cumberland County,Kentucky","Middlesex County,Virginia",35427,1027796
+260,"Cumberland County,Kentucky","Montgomery County,Virginia",21624,612913
+261,"Cumberland County,Kentucky","Nelson County,Virginia",28240,786838
+262,"Cumberland County,Kentucky","New Kent County,Virginia",34327,992092
+263,"Cumberland County,Kentucky","Northampton County,Virginia",39308,1134842
+264,"Cumberland County,Kentucky","Northumberland County,Virginia",37069,1045282
+265,"Cumberland County,Kentucky","Nottoway County,Virginia",30827,852196
+266,"Cumberland County,Kentucky","Orange County,Virginia",31417,885512
+267,"Cumberland County,Kentucky","Page County,Virginia",30062,860637
+268,"Cumberland County,Kentucky","Patrick County,Virginia",22663,627344
+269,"Cumberland County,Kentucky","Pittsylvania County,Virginia",26746,723237
+270,"Cumberland County,Kentucky","Powhatan County,Virginia",31890,865899
+271,"Cumberland County,Kentucky","Prince Edward County,Virginia",29442,809532
+272,"Cumberland County,Kentucky","Prince George County,Virginia",34215,932817
+273,"Cumberland County,Kentucky","Prince William County,Virginia",32933,965940
+274,"Cumberland County,Kentucky","Pulaski County,Virginia",20300,573728
+275,"Cumberland County,Kentucky","Rappahannock County,Virginia",31893,897124
+276,"Cumberland County,Kentucky","Richmond County,Virginia",35769,1017925
+277,"Cumberland County,Kentucky","Roanoke County,Virginia",22404,632849
+278,"Cumberland County,Kentucky","Rockbridge County,Virginia",25901,729497
+279,"Cumberland County,Kentucky","Rockingham County,Virginia",29101,832987
+280,"Cumberland County,Kentucky","Russell County,Virginia",17978,405104
+281,"Cumberland County,Kentucky","Scott County,Virginia",15161,347997
+282,"Cumberland County,Kentucky","Shenandoah County,Virginia",29605,863091
+283,"Cumberland County,Kentucky","Smyth County,Virginia",17569,485178
+284,"Cumberland County,Kentucky","Southampton County,Virginia",35157,990047
+285,"Cumberland County,Kentucky","Spotsylvania County,Virginia",32470,919243
+286,"Cumberland County,Kentucky","Stafford County,Virginia",33851,943536
+287,"Cumberland County,Kentucky","Surry County,Virginia",35635,1017040
+288,"Cumberland County,Kentucky","Sussex County,Virginia",34441,980826
+289,"Cumberland County,Kentucky","Tazewell County,Virginia",19466,458014
+290,"Cumberland County,Kentucky","Warren County,Virginia",31508,907683
+291,"Cumberland County,Kentucky","Washington County,Virginia",16680,449263
+292,"Cumberland County,Kentucky","Westmoreland County,Virginia",35642,1025184
+293,"Cumberland County,Kentucky","Wise County,Virginia",13710,328181
+294,"Cumberland County,Kentucky","Wythe County,Virginia",18783,527638
+295,"Cumberland County,Kentucky","York County,Virginia",36179,1048953
+296,"Cumberland County,Kentucky","Alexandria City County,Virginia",35102,1024483
+297,"Cumberland County,Kentucky","Bedford City County,Virginia",24762,692793
+298,"Cumberland County,Kentucky","Bristol City County,Virginia",15279,417245
+299,"Cumberland County,Kentucky","Buena Vista City County,Virginia",25273,721984
+300,"Cumberland County,Kentucky","Charlottesville City County,Virginia",28684,826742
+301,"Cumberland County,Kentucky","Chesapeake City County,Virginia",37642,1101858
+302,"Cumberland County,Kentucky","Clifton Forge City County,Virginia",24908,700823
+303,"Cumberland County,Kentucky","Colonial Heights City County,Virginia",33351,971083
+304,"Cumberland County,Kentucky","Covington City County,Virginia",24433,684202
+305,"Cumberland County,Kentucky","Danville City County,Virginia",26588,723485
+306,"Cumberland County,Kentucky","Emporia City County,Virginia",33698,946712
+307,"Cumberland County,Kentucky","Fairfax City County,Virginia",34065,991688
+308,"Cumberland County,Kentucky","Falls Church City County,Virginia",34397,1006160
+309,"Cumberland County,Kentucky","Franklin City County,Virginia",35784,1003182
+310,"Cumberland County,Kentucky","Fredericksburg City County,Virginia",33603,928903
+311,"Cumberland County,Kentucky","Galax City County,Virginia",21181,588174
+312,"Cumberland County,Kentucky","Hampton City County,Virginia",36129,1058659
+313,"Cumberland County,Kentucky","Harrisonburg City County,Virginia",28160,812883
+314,"Cumberland County,Kentucky","Hopewell City County,Virginia",33387,970049
+315,"Cumberland County,Kentucky","Lexington City County,Virginia",25187,720312
+316,"Cumberland County,Kentucky","Lynchburg City County,Virginia",26787,737668
+317,"Cumberland County,Kentucky","Manassas City County,Virginia",33160,970885
+318,"Cumberland County,Kentucky","Manassas Park City County,Virginia",33663,977228
+319,"Cumberland County,Kentucky","Martinsville City County,Virginia",24958,677822
+320,"Cumberland County,Kentucky","Newport News City County,Virginia",35685,1045145
+321,"Cumberland County,Kentucky","Norfolk City County,Virginia",37435,1084075
+322,"Cumberland County,Kentucky","Norton City County,Virginia",14339,339993
+323,"Cumberland County,Kentucky","Petersburg City County,Virginia",33218,915421
+324,"Cumberland County,Kentucky","Poquoson City County,Virginia",36357,1055721
+325,"Cumberland County,Kentucky","Portsmouth City County,Virginia",37374,1092896
+326,"Cumberland County,Kentucky","Radford County,Virginia",20810,587676
+327,"Cumberland County,Kentucky","Richmond City County,Virginia",32090,936186
+328,"Cumberland County,Kentucky","Roanoke City County,Virginia",23006,652954
+329,"Cumberland County,Kentucky","Salem City County,Virginia",22418,639503
+330,"Cumberland County,Kentucky","South Boston City County,Virginia",28600,777663
+331,"Cumberland County,Kentucky","Staunton City County,Virginia",26977,774018
+332,"Cumberland County,Kentucky","Suffolk City County,Virginia",37100,1036484
+333,"Cumberland County,Kentucky","Virginia Beach City County,Virginia",37996,1107333
+334,"Cumberland County,Kentucky","Waynesboro City County,Virginia",27315,786737
+335,"Cumberland County,Kentucky","Williamsburg City County,Virginia",34730,1017394
+336,"Cumberland County,Kentucky","Winchester City County,Virginia",31727,922455
+337,"Cumberland County,Kentucky","Barbour County,West Virginia",24500,679483
+338,"Cumberland County,Kentucky","Berkeley County,West Virginia",32433,917643
+339,"Cumberland County,Kentucky","Boone County,West Virginia",19903,480444
+340,"Cumberland County,Kentucky","Braxton County,West Virginia",21190,570463
+341,"Cumberland County,Kentucky","Brooke County,West Virginia",26460,746405
+342,"Cumberland County,Kentucky","Cabell County,West Virginia",14250,379609
+343,"Cumberland County,Kentucky","Calhoun County,West Virginia",21111,568147
+344,"Cumberland County,Kentucky","Clay County,West Virginia",19957,541375
+345,"Cumberland County,Kentucky","Doddridge County,West Virginia",23643,660992
+346,"Cumberland County,Kentucky","Fayette County,West Virginia",21244,559720
+347,"Cumberland County,Kentucky","Gilmer County,West Virginia",22389,592649
+348,"Cumberland County,Kentucky","Grant County,West Virginia",28855,781028
+349,"Cumberland County,Kentucky","Greenbrier County,West Virginia",24318,637758
+350,"Cumberland County,Kentucky","Hampshire County,West Virginia",31687,879246
+351,"Cumberland County,Kentucky","Hancock County,West Virginia",28050,780941
+352,"Cumberland County,Kentucky","Hardy County,West Virginia",29911,812526
+353,"Cumberland County,Kentucky","Harrison County,West Virginia",23733,665854
+354,"Cumberland County,Kentucky","Jackson County,West Virginia",18995,522479
+355,"Cumberland County,Kentucky","Jefferson County,West Virginia",33515,957069
+356,"Cumberland County,Kentucky","Kanawha County,West Virginia",18553,493783
+357,"Cumberland County,Kentucky","Lewis County,West Virginia",22363,619324
+358,"Cumberland County,Kentucky","Lincoln County,West Virginia",17467,437259
+359,"Cumberland County,Kentucky","Logan County,West Virginia",18009,437080
+360,"Cumberland County,Kentucky","McDowell County,West Virginia",21357,470162
+361,"Cumberland County,Kentucky","Marion County,West Virginia",24879,693021
+362,"Cumberland County,Kentucky","Marshall County,West Virginia",26418,740913
+363,"Cumberland County,Kentucky","Mason County,West Virginia",17232,470353
+364,"Cumberland County,Kentucky","Mercer County,West Virginia",21314,601241
+365,"Cumberland County,Kentucky","Mineral County,West Virginia",30549,809849
+366,"Cumberland County,Kentucky","Mingo County,West Virginia",16692,403533
+367,"Cumberland County,Kentucky","Monongalia County,West Virginia",25089,718490
+368,"Cumberland County,Kentucky","Monroe County,West Virginia",23778,650641
+369,"Cumberland County,Kentucky","Morgan County,West Virginia",31924,907034
+370,"Cumberland County,Kentucky","Nicholas County,West Virginia",21673,601256
+371,"Cumberland County,Kentucky","Ohio County,West Virginia",25479,727643
+372,"Cumberland County,Kentucky","Pendleton County,West Virginia",29186,783653
+373,"Cumberland County,Kentucky","Pleasants County,West Virginia",22478,620330
+374,"Cumberland County,Kentucky","Pocahontas County,West Virginia",27002,670795
+375,"Cumberland County,Kentucky","Preston County,West Virginia",27235,745221
+376,"Cumberland County,Kentucky","Putnam County,West Virginia",15933,432386
+377,"Cumberland County,Kentucky","Raleigh County,West Virginia",20421,559035
+378,"Cumberland County,Kentucky","Randolph County,West Virginia",24864,681779
+379,"Cumberland County,Kentucky","Ritchie County,West Virginia",22808,634034
+380,"Cumberland County,Kentucky","Roane County,West Virginia",20621,551294
+381,"Cumberland County,Kentucky","Summers County,West Virginia",23873,620473
+382,"Cumberland County,Kentucky","Taylor County,West Virginia",24771,688594
+383,"Cumberland County,Kentucky","Tucker County,West Virginia",25931,712303
+384,"Cumberland County,Kentucky","Tyler County,West Virginia",24387,659946
+385,"Cumberland County,Kentucky","Upshur County,West Virginia",23928,634021
+386,"Cumberland County,Kentucky","Wayne County,West Virginia",15781,400804
+387,"Cumberland County,Kentucky","Webster County,West Virginia",23857,628336
+388,"Cumberland County,Kentucky","Wetzel County,West Virginia",25599,681852
+389,"Cumberland County,Kentucky","Wirt County,West Virginia",21261,579817
+390,"Cumberland County,Kentucky","Wood County,West Virginia",20776,581506
+391,"Cumberland County,Kentucky","Wyoming County,West Virginia",20979,476020

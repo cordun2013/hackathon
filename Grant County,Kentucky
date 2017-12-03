@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Grant County,Kentucky","Adair County,Kentucky",9951,250753
+1,"Grant County,Kentucky","Allen County,Kentucky",11627,321993
+2,"Grant County,Kentucky","Anderson County,Kentucky",4908,100845
+3,"Grant County,Kentucky","Ballard County,Kentucky",17787,514155
+4,"Grant County,Kentucky","Barren County,Kentucky",10754,290406
+5,"Grant County,Kentucky","Bath County,Kentucky",5218,151207
+6,"Grant County,Kentucky","Bell County,Kentucky",10452,278933
+7,"Grant County,Kentucky","Boone County,Kentucky",2718,54182
+8,"Grant County,Kentucky","Bourbon County,Kentucky",3806,89166
+9,"Grant County,Kentucky","Boyd County,Kentucky",8475,252663
+10,"Grant County,Kentucky","Boyle County,Kentucky",6242,157787
+11,"Grant County,Kentucky","Bracken County,Kentucky",4689,83128
+12,"Grant County,Kentucky","Breathitt County,Kentucky",7818,215387
+13,"Grant County,Kentucky","Breckinridge County,Kentucky",9666,240557
+14,"Grant County,Kentucky","Bullitt County,Kentucky",6203,161388
+15,"Grant County,Kentucky","Butler County,Kentucky",11006,299063
+16,"Grant County,Kentucky","Caldwell County,Kentucky",13898,405008
+17,"Grant County,Kentucky","Calloway County,Kentucky",16708,490001
+18,"Grant County,Kentucky","Campbell County,Kentucky",3179,53603
+19,"Grant County,Kentucky","Carlisle County,Kentucky",18244,529523
+20,"Grant County,Kentucky","Carroll County,Kentucky",2793,50403
+21,"Grant County,Kentucky","Carter County,Kentucky",7612,221920
+22,"Grant County,Kentucky","Casey County,Kentucky",8167,187915
+23,"Grant County,Kentucky","Christian County,Kentucky",13547,400265
+24,"Grant County,Kentucky","Clay County,Kentucky",8683,237977
+25,"Grant County,Kentucky","Clinton County,Kentucky",10405,277461
+26,"Grant County,Kentucky","Crittenden County,Kentucky",15478,438079
+27,"Grant County,Kentucky","Cumberland County,Kentucky",11159,295700
+28,"Grant County,Kentucky","Daviess County,Kentucky",10979,303875
+29,"Grant County,Kentucky","Edmonson County,Kentucky",10447,286938
+30,"Grant County,Kentucky","Elliott County,Kentucky",8388,213182
+31,"Grant County,Kentucky","Estill County,Kentucky",5751,151927
+32,"Grant County,Kentucky","Fayette County,Kentucky",3180,82422
+33,"Grant County,Kentucky","Fleming County,Kentucky",6350,112518
+34,"Grant County,Kentucky","Floyd County,Kentucky",10004,275418
+35,"Grant County,Kentucky","Franklin County,Kentucky",3818,78751
+36,"Grant County,Kentucky","Fulton County,Kentucky",18648,550488
+37,"Grant County,Kentucky","Gallatin County,Kentucky",2118,30516
+38,"Grant County,Kentucky","Garrard County,Kentucky",6210,161781
+39,"Grant County,Kentucky","Graves County,Kentucky",17268,502230
+40,"Grant County,Kentucky","Grayson County,Kentucky",9334,255699
+41,"Grant County,Kentucky","Green County,Kentucky",9394,236538
+42,"Grant County,Kentucky","Greenup County,Kentucky",9179,196180
+43,"Grant County,Kentucky","Hancock County,Kentucky",9864,258393
+44,"Grant County,Kentucky","Hardin County,Kentucky",8210,217832
+45,"Grant County,Kentucky","Harlan County,Kentucky",12746,334538
+46,"Grant County,Kentucky","Harrison County,Kentucky",2730,48254
+47,"Grant County,Kentucky","Hart County,Kentucky",9009,245460
+48,"Grant County,Kentucky","Henderson County,Kentucky",12563,346370
+49,"Grant County,Kentucky","Henry County,Kentucky",3721,67067
+50,"Grant County,Kentucky","Hickman County,Kentucky",18277,530815
+51,"Grant County,Kentucky","Hopkins County,Kentucky",13357,379477
+52,"Grant County,Kentucky","Jackson County,Kentucky",7195,181764
+53,"Grant County,Kentucky","Jefferson County,Kentucky",5296,130824
+54,"Grant County,Kentucky","Jessamine County,Kentucky",4441,105734
+55,"Grant County,Kentucky","Johnson County,Kentucky",8958,251411
+56,"Grant County,Kentucky","Kenton County,Kentucky",2605,49898
+57,"Grant County,Kentucky","Knott County,Kentucky",10278,278766
+58,"Grant County,Kentucky","Knox County,Kentucky",8613,240674
+59,"Grant County,Kentucky","Larue County,Kentucky",8280,221431
+60,"Grant County,Kentucky","Laurel County,Kentucky",7464,212069
+61,"Grant County,Kentucky","Lawrence County,Kentucky",10478,279799
+62,"Grant County,Kentucky","Lee County,Kentucky",7067,191845
+63,"Grant County,Kentucky","Leslie County,Kentucky",10633,289101
+64,"Grant County,Kentucky","Letcher County,Kentucky",11531,303739
+65,"Grant County,Kentucky","Lewis County,Kentucky",7818,147523
+66,"Grant County,Kentucky","Lincoln County,Kentucky",6920,178700
+67,"Grant County,Kentucky","Livingston County,Kentucky",16074,454975
+68,"Grant County,Kentucky","Logan County,Kentucky",12747,342301
+69,"Grant County,Kentucky","Lyon County,Kentucky",16207,465366
+70,"Grant County,Kentucky","McCracken County,Kentucky",16399,482215
+71,"Grant County,Kentucky","McCreary County,Kentucky",9569,256510
+72,"Grant County,Kentucky","Madison County,Kentucky",4603,125651
+73,"Grant County,Kentucky","Magoffin County,Kentucky",8427,233278
+74,"Grant County,Kentucky","Marion County,Kentucky",6940,182250
+75,"Grant County,Kentucky","Marshall County,Kentucky",15814,465787
+76,"Grant County,Kentucky","Martin County,Kentucky",11744,309757
+77,"Grant County,Kentucky","Mason County,Kentucky",5422,98175
+78,"Grant County,Kentucky","Meade County,Kentucky",7743,198065
+79,"Grant County,Kentucky","Menifee County,Kentucky",6492,163745
+80,"Grant County,Kentucky","Mercer County,Kentucky",5316,137962
+81,"Grant County,Kentucky","Metcalfe County,Kentucky",10654,304360
+82,"Grant County,Kentucky","Monroe County,Kentucky",12101,334081
+83,"Grant County,Kentucky","Montgomery County,Kentucky",5135,141654
+84,"Grant County,Kentucky","Morgan County,Kentucky",7817,221563
+85,"Grant County,Kentucky","Muhlenberg County,Kentucky",12217,345952
+86,"Grant County,Kentucky","Nelson County,Kentucky",6548,181322
+87,"Grant County,Kentucky","Nicholas County,Kentucky",4699,79927
+88,"Grant County,Kentucky","Ohio County,Kentucky",11130,313542
+89,"Grant County,Kentucky","Oldham County,Kentucky",4196,101770
+90,"Grant County,Kentucky","Owen County,Kentucky",1706,31123
+91,"Grant County,Kentucky","Owsley County,Kentucky",8214,211821
+92,"Grant County,Kentucky","Pendleton County,Kentucky",2374,39195
+93,"Grant County,Kentucky","Perry County,Kentucky",9429,255271
+94,"Grant County,Kentucky","Pike County,Kentucky",11684,305742
+95,"Grant County,Kentucky","Powell County,Kentucky",5428,150513
+96,"Grant County,Kentucky","Robertson County,Kentucky",4524,72160
+97,"Grant County,Kentucky","Rockcastle County,Kentucky",6037,166793
+98,"Grant County,Kentucky","Rowan County,Kentucky",5959,175059
+99,"Grant County,Kentucky","Russell County,Kentucky",9603,258079
+100,"Grant County,Kentucky","Scott County,Kentucky",2182,49796
+101,"Grant County,Kentucky","Shelby County,Kentucky",5268,92587
+102,"Grant County,Kentucky","Simpson County,Kentucky",12328,350359
+103,"Grant County,Kentucky","Spencer County,Kentucky",5934,123788
+104,"Grant County,Kentucky","Taylor County,Kentucky",8229,213747
+105,"Grant County,Kentucky","Todd County,Kentucky",13983,366462
+106,"Grant County,Kentucky","Trigg County,Kentucky",14961,426194
+107,"Grant County,Kentucky","Trimble County,Kentucky",3793,83666
+108,"Grant County,Kentucky","Union County,Kentucky",14282,376817
+109,"Grant County,Kentucky","Warren County,Kentucky",11363,315307
+110,"Grant County,Kentucky","Washington County,Kentucky",6558,166558
+111,"Grant County,Kentucky","Wayne County,Kentucky",9779,255152
+112,"Grant County,Kentucky","Webster County,Kentucky",14206,382992
+113,"Grant County,Kentucky","Whitley County,Kentucky",8297,246554
+114,"Grant County,Kentucky","Wolfe County,Kentucky",6692,188384
+115,"Grant County,Kentucky","Woodford County,Kentucky",3794,98054
+116,"Grant County,Kentucky","Adams County,Ohio",6482,160542
+117,"Grant County,Kentucky","Allen County,Ohio",10024,275791
+118,"Grant County,Kentucky","Ashland County,Ohio",13213,377669
+119,"Grant County,Kentucky","Ashtabula County,Ohio",18959,562420
+120,"Grant County,Kentucky","Athens County,Ohio",11677,306884
+121,"Grant County,Kentucky","Auglaize County,Ohio",9280,263056
+122,"Grant County,Kentucky","Belmont County,Ohio",14551,424101
+123,"Grant County,Kentucky","Brown County,Ohio",5735,137096
+124,"Grant County,Kentucky","Butler County,Ohio",5102,125665
+125,"Grant County,Kentucky","Carroll County,Ohio",16515,461324
+126,"Grant County,Kentucky","Champaign County,Ohio",8058,217237
+127,"Grant County,Kentucky","Clark County,Ohio",7487,203870
+128,"Grant County,Kentucky","Clermont County,Ohio",3853,96843
+129,"Grant County,Kentucky","Clinton County,Ohio",5947,148150
+130,"Grant County,Kentucky","Columbiana County,Ohio",18072,496913
+131,"Grant County,Kentucky","Coshocton County,Ohio",13074,356741
+132,"Grant County,Kentucky","Crawford County,Ohio",12750,369641
+133,"Grant County,Kentucky","Cuyahoga County,Ohio",15531,460134
+134,"Grant County,Kentucky","Darke County,Ohio",8378,220102
+135,"Grant County,Kentucky","Defiance County,Ohio",13512,354221
+136,"Grant County,Kentucky","Delaware County,Ohio",10130,284341
+137,"Grant County,Kentucky","Fairfield County,Ohio",9534,267590
+138,"Grant County,Kentucky","Fayette County,Ohio",6846,185755
+139,"Grant County,Kentucky","Franklin County,Ohio",8648,244268
+140,"Grant County,Kentucky","Fulton County,Ohio",14275,371165
+141,"Grant County,Kentucky","Gallia County,Ohio",10573,279061
+142,"Grant County,Kentucky","Geauga County,Ohio",17060,499352
+143,"Grant County,Kentucky","Greene County,Ohio",6274,157504
+144,"Grant County,Kentucky","Guernsey County,Ohio",12280,357782
+145,"Grant County,Kentucky","Hamilton County,Ohio",3756,90149
+146,"Grant County,Kentucky","Hancock County,Ohio",11133,316686
+147,"Grant County,Kentucky","Hardin County,Ohio",10921,301083
+148,"Grant County,Kentucky","Harrison County,Ohio",15521,443390
+149,"Grant County,Kentucky","Henry County,Ohio",12857,341155
+150,"Grant County,Kentucky","Highland County,Ohio",6795,159796
+151,"Grant County,Kentucky","Hocking County,Ohio",10971,310994
+152,"Grant County,Kentucky","Holmes County,Ohio",14624,393599
+153,"Grant County,Kentucky","Huron County,Ohio",14360,376439
+154,"Grant County,Kentucky","Jackson County,Ohio",9074,241254
+155,"Grant County,Kentucky","Jefferson County,Ohio",16514,453168
+156,"Grant County,Kentucky","Knox County,Ohio",12580,343962
+157,"Grant County,Kentucky","Lawrence County,Ohio",10882,289092
+158,"Grant County,Kentucky","Licking County,Ohio",10912,299186
+159,"Grant County,Kentucky","Logan County,Ohio",9293,249774
+160,"Grant County,Kentucky","Lorain County,Ohio",16145,435093
+161,"Grant County,Kentucky","Lucas County,Ohio",14458,403206
+162,"Grant County,Kentucky","Madison County,Ohio",8067,220937
+163,"Grant County,Kentucky","Mahoning County,Ohio",17929,514052
+164,"Grant County,Kentucky","Marion County,Ohio",11177,291776
+165,"Grant County,Kentucky","Medina County,Ohio",13858,402682
+166,"Grant County,Kentucky","Meigs County,Ohio",12357,318699
+167,"Grant County,Kentucky","Mercer County,Ohio",10516,289989
+168,"Grant County,Kentucky","Miami County,Ohio",6866,185495
+169,"Grant County,Kentucky","Monroe County,Ohio",15956,438665
+170,"Grant County,Kentucky","Montgomery County,Ohio",6250,163235
+171,"Grant County,Kentucky","Morgan County,Ohio",13345,366278
+172,"Grant County,Kentucky","Morrow County,Ohio",10938,307161
+173,"Grant County,Kentucky","Muskingum County,Ohio",11131,323938
+174,"Grant County,Kentucky","Noble County,Ohio",13979,394901
+175,"Grant County,Kentucky","Paulding County,Ohio",12555,338769
+176,"Grant County,Kentucky","Perry County,Ohio",11199,312521
+177,"Grant County,Kentucky","Pickaway County,Ohio",8782,234351
+178,"Grant County,Kentucky","Pike County,Ohio",7850,206239
+179,"Grant County,Kentucky","Portage County,Ohio",16380,473831
+180,"Grant County,Kentucky","Preble County,Ohio",7146,170064
+181,"Grant County,Kentucky","Putnam County,Ohio",11199,308259
+182,"Grant County,Kentucky","Richland County,Ohio",11967,342400
+183,"Grant County,Kentucky","Ross County,Ohio",8426,233668
+184,"Grant County,Kentucky","Sandusky County,Ohio",14173,396762
+185,"Grant County,Kentucky","Scioto County,Ohio",8650,226869
+186,"Grant County,Kentucky","Seneca County,Ohio",13478,373026
+187,"Grant County,Kentucky","Shelby County,Ohio",7905,221780
+188,"Grant County,Kentucky","Stark County,Ohio",16125,458215
+189,"Grant County,Kentucky","Summit County,Ohio",15061,438009
+190,"Grant County,Kentucky","Trumbull County,Ohio",17962,524324
+191,"Grant County,Kentucky","Tuscarawas County,Ohio",14575,417147
+192,"Grant County,Kentucky","Union County,Ohio",9420,247158
+193,"Grant County,Kentucky","Van Wert County,Ohio",11189,308314
+194,"Grant County,Kentucky","Vinton County,Ohio",10609,282421
+195,"Grant County,Kentucky","Warren County,Ohio",4636,116406
+196,"Grant County,Kentucky","Washington County,Ohio",14709,386981
+197,"Grant County,Kentucky","Wayne County,Ohio",13586,391679
+198,"Grant County,Kentucky","Williams County,Ohio",14689,377737
+199,"Grant County,Kentucky","Wood County,Ohio",12221,357314
+200,"Grant County,Kentucky","Wyandot County,Ohio",11829,337566
+201,"Grant County,Kentucky","Accomack County,Virginia",38561,1126532
+202,"Grant County,Kentucky","Albemarle County,Virginia",24710,739031
+203,"Grant County,Kentucky","Alleghany County,Virginia",19379,576054
+204,"Grant County,Kentucky","Amelia County,Virginia",29411,839149
+205,"Grant County,Kentucky","Amherst County,Virginia",24708,707020
+206,"Grant County,Kentucky","Appomattox County,Virginia",26301,745779
+207,"Grant County,Kentucky","Arlington County,Virginia",30628,902899
+208,"Grant County,Kentucky","Augusta County,Virginia",23321,677371
+209,"Grant County,Kentucky","Bath County,Virginia",22391,651364
+210,"Grant County,Kentucky","Bedford County,Virginia",24968,693145
+211,"Grant County,Kentucky","Bland County,Virginia",18341,542274
+212,"Grant County,Kentucky","Botetourt County,Virginia",22534,647354
+213,"Grant County,Kentucky","Brunswick County,Virginia",31954,888822
+214,"Grant County,Kentucky","Buchanan County,Virginia",15736,385248
+215,"Grant County,Kentucky","Buckingham County,Virginia",26584,756715
+216,"Grant County,Kentucky","Campbell County,Virginia",26225,748251
+217,"Grant County,Kentucky","Caroline County,Virginia",30049,907877
+218,"Grant County,Kentucky","Carroll County,Virginia",20587,611711
+219,"Grant County,Kentucky","Charles City County,Virginia",30150,904912
+220,"Grant County,Kentucky","Charlotte County,Virginia",28186,799300
+221,"Grant County,Kentucky","Chesterfield County,Virginia",29286,882695
+222,"Grant County,Kentucky","Clarke County,Virginia",28740,803535
+223,"Grant County,Kentucky","Craig County,Virginia",21022,597139
+224,"Grant County,Kentucky","Culpeper County,Virginia",28507,828248
+225,"Grant County,Kentucky","Cumberland County,Virginia",27794,784717
+226,"Grant County,Kentucky","Dickenson County,Virginia",15090,370685
+227,"Grant County,Kentucky","Dinwiddie County,Virginia",31033,933127
+228,"Grant County,Kentucky","Essex County,Virginia",31867,931919
+229,"Grant County,Kentucky","Fairfax County,Virginia",30318,893566
+230,"Grant County,Kentucky","Fauquier County,Virginia",29328,887341
+231,"Grant County,Kentucky","Floyd County,Virginia",22207,630676
+232,"Grant County,Kentucky","Fluvanna County,Virginia",26388,791203
+233,"Grant County,Kentucky","Franklin County,Virginia",24481,694378
+234,"Grant County,Kentucky","Frederick County,Virginia",27530,778256
+235,"Grant County,Kentucky","Giles County,Virginia",19072,553832
+236,"Grant County,Kentucky","Gloucester County,Virginia",32321,959100
+237,"Grant County,Kentucky","Goochland County,Virginia",27292,821814
+238,"Grant County,Kentucky","Grayson County,Virginia",20989,601419
+239,"Grant County,Kentucky","Greene County,Virginia",26703,774616
+240,"Grant County,Kentucky","Greensville County,Virginia",32449,981878
+241,"Grant County,Kentucky","Halifax County,Virginia",28890,809398
+242,"Grant County,Kentucky","Hanover County,Virginia",28498,862921
+243,"Grant County,Kentucky","Henrico County,Virginia",29009,875880
+244,"Grant County,Kentucky","Henry County,Virginia",24460,698432
+245,"Grant County,Kentucky","Highland County,Virginia",23835,661334
+246,"Grant County,Kentucky","Isle of Wight County,Virginia",33262,980457
+247,"Grant County,Kentucky","James City County,Virginia",31386,945682
+248,"Grant County,Kentucky","King and Queen County,Virginia",31044,921266
+249,"Grant County,Kentucky","King George County,Virginia",31163,935863
+250,"Grant County,Kentucky","King William County,Virginia",29732,891189
+251,"Grant County,Kentucky","Lancaster County,Virginia",33524,974274
+252,"Grant County,Kentucky","Lee County,Virginia",13543,355492
+253,"Grant County,Kentucky","Loudoun County,Virginia",30236,839401
+254,"Grant County,Kentucky","Louisa County,Virginia",26949,804909
+255,"Grant County,Kentucky","Lunenburg County,Virginia",29958,840584
+256,"Grant County,Kentucky","Madison County,Virginia",27623,804356
+257,"Grant County,Kentucky","Mathews County,Virginia",33145,982523
+258,"Grant County,Kentucky","Mecklenburg County,Virginia",30949,853708
+259,"Grant County,Kentucky","Middlesex County,Virginia",31922,955300
+260,"Grant County,Kentucky","Montgomery County,Virginia",20155,581839
+261,"Grant County,Kentucky","Nelson County,Virginia",25249,718711
+262,"Grant County,Kentucky","New Kent County,Virginia",30822,919596
+263,"Grant County,Kentucky","Northampton County,Virginia",35803,1062346
+264,"Grant County,Kentucky","Northumberland County,Virginia",33564,972786
+265,"Grant County,Kentucky","Nottoway County,Virginia",29451,840964
+266,"Grant County,Kentucky","Orange County,Virginia",27911,813016
+267,"Grant County,Kentucky","Page County,Virginia",26556,788141
+268,"Grant County,Kentucky","Patrick County,Virginia",22692,656747
+269,"Grant County,Kentucky","Pittsylvania County,Virginia",26776,752640
+270,"Grant County,Kentucky","Powhatan County,Virginia",28545,847035
+271,"Grant County,Kentucky","Prince Edward County,Virginia",28066,798299
+272,"Grant County,Kentucky","Prince George County,Virginia",30797,919711
+273,"Grant County,Kentucky","Prince William County,Virginia",29428,893444
+274,"Grant County,Kentucky","Pulaski County,Virginia",20250,578170
+275,"Grant County,Kentucky","Rappahannock County,Virginia",28388,824628
+276,"Grant County,Kentucky","Richmond County,Virginia",32264,945430
+277,"Grant County,Kentucky","Roanoke County,Virginia",21775,624633
+278,"Grant County,Kentucky","Rockbridge County,Virginia",21712,644411
+279,"Grant County,Kentucky","Rockingham County,Virginia",25596,760492
+280,"Grant County,Kentucky","Russell County,Virginia",17267,403797
+281,"Grant County,Kentucky","Scott County,Virginia",15863,403333
+282,"Grant County,Kentucky","Shenandoah County,Virginia",26100,790595
+283,"Grant County,Kentucky","Smyth County,Virginia",19377,486285
+284,"Grant County,Kentucky","Southampton County,Virginia",32827,977992
+285,"Grant County,Kentucky","Spotsylvania County,Virginia",28965,846747
+286,"Grant County,Kentucky","Stafford County,Virginia",30346,871040
+287,"Grant County,Kentucky","Surry County,Virginia",32129,944544
+288,"Grant County,Kentucky","Sussex County,Virginia",31491,948235
+289,"Grant County,Kentucky","Tazewell County,Virginia",17980,442023
+290,"Grant County,Kentucky","Warren County,Virginia",28003,835188
+291,"Grant County,Kentucky","Washington County,Virginia",17488,437402
+292,"Grant County,Kentucky","Westmoreland County,Virginia",32137,952688
+293,"Grant County,Kentucky","Wise County,Virginia",13355,346584
+294,"Grant County,Kentucky","Wythe County,Virginia",18946,560491
+295,"Grant County,Kentucky","York County,Virginia",32674,976457
+296,"Grant County,Kentucky","Alexandria City County,Virginia",31143,920081
+297,"Grant County,Kentucky","Bedford City County,Virginia",24132,684576
+298,"Grant County,Kentucky","Bristol City County,Virginia",17816,444660
+299,"Grant County,Kentucky","Buena Vista City County,Virginia",22067,658388
+300,"Grant County,Kentucky","Charlottesville City County,Virginia",25179,754246
+301,"Grant County,Kentucky","Chesapeake City County,Virginia",34137,1029362
+302,"Grant County,Kentucky","Clifton Forge City County,Virginia",19923,596261
+303,"Grant County,Kentucky","Colonial Heights City County,Virginia",29846,898588
+304,"Grant County,Kentucky","Covington City County,Virginia",19448,579640
+305,"Grant County,Kentucky","Danville City County,Virginia",26618,752888
+306,"Grant County,Kentucky","Emporia City County,Virginia",32157,968472
+307,"Grant County,Kentucky","Fairfax City County,Virginia",30560,919192
+308,"Grant County,Kentucky","Falls Church City County,Virginia",30336,897211
+309,"Grant County,Kentucky","Franklin City County,Virginia",33374,985847
+310,"Grant County,Kentucky","Fredericksburg City County,Virginia",30098,856407
+311,"Grant County,Kentucky","Galax City County,Virginia",21210,617578
+312,"Grant County,Kentucky","Hampton City County,Virginia",32624,986163
+313,"Grant County,Kentucky","Harrisonburg City County,Virginia",24655,740388
+314,"Grant County,Kentucky","Hopewell City County,Virginia",29882,897554
+315,"Grant County,Kentucky","Lexington City County,Virginia",21701,646879
+316,"Grant County,Kentucky","Lynchburg City County,Virginia",25284,721994
+317,"Grant County,Kentucky","Manassas City County,Virginia",29655,898389
+318,"Grant County,Kentucky","Manassas Park City County,Virginia",30158,904732
+319,"Grant County,Kentucky","Martinsville City County,Virginia",24988,707226
+320,"Grant County,Kentucky","Newport News City County,Virginia",32180,972649
+321,"Grant County,Kentucky","Norfolk City County,Virginia",33930,1011579
+322,"Grant County,Kentucky","Norton City County,Virginia",13983,358395
+323,"Grant County,Kentucky","Petersburg City County,Virginia",29717,899575
+324,"Grant County,Kentucky","Poquoson City County,Virginia",32852,983226
+325,"Grant County,Kentucky","Portsmouth City County,Virginia",33869,1020400
+326,"Grant County,Kentucky","Radford County,Virginia",20562,579880
+327,"Grant County,Kentucky","Richmond City County,Virginia",28585,863691
+328,"Grant County,Kentucky","Roanoke City County,Virginia",22377,644737
+329,"Grant County,Kentucky","Salem City County,Virginia",21789,631287
+330,"Grant County,Kentucky","South Boston City County,Virginia",28630,807067
+331,"Grant County,Kentucky","Staunton City County,Virginia",23472,701523
+332,"Grant County,Kentucky","Suffolk City County,Virginia",34104,995181
+333,"Grant County,Kentucky","Virginia Beach City County,Virginia",34491,1034837
+334,"Grant County,Kentucky","Waynesboro City County,Virginia",23810,714241
+335,"Grant County,Kentucky","Williamsburg City County,Virginia",31225,944898
+336,"Grant County,Kentucky","Winchester City County,Virginia",27669,782060
+337,"Grant County,Kentucky","Barbour County,West Virginia",19515,574921
+338,"Grant County,Kentucky","Berkeley County,West Virginia",27082,780916
+339,"Grant County,Kentucky","Boone County,West Virginia",14694,408538
+340,"Grant County,Kentucky","Braxton County,West Virginia",16205,465900
+341,"Grant County,Kentucky","Brooke County,West Virginia",16630,466349
+342,"Grant County,Kentucky","Cabell County,West Virginia",9266,275047
+343,"Grant County,Kentucky","Calhoun County,West Virginia",16126,463585
+344,"Grant County,Kentucky","Clay County,West Virginia",14972,436813
+345,"Grant County,Kentucky","Doddridge County,West Virginia",17048,453567
+346,"Grant County,Kentucky","Fayette County,West Virginia",16259,455158
+347,"Grant County,Kentucky","Gilmer County,West Virginia",17404,488087
+348,"Grant County,Kentucky","Grant County,West Virginia",23870,676466
+349,"Grant County,Kentucky","Greenbrier County,West Virginia",19333,533196
+350,"Grant County,Kentucky","Hampshire County,West Virginia",26337,742520
+351,"Grant County,Kentucky","Hancock County,West Virginia",18219,500884
+352,"Grant County,Kentucky","Hardy County,West Virginia",24926,707964
+353,"Grant County,Kentucky","Harrison County,West Virginia",18130,486561
+354,"Grant County,Kentucky","Jackson County,West Virginia",13830,353231
+355,"Grant County,Kentucky","Jefferson County,West Virginia",28548,836914
+356,"Grant County,Kentucky","Kanawha County,West Virginia",13568,389221
+357,"Grant County,Kentucky","Lewis County,West Virginia",17378,514762
+358,"Grant County,Kentucky","Lincoln County,West Virginia",12483,332697
+359,"Grant County,Kentucky","Logan County,West Virginia",14739,376511
+360,"Grant County,Kentucky","McDowell County,West Virginia",18591,428700
+361,"Grant County,Kentucky","Marion County,West Virginia",19894,588459
+362,"Grant County,Kentucky","Marshall County,West Virginia",16587,460856
+363,"Grant County,Kentucky","Mason County,West Virginia",11604,313525
+364,"Grant County,Kentucky","Mercer County,West Virginia",16895,500780
+365,"Grant County,Kentucky","Mineral County,West Virginia",25216,717071
+366,"Grant County,Kentucky","Mingo County,West Virginia",13423,342964
+367,"Grant County,Kentucky","Monongalia County,West Virginia",19739,581763
+368,"Grant County,Kentucky","Monroe County,West Virginia",19940,545492
+369,"Grant County,Kentucky","Morgan County,West Virginia",26574,770308
+370,"Grant County,Kentucky","Nicholas County,West Virginia",16688,496694
+371,"Grant County,Kentucky","Ohio County,West Virginia",15648,447586
+372,"Grant County,Kentucky","Pendleton County,West Virginia",24202,679091
+373,"Grant County,Kentucky","Pleasants County,West Virginia",15937,413086
+374,"Grant County,Kentucky","Pocahontas County,West Virginia",22017,566233
+375,"Grant County,Kentucky","Preston County,West Virginia",21976,613548
+376,"Grant County,Kentucky","Putnam County,West Virginia",10949,327824
+377,"Grant County,Kentucky","Raleigh County,West Virginia",15436,454473
+378,"Grant County,Kentucky","Randolph County,West Virginia",19880,577217
+379,"Grant County,Kentucky","Ritchie County,West Virginia",16213,426609
+380,"Grant County,Kentucky","Roane County,West Virginia",15456,382046
+381,"Grant County,Kentucky","Summers County,West Virginia",18888,515911
+382,"Grant County,Kentucky","Taylor County,West Virginia",19786,584031
+383,"Grant County,Kentucky","Tucker County,West Virginia",20946,607741
+384,"Grant County,Kentucky","Tyler County,West Virginia",17846,452702
+385,"Grant County,Kentucky","Upshur County,West Virginia",18943,529459
+386,"Grant County,Kentucky","Wayne County,West Virginia",10796,296242
+387,"Grant County,Kentucky","Webster County,West Virginia",18873,523773
+388,"Grant County,Kentucky","Wetzel County,West Virginia",19059,474608
+389,"Grant County,Kentucky","Wirt County,West Virginia",15636,403243
+390,"Grant County,Kentucky","Wood County,West Virginia",14319,377974
+391,"Grant County,Kentucky","Wyoming County,West Virginia",17381,494415

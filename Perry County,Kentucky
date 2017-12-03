@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Perry County,Kentucky","Adair County,Kentucky",8840,220650
+1,"Perry County,Kentucky","Allen County,Kentucky",12036,316292
+2,"Perry County,Kentucky","Anderson County,Kentucky",9010,241886
+3,"Perry County,Kentucky","Ballard County,Kentucky",21849,618968
+4,"Perry County,Kentucky","Barren County,Kentucky",10585,279677
+5,"Perry County,Kentucky","Bath County,Kentucky",6804,137805
+6,"Perry County,Kentucky","Bell County,Kentucky",6200,125708
+7,"Perry County,Kentucky","Boone County,Kentucky",10718,293594
+8,"Perry County,Kentucky","Bourbon County,Kentucky",7012,175449
+9,"Perry County,Kentucky","Boyd County,Kentucky",7652,190737
+10,"Perry County,Kentucky","Boyle County,Kentucky",8067,194808
+11,"Perry County,Kentucky","Bracken County,Kentucky",10759,246169
+12,"Perry County,Kentucky","Breathitt County,Kentucky",2158,46097
+13,"Perry County,Kentucky","Breckinridge County,Kentucky",14543,394567
+14,"Perry County,Kentucky","Bullitt County,Kentucky",11113,315687
+15,"Perry County,Kentucky","Butler County,Kentucky",13624,376151
+16,"Perry County,Kentucky","Caldwell County,Kentucky",17960,509821
+17,"Perry County,Kentucky","Calloway County,Kentucky",20029,534803
+18,"Perry County,Kentucky","Campbell County,Kentucky",10706,260268
+19,"Perry County,Kentucky","Carlisle County,Kentucky",22306,634336
+20,"Perry County,Kentucky","Carroll County,Kentucky",11554,289701
+21,"Perry County,Kentucky","Carter County,Kentucky",7988,166875
+22,"Perry County,Kentucky","Casey County,Kentucky",8778,193924
+23,"Perry County,Kentucky","Christian County,Kentucky",16316,442290
+24,"Perry County,Kentucky","Clay County,Kentucky",3367,75928
+25,"Perry County,Kentucky","Clinton County,Kentucky",9247,224015
+26,"Perry County,Kentucky","Crittenden County,Kentucky",19540,542892
+27,"Perry County,Kentucky","Cumberland County,Kentucky",10001,242254
+28,"Perry County,Kentucky","Daviess County,Kentucky",16058,449944
+29,"Perry County,Kentucky","Edmonson County,Kentucky",12114,323838
+30,"Perry County,Kentucky","Elliott County,Kentucky",6619,139199
+31,"Perry County,Kentucky","Estill County,Kentucky",5915,142379
+32,"Perry County,Kentucky","Fayette County,Kentucky",6817,179379
+33,"Perry County,Kentucky","Fleming County,Kentucky",8037,175983
+34,"Perry County,Kentucky","Floyd County,Kentucky",2739,63224
+35,"Perry County,Kentucky","Franklin County,Kentucky",8855,228295
+36,"Perry County,Kentucky","Fulton County,Kentucky",22710,655301
+37,"Perry County,Kentucky","Gallatin County,Kentucky",10552,280359
+38,"Perry County,Kentucky","Garrard County,Kentucky",7736,179594
+39,"Perry County,Kentucky","Grant County,Kentucky",9351,254467
+40,"Perry County,Kentucky","Graves County,Kentucky",21330,607043
+41,"Perry County,Kentucky","Grayson County,Kentucky",13535,373201
+42,"Perry County,Kentucky","Green County,Kentucky",10592,262815
+43,"Perry County,Kentucky","Greenup County,Kentucky",9492,206378
+44,"Perry County,Kentucky","Hancock County,Kentucky",15339,427460
+45,"Perry County,Kentucky","Hardin County,Kentucky",12412,335334
+46,"Perry County,Kentucky","Harlan County,Kentucky",5523,106024
+47,"Perry County,Kentucky","Harrison County,Kentucky",8325,203788
+48,"Perry County,Kentucky","Hart County,Kentucky",11942,309092
+49,"Perry County,Kentucky","Henderson County,Kentucky",17966,506364
+50,"Perry County,Kentucky","Henry County,Kentucky",10456,272014
+51,"Perry County,Kentucky","Hickman County,Kentucky",22339,635628
+52,"Perry County,Kentucky","Hopkins County,Kentucky",17419,484290
+53,"Perry County,Kentucky","Jackson County,Kentucky",5239,112347
+54,"Perry County,Kentucky","Jefferson County,Kentucky",10550,287547
+55,"Perry County,Kentucky","Jessamine County,Kentucky",8286,200843
+56,"Perry County,Kentucky","Johnson County,Kentucky",4301,103494
+57,"Perry County,Kentucky","Kenton County,Kentucky",10605,289310
+58,"Perry County,Kentucky","Knott County,Kentucky",1523,32765
+59,"Perry County,Kentucky","Knox County,Kentucky",4692,102583
+60,"Perry County,Kentucky","Larue County,Kentucky",12074,294788
+61,"Perry County,Kentucky","Laurel County,Kentucky",4969,112724
+62,"Perry County,Kentucky","Lawrence County,Kentucky",6076,137181
+63,"Perry County,Kentucky","Lee County,Kentucky",4269,87286
+64,"Perry County,Kentucky","Leslie County,Kentucky",2551,50932
+65,"Perry County,Kentucky","Letcher County,Kentucky",2776,57738
+66,"Perry County,Kentucky","Lewis County,Kentucky",8871,187398
+67,"Perry County,Kentucky","Lincoln County,Kentucky",7298,179175
+68,"Perry County,Kentucky","Livingston County,Kentucky",20136,559788
+69,"Perry County,Kentucky","Logan County,Kentucky",13987,381570
+70,"Perry County,Kentucky","Lyon County,Kentucky",20276,534057
+71,"Perry County,Kentucky","McCracken County,Kentucky",20461,587028
+72,"Perry County,Kentucky","McCreary County,Kentucky",7502,183138
+73,"Perry County,Kentucky","Madison County,Kentucky",6755,177024
+74,"Perry County,Kentucky","Magoffin County,Kentucky",4645,107470
+75,"Perry County,Kentucky","Marion County,Kentucky",9765,233412
+76,"Perry County,Kentucky","Marshall County,Kentucky",19875,570600
+77,"Perry County,Kentucky","Martin County,Kentucky",5830,129496
+78,"Perry County,Kentucky","Mason County,Kentucky",10169,217548
+79,"Perry County,Kentucky","Meade County,Kentucky",13010,359862
+80,"Perry County,Kentucky","Menifee County,Kentucky",5976,117768
+81,"Perry County,Kentucky","Mercer County,Kentucky",9067,219739
+82,"Perry County,Kentucky","Metcalfe County,Kentucky",9496,250915
+83,"Perry County,Kentucky","Monroe County,Kentucky",11466,288419
+84,"Perry County,Kentucky","Montgomery County,Kentucky",6013,139348
+85,"Perry County,Kentucky","Morgan County,Kentucky",4398,98658
+86,"Perry County,Kentucky","Muhlenberg County,Kentucky",15743,424790
+87,"Perry County,Kentucky","Nelson County,Kentucky",10469,283190
+88,"Perry County,Kentucky","Nicholas County,Kentucky",8319,203369
+89,"Perry County,Kentucky","Ohio County,Kentucky",15159,417981
+90,"Perry County,Kentucky","Oldham County,Kentucky",10621,299429
+91,"Perry County,Kentucky","Owen County,Kentucky",9677,255072
+92,"Perry County,Kentucky","Owsley County,Kentucky",4296,83971
+93,"Perry County,Kentucky","Pendleton County,Kentucky",9884,240916
+94,"Perry County,Kentucky","Pike County,Kentucky",5300,116223
+95,"Perry County,Kentucky","Powell County,Kentucky",4800,110633
+96,"Perry County,Kentucky","Robertson County,Kentucky",9089,224495
+97,"Perry County,Kentucky","Rockcastle County,Kentucky",5779,140773
+98,"Perry County,Kentucky","Rowan County,Kentucky",6456,140442
+99,"Perry County,Kentucky","Russell County,Kentucky",8444,204633
+100,"Perry County,Kentucky","Scott County,Kentucky",7651,207406
+101,"Perry County,Kentucky","Shelby County,Kentucky",9478,258682
+102,"Perry County,Kentucky","Simpson County,Kentucky",13577,370443
+103,"Perry County,Kentucky","Spencer County,Kentucky",10008,264530
+104,"Perry County,Kentucky","Taylor County,Kentucky",10194,244909
+105,"Perry County,Kentucky","Todd County,Kentucky",15163,411625
+106,"Perry County,Kentucky","Trigg County,Kentucky",17851,472910
+107,"Perry County,Kentucky","Trimble County,Kentucky",11695,305468
+108,"Perry County,Kentucky","Union County,Kentucky",19757,545884
+109,"Perry County,Kentucky","Warren County,Kentucky",12611,335392
+110,"Perry County,Kentucky","Washington County,Kentucky",10054,241271
+111,"Perry County,Kentucky","Wayne County,Kentucky",8620,201706
+112,"Perry County,Kentucky","Webster County,Kentucky",18528,512378
+113,"Perry County,Kentucky","Whitley County,Kentucky",5867,147224
+114,"Perry County,Kentucky","Wolfe County,Kentucky",3652,78180
+115,"Perry County,Kentucky","Woodford County,Kentucky",7871,210042
+116,"Perry County,Kentucky","Adams County,Ohio",12077,251755
+117,"Perry County,Kentucky","Allen County,Ohio",18024,515204
+118,"Perry County,Kentucky","Ashland County,Ohio",21129,527656
+119,"Perry County,Kentucky","Ashtabula County,Ohio",26137,759697
+120,"Perry County,Kentucky","Athens County,Ohio",13450,332050
+121,"Perry County,Kentucky","Auglaize County,Ohio",17280,502468
+122,"Perry County,Kentucky","Belmont County,Ohio",19200,548621
+123,"Perry County,Kentucky","Brown County,Ohio",11505,247032
+124,"Perry County,Kentucky","Butler County,Ohio",13102,365078
+125,"Perry County,Kentucky","Carroll County,Ohio",21130,585507
+126,"Perry County,Kentucky","Champaign County,Ohio",16058,456650
+127,"Perry County,Kentucky","Clark County,Ohio",15487,443283
+128,"Perry County,Kentucky","Clermont County,Ohio",11852,336256
+129,"Perry County,Kentucky","Clinton County,Ohio",13947,387563
+130,"Perry County,Kentucky","Columbiana County,Ohio",22972,639743
+131,"Perry County,Kentucky","Coshocton County,Ohio",19765,556624
+132,"Perry County,Kentucky","Crawford County,Ohio",20743,496114
+133,"Perry County,Kentucky","Cuyahoga County,Ohio",23166,670911
+134,"Perry County,Kentucky","Darke County,Ohio",16378,459515
+135,"Perry County,Kentucky","Defiance County,Ohio",21512,593634
+136,"Perry County,Kentucky","Delaware County,Ohio",18046,434328
+137,"Perry County,Kentucky","Fairfield County,Ohio",16590,386151
+138,"Perry County,Kentucky","Fayette County,Ohio",14846,425168
+139,"Perry County,Kentucky","Franklin County,Ohio",16563,394256
+140,"Perry County,Kentucky","Fulton County,Ohio",22275,610577
+141,"Perry County,Kentucky","Gallia County,Ohio",11408,274402
+142,"Perry County,Kentucky","Geauga County,Ohio",24238,696629
+143,"Perry County,Kentucky","Greene County,Ohio",14274,396916
+144,"Perry County,Kentucky","Guernsey County,Ohio",17316,494543
+145,"Perry County,Kentucky","Hamilton County,Ohio",11756,329562
+146,"Perry County,Kentucky","Hancock County,Ohio",19133,556099
+147,"Perry County,Kentucky","Hardin County,Ohio",18921,540496
+148,"Perry County,Kentucky","Harrison County,Ohio",20136,567573
+149,"Perry County,Kentucky","Henry County,Ohio",20857,580567
+150,"Perry County,Kentucky","Highland County,Ohio",13652,292235
+151,"Perry County,Kentucky","Hocking County,Ohio",15148,329458
+152,"Perry County,Kentucky","Holmes County,Ohio",20824,579508
+153,"Perry County,Kentucky","Huron County,Ohio",22275,526427
+154,"Perry County,Kentucky","Jackson County,Ohio",11828,279091
+155,"Perry County,Kentucky","Jefferson County,Ohio",21129,577351
+156,"Perry County,Kentucky","Knox County,Ohio",20496,493950
+157,"Perry County,Kentucky","Lawrence County,Ohio",9631,219005
+158,"Perry County,Kentucky","Licking County,Ohio",18567,442013
+159,"Perry County,Kentucky","Logan County,Ohio",17293,489187
+160,"Perry County,Kentucky","Lorain County,Ohio",24061,585081
+161,"Perry County,Kentucky","Lucas County,Ohio",22458,642619
+162,"Perry County,Kentucky","Madison County,Ohio",16067,460350
+163,"Perry County,Kentucky","Mahoning County,Ohio",23467,654547
+164,"Perry County,Kentucky","Marion County,Ohio",19177,531189
+165,"Perry County,Kentucky","Medina County,Ohio",21774,552669
+166,"Perry County,Kentucky","Meigs County,Ohio",12340,304786
+167,"Perry County,Kentucky","Mercer County,Ohio",18516,529402
+168,"Perry County,Kentucky","Miami County,Ohio",14866,424907
+169,"Perry County,Kentucky","Monroe County,Ohio",18252,483735
+170,"Perry County,Kentucky","Montgomery County,Ohio",14249,402647
+171,"Perry County,Kentucky","Morgan County,Ohio",16403,399074
+172,"Perry County,Kentucky","Morrow County,Ohio",18853,457149
+173,"Perry County,Kentucky","Muskingum County,Ohio",18117,420213
+174,"Perry County,Kentucky","Noble County,Ohio",16758,466895
+175,"Perry County,Kentucky","Paulding County,Ohio",20555,578182
+176,"Perry County,Kentucky","Perry County,Ohio",16668,397470
+177,"Perry County,Kentucky","Pickaway County,Ohio",14802,352554
+178,"Perry County,Kentucky","Pike County,Ohio",11896,281433
+179,"Perry County,Kentucky","Portage County,Ohio",22688,652493
+180,"Perry County,Kentucky","Preble County,Ohio",15146,409477
+181,"Perry County,Kentucky","Putnam County,Ohio",19199,547671
+182,"Perry County,Kentucky","Richland County,Ohio",19883,492388
+183,"Perry County,Kentucky","Ross County,Ohio",13546,318860
+184,"Perry County,Kentucky","Sandusky County,Ohio",22173,636175
+185,"Perry County,Kentucky","Scioto County,Ohio",10976,258071
+186,"Perry County,Kentucky","Seneca County,Ohio",21478,612439
+187,"Perry County,Kentucky","Shelby County,Ohio",15905,461193
+188,"Perry County,Kentucky","Stark County,Ohio",20989,600742
+189,"Perry County,Kentucky","Summit County,Ohio",21748,626530
+190,"Perry County,Kentucky","Trumbull County,Ohio",24422,680794
+191,"Perry County,Kentucky","Tuscarawas County,Ohio",19190,541330
+192,"Perry County,Kentucky","Union County,Ohio",17420,486571
+193,"Perry County,Kentucky","Van Wert County,Ohio",19189,547727
+194,"Perry County,Kentucky","Vinton County,Ohio",14087,305869
+195,"Perry County,Kentucky","Warren County,Ohio",12636,355819
+196,"Perry County,Kentucky","Washington County,Ohio",15377,376735
+197,"Perry County,Kentucky","Wayne County,Ohio",21502,541667
+198,"Perry County,Kentucky","Williams County,Ohio",22689,617150
+199,"Perry County,Kentucky","Wood County,Ohio",20221,596727
+200,"Perry County,Kentucky","Wyandot County,Ohio",19829,576979
+201,"Perry County,Kentucky","Accomack County,Virginia",35118,954134
+202,"Perry County,Kentucky","Albemarle County,Virginia",21268,566634
+203,"Perry County,Kentucky","Alleghany County,Virginia",18027,497422
+204,"Perry County,Kentucky","Amelia County,Virginia",23840,605489
+205,"Perry County,Kentucky","Amherst County,Virginia",20742,511548
+206,"Perry County,Kentucky","Appomattox County,Virginia",20917,525158
+207,"Perry County,Kentucky","Arlington County,Virginia",27952,766943
+208,"Perry County,Kentucky","Augusta County,Virginia",20690,544327
+209,"Perry County,Kentucky","Bath County,Virginia",20978,516906
+210,"Perry County,Kentucky","Bedford County,Virginia",18650,456468
+211,"Perry County,Kentucky","Bland County,Virginia",12666,306069
+212,"Perry County,Kentucky","Botetourt County,Virginia",17506,440533
+213,"Perry County,Kentucky","Brunswick County,Virginia",25811,692583
+214,"Perry County,Kentucky","Buchanan County,Virginia",8908,167009
+215,"Perry County,Kentucky","Buckingham County,Virginia",22031,549067
+216,"Perry County,Kentucky","Campbell County,Virginia",20066,497703
+217,"Perry County,Kentucky","Caroline County,Virginia",26607,735479
+218,"Perry County,Kentucky","Carroll County,Virginia",13610,337414
+219,"Perry County,Kentucky","Charles City County,Virginia",26708,732514
+220,"Perry County,Kentucky","Charlotte County,Virginia",22615,565639
+221,"Perry County,Kentucky","Chesterfield County,Virginia",25534,644379
+222,"Perry County,Kentucky","Clarke County,Virginia",25448,693691
+223,"Perry County,Kentucky","Craig County,Virginia",16766,383154
+224,"Perry County,Kentucky","Culpeper County,Virginia",25065,655850
+225,"Perry County,Kentucky","Cumberland County,Virginia",23445,586299
+226,"Perry County,Kentucky","Dickenson County,Virginia",6335,124684
+227,"Perry County,Kentucky","Dinwiddie County,Virginia",25613,648550
+228,"Perry County,Kentucky","Essex County,Virginia",28425,759522
+229,"Perry County,Kentucky","Fairfax County,Virginia",27575,757219
+230,"Perry County,Kentucky","Fauquier County,Virginia",25886,714943
+231,"Perry County,Kentucky","Floyd County,Virginia",15502,377515
+232,"Perry County,Kentucky","Fluvanna County,Virginia",22946,618805
+233,"Perry County,Kentucky","Franklin County,Virginia",18163,457701
+234,"Perry County,Kentucky","Frederick County,Virginia",24900,681418
+235,"Perry County,Kentucky","Giles County,Virginia",14815,339847
+236,"Perry County,Kentucky","Gloucester County,Virginia",28878,786702
+237,"Perry County,Kentucky","Goochland County,Virginia",23850,649416
+238,"Perry County,Kentucky","Grayson County,Virginia",13343,300582
+239,"Perry County,Kentucky","Greene County,Virginia",23261,602218
+240,"Perry County,Kentucky","Greensville County,Virginia",27007,710002
+241,"Perry County,Kentucky","Halifax County,Virginia",21913,535101
+242,"Perry County,Kentucky","Hanover County,Virginia",25056,690523
+243,"Perry County,Kentucky","Henrico County,Virginia",25567,703483
+244,"Perry County,Kentucky","Henry County,Virginia",17483,424135
+245,"Perry County,Kentucky","Highland County,Virginia",22483,582702
+246,"Perry County,Kentucky","Isle of Wight County,Virginia",29733,748671
+247,"Perry County,Kentucky","James City County,Virginia",27944,773285
+248,"Perry County,Kentucky","King and Queen County,Virginia",27602,748869
+249,"Perry County,Kentucky","King George County,Virginia",27720,763465
+250,"Perry County,Kentucky","King William County,Virginia",26289,718791
+251,"Perry County,Kentucky","Lancaster County,Virginia",30082,801876
+252,"Perry County,Kentucky","Lee County,Virginia",7145,136204
+253,"Perry County,Kentucky","Loudoun County,Virginia",26944,729558
+254,"Perry County,Kentucky","Louisa County,Virginia",23507,632511
+255,"Perry County,Kentucky","Lunenburg County,Virginia",24387,606923
+256,"Perry County,Kentucky","Madison County,Virginia",24181,631958
+257,"Perry County,Kentucky","Mathews County,Virginia",29703,810126
+258,"Perry County,Kentucky","Mecklenburg County,Virginia",23946,586647
+259,"Perry County,Kentucky","Middlesex County,Virginia",28480,782902
+260,"Perry County,Kentucky","Montgomery County,Virginia",14676,368019
+261,"Perry County,Kentucky","Nelson County,Virginia",21293,541945
+262,"Perry County,Kentucky","New Kent County,Virginia",27380,747199
+263,"Perry County,Kentucky","Northampton County,Virginia",32361,889948
+264,"Perry County,Kentucky","Northumberland County,Virginia",30122,800389
+265,"Perry County,Kentucky","Nottoway County,Virginia",23880,607303
+266,"Perry County,Kentucky","Orange County,Virginia",24469,640619
+267,"Perry County,Kentucky","Page County,Virginia",23114,615743
+268,"Perry County,Kentucky","Patrick County,Virginia",15715,382450
+269,"Perry County,Kentucky","Pittsylvania County,Virginia",19799,478343
+270,"Perry County,Kentucky","Powhatan County,Virginia",24943,621006
+271,"Perry County,Kentucky","Prince Edward County,Virginia",22495,564638
+272,"Perry County,Kentucky","Prince George County,Virginia",27268,687924
+273,"Perry County,Kentucky","Prince William County,Virginia",25986,721047
+274,"Perry County,Kentucky","Pulaski County,Virginia",13353,328835
+275,"Perry County,Kentucky","Rappahannock County,Virginia",24945,652231
+276,"Perry County,Kentucky","Richmond County,Virginia",28822,773032
+277,"Perry County,Kentucky","Roanoke County,Virginia",15457,387955
+278,"Perry County,Kentucky","Rockbridge County,Virginia",18954,484603
+279,"Perry County,Kentucky","Rockingham County,Virginia",22154,588094
+280,"Perry County,Kentucky","Russell County,Virginia",8867,177505
+281,"Perry County,Kentucky","Scott County,Virginia",7811,172137
+282,"Perry County,Kentucky","Shenandoah County,Virginia",22658,618197
+283,"Perry County,Kentucky","Smyth County,Virginia",10622,240284
+284,"Perry County,Kentucky","Southampton County,Virginia",28623,767526
+285,"Perry County,Kentucky","Spotsylvania County,Virginia",25523,674350
+286,"Perry County,Kentucky","Stafford County,Virginia",26904,698643
+287,"Perry County,Kentucky","Surry County,Virginia",28687,772146
+288,"Perry County,Kentucky","Sussex County,Virginia",27622,693681
+289,"Perry County,Kentucky","Tazewell County,Virginia",10355,230416
+290,"Perry County,Kentucky","Warren County,Virginia",24560,662790
+291,"Perry County,Kentucky","Washington County,Virginia",8733,191401
+292,"Perry County,Kentucky","Westmoreland County,Virginia",28695,780290
+293,"Perry County,Kentucky","Wise County,Virginia",4599,100583
+294,"Perry County,Kentucky","Wythe County,Virginia",11836,282744
+295,"Perry County,Kentucky","York County,Virginia",29231,804059
+296,"Perry County,Kentucky","Alexandria City County,Virginia",28155,779589
+297,"Perry County,Kentucky","Bedford City County,Virginia",17814,447899
+298,"Perry County,Kentucky","Bristol City County,Virginia",9573,212288
+299,"Perry County,Kentucky","Buena Vista City County,Virginia",18326,477091
+300,"Perry County,Kentucky","Charlottesville City County,Virginia",21737,581848
+301,"Perry County,Kentucky","Chesapeake City County,Virginia",30695,856965
+302,"Perry County,Kentucky","Clifton Forge City County,Virginia",18593,466725
+303,"Perry County,Kentucky","Colonial Heights City County,Virginia",26404,726190
+304,"Perry County,Kentucky","Covington City County,Virginia",18096,501007
+305,"Perry County,Kentucky","Danville City County,Virginia",19641,478591
+306,"Perry County,Kentucky","Emporia City County,Virginia",27163,724190
+307,"Perry County,Kentucky","Fairfax City County,Virginia",27118,746794
+308,"Perry County,Kentucky","Falls Church City County,Virginia",27450,761267
+309,"Perry County,Kentucky","Franklin City County,Virginia",29250,780660
+310,"Perry County,Kentucky","Fredericksburg City County,Virginia",26656,684009
+311,"Perry County,Kentucky","Galax City County,Virginia",14233,343281
+312,"Perry County,Kentucky","Hampton City County,Virginia",29182,813765
+313,"Perry County,Kentucky","Harrisonburg City County,Virginia",21213,567990
+314,"Perry County,Kentucky","Hopewell City County,Virginia",26440,725156
+315,"Perry County,Kentucky","Lexington City County,Virginia",18240,475418
+316,"Perry County,Kentucky","Lynchburg City County,Virginia",19839,492774
+317,"Perry County,Kentucky","Manassas City County,Virginia",26213,725991
+318,"Perry County,Kentucky","Manassas Park City County,Virginia",26716,732334
+319,"Perry County,Kentucky","Martinsville City County,Virginia",18011,432929
+320,"Perry County,Kentucky","Newport News City County,Virginia",28738,800251
+321,"Perry County,Kentucky","Norfolk City County,Virginia",30488,839181
+322,"Perry County,Kentucky","Norton City County,Virginia",5228,112394
+323,"Perry County,Kentucky","Petersburg City County,Virginia",26271,670528
+324,"Perry County,Kentucky","Poquoson City County,Virginia",29410,810828
+325,"Perry County,Kentucky","Portsmouth City County,Virginia",30427,848002
+326,"Perry County,Kentucky","Radford County,Virginia",13863,342783
+327,"Perry County,Kentucky","Richmond City County,Virginia",25143,691293
+328,"Perry County,Kentucky","Roanoke City County,Virginia",16059,408060
+329,"Perry County,Kentucky","Salem City County,Virginia",15471,394610
+330,"Perry County,Kentucky","South Boston City County,Virginia",21653,532770
+331,"Perry County,Kentucky","Staunton City County,Virginia",20030,529125
+332,"Perry County,Kentucky","Suffolk City County,Virginia",30566,813963
+333,"Perry County,Kentucky","Virginia Beach City County,Virginia",31049,862440
+334,"Perry County,Kentucky","Waynesboro City County,Virginia",20368,541843
+335,"Perry County,Kentucky","Williamsburg City County,Virginia",27782,772500
+336,"Perry County,Kentucky","Winchester City County,Virginia",24779,677562
+337,"Perry County,Kentucky","Barbour County,West Virginia",18162,496288
+338,"Perry County,Kentucky","Berkeley County,West Virginia",26095,734448
+339,"Perry County,Kentucky","Boone County,West Virginia",10710,249878
+340,"Perry County,Kentucky","Braxton County,West Virginia",14852,387268
+341,"Perry County,Kentucky","Brooke County,West Virginia",21279,590869
+342,"Perry County,Kentucky","Cabell County,West Virginia",7913,196414
+343,"Perry County,Kentucky","Calhoun County,West Virginia",14773,384952
+344,"Perry County,Kentucky","Clay County,West Virginia",13619,358180
+345,"Perry County,Kentucky","Doddridge County,West Virginia",17306,477798
+346,"Perry County,Kentucky","Fayette County,West Virginia",14907,376525
+347,"Perry County,Kentucky","Gilmer County,West Virginia",16051,409454
+348,"Perry County,Kentucky","Grant County,West Virginia",22518,597834
+349,"Perry County,Kentucky","Greenbrier County,West Virginia",17981,454563
+350,"Perry County,Kentucky","Hampshire County,West Virginia",25350,696051
+351,"Perry County,Kentucky","Hancock County,West Virginia",22869,625405
+352,"Perry County,Kentucky","Hardy County,West Virginia",23573,629331
+353,"Perry County,Kentucky","Harrison County,West Virginia",17396,482659
+354,"Perry County,Kentucky","Jackson County,West Virginia",12658,339284
+355,"Perry County,Kentucky","Jefferson County,West Virginia",26568,712175
+356,"Perry County,Kentucky","Kanawha County,West Virginia",12215,310588
+357,"Perry County,Kentucky","Lewis County,West Virginia",16025,436129
+358,"Perry County,Kentucky","Lincoln County,West Virginia",10963,225520
+359,"Perry County,Kentucky","Logan County,West Virginia",8816,206513
+360,"Perry County,Kentucky","McDowell County,West Virginia",12206,239181
+361,"Perry County,Kentucky","Marion County,West Virginia",18541,509826
+362,"Perry County,Kentucky","Marshall County,West Virginia",20666,526970
+363,"Perry County,Kentucky","Mason County,West Virginia",10894,287158
+364,"Perry County,Kentucky","Mercer County,West Virginia",13217,302807
+365,"Perry County,Kentucky","Mineral County,West Virginia",24212,626654
+366,"Perry County,Kentucky","Mingo County,West Virginia",7500,172966
+367,"Perry County,Kentucky","Monongalia County,West Virginia",18752,535295
+368,"Perry County,Kentucky","Monroe County,West Virginia",15680,352206
+369,"Perry County,Kentucky","Morgan County,West Virginia",25587,723839
+370,"Perry County,Kentucky","Nicholas County,West Virginia",15335,418061
+371,"Perry County,Kentucky","Ohio County,West Virginia",20298,572106
+372,"Perry County,Kentucky","Pendleton County,West Virginia",22849,600458
+373,"Perry County,Kentucky","Pleasants County,West Virginia",16140,437136
+374,"Perry County,Kentucky","Pocahontas County,West Virginia",20665,487600
+375,"Perry County,Kentucky","Preston County,West Virginia",20898,562026
+376,"Perry County,Kentucky","Putnam County,West Virginia",9596,249191
+377,"Perry County,Kentucky","Raleigh County,West Virginia",14024,287075
+378,"Perry County,Kentucky","Randolph County,West Virginia",18527,498584
+379,"Perry County,Kentucky","Ritchie County,West Virginia",16471,450840
+380,"Perry County,Kentucky","Roane County,West Virginia",14283,368099
+381,"Perry County,Kentucky","Summers County,West Virginia",15772,347745
+382,"Perry County,Kentucky","Taylor County,West Virginia",18434,505399
+383,"Perry County,Kentucky","Tucker County,West Virginia",19594,529109
+384,"Perry County,Kentucky","Tyler County,West Virginia",18049,476751
+385,"Perry County,Kentucky","Upshur County,West Virginia",17590,450826
+386,"Perry County,Kentucky","Wayne County,West Virginia",7242,166211
+387,"Perry County,Kentucky","Webster County,West Virginia",17520,445141
+388,"Perry County,Kentucky","Wetzel County,West Virginia",19261,498658
+389,"Perry County,Kentucky","Wirt County,West Virginia",14924,396622
+390,"Perry County,Kentucky","Wood County,West Virginia",14438,398311
+391,"Perry County,Kentucky","Wyoming County,West Virginia",11786,245453

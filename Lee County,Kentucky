@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Lee County,Kentucky","Adair County,Kentucky",8476,196117
+1,"Lee County,Kentucky","Allen County,Kentucky",11672,291759
+2,"Lee County,Kentucky","Anderson County,Kentucky",6696,178649
+3,"Lee County,Kentucky","Ballard County,Kentucky",19675,568420
+4,"Lee County,Kentucky","Barren County,Kentucky",10221,255145
+5,"Lee County,Kentucky","Bath County,Kentucky",4397,87855
+6,"Lee County,Kentucky","Bell County,Kentucky",7266,132726
+7,"Lee County,Kentucky","Boone County,Kentucky",8405,230357
+8,"Lee County,Kentucky","Bourbon County,Kentucky",4699,112212
+9,"Lee County,Kentucky","Boyd County,Kentucky",7568,166428
+10,"Lee County,Kentucky","Boyle County,Kentucky",6764,121362
+11,"Lee County,Kentucky","Bracken County,Kentucky",8445,182932
+12,"Lee County,Kentucky","Breathitt County,Kentucky",2754,49792
+13,"Lee County,Kentucky","Breckinridge County,Kentucky",12230,331330
+14,"Lee County,Kentucky","Bullitt County,Kentucky",8800,252449
+15,"Lee County,Kentucky","Butler County,Kentucky",12895,353328
+16,"Lee County,Kentucky","Caldwell County,Kentucky",15787,459273
+17,"Lee County,Kentucky","Calloway County,Kentucky",18597,544266
+18,"Lee County,Kentucky","Campbell County,Kentucky",8393,197031
+19,"Lee County,Kentucky","Carlisle County,Kentucky",20132,583788
+20,"Lee County,Kentucky","Carroll County,Kentucky",9241,226463
+21,"Lee County,Kentucky","Carter County,Kentucky",6885,142574
+22,"Lee County,Kentucky","Casey County,Kentucky",7888,151328
+23,"Lee County,Kentucky","Christian County,Kentucky",15436,454530
+24,"Lee County,Kentucky","Clay County,Kentucky",3517,65024
+25,"Lee County,Kentucky","Clinton County,Kentucky",8883,199483
+26,"Lee County,Kentucky","Crittenden County,Kentucky",17366,492343
+27,"Lee County,Kentucky","Cumberland County,Kentucky",9637,217722
+28,"Lee County,Kentucky","Daviess County,Kentucky",13918,399770
+29,"Lee County,Kentucky","Edmonson County,Kentucky",11750,299305
+30,"Lee County,Kentucky","Elliott County,Kentucky",5516,114899
+31,"Lee County,Kentucky","Estill County,Kentucky",2016,33394
+32,"Lee County,Kentucky","Fayette County,Kentucky",4504,116142
+33,"Lee County,Kentucky","Fleming County,Kentucky",6149,131847
+34,"Lee County,Kentucky","Floyd County,Kentucky",5482,128213
+35,"Lee County,Kentucky","Franklin County,Kentucky",6541,165058
+36,"Lee County,Kentucky","Fulton County,Kentucky",20536,604752
+37,"Lee County,Kentucky","Gallatin County,Kentucky",8239,217122
+38,"Lee County,Kentucky","Garrard County,Kentucky",5576,100583
+39,"Lee County,Kentucky","Grant County,Kentucky",7038,191229
+40,"Lee County,Kentucky","Graves County,Kentucky",19157,556494
+41,"Lee County,Kentucky","Grayson County,Kentucky",11222,309964
+42,"Lee County,Kentucky","Green County,Kentucky",10228,238282
+43,"Lee County,Kentucky","Greenup County,Kentucky",8389,182077
+44,"Lee County,Kentucky","Hancock County,Kentucky",13025,364223
+45,"Lee County,Kentucky","Hardin County,Kentucky",10098,272096
+46,"Lee County,Kentucky","Harlan County,Kentucky",8465,165466
+47,"Lee County,Kentucky","Harrison County,Kentucky",6011,140551
+48,"Lee County,Kentucky","Hart County,Kentucky",10898,299725
+49,"Lee County,Kentucky","Henderson County,Kentucky",15724,452200
+50,"Lee County,Kentucky","Henry County,Kentucky",8143,208776
+51,"Lee County,Kentucky","Hickman County,Kentucky",20165,585080
+52,"Lee County,Kentucky","Hopkins County,Kentucky",15245,433741
+53,"Lee County,Kentucky","Jackson County,Kentucky",3001,53181
+54,"Lee County,Kentucky","Jefferson County,Kentucky",8236,224310
+55,"Lee County,Kentucky","Jessamine County,Kentucky",5686,111325
+56,"Lee County,Kentucky","Johnson County,Kentucky",4436,104206
+57,"Lee County,Kentucky","Kenton County,Kentucky",8291,226073
+58,"Lee County,Kentucky","Knott County,Kentucky",5179,110794
+59,"Lee County,Kentucky","Knox County,Kentucky",5544,111632
+60,"Lee County,Kentucky","Larue County,Kentucky",10170,259272
+61,"Lee County,Kentucky","Laurel County,Kentucky",4759,93475
+62,"Lee County,Kentucky","Lawrence County,Kentucky",6556,144551
+63,"Lee County,Kentucky","Leslie County,Kentucky",5493,110373
+64,"Lee County,Kentucky","Letcher County,Kentucky",6432,135767
+65,"Lee County,Kentucky","Lewis County,Kentucky",7501,167904
+66,"Lee County,Kentucky","Lincoln County,Kentucky",6286,117501
+67,"Lee County,Kentucky","Livingston County,Kentucky",17962,509240
+68,"Lee County,Kentucky","Logan County,Kentucky",13623,357037
+69,"Lee County,Kentucky","Lyon County,Kentucky",18096,519631
+70,"Lee County,Kentucky","McCracken County,Kentucky",18287,536480
+71,"Lee County,Kentucky","McCreary County,Kentucky",7228,163875
+72,"Lee County,Kentucky","Madison County,Kentucky",3881,68259
+73,"Lee County,Kentucky","Magoffin County,Kentucky",3905,86074
+74,"Lee County,Kentucky","Marion County,Kentucky",8446,162782
+75,"Lee County,Kentucky","Marshall County,Kentucky",17702,520052
+76,"Lee County,Kentucky","Martin County,Kentucky",7222,162552
+77,"Lee County,Kentucky","Mason County,Kentucky",7852,162964
+78,"Lee County,Kentucky","Meade County,Kentucky",10697,296625
+79,"Lee County,Kentucky","Menifee County,Kentucky",3804,64137
+80,"Lee County,Kentucky","Mercer County,Kentucky",6924,176593
+81,"Lee County,Kentucky","Metcalfe County,Kentucky",9132,226382
+82,"Lee County,Kentucky","Monroe County,Kentucky",11101,263886
+83,"Lee County,Kentucky","Montgomery County,Kentucky",3699,76111
+84,"Lee County,Kentucky","Morgan County,Kentucky",3295,74358
+85,"Lee County,Kentucky","Muhlenberg County,Kentucky",14106,400217
+86,"Lee County,Kentucky","Nelson County,Kentucky",8155,219953
+87,"Lee County,Kentucky","Nicholas County,Kentucky",6005,140132
+88,"Lee County,Kentucky","Ohio County,Kentucky",13019,367807
+89,"Lee County,Kentucky","Oldham County,Kentucky",8308,236191
+90,"Lee County,Kentucky","Owen County,Kentucky",7363,191835
+91,"Lee County,Kentucky","Owsley County,Kentucky",1522,22713
+92,"Lee County,Kentucky","Pendleton County,Kentucky",7571,177678
+93,"Lee County,Kentucky","Perry County,Kentucky",4331,87299
+94,"Lee County,Kentucky","Pike County,Kentucky",7162,158537
+95,"Lee County,Kentucky","Powell County,Kentucky",2462,47400
+96,"Lee County,Kentucky","Robertson County,Kentucky",6775,161258
+97,"Lee County,Kentucky","Rockcastle County,Kentucky",5391,110885
+98,"Lee County,Kentucky","Rowan County,Kentucky",5289,123397
+99,"Lee County,Kentucky","Russell County,Kentucky",8080,180101
+100,"Lee County,Kentucky","Scott County,Kentucky",5338,144168
+101,"Lee County,Kentucky","Shelby County,Kentucky",7165,195445
+102,"Lee County,Kentucky","Simpson County,Kentucky",13213,345911
+103,"Lee County,Kentucky","Spencer County,Kentucky",7695,201293
+104,"Lee County,Kentucky","Taylor County,Kentucky",9743,182590
+105,"Lee County,Kentucky","Todd County,Kentucky",14799,387092
+106,"Lee County,Kentucky","Trigg County,Kentucky",16849,480459
+107,"Lee County,Kentucky","Trimble County,Kentucky",9381,242231
+108,"Lee County,Kentucky","Union County,Kentucky",17444,482646
+109,"Lee County,Kentucky","Warren County,Kentucky",12247,310859
+110,"Lee County,Kentucky","Washington County,Kentucky",8166,205189
+111,"Lee County,Kentucky","Wayne County,Kentucky",8256,177174
+112,"Lee County,Kentucky","Webster County,Kentucky",16354,461830
+113,"Lee County,Kentucky","Whitley County,Kentucky",5592,127960
+114,"Lee County,Kentucky","Wolfe County,Kentucky",2170,41179
+115,"Lee County,Kentucky","Woodford County,Kentucky",5558,146804
+116,"Lee County,Kentucky","Adams County,Ohio",9760,197171
+117,"Lee County,Kentucky","Allen County,Ohio",15711,451966
+118,"Lee County,Kentucky","Ashland County,Ohio",18899,553844
+119,"Lee County,Kentucky","Ashtabula County,Ohio",24646,738596
+120,"Lee County,Kentucky","Athens County,Ohio",13895,324447
+121,"Lee County,Kentucky","Auglaize County,Ohio",14967,439231
+122,"Lee County,Kentucky","Belmont County,Ohio",19646,541018
+123,"Lee County,Kentucky","Brown County,Ohio",9187,192448
+124,"Lee County,Kentucky","Butler County,Ohio",10788,301840
+125,"Lee County,Kentucky","Carroll County,Ohio",21576,577904
+126,"Lee County,Kentucky","Champaign County,Ohio",13745,393413
+127,"Lee County,Kentucky","Clark County,Ohio",13173,380046
+128,"Lee County,Kentucky","Clermont County,Ohio",9539,273019
+129,"Lee County,Kentucky","Clinton County,Ohio",11633,324325
+130,"Lee County,Kentucky","Columbiana County,Ohio",23417,632139
+131,"Lee County,Kentucky","Coshocton County,Ohio",18760,532916
+132,"Lee County,Kentucky","Crawford County,Ohio",18437,545816
+133,"Lee County,Kentucky","Cuyahoga County,Ohio",21217,636309
+134,"Lee County,Kentucky","Darke County,Ohio",14064,396278
+135,"Lee County,Kentucky","Defiance County,Ohio",19198,530396
+136,"Lee County,Kentucky","Delaware County,Ohio",15817,460516
+137,"Lee County,Kentucky","Fairfield County,Ohio",15220,443765
+138,"Lee County,Kentucky","Fayette County,Ohio",12532,361930
+139,"Lee County,Kentucky","Franklin County,Ohio",14334,420443
+140,"Lee County,Kentucky","Fulton County,Ohio",19961,547340
+141,"Lee County,Kentucky","Gallia County,Ohio",11853,266799
+142,"Lee County,Kentucky","Geauga County,Ohio",22746,675527
+143,"Lee County,Kentucky","Greene County,Ohio",11960,333679
+144,"Lee County,Kentucky","Guernsey County,Ohio",17761,486940
+145,"Lee County,Kentucky","Hamilton County,Ohio",9443,266325
+146,"Lee County,Kentucky","Hancock County,Ohio",16820,492862
+147,"Lee County,Kentucky","Hardin County,Ohio",16607,477259
+148,"Lee County,Kentucky","Harrison County,Ohio",20581,559970
+149,"Lee County,Kentucky","Henry County,Ohio",18544,517330
+150,"Lee County,Kentucky","Highland County,Ohio",11335,237651
+151,"Lee County,Kentucky","Hocking County,Ohio",15037,317685
+152,"Lee County,Kentucky","Holmes County,Ohio",20311,569774
+153,"Lee County,Kentucky","Huron County,Ohio",20046,552614
+154,"Lee County,Kentucky","Jackson County,Ohio",11404,249994
+155,"Lee County,Kentucky","Jefferson County,Ohio",21574,569748
+156,"Lee County,Kentucky","Knox County,Ohio",18266,520138
+157,"Lee County,Kentucky","Lawrence County,Ohio",9974,202856
+158,"Lee County,Kentucky","Licking County,Ohio",16599,475361
+159,"Lee County,Kentucky","Logan County,Ohio",14979,425950
+160,"Lee County,Kentucky","Lorain County,Ohio",21831,611268
+161,"Lee County,Kentucky","Lucas County,Ohio",20145,579381
+162,"Lee County,Kentucky","Madison County,Ohio",13754,397112
+163,"Lee County,Kentucky","Mahoning County,Ohio",23615,690227
+164,"Lee County,Kentucky","Marion County,Ohio",16864,467951
+165,"Lee County,Kentucky","Medina County,Ohio",19545,578857
+166,"Lee County,Kentucky","Meigs County,Ohio",12785,297183
+167,"Lee County,Kentucky","Mercer County,Ohio",16203,466165
+168,"Lee County,Kentucky","Miami County,Ohio",12553,361670
+169,"Lee County,Kentucky","Monroe County,Ohio",18697,476131
+170,"Lee County,Kentucky","Montgomery County,Ohio",11936,339410
+171,"Lee County,Kentucky","Morgan County,Ohio",16849,391471
+172,"Lee County,Kentucky","Morrow County,Ohio",16624,483337
+173,"Lee County,Kentucky","Muskingum County,Ohio",16817,500113
+174,"Lee County,Kentucky","Noble County,Ohio",17203,459292
+175,"Lee County,Kentucky","Paulding County,Ohio",18242,514944
+176,"Lee County,Kentucky","Perry County,Ohio",16994,356277
+177,"Lee County,Kentucky","Pickaway County,Ohio",14221,328869
+178,"Lee County,Kentucky","Pike County,Ohio",11183,253995
+179,"Lee County,Kentucky","Portage County,Ohio",22067,650007
+180,"Lee County,Kentucky","Preble County,Ohio",12833,346239
+181,"Lee County,Kentucky","Putnam County,Ohio",16885,484434
+182,"Lee County,Kentucky","Richland County,Ohio",17654,518575
+183,"Lee County,Kentucky","Ross County,Ohio",12965,295175
+184,"Lee County,Kentucky","Sandusky County,Ohio",19860,572937
+185,"Lee County,Kentucky","Scioto County,Ohio",10517,229020
+186,"Lee County,Kentucky","Seneca County,Ohio",19164,549201
+187,"Lee County,Kentucky","Shelby County,Ohio",13591,397955
+188,"Lee County,Kentucky","Stark County,Ohio",21435,593139
+189,"Lee County,Kentucky","Summit County,Ohio",20748,614184
+190,"Lee County,Kentucky","Trumbull County,Ohio",23648,700499
+191,"Lee County,Kentucky","Tuscarawas County,Ohio",19635,533726
+192,"Lee County,Kentucky","Union County,Ohio",15106,423334
+193,"Lee County,Kentucky","Van Wert County,Ohio",16876,484489
+194,"Lee County,Kentucky","Vinton County,Ohio",13975,294096
+195,"Lee County,Kentucky","Warren County,Ohio",10322,292581
+196,"Lee County,Kentucky","Washington County,Ohio",15822,369132
+197,"Lee County,Kentucky","Wayne County,Ohio",19273,567854
+198,"Lee County,Kentucky","Williams County,Ohio",20375,553913
+199,"Lee County,Kentucky","Wood County,Ohio",17908,533490
+200,"Lee County,Kentucky","Wyandot County,Ohio",17515,513742
+201,"Lee County,Kentucky","Accomack County,Virginia",37653,1040296
+202,"Lee County,Kentucky","Albemarle County,Virginia",23803,652796
+203,"Lee County,Kentucky","Alleghany County,Virginia",18472,489819
+204,"Lee County,Kentucky","Amelia County,Virginia",27497,683518
+205,"Lee County,Kentucky","Amherst County,Virginia",23801,620784
+206,"Lee County,Kentucky","Appomattox County,Virginia",24574,603187
+207,"Lee County,Kentucky","Arlington County,Virginia",30086,848827
+208,"Lee County,Kentucky","Augusta County,Virginia",22414,591135
+209,"Lee County,Kentucky","Bath County,Virginia",21484,565128
+210,"Lee County,Kentucky","Bedford County,Virginia",22307,534497
+211,"Lee County,Kentucky","Bland County,Virginia",16336,366616
+212,"Lee County,Kentucky","Botetourt County,Virginia",21163,518561
+213,"Lee County,Kentucky","Brunswick County,Virginia",29468,770612
+214,"Lee County,Kentucky","Buchanan County,Virginia",11214,238043
+215,"Lee County,Kentucky","Buckingham County,Virginia",25688,627096
+216,"Lee County,Kentucky","Campbell County,Virginia",23723,575732
+217,"Lee County,Kentucky","Caroline County,Virginia",29142,821641
+218,"Lee County,Kentucky","Carroll County,Virginia",17267,415443
+219,"Lee County,Kentucky","Charles City County,Virginia",29243,818676
+220,"Lee County,Kentucky","Charlotte County,Virginia",26272,643668
+221,"Lee County,Kentucky","Chesterfield County,Virginia",28379,796460
+222,"Lee County,Kentucky","Clarke County,Virginia",27983,779853
+223,"Lee County,Kentucky","Craig County,Virginia",19868,447556
+224,"Lee County,Kentucky","Culpeper County,Virginia",27600,742012
+225,"Lee County,Kentucky","Cumberland County,Virginia",26887,698481
+226,"Lee County,Kentucky","Dickenson County,Virginia",9992,202713
+227,"Lee County,Kentucky","Dinwiddie County,Virginia",29270,726579
+228,"Lee County,Kentucky","Essex County,Virginia",30960,845684
+229,"Lee County,Kentucky","Fairfax County,Virginia",29777,839495
+230,"Lee County,Kentucky","Fauquier County,Virginia",28421,801105
+231,"Lee County,Kentucky","Floyd County,Virginia",19159,455544
+232,"Lee County,Kentucky","Fluvanna County,Virginia",25481,704967
+233,"Lee County,Kentucky","Franklin County,Virginia",21819,535730
+234,"Lee County,Kentucky","Frederick County,Virginia",26648,693988
+235,"Lee County,Kentucky","Giles County,Virginia",17918,404249
+236,"Lee County,Kentucky","Gloucester County,Virginia",31413,872864
+237,"Lee County,Kentucky","Goochland County,Virginia",26385,735578
+238,"Lee County,Kentucky","Grayson County,Virginia",16999,378611
+239,"Lee County,Kentucky","Greene County,Virginia",25796,688380
+240,"Lee County,Kentucky","Greensville County,Virginia",30664,788031
+241,"Lee County,Kentucky","Halifax County,Virginia",25570,613130
+242,"Lee County,Kentucky","Hanover County,Virginia",27591,776685
+243,"Lee County,Kentucky","Henrico County,Virginia",28102,789645
+244,"Lee County,Kentucky","Henry County,Virginia",21140,502164
+245,"Lee County,Kentucky","Highland County,Virginia",22928,575099
+246,"Lee County,Kentucky","Isle of Wight County,Virginia",32354,894222
+247,"Lee County,Kentucky","James City County,Virginia",30479,859447
+248,"Lee County,Kentucky","King and Queen County,Virginia",30137,835031
+249,"Lee County,Kentucky","King George County,Virginia",30255,849627
+250,"Lee County,Kentucky","King William County,Virginia",28824,804953
+251,"Lee County,Kentucky","Lancaster County,Virginia",32617,888038
+252,"Lee County,Kentucky","Lee County,Virginia",10086,195646
+253,"Lee County,Kentucky","Loudoun County,Virginia",29479,815720
+254,"Lee County,Kentucky","Louisa County,Virginia",26042,718673
+255,"Lee County,Kentucky","Lunenburg County,Virginia",28044,684952
+256,"Lee County,Kentucky","Madison County,Virginia",26716,718120
+257,"Lee County,Kentucky","Mathews County,Virginia",32238,896287
+258,"Lee County,Kentucky","Mecklenburg County,Virginia",27602,664676
+259,"Lee County,Kentucky","Middlesex County,Virginia",31015,869064
+260,"Lee County,Kentucky","Montgomery County,Virginia",18333,446048
+261,"Lee County,Kentucky","Nelson County,Virginia",24342,632475
+262,"Lee County,Kentucky","New Kent County,Virginia",29915,833361
+263,"Lee County,Kentucky","Northampton County,Virginia",34896,976110
+264,"Lee County,Kentucky","Northumberland County,Virginia",32657,886551
+265,"Lee County,Kentucky","Nottoway County,Virginia",27537,685332
+266,"Lee County,Kentucky","Orange County,Virginia",27004,726781
+267,"Lee County,Kentucky","Page County,Virginia",25649,701905
+268,"Lee County,Kentucky","Patrick County,Virginia",19372,460479
+269,"Lee County,Kentucky","Pittsylvania County,Virginia",23456,556372
+270,"Lee County,Kentucky","Powhatan County,Virginia",27638,760800
+271,"Lee County,Kentucky","Prince Edward County,Virginia",26152,642667
+272,"Lee County,Kentucky","Prince George County,Virginia",29889,833475
+273,"Lee County,Kentucky","Prince William County,Virginia",28521,807209
+274,"Lee County,Kentucky","Pulaski County,Virginia",17009,406864
+275,"Lee County,Kentucky","Rappahannock County,Virginia",27481,738393
+276,"Lee County,Kentucky","Richmond County,Virginia",31357,859194
+277,"Lee County,Kentucky","Roanoke County,Virginia",19113,465984
+278,"Lee County,Kentucky","Rockbridge County,Virginia",20805,558175
+279,"Lee County,Kentucky","Rockingham County,Virginia",24689,674256
+280,"Lee County,Kentucky","Russell County,Virginia",12524,255534
+281,"Lee County,Kentucky","Scott County,Virginia",11468,250166
+282,"Lee County,Kentucky","Shenandoah County,Virginia",25193,704359
+283,"Lee County,Kentucky","Smyth County,Virginia",14279,318313
+284,"Lee County,Kentucky","Southampton County,Virginia",31920,891757
+285,"Lee County,Kentucky","Spotsylvania County,Virginia",28058,760512
+286,"Lee County,Kentucky","Stafford County,Virginia",29439,784805
+287,"Lee County,Kentucky","Surry County,Virginia",31222,858308
+288,"Lee County,Kentucky","Sussex County,Virginia",30584,861999
+289,"Lee County,Kentucky","Tazewell County,Virginia",13458,294818
+290,"Lee County,Kentucky","Warren County,Virginia",27096,748952
+291,"Lee County,Kentucky","Washington County,Virginia",12390,269430
+292,"Lee County,Kentucky","Westmoreland County,Virginia",31230,866452
+293,"Lee County,Kentucky","Wise County,Virginia",8256,178612
+294,"Lee County,Kentucky","Wythe County,Virginia",15493,360773
+295,"Lee County,Kentucky","York County,Virginia",31767,890221
+296,"Lee County,Kentucky","Alexandria City County,Virginia",30602,866009
+297,"Lee County,Kentucky","Bedford City County,Virginia",21471,525928
+298,"Lee County,Kentucky","Bristol City County,Virginia",13230,290317
+299,"Lee County,Kentucky","Buena Vista City County,Virginia",21160,572152
+300,"Lee County,Kentucky","Charlottesville City County,Virginia",24272,668010
+301,"Lee County,Kentucky","Chesapeake City County,Virginia",33230,943127
+302,"Lee County,Kentucky","Clifton Forge City County,Virginia",19016,510025
+303,"Lee County,Kentucky","Colonial Heights City County,Virginia",28939,812352
+304,"Lee County,Kentucky","Covington City County,Virginia",18541,493404
+305,"Lee County,Kentucky","Danville City County,Virginia",23298,556620
+306,"Lee County,Kentucky","Emporia City County,Virginia",30820,802219
+307,"Lee County,Kentucky","Fairfax City County,Virginia",29653,832956
+308,"Lee County,Kentucky","Falls Church City County,Virginia",29794,843139
+309,"Lee County,Kentucky","Franklin City County,Virginia",32467,899611
+310,"Lee County,Kentucky","Fredericksburg City County,Virginia",29191,770171
+311,"Lee County,Kentucky","Galax City County,Virginia",17890,421309
+312,"Lee County,Kentucky","Hampton City County,Virginia",31717,899927
+313,"Lee County,Kentucky","Harrisonburg City County,Virginia",23748,654152
+314,"Lee County,Kentucky","Hopewell City County,Virginia",28975,811318
+315,"Lee County,Kentucky","Lexington City County,Virginia",20794,560643
+316,"Lee County,Kentucky","Lynchburg City County,Virginia",23496,570803
+317,"Lee County,Kentucky","Manassas City County,Virginia",28748,812153
+318,"Lee County,Kentucky","Manassas Park City County,Virginia",29251,818496
+319,"Lee County,Kentucky","Martinsville City County,Virginia",21668,510958
+320,"Lee County,Kentucky","Newport News City County,Virginia",31273,886413
+321,"Lee County,Kentucky","Norfolk City County,Virginia",33023,925343
+322,"Lee County,Kentucky","Norton City County,Virginia",8885,190423
+323,"Lee County,Kentucky","Petersburg City County,Virginia",28810,813340
+324,"Lee County,Kentucky","Poquoson City County,Virginia",31945,896990
+325,"Lee County,Kentucky","Portsmouth City County,Virginia",32962,934164
+326,"Lee County,Kentucky","Radford County,Virginia",17520,420812
+327,"Lee County,Kentucky","Richmond City County,Virginia",27678,777455
+328,"Lee County,Kentucky","Roanoke City County,Virginia",19716,486089
+329,"Lee County,Kentucky","Salem City County,Virginia",19127,472639
+330,"Lee County,Kentucky","South Boston City County,Virginia",25310,610798
+331,"Lee County,Kentucky","Staunton City County,Virginia",22565,615287
+332,"Lee County,Kentucky","Suffolk City County,Virginia",33197,908946
+333,"Lee County,Kentucky","Virginia Beach City County,Virginia",33584,948602
+334,"Lee County,Kentucky","Waynesboro City County,Virginia",22903,628005
+335,"Lee County,Kentucky","Williamsburg City County,Virginia",30317,858662
+336,"Lee County,Kentucky","Winchester City County,Virginia",27127,727989
+337,"Lee County,Kentucky","Barbour County,West Virginia",18608,488685
+338,"Lee County,Kentucky","Berkeley County,West Virginia",26541,726845
+339,"Lee County,Kentucky","Boone County,West Virginia",12110,272671
+340,"Lee County,Kentucky","Braxton County,West Virginia",15298,379665
+341,"Lee County,Kentucky","Brooke County,West Virginia",21725,583266
+342,"Lee County,Kentucky","Cabell County,West Virginia",8358,188811
+343,"Lee County,Kentucky","Calhoun County,West Virginia",15219,377349
+344,"Lee County,Kentucky","Clay County,West Virginia",14065,350577
+345,"Lee County,Kentucky","Doddridge County,West Virginia",17751,470195
+346,"Lee County,Kentucky","Fayette County,West Virginia",15352,368922
+347,"Lee County,Kentucky","Gilmer County,West Virginia",16497,401851
+348,"Lee County,Kentucky","Grant County,West Virginia",22963,590231
+349,"Lee County,Kentucky","Greenbrier County,West Virginia",18426,446960
+350,"Lee County,Kentucky","Hampshire County,West Virginia",25795,688448
+351,"Lee County,Kentucky","Hancock County,West Virginia",23314,617801
+352,"Lee County,Kentucky","Hardy County,West Virginia",24019,621728
+353,"Lee County,Kentucky","Harrison County,West Virginia",17841,475056
+354,"Lee County,Kentucky","Jackson County,West Virginia",13103,331681
+355,"Lee County,Kentucky","Jefferson County,West Virginia",28007,782843
+356,"Lee County,Kentucky","Kanawha County,West Virginia",12661,302985
+357,"Lee County,Kentucky","Lewis County,West Virginia",16471,428526
+358,"Lee County,Kentucky","Lincoln County,West Virginia",11443,232890
+359,"Lee County,Kentucky","Logan County,West Virginia",10216,229306
+360,"Lee County,Kentucky","McDowell County,West Virginia",14068,281495
+361,"Lee County,Kentucky","Marion County,West Virginia",18987,502223
+362,"Lee County,Kentucky","Marshall County,West Virginia",21111,519367
+363,"Lee County,Kentucky","Mason County,West Virginia",11340,279555
+364,"Lee County,Kentucky","Mercer County,West Virginia",15988,414545
+365,"Lee County,Kentucky","Mineral County,West Virginia",24658,619051
+366,"Lee County,Kentucky","Mingo County,West Virginia",8900,195759
+367,"Lee County,Kentucky","Monongalia County,West Virginia",19197,527692
+368,"Lee County,Kentucky","Monroe County,West Virginia",18783,416608
+369,"Lee County,Kentucky","Morgan County,West Virginia",26032,716236
+370,"Lee County,Kentucky","Nicholas County,West Virginia",15781,410458
+371,"Lee County,Kentucky","Ohio County,West Virginia",20744,564503
+372,"Lee County,Kentucky","Pendleton County,West Virginia",23294,592855
+373,"Lee County,Kentucky","Pleasants County,West Virginia",16586,429533
+374,"Lee County,Kentucky","Pocahontas County,West Virginia",21110,479997
+375,"Lee County,Kentucky","Preston County,West Virginia",21343,554423
+376,"Lee County,Kentucky","Putnam County,West Virginia",10042,241588
+377,"Lee County,Kentucky","Raleigh County,West Virginia",14529,368237
+378,"Lee County,Kentucky","Randolph County,West Virginia",18972,490981
+379,"Lee County,Kentucky","Ritchie County,West Virginia",16916,443237
+380,"Lee County,Kentucky","Roane County,West Virginia",14729,360496
+381,"Lee County,Kentucky","Summers County,West Virginia",17981,429675
+382,"Lee County,Kentucky","Taylor County,West Virginia",18879,497796
+383,"Lee County,Kentucky","Tucker County,West Virginia",20039,521506
+384,"Lee County,Kentucky","Tyler County,West Virginia",18495,469148
+385,"Lee County,Kentucky","Upshur County,West Virginia",18036,443223
+386,"Lee County,Kentucky","Wayne County,West Virginia",7722,173580
+387,"Lee County,Kentucky","Webster County,West Virginia",17965,437538
+388,"Lee County,Kentucky","Wetzel County,West Virginia",19707,491054
+389,"Lee County,Kentucky","Wirt County,West Virginia",15370,389019
+390,"Lee County,Kentucky","Wood County,West Virginia",14884,390708
+391,"Lee County,Kentucky","Wyoming County,West Virginia",13648,287767

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Elliott County,Kentucky","Adair County,Kentucky",12353,296915
+1,"Elliott County,Kentucky","Allen County,Kentucky",14972,397563
+2,"Elliott County,Kentucky","Anderson County,Kentucky",8153,199954
+3,"Elliott County,Kentucky","Ballard County,Kentucky",21132,589725
+4,"Elliott County,Kentucky","Barren County,Kentucky",14099,355942
+5,"Elliott County,Kentucky","Bath County,Kentucky",3801,71135
+6,"Elliott County,Kentucky","Bell County,Kentucky",12295,255982
+7,"Elliott County,Kentucky","Boone County,Kentucky",9861,251662
+8,"Elliott County,Kentucky","Bourbon County,Kentucky",5714,117553
+9,"Elliott County,Kentucky","Boyd County,Kentucky",2942,60369
+10,"Elliott County,Kentucky","Boyle County,Kentucky",9382,203841
+11,"Elliott County,Kentucky","Bracken County,Kentucky",6959,136311
+12,"Elliott County,Kentucky","Breathitt County,Kentucky",5158,99661
+13,"Elliott County,Kentucky","Breckinridge County,Kentucky",13687,352635
+14,"Elliott County,Kentucky","Bullitt County,Kentucky",10256,273755
+15,"Elliott County,Kentucky","Butler County,Kentucky",14351,374633
+16,"Elliott County,Kentucky","Caldwell County,Kentucky",17243,480578
+17,"Elliott County,Kentucky","Calloway County,Kentucky",20053,565571
+18,"Elliott County,Kentucky","Campbell County,Kentucky",8659,176183
+19,"Elliott County,Kentucky","Carlisle County,Kentucky",21589,605094
+20,"Elliott County,Kentucky","Carroll County,Kentucky",10698,247769
+21,"Elliott County,Kentucky","Carter County,Kentucky",2259,36515
+22,"Elliott County,Kentucky","Casey County,Kentucky",10877,235346
+23,"Elliott County,Kentucky","Christian County,Kentucky",16892,475835
+24,"Elliott County,Kentucky","Clay County,Kentucky",8750,176974
+25,"Elliott County,Kentucky","Clinton County,Kentucky",12761,300280
+26,"Elliott County,Kentucky","Crittenden County,Kentucky",18823,513649
+27,"Elliott County,Kentucky","Cumberland County,Kentucky",13515,318519
+28,"Elliott County,Kentucky","Daviess County,Kentucky",15374,421076
+29,"Elliott County,Kentucky","Edmonson County,Kentucky",13792,362508
+30,"Elliott County,Kentucky","Estill County,Kentucky",6623,148910
+31,"Elliott County,Kentucky","Fayette County,Kentucky",5960,137447
+32,"Elliott County,Kentucky","Fleming County,Kentucky",4176,74292
+33,"Elliott County,Kentucky","Floyd County,Kentucky",5538,103580
+34,"Elliott County,Kentucky","Franklin County,Kentucky",7998,186363
+35,"Elliott County,Kentucky","Fulton County,Kentucky",21993,626058
+36,"Elliott County,Kentucky","Gallatin County,Kentucky",9696,238427
+37,"Elliott County,Kentucky","Garrard County,Kentucky",8565,184600
+38,"Elliott County,Kentucky","Grant County,Kentucky",8495,212535
+39,"Elliott County,Kentucky","Graves County,Kentucky",20613,577800
+40,"Elliott County,Kentucky","Grayson County,Kentucky",12679,331269
+41,"Elliott County,Kentucky","Green County,Kentucky",12458,296474
+42,"Elliott County,Kentucky","Greenup County,Kentucky",3763,76018
+43,"Elliott County,Kentucky","Hancock County,Kentucky",14482,385528
+44,"Elliott County,Kentucky","Hardin County,Kentucky",11555,293402
+45,"Elliott County,Kentucky","Harlan County,Kentucky",11618,236299
+46,"Elliott County,Kentucky","Harrison County,Kentucky",7285,150652
+47,"Elliott County,Kentucky","Hart County,Kentucky",12354,321030
+48,"Elliott County,Kentucky","Henderson County,Kentucky",17181,473505
+49,"Elliott County,Kentucky","Henry County,Kentucky",9599,230082
+50,"Elliott County,Kentucky","Hickman County,Kentucky",21622,606385
+51,"Elliott County,Kentucky","Hopkins County,Kentucky",16702,455047
+52,"Elliott County,Kentucky","Jackson County,Kentucky",8234,165132
+53,"Elliott County,Kentucky","Jefferson County,Kentucky",9693,245615
+54,"Elliott County,Kentucky","Jessamine County,Kentucky",7429,158911
+55,"Elliott County,Kentucky","Johnson County,Kentucky",4098,68951
+56,"Elliott County,Kentucky","Kenton County,Kentucky",9816,204898
+57,"Elliott County,Kentucky","Knott County,Kentucky",6720,135462
+58,"Elliott County,Kentucky","Knox County,Kentucky",10776,223582
+59,"Elliott County,Kentucky","Larue County,Kentucky",11627,280578
+60,"Elliott County,Kentucky","Laurel County,Kentucky",9820,234888
+61,"Elliott County,Kentucky","Lawrence County,Kentucky",3277,51688
+62,"Elliott County,Kentucky","Lee County,Kentucky",5608,114686
+63,"Elliott County,Kentucky","Leslie County,Kentucky",8646,181206
+64,"Elliott County,Kentucky","Letcher County,Kentucky",8575,173071
+65,"Elliott County,Kentucky","Lewis County,Kentucky",3976,68891
+66,"Elliott County,Kentucky","Lincoln County,Kentucky",9275,201519
+67,"Elliott County,Kentucky","Livingston County,Kentucky",19419,530545
+68,"Elliott County,Kentucky","Logan County,Kentucky",16092,417871
+69,"Elliott County,Kentucky","Lyon County,Kentucky",19552,540936
+70,"Elliott County,Kentucky","McCracken County,Kentucky",19744,557785
+71,"Elliott County,Kentucky","McCreary County,Kentucky",11925,279330
+72,"Elliott County,Kentucky","Madison County,Kentucky",6959,148470
+73,"Elliott County,Kentucky","Magoffin County,Kentucky",4661,81304
+74,"Elliott County,Kentucky","Marion County,Kentucky",10004,242187
+75,"Elliott County,Kentucky","Marshall County,Kentucky",19159,541357
+76,"Elliott County,Kentucky","Martin County,Kentucky",6346,103227
+77,"Elliott County,Kentucky","Mason County,Kentucky",6307,115857
+78,"Elliott County,Kentucky","Meade County,Kentucky",12154,317930
+79,"Elliott County,Kentucky","Menifee County,Kentucky",4530,79015
+80,"Elliott County,Kentucky","Mercer County,Kentucky",8381,197898
+81,"Elliott County,Kentucky","Metcalfe County,Kentucky",13009,327180
+82,"Elliott County,Kentucky","Monroe County,Kentucky",14979,364684
+83,"Elliott County,Kentucky","Montgomery County,Kentucky",4613,89676
+84,"Elliott County,Kentucky","Morgan County,Kentucky",2665,46414
+85,"Elliott County,Kentucky","Muhlenberg County,Kentucky",15562,421522
+86,"Elliott County,Kentucky","Nelson County,Kentucky",9612,241258
+87,"Elliott County,Kentucky","Nicholas County,Kentucky",6241,117530
+88,"Elliott County,Kentucky","Ohio County,Kentucky",14475,389112
+89,"Elliott County,Kentucky","Oldham County,Kentucky",9765,257497
+90,"Elliott County,Kentucky","Owen County,Kentucky",8820,213140
+91,"Elliott County,Kentucky","Owsley County,Kentucky",6755,134663
+92,"Elliott County,Kentucky","Pendleton County,Kentucky",8618,164200
+93,"Elliott County,Kentucky","Perry County,Kentucky",6769,139544
+94,"Elliott County,Kentucky","Pike County,Kentucky",7218,133904
+95,"Elliott County,Kentucky","Powell County,Kentucky",5508,117164
+96,"Elliott County,Kentucky","Robertson County,Kentucky",6158,117036
+97,"Elliott County,Kentucky","Rockcastle County,Kentucky",8393,189613
+98,"Elliott County,Kentucky","Rowan County,Kentucky",2594,38751
+99,"Elliott County,Kentucky","Russell County,Kentucky",11958,280899
+100,"Elliott County,Kentucky","Scott County,Kentucky",6795,165474
+101,"Elliott County,Kentucky","Shelby County,Kentucky",8622,216750
+102,"Elliott County,Kentucky","Simpson County,Kentucky",15673,425929
+103,"Elliott County,Kentucky","Spencer County,Kentucky",9151,222598
+104,"Elliott County,Kentucky","Taylor County,Kentucky",11294,273683
+105,"Elliott County,Kentucky","Todd County,Kentucky",17328,442032
+106,"Elliott County,Kentucky","Trigg County,Kentucky",18306,501764
+107,"Elliott County,Kentucky","Trimble County,Kentucky",10838,263536
+108,"Elliott County,Kentucky","Union County,Kentucky",18901,503952
+109,"Elliott County,Kentucky","Warren County,Kentucky",14708,390877
+110,"Elliott County,Kentucky","Washington County,Kentucky",9622,226495
+111,"Elliott County,Kentucky","Wayne County,Kentucky",12134,277971
+112,"Elliott County,Kentucky","Webster County,Kentucky",17811,483135
+113,"Elliott County,Kentucky","Whitley County,Kentucky",10653,269373
+114,"Elliott County,Kentucky","Wolfe County,Kentucky",3760,69776
+115,"Elliott County,Kentucky","Woodford County,Kentucky",7014,168110
+116,"Elliott County,Kentucky","Adams County,Ohio",8215,150064
+117,"Elliott County,Kentucky","Allen County,Ohio",16884,405025
+118,"Elliott County,Kentucky","Ashland County,Ohio",15952,396713
+119,"Elliott County,Kentucky","Ashtabula County,Ohio",21698,581465
+120,"Elliott County,Kentucky","Athens County,Ohio",9270,218388
+121,"Elliott County,Kentucky","Auglaize County,Ohio",16134,421725
+122,"Elliott County,Kentucky","Belmont County,Ohio",15020,434959
+123,"Elliott County,Kentucky","Brown County,Ohio",7643,145341
+124,"Elliott County,Kentucky","Butler County,Ohio",11986,264758
+125,"Elliott County,Kentucky","Carroll County,Ohio",16950,471845
+126,"Elliott County,Kentucky","Champaign County,Ohio",13438,323823
+127,"Elliott County,Kentucky","Clark County,Ohio",12117,283367
+128,"Elliott County,Kentucky","Clermont County,Ohio",9464,186742
+129,"Elliott County,Kentucky","Clinton County,Ohio",10340,205231
+130,"Elliott County,Kentucky","Columbiana County,Ohio",18791,526080
+131,"Elliott County,Kentucky","Coshocton County,Ohio",15551,368625
+132,"Elliott County,Kentucky","Crawford County,Ohio",15566,365171
+133,"Elliott County,Kentucky","Cuyahoga County,Ohio",18270,479178
+134,"Elliott County,Kentucky","Darke County,Ohio",15231,378772
+135,"Elliott County,Kentucky","Defiance County,Ohio",20320,483346
+136,"Elliott County,Kentucky","Delaware County,Ohio",12869,303385
+137,"Elliott County,Kentucky","Fairfield County,Ohio",11413,255208
+138,"Elliott County,Kentucky","Fayette County,Ohio",10185,241512
+139,"Elliott County,Kentucky","Franklin County,Ohio",11386,263313
+140,"Elliott County,Kentucky","Fulton County,Ohio",20657,520740
+141,"Elliott County,Kentucky","Gallia County,Ohio",7228,160740
+142,"Elliott County,Kentucky","Geauga County,Ohio",19798,518397
+143,"Elliott County,Kentucky","Greene County,Ohio",11055,274665
+144,"Elliott County,Kentucky","Guernsey County,Ohio",13136,380881
+145,"Elliott County,Kentucky","Hamilton County,Ohio",10641,229243
+146,"Elliott County,Kentucky","Hancock County,Ohio",16743,406263
+147,"Elliott County,Kentucky","Hardin County,Ohio",15395,360855
+148,"Elliott County,Kentucky","Harrison County,Ohio",15955,453911
+149,"Elliott County,Kentucky","Henry County,Ohio",19456,477885
+150,"Elliott County,Kentucky","Highland County,Ohio",9121,195688
+151,"Elliott County,Kentucky","Hocking County,Ohio",10411,211626
+152,"Elliott County,Kentucky","Holmes County,Ohio",16644,465846
+153,"Elliott County,Kentucky","Huron County,Ohio",17098,395484
+154,"Elliott County,Kentucky","Jackson County,Ohio",6778,143935
+155,"Elliott County,Kentucky","Jefferson County,Ohio",16949,463689
+156,"Elliott County,Kentucky","Knox County,Ohio",15319,363007
+157,"Elliott County,Kentucky","Lawrence County,Ohio",5349,96797
+158,"Elliott County,Kentucky","Licking County,Ohio",13390,311070
+159,"Elliott County,Kentucky","Logan County,Ohio",14416,355132
+160,"Elliott County,Kentucky","Lorain County,Ohio",18884,454138
+161,"Elliott County,Kentucky","Lucas County,Ohio",20378,493763
+162,"Elliott County,Kentucky","Madison County,Ohio",11886,264597
+163,"Elliott County,Kentucky","Mahoning County,Ohio",19287,540885
+164,"Elliott County,Kentucky","Marion County,Ohio",14126,324001
+165,"Elliott County,Kentucky","Medina County,Ohio",16597,421726
+166,"Elliott County,Kentucky","Meigs County,Ohio",8160,191124
+167,"Elliott County,Kentucky","Mercer County,Ohio",17370,448659
+168,"Elliott County,Kentucky","Miami County,Ohio",13720,344164
+169,"Elliott County,Kentucky","Monroe County,Ohio",14072,370072
+170,"Elliott County,Kentucky","Montgomery County,Ohio",13089,322120
+171,"Elliott County,Kentucky","Morgan County,Ohio",12223,285412
+172,"Elliott County,Kentucky","Morrow County,Ohio",13676,326206
+173,"Elliott County,Kentucky","Muskingum County,Ohio",13608,335822
+174,"Elliott County,Kentucky","Noble County,Ohio",12577,353233
+175,"Elliott County,Kentucky","Paulding County,Ohio",19421,480931
+176,"Elliott County,Kentucky","Perry County,Ohio",12368,250218
+177,"Elliott County,Kentucky","Pickaway County,Ohio",9625,221611
+178,"Elliott County,Kentucky","Pike County,Ohio",6587,146738
+179,"Elliott County,Kentucky","Portage County,Ohio",18508,538831
+180,"Elliott County,Kentucky","Preble County,Ohio",14031,309157
+181,"Elliott County,Kentucky","Putnam County,Ohio",18007,437384
+182,"Elliott County,Kentucky","Richland County,Ohio",14706,361445
+183,"Elliott County,Kentucky","Ross County,Ohio",8369,187917
+184,"Elliott County,Kentucky","Sandusky County,Ohio",18499,424958
+185,"Elliott County,Kentucky","Scioto County,Ohio",5892,122961
+186,"Elliott County,Kentucky","Seneca County,Ohio",17117,398843
+187,"Elliott County,Kentucky","Shelby County,Ohio",14758,380450
+188,"Elliott County,Kentucky","Stark County,Ohio",16809,487080
+189,"Elliott County,Kentucky","Summit County,Ohio",17567,512868
+190,"Elliott County,Kentucky","Trumbull County,Ohio",20242,567132
+191,"Elliott County,Kentucky","Tuscarawas County,Ohio",15009,427667
+192,"Elliott County,Kentucky","Union County,Ohio",12920,305363
+193,"Elliott County,Kentucky","Van Wert County,Ohio",18118,447895
+194,"Elliott County,Kentucky","Vinton County,Ohio",9350,188037
+195,"Elliott County,Kentucky","Warren County,Ohio",11439,221494
+196,"Elliott County,Kentucky","Washington County,Ohio",11196,263073
+197,"Elliott County,Kentucky","Wayne County,Ohio",16325,410724
+198,"Elliott County,Kentucky","Williams County,Ohio",21497,506863
+199,"Elliott County,Kentucky","Wood County,Ohio",18141,447871
+200,"Elliott County,Kentucky","Wyandot County,Ohio",15713,370399
+201,"Elliott County,Kentucky","Accomack County,Virginia",33028,934237
+202,"Elliott County,Kentucky","Albemarle County,Virginia",19177,546737
+203,"Elliott County,Kentucky","Alleghany County,Virginia",13846,383760
+204,"Elliott County,Kentucky","Amelia County,Virginia",23878,646855
+205,"Elliott County,Kentucky","Amherst County,Virginia",19175,514725
+206,"Elliott County,Kentucky","Appomattox County,Virginia",20768,553484
+207,"Elliott County,Kentucky","Arlington County,Virginia",25460,742768
+208,"Elliott County,Kentucky","Augusta County,Virginia",17788,485076
+209,"Elliott County,Kentucky","Bath County,Virginia",16858,459069
+210,"Elliott County,Kentucky","Bedford County,Virginia",19435,500850
+211,"Elliott County,Kentucky","Bland County,Virginia",12808,349979
+212,"Elliott County,Kentucky","Botetourt County,Virginia",17001,455059
+213,"Elliott County,Kentucky","Brunswick County,Virginia",26421,696528
+214,"Elliott County,Kentucky","Buchanan County,Virginia",11270,213410
+215,"Elliott County,Kentucky","Buckingham County,Virginia",21051,564420
+216,"Elliott County,Kentucky","Campbell County,Virginia",20692,555956
+217,"Elliott County,Kentucky","Caroline County,Virginia",24517,715582
+218,"Elliott County,Kentucky","Carroll County,Virginia",15054,419417
+219,"Elliott County,Kentucky","Charles City County,Virginia",24617,712617
+220,"Elliott County,Kentucky","Charlotte County,Virginia",22653,607005
+221,"Elliott County,Kentucky","Chesterfield County,Virginia",23753,690401
+222,"Elliott County,Kentucky","Clarke County,Virginia",23357,673794
+223,"Elliott County,Kentucky","Craig County,Virginia",15489,404844
+224,"Elliott County,Kentucky","Culpeper County,Virginia",22974,635953
+225,"Elliott County,Kentucky","Cumberland County,Virginia",22261,592422
+226,"Elliott County,Kentucky","Dickenson County,Virginia",11078,218907
+227,"Elliott County,Kentucky","Dinwiddie County,Virginia",25500,740832
+228,"Elliott County,Kentucky","Essex County,Virginia",26334,739625
+229,"Elliott County,Kentucky","Fairfax County,Virginia",25151,733436
+230,"Elliott County,Kentucky","Fauquier County,Virginia",23795,695046
+231,"Elliott County,Kentucky","Floyd County,Virginia",16675,438381
+232,"Elliott County,Kentucky","Fluvanna County,Virginia",20855,598908
+233,"Elliott County,Kentucky","Franklin County,Virginia",18948,502084
+234,"Elliott County,Kentucky","Frederick County,Virginia",22023,587929
+235,"Elliott County,Kentucky","Giles County,Virginia",13539,361537
+236,"Elliott County,Kentucky","Gloucester County,Virginia",26788,766805
+237,"Elliott County,Kentucky","Goochland County,Virginia",21759,629519
+238,"Elliott County,Kentucky","Grayson County,Virginia",15456,409124
+239,"Elliott County,Kentucky","Greene County,Virginia",21170,582321
+240,"Elliott County,Kentucky","Greensville County,Virginia",26916,789584
+241,"Elliott County,Kentucky","Halifax County,Virginia",23357,617104
+242,"Elliott County,Kentucky","Hanover County,Virginia",22965,670626
+243,"Elliott County,Kentucky","Henrico County,Virginia",23476,683586
+244,"Elliott County,Kentucky","Henry County,Virginia",18927,506138
+245,"Elliott County,Kentucky","Highland County,Virginia",18303,469040
+246,"Elliott County,Kentucky","Isle of Wight County,Virginia",27729,788163
+247,"Elliott County,Kentucky","James City County,Virginia",25853,753388
+248,"Elliott County,Kentucky","King and Queen County,Virginia",25511,728972
+249,"Elliott County,Kentucky","King George County,Virginia",25630,743568
+250,"Elliott County,Kentucky","King William County,Virginia",24199,698894
+251,"Elliott County,Kentucky","Lancaster County,Virginia",27991,781979
+252,"Elliott County,Kentucky","Lee County,Virginia",12378,267423
+253,"Elliott County,Kentucky","Loudoun County,Virginia",24853,709661
+254,"Elliott County,Kentucky","Louisa County,Virginia",21416,612614
+255,"Elliott County,Kentucky","Lunenburg County,Virginia",24425,648289
+256,"Elliott County,Kentucky","Madison County,Virginia",22090,612061
+257,"Elliott County,Kentucky","Mathews County,Virginia",27613,790229
+258,"Elliott County,Kentucky","Mecklenburg County,Virginia",25416,661413
+259,"Elliott County,Kentucky","Middlesex County,Virginia",26389,763005
+260,"Elliott County,Kentucky","Montgomery County,Virginia",14622,389544
+261,"Elliott County,Kentucky","Nelson County,Virginia",19716,526416
+262,"Elliott County,Kentucky","New Kent County,Virginia",25289,727302
+263,"Elliott County,Kentucky","Northampton County,Virginia",30270,870051
+264,"Elliott County,Kentucky","Northumberland County,Virginia",28031,780492
+265,"Elliott County,Kentucky","Nottoway County,Virginia",23918,648669
+266,"Elliott County,Kentucky","Orange County,Virginia",22379,620722
+267,"Elliott County,Kentucky","Page County,Virginia",21024,595846
+268,"Elliott County,Kentucky","Patrick County,Virginia",17159,464452
+269,"Elliott County,Kentucky","Pittsylvania County,Virginia",21243,560346
+270,"Elliott County,Kentucky","Powhatan County,Virginia",23012,654741
+271,"Elliott County,Kentucky","Prince Edward County,Virginia",22533,606004
+272,"Elliott County,Kentucky","Prince George County,Virginia",25264,727416
+273,"Elliott County,Kentucky","Prince William County,Virginia",23895,701150
+274,"Elliott County,Kentucky","Pulaski County,Virginia",14717,385876
+275,"Elliott County,Kentucky","Rappahannock County,Virginia",22855,632334
+276,"Elliott County,Kentucky","Richmond County,Virginia",26731,753135
+277,"Elliott County,Kentucky","Roanoke County,Virginia",16242,432338
+278,"Elliott County,Kentucky","Rockbridge County,Virginia",16179,452116
+279,"Elliott County,Kentucky","Rockingham County,Virginia",20063,568197
+280,"Elliott County,Kentucky","Russell County,Virginia",12801,231959
+281,"Elliott County,Kentucky","Scott County,Virginia",12554,266360
+282,"Elliott County,Kentucky","Shenandoah County,Virginia",20567,598300
+283,"Elliott County,Kentucky","Smyth County,Virginia",15166,415331
+284,"Elliott County,Kentucky","Southampton County,Virginia",27294,785698
+285,"Elliott County,Kentucky","Spotsylvania County,Virginia",23432,654453
+286,"Elliott County,Kentucky","Stafford County,Virginia",24813,678746
+287,"Elliott County,Kentucky","Surry County,Virginia",26597,752249
+288,"Elliott County,Kentucky","Sussex County,Virginia",25958,755940
+289,"Elliott County,Kentucky","Tazewell County,Virginia",13514,270185
+290,"Elliott County,Kentucky","Warren County,Virginia",22470,642893
+291,"Elliott County,Kentucky","Washington County,Virginia",13476,285625
+292,"Elliott County,Kentucky","Westmoreland County,Virginia",26604,760393
+293,"Elliott County,Kentucky","Wise County,Virginia",9343,194806
+294,"Elliott County,Kentucky","Wythe County,Virginia",13413,368196
+295,"Elliott County,Kentucky","York County,Virginia",27141,784162
+296,"Elliott County,Kentucky","Alexandria City County,Virginia",25976,759950
+297,"Elliott County,Kentucky","Bedford City County,Virginia",18599,492282
+298,"Elliott County,Kentucky","Bristol City County,Virginia",14316,306511
+299,"Elliott County,Kentucky","Buena Vista City County,Virginia",16534,466093
+300,"Elliott County,Kentucky","Charlottesville City County,Virginia",19647,561951
+301,"Elliott County,Kentucky","Chesapeake City County,Virginia",28604,837068
+302,"Elliott County,Kentucky","Clifton Forge City County,Virginia",14390,403966
+303,"Elliott County,Kentucky","Colonial Heights City County,Virginia",24313,706293
+304,"Elliott County,Kentucky","Covington City County,Virginia",13915,387345
+305,"Elliott County,Kentucky","Danville City County,Virginia",21085,560593
+306,"Elliott County,Kentucky","Emporia City County,Virginia",26624,776177
+307,"Elliott County,Kentucky","Fairfax City County,Virginia",25028,726897
+308,"Elliott County,Kentucky","Falls Church City County,Virginia",25169,737080
+309,"Elliott County,Kentucky","Franklin City County,Virginia",27842,793552
+310,"Elliott County,Kentucky","Fredericksburg City County,Virginia",24565,664112
+311,"Elliott County,Kentucky","Galax City County,Virginia",15677,425283
+312,"Elliott County,Kentucky","Hampton City County,Virginia",27091,793868
+313,"Elliott County,Kentucky","Harrisonburg City County,Virginia",19122,548093
+314,"Elliott County,Kentucky","Hopewell City County,Virginia",24349,705259
+315,"Elliott County,Kentucky","Lexington City County,Virginia",16168,454584
+316,"Elliott County,Kentucky","Lynchburg City County,Virginia",19751,529699
+317,"Elliott County,Kentucky","Manassas City County,Virginia",24123,706094
+318,"Elliott County,Kentucky","Manassas Park City County,Virginia",24625,712437
+319,"Elliott County,Kentucky","Martinsville City County,Virginia",19455,514931
+320,"Elliott County,Kentucky","Newport News City County,Virginia",26648,780354
+321,"Elliott County,Kentucky","Norfolk City County,Virginia",28397,819284
+322,"Elliott County,Kentucky","Norton City County,Virginia",9971,206618
+323,"Elliott County,Kentucky","Petersburg City County,Virginia",24185,707281
+324,"Elliott County,Kentucky","Poquoson City County,Virginia",27319,790931
+325,"Elliott County,Kentucky","Portsmouth City County,Virginia",28336,828105
+326,"Elliott County,Kentucky","Radford County,Virginia",15030,387585
+327,"Elliott County,Kentucky","Richmond City County,Virginia",23053,671396
+328,"Elliott County,Kentucky","Roanoke City County,Virginia",16844,452443
+329,"Elliott County,Kentucky","Salem City County,Virginia",16256,438992
+330,"Elliott County,Kentucky","South Boston City County,Virginia",23097,614772
+331,"Elliott County,Kentucky","Staunton City County,Virginia",17939,509228
+332,"Elliott County,Kentucky","Suffolk City County,Virginia",28572,802887
+333,"Elliott County,Kentucky","Virginia Beach City County,Virginia",28958,842543
+334,"Elliott County,Kentucky","Waynesboro City County,Virginia",18277,521946
+335,"Elliott County,Kentucky","Williamsburg City County,Virginia",25692,752603
+336,"Elliott County,Kentucky","Winchester City County,Virginia",22501,621930
+337,"Elliott County,Kentucky","Barbour County,West Virginia",13982,382626
+338,"Elliott County,Kentucky","Berkeley County,West Virginia",21915,620786
+339,"Elliott County,Kentucky","Boone County,West Virginia",9161,216243
+340,"Elliott County,Kentucky","Braxton County,West Virginia",10672,273606
+341,"Elliott County,Kentucky","Brooke County,West Virginia",17099,477207
+342,"Elliott County,Kentucky","Cabell County,West Virginia",3733,82752
+343,"Elliott County,Kentucky","Calhoun County,West Virginia",10593,271290
+344,"Elliott County,Kentucky","Clay County,West Virginia",9439,244518
+345,"Elliott County,Kentucky","Doddridge County,West Virginia",13126,364136
+346,"Elliott County,Kentucky","Fayette County,West Virginia",10726,262863
+347,"Elliott County,Kentucky","Gilmer County,West Virginia",11871,295792
+348,"Elliott County,Kentucky","Grant County,West Virginia",18338,484172
+349,"Elliott County,Kentucky","Greenbrier County,West Virginia",13801,340901
+350,"Elliott County,Kentucky","Hampshire County,West Virginia",21169,582389
+351,"Elliott County,Kentucky","Hancock County,West Virginia",18689,511742
+352,"Elliott County,Kentucky","Hardy County,West Virginia",19393,515669
+353,"Elliott County,Kentucky","Harrison County,West Virginia",13216,368997
+354,"Elliott County,Kentucky","Jackson County,West Virginia",8477,225622
+355,"Elliott County,Kentucky","Jefferson County,West Virginia",23381,676784
+356,"Elliott County,Kentucky","Kanawha County,West Virginia",8035,196926
+357,"Elliott County,Kentucky","Lewis County,West Virginia",11845,322467
+358,"Elliott County,Kentucky","Lincoln County,West Virginia",6950,140402
+359,"Elliott County,Kentucky","Logan County,West Virginia",9341,169981
+360,"Elliott County,Kentucky","McDowell County,West Virginia",13746,243047
+361,"Elliott County,Kentucky","Marion County,West Virginia",14361,396164
+362,"Elliott County,Kentucky","Marshall County,West Virginia",16486,413308
+363,"Elliott County,Kentucky","Mason County,West Virginia",6714,173496
+364,"Elliott County,Kentucky","Mercer County,West Virginia",11362,308486
+365,"Elliott County,Kentucky","Mineral County,West Virginia",20032,512992
+366,"Elliott County,Kentucky","Mingo County,West Virginia",8024,136434
+367,"Elliott County,Kentucky","Monongalia County,West Virginia",14572,421633
+368,"Elliott County,Kentucky","Monroe County,West Virginia",14407,353197
+369,"Elliott County,Kentucky","Morgan County,West Virginia",21407,610177
+370,"Elliott County,Kentucky","Nicholas County,West Virginia",11155,304399
+371,"Elliott County,Kentucky","Ohio County,West Virginia",16118,458444
+372,"Elliott County,Kentucky","Pendleton County,West Virginia",18669,486796
+373,"Elliott County,Kentucky","Pleasants County,West Virginia",11960,323474
+374,"Elliott County,Kentucky","Pocahontas County,West Virginia",16485,373938
+375,"Elliott County,Kentucky","Preston County,West Virginia",16717,448364
+376,"Elliott County,Kentucky","Putnam County,West Virginia",5416,135529
+377,"Elliott County,Kentucky","Raleigh County,West Virginia",9903,262178
+378,"Elliott County,Kentucky","Randolph County,West Virginia",14347,384922
+379,"Elliott County,Kentucky","Ritchie County,West Virginia",12291,337178
+380,"Elliott County,Kentucky","Roane County,West Virginia",10103,254437
+381,"Elliott County,Kentucky","Summers County,West Virginia",13355,323616
+382,"Elliott County,Kentucky","Taylor County,West Virginia",14254,391737
+383,"Elliott County,Kentucky","Tucker County,West Virginia",15414,415447
+384,"Elliott County,Kentucky","Tyler County,West Virginia",13869,363089
+385,"Elliott County,Kentucky","Upshur County,West Virginia",13410,337164
+386,"Elliott County,Kentucky","Wayne County,West Virginia",5263,103947
+387,"Elliott County,Kentucky","Webster County,West Virginia",13340,331479
+388,"Elliott County,Kentucky","Wetzel County,West Virginia",15081,384995
+389,"Elliott County,Kentucky","Wirt County,West Virginia",10744,282960
+390,"Elliott County,Kentucky","Wood County,West Virginia",10258,284649
+391,"Elliott County,Kentucky","Wyoming County,West Virginia",11848,302120

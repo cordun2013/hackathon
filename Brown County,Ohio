@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Brown County,Ohio","Adair County,Kentucky",13178,331248
+1,"Brown County,Ohio","Allen County,Kentucky",15273,398605
+2,"Brown County,Ohio","Anderson County,Kentucky",8535,201714
+3,"Brown County,Ohio","Ballard County,Kentucky",21433,590767
+4,"Brown County,Ohio","Barren County,Kentucky",14400,367018
+5,"Brown County,Ohio","Bath County,Kentucky",5703,111710
+6,"Brown County,Ohio","Bell County,Kentucky",13632,336086
+7,"Brown County,Ohio","Boone County,Kentucky",4887,103383
+8,"Brown County,Ohio","Bourbon County,Kentucky",4831,109021
+9,"Brown County,Ohio","Boyd County,Kentucky",7014,160251
+10,"Brown County,Ohio","Boyle County,Kentucky",9608,218765
+11,"Brown County,Ohio","Bracken County,Kentucky",3275,66700
+12,"Brown County,Ohio","Breathitt County,Kentucky",10006,222773
+13,"Brown County,Ohio","Breckinridge County,Kentucky",13233,345363
+14,"Brown County,Ohio","Bullitt County,Kentucky",9769,266194
+15,"Brown County,Ohio","Butler County,Kentucky",14653,375675
+16,"Brown County,Ohio","Caldwell County,Kentucky",17545,481621
+17,"Brown County,Ohio","Calloway County,Kentucky",20355,566613
+18,"Brown County,Ohio","Campbell County,Kentucky",4517,92537
+19,"Brown County,Ohio","Carlisle County,Kentucky",21890,606136
+20,"Brown County,Ohio","Carroll County,Kentucky",6461,165148
+21,"Brown County,Ohio","Carter County,Kentucky",6438,142938
+22,"Brown County,Ohio","Casey County,Kentucky",11532,248894
+23,"Brown County,Ohio","Christian County,Kentucky",17194,476877
+24,"Brown County,Ohio","Clay County,Kentucky",11863,295130
+25,"Brown County,Ohio","Clinton County,Kentucky",13585,334614
+26,"Brown County,Ohio","Crittenden County,Kentucky",19124,514691
+27,"Brown County,Ohio","Cumberland County,Kentucky",14339,352853
+28,"Brown County,Ohio","Daviess County,Kentucky",14545,408681
+29,"Brown County,Ohio","Edmonson County,Kentucky",14093,363550
+30,"Brown County,Ohio","Elliott County,Kentucky",7705,145337
+31,"Brown County,Ohio","Estill County,Kentucky",8041,163154
+32,"Brown County,Ohio","Fayette County,Kentucky",6261,138489
+33,"Brown County,Ohio","Fleming County,Kentucky",3790,73851
+34,"Brown County,Ohio","Floyd County,Kentucky",11240,231192
+35,"Brown County,Ohio","Franklin County,Kentucky",8442,176513
+36,"Brown County,Ohio","Fulton County,Kentucky",22294,627100
+37,"Brown County,Ohio","Gallatin County,Kentucky",5672,137561
+38,"Brown County,Ohio","Garrard County,Kentucky",9390,218934
+39,"Brown County,Ohio","Grant County,Kentucky",5739,138035
+40,"Brown County,Ohio","Graves County,Kentucky",20915,578842
+41,"Brown County,Ohio","Grayson County,Kentucky",12980,332311
+42,"Brown County,Ohio","Green County,Kentucky",12760,297516
+43,"Brown County,Ohio","Greenup County,Kentucky",6012,134164
+44,"Brown County,Ohio","Hancock County,Kentucky",13430,363199
+45,"Brown County,Ohio","Hardin County,Kentucky",11856,294444
+46,"Brown County,Ohio","Harlan County,Kentucky",15926,391691
+47,"Brown County,Ohio","Harrison County,Kentucky",5718,118605
+48,"Brown County,Ohio","Hart County,Kentucky",12656,322072
+49,"Brown County,Ohio","Henderson County,Kentucky",16129,451176
+50,"Brown County,Ohio","Henry County,Kentucky",7647,193471
+51,"Brown County,Ohio","Hickman County,Kentucky",21923,607428
+52,"Brown County,Ohio","Hopkins County,Kentucky",17003,456089
+53,"Brown County,Ohio","Jackson County,Kentucky",10375,238916
+54,"Brown County,Ohio","Jefferson County,Kentucky",8863,235630
+55,"Brown County,Ohio","Jessamine County,Kentucky",7807,166712
+56,"Brown County,Ohio","Johnson County,Kentucky",10194,207185
+57,"Brown County,Ohio","Kenton County,Kentucky",4256,91077
+58,"Brown County,Ohio","Knott County,Kentucky",12422,263074
+59,"Brown County,Ohio","Knox County,Kentucky",11793,297826
+60,"Brown County,Ohio","Larue County,Kentucky",11928,281620
+61,"Brown County,Ohio","Laurel County,Kentucky",10644,269221
+62,"Brown County,Ohio","Lawrence County,Kentucky",8951,187355
+63,"Brown County,Ohio","Lee County,Kentucky",9255,199230
+64,"Brown County,Ohio","Leslie County,Kentucky",13495,304318
+65,"Brown County,Ohio","Letcher County,Kentucky",13719,311124
+66,"Brown County,Ohio","Lewis County,Kentucky",4650,85507
+67,"Brown County,Ohio","Lincoln County,Kentucky",10100,235852
+68,"Brown County,Ohio","Livingston County,Kentucky",19720,531588
+69,"Brown County,Ohio","Logan County,Kentucky",16393,418914
+70,"Brown County,Ohio","Lyon County,Kentucky",19854,541978
+71,"Brown County,Ohio","McCracken County,Kentucky",20045,558827
+72,"Brown County,Ohio","McCreary County,Kentucky",12749,313663
+73,"Brown County,Ohio","Madison County,Kentucky",7783,182803
+74,"Brown County,Ohio","Magoffin County,Kentucky",9663,189052
+75,"Brown County,Ohio","Marion County,Kentucky",10306,243229
+76,"Brown County,Ohio","Marshall County,Kentucky",19460,542399
+77,"Brown County,Ohio","Martin County,Kentucky",10885,253130
+78,"Brown County,Ohio","Mason County,Kentucky",2824,51198
+79,"Brown County,Ohio","Meade County,Kentucky",11309,302871
+80,"Brown County,Ohio","Menifee County,Kentucky",7064,136838
+81,"Brown County,Ohio","Mercer County,Kentucky",8682,198940
+82,"Brown County,Ohio","Metcalfe County,Kentucky",13834,361513
+83,"Brown County,Ohio","Monroe County,Kentucky",15866,361426
+84,"Brown County,Ohio","Montgomery County,Kentucky",6200,122913
+85,"Brown County,Ohio","Morgan County,Kentucky",7667,154162
+86,"Brown County,Ohio","Muhlenberg County,Kentucky",15864,422565
+87,"Brown County,Ohio","Nelson County,Kentucky",9913,242301
+88,"Brown County,Ohio","Nicholas County,Kentucky",4010,87020
+89,"Brown County,Ohio","Ohio County,Kentucky",14777,390154
+90,"Brown County,Ohio","Oldham County,Kentucky",7762,206576
+91,"Brown County,Ohio","Owen County,Kentucky",6904,163950
+92,"Brown County,Ohio","Owsley County,Kentucky",10402,219207
+93,"Brown County,Ohio","Pendleton County,Kentucky",5213,107624
+94,"Brown County,Ohio","Perry County,Kentucky",11618,262656
+95,"Brown County,Ohio","Pike County,Kentucky",12920,261516
+96,"Brown County,Ohio","Powell County,Kentucky",7492,149916
+97,"Brown County,Ohio","Robertson County,Kentucky",3927,86526
+98,"Brown County,Ohio","Rockcastle County,Kentucky",9217,223946
+99,"Brown County,Ohio","Rowan County,Kentucky",5276,107213
+100,"Brown County,Ohio","Russell County,Kentucky",12783,315232
+101,"Brown County,Ohio","Scott County,Kentucky",6671,147088
+102,"Brown County,Ohio","Shelby County,Kentucky",9004,218510
+103,"Brown County,Ohio","Simpson County,Kentucky",15975,426971
+104,"Brown County,Ohio","Spencer County,Kentucky",9533,224358
+105,"Brown County,Ohio","Taylor County,Kentucky",11595,274725
+106,"Brown County,Ohio","Todd County,Kentucky",17629,443074
+107,"Brown County,Ohio","Trigg County,Kentucky",18607,502806
+108,"Brown County,Ohio","Trimble County,Kentucky",7360,188472
+109,"Brown County,Ohio","Union County,Kentucky",17849,481622
+110,"Brown County,Ohio","Warren County,Kentucky",15009,391919
+111,"Brown County,Ohio","Washington County,Kentucky",9923,227537
+112,"Brown County,Ohio","Wayne County,Kentucky",12959,312305
+113,"Brown County,Ohio","Webster County,Kentucky",17772,487798
+114,"Brown County,Ohio","Whitley County,Kentucky",11477,303706
+115,"Brown County,Ohio","Wolfe County,Kentucky",8761,177524
+116,"Brown County,Ohio","Woodford County,Kentucky",7396,169869
+117,"Brown County,Ohio","Adams County,Ohio",2385,43164
+118,"Brown County,Ohio","Allen County,Ohio",10129,269486
+119,"Brown County,Ohio","Ashland County,Ohio",11952,309700
+120,"Brown County,Ohio","Ashtabula County,Ohio",17698,494451
+121,"Brown County,Ohio","Athens County,Ohio",7579,189507
+122,"Brown County,Ohio","Auglaize County,Ohio",9385,256751
+123,"Brown County,Ohio","Belmont County,Ohio",13290,356131
+124,"Brown County,Ohio","Butler County,Ohio",5207,119360
+125,"Brown County,Ohio","Carroll County,Ohio",15254,393355
+126,"Brown County,Ohio","Champaign County,Ohio",7813,154813
+127,"Brown County,Ohio","Clark County,Ohio",6709,132951
+128,"Brown County,Ohio","Clermont County,Ohio",2315,45006
+129,"Brown County,Ohio","Clinton County,Ohio",3191,63495
+130,"Brown County,Ohio","Columbiana County,Ohio",16811,428944
+131,"Brown County,Ohio","Coshocton County,Ohio",11813,288772
+132,"Brown County,Ohio","Crawford County,Ohio",11566,278157
+133,"Brown County,Ohio","Cuyahoga County,Ohio",14270,392164
+134,"Brown County,Ohio","Darke County,Ohio",8483,213798
+135,"Brown County,Ohio","Defiance County,Ohio",13617,347916
+136,"Brown County,Ohio","Delaware County,Ohio",8869,216371
+137,"Brown County,Ohio","Fairfield County,Ohio",8272,199621
+138,"Brown County,Ohio","Fayette County,Ohio",5082,97810
+139,"Brown County,Ohio","Franklin County,Ohio",7387,176299
+140,"Brown County,Ohio","Fulton County,Ohio",14380,364860
+141,"Brown County,Ohio","Gallia County,Ohio",6475,161683
+142,"Brown County,Ohio","Geauga County,Ohio",15798,431383
+143,"Brown County,Ohio","Greene County,Ohio",5014,99425
+144,"Brown County,Ohio","Guernsey County,Ohio",11019,289812
+145,"Brown County,Ohio","Hamilton County,Ohio",4472,100403
+146,"Brown County,Ohio","Hancock County,Ohio",11238,310382
+147,"Brown County,Ohio","Hardin County,Ohio",11025,294779
+148,"Brown County,Ohio","Harrison County,Ohio",14260,375421
+149,"Brown County,Ohio","Henry County,Ohio",12962,334850
+150,"Brown County,Ohio","Highland County,Ohio",3077,58827
+151,"Brown County,Ohio","Hocking County,Ohio",8302,183502
+152,"Brown County,Ohio","Holmes County,Ohio",13363,325630
+153,"Brown County,Ohio","Huron County,Ohio",13099,308470
+154,"Brown County,Ohio","Jackson County,Ohio",4976,123876
+155,"Brown County,Ohio","Jefferson County,Ohio",15253,385198
+156,"Brown County,Ohio","Knox County,Ohio",11319,275993
+157,"Brown County,Ohio","Lawrence County,Ohio",7935,157273
+158,"Brown County,Ohio","Licking County,Ohio",9651,231217
+159,"Brown County,Ohio","Logan County,Ohio",9317,188136
+160,"Brown County,Ohio","Lorain County,Ohio",14884,367124
+161,"Brown County,Ohio","Lucas County,Ohio",14563,396902
+162,"Brown County,Ohio","Madison County,Ohio",6806,152968
+163,"Brown County,Ohio","Mahoning County,Ohio",16668,446083
+164,"Brown County,Ohio","Marion County,Ohio",10126,236988
+165,"Brown County,Ohio","Medina County,Ohio",12597,334712
+166,"Brown County,Ohio","Meigs County,Ohio",8259,201321
+167,"Brown County,Ohio","Mercer County,Ohio",10621,283685
+168,"Brown County,Ohio","Miami County,Ohio",6971,179190
+169,"Brown County,Ohio","Monroe County,Ohio",13951,342308
+170,"Brown County,Ohio","Montgomery County,Ohio",6354,156930
+171,"Brown County,Ohio","Morgan County,Ohio",10698,249554
+172,"Brown County,Ohio","Morrow County,Ohio",9677,239192
+173,"Brown County,Ohio","Muskingum County,Ohio",9870,255969
+174,"Brown County,Ohio","Noble County,Ohio",12457,325468
+175,"Brown County,Ohio","Paulding County,Ohio",12660,332464
+176,"Brown County,Ohio","Perry County,Ohio",9874,214457
+177,"Brown County,Ohio","Pickaway County,Ohio",6904,163617
+178,"Brown County,Ohio","Pike County,Ohio",3752,88861
+179,"Brown County,Ohio","Portage County,Ohio",15119,405862
+180,"Brown County,Ohio","Preble County,Ohio",7251,163759
+181,"Brown County,Ohio","Putnam County,Ohio",11304,301954
+182,"Brown County,Ohio","Richland County,Ohio",10706,274431
+183,"Brown County,Ohio","Ross County,Ohio",5648,129923
+184,"Brown County,Ohio","Sandusky County,Ohio",14278,390457
+185,"Brown County,Ohio","Scioto County,Ohio",4552,109492
+186,"Brown County,Ohio","Seneca County,Ohio",13117,311829
+187,"Brown County,Ohio","Shelby County,Ohio",8010,215476
+188,"Brown County,Ohio","Stark County,Ohio",14864,390246
+189,"Brown County,Ohio","Summit County,Ohio",13800,370040
+190,"Brown County,Ohio","Trumbull County,Ohio",16700,456354
+191,"Brown County,Ohio","Tuscarawas County,Ohio",13314,349177
+192,"Brown County,Ohio","Union County,Ohio",8388,179602
+193,"Brown County,Ohio","Van Wert County,Ohio",11294,302010
+194,"Brown County,Ohio","Vinton County,Ohio",7352,163719
+195,"Brown County,Ohio","Warren County,Ohio",4290,79758
+196,"Brown County,Ohio","Washington County,Ohio",10612,269603
+197,"Brown County,Ohio","Wayne County,Ohio",12325,323710
+198,"Brown County,Ohio","Williams County,Ohio",14794,371433
+199,"Brown County,Ohio","Wood County,Ohio",12326,351010
+200,"Brown County,Ohio","Wyandot County,Ohio",11713,283385
+201,"Brown County,Ohio","Accomack County,Virginia",37018,1039162
+202,"Brown County,Ohio","Albemarle County,Virginia",23167,651661
+203,"Brown County,Ohio","Alleghany County,Virginia",17836,488684
+204,"Brown County,Ohio","Amelia County,Virginia",27868,751779
+205,"Brown County,Ohio","Amherst County,Virginia",23165,619650
+206,"Brown County,Ohio","Appomattox County,Virginia",24759,658409
+207,"Brown County,Ohio","Arlington County,Virginia",27069,758910
+208,"Brown County,Ohio","Augusta County,Virginia",21778,590001
+209,"Brown County,Ohio","Bath County,Virginia",20848,563994
+210,"Brown County,Ohio","Bedford County,Virginia",23425,605775
+211,"Brown County,Ohio","Bland County,Virginia",16798,454904
+212,"Brown County,Ohio","Botetourt County,Virginia",20991,559984
+213,"Brown County,Ohio","Brunswick County,Virginia",30411,801452
+214,"Brown County,Ohio","Buchanan County,Virginia",16972,341022
+215,"Brown County,Ohio","Buckingham County,Virginia",25041,669344
+216,"Brown County,Ohio","Campbell County,Virginia",24682,660881
+217,"Brown County,Ohio","Caroline County,Virginia",28507,820507
+218,"Brown County,Ohio","Carroll County,Virginia",19044,524341
+219,"Brown County,Ohio","Charles City County,Virginia",28607,817541
+220,"Brown County,Ohio","Charlotte County,Virginia",26643,711930
+221,"Brown County,Ohio","Chesterfield County,Virginia",27743,795325
+222,"Brown County,Ohio","Clarke County,Virginia",25182,659546
+223,"Brown County,Ohio","Craig County,Virginia",19480,509769
+224,"Brown County,Ohio","Culpeper County,Virginia",26965,740878
+225,"Brown County,Ohio","Cumberland County,Virginia",26251,697347
+226,"Brown County,Ohio","Dickenson County,Virginia",16780,346519
+227,"Brown County,Ohio","Dinwiddie County,Virginia",29490,845757
+228,"Brown County,Ohio","Essex County,Virginia",30324,844549
+229,"Brown County,Ohio","Fairfax County,Virginia",26760,749577
+230,"Brown County,Ohio","Fauquier County,Virginia",26733,681177
+231,"Brown County,Ohio","Floyd County,Virginia",20665,543306
+232,"Brown County,Ohio","Fluvanna County,Virginia",24845,703833
+233,"Brown County,Ohio","Franklin County,Virginia",22938,607008
+234,"Brown County,Ohio","Frederick County,Virginia",23971,634268
+235,"Brown County,Ohio","Giles County,Virginia",17529,466462
+236,"Brown County,Ohio","Gloucester County,Virginia",30778,871730
+237,"Brown County,Ohio","Goochland County,Virginia",25749,734444
+238,"Brown County,Ohio","Grayson County,Virginia",19447,514049
+239,"Brown County,Ohio","Greene County,Virginia",25160,687245
+240,"Brown County,Ohio","Greensville County,Virginia",30906,894508
+241,"Brown County,Ohio","Halifax County,Virginia",27347,722028
+242,"Brown County,Ohio","Hanover County,Virginia",26955,775551
+243,"Brown County,Ohio","Henrico County,Virginia",27467,788510
+244,"Brown County,Ohio","Henry County,Virginia",22917,611062
+245,"Brown County,Ohio","Highland County,Virginia",22293,573964
+246,"Brown County,Ohio","Isle of Wight County,Virginia",31719,893087
+247,"Brown County,Ohio","James City County,Virginia",29843,858312
+248,"Brown County,Ohio","King and Queen County,Virginia",29501,833896
+249,"Brown County,Ohio","King George County,Virginia",29620,848493
+250,"Brown County,Ohio","King William County,Virginia",28189,803819
+251,"Brown County,Ohio","Lancaster County,Virginia",31981,886904
+252,"Brown County,Ohio","Lee County,Virginia",16723,412644
+253,"Brown County,Ohio","Loudoun County,Virginia",26677,695413
+254,"Brown County,Ohio","Louisa County,Virginia",25406,717539
+255,"Brown County,Ohio","Lunenburg County,Virginia",28415,753214
+256,"Brown County,Ohio","Madison County,Virginia",26080,716986
+257,"Brown County,Ohio","Mathews County,Virginia",31603,895153
+258,"Brown County,Ohio","Mecklenburg County,Virginia",29406,766338
+259,"Brown County,Ohio","Middlesex County,Virginia",30379,867930
+260,"Brown County,Ohio","Montgomery County,Virginia",18612,494469
+261,"Brown County,Ohio","Nelson County,Virginia",23706,631341
+262,"Brown County,Ohio","New Kent County,Virginia",29279,832226
+263,"Brown County,Ohio","Northampton County,Virginia",34260,974976
+264,"Brown County,Ohio","Northumberland County,Virginia",32021,885416
+265,"Brown County,Ohio","Nottoway County,Virginia",27908,753594
+266,"Brown County,Ohio","Orange County,Virginia",26369,725646
+267,"Brown County,Ohio","Page County,Virginia",25014,700771
+268,"Brown County,Ohio","Patrick County,Virginia",21150,569377
+269,"Brown County,Ohio","Pittsylvania County,Virginia",25233,665270
+270,"Brown County,Ohio","Powhatan County,Virginia",27002,759665
+271,"Brown County,Ohio","Prince Edward County,Virginia",26523,710929
+272,"Brown County,Ohio","Prince George County,Virginia",29254,832341
+273,"Brown County,Ohio","Prince William County,Virginia",26833,687280
+274,"Brown County,Ohio","Pulaski County,Virginia",18707,490800
+275,"Brown County,Ohio","Rappahannock County,Virginia",26845,737258
+276,"Brown County,Ohio","Richmond County,Virginia",30721,858060
+277,"Brown County,Ohio","Roanoke County,Virginia",20232,537262
+278,"Brown County,Ohio","Rockbridge County,Virginia",20169,557040
+279,"Brown County,Ohio","Rockingham County,Virginia",24053,673121
+280,"Brown County,Ohio","Russell County,Virginia",18503,359571
+281,"Brown County,Ohio","Scott County,Virginia",18256,393972
+282,"Brown County,Ohio","Shenandoah County,Virginia",24558,703225
+283,"Brown County,Ohio","Smyth County,Virginia",19156,520256
+284,"Brown County,Ohio","Southampton County,Virginia",31284,890622
+285,"Brown County,Ohio","Spotsylvania County,Virginia",27422,759377
+286,"Brown County,Ohio","Stafford County,Virginia",28734,812864
+287,"Brown County,Ohio","Surry County,Virginia",30587,857174
+288,"Brown County,Ohio","Sussex County,Virginia",29948,860865
+289,"Brown County,Ohio","Tazewell County,Virginia",17614,473491
+290,"Brown County,Ohio","Warren County,Virginia",25373,628978
+291,"Brown County,Ohio","Washington County,Virginia",19178,413237
+292,"Brown County,Ohio","Westmoreland County,Virginia",30594,865318
+293,"Brown County,Ohio","Wise County,Virginia",15044,322418
+294,"Brown County,Ohio","Wythe County,Virginia",17403,473121
+295,"Brown County,Ohio","York County,Virginia",31131,889087
+296,"Brown County,Ohio","Alexandria City County,Virginia",27585,776092
+297,"Brown County,Ohio","Bedford City County,Virginia",22590,597206
+298,"Brown County,Ohio","Bristol City County,Virginia",20018,434123
+299,"Brown County,Ohio","Buena Vista City County,Virginia",20524,571018
+300,"Brown County,Ohio","Charlottesville City County,Virginia",23637,666876
+301,"Brown County,Ohio","Chesapeake City County,Virginia",32594,941992
+302,"Brown County,Ohio","Clifton Forge City County,Virginia",18380,508891
+303,"Brown County,Ohio","Colonial Heights City County,Virginia",28303,811218
+304,"Brown County,Ohio","Covington City County,Virginia",17906,492270
+305,"Brown County,Ohio","Danville City County,Virginia",25075,665518
+306,"Brown County,Ohio","Emporia City County,Virginia",30614,881102
+307,"Brown County,Ohio","Fairfax City County,Virginia",27230,761210
+308,"Brown County,Ohio","Falls Church City County,Virginia",26777,753222
+309,"Brown County,Ohio","Franklin City County,Virginia",31832,898477
+310,"Brown County,Ohio","Fredericksburg City County,Virginia",28555,769037
+311,"Brown County,Ohio","Galax City County,Virginia",19667,530208
+312,"Brown County,Ohio","Hampton City County,Virginia",31081,898793
+313,"Brown County,Ohio","Harrisonburg City County,Virginia",23112,653018
+314,"Brown County,Ohio","Hopewell City County,Virginia",28340,810184
+315,"Brown County,Ohio","Lexington City County,Virginia",20158,559509
+316,"Brown County,Ohio","Lynchburg City County,Virginia",23741,634624
+317,"Brown County,Ohio","Manassas City County,Virginia",27060,692225
+318,"Brown County,Ohio","Manassas Park City County,Virginia",27563,698568
+319,"Brown County,Ohio","Martinsville City County,Virginia",23445,619856
+320,"Brown County,Ohio","Newport News City County,Virginia",30638,885279
+321,"Brown County,Ohio","Norfolk City County,Virginia",32387,924209
+322,"Brown County,Ohio","Norton City County,Virginia",15673,334230
+323,"Brown County,Ohio","Petersburg City County,Virginia",28175,812205
+324,"Brown County,Ohio","Poquoson City County,Virginia",31309,895855
+325,"Brown County,Ohio","Portsmouth City County,Virginia",32326,933030
+326,"Brown County,Ohio","Radford County,Virginia",19020,492509
+327,"Brown County,Ohio","Richmond City County,Virginia",27043,776321
+328,"Brown County,Ohio","Roanoke City County,Virginia",20834,557367
+329,"Brown County,Ohio","Salem City County,Virginia",20246,543917
+330,"Brown County,Ohio","South Boston City County,Virginia",27087,719696
+331,"Brown County,Ohio","Staunton City County,Virginia",21929,614153
+332,"Brown County,Ohio","Suffolk City County,Virginia",32562,907811
+333,"Brown County,Ohio","Virginia Beach City County,Virginia",32948,947467
+334,"Brown County,Ohio","Waynesboro City County,Virginia",22267,626871
+335,"Brown County,Ohio","Williamsburg City County,Virginia",29682,857528
+336,"Brown County,Ohio","Winchester City County,Virginia",24110,638072
+337,"Brown County,Ohio","Barbour County,West Virginia",15963,410472
+338,"Brown County,Ohio","Berkeley County,West Virginia",23524,636928
+339,"Brown County,Ohio","Boone County,West Virginia",13151,321168
+340,"Brown County,Ohio","Braxton County,West Virginia",14662,378530
+341,"Brown County,Ohio","Brooke County,West Virginia",15369,398379
+342,"Brown County,Ohio","Cabell County,West Virginia",7804,182635
+343,"Brown County,Ohio","Calhoun County,West Virginia",13285,304509
+344,"Brown County,Ohio","Clay County,West Virginia",13429,349443
+345,"Brown County,Ohio","Doddridge County,West Virginia",12950,336189
+346,"Brown County,Ohio","Fayette County,West Virginia",14716,367787
+347,"Brown County,Ohio","Gilmer County,West Virginia",14563,329011
+348,"Brown County,Ohio","Grant County,West Virginia",21097,523867
+349,"Brown County,Ohio","Greenbrier County,West Virginia",17791,445826
+350,"Brown County,Ohio","Hampshire County,West Virginia",22778,598531
+351,"Brown County,Ohio","Hancock County,West Virginia",16958,432915
+352,"Brown County,Ohio","Hardy County,West Virginia",22185,551471
+353,"Brown County,Ohio","Harrison County,West Virginia",14033,369184
+354,"Brown County,Ohio","Jackson County,West Virginia",9733,235853
+355,"Brown County,Ohio","Jefferson County,West Virginia",24990,692926
+356,"Brown County,Ohio","Kanawha County,West Virginia",12025,301851
+357,"Brown County,Ohio","Lewis County,West Virginia",15726,371334
+358,"Brown County,Ohio","Lincoln County,West Virginia",11021,240285
+359,"Brown County,Ohio","Logan County,West Virginia",13551,312613
+360,"Brown County,Ohio","McDowell County,West Virginia",17956,385678
+361,"Brown County,Ohio","Marion County,West Virginia",15970,412306
+362,"Brown County,Ohio","Marshall County,West Virginia",15326,392887
+363,"Brown County,Ohio","Mason County,West Virginia",7506,196147
+364,"Brown County,Ohio","Mercer County,West Virginia",15352,413410
+365,"Brown County,Ohio","Mineral County,West Virginia",21658,573082
+366,"Brown County,Ohio","Mingo County,West Virginia",12235,279066
+367,"Brown County,Ohio","Monongalia County,West Virginia",16180,437775
+368,"Brown County,Ohio","Monroe County,West Virginia",18397,458122
+369,"Brown County,Ohio","Morgan County,West Virginia",23015,626319
+370,"Brown County,Ohio","Nicholas County,West Virginia",15145,409324
+371,"Brown County,Ohio","Ohio County,West Virginia",14387,379617
+372,"Brown County,Ohio","Pendleton County,West Virginia",22349,568994
+373,"Brown County,Ohio","Pleasants County,West Virginia",11840,295709
+374,"Brown County,Ohio","Pocahontas County,West Virginia",20475,478862
+375,"Brown County,Ohio","Preston County,West Virginia",18326,464506
+376,"Brown County,Ohio","Putnam County,West Virginia",9142,236170
+377,"Brown County,Ohio","Raleigh County,West Virginia",13893,367103
+378,"Brown County,Ohio","Randolph County,West Virginia",18027,467120
+379,"Brown County,Ohio","Ritchie County,West Virginia",12115,309231
+380,"Brown County,Ohio","Roane County,West Virginia",11358,264669
+381,"Brown County,Ohio","Summers County,West Virginia",17345,428541
+382,"Brown County,Ohio","Taylor County,West Virginia",15862,407879
+383,"Brown County,Ohio","Tucker County,West Virginia",18528,461200
+384,"Brown County,Ohio","Tyler County,West Virginia",13749,335324
+385,"Brown County,Ohio","Upshur County,West Virginia",17002,441561
+386,"Brown County,Ohio","Wayne County,West Virginia",9335,203830
+387,"Brown County,Ohio","Webster County,West Virginia",17330,436403
+388,"Brown County,Ohio","Wetzel County,West Virginia",14961,357231
+389,"Brown County,Ohio","Wirt County,West Virginia",11538,285866
+390,"Brown County,Ohio","Wood County,West Virginia",10222,260596
+391,"Brown County,Ohio","Wyoming County,West Virginia",15838,407045

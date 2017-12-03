@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Warren County,Kentucky","Adair County,Kentucky",4439,119609
+1,"Warren County,Kentucky","Allen County,Kentucky",1661,41907
+2,"Warren County,Kentucky","Anderson County,Kentucky",7780,213728
+3,"Warren County,Kentucky","Ballard County,Kentucky",9454,275595
+4,"Warren County,Kentucky","Barren County,Kentucky",2850,67303
+5,"Warren County,Kentucky","Bath County,Kentucky",11471,330998
+6,"Warren County,Kentucky","Bell County,Kentucky",12409,315770
+7,"Warren County,Kentucky","Boone County,Kentucky",11902,334394
+8,"Warren County,Kentucky","Bourbon County,Kentucky",10536,285508
+9,"Warren County,Kentucky","Boyd County,Kentucky",14729,432454
+10,"Warren County,Kentucky","Boyle County,Kentucky",8292,221648
+11,"Warren County,Kentucky","Bracken County,Kentucky",13744,348346
+12,"Warren County,Kentucky","Breathitt County,Kentucky",14244,371450
+13,"Warren County,Kentucky","Breckinridge County,Kentucky",5084,127405
+14,"Warren County,Kentucky","Bullitt County,Kentucky",5736,157804
+15,"Warren County,Kentucky","Butler County,Kentucky",1230,32778
+16,"Warren County,Kentucky","Caldwell County,Kentucky",5566,166448
+17,"Warren County,Kentucky","Calloway County,Kentucky",7906,199539
+18,"Warren County,Kentucky","Campbell County,Kentucky",12772,364096
+19,"Warren County,Kentucky","Carlisle County,Kentucky",9911,290963
+20,"Warren County,Kentucky","Carroll County,Kentucky",9385,268170
+21,"Warren County,Kentucky","Carter County,Kentucky",13866,401711
+22,"Warren County,Kentucky","Casey County,Kentucky",7038,172646
+23,"Warren County,Kentucky","Christian County,Kentucky",4193,107026
+24,"Warren County,Kentucky","Clay County,Kentucky",10573,274799
+25,"Warren County,Kentucky","Clinton County,Kentucky",6389,148138
+26,"Warren County,Kentucky","Crittenden County,Kentucky",7146,199519
+27,"Warren County,Kentucky","Cumberland County,Kentucky",5548,124238
+28,"Warren County,Kentucky","Daviess County,Kentucky",3664,106571
+29,"Warren County,Kentucky","Edmonson County,Kentucky",2265,43245
+30,"Warren County,Kentucky","Elliott County,Kentucky",14642,392973
+31,"Warren County,Kentucky","Estill County,Kentucky",11340,298765
+32,"Warren County,Kentucky","Fayette County,Kentucky",9098,255732
+33,"Warren County,Kentucky","Fleming County,Kentucky",12900,361216
+34,"Warren County,Kentucky","Floyd County,Kentucky",14591,385963
+35,"Warren County,Kentucky","Franklin County,Kentucky",9439,252421
+36,"Warren County,Kentucky","Fulton County,Kentucky",10315,311928
+37,"Warren County,Kentucky","Gallatin County,Kentucky",10095,287496
+38,"Warren County,Kentucky","Garrard County,Kentucky",9181,244083
+39,"Warren County,Kentucky","Grant County,Kentucky",11461,312949
+40,"Warren County,Kentucky","Graves County,Kentucky",8936,263670
+41,"Warren County,Kentucky","Grayson County,Kentucky",3451,72490
+42,"Warren County,Kentucky","Green County,Kentucky",4482,99595
+43,"Warren County,Kentucky","Greenup County,Kentucky",15334,429041
+44,"Warren County,Kentucky","Hancock County,Kentucky",4674,119302
+45,"Warren County,Kentucky","Hardin County,Kentucky",4894,124499
+46,"Warren County,Kentucky","Harlan County,Kentucky",14703,371375
+47,"Warren County,Kentucky","Harrison County,Kentucky",11308,302453
+48,"Warren County,Kentucky","Hart County,Kentucky",3216,76916
+49,"Warren County,Kentucky","Henderson County,Kentucky",5571,162991
+50,"Warren County,Kentucky","Henry County,Kentucky",9060,248918
+51,"Warren County,Kentucky","Hickman County,Kentucky",9945,292255
+52,"Warren County,Kentucky","Hopkins County,Kentucky",5025,140917
+53,"Warren County,Kentucky","Jackson County,Kentucky",10303,269151
+54,"Warren County,Kentucky","Jefferson County,Kentucky",6993,189309
+55,"Warren County,Kentucky","Jessamine County,Kentucky",9229,253393
+56,"Warren County,Kentucky","Johnson County,Kentucky",15212,431202
+57,"Warren County,Kentucky","Kenton County,Kentucky",11788,330110
+58,"Warren County,Kentucky","Knott County,Kentucky",13375,355504
+59,"Warren County,Kentucky","Knox County,Kentucky",10641,268680
+60,"Warren County,Kentucky","Larue County,Kentucky",4489,109641
+61,"Warren County,Kentucky","Laurel County,Kentucky",9383,239550
+62,"Warren County,Kentucky","Lawrence County,Kentucky",16732,459590
+63,"Warren County,Kentucky","Lee County,Kentucky",12309,307532
+64,"Warren County,Kentucky","Leslie County,Kentucky",12523,325922
+65,"Warren County,Kentucky","Letcher County,Kentucky",14546,377509
+66,"Warren County,Kentucky","Lewis County,Kentucky",14424,399356
+67,"Warren County,Kentucky","Lincoln County,Kentucky",8007,222387
+68,"Warren County,Kentucky","Livingston County,Kentucky",7741,216415
+69,"Warren County,Kentucky","Logan County,Kentucky",1864,46306
+70,"Warren County,Kentucky","Lyon County,Kentucky",7875,226806
+71,"Warren County,Kentucky","McCracken County,Kentucky",8067,243655
+72,"Warren County,Kentucky","McCreary County,Kentucky",8692,232456
+73,"Warren County,Kentucky","Madison County,Kentucky",9897,267541
+74,"Warren County,Kentucky","Magoffin County,Kentucky",14681,413069
+75,"Warren County,Kentucky","Marion County,Kentucky",7224,158114
+76,"Warren County,Kentucky","Marshall County,Kentucky",7481,227227
+77,"Warren County,Kentucky","Martin County,Kentucky",17682,452235
+78,"Warren County,Kentucky","Mason County,Kentucky",13665,357074
+79,"Warren County,Kentucky","Meade County,Kentucky",6499,139181
+80,"Warren County,Kentucky","Menifee County,Kentucky",12746,343535
+81,"Warren County,Kentucky","Mercer County,Kentucky",8139,220523
+82,"Warren County,Kentucky","Metcalfe County,Kentucky",3412,89955
+83,"Warren County,Kentucky","Monroe County,Kentucky",4168,95983
+84,"Warren County,Kentucky","Montgomery County,Kentucky",11389,321444
+85,"Warren County,Kentucky","Morgan County,Kentucky",14071,401353
+86,"Warren County,Kentucky","Muhlenberg County,Kentucky",3349,81417
+87,"Warren County,Kentucky","Nelson County,Kentucky",5632,156009
+88,"Warren County,Kentucky","Nicholas County,Kentucky",11792,312889
+89,"Warren County,Kentucky","Ohio County,Kentucky",2765,74608
+90,"Warren County,Kentucky","Oldham County,Kentucky",7786,216218
+91,"Warren County,Kentucky","Owen County,Kentucky",10782,284594
+92,"Warren County,Kentucky","Owsley County,Kentucky",11602,290652
+93,"Warren County,Kentucky","Pendleton County,Kentucky",12727,348814
+94,"Warren County,Kentucky","Perry County,Kentucky",12757,334623
+95,"Warren County,Kentucky","Pike County,Kentucky",17152,438963
+96,"Warren County,Kentucky","Powell County,Kentucky",11682,330303
+97,"Warren County,Kentucky","Robertson County,Kentucky",12563,334015
+98,"Warren County,Kentucky","Rockcastle County,Kentucky",8868,231291
+99,"Warren County,Kentucky","Rowan County,Kentucky",12212,354849
+100,"Warren County,Kentucky","Russell County,Kentucky",5546,147818
+101,"Warren County,Kentucky","Scott County,Kentucky",10117,284380
+102,"Warren County,Kentucky","Shelby County,Kentucky",8123,223502
+103,"Warren County,Kentucky","Simpson County,Kentucky",1576,35766
+104,"Warren County,Kentucky","Spencer County,Kentucky",7152,193757
+105,"Warren County,Kentucky","Taylor County,Kentucky",5853,126091
+106,"Warren County,Kentucky","Todd County,Kentucky",3040,76361
+107,"Warren County,Kentucky","Trigg County,Kentucky",5728,137646
+108,"Warren County,Kentucky","Trimble County,Kentucky",9185,256017
+109,"Warren County,Kentucky","Union County,Kentucky",7315,200092
+110,"Warren County,Kentucky","Washington County,Kentucky",7463,196628
+111,"Warren County,Kentucky","Wayne County,Kentucky",7790,178338
+112,"Warren County,Kentucky","Webster County,Kentucky",6134,169005
+113,"Warren County,Kentucky","Whitley County,Kentucky",10025,264534
+114,"Warren County,Kentucky","Wolfe County,Kentucky",12946,368175
+115,"Warren County,Kentucky","Woodford County,Kentucky",8354,235991
+116,"Warren County,Kentucky","Adams County,Ohio",15666,440754
+117,"Warren County,Kentucky","Allen County,Ohio",19208,556003
+118,"Warren County,Kentucky","Ashland County,Ohio",22397,657881
+119,"Warren County,Kentucky","Ashtabula County,Ohio",28143,842632
+120,"Warren County,Kentucky","Athens County,Ohio",20860,587096
+121,"Warren County,Kentucky","Auglaize County,Ohio",18464,543268
+122,"Warren County,Kentucky","Belmont County,Ohio",23734,704313
+123,"Warren County,Kentucky","Brown County,Ohio",14919,417308
+124,"Warren County,Kentucky","Butler County,Ohio",14285,405877
+125,"Warren County,Kentucky","Carroll County,Ohio",25699,741536
+126,"Warren County,Kentucky","Champaign County,Ohio",17242,497450
+127,"Warren County,Kentucky","Clark County,Ohio",16670,484082
+128,"Warren County,Kentucky","Clermont County,Ohio",13036,377055
+129,"Warren County,Kentucky","Clinton County,Ohio",15130,428362
+130,"Warren County,Kentucky","Columbiana County,Ohio",27255,777125
+131,"Warren County,Kentucky","Coshocton County,Ohio",22258,636953
+132,"Warren County,Kentucky","Crawford County,Ohio",21934,649853
+133,"Warren County,Kentucky","Cuyahoga County,Ohio",24714,740346
+134,"Warren County,Kentucky","Darke County,Ohio",17561,500314
+135,"Warren County,Kentucky","Defiance County,Ohio",21967,636534
+136,"Warren County,Kentucky","Delaware County,Ohio",19314,564553
+137,"Warren County,Kentucky","Fairfield County,Ohio",18717,547802
+138,"Warren County,Kentucky","Fayette County,Ohio",16029,465967
+139,"Warren County,Kentucky","Franklin County,Ohio",17831,524480
+140,"Warren County,Kentucky","Fulton County,Ohio",23401,679113
+141,"Warren County,Kentucky","Gallia County,Ohio",19014,532826
+142,"Warren County,Kentucky","Geauga County,Ohio",26243,779564
+143,"Warren County,Kentucky","Greene County,Ohio",15457,437716
+144,"Warren County,Kentucky","Guernsey County,Ohio",21463,637994
+145,"Warren County,Kentucky","Hamilton County,Ohio",12940,370361
+146,"Warren County,Kentucky","Hancock County,Ohio",20317,596898
+147,"Warren County,Kentucky","Hardin County,Ohio",20104,581296
+148,"Warren County,Kentucky","Harrison County,Ohio",24704,723602
+149,"Warren County,Kentucky","Henry County,Ohio",22041,621367
+150,"Warren County,Kentucky","Highland County,Ohio",15979,440008
+151,"Warren County,Kentucky","Hocking County,Ohio",20155,591206
+152,"Warren County,Kentucky","Holmes County,Ohio",23808,673811
+153,"Warren County,Kentucky","Huron County,Ohio",23543,656651
+154,"Warren County,Kentucky","Jackson County,Ohio",18257,521466
+155,"Warren County,Kentucky","Jefferson County,Ohio",25698,733380
+156,"Warren County,Kentucky","Knox County,Ohio",21763,624174
+157,"Warren County,Kentucky","Lawrence County,Ohio",17135,468882
+158,"Warren County,Kentucky","Licking County,Ohio",20096,579398
+159,"Warren County,Kentucky","Logan County,Ohio",18476,529986
+160,"Warren County,Kentucky","Lorain County,Ohio",25328,715305
+161,"Warren County,Kentucky","Lucas County,Ohio",23642,683418
+162,"Warren County,Kentucky","Madison County,Ohio",17251,501149
+163,"Warren County,Kentucky","Mahoning County,Ohio",27112,794264
+164,"Warren County,Kentucky","Marion County,Ohio",20361,571988
+165,"Warren County,Kentucky","Medina County,Ohio",23042,682894
+166,"Warren County,Kentucky","Meigs County,Ohio",19946,563209
+167,"Warren County,Kentucky","Mercer County,Ohio",19700,570201
+168,"Warren County,Kentucky","Miami County,Ohio",16050,465707
+169,"Warren County,Kentucky","Monroe County,Ohio",25140,718877
+170,"Warren County,Kentucky","Montgomery County,Ohio",15433,443447
+171,"Warren County,Kentucky","Morgan County,Ohio",22529,646490
+172,"Warren County,Kentucky","Morrow County,Ohio",20121,587374
+173,"Warren County,Kentucky","Muskingum County,Ohio",20314,604150
+174,"Warren County,Kentucky","Noble County,Ohio",23163,675113
+175,"Warren County,Kentucky","Paulding County,Ohio",20900,601453
+176,"Warren County,Kentucky","Perry County,Ohio",20383,592733
+177,"Warren County,Kentucky","Pickaway County,Ohio",17966,514563
+178,"Warren County,Kentucky","Pike County,Ohio",17034,486451
+179,"Warren County,Kentucky","Portage County,Ohio",25564,754043
+180,"Warren County,Kentucky","Preble County,Ohio",16330,450276
+181,"Warren County,Kentucky","Putnam County,Ohio",20382,588471
+182,"Warren County,Kentucky","Richland County,Ohio",21151,622612
+183,"Warren County,Kentucky","Ross County,Ohio",17610,513880
+184,"Warren County,Kentucky","Sandusky County,Ohio",23357,676974
+185,"Warren County,Kentucky","Scioto County,Ohio",17416,467573
+186,"Warren County,Kentucky","Seneca County,Ohio",22661,653238
+187,"Warren County,Kentucky","Shelby County,Ohio",17088,501992
+188,"Warren County,Kentucky","Stark County,Ohio",25309,738427
+189,"Warren County,Kentucky","Summit County,Ohio",24245,718221
+190,"Warren County,Kentucky","Trumbull County,Ohio",27145,804536
+191,"Warren County,Kentucky","Tuscarawas County,Ohio",23758,697359
+192,"Warren County,Kentucky","Union County,Ohio",18603,527370
+193,"Warren County,Kentucky","Van Wert County,Ohio",20373,588526
+194,"Warren County,Kentucky","Vinton County,Ohio",19792,562633
+195,"Warren County,Kentucky","Warren County,Ohio",13819,396618
+196,"Warren County,Kentucky","Washington County,Ohio",22983,635158
+197,"Warren County,Kentucky","Wayne County,Ohio",22770,671891
+198,"Warren County,Kentucky","Williams County,Ohio",22957,656414
+199,"Warren County,Kentucky","Wood County,Ohio",21405,637527
+200,"Warren County,Kentucky","Wyandot County,Ohio",21012,617778
+201,"Warren County,Kentucky","Accomack County,Virginia",44814,1306322
+202,"Warren County,Kentucky","Albemarle County,Virginia",30964,918822
+203,"Warren County,Kentucky","Alleghany County,Virginia",25633,755845
+204,"Warren County,Kentucky","Amelia County,Virginia",34324,961936
+205,"Warren County,Kentucky","Amherst County,Virginia",30962,886811
+206,"Warren County,Kentucky","Appomattox County,Virginia",31401,881605
+207,"Warren County,Kentucky","Arlington County,Virginia",37247,1114854
+208,"Warren County,Kentucky","Augusta County,Virginia",29575,857161
+209,"Warren County,Kentucky","Bath County,Virginia",28645,831155
+210,"Warren County,Kentucky","Bedford County,Virginia",29134,812915
+211,"Warren County,Kentucky","Bland County,Virginia",23150,662517
+212,"Warren County,Kentucky","Botetourt County,Virginia",27990,796980
+213,"Warren County,Kentucky","Brunswick County,Virginia",35882,1026658
+214,"Warren County,Kentucky","Buchanan County,Virginia",20679,486779
+215,"Warren County,Kentucky","Buckingham County,Virginia",32515,905515
+216,"Warren County,Kentucky","Campbell County,Virginia",30550,854150
+217,"Warren County,Kentucky","Caroline County,Virginia",36303,1087667
+218,"Warren County,Kentucky","Carroll County,Virginia",24094,693862
+219,"Warren County,Kentucky","Charles City County,Virginia",36404,1084702
+220,"Warren County,Kentucky","Charlotte County,Virginia",33099,922086
+221,"Warren County,Kentucky","Chesterfield County,Virginia",35540,1062486
+222,"Warren County,Kentucky","Clarke County,Virginia",35144,1045880
+223,"Warren County,Kentucky","Craig County,Virginia",27276,776930
+224,"Warren County,Kentucky","Culpeper County,Virginia",34761,1008038
+225,"Warren County,Kentucky","Cumberland County,Virginia",33928,942746
+226,"Warren County,Kentucky","Dickenson County,Virginia",18105,444455
+227,"Warren County,Kentucky","Dinwiddie County,Virginia",36097,1004997
+228,"Warren County,Kentucky","Essex County,Virginia",38121,1111710
+229,"Warren County,Kentucky","Fairfax County,Virginia",36938,1105521
+230,"Warren County,Kentucky","Fauquier County,Virginia",35582,1067131
+231,"Warren County,Kentucky","Floyd County,Virginia",25986,733962
+232,"Warren County,Kentucky","Fluvanna County,Virginia",32642,970993
+233,"Warren County,Kentucky","Franklin County,Virginia",28646,814148
+234,"Warren County,Kentucky","Frederick County,Virginia",33809,960014
+235,"Warren County,Kentucky","Giles County,Virginia",25326,733623
+236,"Warren County,Kentucky","Gloucester County,Virginia",38574,1138890
+237,"Warren County,Kentucky","Goochland County,Virginia",33545,1001604
+238,"Warren County,Kentucky","Grayson County,Virginia",23826,657029
+239,"Warren County,Kentucky","Greene County,Virginia",32957,954406
+240,"Warren County,Kentucky","Greensville County,Virginia",37078,1044077
+241,"Warren County,Kentucky","Halifax County,Virginia",32397,891549
+242,"Warren County,Kentucky","Hanover County,Virginia",34752,1042711
+243,"Warren County,Kentucky","Henrico County,Virginia",35263,1055671
+244,"Warren County,Kentucky","Henry County,Virginia",27967,780582
+245,"Warren County,Kentucky","Highland County,Virginia",30089,841125
+246,"Warren County,Kentucky","Isle of Wight County,Virginia",39515,1160248
+247,"Warren County,Kentucky","James City County,Virginia",37640,1125473
+248,"Warren County,Kentucky","King and Queen County,Virginia",37298,1101057
+249,"Warren County,Kentucky","King George County,Virginia",37416,1115654
+250,"Warren County,Kentucky","King William County,Virginia",35985,1070979
+251,"Warren County,Kentucky","Lancaster County,Virginia",39778,1154065
+252,"Warren County,Kentucky","Lee County,Virginia",15501,392329
+253,"Warren County,Kentucky","Loudoun County,Virginia",36640,1081746
+254,"Warren County,Kentucky","Louisa County,Virginia",33203,984699
+255,"Warren County,Kentucky","Lunenburg County,Virginia",34871,963371
+256,"Warren County,Kentucky","Madison County,Virginia",33877,984146
+257,"Warren County,Kentucky","Mathews County,Virginia",39399,1162314
+258,"Warren County,Kentucky","Mecklenburg County,Virginia",34429,943094
+259,"Warren County,Kentucky","Middlesex County,Virginia",38176,1135091
+260,"Warren County,Kentucky","Montgomery County,Virginia",25160,724466
+261,"Warren County,Kentucky","Nelson County,Virginia",31503,898502
+262,"Warren County,Kentucky","New Kent County,Virginia",37076,1099387
+263,"Warren County,Kentucky","Northampton County,Virginia",42057,1242136
+264,"Warren County,Kentucky","Northumberland County,Virginia",39818,1152577
+265,"Warren County,Kentucky","Nottoway County,Virginia",34364,963750
+266,"Warren County,Kentucky","Orange County,Virginia",34165,992807
+267,"Warren County,Kentucky","Page County,Virginia",32810,967932
+268,"Warren County,Kentucky","Patrick County,Virginia",26199,738897
+269,"Warren County,Kentucky","Pittsylvania County,Virginia",30283,834791
+270,"Warren County,Kentucky","Powhatan County,Virginia",34799,1026826
+271,"Warren County,Kentucky","Prince Edward County,Virginia",32979,921086
+272,"Warren County,Kentucky","Prince George County,Virginia",37050,1099501
+273,"Warren County,Kentucky","Prince William County,Virginia",35682,1073235
+274,"Warren County,Kentucky","Pulaski County,Virginia",23836,685282
+275,"Warren County,Kentucky","Rappahannock County,Virginia",34641,1004419
+276,"Warren County,Kentucky","Richmond County,Virginia",38518,1125220
+277,"Warren County,Kentucky","Roanoke County,Virginia",25940,744403
+278,"Warren County,Kentucky","Rockbridge County,Virginia",27966,824201
+279,"Warren County,Kentucky","Rockingham County,Virginia",31849,940282
+280,"Warren County,Kentucky","Russell County,Virginia",20637,497276
+281,"Warren County,Kentucky","Scott County,Virginia",17820,440170
+282,"Warren County,Kentucky","Shenandoah County,Virginia",32354,970386
+283,"Warren County,Kentucky","Smyth County,Virginia",21106,596732
+284,"Warren County,Kentucky","Southampton County,Virginia",38694,1101601
+285,"Warren County,Kentucky","Spotsylvania County,Virginia",35219,1026538
+286,"Warren County,Kentucky","Stafford County,Virginia",36600,1050831
+287,"Warren County,Kentucky","Surry County,Virginia",38383,1124334
+288,"Warren County,Kentucky","Sussex County,Virginia",37978,1092380
+289,"Warren County,Kentucky","Tazewell County,Virginia",22125,550187
+290,"Warren County,Kentucky","Warren County,Virginia",34256,1014978
+291,"Warren County,Kentucky","Washington County,Virginia",20217,560817
+292,"Warren County,Kentucky","Westmoreland County,Virginia",38390,1132478
+293,"Warren County,Kentucky","Wise County,Virginia",16370,420353
+294,"Warren County,Kentucky","Wythe County,Virginia",22320,639191
+295,"Warren County,Kentucky","York County,Virginia",38927,1156247
+296,"Warren County,Kentucky","Alexandria City County,Virginia",37763,1132035
+297,"Warren County,Kentucky","Bedford City County,Virginia",28298,804346
+298,"Warren County,Kentucky","Bristol City County,Virginia",18816,528799
+299,"Warren County,Kentucky","Buena Vista City County,Virginia",28321,838178
+300,"Warren County,Kentucky","Charlottesville City County,Virginia",31433,934036
+301,"Warren County,Kentucky","Chesapeake City County,Virginia",40390,1209153
+302,"Warren County,Kentucky","Clifton Forge City County,Virginia",26177,776051
+303,"Warren County,Kentucky","Colonial Heights City County,Virginia",36099,1078378
+304,"Warren County,Kentucky","Covington City County,Virginia",25702,759430
+305,"Warren County,Kentucky","Danville City County,Virginia",30125,835038
+306,"Warren County,Kentucky","Emporia City County,Virginia",37234,1058266
+307,"Warren County,Kentucky","Fairfax City County,Virginia",36814,1098982
+308,"Warren County,Kentucky","Falls Church City County,Virginia",36955,1109166
+309,"Warren County,Kentucky","Franklin City County,Virginia",39320,1114736
+310,"Warren County,Kentucky","Fredericksburg City County,Virginia",36352,1036197
+311,"Warren County,Kentucky","Galax City County,Virginia",24717,699728
+312,"Warren County,Kentucky","Hampton City County,Virginia",38877,1165954
+313,"Warren County,Kentucky","Harrisonburg City County,Virginia",30909,920178
+314,"Warren County,Kentucky","Hopewell City County,Virginia",36136,1077344
+315,"Warren County,Kentucky","Lexington City County,Virginia",27955,826670
+316,"Warren County,Kentucky","Lynchburg City County,Virginia",30323,849222
+317,"Warren County,Kentucky","Manassas City County,Virginia",35909,1078180
+318,"Warren County,Kentucky","Manassas Park City County,Virginia",36411,1084523
+319,"Warren County,Kentucky","Martinsville City County,Virginia",28495,789376
+320,"Warren County,Kentucky","Newport News City County,Virginia",38434,1152440
+321,"Warren County,Kentucky","Norfolk City County,Virginia",40184,1191370
+322,"Warren County,Kentucky","Norton City County,Virginia",16998,432165
+323,"Warren County,Kentucky","Petersburg City County,Virginia",35971,1079366
+324,"Warren County,Kentucky","Poquoson City County,Virginia",39106,1163016
+325,"Warren County,Kentucky","Portsmouth City County,Virginia",40123,1200190
+326,"Warren County,Kentucky","Radford County,Virginia",24347,699230
+327,"Warren County,Kentucky","Richmond City County,Virginia",34839,1043481
+328,"Warren County,Kentucky","Roanoke City County,Virginia",26542,764507
+329,"Warren County,Kentucky","Salem City County,Virginia",25954,751057
+330,"Warren County,Kentucky","South Boston City County,Virginia",32137,889217
+331,"Warren County,Kentucky","Staunton City County,Virginia",29726,881313
+332,"Warren County,Kentucky","Suffolk City County,Virginia",40636,1148038
+333,"Warren County,Kentucky","Virginia Beach City County,Virginia",40745,1214628
+334,"Warren County,Kentucky","Waynesboro City County,Virginia",30064,894031
+335,"Warren County,Kentucky","Williamsburg City County,Virginia",37478,1124689
+336,"Warren County,Kentucky","Winchester City County,Virginia",34288,994015
+337,"Warren County,Kentucky","Barbour County,West Virginia",25769,754712
+338,"Warren County,Kentucky","Berkeley County,West Virginia",33702,992871
+339,"Warren County,Kentucky","Boone County,West Virginia",20948,588328
+340,"Warren County,Kentucky","Braxton County,West Virginia",22459,645691
+341,"Warren County,Kentucky","Brooke County,West Virginia",25813,746561
+342,"Warren County,Kentucky","Cabell County,West Virginia",15519,454837
+343,"Warren County,Kentucky","Calhoun County,West Virginia",22380,643375
+344,"Warren County,Kentucky","Clay County,West Virginia",21226,616604
+345,"Warren County,Kentucky","Doddridge County,West Virginia",24912,736221
+346,"Warren County,Kentucky","Fayette County,West Virginia",22513,634948
+347,"Warren County,Kentucky","Gilmer County,West Virginia",23658,667878
+348,"Warren County,Kentucky","Grant County,West Virginia",30124,856257
+349,"Warren County,Kentucky","Greenbrier County,West Virginia",25587,712986
+350,"Warren County,Kentucky","Hampshire County,West Virginia",32956,954474
+351,"Warren County,Kentucky","Hancock County,West Virginia",27403,781096
+352,"Warren County,Kentucky","Hardy County,West Virginia",31180,887754
+353,"Warren County,Kentucky","Harrison County,West Virginia",25002,741082
+354,"Warren County,Kentucky","Jackson County,West Virginia",20264,597707
+355,"Warren County,Kentucky","Jefferson County,West Virginia",35168,1048869
+356,"Warren County,Kentucky","Kanawha County,West Virginia",19822,569012
+357,"Warren County,Kentucky","Lewis County,West Virginia",23632,694552
+358,"Warren County,Kentucky","Lincoln County,West Virginia",18736,512487
+359,"Warren County,Kentucky","Logan County,West Virginia",20668,529253
+360,"Warren County,Kentucky","McDowell County,West Virginia",24016,562334
+361,"Warren County,Kentucky","Marion County,West Virginia",26148,768250
+362,"Warren County,Kentucky","Marshall County,West Virginia",25771,741068
+363,"Warren County,Kentucky","Mason County,West Virginia",18500,545582
+364,"Warren County,Kentucky","Mercer County,West Virginia",23148,680571
+365,"Warren County,Kentucky","Mineral County,West Virginia",31818,885078
+366,"Warren County,Kentucky","Mingo County,West Virginia",19352,495706
+367,"Warren County,Kentucky","Monongalia County,West Virginia",26358,793718
+368,"Warren County,Kentucky","Monroe County,West Virginia",26194,725282
+369,"Warren County,Kentucky","Morgan County,West Virginia",33193,982263
+370,"Warren County,Kentucky","Nicholas County,West Virginia",22942,676484
+371,"Warren County,Kentucky","Ohio County,West Virginia",24832,727798
+372,"Warren County,Kentucky","Pendleton County,West Virginia",30455,858881
+373,"Warren County,Kentucky","Pleasants County,West Virginia",23747,695559
+374,"Warren County,Kentucky","Pocahontas County,West Virginia",28271,746023
+375,"Warren County,Kentucky","Preston County,West Virginia",28504,820449
+376,"Warren County,Kentucky","Putnam County,West Virginia",17202,507615
+377,"Warren County,Kentucky","Raleigh County,West Virginia",21690,634264
+378,"Warren County,Kentucky","Randolph County,West Virginia",26133,757007
+379,"Warren County,Kentucky","Ritchie County,West Virginia",24077,709263
+380,"Warren County,Kentucky","Roane County,West Virginia",21890,626523
+381,"Warren County,Kentucky","Summers County,West Virginia",25142,695701
+382,"Warren County,Kentucky","Taylor County,West Virginia",26040,763822
+383,"Warren County,Kentucky","Tucker County,West Virginia",27200,787532
+384,"Warren County,Kentucky","Tyler County,West Virginia",25656,735174
+385,"Warren County,Kentucky","Upshur County,West Virginia",25197,709249
+386,"Warren County,Kentucky","Wayne County,West Virginia",17050,476033
+387,"Warren County,Kentucky","Webster County,West Virginia",25126,703564
+388,"Warren County,Kentucky","Wetzel County,West Virginia",26868,757081
+389,"Warren County,Kentucky","Wirt County,West Virginia",22530,655045
+390,"Warren County,Kentucky","Wood County,West Virginia",22045,656735
+391,"Warren County,Kentucky","Wyoming County,West Virginia",23638,568192

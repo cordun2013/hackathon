@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Menifee County,Kentucky","Adair County,Kentucky",10325,247336
+1,"Menifee County,Kentucky","Allen County,Kentucky",12943,347983
+2,"Menifee County,Kentucky","Anderson County,Kentucky",6125,150375
+3,"Menifee County,Kentucky","Ballard County,Kentucky",19103,540146
+4,"Menifee County,Kentucky","Barren County,Kentucky",12070,306363
+5,"Menifee County,Kentucky","Bath County,Kentucky",1347,25128
+6,"Menifee County,Kentucky","Bell County,Kentucky",10726,194130
+7,"Menifee County,Kentucky","Boone County,Kentucky",7833,202083
+8,"Menifee County,Kentucky","Bourbon County,Kentucky",3714,70322
+9,"Menifee County,Kentucky","Boyd County,Kentucky",4870,122158
+10,"Menifee County,Kentucky","Boyle County,Kentucky",7354,154261
+11,"Menifee County,Kentucky","Bracken County,Kentucky",6226,127825
+12,"Menifee County,Kentucky","Breathitt County,Kentucky",4350,78010
+13,"Menifee County,Kentucky","Breckinridge County,Kentucky",11658,303056
+14,"Menifee County,Kentucky","Bullitt County,Kentucky",8228,224175
+15,"Menifee County,Kentucky","Butler County,Kentucky",12323,325054
+16,"Menifee County,Kentucky","Caldwell County,Kentucky",15215,430999
+17,"Menifee County,Kentucky","Calloway County,Kentucky",18025,515992
+18,"Menifee County,Kentucky","Campbell County,Kentucky",7666,159902
+19,"Menifee County,Kentucky","Carlisle County,Kentucky",19560,555514
+20,"Menifee County,Kentucky","Carroll County,Kentucky",8669,198189
+21,"Menifee County,Kentucky","Carter County,Kentucky",4007,91415
+22,"Menifee County,Kentucky","Casey County,Kentucky",8848,185766
+23,"Menifee County,Kentucky","Christian County,Kentucky",14864,426256
+24,"Menifee County,Kentucky","Clay County,Kentucky",6978,126427
+25,"Menifee County,Kentucky","Clinton County,Kentucky",10732,250701
+26,"Menifee County,Kentucky","Crittenden County,Kentucky",16795,464069
+27,"Menifee County,Kentucky","Cumberland County,Kentucky",11486,268940
+28,"Menifee County,Kentucky","Daviess County,Kentucky",13346,371496
+29,"Menifee County,Kentucky","Edmonson County,Kentucky",11763,312929
+30,"Menifee County,Kentucky","Elliott County,Kentucky",4464,79016
+31,"Menifee County,Kentucky","Estill County,Kentucky",3421,62546
+32,"Menifee County,Kentucky","Fayette County,Kentucky",3932,87867
+33,"Menifee County,Kentucky","Fleming County,Kentucky",3469,66739
+34,"Menifee County,Kentucky","Floyd County,Kentucky",5589,118995
+35,"Menifee County,Kentucky","Franklin County,Kentucky",5969,136784
+36,"Menifee County,Kentucky","Fulton County,Kentucky",19964,576478
+37,"Menifee County,Kentucky","Gallatin County,Kentucky",7667,188848
+38,"Menifee County,Kentucky","Garrard County,Kentucky",6537,135021
+39,"Menifee County,Kentucky","Grant County,Kentucky",6466,162955
+40,"Menifee County,Kentucky","Graves County,Kentucky",18585,528220
+41,"Menifee County,Kentucky","Grayson County,Kentucky",10650,281690
+42,"Menifee County,Kentucky","Green County,Kentucky",10430,246895
+43,"Menifee County,Kentucky","Greenup County,Kentucky",5475,118745
+44,"Menifee County,Kentucky","Hancock County,Kentucky",12454,335949
+45,"Menifee County,Kentucky","Hardin County,Kentucky",9526,243822
+46,"Menifee County,Kentucky","Harlan County,Kentucky",10810,214648
+47,"Menifee County,Kentucky","Harrison County,Kentucky",5284,103422
+48,"Menifee County,Kentucky","Hart County,Kentucky",10326,271451
+49,"Menifee County,Kentucky","Henderson County,Kentucky",15152,423926
+50,"Menifee County,Kentucky","Henry County,Kentucky",7571,180502
+51,"Menifee County,Kentucky","Hickman County,Kentucky",19594,556806
+52,"Menifee County,Kentucky","Hopkins County,Kentucky",14673,405467
+53,"Menifee County,Kentucky","Jackson County,Kentucky",6094,110555
+54,"Menifee County,Kentucky","Jefferson County,Kentucky",7664,196036
+55,"Menifee County,Kentucky","Jessamine County,Kentucky",5401,109331
+56,"Menifee County,Kentucky","Johnson County,Kentucky",4543,94988
+57,"Menifee County,Kentucky","Kenton County,Kentucky",7719,197799
+58,"Menifee County,Kentucky","Knott County,Kentucky",6810,141388
+59,"Menifee County,Kentucky","Knox County,Kentucky",9004,173035
+60,"Menifee County,Kentucky","Larue County,Kentucky",9598,230998
+61,"Menifee County,Kentucky","Laurel County,Kentucky",7791,185308
+62,"Menifee County,Kentucky","Lawrence County,Kentucky",5957,111160
+63,"Menifee County,Kentucky","Lee County,Kentucky",3836,64139
+64,"Menifee County,Kentucky","Leslie County,Kentucky",7838,159555
+65,"Menifee County,Kentucky","Letcher County,Kentucky",8063,166361
+66,"Menifee County,Kentucky","Lewis County,Kentucky",4565,89060
+67,"Menifee County,Kentucky","Lincoln County,Kentucky",7247,151939
+68,"Menifee County,Kentucky","Livingston County,Kentucky",17390,480966
+69,"Menifee County,Kentucky","Logan County,Kentucky",14063,368292
+70,"Menifee County,Kentucky","Lyon County,Kentucky",17524,491357
+71,"Menifee County,Kentucky","McCracken County,Kentucky",17715,508206
+72,"Menifee County,Kentucky","McCreary County,Kentucky",9896,229750
+73,"Menifee County,Kentucky","Madison County,Kentucky",4924,94562
+74,"Menifee County,Kentucky","Magoffin County,Kentucky",4012,76855
+75,"Menifee County,Kentucky","Marion County,Kentucky",7976,192607
+76,"Menifee County,Kentucky","Marshall County,Kentucky",17130,491778
+77,"Menifee County,Kentucky","Martin County,Kentucky",7329,153334
+78,"Menifee County,Kentucky","Mason County,Kentucky",5575,107371
+79,"Menifee County,Kentucky","Meade County,Kentucky",10125,268351
+80,"Menifee County,Kentucky","Mercer County,Kentucky",6352,148318
+81,"Menifee County,Kentucky","Metcalfe County,Kentucky",10981,277600
+82,"Menifee County,Kentucky","Monroe County,Kentucky",12951,315104
+83,"Menifee County,Kentucky","Montgomery County,Kentucky",1879,34098
+84,"Menifee County,Kentucky","Morgan County,Kentucky",2346,46554
+85,"Menifee County,Kentucky","Muhlenberg County,Kentucky",13534,371943
+86,"Menifee County,Kentucky","Nelson County,Kentucky",7584,191679
+87,"Menifee County,Kentucky","Nicholas County,Kentucky",4482,80451
+88,"Menifee County,Kentucky","Ohio County,Kentucky",12447,339533
+89,"Menifee County,Kentucky","Oldham County,Kentucky",7736,207917
+90,"Menifee County,Kentucky","Owen County,Kentucky",6791,163561
+91,"Menifee County,Kentucky","Owsley County,Kentucky",4983,84116
+92,"Menifee County,Kentucky","Pendleton County,Kentucky",6844,140549
+93,"Menifee County,Kentucky","Perry County,Kentucky",5961,117893
+94,"Menifee County,Kentucky","Pike County,Kentucky",7269,149319
+95,"Menifee County,Kentucky","Powell County,Kentucky",2254,43822
+96,"Menifee County,Kentucky","Robertson County,Kentucky",5253,101577
+97,"Menifee County,Kentucky","Rockcastle County,Kentucky",6364,140033
+98,"Menifee County,Kentucky","Rowan County,Kentucky",2354,44554
+99,"Menifee County,Kentucky","Russell County,Kentucky",9929,231319
+100,"Menifee County,Kentucky","Scott County,Kentucky",4766,115894
+101,"Menifee County,Kentucky","Shelby County,Kentucky",6593,167170
+102,"Menifee County,Kentucky","Simpson County,Kentucky",13645,376349
+103,"Menifee County,Kentucky","Spencer County,Kentucky",7123,173018
+104,"Menifee County,Kentucky","Taylor County,Kentucky",9265,224103
+105,"Menifee County,Kentucky","Todd County,Kentucky",15299,392452
+106,"Menifee County,Kentucky","Trigg County,Kentucky",16277,452185
+107,"Menifee County,Kentucky","Trimble County,Kentucky",8810,213957
+108,"Menifee County,Kentucky","Union County,Kentucky",16872,454372
+109,"Menifee County,Kentucky","Warren County,Kentucky",12679,341298
+110,"Menifee County,Kentucky","Washington County,Kentucky",7594,176915
+111,"Menifee County,Kentucky","Wayne County,Kentucky",10105,228392
+112,"Menifee County,Kentucky","Webster County,Kentucky",15783,433556
+113,"Menifee County,Kentucky","Whitley County,Kentucky",8624,219793
+114,"Menifee County,Kentucky","Wolfe County,Kentucky",2304,37878
+115,"Menifee County,Kentucky","Woodford County,Kentucky",4986,118530
+116,"Menifee County,Kentucky","Adams County,Ohio",7482,141578
+117,"Menifee County,Kentucky","Allen County,Ohio",15139,423692
+118,"Menifee County,Kentucky","Ashland County,Ohio",17612,425128
+119,"Menifee County,Kentucky","Ashtabula County,Ohio",23358,609879
+120,"Menifee County,Kentucky","Athens County,Ohio",11197,280177
+121,"Menifee County,Kentucky","Auglaize County,Ohio",14395,410957
+122,"Menifee County,Kentucky","Belmont County,Ohio",16948,496748
+123,"Menifee County,Kentucky","Brown County,Ohio",6910,136855
+124,"Menifee County,Kentucky","Butler County,Ohio",10216,273566
+125,"Menifee County,Kentucky","Carroll County,Ohio",18878,533635
+126,"Menifee County,Kentucky","Champaign County,Ohio",13173,365139
+127,"Menifee County,Kentucky","Clark County,Ohio",12601,351771
+128,"Menifee County,Kentucky","Clermont County,Ohio",8731,178256
+129,"Menifee County,Kentucky","Clinton County,Ohio",9607,196745
+130,"Menifee County,Kentucky","Columbiana County,Ohio",20719,587870
+131,"Menifee County,Kentucky","Coshocton County,Ohio",17212,397040
+132,"Menifee County,Kentucky","Crawford County,Ohio",17226,393586
+133,"Menifee County,Kentucky","Cuyahoga County,Ohio",19930,507593
+134,"Menifee County,Kentucky","Darke County,Ohio",13492,368004
+135,"Menifee County,Kentucky","Defiance County,Ohio",18626,502122
+136,"Menifee County,Kentucky","Delaware County,Ohio",14529,331800
+137,"Menifee County,Kentucky","Fairfield County,Ohio",13074,283623
+138,"Menifee County,Kentucky","Fayette County,Ohio",11063,221042
+139,"Menifee County,Kentucky","Franklin County,Ohio",13047,291727
+140,"Menifee County,Kentucky","Fulton County,Ohio",19390,519066
+141,"Menifee County,Kentucky","Gallia County,Ohio",9155,222530
+142,"Menifee County,Kentucky","Geauga County,Ohio",21458,546811
+143,"Menifee County,Kentucky","Greene County,Ohio",11430,232675
+144,"Menifee County,Kentucky","Guernsey County,Ohio",15063,442670
+145,"Menifee County,Kentucky","Hamilton County,Ohio",8871,238050
+146,"Menifee County,Kentucky","Hancock County,Ohio",16248,464587
+147,"Menifee County,Kentucky","Hardin County,Ohio",16035,448985
+148,"Menifee County,Kentucky","Harrison County,Ohio",17883,515700
+149,"Menifee County,Kentucky","Henry County,Ohio",17972,489056
+150,"Menifee County,Kentucky","Highland County,Ohio",9058,182058
+151,"Menifee County,Kentucky","Hocking County,Ohio",12339,273416
+152,"Menifee County,Kentucky","Holmes County,Ohio",18572,527636
+153,"Menifee County,Kentucky","Huron County,Ohio",18759,423898
+154,"Menifee County,Kentucky","Jackson County,Ohio",8706,205725
+155,"Menifee County,Kentucky","Jefferson County,Ohio",18876,525478
+156,"Menifee County,Kentucky","Knox County,Ohio",16979,391421
+157,"Menifee County,Kentucky","Lawrence County,Ohio",7277,158586
+158,"Menifee County,Kentucky","Licking County,Ohio",15050,339484
+159,"Menifee County,Kentucky","Logan County,Ohio",14407,397675
+160,"Menifee County,Kentucky","Lorain County,Ohio",20544,482552
+161,"Menifee County,Kentucky","Lucas County,Ohio",19573,551107
+162,"Menifee County,Kentucky","Madison County,Ohio",13148,280986
+163,"Menifee County,Kentucky","Mahoning County,Ohio",21215,602675
+164,"Menifee County,Kentucky","Marion County,Ohio",15786,352416
+165,"Menifee County,Kentucky","Medina County,Ohio",18257,450141
+166,"Menifee County,Kentucky","Meigs County,Ohio",10087,252913
+167,"Menifee County,Kentucky","Mercer County,Ohio",15631,437891
+168,"Menifee County,Kentucky","Miami County,Ohio",11981,333396
+169,"Menifee County,Kentucky","Monroe County,Ohio",15999,431862
+170,"Menifee County,Kentucky","Montgomery County,Ohio",11364,311136
+171,"Menifee County,Kentucky","Morgan County,Ohio",14151,347202
+172,"Menifee County,Kentucky","Morrow County,Ohio",15337,354620
+173,"Menifee County,Kentucky","Muskingum County,Ohio",15268,364236
+174,"Menifee County,Kentucky","Noble County,Ohio",14505,415022
+175,"Menifee County,Kentucky","Paulding County,Ohio",17670,486670
+176,"Menifee County,Kentucky","Perry County,Ohio",14256,300866
+177,"Menifee County,Kentucky","Pickaway County,Ohio",11285,250025
+178,"Menifee County,Kentucky","Pike County,Ohio",8247,175152
+179,"Menifee County,Kentucky","Portage County,Ohio",20436,600621
+180,"Menifee County,Kentucky","Preble County,Ohio",12261,317965
+181,"Menifee County,Kentucky","Putnam County,Ohio",16314,456160
+182,"Menifee County,Kentucky","Richland County,Ohio",16366,389859
+183,"Menifee County,Kentucky","Ross County,Ohio",10030,216332
+184,"Menifee County,Kentucky","Sandusky County,Ohio",19288,544663
+185,"Menifee County,Kentucky","Scioto County,Ohio",7557,157277
+186,"Menifee County,Kentucky","Seneca County,Ohio",18592,520927
+187,"Menifee County,Kentucky","Shelby County,Ohio",13019,369681
+188,"Menifee County,Kentucky","Stark County,Ohio",18737,548870
+189,"Menifee County,Kentucky","Summit County,Ohio",19460,485468
+190,"Menifee County,Kentucky","Trumbull County,Ohio",22170,628922
+191,"Menifee County,Kentucky","Tuscarawas County,Ohio",16937,489457
+192,"Menifee County,Kentucky","Union County,Ohio",14580,333777
+193,"Menifee County,Kentucky","Van Wert County,Ohio",16304,456215
+194,"Menifee County,Kentucky","Vinton County,Ohio",11277,249827
+195,"Menifee County,Kentucky","Warren County,Ohio",9750,264307
+196,"Menifee County,Kentucky","Washington County,Ohio",13124,324862
+197,"Menifee County,Kentucky","Wayne County,Ohio",17985,439138
+198,"Menifee County,Kentucky","Williams County,Ohio",19803,525639
+199,"Menifee County,Kentucky","Wood County,Ohio",17336,505216
+200,"Menifee County,Kentucky","Wyandot County,Ohio",16943,485467
+201,"Menifee County,Kentucky","Accomack County,Virginia",34955,996026
+202,"Menifee County,Kentucky","Albemarle County,Virginia",21105,608526
+203,"Menifee County,Kentucky","Alleghany County,Virginia",15774,445549
+204,"Menifee County,Kentucky","Amelia County,Virginia",25806,708644
+205,"Menifee County,Kentucky","Amherst County,Virginia",21103,576515
+206,"Menifee County,Kentucky","Appomattox County,Virginia",22696,615274
+207,"Menifee County,Kentucky","Arlington County,Virginia",27388,804558
+208,"Menifee County,Kentucky","Augusta County,Virginia",19716,546866
+209,"Menifee County,Kentucky","Bath County,Virginia",18786,520859
+210,"Menifee County,Kentucky","Bedford County,Virginia",21363,562640
+211,"Menifee County,Kentucky","Bland County,Virginia",14736,411769
+212,"Menifee County,Kentucky","Botetourt County,Virginia",18928,516848
+213,"Menifee County,Kentucky","Brunswick County,Virginia",28349,758317
+214,"Menifee County,Kentucky","Buchanan County,Virginia",11321,228825
+215,"Menifee County,Kentucky","Buckingham County,Virginia",22979,626209
+216,"Menifee County,Kentucky","Campbell County,Virginia",22620,617746
+217,"Menifee County,Kentucky","Caroline County,Virginia",26444,777372
+218,"Menifee County,Kentucky","Carroll County,Virginia",16982,481206
+219,"Menifee County,Kentucky","Charles City County,Virginia",26545,774406
+220,"Menifee County,Kentucky","Charlotte County,Virginia",24581,668795
+221,"Menifee County,Kentucky","Chesterfield County,Virginia",25681,752190
+222,"Menifee County,Kentucky","Clarke County,Virginia",25285,735584
+223,"Menifee County,Kentucky","Craig County,Virginia",17417,466634
+224,"Menifee County,Kentucky","Culpeper County,Virginia",24902,697743
+225,"Menifee County,Kentucky","Cumberland County,Virginia",24189,654212
+226,"Menifee County,Kentucky","Dickenson County,Virginia",11129,234322
+227,"Menifee County,Kentucky","Dinwiddie County,Virginia",27428,802622
+228,"Menifee County,Kentucky","Essex County,Virginia",28262,801414
+229,"Menifee County,Kentucky","Fairfax County,Virginia",27079,795225
+230,"Menifee County,Kentucky","Fauquier County,Virginia",25723,756835
+231,"Menifee County,Kentucky","Floyd County,Virginia",18602,500171
+232,"Menifee County,Kentucky","Fluvanna County,Virginia",22783,660698
+233,"Menifee County,Kentucky","Franklin County,Virginia",20876,563873
+234,"Menifee County,Kentucky","Frederick County,Virginia",23950,649718
+235,"Menifee County,Kentucky","Giles County,Virginia",15467,423327
+236,"Menifee County,Kentucky","Gloucester County,Virginia",28715,828595
+237,"Menifee County,Kentucky","Goochland County,Virginia",23687,691309
+238,"Menifee County,Kentucky","Grayson County,Virginia",17384,470914
+239,"Menifee County,Kentucky","Greene County,Virginia",23098,644110
+240,"Menifee County,Kentucky","Greensville County,Virginia",28844,851373
+241,"Menifee County,Kentucky","Halifax County,Virginia",25285,678893
+242,"Menifee County,Kentucky","Hanover County,Virginia",24893,732415
+243,"Menifee County,Kentucky","Henrico County,Virginia",25404,745375
+244,"Menifee County,Kentucky","Henry County,Virginia",20855,567927
+245,"Menifee County,Kentucky","Highland County,Virginia",20230,530829
+246,"Menifee County,Kentucky","Isle of Wight County,Virginia",29656,849952
+247,"Menifee County,Kentucky","James City County,Virginia",27781,815177
+248,"Menifee County,Kentucky","King and Queen County,Virginia",27439,790761
+249,"Menifee County,Kentucky","King George County,Virginia",27557,805358
+250,"Menifee County,Kentucky","King William County,Virginia",26126,760684
+251,"Menifee County,Kentucky","Lancaster County,Virginia",29919,843769
+252,"Menifee County,Kentucky","Lee County,Virginia",12432,244827
+253,"Menifee County,Kentucky","Loudoun County,Virginia",26781,771451
+254,"Menifee County,Kentucky","Louisa County,Virginia",23344,674404
+255,"Menifee County,Kentucky","Lunenburg County,Virginia",26353,710079
+256,"Menifee County,Kentucky","Madison County,Virginia",24018,673851
+257,"Menifee County,Kentucky","Mathews County,Virginia",29540,852018
+258,"Menifee County,Kentucky","Mecklenburg County,Virginia",27344,723203
+259,"Menifee County,Kentucky","Middlesex County,Virginia",28317,824795
+260,"Menifee County,Kentucky","Montgomery County,Virginia",16550,451334
+261,"Menifee County,Kentucky","Nelson County,Virginia",21644,588206
+262,"Menifee County,Kentucky","New Kent County,Virginia",27217,789091
+263,"Menifee County,Kentucky","Northampton County,Virginia",32198,931841
+264,"Menifee County,Kentucky","Northumberland County,Virginia",29959,842281
+265,"Menifee County,Kentucky","Nottoway County,Virginia",25846,710458
+266,"Menifee County,Kentucky","Orange County,Virginia",24306,682511
+267,"Menifee County,Kentucky","Page County,Virginia",22951,657636
+268,"Menifee County,Kentucky","Patrick County,Virginia",19087,526242
+269,"Menifee County,Kentucky","Pittsylvania County,Virginia",23171,622135
+270,"Menifee County,Kentucky","Powhatan County,Virginia",24940,716530
+271,"Menifee County,Kentucky","Prince Edward County,Virginia",24461,667794
+272,"Menifee County,Kentucky","Prince George County,Virginia",27191,789205
+273,"Menifee County,Kentucky","Prince William County,Virginia",25823,762939
+274,"Menifee County,Kentucky","Pulaski County,Virginia",16645,447665
+275,"Menifee County,Kentucky","Rappahannock County,Virginia",24783,694123
+276,"Menifee County,Kentucky","Richmond County,Virginia",28659,814925
+277,"Menifee County,Kentucky","Roanoke County,Virginia",18170,494127
+278,"Menifee County,Kentucky","Rockbridge County,Virginia",18107,513905
+279,"Menifee County,Kentucky","Rockingham County,Virginia",21991,629986
+280,"Menifee County,Kentucky","Russell County,Virginia",12852,247374
+281,"Menifee County,Kentucky","Scott County,Virginia",12605,281775
+282,"Menifee County,Kentucky","Shenandoah County,Virginia",22495,660090
+283,"Menifee County,Kentucky","Smyth County,Virginia",15416,349923
+284,"Menifee County,Kentucky","Southampton County,Virginia",29222,847487
+285,"Menifee County,Kentucky","Spotsylvania County,Virginia",25360,716242
+286,"Menifee County,Kentucky","Stafford County,Virginia",26741,740535
+287,"Menifee County,Kentucky","Surry County,Virginia",28524,814039
+288,"Menifee County,Kentucky","Sussex County,Virginia",27886,817730
+289,"Menifee County,Kentucky","Tazewell County,Virginia",13565,285600
+290,"Menifee County,Kentucky","Warren County,Virginia",24398,704682
+291,"Menifee County,Kentucky","Washington County,Virginia",13527,301040
+292,"Menifee County,Kentucky","Westmoreland County,Virginia",28532,822183
+293,"Menifee County,Kentucky","Wise County,Virginia",9394,210221
+294,"Menifee County,Kentucky","Wythe County,Virginia",15341,429986
+295,"Menifee County,Kentucky","York County,Virginia",29069,845952
+296,"Menifee County,Kentucky","Alexandria City County,Virginia",27904,821740
+297,"Menifee County,Kentucky","Bedford City County,Virginia",20527,554071
+298,"Menifee County,Kentucky","Bristol City County,Virginia",14367,321926
+299,"Menifee County,Kentucky","Buena Vista City County,Virginia",18462,527883
+300,"Menifee County,Kentucky","Charlottesville City County,Virginia",21574,623741
+301,"Menifee County,Kentucky","Chesapeake City County,Virginia",30532,898857
+302,"Menifee County,Kentucky","Clifton Forge City County,Virginia",16318,465756
+303,"Menifee County,Kentucky","Colonial Heights City County,Virginia",26241,768082
+304,"Menifee County,Kentucky","Covington City County,Virginia",15843,449134
+305,"Menifee County,Kentucky","Danville City County,Virginia",23013,622383
+306,"Menifee County,Kentucky","Emporia City County,Virginia",28551,837967
+307,"Menifee County,Kentucky","Fairfax City County,Virginia",26955,788687
+308,"Menifee County,Kentucky","Falls Church City County,Virginia",27096,798870
+309,"Menifee County,Kentucky","Franklin City County,Virginia",29769,855342
+310,"Menifee County,Kentucky","Fredericksburg City County,Virginia",26493,725902
+311,"Menifee County,Kentucky","Galax City County,Virginia",17605,487072
+312,"Menifee County,Kentucky","Hampton City County,Virginia",29019,855658
+313,"Menifee County,Kentucky","Harrisonburg City County,Virginia",21050,609882
+314,"Menifee County,Kentucky","Hopewell City County,Virginia",26277,767049
+315,"Menifee County,Kentucky","Lexington City County,Virginia",18096,516374
+316,"Menifee County,Kentucky","Lynchburg City County,Virginia",21679,591489
+317,"Menifee County,Kentucky","Manassas City County,Virginia",26050,767884
+318,"Menifee County,Kentucky","Manassas Park City County,Virginia",26553,774227
+319,"Menifee County,Kentucky","Martinsville City County,Virginia",21383,576721
+320,"Menifee County,Kentucky","Newport News City County,Virginia",28575,842144
+321,"Menifee County,Kentucky","Norfolk City County,Virginia",30325,881074
+322,"Menifee County,Kentucky","Norton City County,Virginia",10023,222033
+323,"Menifee County,Kentucky","Petersburg City County,Virginia",26112,769070
+324,"Menifee County,Kentucky","Poquoson City County,Virginia",29247,852720
+325,"Menifee County,Kentucky","Portsmouth City County,Virginia",30264,889895
+326,"Menifee County,Kentucky","Radford County,Virginia",16957,449374
+327,"Menifee County,Kentucky","Richmond City County,Virginia",24980,733185
+328,"Menifee County,Kentucky","Roanoke City County,Virginia",18772,514232
+329,"Menifee County,Kentucky","Salem City County,Virginia",18183,500782
+330,"Menifee County,Kentucky","South Boston City County,Virginia",25025,676561
+331,"Menifee County,Kentucky","Staunton City County,Virginia",19867,571018
+332,"Menifee County,Kentucky","Suffolk City County,Virginia",30499,864676
+333,"Menifee County,Kentucky","Virginia Beach City County,Virginia",30886,904332
+334,"Menifee County,Kentucky","Waynesboro City County,Virginia",20205,583736
+335,"Menifee County,Kentucky","Williamsburg City County,Virginia",27619,814393
+336,"Menifee County,Kentucky","Winchester City County,Virginia",24429,683719
+337,"Menifee County,Kentucky","Barbour County,West Virginia",15910,444416
+338,"Menifee County,Kentucky","Berkeley County,West Virginia",23843,682575
+339,"Menifee County,Kentucky","Boone County,West Virginia",11089,278033
+340,"Menifee County,Kentucky","Braxton County,West Virginia",12600,335395
+341,"Menifee County,Kentucky","Brooke County,West Virginia",19027,538996
+342,"Menifee County,Kentucky","Cabell County,West Virginia",5660,144542
+343,"Menifee County,Kentucky","Calhoun County,West Virginia",12521,333080
+344,"Menifee County,Kentucky","Clay County,West Virginia",11367,306308
+345,"Menifee County,Kentucky","Doddridge County,West Virginia",15053,425925
+346,"Menifee County,Kentucky","Fayette County,West Virginia",12654,324652
+347,"Menifee County,Kentucky","Gilmer County,West Virginia",13799,357582
+348,"Menifee County,Kentucky","Grant County,West Virginia",20265,545961
+349,"Menifee County,Kentucky","Greenbrier County,West Virginia",15728,402691
+350,"Menifee County,Kentucky","Hampshire County,West Virginia",23097,644179
+351,"Menifee County,Kentucky","Hancock County,West Virginia",20616,573532
+352,"Menifee County,Kentucky","Hardy County,West Virginia",21321,577458
+353,"Menifee County,Kentucky","Harrison County,West Virginia",15143,430787
+354,"Menifee County,Kentucky","Jackson County,West Virginia",10405,287411
+355,"Menifee County,Kentucky","Jefferson County,West Virginia",25309,738573
+356,"Menifee County,Kentucky","Kanawha County,West Virginia",9963,258716
+357,"Menifee County,Kentucky","Lewis County,West Virginia",13773,384257
+358,"Menifee County,Kentucky","Lincoln County,West Virginia",8877,202192
+359,"Menifee County,Kentucky","Logan County,West Virginia",10324,220088
+360,"Menifee County,Kentucky","McDowell County,West Virginia",14176,272277
+361,"Menifee County,Kentucky","Marion County,West Virginia",16289,457954
+362,"Menifee County,Kentucky","Marshall County,West Virginia",18413,475097
+363,"Menifee County,Kentucky","Mason County,West Virginia",8642,235286
+364,"Menifee County,Kentucky","Mercer County,West Virginia",13290,370275
+365,"Menifee County,Kentucky","Mineral County,West Virginia",21960,574782
+366,"Menifee County,Kentucky","Mingo County,West Virginia",9008,186541
+367,"Menifee County,Kentucky","Monongalia County,West Virginia",16499,483422
+368,"Menifee County,Kentucky","Monroe County,West Virginia",16335,414987
+369,"Menifee County,Kentucky","Morgan County,West Virginia",23335,671967
+370,"Menifee County,Kentucky","Nicholas County,West Virginia",13083,366188
+371,"Menifee County,Kentucky","Ohio County,West Virginia",18046,520234
+372,"Menifee County,Kentucky","Pendleton County,West Virginia",20596,548585
+373,"Menifee County,Kentucky","Pleasants County,West Virginia",13888,385263
+374,"Menifee County,Kentucky","Pocahontas County,West Virginia",18412,435727
+375,"Menifee County,Kentucky","Preston County,West Virginia",18645,510153
+376,"Menifee County,Kentucky","Putnam County,West Virginia",7344,197319
+377,"Menifee County,Kentucky","Raleigh County,West Virginia",11831,323968
+378,"Menifee County,Kentucky","Randolph County,West Virginia",16274,446712
+379,"Menifee County,Kentucky","Ritchie County,West Virginia",14218,398967
+380,"Menifee County,Kentucky","Roane County,West Virginia",12031,316227
+381,"Menifee County,Kentucky","Summers County,West Virginia",15283,385406
+382,"Menifee County,Kentucky","Taylor County,West Virginia",16181,453526
+383,"Menifee County,Kentucky","Tucker County,West Virginia",17341,477236
+384,"Menifee County,Kentucky","Tyler County,West Virginia",15797,424878
+385,"Menifee County,Kentucky","Upshur County,West Virginia",15338,398954
+386,"Menifee County,Kentucky","Wayne County,West Virginia",7191,165737
+387,"Menifee County,Kentucky","Webster County,West Virginia",15267,393268
+388,"Menifee County,Kentucky","Wetzel County,West Virginia",17009,446785
+389,"Menifee County,Kentucky","Wirt County,West Virginia",12672,344749
+390,"Menifee County,Kentucky","Wood County,West Virginia",12186,346439
+391,"Menifee County,Kentucky","Wyoming County,West Virginia",13755,278549

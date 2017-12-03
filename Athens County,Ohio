@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Athens County,Ohio","Adair County,Kentucky",18612,481683
+1,"Athens County,Ohio","Allen County,Kentucky",20892,591979
+2,"Athens County,Ohio","Anderson County,Kentucky",14411,384723
+3,"Athens County,Ohio","Ballard County,Kentucky",27051,784141
+4,"Athens County,Ohio","Barren County,Kentucky",20018,560391
+5,"Athens County,Ohio","Bath County,Kentucky",10059,255904
+6,"Athens County,Ohio","Bell County,Kentucky",18841,447284
+7,"Athens County,Ohio","Boone County,Kentucky",10586,268563
+8,"Athens County,Ohio","Bourbon County,Kentucky",11019,264963
+9,"Athens County,Ohio","Boyd County,Kentucky",6798,163688
+10,"Athens County,Ohio","Boyle County,Kentucky",15640,388609
+11,"Athens County,Ohio","Bracken County,Kentucky",9463,222642
+12,"Athens County,Ohio","Breathitt County,Kentucky",13445,296930
+13,"Athens County,Ohio","Breckinridge County,Kentucky",18931,510543
+14,"Athens County,Ohio","Bullitt County,Kentucky",15467,431374
+15,"Athens County,Ohio","Butler County,Kentucky",20271,569049
+16,"Athens County,Ohio","Caldwell County,Kentucky",23163,674994
+17,"Athens County,Ohio","Calloway County,Kentucky",25973,759987
+18,"Athens County,Ohio","Campbell County,Kentucky",10215,257717
+19,"Athens County,Ohio","Carlisle County,Kentucky",27508,799509
+20,"Athens County,Ohio","Carroll County,Kentucky",12159,330328
+21,"Athens County,Ohio","Carter County,Kentucky",7899,180325
+22,"Athens County,Ohio","Casey County,Kentucky",17135,420114
+23,"Athens County,Ohio","Christian County,Kentucky",22812,670251
+24,"Athens County,Ohio","Clay County,Kentucky",16008,397504
+25,"Athens County,Ohio","Clinton County,Kentucky",19019,485049
+26,"Athens County,Ohio","Crittenden County,Kentucky",24743,708065
+27,"Athens County,Ohio","Cumberland County,Kentucky",19773,503288
+28,"Athens County,Ohio","Daviess County,Kentucky",20244,573861
+29,"Athens County,Ohio","Edmonson County,Kentucky",19711,556924
+30,"Athens County,Ohio","Elliott County,Kentucky",9229,206095
+31,"Athens County,Ohio","Estill County,Kentucky",13051,318219
+32,"Athens County,Ohio","Fayette County,Kentucky",12218,322215
+33,"Athens County,Ohio","Fleming County,Kentucky",9176,223227
+34,"Athens County,Ohio","Floyd County,Kentucky",10931,270953
+35,"Athens County,Ohio","Franklin County,Kentucky",14256,371132
+36,"Athens County,Ohio","Fulton County,Kentucky",27912,820473
+37,"Athens County,Ohio","Gallatin County,Kentucky",11371,302741
+38,"Athens County,Ohio","Garrard County,Kentucky",14823,369369
+39,"Athens County,Ohio","Grant County,Kentucky",11438,303215
+40,"Athens County,Ohio","Graves County,Kentucky",26533,772216
+41,"Athens County,Ohio","Grayson County,Kentucky",18598,525685
+42,"Athens County,Ohio","Green County,Kentucky",18716,481243
+43,"Athens County,Ohio","Greenup County,Kentucky",5943,135873
+44,"Athens County,Ohio","Hancock County,Kentucky",19129,528379
+45,"Athens County,Ohio","Hardin County,Kentucky",17475,487817
+46,"Athens County,Ohio","Harlan County,Kentucky",18164,427601
+47,"Athens County,Ohio","Harrison County,Kentucky",11906,274547
+48,"Athens County,Ohio","Hart County,Kentucky",18274,515446
+49,"Athens County,Ohio","Henderson County,Kentucky",21828,616356
+50,"Athens County,Ohio","Henry County,Kentucky",13345,358651
+51,"Athens County,Ohio","Hickman County,Kentucky",27542,800801
+52,"Athens County,Ohio","Hopkins County,Kentucky",22622,649462
+53,"Athens County,Ohio","Jackson County,Kentucky",15724,366228
+54,"Athens County,Ohio","Jefferson County,Kentucky",14561,400810
+55,"Athens County,Ohio","Jessamine County,Kentucky",13687,343679
+56,"Athens County,Ohio","Johnson County,Kentucky",9580,236584
+57,"Athens County,Ohio","Kenton County,Kentucky",9955,256257
+58,"Athens County,Ohio","Knott County,Kentucky",12113,302834
+59,"Athens County,Ohio","Knox County,Kentucky",17227,448261
+60,"Athens County,Ohio","Larue County,Kentucky",17544,491417
+61,"Athens County,Ohio","Laurel County,Kentucky",16078,419656
+62,"Athens County,Ohio","Lawrence County,Kentucky",8721,208008
+63,"Athens County,Ohio","Lee County,Kentucky",13896,311956
+64,"Athens County,Ohio","Leslie County,Kentucky",15192,372508
+65,"Athens County,Ohio","Letcher County,Kentucky",13968,340444
+66,"Athens County,Ohio","Lewis County,Kentucky",7709,185507
+67,"Athens County,Ohio","Lincoln County,Kentucky",15533,386287
+68,"Athens County,Ohio","Livingston County,Kentucky",25338,724961
+69,"Athens County,Ohio","Logan County,Kentucky",22011,612287
+70,"Athens County,Ohio","Lyon County,Kentucky",25472,735352
+71,"Athens County,Ohio","McCracken County,Kentucky",25664,752201
+72,"Athens County,Ohio","McCreary County,Kentucky",18183,464098
+73,"Athens County,Ohio","Madison County,Kentucky",13217,333238
+74,"Athens County,Ohio","Magoffin County,Kentucky",10547,257263
+75,"Athens County,Ohio","Marion County,Kentucky",16262,426955
+76,"Athens County,Ohio","Marshall County,Kentucky",25078,735773
+77,"Athens County,Ohio","Martin County,Kentucky",10207,240353
+78,"Athens County,Ohio","Mason County,Kentucky",9008,201521
+79,"Athens County,Ohio","Meade County,Kentucky",17008,468051
+80,"Athens County,Ohio","Menifee County,Kentucky",11175,267967
+81,"Athens County,Ohio","Mercer County,Kentucky",14639,382666
+82,"Athens County,Ohio","Metcalfe County,Kentucky",19268,511948
+83,"Athens County,Ohio","Monroe County,Kentucky",21237,549452
+84,"Athens County,Ohio","Montgomery County,Kentucky",10872,274444
+85,"Athens County,Ohio","Morgan County,Kentucky",10953,243683
+86,"Athens County,Ohio","Muhlenberg County,Kentucky",21482,615938
+87,"Athens County,Ohio","Nelson County,Kentucky",15870,426027
+88,"Athens County,Ohio","Nicholas County,Kentucky",10198,242962
+89,"Athens County,Ohio","Ohio County,Kentucky",20395,583528
+90,"Athens County,Ohio","Oldham County,Kentucky",13460,371756
+91,"Athens County,Ohio","Owen County,Kentucky",12603,329130
+92,"Athens County,Ohio","Owsley County,Kentucky",15042,331932
+93,"Athens County,Ohio","Pendleton County,Kentucky",11091,279559
+94,"Athens County,Ohio","Perry County,Kentucky",13492,333392
+95,"Athens County,Ohio","Pike County,Kentucky",12592,321589
+96,"Athens County,Ohio","Powell County,Kentucky",12315,304190
+97,"Athens County,Ohio","Robertson County,Kentucky",10118,223936
+98,"Athens County,Ohio","Rockcastle County,Kentucky",14651,374381
+99,"Athens County,Ohio","Rowan County,Kentucky",9201,228111
+100,"Athens County,Ohio","Russell County,Kentucky",18216,465667
+101,"Athens County,Ohio","Scott County,Kentucky",12367,337736
+102,"Athens County,Ohio","Shelby County,Kentucky",14716,385641
+103,"Athens County,Ohio","Simpson County,Kentucky",21593,620344
+104,"Athens County,Ohio","Spencer County,Kentucky",15409,407366
+105,"Athens County,Ohio","Taylor County,Kentucky",17552,458451
+106,"Athens County,Ohio","Todd County,Kentucky",23248,636448
+107,"Athens County,Ohio","Trigg County,Kentucky",24226,696180
+108,"Athens County,Ohio","Trimble County,Kentucky",13058,353652
+109,"Athens County,Ohio","Union County,Kentucky",23547,646802
+110,"Athens County,Ohio","Warren County,Kentucky",20628,585293
+111,"Athens County,Ohio","Washington County,Kentucky",15880,411263
+112,"Athens County,Ohio","Wayne County,Kentucky",18392,462740
+113,"Athens County,Ohio","Webster County,Kentucky",23471,652978
+114,"Athens County,Ohio","Whitley County,Kentucky",16911,454141
+115,"Athens County,Ohio","Wolfe County,Kentucky",12048,267045
+116,"Athens County,Ohio","Woodford County,Kentucky",13272,352878
+117,"Athens County,Ohio","Adams County,Ohio",5935,152162
+118,"Athens County,Ohio","Allen County,Ohio",10961,284253
+119,"Athens County,Ohio","Ashland County,Ohio",9633,270300
+120,"Athens County,Ohio","Ashtabula County,Ohio",15001,434420
+121,"Athens County,Ohio","Auglaize County,Ohio",10574,287947
+122,"Athens County,Ohio","Belmont County,Ohio",8041,227052
+123,"Athens County,Ohio","Brown County,Ohio",7359,185022
+124,"Athens County,Ohio","Butler County,Ohio",10324,261184
+125,"Athens County,Ohio","Carroll County,Ohio",9971,263938
+126,"Athens County,Ohio","Champaign County,Ohio",8231,203715
+127,"Athens County,Ohio","Clark County,Ohio",7109,194286
+128,"Athens County,Ohio","Clermont County,Ohio",8013,210186
+129,"Athens County,Ohio","Clinton County,Ohio",7436,193672
+130,"Athens County,Ohio","Columbiana County,Ohio",11813,318174
+131,"Athens County,Ohio","Coshocton County,Ohio",7680,142589
+132,"Athens County,Ohio","Crawford County,Ohio",9396,244235
+133,"Athens County,Ohio","Cuyahoga County,Ohio",11951,352765
+134,"Athens County,Ohio","Darke County,Ohio",10685,292187
+135,"Athens County,Ohio","Defiance County,Ohio",14396,362574
+136,"Athens County,Ohio","Delaware County,Ohio",6550,176972
+137,"Athens County,Ohio","Fairfield County,Ohio",4081,104066
+138,"Athens County,Ohio","Fayette County,Ohio",6000,164135
+139,"Athens County,Ohio","Franklin County,Ohio",5081,133921
+140,"Athens County,Ohio","Fulton County,Ohio",14486,399803
+141,"Athens County,Ohio","Gallia County,Ohio",3233,62383
+142,"Athens County,Ohio","Geauga County,Ohio",13079,375060
+143,"Athens County,Ohio","Greene County,Ohio",6870,197288
+144,"Athens County,Ohio","Guernsey County,Ohio",6157,172974
+145,"Athens County,Ohio","Hamilton County,Ohio",9825,271762
+146,"Athens County,Ohio","Hancock County,Ohio",10573,285327
+147,"Athens County,Ohio","Hardin County,Ohio",9471,240083
+148,"Athens County,Ohio","Harrison County,Ohio",8976,246004
+149,"Athens County,Ohio","Henry County,Ohio",13286,356948
+150,"Athens County,Ohio","Highland County,Ohio",6472,152176
+151,"Athens County,Ohio","Hocking County,Ohio",2523,60029
+152,"Athens County,Ohio","Holmes County,Ohio",9267,179487
+153,"Athens County,Ohio","Huron County,Ohio",10780,269070
+154,"Athens County,Ohio","Jackson County,Ohio",2459,62727
+155,"Athens County,Ohio","Jefferson County,Ohio",9970,255782
+156,"Athens County,Ohio","Knox County,Ohio",8347,177294
+157,"Athens County,Ohio","Lawrence County,Ohio",5840,102829
+158,"Athens County,Ohio","Licking County,Ohio",6026,131075
+159,"Athens County,Ohio","Logan County,Ohio",8492,234360
+160,"Athens County,Ohio","Lorain County,Ohio",12565,327724
+161,"Athens County,Ohio","Lucas County,Ohio",14208,372826
+162,"Athens County,Ohio","Madison County,Ohio",6358,168642
+163,"Athens County,Ohio","Mahoning County,Ohio",12308,332979
+164,"Athens County,Ohio","Marion County,Ohio",7956,203065
+165,"Athens County,Ohio","Medina County,Ohio",10278,295313
+166,"Athens County,Ohio","Meigs County,Ohio",1456,31926
+167,"Athens County,Ohio","Mercer County,Ohio",11810,314881
+168,"Athens County,Ohio","Miami County,Ohio",9196,257619
+169,"Athens County,Ohio","Monroe County,Ohio",7093,162166
+170,"Athens County,Ohio","Montgomery County,Ohio",8904,244743
+171,"Athens County,Ohio","Morgan County,Ohio",3839,69412
+172,"Athens County,Ohio","Morrow County,Ohio",7357,199792
+173,"Athens County,Ohio","Muskingum County,Ohio",5387,97528
+174,"Athens County,Ohio","Noble County,Ohio",5598,145326
+175,"Athens County,Ohio","Paulding County,Ohio",13497,360159
+176,"Athens County,Ohio","Perry County,Ohio",3938,74785
+177,"Athens County,Ohio","Pickaway County,Ohio",4686,112970
+178,"Athens County,Ohio","Pike County,Ohio",3905,102034
+179,"Athens County,Ohio","Portage County,Ohio",11529,330924
+180,"Athens County,Ohio","Preble County,Ohio",10227,285778
+181,"Athens County,Ohio","Putnam County,Ohio",12083,316612
+182,"Athens County,Ohio","Richland County,Ohio",8387,235031
+183,"Athens County,Ohio","Ross County,Ohio",4184,110541
+184,"Athens County,Ohio","Sandusky County,Ohio",12329,304022
+185,"Athens County,Ohio","Scioto County,Ohio",4543,118105
+186,"Athens County,Ohio","Seneca County,Ohio",10947,277906
+187,"Athens County,Ohio","Shelby County,Ohio",10250,264608
+188,"Athens County,Ohio","Stark County,Ohio",9830,279173
+189,"Athens County,Ohio","Summit County,Ohio",10588,304962
+190,"Athens County,Ohio","Trumbull County,Ohio",13263,359226
+191,"Athens County,Ohio","Tuscarawas County,Ohio",8030,219761
+192,"Athens County,Ohio","Union County,Ohio",6996,184591
+193,"Athens County,Ohio","Van Wert County,Ohio",12195,327123
+194,"Athens County,Ohio","Vinton County,Ohio",2449,48113
+195,"Athens County,Ohio","Warren County,Ohio",8242,227730
+196,"Athens County,Ohio","Washington County,Ohio",3753,89462
+197,"Athens County,Ohio","Wayne County,Ohio",10006,284310
+198,"Athens County,Ohio","Williams County,Ohio",15573,386091
+199,"Athens County,Ohio","Wood County,Ohio",11971,326934
+200,"Athens County,Ohio","Wyandot County,Ohio",9543,249462
+201,"Athens County,Ohio","Accomack County,Virginia",31346,861842
+202,"Athens County,Ohio","Albemarle County,Virginia",18384,528716
+203,"Athens County,Ohio","Alleghany County,Virginia",13053,365739
+204,"Athens County,Ohio","Amelia County,Virginia",23085,628834
+205,"Athens County,Ohio","Amherst County,Virginia",18382,496704
+206,"Athens County,Ohio","Appomattox County,Virginia",19975,535463
+207,"Athens County,Ohio","Arlington County,Virginia",20210,578769
+208,"Athens County,Ohio","Augusta County,Virginia",16995,467055
+209,"Athens County,Ohio","Bath County,Virginia",16065,441048
+210,"Athens County,Ohio","Bedford County,Virginia",18642,482829
+211,"Athens County,Ohio","Bland County,Virginia",12015,331958
+212,"Athens County,Ohio","Botetourt County,Virginia",16208,437038
+213,"Athens County,Ohio","Brunswick County,Virginia",25628,678507
+214,"Athens County,Ohio","Buchanan County,Virginia",16010,416188
+215,"Athens County,Ohio","Buckingham County,Virginia",20258,546399
+216,"Athens County,Ohio","Campbell County,Virginia",19899,537935
+217,"Athens County,Ohio","Caroline County,Virginia",23723,697561
+218,"Athens County,Ohio","Carroll County,Virginia",14261,401396
+219,"Athens County,Ohio","Charles City County,Virginia",23824,694596
+220,"Athens County,Ohio","Charlotte County,Virginia",21860,588984
+221,"Athens County,Ohio","Chesterfield County,Virginia",22960,672380
+222,"Athens County,Ohio","Clarke County,Virginia",18323,479404
+223,"Athens County,Ohio","Craig County,Virginia",14696,386824
+224,"Athens County,Ohio","Culpeper County,Virginia",21444,534308
+225,"Athens County,Ohio","Cumberland County,Virginia",21468,574401
+226,"Athens County,Ohio","Dickenson County,Virginia",16471,386280
+227,"Athens County,Ohio","Dinwiddie County,Virginia",24707,722811
+228,"Athens County,Ohio","Essex County,Virginia",25541,721604
+229,"Athens County,Ohio","Fairfax County,Virginia",19901,569436
+230,"Athens County,Ohio","Fauquier County,Virginia",19874,501035
+231,"Athens County,Ohio","Floyd County,Virginia",15881,420360
+232,"Athens County,Ohio","Fluvanna County,Virginia",20062,580887
+233,"Athens County,Ohio","Franklin County,Virginia",18155,484063
+234,"Athens County,Ohio","Frederick County,Virginia",17113,454126
+235,"Athens County,Ohio","Giles County,Virginia",12746,343516
+236,"Athens County,Ohio","Gloucester County,Virginia",25994,748784
+237,"Athens County,Ohio","Goochland County,Virginia",20966,611498
+238,"Athens County,Ohio","Grayson County,Virginia",14663,391103
+239,"Athens County,Ohio","Greene County,Virginia",20377,564300
+240,"Athens County,Ohio","Greensville County,Virginia",26123,771563
+241,"Athens County,Ohio","Halifax County,Virginia",22564,599083
+242,"Athens County,Ohio","Hanover County,Virginia",22172,652605
+243,"Athens County,Ohio","Henrico County,Virginia",22683,665565
+244,"Athens County,Ohio","Henry County,Virginia",18134,488117
+245,"Athens County,Ohio","Highland County,Virginia",15978,387419
+246,"Athens County,Ohio","Isle of Wight County,Virginia",26936,770142
+247,"Athens County,Ohio","James City County,Virginia",25060,735367
+248,"Athens County,Ohio","King and Queen County,Virginia",24718,710951
+249,"Athens County,Ohio","King George County,Virginia",24176,681619
+250,"Athens County,Ohio","King William County,Virginia",23406,680873
+251,"Athens County,Ohio","Lancaster County,Virginia",27198,763958
+252,"Athens County,Ohio","Lee County,Virginia",17772,434796
+253,"Athens County,Ohio","Loudoun County,Virginia",19819,515271
+254,"Athens County,Ohio","Louisa County,Virginia",20623,594593
+255,"Athens County,Ohio","Lunenburg County,Virginia",23632,630268
+256,"Athens County,Ohio","Madison County,Virginia",21297,594040
+257,"Athens County,Ohio","Mathews County,Virginia",26819,772208
+258,"Athens County,Ohio","Mecklenburg County,Virginia",24623,643393
+259,"Athens County,Ohio","Middlesex County,Virginia",25596,744984
+260,"Athens County,Ohio","Montgomery County,Virginia",13829,371523
+261,"Athens County,Ohio","Nelson County,Virginia",18923,508396
+262,"Athens County,Ohio","New Kent County,Virginia",24496,709281
+263,"Athens County,Ohio","Northampton County,Virginia",29477,852030
+264,"Athens County,Ohio","Northumberland County,Virginia",27238,762471
+265,"Athens County,Ohio","Nottoway County,Virginia",23125,630648
+266,"Athens County,Ohio","Orange County,Virginia",21585,602701
+267,"Athens County,Ohio","Page County,Virginia",19896,478712
+268,"Athens County,Ohio","Patrick County,Virginia",16366,446431
+269,"Athens County,Ohio","Pittsylvania County,Virginia",20450,542325
+270,"Athens County,Ohio","Powhatan County,Virginia",22219,636720
+271,"Athens County,Ohio","Prince Edward County,Virginia",21740,587983
+272,"Athens County,Ohio","Prince George County,Virginia",24470,709395
+273,"Athens County,Ohio","Prince William County,Virginia",19974,507139
+274,"Athens County,Ohio","Pulaski County,Virginia",13924,367855
+275,"Athens County,Ohio","Rappahannock County,Virginia",20185,486173
+276,"Athens County,Ohio","Richmond County,Virginia",25938,735114
+277,"Athens County,Ohio","Roanoke County,Virginia",15449,414317
+278,"Athens County,Ohio","Rockbridge County,Virginia",15386,434095
+279,"Athens County,Ohio","Rockingham County,Virginia",18068,446644
+280,"Athens County,Ohio","Russell County,Virginia",15824,412138
+281,"Athens County,Ohio","Scott County,Virginia",17947,433733
+282,"Athens County,Ohio","Shenandoah County,Virginia",18335,436107
+283,"Athens County,Ohio","Smyth County,Virginia",14373,397310
+284,"Athens County,Ohio","Southampton County,Virginia",26501,767677
+285,"Athens County,Ohio","Spotsylvania County,Virginia",22639,636432
+286,"Athens County,Ohio","Stafford County,Virginia",21875,632723
+287,"Athens County,Ohio","Surry County,Virginia",25803,734228
+288,"Athens County,Ohio","Sussex County,Virginia",25165,737920
+289,"Athens County,Ohio","Tazewell County,Virginia",12831,350546
+290,"Athens County,Ohio","Warren County,Virginia",18515,448836
+291,"Athens County,Ohio","Washington County,Virginia",15766,436777
+292,"Athens County,Ohio","Westmoreland County,Virginia",25144,700420
+293,"Athens County,Ohio","Wise County,Virginia",14736,362179
+294,"Athens County,Ohio","Wythe County,Virginia",12620,350175
+295,"Athens County,Ohio","York County,Virginia",26348,766141
+296,"Athens County,Ohio","Alexandria City County,Virginia",20726,595950
+297,"Athens County,Ohio","Bedford City County,Virginia",17806,474261
+298,"Athens County,Ohio","Bristol City County,Virginia",16241,462494
+299,"Athens County,Ohio","Buena Vista City County,Virginia",15741,448072
+300,"Athens County,Ohio","Charlottesville City County,Virginia",18853,543930
+301,"Athens County,Ohio","Chesapeake City County,Virginia",27811,819047
+302,"Athens County,Ohio","Clifton Forge City County,Virginia",13597,385945
+303,"Athens County,Ohio","Colonial Heights City County,Virginia",23520,688272
+304,"Athens County,Ohio","Covington City County,Virginia",13122,369324
+305,"Athens County,Ohio","Danville City County,Virginia",20292,542573
+306,"Athens County,Ohio","Emporia City County,Virginia",25830,758156
+307,"Athens County,Ohio","Fairfax City County,Virginia",20371,581069
+308,"Athens County,Ohio","Falls Church City County,Virginia",19919,573081
+309,"Athens County,Ohio","Franklin City County,Virginia",27048,775532
+310,"Athens County,Ohio","Fredericksburg City County,Virginia",22688,648313
+311,"Athens County,Ohio","Galax City County,Virginia",14884,407262
+312,"Athens County,Ohio","Hampton City County,Virginia",26298,775848
+313,"Athens County,Ohio","Harrisonburg City County,Virginia",18329,530072
+314,"Athens County,Ohio","Hopewell City County,Virginia",23556,687238
+315,"Athens County,Ohio","Lexington City County,Virginia",15375,436564
+316,"Athens County,Ohio","Lynchburg City County,Virginia",18958,511678
+317,"Athens County,Ohio","Manassas City County,Virginia",20202,512083
+318,"Athens County,Ohio","Manassas Park City County,Virginia",20704,518427
+319,"Athens County,Ohio","Martinsville City County,Virginia",18662,496910
+320,"Athens County,Ohio","Newport News City County,Virginia",25854,762333
+321,"Athens County,Ohio","Norfolk City County,Virginia",27604,801263
+322,"Athens County,Ohio","Norton City County,Virginia",15364,373991
+323,"Athens County,Ohio","Petersburg City County,Virginia",23391,689260
+324,"Athens County,Ohio","Poquoson City County,Virginia",26526,772910
+325,"Athens County,Ohio","Portsmouth City County,Virginia",27543,810084
+326,"Athens County,Ohio","Radford County,Virginia",14236,369564
+327,"Athens County,Ohio","Richmond City County,Virginia",22259,653375
+328,"Athens County,Ohio","Roanoke City County,Virginia",16051,434422
+329,"Athens County,Ohio","Salem City County,Virginia",15463,420971
+330,"Athens County,Ohio","South Boston City County,Virginia",22304,596751
+331,"Athens County,Ohio","Staunton City County,Virginia",17146,491207
+332,"Athens County,Ohio","Suffolk City County,Virginia",27778,784866
+333,"Athens County,Ohio","Virginia Beach City County,Virginia",28165,824522
+334,"Athens County,Ohio","Waynesboro City County,Virginia",17484,503925
+335,"Athens County,Ohio","Williamsburg City County,Virginia",24898,734582
+336,"Athens County,Ohio","Winchester City County,Virginia",17251,457930
+337,"Athens County,Ohio","Barbour County,West Virginia",9104,230330
+338,"Athens County,Ohio","Berkeley County,West Virginia",16665,456786
+339,"Athens County,Ohio","Boone County,West Virginia",8766,210737
+340,"Athens County,Ohio","Braxton County,West Virginia",9670,249253
+341,"Athens County,Ohio","Brooke County,West Virginia",10120,269300
+342,"Athens County,Ohio","Cabell County,West Virginia",6151,132298
+343,"Athens County,Ohio","Calhoun County,West Virginia",7223,156615
+344,"Athens County,Ohio","Clay County,West Virginia",8437,220166
+345,"Athens County,Ohio","Doddridge County,West Virginia",6091,156048
+346,"Athens County,Ohio","Fayette County,West Virginia",9933,244842
+347,"Athens County,Ohio","Gilmer County,West Virginia",8278,171152
+348,"Athens County,Ohio","Grant County,West Virginia",14239,343725
+349,"Athens County,Ohio","Greenbrier County,West Virginia",13007,322880
+350,"Athens County,Ohio","Hampshire County,West Virginia",15919,418389
+351,"Athens County,Ohio","Hancock County,West Virginia",11710,303836
+352,"Athens County,Ohio","Hardy County,West Virginia",15326,371329
+353,"Athens County,Ohio","Harrison County,West Virginia",7174,189042
+354,"Athens County,Ohio","Jackson County,West Virginia",4070,92356
+355,"Athens County,Ohio","Jefferson County,West Virginia",18131,512784
+356,"Athens County,Ohio","Kanawha County,West Virginia",7242,178905
+357,"Athens County,Ohio","Lewis County,West Virginia",8867,191193
+358,"Athens County,Ohio","Lincoln County,West Virginia",8548,185412
+359,"Athens County,Ohio","Logan County,West Virginia",9695,247855
+360,"Athens County,Ohio","McDowell County,West Virginia",13604,326218
+361,"Athens County,Ohio","Marion County,West Virginia",9111,232165
+362,"Athens County,Ohio","Marshall County,West Virginia",9507,205401
+363,"Athens County,Ohio","Mason County,West Virginia",3463,82101
+364,"Athens County,Ohio","Mercer County,West Virginia",10569,290465
+365,"Athens County,Ohio","Mineral County,West Virginia",14799,392941
+366,"Athens County,Ohio","Mingo County,West Virginia",9741,252363
+367,"Athens County,Ohio","Monongalia County,West Virginia",9321,257633
+368,"Athens County,Ohio","Monroe County,West Virginia",13614,335176
+369,"Athens County,Ohio","Morgan County,West Virginia",16157,446178
+370,"Athens County,Ohio","Nicholas County,West Virginia",10153,280047
+371,"Athens County,Ohio","Ohio County,West Virginia",9139,250538
+372,"Athens County,Ohio","Pendleton County,West Virginia",15491,388852
+373,"Athens County,Ohio","Pleasants County,West Virginia",4981,115567
+374,"Athens County,Ohio","Pocahontas County,West Virginia",15482,349586
+375,"Athens County,Ohio","Preston County,West Virginia",11467,284364
+376,"Athens County,Ohio","Putnam County,West Virginia",5098,122124
+377,"Athens County,Ohio","Raleigh County,West Virginia",9110,244157
+378,"Athens County,Ohio","Randolph County,West Virginia",11169,286979
+379,"Athens County,Ohio","Ritchie County,West Virginia",5256,129090
+380,"Athens County,Ohio","Roane County,West Virginia",5696,121172
+381,"Athens County,Ohio","Summers County,West Virginia",12562,305595
+382,"Athens County,Ohio","Taylor County,West Virginia",9004,227737
+383,"Athens County,Ohio","Tucker County,West Virginia",11670,281058
+384,"Athens County,Ohio","Tyler County,West Virginia",6890,155182
+385,"Athens County,Ohio","Upshur County,West Virginia",10144,261420
+386,"Athens County,Ohio","Wayne County,West Virginia",7845,174575
+387,"Athens County,Ohio","Webster County,West Virginia",12337,307127
+388,"Athens County,Ohio","Wetzel County,West Virginia",8102,177089
+389,"Athens County,Ohio","Wirt County,West Virginia",4680,105724
+390,"Athens County,Ohio","Wood County,West Virginia",3363,80454
+391,"Athens County,Ohio","Wyoming County,West Virginia",11055,284099

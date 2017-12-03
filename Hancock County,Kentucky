@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Hancock County,Kentucky","Adair County,Kentucky",8867,206357
+1,"Hancock County,Kentucky","Allen County,Kentucky",6055,158959
+2,"Hancock County,Kentucky","Anderson County,Kentucky",8282,204121
+3,"Hancock County,Kentucky","Ballard County,Kentucky",10408,283252
+4,"Hancock County,Kentucky","Barren County,Kentucky",7236,195686
+5,"Hancock County,Kentucky","Bath County,Kentucky",11227,323186
+6,"Hancock County,Kentucky","Bell County,Kentucky",16284,387203
+7,"Hancock County,Kentucky","Boone County,Kentucky",10356,279275
+8,"Hancock County,Kentucky","Bourbon County,Kentucky",10349,280843
+9,"Hancock County,Kentucky","Boyd County,Kentucky",14484,424643
+10,"Hancock County,Kentucky","Boyle County,Kentucky",8794,212041
+11,"Hancock County,Kentucky","Bracken County,Kentucky",12685,352020
+12,"Hancock County,Kentucky","Breathitt County,Kentucky",13827,387367
+13,"Hancock County,Kentucky","Breckinridge County,Kentucky",1828,40407
+14,"Hancock County,Kentucky","Bullitt County,Kentucky",5805,138654
+15,"Hancock County,Kentucky","Butler County,Kentucky",3759,89325
+16,"Hancock County,Kentucky","Caldwell County,Kentucky",6519,174105
+17,"Hancock County,Kentucky","Calloway County,Kentucky",9329,259097
+18,"Hancock County,Kentucky","Campbell County,Kentucky",11226,308977
+19,"Hancock County,Kentucky","Carlisle County,Kentucky",10865,298620
+20,"Hancock County,Kentucky","Carroll County,Kentucky",7840,213051
+21,"Hancock County,Kentucky","Carter County,Kentucky",13621,393899
+22,"Hancock County,Kentucky","Casey County,Kentucky",10029,221757
+23,"Hancock County,Kentucky","Christian County,Kentucky",6168,169362
+24,"Hancock County,Kentucky","Clay County,Kentucky",14515,346247
+25,"Hancock County,Kentucky","Clinton County,Kentucky",10775,276521
+26,"Hancock County,Kentucky","Crittenden County,Kentucky",7543,175324
+27,"Hancock County,Kentucky","Cumberland County,Kentucky",9935,252620
+28,"Hancock County,Kentucky","Daviess County,Kentucky",2203,46098
+29,"Hancock County,Kentucky","Edmonson County,Kentucky",5086,106383
+30,"Hancock County,Kentucky","Elliott County,Kentucky",14397,385162
+31,"Hancock County,Kentucky","Estill County,Kentucky",11761,323907
+32,"Hancock County,Kentucky","Fayette County,Kentucky",9190,254401
+33,"Hancock County,Kentucky","Fleming County,Kentucky",12656,353405
+34,"Hancock County,Kentucky","Floyd County,Kentucky",16014,447397
+35,"Hancock County,Kentucky","Franklin County,Kentucky",8606,224892
+36,"Hancock County,Kentucky","Fulton County,Kentucky",11269,319584
+37,"Hancock County,Kentucky","Gallatin County,Kentucky",8549,232377
+38,"Hancock County,Kentucky","Garrard County,Kentucky",10436,244237
+39,"Hancock County,Kentucky","Grant County,Kentucky",9915,257830
+40,"Hancock County,Kentucky","Graves County,Kentucky",9889,271326
+41,"Hancock County,Kentucky","Grayson County,Kentucky",3356,74421
+42,"Hancock County,Kentucky","Green County,Kentucky",7477,168713
+43,"Hancock County,Kentucky","Greenup County,Kentucky",15090,421230
+44,"Hancock County,Kentucky","Hardin County,Kentucky",3891,89293
+45,"Hancock County,Kentucky","Harlan County,Kentucky",18578,442808
+46,"Hancock County,Kentucky","Harrison County,Kentucky",10868,286986
+47,"Hancock County,Kentucky","Hart County,Kentucky",6143,127117
+48,"Hancock County,Kentucky","Henderson County,Kentucky",4110,102518
+49,"Hancock County,Kentucky","Henry County,Kentucky",7514,193799
+50,"Hancock County,Kentucky","Hickman County,Kentucky",10898,299912
+51,"Hancock County,Kentucky","Hopkins County,Kentucky",5757,126453
+52,"Hancock County,Kentucky","Jackson County,Kentucky",13204,353743
+53,"Hancock County,Kentucky","Jefferson County,Kentucky",6033,147966
+54,"Hancock County,Kentucky","Jessamine County,Kentucky",9731,243786
+55,"Hancock County,Kentucky","Johnson County,Kentucky",14968,423390
+56,"Hancock County,Kentucky","Kenton County,Kentucky",10243,274991
+57,"Hancock County,Kentucky","Knott County,Kentucky",16287,450745
+58,"Hancock County,Kentucky","Knox County,Kentucky",14445,348943
+59,"Hancock County,Kentucky","Larue County,Kentucky",5736,128449
+60,"Hancock County,Kentucky","Laurel County,Kentucky",13296,320338
+61,"Hancock County,Kentucky","Lawrence County,Kentucky",16488,451778
+62,"Hancock County,Kentucky","Lee County,Kentucky",13076,363824
+63,"Hancock County,Kentucky","Leslie County,Kentucky",16465,397371
+64,"Hancock County,Kentucky","Letcher County,Kentucky",17540,475718
+65,"Hancock County,Kentucky","Lewis County,Kentucky",14180,391545
+66,"Hancock County,Kentucky","Lincoln County,Kentucky",10178,241973
+67,"Hancock County,Kentucky","Livingston County,Kentucky",8695,224072
+68,"Hancock County,Kentucky","Logan County,Kentucky",5434,130651
+69,"Hancock County,Kentucky","Lyon County,Kentucky",8828,234463
+70,"Hancock County,Kentucky","McCracken County,Kentucky",9020,251312
+71,"Hancock County,Kentucky","McCreary County,Kentucky",13078,360838
+72,"Hancock County,Kentucky","Madison County,Kentucky",10613,297630
+73,"Hancock County,Kentucky","Magoffin County,Kentucky",14437,405258
+74,"Hancock County,Kentucky","Marion County,Kentucky",7857,187339
+75,"Hancock County,Kentucky","Marshall County,Kentucky",8435,234883
+76,"Hancock County,Kentucky","Martin County,Kentucky",17754,481736
+77,"Hancock County,Kentucky","Mason County,Kentucky",13478,352409
+78,"Hancock County,Kentucky","Meade County,Kentucky",3301,74097
+79,"Hancock County,Kentucky","Menifee County,Kentucky",12501,335724
+80,"Hancock County,Kentucky","Mercer County,Kentucky",8641,210917
+81,"Hancock County,Kentucky","Metcalfe County,Kentucky",7798,218337
+82,"Hancock County,Kentucky","Monroe County,Kentucky",8554,224365
+83,"Hancock County,Kentucky","Montgomery County,Kentucky",11145,313633
+84,"Hancock County,Kentucky","Morgan County,Kentucky",13827,393542
+85,"Hancock County,Kentucky","Muhlenberg County,Kentucky",4838,115049
+86,"Hancock County,Kentucky","Nelson County,Kentucky",6134,146402
+87,"Hancock County,Kentucky","Nicholas County,Kentucky",11606,308224
+88,"Hancock County,Kentucky","Ohio County,Kentucky",2303,47519
+89,"Hancock County,Kentucky","Oldham County,Kentucky",6240,161099
+90,"Hancock County,Kentucky","Owen County,Kentucky",9751,257913
+91,"Hancock County,Kentucky","Owsley County,Kentucky",14223,383801
+92,"Hancock County,Kentucky","Pendleton County,Kentucky",11181,293695
+93,"Hancock County,Kentucky","Perry County,Kentucky",15439,427250
+94,"Hancock County,Kentucky","Pike County,Kentucky",17694,477722
+95,"Hancock County,Kentucky","Powell County,Kentucky",11438,322492
+96,"Hancock County,Kentucky","Robertson County,Kentucky",12376,329350
+97,"Hancock County,Kentucky","Rockcastle County,Kentucky",11924,278659
+98,"Hancock County,Kentucky","Rowan County,Kentucky",11968,347038
+99,"Hancock County,Kentucky","Russell County,Kentucky",9932,276200
+100,"Hancock County,Kentucky","Scott County,Kentucky",9455,256461
+101,"Hancock County,Kentucky","Shelby County,Kentucky",7138,182495
+102,"Hancock County,Kentucky","Simpson County,Kentucky",5970,152819
+103,"Hancock County,Kentucky","Spencer County,Kentucky",7450,189485
+104,"Hancock County,Kentucky","Taylor County,Kentucky",7694,174462
+105,"Hancock County,Kentucky","Todd County,Kentucky",6653,161413
+106,"Hancock County,Kentucky","Trigg County,Kentucky",7582,195291
+107,"Hancock County,Kentucky","Trimble County,Kentucky",7639,200898
+108,"Hancock County,Kentucky","Union County,Kentucky",5854,139620
+109,"Hancock County,Kentucky","Warren County,Kentucky",4661,119996
+110,"Hancock County,Kentucky","Washington County,Kentucky",7965,187021
+111,"Hancock County,Kentucky","Wayne County,Kentucky",12176,306720
+112,"Hancock County,Kentucky","Webster County,Kentucky",5770,125178
+113,"Hancock County,Kentucky","Whitley County,Kentucky",14129,354823
+114,"Hancock County,Kentucky","Wolfe County,Kentucky",12702,360363
+115,"Hancock County,Kentucky","Woodford County,Kentucky",8393,231223
+116,"Hancock County,Kentucky","Adams County,Ohio",14120,385635
+117,"Hancock County,Kentucky","Allen County,Ohio",17662,500884
+118,"Hancock County,Kentucky","Ashland County,Ohio",20851,602762
+119,"Hancock County,Kentucky","Ashtabula County,Ohio",26597,787513
+120,"Hancock County,Kentucky","Athens County,Ohio",19314,531977
+121,"Hancock County,Kentucky","Auglaize County,Ohio",16918,488149
+122,"Hancock County,Kentucky","Belmont County,Ohio",22189,649194
+123,"Hancock County,Kentucky","Brown County,Ohio",13373,362189
+124,"Hancock County,Kentucky","Butler County,Ohio",12740,350758
+125,"Hancock County,Kentucky","Carroll County,Ohio",24153,686417
+126,"Hancock County,Kentucky","Champaign County,Ohio",15696,442330
+127,"Hancock County,Kentucky","Clark County,Ohio",15125,428963
+128,"Hancock County,Kentucky","Clermont County,Ohio",11490,321936
+129,"Hancock County,Kentucky","Clinton County,Ohio",13585,373243
+130,"Hancock County,Kentucky","Columbiana County,Ohio",25710,722006
+131,"Hancock County,Kentucky","Coshocton County,Ohio",20712,581834
+132,"Hancock County,Kentucky","Crawford County,Ohio",20388,594734
+133,"Hancock County,Kentucky","Cuyahoga County,Ohio",23169,685227
+134,"Hancock County,Kentucky","Darke County,Ohio",15938,450153
+135,"Hancock County,Kentucky","Defiance County,Ohio",19958,568554
+136,"Hancock County,Kentucky","Delaware County,Ohio",17768,509434
+137,"Hancock County,Kentucky","Fairfield County,Ohio",17171,492683
+138,"Hancock County,Kentucky","Fayette County,Ohio",14483,410848
+139,"Hancock County,Kentucky","Franklin County,Ohio",16285,469361
+140,"Hancock County,Kentucky","Fulton County,Ohio",21392,611132
+141,"Hancock County,Kentucky","Gallia County,Ohio",18211,504154
+142,"Hancock County,Kentucky","Geauga County,Ohio",24697,724445
+143,"Hancock County,Kentucky","Greene County,Ohio",13912,382597
+144,"Hancock County,Kentucky","Guernsey County,Ohio",19918,582875
+145,"Hancock County,Kentucky","Hamilton County,Ohio",11394,315242
+146,"Hancock County,Kentucky","Hancock County,Ohio",18771,541779
+147,"Hancock County,Kentucky","Hardin County,Ohio",18559,526177
+148,"Hancock County,Kentucky","Harrison County,Ohio",23159,668483
+149,"Hancock County,Kentucky","Henry County,Ohio",20495,566248
+150,"Hancock County,Kentucky","Highland County,Ohio",14433,384889
+151,"Hancock County,Kentucky","Hocking County,Ohio",18609,536087
+152,"Hancock County,Kentucky","Holmes County,Ohio",22262,618692
+153,"Hancock County,Kentucky","Huron County,Ohio",21998,601532
+154,"Hancock County,Kentucky","Jackson County,Ohio",16712,466347
+155,"Hancock County,Kentucky","Jefferson County,Ohio",24152,678261
+156,"Hancock County,Kentucky","Knox County,Ohio",20218,569055
+157,"Hancock County,Kentucky","Lawrence County,Ohio",16891,461071
+158,"Hancock County,Kentucky","Licking County,Ohio",18550,524279
+159,"Hancock County,Kentucky","Logan County,Ohio",16931,474867
+160,"Hancock County,Kentucky","Lorain County,Ohio",23783,660186
+161,"Hancock County,Kentucky","Lucas County,Ohio",22096,628299
+162,"Hancock County,Kentucky","Madison County,Ohio",15705,446030
+163,"Hancock County,Kentucky","Mahoning County,Ohio",25567,739145
+164,"Hancock County,Kentucky","Marion County,Ohio",18815,516869
+165,"Hancock County,Kentucky","Medina County,Ohio",21496,627775
+166,"Hancock County,Kentucky","Meigs County,Ohio",19702,555398
+167,"Hancock County,Kentucky","Mercer County,Ohio",17999,486672
+168,"Hancock County,Kentucky","Miami County,Ohio",14504,410588
+169,"Hancock County,Kentucky","Monroe County,Ohio",23594,663758
+170,"Hancock County,Kentucky","Montgomery County,Ohio",13887,388328
+171,"Hancock County,Kentucky","Morgan County,Ohio",20983,591371
+172,"Hancock County,Kentucky","Morrow County,Ohio",18575,532255
+173,"Hancock County,Kentucky","Muskingum County,Ohio",18768,549031
+174,"Hancock County,Kentucky","Noble County,Ohio",21617,619994
+175,"Hancock County,Kentucky","Paulding County,Ohio",18890,533473
+176,"Hancock County,Kentucky","Perry County,Ohio",18837,537614
+177,"Hancock County,Kentucky","Pickaway County,Ohio",16420,459444
+178,"Hancock County,Kentucky","Pike County,Ohio",15488,431332
+179,"Hancock County,Kentucky","Portage County,Ohio",24018,698924
+180,"Hancock County,Kentucky","Preble County,Ohio",14784,395157
+181,"Hancock County,Kentucky","Putnam County,Ohio",18837,533352
+182,"Hancock County,Kentucky","Richland County,Ohio",19605,567493
+183,"Hancock County,Kentucky","Ross County,Ohio",16064,458761
+184,"Hancock County,Kentucky","Sandusky County,Ohio",21811,621855
+185,"Hancock County,Kentucky","Scioto County,Ohio",16287,451962
+186,"Hancock County,Kentucky","Seneca County,Ohio",21116,598119
+187,"Hancock County,Kentucky","Shelby County,Ohio",15543,446873
+188,"Hancock County,Kentucky","Stark County,Ohio",23763,683308
+189,"Hancock County,Kentucky","Summit County,Ohio",22699,663102
+190,"Hancock County,Kentucky","Trumbull County,Ohio",25599,749417
+191,"Hancock County,Kentucky","Tuscarawas County,Ohio",22213,642240
+192,"Hancock County,Kentucky","Union County,Ohio",17058,472251
+193,"Hancock County,Kentucky","Van Wert County,Ohio",18827,533407
+194,"Hancock County,Kentucky","Vinton County,Ohio",18246,507514
+195,"Hancock County,Kentucky","Warren County,Ohio",12274,341499
+196,"Hancock County,Kentucky","Washington County,Ohio",22347,612074
+197,"Hancock County,Kentucky","Wayne County,Ohio",21224,616772
+198,"Hancock County,Kentucky","Williams County,Ohio",20948,588434
+199,"Hancock County,Kentucky","Wood County,Ohio",19859,582407
+200,"Hancock County,Kentucky","Wyandot County,Ohio",19467,562659
+201,"Hancock County,Kentucky","Accomack County,Virginia",44570,1298511
+202,"Hancock County,Kentucky","Albemarle County,Virginia",30720,911011
+203,"Hancock County,Kentucky","Alleghany County,Virginia",25389,748034
+204,"Hancock County,Kentucky","Amelia County,Virginia",35420,1011129
+205,"Hancock County,Kentucky","Amherst County,Virginia",30718,878999
+206,"Hancock County,Kentucky","Appomattox County,Virginia",32311,917758
+207,"Hancock County,Kentucky","Arlington County,Virginia",37003,1107042
+208,"Hancock County,Kentucky","Augusta County,Virginia",29330,849350
+209,"Hancock County,Kentucky","Bath County,Virginia",28400,823343
+210,"Hancock County,Kentucky","Bedford County,Virginia",30977,865124
+211,"Hancock County,Kentucky","Bland County,Virginia",24351,714253
+212,"Hancock County,Kentucky","Botetourt County,Virginia",28543,819333
+213,"Hancock County,Kentucky","Brunswick County,Virginia",37963,1060802
+214,"Hancock County,Kentucky","Buchanan County,Virginia",21746,557228
+215,"Hancock County,Kentucky","Buckingham County,Virginia",32593,928694
+216,"Hancock County,Kentucky","Campbell County,Virginia",32234,920230
+217,"Hancock County,Kentucky","Caroline County,Virginia",36059,1079856
+218,"Hancock County,Kentucky","Carroll County,Virginia",26596,783691
+219,"Hancock County,Kentucky","Charles City County,Virginia",36159,1076891
+220,"Hancock County,Kentucky","Charlotte County,Virginia",34195,971279
+221,"Hancock County,Kentucky","Chesterfield County,Virginia",35295,1054675
+222,"Hancock County,Kentucky","Clarke County,Virginia",34899,1038068
+223,"Hancock County,Kentucky","Craig County,Virginia",27032,769118
+224,"Hancock County,Kentucky","Culpeper County,Virginia",34517,1000227
+225,"Hancock County,Kentucky","Cumberland County,Virginia",33803,956696
+226,"Hancock County,Kentucky","Dickenson County,Virginia",21099,542664
+227,"Hancock County,Kentucky","Dinwiddie County,Virginia",37042,1105106
+228,"Hancock County,Kentucky","Essex County,Virginia",37876,1103899
+229,"Hancock County,Kentucky","Fairfax County,Virginia",36693,1097710
+230,"Hancock County,Kentucky","Fauquier County,Virginia",35338,1059320
+231,"Hancock County,Kentucky","Floyd County,Virginia",28217,802655
+232,"Hancock County,Kentucky","Fluvanna County,Virginia",32398,963182
+233,"Hancock County,Kentucky","Franklin County,Virginia",30490,866358
+234,"Hancock County,Kentucky","Frederick County,Virginia",33565,952203
+235,"Hancock County,Kentucky","Giles County,Virginia",25081,725811
+236,"Hancock County,Kentucky","Gloucester County,Virginia",38330,1131079
+237,"Hancock County,Kentucky","Goochland County,Virginia",33301,993793
+238,"Hancock County,Kentucky","Grayson County,Virginia",26999,773398
+239,"Hancock County,Kentucky","Greene County,Virginia",32712,946595
+240,"Hancock County,Kentucky","Greensville County,Virginia",38458,1153858
+241,"Hancock County,Kentucky","Halifax County,Virginia",34900,981378
+242,"Hancock County,Kentucky","Hanover County,Virginia",34507,1034900
+243,"Hancock County,Kentucky","Henrico County,Virginia",35019,1047860
+244,"Hancock County,Kentucky","Henry County,Virginia",30470,870412
+245,"Hancock County,Kentucky","Highland County,Virginia",29845,833314
+246,"Hancock County,Kentucky","Isle of Wight County,Virginia",39271,1152437
+247,"Hancock County,Kentucky","James City County,Virginia",37395,1117662
+248,"Hancock County,Kentucky","King and Queen County,Virginia",37053,1093246
+249,"Hancock County,Kentucky","King George County,Virginia",37172,1107842
+250,"Hancock County,Kentucky","King William County,Virginia",35741,1063168
+251,"Hancock County,Kentucky","Lancaster County,Virginia",39534,1146253
+252,"Hancock County,Kentucky","Lee County,Virginia",19375,463761
+253,"Hancock County,Kentucky","Loudoun County,Virginia",36395,1073935
+254,"Hancock County,Kentucky","Louisa County,Virginia",32958,976888
+255,"Hancock County,Kentucky","Lunenburg County,Virginia",35968,1012563
+256,"Hancock County,Kentucky","Madison County,Virginia",33632,976335
+257,"Hancock County,Kentucky","Mathews County,Virginia",39155,1154503
+258,"Hancock County,Kentucky","Mecklenburg County,Virginia",36958,1025687
+259,"Hancock County,Kentucky","Middlesex County,Virginia",37931,1127279
+260,"Hancock County,Kentucky","Montgomery County,Virginia",26164,753818
+261,"Hancock County,Kentucky","Nelson County,Virginia",31258,890690
+262,"Hancock County,Kentucky","New Kent County,Virginia",36831,1091576
+263,"Hancock County,Kentucky","Northampton County,Virginia",41813,1234325
+264,"Hancock County,Kentucky","Northumberland County,Virginia",39573,1144766
+265,"Hancock County,Kentucky","Nottoway County,Virginia",35460,1012943
+266,"Hancock County,Kentucky","Orange County,Virginia",33921,984996
+267,"Hancock County,Kentucky","Page County,Virginia",32566,960120
+268,"Hancock County,Kentucky","Patrick County,Virginia",28702,828726
+269,"Hancock County,Kentucky","Pittsylvania County,Virginia",32785,924620
+270,"Hancock County,Kentucky","Powhatan County,Virginia",34554,1019015
+271,"Hancock County,Kentucky","Prince Edward County,Virginia",34075,970278
+272,"Hancock County,Kentucky","Prince George County,Virginia",36806,1091690
+273,"Hancock County,Kentucky","Prince William County,Virginia",35437,1065424
+274,"Hancock County,Kentucky","Pulaski County,Virginia",26259,750150
+275,"Hancock County,Kentucky","Rappahannock County,Virginia",34397,996608
+276,"Hancock County,Kentucky","Richmond County,Virginia",38273,1117409
+277,"Hancock County,Kentucky","Roanoke County,Virginia",27784,796612
+278,"Hancock County,Kentucky","Rockbridge County,Virginia",27722,816390
+279,"Hancock County,Kentucky","Rockingham County,Virginia",31605,932471
+280,"Hancock County,Kentucky","Russell County,Virginia",23277,575777
+281,"Hancock County,Kentucky","Scott County,Virginia",21695,511603
+282,"Hancock County,Kentucky","Shenandoah County,Virginia",32110,962574
+283,"Hancock County,Kentucky","Smyth County,Virginia",25386,658265
+284,"Hancock County,Kentucky","Southampton County,Virginia",38836,1149972
+285,"Hancock County,Kentucky","Spotsylvania County,Virginia",34975,1018727
+286,"Hancock County,Kentucky","Stafford County,Virginia",36356,1043020
+287,"Hancock County,Kentucky","Surry County,Virginia",38139,1116523
+288,"Hancock County,Kentucky","Sussex County,Virginia",37500,1120214
+289,"Hancock County,Kentucky","Tazewell County,Virginia",23990,614002
+290,"Hancock County,Kentucky","Warren County,Virginia",34012,1007167
+291,"Hancock County,Kentucky","Washington County,Virginia",23497,609382
+292,"Hancock County,Kentucky","Westmoreland County,Virginia",38146,1124667
+293,"Hancock County,Kentucky","Wise County,Virginia",19364,518563
+294,"Hancock County,Kentucky","Wythe County,Virginia",24955,732470
+295,"Hancock County,Kentucky","York County,Virginia",38683,1148436
+296,"Hancock County,Kentucky","Alexandria City County,Virginia",37518,1124224
+297,"Hancock County,Kentucky","Bedford City County,Virginia",30142,856556
+298,"Hancock County,Kentucky","Bristol City County,Virginia",23210,645851
+299,"Hancock County,Kentucky","Buena Vista City County,Virginia",28076,830367
+300,"Hancock County,Kentucky","Charlottesville City County,Virginia",31189,926225
+301,"Hancock County,Kentucky","Chesapeake City County,Virginia",40146,1201342
+302,"Hancock County,Kentucky","Clifton Forge City County,Virginia",25932,768240
+303,"Hancock County,Kentucky","Colonial Heights City County,Virginia",35855,1070567
+304,"Hancock County,Kentucky","Covington City County,Virginia",25458,751619
+305,"Hancock County,Kentucky","Danville City County,Virginia",32627,924867
+306,"Hancock County,Kentucky","Emporia City County,Virginia",38166,1140451
+307,"Hancock County,Kentucky","Fairfax City County,Virginia",36570,1091171
+308,"Hancock County,Kentucky","Falls Church City County,Virginia",36711,1101354
+309,"Hancock County,Kentucky","Franklin City County,Virginia",39384,1157826
+310,"Hancock County,Kentucky","Fredericksburg City County,Virginia",36108,1028386
+311,"Hancock County,Kentucky","Galax City County,Virginia",27220,789557
+312,"Hancock County,Kentucky","Hampton City County,Virginia",38633,1158142
+313,"Hancock County,Kentucky","Harrisonburg City County,Virginia",30664,912367
+314,"Hancock County,Kentucky","Hopewell City County,Virginia",35892,1069533
+315,"Hancock County,Kentucky","Lexington City County,Virginia",27710,818858
+316,"Hancock County,Kentucky","Lynchburg City County,Virginia",31294,893973
+317,"Hancock County,Kentucky","Manassas City County,Virginia",35665,1070368
+318,"Hancock County,Kentucky","Manassas Park City County,Virginia",36167,1076711
+319,"Hancock County,Kentucky","Martinsville City County,Virginia",30997,879205
+320,"Hancock County,Kentucky","Newport News City County,Virginia",38190,1144628
+321,"Hancock County,Kentucky","Norfolk City County,Virginia",39939,1183558
+322,"Hancock County,Kentucky","Norton City County,Virginia",19993,530375
+323,"Hancock County,Kentucky","Petersburg City County,Virginia",35727,1071555
+324,"Hancock County,Kentucky","Poquoson City County,Virginia",38862,1155205
+325,"Hancock County,Kentucky","Portsmouth City County,Virginia",39879,1192379
+326,"Hancock County,Kentucky","Radford County,Virginia",26572,751859
+327,"Hancock County,Kentucky","Richmond City County,Virginia",34595,1035670
+328,"Hancock County,Kentucky","Roanoke City County,Virginia",28386,816717
+329,"Hancock County,Kentucky","Salem City County,Virginia",27798,803266
+330,"Hancock County,Kentucky","South Boston City County,Virginia",34639,979046
+331,"Hancock County,Kentucky","Staunton City County,Virginia",29481,873502
+332,"Hancock County,Kentucky","Suffolk City County,Virginia",40114,1167161
+333,"Hancock County,Kentucky","Virginia Beach City County,Virginia",40500,1206817
+334,"Hancock County,Kentucky","Waynesboro City County,Virginia",29819,886220
+335,"Hancock County,Kentucky","Williamsburg City County,Virginia",37234,1116877
+336,"Hancock County,Kentucky","Winchester City County,Virginia",34044,986204
+337,"Hancock County,Kentucky","Barbour County,West Virginia",25524,746900
+338,"Hancock County,Kentucky","Berkeley County,West Virginia",33457,985060
+339,"Hancock County,Kentucky","Boone County,West Virginia",20703,580517
+340,"Hancock County,Kentucky","Braxton County,West Virginia",22215,637880
+341,"Hancock County,Kentucky","Brooke County,West Virginia",24268,691442
+342,"Hancock County,Kentucky","Cabell County,West Virginia",15275,447026
+343,"Hancock County,Kentucky","Calhoun County,West Virginia",22135,635564
+344,"Hancock County,Kentucky","Clay County,West Virginia",20981,608792
+345,"Hancock County,Kentucky","Doddridge County,West Virginia",24685,678660
+346,"Hancock County,Kentucky","Fayette County,West Virginia",22269,627137
+347,"Hancock County,Kentucky","Gilmer County,West Virginia",23413,660066
+348,"Hancock County,Kentucky","Grant County,West Virginia",29880,848446
+349,"Hancock County,Kentucky","Greenbrier County,West Virginia",25343,705175
+350,"Hancock County,Kentucky","Hampshire County,West Virginia",32712,946663
+351,"Hancock County,Kentucky","Hancock County,West Virginia",25857,725977
+352,"Hancock County,Kentucky","Hardy County,West Virginia",30935,879943
+353,"Hancock County,Kentucky","Harrison County,West Virginia",24758,733271
+354,"Hancock County,Kentucky","Jackson County,West Virginia",20020,589896
+355,"Hancock County,Kentucky","Jefferson County,West Virginia",34923,1041058
+356,"Hancock County,Kentucky","Kanawha County,West Virginia",19577,561200
+357,"Hancock County,Kentucky","Lewis County,West Virginia",23387,686741
+358,"Hancock County,Kentucky","Lincoln County,West Virginia",18492,504676
+359,"Hancock County,Kentucky","Logan County,West Virginia",20748,548491
+360,"Hancock County,Kentucky","McDowell County,West Virginia",24600,600679
+361,"Hancock County,Kentucky","Marion County,West Virginia",25903,760438
+362,"Hancock County,Kentucky","Marshall County,West Virginia",24225,685949
+363,"Hancock County,Kentucky","Mason County,West Virginia",18256,537770
+364,"Hancock County,Kentucky","Mercer County,West Virginia",22904,672760
+365,"Hancock County,Kentucky","Mineral County,West Virginia",31574,877266
+366,"Hancock County,Kentucky","Mingo County,West Virginia",19432,514943
+367,"Hancock County,Kentucky","Monongalia County,West Virginia",26114,785907
+368,"Hancock County,Kentucky","Monroe County,West Virginia",25949,717471
+369,"Hancock County,Kentucky","Morgan County,West Virginia",32949,974451
+370,"Hancock County,Kentucky","Nicholas County,West Virginia",22698,668673
+371,"Hancock County,Kentucky","Ohio County,West Virginia",23286,672679
+372,"Hancock County,Kentucky","Pendleton County,West Virginia",30211,851070
+373,"Hancock County,Kentucky","Pleasants County,West Virginia",23502,687748
+374,"Hancock County,Kentucky","Pocahontas County,West Virginia",28027,738212
+375,"Hancock County,Kentucky","Preston County,West Virginia",28260,812638
+376,"Hancock County,Kentucky","Putnam County,West Virginia",16958,499803
+377,"Hancock County,Kentucky","Raleigh County,West Virginia",21445,626452
+378,"Hancock County,Kentucky","Randolph County,West Virginia",25889,749196
+379,"Hancock County,Kentucky","Ritchie County,West Virginia",23851,651702
+380,"Hancock County,Kentucky","Roane County,West Virginia",21645,618711
+381,"Hancock County,Kentucky","Summers County,West Virginia",24898,687890
+382,"Hancock County,Kentucky","Taylor County,West Virginia",25796,756011
+383,"Hancock County,Kentucky","Tucker County,West Virginia",26956,779721
+384,"Hancock County,Kentucky","Tyler County,West Virginia",25411,727363
+385,"Hancock County,Kentucky","Upshur County,West Virginia",24952,701438
+386,"Hancock County,Kentucky","Wayne County,West Virginia",16806,468221
+387,"Hancock County,Kentucky","Webster County,West Virginia",24882,695753
+388,"Hancock County,Kentucky","Wetzel County,West Virginia",26623,749269
+389,"Hancock County,Kentucky","Wirt County,West Virginia",22286,647234
+390,"Hancock County,Kentucky","Wood County,West Virginia",21800,648923
+391,"Hancock County,Kentucky","Wyoming County,West Virginia",23390,666394

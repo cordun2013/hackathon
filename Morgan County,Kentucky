@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Morgan County,Kentucky","Adair County,Kentucky",11408,267527
+1,"Morgan County,Kentucky","Allen County,Kentucky",14237,405485
+2,"Morgan County,Kentucky","Anderson County,Kentucky",7418,207876
+3,"Morgan County,Kentucky","Ballard County,Kentucky",20397,597647
+4,"Morgan County,Kentucky","Barren County,Kentucky",13154,326554
+5,"Morgan County,Kentucky","Bath County,Kentucky",3188,66583
+6,"Morgan County,Kentucky","Bell County,Kentucky",9995,215442
+7,"Morgan County,Kentucky","Boone County,Kentucky",9126,259584
+8,"Morgan County,Kentucky","Bourbon County,Kentucky",5409,125471
+9,"Morgan County,Kentucky","Boyd County,Kentucky",4647,97943
+10,"Morgan County,Kentucky","Boyle County,Kentucky",8647,211763
+11,"Morgan County,Kentucky","Bracken County,Kentucky",6797,145217
+12,"Morgan County,Kentucky","Breathitt County,Kentucky",2858,59120
+13,"Morgan County,Kentucky","Breckinridge County,Kentucky",12951,360557
+14,"Morgan County,Kentucky","Bullitt County,Kentucky",9521,281677
+15,"Morgan County,Kentucky","Butler County,Kentucky",13616,382555
+16,"Morgan County,Kentucky","Caldwell County,Kentucky",16508,488500
+17,"Morgan County,Kentucky","Calloway County,Kentucky",19318,573493
+18,"Morgan County,Kentucky","Campbell County,Kentucky",8497,185089
+19,"Morgan County,Kentucky","Carlisle County,Kentucky",20854,613016
+20,"Morgan County,Kentucky","Carroll County,Kentucky",9963,255691
+21,"Morgan County,Kentucky","Carter County,Kentucky",3964,74089
+22,"Morgan County,Kentucky","Casey County,Kentucky",9833,223454
+23,"Morgan County,Kentucky","Christian County,Kentucky",16157,483757
+24,"Morgan County,Kentucky","Clay County,Kentucky",6450,136433
+25,"Morgan County,Kentucky","Clinton County,Kentucky",11816,270892
+26,"Morgan County,Kentucky","Crittenden County,Kentucky",18088,521571
+27,"Morgan County,Kentucky","Cumberland County,Kentucky",12570,289131
+28,"Morgan County,Kentucky","Daviess County,Kentucky",14639,428998
+29,"Morgan County,Kentucky","Edmonson County,Kentucky",13056,370430
+30,"Morgan County,Kentucky","Elliott County,Kentucky",2596,46414
+31,"Morgan County,Kentucky","Estill County,Kentucky",4323,108369
+32,"Morgan County,Kentucky","Fayette County,Kentucky",5225,145369
+33,"Morgan County,Kentucky","Fleming County,Kentucky",4014,83198
+34,"Morgan County,Kentucky","Floyd County,Kentucky",4119,95997
+35,"Morgan County,Kentucky","Franklin County,Kentucky",7263,194285
+36,"Morgan County,Kentucky","Fulton County,Kentucky",21258,633980
+37,"Morgan County,Kentucky","Gallatin County,Kentucky",8960,246349
+38,"Morgan County,Kentucky","Garrard County,Kentucky",7521,172709
+39,"Morgan County,Kentucky","Grant County,Kentucky",7759,220457
+40,"Morgan County,Kentucky","Graves County,Kentucky",19878,585722
+41,"Morgan County,Kentucky","Grayson County,Kentucky",11944,339191
+42,"Morgan County,Kentucky","Green County,Kentucky",11723,304396
+43,"Morgan County,Kentucky","Greenup County,Kentucky",5468,113592
+44,"Morgan County,Kentucky","Hancock County,Kentucky",13747,393451
+45,"Morgan County,Kentucky","Hardin County,Kentucky",10820,301324
+46,"Morgan County,Kentucky","Harlan County,Kentucky",9318,195758
+47,"Morgan County,Kentucky","Harrison County,Kentucky",6733,169779
+48,"Morgan County,Kentucky","Hart County,Kentucky",11619,328952
+49,"Morgan County,Kentucky","Henderson County,Kentucky",16446,481427
+50,"Morgan County,Kentucky","Henry County,Kentucky",8864,238004
+51,"Morgan County,Kentucky","Hickman County,Kentucky",20887,614307
+52,"Morgan County,Kentucky","Hopkins County,Kentucky",15967,462969
+53,"Morgan County,Kentucky","Jackson County,Kentucky",5934,124591
+54,"Morgan County,Kentucky","Jefferson County,Kentucky",8958,253537
+55,"Morgan County,Kentucky","Jessamine County,Kentucky",6694,166833
+56,"Morgan County,Kentucky","Johnson County,Kentucky",3073,71990
+57,"Morgan County,Kentucky","Kenton County,Kentucky",9013,255300
+58,"Morgan County,Kentucky","Knott County,Kentucky",5318,122499
+59,"Morgan County,Kentucky","Knox County,Kentucky",8476,183041
+60,"Morgan County,Kentucky","Larue County,Kentucky",10891,288500
+61,"Morgan County,Kentucky","Laurel County,Kentucky",7692,164885
+62,"Morgan County,Kentucky","Lawrence County,Kentucky",3985,70479
+63,"Morgan County,Kentucky","Lee County,Kentucky",3308,74146
+64,"Morgan County,Kentucky","Leslie County,Kentucky",6347,140665
+65,"Morgan County,Kentucky","Letcher County,Kentucky",6571,147471
+66,"Morgan County,Kentucky","Lewis County,Kentucky",4848,94612
+67,"Morgan County,Kentucky","Lincoln County,Kentucky",8231,189628
+68,"Morgan County,Kentucky","Livingston County,Kentucky",18684,538468
+69,"Morgan County,Kentucky","Logan County,Kentucky",15357,425794
+70,"Morgan County,Kentucky","Lyon County,Kentucky",18817,548858
+71,"Morgan County,Kentucky","McCracken County,Kentucky",19009,565707
+72,"Morgan County,Kentucky","McCreary County,Kentucky",10161,235284
+73,"Morgan County,Kentucky","Madison County,Kentucky",5826,140385
+74,"Morgan County,Kentucky","Magoffin County,Kentucky",2541,53858
+75,"Morgan County,Kentucky","Marion County,Kentucky",9269,250109
+76,"Morgan County,Kentucky","Marshall County,Kentucky",18423,549279
+77,"Morgan County,Kentucky","Martin County,Kentucky",5859,130336
+78,"Morgan County,Kentucky","Mason County,Kentucky",6145,124763
+79,"Morgan County,Kentucky","Meade County,Kentucky",11418,325852
+80,"Morgan County,Kentucky","Menifee County,Kentucky",2360,46546
+81,"Morgan County,Kentucky","Mercer County,Kentucky",7646,205820
+82,"Morgan County,Kentucky","Metcalfe County,Kentucky",12064,297791
+83,"Morgan County,Kentucky","Monroe County,Kentucky",14034,335296
+84,"Morgan County,Kentucky","Montgomery County,Kentucky",3830,76961
+85,"Morgan County,Kentucky","Muhlenberg County,Kentucky",14827,429445
+86,"Morgan County,Kentucky","Nelson County,Kentucky",8877,249180
+87,"Morgan County,Kentucky","Nicholas County,Kentucky",6024,119253
+88,"Morgan County,Kentucky","Ohio County,Kentucky",13740,397034
+89,"Morgan County,Kentucky","Oldham County,Kentucky",9029,265419
+90,"Morgan County,Kentucky","Owen County,Kentucky",8085,221063
+91,"Morgan County,Kentucky","Owsley County,Kentucky",4455,94122
+92,"Morgan County,Kentucky","Pendleton County,Kentucky",8293,206906
+93,"Morgan County,Kentucky","Perry County,Kentucky",4470,99003
+94,"Morgan County,Kentucky","Pike County,Kentucky",5798,126321
+95,"Morgan County,Kentucky","Powell County,Kentucky",3208,76623
+96,"Morgan County,Kentucky","Robertson County,Kentucky",5996,125942
+97,"Morgan County,Kentucky","Rockcastle County,Kentucky",7512,183287
+98,"Morgan County,Kentucky","Rowan County,Kentucky",2432,47657
+99,"Morgan County,Kentucky","Russell County,Kentucky",11013,251510
+100,"Morgan County,Kentucky","Scott County,Kentucky",6059,173396
+101,"Morgan County,Kentucky","Shelby County,Kentucky",7887,224672
+102,"Morgan County,Kentucky","Simpson County,Kentucky",14938,433851
+103,"Morgan County,Kentucky","Spencer County,Kentucky",8416,230520
+104,"Morgan County,Kentucky","Taylor County,Kentucky",10559,281605
+105,"Morgan County,Kentucky","Todd County,Kentucky",16593,449954
+106,"Morgan County,Kentucky","Trigg County,Kentucky",17571,509686
+107,"Morgan County,Kentucky","Trimble County,Kentucky",10103,271459
+108,"Morgan County,Kentucky","Union County,Kentucky",18165,511874
+109,"Morgan County,Kentucky","Warren County,Kentucky",13973,398799
+110,"Morgan County,Kentucky","Washington County,Kentucky",8887,234417
+111,"Morgan County,Kentucky","Wayne County,Kentucky",11189,248583
+112,"Morgan County,Kentucky","Webster County,Kentucky",17076,491057
+113,"Morgan County,Kentucky","Whitley County,Kentucky",8525,199370
+114,"Morgan County,Kentucky","Wolfe County,Kentucky",1461,29235
+115,"Morgan County,Kentucky","Woodford County,Kentucky",6279,176032
+116,"Morgan County,Kentucky","Adams County,Ohio",8053,158970
+117,"Morgan County,Kentucky","Allen County,Ohio",16432,481194
+118,"Morgan County,Kentucky","Ashland County,Ohio",17657,434287
+119,"Morgan County,Kentucky","Ashtabula County,Ohio",23403,619039
+120,"Morgan County,Kentucky","Athens County,Ohio",10975,255962
+121,"Morgan County,Kentucky","Auglaize County,Ohio",15688,468459
+122,"Morgan County,Kentucky","Belmont County,Ohio",16725,472533
+123,"Morgan County,Kentucky","Brown County,Ohio",7481,154247
+124,"Morgan County,Kentucky","Butler County,Ohio",11510,331068
+125,"Morgan County,Kentucky","Carroll County,Ohio",18655,509419
+126,"Morgan County,Kentucky","Champaign County,Ohio",14466,422640
+127,"Morgan County,Kentucky","Clark County,Ohio",13588,278284
+128,"Morgan County,Kentucky","Clermont County,Ohio",9302,195647
+129,"Morgan County,Kentucky","Clinton County,Ohio",10178,214136
+130,"Morgan County,Kentucky","Columbiana County,Ohio",20497,563654
+131,"Morgan County,Kentucky","Coshocton County,Ohio",17257,406199
+132,"Morgan County,Kentucky","Crawford County,Ohio",17271,402745
+133,"Morgan County,Kentucky","Cuyahoga County,Ohio",19975,516752
+134,"Morgan County,Kentucky","Darke County,Ohio",14786,425505
+135,"Morgan County,Kentucky","Defiance County,Ohio",19920,559624
+136,"Morgan County,Kentucky","Delaware County,Ohio",14574,340959
+137,"Morgan County,Kentucky","Fairfield County,Ohio",13119,292782
+138,"Morgan County,Kentucky","Fayette County,Ohio",11634,238433
+139,"Morgan County,Kentucky","Franklin County,Ohio",13092,300887
+140,"Morgan County,Kentucky","Fulton County,Ohio",20683,576567
+141,"Morgan County,Kentucky","Gallia County,Ohio",8933,198314
+142,"Morgan County,Kentucky","Geauga County,Ohio",21503,555971
+143,"Morgan County,Kentucky","Greene County,Ohio",12001,250067
+144,"Morgan County,Kentucky","Guernsey County,Ohio",14841,418455
+145,"Morgan County,Kentucky","Hamilton County,Ohio",10164,295552
+146,"Morgan County,Kentucky","Hancock County,Ohio",17541,522089
+147,"Morgan County,Kentucky","Hardin County,Ohio",17100,398429
+148,"Morgan County,Kentucky","Harrison County,Ohio",17661,491485
+149,"Morgan County,Kentucky","Henry County,Ohio",19265,546558
+150,"Morgan County,Kentucky","Highland County,Ohio",9628,199450
+151,"Morgan County,Kentucky","Hocking County,Ohio",12116,249200
+152,"Morgan County,Kentucky","Holmes County,Ohio",18349,503420
+153,"Morgan County,Kentucky","Huron County,Ohio",18804,433058
+154,"Morgan County,Kentucky","Jackson County,Ohio",8483,181509
+155,"Morgan County,Kentucky","Jefferson County,Ohio",18654,501263
+156,"Morgan County,Kentucky","Knox County,Ohio",17024,400581
+157,"Morgan County,Kentucky","Lawrence County,Ohio",7054,134371
+158,"Morgan County,Kentucky","Licking County,Ohio",15095,348644
+159,"Morgan County,Kentucky","Logan County,Ohio",15701,455177
+160,"Morgan County,Kentucky","Lorain County,Ohio",20589,491712
+161,"Morgan County,Kentucky","Lucas County,Ohio",20866,608609
+162,"Morgan County,Kentucky","Madison County,Ohio",13591,302171
+163,"Morgan County,Kentucky","Mahoning County,Ohio",20992,578459
+164,"Morgan County,Kentucky","Marion County,Ohio",15831,361575
+165,"Morgan County,Kentucky","Medina County,Ohio",18302,459300
+166,"Morgan County,Kentucky","Meigs County,Ohio",9865,228698
+167,"Morgan County,Kentucky","Mercer County,Ohio",16924,495392
+168,"Morgan County,Kentucky","Miami County,Ohio",13274,390897
+169,"Morgan County,Kentucky","Monroe County,Ohio",15777,407646
+170,"Morgan County,Kentucky","Montgomery County,Ohio",12657,368637
+171,"Morgan County,Kentucky","Morgan County,Ohio",13928,322986
+172,"Morgan County,Kentucky","Morrow County,Ohio",15382,363780
+173,"Morgan County,Kentucky","Muskingum County,Ohio",15313,373396
+174,"Morgan County,Kentucky","Noble County,Ohio",14282,390807
+175,"Morgan County,Kentucky","Paulding County,Ohio",18963,544172
+176,"Morgan County,Kentucky","Perry County,Ohio",14073,287792
+177,"Morgan County,Kentucky","Pickaway County,Ohio",11330,259185
+178,"Morgan County,Kentucky","Pike County,Ohio",8292,184312
+179,"Morgan County,Kentucky","Portage County,Ohio",20213,576405
+180,"Morgan County,Kentucky","Preble County,Ohio",13554,375467
+181,"Morgan County,Kentucky","Putnam County,Ohio",17607,513661
+182,"Morgan County,Kentucky","Richland County,Ohio",16411,399019
+183,"Morgan County,Kentucky","Ross County,Ohio",10075,225491
+184,"Morgan County,Kentucky","Sandusky County,Ohio",20205,462532
+185,"Morgan County,Kentucky","Scioto County,Ohio",7597,160535
+186,"Morgan County,Kentucky","Seneca County,Ohio",18822,436417
+187,"Morgan County,Kentucky","Shelby County,Ohio",14313,427183
+188,"Morgan County,Kentucky","Stark County,Ohio",18514,524654
+189,"Morgan County,Kentucky","Summit County,Ohio",19272,550442
+190,"Morgan County,Kentucky","Trumbull County,Ohio",21947,604706
+191,"Morgan County,Kentucky","Tuscarawas County,Ohio",16715,465241
+192,"Morgan County,Kentucky","Union County,Ohio",14625,342937
+193,"Morgan County,Kentucky","Van Wert County,Ohio",17597,513717
+194,"Morgan County,Kentucky","Vinton County,Ohio",11055,225611
+195,"Morgan County,Kentucky","Warren County,Ohio",11277,230399
+196,"Morgan County,Kentucky","Washington County,Ohio",12902,300647
+197,"Morgan County,Kentucky","Wayne County,Ohio",18030,448298
+198,"Morgan County,Kentucky","Williams County,Ohio",21097,583140
+199,"Morgan County,Kentucky","Wood County,Ohio",18629,562717
+200,"Morgan County,Kentucky","Wyandot County,Ohio",17418,407973
+201,"Morgan County,Kentucky","Accomack County,Virginia",34733,971811
+202,"Morgan County,Kentucky","Albemarle County,Virginia",20883,584311
+203,"Morgan County,Kentucky","Alleghany County,Virginia",15552,421334
+204,"Morgan County,Kentucky","Amelia County,Virginia",25583,684429
+205,"Morgan County,Kentucky","Amherst County,Virginia",20880,552299
+206,"Morgan County,Kentucky","Appomattox County,Virginia",22474,591058
+207,"Morgan County,Kentucky","Arlington County,Virginia",27166,780342
+208,"Morgan County,Kentucky","Augusta County,Virginia",19493,522650
+209,"Morgan County,Kentucky","Bath County,Virginia",18563,496643
+210,"Morgan County,Kentucky","Bedford County,Virginia",21140,538424
+211,"Morgan County,Kentucky","Bland County,Virginia",14513,387553
+212,"Morgan County,Kentucky","Botetourt County,Virginia",18706,492633
+213,"Morgan County,Kentucky","Brunswick County,Virginia",28126,734102
+214,"Morgan County,Kentucky","Buchanan County,Virginia",9850,205828
+215,"Morgan County,Kentucky","Buckingham County,Virginia",22756,601994
+216,"Morgan County,Kentucky","Campbell County,Virginia",22397,593530
+217,"Morgan County,Kentucky","Caroline County,Virginia",26222,753156
+218,"Morgan County,Kentucky","Carroll County,Virginia",16759,456991
+219,"Morgan County,Kentucky","Charles City County,Virginia",26322,750191
+220,"Morgan County,Kentucky","Charlotte County,Virginia",24358,644579
+221,"Morgan County,Kentucky","Chesterfield County,Virginia",25458,727975
+222,"Morgan County,Kentucky","Clarke County,Virginia",25062,711368
+223,"Morgan County,Kentucky","Craig County,Virginia",17195,442418
+224,"Morgan County,Kentucky","Culpeper County,Virginia",24680,673527
+225,"Morgan County,Kentucky","Cumberland County,Virginia",23966,629996
+226,"Morgan County,Kentucky","Dickenson County,Virginia",9659,211324
+227,"Morgan County,Kentucky","Dinwiddie County,Virginia",27205,778406
+228,"Morgan County,Kentucky","Essex County,Virginia",28039,777199
+229,"Morgan County,Kentucky","Fairfax County,Virginia",26856,771010
+230,"Morgan County,Kentucky","Fauquier County,Virginia",25501,732620
+231,"Morgan County,Kentucky","Floyd County,Virginia",18380,475955
+232,"Morgan County,Kentucky","Fluvanna County,Virginia",22560,636482
+233,"Morgan County,Kentucky","Franklin County,Virginia",20653,539658
+234,"Morgan County,Kentucky","Frederick County,Virginia",23728,625503
+235,"Morgan County,Kentucky","Giles County,Virginia",15244,399111
+236,"Morgan County,Kentucky","Gloucester County,Virginia",28493,804379
+237,"Morgan County,Kentucky","Goochland County,Virginia",23464,667093
+238,"Morgan County,Kentucky","Grayson County,Virginia",16666,387223
+239,"Morgan County,Kentucky","Greene County,Virginia",22875,619895
+240,"Morgan County,Kentucky","Greensville County,Virginia",28621,827158
+241,"Morgan County,Kentucky","Halifax County,Virginia",25062,654678
+242,"Morgan County,Kentucky","Hanover County,Virginia",24670,708200
+243,"Morgan County,Kentucky","Henrico County,Virginia",25182,721160
+244,"Morgan County,Kentucky","Henry County,Virginia",20632,543712
+245,"Morgan County,Kentucky","Highland County,Virginia",20008,506614
+246,"Morgan County,Kentucky","Isle of Wight County,Virginia",29434,825737
+247,"Morgan County,Kentucky","James City County,Virginia",27558,790962
+248,"Morgan County,Kentucky","King and Queen County,Virginia",27216,766546
+249,"Morgan County,Kentucky","King George County,Virginia",27335,781142
+250,"Morgan County,Kentucky","King William County,Virginia",25904,736468
+251,"Morgan County,Kentucky","Lancaster County,Virginia",29697,819553
+252,"Morgan County,Kentucky","Lee County,Virginia",10940,225937
+253,"Morgan County,Kentucky","Loudoun County,Virginia",26558,747235
+254,"Morgan County,Kentucky","Louisa County,Virginia",23121,650188
+255,"Morgan County,Kentucky","Lunenburg County,Virginia",26130,685863
+256,"Morgan County,Kentucky","Madison County,Virginia",23795,649635
+257,"Morgan County,Kentucky","Mathews County,Virginia",29318,827803
+258,"Morgan County,Kentucky","Mecklenburg County,Virginia",27121,698987
+259,"Morgan County,Kentucky","Middlesex County,Virginia",28094,800579
+260,"Morgan County,Kentucky","Montgomery County,Virginia",16327,427118
+261,"Morgan County,Kentucky","Nelson County,Virginia",21421,563990
+262,"Morgan County,Kentucky","New Kent County,Virginia",26994,764876
+263,"Morgan County,Kentucky","Northampton County,Virginia",31975,907625
+264,"Morgan County,Kentucky","Northumberland County,Virginia",29736,818066
+265,"Morgan County,Kentucky","Nottoway County,Virginia",25623,686243
+266,"Morgan County,Kentucky","Orange County,Virginia",24084,658296
+267,"Morgan County,Kentucky","Page County,Virginia",22729,633420
+268,"Morgan County,Kentucky","Patrick County,Virginia",18865,502026
+269,"Morgan County,Kentucky","Pittsylvania County,Virginia",22948,597920
+270,"Morgan County,Kentucky","Powhatan County,Virginia",24717,692315
+271,"Morgan County,Kentucky","Prince Edward County,Virginia",24238,643578
+272,"Morgan County,Kentucky","Prince George County,Virginia",26969,764990
+273,"Morgan County,Kentucky","Prince William County,Virginia",25600,738724
+274,"Morgan County,Kentucky","Pulaski County,Virginia",16422,423450
+275,"Morgan County,Kentucky","Rappahannock County,Virginia",24560,669908
+276,"Morgan County,Kentucky","Richmond County,Virginia",28436,790709
+277,"Morgan County,Kentucky","Roanoke County,Virginia",17947,469912
+278,"Morgan County,Kentucky","Rockbridge County,Virginia",17884,489690
+279,"Morgan County,Kentucky","Rockingham County,Virginia",21768,605771
+280,"Morgan County,Kentucky","Russell County,Virginia",11382,224377
+281,"Morgan County,Kentucky","Scott County,Virginia",11135,258778
+282,"Morgan County,Kentucky","Shenandoah County,Virginia",22273,635874
+283,"Morgan County,Kentucky","Smyth County,Virginia",13945,326925
+284,"Morgan County,Kentucky","Southampton County,Virginia",28999,823272
+285,"Morgan County,Kentucky","Spotsylvania County,Virginia",25137,692027
+286,"Morgan County,Kentucky","Stafford County,Virginia",26519,716320
+287,"Morgan County,Kentucky","Surry County,Virginia",28302,789823
+288,"Morgan County,Kentucky","Sussex County,Virginia",27663,793514
+289,"Morgan County,Kentucky","Tazewell County,Virginia",12095,262602
+290,"Morgan County,Kentucky","Warren County,Virginia",24175,680467
+291,"Morgan County,Kentucky","Washington County,Virginia",12057,278042
+292,"Morgan County,Kentucky","Westmoreland County,Virginia",28309,797967
+293,"Morgan County,Kentucky","Wise County,Virginia",7923,187223
+294,"Morgan County,Kentucky","Wythe County,Virginia",15118,405770
+295,"Morgan County,Kentucky","York County,Virginia",28846,821736
+296,"Morgan County,Kentucky","Alexandria City County,Virginia",27681,797524
+297,"Morgan County,Kentucky","Bedford City County,Virginia",20305,529856
+298,"Morgan County,Kentucky","Bristol City County,Virginia",12897,298928
+299,"Morgan County,Kentucky","Buena Vista City County,Virginia",18239,503667
+300,"Morgan County,Kentucky","Charlottesville City County,Virginia",21352,599525
+301,"Morgan County,Kentucky","Chesapeake City County,Virginia",30309,874642
+302,"Morgan County,Kentucky","Clifton Forge City County,Virginia",16095,441540
+303,"Morgan County,Kentucky","Colonial Heights City County,Virginia",26018,743867
+304,"Morgan County,Kentucky","Covington City County,Virginia",15621,424919
+305,"Morgan County,Kentucky","Danville City County,Virginia",22790,598167
+306,"Morgan County,Kentucky","Emporia City County,Virginia",28329,813751
+307,"Morgan County,Kentucky","Fairfax City County,Virginia",26733,764471
+308,"Morgan County,Kentucky","Falls Church City County,Virginia",26874,774654
+309,"Morgan County,Kentucky","Franklin City County,Virginia",29547,831126
+310,"Morgan County,Kentucky","Fredericksburg City County,Virginia",26270,701686
+311,"Morgan County,Kentucky","Galax City County,Virginia",17382,462857
+312,"Morgan County,Kentucky","Hampton City County,Virginia",28796,831442
+313,"Morgan County,Kentucky","Harrisonburg City County,Virginia",20827,585667
+314,"Morgan County,Kentucky","Hopewell City County,Virginia",26055,742833
+315,"Morgan County,Kentucky","Lexington City County,Virginia",17873,492158
+316,"Morgan County,Kentucky","Lynchburg City County,Virginia",21457,567273
+317,"Morgan County,Kentucky","Manassas City County,Virginia",25828,743668
+318,"Morgan County,Kentucky","Manassas Park City County,Virginia",26330,750011
+319,"Morgan County,Kentucky","Martinsville City County,Virginia",21160,552505
+320,"Morgan County,Kentucky","Newport News City County,Virginia",28353,817928
+321,"Morgan County,Kentucky","Norfolk City County,Virginia",30102,856858
+322,"Morgan County,Kentucky","Norton City County,Virginia",8552,199035
+323,"Morgan County,Kentucky","Petersburg City County,Virginia",25890,744855
+324,"Morgan County,Kentucky","Poquoson City County,Virginia",29025,828505
+325,"Morgan County,Kentucky","Portsmouth City County,Virginia",30042,865679
+326,"Morgan County,Kentucky","Radford County,Virginia",16735,425159
+327,"Morgan County,Kentucky","Richmond City County,Virginia",24758,708970
+328,"Morgan County,Kentucky","Roanoke City County,Virginia",18549,490017
+329,"Morgan County,Kentucky","Salem City County,Virginia",17961,476566
+330,"Morgan County,Kentucky","South Boston City County,Virginia",24802,652346
+331,"Morgan County,Kentucky","Staunton City County,Virginia",19644,546802
+332,"Morgan County,Kentucky","Suffolk City County,Virginia",30277,840461
+333,"Morgan County,Kentucky","Virginia Beach City County,Virginia",30663,880117
+334,"Morgan County,Kentucky","Waynesboro City County,Virginia",19982,559520
+335,"Morgan County,Kentucky","Williamsburg City County,Virginia",27397,790177
+336,"Morgan County,Kentucky","Winchester City County,Virginia",24207,659504
+337,"Morgan County,Kentucky","Barbour County,West Virginia",15687,420200
+338,"Morgan County,Kentucky","Berkeley County,West Virginia",23620,658360
+339,"Morgan County,Kentucky","Boone County,West Virginia",10747,240455
+340,"Morgan County,Kentucky","Braxton County,West Virginia",12377,311180
+341,"Morgan County,Kentucky","Brooke County,West Virginia",18804,514781
+342,"Morgan County,Kentucky","Cabell County,West Virginia",5438,120326
+343,"Morgan County,Kentucky","Calhoun County,West Virginia",12298,308864
+344,"Morgan County,Kentucky","Clay County,West Virginia",11144,282092
+345,"Morgan County,Kentucky","Doddridge County,West Virginia",14831,401710
+346,"Morgan County,Kentucky","Fayette County,West Virginia",12432,300437
+347,"Morgan County,Kentucky","Gilmer County,West Virginia",13576,333366
+348,"Morgan County,Kentucky","Grant County,West Virginia",20043,521746
+349,"Morgan County,Kentucky","Greenbrier County,West Virginia",15506,378475
+350,"Morgan County,Kentucky","Hampshire County,West Virginia",22875,619963
+351,"Morgan County,Kentucky","Hancock County,West Virginia",20394,549316
+352,"Morgan County,Kentucky","Hardy County,West Virginia",21098,553243
+353,"Morgan County,Kentucky","Harrison County,West Virginia",14921,406571
+354,"Morgan County,Kentucky","Jackson County,West Virginia",10183,263196
+355,"Morgan County,Kentucky","Jefferson County,West Virginia",25086,714358
+356,"Morgan County,Kentucky","Kanawha County,West Virginia",9740,234500
+357,"Morgan County,Kentucky","Lewis County,West Virginia",13550,360041
+358,"Morgan County,Kentucky","Lincoln County,West Virginia",8655,177976
+359,"Morgan County,Kentucky","Logan County,West Virginia",8853,197090
+360,"Morgan County,Kentucky","McDowell County,West Virginia",12705,249279
+361,"Morgan County,Kentucky","Marion County,West Virginia",16066,433738
+362,"Morgan County,Kentucky","Marshall County,West Virginia",18191,450882
+363,"Morgan County,Kentucky","Mason County,West Virginia",8419,211070
+364,"Morgan County,Kentucky","Mercer County,West Virginia",13067,346060
+365,"Morgan County,Kentucky","Mineral County,West Virginia",21737,550566
+366,"Morgan County,Kentucky","Mingo County,West Virginia",7537,163543
+367,"Morgan County,Kentucky","Monongalia County,West Virginia",16277,459207
+368,"Morgan County,Kentucky","Monroe County,West Virginia",16112,390771
+369,"Morgan County,Kentucky","Morgan County,West Virginia",23112,647751
+370,"Morgan County,Kentucky","Nicholas County,West Virginia",12860,341973
+371,"Morgan County,Kentucky","Ohio County,West Virginia",17823,496018
+372,"Morgan County,Kentucky","Pendleton County,West Virginia",20374,524370
+373,"Morgan County,Kentucky","Pleasants County,West Virginia",13665,361048
+374,"Morgan County,Kentucky","Pocahontas County,West Virginia",18190,411512
+375,"Morgan County,Kentucky","Preston County,West Virginia",18423,485938
+376,"Morgan County,Kentucky","Putnam County,West Virginia",7121,173103
+377,"Morgan County,Kentucky","Raleigh County,West Virginia",11608,299752
+378,"Morgan County,Kentucky","Randolph County,West Virginia",16052,422496
+379,"Morgan County,Kentucky","Ritchie County,West Virginia",13996,374752
+380,"Morgan County,Kentucky","Roane County,West Virginia",11808,292011
+381,"Morgan County,Kentucky","Summers County,West Virginia",15061,361190
+382,"Morgan County,Kentucky","Taylor County,West Virginia",15959,429311
+383,"Morgan County,Kentucky","Tucker County,West Virginia",17119,453021
+384,"Morgan County,Kentucky","Tyler County,West Virginia",15574,400663
+385,"Morgan County,Kentucky","Upshur County,West Virginia",15115,374738
+386,"Morgan County,Kentucky","Wayne County,West Virginia",6472,111145
+387,"Morgan County,Kentucky","Webster County,West Virginia",15045,369053
+388,"Morgan County,Kentucky","Wetzel County,West Virginia",16786,422569
+389,"Morgan County,Kentucky","Wirt County,West Virginia",12449,320534
+390,"Morgan County,Kentucky","Wood County,West Virginia",11963,322223
+391,"Morgan County,Kentucky","Wyoming County,West Virginia",12284,255551

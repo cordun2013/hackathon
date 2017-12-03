@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Powell County,Kentucky","Adair County,Kentucky",9078,219720
+1,"Powell County,Kentucky","Allen County,Kentucky",11842,334616
+2,"Powell County,Kentucky","Anderson County,Kentucky",5023,137007
+3,"Powell County,Kentucky","Ballard County,Kentucky",18002,526778
+4,"Powell County,Kentucky","Barren County,Kentucky",10824,278747
+5,"Powell County,Kentucky","Bath County,Kentucky",2544,45338
+6,"Powell County,Kentucky","Bell County,Kentucky",9340,177392
+7,"Powell County,Kentucky","Boone County,Kentucky",6731,188715
+8,"Powell County,Kentucky","Bourbon County,Kentucky",3026,70570
+9,"Powell County,Kentucky","Boyd County,Kentucky",5952,158484
+10,"Powell County,Kentucky","Boyle County,Kentucky",6252,140893
+11,"Powell County,Kentucky","Bracken County,Kentucky",6650,140901
+12,"Powell County,Kentucky","Breathitt County,Kentucky",3227,70965
+13,"Powell County,Kentucky","Breckinridge County,Kentucky",10556,289688
+14,"Powell County,Kentucky","Bullitt County,Kentucky",7126,210807
+15,"Powell County,Kentucky","Butler County,Kentucky",11221,311686
+16,"Powell County,Kentucky","Caldwell County,Kentucky",14113,417631
+17,"Powell County,Kentucky","Calloway County,Kentucky",16923,502624
+18,"Powell County,Kentucky","Campbell County,Kentucky",6719,155389
+19,"Powell County,Kentucky","Carlisle County,Kentucky",18459,542146
+20,"Powell County,Kentucky","Carroll County,Kentucky",7568,184821
+21,"Powell County,Kentucky","Carter County,Kentucky",5089,127741
+22,"Powell County,Kentucky","Casey County,Kentucky",7438,152585
+23,"Powell County,Kentucky","Christian County,Kentucky",13762,412888
+24,"Powell County,Kentucky","Clay County,Kentucky",5592,109690
+25,"Powell County,Kentucky","Clinton County,Kentucky",9486,223085
+26,"Powell County,Kentucky","Crittenden County,Kentucky",15693,450701
+27,"Powell County,Kentucky","Cumberland County,Kentucky",10239,241324
+28,"Powell County,Kentucky","Daviess County,Kentucky",12244,358128
+29,"Powell County,Kentucky","Edmonson County,Kentucky",10661,299561
+30,"Powell County,Kentucky","Elliott County,Kentucky",5448,117682
+31,"Powell County,Kentucky","Estill County,Kentucky",1928,37500
+32,"Powell County,Kentucky","Fayette County,Kentucky",2830,74500
+33,"Powell County,Kentucky","Fleming County,Kentucky",4295,89330
+34,"Powell County,Kentucky","Floyd County,Kentucky",5414,130996
+35,"Powell County,Kentucky","Franklin County,Kentucky",4868,123416
+36,"Powell County,Kentucky","Fulton County,Kentucky",18863,563110
+37,"Powell County,Kentucky","Gallatin County,Kentucky",6565,175480
+38,"Powell County,Kentucky","Garrard County,Kentucky",5126,101840
+39,"Powell County,Kentucky","Grant County,Kentucky",5364,149587
+40,"Powell County,Kentucky","Graves County,Kentucky",17483,514852
+41,"Powell County,Kentucky","Grayson County,Kentucky",9549,268322
+42,"Powell County,Kentucky","Green County,Kentucky",9328,233527
+43,"Powell County,Kentucky","Greenup County,Kentucky",6558,155071
+44,"Powell County,Kentucky","Hancock County,Kentucky",11352,322581
+45,"Powell County,Kentucky","Hardin County,Kentucky",8425,230454
+46,"Powell County,Kentucky","Harlan County,Kentucky",9687,207603
+47,"Powell County,Kentucky","Harrison County,Kentucky",4338,98909
+48,"Powell County,Kentucky","Hart County,Kentucky",9224,258083
+49,"Powell County,Kentucky","Henderson County,Kentucky",14051,410558
+50,"Powell County,Kentucky","Henry County,Kentucky",6469,167134
+51,"Powell County,Kentucky","Hickman County,Kentucky",18492,543438
+52,"Powell County,Kentucky","Hopkins County,Kentucky",13572,392099
+53,"Powell County,Kentucky","Jackson County,Kentucky",4601,85508
+54,"Powell County,Kentucky","Jefferson County,Kentucky",6563,182668
+55,"Powell County,Kentucky","Jessamine County,Kentucky",4299,95963
+56,"Powell County,Kentucky","Johnson County,Kentucky",4368,106989
+57,"Powell County,Kentucky","Kenton County,Kentucky",6618,184431
+58,"Powell County,Kentucky","Knott County,Kentucky",5687,134344
+59,"Powell County,Kentucky","Knox County,Kentucky",7618,156298
+60,"Powell County,Kentucky","Larue County,Kentucky",8496,217630
+61,"Powell County,Kentucky","Laurel County,Kentucky",6545,157693
+62,"Powell County,Kentucky","Lawrence County,Kentucky",6489,147333
+63,"Powell County,Kentucky","Lee County,Kentucky",2450,47402
+64,"Powell County,Kentucky","Leslie County,Kentucky",6716,152511
+65,"Powell County,Kentucky","Letcher County,Kentucky",6940,159317
+66,"Powell County,Kentucky","Lewis County,Kentucky",5648,125386
+67,"Powell County,Kentucky","Lincoln County,Kentucky",5836,118758
+68,"Powell County,Kentucky","Livingston County,Kentucky",16289,467598
+69,"Powell County,Kentucky","Logan County,Kentucky",12962,354924
+70,"Powell County,Kentucky","Lyon County,Kentucky",16422,477989
+71,"Powell County,Kentucky","McCracken County,Kentucky",16614,494838
+72,"Powell County,Kentucky","McCreary County,Kentucky",8649,202135
+73,"Powell County,Kentucky","Madison County,Kentucky",3431,69516
+74,"Powell County,Kentucky","Magoffin County,Kentucky",3837,88856
+75,"Powell County,Kentucky","Marion County,Kentucky",6874,179239
+76,"Powell County,Kentucky","Marshall County,Kentucky",16028,478410
+77,"Powell County,Kentucky","Martin County,Kentucky",7154,165334
+78,"Powell County,Kentucky","Mason County,Kentucky",5999,120447
+79,"Powell County,Kentucky","Meade County,Kentucky",9023,254983
+80,"Powell County,Kentucky","Menifee County,Kentucky",2282,34774
+81,"Powell County,Kentucky","Mercer County,Kentucky",5251,134951
+82,"Powell County,Kentucky","Metcalfe County,Kentucky",9734,249985
+83,"Powell County,Kentucky","Monroe County,Kentucky",11704,287489
+84,"Powell County,Kentucky","Montgomery County,Kentucky",1846,33593
+85,"Powell County,Kentucky","Morgan County,Kentucky",3227,77141
+86,"Powell County,Kentucky","Muhlenberg County,Kentucky",12432,358575
+87,"Powell County,Kentucky","Nelson County,Kentucky",6482,178311
+88,"Powell County,Kentucky","Nicholas County,Kentucky",4332,98490
+89,"Powell County,Kentucky","Ohio County,Kentucky",11345,326165
+90,"Powell County,Kentucky","Oldham County,Kentucky",6634,194549
+91,"Powell County,Kentucky","Owen County,Kentucky",5690,150193
+92,"Powell County,Kentucky","Owsley County,Kentucky",3597,67379
+93,"Powell County,Kentucky","Pendleton County,Kentucky",5898,136036
+94,"Powell County,Kentucky","Perry County,Kentucky",4839,110849
+95,"Powell County,Kentucky","Pike County,Kentucky",7094,161320
+96,"Powell County,Kentucky","Robertson County,Kentucky",5102,119616
+97,"Powell County,Kentucky","Rockcastle County,Kentucky",5117,112418
+98,"Powell County,Kentucky","Rowan County,Kentucky",3436,80879
+99,"Powell County,Kentucky","Russell County,Kentucky",8683,203703
+100,"Powell County,Kentucky","Scott County,Kentucky",3664,102526
+101,"Powell County,Kentucky","Shelby County,Kentucky",5492,153803
+102,"Powell County,Kentucky","Simpson County,Kentucky",12543,362981
+103,"Powell County,Kentucky","Spencer County,Kentucky",6021,159651
+104,"Powell County,Kentucky","Taylor County,Kentucky",8164,210735
+105,"Powell County,Kentucky","Todd County,Kentucky",14198,379084
+106,"Powell County,Kentucky","Trigg County,Kentucky",15176,438817
+107,"Powell County,Kentucky","Trimble County,Kentucky",7708,200589
+108,"Powell County,Kentucky","Union County,Kentucky",15770,441004
+109,"Powell County,Kentucky","Warren County,Kentucky",11578,327930
+110,"Powell County,Kentucky","Washington County,Kentucky",6492,163547
+111,"Powell County,Kentucky","Wayne County,Kentucky",8859,200776
+112,"Powell County,Kentucky","Webster County,Kentucky",14681,420188
+113,"Powell County,Kentucky","Whitley County,Kentucky",7378,192178
+114,"Powell County,Kentucky","Wolfe County,Kentucky",2102,43962
+115,"Powell County,Kentucky","Woodford County,Kentucky",3884,105162
+116,"Powell County,Kentucky","Adams County,Ohio",7906,154654
+117,"Powell County,Kentucky","Allen County,Ohio",14037,410324
+118,"Powell County,Kentucky","Ashland County,Ohio",17226,512202
+119,"Powell County,Kentucky","Ashtabula County,Ohio",22972,696954
+120,"Powell County,Kentucky","Athens County,Ohio",12280,316503
+121,"Powell County,Kentucky","Auglaize County,Ohio",13293,397589
+122,"Powell County,Kentucky","Belmont County,Ohio",18030,533074
+123,"Powell County,Kentucky","Brown County,Ohio",7334,149931
+124,"Powell County,Kentucky","Butler County,Ohio",9115,260198
+125,"Powell County,Kentucky","Carroll County,Ohio",19960,569960
+126,"Powell County,Kentucky","Champaign County,Ohio",12071,351771
+127,"Powell County,Kentucky","Clark County,Ohio",11500,338404
+128,"Powell County,Kentucky","Clermont County,Ohio",7866,231377
+129,"Powell County,Kentucky","Clinton County,Ohio",10031,209821
+130,"Powell County,Kentucky","Columbiana County,Ohio",21802,624196
+131,"Powell County,Kentucky","Coshocton County,Ohio",17087,491274
+132,"Powell County,Kentucky","Crawford County,Ohio",16763,504174
+133,"Powell County,Kentucky","Cuyahoga County,Ohio",19544,594667
+134,"Powell County,Kentucky","Darke County,Ohio",12391,354636
+135,"Powell County,Kentucky","Defiance County,Ohio",17525,488754
+136,"Powell County,Kentucky","Delaware County,Ohio",14143,418874
+137,"Powell County,Kentucky","Fairfield County,Ohio",13547,402123
+138,"Powell County,Kentucky","Fayette County,Ohio",10859,320288
+139,"Powell County,Kentucky","Franklin County,Ohio",12661,378801
+140,"Powell County,Kentucky","Fulton County,Ohio",18288,505698
+141,"Powell County,Kentucky","Gallia County,Ohio",10238,258856
+142,"Powell County,Kentucky","Geauga County,Ohio",21073,633885
+143,"Powell County,Kentucky","Greene County,Ohio",10287,292037
+144,"Powell County,Kentucky","Guernsey County,Ohio",16146,478996
+145,"Powell County,Kentucky","Hamilton County,Ohio",7769,224683
+146,"Powell County,Kentucky","Hancock County,Ohio",15146,451220
+147,"Powell County,Kentucky","Hardin County,Ohio",14934,435617
+148,"Powell County,Kentucky","Harrison County,Ohio",18966,552026
+149,"Powell County,Kentucky","Henry County,Ohio",16870,475688
+150,"Powell County,Kentucky","Highland County,Ohio",9482,195134
+151,"Powell County,Kentucky","Hocking County,Ohio",13421,309741
+152,"Powell County,Kentucky","Holmes County,Ohio",18637,528132
+153,"Powell County,Kentucky","Huron County,Ohio",18373,510972
+154,"Powell County,Kentucky","Jackson County,Ohio",9788,242051
+155,"Powell County,Kentucky","Jefferson County,Ohio",19959,561804
+156,"Powell County,Kentucky","Knox County,Ohio",16593,478496
+157,"Powell County,Kentucky","Lawrence County,Ohio",8359,194912
+158,"Powell County,Kentucky","Licking County,Ohio",14925,433719
+159,"Powell County,Kentucky","Logan County,Ohio",13306,384308
+160,"Powell County,Kentucky","Lorain County,Ohio",20158,569626
+161,"Powell County,Kentucky","Lucas County,Ohio",18471,537739
+162,"Powell County,Kentucky","Madison County,Ohio",12080,355470
+163,"Powell County,Kentucky","Mahoning County,Ohio",21942,648585
+164,"Powell County,Kentucky","Marion County,Ohio",15190,426309
+165,"Powell County,Kentucky","Medina County,Ohio",17871,537215
+166,"Powell County,Kentucky","Meigs County,Ohio",11170,289239
+167,"Powell County,Kentucky","Mercer County,Ohio",14529,424523
+168,"Powell County,Kentucky","Miami County,Ohio",10879,320028
+169,"Powell County,Kentucky","Monroe County,Ohio",17082,468188
+170,"Powell County,Kentucky","Montgomery County,Ohio",10263,297768
+171,"Powell County,Kentucky","Morgan County,Ohio",15233,383527
+172,"Powell County,Kentucky","Morrow County,Ohio",14951,441695
+173,"Powell County,Kentucky","Muskingum County,Ohio",15144,458471
+174,"Powell County,Kentucky","Noble County,Ohio",15588,451348
+175,"Powell County,Kentucky","Paulding County,Ohio",16568,473302
+176,"Powell County,Kentucky","Perry County,Ohio",15338,337192
+177,"Powell County,Kentucky","Pickaway County,Ohio",12368,286351
+178,"Powell County,Kentucky","Pike County,Ohio",9330,211478
+179,"Powell County,Kentucky","Portage County,Ohio",20393,608365
+180,"Powell County,Kentucky","Preble County,Ohio",11159,304597
+181,"Powell County,Kentucky","Putnam County,Ohio",15212,442792
+182,"Powell County,Kentucky","Richland County,Ohio",15980,476933
+183,"Powell County,Kentucky","Ross County,Ohio",11112,252657
+184,"Powell County,Kentucky","Sandusky County,Ohio",18186,531295
+185,"Powell County,Kentucky","Scioto County,Ohio",8639,193603
+186,"Powell County,Kentucky","Seneca County,Ohio",17491,507559
+187,"Powell County,Kentucky","Shelby County,Ohio",11918,356313
+188,"Powell County,Kentucky","Stark County,Ohio",19819,585195
+189,"Powell County,Kentucky","Summit County,Ohio",19074,572542
+190,"Powell County,Kentucky","Trumbull County,Ohio",21975,658857
+191,"Powell County,Kentucky","Tuscarawas County,Ohio",18020,525783
+192,"Powell County,Kentucky","Union County,Ohio",13433,381692
+193,"Powell County,Kentucky","Van Wert County,Ohio",15202,442847
+194,"Powell County,Kentucky","Vinton County,Ohio",12360,286153
+195,"Powell County,Kentucky","Warren County,Ohio",8649,250939
+196,"Powell County,Kentucky","Washington County,Ohio",14207,361188
+197,"Powell County,Kentucky","Wayne County,Ohio",17599,526212
+198,"Powell County,Kentucky","Williams County,Ohio",18702,512271
+199,"Powell County,Kentucky","Wood County,Ohio",16234,491848
+200,"Powell County,Kentucky","Wyandot County,Ohio",15842,472100
+201,"Powell County,Kentucky","Accomack County,Virginia",36038,1032352
+202,"Powell County,Kentucky","Albemarle County,Virginia",22188,644852
+203,"Powell County,Kentucky","Alleghany County,Virginia",16857,481875
+204,"Powell County,Kentucky","Amelia County,Virginia",26888,744970
+205,"Powell County,Kentucky","Amherst County,Virginia",22185,612841
+206,"Powell County,Kentucky","Appomattox County,Virginia",23779,651600
+207,"Powell County,Kentucky","Arlington County,Virginia",28471,840884
+208,"Powell County,Kentucky","Augusta County,Virginia",20798,583191
+209,"Powell County,Kentucky","Bath County,Virginia",19868,557184
+210,"Powell County,Kentucky","Bedford County,Virginia",22445,598965
+211,"Powell County,Kentucky","Bland County,Virginia",15818,448094
+212,"Powell County,Kentucky","Botetourt County,Virginia",20011,553174
+213,"Powell County,Kentucky","Brunswick County,Virginia",29431,794643
+214,"Powell County,Kentucky","Buchanan County,Virginia",11146,240826
+215,"Powell County,Kentucky","Buckingham County,Virginia",24061,662535
+216,"Powell County,Kentucky","Campbell County,Virginia",23702,654072
+217,"Powell County,Kentucky","Caroline County,Virginia",27527,813697
+218,"Powell County,Kentucky","Carroll County,Virginia",17774,438993
+219,"Powell County,Kentucky","Charles City County,Virginia",27627,810732
+220,"Powell County,Kentucky","Charlotte County,Virginia",25663,705120
+221,"Powell County,Kentucky","Chesterfield County,Virginia",26763,788516
+222,"Powell County,Kentucky","Clarke County,Virginia",26367,771910
+223,"Powell County,Kentucky","Craig County,Virginia",18500,502960
+224,"Powell County,Kentucky","Culpeper County,Virginia",25985,734068
+225,"Powell County,Kentucky","Cumberland County,Virginia",25271,690537
+226,"Powell County,Kentucky","Dickenson County,Virginia",10499,226263
+227,"Powell County,Kentucky","Dinwiddie County,Virginia",28510,838947
+228,"Powell County,Kentucky","Essex County,Virginia",29344,837740
+229,"Powell County,Kentucky","Fairfax County,Virginia",28161,831551
+230,"Powell County,Kentucky","Fauquier County,Virginia",26806,793161
+231,"Powell County,Kentucky","Floyd County,Virginia",19667,479094
+232,"Powell County,Kentucky","Fluvanna County,Virginia",23866,697023
+233,"Powell County,Kentucky","Franklin County,Virginia",21958,600199
+234,"Powell County,Kentucky","Frederick County,Virginia",25033,686044
+235,"Powell County,Kentucky","Giles County,Virginia",16549,459653
+236,"Powell County,Kentucky","Gloucester County,Virginia",29798,864920
+237,"Powell County,Kentucky","Goochland County,Virginia",24769,727634
+238,"Powell County,Kentucky","Grayson County,Virginia",17507,402161
+239,"Powell County,Kentucky","Greene County,Virginia",24180,680436
+240,"Powell County,Kentucky","Greensville County,Virginia",29926,887699
+241,"Powell County,Kentucky","Halifax County,Virginia",26078,636680
+242,"Powell County,Kentucky","Hanover County,Virginia",25975,768741
+243,"Powell County,Kentucky","Henrico County,Virginia",26487,781701
+244,"Powell County,Kentucky","Henry County,Virginia",21648,525714
+245,"Powell County,Kentucky","Highland County,Virginia",21313,567155
+246,"Powell County,Kentucky","Isle of Wight County,Virginia",30739,886278
+247,"Powell County,Kentucky","James City County,Virginia",28863,851503
+248,"Powell County,Kentucky","King and Queen County,Virginia",28521,827087
+249,"Powell County,Kentucky","King George County,Virginia",28640,841684
+250,"Powell County,Kentucky","King William County,Virginia",27209,797009
+251,"Powell County,Kentucky","Lancaster County,Virginia",31002,880095
+252,"Powell County,Kentucky","Lee County,Virginia",11309,237783
+253,"Powell County,Kentucky","Loudoun County,Virginia",27863,807776
+254,"Powell County,Kentucky","Louisa County,Virginia",24426,710729
+255,"Powell County,Kentucky","Lunenburg County,Virginia",27435,746404
+256,"Powell County,Kentucky","Madison County,Virginia",25100,710176
+257,"Powell County,Kentucky","Mathews County,Virginia",30623,888344
+258,"Powell County,Kentucky","Mecklenburg County,Virginia",28110,688226
+259,"Powell County,Kentucky","Middlesex County,Virginia",29399,861121
+260,"Powell County,Kentucky","Montgomery County,Virginia",17632,487659
+261,"Powell County,Kentucky","Nelson County,Virginia",22726,624532
+262,"Powell County,Kentucky","New Kent County,Virginia",28299,825417
+263,"Powell County,Kentucky","Northampton County,Virginia",33281,968166
+264,"Powell County,Kentucky","Northumberland County,Virginia",31041,878607
+265,"Powell County,Kentucky","Nottoway County,Virginia",26928,746784
+266,"Powell County,Kentucky","Orange County,Virginia",25389,718837
+267,"Powell County,Kentucky","Page County,Virginia",24034,693962
+268,"Powell County,Kentucky","Patrick County,Virginia",19880,484029
+269,"Powell County,Kentucky","Pittsylvania County,Virginia",23964,579922
+270,"Powell County,Kentucky","Powhatan County,Virginia",26022,752856
+271,"Powell County,Kentucky","Prince Edward County,Virginia",25543,704120
+272,"Powell County,Kentucky","Prince George County,Virginia",28274,825531
+273,"Powell County,Kentucky","Prince William County,Virginia",26905,799265
+274,"Powell County,Kentucky","Pulaski County,Virginia",17517,430414
+275,"Powell County,Kentucky","Rappahannock County,Virginia",25865,730449
+276,"Powell County,Kentucky","Richmond County,Virginia",29741,851250
+277,"Powell County,Kentucky","Roanoke County,Virginia",19252,530453
+278,"Powell County,Kentucky","Rockbridge County,Virginia",19190,550231
+279,"Powell County,Kentucky","Rockingham County,Virginia",23073,666312
+280,"Powell County,Kentucky","Russell County,Virginia",12677,259375
+281,"Powell County,Kentucky","Scott County,Virginia",11975,273716
+282,"Powell County,Kentucky","Shenandoah County,Virginia",23578,696415
+283,"Powell County,Kentucky","Smyth County,Virginia",14786,341863
+284,"Powell County,Kentucky","Southampton County,Virginia",30304,883813
+285,"Powell County,Kentucky","Spotsylvania County,Virginia",26442,752568
+286,"Powell County,Kentucky","Stafford County,Virginia",27824,776861
+287,"Powell County,Kentucky","Surry County,Virginia",29607,850364
+288,"Powell County,Kentucky","Sussex County,Virginia",28968,854056
+289,"Powell County,Kentucky","Tazewell County,Virginia",13390,297601
+290,"Powell County,Kentucky","Warren County,Virginia",25480,741008
+291,"Powell County,Kentucky","Washington County,Virginia",12897,292980
+292,"Powell County,Kentucky","Westmoreland County,Virginia",29614,858508
+293,"Powell County,Kentucky","Wise County,Virginia",8764,202161
+294,"Powell County,Kentucky","Wythe County,Virginia",16001,384323
+295,"Powell County,Kentucky","York County,Virginia",30151,882277
+296,"Powell County,Kentucky","Alexandria City County,Virginia",28986,858065
+297,"Powell County,Kentucky","Bedford City County,Virginia",21610,590397
+298,"Powell County,Kentucky","Bristol City County,Virginia",13737,313867
+299,"Powell County,Kentucky","Buena Vista City County,Virginia",19544,564208
+300,"Powell County,Kentucky","Charlottesville City County,Virginia",22657,660066
+301,"Powell County,Kentucky","Chesapeake City County,Virginia",31614,935183
+302,"Powell County,Kentucky","Clifton Forge City County,Virginia",17400,502081
+303,"Powell County,Kentucky","Colonial Heights City County,Virginia",27323,804408
+304,"Powell County,Kentucky","Covington City County,Virginia",16926,485460
+305,"Powell County,Kentucky","Danville City County,Virginia",23805,580170
+306,"Powell County,Kentucky","Emporia City County,Virginia",29634,874292
+307,"Powell County,Kentucky","Fairfax City County,Virginia",28038,825012
+308,"Powell County,Kentucky","Falls Church City County,Virginia",28179,835196
+309,"Powell County,Kentucky","Franklin City County,Virginia",30852,891668
+310,"Powell County,Kentucky","Fredericksburg City County,Virginia",27575,762227
+311,"Powell County,Kentucky","Galax City County,Virginia",18398,444859
+312,"Powell County,Kentucky","Hampton City County,Virginia",30101,891984
+313,"Powell County,Kentucky","Harrisonburg City County,Virginia",22132,646208
+314,"Powell County,Kentucky","Hopewell City County,Virginia",27360,803374
+315,"Powell County,Kentucky","Lexington City County,Virginia",19178,552700
+316,"Powell County,Kentucky","Lynchburg City County,Virginia",22762,627814
+317,"Powell County,Kentucky","Manassas City County,Virginia",27133,804210
+318,"Powell County,Kentucky","Manassas Park City County,Virginia",27635,810553
+319,"Powell County,Kentucky","Martinsville City County,Virginia",22175,534508
+320,"Powell County,Kentucky","Newport News City County,Virginia",29658,878469
+321,"Powell County,Kentucky","Norfolk City County,Virginia",31407,917400
+322,"Powell County,Kentucky","Norton City County,Virginia",9393,213973
+323,"Powell County,Kentucky","Petersburg City County,Virginia",27195,805396
+324,"Powell County,Kentucky","Poquoson City County,Virginia",30330,889046
+325,"Powell County,Kentucky","Portsmouth City County,Virginia",31347,926220
+326,"Powell County,Kentucky","Radford County,Virginia",18028,444362
+327,"Powell County,Kentucky","Richmond City County,Virginia",26063,769511
+328,"Powell County,Kentucky","Roanoke City County,Virginia",19854,550558
+329,"Powell County,Kentucky","Salem City County,Virginia",19266,537108
+330,"Powell County,Kentucky","South Boston City County,Virginia",25817,634348
+331,"Powell County,Kentucky","Staunton City County,Virginia",20949,607343
+332,"Powell County,Kentucky","Suffolk City County,Virginia",31582,901002
+333,"Powell County,Kentucky","Virginia Beach City County,Virginia",31968,940658
+334,"Powell County,Kentucky","Waynesboro City County,Virginia",21287,620061
+335,"Powell County,Kentucky","Williamsburg City County,Virginia",28702,850719
+336,"Powell County,Kentucky","Winchester City County,Virginia",25512,720045
+337,"Powell County,Kentucky","Barbour County,West Virginia",16992,480742
+338,"Powell County,Kentucky","Berkeley County,West Virginia",24925,718901
+339,"Powell County,Kentucky","Boone County,West Virginia",12042,275454
+340,"Powell County,Kentucky","Braxton County,West Virginia",13682,371721
+341,"Powell County,Kentucky","Brooke County,West Virginia",20109,575322
+342,"Powell County,Kentucky","Cabell County,West Virginia",6743,180867
+343,"Powell County,Kentucky","Calhoun County,West Virginia",13603,369405
+344,"Powell County,Kentucky","Clay County,West Virginia",12449,342634
+345,"Powell County,Kentucky","Doddridge County,West Virginia",16136,462251
+346,"Powell County,Kentucky","Fayette County,West Virginia",13737,360978
+347,"Powell County,Kentucky","Gilmer County,West Virginia",14881,393907
+348,"Powell County,Kentucky","Grant County,West Virginia",21348,582287
+349,"Powell County,Kentucky","Greenbrier County,West Virginia",16811,439016
+350,"Powell County,Kentucky","Hampshire County,West Virginia",24180,680504
+351,"Powell County,Kentucky","Hancock County,West Virginia",21699,609858
+352,"Powell County,Kentucky","Hardy County,West Virginia",22403,613784
+353,"Powell County,Kentucky","Harrison County,West Virginia",16226,467112
+354,"Powell County,Kentucky","Jackson County,West Virginia",11488,323737
+355,"Powell County,Kentucky","Jefferson County,West Virginia",26391,774899
+356,"Powell County,Kentucky","Kanawha County,West Virginia",11045,295042
+357,"Powell County,Kentucky","Lewis County,West Virginia",14855,420582
+358,"Powell County,Kentucky","Lincoln County,West Virginia",9960,238517
+359,"Powell County,Kentucky","Logan County,West Virginia",10148,232089
+360,"Powell County,Kentucky","McDowell County,West Virginia",14000,284278
+361,"Powell County,Kentucky","Marion County,West Virginia",17371,494280
+362,"Powell County,Kentucky","Marshall County,West Virginia",19496,511423
+363,"Powell County,Kentucky","Mason County,West Virginia",9724,271612
+364,"Powell County,Kentucky","Mercer County,West Virginia",14372,406601
+365,"Powell County,Kentucky","Mineral County,West Virginia",23042,611108
+366,"Powell County,Kentucky","Mingo County,West Virginia",8832,198542
+367,"Powell County,Kentucky","Monongalia County,West Virginia",17582,519748
+368,"Powell County,Kentucky","Monroe County,West Virginia",17417,451312
+369,"Powell County,Kentucky","Morgan County,West Virginia",24417,708293
+370,"Powell County,Kentucky","Nicholas County,West Virginia",14165,402514
+371,"Powell County,Kentucky","Ohio County,West Virginia",19128,556559
+372,"Powell County,Kentucky","Pendleton County,West Virginia",21679,584911
+373,"Powell County,Kentucky","Pleasants County,West Virginia",14970,421589
+374,"Powell County,Kentucky","Pocahontas County,West Virginia",19495,472053
+375,"Powell County,Kentucky","Preston County,West Virginia",19728,546479
+376,"Powell County,Kentucky","Putnam County,West Virginia",8426,233644
+377,"Powell County,Kentucky","Raleigh County,West Virginia",12913,360294
+378,"Powell County,Kentucky","Randolph County,West Virginia",17357,483037
+379,"Powell County,Kentucky","Ritchie County,West Virginia",15301,435293
+380,"Powell County,Kentucky","Roane County,West Virginia",13113,352552
+381,"Powell County,Kentucky","Summers County,West Virginia",16366,421731
+382,"Powell County,Kentucky","Taylor County,West Virginia",17264,489852
+383,"Powell County,Kentucky","Tucker County,West Virginia",18424,513562
+384,"Powell County,Kentucky","Tyler County,West Virginia",16879,461204
+385,"Powell County,Kentucky","Upshur County,West Virginia",16420,435279
+386,"Powell County,Kentucky","Wayne County,West Virginia",7654,176363
+387,"Powell County,Kentucky","Webster County,West Virginia",16350,429594
+388,"Powell County,Kentucky","Wetzel County,West Virginia",18091,483111
+389,"Powell County,Kentucky","Wirt County,West Virginia",13754,381075
+390,"Powell County,Kentucky","Wood County,West Virginia",13268,382765
+391,"Powell County,Kentucky","Wyoming County,West Virginia",13580,290550

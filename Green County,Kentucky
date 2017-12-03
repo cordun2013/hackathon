@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Green County,Kentucky","Adair County,Kentucky",2126,41824
+1,"Green County,Kentucky","Allen County,Kentucky",4201,92513
+2,"Green County,Kentucky","Anderson County,Kentucky",5434,119255
+3,"Green County,Kentucky","Ballard County,Kentucky",13325,354674
+4,"Green County,Kentucky","Barren County,Kentucky",2727,54218
+5,"Green County,Kentucky","Bath County,Kentucky",9125,236525
+6,"Green County,Kentucky","Bell County,Kentucky",10193,238990
+7,"Green County,Kentucky","Boone County,Kentucky",10419,279900
+8,"Green County,Kentucky","Bourbon County,Kentucky",8190,191035
+9,"Green County,Kentucky","Boyd County,Kentucky",12383,337981
+10,"Green County,Kentucky","Boyle County,Kentucky",4652,97485
+11,"Green County,Kentucky","Bracken County,Kentucky",11398,253873
+12,"Green County,Kentucky","Breathitt County,Kentucky",11725,300705
+13,"Green County,Kentucky","Breckinridge County,Kentucky",6167,133372
+14,"Green County,Kentucky","Bullitt County,Kentucky",4253,103310
+15,"Green County,Kentucky","Butler County,Kentucky",5478,144179
+16,"Green County,Kentucky","Caldwell County,Kentucky",9437,245527
+17,"Green County,Kentucky","Calloway County,Kentucky",11883,302832
+18,"Green County,Kentucky","Campbell County,Kentucky",11343,264460
+19,"Green County,Kentucky","Carlisle County,Kentucky",13782,370042
+20,"Green County,Kentucky","Carroll County,Kentucky",7903,213677
+21,"Green County,Kentucky","Carter County,Kentucky",11520,307238
+22,"Green County,Kentucky","Casey County,Kentucky",3847,74634
+23,"Green County,Kentucky","Christian County,Kentucky",8170,210319
+24,"Green County,Kentucky","Clay County,Kentucky",8357,198018
+25,"Green County,Kentucky","Clinton County,Kentucky",4783,106422
+26,"Green County,Kentucky","Crittenden County,Kentucky",11016,278597
+27,"Green County,Kentucky","Cumberland County,Kentucky",3942,82522
+28,"Green County,Kentucky","Daviess County,Kentucky",7568,186024
+29,"Green County,Kentucky","Edmonson County,Kentucky",3489,71178
+30,"Green County,Kentucky","Elliott County,Kentucky",12296,298500
+31,"Green County,Kentucky","Estill County,Kentucky",9081,184309
+32,"Green County,Kentucky","Fayette County,Kentucky",6752,161260
+33,"Green County,Kentucky","Fleming County,Kentucky",10554,266743
+34,"Green County,Kentucky","Floyd County,Kentucky",12375,309183
+35,"Green County,Kentucky","Franklin County,Kentucky",7093,157948
+36,"Green County,Kentucky","Fulton County,Kentucky",14186,391006
+37,"Green County,Kentucky","Gallatin County,Kentucky",8612,233002
+38,"Green County,Kentucky","Garrard County,Kentucky",6346,115499
+39,"Green County,Kentucky","Grant County,Kentucky",9471,236968
+40,"Green County,Kentucky","Graves County,Kentucky",12807,342748
+41,"Green County,Kentucky","Grayson County,Kentucky",4872,96218
+42,"Green County,Kentucky","Greenup County,Kentucky",12988,334568
+43,"Green County,Kentucky","Hancock County,Kentucky",7387,168009
+44,"Green County,Kentucky","Hardin County,Kentucky",3785,81725
+45,"Green County,Kentucky","Harlan County,Kentucky",12487,294595
+46,"Green County,Kentucky","Harrison County,Kentucky",8962,207980
+47,"Green County,Kentucky","Hart County,Kentucky",1852,35746
+48,"Green County,Kentucky","Henderson County,Kentucky",9475,242444
+49,"Green County,Kentucky","Henry County,Kentucky",7577,194425
+50,"Green County,Kentucky","Hickman County,Kentucky",13815,371334
+51,"Green County,Kentucky","Hopkins County,Kentucky",8895,219995
+52,"Green County,Kentucky","Jackson County,Kentucky",8087,192370
+53,"Green County,Kentucky","Jefferson County,Kentucky",5511,134816
+54,"Green County,Kentucky","Jessamine County,Kentucky",6748,143634
+55,"Green County,Kentucky","Johnson County,Kentucky",12866,336729
+56,"Green County,Kentucky","Kenton County,Kentucky",10306,275616
+57,"Green County,Kentucky","Knott County,Kentucky",11159,278724
+58,"Green County,Kentucky","Knox County,Kentucky",8425,191900
+59,"Green County,Kentucky","Larue County,Kentucky",2147,43020
+60,"Green County,Kentucky","Laurel County,Kentucky",7166,162770
+61,"Green County,Kentucky","Lawrence County,Kentucky",14386,365117
+62,"Green County,Kentucky","Lee County,Kentucky",10093,230752
+63,"Green County,Kentucky","Leslie County,Kentucky",10307,249142
+64,"Green County,Kentucky","Letcher County,Kentucky",12330,300728
+65,"Green County,Kentucky","Lewis County,Kentucky",12078,304883
+66,"Green County,Kentucky","Lincoln County,Kentucky",5551,105651
+67,"Green County,Kentucky","Livingston County,Kentucky",11612,295494
+68,"Green County,Kentucky","Logan County,Kentucky",5842,149599
+69,"Green County,Kentucky","Lyon County,Kentucky",11746,305885
+70,"Green County,Kentucky","McCracken County,Kentucky",11937,322734
+71,"Green County,Kentucky","McCreary County,Kentucky",6475,155675
+72,"Green County,Kentucky","Madison County,Kentucky",7335,150403
+73,"Green County,Kentucky","Magoffin County,Kentucky",12335,318596
+74,"Green County,Kentucky","Marion County,Kentucky",2883,59362
+75,"Green County,Kentucky","Marshall County,Kentucky",11352,306306
+76,"Green County,Kentucky","Martin County,Kentucky",15466,375454
+77,"Green County,Kentucky","Mason County,Kentucky",11319,262601
+78,"Green County,Kentucky","Meade County,Kentucky",5314,111424
+79,"Green County,Kentucky","Menifee County,Kentucky",10399,249062
+80,"Green County,Kentucky","Mercer County,Kentucky",5608,113081
+81,"Green County,Kentucky","Metcalfe County,Kentucky",2293,42362
+82,"Green County,Kentucky","Monroe County,Kentucky",3926,73114
+83,"Green County,Kentucky","Montgomery County,Kentucky",9043,226971
+84,"Green County,Kentucky","Morgan County,Kentucky",11725,306880
+85,"Green County,Kentucky","Muhlenberg County,Kentucky",7597,192819
+86,"Green County,Kentucky","Nelson County,Kentucky",3598,76448
+87,"Green County,Kentucky","Nicholas County,Kentucky",9446,218416
+88,"Green County,Kentucky","Ohio County,Kentucky",6669,154061
+89,"Green County,Kentucky","Oldham County,Kentucky",6303,161725
+90,"Green County,Kentucky","Owen County,Kentucky",8435,190122
+91,"Green County,Kentucky","Owsley County,Kentucky",9386,213872
+92,"Green County,Kentucky","Pendleton County,Kentucky",10521,245108
+93,"Green County,Kentucky","Perry County,Kentucky",10541,257843
+94,"Green County,Kentucky","Pike County,Kentucky",14936,362182
+95,"Green County,Kentucky","Powell County,Kentucky",9336,235830
+96,"Green County,Kentucky","Robertson County,Kentucky",10217,239543
+97,"Green County,Kentucky","Rockcastle County,Kentucky",6652,154511
+98,"Green County,Kentucky","Rowan County,Kentucky",9866,260376
+99,"Green County,Kentucky","Russell County,Kentucky",3330,71037
+100,"Green County,Kentucky","Scott County,Kentucky",7771,189907
+101,"Green County,Kentucky","Shelby County,Kentucky",6355,142256
+102,"Green County,Kentucky","Simpson County,Kentucky",5431,138472
+103,"Green County,Kentucky","Spencer County,Kentucky",5301,117769
+104,"Green County,Kentucky","Taylor County,Kentucky",1512,27339
+105,"Green County,Kentucky","Todd County,Kentucky",7017,179654
+106,"Green County,Kentucky","Trigg County,Kentucky",9705,240939
+107,"Green County,Kentucky","Trimble County,Kentucky",7702,201524
+108,"Green County,Kentucky","Union County,Kentucky",11219,279546
+109,"Green County,Kentucky","Warren County,Kentucky",4466,103420
+110,"Green County,Kentucky","Washington County,Kentucky",4097,81611
+111,"Green County,Kentucky","Wayne County,Kentucky",6184,136622
+112,"Green County,Kentucky","Webster County,Kentucky",10004,248084
+113,"Green County,Kentucky","Whitley County,Kentucky",7809,187754
+114,"Green County,Kentucky","Wolfe County,Kentucky",10600,273702
+115,"Green County,Kentucky","Woodford County,Kentucky",6008,141518
+116,"Green County,Kentucky","Adams County,Ohio",13749,309334
+117,"Green County,Kentucky","Allen County,Ohio",17725,501510
+118,"Green County,Kentucky","Ashland County,Ohio",20914,603388
+119,"Green County,Kentucky","Ashtabula County,Ohio",26660,788139
+120,"Green County,Kentucky","Athens County,Ohio",18710,496000
+121,"Green County,Kentucky","Auglaize County,Ohio",16981,488774
+122,"Green County,Kentucky","Belmont County,Ohio",22252,649819
+123,"Green County,Kentucky","Brown County,Ohio",12734,297579
+124,"Green County,Kentucky","Butler County,Ohio",12803,351384
+125,"Green County,Kentucky","Carroll County,Ohio",24216,687043
+126,"Green County,Kentucky","Champaign County,Ohio",15759,442956
+127,"Green County,Kentucky","Clark County,Ohio",15188,429589
+128,"Green County,Kentucky","Clermont County,Ohio",11554,322562
+129,"Green County,Kentucky","Clinton County,Ohio",13648,373869
+130,"Green County,Kentucky","Columbiana County,Ohio",25773,722632
+131,"Green County,Kentucky","Coshocton County,Ohio",20775,582460
+132,"Green County,Kentucky","Crawford County,Ohio",20451,595360
+133,"Green County,Kentucky","Cuyahoga County,Ohio",23232,685852
+134,"Green County,Kentucky","Darke County,Ohio",16079,445821
+135,"Green County,Kentucky","Defiance County,Ohio",20485,582041
+136,"Green County,Kentucky","Delaware County,Ohio",17831,510059
+137,"Green County,Kentucky","Fairfield County,Ohio",17235,493309
+138,"Green County,Kentucky","Fayette County,Ohio",14547,411474
+139,"Green County,Kentucky","Franklin County,Ohio",16349,469987
+140,"Green County,Kentucky","Fulton County,Ohio",21919,624619
+141,"Green County,Kentucky","Gallia County,Ohio",16668,438353
+142,"Green County,Kentucky","Geauga County,Ohio",24760,725071
+143,"Green County,Kentucky","Greene County,Ohio",13975,383222
+144,"Green County,Kentucky","Guernsey County,Ohio",19981,583500
+145,"Green County,Kentucky","Hamilton County,Ohio",11457,315868
+146,"Green County,Kentucky","Hancock County,Ohio",18834,542405
+147,"Green County,Kentucky","Hardin County,Ohio",18622,526802
+148,"Green County,Kentucky","Harrison County,Ohio",23222,669109
+149,"Green County,Kentucky","Henry County,Ohio",20558,566873
+150,"Green County,Kentucky","Highland County,Ohio",14496,385514
+151,"Green County,Kentucky","Hocking County,Ohio",18672,536713
+152,"Green County,Kentucky","Holmes County,Ohio",22325,619318
+153,"Green County,Kentucky","Huron County,Ohio",22061,602158
+154,"Green County,Kentucky","Jackson County,Ohio",16218,421548
+155,"Green County,Kentucky","Jefferson County,Ohio",24215,678886
+156,"Green County,Kentucky","Knox County,Ohio",20281,569681
+157,"Green County,Kentucky","Lawrence County,Ohio",14789,374409
+158,"Green County,Kentucky","Licking County,Ohio",18613,524905
+159,"Green County,Kentucky","Logan County,Ohio",16994,475493
+160,"Green County,Kentucky","Lorain County,Ohio",23846,660812
+161,"Green County,Kentucky","Lucas County,Ohio",22159,628925
+162,"Green County,Kentucky","Madison County,Ohio",15768,446656
+163,"Green County,Kentucky","Mahoning County,Ohio",25630,739771
+164,"Green County,Kentucky","Marion County,Ohio",18878,517495
+165,"Green County,Kentucky","Medina County,Ohio",21559,628400
+166,"Green County,Kentucky","Meigs County,Ohio",17600,468736
+167,"Green County,Kentucky","Mercer County,Ohio",18217,515708
+168,"Green County,Kentucky","Miami County,Ohio",14567,411213
+169,"Green County,Kentucky","Monroe County,Ohio",23512,647685
+170,"Green County,Kentucky","Montgomery County,Ohio",13950,388953
+171,"Green County,Kentucky","Morgan County,Ohio",21046,591996
+172,"Green County,Kentucky","Morrow County,Ohio",18639,532880
+173,"Green County,Kentucky","Muskingum County,Ohio",18832,549656
+174,"Green County,Kentucky","Noble County,Ohio",21680,620620
+175,"Green County,Kentucky","Paulding County,Ohio",19417,546960
+176,"Green County,Kentucky","Perry County,Ohio",18900,538240
+177,"Green County,Kentucky","Pickaway County,Ohio",16483,460070
+178,"Green County,Kentucky","Pike County,Ohio",15454,357394
+179,"Green County,Kentucky","Portage County,Ohio",24081,699550
+180,"Green County,Kentucky","Preble County,Ohio",14847,395783
+181,"Green County,Kentucky","Putnam County,Ohio",18900,533977
+182,"Green County,Kentucky","Richland County,Ohio",19668,568119
+183,"Green County,Kentucky","Ross County,Ohio",16127,459387
+184,"Green County,Kentucky","Sandusky County,Ohio",21874,622481
+185,"Green County,Kentucky","Scioto County,Ohio",15070,373100
+186,"Green County,Kentucky","Seneca County,Ohio",21179,598745
+187,"Green County,Kentucky","Shelby County,Ohio",15606,447499
+188,"Green County,Kentucky","Stark County,Ohio",23826,683934
+189,"Green County,Kentucky","Summit County,Ohio",22762,663728
+190,"Green County,Kentucky","Trumbull County,Ohio",25662,750042
+191,"Green County,Kentucky","Tuscarawas County,Ohio",22276,642865
+192,"Green County,Kentucky","Union County,Ohio",17121,472877
+193,"Green County,Kentucky","Van Wert County,Ohio",18890,534033
+194,"Green County,Kentucky","Vinton County,Ohio",18310,508139
+195,"Green County,Kentucky","Warren County,Ohio",12337,342125
+196,"Green County,Kentucky","Washington County,Ohio",20637,540685
+197,"Green County,Kentucky","Wayne County,Ohio",21287,617398
+198,"Green County,Kentucky","Williams County,Ohio",21475,601921
+199,"Green County,Kentucky","Wood County,Ohio",19922,583033
+200,"Green County,Kentucky","Wyandot County,Ohio",19530,563285
+201,"Green County,Kentucky","Accomack County,Virginia",42468,1211849
+202,"Green County,Kentucky","Albemarle County,Virginia",28618,824349
+203,"Green County,Kentucky","Alleghany County,Virginia",23287,661372
+204,"Green County,Kentucky","Amelia County,Virginia",33082,838616
+205,"Green County,Kentucky","Amherst County,Virginia",28616,792338
+206,"Green County,Kentucky","Appomattox County,Virginia",30159,758285
+207,"Green County,Kentucky","Arlington County,Virginia",34901,1020381
+208,"Green County,Kentucky","Augusta County,Virginia",27229,762688
+209,"Green County,Kentucky","Bath County,Virginia",26299,736682
+210,"Green County,Kentucky","Bedford County,Virginia",27892,689594
+211,"Green County,Kentucky","Bland County,Virginia",21908,539196
+212,"Green County,Kentucky","Botetourt County,Virginia",26441,732671
+213,"Green County,Kentucky","Brunswick County,Virginia",34514,953773
+214,"Green County,Kentucky","Buchanan County,Virginia",18462,409999
+215,"Green County,Kentucky","Buckingham County,Virginia",30492,842032
+216,"Green County,Kentucky","Campbell County,Virginia",29308,730830
+217,"Green County,Kentucky","Caroline County,Virginia",33957,993194
+218,"Green County,Kentucky","Carroll County,Virginia",22852,570541
+219,"Green County,Kentucky","Charles City County,Virginia",34058,990229
+220,"Green County,Kentucky","Charlotte County,Virginia",31857,798766
+221,"Green County,Kentucky","Chesterfield County,Virginia",33193,968013
+222,"Green County,Kentucky","Clarke County,Virginia",32798,951407
+223,"Green County,Kentucky","Craig County,Virginia",24930,682457
+224,"Green County,Kentucky","Culpeper County,Virginia",32415,913565
+225,"Green County,Kentucky","Cumberland County,Virginia",31701,870034
+226,"Green County,Kentucky","Dickenson County,Virginia",15889,367674
+227,"Green County,Kentucky","Dinwiddie County,Virginia",34855,881677
+228,"Green County,Kentucky","Essex County,Virginia",35775,1017237
+229,"Green County,Kentucky","Fairfax County,Virginia",34592,1011048
+230,"Green County,Kentucky","Fauquier County,Virginia",33236,972658
+231,"Green County,Kentucky","Floyd County,Virginia",24744,610642
+232,"Green County,Kentucky","Fluvanna County,Virginia",30296,876521
+233,"Green County,Kentucky","Franklin County,Virginia",27405,690828
+234,"Green County,Kentucky","Frederick County,Virginia",31463,865541
+235,"Green County,Kentucky","Giles County,Virginia",22980,639150
+236,"Green County,Kentucky","Gloucester County,Virginia",36228,1044417
+237,"Green County,Kentucky","Goochland County,Virginia",31199,907132
+238,"Green County,Kentucky","Grayson County,Virginia",22585,533709
+239,"Green County,Kentucky","Greene County,Virginia",30610,859933
+240,"Green County,Kentucky","Greensville County,Virginia",35710,971192
+241,"Green County,Kentucky","Halifax County,Virginia",31156,768228
+242,"Green County,Kentucky","Hanover County,Virginia",32406,948238
+243,"Green County,Kentucky","Henrico County,Virginia",32917,961198
+244,"Green County,Kentucky","Henry County,Virginia",26726,657262
+245,"Green County,Kentucky","Highland County,Virginia",27743,746652
+246,"Green County,Kentucky","Isle of Wight County,Virginia",37169,1065775
+247,"Green County,Kentucky","James City County,Virginia",35294,1031000
+248,"Green County,Kentucky","King and Queen County,Virginia",34952,1006584
+249,"Green County,Kentucky","King George County,Virginia",35070,1021181
+250,"Green County,Kentucky","King William County,Virginia",33639,976506
+251,"Green County,Kentucky","Lancaster County,Virginia",37432,1059592
+252,"Green County,Kentucky","Lee County,Virginia",13284,315549
+253,"Green County,Kentucky","Loudoun County,Virginia",34293,987273
+254,"Green County,Kentucky","Louisa County,Virginia",30856,890226
+255,"Green County,Kentucky","Lunenburg County,Virginia",33630,840050
+256,"Green County,Kentucky","Madison County,Virginia",31531,889673
+257,"Green County,Kentucky","Mathews County,Virginia",37053,1067841
+258,"Green County,Kentucky","Mecklenburg County,Virginia",33188,819774
+259,"Green County,Kentucky","Middlesex County,Virginia",35829,1040618
+260,"Green County,Kentucky","Montgomery County,Virginia",23919,601146
+261,"Green County,Kentucky","Nelson County,Virginia",29157,804029
+262,"Green County,Kentucky","New Kent County,Virginia",34730,1004914
+263,"Green County,Kentucky","Northampton County,Virginia",39711,1147663
+264,"Green County,Kentucky","Northumberland County,Virginia",37471,1058104
+265,"Green County,Kentucky","Nottoway County,Virginia",33122,840430
+266,"Green County,Kentucky","Orange County,Virginia",31819,898334
+267,"Green County,Kentucky","Page County,Virginia",30464,873459
+268,"Green County,Kentucky","Patrick County,Virginia",24958,615577
+269,"Green County,Kentucky","Pittsylvania County,Virginia",29042,711470
+270,"Green County,Kentucky","Powhatan County,Virginia",32453,932353
+271,"Green County,Kentucky","Prince Edward County,Virginia",31737,797765
+272,"Green County,Kentucky","Prince George County,Virginia",34704,1005028
+273,"Green County,Kentucky","Prince William County,Virginia",33336,978762
+274,"Green County,Kentucky","Pulaski County,Virginia",22595,561962
+275,"Green County,Kentucky","Rappahannock County,Virginia",32295,909946
+276,"Green County,Kentucky","Richmond County,Virginia",36172,1030747
+277,"Green County,Kentucky","Roanoke County,Virginia",24699,621082
+278,"Green County,Kentucky","Rockbridge County,Virginia",25620,729728
+279,"Green County,Kentucky","Rockingham County,Virginia",29503,845809
+280,"Green County,Kentucky","Russell County,Virginia",18421,420496
+281,"Green County,Kentucky","Scott County,Virginia",15604,363390
+282,"Green County,Kentucky","Shenandoah County,Virginia",30008,875913
+283,"Green County,Kentucky","Smyth County,Virginia",19864,473411
+284,"Green County,Kentucky","Southampton County,Virginia",36735,1063310
+285,"Green County,Kentucky","Spotsylvania County,Virginia",32873,932065
+286,"Green County,Kentucky","Stafford County,Virginia",34254,956358
+287,"Green County,Kentucky","Surry County,Virginia",36037,1029862
+288,"Green County,Kentucky","Sussex County,Virginia",35398,1033553
+289,"Green County,Kentucky","Tazewell County,Virginia",19909,473406
+290,"Green County,Kentucky","Warren County,Virginia",31910,920505
+291,"Green County,Kentucky","Washington County,Virginia",18287,434392
+292,"Green County,Kentucky","Westmoreland County,Virginia",36044,1038006
+293,"Green County,Kentucky","Wise County,Virginia",14154,343573
+294,"Green County,Kentucky","Wythe County,Virginia",21079,515871
+295,"Green County,Kentucky","York County,Virginia",36581,1061775
+296,"Green County,Kentucky","Alexandria City County,Virginia",35417,1037563
+297,"Green County,Kentucky","Bedford City County,Virginia",27057,681026
+298,"Green County,Kentucky","Bristol City County,Virginia",17557,404716
+299,"Green County,Kentucky","Buena Vista City County,Virginia",25974,743706
+300,"Green County,Kentucky","Charlottesville City County,Virginia",29087,839564
+301,"Green County,Kentucky","Chesapeake City County,Virginia",38044,1114680
+302,"Green County,Kentucky","Clifton Forge City County,Virginia",23830,681579
+303,"Green County,Kentucky","Colonial Heights City County,Virginia",33753,983905
+304,"Green County,Kentucky","Covington City County,Virginia",23356,664957
+305,"Green County,Kentucky","Danville City County,Virginia",28883,711718
+306,"Green County,Kentucky","Emporia City County,Virginia",35867,985380
+307,"Green County,Kentucky","Fairfax City County,Virginia",34468,1004510
+308,"Green County,Kentucky","Falls Church City County,Virginia",34609,1014693
+309,"Green County,Kentucky","Franklin City County,Virginia",37282,1071165
+310,"Green County,Kentucky","Fredericksburg City County,Virginia",34006,941725
+311,"Green County,Kentucky","Galax City County,Virginia",23476,576407
+312,"Green County,Kentucky","Hampton City County,Virginia",36531,1071481
+313,"Green County,Kentucky","Harrisonburg City County,Virginia",28563,825705
+314,"Green County,Kentucky","Hopewell City County,Virginia",33790,982871
+315,"Green County,Kentucky","Lexington City County,Virginia",25609,732197
+316,"Green County,Kentucky","Lynchburg City County,Virginia",29082,725901
+317,"Green County,Kentucky","Manassas City County,Virginia",33563,983707
+318,"Green County,Kentucky","Manassas Park City County,Virginia",34065,990050
+319,"Green County,Kentucky","Martinsville City County,Virginia",27253,666056
+320,"Green County,Kentucky","Newport News City County,Virginia",36088,1057967
+321,"Green County,Kentucky","Norfolk City County,Virginia",37838,1096897
+322,"Green County,Kentucky","Norton City County,Virginia",14782,355385
+323,"Green County,Kentucky","Petersburg City County,Virginia",33625,984893
+324,"Green County,Kentucky","Poquoson City County,Virginia",36760,1068543
+325,"Green County,Kentucky","Portsmouth City County,Virginia",37777,1105718
+326,"Green County,Kentucky","Radford County,Virginia",23106,575910
+327,"Green County,Kentucky","Richmond City County,Virginia",32493,949008
+328,"Green County,Kentucky","Roanoke City County,Virginia",25301,641187
+329,"Green County,Kentucky","Salem City County,Virginia",24713,627737
+330,"Green County,Kentucky","South Boston City County,Virginia",30895,765896
+331,"Green County,Kentucky","Staunton City County,Virginia",27380,786840
+332,"Green County,Kentucky","Suffolk City County,Virginia",38012,1080499
+333,"Green County,Kentucky","Virginia Beach City County,Virginia",38399,1120155
+334,"Green County,Kentucky","Waynesboro City County,Virginia",27718,799559
+335,"Green County,Kentucky","Williamsburg City County,Virginia",35132,1030216
+336,"Green County,Kentucky","Winchester City County,Virginia",31942,899542
+337,"Green County,Kentucky","Barbour County,West Virginia",23423,660239
+338,"Green County,Kentucky","Berkeley County,West Virginia",31356,898398
+339,"Green County,Kentucky","Boone County,West Virginia",18602,493856
+340,"Green County,Kentucky","Braxton County,West Virginia",20113,551218
+341,"Green County,Kentucky","Brooke County,West Virginia",24331,692067
+342,"Green County,Kentucky","Cabell County,West Virginia",13173,360364
+343,"Green County,Kentucky","Calhoun County,West Virginia",20034,548903
+344,"Green County,Kentucky","Clay County,West Virginia",18880,522131
+345,"Green County,Kentucky","Doddridge County,West Virginia",22566,641748
+346,"Green County,Kentucky","Fayette County,West Virginia",20167,540475
+347,"Green County,Kentucky","Gilmer County,West Virginia",21312,573405
+348,"Green County,Kentucky","Grant County,West Virginia",27778,761784
+349,"Green County,Kentucky","Greenbrier County,West Virginia",23241,618513
+350,"Green County,Kentucky","Hampshire County,West Virginia",30610,860002
+351,"Green County,Kentucky","Hancock County,West Virginia",25920,726603
+352,"Green County,Kentucky","Hardy County,West Virginia",28833,793281
+353,"Green County,Kentucky","Harrison County,West Virginia",22656,646609
+354,"Green County,Kentucky","Jackson County,West Virginia",17918,503234
+355,"Green County,Kentucky","Jefferson County,West Virginia",32822,954396
+356,"Green County,Kentucky","Kanawha County,West Virginia",17475,474539
+357,"Green County,Kentucky","Lewis County,West Virginia",21286,600080
+358,"Green County,Kentucky","Lincoln County,West Virginia",16390,418015
+359,"Green County,Kentucky","Logan County,West Virginia",18452,452472
+360,"Green County,Kentucky","McDowell County,West Virginia",21800,485554
+361,"Green County,Kentucky","Marion County,West Virginia",23802,673777
+362,"Green County,Kentucky","Marshall County,West Virginia",24288,686575
+363,"Green County,Kentucky","Mason County,West Virginia",16154,451109
+364,"Green County,Kentucky","Mercer County,West Virginia",20802,586098
+365,"Green County,Kentucky","Mineral County,West Virginia",29472,790605
+366,"Green County,Kentucky","Mingo County,West Virginia",17136,418925
+367,"Green County,Kentucky","Monongalia County,West Virginia",24012,699245
+368,"Green County,Kentucky","Monroe County,West Virginia",23848,630810
+369,"Green County,Kentucky","Morgan County,West Virginia",30847,887790
+370,"Green County,Kentucky","Nicholas County,West Virginia",20596,582011
+371,"Green County,Kentucky","Ohio County,West Virginia",23349,673305
+372,"Green County,Kentucky","Pendleton County,West Virginia",28109,764408
+373,"Green County,Kentucky","Pleasants County,West Virginia",21400,601086
+374,"Green County,Kentucky","Pocahontas County,West Virginia",25925,651550
+375,"Green County,Kentucky","Preston County,West Virginia",26158,725976
+376,"Green County,Kentucky","Putnam County,West Virginia",14856,413142
+377,"Green County,Kentucky","Raleigh County,West Virginia",19343,539791
+378,"Green County,Kentucky","Randolph County,West Virginia",23787,662534
+379,"Green County,Kentucky","Ritchie County,West Virginia",21731,614790
+380,"Green County,Kentucky","Roane County,West Virginia",19543,532050
+381,"Green County,Kentucky","Summers County,West Virginia",22796,601229
+382,"Green County,Kentucky","Taylor County,West Virginia",23694,669349
+383,"Green County,Kentucky","Tucker County,West Virginia",24854,693059
+384,"Green County,Kentucky","Tyler County,West Virginia",23309,640701
+385,"Green County,Kentucky","Upshur County,West Virginia",22851,614776
+386,"Green County,Kentucky","Wayne County,West Virginia",14704,381560
+387,"Green County,Kentucky","Webster County,West Virginia",22780,609091
+388,"Green County,Kentucky","Wetzel County,West Virginia",24522,662608
+389,"Green County,Kentucky","Wirt County,West Virginia",20184,560572
+390,"Green County,Kentucky","Wood County,West Virginia",19699,562262
+391,"Green County,Kentucky","Wyoming County,West Virginia",21422,491412

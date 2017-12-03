@@ -1,0 +1,394 @@
+,origin,destination,seconds,meters
+0,"Mclean County,Kentucky","Adair County,Kentucky",8558,238266
+1,"Mclean County,Kentucky","Allen County,Kentucky",5788,149233
+2,"Mclean County,Kentucky","Anderson County,Kentucky",9144,249183
+3,"Mclean County,Kentucky","Ballard County,Kentucky",7858,214724
+4,"Mclean County,Kentucky","Barren County,Kentucky",6969,185960
+5,"Mclean County,Kentucky","Bath County,Kentucky",12835,366452
+6,"Mclean County,Kentucky","Bell County,Kentucky",16528,434427
+7,"Mclean County,Kentucky","Boone County,Kentucky",12669,358063
+8,"Mclean County,Kentucky","Bourbon County,Kentucky",11900,320962
+9,"Mclean County,Kentucky","Boyd County,Kentucky",16093,467908
+10,"Mclean County,Kentucky","Boyle County,Kentucky",9656,257102
+11,"Mclean County,Kentucky","Bracken County,Kentucky",14998,430809
+12,"Mclean County,Kentucky","Breathitt County,Kentucky",15436,430632
+13,"Mclean County,Kentucky","Breckinridge County,Kentucky",4700,93833
+14,"Mclean County,Kentucky","Bullitt County,Kentucky",7100,193258
+15,"Mclean County,Kentucky","Butler County,Kentucky",3491,79599
+16,"Mclean County,Kentucky","Caldwell County,Kentucky",3969,105577
+17,"Mclean County,Kentucky","Calloway County,Kentucky",6779,190570
+18,"Mclean County,Kentucky","Campbell County,Kentucky",13539,387766
+19,"Mclean County,Kentucky","Carlisle County,Kentucky",8315,230092
+20,"Mclean County,Kentucky","Carroll County,Kentucky",10153,291840
+21,"Mclean County,Kentucky","Carter County,Kentucky",15230,437165
+22,"Mclean County,Kentucky","Casey County,Kentucky",10891,266818
+23,"Mclean County,Kentucky","Christian County,Kentucky",3604,100771
+24,"Mclean County,Kentucky","Clay County,Kentucky",14692,393455
+25,"Mclean County,Kentucky","Clinton County,Kentucky",10508,266795
+26,"Mclean County,Kentucky","Crittenden County,Kentucky",4805,94768
+27,"Mclean County,Kentucky","Cumberland County,Kentucky",9667,242895
+28,"Mclean County,Kentucky","Daviess County,Kentucky",1467,31001
+29,"Mclean County,Kentucky","Edmonson County,Kentucky",5425,120154
+30,"Mclean County,Kentucky","Elliott County,Kentucky",16006,428427
+31,"Mclean County,Kentucky","Estill County,Kentucky",13319,359316
+32,"Mclean County,Kentucky","Fayette County,Kentucky",10462,291187
+33,"Mclean County,Kentucky","Fleming County,Kentucky",14264,396671
+34,"Mclean County,Kentucky","Floyd County,Kentucky",17622,490663
+35,"Mclean County,Kentucky","Franklin County,Kentucky",10803,287875
+36,"Mclean County,Kentucky","Fulton County,Kentucky",8719,251057
+37,"Mclean County,Kentucky","Gallatin County,Kentucky",10862,311166
+38,"Mclean County,Kentucky","Garrard County,Kentucky",11298,289298
+39,"Mclean County,Kentucky","Grant County,Kentucky",12228,336618
+40,"Mclean County,Kentucky","Graves County,Kentucky",7339,202799
+41,"Mclean County,Kentucky","Grayson County,Kentucky",4301,96760
+42,"Mclean County,Kentucky","Green County,Kentucky",8324,190667
+43,"Mclean County,Kentucky","Greenup County,Kentucky",16698,464495
+44,"Mclean County,Kentucky","Hancock County,Kentucky",3523,80035
+45,"Mclean County,Kentucky","Hardin County,Kentucky",5699,142278
+46,"Mclean County,Kentucky","Harlan County,Kentucky",18822,490032
+47,"Mclean County,Kentucky","Harrison County,Kentucky",12672,337908
+48,"Mclean County,Kentucky","Hart County,Kentucky",6719,155709
+49,"Mclean County,Kentucky","Henderson County,Kentucky",2228,48417
+50,"Mclean County,Kentucky","Henry County,Kentucky",9827,272588
+51,"Mclean County,Kentucky","Hickman County,Kentucky",8348,231384
+52,"Mclean County,Kentucky","Hopkins County,Kentucky",2417,53227
+53,"Mclean County,Kentucky","Jackson County,Kentucky",14422,387808
+54,"Mclean County,Kentucky","Jefferson County,Kentucky",8345,226755
+55,"Mclean County,Kentucky","Jessamine County,Kentucky",10593,288847
+56,"Mclean County,Kentucky","Johnson County,Kentucky",16576,466656
+57,"Mclean County,Kentucky","Kenton County,Kentucky",12555,353779
+58,"Mclean County,Kentucky","Knott County,Kentucky",17494,474161
+59,"Mclean County,Kentucky","Knox County,Kentucky",14760,387337
+60,"Mclean County,Kentucky","Larue County,Kentucky",6598,173510
+61,"Mclean County,Kentucky","Laurel County,Kentucky",13502,358207
+62,"Mclean County,Kentucky","Lawrence County,Kentucky",18096,495044
+63,"Mclean County,Kentucky","Lee County,Kentucky",14685,407090
+64,"Mclean County,Kentucky","Leslie County,Kentucky",16642,444579
+65,"Mclean County,Kentucky","Letcher County,Kentucky",18665,496165
+66,"Mclean County,Kentucky","Lewis County,Kentucky",15788,434811
+67,"Mclean County,Kentucky","Lincoln County,Kentucky",11040,287034
+68,"Mclean County,Kentucky","Livingston County,Kentucky",5779,119168
+69,"Mclean County,Kentucky","Logan County,Kentucky",4924,101372
+70,"Mclean County,Kentucky","Lyon County,Kentucky",6278,165935
+71,"Mclean County,Kentucky","McCracken County,Kentucky",6470,182784
+72,"Mclean County,Kentucky","McCreary County,Kentucky",12691,349850
+73,"Mclean County,Kentucky","Madison County,Kentucky",12171,333040
+74,"Mclean County,Kentucky","Magoffin County,Kentucky",16045,448523
+75,"Mclean County,Kentucky","Marion County,Kentucky",8719,232400
+76,"Mclean County,Kentucky","Marshall County,Kentucky",5885,166356
+77,"Mclean County,Kentucky","Martin County,Kentucky",19362,525001
+78,"Mclean County,Kentucky","Mason County,Kentucky",15029,392528
+79,"Mclean County,Kentucky","Meade County,Kentucky",6147,127453
+80,"Mclean County,Kentucky","Menifee County,Kentucky",14110,378990
+81,"Mclean County,Kentucky","Mercer County,Kentucky",9503,255978
+82,"Mclean County,Kentucky","Metcalfe County,Kentucky",7531,208612
+83,"Mclean County,Kentucky","Monroe County,Kentucky",8287,214640
+84,"Mclean County,Kentucky","Montgomery County,Kentucky",12753,356899
+85,"Mclean County,Kentucky","Morgan County,Kentucky",15435,436808
+86,"Mclean County,Kentucky","Muhlenberg County,Kentucky",2652,49850
+87,"Mclean County,Kentucky","Nelson County,Kentucky",6996,191463
+88,"Mclean County,Kentucky","Nicholas County,Kentucky",13156,348344
+89,"Mclean County,Kentucky","Ohio County,Kentucky",2641,52104
+90,"Mclean County,Kentucky","Oldham County,Kentucky",8553,239888
+91,"Mclean County,Kentucky","Owen County,Kentucky",12064,336702
+92,"Mclean County,Kentucky","Owsley County,Kentucky",15721,409309
+93,"Mclean County,Kentucky","Pendleton County,Kentucky",13494,372483
+94,"Mclean County,Kentucky","Perry County,Kentucky",16876,453280
+95,"Mclean County,Kentucky","Pike County,Kentucky",19302,520987
+96,"Mclean County,Kentucky","Powell County,Kentucky",13046,365757
+97,"Mclean County,Kentucky","Robertson County,Kentucky",13927,369470
+98,"Mclean County,Kentucky","Rockcastle County,Kentucky",12786,323720
+99,"Mclean County,Kentucky","Rowan County,Kentucky",13576,390304
+100,"Mclean County,Kentucky","Russell County,Kentucky",9665,266475
+101,"Mclean County,Kentucky","Scott County,Kentucky",11481,319834
+102,"Mclean County,Kentucky","Shelby County,Kentucky",9451,261284
+103,"Mclean County,Kentucky","Simpson County,Kentucky",5703,143093
+104,"Mclean County,Kentucky","Spencer County,Kentucky",8516,229211
+105,"Mclean County,Kentucky","Taylor County,Kentucky",8556,219523
+106,"Mclean County,Kentucky","Todd County,Kentucky",4437,92255
+107,"Mclean County,Kentucky","Trigg County,Kentucky",5017,126700
+108,"Mclean County,Kentucky","Trimble County,Kentucky",9952,279687
+109,"Mclean County,Kentucky","Union County,Kentucky",3741,79385
+110,"Mclean County,Kentucky","Warren County,Kentucky",4393,110270
+111,"Mclean County,Kentucky","Washington County,Kentucky",8827,232083
+112,"Mclean County,Kentucky","Wayne County,Kentucky",11909,296995
+113,"Mclean County,Kentucky","Webster County,Kentucky",2632,52167
+114,"Mclean County,Kentucky","Whitley County,Kentucky",14144,383191
+115,"Mclean County,Kentucky","Wolfe County,Kentucky",14310,403629
+116,"Mclean County,Kentucky","Woodford County,Kentucky",9718,271445
+117,"Mclean County,Kentucky","Adams County,Ohio",16433,464424
+118,"Mclean County,Kentucky","Allen County,Ohio",19975,579673
+119,"Mclean County,Kentucky","Ashland County,Ohio",23164,681551
+120,"Mclean County,Kentucky","Ashtabula County,Ohio",28910,866302
+121,"Mclean County,Kentucky","Athens County,Ohio",21627,610766
+122,"Mclean County,Kentucky","Auglaize County,Ohio",19231,566937
+123,"Mclean County,Kentucky","Belmont County,Ohio",24501,727982
+124,"Mclean County,Kentucky","Brown County,Ohio",15686,440978
+125,"Mclean County,Kentucky","Butler County,Ohio",15053,429547
+126,"Mclean County,Kentucky","Carroll County,Ohio",26466,765206
+127,"Mclean County,Kentucky","Champaign County,Ohio",18009,521119
+128,"Mclean County,Kentucky","Clark County,Ohio",17437,507752
+129,"Mclean County,Kentucky","Clermont County,Ohio",13803,400725
+130,"Mclean County,Kentucky","Clinton County,Ohio",15898,452032
+131,"Mclean County,Kentucky","Columbiana County,Ohio",28022,800795
+132,"Mclean County,Kentucky","Coshocton County,Ohio",23025,660623
+133,"Mclean County,Kentucky","Crawford County,Ohio",22701,673523
+134,"Mclean County,Kentucky","Cuyahoga County,Ohio",25482,764015
+135,"Mclean County,Kentucky","Darke County,Ohio",17762,491643
+136,"Mclean County,Kentucky","Defiance County,Ohio",21781,610044
+137,"Mclean County,Kentucky","Delaware County,Ohio",20081,588222
+138,"Mclean County,Kentucky","Fairfield County,Ohio",19484,571472
+139,"Mclean County,Kentucky","Fayette County,Ohio",16796,489637
+140,"Mclean County,Kentucky","Franklin County,Ohio",18598,548150
+141,"Mclean County,Kentucky","Fulton County,Ohio",23215,652622
+142,"Mclean County,Kentucky","Gallia County,Ohio",20524,582942
+143,"Mclean County,Kentucky","Geauga County,Ohio",27010,803234
+144,"Mclean County,Kentucky","Greene County,Ohio",16225,461385
+145,"Mclean County,Kentucky","Guernsey County,Ohio",22231,661663
+146,"Mclean County,Kentucky","Hamilton County,Ohio",13707,394031
+147,"Mclean County,Kentucky","Hancock County,Ohio",21084,620568
+148,"Mclean County,Kentucky","Hardin County,Ohio",20871,604965
+149,"Mclean County,Kentucky","Harrison County,Ohio",25471,747272
+150,"Mclean County,Kentucky","Henry County,Ohio",22601,646926
+151,"Mclean County,Kentucky","Highland County,Ohio",16746,463677
+152,"Mclean County,Kentucky","Hocking County,Ohio",20922,614876
+153,"Mclean County,Kentucky","Holmes County,Ohio",24575,697481
+154,"Mclean County,Kentucky","Huron County,Ohio",24310,680321
+155,"Mclean County,Kentucky","Jackson County,Ohio",19024,545135
+156,"Mclean County,Kentucky","Jefferson County,Ohio",26465,757049
+157,"Mclean County,Kentucky","Knox County,Ohio",22530,647844
+158,"Mclean County,Kentucky","Lawrence County,Ohio",18499,504337
+159,"Mclean County,Kentucky","Licking County,Ohio",20863,603068
+160,"Mclean County,Kentucky","Logan County,Ohio",19243,553656
+161,"Mclean County,Kentucky","Lorain County,Ohio",26095,738975
+162,"Mclean County,Kentucky","Lucas County,Ohio",24409,707088
+163,"Mclean County,Kentucky","Madison County,Ohio",18018,524819
+164,"Mclean County,Kentucky","Mahoning County,Ohio",27879,817934
+165,"Mclean County,Kentucky","Marion County,Ohio",21128,595658
+166,"Mclean County,Kentucky","Medina County,Ohio",23809,706563
+167,"Mclean County,Kentucky","Meigs County,Ohio",21310,598663
+168,"Mclean County,Kentucky","Mercer County,Ohio",19823,528162
+169,"Mclean County,Kentucky","Miami County,Ohio",16817,489376
+170,"Mclean County,Kentucky","Monroe County,Ohio",25907,742547
+171,"Mclean County,Kentucky","Montgomery County,Ohio",16200,467116
+172,"Mclean County,Kentucky","Morgan County,Ohio",23296,670159
+173,"Mclean County,Kentucky","Morrow County,Ohio",20888,611043
+174,"Mclean County,Kentucky","Muskingum County,Ohio",21081,627820
+175,"Mclean County,Kentucky","Noble County,Ohio",23930,698783
+176,"Mclean County,Kentucky","Paulding County,Ohio",20713,574962
+177,"Mclean County,Kentucky","Perry County,Ohio",21150,616403
+178,"Mclean County,Kentucky","Pickaway County,Ohio",18733,538233
+179,"Mclean County,Kentucky","Pike County,Ohio",17801,510120
+180,"Mclean County,Kentucky","Portage County,Ohio",26331,777713
+181,"Mclean County,Kentucky","Preble County,Ohio",16686,469869
+182,"Mclean County,Kentucky","Putnam County,Ohio",21150,612140
+183,"Mclean County,Kentucky","Richland County,Ohio",21918,646282
+184,"Mclean County,Kentucky","Ross County,Ohio",18377,537550
+185,"Mclean County,Kentucky","Sandusky County,Ohio",24124,700644
+186,"Mclean County,Kentucky","Scioto County,Ohio",18600,530751
+187,"Mclean County,Kentucky","Seneca County,Ohio",23428,676908
+188,"Mclean County,Kentucky","Shelby County,Ohio",17855,525662
+189,"Mclean County,Kentucky","Stark County,Ohio",26076,762097
+190,"Mclean County,Kentucky","Summit County,Ohio",25012,741891
+191,"Mclean County,Kentucky","Trumbull County,Ohio",27912,828205
+192,"Mclean County,Kentucky","Tuscarawas County,Ohio",24525,721028
+193,"Mclean County,Kentucky","Union County,Ohio",19370,551040
+194,"Mclean County,Kentucky","Van Wert County,Ohio",20851,592083
+195,"Mclean County,Kentucky","Vinton County,Ohio",20559,586302
+196,"Mclean County,Kentucky","Warren County,Ohio",14586,420288
+197,"Mclean County,Kentucky","Washington County,Ohio",24347,670613
+198,"Mclean County,Kentucky","Wayne County,Ohio",23537,695561
+199,"Mclean County,Kentucky","Williams County,Ohio",22771,629924
+200,"Mclean County,Kentucky","Wood County,Ohio",22172,661196
+201,"Mclean County,Kentucky","Wyandot County,Ohio",21780,641448
+202,"Mclean County,Kentucky","Accomack County,Virginia",46178,1341777
+203,"Mclean County,Kentucky","Albemarle County,Virginia",32328,954276
+204,"Mclean County,Kentucky","Alleghany County,Virginia",26997,791299
+205,"Mclean County,Kentucky","Amelia County,Virginia",37029,1054394
+206,"Mclean County,Kentucky","Amherst County,Virginia",32326,922265
+207,"Mclean County,Kentucky","Appomattox County,Virginia",33919,961024
+208,"Mclean County,Kentucky","Arlington County,Virginia",38611,1150308
+209,"Mclean County,Kentucky","Augusta County,Virginia",30939,892616
+210,"Mclean County,Kentucky","Bath County,Virginia",30009,866609
+211,"Mclean County,Kentucky","Bedford County,Virginia",32586,908390
+212,"Mclean County,Kentucky","Bland County,Virginia",25959,757519
+213,"Mclean County,Kentucky","Botetourt County,Virginia",30151,862599
+214,"Mclean County,Kentucky","Brunswick County,Virginia",39545,1174745
+215,"Mclean County,Kentucky","Buchanan County,Virginia",23354,600493
+216,"Mclean County,Kentucky","Buckingham County,Virginia",34202,971959
+217,"Mclean County,Kentucky","Campbell County,Virginia",33843,963496
+218,"Mclean County,Kentucky","Caroline County,Virginia",37667,1123122
+219,"Mclean County,Kentucky","Carroll County,Virginia",27757,841949
+220,"Mclean County,Kentucky","Charles City County,Virginia",37768,1120156
+221,"Mclean County,Kentucky","Charlotte County,Virginia",35804,1014545
+222,"Mclean County,Kentucky","Chesterfield County,Virginia",36904,1097940
+223,"Mclean County,Kentucky","Clarke County,Virginia",36508,1081334
+224,"Mclean County,Kentucky","Craig County,Virginia",28640,812384
+225,"Mclean County,Kentucky","Culpeper County,Virginia",36125,1043493
+226,"Mclean County,Kentucky","Cumberland County,Virginia",35412,999962
+227,"Mclean County,Kentucky","Dickenson County,Virginia",22224,563111
+228,"Mclean County,Kentucky","Dinwiddie County,Virginia",38651,1148372
+229,"Mclean County,Kentucky","Essex County,Virginia",39485,1147164
+230,"Mclean County,Kentucky","Fairfax County,Virginia",38302,1140975
+231,"Mclean County,Kentucky","Fauquier County,Virginia",36946,1102586
+232,"Mclean County,Kentucky","Floyd County,Virginia",29649,882049
+233,"Mclean County,Kentucky","Fluvanna County,Virginia",34006,1006448
+234,"Mclean County,Kentucky","Franklin County,Virginia",32099,909623
+235,"Mclean County,Kentucky","Frederick County,Virginia",35173,995468
+236,"Mclean County,Kentucky","Giles County,Virginia",26690,769077
+237,"Mclean County,Kentucky","Gloucester County,Virginia",39938,1174345
+238,"Mclean County,Kentucky","Goochland County,Virginia",34910,1037059
+239,"Mclean County,Kentucky","Grayson County,Virginia",27489,805116
+240,"Mclean County,Kentucky","Greene County,Virginia",34321,989860
+241,"Mclean County,Kentucky","Greensville County,Virginia",40067,1197123
+242,"Mclean County,Kentucky","Halifax County,Virginia",36060,1039636
+243,"Mclean County,Kentucky","Hanover County,Virginia",36116,1078166
+244,"Mclean County,Kentucky","Henrico County,Virginia",36627,1091125
+245,"Mclean County,Kentucky","Henry County,Virginia",31630,928670
+246,"Mclean County,Kentucky","Highland County,Virginia",31453,876579
+247,"Mclean County,Kentucky","Isle of Wight County,Virginia",40879,1195702
+248,"Mclean County,Kentucky","James City County,Virginia",39004,1160927
+249,"Mclean County,Kentucky","King and Queen County,Virginia",38662,1136511
+250,"Mclean County,Kentucky","King George County,Virginia",38780,1151108
+251,"Mclean County,Kentucky","King William County,Virginia",37349,1106434
+252,"Mclean County,Kentucky","Lancaster County,Virginia",41142,1189519
+253,"Mclean County,Kentucky","Lee County,Virginia",19620,510986
+254,"Mclean County,Kentucky","Loudoun County,Virginia",38004,1117201
+255,"Mclean County,Kentucky","Louisa County,Virginia",34567,1020154
+256,"Mclean County,Kentucky","Lunenburg County,Virginia",37576,1055829
+257,"Mclean County,Kentucky","Madison County,Virginia",35241,1019601
+258,"Mclean County,Kentucky","Mathews County,Virginia",40763,1197768
+259,"Mclean County,Kentucky","Mecklenburg County,Virginia",38092,1091181
+260,"Mclean County,Kentucky","Middlesex County,Virginia",39540,1170545
+261,"Mclean County,Kentucky","Montgomery County,Virginia",27773,797084
+262,"Mclean County,Kentucky","Nelson County,Virginia",32867,933956
+263,"Mclean County,Kentucky","New Kent County,Virginia",38440,1134841
+264,"Mclean County,Kentucky","Northampton County,Virginia",43421,1277591
+265,"Mclean County,Kentucky","Northumberland County,Virginia",41182,1188031
+266,"Mclean County,Kentucky","Nottoway County,Virginia",37069,1056209
+267,"Mclean County,Kentucky","Orange County,Virginia",35529,1028261
+268,"Mclean County,Kentucky","Page County,Virginia",34174,1003386
+269,"Mclean County,Kentucky","Patrick County,Virginia",29862,886984
+270,"Mclean County,Kentucky","Pittsylvania County,Virginia",33946,982878
+271,"Mclean County,Kentucky","Powhatan County,Virginia",36163,1062280
+272,"Mclean County,Kentucky","Prince Edward County,Virginia",35684,1013544
+273,"Mclean County,Kentucky","Prince George County,Virginia",38414,1134956
+274,"Mclean County,Kentucky","Prince William County,Virginia",37046,1108689
+275,"Mclean County,Kentucky","Pulaski County,Virginia",27499,833369
+276,"Mclean County,Kentucky","Rappahannock County,Virginia",36005,1039873
+277,"Mclean County,Kentucky","Richmond County,Virginia",39882,1160675
+278,"Mclean County,Kentucky","Roanoke County,Virginia",29393,839878
+279,"Mclean County,Kentucky","Rockbridge County,Virginia",29330,859656
+280,"Mclean County,Kentucky","Rockingham County,Virginia",33214,975736
+281,"Mclean County,Kentucky","Russell County,Virginia",24756,615933
+282,"Mclean County,Kentucky","Scott County,Virginia",21939,558827
+283,"Mclean County,Kentucky","Shenandoah County,Virginia",33718,1005840
+284,"Mclean County,Kentucky","Smyth County,Virginia",24768,744819
+285,"Mclean County,Kentucky","Southampton County,Virginia",40445,1193237
+286,"Mclean County,Kentucky","Spotsylvania County,Virginia",36583,1061992
+287,"Mclean County,Kentucky","Stafford County,Virginia",37964,1086285
+288,"Mclean County,Kentucky","Surry County,Virginia",39747,1159789
+289,"Mclean County,Kentucky","Sussex County,Virginia",39109,1163480
+290,"Mclean County,Kentucky","Tazewell County,Virginia",25598,657268
+291,"Mclean County,Kentucky","Warren County,Virginia",35620,1050433
+292,"Mclean County,Kentucky","Washington County,Virginia",23880,708904
+293,"Mclean County,Kentucky","Westmoreland County,Virginia",39755,1167933
+294,"Mclean County,Kentucky","Wise County,Virginia",20489,539010
+295,"Mclean County,Kentucky","Wythe County,Virginia",25983,787278
+296,"Mclean County,Kentucky","York County,Virginia",40291,1191702
+297,"Mclean County,Kentucky","Alexandria City County,Virginia",39127,1167490
+298,"Mclean County,Kentucky","Bedford City County,Virginia",31750,899821
+299,"Mclean County,Kentucky","Bristol City County,Virginia",22479,676886
+300,"Mclean County,Kentucky","Buena Vista City County,Virginia",29685,873633
+301,"Mclean County,Kentucky","Charlottesville City County,Virginia",32797,969491
+302,"Mclean County,Kentucky","Chesapeake City County,Virginia",41755,1244607
+303,"Mclean County,Kentucky","Clifton Forge City County,Virginia",27541,811506
+304,"Mclean County,Kentucky","Colonial Heights City County,Virginia",37464,1113833
+305,"Mclean County,Kentucky","Covington City County,Virginia",27066,794885
+306,"Mclean County,Kentucky","Danville City County,Virginia",33788,983125
+307,"Mclean County,Kentucky","Emporia City County,Virginia",39774,1183717
+308,"Mclean County,Kentucky","Fairfax City County,Virginia",38178,1134437
+309,"Mclean County,Kentucky","Falls Church City County,Virginia",38319,1144620
+310,"Mclean County,Kentucky","Franklin City County,Virginia",40992,1201092
+311,"Mclean County,Kentucky","Fredericksburg City County,Virginia",37716,1071652
+312,"Mclean County,Kentucky","Galax City County,Virginia",28380,847815
+313,"Mclean County,Kentucky","Hampton City County,Virginia",40242,1201408
+314,"Mclean County,Kentucky","Harrisonburg City County,Virginia",32273,955633
+315,"Mclean County,Kentucky","Hopewell City County,Virginia",37500,1112799
+316,"Mclean County,Kentucky","Lexington City County,Virginia",29319,862124
+317,"Mclean County,Kentucky","Lynchburg City County,Virginia",32902,937239
+318,"Mclean County,Kentucky","Manassas City County,Virginia",37273,1113634
+319,"Mclean County,Kentucky","Manassas Park City County,Virginia",37776,1119977
+320,"Mclean County,Kentucky","Martinsville City County,Virginia",32158,937463
+321,"Mclean County,Kentucky","Newport News City County,Virginia",39798,1187894
+322,"Mclean County,Kentucky","Norfolk City County,Virginia",41548,1226824
+323,"Mclean County,Kentucky","Norton City County,Virginia",21117,550822
+324,"Mclean County,Kentucky","Petersburg City County,Virginia",37335,1114820
+325,"Mclean County,Kentucky","Poquoson City County,Virginia",40470,1198471
+326,"Mclean County,Kentucky","Portsmouth City County,Virginia",41487,1235645
+327,"Mclean County,Kentucky","Radford County,Virginia",28010,847317
+328,"Mclean County,Kentucky","Richmond City County,Virginia",36203,1078936
+329,"Mclean County,Kentucky","Roanoke City County,Virginia",29995,859982
+330,"Mclean County,Kentucky","Salem City County,Virginia",29406,846532
+331,"Mclean County,Kentucky","South Boston City County,Virginia",35800,1037304
+332,"Mclean County,Kentucky","Staunton City County,Virginia",31090,916768
+333,"Mclean County,Kentucky","Suffolk City County,Virginia",41722,1210426
+334,"Mclean County,Kentucky","Virginia Beach City County,Virginia",42109,1250082
+335,"Mclean County,Kentucky","Waynesboro City County,Virginia",31428,929486
+336,"Mclean County,Kentucky","Williamsburg City County,Virginia",38842,1160143
+337,"Mclean County,Kentucky","Winchester City County,Virginia",35652,1029470
+338,"Mclean County,Kentucky","Barbour County,West Virginia",27133,790166
+339,"Mclean County,Kentucky","Berkeley County,West Virginia",35066,1028325
+340,"Mclean County,Kentucky","Boone County,West Virginia",22312,623783
+341,"Mclean County,Kentucky","Braxton County,West Virginia",23823,681145
+342,"Mclean County,Kentucky","Brooke County,West Virginia",26580,770230
+343,"Mclean County,Kentucky","Cabell County,West Virginia",16883,490292
+344,"Mclean County,Kentucky","Calhoun County,West Virginia",23744,678830
+345,"Mclean County,Kentucky","Clay County,West Virginia",22590,652058
+346,"Mclean County,Kentucky","Doddridge County,West Virginia",26276,771675
+347,"Mclean County,Kentucky","Fayette County,West Virginia",23877,670403
+348,"Mclean County,Kentucky","Gilmer County,West Virginia",25022,703332
+349,"Mclean County,Kentucky","Grant County,West Virginia",31488,891711
+350,"Mclean County,Kentucky","Greenbrier County,West Virginia",26951,748441
+351,"Mclean County,Kentucky","Hampshire County,West Virginia",34320,989929
+352,"Mclean County,Kentucky","Hancock County,West Virginia",28170,804766
+353,"Mclean County,Kentucky","Hardy County,West Virginia",32544,923209
+354,"Mclean County,Kentucky","Harrison County,West Virginia",26366,776537
+355,"Mclean County,Kentucky","Jackson County,West Virginia",21628,633162
+356,"Mclean County,Kentucky","Jefferson County,West Virginia",36532,1084323
+357,"Mclean County,Kentucky","Kanawha County,West Virginia",21186,604466
+358,"Mclean County,Kentucky","Lewis County,West Virginia",24996,730007
+359,"Mclean County,Kentucky","Lincoln County,West Virginia",20100,547942
+360,"Mclean County,Kentucky","Logan County,West Virginia",22357,591756
+361,"Mclean County,Kentucky","McDowell County,West Virginia",26208,643945
+362,"Mclean County,Kentucky","Marion County,West Virginia",27512,803704
+363,"Mclean County,Kentucky","Marshall County,West Virginia",26538,764738
+364,"Mclean County,Kentucky","Mason County,West Virginia",19865,581036
+365,"Mclean County,Kentucky","Mercer County,West Virginia",24513,716025
+366,"Mclean County,Kentucky","Mineral County,West Virginia",33183,920532
+367,"Mclean County,Kentucky","Mingo County,West Virginia",21040,558209
+368,"Mclean County,Kentucky","Monongalia County,West Virginia",27722,829172
+369,"Mclean County,Kentucky","Monroe County,West Virginia",27558,760737
+370,"Mclean County,Kentucky","Morgan County,West Virginia",34557,1017717
+371,"Mclean County,Kentucky","Nicholas County,West Virginia",24306,711939
+372,"Mclean County,Kentucky","Ohio County,West Virginia",25599,751468
+373,"Mclean County,Kentucky","Pendleton County,West Virginia",31819,894336
+374,"Mclean County,Kentucky","Pleasants County,West Virginia",25111,731013
+375,"Mclean County,Kentucky","Pocahontas County,West Virginia",29635,781478
+376,"Mclean County,Kentucky","Preston County,West Virginia",29868,855903
+377,"Mclean County,Kentucky","Putnam County,West Virginia",18567,543069
+378,"Mclean County,Kentucky","Raleigh County,West Virginia",23054,669718
+379,"Mclean County,Kentucky","Randolph County,West Virginia",27497,792462
+380,"Mclean County,Kentucky","Ritchie County,West Virginia",25441,744717
+381,"Mclean County,Kentucky","Roane County,West Virginia",23254,661977
+382,"Mclean County,Kentucky","Summers County,West Virginia",26506,731156
+383,"Mclean County,Kentucky","Taylor County,West Virginia",27404,799276
+384,"Mclean County,Kentucky","Tucker County,West Virginia",28564,822986
+385,"Mclean County,Kentucky","Tyler County,West Virginia",27020,770629
+386,"Mclean County,Kentucky","Upshur County,West Virginia",26561,744704
+387,"Mclean County,Kentucky","Wayne County,West Virginia",18414,511487
+388,"Mclean County,Kentucky","Webster County,West Virginia",26490,739018
+389,"Mclean County,Kentucky","Wetzel County,West Virginia",28232,792535
+390,"Mclean County,Kentucky","Wirt County,West Virginia",23894,690499
+391,"Mclean County,Kentucky","Wood County,West Virginia",23409,692189
+392,"Mclean County,Kentucky","Wyoming County,West Virginia",24998,709660

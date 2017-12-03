@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Montgomery County,Kentucky","Adair County,Kentucky",9097,225550
+1,"Montgomery County,Kentucky","Allen County,Kentucky",11716,326198
+2,"Montgomery County,Kentucky","Anderson County,Kentucky",4897,128589
+3,"Montgomery County,Kentucky","Ballard County,Kentucky",17876,518360
+4,"Montgomery County,Kentucky","Barren County,Kentucky",10843,284578
+5,"Montgomery County,Kentucky","Bath County,Kentucky",1351,27302
+6,"Montgomery County,Kentucky","Bell County,Kentucky",9551,230387
+7,"Montgomery County,Kentucky","Boone County,Kentucky",6605,180297
+8,"Montgomery County,Kentucky","Bourbon County,Kentucky",2474,41702
+9,"Montgomery County,Kentucky","Boyd County,Kentucky",4609,128758
+10,"Montgomery County,Kentucky","Boyle County,Kentucky",6126,132476
+11,"Montgomery County,Kentucky","Bracken County,Kentucky",5443,113896
+12,"Montgomery County,Kentucky","Breathitt County,Kentucky",4530,100127
+13,"Montgomery County,Kentucky","Breckinridge County,Kentucky",10431,281270
+14,"Montgomery County,Kentucky","Bullitt County,Kentucky",7000,202390
+15,"Montgomery County,Kentucky","Butler County,Kentucky",11095,303268
+16,"Montgomery County,Kentucky","Caldwell County,Kentucky",13987,409214
+17,"Montgomery County,Kentucky","Calloway County,Kentucky",16797,494206
+18,"Montgomery County,Kentucky","Campbell County,Kentucky",6426,131281
+19,"Montgomery County,Kentucky","Carlisle County,Kentucky",18333,533729
+20,"Montgomery County,Kentucky","Carroll County,Kentucky",7442,176404
+21,"Montgomery County,Kentucky","Carter County,Kentucky",3746,98015
+22,"Montgomery County,Kentucky","Casey County,Kentucky",7621,163981
+23,"Montgomery County,Kentucky","Christian County,Kentucky",13636,404470
+24,"Montgomery County,Kentucky","Clay County,Kentucky",6921,138872
+25,"Montgomery County,Kentucky","Clinton County,Kentucky",9505,228916
+26,"Montgomery County,Kentucky","Crittenden County,Kentucky",15567,442284
+27,"Montgomery County,Kentucky","Cumberland County,Kentucky",10259,247155
+28,"Montgomery County,Kentucky","Daviess County,Kentucky",12118,349711
+29,"Montgomery County,Kentucky","Edmonson County,Kentucky",10536,291143
+30,"Montgomery County,Kentucky","Elliott County,Kentucky",4522,89277
+31,"Montgomery County,Kentucky","Estill County,Kentucky",2763,49466
+32,"Montgomery County,Kentucky","Fayette County,Kentucky",2704,66082
+33,"Montgomery County,Kentucky","Fleming County,Kentucky",3089,62324
+34,"Montgomery County,Kentucky","Floyd County,Kentucky",6717,160158
+35,"Montgomery County,Kentucky","Franklin County,Kentucky",4742,114998
+36,"Montgomery County,Kentucky","Fulton County,Kentucky",18737,554693
+37,"Montgomery County,Kentucky","Gallatin County,Kentucky",6440,167062
+38,"Montgomery County,Kentucky","Garrard County,Kentucky",5309,113236
+39,"Montgomery County,Kentucky","Grant County,Kentucky",5239,141170
+40,"Montgomery County,Kentucky","Graves County,Kentucky",17357,506435
+41,"Montgomery County,Kentucky","Grayson County,Kentucky",9423,259904
+42,"Montgomery County,Kentucky","Green County,Kentucky",9202,225109
+43,"Montgomery County,Kentucky","Greenup County,Kentucky",5214,125345
+44,"Montgomery County,Kentucky","Hancock County,Kentucky",11226,314164
+45,"Montgomery County,Kentucky","Hardin County,Kentucky",8299,222037
+46,"Montgomery County,Kentucky","Harlan County,Kentucky",10990,236765
+47,"Montgomery County,Kentucky","Harrison County,Kentucky",4044,74802
+48,"Montgomery County,Kentucky","Hart County,Kentucky",9098,249665
+49,"Montgomery County,Kentucky","Henderson County,Kentucky",13925,402140
+50,"Montgomery County,Kentucky","Henry County,Kentucky",6343,158717
+51,"Montgomery County,Kentucky","Hickman County,Kentucky",18366,535021
+52,"Montgomery County,Kentucky","Hopkins County,Kentucky",13446,383682
+53,"Montgomery County,Kentucky","Jackson County,Kentucky",5436,97475
+54,"Montgomery County,Kentucky","Jefferson County,Kentucky",6437,174251
+55,"Montgomery County,Kentucky","Jessamine County,Kentucky",4173,87546
+56,"Montgomery County,Kentucky","Johnson County,Kentucky",5671,136151
+57,"Montgomery County,Kentucky","Kenton County,Kentucky",6492,176014
+58,"Montgomery County,Kentucky","Knott County,Kentucky",6990,163506
+59,"Montgomery County,Kentucky","Knox County,Kentucky",7713,192128
+60,"Montgomery County,Kentucky","Larue County,Kentucky",8371,209213
+61,"Montgomery County,Kentucky","Laurel County,Kentucky",6564,163523
+62,"Montgomery County,Kentucky","Lawrence County,Kentucky",6612,155894
+63,"Montgomery County,Kentucky","Lee County,Kentucky",3779,76585
+64,"Montgomery County,Kentucky","Leslie County,Kentucky",8019,181673
+65,"Montgomery County,Kentucky","Letcher County,Kentucky",8243,188478
+66,"Montgomery County,Kentucky","Lewis County,Kentucky",4304,95660
+67,"Montgomery County,Kentucky","Lincoln County,Kentucky",6019,130154
+68,"Montgomery County,Kentucky","Livingston County,Kentucky",16163,459181
+69,"Montgomery County,Kentucky","Logan County,Kentucky",12836,346507
+70,"Montgomery County,Kentucky","Lyon County,Kentucky",16296,469571
+71,"Montgomery County,Kentucky","McCracken County,Kentucky",16488,486420
+72,"Montgomery County,Kentucky","McCreary County,Kentucky",8669,207965
+73,"Montgomery County,Kentucky","Madison County,Kentucky",3703,77105
+74,"Montgomery County,Kentucky","Magoffin County,Kentucky",5140,118018
+75,"Montgomery County,Kentucky","Marion County,Kentucky",6748,170822
+76,"Montgomery County,Kentucky","Marshall County,Kentucky",15903,469992
+77,"Montgomery County,Kentucky","Martin County,Kentucky",8457,194496
+78,"Montgomery County,Kentucky","Mason County,Kentucky",4792,93442
+79,"Montgomery County,Kentucky","Meade County,Kentucky",8898,246565
+80,"Montgomery County,Kentucky","Menifee County,Kentucky",1905,34100
+81,"Montgomery County,Kentucky","Mercer County,Kentucky",5125,126533
+82,"Montgomery County,Kentucky","Metcalfe County,Kentucky",9753,255815
+83,"Montgomery County,Kentucky","Monroe County,Kentucky",11723,293319
+84,"Montgomery County,Kentucky","Morgan County,Kentucky",3853,76970
+85,"Montgomery County,Kentucky","Muhlenberg County,Kentucky",12306,350158
+86,"Montgomery County,Kentucky","Nelson County,Kentucky",6356,169894
+87,"Montgomery County,Kentucky","Nicholas County,Kentucky",3299,55451
+88,"Montgomery County,Kentucky","Ohio County,Kentucky",11219,317747
+89,"Montgomery County,Kentucky","Oldham County,Kentucky",6508,186132
+90,"Montgomery County,Kentucky","Owen County,Kentucky",5564,141776
+91,"Montgomery County,Kentucky","Owsley County,Kentucky",4926,96561
+92,"Montgomery County,Kentucky","Pendleton County,Kentucky",5604,111929
+93,"Montgomery County,Kentucky","Perry County,Kentucky",6142,140011
+94,"Montgomery County,Kentucky","Pike County,Kentucky",8397,190482
+95,"Montgomery County,Kentucky","Powell County,Kentucky",1929,34081
+96,"Montgomery County,Kentucky","Robertson County,Kentucky",4069,76577
+97,"Montgomery County,Kentucky","Rockcastle County,Kentucky",5137,118248
+98,"Montgomery County,Kentucky","Rowan County,Kentucky",2092,51153
+99,"Montgomery County,Kentucky","Russell County,Kentucky",8702,209534
+100,"Montgomery County,Kentucky","Scott County,Kentucky",3539,94109
+101,"Montgomery County,Kentucky","Shelby County,Kentucky",5366,145385
+102,"Montgomery County,Kentucky","Simpson County,Kentucky",12417,354564
+103,"Montgomery County,Kentucky","Spencer County,Kentucky",5895,151233
+104,"Montgomery County,Kentucky","Taylor County,Kentucky",8038,202318
+105,"Montgomery County,Kentucky","Todd County,Kentucky",14072,370667
+106,"Montgomery County,Kentucky","Trigg County,Kentucky",15050,430399
+107,"Montgomery County,Kentucky","Trimble County,Kentucky",7582,192172
+108,"Montgomery County,Kentucky","Union County,Kentucky",15644,432587
+109,"Montgomery County,Kentucky","Warren County,Kentucky",11452,319512
+110,"Montgomery County,Kentucky","Washington County,Kentucky",6366,155130
+111,"Montgomery County,Kentucky","Wayne County,Kentucky",8878,206606
+112,"Montgomery County,Kentucky","Webster County,Kentucky",14555,411771
+113,"Montgomery County,Kentucky","Whitley County,Kentucky",7397,198008
+114,"Montgomery County,Kentucky","Wolfe County,Kentucky",3405,73124
+115,"Montgomery County,Kentucky","Woodford County,Kentucky",3758,96745
+116,"Montgomery County,Kentucky","Adams County,Ohio",6700,127648
+117,"Montgomery County,Kentucky","Allen County,Ohio",13911,401907
+118,"Montgomery County,Kentucky","Ashland County,Ohio",17100,503785
+119,"Montgomery County,Kentucky","Ashtabula County,Ohio",22846,688536
+120,"Montgomery County,Kentucky","Athens County,Ohio",10936,286777
+121,"Montgomery County,Kentucky","Auglaize County,Ohio",13167,389172
+122,"Montgomery County,Kentucky","Belmont County,Ohio",16687,503348
+123,"Montgomery County,Kentucky","Brown County,Ohio",6128,122926
+124,"Montgomery County,Kentucky","Butler County,Ohio",8989,251781
+125,"Montgomery County,Kentucky","Carroll County,Ohio",18616,540234
+126,"Montgomery County,Kentucky","Champaign County,Ohio",11945,343353
+127,"Montgomery County,Kentucky","Clark County,Ohio",11374,329986
+128,"Montgomery County,Kentucky","Clermont County,Ohio",7740,222959
+129,"Montgomery County,Kentucky","Clinton County,Ohio",8824,182815
+130,"Montgomery County,Kentucky","Columbiana County,Ohio",20458,594470
+131,"Montgomery County,Kentucky","Coshocton County,Ohio",16950,403640
+132,"Montgomery County,Kentucky","Crawford County,Ohio",16638,495757
+133,"Montgomery County,Kentucky","Cuyahoga County,Ohio",19418,586249
+134,"Montgomery County,Kentucky","Darke County,Ohio",12265,346218
+135,"Montgomery County,Kentucky","Defiance County,Ohio",17399,480337
+136,"Montgomery County,Kentucky","Delaware County,Ohio",14017,410457
+137,"Montgomery County,Kentucky","Fairfield County,Ohio",12812,290223
+138,"Montgomery County,Kentucky","Fayette County,Ohio",10281,207112
+139,"Montgomery County,Kentucky","Franklin County,Ohio",12535,370384
+140,"Montgomery County,Kentucky","Fulton County,Ohio",18162,497280
+141,"Montgomery County,Kentucky","Gallia County,Ohio",8894,229130
+142,"Montgomery County,Kentucky","Geauga County,Ohio",20947,625468
+143,"Montgomery County,Kentucky","Greene County,Ohio",10161,283620
+144,"Montgomery County,Kentucky","Guernsey County,Ohio",14802,449270
+145,"Montgomery County,Kentucky","Hamilton County,Ohio",7643,216265
+146,"Montgomery County,Kentucky","Hancock County,Ohio",15021,442802
+147,"Montgomery County,Kentucky","Hardin County,Ohio",14808,427199
+148,"Montgomery County,Kentucky","Harrison County,Ohio",17622,522300
+149,"Montgomery County,Kentucky","Henry County,Ohio",16744,467271
+150,"Montgomery County,Kentucky","Highland County,Ohio",8275,168128
+151,"Montgomery County,Kentucky","Hocking County,Ohio",12078,280016
+152,"Montgomery County,Kentucky","Holmes County,Ohio",18310,534235
+153,"Montgomery County,Kentucky","Huron County,Ohio",18247,502555
+154,"Montgomery County,Kentucky","Jackson County,Ohio",8444,212325
+155,"Montgomery County,Kentucky","Jefferson County,Ohio",18615,532078
+156,"Montgomery County,Kentucky","Knox County,Ohio",16467,470078
+157,"Montgomery County,Kentucky","Lawrence County,Ohio",7015,165186
+158,"Montgomery County,Kentucky","Licking County,Ohio",14789,346084
+159,"Montgomery County,Kentucky","Logan County,Ohio",13180,375890
+160,"Montgomery County,Kentucky","Lorain County,Ohio",20032,561209
+161,"Montgomery County,Kentucky","Lucas County,Ohio",18346,529322
+162,"Montgomery County,Kentucky","Madison County,Ohio",11955,347053
+163,"Montgomery County,Kentucky","Mahoning County,Ohio",20953,609275
+164,"Montgomery County,Kentucky","Marion County,Ohio",15064,417892
+165,"Montgomery County,Kentucky","Medina County,Ohio",17745,528798
+166,"Montgomery County,Kentucky","Meigs County,Ohio",9826,259513
+167,"Montgomery County,Kentucky","Mercer County,Ohio",14403,416105
+168,"Montgomery County,Kentucky","Miami County,Ohio",10754,311610
+169,"Montgomery County,Kentucky","Monroe County,Ohio",15738,438462
+170,"Montgomery County,Kentucky","Montgomery County,Ohio",10137,289350
+171,"Montgomery County,Kentucky","Morgan County,Ohio",13890,353802
+172,"Montgomery County,Kentucky","Morrow County,Ohio",14825,433277
+173,"Montgomery County,Kentucky","Muskingum County,Ohio",15007,370836
+174,"Montgomery County,Kentucky","Noble County,Ohio",14244,421622
+175,"Montgomery County,Kentucky","Paulding County,Ohio",16442,464885
+176,"Montgomery County,Kentucky","Perry County,Ohio",13994,307466
+177,"Montgomery County,Kentucky","Pickaway County,Ohio",11024,256625
+178,"Montgomery County,Kentucky","Pike County,Ohio",7986,181752
+179,"Montgomery County,Kentucky","Portage County,Ohio",20174,607220
+180,"Montgomery County,Kentucky","Preble County,Ohio",11034,296180
+181,"Montgomery County,Kentucky","Putnam County,Ohio",15086,434374
+182,"Montgomery County,Kentucky","Richland County,Ohio",15855,468516
+183,"Montgomery County,Kentucky","Ross County,Ohio",9768,222932
+184,"Montgomery County,Kentucky","Sandusky County,Ohio",18060,522878
+185,"Montgomery County,Kentucky","Scioto County,Ohio",7296,163877
+186,"Montgomery County,Kentucky","Seneca County,Ohio",17365,499142
+187,"Montgomery County,Kentucky","Shelby County,Ohio",11792,347896
+188,"Montgomery County,Kentucky","Stark County,Ohio",18475,555469
+189,"Montgomery County,Kentucky","Summit County,Ohio",18948,564125
+190,"Montgomery County,Kentucky","Trumbull County,Ohio",21909,635522
+191,"Montgomery County,Kentucky","Tuscarawas County,Ohio",16676,496057
+192,"Montgomery County,Kentucky","Union County,Ohio",13307,373274
+193,"Montgomery County,Kentucky","Van Wert County,Ohio",15076,434430
+194,"Montgomery County,Kentucky","Vinton County,Ohio",11016,256427
+195,"Montgomery County,Kentucky","Warren County,Ohio",8523,242522
+196,"Montgomery County,Kentucky","Washington County,Ohio",12863,331462
+197,"Montgomery County,Kentucky","Wayne County,Ohio",17473,517795
+198,"Montgomery County,Kentucky","Williams County,Ohio",18576,503853
+199,"Montgomery County,Kentucky","Wood County,Ohio",16108,483430
+200,"Montgomery County,Kentucky","Wyandot County,Ohio",15716,463682
+201,"Montgomery County,Kentucky","Accomack County,Virginia",34694,1002626
+202,"Montgomery County,Kentucky","Albemarle County,Virginia",20844,615126
+203,"Montgomery County,Kentucky","Alleghany County,Virginia",15513,452149
+204,"Montgomery County,Kentucky","Amelia County,Virginia",25545,715244
+205,"Montgomery County,Kentucky","Amherst County,Virginia",20842,583115
+206,"Montgomery County,Kentucky","Appomattox County,Virginia",22435,621874
+207,"Montgomery County,Kentucky","Arlington County,Virginia",27127,811158
+208,"Montgomery County,Kentucky","Augusta County,Virginia",19455,553465
+209,"Montgomery County,Kentucky","Bath County,Virginia",18525,527459
+210,"Montgomery County,Kentucky","Bedford County,Virginia",21102,569239
+211,"Montgomery County,Kentucky","Bland County,Virginia",14475,418369
+212,"Montgomery County,Kentucky","Botetourt County,Virginia",18667,523448
+213,"Montgomery County,Kentucky","Brunswick County,Virginia",28087,764917
+214,"Montgomery County,Kentucky","Buchanan County,Virginia",12449,269988
+215,"Montgomery County,Kentucky","Buckingham County,Virginia",22717,632809
+216,"Montgomery County,Kentucky","Campbell County,Virginia",22358,624346
+217,"Montgomery County,Kentucky","Caroline County,Virginia",26183,783971
+218,"Montgomery County,Kentucky","Carroll County,Virginia",16720,487806
+219,"Montgomery County,Kentucky","Charles City County,Virginia",26283,781006
+220,"Montgomery County,Kentucky","Charlotte County,Virginia",24320,675394
+221,"Montgomery County,Kentucky","Chesterfield County,Virginia",25419,758790
+222,"Montgomery County,Kentucky","Clarke County,Virginia",25024,742184
+223,"Montgomery County,Kentucky","Craig County,Virginia",17156,473234
+224,"Montgomery County,Kentucky","Culpeper County,Virginia",24641,704342
+225,"Montgomery County,Kentucky","Cumberland County,Virginia",23927,660811
+226,"Montgomery County,Kentucky","Dickenson County,Virginia",11802,255424
+227,"Montgomery County,Kentucky","Dinwiddie County,Virginia",27166,809222
+228,"Montgomery County,Kentucky","Essex County,Virginia",28000,808014
+229,"Montgomery County,Kentucky","Fairfax County,Virginia",26818,801825
+230,"Montgomery County,Kentucky","Fauquier County,Virginia",25462,763435
+231,"Montgomery County,Kentucky","Floyd County,Virginia",18341,506770
+232,"Montgomery County,Kentucky","Fluvanna County,Virginia",22522,667298
+233,"Montgomery County,Kentucky","Franklin County,Virginia",20614,570473
+234,"Montgomery County,Kentucky","Frederick County,Virginia",23689,656318
+235,"Montgomery County,Kentucky","Giles County,Virginia",15206,429927
+236,"Montgomery County,Kentucky","Gloucester County,Virginia",28454,835194
+237,"Montgomery County,Kentucky","Goochland County,Virginia",23425,697909
+238,"Montgomery County,Kentucky","Grayson County,Virginia",17123,477513
+239,"Montgomery County,Kentucky","Greene County,Virginia",22836,650710
+240,"Montgomery County,Kentucky","Greensville County,Virginia",28583,857973
+241,"Montgomery County,Kentucky","Halifax County,Virginia",25024,685493
+242,"Montgomery County,Kentucky","Hanover County,Virginia",24632,739015
+243,"Montgomery County,Kentucky","Henrico County,Virginia",25143,751975
+244,"Montgomery County,Kentucky","Henry County,Virginia",20594,574527
+245,"Montgomery County,Kentucky","Highland County,Virginia",19969,537429
+246,"Montgomery County,Kentucky","Isle of Wight County,Virginia",29395,856552
+247,"Montgomery County,Kentucky","James City County,Virginia",27519,821777
+248,"Montgomery County,Kentucky","King and Queen County,Virginia",27177,797361
+249,"Montgomery County,Kentucky","King George County,Virginia",27296,811958
+250,"Montgomery County,Kentucky","King William County,Virginia",25865,767283
+251,"Montgomery County,Kentucky","Lancaster County,Virginia",29658,850369
+252,"Montgomery County,Kentucky","Lee County,Virginia",12612,266945
+253,"Montgomery County,Kentucky","Loudoun County,Virginia",26519,778050
+254,"Montgomery County,Kentucky","Louisa County,Virginia",23082,681003
+255,"Montgomery County,Kentucky","Lunenburg County,Virginia",26092,716679
+256,"Montgomery County,Kentucky","Madison County,Virginia",23757,680450
+257,"Montgomery County,Kentucky","Mathews County,Virginia",29279,858618
+258,"Montgomery County,Kentucky","Mecklenburg County,Virginia",27083,729803
+259,"Montgomery County,Kentucky","Middlesex County,Virginia",28055,831395
+260,"Montgomery County,Kentucky","Montgomery County,Virginia",16289,457934
+261,"Montgomery County,Kentucky","Nelson County,Virginia",21383,594806
+262,"Montgomery County,Kentucky","New Kent County,Virginia",26956,795691
+263,"Montgomery County,Kentucky","Northampton County,Virginia",31937,938441
+264,"Montgomery County,Kentucky","Northumberland County,Virginia",29697,848881
+265,"Montgomery County,Kentucky","Nottoway County,Virginia",25585,717058
+266,"Montgomery County,Kentucky","Orange County,Virginia",24045,689111
+267,"Montgomery County,Kentucky","Page County,Virginia",22690,664236
+268,"Montgomery County,Kentucky","Patrick County,Virginia",18826,532842
+269,"Montgomery County,Kentucky","Pittsylvania County,Virginia",22910,628735
+270,"Montgomery County,Kentucky","Powhatan County,Virginia",24679,723130
+271,"Montgomery County,Kentucky","Prince Edward County,Virginia",24199,674394
+272,"Montgomery County,Kentucky","Prince George County,Virginia",26930,795805
+273,"Montgomery County,Kentucky","Prince William County,Virginia",25562,769539
+274,"Montgomery County,Kentucky","Pulaski County,Virginia",16384,454265
+275,"Montgomery County,Kentucky","Rappahannock County,Virginia",24521,700723
+276,"Montgomery County,Kentucky","Richmond County,Virginia",28397,821524
+277,"Montgomery County,Kentucky","Roanoke County,Virginia",17908,500727
+278,"Montgomery County,Kentucky","Rockbridge County,Virginia",17846,520505
+279,"Montgomery County,Kentucky","Rockingham County,Virginia",21729,636586
+280,"Montgomery County,Kentucky","Russell County,Virginia",13980,288537
+281,"Montgomery County,Kentucky","Scott County,Virginia",13278,302878
+282,"Montgomery County,Kentucky","Shenandoah County,Virginia",22234,666690
+283,"Montgomery County,Kentucky","Smyth County,Virginia",16089,371025
+284,"Montgomery County,Kentucky","Southampton County,Virginia",28961,854087
+285,"Montgomery County,Kentucky","Spotsylvania County,Virginia",25099,722842
+286,"Montgomery County,Kentucky","Stafford County,Virginia",26480,747135
+287,"Montgomery County,Kentucky","Surry County,Virginia",28263,820639
+288,"Montgomery County,Kentucky","Sussex County,Virginia",27624,824330
+289,"Montgomery County,Kentucky","Tazewell County,Virginia",14693,326763
+290,"Montgomery County,Kentucky","Warren County,Virginia",24136,711282
+291,"Montgomery County,Kentucky","Washington County,Virginia",14200,322142
+292,"Montgomery County,Kentucky","Westmoreland County,Virginia",28270,828783
+293,"Montgomery County,Kentucky","Wise County,Virginia",10067,231323
+294,"Montgomery County,Kentucky","Wythe County,Virginia",15080,436586
+295,"Montgomery County,Kentucky","York County,Virginia",28807,852552
+296,"Montgomery County,Kentucky","Alexandria City County,Virginia",27642,828340
+297,"Montgomery County,Kentucky","Bedford City County,Virginia",20266,560671
+298,"Montgomery County,Kentucky","Bristol City County,Virginia",15040,343029
+299,"Montgomery County,Kentucky","Buena Vista City County,Virginia",18200,534483
+300,"Montgomery County,Kentucky","Charlottesville City County,Virginia",21313,630341
+301,"Montgomery County,Kentucky","Chesapeake City County,Virginia",30270,905457
+302,"Montgomery County,Kentucky","Clifton Forge City County,Virginia",16056,472356
+303,"Montgomery County,Kentucky","Colonial Heights City County,Virginia",25979,774682
+304,"Montgomery County,Kentucky","Covington City County,Virginia",15582,455734
+305,"Montgomery County,Kentucky","Danville City County,Virginia",22751,628983
+306,"Montgomery County,Kentucky","Emporia City County,Virginia",28290,844566
+307,"Montgomery County,Kentucky","Fairfax City County,Virginia",26694,795287
+308,"Montgomery County,Kentucky","Falls Church City County,Virginia",26835,805470
+309,"Montgomery County,Kentucky","Franklin City County,Virginia",29508,861942
+310,"Montgomery County,Kentucky","Fredericksburg City County,Virginia",26232,732502
+311,"Montgomery County,Kentucky","Galax City County,Virginia",17344,493672
+312,"Montgomery County,Kentucky","Hampton City County,Virginia",28757,862258
+313,"Montgomery County,Kentucky","Harrisonburg City County,Virginia",20789,616482
+314,"Montgomery County,Kentucky","Hopewell City County,Virginia",26016,773648
+315,"Montgomery County,Kentucky","Lexington City County,Virginia",17835,522974
+316,"Montgomery County,Kentucky","Lynchburg City County,Virginia",21418,598088
+317,"Montgomery County,Kentucky","Manassas City County,Virginia",25789,774484
+318,"Montgomery County,Kentucky","Manassas Park City County,Virginia",26291,780827
+319,"Montgomery County,Kentucky","Martinsville City County,Virginia",21121,583320
+320,"Montgomery County,Kentucky","Newport News City County,Virginia",28314,848744
+321,"Montgomery County,Kentucky","Norfolk City County,Virginia",30064,887674
+322,"Montgomery County,Kentucky","Norton City County,Virginia",10696,243135
+323,"Montgomery County,Kentucky","Petersburg City County,Virginia",25851,775670
+324,"Montgomery County,Kentucky","Poquoson City County,Virginia",28986,859320
+325,"Montgomery County,Kentucky","Portsmouth City County,Virginia",30003,896495
+326,"Montgomery County,Kentucky","Radford County,Virginia",16696,455974
+327,"Montgomery County,Kentucky","Richmond City County,Virginia",24719,739785
+328,"Montgomery County,Kentucky","Roanoke City County,Virginia",18510,520832
+329,"Montgomery County,Kentucky","Salem City County,Virginia",17922,507382
+330,"Montgomery County,Kentucky","South Boston City County,Virginia",24763,683161
+331,"Montgomery County,Kentucky","Staunton City County,Virginia",19606,577617
+332,"Montgomery County,Kentucky","Suffolk City County,Virginia",30238,871276
+333,"Montgomery County,Kentucky","Virginia Beach City County,Virginia",30624,910932
+334,"Montgomery County,Kentucky","Waynesboro City County,Virginia",19944,590336
+335,"Montgomery County,Kentucky","Williamsburg City County,Virginia",27358,820993
+336,"Montgomery County,Kentucky","Winchester City County,Virginia",24168,690319
+337,"Montgomery County,Kentucky","Barbour County,West Virginia",15649,451016
+338,"Montgomery County,Kentucky","Berkeley County,West Virginia",23582,689175
+339,"Montgomery County,Kentucky","Boone County,West Virginia",10827,284633
+340,"Montgomery County,Kentucky","Braxton County,West Virginia",12339,341995
+341,"Montgomery County,Kentucky","Brooke County,West Virginia",18766,545596
+342,"Montgomery County,Kentucky","Cabell County,West Virginia",5399,151141
+343,"Montgomery County,Kentucky","Calhoun County,West Virginia",12260,339680
+344,"Montgomery County,Kentucky","Clay County,West Virginia",11105,312908
+345,"Montgomery County,Kentucky","Doddridge County,West Virginia",14792,432525
+346,"Montgomery County,Kentucky","Fayette County,West Virginia",12393,331252
+347,"Montgomery County,Kentucky","Gilmer County,West Virginia",13537,364182
+348,"Montgomery County,Kentucky","Grant County,West Virginia",20004,552561
+349,"Montgomery County,Kentucky","Greenbrier County,West Virginia",15467,409290
+350,"Montgomery County,Kentucky","Hampshire County,West Virginia",22836,650779
+351,"Montgomery County,Kentucky","Hancock County,West Virginia",20355,580132
+352,"Montgomery County,Kentucky","Hardy County,West Virginia",21059,584058
+353,"Montgomery County,Kentucky","Harrison County,West Virginia",14882,437386
+354,"Montgomery County,Kentucky","Jackson County,West Virginia",10144,294011
+355,"Montgomery County,Kentucky","Jefferson County,West Virginia",25047,745173
+356,"Montgomery County,Kentucky","Kanawha County,West Virginia",9701,265316
+357,"Montgomery County,Kentucky","Lewis County,West Virginia",13512,390857
+358,"Montgomery County,Kentucky","Lincoln County,West Virginia",8616,208792
+359,"Montgomery County,Kentucky","Logan County,West Virginia",11146,281120
+360,"Montgomery County,Kentucky","McDowell County,West Virginia",15303,313440
+361,"Montgomery County,Kentucky","Marion County,West Virginia",16028,464554
+362,"Montgomery County,Kentucky","Marshall County,West Virginia",18152,481697
+363,"Montgomery County,Kentucky","Mason County,West Virginia",8380,241886
+364,"Montgomery County,Kentucky","Mercer County,West Virginia",13028,376875
+365,"Montgomery County,Kentucky","Mineral County,West Virginia",21698,581382
+366,"Montgomery County,Kentucky","Mingo County,West Virginia",9830,247572
+367,"Montgomery County,Kentucky","Monongalia County,West Virginia",16238,490022
+368,"Montgomery County,Kentucky","Monroe County,West Virginia",16074,421587
+369,"Montgomery County,Kentucky","Morgan County,West Virginia",23073,678567
+370,"Montgomery County,Kentucky","Nicholas County,West Virginia",12822,372788
+371,"Montgomery County,Kentucky","Ohio County,West Virginia",17784,526834
+372,"Montgomery County,Kentucky","Pendleton County,West Virginia",20335,555185
+373,"Montgomery County,Kentucky","Pleasants County,West Virginia",13626,391863
+374,"Montgomery County,Kentucky","Pocahontas County,West Virginia",18151,442327
+375,"Montgomery County,Kentucky","Preston County,West Virginia",18384,516753
+376,"Montgomery County,Kentucky","Putnam County,West Virginia",7082,203919
+377,"Montgomery County,Kentucky","Raleigh County,West Virginia",11569,330568
+378,"Montgomery County,Kentucky","Randolph County,West Virginia",16013,453311
+379,"Montgomery County,Kentucky","Ritchie County,West Virginia",13957,405567
+380,"Montgomery County,Kentucky","Roane County,West Virginia",11769,322827
+381,"Montgomery County,Kentucky","Summers County,West Virginia",15022,392006
+382,"Montgomery County,Kentucky","Taylor County,West Virginia",15920,460126
+383,"Montgomery County,Kentucky","Tucker County,West Virginia",17080,483836
+384,"Montgomery County,Kentucky","Tyler County,West Virginia",15535,431478
+385,"Montgomery County,Kentucky","Upshur County,West Virginia",15076,405554
+386,"Montgomery County,Kentucky","Wayne County,West Virginia",6930,172337
+387,"Montgomery County,Kentucky","Webster County,West Virginia",15006,399868
+388,"Montgomery County,Kentucky","Wetzel County,West Virginia",16748,453385
+389,"Montgomery County,Kentucky","Wirt County,West Virginia",12410,351349
+390,"Montgomery County,Kentucky","Wood County,West Virginia",11925,353039
+391,"Montgomery County,Kentucky","Wyoming County,West Virginia",13514,370510

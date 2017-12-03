@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Russell County,Kentucky","Adair County,Kentucky",1497,27205
+1,"Russell County,Kentucky","Allen County,Kentucky",4885,129102
+2,"Russell County,Kentucky","Anderson County,Kentucky",6581,143213
+3,"Russell County,Kentucky","Ballard County,Kentucky",14698,431778
+4,"Russell County,Kentucky","Barren County,Kentucky",3434,92487
+5,"Russell County,Kentucky","Bath County,Kentucky",8490,216918
+6,"Russell County,Kentucky","Bell County,Kentucky",8037,184746
+7,"Russell County,Kentucky","Boone County,Kentucky",10836,295387
+8,"Russell County,Kentucky","Bourbon County,Kentucky",8037,207087
+9,"Russell County,Kentucky","Boyd County,Kentucky",11748,318374
+10,"Russell County,Kentucky","Boyle County,Kentucky",4358,90118
+11,"Russell County,Kentucky","Bracken County,Kentucky",11423,281614
+12,"Russell County,Kentucky","Breathitt County,Kentucky",9872,240427
+13,"Russell County,Kentucky","Breckinridge County,Kentucky",8734,195529
+14,"Russell County,Kentucky","Bullitt County,Kentucky",6821,165467
+15,"Russell County,Kentucky","Butler County,Kentucky",6473,188961
+16,"Russell County,Kentucky","Caldwell County,Kentucky",10809,322631
+17,"Russell County,Kentucky","Calloway County,Kentucky",12878,347613
+18,"Russell County,Kentucky","Campbell County,Kentucky",11368,292201
+19,"Russell County,Kentucky","Carlisle County,Kentucky",15155,447146
+20,"Russell County,Kentucky","Carroll County,Kentucky",10471,275833
+21,"Russell County,Kentucky","Carter County,Kentucky",10884,287631
+22,"Russell County,Kentucky","Casey County,Kentucky",2499,48868
+23,"Russell County,Kentucky","Christian County,Kentucky",9165,255100
+24,"Russell County,Kentucky","Clay County,Kentucky",6201,143775
+25,"Russell County,Kentucky","Clinton County,Kentucky",2279,43911
+26,"Russell County,Kentucky","Crittenden County,Kentucky",12389,355702
+27,"Russell County,Kentucky","Cumberland County,Kentucky",2764,54946
+28,"Russell County,Kentucky","Daviess County,Kentucky",8907,262754
+29,"Russell County,Kentucky","Edmonson County,Kentucky",4963,136648
+30,"Russell County,Kentucky","Elliott County,Kentucky",11660,278893
+31,"Russell County,Kentucky","Estill County,Kentucky",6968,167741
+32,"Russell County,Kentucky","Fayette County,Kentucky",6935,181172
+33,"Russell County,Kentucky","Fleming County,Kentucky",9919,247137
+34,"Russell County,Kentucky","Floyd County,Kentucky",10220,254939
+35,"Russell County,Kentucky","Franklin County,Kentucky",7759,164680
+36,"Russell County,Kentucky","Fulton County,Kentucky",15559,468111
+37,"Russell County,Kentucky","Gallatin County,Kentucky",10677,231600
+38,"Russell County,Kentucky","Garrard County,Kentucky",4810,113059
+39,"Russell County,Kentucky","Grant County,Kentucky",9470,256260
+40,"Russell County,Kentucky","Graves County,Kentucky",14179,419853
+41,"Russell County,Kentucky","Grayson County,Kentucky",7258,184892
+42,"Russell County,Kentucky","Green County,Kentucky",3412,67967
+43,"Russell County,Kentucky","Greenup County,Kentucky",12353,314961
+44,"Russell County,Kentucky","Hancock County,Kentucky",9955,230165
+45,"Russell County,Kentucky","Hardin County,Kentucky",6352,143881
+46,"Russell County,Kentucky","Harlan County,Kentucky",10331,240352
+47,"Russell County,Kentucky","Harrison County,Kentucky",8986,235721
+48,"Russell County,Kentucky","Hart County,Kentucky",4791,121902
+49,"Russell County,Kentucky","Henderson County,Kentucky",10815,319174
+50,"Russell County,Kentucky","Henry County,Kentucky",9161,195949
+51,"Russell County,Kentucky","Hickman County,Kentucky",15188,448438
+52,"Russell County,Kentucky","Hopkins County,Kentucky",10268,297100
+53,"Russell County,Kentucky","Jackson County,Kentucky",5932,138127
+54,"Russell County,Kentucky","Jefferson County,Kentucky",8078,196972
+55,"Russell County,Kentucky","Jessamine County,Kentucky",6133,127022
+56,"Russell County,Kentucky","Johnson County,Kentucky",11782,295209
+57,"Russell County,Kentucky","Kenton County,Kentucky",10723,291103
+58,"Russell County,Kentucky","Knott County,Kentucky",9003,224480
+59,"Russell County,Kentucky","Knox County,Kentucky",6269,137656
+60,"Russell County,Kentucky","Larue County,Kentucky",4894,99941
+61,"Russell County,Kentucky","Laurel County,Kentucky",5011,108527
+62,"Russell County,Kentucky","Lawrence County,Kentucky",13556,328897
+63,"Russell County,Kentucky","Lee County,Kentucky",7937,176508
+64,"Russell County,Kentucky","Leslie County,Kentucky",8151,194898
+65,"Russell County,Kentucky","Letcher County,Kentucky",10174,246485
+66,"Russell County,Kentucky","Lewis County,Kentucky",11443,285277
+67,"Russell County,Kentucky","Lincoln County,Kentucky",3635,91363
+68,"Russell County,Kentucky","Livingston County,Kentucky",12985,372598
+69,"Russell County,Kentucky","Logan County,Kentucky",6836,194380
+70,"Russell County,Kentucky","Lyon County,Kentucky",13125,346867
+71,"Russell County,Kentucky","McCracken County,Kentucky",13310,399838
+72,"Russell County,Kentucky","McCreary County,Kentucky",4320,101432
+73,"Russell County,Kentucky","Madison County,Kentucky",5525,136517
+74,"Russell County,Kentucky","Magoffin County,Kentucky",11458,259846
+75,"Russell County,Kentucky","Marion County,Kentucky",4575,98053
+76,"Russell County,Kentucky","Marshall County,Kentucky",12724,383410
+77,"Russell County,Kentucky","Martin County,Kentucky",13311,321211
+78,"Russell County,Kentucky","Mason County,Kentucky",11167,278653
+79,"Russell County,Kentucky","Meade County,Kentucky",7881,173581
+80,"Russell County,Kentucky","Menifee County,Kentucky",9764,229456
+81,"Russell County,Kentucky","Mercer County,Kentucky",5358,115050
+82,"Russell County,Kentucky","Metcalfe County,Kentucky",2345,63725
+83,"Russell County,Kentucky","Monroe County,Kentucky",4315,101229
+84,"Russell County,Kentucky","Montgomery County,Kentucky",8408,207365
+85,"Russell County,Kentucky","Morgan County,Kentucky",10848,248130
+86,"Russell County,Kentucky","Muhlenberg County,Kentucky",8592,237600
+87,"Russell County,Kentucky","Nelson County,Kentucky",5986,122083
+88,"Russell County,Kentucky","Nicholas County,Kentucky",9294,234469
+89,"Russell County,Kentucky","Ohio County,Kentucky",8008,230791
+90,"Russell County,Kentucky","Oldham County,Kentucky",8871,223881
+91,"Russell County,Kentucky","Owen County,Kentucky",9101,196854
+92,"Russell County,Kentucky","Owsley County,Kentucky",7230,159629
+93,"Russell County,Kentucky","Pendleton County,Kentucky",10546,272849
+94,"Russell County,Kentucky","Perry County,Kentucky",8386,203600
+95,"Russell County,Kentucky","Pike County,Kentucky",12780,307939
+96,"Russell County,Kentucky","Powell County,Kentucky",8533,202463
+97,"Russell County,Kentucky","Robertson County,Kentucky",10064,255595
+98,"Russell County,Kentucky","Rockcastle County,Kentucky",4496,100268
+99,"Russell County,Kentucky","Rowan County,Kentucky",9231,240770
+100,"Russell County,Kentucky","Scott County,Kentucky",7770,209199
+101,"Russell County,Kentucky","Shelby County,Kentucky",8047,180947
+102,"Russell County,Kentucky","Simpson County,Kentucky",6426,183253
+103,"Russell County,Kentucky","Spencer County,Kentucky",7054,150965
+104,"Russell County,Kentucky","Taylor County,Kentucky",2982,57670
+105,"Russell County,Kentucky","Todd County,Kentucky",8012,224435
+106,"Russell County,Kentucky","Trigg County,Kentucky",10700,285720
+107,"Russell County,Kentucky","Trimble County,Kentucky",10468,221596
+108,"Russell County,Kentucky","Union County,Kentucky",12558,356275
+109,"Russell County,Kentucky","Warren County,Kentucky",5460,148202
+110,"Russell County,Kentucky","Washington County,Kentucky",5789,120301
+111,"Russell County,Kentucky","Wayne County,Kentucky",3680,74111
+112,"Russell County,Kentucky","Webster County,Kentucky",11377,325188
+113,"Russell County,Kentucky","Whitley County,Kentucky",5653,133510
+114,"Russell County,Kentucky","Wolfe County,Kentucky",9723,214951
+115,"Russell County,Kentucky","Woodford County,Kentucky",6723,148803
+116,"Russell County,Kentucky","Adams County,Ohio",13596,325386
+117,"Russell County,Kentucky","Allen County,Ohio",18142,516996
+118,"Russell County,Kentucky","Ashland County,Ohio",21331,618874
+119,"Russell County,Kentucky","Ashtabula County,Ohio",27077,803626
+120,"Russell County,Kentucky","Athens County,Ohio",18075,476394
+121,"Russell County,Kentucky","Auglaize County,Ohio",17399,504261
+122,"Russell County,Kentucky","Belmont County,Ohio",22669,665306
+123,"Russell County,Kentucky","Brown County,Ohio",12582,313632
+124,"Russell County,Kentucky","Butler County,Ohio",13220,366870
+125,"Russell County,Kentucky","Carroll County,Ohio",24634,702530
+126,"Russell County,Kentucky","Champaign County,Ohio",16177,458443
+127,"Russell County,Kentucky","Clark County,Ohio",15605,445076
+128,"Russell County,Kentucky","Clermont County,Ohio",11971,338049
+129,"Russell County,Kentucky","Clinton County,Ohio",14065,389355
+130,"Russell County,Kentucky","Columbiana County,Ohio",26190,738119
+131,"Russell County,Kentucky","Coshocton County,Ohio",21192,597947
+132,"Russell County,Kentucky","Crawford County,Ohio",20869,610847
+133,"Russell County,Kentucky","Cuyahoga County,Ohio",23649,701339
+134,"Russell County,Kentucky","Darke County,Ohio",16496,461308
+135,"Russell County,Kentucky","Defiance County,Ohio",21630,595427
+136,"Russell County,Kentucky","Delaware County,Ohio",18248,525546
+137,"Russell County,Kentucky","Fairfield County,Ohio",17652,508795
+138,"Russell County,Kentucky","Fayette County,Ohio",14964,426960
+139,"Russell County,Kentucky","Franklin County,Ohio",16766,485474
+140,"Russell County,Kentucky","Fulton County,Ohio",22393,612370
+141,"Russell County,Kentucky","Gallia County,Ohio",16033,418746
+142,"Russell County,Kentucky","Geauga County,Ohio",25178,740558
+143,"Russell County,Kentucky","Greene County,Ohio",14392,398709
+144,"Russell County,Kentucky","Guernsey County,Ohio",20398,598987
+145,"Russell County,Kentucky","Hamilton County,Ohio",11875,331355
+146,"Russell County,Kentucky","Hancock County,Ohio",19252,557892
+147,"Russell County,Kentucky","Hardin County,Ohio",19039,542289
+148,"Russell County,Kentucky","Harrison County,Ohio",23639,684595
+149,"Russell County,Kentucky","Henry County,Ohio",20976,582360
+150,"Russell County,Kentucky","Highland County,Ohio",14729,358835
+151,"Russell County,Kentucky","Hocking County,Ohio",19089,552200
+152,"Russell County,Kentucky","Holmes County,Ohio",22743,634805
+153,"Russell County,Kentucky","Huron County,Ohio",22478,617645
+154,"Russell County,Kentucky","Jackson County,Ohio",15583,401941
+155,"Russell County,Kentucky","Jefferson County,Ohio",24632,694373
+156,"Russell County,Kentucky","Knox County,Ohio",20698,585168
+157,"Russell County,Kentucky","Lawrence County,Ohio",14154,354803
+158,"Russell County,Kentucky","Licking County,Ohio",19031,540391
+159,"Russell County,Kentucky","Logan County,Ohio",17411,490980
+160,"Russell County,Kentucky","Lorain County,Ohio",24263,676299
+161,"Russell County,Kentucky","Lucas County,Ohio",22577,644412
+162,"Russell County,Kentucky","Madison County,Ohio",16186,462143
+163,"Russell County,Kentucky","Mahoning County,Ohio",26047,755258
+164,"Russell County,Kentucky","Marion County,Ohio",19295,532982
+165,"Russell County,Kentucky","Medina County,Ohio",21976,643887
+166,"Russell County,Kentucky","Meigs County,Ohio",16965,449129
+167,"Russell County,Kentucky","Mercer County,Ohio",18634,531195
+168,"Russell County,Kentucky","Miami County,Ohio",14985,426700
+169,"Russell County,Kentucky","Monroe County,Ohio",22877,628078
+170,"Russell County,Kentucky","Montgomery County,Ohio",14368,404440
+171,"Russell County,Kentucky","Morgan County,Ohio",21029,543418
+172,"Russell County,Kentucky","Morrow County,Ohio",19056,548367
+173,"Russell County,Kentucky","Muskingum County,Ohio",19249,565143
+174,"Russell County,Kentucky","Noble County,Ohio",21383,611238
+175,"Russell County,Kentucky","Paulding County,Ohio",20673,579974
+176,"Russell County,Kentucky","Perry County,Ohio",19318,553727
+177,"Russell County,Kentucky","Pickaway County,Ohio",16901,475556
+178,"Russell County,Kentucky","Pike County,Ohio",15125,371368
+179,"Russell County,Kentucky","Portage County,Ohio",24499,715037
+180,"Russell County,Kentucky","Preble County,Ohio",15265,411270
+181,"Russell County,Kentucky","Putnam County,Ohio",19317,549464
+182,"Russell County,Kentucky","Richland County,Ohio",20086,583606
+183,"Russell County,Kentucky","Ross County,Ohio",16544,474873
+184,"Russell County,Kentucky","Sandusky County,Ohio",22292,637968
+185,"Russell County,Kentucky","Scioto County,Ohio",14434,353493
+186,"Russell County,Kentucky","Seneca County,Ohio",21596,614231
+187,"Russell County,Kentucky","Shelby County,Ohio",16023,462986
+188,"Russell County,Kentucky","Stark County,Ohio",24244,699420
+189,"Russell County,Kentucky","Summit County,Ohio",23180,679215
+190,"Russell County,Kentucky","Trumbull County,Ohio",26080,765529
+191,"Russell County,Kentucky","Tuscarawas County,Ohio",22693,658352
+192,"Russell County,Kentucky","Union County,Ohio",17538,488364
+193,"Russell County,Kentucky","Van Wert County,Ohio",19307,549520
+194,"Russell County,Kentucky","Vinton County,Ohio",18155,446043
+195,"Russell County,Kentucky","Warren County,Ohio",12754,357611
+196,"Russell County,Kentucky","Washington County,Ohio",20002,521079
+197,"Russell County,Kentucky","Wayne County,Ohio",21704,632885
+198,"Russell County,Kentucky","Williams County,Ohio",22807,618943
+199,"Russell County,Kentucky","Wood County,Ohio",20340,598520
+200,"Russell County,Kentucky","Wyandot County,Ohio",19947,578772
+201,"Russell County,Kentucky","Accomack County,Virginia",41833,1192243
+202,"Russell County,Kentucky","Albemarle County,Virginia",27983,804742
+203,"Russell County,Kentucky","Alleghany County,Virginia",22652,641765
+204,"Russell County,Kentucky","Amelia County,Virginia",30927,784372
+205,"Russell County,Kentucky","Amherst County,Virginia",27829,690431
+206,"Russell County,Kentucky","Appomattox County,Virginia",28004,704041
+207,"Russell County,Kentucky","Arlington County,Virginia",34266,1000774
+208,"Russell County,Kentucky","Augusta County,Virginia",26593,743082
+209,"Russell County,Kentucky","Bath County,Virginia",25663,717075
+210,"Russell County,Kentucky","Bedford County,Virginia",25737,635351
+211,"Russell County,Kentucky","Bland County,Virginia",19753,484953
+212,"Russell County,Kentucky","Botetourt County,Virginia",24593,619416
+213,"Russell County,Kentucky","Brunswick County,Virginia",32358,899530
+214,"Russell County,Kentucky","Buchanan County,Virginia",16307,355756
+215,"Russell County,Kentucky","Buckingham County,Virginia",29118,727951
+216,"Russell County,Kentucky","Campbell County,Virginia",27153,676586
+217,"Russell County,Kentucky","Caroline County,Virginia",33322,973588
+218,"Russell County,Kentucky","Carroll County,Virginia",20697,516298
+219,"Russell County,Kentucky","Charles City County,Virginia",33422,970622
+220,"Russell County,Kentucky","Charlotte County,Virginia",29702,744523
+221,"Russell County,Kentucky","Chesterfield County,Virginia",32621,823262
+222,"Russell County,Kentucky","Clarke County,Virginia",32162,931800
+223,"Russell County,Kentucky","Craig County,Virginia",23992,596984
+224,"Russell County,Kentucky","Culpeper County,Virginia",31780,893959
+225,"Russell County,Kentucky","Cumberland County,Virginia",30532,765182
+226,"Russell County,Kentucky","Dickenson County,Virginia",13733,313431
+227,"Russell County,Kentucky","Dinwiddie County,Virginia",32700,827433
+228,"Russell County,Kentucky","Essex County,Virginia",35139,997630
+229,"Russell County,Kentucky","Fairfax County,Virginia",33956,991441
+230,"Russell County,Kentucky","Fauquier County,Virginia",32601,953052
+231,"Russell County,Kentucky","Floyd County,Virginia",22589,556398
+232,"Russell County,Kentucky","Fluvanna County,Virginia",29661,856914
+233,"Russell County,Kentucky","Franklin County,Virginia",25250,636585
+234,"Russell County,Kentucky","Frederick County,Virginia",30828,845934
+235,"Russell County,Kentucky","Giles County,Virginia",22214,528594
+236,"Russell County,Kentucky","Gloucester County,Virginia",35593,1024811
+237,"Russell County,Kentucky","Goochland County,Virginia",30564,887525
+238,"Russell County,Kentucky","Grayson County,Virginia",20429,479465
+239,"Russell County,Kentucky","Greene County,Virginia",29975,840326
+240,"Russell County,Kentucky","Greensville County,Virginia",33555,916949
+241,"Russell County,Kentucky","Halifax County,Virginia",29000,713985
+242,"Russell County,Kentucky","Hanover County,Virginia",31770,928632
+243,"Russell County,Kentucky","Henrico County,Virginia",32282,941591
+244,"Russell County,Kentucky","Henry County,Virginia",24570,603019
+245,"Russell County,Kentucky","Highland County,Virginia",27108,727045
+246,"Russell County,Kentucky","Isle of Wight County,Virginia",36534,1046168
+247,"Russell County,Kentucky","James City County,Virginia",34658,1011393
+248,"Russell County,Kentucky","King and Queen County,Virginia",34316,986977
+249,"Russell County,Kentucky","King George County,Virginia",34435,1001574
+250,"Russell County,Kentucky","King William County,Virginia",33004,956900
+251,"Russell County,Kentucky","Lancaster County,Virginia",36797,1039985
+252,"Russell County,Kentucky","Lee County,Virginia",11129,261305
+253,"Russell County,Kentucky","Loudoun County,Virginia",33658,967667
+254,"Russell County,Kentucky","Louisa County,Virginia",30221,870620
+255,"Russell County,Kentucky","Lunenburg County,Virginia",31474,785807
+256,"Russell County,Kentucky","Madison County,Virginia",30895,870067
+257,"Russell County,Kentucky","Mathews County,Virginia",36418,1048234
+258,"Russell County,Kentucky","Mecklenburg County,Virginia",31032,765530
+259,"Russell County,Kentucky","Middlesex County,Virginia",35194,1021011
+260,"Russell County,Kentucky","Montgomery County,Virginia",21763,546903
+261,"Russell County,Kentucky","Nelson County,Virginia",28380,720828
+262,"Russell County,Kentucky","New Kent County,Virginia",34094,985307
+263,"Russell County,Kentucky","Northampton County,Virginia",39076,1128057
+264,"Russell County,Kentucky","Northumberland County,Virginia",36836,1038497
+265,"Russell County,Kentucky","Nottoway County,Virginia",30967,786186
+266,"Russell County,Kentucky","Orange County,Virginia",31184,878727
+267,"Russell County,Kentucky","Page County,Virginia",29829,853852
+268,"Russell County,Kentucky","Patrick County,Virginia",22802,561334
+269,"Russell County,Kentucky","Pittsylvania County,Virginia",26886,657227
+270,"Russell County,Kentucky","Powhatan County,Virginia",32029,799889
+271,"Russell County,Kentucky","Prince Edward County,Virginia",29582,743522
+272,"Russell County,Kentucky","Prince George County,Virginia",34069,985422
+273,"Russell County,Kentucky","Prince William County,Virginia",32700,959155
+274,"Russell County,Kentucky","Pulaski County,Virginia",20439,507718
+275,"Russell County,Kentucky","Rappahannock County,Virginia",31660,890339
+276,"Russell County,Kentucky","Richmond County,Virginia",35536,1011141
+277,"Russell County,Kentucky","Roanoke County,Virginia",22543,566839
+278,"Russell County,Kentucky","Rockbridge County,Virginia",24985,710122
+279,"Russell County,Kentucky","Rockingham County,Virginia",28868,826202
+280,"Russell County,Kentucky","Russell County,Virginia",16266,366253
+281,"Russell County,Kentucky","Scott County,Virginia",13448,309146
+282,"Russell County,Kentucky","Shenandoah County,Virginia",29373,856306
+283,"Russell County,Kentucky","Smyth County,Virginia",17709,419168
+284,"Russell County,Kentucky","Southampton County,Virginia",35171,974472
+285,"Russell County,Kentucky","Spotsylvania County,Virginia",32238,912458
+286,"Russell County,Kentucky","Stafford County,Virginia",33619,936751
+287,"Russell County,Kentucky","Surry County,Virginia",35402,1010255
+288,"Russell County,Kentucky","Sussex County,Virginia",34455,965251
+289,"Russell County,Kentucky","Tazewell County,Virginia",17754,419163
+290,"Russell County,Kentucky","Warren County,Virginia",31275,900899
+291,"Russell County,Kentucky","Washington County,Virginia",16131,380149
+292,"Russell County,Kentucky","Westmoreland County,Virginia",35409,1018399
+293,"Russell County,Kentucky","Wise County,Virginia",11998,289330
+294,"Russell County,Kentucky","Wythe County,Virginia",18923,461628
+295,"Russell County,Kentucky","York County,Virginia",35946,1042168
+296,"Russell County,Kentucky","Alexandria City County,Virginia",34781,1017956
+297,"Russell County,Kentucky","Bedford City County,Virginia",24901,626783
+298,"Russell County,Kentucky","Bristol City County,Virginia",15402,350473
+299,"Russell County,Kentucky","Buena Vista City County,Virginia",25413,655974
+300,"Russell County,Kentucky","Charlottesville City County,Virginia",28452,819957
+301,"Russell County,Kentucky","Chesapeake City County,Virginia",37409,1095073
+302,"Russell County,Kentucky","Clifton Forge City County,Virginia",23195,661972
+303,"Russell County,Kentucky","Colonial Heights City County,Virginia",33118,964299
+304,"Russell County,Kentucky","Covington City County,Virginia",22721,645351
+305,"Russell County,Kentucky","Danville City County,Virginia",26728,657475
+306,"Russell County,Kentucky","Emporia City County,Virginia",33711,931137
+307,"Russell County,Kentucky","Fairfax City County,Virginia",33833,984903
+308,"Russell County,Kentucky","Falls Church City County,Virginia",33974,995086
+309,"Russell County,Kentucky","Franklin City County,Virginia",35797,987607
+310,"Russell County,Kentucky","Fredericksburg City County,Virginia",33371,922118
+311,"Russell County,Kentucky","Galax City County,Virginia",21320,522164
+312,"Russell County,Kentucky","Hampton City County,Virginia",35896,1051874
+313,"Russell County,Kentucky","Harrisonburg City County,Virginia",27927,806099
+314,"Russell County,Kentucky","Hopewell City County,Virginia",33155,963265
+315,"Russell County,Kentucky","Lexington City County,Virginia",24973,712590
+316,"Russell County,Kentucky","Lynchburg City County,Virginia",26926,671658
+317,"Russell County,Kentucky","Manassas City County,Virginia",32928,964100
+318,"Russell County,Kentucky","Manassas Park City County,Virginia",33430,970443
+319,"Russell County,Kentucky","Martinsville City County,Virginia",25098,611812
+320,"Russell County,Kentucky","Newport News City County,Virginia",35453,1038360
+321,"Russell County,Kentucky","Norfolk City County,Virginia",37203,1077290
+322,"Russell County,Kentucky","Norton City County,Virginia",12627,301142
+323,"Russell County,Kentucky","Petersburg City County,Virginia",32990,965286
+324,"Russell County,Kentucky","Poquoson City County,Virginia",36125,1048936
+325,"Russell County,Kentucky","Portsmouth City County,Virginia",37142,1086111
+326,"Russell County,Kentucky","Radford County,Virginia",20950,521666
+327,"Russell County,Kentucky","Richmond City County,Virginia",31858,929402
+328,"Russell County,Kentucky","Roanoke City County,Virginia",23146,586944
+329,"Russell County,Kentucky","Salem City County,Virginia",22557,573493
+330,"Russell County,Kentucky","South Boston City County,Virginia",28740,711653
+331,"Russell County,Kentucky","Staunton City County,Virginia",26744,767234
+332,"Russell County,Kentucky","Suffolk City County,Virginia",37113,1020909
+333,"Russell County,Kentucky","Virginia Beach City County,Virginia",37763,1100548
+334,"Russell County,Kentucky","Waynesboro City County,Virginia",27082,779952
+335,"Russell County,Kentucky","Williamsburg City County,Virginia",34497,1010609
+336,"Russell County,Kentucky","Winchester City County,Virginia",31307,879936
+337,"Russell County,Kentucky","Barbour County,West Virginia",22787,640632
+338,"Russell County,Kentucky","Berkeley County,West Virginia",30720,878791
+339,"Russell County,Kentucky","Boone County,West Virginia",18191,441593
+340,"Russell County,Kentucky","Braxton County,West Virginia",19478,531611
+341,"Russell County,Kentucky","Brooke County,West Virginia",24748,707554
+342,"Russell County,Kentucky","Cabell County,West Virginia",12538,340758
+343,"Russell County,Kentucky","Calhoun County,West Virginia",19398,529296
+344,"Russell County,Kentucky","Clay County,West Virginia",18244,502524
+345,"Russell County,Kentucky","Doddridge County,West Virginia",21931,622141
+346,"Russell County,Kentucky","Fayette County,West Virginia",19532,520869
+347,"Russell County,Kentucky","Gilmer County,West Virginia",20676,553798
+348,"Russell County,Kentucky","Grant County,West Virginia",27143,742177
+349,"Russell County,Kentucky","Greenbrier County,West Virginia",22606,598907
+350,"Russell County,Kentucky","Hampshire County,West Virginia",29975,840395
+351,"Russell County,Kentucky","Hancock County,West Virginia",26337,742090
+352,"Russell County,Kentucky","Hardy County,West Virginia",28198,773675
+353,"Russell County,Kentucky","Harrison County,West Virginia",22021,627003
+354,"Russell County,Kentucky","Jackson County,West Virginia",17283,483628
+355,"Russell County,Kentucky","Jefferson County,West Virginia",32186,934789
+356,"Russell County,Kentucky","Kanawha County,West Virginia",16840,454932
+357,"Russell County,Kentucky","Lewis County,West Virginia",20650,580473
+358,"Russell County,Kentucky","Lincoln County,West Virginia",15755,398408
+359,"Russell County,Kentucky","Logan County,West Virginia",16296,398229
+360,"Russell County,Kentucky","McDowell County,West Virginia",19644,431310
+361,"Russell County,Kentucky","Marion County,West Virginia",23166,654170
+362,"Russell County,Kentucky","Marshall County,West Virginia",24705,702062
+363,"Russell County,Kentucky","Mason County,West Virginia",15519,431502
+364,"Russell County,Kentucky","Mercer County,West Virginia",20167,566491
+365,"Russell County,Kentucky","Mineral County,West Virginia",28837,770998
+366,"Russell County,Kentucky","Mingo County,West Virginia",14980,364682
+367,"Russell County,Kentucky","Monongalia County,West Virginia",23377,679638
+368,"Russell County,Kentucky","Monroe County,West Virginia",23079,540953
+369,"Russell County,Kentucky","Morgan County,West Virginia",30212,868183
+370,"Russell County,Kentucky","Nicholas County,West Virginia",19961,562405
+371,"Russell County,Kentucky","Ohio County,West Virginia",23767,688792
+372,"Russell County,Kentucky","Pendleton County,West Virginia",27474,744801
+373,"Russell County,Kentucky","Pleasants County,West Virginia",20765,581479
+374,"Russell County,Kentucky","Pocahontas County,West Virginia",25290,631943
+375,"Russell County,Kentucky","Preston County,West Virginia",25523,706369
+376,"Russell County,Kentucky","Putnam County,West Virginia",14221,393535
+377,"Russell County,Kentucky","Raleigh County,West Virginia",18708,520184
+378,"Russell County,Kentucky","Randolph County,West Virginia",23152,642928
+379,"Russell County,Kentucky","Ritchie County,West Virginia",21096,595183
+380,"Russell County,Kentucky","Roane County,West Virginia",18908,512443
+381,"Russell County,Kentucky","Summers County,West Virginia",22161,581622
+382,"Russell County,Kentucky","Taylor County,West Virginia",23059,649742
+383,"Russell County,Kentucky","Tucker County,West Virginia",24219,673452
+384,"Russell County,Kentucky","Tyler County,West Virginia",22674,621095
+385,"Russell County,Kentucky","Upshur County,West Virginia",22215,595170
+386,"Russell County,Kentucky","Wayne County,West Virginia",14069,361953
+387,"Russell County,Kentucky","Webster County,West Virginia",22145,589484
+388,"Russell County,Kentucky","Wetzel County,West Virginia",23886,643001
+389,"Russell County,Kentucky","Wirt County,West Virginia",19549,540965
+390,"Russell County,Kentucky","Wood County,West Virginia",19063,542655
+391,"Russell County,Kentucky","Wyoming County,West Virginia",19266,437168

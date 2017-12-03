@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Clay County,Kentucky","Adair County,Kentucky",6692,160818
+1,"Clay County,Kentucky","Allen County,Kentucky",9889,256460
+2,"Clay County,Kentucky","Anderson County,Kentucky",8143,188071
+3,"Clay County,Kentucky","Ballard County,Kentucky",19701,559136
+4,"Clay County,Kentucky","Barren County,Kentucky",8438,219845
+5,"Clay County,Kentucky","Bath County,Kentucky",7558,150143
+6,"Clay County,Kentucky","Bell County,Kentucky",4082,74534
+7,"Clay County,Kentucky","Boone County,Kentucky",9919,276062
+8,"Clay County,Kentucky","Bourbon County,Kentucky",7120,187762
+9,"Clay County,Kentucky","Boyd County,Kentucky",10196,255157
+10,"Clay County,Kentucky","Boyle County,Kentucky",5920,134976
+11,"Clay County,Kentucky","Bracken County,Kentucky",10505,262289
+12,"Clay County,Kentucky","Breathitt County,Kentucky",5057,92957
+13,"Clay County,Kentucky","Breckinridge County,Kentucky",13161,310380
+14,"Clay County,Kentucky","Bullitt County,Kentucky",10206,234866
+15,"Clay County,Kentucky","Butler County,Kentucky",11477,316319
+16,"Clay County,Kentucky","Caldwell County,Kentucky",15813,449989
+17,"Clay County,Kentucky","Calloway County,Kentucky",17881,474971
+18,"Clay County,Kentucky","Campbell County,Kentucky",10450,272876
+19,"Clay County,Kentucky","Carlisle County,Kentucky",20158,574504
+20,"Clay County,Kentucky","Carroll County,Kentucky",10755,272168
+21,"Clay County,Kentucky","Carter County,Kentucky",10045,204862
+22,"Clay County,Kentucky","Casey County,Kentucky",6630,134092
+23,"Clay County,Kentucky","Christian County,Kentucky",14169,382458
+24,"Clay County,Kentucky","Clinton County,Kentucky",7100,164183
+25,"Clay County,Kentucky","Crittenden County,Kentucky",17393,483060
+26,"Clay County,Kentucky","Cumberland County,Kentucky",7853,182422
+27,"Clay County,Kentucky","Daviess County,Kentucky",13911,390112
+28,"Clay County,Kentucky","Edmonson County,Kentucky",9967,264006
+29,"Clay County,Kentucky","Elliott County,Kentucky",8677,177186
+30,"Clay County,Kentucky","Estill County,Kentucky",5206,91529
+31,"Clay County,Kentucky","Fayette County,Kentucky",6018,161847
+32,"Clay County,Kentucky","Fleming County,Kentucky",9001,227812
+33,"Clay County,Kentucky","Floyd County,Kentucky",5283,127644
+34,"Clay County,Kentucky","Franklin County,Kentucky",8055,210763
+35,"Clay County,Kentucky","Fulton County,Kentucky",20562,595469
+36,"Clay County,Kentucky","Gallatin County,Kentucky",9753,262827
+37,"Clay County,Kentucky","Garrard County,Kentucky",5589,119762
+38,"Clay County,Kentucky","Grant County,Kentucky",8552,236935
+39,"Clay County,Kentucky","Graves County,Kentucky",19183,547211
+40,"Clay County,Kentucky","Grayson County,Kentucky",11902,296600
+41,"Clay County,Kentucky","Green County,Kentucky",8445,202983
+42,"Clay County,Kentucky","Greenup County,Kentucky",11550,244364
+43,"Clay County,Kentucky","Hancock County,Kentucky",14381,345017
+44,"Clay County,Kentucky","Hardin County,Kentucky",10779,258733
+45,"Clay County,Kentucky","Harlan County,Kentucky",6186,122696
+46,"Clay County,Kentucky","Harrison County,Kentucky",8069,216396
+47,"Clay County,Kentucky","Hart County,Kentucky",9795,249260
+48,"Clay County,Kentucky","Henderson County,Kentucky",15818,446532
+49,"Clay County,Kentucky","Henry County,Kentucky",9657,254482
+50,"Clay County,Kentucky","Hickman County,Kentucky",20192,575796
+51,"Clay County,Kentucky","Hopkins County,Kentucky",15272,424458
+52,"Clay County,Kentucky","Jackson County,Kentucky",2697,47634
+53,"Clay County,Kentucky","Jefferson County,Kentucky",9751,270015
+54,"Clay County,Kentucky","Jessamine County,Kentucky",6585,164485
+55,"Clay County,Kentucky","Johnson County,Kentucky",6845,167914
+56,"Clay County,Kentucky","Kenton County,Kentucky",9805,271778
+57,"Clay County,Kentucky","Knott County,Kentucky",4066,97185
+58,"Clay County,Kentucky","Knox County,Kentucky",2520,45060
+59,"Clay County,Kentucky","Larue County,Kentucky",9927,234956
+60,"Clay County,Kentucky","Laurel County,Kentucky",2821,52892
+61,"Clay County,Kentucky","Lawrence County,Kentucky",8620,201601
+62,"Clay County,Kentucky","Lee County,Kentucky",3544,65024
+63,"Clay County,Kentucky","Leslie County,Kentucky",3215,67603
+64,"Clay County,Kentucky","Letcher County,Kentucky",5237,119190
+65,"Clay County,Kentucky","Lewis County,Kentucky",10662,230191
+66,"Clay County,Kentucky","Lincoln County,Kentucky",5150,119343
+67,"Clay County,Kentucky","Livingston County,Kentucky",17988,499956
+68,"Clay County,Kentucky","Logan County,Kentucky",11840,321738
+69,"Clay County,Kentucky","Lyon County,Kentucky",18128,474225
+70,"Clay County,Kentucky","McCracken County,Kentucky",18314,527196
+71,"Clay County,Kentucky","McCreary County,Kentucky",5355,123306
+72,"Clay County,Kentucky","Madison County,Kentucky",4607,117192
+73,"Clay County,Kentucky","Magoffin County,Kentucky",7065,148361
+74,"Clay County,Kentucky","Marion County,Kentucky",7617,173580
+75,"Clay County,Kentucky","Marshall County,Kentucky",17728,510768
+76,"Clay County,Kentucky","Martin County,Kentucky",8374,193916
+77,"Clay County,Kentucky","Mason County,Kentucky",10249,259328
+78,"Clay County,Kentucky","Meade County,Kentucky",12211,342330
+79,"Clay County,Kentucky","Menifee County,Kentucky",6965,126424
+80,"Clay County,Kentucky","Mercer County,Kentucky",6919,159907
+81,"Clay County,Kentucky","Metcalfe County,Kentucky",7348,191083
+82,"Clay County,Kentucky","Monroe County,Kentucky",9318,228587
+83,"Clay County,Kentucky","Montgomery County,Kentucky",6860,138398
+84,"Clay County,Kentucky","Morgan County,Kentucky",6455,136645
+85,"Clay County,Kentucky","Muhlenberg County,Kentucky",13596,364958
+86,"Clay County,Kentucky","Nelson County,Kentucky",8836,206590
+87,"Clay County,Kentucky","Nicholas County,Kentucky",8376,215144
+88,"Clay County,Kentucky","Ohio County,Kentucky",13012,358149
+89,"Clay County,Kentucky","Oldham County,Kentucky",9822,281896
+90,"Clay County,Kentucky","Owen County,Kentucky",8877,237540
+91,"Clay County,Kentucky","Owsley County,Kentucky",2819,43442
+92,"Clay County,Kentucky","Pendleton County,Kentucky",9628,253524
+93,"Clay County,Kentucky","Perry County,Kentucky",3449,76304
+94,"Clay County,Kentucky","Pike County,Kentucky",7844,180644
+95,"Clay County,Kentucky","Powell County,Kentucky",5623,109687
+96,"Clay County,Kentucky","Robertson County,Kentucky",9147,236270
+97,"Clay County,Kentucky","Rockcastle County,Kentucky",3632,80941
+98,"Clay County,Kentucky","Rowan County,Kentucky",8450,185684
+99,"Clay County,Kentucky","Russell County,Kentucky",6297,144801
+100,"Clay County,Kentucky","Scott County,Kentucky",6852,189874
+101,"Clay County,Kentucky","Shelby County,Kentucky",8679,241150
+102,"Clay County,Kentucky","Simpson County,Kentucky",11429,310611
+103,"Clay County,Kentucky","Spencer County,Kentucky",9209,246998
+104,"Clay County,Kentucky","Taylor County,Kentucky",8046,185077
+105,"Clay County,Kentucky","Todd County,Kentucky",13015,351793
+106,"Clay County,Kentucky","Trigg County,Kentucky",15704,413078
+107,"Clay County,Kentucky","Trimble County,Kentucky",10896,287936
+108,"Clay County,Kentucky","Union County,Kentucky",17562,483633
+109,"Clay County,Kentucky","Warren County,Kentucky",10464,275560
+110,"Clay County,Kentucky","Washington County,Kentucky",7906,181439
+111,"Clay County,Kentucky","Wayne County,Kentucky",6473,141874
+112,"Clay County,Kentucky","Webster County,Kentucky",16381,452546
+113,"Clay County,Kentucky","Whitley County,Kentucky",3720,87392
+114,"Clay County,Kentucky","Wolfe County,Kentucky",5330,103467
+115,"Clay County,Kentucky","Woodford County,Kentucky",7072,192510
+116,"Clay County,Kentucky","Adams County,Ohio",12679,306061
+117,"Clay County,Kentucky","Allen County,Ohio",17225,497671
+118,"Clay County,Kentucky","Ashland County,Ohio",20414,599549
+119,"Clay County,Kentucky","Ashtabula County,Ohio",26160,784301
+120,"Clay County,Kentucky","Athens County,Ohio",15994,396470
+121,"Clay County,Kentucky","Auglaize County,Ohio",16481,484936
+122,"Clay County,Kentucky","Belmont County,Ohio",21752,645981
+123,"Clay County,Kentucky","Brown County,Ohio",11664,294307
+124,"Clay County,Kentucky","Butler County,Ohio",12303,347545
+125,"Clay County,Kentucky","Carroll County,Ohio",23674,649927
+126,"Clay County,Kentucky","Champaign County,Ohio",15259,439118
+127,"Clay County,Kentucky","Clark County,Ohio",14687,425751
+128,"Clay County,Kentucky","Clermont County,Ohio",11053,318724
+129,"Clay County,Kentucky","Clinton County,Ohio",13148,370030
+130,"Clay County,Kentucky","Columbiana County,Ohio",25272,718794
+131,"Clay County,Kentucky","Coshocton County,Ohio",20275,578622
+132,"Clay County,Kentucky","Crawford County,Ohio",19951,591522
+133,"Clay County,Kentucky","Cuyahoga County,Ohio",22732,682014
+134,"Clay County,Kentucky","Darke County,Ohio",15579,441983
+135,"Clay County,Kentucky","Defiance County,Ohio",20712,576101
+136,"Clay County,Kentucky","Delaware County,Ohio",17331,506221
+137,"Clay County,Kentucky","Fairfield County,Ohio",16734,489470
+138,"Clay County,Kentucky","Fayette County,Ohio",14046,407635
+139,"Clay County,Kentucky","Franklin County,Ohio",15848,466149
+140,"Clay County,Kentucky","Fulton County,Ohio",21476,593045
+141,"Clay County,Kentucky","Gallia County,Ohio",13952,338823
+142,"Clay County,Kentucky","Geauga County,Ohio",24260,721233
+143,"Clay County,Kentucky","Greene County,Ohio",13475,379384
+144,"Clay County,Kentucky","Guernsey County,Ohio",19481,579662
+145,"Clay County,Kentucky","Hamilton County,Ohio",10957,312030
+146,"Clay County,Kentucky","Hancock County,Ohio",18334,538567
+147,"Clay County,Kentucky","Hardin County,Ohio",18121,522964
+148,"Clay County,Kentucky","Harrison County,Ohio",22679,631993
+149,"Clay County,Kentucky","Henry County,Ohio",20058,563035
+150,"Clay County,Kentucky","Highland County,Ohio",13812,339510
+151,"Clay County,Kentucky","Hocking County,Ohio",17692,393878
+152,"Clay County,Kentucky","Holmes County,Ohio",21825,615480
+153,"Clay County,Kentucky","Huron County,Ohio",21560,598320
+154,"Clay County,Kentucky","Jackson County,Ohio",14371,343511
+155,"Clay County,Kentucky","Jefferson County,Ohio",23673,641771
+156,"Clay County,Kentucky","Knox County,Ohio",19781,565843
+157,"Clay County,Kentucky","Lawrence County,Ohio",12175,283426
+158,"Clay County,Kentucky","Licking County,Ohio",18113,521066
+159,"Clay County,Kentucky","Logan County,Ohio",16494,471655
+160,"Clay County,Kentucky","Lorain County,Ohio",23346,656974
+161,"Clay County,Kentucky","Lucas County,Ohio",21659,625087
+162,"Clay County,Kentucky","Madison County,Ohio",15268,442818
+163,"Clay County,Kentucky","Mahoning County,Ohio",25129,735933
+164,"Clay County,Kentucky","Marion County,Ohio",18378,513656
+165,"Clay County,Kentucky","Medina County,Ohio",21059,624562
+166,"Clay County,Kentucky","Meigs County,Ohio",14884,369206
+167,"Clay County,Kentucky","Mercer County,Ohio",17717,511870
+168,"Clay County,Kentucky","Miami County,Ohio",14067,407375
+169,"Clay County,Kentucky","Monroe County,Ohio",20796,548155
+170,"Clay County,Kentucky","Montgomery County,Ohio",13450,385115
+171,"Clay County,Kentucky","Morgan County,Ohio",18947,463495
+172,"Clay County,Kentucky","Morrow County,Ohio",18138,529042
+173,"Clay County,Kentucky","Muskingum County,Ohio",18331,545818
+174,"Clay County,Kentucky","Noble County,Ohio",19301,531315
+175,"Clay County,Kentucky","Paulding County,Ohio",19756,560649
+176,"Clay County,Kentucky","Perry County,Ohio",18400,534402
+177,"Clay County,Kentucky","Pickaway County,Ohio",15983,456231
+178,"Clay County,Kentucky","Pike County,Ohio",14343,316283
+179,"Clay County,Kentucky","Portage County,Ohio",23581,695712
+180,"Clay County,Kentucky","Preble County,Ohio",14347,391944
+181,"Clay County,Kentucky","Putnam County,Ohio",18400,530139
+182,"Clay County,Kentucky","Richland County,Ohio",19168,564281
+183,"Clay County,Kentucky","Ross County,Ohio",15627,455548
+184,"Clay County,Kentucky","Sandusky County,Ohio",21374,618643
+185,"Clay County,Kentucky","Scioto County,Ohio",13678,291308
+186,"Clay County,Kentucky","Seneca County,Ohio",20678,594906
+187,"Clay County,Kentucky","Shelby County,Ohio",15106,443661
+188,"Clay County,Kentucky","Stark County,Ohio",23326,680095
+189,"Clay County,Kentucky","Summit County,Ohio",22262,659890
+190,"Clay County,Kentucky","Trumbull County,Ohio",25162,746204
+191,"Clay County,Kentucky","Tuscarawas County,Ohio",21733,605750
+192,"Clay County,Kentucky","Union County,Ohio",16620,469039
+193,"Clay County,Kentucky","Van Wert County,Ohio",18390,530195
+194,"Clay County,Kentucky","Vinton County,Ohio",16631,370289
+195,"Clay County,Kentucky","Warren County,Ohio",11836,338286
+196,"Clay County,Kentucky","Washington County,Ohio",17920,441155
+197,"Clay County,Kentucky","Wayne County,Ohio",20787,613560
+198,"Clay County,Kentucky","Williams County,Ohio",21890,599618
+199,"Clay County,Kentucky","Wood County,Ohio",19422,579195
+200,"Clay County,Kentucky","Wyandot County,Ohio",19030,559447
+201,"Clay County,Kentucky","Accomack County,Virginia",37580,1015586
+202,"Clay County,Kentucky","Albemarle County,Virginia",23730,628085
+203,"Clay County,Kentucky","Alleghany County,Virginia",20570,561842
+204,"Clay County,Kentucky","Amelia County,Virginia",26302,666941
+205,"Clay County,Kentucky","Amherst County,Virginia",23204,573000
+206,"Clay County,Kentucky","Appomattox County,Virginia",23379,586610
+207,"Clay County,Kentucky","Arlington County,Virginia",30414,828395
+208,"Clay County,Kentucky","Augusta County,Virginia",23152,605779
+209,"Clay County,Kentucky","Bath County,Virginia",23440,578358
+210,"Clay County,Kentucky","Bedford County,Virginia",21112,517920
+211,"Clay County,Kentucky","Bland County,Virginia",15128,367521
+212,"Clay County,Kentucky","Botetourt County,Virginia",19968,501985
+213,"Clay County,Kentucky","Brunswick County,Virginia",28273,754035
+214,"Clay County,Kentucky","Buchanan County,Virginia",11370,228460
+215,"Clay County,Kentucky","Buckingham County,Virginia",24493,610519
+216,"Clay County,Kentucky","Campbell County,Virginia",22528,559155
+217,"Clay County,Kentucky","Caroline County,Virginia",29069,796931
+218,"Clay County,Kentucky","Carroll County,Virginia",16072,398866
+219,"Clay County,Kentucky","Charles City County,Virginia",29170,793966
+220,"Clay County,Kentucky","Charlotte County,Virginia",25077,627091
+221,"Clay County,Kentucky","Chesterfield County,Virginia",27996,705831
+222,"Clay County,Kentucky","Clarke County,Virginia",27910,755143
+223,"Clay County,Kentucky","Craig County,Virginia",19227,444606
+224,"Clay County,Kentucky","Culpeper County,Virginia",27527,717302
+225,"Clay County,Kentucky","Cumberland County,Virginia",25907,647751
+226,"Clay County,Kentucky","Dickenson County,Virginia",8797,186136
+227,"Clay County,Kentucky","Dinwiddie County,Virginia",28075,710002
+228,"Clay County,Kentucky","Essex County,Virginia",30887,820974
+229,"Clay County,Kentucky","Fairfax County,Virginia",30037,818671
+230,"Clay County,Kentucky","Fauquier County,Virginia",28348,776395
+231,"Clay County,Kentucky","Floyd County,Virginia",17964,438967
+232,"Clay County,Kentucky","Fluvanna County,Virginia",25408,680257
+233,"Clay County,Kentucky","Franklin County,Virginia",20625,519153
+234,"Clay County,Kentucky","Frederick County,Virginia",27362,742870
+235,"Clay County,Kentucky","Giles County,Virginia",17277,401299
+236,"Clay County,Kentucky","Gloucester County,Virginia",31340,848154
+237,"Clay County,Kentucky","Goochland County,Virginia",26311,710868
+238,"Clay County,Kentucky","Grayson County,Virginia",15805,362034
+239,"Clay County,Kentucky","Greene County,Virginia",25723,663670
+240,"Clay County,Kentucky","Greensville County,Virginia",29469,771454
+241,"Clay County,Kentucky","Halifax County,Virginia",24375,596553
+242,"Clay County,Kentucky","Hanover County,Virginia",27518,751975
+243,"Clay County,Kentucky","Henrico County,Virginia",28029,764935
+244,"Clay County,Kentucky","Henry County,Virginia",19945,485587
+245,"Clay County,Kentucky","Highland County,Virginia",25027,647122
+246,"Clay County,Kentucky","Isle of Wight County,Virginia",32195,810123
+247,"Clay County,Kentucky","James City County,Virginia",30406,834737
+248,"Clay County,Kentucky","King and Queen County,Virginia",30064,810321
+249,"Clay County,Kentucky","King George County,Virginia",30182,824917
+250,"Clay County,Kentucky","King William County,Virginia",28751,780243
+251,"Clay County,Kentucky","Lancaster County,Virginia",32544,863328
+252,"Clay County,Kentucky","Lee County,Virginia",7173,151093
+253,"Clay County,Kentucky","Loudoun County,Virginia",29406,791010
+254,"Clay County,Kentucky","Louisa County,Virginia",25969,693963
+255,"Clay County,Kentucky","Lunenburg County,Virginia",26849,668375
+256,"Clay County,Kentucky","Madison County,Virginia",26643,693410
+257,"Clay County,Kentucky","Mathews County,Virginia",32165,871577
+258,"Clay County,Kentucky","Mecklenburg County,Virginia",26407,648099
+259,"Clay County,Kentucky","Middlesex County,Virginia",30942,844354
+260,"Clay County,Kentucky","Montgomery County,Virginia",17138,429471
+261,"Clay County,Kentucky","Nelson County,Virginia",23755,603397
+262,"Clay County,Kentucky","New Kent County,Virginia",29842,808651
+263,"Clay County,Kentucky","Northampton County,Virginia",34823,951400
+264,"Clay County,Kentucky","Northumberland County,Virginia",32584,861841
+265,"Clay County,Kentucky","Nottoway County,Virginia",26342,668755
+266,"Clay County,Kentucky","Orange County,Virginia",26931,702071
+267,"Clay County,Kentucky","Page County,Virginia",25576,677195
+268,"Clay County,Kentucky","Patrick County,Virginia",18177,443902
+269,"Clay County,Kentucky","Pittsylvania County,Virginia",22261,539795
+270,"Clay County,Kentucky","Powhatan County,Virginia",27404,682458
+271,"Clay County,Kentucky","Prince Edward County,Virginia",24957,626090
+272,"Clay County,Kentucky","Prince George County,Virginia",29730,749376
+273,"Clay County,Kentucky","Prince William County,Virginia",28448,782499
+274,"Clay County,Kentucky","Pulaski County,Virginia",15815,390287
+275,"Clay County,Kentucky","Rappahannock County,Virginia",27407,713683
+276,"Clay County,Kentucky","Richmond County,Virginia",31284,834484
+277,"Clay County,Kentucky","Roanoke County,Virginia",17919,449407
+278,"Clay County,Kentucky","Rockbridge County,Virginia",21416,546055
+279,"Clay County,Kentucky","Rockingham County,Virginia",24615,649546
+280,"Clay County,Kentucky","Russell County,Virginia",11329,238957
+281,"Clay County,Kentucky","Scott County,Virginia",9493,198934
+282,"Clay County,Kentucky","Shenandoah County,Virginia",25120,679649
+283,"Clay County,Kentucky","Smyth County,Virginia",13084,301736
+284,"Clay County,Kentucky","Southampton County,Virginia",31085,828978
+285,"Clay County,Kentucky","Spotsylvania County,Virginia",27985,735802
+286,"Clay County,Kentucky","Stafford County,Virginia",29366,760095
+287,"Clay County,Kentucky","Surry County,Virginia",31149,833598
+288,"Clay County,Kentucky","Sussex County,Virginia",30084,755133
+289,"Clay County,Kentucky","Tazewell County,Virginia",12817,291868
+290,"Clay County,Kentucky","Warren County,Virginia",27022,724242
+291,"Clay County,Kentucky","Washington County,Virginia",11195,252853
+292,"Clay County,Kentucky","Westmoreland County,Virginia",31156,841742
+293,"Clay County,Kentucky","Wise County,Virginia",7061,162035
+294,"Clay County,Kentucky","Wythe County,Virginia",14298,344196
+295,"Clay County,Kentucky","York County,Virginia",31693,865511
+296,"Clay County,Kentucky","Alexandria City County,Virginia",30617,841041
+297,"Clay County,Kentucky","Bedford City County,Virginia",20276,509351
+298,"Clay County,Kentucky","Bristol City County,Virginia",11446,240261
+299,"Clay County,Kentucky","Buena Vista City County,Virginia",20788,538543
+300,"Clay County,Kentucky","Charlottesville City County,Virginia",24199,643300
+301,"Clay County,Kentucky","Chesapeake City County,Virginia",33156,918417
+302,"Clay County,Kentucky","Clifton Forge City County,Virginia",21055,528177
+303,"Clay County,Kentucky","Colonial Heights City County,Virginia",28865,787642
+304,"Clay County,Kentucky","Covington City County,Virginia",20639,565427
+305,"Clay County,Kentucky","Danville City County,Virginia",22103,540043
+306,"Clay County,Kentucky","Emporia City County,Virginia",29625,785642
+307,"Clay County,Kentucky","Fairfax City County,Virginia",29580,808246
+308,"Clay County,Kentucky","Falls Church City County,Virginia",29912,822719
+309,"Clay County,Kentucky","Franklin City County,Virginia",31712,842112
+310,"Clay County,Kentucky","Fredericksburg City County,Virginia",29118,745461
+311,"Clay County,Kentucky","Galax City County,Virginia",16695,404733
+312,"Clay County,Kentucky","Hampton City County,Virginia",31643,875217
+313,"Clay County,Kentucky","Harrisonburg City County,Virginia",23675,629442
+314,"Clay County,Kentucky","Hopewell City County,Virginia",28902,786608
+315,"Clay County,Kentucky","Lexington City County,Virginia",20702,536870
+316,"Clay County,Kentucky","Lynchburg City County,Virginia",22301,554226
+317,"Clay County,Kentucky","Manassas City County,Virginia",28675,787443
+318,"Clay County,Kentucky","Manassas Park City County,Virginia",29177,793786
+319,"Clay County,Kentucky","Martinsville City County,Virginia",20473,494381
+320,"Clay County,Kentucky","Newport News City County,Virginia",31200,861703
+321,"Clay County,Kentucky","Norfolk City County,Virginia",32950,900633
+322,"Clay County,Kentucky","Norton City County,Virginia",7690,173846
+323,"Clay County,Kentucky","Petersburg City County,Virginia",28733,731980
+324,"Clay County,Kentucky","Poquoson City County,Virginia",31872,872280
+325,"Clay County,Kentucky","Portsmouth City County,Virginia",32889,909454
+326,"Clay County,Kentucky","Radford County,Virginia",16325,404235
+327,"Clay County,Kentucky","Richmond City County,Virginia",27605,752745
+328,"Clay County,Kentucky","Roanoke City County,Virginia",18521,469512
+329,"Clay County,Kentucky","Salem City County,Virginia",17932,456062
+330,"Clay County,Kentucky","South Boston City County,Virginia",24115,594221
+331,"Clay County,Kentucky","Staunton City County,Virginia",22492,590577
+332,"Clay County,Kentucky","Suffolk City County,Virginia",33028,875415
+333,"Clay County,Kentucky","Virginia Beach City County,Virginia",33511,923892
+334,"Clay County,Kentucky","Waynesboro City County,Virginia",22830,603295
+335,"Clay County,Kentucky","Williamsburg City County,Virginia",30244,833952
+336,"Clay County,Kentucky","Winchester City County,Virginia",27241,739014
+337,"Clay County,Kentucky","Barbour County,West Virginia",20706,560709
+338,"Clay County,Kentucky","Berkeley County,West Virginia",28639,798868
+339,"Clay County,Kentucky","Boone County,West Virginia",13254,314298
+340,"Clay County,Kentucky","Braxton County,West Virginia",17396,451688
+341,"Clay County,Kentucky","Brooke County,West Virginia",23830,688229
+342,"Clay County,Kentucky","Cabell County,West Virginia",10457,260834
+343,"Clay County,Kentucky","Calhoun County,West Virginia",17317,449373
+344,"Clay County,Kentucky","Clay County,West Virginia",16163,422601
+345,"Clay County,Kentucky","Doddridge County,West Virginia",19850,542218
+346,"Clay County,Kentucky","Fayette County,West Virginia",17450,440945
+347,"Clay County,Kentucky","Gilmer County,West Virginia",18595,473875
+348,"Clay County,Kentucky","Grant County,West Virginia",25062,662254
+349,"Clay County,Kentucky","Greenbrier County,West Virginia",20525,518983
+350,"Clay County,Kentucky","Hampshire County,West Virginia",27894,760472
+351,"Clay County,Kentucky","Hancock County,West Virginia",25420,722765
+352,"Clay County,Kentucky","Hardy County,West Virginia",26117,693751
+353,"Clay County,Kentucky","Harrison County,West Virginia",19940,547079
+354,"Clay County,Kentucky","Jackson County,West Virginia",15201,403704
+355,"Clay County,Kentucky","Jefferson County,West Virginia",29030,773627
+356,"Clay County,Kentucky","Kanawha County,West Virginia",14759,375009
+357,"Clay County,Kentucky","Lewis County,West Virginia",18569,500550
+358,"Clay County,Kentucky","Lincoln County,West Virginia",13507,289941
+359,"Clay County,Kentucky","Logan County,West Virginia",11360,270934
+360,"Clay County,Kentucky","McDowell County,West Virginia",14708,304015
+361,"Clay County,Kentucky","Marion County,West Virginia",21085,574247
+362,"Clay County,Kentucky","Marshall County,West Virginia",23210,591390
+363,"Clay County,Kentucky","Mason County,West Virginia",13438,351579
+364,"Clay County,Kentucky","Mercer County,West Virginia",15679,364259
+365,"Clay County,Kentucky","Mineral County,West Virginia",26756,691075
+366,"Clay County,Kentucky","Mingo County,West Virginia",10044,237387
+367,"Clay County,Kentucky","Monongalia County,West Virginia",21296,599715
+368,"Clay County,Kentucky","Monroe County,West Virginia",18142,413658
+369,"Clay County,Kentucky","Morgan County,West Virginia",28131,788260
+370,"Clay County,Kentucky","Nicholas County,West Virginia",17879,482481
+371,"Clay County,Kentucky","Ohio County,West Virginia",22849,669466
+372,"Clay County,Kentucky","Pendleton County,West Virginia",25393,664878
+373,"Clay County,Kentucky","Pleasants County,West Virginia",18684,501556
+374,"Clay County,Kentucky","Pocahontas County,West Virginia",23209,552020
+375,"Clay County,Kentucky","Preston County,West Virginia",23441,626446
+376,"Clay County,Kentucky","Putnam County,West Virginia",12140,313612
+377,"Clay County,Kentucky","Raleigh County,West Virginia",16568,351495
+378,"Clay County,Kentucky","Randolph County,West Virginia",21071,563004
+379,"Clay County,Kentucky","Ritchie County,West Virginia",19015,515260
+380,"Clay County,Kentucky","Roane County,West Virginia",16827,432520
+381,"Clay County,Kentucky","Summers County,West Virginia",18234,409197
+382,"Clay County,Kentucky","Taylor County,West Virginia",20978,569819
+383,"Clay County,Kentucky","Tucker County,West Virginia",22138,593529
+384,"Clay County,Kentucky","Tyler County,West Virginia",20593,541171
+385,"Clay County,Kentucky","Upshur County,West Virginia",20134,515246
+386,"Clay County,Kentucky","Wayne County,West Virginia",9785,230631
+387,"Clay County,Kentucky","Webster County,West Virginia",20064,509561
+388,"Clay County,Kentucky","Wetzel County,West Virginia",21805,563078
+389,"Clay County,Kentucky","Wirt County,West Virginia",17468,461042
+390,"Clay County,Kentucky","Wood County,West Virginia",16982,462732
+391,"Clay County,Kentucky","Wyoming County,West Virginia",14330,309873

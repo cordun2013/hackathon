@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Knox County,Kentucky","Adair County,Kentucky",6740,156703
+1,"Knox County,Kentucky","Allen County,Kentucky",9936,252345
+2,"Knox County,Kentucky","Anderson County,Kentucky",8141,183954
+3,"Knox County,Kentucky","Ballard County,Kentucky",19748,555021
+4,"Knox County,Kentucky","Barren County,Kentucky",8485,215731
+5,"Knox County,Kentucky","Bath County,Kentucky",7570,193476
+6,"Knox County,Kentucky","Bell County,Kentucky",2474,45220
+7,"Knox County,Kentucky","Boone County,Kentucky",9917,271945
+8,"Knox County,Kentucky","Bourbon County,Kentucky",7118,183646
+9,"Knox County,Kentucky","Boyd County,Kentucky",10828,294933
+10,"Knox County,Kentucky","Boyle County,Kentucky",5917,130859
+11,"Knox County,Kentucky","Bracken County,Kentucky",10503,258173
+12,"Knox County,Kentucky","Breathitt County,Kentucky",6264,139646
+13,"Knox County,Kentucky","Breckinridge County,Kentucky",13159,306264
+14,"Knox County,Kentucky","Bullitt County,Kentucky",10204,230750
+15,"Knox County,Kentucky","Butler County,Kentucky",11524,312204
+16,"Knox County,Kentucky","Caldwell County,Kentucky",15860,445875
+17,"Knox County,Kentucky","Calloway County,Kentucky",17929,470856
+18,"Knox County,Kentucky","Campbell County,Kentucky",10448,268760
+19,"Knox County,Kentucky","Carlisle County,Kentucky",20205,570390
+20,"Knox County,Kentucky","Carroll County,Kentucky",10753,268052
+21,"Knox County,Kentucky","Carter County,Kentucky",9965,264189
+22,"Knox County,Kentucky","Casey County,Kentucky",6677,129978
+23,"Knox County,Kentucky","Christian County,Kentucky",14216,378344
+24,"Knox County,Kentucky","Clay County,Kentucky",2518,45043
+25,"Knox County,Kentucky","Clinton County,Kentucky",7147,160069
+26,"Knox County,Kentucky","Crittenden County,Kentucky",17440,478945
+27,"Knox County,Kentucky","Cumberland County,Kentucky",7901,178308
+28,"Knox County,Kentucky","Daviess County,Kentucky",13958,385997
+29,"Knox County,Kentucky","Edmonson County,Kentucky",10014,259891
+30,"Knox County,Kentucky","Elliott County,Kentucky",10701,223885
+31,"Knox County,Kentucky","Estill County,Kentucky",6049,144300
+32,"Knox County,Kentucky","Fayette County,Kentucky",6016,157730
+33,"Knox County,Kentucky","Fleming County,Kentucky",8999,223695
+34,"Knox County,Kentucky","Floyd County,Kentucky",6612,154159
+35,"Knox County,Kentucky","Franklin County,Kentucky",8053,206646
+36,"Knox County,Kentucky","Fulton County,Kentucky",20609,591354
+37,"Knox County,Kentucky","Gallatin County,Kentucky",9751,258710
+38,"Knox County,Kentucky","Garrard County,Kentucky",5586,115645
+39,"Knox County,Kentucky","Grant County,Kentucky",8550,232818
+40,"Knox County,Kentucky","Graves County,Kentucky",19230,543096
+41,"Knox County,Kentucky","Grayson County,Kentucky",11900,292484
+42,"Knox County,Kentucky","Green County,Kentucky",8492,198868
+43,"Knox County,Kentucky","Greenup County,Kentucky",11433,291520
+44,"Knox County,Kentucky","Hancock County,Kentucky",14379,340901
+45,"Knox County,Kentucky","Hardin County,Kentucky",10776,254617
+46,"Knox County,Kentucky","Harlan County,Kentucky",4769,100826
+47,"Knox County,Kentucky","Harrison County,Kentucky",8066,212280
+48,"Knox County,Kentucky","Hart County,Kentucky",9842,245146
+49,"Knox County,Kentucky","Henderson County,Kentucky",15865,442417
+50,"Knox County,Kentucky","Henry County,Kentucky",9655,250365
+51,"Knox County,Kentucky","Hickman County,Kentucky",20239,571682
+52,"Knox County,Kentucky","Hopkins County,Kentucky",15319,420343
+53,"Knox County,Kentucky","Jackson County,Kentucky",3562,73341
+54,"Knox County,Kentucky","Jefferson County,Kentucky",9748,265899
+55,"Knox County,Kentucky","Jessamine County,Kentucky",6583,160369
+56,"Knox County,Kentucky","Johnson County,Kentucky",8174,194429
+57,"Knox County,Kentucky","Kenton County,Kentucky",9803,267662
+58,"Knox County,Kentucky","Knott County,Kentucky",5395,123700
+59,"Knox County,Kentucky","Larue County,Kentucky",9974,230842
+60,"Knox County,Kentucky","Laurel County,Kentucky",2518,41750
+61,"Knox County,Kentucky","Lawrence County,Kentucky",9949,228116
+62,"Knox County,Kentucky","Lee County,Kentucky",5568,111723
+63,"Knox County,Kentucky","Leslie County,Kentucky",4544,94118
+64,"Knox County,Kentucky","Letcher County,Kentucky",6567,145704
+65,"Knox County,Kentucky","Lewis County,Kentucky",10523,261835
+66,"Knox County,Kentucky","Lincoln County,Kentucky",5148,115226
+67,"Knox County,Kentucky","Livingston County,Kentucky",18035,495842
+68,"Knox County,Kentucky","Logan County,Kentucky",11887,317623
+69,"Knox County,Kentucky","Lyon County,Kentucky",18176,470110
+70,"Knox County,Kentucky","McCracken County,Kentucky",18361,523081
+71,"Knox County,Kentucky","McCreary County,Kentucky",4131,90433
+72,"Knox County,Kentucky","Madison County,Kentucky",4605,113075
+73,"Knox County,Kentucky","Magoffin County,Kentucky",8518,198405
+74,"Knox County,Kentucky","Marion County,Kentucky",7615,169464
+75,"Knox County,Kentucky","Marshall County,Kentucky",17775,506653
+76,"Knox County,Kentucky","Martin County,Kentucky",9703,220431
+77,"Knox County,Kentucky","Mason County,Kentucky",10247,255212
+78,"Knox County,Kentucky","Meade County,Kentucky",12209,338213
+79,"Knox County,Kentucky","Menifee County,Kentucky",8989,173123
+80,"Knox County,Kentucky","Mercer County,Kentucky",6917,155790
+81,"Knox County,Kentucky","Metcalfe County,Kentucky",7396,186968
+82,"Knox County,Kentucky","Monroe County,Kentucky",9365,224472
+83,"Knox County,Kentucky","Montgomery County,Kentucky",7488,183923
+84,"Knox County,Kentucky","Morgan County,Kentucky",8479,183345
+85,"Knox County,Kentucky","Muhlenberg County,Kentucky",13643,360843
+86,"Knox County,Kentucky","Nelson County,Kentucky",8833,202473
+87,"Knox County,Kentucky","Nicholas County,Kentucky",8374,211027
+88,"Knox County,Kentucky","Ohio County,Kentucky",13059,354034
+89,"Knox County,Kentucky","Oldham County,Kentucky",9820,277780
+90,"Knox County,Kentucky","Owen County,Kentucky",8875,233424
+91,"Knox County,Kentucky","Owsley County,Kentucky",4861,94843
+92,"Knox County,Kentucky","Pendleton County,Kentucky",9626,249407
+93,"Knox County,Kentucky","Perry County,Kentucky",4778,102819
+94,"Knox County,Kentucky","Pike County,Kentucky",9173,207158
+95,"Knox County,Kentucky","Powell County,Kentucky",7647,156386
+96,"Knox County,Kentucky","Robertson County,Kentucky",9144,232153
+97,"Knox County,Kentucky","Rockcastle County,Kentucky",3629,76825
+98,"Knox County,Kentucky","Rowan County,Kentucky",8311,217328
+99,"Knox County,Kentucky","Russell County,Kentucky",6344,140687
+100,"Knox County,Kentucky","Scott County,Kentucky",6850,185757
+101,"Knox County,Kentucky","Shelby County,Kentucky",8677,237033
+102,"Knox County,Kentucky","Simpson County,Kentucky",11477,306497
+103,"Knox County,Kentucky","Spencer County,Kentucky",9206,242881
+104,"Knox County,Kentucky","Taylor County,Kentucky",8094,180963
+105,"Knox County,Kentucky","Todd County,Kentucky",13063,347678
+106,"Knox County,Kentucky","Trigg County,Kentucky",15751,408963
+107,"Knox County,Kentucky","Trimble County,Kentucky",10893,283820
+108,"Knox County,Kentucky","Union County,Kentucky",17609,479519
+109,"Knox County,Kentucky","Warren County,Kentucky",10511,271445
+110,"Knox County,Kentucky","Washington County,Kentucky",7904,177323
+111,"Knox County,Kentucky","Wayne County,Kentucky",6520,137760
+112,"Knox County,Kentucky","Webster County,Kentucky",16428,448432
+113,"Knox County,Kentucky","Whitley County,Kentucky",2496,54519
+114,"Knox County,Kentucky","Wolfe County,Kentucky",7354,150166
+115,"Knox County,Kentucky","Woodford County,Kentucky",7070,188393
+116,"Knox County,Kentucky","Adams County,Ohio",12676,301945
+117,"Knox County,Kentucky","Allen County,Ohio",17223,493555
+118,"Knox County,Kentucky","Ashland County,Ohio",20411,595433
+119,"Knox County,Kentucky","Ashtabula County,Ohio",26158,780184
+120,"Knox County,Kentucky","Athens County,Ohio",17155,452952
+121,"Knox County,Kentucky","Auglaize County,Ohio",16479,480820
+122,"Knox County,Kentucky","Belmont County,Ohio",21749,641865
+123,"Knox County,Kentucky","Brown County,Ohio",11662,290190
+124,"Knox County,Kentucky","Butler County,Ohio",12300,343429
+125,"Knox County,Kentucky","Carroll County,Ohio",23714,679088
+126,"Knox County,Kentucky","Champaign County,Ohio",15257,435001
+127,"Knox County,Kentucky","Clark County,Ohio",14685,421634
+128,"Knox County,Kentucky","Clermont County,Ohio",11051,314607
+129,"Knox County,Kentucky","Clinton County,Ohio",13145,365914
+130,"Knox County,Kentucky","Columbiana County,Ohio",25270,714677
+131,"Knox County,Kentucky","Coshocton County,Ohio",20272,574505
+132,"Knox County,Kentucky","Crawford County,Ohio",19949,587405
+133,"Knox County,Kentucky","Cuyahoga County,Ohio",22729,677898
+134,"Knox County,Kentucky","Darke County,Ohio",15576,437866
+135,"Knox County,Kentucky","Defiance County,Ohio",20710,571985
+136,"Knox County,Kentucky","Delaware County,Ohio",17329,502105
+137,"Knox County,Kentucky","Fairfield County,Ohio",16732,485354
+138,"Knox County,Kentucky","Fayette County,Ohio",14044,403519
+139,"Knox County,Kentucky","Franklin County,Ohio",15846,462032
+140,"Knox County,Kentucky","Fulton County,Ohio",21473,588929
+141,"Knox County,Kentucky","Gallia County,Ohio",15113,395304
+142,"Knox County,Kentucky","Geauga County,Ohio",24258,717116
+143,"Knox County,Kentucky","Greene County,Ohio",13472,375268
+144,"Knox County,Kentucky","Guernsey County,Ohio",19478,575546
+145,"Knox County,Kentucky","Hamilton County,Ohio",10955,307913
+146,"Knox County,Kentucky","Hancock County,Ohio",18332,534450
+147,"Knox County,Kentucky","Hardin County,Ohio",18119,518847
+148,"Knox County,Kentucky","Harrison County,Ohio",22719,661154
+149,"Knox County,Kentucky","Henry County,Ohio",20056,558919
+150,"Knox County,Kentucky","Highland County,Ohio",13809,335393
+151,"Knox County,Kentucky","Hocking County,Ohio",18170,528758
+152,"Knox County,Kentucky","Holmes County,Ohio",21823,611363
+153,"Knox County,Kentucky","Huron County,Ohio",21558,594203
+154,"Knox County,Kentucky","Jackson County,Ohio",14663,378500
+155,"Knox County,Kentucky","Jefferson County,Ohio",23712,670932
+156,"Knox County,Kentucky","Knox County,Ohio",19778,561726
+157,"Knox County,Kentucky","Lawrence County,Ohio",13234,331361
+158,"Knox County,Kentucky","Licking County,Ohio",18111,516950
+159,"Knox County,Kentucky","Logan County,Ohio",16491,467538
+160,"Knox County,Kentucky","Lorain County,Ohio",23343,652857
+161,"Knox County,Kentucky","Lucas County,Ohio",21657,620970
+162,"Knox County,Kentucky","Madison County,Ohio",15266,438701
+163,"Knox County,Kentucky","Mahoning County,Ohio",25127,731816
+164,"Knox County,Kentucky","Marion County,Ohio",18375,509540
+165,"Knox County,Kentucky","Medina County,Ohio",21057,620446
+166,"Knox County,Kentucky","Meigs County,Ohio",16045,425688
+167,"Knox County,Kentucky","Mercer County,Ohio",17714,507753
+168,"Knox County,Kentucky","Miami County,Ohio",14065,403258
+169,"Knox County,Kentucky","Monroe County,Ohio",21957,604637
+170,"Knox County,Kentucky","Montgomery County,Ohio",13448,380998
+171,"Knox County,Kentucky","Morgan County,Ohio",20109,519976
+172,"Knox County,Kentucky","Morrow County,Ohio",18136,524925
+173,"Knox County,Kentucky","Muskingum County,Ohio",18329,541702
+174,"Knox County,Kentucky","Noble County,Ohio",20463,587797
+175,"Knox County,Kentucky","Paulding County,Ohio",19754,556533
+176,"Knox County,Kentucky","Perry County,Ohio",18398,530285
+177,"Knox County,Kentucky","Pickaway County,Ohio",15981,452115
+178,"Knox County,Kentucky","Pike County,Ohio",14205,347927
+179,"Knox County,Kentucky","Portage County,Ohio",23579,691595
+180,"Knox County,Kentucky","Preble County,Ohio",14345,387828
+181,"Knox County,Kentucky","Putnam County,Ohio",18397,526022
+182,"Knox County,Kentucky","Richland County,Ohio",19166,560164
+183,"Knox County,Kentucky","Ross County,Ohio",15625,451432
+184,"Knox County,Kentucky","Sandusky County,Ohio",21372,614526
+185,"Knox County,Kentucky","Scioto County,Ohio",13515,330052
+186,"Knox County,Kentucky","Seneca County,Ohio",20676,590790
+187,"Knox County,Kentucky","Shelby County,Ohio",15103,439544
+188,"Knox County,Kentucky","Stark County,Ohio",23324,675979
+189,"Knox County,Kentucky","Summit County,Ohio",22260,655773
+190,"Knox County,Kentucky","Trumbull County,Ohio",25160,742087
+191,"Knox County,Kentucky","Tuscarawas County,Ohio",21773,634910
+192,"Knox County,Kentucky","Union County,Ohio",16618,464922
+193,"Knox County,Kentucky","Van Wert County,Ohio",18388,526078
+194,"Knox County,Kentucky","Vinton County,Ohio",17235,422601
+195,"Knox County,Kentucky","Warren County,Ohio",11834,334170
+196,"Knox County,Kentucky","Washington County,Ohio",19082,497637
+197,"Knox County,Kentucky","Wayne County,Ohio",20785,609443
+198,"Knox County,Kentucky","Williams County,Ohio",21887,595501
+199,"Knox County,Kentucky","Wood County,Ohio",19420,575078
+200,"Knox County,Kentucky","Wyandot County,Ohio",19027,555330
+201,"Knox County,Kentucky","Accomack County,Virginia",36642,993491
+202,"Knox County,Kentucky","Albemarle County,Virginia",22792,605991
+203,"Knox County,Kentucky","Alleghany County,Virginia",21059,518298
+204,"Knox County,Kentucky","Amelia County,Virginia",25364,644846
+205,"Knox County,Kentucky","Amherst County,Virginia",22266,550905
+206,"Knox County,Kentucky","Appomattox County,Virginia",22441,564515
+207,"Knox County,Kentucky","Arlington County,Virginia",29476,806300
+208,"Knox County,Kentucky","Augusta County,Virginia",22214,583684
+209,"Knox County,Kentucky","Bath County,Virginia",22502,556264
+210,"Knox County,Kentucky","Bedford County,Virginia",20174,495825
+211,"Knox County,Kentucky","Bland County,Virginia",14190,345427
+212,"Knox County,Kentucky","Botetourt County,Virginia",19030,479890
+213,"Knox County,Kentucky","Brunswick County,Virginia",27335,731941
+214,"Knox County,Kentucky","Buchanan County,Virginia",12699,254975
+215,"Knox County,Kentucky","Buckingham County,Virginia",23555,588425
+216,"Knox County,Kentucky","Campbell County,Virginia",21590,537060
+217,"Knox County,Kentucky","Caroline County,Virginia",28131,774837
+218,"Knox County,Kentucky","Carroll County,Virginia",15134,376772
+219,"Knox County,Kentucky","Charles City County,Virginia",28232,771871
+220,"Knox County,Kentucky","Charlotte County,Virginia",24139,604997
+221,"Knox County,Kentucky","Chesterfield County,Virginia",27058,683736
+222,"Knox County,Kentucky","Clarke County,Virginia",26972,733049
+223,"Knox County,Kentucky","Craig County,Virginia",18429,457459
+224,"Knox County,Kentucky","Culpeper County,Virginia",26589,695207
+225,"Knox County,Kentucky","Cumberland County,Virginia",24969,625656
+226,"Knox County,Kentucky","Dickenson County,Virginia",10126,212650
+227,"Knox County,Kentucky","Dinwiddie County,Virginia",27137,687907
+228,"Knox County,Kentucky","Essex County,Virginia",29949,798879
+229,"Knox County,Kentucky","Fairfax County,Virginia",29099,796576
+230,"Knox County,Kentucky","Fauquier County,Virginia",27410,754300
+231,"Knox County,Kentucky","Floyd County,Virginia",17026,416872
+232,"Knox County,Kentucky","Fluvanna County,Virginia",24470,658163
+233,"Knox County,Kentucky","Franklin County,Virginia",19687,497059
+234,"Knox County,Kentucky","Frederick County,Virginia",26424,720776
+235,"Knox County,Kentucky","Giles County,Virginia",16971,403501
+236,"Knox County,Kentucky","Gloucester County,Virginia",30402,826060
+237,"Knox County,Kentucky","Goochland County,Virginia",25373,688774
+238,"Knox County,Kentucky","Grayson County,Virginia",14867,339939
+239,"Knox County,Kentucky","Greene County,Virginia",24785,641575
+240,"Knox County,Kentucky","Greensville County,Virginia",28531,749360
+241,"Knox County,Kentucky","Halifax County,Virginia",23437,574459
+242,"Knox County,Kentucky","Hanover County,Virginia",26580,729880
+243,"Knox County,Kentucky","Henrico County,Virginia",27091,742840
+244,"Knox County,Kentucky","Henry County,Virginia",19007,463493
+245,"Knox County,Kentucky","Highland County,Virginia",24634,604056
+246,"Knox County,Kentucky","Isle of Wight County,Virginia",31257,788028
+247,"Knox County,Kentucky","James City County,Virginia",29468,812642
+248,"Knox County,Kentucky","King and Queen County,Virginia",29126,788226
+249,"Knox County,Kentucky","King George County,Virginia",29244,802823
+250,"Knox County,Kentucky","King William County,Virginia",27813,758148
+251,"Knox County,Kentucky","Lancaster County,Virginia",31606,841234
+252,"Knox County,Kentucky","Lee County,Virginia",5566,121779
+253,"Knox County,Kentucky","Loudoun County,Virginia",28467,768915
+254,"Knox County,Kentucky","Louisa County,Virginia",25030,671869
+255,"Knox County,Kentucky","Lunenburg County,Virginia",25911,646281
+256,"Knox County,Kentucky","Madison County,Virginia",25705,671316
+257,"Knox County,Kentucky","Mathews County,Virginia",31227,849483
+258,"Knox County,Kentucky","Mecklenburg County,Virginia",25469,626004
+259,"Knox County,Kentucky","Middlesex County,Virginia",30003,822260
+260,"Knox County,Kentucky","Montgomery County,Virginia",16200,407377
+261,"Knox County,Kentucky","Nelson County,Virginia",22817,581302
+262,"Knox County,Kentucky","New Kent County,Virginia",28904,786556
+263,"Knox County,Kentucky","Northampton County,Virginia",33885,929306
+264,"Knox County,Kentucky","Northumberland County,Virginia",31646,839746
+265,"Knox County,Kentucky","Nottoway County,Virginia",25404,646660
+266,"Knox County,Kentucky","Orange County,Virginia",25993,679976
+267,"Knox County,Kentucky","Page County,Virginia",24638,655101
+268,"Knox County,Kentucky","Patrick County,Virginia",17239,421808
+269,"Knox County,Kentucky","Pittsylvania County,Virginia",21323,517701
+270,"Knox County,Kentucky","Powhatan County,Virginia",26466,660363
+271,"Knox County,Kentucky","Prince Edward County,Virginia",24019,603996
+272,"Knox County,Kentucky","Prince George County,Virginia",28792,727282
+273,"Knox County,Kentucky","Prince William County,Virginia",27510,760404
+274,"Knox County,Kentucky","Pulaski County,Virginia",14876,368192
+275,"Knox County,Kentucky","Rappahannock County,Virginia",26469,691588
+276,"Knox County,Kentucky","Richmond County,Virginia",30346,812389
+277,"Knox County,Kentucky","Roanoke County,Virginia",16981,427313
+278,"Knox County,Kentucky","Rockbridge County,Virginia",20478,523961
+279,"Knox County,Kentucky","Rockingham County,Virginia",23677,627451
+280,"Knox County,Kentucky","Russell County,Virginia",11665,245350
+281,"Knox County,Kentucky","Scott County,Virginia",7885,169620
+282,"Knox County,Kentucky","Shenandoah County,Virginia",24182,657555
+283,"Knox County,Kentucky","Smyth County,Virginia",12146,279642
+284,"Knox County,Kentucky","Southampton County,Virginia",30147,806883
+285,"Knox County,Kentucky","Spotsylvania County,Virginia",27047,713707
+286,"Knox County,Kentucky","Stafford County,Virginia",28428,738000
+287,"Knox County,Kentucky","Surry County,Virginia",30211,811504
+288,"Knox County,Kentucky","Sussex County,Virginia",29146,733038
+289,"Knox County,Kentucky","Tazewell County,Virginia",12929,288191
+290,"Knox County,Kentucky","Warren County,Virginia",26084,702147
+291,"Knox County,Kentucky","Washington County,Virginia",11306,236665
+292,"Knox County,Kentucky","Westmoreland County,Virginia",30218,819648
+293,"Knox County,Kentucky","Wise County,Virginia",8497,177527
+294,"Knox County,Kentucky","Wythe County,Virginia",13360,322102
+295,"Knox County,Kentucky","York County,Virginia",30755,843417
+296,"Knox County,Kentucky","Alexandria City County,Virginia",29679,818947
+297,"Knox County,Kentucky","Bedford City County,Virginia",19338,487257
+298,"Knox County,Kentucky","Bristol City County,Virginia",9839,210947
+299,"Knox County,Kentucky","Buena Vista City County,Virginia",19850,516448
+300,"Knox County,Kentucky","Charlottesville City County,Virginia",23261,621206
+301,"Knox County,Kentucky","Chesapeake City County,Virginia",32218,896322
+302,"Knox County,Kentucky","Clifton Forge City County,Virginia",20117,506082
+303,"Knox County,Kentucky","Colonial Heights City County,Virginia",27927,765547
+304,"Knox County,Kentucky","Covington City County,Virginia",21101,526920
+305,"Knox County,Kentucky","Danville City County,Virginia",21165,517949
+306,"Knox County,Kentucky","Emporia City County,Virginia",28687,763548
+307,"Knox County,Kentucky","Fairfax City County,Virginia",28642,786152
+308,"Knox County,Kentucky","Falls Church City County,Virginia",28974,800624
+309,"Knox County,Kentucky","Franklin City County,Virginia",30774,820018
+310,"Knox County,Kentucky","Fredericksburg City County,Virginia",28180,723367
+311,"Knox County,Kentucky","Galax City County,Virginia",15757,382638
+312,"Knox County,Kentucky","Hampton City County,Virginia",30705,853123
+313,"Knox County,Kentucky","Harrisonburg City County,Virginia",22737,607347
+314,"Knox County,Kentucky","Hopewell City County,Virginia",27964,764513
+315,"Knox County,Kentucky","Lexington City County,Virginia",19764,514776
+316,"Knox County,Kentucky","Lynchburg City County,Virginia",21363,532132
+317,"Knox County,Kentucky","Manassas City County,Virginia",27737,765349
+318,"Knox County,Kentucky","Manassas Park City County,Virginia",28239,771692
+319,"Knox County,Kentucky","Martinsville City County,Virginia",19535,472286
+320,"Knox County,Kentucky","Newport News City County,Virginia",30262,839609
+321,"Knox County,Kentucky","Norfolk City County,Virginia",32012,878539
+322,"Knox County,Kentucky","Norton City County,Virginia",7973,179765
+323,"Knox County,Kentucky","Petersburg City County,Virginia",27795,709885
+324,"Knox County,Kentucky","Poquoson City County,Virginia",30934,850185
+325,"Knox County,Kentucky","Portsmouth City County,Virginia",31951,887360
+326,"Knox County,Kentucky","Radford County,Virginia",15387,382140
+327,"Knox County,Kentucky","Richmond City County,Virginia",26667,730650
+328,"Knox County,Kentucky","Roanoke City County,Virginia",17583,447418
+329,"Knox County,Kentucky","Salem City County,Virginia",16994,433967
+330,"Knox County,Kentucky","South Boston City County,Virginia",23177,572127
+331,"Knox County,Kentucky","Staunton City County,Virginia",21554,568482
+332,"Knox County,Kentucky","Suffolk City County,Virginia",32090,853320
+333,"Knox County,Kentucky","Virginia Beach City County,Virginia",32573,901797
+334,"Knox County,Kentucky","Waynesboro City County,Virginia",21892,581201
+335,"Knox County,Kentucky","Williamsburg City County,Virginia",29306,811858
+336,"Knox County,Kentucky","Winchester City County,Virginia",26303,716919
+337,"Knox County,Kentucky","Barbour County,West Virginia",21868,617190
+338,"Knox County,Kentucky","Berkeley County,West Virginia",28041,764127
+339,"Knox County,Kentucky","Boone County,West Virginia",14583,340813
+340,"Knox County,Kentucky","Braxton County,West Virginia",18558,508170
+341,"Knox County,Kentucky","Brooke County,West Virginia",23828,684112
+342,"Knox County,Kentucky","Cabell County,West Virginia",11618,317316
+343,"Knox County,Kentucky","Calhoun County,West Virginia",18479,505854
+344,"Knox County,Kentucky","Clay County,West Virginia",17324,479082
+345,"Knox County,Kentucky","Doddridge County,West Virginia",21011,598700
+346,"Knox County,Kentucky","Fayette County,West Virginia",18612,497427
+347,"Knox County,Kentucky","Gilmer County,West Virginia",19756,530356
+348,"Knox County,Kentucky","Grant County,West Virginia",26223,718736
+349,"Knox County,Kentucky","Greenbrier County,West Virginia",21013,475440
+350,"Knox County,Kentucky","Hampshire County,West Virginia",28160,735031
+351,"Knox County,Kentucky","Hancock County,West Virginia",25418,718648
+352,"Knox County,Kentucky","Hardy County,West Virginia",27381,717944
+353,"Knox County,Kentucky","Harrison County,West Virginia",21101,603561
+354,"Knox County,Kentucky","Jackson County,West Virginia",16363,460186
+355,"Knox County,Kentucky","Jefferson County,West Virginia",28092,751533
+356,"Knox County,Kentucky","Kanawha County,West Virginia",15920,431490
+357,"Knox County,Kentucky","Lewis County,West Virginia",19731,557031
+358,"Knox County,Kentucky","Lincoln County,West Virginia",14836,316455
+359,"Knox County,Kentucky","Logan County,West Virginia",12689,297448
+360,"Knox County,Kentucky","McDowell County,West Virginia",16037,330530
+361,"Knox County,Kentucky","Marion County,West Virginia",22246,630728
+362,"Knox County,Kentucky","Marshall County,West Virginia",23785,678620
+363,"Knox County,Kentucky","Mason County,West Virginia",14599,408060
+364,"Knox County,Kentucky","Mercer County,West Virginia",15790,360582
+365,"Knox County,Kentucky","Mineral County,West Virginia",27917,747556
+366,"Knox County,Kentucky","Mingo County,West Virginia",11373,263901
+367,"Knox County,Kentucky","Monongalia County,West Virginia",22457,656197
+368,"Knox County,Kentucky","Monroe County,West Virginia",18254,409982
+369,"Knox County,Kentucky","Morgan County,West Virginia",28287,765253
+370,"Knox County,Kentucky","Nicholas County,West Virginia",19041,538963
+371,"Knox County,Kentucky","Ohio County,West Virginia",22847,665350
+372,"Knox County,Kentucky","Pendleton County,West Virginia",26525,678636
+373,"Knox County,Kentucky","Pleasants County,West Virginia",19845,558038
+374,"Knox County,Kentucky","Pocahontas County,West Virginia",24092,555652
+375,"Knox County,Kentucky","Preston County,West Virginia",24603,682928
+376,"Knox County,Kentucky","Putnam County,West Virginia",13301,370093
+377,"Knox County,Kentucky","Raleigh County,West Virginia",17386,405156
+378,"Knox County,Kentucky","Randolph County,West Virginia",22232,619486
+379,"Knox County,Kentucky","Ritchie County,West Virginia",20176,571742
+380,"Knox County,Kentucky","Roane County,West Virginia",17988,489001
+381,"Knox County,Kentucky","Summers County,West Virginia",18345,405521
+382,"Knox County,Kentucky","Taylor County,West Virginia",22139,626301
+383,"Knox County,Kentucky","Tucker County,West Virginia",23299,650011
+384,"Knox County,Kentucky","Tyler County,West Virginia",21754,597653
+385,"Knox County,Kentucky","Upshur County,West Virginia",21295,571728
+386,"Knox County,Kentucky","Wayne County,West Virginia",11114,257146
+387,"Knox County,Kentucky","Webster County,West Virginia",21225,566043
+388,"Knox County,Kentucky","Wetzel County,West Virginia",22967,619560
+389,"Knox County,Kentucky","Wirt County,West Virginia",18629,517524
+390,"Knox County,Kentucky","Wood County,West Virginia",18144,519213
+391,"Knox County,Kentucky","Wyoming County,West Virginia",15659,336388

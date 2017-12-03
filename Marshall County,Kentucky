@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Marshall County,Kentucky","Adair County,Kentucky",11805,355262
+1,"Marshall County,Kentucky","Allen County,Kentucky",9035,266229
+2,"Marshall County,Kentucky","Anderson County,Kentucky",12358,365804
+3,"Marshall County,Kentucky","Ballard County,Kentucky",3676,76307
+4,"Marshall County,Kentucky","Barren County,Kentucky",10216,302956
+5,"Marshall County,Kentucky","Bath County,Kentucky",16049,483073
+6,"Marshall County,Kentucky","Bell County,Kentucky",19776,551422
+7,"Marshall County,Kentucky","Boone County,Kentucky",16480,486469
+8,"Marshall County,Kentucky","Bourbon County,Kentucky",15114,437583
+9,"Marshall County,Kentucky","Boyd County,Kentucky",19307,584530
+10,"Marshall County,Kentucky","Boyle County,Kentucky",12870,373724
+11,"Marshall County,Kentucky","Bracken County,Kentucky",18322,500422
+12,"Marshall County,Kentucky","Breathitt County,Kentucky",18649,547254
+13,"Marshall County,Kentucky","Breckinridge County,Kentucky",9093,244152
+14,"Marshall County,Kentucky","Bullitt County,Kentucky",10314,309880
+15,"Marshall County,Kentucky","Butler County,Kentucky",6739,196595
+16,"Marshall County,Kentucky","Caldwell County,Kentucky",3002,72717
+17,"Marshall County,Kentucky","Calloway County,Kentucky",1511,31237
+18,"Marshall County,Kentucky","Campbell County,Kentucky",17350,516172
+19,"Marshall County,Kentucky","Carlisle County,Kentucky",3222,75144
+20,"Marshall County,Kentucky","Carroll County,Kentucky",13963,420246
+21,"Marshall County,Kentucky","Carter County,Kentucky",18444,553786
+22,"Marshall County,Kentucky","Casey County,Kentucky",14105,383439
+23,"Marshall County,Kentucky","Christian County,Kentucky",4375,125238
+24,"Marshall County,Kentucky","Clay County,Kentucky",17939,510451
+25,"Marshall County,Kentucky","Clinton County,Kentucky",13756,383791
+26,"Marshall County,Kentucky","Crittenden County,Kentucky",3994,84652
+27,"Marshall County,Kentucky","Cumberland County,Kentucky",12915,359890
+28,"Marshall County,Kentucky","Daviess County,Kentucky",7342,194948
+29,"Marshall County,Kentucky","Edmonson County,Kentucky",8700,233766
+30,"Marshall County,Kentucky","Elliott County,Kentucky",19220,545049
+31,"Marshall County,Kentucky","Estill County,Kentucky",16533,475938
+32,"Marshall County,Kentucky","Fayette County,Kentucky",13676,407808
+33,"Marshall County,Kentucky","Fleming County,Kentucky",17478,513292
+34,"Marshall County,Kentucky","Floyd County,Kentucky",20836,607284
+35,"Marshall County,Kentucky","Franklin County,Kentucky",14017,404496
+36,"Marshall County,Kentucky","Fulton County,Kentucky",3626,96108
+37,"Marshall County,Kentucky","Gallatin County,Kentucky",14673,439572
+38,"Marshall County,Kentucky","Garrard County,Kentucky",14512,405919
+39,"Marshall County,Kentucky","Grant County,Kentucky",16039,465025
+40,"Marshall County,Kentucky","Graves County,Kentucky",2252,40843
+41,"Marshall County,Kentucky","Grayson County,Kentucky",7515,213381
+42,"Marshall County,Kentucky","Green County,Kentucky",11538,307288
+43,"Marshall County,Kentucky","Greenup County,Kentucky",19912,581117
+44,"Marshall County,Kentucky","Hancock County,Kentucky",8682,236049
+45,"Marshall County,Kentucky","Hardin County,Kentucky",8912,258900
+46,"Marshall County,Kentucky","Harlan County,Kentucky",22070,607028
+47,"Marshall County,Kentucky","Harrison County,Kentucky",15886,454529
+48,"Marshall County,Kentucky","Hart County,Kentucky",9933,272331
+49,"Marshall County,Kentucky","Henderson County,Kentucky",6330,176216
+50,"Marshall County,Kentucky","Henry County,Kentucky",13638,400994
+51,"Marshall County,Kentucky","Hickman County,Kentucky",3255,76436
+52,"Marshall County,Kentucky","Hopkins County,Kentucky",4427,109747
+53,"Marshall County,Kentucky","Jackson County,Kentucky",17670,504803
+54,"Marshall County,Kentucky","Jefferson County,Kentucky",11571,341385
+55,"Marshall County,Kentucky","Jessamine County,Kentucky",13807,405469
+56,"Marshall County,Kentucky","Johnson County,Kentucky",19790,583277
+57,"Marshall County,Kentucky","Kenton County,Kentucky",16366,482186
+58,"Marshall County,Kentucky","Knott County,Kentucky",20741,591157
+59,"Marshall County,Kentucky","Knox County,Kentucky",18008,504333
+60,"Marshall County,Kentucky","Larue County,Kentucky",9812,290132
+61,"Marshall County,Kentucky","Laurel County,Kentucky",16749,475203
+62,"Marshall County,Kentucky","Lawrence County,Kentucky",21310,611665
+63,"Marshall County,Kentucky","Lee County,Kentucky",17899,523711
+64,"Marshall County,Kentucky","Leslie County,Kentucky",19890,561575
+65,"Marshall County,Kentucky","Letcher County,Kentucky",21912,613161
+66,"Marshall County,Kentucky","Lewis County,Kentucky",19002,551432
+67,"Marshall County,Kentucky","Lincoln County,Kentucky",14254,403655
+68,"Marshall County,Kentucky","Livingston County,Kentucky",2911,63093
+69,"Marshall County,Kentucky","Logan County,Kentucky",6673,175118
+70,"Marshall County,Kentucky","Lyon County,Kentucky",2878,54755
+71,"Marshall County,Kentucky","McCracken County,Kentucky",2302,42485
+72,"Marshall County,Kentucky","McCreary County,Kentucky",16058,468108
+73,"Marshall County,Kentucky","Madison County,Kentucky",15385,449661
+74,"Marshall County,Kentucky","Magoffin County,Kentucky",19259,565145
+75,"Marshall County,Kentucky","Marion County,Kentucky",11933,349022
+76,"Marshall County,Kentucky","Martin County,Kentucky",22576,641623
+77,"Marshall County,Kentucky","Mason County,Kentucky",18243,509150
+78,"Marshall County,Kentucky","Meade County,Kentucky",10564,280072
+79,"Marshall County,Kentucky","Menifee County,Kentucky",17324,495611
+80,"Marshall County,Kentucky","Mercer County,Kentucky",12717,372599
+81,"Marshall County,Kentucky","Metcalfe County,Kentucky",10779,325607
+82,"Marshall County,Kentucky","Monroe County,Kentucky",11534,331635
+83,"Marshall County,Kentucky","Montgomery County,Kentucky",15967,473520
+84,"Marshall County,Kentucky","Morgan County,Kentucky",18649,553429
+85,"Marshall County,Kentucky","Muhlenberg County,Kentucky",5221,139679
+86,"Marshall County,Kentucky","Nelson County,Kentucky",10209,308085
+87,"Marshall County,Kentucky","Nicholas County,Kentucky",16370,464965
+88,"Marshall County,Kentucky","Ohio County,Kentucky",6774,191354
+89,"Marshall County,Kentucky","Oldham County,Kentucky",12364,368294
+90,"Marshall County,Kentucky","Owen County,Kentucky",15360,436670
+91,"Marshall County,Kentucky","Owsley County,Kentucky",18969,526305
+92,"Marshall County,Kentucky","Pendleton County,Kentucky",17305,500890
+93,"Marshall County,Kentucky","Perry County,Kentucky",20124,570276
+94,"Marshall County,Kentucky","Pike County,Kentucky",22516,637609
+95,"Marshall County,Kentucky","Powell County,Kentucky",16260,482379
+96,"Marshall County,Kentucky","Robertson County,Kentucky",17141,486091
+97,"Marshall County,Kentucky","Rockcastle County,Kentucky",16000,440342
+98,"Marshall County,Kentucky","Rowan County,Kentucky",16790,506925
+99,"Marshall County,Kentucky","Russell County,Kentucky",12912,383470
+100,"Marshall County,Kentucky","Scott County,Kentucky",14695,436456
+101,"Marshall County,Kentucky","Shelby County,Kentucky",12701,375577
+102,"Marshall County,Kentucky","Simpson County,Kentucky",8047,206556
+103,"Marshall County,Kentucky","Spencer County,Kentucky",11730,345833
+104,"Marshall County,Kentucky","Taylor County,Kentucky",11770,336144
+105,"Marshall County,Kentucky","Todd County,Kentucky",5548,147097
+106,"Marshall County,Kentucky","Trigg County,Kentucky",3432,70342
+107,"Marshall County,Kentucky","Trimble County,Kentucky",13763,408093
+108,"Marshall County,Kentucky","Union County,Kentucky",5998,129291
+109,"Marshall County,Kentucky","Warren County,Kentucky",7641,227265
+110,"Marshall County,Kentucky","Washington County,Kentucky",12041,348704
+111,"Marshall County,Kentucky","Wayne County,Kentucky",15157,413990
+112,"Marshall County,Kentucky","Webster County,Kentucky",5011,124806
+113,"Marshall County,Kentucky","Whitley County,Kentucky",17392,500186
+114,"Marshall County,Kentucky","Wolfe County,Kentucky",17524,520250
+115,"Marshall County,Kentucky","Woodford County,Kentucky",12932,388067
+116,"Marshall County,Kentucky","Adams County,Ohio",20244,592830
+117,"Marshall County,Kentucky","Allen County,Ohio",23786,708079
+118,"Marshall County,Kentucky","Ashland County,Ohio",26974,809957
+119,"Marshall County,Kentucky","Ashtabula County,Ohio",32721,994708
+120,"Marshall County,Kentucky","Athens County,Ohio",25438,739172
+121,"Marshall County,Kentucky","Auglaize County,Ohio",23042,695344
+122,"Marshall County,Kentucky","Belmont County,Ohio",28312,856389
+123,"Marshall County,Kentucky","Brown County,Ohio",19497,569384
+124,"Marshall County,Kentucky","Butler County,Ohio",18863,557953
+125,"Marshall County,Kentucky","Carroll County,Ohio",30277,893612
+126,"Marshall County,Kentucky","Champaign County,Ohio",21820,649525
+127,"Marshall County,Kentucky","Clark County,Ohio",21248,636158
+128,"Marshall County,Kentucky","Clermont County,Ohio",17614,529131
+129,"Marshall County,Kentucky","Clinton County,Ohio",19708,580438
+130,"Marshall County,Kentucky","Columbiana County,Ohio",31833,929201
+131,"Marshall County,Kentucky","Coshocton County,Ohio",26835,789029
+132,"Marshall County,Kentucky","Crawford County,Ohio",26512,801929
+133,"Marshall County,Kentucky","Cuyahoga County,Ohio",29292,892421
+134,"Marshall County,Kentucky","Darke County,Ohio",21864,619442
+135,"Marshall County,Kentucky","Defiance County,Ohio",25883,737843
+136,"Marshall County,Kentucky","Delaware County,Ohio",23892,716629
+137,"Marshall County,Kentucky","Fairfield County,Ohio",23295,699878
+138,"Marshall County,Kentucky","Fayette County,Ohio",20607,618043
+139,"Marshall County,Kentucky","Franklin County,Ohio",22409,676556
+140,"Marshall County,Kentucky","Fulton County,Ohio",27317,780421
+141,"Marshall County,Kentucky","Gallia County,Ohio",23592,684901
+142,"Marshall County,Kentucky","Geauga County,Ohio",30821,931640
+143,"Marshall County,Kentucky","Greene County,Ohio",20035,589792
+144,"Marshall County,Kentucky","Guernsey County,Ohio",26041,790070
+145,"Marshall County,Kentucky","Hamilton County,Ohio",17518,522437
+146,"Marshall County,Kentucky","Hancock County,Ohio",24895,748974
+147,"Marshall County,Kentucky","Hardin County,Ohio",24682,733371
+148,"Marshall County,Kentucky","Harrison County,Ohio",29282,875678
+149,"Marshall County,Kentucky","Henry County,Ohio",26619,773443
+150,"Marshall County,Kentucky","Highland County,Ohio",20557,592084
+151,"Marshall County,Kentucky","Hocking County,Ohio",24733,743282
+152,"Marshall County,Kentucky","Holmes County,Ohio",28386,825887
+153,"Marshall County,Kentucky","Huron County,Ohio",28121,808727
+154,"Marshall County,Kentucky","Jackson County,Ohio",22835,673542
+155,"Marshall County,Kentucky","Jefferson County,Ohio",30275,885456
+156,"Marshall County,Kentucky","Knox County,Ohio",26341,776250
+157,"Marshall County,Kentucky","Lawrence County,Ohio",21713,620958
+158,"Marshall County,Kentucky","Licking County,Ohio",24674,731474
+159,"Marshall County,Kentucky","Logan County,Ohio",23054,682062
+160,"Marshall County,Kentucky","Lorain County,Ohio",29906,867381
+161,"Marshall County,Kentucky","Lucas County,Ohio",28220,835494
+162,"Marshall County,Kentucky","Madison County,Ohio",21829,653225
+163,"Marshall County,Kentucky","Mahoning County,Ohio",31690,946340
+164,"Marshall County,Kentucky","Marion County,Ohio",24939,724064
+165,"Marshall County,Kentucky","Medina County,Ohio",27620,834970
+166,"Marshall County,Kentucky","Meigs County,Ohio",24524,715285
+167,"Marshall County,Kentucky","Mercer County,Ohio",23925,655961
+168,"Marshall County,Kentucky","Miami County,Ohio",20628,617782
+169,"Marshall County,Kentucky","Monroe County,Ohio",29718,870953
+170,"Marshall County,Kentucky","Montgomery County,Ohio",20011,595522
+171,"Marshall County,Kentucky","Morgan County,Ohio",27107,798566
+172,"Marshall County,Kentucky","Morrow County,Ohio",24699,739449
+173,"Marshall County,Kentucky","Muskingum County,Ohio",24892,756226
+174,"Marshall County,Kentucky","Noble County,Ohio",27741,827189
+175,"Marshall County,Kentucky","Paulding County,Ohio",24815,702762
+176,"Marshall County,Kentucky","Perry County,Ohio",24961,744809
+177,"Marshall County,Kentucky","Pickaway County,Ohio",22544,666639
+178,"Marshall County,Kentucky","Pike County,Ohio",21611,638526
+179,"Marshall County,Kentucky","Portage County,Ohio",30142,906119
+180,"Marshall County,Kentucky","Preble County,Ohio",20788,597668
+181,"Marshall County,Kentucky","Putnam County,Ohio",24960,740546
+182,"Marshall County,Kentucky","Richland County,Ohio",25729,774688
+183,"Marshall County,Kentucky","Ross County,Ohio",22188,665956
+184,"Marshall County,Kentucky","Sandusky County,Ohio",27935,829050
+185,"Marshall County,Kentucky","Scioto County,Ohio",21994,619649
+186,"Marshall County,Kentucky","Seneca County,Ohio",27239,805314
+187,"Marshall County,Kentucky","Shelby County,Ohio",21666,654068
+188,"Marshall County,Kentucky","Stark County,Ohio",29887,890503
+189,"Marshall County,Kentucky","Summit County,Ohio",28823,870297
+190,"Marshall County,Kentucky","Trumbull County,Ohio",31723,956611
+191,"Marshall County,Kentucky","Tuscarawas County,Ohio",28336,849434
+192,"Marshall County,Kentucky","Union County,Ohio",23181,679446
+193,"Marshall County,Kentucky","Van Wert County,Ohio",24953,719882
+194,"Marshall County,Kentucky","Vinton County,Ohio",24370,714709
+195,"Marshall County,Kentucky","Warren County,Ohio",18397,548694
+196,"Marshall County,Kentucky","Washington County,Ohio",27561,787234
+197,"Marshall County,Kentucky","Wayne County,Ohio",27348,823967
+198,"Marshall County,Kentucky","Williams County,Ohio",26873,757723
+199,"Marshall County,Kentucky","Wood County,Ohio",25983,789602
+200,"Marshall County,Kentucky","Wyandot County,Ohio",25590,769854
+201,"Marshall County,Kentucky","Accomack County,Virginia",49238,1457701
+202,"Marshall County,Kentucky","Albemarle County,Virginia",35388,1070201
+203,"Marshall County,Kentucky","Alleghany County,Virginia",30211,907921
+204,"Marshall County,Kentucky","Amelia County,Virginia",37960,1109056
+205,"Marshall County,Kentucky","Amherst County,Virginia",34862,1015115
+206,"Marshall County,Kentucky","Appomattox County,Virginia",35037,1028725
+207,"Marshall County,Kentucky","Arlington County,Virginia",42072,1270510
+208,"Marshall County,Kentucky","Augusta County,Virginia",34153,1009237
+209,"Marshall County,Kentucky","Bath County,Virginia",33223,983230
+210,"Marshall County,Kentucky","Bedford County,Virginia",32770,960035
+211,"Marshall County,Kentucky","Bland County,Virginia",26786,809637
+212,"Marshall County,Kentucky","Botetourt County,Virginia",31626,944100
+213,"Marshall County,Kentucky","Brunswick County,Virginia",39518,1173778
+214,"Marshall County,Kentucky","Buchanan County,Virginia",26568,717115
+215,"Marshall County,Kentucky","Buckingham County,Virginia",36151,1052635
+216,"Marshall County,Kentucky","Campbell County,Virginia",34186,1001270
+217,"Marshall County,Kentucky","Caroline County,Virginia",40727,1239046
+218,"Marshall County,Kentucky","Carroll County,Virginia",27730,840982
+219,"Marshall County,Kentucky","Charles City County,Virginia",40828,1236081
+220,"Marshall County,Kentucky","Charlotte County,Virginia",36735,1069206
+221,"Marshall County,Kentucky","Chesterfield County,Virginia",39654,1147946
+222,"Marshall County,Kentucky","Clarke County,Virginia",39568,1197258
+223,"Marshall County,Kentucky","Craig County,Virginia",31025,921668
+224,"Marshall County,Kentucky","Culpeper County,Virginia",39185,1159417
+225,"Marshall County,Kentucky","Cumberland County,Virginia",37565,1089866
+226,"Marshall County,Kentucky","Dickenson County,Virginia",25472,680107
+227,"Marshall County,Kentucky","Dinwiddie County,Virginia",39733,1152117
+228,"Marshall County,Kentucky","Essex County,Virginia",42545,1263089
+229,"Marshall County,Kentucky","Fairfax County,Virginia",41695,1260786
+230,"Marshall County,Kentucky","Fauquier County,Virginia",40006,1218510
+231,"Marshall County,Kentucky","Floyd County,Virginia",29622,881082
+232,"Marshall County,Kentucky","Fluvanna County,Virginia",37066,1122372
+233,"Marshall County,Kentucky","Franklin County,Virginia",32283,961268
+234,"Marshall County,Kentucky","Frederick County,Virginia",38387,1112090
+235,"Marshall County,Kentucky","Giles County,Virginia",29567,867710
+236,"Marshall County,Kentucky","Gloucester County,Virginia",42998,1290269
+237,"Marshall County,Kentucky","Goochland County,Virginia",37969,1152983
+238,"Marshall County,Kentucky","Grayson County,Virginia",27463,804149
+239,"Marshall County,Kentucky","Greene County,Virginia",37381,1105785
+240,"Marshall County,Kentucky","Greensville County,Virginia",40714,1191197
+241,"Marshall County,Kentucky","Halifax County,Virginia",36033,1038668
+242,"Marshall County,Kentucky","Hanover County,Virginia",39176,1194090
+243,"Marshall County,Kentucky","Henrico County,Virginia",39687,1207050
+244,"Marshall County,Kentucky","Henry County,Virginia",31603,927702
+245,"Marshall County,Kentucky","Highland County,Virginia",34667,993201
+246,"Marshall County,Kentucky","Isle of Wight County,Virginia",43853,1252238
+247,"Marshall County,Kentucky","James City County,Virginia",42064,1276852
+248,"Marshall County,Kentucky","King and Queen County,Virginia",41722,1252436
+249,"Marshall County,Kentucky","King George County,Virginia",41840,1267032
+250,"Marshall County,Kentucky","King William County,Virginia",40409,1222358
+251,"Marshall County,Kentucky","Lancaster County,Virginia",44202,1305443
+252,"Marshall County,Kentucky","Lee County,Virginia",22867,627981
+253,"Marshall County,Kentucky","Loudoun County,Virginia",41063,1233125
+254,"Marshall County,Kentucky","Louisa County,Virginia",37627,1136078
+255,"Marshall County,Kentucky","Lunenburg County,Virginia",38507,1110490
+256,"Marshall County,Kentucky","Madison County,Virginia",38301,1135525
+257,"Marshall County,Kentucky","Mathews County,Virginia",43823,1313693
+258,"Marshall County,Kentucky","Mecklenburg County,Virginia",38065,1090214
+259,"Marshall County,Kentucky","Middlesex County,Virginia",42600,1286469
+260,"Marshall County,Kentucky","Montgomery County,Virginia",28796,871586
+261,"Marshall County,Kentucky","Nelson County,Virginia",35413,1045512
+262,"Marshall County,Kentucky","New Kent County,Virginia",41500,1250766
+263,"Marshall County,Kentucky","Northampton County,Virginia",46481,1393515
+264,"Marshall County,Kentucky","Northumberland County,Virginia",44242,1303956
+265,"Marshall County,Kentucky","Nottoway County,Virginia",38000,1110870
+266,"Marshall County,Kentucky","Orange County,Virginia",38589,1144186
+267,"Marshall County,Kentucky","Page County,Virginia",37234,1119311
+268,"Marshall County,Kentucky","Patrick County,Virginia",29835,886017
+269,"Marshall County,Kentucky","Pittsylvania County,Virginia",33919,981911
+270,"Marshall County,Kentucky","Powhatan County,Virginia",39062,1124573
+271,"Marshall County,Kentucky","Prince Edward County,Virginia",36615,1068206
+272,"Marshall County,Kentucky","Prince George County,Virginia",41388,1191491
+273,"Marshall County,Kentucky","Prince William County,Virginia",40106,1224614
+274,"Marshall County,Kentucky","Pulaski County,Virginia",27472,832402
+275,"Marshall County,Kentucky","Rappahannock County,Virginia",39065,1155798
+276,"Marshall County,Kentucky","Richmond County,Virginia",42942,1276599
+277,"Marshall County,Kentucky","Roanoke County,Virginia",29577,891522
+278,"Marshall County,Kentucky","Rockbridge County,Virginia",32544,976277
+279,"Marshall County,Kentucky","Rockingham County,Virginia",36273,1091661
+280,"Marshall County,Kentucky","Russell County,Virginia",25715,743760
+281,"Marshall County,Kentucky","Scott County,Virginia",22982,679646
+282,"Marshall County,Kentucky","Shenandoah County,Virginia",36778,1121764
+283,"Marshall County,Kentucky","Smyth County,Virginia",24742,743852
+284,"Marshall County,Kentucky","Southampton County,Virginia",42330,1248721
+285,"Marshall County,Kentucky","Spotsylvania County,Virginia",39643,1177917
+286,"Marshall County,Kentucky","Stafford County,Virginia",41024,1202210
+287,"Marshall County,Kentucky","Surry County,Virginia",42807,1275713
+288,"Marshall County,Kentucky","Sussex County,Virginia",41614,1239500
+289,"Marshall County,Kentucky","Tazewell County,Virginia",26805,784921
+290,"Marshall County,Kentucky","Warren County,Virginia",38680,1166357
+291,"Marshall County,Kentucky","Washington County,Virginia",23853,707937
+292,"Marshall County,Kentucky","Westmoreland County,Virginia",42814,1283857
+293,"Marshall County,Kentucky","Wise County,Virginia",23736,656006
+294,"Marshall County,Kentucky","Wythe County,Virginia",25956,786311
+295,"Marshall County,Kentucky","York County,Virginia",43351,1307626
+296,"Marshall County,Kentucky","Alexandria City County,Virginia",42275,1283156
+297,"Marshall County,Kentucky","Bedford City County,Virginia",31934,951466
+298,"Marshall County,Kentucky","Bristol City County,Virginia",22452,675919
+299,"Marshall County,Kentucky","Buena Vista City County,Virginia",32446,980658
+300,"Marshall County,Kentucky","Charlottesville City County,Virginia",35857,1085415
+301,"Marshall County,Kentucky","Chesapeake City County,Virginia",44814,1360532
+302,"Marshall County,Kentucky","Clifton Forge City County,Virginia",30755,928127
+303,"Marshall County,Kentucky","Colonial Heights City County,Virginia",40523,1229757
+304,"Marshall County,Kentucky","Covington City County,Virginia",30280,911506
+305,"Marshall County,Kentucky","Danville City County,Virginia",33761,982158
+306,"Marshall County,Kentucky","Emporia City County,Virginia",40870,1205385
+307,"Marshall County,Kentucky","Fairfax City County,Virginia",41238,1250361
+308,"Marshall County,Kentucky","Falls Church City County,Virginia",41570,1264834
+309,"Marshall County,Kentucky","Franklin City County,Virginia",42957,1261855
+310,"Marshall County,Kentucky","Fredericksburg City County,Virginia",40776,1187576
+311,"Marshall County,Kentucky","Galax City County,Virginia",28353,846848
+312,"Marshall County,Kentucky","Hampton City County,Virginia",43301,1317333
+313,"Marshall County,Kentucky","Harrisonburg City County,Virginia",35333,1071557
+314,"Marshall County,Kentucky","Hopewell City County,Virginia",40560,1228723
+315,"Marshall County,Kentucky","Lexington City County,Virginia",32360,978986
+316,"Marshall County,Kentucky","Lynchburg City County,Virginia",33959,996341
+317,"Marshall County,Kentucky","Manassas City County,Virginia",40333,1229559
+318,"Marshall County,Kentucky","Manassas Park City County,Virginia",40835,1235902
+319,"Marshall County,Kentucky","Martinsville City County,Virginia",32131,936496
+320,"Marshall County,Kentucky","Newport News City County,Virginia",42858,1303818
+321,"Marshall County,Kentucky","Norfolk City County,Virginia",44608,1342748
+322,"Marshall County,Kentucky","Norton City County,Virginia",24365,667818
+323,"Marshall County,Kentucky","Petersburg City County,Virginia",40391,1174095
+324,"Marshall County,Kentucky","Poquoson City County,Virginia",43530,1314395
+325,"Marshall County,Kentucky","Portsmouth City County,Virginia",44547,1351569
+326,"Marshall County,Kentucky","Radford County,Virginia",27983,846350
+327,"Marshall County,Kentucky","Richmond City County,Virginia",39263,1194860
+328,"Marshall County,Kentucky","Roanoke City County,Virginia",30179,911627
+329,"Marshall County,Kentucky","Salem City County,Virginia",29590,898177
+330,"Marshall County,Kentucky","South Boston City County,Virginia",35773,1036337
+331,"Marshall County,Kentucky","Staunton City County,Virginia",34150,1032692
+332,"Marshall County,Kentucky","Suffolk City County,Virginia",44273,1295158
+333,"Marshall County,Kentucky","Virginia Beach City County,Virginia",45169,1366007
+334,"Marshall County,Kentucky","Waynesboro City County,Virginia",34488,1045410
+335,"Marshall County,Kentucky","Williamsburg City County,Virginia",41902,1276067
+336,"Marshall County,Kentucky","Winchester City County,Virginia",38899,1181129
+337,"Marshall County,Kentucky","Barbour County,West Virginia",30347,906787
+338,"Marshall County,Kentucky","Berkeley County,West Virginia",38280,1144947
+339,"Marshall County,Kentucky","Boone County,West Virginia",25526,740404
+340,"Marshall County,Kentucky","Braxton County,West Virginia",27037,797767
+341,"Marshall County,Kentucky","Brooke County,West Virginia",30391,898636
+342,"Marshall County,Kentucky","Cabell County,West Virginia",20097,606913
+343,"Marshall County,Kentucky","Calhoun County,West Virginia",26958,795451
+344,"Marshall County,Kentucky","Clay County,West Virginia",25804,768679
+345,"Marshall County,Kentucky","Doddridge County,West Virginia",29490,888297
+346,"Marshall County,Kentucky","Fayette County,West Virginia",27091,787024
+347,"Marshall County,Kentucky","Gilmer County,West Virginia",28236,819953
+348,"Marshall County,Kentucky","Grant County,West Virginia",34702,1008333
+349,"Marshall County,Kentucky","Greenbrier County,West Virginia",30165,865062
+350,"Marshall County,Kentucky","Hampshire County,West Virginia",37534,1106550
+351,"Marshall County,Kentucky","Hancock County,West Virginia",31981,933172
+352,"Marshall County,Kentucky","Hardy County,West Virginia",35758,1039830
+353,"Marshall County,Kentucky","Harrison County,West Virginia",29580,893158
+354,"Marshall County,Kentucky","Jackson County,West Virginia",24842,749783
+355,"Marshall County,Kentucky","Jefferson County,West Virginia",39746,1200945
+356,"Marshall County,Kentucky","Kanawha County,West Virginia",24400,721087
+357,"Marshall County,Kentucky","Lewis County,West Virginia",28210,846628
+358,"Marshall County,Kentucky","Lincoln County,West Virginia",23314,664563
+359,"Marshall County,Kentucky","Logan County,West Virginia",25570,708378
+360,"Marshall County,Kentucky","McDowell County,West Virginia",29422,760566
+361,"Marshall County,Kentucky","Marion County,West Virginia",30726,920325
+362,"Marshall County,Kentucky","Marshall County,West Virginia",30349,893144
+363,"Marshall County,Kentucky","Mason County,West Virginia",23078,697657
+364,"Marshall County,Kentucky","Mercer County,West Virginia",27726,832647
+365,"Marshall County,Kentucky","Mineral County,West Virginia",36396,1037153
+366,"Marshall County,Kentucky","Mingo County,West Virginia",24254,674831
+367,"Marshall County,Kentucky","Monongalia County,West Virginia",30936,945794
+368,"Marshall County,Kentucky","Monroe County,West Virginia",30772,877358
+369,"Marshall County,Kentucky","Morgan County,West Virginia",37771,1134338
+370,"Marshall County,Kentucky","Nicholas County,West Virginia",27520,828560
+371,"Marshall County,Kentucky","Ohio County,West Virginia",29410,879874
+372,"Marshall County,Kentucky","Pendleton County,West Virginia",35033,1010957
+373,"Marshall County,Kentucky","Pleasants County,West Virginia",28324,847635
+374,"Marshall County,Kentucky","Pocahontas County,West Virginia",32849,898099
+375,"Marshall County,Kentucky","Preston County,West Virginia",33082,972525
+376,"Marshall County,Kentucky","Putnam County,West Virginia",21780,659690
+377,"Marshall County,Kentucky","Raleigh County,West Virginia",26268,786339
+378,"Marshall County,Kentucky","Randolph County,West Virginia",30711,909083
+379,"Marshall County,Kentucky","Ritchie County,West Virginia",28655,861339
+380,"Marshall County,Kentucky","Roane County,West Virginia",26468,778598
+381,"Marshall County,Kentucky","Summers County,West Virginia",29720,847777
+382,"Marshall County,Kentucky","Taylor County,West Virginia",30618,915898
+383,"Marshall County,Kentucky","Tucker County,West Virginia",31778,939608
+384,"Marshall County,Kentucky","Tyler County,West Virginia",30234,887250
+385,"Marshall County,Kentucky","Upshur County,West Virginia",29775,861325
+386,"Marshall County,Kentucky","Wayne County,West Virginia",21628,628108
+387,"Marshall County,Kentucky","Webster County,West Virginia",29704,855640
+388,"Marshall County,Kentucky","Wetzel County,West Virginia",31446,909157
+389,"Marshall County,Kentucky","Wirt County,West Virginia",27108,807121
+390,"Marshall County,Kentucky","Wood County,West Virginia",26623,808810
+391,"Marshall County,Kentucky","Wyoming County,West Virginia",28212,826281

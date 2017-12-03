@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Scott County,Kentucky","Adair County,Kentucky",8217,203042
+1,"Scott County,Kentucky","Allen County,Kentucky",10174,289916
+2,"Scott County,Kentucky","Anderson County,Kentucky",3024,70793
+3,"Scott County,Kentucky","Ballard County,Kentucky",16334,482078
+4,"Scott County,Kentucky","Barren County,Kentucky",9301,258329
+5,"Scott County,Kentucky","Bath County,Kentucky",3484,103496
+6,"Scott County,Kentucky","Bell County,Kentucky",8719,231222
+7,"Scott County,Kentucky","Boone County,Kentucky",3490,88293
+8,"Scott County,Kentucky","Bourbon County,Kentucky",2083,40567
+9,"Scott County,Kentucky","Boyd County,Kentucky",6742,204953
+10,"Scott County,Kentucky","Boyle County,Kentucky",4509,110076
+11,"Scott County,Kentucky","Bracken County,Kentucky",4467,88001
+12,"Scott County,Kentucky","Breathitt County,Kentucky",6085,167677
+13,"Scott County,Kentucky","Breckinridge County,Kentucky",8558,223474
+14,"Scott County,Kentucky","Bullitt County,Kentucky",5128,144593
+15,"Scott County,Kentucky","Butler County,Kentucky",9554,266986
+16,"Scott County,Kentucky","Caldwell County,Kentucky",12446,372931
+17,"Scott County,Kentucky","Calloway County,Kentucky",15256,457924
+18,"Scott County,Kentucky","Campbell County,Kentucky",4014,85598
+19,"Scott County,Kentucky","Carlisle County,Kentucky",16791,497447
+20,"Scott County,Kentucky","Carroll County,Kentucky",4326,84399
+21,"Scott County,Kentucky","Carter County,Kentucky",5879,174210
+22,"Scott County,Kentucky","Casey County,Kentucky",6433,140205
+23,"Scott County,Kentucky","Christian County,Kentucky",12095,368188
+24,"Scott County,Kentucky","Clay County,Kentucky",6950,190267
+25,"Scott County,Kentucky","Clinton County,Kentucky",8672,229751
+26,"Scott County,Kentucky","Crittenden County,Kentucky",14025,406002
+27,"Scott County,Kentucky","Cumberland County,Kentucky",9426,247990
+28,"Scott County,Kentucky","Daviess County,Kentucky",10468,301848
+29,"Scott County,Kentucky","Edmonson County,Kentucky",8994,254861
+30,"Scott County,Kentucky","Elliott County,Kentucky",6655,165472
+31,"Scott County,Kentucky","Estill County,Kentucky",4018,104217
+32,"Scott County,Kentucky","Fayette County,Kentucky",1447,34711
+33,"Scott County,Kentucky","Fleming County,Kentucky",4983,106160
+34,"Scott County,Kentucky","Floyd County,Kentucky",8271,227707
+35,"Scott County,Kentucky","Franklin County,Kentucky",2679,50571
+36,"Scott County,Kentucky","Fulton County,Kentucky",17195,518411
+37,"Scott County,Kentucky","Gallatin County,Kentucky",3324,75058
+38,"Scott County,Kentucky","Garrard County,Kentucky",4477,114071
+39,"Scott County,Kentucky","Grant County,Kentucky",2123,49165
+40,"Scott County,Kentucky","Graves County,Kentucky",15816,470153
+41,"Scott County,Kentucky","Grayson County,Kentucky",7881,223622
+42,"Scott County,Kentucky","Green County,Kentucky",7661,188827
+43,"Scott County,Kentucky","Greenup County,Kentucky",7347,201540
+44,"Scott County,Kentucky","Hancock County,Kentucky",9353,256367
+45,"Scott County,Kentucky","Hardin County,Kentucky",6757,185755
+46,"Scott County,Kentucky","Harlan County,Kentucky",11013,286828
+47,"Scott County,Kentucky","Harrison County,Kentucky",2060,33647
+48,"Scott County,Kentucky","Hart County,Kentucky",7557,213383
+49,"Scott County,Kentucky","Henderson County,Kentucky",12052,344344
+50,"Scott County,Kentucky","Henry County,Kentucky",4478,85085
+51,"Scott County,Kentucky","Hickman County,Kentucky",16824,498738
+52,"Scott County,Kentucky","Hopkins County,Kentucky",11904,347400
+53,"Scott County,Kentucky","Jackson County,Kentucky",5462,134053
+54,"Scott County,Kentucky","Jefferson County,Kentucky",4564,116454
+55,"Scott County,Kentucky","Jessamine County,Kentucky",2708,58023
+56,"Scott County,Kentucky","Johnson County,Kentucky",7225,203700
+57,"Scott County,Kentucky","Kenton County,Kentucky",3376,84009
+58,"Scott County,Kentucky","Knott County,Kentucky",8544,231055
+59,"Scott County,Kentucky","Knox County,Kentucky",6880,192963
+60,"Scott County,Kentucky","Larue County,Kentucky",6829,172931
+61,"Scott County,Kentucky","Laurel County,Kentucky",5731,164358
+62,"Scott County,Kentucky","Lawrence County,Kentucky",8745,232088
+63,"Scott County,Kentucky","Lee County,Kentucky",5334,144134
+64,"Scott County,Kentucky","Leslie County,Kentucky",8900,241390
+65,"Scott County,Kentucky","Letcher County,Kentucky",9797,256028
+66,"Scott County,Kentucky","Lewis County,Kentucky",6437,171855
+67,"Scott County,Kentucky","Lincoln County,Kentucky",5187,130989
+68,"Scott County,Kentucky","Livingston County,Kentucky",14621,422899
+69,"Scott County,Kentucky","Logan County,Kentucky",11294,310225
+70,"Scott County,Kentucky","Lyon County,Kentucky",14755,433289
+71,"Scott County,Kentucky","McCracken County,Kentucky",14946,450138
+72,"Scott County,Kentucky","McCreary County,Kentucky",7836,208800
+73,"Scott County,Kentucky","Madison County,Kentucky",2870,77940
+74,"Scott County,Kentucky","Magoffin County,Kentucky",6694,185568
+75,"Scott County,Kentucky","Marion County,Kentucky",5207,134540
+76,"Scott County,Kentucky","Marshall County,Kentucky",14361,433710
+77,"Scott County,Kentucky","Martin County,Kentucky",10011,262046
+78,"Scott County,Kentucky","Mason County,Kentucky",5213,112133
+79,"Scott County,Kentucky","Meade County,Kentucky",7025,188769
+80,"Scott County,Kentucky","Menifee County,Kentucky",4759,116034
+81,"Scott County,Kentucky","Mercer County,Kentucky",3583,90251
+82,"Scott County,Kentucky","Metcalfe County,Kentucky",8921,256650
+83,"Scott County,Kentucky","Monroe County,Kentucky",10767,252737
+84,"Scott County,Kentucky","Montgomery County,Kentucky",3402,93943
+85,"Scott County,Kentucky","Morgan County,Kentucky",6084,173852
+86,"Scott County,Kentucky","Muhlenberg County,Kentucky",10765,313876
+87,"Scott County,Kentucky","Nelson County,Kentucky",4814,133611
+88,"Scott County,Kentucky","Nicholas County,Kentucky",3292,59112
+89,"Scott County,Kentucky","Ohio County,Kentucky",9678,281465
+90,"Scott County,Kentucky","Oldham County,Kentucky",4636,128335
+91,"Scott County,Kentucky","Owen County,Kentucky",2448,49771
+92,"Scott County,Kentucky","Owsley County,Kentucky",6480,164111
+93,"Scott County,Kentucky","Pendleton County,Kentucky",3192,66246
+94,"Scott County,Kentucky","Perry County,Kentucky",7696,207560
+95,"Scott County,Kentucky","Pike County,Kentucky",9951,258032
+96,"Scott County,Kentucky","Powell County,Kentucky",3695,102802
+97,"Scott County,Kentucky","Robertson County,Kentucky",3769,73948
+98,"Scott County,Kentucky","Rockcastle County,Kentucky",4304,119083
+99,"Scott County,Kentucky","Rowan County,Kentucky",4225,127348
+100,"Scott County,Kentucky","Russell County,Kentucky",7870,210369
+101,"Scott County,Kentucky","Shelby County,Kentucky",3493,87589
+102,"Scott County,Kentucky","Simpson County,Kentucky",10876,318282
+103,"Scott County,Kentucky","Spencer County,Kentucky",4023,93437
+104,"Scott County,Kentucky","Taylor County,Kentucky",6496,166036
+105,"Scott County,Kentucky","Todd County,Kentucky",12530,334385
+106,"Scott County,Kentucky","Trigg County,Kentucky",13508,394117
+107,"Scott County,Kentucky","Trimble County,Kentucky",5228,129284
+108,"Scott County,Kentucky","Union County,Kentucky",13772,374790
+109,"Scott County,Kentucky","Warren County,Kentucky",9910,283230
+110,"Scott County,Kentucky","Washington County,Kentucky",4825,118848
+111,"Scott County,Kentucky","Wayne County,Kentucky",8046,207441
+112,"Scott County,Kentucky","Webster County,Kentucky",13013,375488
+113,"Scott County,Kentucky","Whitley County,Kentucky",6564,198843
+114,"Scott County,Kentucky","Wolfe County,Kentucky",4959,140673
+115,"Scott County,Kentucky","Woodford County,Kentucky",1886,38948
+116,"Scott County,Kentucky","Adams County,Ohio",7254,194653
+117,"Scott County,Kentucky","Allen County,Ohio",10796,309902
+118,"Scott County,Kentucky","Ashland County,Ohio",13985,411780
+119,"Scott County,Kentucky","Ashtabula County,Ohio",19731,596532
+120,"Scott County,Kentucky","Athens County,Ohio",12448,340995
+121,"Scott County,Kentucky","Auglaize County,Ohio",10052,297167
+122,"Scott County,Kentucky","Belmont County,Ohio",15322,458212
+123,"Scott County,Kentucky","Brown County,Ohio",6628,147112
+124,"Scott County,Kentucky","Butler County,Ohio",5873,159776
+125,"Scott County,Kentucky","Carroll County,Ohio",17287,495435
+126,"Scott County,Kentucky","Champaign County,Ohio",8830,251349
+127,"Scott County,Kentucky","Clark County,Ohio",8258,237982
+128,"Scott County,Kentucky","Clermont County,Ohio",4624,130955
+129,"Scott County,Kentucky","Clinton County,Ohio",6718,182261
+130,"Scott County,Kentucky","Columbiana County,Ohio",18843,531024
+131,"Scott County,Kentucky","Coshocton County,Ohio",13846,390852
+132,"Scott County,Kentucky","Crawford County,Ohio",13522,403752
+133,"Scott County,Kentucky","Cuyahoga County,Ohio",16302,494245
+134,"Scott County,Kentucky","Darke County,Ohio",9149,254214
+135,"Scott County,Kentucky","Defiance County,Ohio",14283,388332
+136,"Scott County,Kentucky","Delaware County,Ohio",10902,318452
+137,"Scott County,Kentucky","Fairfield County,Ohio",10305,301701
+138,"Scott County,Kentucky","Fayette County,Ohio",7617,219866
+139,"Scott County,Kentucky","Franklin County,Ohio",9419,278379
+140,"Scott County,Kentucky","Fulton County,Ohio",15047,405276
+141,"Scott County,Kentucky","Gallia County,Ohio",11027,305324
+142,"Scott County,Kentucky","Geauga County,Ohio",17831,533463
+143,"Scott County,Kentucky","Greene County,Ohio",7045,191615
+144,"Scott County,Kentucky","Guernsey County,Ohio",13051,391893
+145,"Scott County,Kentucky","Hamilton County,Ohio",4528,124260
+146,"Scott County,Kentucky","Hancock County,Ohio",11905,350797
+147,"Scott County,Kentucky","Hardin County,Ohio",11692,335195
+148,"Scott County,Kentucky","Harrison County,Ohio",16292,477501
+149,"Scott County,Kentucky","Henry County,Ohio",13629,375266
+150,"Scott County,Kentucky","Highland County,Ohio",7567,193907
+151,"Scott County,Kentucky","Hocking County,Ohio",11743,345106
+152,"Scott County,Kentucky","Holmes County,Ohio",15396,427710
+153,"Scott County,Kentucky","Huron County,Ohio",15131,410550
+154,"Scott County,Kentucky","Jackson County,Ohio",9845,275365
+155,"Scott County,Kentucky","Jefferson County,Ohio",17286,487279
+156,"Scott County,Kentucky","Knox County,Ohio",13351,378074
+157,"Scott County,Kentucky","Lawrence County,Ohio",9148,241381
+158,"Scott County,Kentucky","Licking County,Ohio",11684,333297
+159,"Scott County,Kentucky","Logan County,Ohio",10064,283885
+160,"Scott County,Kentucky","Lorain County,Ohio",16916,469204
+161,"Scott County,Kentucky","Lucas County,Ohio",15230,437317
+162,"Scott County,Kentucky","Madison County,Ohio",8839,255048
+163,"Scott County,Kentucky","Mahoning County,Ohio",18700,548163
+164,"Scott County,Kentucky","Marion County,Ohio",11949,325887
+165,"Scott County,Kentucky","Medina County,Ohio",14630,436793
+166,"Scott County,Kentucky","Meigs County,Ohio",11959,335708
+167,"Scott County,Kentucky","Mercer County,Ohio",11288,324101
+168,"Scott County,Kentucky","Miami County,Ohio",7638,219606
+169,"Scott County,Kentucky","Monroe County,Ohio",16728,472776
+170,"Scott County,Kentucky","Montgomery County,Ohio",7021,197346
+171,"Scott County,Kentucky","Morgan County,Ohio",14117,400389
+172,"Scott County,Kentucky","Morrow County,Ohio",11709,341273
+173,"Scott County,Kentucky","Muskingum County,Ohio",11902,358049
+174,"Scott County,Kentucky","Noble County,Ohio",14751,429012
+175,"Scott County,Kentucky","Paulding County,Ohio",13327,372880
+176,"Scott County,Kentucky","Perry County,Ohio",11971,346632
+177,"Scott County,Kentucky","Pickaway County,Ohio",9554,268462
+178,"Scott County,Kentucky","Pike County,Ohio",8622,240350
+179,"Scott County,Kentucky","Portage County,Ohio",17152,507943
+180,"Scott County,Kentucky","Preble County,Ohio",7918,204175
+181,"Scott County,Kentucky","Putnam County,Ohio",11970,342370
+182,"Scott County,Kentucky","Richland County,Ohio",12739,376511
+183,"Scott County,Kentucky","Ross County,Ohio",9198,267779
+184,"Scott County,Kentucky","Sandusky County,Ohio",14945,430873
+185,"Scott County,Kentucky","Scioto County,Ohio",9215,210888
+186,"Scott County,Kentucky","Seneca County,Ohio",14249,407137
+187,"Scott County,Kentucky","Shelby County,Ohio",8676,255891
+188,"Scott County,Kentucky","Stark County,Ohio",16897,492326
+189,"Scott County,Kentucky","Summit County,Ohio",15833,472120
+190,"Scott County,Kentucky","Trumbull County,Ohio",18733,558435
+191,"Scott County,Kentucky","Tuscarawas County,Ohio",15346,451258
+192,"Scott County,Kentucky","Union County,Ohio",10191,281270
+193,"Scott County,Kentucky","Van Wert County,Ohio",11961,342425
+194,"Scott County,Kentucky","Vinton County,Ohio",11380,316532
+195,"Scott County,Kentucky","Warren County,Ohio",5407,150517
+196,"Scott County,Kentucky","Washington County,Ohio",14996,407657
+197,"Scott County,Kentucky","Wayne County,Ohio",14358,425790
+198,"Scott County,Kentucky","Williams County,Ohio",15460,411849
+199,"Scott County,Kentucky","Wood County,Ohio",12993,391426
+200,"Scott County,Kentucky","Wyandot County,Ohio",12600,371677
+201,"Scott County,Kentucky","Accomack County,Virginia",36827,1078821
+202,"Scott County,Kentucky","Albemarle County,Virginia",22977,691321
+203,"Scott County,Kentucky","Alleghany County,Virginia",17646,528344
+204,"Scott County,Kentucky","Amelia County,Virginia",27678,791439
+205,"Scott County,Kentucky","Amherst County,Virginia",22975,659309
+206,"Scott County,Kentucky","Appomattox County,Virginia",24568,698068
+207,"Scott County,Kentucky","Arlington County,Virginia",29260,887353
+208,"Scott County,Kentucky","Augusta County,Virginia",21588,629660
+209,"Scott County,Kentucky","Bath County,Virginia",20658,603653
+210,"Scott County,Kentucky","Bedford County,Virginia",23235,645434
+211,"Scott County,Kentucky","Bland County,Virginia",16608,494563
+212,"Scott County,Kentucky","Botetourt County,Virginia",20800,599643
+213,"Scott County,Kentucky","Brunswick County,Virginia",30221,841112
+214,"Scott County,Kentucky","Buchanan County,Virginia",14003,337538
+215,"Scott County,Kentucky","Buckingham County,Virginia",24851,709004
+216,"Scott County,Kentucky","Campbell County,Virginia",24492,700540
+217,"Scott County,Kentucky","Caroline County,Virginia",28316,860166
+218,"Scott County,Kentucky","Carroll County,Virginia",18854,564001
+219,"Scott County,Kentucky","Charles City County,Virginia",28417,857201
+220,"Scott County,Kentucky","Charlotte County,Virginia",26453,751589
+221,"Scott County,Kentucky","Chesterfield County,Virginia",27553,834985
+222,"Scott County,Kentucky","Clarke County,Virginia",27157,818378
+223,"Scott County,Kentucky","Craig County,Virginia",19289,549429
+224,"Scott County,Kentucky","Culpeper County,Virginia",26774,780537
+225,"Scott County,Kentucky","Cumberland County,Virginia",26061,737006
+226,"Scott County,Kentucky","Dickenson County,Virginia",13357,322974
+227,"Scott County,Kentucky","Dinwiddie County,Virginia",29300,885416
+228,"Scott County,Kentucky","Essex County,Virginia",30134,884209
+229,"Scott County,Kentucky","Fairfax County,Virginia",28951,878020
+230,"Scott County,Kentucky","Fauquier County,Virginia",27595,839630
+231,"Scott County,Kentucky","Floyd County,Virginia",20474,582965
+232,"Scott County,Kentucky","Fluvanna County,Virginia",24655,743492
+233,"Scott County,Kentucky","Franklin County,Virginia",22748,646668
+234,"Scott County,Kentucky","Frederick County,Virginia",25822,732513
+235,"Scott County,Kentucky","Giles County,Virginia",17339,506121
+236,"Scott County,Kentucky","Gloucester County,Virginia",30587,911389
+237,"Scott County,Kentucky","Goochland County,Virginia",25558,774103
+238,"Scott County,Kentucky","Grayson County,Virginia",19256,553708
+239,"Scott County,Kentucky","Greene County,Virginia",24970,726905
+240,"Scott County,Kentucky","Greensville County,Virginia",30716,934168
+241,"Scott County,Kentucky","Halifax County,Virginia",27157,761688
+242,"Scott County,Kentucky","Hanover County,Virginia",26765,815210
+243,"Scott County,Kentucky","Henrico County,Virginia",27276,828170
+244,"Scott County,Kentucky","Henry County,Virginia",22727,650722
+245,"Scott County,Kentucky","Highland County,Virginia",22102,613624
+246,"Scott County,Kentucky","Isle of Wight County,Virginia",31528,932747
+247,"Scott County,Kentucky","James City County,Virginia",29653,897972
+248,"Scott County,Kentucky","King and Queen County,Virginia",29311,873556
+249,"Scott County,Kentucky","King George County,Virginia",29429,888152
+250,"Scott County,Kentucky","King William County,Virginia",27998,843478
+251,"Scott County,Kentucky","Lancaster County,Virginia",31791,926563
+252,"Scott County,Kentucky","Lee County,Virginia",11810,307781
+253,"Scott County,Kentucky","Loudoun County,Virginia",28653,854245
+254,"Scott County,Kentucky","Louisa County,Virginia",25216,757198
+255,"Scott County,Kentucky","Lunenburg County,Virginia",28225,792873
+256,"Scott County,Kentucky","Madison County,Virginia",25890,756645
+257,"Scott County,Kentucky","Mathews County,Virginia",31412,934813
+258,"Scott County,Kentucky","Mecklenburg County,Virginia",29216,805998
+259,"Scott County,Kentucky","Middlesex County,Virginia",30189,907589
+260,"Scott County,Kentucky","Montgomery County,Virginia",18422,534128
+261,"Scott County,Kentucky","Nelson County,Virginia",23516,671001
+262,"Scott County,Kentucky","New Kent County,Virginia",29089,871886
+263,"Scott County,Kentucky","Northampton County,Virginia",34070,1014635
+264,"Scott County,Kentucky","Northumberland County,Virginia",31831,925076
+265,"Scott County,Kentucky","Nottoway County,Virginia",27718,793253
+266,"Scott County,Kentucky","Orange County,Virginia",26178,765306
+267,"Scott County,Kentucky","Page County,Virginia",24823,740431
+268,"Scott County,Kentucky","Patrick County,Virginia",20959,609036
+269,"Scott County,Kentucky","Pittsylvania County,Virginia",25043,704930
+270,"Scott County,Kentucky","Powhatan County,Virginia",26812,799325
+271,"Scott County,Kentucky","Prince Edward County,Virginia",26333,750588
+272,"Scott County,Kentucky","Prince George County,Virginia",29063,872000
+273,"Scott County,Kentucky","Prince William County,Virginia",27695,845734
+274,"Scott County,Kentucky","Pulaski County,Virginia",18517,530460
+275,"Scott County,Kentucky","Rappahannock County,Virginia",26654,776918
+276,"Scott County,Kentucky","Richmond County,Virginia",30531,897719
+277,"Scott County,Kentucky","Roanoke County,Virginia",20041,576922
+278,"Scott County,Kentucky","Rockbridge County,Virginia",19979,596700
+279,"Scott County,Kentucky","Rockingham County,Virginia",23863,712781
+280,"Scott County,Kentucky","Russell County,Virginia",15534,356087
+281,"Scott County,Kentucky","Scott County,Virginia",14130,355622
+282,"Scott County,Kentucky","Shenandoah County,Virginia",24367,742884
+283,"Scott County,Kentucky","Smyth County,Virginia",17644,438575
+284,"Scott County,Kentucky","Southampton County,Virginia",31094,930282
+285,"Scott County,Kentucky","Spotsylvania County,Virginia",27232,799037
+286,"Scott County,Kentucky","Stafford County,Virginia",28613,823330
+287,"Scott County,Kentucky","Surry County,Virginia",30396,896833
+288,"Scott County,Kentucky","Sussex County,Virginia",29758,900525
+289,"Scott County,Kentucky","Tazewell County,Virginia",16247,394312
+290,"Scott County,Kentucky","Warren County,Virginia",26269,787477
+291,"Scott County,Kentucky","Washington County,Virginia",15755,389692
+292,"Scott County,Kentucky","Westmoreland County,Virginia",30404,904977
+293,"Scott County,Kentucky","Wise County,Virginia",11621,298873
+294,"Scott County,Kentucky","Wythe County,Virginia",17213,512780
+295,"Scott County,Kentucky","York County,Virginia",30940,928746
+296,"Scott County,Kentucky","Alexandria City County,Virginia",29776,904534
+297,"Scott County,Kentucky","Bedford City County,Virginia",22399,636866
+298,"Scott County,Kentucky","Bristol City County,Virginia",16083,396949
+299,"Scott County,Kentucky","Buena Vista City County,Virginia",20334,610677
+300,"Scott County,Kentucky","Charlottesville City County,Virginia",23446,706535
+301,"Scott County,Kentucky","Chesapeake City County,Virginia",32404,981652
+302,"Scott County,Kentucky","Clifton Forge City County,Virginia",18190,548550
+303,"Scott County,Kentucky","Colonial Heights City County,Virginia",28113,850877
+304,"Scott County,Kentucky","Covington City County,Virginia",17715,531929
+305,"Scott County,Kentucky","Danville City County,Virginia",24885,705178
+306,"Scott County,Kentucky","Emporia City County,Virginia",30423,920761
+307,"Scott County,Kentucky","Fairfax City County,Virginia",28827,871481
+308,"Scott County,Kentucky","Falls Church City County,Virginia",28968,881665
+309,"Scott County,Kentucky","Franklin City County,Virginia",31641,938137
+310,"Scott County,Kentucky","Fredericksburg City County,Virginia",28365,808696
+311,"Scott County,Kentucky","Galax City County,Virginia",19477,569867
+312,"Scott County,Kentucky","Hampton City County,Virginia",30890,938453
+313,"Scott County,Kentucky","Harrisonburg City County,Virginia",22922,692677
+314,"Scott County,Kentucky","Hopewell City County,Virginia",28149,849843
+315,"Scott County,Kentucky","Lexington City County,Virginia",19968,599169
+316,"Scott County,Kentucky","Lynchburg City County,Virginia",23551,674283
+317,"Scott County,Kentucky","Manassas City County,Virginia",27922,850678
+318,"Scott County,Kentucky","Manassas Park City County,Virginia",28425,857022
+319,"Scott County,Kentucky","Martinsville City County,Virginia",23255,659515
+320,"Scott County,Kentucky","Newport News City County,Virginia",30447,924938
+321,"Scott County,Kentucky","Norfolk City County,Virginia",32197,963868
+322,"Scott County,Kentucky","Norton City County,Virginia",12250,310685
+323,"Scott County,Kentucky","Petersburg City County,Virginia",27984,851865
+324,"Scott County,Kentucky","Poquoson City County,Virginia",31119,935515
+325,"Scott County,Kentucky","Portsmouth City County,Virginia",32136,972689
+326,"Scott County,Kentucky","Radford County,Virginia",18829,532169
+327,"Scott County,Kentucky","Richmond City County,Virginia",26852,815980
+328,"Scott County,Kentucky","Roanoke City County,Virginia",20644,597027
+329,"Scott County,Kentucky","Salem City County,Virginia",20055,583576
+330,"Scott County,Kentucky","South Boston City County,Virginia",26897,759356
+331,"Scott County,Kentucky","Staunton City County,Virginia",21739,653812
+332,"Scott County,Kentucky","Suffolk City County,Virginia",32371,947471
+333,"Scott County,Kentucky","Virginia Beach City County,Virginia",32758,987127
+334,"Scott County,Kentucky","Waynesboro City County,Virginia",22077,666530
+335,"Scott County,Kentucky","Williamsburg City County,Virginia",29491,897187
+336,"Scott County,Kentucky","Winchester City County,Virginia",26301,766514
+337,"Scott County,Kentucky","Barbour County,West Virginia",17782,527210
+338,"Scott County,Kentucky","Berkeley County,West Virginia",25715,765370
+339,"Scott County,Kentucky","Boone County,West Virginia",12961,360827
+340,"Scott County,Kentucky","Braxton County,West Virginia",14472,418190
+341,"Scott County,Kentucky","Brooke County,West Virginia",17401,500460
+342,"Scott County,Kentucky","Cabell County,West Virginia",7532,227336
+343,"Scott County,Kentucky","Calhoun County,West Virginia",14393,415874
+344,"Scott County,Kentucky","Clay County,West Virginia",13239,389102
+345,"Scott County,Kentucky","Doddridge County,West Virginia",16925,508720
+346,"Scott County,Kentucky","Fayette County,West Virginia",14526,407447
+347,"Scott County,Kentucky","Gilmer County,West Virginia",15671,440376
+348,"Scott County,Kentucky","Grant County,West Virginia",22137,628756
+349,"Scott County,Kentucky","Greenbrier County,West Virginia",17600,485485
+350,"Scott County,Kentucky","Hampshire County,West Virginia",24969,726973
+351,"Scott County,Kentucky","Hancock County,West Virginia",18991,534995
+352,"Scott County,Kentucky","Hardy County,West Virginia",23193,660253
+353,"Scott County,Kentucky","Harrison County,West Virginia",17015,513581
+354,"Scott County,Kentucky","Jackson County,West Virginia",12277,370206
+355,"Scott County,Kentucky","Jefferson County,West Virginia",27181,821368
+356,"Scott County,Kentucky","Kanawha County,West Virginia",11835,341510
+357,"Scott County,Kentucky","Lewis County,West Virginia",15645,467051
+358,"Scott County,Kentucky","Lincoln County,West Virginia",10749,284986
+359,"Scott County,Kentucky","Logan County,West Virginia",13006,328801
+360,"Scott County,Kentucky","McDowell County,West Virginia",16857,380989
+361,"Scott County,Kentucky","Marion County,West Virginia",18161,540748
+362,"Scott County,Kentucky","Marshall County,West Virginia",17359,494967
+363,"Scott County,Kentucky","Mason County,West Virginia",10514,318080
+364,"Scott County,Kentucky","Mercer County,West Virginia",15162,453070
+365,"Scott County,Kentucky","Mineral County,West Virginia",23832,657576
+366,"Scott County,Kentucky","Mingo County,West Virginia",11689,295254
+367,"Scott County,Kentucky","Monongalia County,West Virginia",18371,566217
+368,"Scott County,Kentucky","Monroe County,West Virginia",18207,497781
+369,"Scott County,Kentucky","Morgan County,West Virginia",25206,754761
+370,"Scott County,Kentucky","Nicholas County,West Virginia",14955,448983
+371,"Scott County,Kentucky","Ohio County,West Virginia",16420,481697
+372,"Scott County,Kentucky","Pendleton County,West Virginia",22468,631380
+373,"Scott County,Kentucky","Pleasants County,West Virginia",15760,468058
+374,"Scott County,Kentucky","Pocahontas County,West Virginia",20284,518522
+375,"Scott County,Kentucky","Preston County,West Virginia",20517,592948
+376,"Scott County,Kentucky","Putnam County,West Virginia",9215,280113
+377,"Scott County,Kentucky","Raleigh County,West Virginia",13703,406762
+378,"Scott County,Kentucky","Randolph County,West Virginia",18146,529506
+379,"Scott County,Kentucky","Ritchie County,West Virginia",16090,481762
+380,"Scott County,Kentucky","Roane County,West Virginia",13903,399021
+381,"Scott County,Kentucky","Summers County,West Virginia",17155,468200
+382,"Scott County,Kentucky","Taylor County,West Virginia",18053,536321
+383,"Scott County,Kentucky","Tucker County,West Virginia",19213,560031
+384,"Scott County,Kentucky","Tyler County,West Virginia",17669,507673
+385,"Scott County,Kentucky","Upshur County,West Virginia",17210,481748
+386,"Scott County,Kentucky","Wayne County,West Virginia",9063,248531
+387,"Scott County,Kentucky","Webster County,West Virginia",17139,476063
+388,"Scott County,Kentucky","Wetzel County,West Virginia",18881,529580
+389,"Scott County,Kentucky","Wirt County,West Virginia",14543,427544
+390,"Scott County,Kentucky","Wood County,West Virginia",14058,429233
+391,"Scott County,Kentucky","Wyoming County,West Virginia",15647,446704

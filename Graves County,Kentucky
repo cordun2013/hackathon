@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Graves County,Kentucky","Adair County,Kentucky",13203,392717
+1,"Graves County,Kentucky","Allen County,Kentucky",10433,303685
+2,"Graves County,Kentucky","Anderson County,Kentucky",13756,403260
+3,"Graves County,Kentucky","Ballard County,Kentucky",3119,59539
+4,"Graves County,Kentucky","Barren County,Kentucky",11614,340411
+5,"Graves County,Kentucky","Bath County,Kentucky",17447,520529
+6,"Graves County,Kentucky","Bell County,Kentucky",21173,588878
+7,"Graves County,Kentucky","Boone County,Kentucky",17877,523925
+8,"Graves County,Kentucky","Bourbon County,Kentucky",16512,475039
+9,"Graves County,Kentucky","Boyd County,Kentucky",20705,621985
+10,"Graves County,Kentucky","Boyle County,Kentucky",14267,411179
+11,"Graves County,Kentucky","Bracken County,Kentucky",19720,537878
+12,"Graves County,Kentucky","Breathitt County,Kentucky",20047,584709
+13,"Graves County,Kentucky","Breckinridge County,Kentucky",10491,281607
+14,"Graves County,Kentucky","Bullitt County,Kentucky",11711,347335
+15,"Graves County,Kentucky","Butler County,Kentucky",8137,234050
+16,"Graves County,Kentucky","Caldwell County,Kentucky",4400,110173
+17,"Graves County,Kentucky","Calloway County,Kentucky",2276,47502
+18,"Graves County,Kentucky","Campbell County,Kentucky",18748,553628
+19,"Graves County,Kentucky","Carlisle County,Kentucky",2012,38038
+20,"Graves County,Kentucky","Carroll County,Kentucky",15361,457702
+21,"Graves County,Kentucky","Carter County,Kentucky",19841,591242
+22,"Graves County,Kentucky","Casey County,Kentucky",15503,420895
+23,"Graves County,Kentucky","Christian County,Kentucky",5858,141148
+24,"Graves County,Kentucky","Clay County,Kentucky",19337,547907
+25,"Graves County,Kentucky","Clinton County,Kentucky",15154,421246
+26,"Graves County,Kentucky","Crittenden County,Kentucky",5391,122108
+27,"Graves County,Kentucky","Cumberland County,Kentucky",14313,397346
+28,"Graves County,Kentucky","Daviess County,Kentucky",8740,232403
+29,"Graves County,Kentucky","Edmonson County,Kentucky",10098,271222
+30,"Graves County,Kentucky","Elliott County,Kentucky",20617,582504
+31,"Graves County,Kentucky","Estill County,Kentucky",17931,513393
+32,"Graves County,Kentucky","Fayette County,Kentucky",15074,445264
+33,"Graves County,Kentucky","Fleming County,Kentucky",18876,550748
+34,"Graves County,Kentucky","Floyd County,Kentucky",22234,644740
+35,"Graves County,Kentucky","Franklin County,Kentucky",15415,441952
+36,"Graves County,Kentucky","Fulton County,Kentucky",2266,48617
+37,"Graves County,Kentucky","Gallatin County,Kentucky",16070,477027
+38,"Graves County,Kentucky","Garrard County,Kentucky",15909,443375
+39,"Graves County,Kentucky","Grant County,Kentucky",17436,502480
+40,"Graves County,Kentucky","Grayson County,Kentucky",8913,250837
+41,"Graves County,Kentucky","Green County,Kentucky",12936,344744
+42,"Graves County,Kentucky","Greenup County,Kentucky",21310,618572
+43,"Graves County,Kentucky","Hancock County,Kentucky",10080,273504
+44,"Graves County,Kentucky","Hardin County,Kentucky",10310,296355
+45,"Graves County,Kentucky","Harlan County,Kentucky",23468,644483
+46,"Graves County,Kentucky","Harrison County,Kentucky",17283,491985
+47,"Graves County,Kentucky","Hart County,Kentucky",11331,309786
+48,"Graves County,Kentucky","Henderson County,Kentucky",7728,213672
+49,"Graves County,Kentucky","Henry County,Kentucky",15036,438450
+50,"Graves County,Kentucky","Hickman County,Kentucky",1572,28896
+51,"Graves County,Kentucky","Hopkins County,Kentucky",5825,147203
+52,"Graves County,Kentucky","Jackson County,Kentucky",19068,542259
+53,"Graves County,Kentucky","Jefferson County,Kentucky",12969,378841
+54,"Graves County,Kentucky","Jessamine County,Kentucky",15204,442924
+55,"Graves County,Kentucky","Johnson County,Kentucky",21188,620733
+56,"Graves County,Kentucky","Kenton County,Kentucky",17764,519641
+57,"Graves County,Kentucky","Knott County,Kentucky",22139,628612
+58,"Graves County,Kentucky","Knox County,Kentucky",19406,541788
+59,"Graves County,Kentucky","Larue County,Kentucky",11209,327587
+60,"Graves County,Kentucky","Laurel County,Kentucky",18147,512658
+61,"Graves County,Kentucky","Lawrence County,Kentucky",22708,649121
+62,"Graves County,Kentucky","Lee County,Kentucky",19296,561167
+63,"Graves County,Kentucky","Leslie County,Kentucky",21287,599030
+64,"Graves County,Kentucky","Letcher County,Kentucky",23310,650617
+65,"Graves County,Kentucky","Lewis County,Kentucky",20400,588888
+66,"Graves County,Kentucky","Lincoln County,Kentucky",15652,441111
+67,"Graves County,Kentucky","Livingston County,Kentucky",4120,85724
+68,"Graves County,Kentucky","Logan County,Kentucky",8120,198293
+69,"Graves County,Kentucky","Lyon County,Kentucky",4276,92210
+70,"Graves County,Kentucky","McCracken County,Kentucky",2371,49706
+71,"Graves County,Kentucky","McCreary County,Kentucky",17456,505564
+72,"Graves County,Kentucky","Madison County,Kentucky",16783,487117
+73,"Graves County,Kentucky","Magoffin County,Kentucky",20657,602600
+74,"Graves County,Kentucky","Marion County,Kentucky",13331,386477
+75,"Graves County,Kentucky","Marshall County,Kentucky",2124,46217
+76,"Graves County,Kentucky","Martin County,Kentucky",23974,679078
+77,"Graves County,Kentucky","Mason County,Kentucky",19641,546605
+78,"Graves County,Kentucky","Meade County,Kentucky",11961,317528
+79,"Graves County,Kentucky","Menifee County,Kentucky",18721,533067
+80,"Graves County,Kentucky","Mercer County,Kentucky",14114,410055
+81,"Graves County,Kentucky","Metcalfe County,Kentucky",12177,363063
+82,"Graves County,Kentucky","Monroe County,Kentucky",12932,369091
+83,"Graves County,Kentucky","Montgomery County,Kentucky",17365,510976
+84,"Graves County,Kentucky","Morgan County,Kentucky",20047,590885
+85,"Graves County,Kentucky","Muhlenberg County,Kentucky",6619,177135
+86,"Graves County,Kentucky","Nelson County,Kentucky",11607,345540
+87,"Graves County,Kentucky","Nicholas County,Kentucky",17768,502421
+88,"Graves County,Kentucky","Ohio County,Kentucky",8171,228810
+89,"Graves County,Kentucky","Oldham County,Kentucky",13762,405749
+90,"Graves County,Kentucky","Owen County,Kentucky",16757,474126
+91,"Graves County,Kentucky","Owsley County,Kentucky",20367,563760
+92,"Graves County,Kentucky","Pendleton County,Kentucky",18703,538345
+93,"Graves County,Kentucky","Perry County,Kentucky",21522,607731
+94,"Graves County,Kentucky","Pike County,Kentucky",23914,675064
+95,"Graves County,Kentucky","Powell County,Kentucky",17658,519834
+96,"Graves County,Kentucky","Robertson County,Kentucky",18538,523547
+97,"Graves County,Kentucky","Rockcastle County,Kentucky",17398,477797
+98,"Graves County,Kentucky","Rowan County,Kentucky",18188,544381
+99,"Graves County,Kentucky","Russell County,Kentucky",14310,420926
+100,"Graves County,Kentucky","Scott County,Kentucky",16093,473911
+101,"Graves County,Kentucky","Shelby County,Kentucky",14098,413033
+102,"Graves County,Kentucky","Simpson County,Kentucky",9493,229731
+103,"Graves County,Kentucky","Spencer County,Kentucky",13127,383288
+104,"Graves County,Kentucky","Taylor County,Kentucky",13168,373600
+105,"Graves County,Kentucky","Todd County,Kentucky",6994,170272
+106,"Graves County,Kentucky","Trigg County,Kentucky",4720,106352
+107,"Graves County,Kentucky","Trimble County,Kentucky",15160,445549
+108,"Graves County,Kentucky","Union County,Kentucky",7396,166746
+109,"Graves County,Kentucky","Warren County,Kentucky",9039,264721
+110,"Graves County,Kentucky","Washington County,Kentucky",13438,386160
+111,"Graves County,Kentucky","Wayne County,Kentucky",16555,451446
+112,"Graves County,Kentucky","Webster County,Kentucky",6409,162262
+113,"Graves County,Kentucky","Whitley County,Kentucky",18789,537642
+114,"Graves County,Kentucky","Wolfe County,Kentucky",18922,557706
+115,"Graves County,Kentucky","Woodford County,Kentucky",14329,425522
+116,"Graves County,Kentucky","Adams County,Ohio",21642,630285
+117,"Graves County,Kentucky","Allen County,Ohio",25183,745534
+118,"Graves County,Kentucky","Ashland County,Ohio",28372,847412
+119,"Graves County,Kentucky","Ashtabula County,Ohio",34118,1032164
+120,"Graves County,Kentucky","Athens County,Ohio",26836,776628
+121,"Graves County,Kentucky","Auglaize County,Ohio",24439,732799
+122,"Graves County,Kentucky","Belmont County,Ohio",29710,893844
+123,"Graves County,Kentucky","Brown County,Ohio",20895,606840
+124,"Graves County,Kentucky","Butler County,Ohio",20261,595408
+125,"Graves County,Kentucky","Carroll County,Ohio",31674,931068
+126,"Graves County,Kentucky","Champaign County,Ohio",23217,686981
+127,"Graves County,Kentucky","Clark County,Ohio",22646,673614
+128,"Graves County,Kentucky","Clermont County,Ohio",19012,566587
+129,"Graves County,Kentucky","Clinton County,Ohio",21106,617893
+130,"Graves County,Kentucky","Columbiana County,Ohio",33231,966657
+131,"Graves County,Kentucky","Coshocton County,Ohio",28233,826485
+132,"Graves County,Kentucky","Crawford County,Ohio",27910,839385
+133,"Graves County,Kentucky","Cuyahoga County,Ohio",30690,929877
+134,"Graves County,Kentucky","Darke County,Ohio",23261,656897
+135,"Graves County,Kentucky","Defiance County,Ohio",27281,775298
+136,"Graves County,Kentucky","Delaware County,Ohio",25289,754084
+137,"Graves County,Kentucky","Fairfield County,Ohio",24693,737333
+138,"Graves County,Kentucky","Fayette County,Ohio",22005,655498
+139,"Graves County,Kentucky","Franklin County,Ohio",23807,714012
+140,"Graves County,Kentucky","Fulton County,Ohio",28715,817877
+141,"Graves County,Kentucky","Gallia County,Ohio",24990,722357
+142,"Graves County,Kentucky","Geauga County,Ohio",32219,969096
+143,"Graves County,Kentucky","Greene County,Ohio",21433,627247
+144,"Graves County,Kentucky","Guernsey County,Ohio",27439,827525
+145,"Graves County,Kentucky","Hamilton County,Ohio",18916,559893
+146,"Graves County,Kentucky","Hancock County,Ohio",26293,786430
+147,"Graves County,Kentucky","Hardin County,Ohio",26080,770827
+148,"Graves County,Kentucky","Harrison County,Ohio",30680,913133
+149,"Graves County,Kentucky","Henry County,Ohio",28017,810898
+150,"Graves County,Kentucky","Highland County,Ohio",21954,629539
+151,"Graves County,Kentucky","Hocking County,Ohio",26130,780738
+152,"Graves County,Kentucky","Holmes County,Ohio",29784,863343
+153,"Graves County,Kentucky","Huron County,Ohio",29519,846183
+154,"Graves County,Kentucky","Jackson County,Ohio",24233,710997
+155,"Graves County,Kentucky","Jefferson County,Ohio",31673,922911
+156,"Graves County,Kentucky","Knox County,Ohio",27739,813706
+157,"Graves County,Kentucky","Lawrence County,Ohio",23111,658414
+158,"Graves County,Kentucky","Licking County,Ohio",26072,768929
+159,"Graves County,Kentucky","Logan County,Ohio",24452,719518
+160,"Graves County,Kentucky","Lorain County,Ohio",31304,904837
+161,"Graves County,Kentucky","Lucas County,Ohio",29618,872950
+162,"Graves County,Kentucky","Madison County,Ohio",23227,690681
+163,"Graves County,Kentucky","Mahoning County,Ohio",33088,983796
+164,"Graves County,Kentucky","Marion County,Ohio",26336,761520
+165,"Graves County,Kentucky","Medina County,Ohio",29017,872425
+166,"Graves County,Kentucky","Meigs County,Ohio",25922,752741
+167,"Graves County,Kentucky","Mercer County,Ohio",25322,693417
+168,"Graves County,Kentucky","Miami County,Ohio",22026,655238
+169,"Graves County,Kentucky","Monroe County,Ohio",31115,908409
+170,"Graves County,Kentucky","Montgomery County,Ohio",21409,632978
+171,"Graves County,Kentucky","Morgan County,Ohio",28505,836021
+172,"Graves County,Kentucky","Morrow County,Ohio",26097,776905
+173,"Graves County,Kentucky","Muskingum County,Ohio",26290,793681
+174,"Graves County,Kentucky","Noble County,Ohio",29138,864645
+175,"Graves County,Kentucky","Paulding County,Ohio",26213,740217
+176,"Graves County,Kentucky","Perry County,Ohio",26358,782265
+177,"Graves County,Kentucky","Pickaway County,Ohio",23942,704094
+178,"Graves County,Kentucky","Pike County,Ohio",23009,675982
+179,"Graves County,Kentucky","Portage County,Ohio",31539,943575
+180,"Graves County,Kentucky","Preble County,Ohio",22186,635124
+181,"Graves County,Kentucky","Putnam County,Ohio",26358,778002
+182,"Graves County,Kentucky","Richland County,Ohio",27127,812144
+183,"Graves County,Kentucky","Ross County,Ohio",23585,703411
+184,"Graves County,Kentucky","Sandusky County,Ohio",29333,866506
+185,"Graves County,Kentucky","Scioto County,Ohio",23392,657104
+186,"Graves County,Kentucky","Seneca County,Ohio",28637,842769
+187,"Graves County,Kentucky","Shelby County,Ohio",23064,691524
+188,"Graves County,Kentucky","Stark County,Ohio",31285,927958
+189,"Graves County,Kentucky","Summit County,Ohio",30220,907753
+190,"Graves County,Kentucky","Trumbull County,Ohio",33121,994067
+191,"Graves County,Kentucky","Tuscarawas County,Ohio",29734,886890
+192,"Graves County,Kentucky","Union County,Ohio",24579,716902
+193,"Graves County,Kentucky","Van Wert County,Ohio",26351,757338
+194,"Graves County,Kentucky","Vinton County,Ohio",25768,752164
+195,"Graves County,Kentucky","Warren County,Ohio",19795,586149
+196,"Graves County,Kentucky","Washington County,Ohio",28959,824690
+197,"Graves County,Kentucky","Wayne County,Ohio",28745,861423
+198,"Graves County,Kentucky","Williams County,Ohio",28271,795179
+199,"Graves County,Kentucky","Wood County,Ohio",27380,827058
+200,"Graves County,Kentucky","Wyandot County,Ohio",26988,807310
+201,"Graves County,Kentucky","Accomack County,Virginia",50636,1495157
+202,"Graves County,Kentucky","Albemarle County,Virginia",36786,1107656
+203,"Graves County,Kentucky","Alleghany County,Virginia",31609,945376
+204,"Graves County,Kentucky","Amelia County,Virginia",39357,1146512
+205,"Graves County,Kentucky","Amherst County,Virginia",36260,1052571
+206,"Graves County,Kentucky","Appomattox County,Virginia",36435,1066180
+207,"Graves County,Kentucky","Arlington County,Virginia",43470,1307966
+208,"Graves County,Kentucky","Augusta County,Virginia",35550,1046693
+209,"Graves County,Kentucky","Bath County,Virginia",34620,1020686
+210,"Graves County,Kentucky","Bedford County,Virginia",34168,997490
+211,"Graves County,Kentucky","Bland County,Virginia",28183,847092
+212,"Graves County,Kentucky","Botetourt County,Virginia",33024,981555
+213,"Graves County,Kentucky","Brunswick County,Virginia",40915,1211234
+214,"Graves County,Kentucky","Buchanan County,Virginia",27966,754570
+215,"Graves County,Kentucky","Buckingham County,Virginia",37549,1090090
+216,"Graves County,Kentucky","Campbell County,Virginia",35584,1038726
+217,"Graves County,Kentucky","Caroline County,Virginia",42125,1276502
+218,"Graves County,Kentucky","Carroll County,Virginia",29128,878437
+219,"Graves County,Kentucky","Charles City County,Virginia",42225,1273537
+220,"Graves County,Kentucky","Charlotte County,Virginia",38133,1106662
+221,"Graves County,Kentucky","Chesterfield County,Virginia",41052,1185401
+222,"Graves County,Kentucky","Clarke County,Virginia",40965,1234714
+223,"Graves County,Kentucky","Craig County,Virginia",32423,959124
+224,"Graves County,Kentucky","Culpeper County,Virginia",40583,1196873
+225,"Graves County,Kentucky","Cumberland County,Virginia",38962,1127322
+226,"Graves County,Kentucky","Dickenson County,Virginia",26869,717563
+227,"Graves County,Kentucky","Dinwiddie County,Virginia",41131,1189573
+228,"Graves County,Kentucky","Essex County,Virginia",43942,1300544
+229,"Graves County,Kentucky","Fairfax County,Virginia",43093,1298242
+230,"Graves County,Kentucky","Fauquier County,Virginia",41404,1255966
+231,"Graves County,Kentucky","Floyd County,Virginia",31020,918538
+232,"Graves County,Kentucky","Fluvanna County,Virginia",38464,1159828
+233,"Graves County,Kentucky","Franklin County,Virginia",33680,998724
+234,"Graves County,Kentucky","Frederick County,Virginia",39785,1149545
+235,"Graves County,Kentucky","Giles County,Virginia",30965,905166
+236,"Graves County,Kentucky","Gloucester County,Virginia",44396,1327725
+237,"Graves County,Kentucky","Goochland County,Virginia",39367,1190439
+238,"Graves County,Kentucky","Grayson County,Virginia",28860,841605
+239,"Graves County,Kentucky","Greene County,Virginia",38778,1143241
+240,"Graves County,Kentucky","Greensville County,Virginia",42111,1228653
+241,"Graves County,Kentucky","Halifax County,Virginia",37431,1076124
+242,"Graves County,Kentucky","Hanover County,Virginia",40573,1231546
+243,"Graves County,Kentucky","Henrico County,Virginia",41085,1244505
+244,"Graves County,Kentucky","Henry County,Virginia",33001,965158
+245,"Graves County,Kentucky","Highland County,Virginia",36065,1030656
+246,"Graves County,Kentucky","Isle of Wight County,Virginia",45251,1289693
+247,"Graves County,Kentucky","James City County,Virginia",43461,1314308
+248,"Graves County,Kentucky","King and Queen County,Virginia",43119,1289891
+249,"Graves County,Kentucky","King George County,Virginia",43238,1304488
+250,"Graves County,Kentucky","King William County,Virginia",41807,1259814
+251,"Graves County,Kentucky","Lancaster County,Virginia",45600,1342899
+252,"Graves County,Kentucky","Lee County,Virginia",24265,665437
+253,"Graves County,Kentucky","Loudoun County,Virginia",42461,1270581
+254,"Graves County,Kentucky","Louisa County,Virginia",39024,1173534
+255,"Graves County,Kentucky","Lunenburg County,Virginia",39905,1147946
+256,"Graves County,Kentucky","Madison County,Virginia",39698,1172981
+257,"Graves County,Kentucky","Mathews County,Virginia",45221,1351148
+258,"Graves County,Kentucky","Mecklenburg County,Virginia",39463,1127670
+259,"Graves County,Kentucky","Middlesex County,Virginia",43997,1323925
+260,"Graves County,Kentucky","Montgomery County,Virginia",30194,909042
+261,"Graves County,Kentucky","Nelson County,Virginia",36811,1082968
+262,"Graves County,Kentucky","New Kent County,Virginia",42897,1288221
+263,"Graves County,Kentucky","Northampton County,Virginia",47879,1430971
+264,"Graves County,Kentucky","Northumberland County,Virginia",45639,1341411
+265,"Graves County,Kentucky","Nottoway County,Virginia",39398,1148326
+266,"Graves County,Kentucky","Orange County,Virginia",39987,1181642
+267,"Graves County,Kentucky","Page County,Virginia",38632,1156766
+268,"Graves County,Kentucky","Patrick County,Virginia",31233,923473
+269,"Graves County,Kentucky","Pittsylvania County,Virginia",35317,1019366
+270,"Graves County,Kentucky","Powhatan County,Virginia",40460,1162029
+271,"Graves County,Kentucky","Prince Edward County,Virginia",38012,1105661
+272,"Graves County,Kentucky","Prince George County,Virginia",42786,1228947
+273,"Graves County,Kentucky","Prince William County,Virginia",41503,1262069
+274,"Graves County,Kentucky","Pulaski County,Virginia",28870,869858
+275,"Graves County,Kentucky","Rappahannock County,Virginia",40463,1193253
+276,"Graves County,Kentucky","Richmond County,Virginia",44339,1314055
+277,"Graves County,Kentucky","Roanoke County,Virginia",30974,928978
+278,"Graves County,Kentucky","Rockbridge County,Virginia",33942,1013733
+279,"Graves County,Kentucky","Rockingham County,Virginia",37671,1129117
+280,"Graves County,Kentucky","Russell County,Virginia",27112,781216
+281,"Graves County,Kentucky","Scott County,Virginia",24380,717101
+282,"Graves County,Kentucky","Shenandoah County,Virginia",38176,1159220
+283,"Graves County,Kentucky","Smyth County,Virginia",26139,781307
+284,"Graves County,Kentucky","Southampton County,Virginia",43728,1286176
+285,"Graves County,Kentucky","Spotsylvania County,Virginia",41041,1215372
+286,"Graves County,Kentucky","Stafford County,Virginia",42422,1239665
+287,"Graves County,Kentucky","Surry County,Virginia",44205,1313169
+288,"Graves County,Kentucky","Sussex County,Virginia",43012,1276956
+289,"Graves County,Kentucky","Tazewell County,Virginia",28203,822377
+290,"Graves County,Kentucky","Warren County,Virginia",40078,1203813
+291,"Graves County,Kentucky","Washington County,Virginia",25251,745392
+292,"Graves County,Kentucky","Westmoreland County,Virginia",44212,1321313
+293,"Graves County,Kentucky","Wise County,Virginia",25134,693462
+294,"Graves County,Kentucky","Wythe County,Virginia",27354,823767
+295,"Graves County,Kentucky","York County,Virginia",44749,1345082
+296,"Graves County,Kentucky","Alexandria City County,Virginia",43673,1320612
+297,"Graves County,Kentucky","Bedford City County,Virginia",33332,988922
+298,"Graves County,Kentucky","Bristol City County,Virginia",23849,713375
+299,"Graves County,Kentucky","Buena Vista City County,Virginia",33843,1018114
+300,"Graves County,Kentucky","Charlottesville City County,Virginia",37255,1122871
+301,"Graves County,Kentucky","Chesapeake City County,Virginia",46212,1397987
+302,"Graves County,Kentucky","Clifton Forge City County,Virginia",32152,965583
+303,"Graves County,Kentucky","Colonial Heights City County,Virginia",41921,1267213
+304,"Graves County,Kentucky","Covington City County,Virginia",31678,948962
+305,"Graves County,Kentucky","Danville City County,Virginia",35158,1019614
+306,"Graves County,Kentucky","Emporia City County,Virginia",42268,1242841
+307,"Graves County,Kentucky","Fairfax City County,Virginia",42636,1287817
+308,"Graves County,Kentucky","Falls Church City County,Virginia",42968,1302290
+309,"Graves County,Kentucky","Franklin City County,Virginia",44354,1299311
+310,"Graves County,Kentucky","Fredericksburg City County,Virginia",42174,1225032
+311,"Graves County,Kentucky","Galax City County,Virginia",29751,884303
+312,"Graves County,Kentucky","Hampton City County,Virginia",44699,1354788
+313,"Graves County,Kentucky","Harrisonburg City County,Virginia",36730,1109013
+314,"Graves County,Kentucky","Hopewell City County,Virginia",41958,1266179
+315,"Graves County,Kentucky","Lexington City County,Virginia",33757,1016441
+316,"Graves County,Kentucky","Lynchburg City County,Virginia",35357,1033797
+317,"Graves County,Kentucky","Manassas City County,Virginia",41731,1267014
+318,"Graves County,Kentucky","Manassas Park City County,Virginia",42233,1273357
+319,"Graves County,Kentucky","Martinsville City County,Virginia",33528,973951
+320,"Graves County,Kentucky","Newport News City County,Virginia",44256,1341274
+321,"Graves County,Kentucky","Norfolk City County,Virginia",46006,1380204
+322,"Graves County,Kentucky","Norton City County,Virginia",25763,705273
+323,"Graves County,Kentucky","Petersburg City County,Virginia",41789,1211550
+324,"Graves County,Kentucky","Poquoson City County,Virginia",44928,1351851
+325,"Graves County,Kentucky","Portsmouth City County,Virginia",45945,1389025
+326,"Graves County,Kentucky","Radford County,Virginia",29381,883806
+327,"Graves County,Kentucky","Richmond City County,Virginia",40661,1232316
+328,"Graves County,Kentucky","Roanoke City County,Virginia",31576,949083
+329,"Graves County,Kentucky","Salem City County,Virginia",30988,935633
+330,"Graves County,Kentucky","South Boston City County,Virginia",37171,1073792
+331,"Graves County,Kentucky","Staunton City County,Virginia",35548,1070148
+332,"Graves County,Kentucky","Suffolk City County,Virginia",45670,1332613
+333,"Graves County,Kentucky","Virginia Beach City County,Virginia",46566,1403462
+334,"Graves County,Kentucky","Waynesboro City County,Virginia",35885,1082866
+335,"Graves County,Kentucky","Williamsburg City County,Virginia",43300,1313523
+336,"Graves County,Kentucky","Winchester City County,Virginia",40297,1218585
+337,"Graves County,Kentucky","Barbour County,West Virginia",31744,944243
+338,"Graves County,Kentucky","Berkeley County,West Virginia",39677,1182402
+339,"Graves County,Kentucky","Boone County,West Virginia",26923,777860
+340,"Graves County,Kentucky","Braxton County,West Virginia",28435,835222
+341,"Graves County,Kentucky","Brooke County,West Virginia",31789,936092
+342,"Graves County,Kentucky","Cabell County,West Virginia",21495,644369
+343,"Graves County,Kentucky","Calhoun County,West Virginia",28356,832907
+344,"Graves County,Kentucky","Clay County,West Virginia",27201,806135
+345,"Graves County,Kentucky","Doddridge County,West Virginia",30888,925752
+346,"Graves County,Kentucky","Fayette County,West Virginia",28489,824480
+347,"Graves County,Kentucky","Gilmer County,West Virginia",29633,857409
+348,"Graves County,Kentucky","Grant County,West Virginia",36100,1045788
+349,"Graves County,Kentucky","Greenbrier County,West Virginia",31563,902518
+350,"Graves County,Kentucky","Hampshire County,West Virginia",38932,1144006
+351,"Graves County,Kentucky","Hancock County,West Virginia",33378,970628
+352,"Graves County,Kentucky","Hardy County,West Virginia",37155,1077286
+353,"Graves County,Kentucky","Harrison County,West Virginia",30978,930614
+354,"Graves County,Kentucky","Jackson County,West Virginia",26240,787239
+355,"Graves County,Kentucky","Jefferson County,West Virginia",41143,1238400
+356,"Graves County,Kentucky","Kanawha County,West Virginia",25797,758543
+357,"Graves County,Kentucky","Lewis County,West Virginia",29607,884084
+358,"Graves County,Kentucky","Lincoln County,West Virginia",24712,702019
+359,"Graves County,Kentucky","Logan County,West Virginia",26968,745833
+360,"Graves County,Kentucky","McDowell County,West Virginia",30820,798022
+361,"Graves County,Kentucky","Marion County,West Virginia",32123,957781
+362,"Graves County,Kentucky","Marshall County,West Virginia",31746,930600
+363,"Graves County,Kentucky","Mason County,West Virginia",24476,735113
+364,"Graves County,Kentucky","Mercer County,West Virginia",29124,870102
+365,"Graves County,Kentucky","Mineral County,West Virginia",37794,1074609
+366,"Graves County,Kentucky","Mingo County,West Virginia",25652,712286
+367,"Graves County,Kentucky","Monongalia County,West Virginia",32334,983250
+368,"Graves County,Kentucky","Monroe County,West Virginia",32169,914814
+369,"Graves County,Kentucky","Morgan County,West Virginia",39169,1171794
+370,"Graves County,Kentucky","Nicholas County,West Virginia",28918,866016
+371,"Graves County,Kentucky","Ohio County,West Virginia",30808,917330
+372,"Graves County,Kentucky","Pendleton County,West Virginia",36431,1048413
+373,"Graves County,Kentucky","Pleasants County,West Virginia",29722,885090
+374,"Graves County,Kentucky","Pocahontas County,West Virginia",34247,935555
+375,"Graves County,Kentucky","Preston County,West Virginia",34480,1009980
+376,"Graves County,Kentucky","Putnam County,West Virginia",23178,697146
+377,"Graves County,Kentucky","Raleigh County,West Virginia",27665,823795
+378,"Graves County,Kentucky","Randolph County,West Virginia",32109,946539
+379,"Graves County,Kentucky","Ritchie County,West Virginia",30053,898794
+380,"Graves County,Kentucky","Roane County,West Virginia",27865,816054
+381,"Graves County,Kentucky","Summers County,West Virginia",31118,885233
+382,"Graves County,Kentucky","Taylor County,West Virginia",32016,953353
+383,"Graves County,Kentucky","Tucker County,West Virginia",33176,977063
+384,"Graves County,Kentucky","Tyler County,West Virginia",31631,924706
+385,"Graves County,Kentucky","Upshur County,West Virginia",31172,898781
+386,"Graves County,Kentucky","Wayne County,West Virginia",23026,665564
+387,"Graves County,Kentucky","Webster County,West Virginia",31102,893095
+388,"Graves County,Kentucky","Wetzel County,West Virginia",32843,946612
+389,"Graves County,Kentucky","Wirt County,West Virginia",28506,844576
+390,"Graves County,Kentucky","Wood County,West Virginia",28021,846266
+391,"Graves County,Kentucky","Wyoming County,West Virginia",29610,863737

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Spencer County,Kentucky","Adair County,Kentucky",5894,126473
+1,"Spencer County,Kentucky","Allen County,Kentucky",7289,200132
+2,"Spencer County,Kentucky","Anderson County,Kentucky",2002,41147
+3,"Spencer County,Kentucky","Ballard County,Kentucky",13449,392294
+4,"Spencer County,Kentucky","Barren County,Kentucky",6416,168545
+5,"Spencer County,Kentucky","Bath County,Kentucky",5846,160301
+6,"Spencer County,Kentucky","Bell County,Kentucky",11080,288028
+7,"Spencer County,Kentucky","Boone County,Kentucky",6772,180032
+8,"Spencer County,Kentucky","Bourbon County,Kentucky",4968,117958
+9,"Spencer County,Kentucky","Boyd County,Kentucky",9103,261758
+10,"Spencer County,Kentucky","Boyle County,Kentucky",3789,82219
+11,"Spencer County,Kentucky","Bracken County,Kentucky",7923,169994
+12,"Spencer County,Kentucky","Breathitt County,Kentucky",8446,224482
+13,"Spencer County,Kentucky","Breckinridge County,Kentucky",6255,147618
+14,"Spencer County,Kentucky","Bullitt County,Kentucky",2545,46285
+15,"Spencer County,Kentucky","Butler County,Kentucky",6669,177202
+16,"Spencer County,Kentucky","Caldwell County,Kentucky",9561,283147
+17,"Spencer County,Kentucky","Calloway County,Kentucky",12371,368140
+18,"Spencer County,Kentucky","Campbell County,Kentucky",7642,209734
+19,"Spencer County,Kentucky","Carlisle County,Kentucky",13906,407662
+20,"Spencer County,Kentucky","Carroll County,Kentucky",4256,113809
+21,"Spencer County,Kentucky","Carter County,Kentucky",8240,231015
+22,"Spencer County,Kentucky","Casey County,Kentucky",5826,112287
+23,"Spencer County,Kentucky","Christian County,Kentucky",9210,278404
+24,"Spencer County,Kentucky","Clay County,Kentucky",9311,247072
+25,"Spencer County,Kentucky","Clinton County,Kentucky",8586,192641
+26,"Spencer County,Kentucky","Crittenden County,Kentucky",11141,316218
+27,"Spencer County,Kentucky","Cumberland County,Kentucky",7745,168740
+28,"Spencer County,Kentucky","Daviess County,Kentucky",7692,223644
+29,"Spencer County,Kentucky","Edmonson County,Kentucky",6109,165077
+30,"Spencer County,Kentucky","Elliott County,Kentucky",9016,222277
+31,"Spencer County,Kentucky","Estill County,Kentucky",6380,161022
+32,"Spencer County,Kentucky","Fayette County,Kentucky",3809,91516
+33,"Spencer County,Kentucky","Fleming County,Kentucky",7274,190520
+34,"Spencer County,Kentucky","Floyd County,Kentucky",10633,284513
+35,"Spencer County,Kentucky","Franklin County,Kentucky",3225,62007
+36,"Spencer County,Kentucky","Fulton County,Kentucky",14310,428627
+37,"Spencer County,Kentucky","Gallatin County,Kentucky",4965,133134
+38,"Spencer County,Kentucky","Garrard County,Kentucky",5343,124401
+39,"Spencer County,Kentucky","Grant County,Kentucky",5992,124969
+40,"Spencer County,Kentucky","Graves County,Kentucky",12931,380369
+41,"Spencer County,Kentucky","Grayson County,Kentucky",4996,133838
+42,"Spencer County,Kentucky","Green County,Kentucky",5318,117641
+43,"Spencer County,Kentucky","Greenup County,Kentucky",9709,258345
+44,"Spencer County,Kentucky","Hancock County,Kentucky",7401,190196
+45,"Spencer County,Kentucky","Hardin County,Kentucky",3873,95971
+46,"Spencer County,Kentucky","Harlan County,Kentucky",13374,343633
+47,"Spencer County,Kentucky","Harrison County,Kentucky",5487,124101
+48,"Spencer County,Kentucky","Hart County,Kentucky",4672,123599
+49,"Spencer County,Kentucky","Henderson County,Kentucky",9599,280065
+50,"Spencer County,Kentucky","Henry County,Kentucky",3155,59120
+51,"Spencer County,Kentucky","Hickman County,Kentucky",13940,408954
+52,"Spencer County,Kentucky","Hopkins County,Kentucky",9020,257616
+53,"Spencer County,Kentucky","Jackson County,Kentucky",7823,190858
+54,"Spencer County,Kentucky","Jefferson County,Kentucky",2479,49019
+55,"Spencer County,Kentucky","Jessamine County,Kentucky",4235,99690
+56,"Spencer County,Kentucky","Johnson County,Kentucky",9586,260506
+57,"Spencer County,Kentucky","Kenton County,Kentucky",6658,175748
+58,"Spencer County,Kentucky","Knott County,Kentucky",10906,287860
+59,"Spencer County,Kentucky","Knox County,Kentucky",9242,249768
+60,"Spencer County,Kentucky","Larue County,Kentucky",3944,83146
+61,"Spencer County,Kentucky","Laurel County,Kentucky",8093,221163
+62,"Spencer County,Kentucky","Lawrence County,Kentucky",11107,288894
+63,"Spencer County,Kentucky","Lee County,Kentucky",7695,200939
+64,"Spencer County,Kentucky","Leslie County,Kentucky",11261,298195
+65,"Spencer County,Kentucky","Letcher County,Kentucky",12159,312833
+66,"Spencer County,Kentucky","Lewis County,Kentucky",8799,228660
+67,"Spencer County,Kentucky","Lincoln County,Kentucky",5174,112150
+68,"Spencer County,Kentucky","Livingston County,Kentucky",11736,333114
+69,"Spencer County,Kentucky","Logan County,Kentucky",8409,220440
+70,"Spencer County,Kentucky","Lyon County,Kentucky",11870,343505
+71,"Spencer County,Kentucky","McCracken County,Kentucky",12062,360354
+72,"Spencer County,Kentucky","McCreary County,Kentucky",9310,209989
+73,"Spencer County,Kentucky","Madison County,Kentucky",5231,134745
+74,"Spencer County,Kentucky","Magoffin County,Kentucky",9055,242373
+75,"Spencer County,Kentucky","Marion County,Kentucky",2883,57970
+76,"Spencer County,Kentucky","Marshall County,Kentucky",11476,343926
+77,"Spencer County,Kentucky","Martin County,Kentucky",12373,318851
+78,"Spencer County,Kentucky","Mason County,Kentucky",8097,189524
+79,"Spencer County,Kentucky","Meade County,Kentucky",4811,114283
+80,"Spencer County,Kentucky","Menifee County,Kentucky",7120,172839
+81,"Spencer County,Kentucky","Mercer County,Kentucky",3145,66821
+82,"Spencer County,Kentucky","Metcalfe County,Kentucky",6714,154983
+83,"Spencer County,Kentucky","Monroe County,Kentucky",7764,212220
+84,"Spencer County,Kentucky","Montgomery County,Kentucky",5763,150748
+85,"Spencer County,Kentucky","Morgan County,Kentucky",8445,230657
+86,"Spencer County,Kentucky","Muhlenberg County,Kentucky",7880,224091
+87,"Spencer County,Kentucky","Nelson County,Kentucky",1930,43827
+88,"Spencer County,Kentucky","Nicholas County,Kentucky",6224,145340
+89,"Spencer County,Kentucky","Ohio County,Kentucky",6793,191681
+90,"Spencer County,Kentucky","Oldham County,Kentucky",2656,61856
+91,"Spencer County,Kentucky","Owen County,Kentucky",4567,94181
+92,"Spencer County,Kentucky","Owsley County,Kentucky",8842,220916
+93,"Spencer County,Kentucky","Pendleton County,Kentucky",7046,161229
+94,"Spencer County,Kentucky","Perry County,Kentucky",10058,264365
+95,"Spencer County,Kentucky","Pike County,Kentucky",12312,314837
+96,"Spencer County,Kentucky","Powell County,Kentucky",6057,159607
+97,"Spencer County,Kentucky","Robertson County,Kentucky",6995,166466
+98,"Spencer County,Kentucky","Rockcastle County,Kentucky",6666,175888
+99,"Spencer County,Kentucky","Rowan County,Kentucky",6587,184153
+100,"Spencer County,Kentucky","Russell County,Kentucky",7114,147139
+101,"Spencer County,Kentucky","Scott County,Kentucky",4074,93576
+102,"Spencer County,Kentucky","Shelby County,Kentucky",1496,28620
+103,"Spencer County,Kentucky","Simpson County,Kentucky",7991,228498
+104,"Spencer County,Kentucky","Taylor County,Kentucky",4173,89466
+105,"Spencer County,Kentucky","Todd County,Kentucky",9645,244601
+106,"Spencer County,Kentucky","Trigg County,Kentucky",10623,304333
+107,"Spencer County,Kentucky","Trimble County,Kentucky",4055,101656
+108,"Spencer County,Kentucky","Union County,Kentucky",11343,317166
+109,"Spencer County,Kentucky","Warren County,Kentucky",7025,193446
+110,"Spencer County,Kentucky","Washington County,Kentucky",2822,50366
+111,"Spencer County,Kentucky","Wayne County,Kentucky",9565,209200
+112,"Spencer County,Kentucky","Webster County,Kentucky",10129,285704
+113,"Spencer County,Kentucky","Whitley County,Kentucky",8926,255648
+114,"Spencer County,Kentucky","Wolfe County,Kentucky",7321,197478
+115,"Spencer County,Kentucky","Woodford County,Kentucky",3012,68339
+116,"Spencer County,Kentucky","Adams County,Ohio",10527,236257
+117,"Spencer County,Kentucky","Allen County,Ohio",14078,401641
+118,"Spencer County,Kentucky","Ashland County,Ohio",17267,503519
+119,"Spencer County,Kentucky","Ashtabula County,Ohio",23013,688271
+120,"Spencer County,Kentucky","Athens County,Ohio",15431,419777
+121,"Spencer County,Kentucky","Auglaize County,Ohio",13334,388906
+122,"Spencer County,Kentucky","Belmont County,Ohio",18604,549951
+123,"Spencer County,Kentucky","Brown County,Ohio",9513,224502
+124,"Spencer County,Kentucky","Butler County,Ohio",9156,251515
+125,"Spencer County,Kentucky","Carroll County,Ohio",20569,587174
+126,"Spencer County,Kentucky","Champaign County,Ohio",12112,343088
+127,"Spencer County,Kentucky","Clark County,Ohio",11540,329721
+128,"Spencer County,Kentucky","Clermont County,Ohio",7906,222694
+129,"Spencer County,Kentucky","Clinton County,Ohio",10001,274000
+130,"Spencer County,Kentucky","Columbiana County,Ohio",22125,622763
+131,"Spencer County,Kentucky","Coshocton County,Ohio",17128,482591
+132,"Spencer County,Kentucky","Crawford County,Ohio",16804,495491
+133,"Spencer County,Kentucky","Cuyahoga County,Ohio",19585,585984
+134,"Spencer County,Kentucky","Darke County,Ohio",12431,345953
+135,"Spencer County,Kentucky","Defiance County,Ohio",17565,480071
+136,"Spencer County,Kentucky","Delaware County,Ohio",14184,410191
+137,"Spencer County,Kentucky","Fairfield County,Ohio",13587,393440
+138,"Spencer County,Kentucky","Fayette County,Ohio",10899,311605
+139,"Spencer County,Kentucky","Franklin County,Ohio",12701,370118
+140,"Spencer County,Kentucky","Fulton County,Ohio",18329,497015
+141,"Spencer County,Kentucky","Gallia County,Ohio",13389,362129
+142,"Spencer County,Kentucky","Geauga County,Ohio",21113,625202
+143,"Spencer County,Kentucky","Greene County,Ohio",10328,283354
+144,"Spencer County,Kentucky","Guernsey County,Ohio",16334,483632
+145,"Spencer County,Kentucky","Hamilton County,Ohio",7810,216000
+146,"Spencer County,Kentucky","Hancock County,Ohio",15187,442537
+147,"Spencer County,Kentucky","Hardin County,Ohio",14974,426934
+148,"Spencer County,Kentucky","Harrison County,Ohio",19574,569240
+149,"Spencer County,Kentucky","Henry County,Ohio",16911,467005
+150,"Spencer County,Kentucky","Highland County,Ohio",10849,285646
+151,"Spencer County,Kentucky","Hocking County,Ohio",15025,436845
+152,"Spencer County,Kentucky","Holmes County,Ohio",18678,519449
+153,"Spencer County,Kentucky","Huron County,Ohio",18413,502289
+154,"Spencer County,Kentucky","Jackson County,Ohio",12939,345325
+155,"Spencer County,Kentucky","Jefferson County,Ohio",20568,579018
+156,"Spencer County,Kentucky","Knox County,Ohio",16633,469813
+157,"Spencer County,Kentucky","Lawrence County,Ohio",11510,298186
+158,"Spencer County,Kentucky","Licking County,Ohio",14966,425036
+159,"Spencer County,Kentucky","Logan County,Ohio",13346,375625
+160,"Spencer County,Kentucky","Lorain County,Ohio",20198,560943
+161,"Spencer County,Kentucky","Lucas County,Ohio",18512,529056
+162,"Spencer County,Kentucky","Madison County,Ohio",12121,346787
+163,"Spencer County,Kentucky","Mahoning County,Ohio",21982,639902
+164,"Spencer County,Kentucky","Marion County,Ohio",15231,417626
+165,"Spencer County,Kentucky","Medina County,Ohio",17912,528532
+166,"Spencer County,Kentucky","Meigs County,Ohio",14321,392513
+167,"Spencer County,Kentucky","Mercer County,Ohio",14570,415840
+168,"Spencer County,Kentucky","Miami County,Ohio",10920,311345
+169,"Spencer County,Kentucky","Monroe County,Ohio",20010,564515
+170,"Spencer County,Kentucky","Montgomery County,Ohio",10303,289085
+171,"Spencer County,Kentucky","Morgan County,Ohio",17399,492128
+172,"Spencer County,Kentucky","Morrow County,Ohio",14991,433012
+173,"Spencer County,Kentucky","Muskingum County,Ohio",15184,449788
+174,"Spencer County,Kentucky","Noble County,Ohio",18033,520751
+175,"Spencer County,Kentucky","Paulding County,Ohio",16475,467642
+176,"Spencer County,Kentucky","Perry County,Ohio",15253,438371
+177,"Spencer County,Kentucky","Pickaway County,Ohio",12836,360201
+178,"Spencer County,Kentucky","Pike County,Ohio",11904,332089
+179,"Spencer County,Kentucky","Portage County,Ohio",20434,599682
+180,"Spencer County,Kentucky","Preble County,Ohio",11200,295914
+181,"Spencer County,Kentucky","Putnam County,Ohio",15253,434109
+182,"Spencer County,Kentucky","Richland County,Ohio",16021,468250
+183,"Spencer County,Kentucky","Ross County,Ohio",12480,359518
+184,"Spencer County,Kentucky","Sandusky County,Ohio",18227,522612
+185,"Spencer County,Kentucky","Scioto County,Ohio",11790,296877
+186,"Spencer County,Kentucky","Seneca County,Ohio",17531,498876
+187,"Spencer County,Kentucky","Shelby County,Ohio",11958,347630
+188,"Spencer County,Kentucky","Stark County,Ohio",20179,584065
+189,"Spencer County,Kentucky","Summit County,Ohio",19115,563859
+190,"Spencer County,Kentucky","Trumbull County,Ohio",22015,650174
+191,"Spencer County,Kentucky","Tuscarawas County,Ohio",18628,542997
+192,"Spencer County,Kentucky","Union County,Ohio",13473,373009
+193,"Spencer County,Kentucky","Van Wert County,Ohio",15243,434164
+194,"Spencer County,Kentucky","Vinton County,Ohio",14662,408271
+195,"Spencer County,Kentucky","Warren County,Ohio",8689,242256
+196,"Spencer County,Kentucky","Washington County,Ohio",17357,464462
+197,"Spencer County,Kentucky","Wayne County,Ohio",17640,517529
+198,"Spencer County,Kentucky","Williams County,Ohio",18533,522603
+199,"Spencer County,Kentucky","Wood County,Ohio",16275,483165
+200,"Spencer County,Kentucky","Wyandot County,Ohio",15883,463416
+201,"Spencer County,Kentucky","Accomack County,Virginia",39189,1135626
+202,"Spencer County,Kentucky","Albemarle County,Virginia",25338,748126
+203,"Spencer County,Kentucky","Alleghany County,Virginia",20007,585149
+204,"Spencer County,Kentucky","Amelia County,Virginia",30039,848244
+205,"Spencer County,Kentucky","Amherst County,Virginia",25336,716115
+206,"Spencer County,Kentucky","Appomattox County,Virginia",26930,754874
+207,"Spencer County,Kentucky","Arlington County,Virginia",31622,944158
+208,"Spencer County,Kentucky","Augusta County,Virginia",23949,686465
+209,"Spencer County,Kentucky","Bath County,Virginia",23019,660458
+210,"Spencer County,Kentucky","Bedford County,Virginia",25596,702239
+211,"Spencer County,Kentucky","Bland County,Virginia",18969,551368
+212,"Spencer County,Kentucky","Botetourt County,Virginia",23162,656448
+213,"Spencer County,Kentucky","Brunswick County,Virginia",32582,897917
+214,"Spencer County,Kentucky","Buchanan County,Virginia",16364,394343
+215,"Spencer County,Kentucky","Buckingham County,Virginia",27212,765809
+216,"Spencer County,Kentucky","Campbell County,Virginia",26853,757346
+217,"Spencer County,Kentucky","Caroline County,Virginia",30678,916971
+218,"Spencer County,Kentucky","Carroll County,Virginia",21215,620806
+219,"Spencer County,Kentucky","Charles City County,Virginia",30778,914006
+220,"Spencer County,Kentucky","Charlotte County,Virginia",28814,808394
+221,"Spencer County,Kentucky","Chesterfield County,Virginia",29914,891790
+222,"Spencer County,Kentucky","Clarke County,Virginia",29518,875184
+223,"Spencer County,Kentucky","Craig County,Virginia",21651,606234
+224,"Spencer County,Kentucky","Culpeper County,Virginia",29136,837342
+225,"Spencer County,Kentucky","Cumberland County,Virginia",28422,793811
+226,"Spencer County,Kentucky","Dickenson County,Virginia",15718,379779
+227,"Spencer County,Kentucky","Dinwiddie County,Virginia",31661,942221
+228,"Spencer County,Kentucky","Essex County,Virginia",32495,941014
+229,"Spencer County,Kentucky","Fairfax County,Virginia",31312,934825
+230,"Spencer County,Kentucky","Fauquier County,Virginia",29956,896435
+231,"Spencer County,Kentucky","Floyd County,Virginia",22836,639770
+232,"Spencer County,Kentucky","Fluvanna County,Virginia",27016,800297
+233,"Spencer County,Kentucky","Franklin County,Virginia",25109,703473
+234,"Spencer County,Kentucky","Frederick County,Virginia",28184,789318
+235,"Spencer County,Kentucky","Giles County,Virginia",19700,562927
+236,"Spencer County,Kentucky","Gloucester County,Virginia",32949,968194
+237,"Spencer County,Kentucky","Goochland County,Virginia",27920,830908
+238,"Spencer County,Kentucky","Grayson County,Virginia",21618,610513
+239,"Spencer County,Kentucky","Greene County,Virginia",27331,783710
+240,"Spencer County,Kentucky","Greensville County,Virginia",33077,990973
+241,"Spencer County,Kentucky","Halifax County,Virginia",29518,818493
+242,"Spencer County,Kentucky","Hanover County,Virginia",29126,872015
+243,"Spencer County,Kentucky","Henrico County,Virginia",29638,884975
+244,"Spencer County,Kentucky","Henry County,Virginia",25088,707527
+245,"Spencer County,Kentucky","Highland County,Virginia",24464,670429
+246,"Spencer County,Kentucky","Isle of Wight County,Virginia",33890,989552
+247,"Spencer County,Kentucky","James City County,Virginia",32014,954777
+248,"Spencer County,Kentucky","King and Queen County,Virginia",31672,930361
+249,"Spencer County,Kentucky","King George County,Virginia",31791,944958
+250,"Spencer County,Kentucky","King William County,Virginia",30360,900283
+251,"Spencer County,Kentucky","Lancaster County,Virginia",34152,983368
+252,"Spencer County,Kentucky","Lee County,Virginia",14172,364586
+253,"Spencer County,Kentucky","Loudoun County,Virginia",31014,911050
+254,"Spencer County,Kentucky","Louisa County,Virginia",27577,814003
+255,"Spencer County,Kentucky","Lunenburg County,Virginia",30586,849678
+256,"Spencer County,Kentucky","Madison County,Virginia",28251,813450
+257,"Spencer County,Kentucky","Mathews County,Virginia",33774,991618
+258,"Spencer County,Kentucky","Mecklenburg County,Virginia",31577,862803
+259,"Spencer County,Kentucky","Middlesex County,Virginia",32550,964395
+260,"Spencer County,Kentucky","Montgomery County,Virginia",20783,590933
+261,"Spencer County,Kentucky","Nelson County,Virginia",25877,727806
+262,"Spencer County,Kentucky","New Kent County,Virginia",31450,928691
+263,"Spencer County,Kentucky","Northampton County,Virginia",36431,1071440
+264,"Spencer County,Kentucky","Northumberland County,Virginia",34192,981881
+265,"Spencer County,Kentucky","Nottoway County,Virginia",30079,850058
+266,"Spencer County,Kentucky","Orange County,Virginia",28540,822111
+267,"Spencer County,Kentucky","Page County,Virginia",27185,797236
+268,"Spencer County,Kentucky","Patrick County,Virginia",23321,665842
+269,"Spencer County,Kentucky","Pittsylvania County,Virginia",27404,761735
+270,"Spencer County,Kentucky","Powhatan County,Virginia",29173,856130
+271,"Spencer County,Kentucky","Prince Edward County,Virginia",28694,807394
+272,"Spencer County,Kentucky","Prince George County,Virginia",31425,928805
+273,"Spencer County,Kentucky","Prince William County,Virginia",30056,902539
+274,"Spencer County,Kentucky","Pulaski County,Virginia",20878,587265
+275,"Spencer County,Kentucky","Rappahannock County,Virginia",29016,833723
+276,"Spencer County,Kentucky","Richmond County,Virginia",32892,954524
+277,"Spencer County,Kentucky","Roanoke County,Virginia",22403,633727
+278,"Spencer County,Kentucky","Rockbridge County,Virginia",22340,653505
+279,"Spencer County,Kentucky","Rockingham County,Virginia",26224,769586
+280,"Spencer County,Kentucky","Russell County,Virginia",17895,412892
+281,"Spencer County,Kentucky","Scott County,Virginia",16491,412427
+282,"Spencer County,Kentucky","Shenandoah County,Virginia",26729,799689
+283,"Spencer County,Kentucky","Smyth County,Virginia",20005,495380
+284,"Spencer County,Kentucky","Southampton County,Virginia",33455,987087
+285,"Spencer County,Kentucky","Spotsylvania County,Virginia",29593,855842
+286,"Spencer County,Kentucky","Stafford County,Virginia",30974,880135
+287,"Spencer County,Kentucky","Surry County,Virginia",32758,953638
+288,"Spencer County,Kentucky","Sussex County,Virginia",32119,957330
+289,"Spencer County,Kentucky","Tazewell County,Virginia",18609,451117
+290,"Spencer County,Kentucky","Warren County,Virginia",28631,844282
+291,"Spencer County,Kentucky","Washington County,Virginia",18116,446497
+292,"Spencer County,Kentucky","Westmoreland County,Virginia",32765,961782
+293,"Spencer County,Kentucky","Wise County,Virginia",13983,355678
+294,"Spencer County,Kentucky","Wythe County,Virginia",19574,569585
+295,"Spencer County,Kentucky","York County,Virginia",33302,985551
+296,"Spencer County,Kentucky","Alexandria City County,Virginia",32137,961339
+297,"Spencer County,Kentucky","Bedford City County,Virginia",24761,693671
+298,"Spencer County,Kentucky","Bristol City County,Virginia",18445,453754
+299,"Spencer County,Kentucky","Buena Vista City County,Virginia",22695,667482
+300,"Spencer County,Kentucky","Charlottesville City County,Virginia",25808,763340
+301,"Spencer County,Kentucky","Chesapeake City County,Virginia",34765,1038457
+302,"Spencer County,Kentucky","Clifton Forge City County,Virginia",20551,605355
+303,"Spencer County,Kentucky","Colonial Heights City County,Virginia",30474,907682
+304,"Spencer County,Kentucky","Covington City County,Virginia",20077,588734
+305,"Spencer County,Kentucky","Danville City County,Virginia",27246,761983
+306,"Spencer County,Kentucky","Emporia City County,Virginia",32785,977566
+307,"Spencer County,Kentucky","Fairfax City County,Virginia",31189,928286
+308,"Spencer County,Kentucky","Falls Church City County,Virginia",31330,938470
+309,"Spencer County,Kentucky","Franklin City County,Virginia",34003,994942
+310,"Spencer County,Kentucky","Fredericksburg City County,Virginia",30726,865501
+311,"Spencer County,Kentucky","Galax City County,Virginia",21838,626672
+312,"Spencer County,Kentucky","Hampton City County,Virginia",33252,995258
+313,"Spencer County,Kentucky","Harrisonburg City County,Virginia",25283,749482
+314,"Spencer County,Kentucky","Hopewell City County,Virginia",30511,906648
+315,"Spencer County,Kentucky","Lexington City County,Virginia",22329,655974
+316,"Spencer County,Kentucky","Lynchburg City County,Virginia",25912,731088
+317,"Spencer County,Kentucky","Manassas City County,Virginia",30284,907484
+318,"Spencer County,Kentucky","Manassas Park City County,Virginia",30786,913827
+319,"Spencer County,Kentucky","Martinsville City County,Virginia",25616,716320
+320,"Spencer County,Kentucky","Newport News City County,Virginia",32809,981743
+321,"Spencer County,Kentucky","Norfolk City County,Virginia",34558,1020673
+322,"Spencer County,Kentucky","Norton City County,Virginia",14612,367490
+323,"Spencer County,Kentucky","Petersburg City County,Virginia",30346,908670
+324,"Spencer County,Kentucky","Poquoson City County,Virginia",33480,992320
+325,"Spencer County,Kentucky","Portsmouth City County,Virginia",34497,1029494
+326,"Spencer County,Kentucky","Radford County,Virginia",21191,588974
+327,"Spencer County,Kentucky","Richmond City County,Virginia",29214,872785
+328,"Spencer County,Kentucky","Roanoke City County,Virginia",23005,653832
+329,"Spencer County,Kentucky","Salem City County,Virginia",22417,640382
+330,"Spencer County,Kentucky","South Boston City County,Virginia",29258,816161
+331,"Spencer County,Kentucky","Staunton City County,Virginia",24100,710617
+332,"Spencer County,Kentucky","Suffolk City County,Virginia",34733,1004276
+333,"Spencer County,Kentucky","Virginia Beach City County,Virginia",35119,1043932
+334,"Spencer County,Kentucky","Waynesboro City County,Virginia",24438,723335
+335,"Spencer County,Kentucky","Williamsburg City County,Virginia",31853,953993
+336,"Spencer County,Kentucky","Winchester City County,Virginia",28662,823319
+337,"Spencer County,Kentucky","Barbour County,West Virginia",20143,584016
+338,"Spencer County,Kentucky","Berkeley County,West Virginia",28076,822175
+339,"Spencer County,Kentucky","Boone County,West Virginia",15322,417632
+340,"Spencer County,Kentucky","Braxton County,West Virginia",16833,474995
+341,"Spencer County,Kentucky","Brooke County,West Virginia",20683,592199
+342,"Spencer County,Kentucky","Cabell County,West Virginia",9894,284141
+343,"Spencer County,Kentucky","Calhoun County,West Virginia",16754,472679
+344,"Spencer County,Kentucky","Clay County,West Virginia",15600,445908
+345,"Spencer County,Kentucky","Doddridge County,West Virginia",19287,565525
+346,"Spencer County,Kentucky","Fayette County,West Virginia",16887,464252
+347,"Spencer County,Kentucky","Gilmer County,West Virginia",18032,497181
+348,"Spencer County,Kentucky","Grant County,West Virginia",24499,685561
+349,"Spencer County,Kentucky","Greenbrier County,West Virginia",19962,542290
+350,"Spencer County,Kentucky","Hampshire County,West Virginia",27331,783778
+351,"Spencer County,Kentucky","Hancock County,West Virginia",22273,626734
+352,"Spencer County,Kentucky","Hardy County,West Virginia",25554,717058
+353,"Spencer County,Kentucky","Harrison County,West Virginia",19377,570386
+354,"Spencer County,Kentucky","Jackson County,West Virginia",14638,427011
+355,"Spencer County,Kentucky","Jefferson County,West Virginia",29542,878173
+356,"Spencer County,Kentucky","Kanawha County,West Virginia",14196,398316
+357,"Spencer County,Kentucky","Lewis County,West Virginia",18006,523856
+358,"Spencer County,Kentucky","Lincoln County,West Virginia",13111,341791
+359,"Spencer County,Kentucky","Logan County,West Virginia",15367,385606
+360,"Spencer County,Kentucky","McDowell County,West Virginia",19219,437794
+361,"Spencer County,Kentucky","Marion County,West Virginia",20522,597554
+362,"Spencer County,Kentucky","Marshall County,West Virginia",20641,586707
+363,"Spencer County,Kentucky","Mason County,West Virginia",12875,374886
+364,"Spencer County,Kentucky","Mercer County,West Virginia",17523,509875
+365,"Spencer County,Kentucky","Mineral County,West Virginia",26193,714382
+366,"Spencer County,Kentucky","Mingo County,West Virginia",14051,352059
+367,"Spencer County,Kentucky","Monongalia County,West Virginia",20733,623022
+368,"Spencer County,Kentucky","Monroe County,West Virginia",20568,554586
+369,"Spencer County,Kentucky","Morgan County,West Virginia",27568,811567
+370,"Spencer County,Kentucky","Nicholas County,West Virginia",17316,505788
+371,"Spencer County,Kentucky","Ohio County,West Virginia",19702,573436
+372,"Spencer County,Kentucky","Pendleton County,West Virginia",24830,688185
+373,"Spencer County,Kentucky","Pleasants County,West Virginia",18121,524863
+374,"Spencer County,Kentucky","Pocahontas County,West Virginia",22646,575327
+375,"Spencer County,Kentucky","Preston County,West Virginia",22879,649753
+376,"Spencer County,Kentucky","Putnam County,West Virginia",11577,336918
+377,"Spencer County,Kentucky","Raleigh County,West Virginia",16064,463568
+378,"Spencer County,Kentucky","Randolph County,West Virginia",20508,586311
+379,"Spencer County,Kentucky","Ritchie County,West Virginia",18452,538567
+380,"Spencer County,Kentucky","Roane County,West Virginia",16264,455826
+381,"Spencer County,Kentucky","Summers County,West Virginia",19516,525005
+382,"Spencer County,Kentucky","Taylor County,West Virginia",20415,593126
+383,"Spencer County,Kentucky","Tucker County,West Virginia",21575,616836
+384,"Spencer County,Kentucky","Tyler County,West Virginia",20030,564478
+385,"Spencer County,Kentucky","Upshur County,West Virginia",19571,538553
+386,"Spencer County,Kentucky","Wayne County,West Virginia",11424,305336
+387,"Spencer County,Kentucky","Webster County,West Virginia",19501,532868
+388,"Spencer County,Kentucky","Wetzel County,West Virginia",21242,586385
+389,"Spencer County,Kentucky","Wirt County,West Virginia",16905,484349
+390,"Spencer County,Kentucky","Wood County,West Virginia",16419,486038
+391,"Spencer County,Kentucky","Wyoming County,West Virginia",18009,503509

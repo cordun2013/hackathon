@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Martin County,Kentucky","Adair County,Kentucky",13883,339273
+1,"Martin County,Kentucky","Allen County,Kentucky",17080,434914
+2,"Martin County,Kentucky","Anderson County,Kentucky",11490,297431
+3,"Martin County,Kentucky","Ballard County,Kentucky",24469,687202
+4,"Martin County,Kentucky","Barren County,Kentucky",15629,398300
+5,"Martin County,Kentucky","Bath County,Kentucky",7741,204232
+6,"Martin County,Kentucky","Bell County,Kentucky",11243,244331
+7,"Martin County,Kentucky","Boone County,Kentucky",13198,349139
+8,"Martin County,Kentucky","Bourbon County,Kentucky",9493,230994
+9,"Martin County,Kentucky","Boyd County,Kentucky",4416,98557
+10,"Martin County,Kentucky","Boyle County,Kentucky",12719,301317
+11,"Martin County,Kentucky","Bracken County,Kentucky",10065,244732
+12,"Martin County,Kentucky","Breathitt County,Kentucky",6948,148419
+13,"Martin County,Kentucky","Breckinridge County,Kentucky",17024,450112
+14,"Martin County,Kentucky","Bullitt County,Kentucky",13594,371231
+15,"Martin County,Kentucky","Butler County,Kentucky",17689,472110
+16,"Martin County,Kentucky","Caldwell County,Kentucky",20580,578055
+17,"Martin County,Kentucky","Calloway County,Kentucky",23390,663047
+18,"Martin County,Kentucky","Campbell County,Kentucky",11766,284604
+19,"Martin County,Kentucky","Carlisle County,Kentucky",24926,702570
+20,"Martin County,Kentucky","Carroll County,Kentucky",14035,345245
+21,"Martin County,Kentucky","Carter County,Kentucky",5581,128654
+22,"Martin County,Kentucky","Casey County,Kentucky",13821,312547
+23,"Martin County,Kentucky","Christian County,Kentucky",20229,573312
+24,"Martin County,Kentucky","Clay County,Kentucky",8410,194550
+25,"Martin County,Kentucky","Clinton County,Kentucky",14290,342638
+26,"Martin County,Kentucky","Crittenden County,Kentucky",22160,611125
+27,"Martin County,Kentucky","Cumberland County,Kentucky",15044,360877
+28,"Martin County,Kentucky","Daviess County,Kentucky",18711,518552
+29,"Martin County,Kentucky","Edmonson County,Kentucky",17157,442461
+30,"Martin County,Kentucky","Elliott County,Kentucky",6231,104117
+31,"Martin County,Kentucky","Estill County,Kentucky",8395,197924
+32,"Martin County,Kentucky","Fayette County,Kentucky",9297,234923
+33,"Martin County,Kentucky","Fleming County,Kentucky",8167,207418
+34,"Martin County,Kentucky","Floyd County,Kentucky",3334,67999
+35,"Martin County,Kentucky","Franklin County,Kentucky",11335,283840
+36,"Martin County,Kentucky","Fulton County,Kentucky",25330,723534
+37,"Martin County,Kentucky","Gallatin County,Kentucky",13033,335904
+38,"Martin County,Kentucky","Garrard County,Kentucky",11594,262264
+39,"Martin County,Kentucky","Grant County,Kentucky",11832,310011
+40,"Martin County,Kentucky","Graves County,Kentucky",23951,675276
+41,"Martin County,Kentucky","Grayson County,Kentucky",16016,428746
+42,"Martin County,Kentucky","Green County,Kentucky",15635,381437
+43,"Martin County,Kentucky","Greenup County,Kentucky",6415,148963
+44,"Martin County,Kentucky","Hancock County,Kentucky",17819,483005
+45,"Martin County,Kentucky","Hardin County,Kentucky",14892,390878
+46,"Martin County,Kentucky","Harlan County,Kentucky",10566,224647
+47,"Martin County,Kentucky","Harrison County,Kentucky",10805,259333
+48,"Martin County,Kentucky","Hart County,Kentucky",15691,418507
+49,"Martin County,Kentucky","Henderson County,Kentucky",20518,570982
+50,"Martin County,Kentucky","Henry County,Kentucky",12936,327558
+51,"Martin County,Kentucky","Hickman County,Kentucky",24959,703862
+52,"Martin County,Kentucky","Hopkins County,Kentucky",20039,552523
+53,"Martin County,Kentucky","Jackson County,Kentucky",10007,214145
+54,"Martin County,Kentucky","Jefferson County,Kentucky",13030,343092
+55,"Martin County,Kentucky","Jessamine County,Kentucky",10766,256387
+56,"Martin County,Kentucky","Johnson County,Kentucky",2889,59329
+57,"Martin County,Kentucky","Kenton County,Kentucky",12923,313319
+58,"Martin County,Kentucky","Knott County,Kentucky",4515,99881
+59,"Martin County,Kentucky","Knox County,Kentucky",9735,221205
+60,"Martin County,Kentucky","Larue County,Kentucky",14964,378054
+61,"Martin County,Kentucky","Laurel County,Kentucky",10012,231346
+62,"Martin County,Kentucky","Lawrence County,Kentucky",3469,56887
+63,"Martin County,Kentucky","Lee County,Kentucky",7381,163700
+64,"Martin County,Kentucky","Leslie County,Kentucky",7595,169554
+65,"Martin County,Kentucky","Letcher County,Kentucky",6370,137490
+66,"Martin County,Kentucky","Lewis County,Kentucky",7619,180471
+67,"Martin County,Kentucky","Lincoln County,Kentucky",12304,279182
+68,"Martin County,Kentucky","Livingston County,Kentucky",22756,628022
+69,"Martin County,Kentucky","Logan County,Kentucky",19031,500192
+70,"Martin County,Kentucky","Lyon County,Kentucky",22889,638413
+71,"Martin County,Kentucky","McCracken County,Kentucky",23081,655262
+72,"Martin County,Kentucky","McCreary County,Kentucky",12546,301761
+73,"Martin County,Kentucky","Madison County,Kentucky",9898,229939
+74,"Martin County,Kentucky","Magoffin County,Kentucky",3856,80008
+75,"Martin County,Kentucky","Marion County,Kentucky",13341,339663
+76,"Martin County,Kentucky","Marshall County,Kentucky",22496,638833
+77,"Martin County,Kentucky","Mason County,Kentucky",9414,224278
+78,"Martin County,Kentucky","Meade County,Kentucky",15491,415407
+79,"Martin County,Kentucky","Menifee County,Kentucky",7524,154208
+80,"Martin County,Kentucky","Mercer County,Kentucky",11718,295374
+81,"Martin County,Kentucky","Metcalfe County,Kentucky",14539,369537
+82,"Martin County,Kentucky","Monroe County,Kentucky",16509,407042
+83,"Martin County,Kentucky","Montgomery County,Kentucky",8493,194892
+84,"Martin County,Kentucky","Morgan County,Kentucky",5969,131194
+85,"Martin County,Kentucky","Muhlenberg County,Kentucky",18899,518999
+86,"Martin County,Kentucky","Nelson County,Kentucky",12949,338735
+87,"Martin County,Kentucky","Nicholas County,Kentucky",10232,250656
+88,"Martin County,Kentucky","Ohio County,Kentucky",17813,486589
+89,"Martin County,Kentucky","Oldham County,Kentucky",13102,354973
+90,"Martin County,Kentucky","Owen County,Kentucky",12157,310617
+91,"Martin County,Kentucky","Owsley County,Kentucky",8527,183677
+92,"Martin County,Kentucky","Pendleton County,Kentucky",12003,285656
+93,"Martin County,Kentucky","Perry County,Kentucky",5895,130438
+94,"Martin County,Kentucky","Pike County,Kentucky",5013,98323
+95,"Martin County,Kentucky","Powell County,Kentucky",7281,166177
+96,"Martin County,Kentucky","Robertson County,Kentucky",10149,250162
+97,"Martin County,Kentucky","Rockcastle County,Kentucky",10822,259396
+98,"Martin County,Kentucky","Rowan County,Kentucky",6883,176440
+99,"Martin County,Kentucky","Russell County,Kentucky",13488,323256
+100,"Martin County,Kentucky","Scott County,Kentucky",10132,262950
+101,"Martin County,Kentucky","Shelby County,Kentucky",11959,314226
+102,"Martin County,Kentucky","Simpson County,Kentucky",18620,489066
+103,"Martin County,Kentucky","Spencer County,Kentucky",12488,320074
+104,"Martin County,Kentucky","Taylor County,Kentucky",14631,371159
+105,"Martin County,Kentucky","Todd County,Kentucky",20206,530248
+106,"Martin County,Kentucky","Trigg County,Kentucky",21643,599241
+107,"Martin County,Kentucky","Trimble County,Kentucky",14175,361013
+108,"Martin County,Kentucky","Union County,Kentucky",22238,601428
+109,"Martin County,Kentucky","Warren County,Kentucky",17655,454014
+110,"Martin County,Kentucky","Washington County,Kentucky",12959,323971
+111,"Martin County,Kentucky","Wayne County,Kentucky",13664,320329
+112,"Martin County,Kentucky","Webster County,Kentucky",21148,580612
+113,"Martin County,Kentucky","Whitley County,Kentucky",10910,265846
+114,"Martin County,Kentucky","Wolfe County,Kentucky",5884,131945
+115,"Martin County,Kentucky","Woodford County,Kentucky",10351,265586
+116,"Martin County,Kentucky","Adams County,Ohio",10263,225313
+117,"Martin County,Kentucky","Allen County,Ohio",18825,443788
+118,"Martin County,Kentucky","Ashland County,Ohio",17893,435476
+119,"Martin County,Kentucky","Ashtabula County,Ohio",22902,667517
+120,"Martin County,Kentucky","Athens County,Ohio",10214,239870
+121,"Martin County,Kentucky","Auglaize County,Ohio",18075,460488
+122,"Martin County,Kentucky","Belmont County,Ohio",15965,456441
+123,"Martin County,Kentucky","Brown County,Ohio",10751,253762
+124,"Martin County,Kentucky","Butler County,Ohio",15093,373179
+125,"Martin County,Kentucky","Carroll County,Ohio",17895,493327
+126,"Martin County,Kentucky","Champaign County,Ohio",15379,362585
+127,"Martin County,Kentucky","Clark County,Ohio",14058,322130
+128,"Martin County,Kentucky","Clermont County,Ohio",12341,283336
+129,"Martin County,Kentucky","Clinton County,Ohio",12961,280049
+130,"Martin County,Kentucky","Columbiana County,Ohio",19736,547563
+131,"Martin County,Kentucky","Coshocton County,Ohio",16530,464444
+132,"Martin County,Kentucky","Crawford County,Ohio",17507,403934
+133,"Martin County,Kentucky","Cuyahoga County,Ohio",19931,578731
+134,"Martin County,Kentucky","Darke County,Ohio",17173,417535
+135,"Martin County,Kentucky","Defiance County,Ohio",22261,522109
+136,"Martin County,Kentucky","Delaware County,Ohio",14810,342148
+137,"Martin County,Kentucky","Fairfield County,Ohio",13355,293971
+138,"Martin County,Kentucky","Fayette County,Ohio",12126,280275
+139,"Martin County,Kentucky","Franklin County,Ohio",13328,302076
+140,"Martin County,Kentucky","Fulton County,Ohio",22598,559503
+141,"Martin County,Kentucky","Gallia County,Ohio",8172,182222
+142,"Martin County,Kentucky","Geauga County,Ohio",21002,604449
+143,"Martin County,Kentucky","Greene County,Ohio",12997,313428
+144,"Martin County,Kentucky","Guernsey County,Ohio",14080,402363
+145,"Martin County,Kentucky","Hamilton County,Ohio",13748,337664
+146,"Martin County,Kentucky","Hancock County,Ohio",18684,445026
+147,"Martin County,Kentucky","Hardin County,Ohio",17336,399618
+148,"Martin County,Kentucky","Harrison County,Ohio",16900,475393
+149,"Martin County,Kentucky","Henry County,Ohio",21397,516648
+150,"Martin County,Kentucky","Highland County,Ohio",11228,239395
+151,"Martin County,Kentucky","Hocking County,Ohio",11913,237278
+152,"Martin County,Kentucky","Holmes County,Ohio",17588,487328
+153,"Martin County,Kentucky","Huron County,Ohio",19040,434247
+154,"Martin County,Kentucky","Jackson County,Ohio",8592,186911
+155,"Martin County,Kentucky","Jefferson County,Ohio",17893,485171
+156,"Martin County,Kentucky","Knox County,Ohio",17260,401770
+157,"Martin County,Kentucky","Lawrence County,Ohio",6395,126825
+158,"Martin County,Kentucky","Licking County,Ohio",15331,349833
+159,"Martin County,Kentucky","Logan County,Ohio",16357,393895
+160,"Martin County,Kentucky","Lorain County,Ohio",20825,492901
+161,"Martin County,Kentucky","Lucas County,Ohio",22320,532526
+162,"Martin County,Kentucky","Madison County,Ohio",13827,303360
+163,"Martin County,Kentucky","Mahoning County,Ohio",20232,562367
+164,"Martin County,Kentucky","Marion County,Ohio",16068,362764
+165,"Martin County,Kentucky","Medina County,Ohio",18538,460489
+166,"Martin County,Kentucky","Meigs County,Ohio",9104,212606
+167,"Martin County,Kentucky","Mercer County,Ohio",19311,487422
+168,"Martin County,Kentucky","Miami County,Ohio",15661,382927
+169,"Martin County,Kentucky","Monroe County,Ohio",15016,391555
+170,"Martin County,Kentucky","Montgomery County,Ohio",15031,360883
+171,"Martin County,Kentucky","Morgan County,Ohio",13168,306894
+172,"Martin County,Kentucky","Morrow County,Ohio",15618,364969
+173,"Martin County,Kentucky","Muskingum County,Ohio",14882,328033
+174,"Martin County,Kentucky","Noble County,Ohio",13522,374715
+175,"Martin County,Kentucky","Paulding County,Ohio",21362,519694
+176,"Martin County,Kentucky","Perry County,Ohio",13432,305290
+177,"Martin County,Kentucky","Pickaway County,Ohio",11567,260374
+178,"Martin County,Kentucky","Pike County,Ohio",8661,189253
+179,"Martin County,Kentucky","Portage County,Ohio",19453,560313
+180,"Martin County,Kentucky","Preble County,Ohio",16650,389461
+181,"Martin County,Kentucky","Putnam County,Ohio",19948,476147
+182,"Martin County,Kentucky","Richland County,Ohio",16648,400208
+183,"Martin County,Kentucky","Ross County,Ohio",10311,226680
+184,"Martin County,Kentucky","Sandusky County,Ohio",20441,463721
+185,"Martin County,Kentucky","Scioto County,Ohio",7740,165891
+186,"Martin County,Kentucky","Seneca County,Ohio",19058,437606
+187,"Martin County,Kentucky","Shelby County,Ohio",16700,419213
+188,"Martin County,Kentucky","Stark County,Ohio",17753,508562
+189,"Martin County,Kentucky","Summit County,Ohio",18512,534350
+190,"Martin County,Kentucky","Trumbull County,Ohio",21187,588614
+191,"Martin County,Kentucky","Tuscarawas County,Ohio",15954,449150
+192,"Martin County,Kentucky","Union County,Ohio",14861,344126
+193,"Martin County,Kentucky","Van Wert County,Ohio",20059,486658
+194,"Martin County,Kentucky","Vinton County,Ohio",10851,213689
+195,"Martin County,Kentucky","Warren County,Ohio",14314,315708
+196,"Martin County,Kentucky","Washington County,Ohio",12141,284555
+197,"Martin County,Kentucky","Wayne County,Ohio",18266,449487
+198,"Martin County,Kentucky","Williams County,Ohio",23438,545626
+199,"Martin County,Kentucky","Wood County,Ohio",20082,486634
+200,"Martin County,Kentucky","Wyandot County,Ohio",17654,409162
+201,"Martin County,Kentucky","Accomack County,Virginia",33516,904647
+202,"Martin County,Kentucky","Albemarle County,Virginia",19666,517147
+203,"Martin County,Kentucky","Alleghany County,Virginia",14335,354170
+204,"Martin County,Kentucky","Amelia County,Virginia",24367,617265
+205,"Martin County,Kentucky","Amherst County,Virginia",19664,485136
+206,"Martin County,Kentucky","Appomattox County,Virginia",21257,523895
+207,"Martin County,Kentucky","Arlington County,Virginia",26350,717456
+208,"Martin County,Kentucky","Augusta County,Virginia",18277,455486
+209,"Martin County,Kentucky","Bath County,Virginia",17347,429480
+210,"Martin County,Kentucky","Bedford County,Virginia",19924,471260
+211,"Martin County,Kentucky","Bland County,Virginia",13493,245168
+212,"Martin County,Kentucky","Botetourt County,Virginia",17489,425469
+213,"Martin County,Kentucky","Brunswick County,Virginia",26910,666938
+214,"Martin County,Kentucky","Buchanan County,Virginia",9065,177829
+215,"Martin County,Kentucky","Buckingham County,Virginia",21540,534830
+216,"Martin County,Kentucky","Campbell County,Virginia",21181,526367
+217,"Martin County,Kentucky","Caroline County,Virginia",25005,685992
+218,"Martin County,Kentucky","Carroll County,Virginia",15739,314605
+219,"Martin County,Kentucky","Charles City County,Virginia",25106,683027
+220,"Martin County,Kentucky","Charlotte County,Virginia",23142,577415
+221,"Martin County,Kentucky","Chesterfield County,Virginia",24242,660811
+222,"Martin County,Kentucky","Clarke County,Virginia",23846,644205
+223,"Martin County,Kentucky","Craig County,Virginia",15978,375255
+224,"Martin County,Kentucky","Culpeper County,Virginia",23463,606363
+225,"Martin County,Kentucky","Cumberland County,Virginia",22750,562832
+226,"Martin County,Kentucky","Dickenson County,Virginia",8873,183326
+227,"Martin County,Kentucky","Dinwiddie County,Virginia",25989,711242
+228,"Martin County,Kentucky","Essex County,Virginia",26823,710035
+229,"Martin County,Kentucky","Fairfax County,Virginia",25973,707732
+230,"Martin County,Kentucky","Fauquier County,Virginia",24284,665456
+231,"Martin County,Kentucky","Floyd County,Virginia",17163,408791
+232,"Martin County,Kentucky","Fluvanna County,Virginia",21344,569318
+233,"Martin County,Kentucky","Franklin County,Virginia",19437,472494
+234,"Martin County,Kentucky","Frederick County,Virginia",22967,609411
+235,"Martin County,Kentucky","Giles County,Virginia",14028,331948
+236,"Martin County,Kentucky","Gloucester County,Virginia",27276,737215
+237,"Martin County,Kentucky","Goochland County,Virginia",22247,599929
+238,"Martin County,Kentucky","Grayson County,Virginia",16141,304312
+239,"Martin County,Kentucky","Greene County,Virginia",21659,552731
+240,"Martin County,Kentucky","Greensville County,Virginia",27405,759994
+241,"Martin County,Kentucky","Halifax County,Virginia",24042,512292
+242,"Martin County,Kentucky","Hanover County,Virginia",23454,641036
+243,"Martin County,Kentucky","Henrico County,Virginia",23965,653996
+244,"Martin County,Kentucky","Henry County,Virginia",19612,401326
+245,"Martin County,Kentucky","Highland County,Virginia",18791,439450
+246,"Martin County,Kentucky","Isle of Wight County,Virginia",28217,758573
+247,"Martin County,Kentucky","James City County,Virginia",26342,723798
+248,"Martin County,Kentucky","King and Queen County,Virginia",26000,699382
+249,"Martin County,Kentucky","King George County,Virginia",26118,713979
+250,"Martin County,Kentucky","King William County,Virginia",24687,669304
+251,"Martin County,Kentucky","Lancaster County,Virginia",28480,752390
+252,"Martin County,Kentucky","Lee County,Virginia",10174,231842
+253,"Martin County,Kentucky","Loudoun County,Virginia",25342,680071
+254,"Martin County,Kentucky","Louisa County,Virginia",21905,583024
+255,"Martin County,Kentucky","Lunenburg County,Virginia",24914,618699
+256,"Martin County,Kentucky","Madison County,Virginia",22579,582471
+257,"Martin County,Kentucky","Mathews County,Virginia",28101,760639
+258,"Martin County,Kentucky","Mecklenburg County,Virginia",26074,563838
+259,"Martin County,Kentucky","Middlesex County,Virginia",26878,733416
+260,"Martin County,Kentucky","Montgomery County,Virginia",15111,359954
+261,"Martin County,Kentucky","Nelson County,Virginia",20205,496827
+262,"Martin County,Kentucky","New Kent County,Virginia",25778,697712
+263,"Martin County,Kentucky","Northampton County,Virginia",30759,840461
+264,"Martin County,Kentucky","Northumberland County,Virginia",28520,750902
+265,"Martin County,Kentucky","Nottoway County,Virginia",24407,619079
+266,"Martin County,Kentucky","Orange County,Virginia",22867,591132
+267,"Martin County,Kentucky","Page County,Virginia",21512,566257
+268,"Martin County,Kentucky","Patrick County,Virginia",17844,359641
+269,"Martin County,Kentucky","Pittsylvania County,Virginia",21928,455534
+270,"Martin County,Kentucky","Powhatan County,Virginia",23501,625151
+271,"Martin County,Kentucky","Prince Edward County,Virginia",23022,576415
+272,"Martin County,Kentucky","Prince George County,Virginia",25752,697826
+273,"Martin County,Kentucky","Prince William County,Virginia",24384,671560
+274,"Martin County,Kentucky","Pulaski County,Virginia",15206,356286
+275,"Martin County,Kentucky","Rappahannock County,Virginia",23343,602744
+276,"Martin County,Kentucky","Richmond County,Virginia",27220,723545
+277,"Martin County,Kentucky","Roanoke County,Virginia",16730,402748
+278,"Martin County,Kentucky","Rockbridge County,Virginia",16668,422526
+279,"Martin County,Kentucky","Rockingham County,Virginia",20552,538607
+280,"Martin County,Kentucky","Russell County,Virginia",10596,196378
+281,"Martin County,Kentucky","Scott County,Virginia",10349,230779
+282,"Martin County,Kentucky","Shenandoah County,Virginia",21056,568711
+283,"Martin County,Kentucky","Smyth County,Virginia",13160,298927
+284,"Martin County,Kentucky","Southampton County,Virginia",27783,756108
+285,"Martin County,Kentucky","Spotsylvania County,Virginia",23921,624863
+286,"Martin County,Kentucky","Stafford County,Virginia",25302,649156
+287,"Martin County,Kentucky","Surry County,Virginia",27085,722659
+288,"Martin County,Kentucky","Sussex County,Virginia",26447,726351
+289,"Martin County,Kentucky","Tazewell County,Virginia",11310,234604
+290,"Martin County,Kentucky","Warren County,Virginia",22958,613303
+291,"Martin County,Kentucky","Washington County,Virginia",11272,250044
+292,"Martin County,Kentucky","Westmoreland County,Virginia",27093,730803
+293,"Martin County,Kentucky","Wise County,Virginia",7138,159225
+294,"Martin County,Kentucky","Wythe County,Virginia",14098,263385
+295,"Martin County,Kentucky","York County,Virginia",27629,754572
+296,"Martin County,Kentucky","Alexandria City County,Virginia",26553,730103
+297,"Martin County,Kentucky","Bedford City County,Virginia",19088,462692
+298,"Martin County,Kentucky","Bristol City County,Virginia",12111,270930
+299,"Martin County,Kentucky","Buena Vista City County,Virginia",17023,436503
+300,"Martin County,Kentucky","Charlottesville City County,Virginia",20135,532361
+301,"Martin County,Kentucky","Chesapeake City County,Virginia",29093,807478
+302,"Martin County,Kentucky","Clifton Forge City County,Virginia",14879,374376
+303,"Martin County,Kentucky","Colonial Heights City County,Virginia",24802,676703
+304,"Martin County,Kentucky","Covington City County,Virginia",14404,357755
+305,"Martin County,Kentucky","Danville City County,Virginia",21770,455782
+306,"Martin County,Kentucky","Emporia City County,Virginia",27112,746587
+307,"Martin County,Kentucky","Fairfax City County,Virginia",25516,697308
+308,"Martin County,Kentucky","Falls Church City County,Virginia",25848,711780
+309,"Martin County,Kentucky","Franklin City County,Virginia",28330,763963
+310,"Martin County,Kentucky","Fredericksburg City County,Virginia",25054,634522
+311,"Martin County,Kentucky","Galax City County,Virginia",16362,320471
+312,"Martin County,Kentucky","Hampton City County,Virginia",27580,764279
+313,"Martin County,Kentucky","Harrisonburg City County,Virginia",19611,518503
+314,"Martin County,Kentucky","Hopewell City County,Virginia",24838,675669
+315,"Martin County,Kentucky","Lexington City County,Virginia",16657,424995
+316,"Martin County,Kentucky","Lynchburg City County,Virginia",20240,500109
+317,"Martin County,Kentucky","Manassas City County,Virginia",24611,676505
+318,"Martin County,Kentucky","Manassas Park City County,Virginia",25114,682848
+319,"Martin County,Kentucky","Martinsville City County,Virginia",20140,410119
+320,"Martin County,Kentucky","Newport News City County,Virginia",27136,750765
+321,"Martin County,Kentucky","Norfolk City County,Virginia",28886,789695
+322,"Martin County,Kentucky","Norton City County,Virginia",7767,171037
+323,"Martin County,Kentucky","Petersburg City County,Virginia",24673,677691
+324,"Martin County,Kentucky","Poquoson City County,Virginia",27808,761341
+325,"Martin County,Kentucky","Portsmouth City County,Virginia",28825,798515
+326,"Martin County,Kentucky","Radford County,Virginia",15518,357995
+327,"Martin County,Kentucky","Richmond City County,Virginia",23541,641806
+328,"Martin County,Kentucky","Roanoke City County,Virginia",17333,422853
+329,"Martin County,Kentucky","Salem City County,Virginia",16744,409403
+330,"Martin County,Kentucky","South Boston City County,Virginia",23782,509960
+331,"Martin County,Kentucky","Staunton City County,Virginia",18428,479638
+332,"Martin County,Kentucky","Suffolk City County,Virginia",29060,773297
+333,"Martin County,Kentucky","Virginia Beach City County,Virginia",29447,812953
+334,"Martin County,Kentucky","Waynesboro City County,Virginia",18766,492356
+335,"Martin County,Kentucky","Williamsburg City County,Virginia",26180,723014
+336,"Martin County,Kentucky","Winchester City County,Virginia",23177,628075
+337,"Martin County,Kentucky","Barbour County,West Virginia",14927,404108
+338,"Martin County,Kentucky","Berkeley County,West Virginia",22860,642268
+339,"Martin County,Kentucky","Boone County,West Virginia",6668,130738
+340,"Martin County,Kentucky","Braxton County,West Virginia",11617,295088
+341,"Martin County,Kentucky","Brooke County,West Virginia",18044,498689
+342,"Martin County,Kentucky","Cabell County,West Virginia",4677,104234
+343,"Martin County,Kentucky","Calhoun County,West Virginia",11538,292772
+344,"Martin County,Kentucky","Clay County,West Virginia",10384,266000
+345,"Martin County,Kentucky","Doddridge County,West Virginia",14070,385618
+346,"Martin County,Kentucky","Fayette County,West Virginia",11215,233273
+347,"Martin County,Kentucky","Gilmer County,West Virginia",12816,317274
+348,"Martin County,Kentucky","Grant County,West Virginia",19282,505654
+349,"Martin County,Kentucky","Greenbrier County,West Virginia",14289,311311
+350,"Martin County,Kentucky","Hampshire County,West Virginia",22114,603871
+351,"Martin County,Kentucky","Hancock County,West Virginia",19633,533225
+352,"Martin County,Kentucky","Hardy County,West Virginia",20338,537151
+353,"Martin County,Kentucky","Harrison County,West Virginia",14160,390479
+354,"Martin County,Kentucky","Jackson County,West Virginia",9422,247104
+355,"Martin County,Kentucky","Jefferson County,West Virginia",24326,698266
+356,"Martin County,Kentucky","Kanawha County,West Virginia",8561,170642
+357,"Martin County,Kentucky","Lewis County,West Virginia",12790,343949
+358,"Martin County,Kentucky","Lincoln County,West Virginia",7402,138476
+359,"Martin County,Kentucky","Logan County,West Virginia",4774,87373
+360,"Martin County,Kentucky","McDowell County,West Virginia",9179,160439
+361,"Martin County,Kentucky","Marion County,West Virginia",15306,417646
+362,"Martin County,Kentucky","Marshall County,West Virginia",17430,434790
+363,"Martin County,Kentucky","Mason County,West Virginia",7659,194978
+364,"Martin County,Kentucky","Mercer County,West Virginia",11813,212321
+365,"Martin County,Kentucky","Mineral County,West Virginia",20977,534474
+366,"Martin County,Kentucky","Mingo County,West Virginia",3458,53826
+367,"Martin County,Kentucky","Monongalia County,West Virginia",15516,443115
+368,"Martin County,Kentucky","Monroe County,West Virginia",14896,323607
+369,"Martin County,Kentucky","Morgan County,West Virginia",22351,631659
+370,"Martin County,Kentucky","Nicholas County,West Virginia",12100,325881
+371,"Martin County,Kentucky","Ohio County,West Virginia",17063,479926
+372,"Martin County,Kentucky","Pendleton County,West Virginia",19613,508278
+373,"Martin County,Kentucky","Pleasants County,West Virginia",12905,344956
+374,"Martin County,Kentucky","Pocahontas County,West Virginia",17369,391524
+375,"Martin County,Kentucky","Preston County,West Virginia",17662,469846
+376,"Martin County,Kentucky","Putnam County,West Virginia",6360,157011
+377,"Martin County,Kentucky","Raleigh County,West Virginia",9833,172867
+378,"Martin County,Kentucky","Randolph County,West Virginia",15291,406404
+379,"Martin County,Kentucky","Ritchie County,West Virginia",13235,358660
+380,"Martin County,Kentucky","Roane County,West Virginia",11048,275919
+381,"Martin County,Kentucky","Summers County,West Virginia",13844,294026
+382,"Martin County,Kentucky","Taylor County,West Virginia",15198,413219
+383,"Martin County,Kentucky","Tucker County,West Virginia",16358,436929
+384,"Martin County,Kentucky","Tyler County,West Virginia",14814,384571
+385,"Martin County,Kentucky","Upshur County,West Virginia",14355,358646
+386,"Martin County,Kentucky","Wayne County,West Virginia",4006,74031
+387,"Martin County,Kentucky","Webster County,West Virginia",14284,352961
+388,"Martin County,Kentucky","Wetzel County,West Virginia",16026,406478
+389,"Martin County,Kentucky","Wirt County,West Virginia",11688,304442
+390,"Martin County,Kentucky","Wood County,West Virginia",11203,306131
+391,"Martin County,Kentucky","Wyoming County,West Virginia",8179,147447

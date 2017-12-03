@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Franklin County,Kentucky","Adair County,Kentucky",7600,171579
+1,"Franklin County,Kentucky","Allen County,Kentucky",9557,258452
+2,"Franklin County,Kentucky","Anderson County,Kentucky",2180,38294
+3,"Franklin County,Kentucky","Ballard County,Kentucky",15717,450614
+4,"Franklin County,Kentucky","Barren County,Kentucky",8684,226865
+5,"Franklin County,Kentucky","Bath County,Kentucky",4733,128850
+6,"Franklin County,Kentucky","Bell County,Kentucky",9967,256577
+7,"Franklin County,Kentucky","Boone County,Kentucky",5848,125023
+8,"Franklin County,Kentucky","Bourbon County,Kentucky",3923,70205
+9,"Franklin County,Kentucky","Boyd County,Kentucky",7990,230307
+10,"Franklin County,Kentucky","Boyle County,Kentucky",3847,78121
+11,"Franklin County,Kentucky","Bracken County,Kentucky",6634,127235
+12,"Franklin County,Kentucky","Breathitt County,Kentucky",7333,193031
+13,"Franklin County,Kentucky","Breckinridge County,Kentucky",7741,191274
+14,"Franklin County,Kentucky","Bullitt County,Kentucky",4311,112393
+15,"Franklin County,Kentucky","Butler County,Kentucky",8937,235522
+16,"Franklin County,Kentucky","Caldwell County,Kentucky",11829,341468
+17,"Franklin County,Kentucky","Calloway County,Kentucky",14639,426460
+18,"Franklin County,Kentucky","Campbell County,Kentucky",6579,137822
+19,"Franklin County,Kentucky","Carlisle County,Kentucky",16174,465983
+20,"Franklin County,Kentucky","Carroll County,Kentucky",3938,70698
+21,"Franklin County,Kentucky","Carter County,Kentucky",7127,199564
+22,"Franklin County,Kentucky","Casey County,Kentucky",5745,122104
+23,"Franklin County,Kentucky","Christian County,Kentucky",11478,336724
+24,"Franklin County,Kentucky","Clay County,Kentucky",8198,215621
+25,"Franklin County,Kentucky","Clinton County,Kentucky",9731,206489
+26,"Franklin County,Kentucky","Crittenden County,Kentucky",13409,374538
+27,"Franklin County,Kentucky","Cumberland County,Kentucky",9451,213846
+28,"Franklin County,Kentucky","Daviess County,Kentucky",9651,269648
+29,"Franklin County,Kentucky","Edmonson County,Kentucky",8377,223397
+30,"Franklin County,Kentucky","Elliott County,Kentucky",7903,190826
+31,"Franklin County,Kentucky","Estill County,Kentucky",5267,129571
+32,"Franklin County,Kentucky","Fayette County,Kentucky",2696,60065
+33,"Franklin County,Kentucky","Fleming County,Kentucky",6161,159069
+34,"Franklin County,Kentucky","Floyd County,Kentucky",9520,253062
+35,"Franklin County,Kentucky","Fulton County,Kentucky",16578,486947
+36,"Franklin County,Kentucky","Gallatin County,Kentucky",4037,83176
+37,"Franklin County,Kentucky","Garrard County,Kentucky",4994,100810
+38,"Franklin County,Kentucky","Grant County,Kentucky",3886,79218
+39,"Franklin County,Kentucky","Graves County,Kentucky",15199,438689
+40,"Franklin County,Kentucky","Grayson County,Kentucky",7264,192158
+41,"Franklin County,Kentucky","Green County,Kentucky",7044,157364
+42,"Franklin County,Kentucky","Greenup County,Kentucky",8596,226894
+43,"Franklin County,Kentucky","Hancock County,Kentucky",8536,224167
+44,"Franklin County,Kentucky","Hardin County,Kentucky",6140,154291
+45,"Franklin County,Kentucky","Harlan County,Kentucky",12261,312182
+46,"Franklin County,Kentucky","Harrison County,Kentucky",4197,81342
+47,"Franklin County,Kentucky","Hart County,Kentucky",6940,181919
+48,"Franklin County,Kentucky","Henderson County,Kentucky",11235,312144
+49,"Franklin County,Kentucky","Henry County,Kentucky",2406,40214
+50,"Franklin County,Kentucky","Hickman County,Kentucky",16208,467275
+51,"Franklin County,Kentucky","Hopkins County,Kentucky",11287,315936
+52,"Franklin County,Kentucky","Jackson County,Kentucky",6710,159407
+53,"Franklin County,Kentucky","Jefferson County,Kentucky",3747,84254
+54,"Franklin County,Kentucky","Jessamine County,Kentucky",3626,60585
+55,"Franklin County,Kentucky","Johnson County,Kentucky",8474,229055
+56,"Franklin County,Kentucky","Kenton County,Kentucky",5734,120739
+57,"Franklin County,Kentucky","Knott County,Kentucky",9793,256409
+58,"Franklin County,Kentucky","Knox County,Kentucky",8129,218317
+59,"Franklin County,Kentucky","Larue County,Kentucky",6212,141467
+60,"Franklin County,Kentucky","Laurel County,Kentucky",6980,189712
+61,"Franklin County,Kentucky","Lawrence County,Kentucky",9994,257443
+62,"Franklin County,Kentucky","Lee County,Kentucky",6582,169488
+63,"Franklin County,Kentucky","Leslie County,Kentucky",10148,266744
+64,"Franklin County,Kentucky","Letcher County,Kentucky",11046,281382
+65,"Franklin County,Kentucky","Lewis County,Kentucky",7686,197209
+66,"Franklin County,Kentucky","Lincoln County,Kentucky",5104,105649
+67,"Franklin County,Kentucky","Livingston County,Kentucky",14004,391435
+68,"Franklin County,Kentucky","Logan County,Kentucky",10677,278761
+69,"Franklin County,Kentucky","Lyon County,Kentucky",14138,401825
+70,"Franklin County,Kentucky","McCracken County,Kentucky",14329,418674
+71,"Franklin County,Kentucky","McCreary County,Kentucky",9085,234154
+72,"Franklin County,Kentucky","Madison County,Kentucky",4119,103294
+73,"Franklin County,Kentucky","Magoffin County,Kentucky",7942,210922
+74,"Franklin County,Kentucky","Marion County,Kentucky",4590,103076
+75,"Franklin County,Kentucky","Marshall County,Kentucky",13744,402246
+76,"Franklin County,Kentucky","Martin County,Kentucky",11260,287400
+77,"Franklin County,Kentucky","Mason County,Kentucky",7052,141771
+78,"Franklin County,Kentucky","Meade County,Kentucky",6208,156569
+79,"Franklin County,Kentucky","Menifee County,Kentucky",6007,141388
+80,"Franklin County,Kentucky","Mercer County,Kentucky",2922,58296
+81,"Franklin County,Kentucky","Metcalfe County,Kentucky",8420,200088
+82,"Franklin County,Kentucky","Monroe County,Kentucky",10150,221273
+83,"Franklin County,Kentucky","Montgomery County,Kentucky",4651,119297
+84,"Franklin County,Kentucky","Morgan County,Kentucky",7332,199206
+85,"Franklin County,Kentucky","Muhlenberg County,Kentucky",10148,282412
+86,"Franklin County,Kentucky","Nelson County,Kentucky",4198,102148
+87,"Franklin County,Kentucky","Nicholas County,Kentucky",5179,97586
+88,"Franklin County,Kentucky","Ohio County,Kentucky",9061,250001
+89,"Franklin County,Kentucky","Oldham County,Kentucky",3819,96135
+90,"Franklin County,Kentucky","Owen County,Kentucky",2461,48430
+91,"Franklin County,Kentucky","Owsley County,Kentucky",7729,189465
+92,"Franklin County,Kentucky","Pendleton County,Kentucky",5757,118470
+93,"Franklin County,Kentucky","Perry County,Kentucky",8945,232914
+94,"Franklin County,Kentucky","Pike County,Kentucky",11199,283386
+95,"Franklin County,Kentucky","Powell County,Kentucky",4944,128156
+96,"Franklin County,Kentucky","Robertson County,Kentucky",5936,113182
+97,"Franklin County,Kentucky","Rockcastle County,Kentucky",5553,144437
+98,"Franklin County,Kentucky","Rowan County,Kentucky",5474,152702
+99,"Franklin County,Kentucky","Russell County,Kentucky",7790,164702
+100,"Franklin County,Kentucky","Scott County,Kentucky",2785,50817
+101,"Franklin County,Kentucky","Shelby County,Kentucky",2676,55388
+102,"Franklin County,Kentucky","Simpson County,Kentucky",10259,286818
+103,"Franklin County,Kentucky","Spencer County,Kentucky",3205,61236
+104,"Franklin County,Kentucky","Taylor County,Kentucky",5879,134572
+105,"Franklin County,Kentucky","Todd County,Kentucky",11913,302921
+106,"Franklin County,Kentucky","Trigg County,Kentucky",12891,362653
+107,"Franklin County,Kentucky","Trimble County,Kentucky",3958,72380
+108,"Franklin County,Kentucky","Union County,Kentucky",12955,342590
+109,"Franklin County,Kentucky","Warren County,Kentucky",9293,251766
+110,"Franklin County,Kentucky","Washington County,Kentucky",4208,87384
+111,"Franklin County,Kentucky","Wayne County,Kentucky",9294,232796
+112,"Franklin County,Kentucky","Webster County,Kentucky",12397,344025
+113,"Franklin County,Kentucky","Whitley County,Kentucky",7813,224197
+114,"Franklin County,Kentucky","Wolfe County,Kentucky",6208,166027
+115,"Franklin County,Kentucky","Woodford County,Kentucky",1912,32631
+116,"Franklin County,Kentucky","Adams County,Ohio",9482,188504
+117,"Franklin County,Kentucky","Allen County,Ohio",13154,346632
+118,"Franklin County,Kentucky","Ashland County,Ohio",16343,448510
+119,"Franklin County,Kentucky","Ashtabula County,Ohio",22089,633262
+120,"Franklin County,Kentucky","Athens County,Ohio",14318,388326
+121,"Franklin County,Kentucky","Auglaize County,Ohio",12410,333897
+122,"Franklin County,Kentucky","Belmont County,Ohio",17680,494942
+123,"Franklin County,Kentucky","Brown County,Ohio",8467,176749
+124,"Franklin County,Kentucky","Butler County,Ohio",8231,196506
+125,"Franklin County,Kentucky","Carroll County,Ohio",19645,532165
+126,"Franklin County,Kentucky","Champaign County,Ohio",11188,288079
+127,"Franklin County,Kentucky","Clark County,Ohio",10616,274712
+128,"Franklin County,Kentucky","Clermont County,Ohio",6982,167685
+129,"Franklin County,Kentucky","Clinton County,Ohio",9077,218991
+130,"Franklin County,Kentucky","Columbiana County,Ohio",21201,567754
+131,"Franklin County,Kentucky","Coshocton County,Ohio",16204,427582
+132,"Franklin County,Kentucky","Crawford County,Ohio",15880,440482
+133,"Franklin County,Kentucky","Cuyahoga County,Ohio",18660,530975
+134,"Franklin County,Kentucky","Darke County,Ohio",11507,290944
+135,"Franklin County,Kentucky","Defiance County,Ohio",16641,425062
+136,"Franklin County,Kentucky","Delaware County,Ohio",13260,355182
+137,"Franklin County,Kentucky","Fairfield County,Ohio",12663,338431
+138,"Franklin County,Kentucky","Fayette County,Ohio",9975,256596
+139,"Franklin County,Kentucky","Franklin County,Ohio",11777,315109
+140,"Franklin County,Kentucky","Fulton County,Ohio",17405,442006
+141,"Franklin County,Kentucky","Gallia County,Ohio",12276,330679
+142,"Franklin County,Kentucky","Geauga County,Ohio",20189,570193
+143,"Franklin County,Kentucky","Greene County,Ohio",9403,228345
+144,"Franklin County,Kentucky","Guernsey County,Ohio",15409,428623
+145,"Franklin County,Kentucky","Hamilton County,Ohio",6886,160991
+146,"Franklin County,Kentucky","Hancock County,Ohio",14263,387528
+147,"Franklin County,Kentucky","Hardin County,Ohio",14050,371925
+148,"Franklin County,Kentucky","Harrison County,Ohio",18650,514231
+149,"Franklin County,Kentucky","Henry County,Ohio",15987,411996
+150,"Franklin County,Kentucky","Highland County,Ohio",9925,230637
+151,"Franklin County,Kentucky","Hocking County,Ohio",14101,381836
+152,"Franklin County,Kentucky","Holmes County,Ohio",17754,464440
+153,"Franklin County,Kentucky","Huron County,Ohio",17489,447281
+154,"Franklin County,Kentucky","Jackson County,Ohio",11826,313874
+155,"Franklin County,Kentucky","Jefferson County,Ohio",19644,524009
+156,"Franklin County,Kentucky","Knox County,Ohio",15709,414804
+157,"Franklin County,Kentucky","Lawrence County,Ohio",10397,266735
+158,"Franklin County,Kentucky","Licking County,Ohio",14042,370027
+159,"Franklin County,Kentucky","Logan County,Ohio",12422,320616
+160,"Franklin County,Kentucky","Lorain County,Ohio",19274,505935
+161,"Franklin County,Kentucky","Lucas County,Ohio",17588,474047
+162,"Franklin County,Kentucky","Madison County,Ohio",11197,291778
+163,"Franklin County,Kentucky","Mahoning County,Ohio",21058,584894
+164,"Franklin County,Kentucky","Marion County,Ohio",14307,362617
+165,"Franklin County,Kentucky","Medina County,Ohio",16988,473523
+166,"Franklin County,Kentucky","Meigs County,Ohio",13208,361062
+167,"Franklin County,Kentucky","Mercer County,Ohio",13646,360831
+168,"Franklin County,Kentucky","Miami County,Ohio",9996,256336
+169,"Franklin County,Kentucky","Monroe County,Ohio",19120,540011
+170,"Franklin County,Kentucky","Montgomery County,Ohio",9379,234076
+171,"Franklin County,Kentucky","Morgan County,Ohio",16475,437119
+172,"Franklin County,Kentucky","Morrow County,Ohio",14067,378003
+173,"Franklin County,Kentucky","Muskingum County,Ohio",14260,394779
+174,"Franklin County,Kentucky","Noble County,Ohio",17109,465743
+175,"Franklin County,Kentucky","Paulding County,Ohio",15685,409610
+176,"Franklin County,Kentucky","Perry County,Ohio",14329,383363
+177,"Franklin County,Kentucky","Pickaway County,Ohio",11912,305192
+178,"Franklin County,Kentucky","Pike County,Ohio",10980,277080
+179,"Franklin County,Kentucky","Portage County,Ohio",19510,544673
+180,"Franklin County,Kentucky","Preble County,Ohio",10276,240905
+181,"Franklin County,Kentucky","Putnam County,Ohio",14328,379100
+182,"Franklin County,Kentucky","Richland County,Ohio",15097,413241
+183,"Franklin County,Kentucky","Ross County,Ohio",11556,304509
+184,"Franklin County,Kentucky","Sandusky County,Ohio",17303,467603
+185,"Franklin County,Kentucky","Scioto County,Ohio",10677,265426
+186,"Franklin County,Kentucky","Seneca County,Ohio",16607,443867
+187,"Franklin County,Kentucky","Shelby County,Ohio",11034,292622
+188,"Franklin County,Kentucky","Stark County,Ohio",19255,529056
+189,"Franklin County,Kentucky","Summit County,Ohio",18191,508850
+190,"Franklin County,Kentucky","Trumbull County,Ohio",21091,595165
+191,"Franklin County,Kentucky","Tuscarawas County,Ohio",17704,487988
+192,"Franklin County,Kentucky","Union County,Ohio",12549,318000
+193,"Franklin County,Kentucky","Van Wert County,Ohio",14319,379155
+194,"Franklin County,Kentucky","Vinton County,Ohio",13738,353262
+195,"Franklin County,Kentucky","Warren County,Ohio",7765,187247
+196,"Franklin County,Kentucky","Washington County,Ohio",16245,433011
+197,"Franklin County,Kentucky","Wayne County,Ohio",16716,462521
+198,"Franklin County,Kentucky","Williams County,Ohio",17818,448579
+199,"Franklin County,Kentucky","Wood County,Ohio",15351,428156
+200,"Franklin County,Kentucky","Wyandot County,Ohio",14958,408408
+201,"Franklin County,Kentucky","Accomack County,Virginia",38076,1104175
+202,"Franklin County,Kentucky","Albemarle County,Virginia",24225,716675
+203,"Franklin County,Kentucky","Alleghany County,Virginia",18895,553698
+204,"Franklin County,Kentucky","Amelia County,Virginia",28926,816793
+205,"Franklin County,Kentucky","Amherst County,Virginia",24223,684664
+206,"Franklin County,Kentucky","Appomattox County,Virginia",25817,723423
+207,"Franklin County,Kentucky","Arlington County,Virginia",30509,912707
+208,"Franklin County,Kentucky","Augusta County,Virginia",22836,655014
+209,"Franklin County,Kentucky","Bath County,Virginia",21906,629007
+210,"Franklin County,Kentucky","Bedford County,Virginia",24483,670788
+211,"Franklin County,Kentucky","Bland County,Virginia",17856,519917
+212,"Franklin County,Kentucky","Botetourt County,Virginia",22049,624997
+213,"Franklin County,Kentucky","Brunswick County,Virginia",31469,866466
+214,"Franklin County,Kentucky","Buchanan County,Virginia",15251,362892
+215,"Franklin County,Kentucky","Buckingham County,Virginia",26099,734358
+216,"Franklin County,Kentucky","Campbell County,Virginia",25740,725895
+217,"Franklin County,Kentucky","Caroline County,Virginia",29565,885520
+218,"Franklin County,Kentucky","Carroll County,Virginia",20102,589355
+219,"Franklin County,Kentucky","Charles City County,Virginia",29665,882555
+220,"Franklin County,Kentucky","Charlotte County,Virginia",27701,776943
+221,"Franklin County,Kentucky","Chesterfield County,Virginia",28801,860339
+222,"Franklin County,Kentucky","Clarke County,Virginia",28405,843733
+223,"Franklin County,Kentucky","Craig County,Virginia",20538,574783
+224,"Franklin County,Kentucky","Culpeper County,Virginia",28023,805891
+225,"Franklin County,Kentucky","Cumberland County,Virginia",27309,762360
+226,"Franklin County,Kentucky","Dickenson County,Virginia",14605,348328
+227,"Franklin County,Kentucky","Dinwiddie County,Virginia",30548,910770
+228,"Franklin County,Kentucky","Essex County,Virginia",31382,909563
+229,"Franklin County,Kentucky","Fairfax County,Virginia",30199,903374
+230,"Franklin County,Kentucky","Fauquier County,Virginia",28844,864984
+231,"Franklin County,Kentucky","Floyd County,Virginia",21723,608319
+232,"Franklin County,Kentucky","Fluvanna County,Virginia",25903,768846
+233,"Franklin County,Kentucky","Franklin County,Virginia",23996,672022
+234,"Franklin County,Kentucky","Frederick County,Virginia",27071,757867
+235,"Franklin County,Kentucky","Giles County,Virginia",18587,531476
+236,"Franklin County,Kentucky","Gloucester County,Virginia",31836,936743
+237,"Franklin County,Kentucky","Goochland County,Virginia",26807,799457
+238,"Franklin County,Kentucky","Grayson County,Virginia",20505,579062
+239,"Franklin County,Kentucky","Greene County,Virginia",26218,752259
+240,"Franklin County,Kentucky","Greensville County,Virginia",31964,959522
+241,"Franklin County,Kentucky","Halifax County,Virginia",28405,787042
+242,"Franklin County,Kentucky","Hanover County,Virginia",28013,840564
+243,"Franklin County,Kentucky","Henrico County,Virginia",28525,853524
+244,"Franklin County,Kentucky","Henry County,Virginia",23975,676076
+245,"Franklin County,Kentucky","Highland County,Virginia",23351,638978
+246,"Franklin County,Kentucky","Isle of Wight County,Virginia",32777,958101
+247,"Franklin County,Kentucky","James City County,Virginia",30901,923326
+248,"Franklin County,Kentucky","King and Queen County,Virginia",30559,898910
+249,"Franklin County,Kentucky","King George County,Virginia",30678,913507
+250,"Franklin County,Kentucky","King William County,Virginia",29247,868832
+251,"Franklin County,Kentucky","Lancaster County,Virginia",33040,951917
+252,"Franklin County,Kentucky","Lee County,Virginia",13059,333135
+253,"Franklin County,Kentucky","Loudoun County,Virginia",29901,879599
+254,"Franklin County,Kentucky","Louisa County,Virginia",26464,782552
+255,"Franklin County,Kentucky","Lunenburg County,Virginia",29473,818227
+256,"Franklin County,Kentucky","Madison County,Virginia",27138,781999
+257,"Franklin County,Kentucky","Mathews County,Virginia",32661,960167
+258,"Franklin County,Kentucky","Mecklenburg County,Virginia",30464,831352
+259,"Franklin County,Kentucky","Middlesex County,Virginia",31437,932944
+260,"Franklin County,Kentucky","Montgomery County,Virginia",19670,559482
+261,"Franklin County,Kentucky","Nelson County,Virginia",24764,696355
+262,"Franklin County,Kentucky","New Kent County,Virginia",30337,897240
+263,"Franklin County,Kentucky","Northampton County,Virginia",35318,1039989
+264,"Franklin County,Kentucky","Northumberland County,Virginia",33079,950430
+265,"Franklin County,Kentucky","Nottoway County,Virginia",28966,818607
+266,"Franklin County,Kentucky","Orange County,Virginia",27427,790660
+267,"Franklin County,Kentucky","Page County,Virginia",26072,765785
+268,"Franklin County,Kentucky","Patrick County,Virginia",22208,634391
+269,"Franklin County,Kentucky","Pittsylvania County,Virginia",26291,730284
+270,"Franklin County,Kentucky","Powhatan County,Virginia",28060,824679
+271,"Franklin County,Kentucky","Prince Edward County,Virginia",27581,775943
+272,"Franklin County,Kentucky","Prince George County,Virginia",30312,897354
+273,"Franklin County,Kentucky","Prince William County,Virginia",28943,871088
+274,"Franklin County,Kentucky","Pulaski County,Virginia",19765,555814
+275,"Franklin County,Kentucky","Rappahannock County,Virginia",27903,802272
+276,"Franklin County,Kentucky","Richmond County,Virginia",31779,923073
+277,"Franklin County,Kentucky","Roanoke County,Virginia",21290,602276
+278,"Franklin County,Kentucky","Rockbridge County,Virginia",21227,622054
+279,"Franklin County,Kentucky","Rockingham County,Virginia",25111,738135
+280,"Franklin County,Kentucky","Russell County,Virginia",16783,381441
+281,"Franklin County,Kentucky","Scott County,Virginia",15378,380976
+282,"Franklin County,Kentucky","Shenandoah County,Virginia",25616,768238
+283,"Franklin County,Kentucky","Smyth County,Virginia",18892,463929
+284,"Franklin County,Kentucky","Southampton County,Virginia",32342,955636
+285,"Franklin County,Kentucky","Spotsylvania County,Virginia",28480,824391
+286,"Franklin County,Kentucky","Stafford County,Virginia",29862,848684
+287,"Franklin County,Kentucky","Surry County,Virginia",31645,922187
+288,"Franklin County,Kentucky","Sussex County,Virginia",31006,925879
+289,"Franklin County,Kentucky","Tazewell County,Virginia",17496,419666
+290,"Franklin County,Kentucky","Warren County,Virginia",27518,812831
+291,"Franklin County,Kentucky","Washington County,Virginia",17003,415046
+292,"Franklin County,Kentucky","Westmoreland County,Virginia",31652,930331
+293,"Franklin County,Kentucky","Wise County,Virginia",12870,324227
+294,"Franklin County,Kentucky","Wythe County,Virginia",18461,538134
+295,"Franklin County,Kentucky","York County,Virginia",32189,954100
+296,"Franklin County,Kentucky","Alexandria City County,Virginia",31024,929888
+297,"Franklin County,Kentucky","Bedford City County,Virginia",23648,662220
+298,"Franklin County,Kentucky","Bristol City County,Virginia",17332,422303
+299,"Franklin County,Kentucky","Buena Vista City County,Virginia",21582,636031
+300,"Franklin County,Kentucky","Charlottesville City County,Virginia",24695,731889
+301,"Franklin County,Kentucky","Chesapeake City County,Virginia",33652,1007006
+302,"Franklin County,Kentucky","Clifton Forge City County,Virginia",19438,573904
+303,"Franklin County,Kentucky","Colonial Heights City County,Virginia",29361,876231
+304,"Franklin County,Kentucky","Covington City County,Virginia",18964,557283
+305,"Franklin County,Kentucky","Danville City County,Virginia",26133,730532
+306,"Franklin County,Kentucky","Emporia City County,Virginia",31672,946115
+307,"Franklin County,Kentucky","Fairfax City County,Virginia",30076,896835
+308,"Franklin County,Kentucky","Falls Church City County,Virginia",30217,907019
+309,"Franklin County,Kentucky","Franklin City County,Virginia",32890,963491
+310,"Franklin County,Kentucky","Fredericksburg City County,Virginia",29613,834050
+311,"Franklin County,Kentucky","Galax City County,Virginia",20725,595221
+312,"Franklin County,Kentucky","Hampton City County,Virginia",32139,963807
+313,"Franklin County,Kentucky","Harrisonburg City County,Virginia",24170,718031
+314,"Franklin County,Kentucky","Hopewell City County,Virginia",29398,875197
+315,"Franklin County,Kentucky","Lexington City County,Virginia",21216,624523
+316,"Franklin County,Kentucky","Lynchburg City County,Virginia",24800,699637
+317,"Franklin County,Kentucky","Manassas City County,Virginia",29171,876033
+318,"Franklin County,Kentucky","Manassas Park City County,Virginia",29673,882376
+319,"Franklin County,Kentucky","Martinsville City County,Virginia",24503,684869
+320,"Franklin County,Kentucky","Newport News City County,Virginia",31696,950292
+321,"Franklin County,Kentucky","Norfolk City County,Virginia",33445,989223
+322,"Franklin County,Kentucky","Norton City County,Virginia",13499,336039
+323,"Franklin County,Kentucky","Petersburg City County,Virginia",29233,877219
+324,"Franklin County,Kentucky","Poquoson City County,Virginia",32367,960869
+325,"Franklin County,Kentucky","Portsmouth City County,Virginia",33384,998043
+326,"Franklin County,Kentucky","Radford County,Virginia",20078,557523
+327,"Franklin County,Kentucky","Richmond City County,Virginia",28101,841334
+328,"Franklin County,Kentucky","Roanoke City County,Virginia",21892,622381
+329,"Franklin County,Kentucky","Salem City County,Virginia",21304,608931
+330,"Franklin County,Kentucky","South Boston City County,Virginia",28145,784710
+331,"Franklin County,Kentucky","Staunton City County,Virginia",22987,679166
+332,"Franklin County,Kentucky","Suffolk City County,Virginia",33620,972825
+333,"Franklin County,Kentucky","Virginia Beach City County,Virginia",34006,1012481
+334,"Franklin County,Kentucky","Waynesboro City County,Virginia",23325,691884
+335,"Franklin County,Kentucky","Williamsburg City County,Virginia",30740,922542
+336,"Franklin County,Kentucky","Winchester City County,Virginia",27550,791868
+337,"Franklin County,Kentucky","Barbour County,West Virginia",19030,552565
+338,"Franklin County,Kentucky","Berkeley County,West Virginia",26963,790724
+339,"Franklin County,Kentucky","Boone County,West Virginia",14209,386181
+340,"Franklin County,Kentucky","Braxton County,West Virginia",15720,443544
+341,"Franklin County,Kentucky","Brooke County,West Virginia",19759,537190
+342,"Franklin County,Kentucky","Cabell County,West Virginia",8781,252690
+343,"Franklin County,Kentucky","Calhoun County,West Virginia",15641,441228
+344,"Franklin County,Kentucky","Clay County,West Virginia",14487,414457
+345,"Franklin County,Kentucky","Doddridge County,West Virginia",18174,534074
+346,"Franklin County,Kentucky","Fayette County,West Virginia",15775,432801
+347,"Franklin County,Kentucky","Gilmer County,West Virginia",16919,465730
+348,"Franklin County,Kentucky","Grant County,West Virginia",23386,654110
+349,"Franklin County,Kentucky","Greenbrier County,West Virginia",18849,510839
+350,"Franklin County,Kentucky","Hampshire County,West Virginia",26218,752327
+351,"Franklin County,Kentucky","Hancock County,West Virginia",21349,571726
+352,"Franklin County,Kentucky","Hardy County,West Virginia",24441,685607
+353,"Franklin County,Kentucky","Harrison County,West Virginia",18264,538935
+354,"Franklin County,Kentucky","Jackson County,West Virginia",13526,395560
+355,"Franklin County,Kentucky","Jefferson County,West Virginia",28429,846722
+356,"Franklin County,Kentucky","Kanawha County,West Virginia",13083,366865
+357,"Franklin County,Kentucky","Lewis County,West Virginia",16893,492405
+358,"Franklin County,Kentucky","Lincoln County,West Virginia",11998,310340
+359,"Franklin County,Kentucky","Logan County,West Virginia",14254,354155
+360,"Franklin County,Kentucky","McDowell County,West Virginia",18106,406343
+361,"Franklin County,Kentucky","Marion County,West Virginia",19409,566103
+362,"Franklin County,Kentucky","Marshall County,West Virginia",19717,531698
+363,"Franklin County,Kentucky","Mason County,West Virginia",11762,343435
+364,"Franklin County,Kentucky","Mercer County,West Virginia",16410,478424
+365,"Franklin County,Kentucky","Mineral County,West Virginia",25080,682931
+366,"Franklin County,Kentucky","Mingo County,West Virginia",12938,320608
+367,"Franklin County,Kentucky","Monongalia County,West Virginia",19620,591571
+368,"Franklin County,Kentucky","Monroe County,West Virginia",19455,523135
+369,"Franklin County,Kentucky","Morgan County,West Virginia",26455,780116
+370,"Franklin County,Kentucky","Nicholas County,West Virginia",16203,474337
+371,"Franklin County,Kentucky","Ohio County,West Virginia",18778,518427
+372,"Franklin County,Kentucky","Pendleton County,West Virginia",23717,656734
+373,"Franklin County,Kentucky","Pleasants County,West Virginia",17008,493412
+374,"Franklin County,Kentucky","Pocahontas County,West Virginia",21533,543876
+375,"Franklin County,Kentucky","Preston County,West Virginia",21766,618302
+376,"Franklin County,Kentucky","Putnam County,West Virginia",10464,305467
+377,"Franklin County,Kentucky","Raleigh County,West Virginia",14951,432117
+378,"Franklin County,Kentucky","Randolph County,West Virginia",19395,554860
+379,"Franklin County,Kentucky","Ritchie County,West Virginia",17339,507116
+380,"Franklin County,Kentucky","Roane County,West Virginia",15151,424375
+381,"Franklin County,Kentucky","Summers County,West Virginia",18404,493554
+382,"Franklin County,Kentucky","Taylor County,West Virginia",19302,561675
+383,"Franklin County,Kentucky","Tucker County,West Virginia",20462,585385
+384,"Franklin County,Kentucky","Tyler County,West Virginia",18917,533027
+385,"Franklin County,Kentucky","Upshur County,West Virginia",18458,507102
+386,"Franklin County,Kentucky","Wayne County,West Virginia",10311,273885
+387,"Franklin County,Kentucky","Webster County,West Virginia",18388,501417
+388,"Franklin County,Kentucky","Wetzel County,West Virginia",20129,554934
+389,"Franklin County,Kentucky","Wirt County,West Virginia",15792,452898
+390,"Franklin County,Kentucky","Wood County,West Virginia",15306,454588
+391,"Franklin County,Kentucky","Wyoming County,West Virginia",16896,472058

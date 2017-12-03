@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Clinton County,Kentucky","Adair County,Kentucky",3146,63403
+1,"Clinton County,Kentucky","Allen County,Kentucky",5812,129284
+2,"Clinton County,Kentucky","Anderson County,Kentucky",8600,185030
+3,"Clinton County,Kentucky","Ballard County,Kentucky",15624,431960
+4,"Clinton County,Kentucky","Barren County,Kentucky",3910,83467
+5,"Clinton County,Kentucky","Bath County,Kentucky",9439,237519
+6,"Clinton County,Kentucky","Bell County,Kentucky",8986,205348
+7,"Clinton County,Kentucky","Boone County,Kentucky",11785,315989
+8,"Clinton County,Kentucky","Bourbon County,Kentucky",8986,227689
+9,"Clinton County,Kentucky","Boyd County,Kentucky",12696,338976
+10,"Clinton County,Kentucky","Boyle County,Kentucky",6377,131935
+11,"Clinton County,Kentucky","Bracken County,Kentucky",12371,302216
+12,"Clinton County,Kentucky","Breathitt County,Kentucky",10820,261028
+13,"Clinton County,Kentucky","Breckinridge County,Kentucky",10268,226590
+14,"Clinton County,Kentucky","Bullitt County,Kentucky",8440,207153
+15,"Clinton County,Kentucky","Butler County,Kentucky",7399,189142
+16,"Clinton County,Kentucky","Caldwell County,Kentucky",11735,322813
+17,"Clinton County,Kentucky","Calloway County,Kentucky",13804,347795
+18,"Clinton County,Kentucky","Campbell County,Kentucky",12316,312803
+19,"Clinton County,Kentucky","Carlisle County,Kentucky",16081,447328
+20,"Clinton County,Kentucky","Carroll County,Kentucky",12090,317520
+21,"Clinton County,Kentucky","Carter County,Kentucky",11833,308233
+22,"Clinton County,Kentucky","Casey County,Kentucky",4518,90685
+23,"Clinton County,Kentucky","Christian County,Kentucky",10091,255282
+24,"Clinton County,Kentucky","Clay County,Kentucky",7149,164376
+25,"Clinton County,Kentucky","Crittenden County,Kentucky",13315,355883
+26,"Clinton County,Kentucky","Cumberland County,Kentucky",1343,26141
+27,"Clinton County,Kentucky","Daviess County,Kentucky",9833,262936
+28,"Clinton County,Kentucky","Edmonson County,Kentucky",5889,136830
+29,"Clinton County,Kentucky","Elliott County,Kentucky",12609,299495
+30,"Clinton County,Kentucky","Estill County,Kentucky",7917,188343
+31,"Clinton County,Kentucky","Fayette County,Kentucky",7884,201773
+32,"Clinton County,Kentucky","Fleming County,Kentucky",10867,267738
+33,"Clinton County,Kentucky","Floyd County,Kentucky",11168,275541
+34,"Clinton County,Kentucky","Franklin County,Kentucky",9778,206497
+35,"Clinton County,Kentucky","Fulton County,Kentucky",16485,468292
+36,"Clinton County,Kentucky","Gallatin County,Kentucky",11619,302754
+37,"Clinton County,Kentucky","Garrard County,Kentucky",6585,142035
+38,"Clinton County,Kentucky","Grant County,Kentucky",10418,276861
+39,"Clinton County,Kentucky","Graves County,Kentucky",15105,420034
+40,"Clinton County,Kentucky","Grayson County,Kentucky",8184,185074
+41,"Clinton County,Kentucky","Green County,Kentucky",4910,108606
+42,"Clinton County,Kentucky","Greenup County,Kentucky",13301,335563
+43,"Clinton County,Kentucky","Hancock County,Kentucky",10843,275667
+44,"Clinton County,Kentucky","Hardin County,Kentucky",7792,194266
+45,"Clinton County,Kentucky","Harlan County,Kentucky",11280,260953
+46,"Clinton County,Kentucky","Harrison County,Kentucky",9935,256323
+47,"Clinton County,Kentucky","Hart County,Kentucky",5860,126565
+48,"Clinton County,Kentucky","Henderson County,Kentucky",11741,319356
+49,"Clinton County,Kentucky","Henry County,Kentucky",11180,237765
+50,"Clinton County,Kentucky","Hickman County,Kentucky",16114,448620
+51,"Clinton County,Kentucky","Hopkins County,Kentucky",11194,297281
+52,"Clinton County,Kentucky","Jackson County,Kentucky",6880,158729
+53,"Clinton County,Kentucky","Jefferson County,Kentucky",9698,238659
+54,"Clinton County,Kentucky","Jessamine County,Kentucky",8062,179252
+55,"Clinton County,Kentucky","Johnson County,Kentucky",12730,315811
+56,"Clinton County,Kentucky","Kenton County,Kentucky",11671,311705
+57,"Clinton County,Kentucky","Knott County,Kentucky",9951,245082
+58,"Clinton County,Kentucky","Knox County,Kentucky",7218,158258
+59,"Clinton County,Kentucky","Larue County,Kentucky",6392,140579
+60,"Clinton County,Kentucky","Laurel County,Kentucky",5959,129128
+61,"Clinton County,Kentucky","Lawrence County,Kentucky",14505,349498
+62,"Clinton County,Kentucky","Lee County,Kentucky",8886,197110
+63,"Clinton County,Kentucky","Leslie County,Kentucky",9100,215500
+64,"Clinton County,Kentucky","Letcher County,Kentucky",11122,267086
+65,"Clinton County,Kentucky","Lewis County,Kentucky",12391,305878
+66,"Clinton County,Kentucky","Lincoln County,Kentucky",5410,120339
+67,"Clinton County,Kentucky","Livingston County,Kentucky",13911,372780
+68,"Clinton County,Kentucky","Logan County,Kentucky",7763,194561
+69,"Clinton County,Kentucky","Lyon County,Kentucky",14051,347049
+70,"Clinton County,Kentucky","McCracken County,Kentucky",14236,400020
+71,"Clinton County,Kentucky","McCreary County,Kentucky",3921,79125
+72,"Clinton County,Kentucky","Madison County,Kentucky",6473,157118
+73,"Clinton County,Kentucky","Magoffin County,Kentucky",12407,280447
+74,"Clinton County,Kentucky","Marion County,Kentucky",6194,139739
+75,"Clinton County,Kentucky","Marshall County,Kentucky",13651,383591
+76,"Clinton County,Kentucky","Martin County,Kentucky",14259,341813
+77,"Clinton County,Kentucky","Mason County,Kentucky",12115,299255
+78,"Clinton County,Kentucky","Meade County,Kentucky",9501,215267
+79,"Clinton County,Kentucky","Menifee County,Kentucky",10713,250057
+80,"Clinton County,Kentucky","Mercer County,Kentucky",7377,156867
+81,"Clinton County,Kentucky","Metcalfe County,Kentucky",3663,76303
+82,"Clinton County,Kentucky","Monroe County,Kentucky",3779,78869
+83,"Clinton County,Kentucky","Montgomery County,Kentucky",9356,227966
+84,"Clinton County,Kentucky","Morgan County,Kentucky",11797,268732
+85,"Clinton County,Kentucky","Muhlenberg County,Kentucky",9518,237781
+86,"Clinton County,Kentucky","Nelson County,Kentucky",7605,163770
+87,"Clinton County,Kentucky","Nicholas County,Kentucky",10242,255070
+88,"Clinton County,Kentucky","Ohio County,Kentucky",8934,230972
+89,"Clinton County,Kentucky","Oldham County,Kentucky",10490,265567
+90,"Clinton County,Kentucky","Owen County,Kentucky",10743,277467
+91,"Clinton County,Kentucky","Owsley County,Kentucky",8179,180230
+92,"Clinton County,Kentucky","Pendleton County,Kentucky",11494,293450
+93,"Clinton County,Kentucky","Perry County,Kentucky",9334,224201
+94,"Clinton County,Kentucky","Pike County,Kentucky",13729,328540
+95,"Clinton County,Kentucky","Powell County,Kentucky",9482,223065
+96,"Clinton County,Kentucky","Robertson County,Kentucky",11013,276196
+97,"Clinton County,Kentucky","Rockcastle County,Kentucky",5445,120869
+98,"Clinton County,Kentucky","Rowan County,Kentucky",10180,261371
+99,"Clinton County,Kentucky","Russell County,Kentucky",2350,43939
+100,"Clinton County,Kentucky","Scott County,Kentucky",8718,229800
+101,"Clinton County,Kentucky","Shelby County,Kentucky",9666,222633
+102,"Clinton County,Kentucky","Simpson County,Kentucky",7352,183435
+103,"Clinton County,Kentucky","Spencer County,Kentucky",8674,192652
+104,"Clinton County,Kentucky","Taylor County,Kentucky",4729,106437
+105,"Clinton County,Kentucky","Todd County,Kentucky",8938,224617
+106,"Clinton County,Kentucky","Trigg County,Kentucky",11626,285902
+107,"Clinton County,Kentucky","Trimble County,Kentucky",11889,305367
+108,"Clinton County,Kentucky","Union County,Kentucky",13485,356457
+109,"Clinton County,Kentucky","Warren County,Kentucky",6386,148383
+110,"Clinton County,Kentucky","Washington County,Kentucky",7408,161988
+111,"Clinton County,Kentucky","Wayne County,Kentucky",1968,38064
+112,"Clinton County,Kentucky","Webster County,Kentucky",12303,325370
+113,"Clinton County,Kentucky","Whitley County,Kentucky",5541,115217
+114,"Clinton County,Kentucky","Wolfe County,Kentucky",10672,235553
+115,"Clinton County,Kentucky","Woodford County,Kentucky",8742,190620
+116,"Clinton County,Kentucky","Adams County,Ohio",14545,345988
+117,"Clinton County,Kentucky","Allen County,Ohio",19091,537598
+118,"Clinton County,Kentucky","Ashland County,Ohio",22280,639476
+119,"Clinton County,Kentucky","Ashtabula County,Ohio",28026,824227
+120,"Clinton County,Kentucky","Athens County,Ohio",19023,496995
+121,"Clinton County,Kentucky","Auglaize County,Ohio",18347,524863
+122,"Clinton County,Kentucky","Belmont County,Ohio",23618,685908
+123,"Clinton County,Kentucky","Brown County,Ohio",13531,334233
+124,"Clinton County,Kentucky","Butler County,Ohio",14169,387472
+125,"Clinton County,Kentucky","Carroll County,Ohio",25582,723131
+126,"Clinton County,Kentucky","Champaign County,Ohio",17125,479044
+127,"Clinton County,Kentucky","Clark County,Ohio",16554,465677
+128,"Clinton County,Kentucky","Clermont County,Ohio",12919,358650
+129,"Clinton County,Kentucky","Clinton County,Ohio",15014,409957
+130,"Clinton County,Kentucky","Columbiana County,Ohio",27139,758720
+131,"Clinton County,Kentucky","Coshocton County,Ohio",22141,618548
+132,"Clinton County,Kentucky","Crawford County,Ohio",21817,631448
+133,"Clinton County,Kentucky","Cuyahoga County,Ohio",24598,721941
+134,"Clinton County,Kentucky","Darke County,Ohio",17445,481909
+135,"Clinton County,Kentucky","Defiance County,Ohio",22579,616028
+136,"Clinton County,Kentucky","Delaware County,Ohio",19197,546148
+137,"Clinton County,Kentucky","Fairfield County,Ohio",18600,529397
+138,"Clinton County,Kentucky","Fayette County,Ohio",15912,447562
+139,"Clinton County,Kentucky","Franklin County,Ohio",17714,506075
+140,"Clinton County,Kentucky","Fulton County,Ohio",23342,632972
+141,"Clinton County,Kentucky","Gallia County,Ohio",16981,439347
+142,"Clinton County,Kentucky","Geauga County,Ohio",26126,761159
+143,"Clinton County,Kentucky","Greene County,Ohio",15341,419311
+144,"Clinton County,Kentucky","Guernsey County,Ohio",21347,619589
+145,"Clinton County,Kentucky","Hamilton County,Ohio",12823,351956
+146,"Clinton County,Kentucky","Hancock County,Ohio",20200,578493
+147,"Clinton County,Kentucky","Hardin County,Ohio",19987,562890
+148,"Clinton County,Kentucky","Harrison County,Ohio",24588,705197
+149,"Clinton County,Kentucky","Henry County,Ohio",21924,602962
+150,"Clinton County,Kentucky","Highland County,Ohio",15678,379436
+151,"Clinton County,Kentucky","Hocking County,Ohio",20038,572801
+152,"Clinton County,Kentucky","Holmes County,Ohio",23691,655406
+153,"Clinton County,Kentucky","Huron County,Ohio",23426,638246
+154,"Clinton County,Kentucky","Jackson County,Ohio",16532,422543
+155,"Clinton County,Kentucky","Jefferson County,Ohio",25581,714975
+156,"Clinton County,Kentucky","Knox County,Ohio",21647,605769
+157,"Clinton County,Kentucky","Lawrence County,Ohio",15103,375404
+158,"Clinton County,Kentucky","Licking County,Ohio",19979,560993
+159,"Clinton County,Kentucky","Logan County,Ohio",18360,511581
+160,"Clinton County,Kentucky","Lorain County,Ohio",25212,696900
+161,"Clinton County,Kentucky","Lucas County,Ohio",23525,665013
+162,"Clinton County,Kentucky","Madison County,Ohio",17134,482744
+163,"Clinton County,Kentucky","Mahoning County,Ohio",26996,775859
+164,"Clinton County,Kentucky","Marion County,Ohio",20244,553583
+165,"Clinton County,Kentucky","Medina County,Ohio",22925,664489
+166,"Clinton County,Kentucky","Meigs County,Ohio",17913,469731
+167,"Clinton County,Kentucky","Mercer County,Ohio",19583,551796
+168,"Clinton County,Kentucky","Miami County,Ohio",15933,447302
+169,"Clinton County,Kentucky","Monroe County,Ohio",23825,648680
+170,"Clinton County,Kentucky","Montgomery County,Ohio",15316,425042
+171,"Clinton County,Kentucky","Morgan County,Ohio",21977,564019
+172,"Clinton County,Kentucky","Morrow County,Ohio",20004,568968
+173,"Clinton County,Kentucky","Muskingum County,Ohio",20197,585745
+174,"Clinton County,Kentucky","Noble County,Ohio",22331,631840
+175,"Clinton County,Kentucky","Paulding County,Ohio",21622,600576
+176,"Clinton County,Kentucky","Perry County,Ohio",20266,574328
+177,"Clinton County,Kentucky","Pickaway County,Ohio",17849,496158
+178,"Clinton County,Kentucky","Pike County,Ohio",16073,391970
+179,"Clinton County,Kentucky","Portage County,Ohio",25447,735638
+180,"Clinton County,Kentucky","Preble County,Ohio",16213,431871
+181,"Clinton County,Kentucky","Putnam County,Ohio",20266,570066
+182,"Clinton County,Kentucky","Richland County,Ohio",21034,604207
+183,"Clinton County,Kentucky","Ross County,Ohio",17493,495475
+184,"Clinton County,Kentucky","Sandusky County,Ohio",23240,658569
+185,"Clinton County,Kentucky","Scioto County,Ohio",15383,374095
+186,"Clinton County,Kentucky","Seneca County,Ohio",22545,634833
+187,"Clinton County,Kentucky","Shelby County,Ohio",16972,483587
+188,"Clinton County,Kentucky","Stark County,Ohio",25192,720022
+189,"Clinton County,Kentucky","Summit County,Ohio",24128,699816
+190,"Clinton County,Kentucky","Trumbull County,Ohio",27028,786131
+191,"Clinton County,Kentucky","Tuscarawas County,Ohio",23642,678954
+192,"Clinton County,Kentucky","Union County,Ohio",18487,508965
+193,"Clinton County,Kentucky","Van Wert County,Ohio",20256,570121
+194,"Clinton County,Kentucky","Vinton County,Ohio",19103,466644
+195,"Clinton County,Kentucky","Warren County,Ohio",13703,378213
+196,"Clinton County,Kentucky","Washington County,Ohio",20950,541680
+197,"Clinton County,Kentucky","Wayne County,Ohio",22653,653486
+198,"Clinton County,Kentucky","Williams County,Ohio",23756,639544
+199,"Clinton County,Kentucky","Wood County,Ohio",21288,619121
+200,"Clinton County,Kentucky","Wyandot County,Ohio",20896,599373
+201,"Clinton County,Kentucky","Accomack County,Virginia",41159,1149677
+202,"Clinton County,Kentucky","Albemarle County,Virginia",27309,762176
+203,"Clinton County,Kentucky","Alleghany County,Virginia",23600,662367
+204,"Clinton County,Kentucky","Amelia County,Virginia",29881,801032
+205,"Clinton County,Kentucky","Amherst County,Virginia",26783,707091
+206,"Clinton County,Kentucky","Appomattox County,Virginia",26958,720701
+207,"Clinton County,Kentucky","Arlington County,Virginia",33993,962486
+208,"Clinton County,Kentucky","Augusta County,Virginia",26731,739870
+209,"Clinton County,Kentucky","Bath County,Virginia",26612,737676
+210,"Clinton County,Kentucky","Bedford County,Virginia",24691,652011
+211,"Clinton County,Kentucky","Bland County,Virginia",18706,501612
+212,"Clinton County,Kentucky","Botetourt County,Virginia",23547,636075
+213,"Clinton County,Kentucky","Brunswick County,Virginia",31439,865754
+214,"Clinton County,Kentucky","Buchanan County,Virginia",17255,376357
+215,"Clinton County,Kentucky","Buckingham County,Virginia",28072,744610
+216,"Clinton County,Kentucky","Campbell County,Virginia",26107,693246
+217,"Clinton County,Kentucky","Caroline County,Virginia",32648,931022
+218,"Clinton County,Kentucky","Carroll County,Virginia",19651,532957
+219,"Clinton County,Kentucky","Charles City County,Virginia",32748,928057
+220,"Clinton County,Kentucky","Charlotte County,Virginia",28656,761182
+221,"Clinton County,Kentucky","Chesterfield County,Virginia",31575,839922
+222,"Clinton County,Kentucky","Clarke County,Virginia",31488,889234
+223,"Clinton County,Kentucky","Craig County,Virginia",22946,613644
+224,"Clinton County,Kentucky","Culpeper County,Virginia",31106,851393
+225,"Clinton County,Kentucky","Cumberland County,Virginia",29485,781842
+226,"Clinton County,Kentucky","Dickenson County,Virginia",14682,334032
+227,"Clinton County,Kentucky","Dinwiddie County,Virginia",31654,844093
+228,"Clinton County,Kentucky","Essex County,Virginia",34465,955065
+229,"Clinton County,Kentucky","Fairfax County,Virginia",33616,952762
+230,"Clinton County,Kentucky","Fauquier County,Virginia",31927,910486
+231,"Clinton County,Kentucky","Floyd County,Virginia",21543,573058
+232,"Clinton County,Kentucky","Fluvanna County,Virginia",28987,814348
+233,"Clinton County,Kentucky","Franklin County,Virginia",24203,653244
+234,"Clinton County,Kentucky","Frederick County,Virginia",30940,876961
+235,"Clinton County,Kentucky","Giles County,Virginia",21488,559686
+236,"Clinton County,Kentucky","Gloucester County,Virginia",34919,982245
+237,"Clinton County,Kentucky","Goochland County,Virginia",29890,844959
+238,"Clinton County,Kentucky","Grayson County,Virginia",19383,496125
+239,"Clinton County,Kentucky","Greene County,Virginia",29301,797761
+240,"Clinton County,Kentucky","Greensville County,Virginia",32635,883173
+241,"Clinton County,Kentucky","Halifax County,Virginia",27954,730644
+242,"Clinton County,Kentucky","Hanover County,Virginia",31097,886066
+243,"Clinton County,Kentucky","Henrico County,Virginia",31608,899026
+244,"Clinton County,Kentucky","Henry County,Virginia",23524,619678
+245,"Clinton County,Kentucky","Highland County,Virginia",28056,747647
+246,"Clinton County,Kentucky","Isle of Wight County,Virginia",35774,944214
+247,"Clinton County,Kentucky","James City County,Virginia",33984,968828
+248,"Clinton County,Kentucky","King and Queen County,Virginia",33642,944412
+249,"Clinton County,Kentucky","King George County,Virginia",33761,959008
+250,"Clinton County,Kentucky","King William County,Virginia",32330,914334
+251,"Clinton County,Kentucky","Lancaster County,Virginia",36123,997419
+252,"Clinton County,Kentucky","Lee County,Virginia",12077,281907
+253,"Clinton County,Kentucky","Loudoun County,Virginia",32984,925101
+254,"Clinton County,Kentucky","Louisa County,Virginia",29547,828054
+255,"Clinton County,Kentucky","Lunenburg County,Virginia",30428,802466
+256,"Clinton County,Kentucky","Madison County,Virginia",30221,827501
+257,"Clinton County,Kentucky","Mathews County,Virginia",35744,1005668
+258,"Clinton County,Kentucky","Mecklenburg County,Virginia",29986,782190
+259,"Clinton County,Kentucky","Middlesex County,Virginia",34520,978445
+260,"Clinton County,Kentucky","Montgomery County,Virginia",20717,563562
+261,"Clinton County,Kentucky","Nelson County,Virginia",27334,737488
+262,"Clinton County,Kentucky","New Kent County,Virginia",33420,942742
+263,"Clinton County,Kentucky","Northampton County,Virginia",38402,1085491
+264,"Clinton County,Kentucky","Northumberland County,Virginia",36162,995932
+265,"Clinton County,Kentucky","Nottoway County,Virginia",29921,802846
+266,"Clinton County,Kentucky","Orange County,Virginia",30510,836162
+267,"Clinton County,Kentucky","Page County,Virginia",29155,811286
+268,"Clinton County,Kentucky","Patrick County,Virginia",21756,577993
+269,"Clinton County,Kentucky","Pittsylvania County,Virginia",25840,673886
+270,"Clinton County,Kentucky","Powhatan County,Virginia",30983,816549
+271,"Clinton County,Kentucky","Prince Edward County,Virginia",28536,760181
+272,"Clinton County,Kentucky","Prince George County,Virginia",33309,883467
+273,"Clinton County,Kentucky","Prince William County,Virginia",32027,916590
+274,"Clinton County,Kentucky","Pulaski County,Virginia",19393,524378
+275,"Clinton County,Kentucky","Rappahannock County,Virginia",30986,847774
+276,"Clinton County,Kentucky","Richmond County,Virginia",34862,968575
+277,"Clinton County,Kentucky","Roanoke County,Virginia",21497,583498
+278,"Clinton County,Kentucky","Rockbridge County,Virginia",24995,680146
+279,"Clinton County,Kentucky","Rockingham County,Virginia",28194,783637
+280,"Clinton County,Kentucky","Russell County,Virginia",17214,386854
+281,"Clinton County,Kentucky","Scott County,Virginia",14397,329748
+282,"Clinton County,Kentucky","Shenandoah County,Virginia",28699,813740
+283,"Clinton County,Kentucky","Smyth County,Virginia",16662,435827
+284,"Clinton County,Kentucky","Southampton County,Virginia",34251,940696
+285,"Clinton County,Kentucky","Spotsylvania County,Virginia",31564,869893
+286,"Clinton County,Kentucky","Stafford County,Virginia",32945,894186
+287,"Clinton County,Kentucky","Surry County,Virginia",34728,967689
+288,"Clinton County,Kentucky","Sussex County,Virginia",33535,931476
+289,"Clinton County,Kentucky","Tazewell County,Virginia",18702,439764
+290,"Clinton County,Kentucky","Warren County,Virginia",30601,858333
+291,"Clinton County,Kentucky","Washington County,Virginia",15774,399912
+292,"Clinton County,Kentucky","Westmoreland County,Virginia",34735,975833
+293,"Clinton County,Kentucky","Wise County,Virginia",12946,309931
+294,"Clinton County,Kentucky","Wythe County,Virginia",17877,478287
+295,"Clinton County,Kentucky","York County,Virginia",35272,999602
+296,"Clinton County,Kentucky","Alexandria City County,Virginia",34196,975132
+297,"Clinton County,Kentucky","Bedford City County,Virginia",23855,643442
+298,"Clinton County,Kentucky","Bristol City County,Virginia",14373,367895
+299,"Clinton County,Kentucky","Buena Vista City County,Virginia",24367,672634
+300,"Clinton County,Kentucky","Charlottesville City County,Virginia",27778,777391
+301,"Clinton County,Kentucky","Chesapeake City County,Virginia",36735,1052508
+302,"Clinton County,Kentucky","Clifton Forge City County,Virginia",24144,682573
+303,"Clinton County,Kentucky","Colonial Heights City County,Virginia",32444,921733
+304,"Clinton County,Kentucky","Covington City County,Virginia",23669,665952
+305,"Clinton County,Kentucky","Danville City County,Virginia",25682,674134
+306,"Clinton County,Kentucky","Emporia City County,Virginia",32791,897361
+307,"Clinton County,Kentucky","Fairfax City County,Virginia",33159,942337
+308,"Clinton County,Kentucky","Falls Church City County,Virginia",33491,956810
+309,"Clinton County,Kentucky","Franklin City County,Virginia",34877,953831
+310,"Clinton County,Kentucky","Fredericksburg City County,Virginia",32697,879552
+311,"Clinton County,Kentucky","Galax City County,Virginia",20274,538823
+312,"Clinton County,Kentucky","Hampton City County,Virginia",35222,1009308
+313,"Clinton County,Kentucky","Harrisonburg City County,Virginia",27253,763533
+314,"Clinton County,Kentucky","Hopewell City County,Virginia",32481,920699
+315,"Clinton County,Kentucky","Lexington City County,Virginia",24281,670961
+316,"Clinton County,Kentucky","Lynchburg City County,Virginia",25880,688317
+317,"Clinton County,Kentucky","Manassas City County,Virginia",32254,921534
+318,"Clinton County,Kentucky","Manassas Park City County,Virginia",32756,927877
+319,"Clinton County,Kentucky","Martinsville City County,Virginia",24052,628472
+320,"Clinton County,Kentucky","Newport News City County,Virginia",34779,995794
+321,"Clinton County,Kentucky","Norfolk City County,Virginia",36529,1034724
+322,"Clinton County,Kentucky","Norton City County,Virginia",13575,321743
+323,"Clinton County,Kentucky","Petersburg City County,Virginia",32312,866071
+324,"Clinton County,Kentucky","Poquoson City County,Virginia",35451,1006371
+325,"Clinton County,Kentucky","Portsmouth City County,Virginia",36468,1043545
+326,"Clinton County,Kentucky","Radford County,Virginia",19904,538326
+327,"Clinton County,Kentucky","Richmond City County,Virginia",31184,886836
+328,"Clinton County,Kentucky","Roanoke City County,Virginia",22099,603603
+329,"Clinton County,Kentucky","Salem City County,Virginia",21511,590153
+330,"Clinton County,Kentucky","South Boston City County,Virginia",27694,728312
+331,"Clinton County,Kentucky","Staunton City County,Virginia",26071,724668
+332,"Clinton County,Kentucky","Suffolk City County,Virginia",36193,987134
+333,"Clinton County,Kentucky","Virginia Beach City County,Virginia",37089,1057983
+334,"Clinton County,Kentucky","Waynesboro City County,Virginia",26409,737386
+335,"Clinton County,Kentucky","Williamsburg City County,Virginia",33823,968043
+336,"Clinton County,Kentucky","Winchester City County,Virginia",30820,873105
+337,"Clinton County,Kentucky","Barbour County,West Virginia",23736,661233
+338,"Clinton County,Kentucky","Berkeley County,West Virginia",31669,899393
+339,"Clinton County,Kentucky","Boone County,West Virginia",19139,462195
+340,"Clinton County,Kentucky","Braxton County,West Virginia",20426,552213
+341,"Clinton County,Kentucky","Brooke County,West Virginia",25697,728156
+342,"Clinton County,Kentucky","Cabell County,West Virginia",13487,361359
+343,"Clinton County,Kentucky","Calhoun County,West Virginia",20347,549897
+344,"Clinton County,Kentucky","Clay County,West Virginia",19193,523126
+345,"Clinton County,Kentucky","Doddridge County,West Virginia",22879,642743
+346,"Clinton County,Kentucky","Fayette County,West Virginia",20480,541470
+347,"Clinton County,Kentucky","Gilmer County,West Virginia",21625,574399
+348,"Clinton County,Kentucky","Grant County,West Virginia",28091,762779
+349,"Clinton County,Kentucky","Greenbrier County,West Virginia",23554,619508
+350,"Clinton County,Kentucky","Hampshire County,West Virginia",30923,860996
+351,"Clinton County,Kentucky","Hancock County,West Virginia",27286,762691
+352,"Clinton County,Kentucky","Hardy County,West Virginia",29147,794276
+353,"Clinton County,Kentucky","Harrison County,West Virginia",22969,647604
+354,"Clinton County,Kentucky","Jackson County,West Virginia",18231,504229
+355,"Clinton County,Kentucky","Jefferson County,West Virginia",32609,907718
+356,"Clinton County,Kentucky","Kanawha County,West Virginia",17789,475534
+357,"Clinton County,Kentucky","Lewis County,West Virginia",21599,601074
+358,"Clinton County,Kentucky","Lincoln County,West Virginia",16703,419009
+359,"Clinton County,Kentucky","Logan County,West Virginia",17245,418830
+360,"Clinton County,Kentucky","McDowell County,West Virginia",20593,451912
+361,"Clinton County,Kentucky","Marion County,West Virginia",24115,674772
+362,"Clinton County,Kentucky","Marshall County,West Virginia",25654,722663
+363,"Clinton County,Kentucky","Mason County,West Virginia",16468,452104
+364,"Clinton County,Kentucky","Mercer County,West Virginia",20408,551891
+365,"Clinton County,Kentucky","Mineral County,West Virginia",29786,791599
+366,"Clinton County,Kentucky","Mingo County,West Virginia",15929,385283
+367,"Clinton County,Kentucky","Monongalia County,West Virginia",24325,700240
+368,"Clinton County,Kentucky","Monroe County,West Virginia",22872,601290
+369,"Clinton County,Kentucky","Morgan County,West Virginia",31161,888784
+370,"Clinton County,Kentucky","Nicholas County,West Virginia",20909,583006
+371,"Clinton County,Kentucky","Ohio County,West Virginia",24715,709393
+372,"Clinton County,Kentucky","Pendleton County,West Virginia",28422,765403
+373,"Clinton County,Kentucky","Pleasants County,West Virginia",21714,602081
+374,"Clinton County,Kentucky","Pocahontas County,West Virginia",26238,652545
+375,"Clinton County,Kentucky","Preston County,West Virginia",26471,726971
+376,"Clinton County,Kentucky","Putnam County,West Virginia",15170,414136
+377,"Clinton County,Kentucky","Raleigh County,West Virginia",19657,540786
+378,"Clinton County,Kentucky","Randolph County,West Virginia",24101,663529
+379,"Clinton County,Kentucky","Ritchie County,West Virginia",22044,615785
+380,"Clinton County,Kentucky","Roane County,West Virginia",19857,533044
+381,"Clinton County,Kentucky","Summers County,West Virginia",22963,596829
+382,"Clinton County,Kentucky","Taylor County,West Virginia",24007,670344
+383,"Clinton County,Kentucky","Tucker County,West Virginia",25167,694054
+384,"Clinton County,Kentucky","Tyler County,West Virginia",23623,641696
+385,"Clinton County,Kentucky","Upshur County,West Virginia",23164,615771
+386,"Clinton County,Kentucky","Wayne County,West Virginia",15017,382554
+387,"Clinton County,Kentucky","Webster County,West Virginia",23093,610086
+388,"Clinton County,Kentucky","Wetzel County,West Virginia",24835,663603
+389,"Clinton County,Kentucky","Wirt County,West Virginia",20498,561567
+390,"Clinton County,Kentucky","Wood County,West Virginia",20012,563256
+391,"Clinton County,Kentucky","Wyoming County,West Virginia",20215,457770

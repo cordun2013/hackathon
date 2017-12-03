@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Lincoln County,Kentucky","Adair County,Kentucky",4089,106674
+1,"Lincoln County,Kentucky","Allen County,Kentucky",7286,202316
+2,"Lincoln County,Kentucky","Anderson County,Kentucky",3959,84124
+3,"Lincoln County,Kentucky","Ballard County,Kentucky",16172,451110
+4,"Lincoln County,Kentucky","Barren County,Kentucky",5835,165702
+5,"Lincoln County,Kentucky","Bath County,Kentucky",5950,137624
+6,"Lincoln County,Kentucky","Bell County,Kentucky",7008,160574
+7,"Lincoln County,Kentucky","Boone County,Kentucky",8296,216093
+8,"Lincoln County,Kentucky","Bourbon County,Kentucky",5497,127793
+9,"Lincoln County,Kentucky","Boyd County,Kentucky",9207,239080
+10,"Lincoln County,Kentucky","Boyle County,Kentucky",1736,31029
+11,"Lincoln County,Kentucky","Bracken County,Kentucky",8883,202320
+12,"Lincoln County,Kentucky","Breathitt County,Kentucky",8218,183368
+13,"Lincoln County,Kentucky","Breckinridge County,Kentucky",8977,206434
+14,"Lincoln County,Kentucky","Bullitt County,Kentucky",6023,130920
+15,"Lincoln County,Kentucky","Butler County,Kentucky",8874,262175
+16,"Lincoln County,Kentucky","Caldwell County,Kentucky",12283,341964
+17,"Lincoln County,Kentucky","Calloway County,Kentucky",15093,426956
+18,"Lincoln County,Kentucky","Campbell County,Kentucky",8827,212907
+19,"Lincoln County,Kentucky","Carlisle County,Kentucky",16629,466479
+20,"Lincoln County,Kentucky","Carroll County,Kentucky",8074,174637
+21,"Lincoln County,Kentucky","Carter County,Kentucky",8344,208337
+22,"Lincoln County,Kentucky","Casey County,Kentucky",2238,40222
+23,"Lincoln County,Kentucky","Christian County,Kentucky",11566,328315
+24,"Lincoln County,Kentucky","Clay County,Kentucky",5239,119618
+25,"Lincoln County,Kentucky","Clinton County,Kentucky",5244,120716
+26,"Lincoln County,Kentucky","Crittenden County,Kentucky",13863,375034
+27,"Lincoln County,Kentucky","Cumberland County,Kentucky",5807,150670
+28,"Lincoln County,Kentucky","Daviess County,Kentucky",10414,282461
+29,"Lincoln County,Kentucky","Edmonson County,Kentucky",7364,209862
+30,"Lincoln County,Kentucky","Elliott County,Kentucky",9120,199599
+31,"Lincoln County,Kentucky","Estill County,Kentucky",4264,83771
+32,"Lincoln County,Kentucky","Fayette County,Kentucky",4423,88932
+33,"Lincoln County,Kentucky","Fleming County,Kentucky",7378,167842
+34,"Lincoln County,Kentucky","Floyd County,Kentucky",9258,230783
+35,"Lincoln County,Kentucky","Franklin County,Kentucky",5136,105591
+36,"Lincoln County,Kentucky","Fulton County,Kentucky",17033,487443
+37,"Lincoln County,Kentucky","Gallatin County,Kentucky",8054,172511
+38,"Lincoln County,Kentucky","Garrard County,Kentucky",1487,23054
+39,"Lincoln County,Kentucky","Grant County,Kentucky",6930,176965
+40,"Lincoln County,Kentucky","Graves County,Kentucky",15653,439185
+41,"Lincoln County,Kentucky","Grayson County,Kentucky",7719,192654
+42,"Lincoln County,Kentucky","Green County,Kentucky",5668,105111
+43,"Lincoln County,Kentucky","Greenup County,Kentucky",9813,235667
+44,"Lincoln County,Kentucky","Hancock County,Kentucky",10198,241071
+45,"Lincoln County,Kentucky","Hardin County,Kentucky",6595,154787
+46,"Lincoln County,Kentucky","Harlan County,Kentucky",9302,216179
+47,"Lincoln County,Kentucky","Harrison County,Kentucky",6446,156427
+48,"Lincoln County,Kentucky","Hart County,Kentucky",7356,140014
+49,"Lincoln County,Kentucky","Henderson County,Kentucky",12322,338881
+50,"Lincoln County,Kentucky","Henry County,Kentucky",6539,136860
+51,"Lincoln County,Kentucky","Hickman County,Kentucky",16662,467771
+52,"Lincoln County,Kentucky","Hopkins County,Kentucky",11742,316432
+53,"Lincoln County,Kentucky","Jackson County,Kentucky",5047,92494
+54,"Lincoln County,Kentucky","Jefferson County,Kentucky",6669,152547
+55,"Lincoln County,Kentucky","Jessamine County,Kentucky",2964,60271
+56,"Lincoln County,Kentucky","Johnson County,Kentucky",9359,219392
+57,"Lincoln County,Kentucky","Kenton County,Kentucky",8183,211809
+58,"Lincoln County,Kentucky","Knott County,Kentucky",8041,200324
+59,"Lincoln County,Kentucky","Knox County,Kentucky",5169,122315
+60,"Lincoln County,Kentucky","Larue County,Kentucky",6647,129459
+61,"Lincoln County,Kentucky","Laurel County,Kentucky",4021,93710
+62,"Lincoln County,Kentucky","Lawrence County,Kentucky",11211,266216
+63,"Lincoln County,Kentucky","Lee County,Kentucky",6255,117202
+64,"Lincoln County,Kentucky","Leslie County,Kentucky",7189,170742
+65,"Lincoln County,Kentucky","Letcher County,Kentucky",9212,222328
+66,"Lincoln County,Kentucky","Lewis County,Kentucky",8903,205982
+67,"Lincoln County,Kentucky","Livingston County,Kentucky",14459,391931
+68,"Lincoln County,Kentucky","Logan County,Kentucky",9237,267594
+69,"Lincoln County,Kentucky","Lyon County,Kentucky",14592,402321
+70,"Lincoln County,Kentucky","McCracken County,Kentucky",14784,419170
+71,"Lincoln County,Kentucky","McCreary County,Kentucky",4362,99197
+72,"Lincoln County,Kentucky","Madison County,Kentucky",2518,49866
+73,"Lincoln County,Kentucky","Magoffin County,Kentucky",8828,201259
+74,"Lincoln County,Kentucky","Marion County,Kentucky",3434,69634
+75,"Lincoln County,Kentucky","Marshall County,Kentucky",14198,402742
+76,"Lincoln County,Kentucky","Martin County,Kentucky",12145,277737
+77,"Lincoln County,Kentucky","Mason County,Kentucky",8627,199359
+78,"Lincoln County,Kentucky","Meade County,Kentucky",8104,183738
+79,"Lincoln County,Kentucky","Menifee County,Kentucky",7224,150161
+80,"Lincoln County,Kentucky","Mercer County,Kentucky",2735,55961
+81,"Lincoln County,Kentucky","Metcalfe County,Kentucky",4745,136939
+82,"Lincoln County,Kentucky","Monroe County,Kentucky",6715,174443
+83,"Lincoln County,Kentucky","Montgomery County,Kentucky",5868,128070
+84,"Lincoln County,Kentucky","Morgan County,Kentucky",8218,189544
+85,"Lincoln County,Kentucky","Muhlenberg County,Kentucky",10602,282908
+86,"Lincoln County,Kentucky","Nelson County,Kentucky",4652,102644
+87,"Lincoln County,Kentucky","Nicholas County,Kentucky",6754,155175
+88,"Lincoln County,Kentucky","Ohio County,Kentucky",9515,250497
+89,"Lincoln County,Kentucky","Oldham County,Kentucky",6740,164428
+90,"Lincoln County,Kentucky","Owen County,Kentucky",6479,137765
+91,"Lincoln County,Kentucky","Owsley County,Kentucky",6259,132581
+92,"Lincoln County,Kentucky","Pendleton County,Kentucky",8006,193555
+93,"Lincoln County,Kentucky","Perry County,Kentucky",7424,179443
+94,"Lincoln County,Kentucky","Pike County,Kentucky",11818,283782
+95,"Lincoln County,Kentucky","Powell County,Kentucky",5829,118493
+96,"Lincoln County,Kentucky","Robertson County,Kentucky",7524,176301
+97,"Lincoln County,Kentucky","Rockcastle County,Kentucky",2648,52030
+98,"Lincoln County,Kentucky","Rowan County,Kentucky",6691,161475
+99,"Lincoln County,Kentucky","Russell County,Kentucky",3694,90658
+100,"Lincoln County,Kentucky","Scott County,Kentucky",5230,129904
+101,"Lincoln County,Kentucky","Shelby County,Kentucky",5597,123681
+102,"Lincoln County,Kentucky","Simpson County,Kentucky",8826,256468
+103,"Lincoln County,Kentucky","Spencer County,Kentucky",5324,112629
+104,"Lincoln County,Kentucky","Taylor County,Kentucky",4195,78318
+105,"Lincoln County,Kentucky","Todd County,Kentucky",10412,297649
+106,"Lincoln County,Kentucky","Trigg County,Kentucky",13101,358934
+107,"Lincoln County,Kentucky","Trimble County,Kentucky",7846,162507
+108,"Lincoln County,Kentucky","Union County,Kentucky",14065,375982
+109,"Lincoln County,Kentucky","Warren County,Kentucky",7861,221416
+110,"Lincoln County,Kentucky","Washington County,Kentucky",3723,77493
+111,"Lincoln County,Kentucky","Wayne County,Kentucky",4617,98407
+112,"Lincoln County,Kentucky","Webster County,Kentucky",12851,344521
+113,"Lincoln County,Kentucky","Whitley County,Kentucky",4854,128194
+114,"Lincoln County,Kentucky","Wolfe County,Kentucky",7093,156365
+115,"Lincoln County,Kentucky","Woodford County,Kentucky",4101,89714
+116,"Lincoln County,Kentucky","Adams County,Ohio",11056,246092
+117,"Lincoln County,Kentucky","Allen County,Ohio",15602,437702
+118,"Lincoln County,Kentucky","Ashland County,Ohio",18791,539580
+119,"Lincoln County,Kentucky","Ashtabula County,Ohio",24537,724332
+120,"Lincoln County,Kentucky","Athens County,Ohio",15535,397099
+121,"Lincoln County,Kentucky","Auglaize County,Ohio",14858,424967
+122,"Lincoln County,Kentucky","Belmont County,Ohio",20129,586012
+123,"Lincoln County,Kentucky","Brown County,Ohio",10042,234337
+124,"Lincoln County,Kentucky","Butler County,Ohio",10680,287576
+125,"Lincoln County,Kentucky","Carroll County,Ohio",22093,623235
+126,"Lincoln County,Kentucky","Champaign County,Ohio",13636,379149
+127,"Lincoln County,Kentucky","Clark County,Ohio",13065,365782
+128,"Lincoln County,Kentucky","Clermont County,Ohio",9431,258755
+129,"Lincoln County,Kentucky","Clinton County,Ohio",11525,310061
+130,"Lincoln County,Kentucky","Columbiana County,Ohio",23650,658824
+131,"Lincoln County,Kentucky","Coshocton County,Ohio",18652,518652
+132,"Lincoln County,Kentucky","Crawford County,Ohio",18329,531552
+133,"Lincoln County,Kentucky","Cuyahoga County,Ohio",21109,622045
+134,"Lincoln County,Kentucky","Darke County,Ohio",13956,382014
+135,"Lincoln County,Kentucky","Defiance County,Ohio",19090,516132
+136,"Lincoln County,Kentucky","Delaware County,Ohio",15708,446252
+137,"Lincoln County,Kentucky","Fairfield County,Ohio",15112,429501
+138,"Lincoln County,Kentucky","Fayette County,Ohio",12424,347666
+139,"Lincoln County,Kentucky","Franklin County,Ohio",14226,406179
+140,"Lincoln County,Kentucky","Fulton County,Ohio",19853,533076
+141,"Lincoln County,Kentucky","Gallia County,Ohio",13493,339452
+142,"Lincoln County,Kentucky","Geauga County,Ohio",22638,661263
+143,"Lincoln County,Kentucky","Greene County,Ohio",11852,319415
+144,"Lincoln County,Kentucky","Guernsey County,Ohio",17858,519693
+145,"Lincoln County,Kentucky","Hamilton County,Ohio",9335,252061
+146,"Lincoln County,Kentucky","Hancock County,Ohio",16712,478598
+147,"Lincoln County,Kentucky","Hardin County,Ohio",16499,462995
+148,"Lincoln County,Kentucky","Harrison County,Ohio",21099,605301
+149,"Lincoln County,Kentucky","Henry County,Ohio",18436,503066
+150,"Lincoln County,Kentucky","Highland County,Ohio",12189,279540
+151,"Lincoln County,Kentucky","Hocking County,Ohio",16549,472906
+152,"Lincoln County,Kentucky","Holmes County,Ohio",20203,555510
+153,"Lincoln County,Kentucky","Huron County,Ohio",19938,538350
+154,"Lincoln County,Kentucky","Jackson County,Ohio",13043,322647
+155,"Lincoln County,Kentucky","Jefferson County,Ohio",22092,615079
+156,"Lincoln County,Kentucky","Knox County,Ohio",18158,505874
+157,"Lincoln County,Kentucky","Lawrence County,Ohio",11614,275508
+158,"Lincoln County,Kentucky","Licking County,Ohio",16491,461097
+159,"Lincoln County,Kentucky","Logan County,Ohio",14871,411686
+160,"Lincoln County,Kentucky","Lorain County,Ohio",21723,597004
+161,"Lincoln County,Kentucky","Lucas County,Ohio",20037,565117
+162,"Lincoln County,Kentucky","Madison County,Ohio",13646,382848
+163,"Lincoln County,Kentucky","Mahoning County,Ohio",23507,675963
+164,"Lincoln County,Kentucky","Marion County,Ohio",16755,453687
+165,"Lincoln County,Kentucky","Medina County,Ohio",19436,564593
+166,"Lincoln County,Kentucky","Meigs County,Ohio",14425,369835
+167,"Lincoln County,Kentucky","Mercer County,Ohio",16094,451901
+168,"Lincoln County,Kentucky","Miami County,Ohio",12445,347406
+169,"Lincoln County,Kentucky","Monroe County,Ohio",20337,548784
+170,"Lincoln County,Kentucky","Montgomery County,Ohio",11828,325146
+171,"Lincoln County,Kentucky","Morgan County,Ohio",18488,464124
+172,"Lincoln County,Kentucky","Morrow County,Ohio",16516,469073
+173,"Lincoln County,Kentucky","Muskingum County,Ohio",16709,485849
+174,"Lincoln County,Kentucky","Noble County,Ohio",18842,531944
+175,"Lincoln County,Kentucky","Paulding County,Ohio",18133,500680
+176,"Lincoln County,Kentucky","Perry County,Ohio",16777,474432
+177,"Lincoln County,Kentucky","Pickaway County,Ohio",14361,396262
+178,"Lincoln County,Kentucky","Pike County,Ohio",12585,292074
+179,"Lincoln County,Kentucky","Portage County,Ohio",21958,635743
+180,"Lincoln County,Kentucky","Preble County,Ohio",12725,331975
+181,"Lincoln County,Kentucky","Putnam County,Ohio",16777,470170
+182,"Lincoln County,Kentucky","Richland County,Ohio",17546,504311
+183,"Lincoln County,Kentucky","Ross County,Ohio",14004,395579
+184,"Lincoln County,Kentucky","Sandusky County,Ohio",19752,558673
+185,"Lincoln County,Kentucky","Scioto County,Ohio",11894,274199
+186,"Lincoln County,Kentucky","Seneca County,Ohio",19056,534937
+187,"Lincoln County,Kentucky","Shelby County,Ohio",13483,383691
+188,"Lincoln County,Kentucky","Stark County,Ohio",21704,620126
+189,"Lincoln County,Kentucky","Summit County,Ohio",20639,599920
+190,"Lincoln County,Kentucky","Trumbull County,Ohio",23540,686235
+191,"Lincoln County,Kentucky","Tuscarawas County,Ohio",20153,579058
+192,"Lincoln County,Kentucky","Union County,Ohio",14998,409070
+193,"Lincoln County,Kentucky","Van Wert County,Ohio",16767,470225
+194,"Lincoln County,Kentucky","Vinton County,Ohio",15615,366749
+195,"Lincoln County,Kentucky","Warren County,Ohio",10214,278317
+196,"Lincoln County,Kentucky","Washington County,Ohio",17462,441784
+197,"Lincoln County,Kentucky","Wayne County,Ohio",19164,553590
+198,"Lincoln County,Kentucky","Williams County,Ohio",20267,539649
+199,"Lincoln County,Kentucky","Wood County,Ohio",17799,519226
+200,"Lincoln County,Kentucky","Wyandot County,Ohio",17407,499477
+201,"Lincoln County,Kentucky","Accomack County,Virginia",39293,1112948
+202,"Lincoln County,Kentucky","Albemarle County,Virginia",25443,725448
+203,"Lincoln County,Kentucky","Alleghany County,Virginia",20112,562471
+204,"Lincoln County,Kentucky","Amelia County,Virginia",29897,760200
+205,"Lincoln County,Kentucky","Amherst County,Virginia",25440,693437
+206,"Lincoln County,Kentucky","Appomattox County,Virginia",26974,679869
+207,"Lincoln County,Kentucky","Arlington County,Virginia",31726,921480
+208,"Lincoln County,Kentucky","Augusta County,Virginia",24053,663787
+209,"Lincoln County,Kentucky","Bath County,Virginia",23123,637781
+210,"Lincoln County,Kentucky","Bedford County,Virginia",24708,611179
+211,"Lincoln County,Kentucky","Bland County,Virginia",18723,460781
+212,"Lincoln County,Kentucky","Botetourt County,Virginia",23266,633770
+213,"Lincoln County,Kentucky","Brunswick County,Virginia",31504,911619
+214,"Lincoln County,Kentucky","Buchanan County,Virginia",15345,331599
+215,"Lincoln County,Kentucky","Buckingham County,Virginia",27316,743131
+216,"Lincoln County,Kentucky","Campbell County,Virginia",26123,652414
+217,"Lincoln County,Kentucky","Caroline County,Virginia",30782,894293
+218,"Lincoln County,Kentucky","Carroll County,Virginia",19667,492125
+219,"Lincoln County,Kentucky","Charles City County,Virginia",30882,891328
+220,"Lincoln County,Kentucky","Charlotte County,Virginia",28672,720350
+221,"Lincoln County,Kentucky","Chesterfield County,Virginia",30018,869112
+222,"Lincoln County,Kentucky","Clarke County,Virginia",29622,852506
+223,"Lincoln County,Kentucky","Craig County,Virginia",21755,583556
+224,"Lincoln County,Kentucky","Culpeper County,Virginia",29240,814664
+225,"Lincoln County,Kentucky","Cumberland County,Virginia",28526,771133
+226,"Lincoln County,Kentucky","Dickenson County,Virginia",12771,289274
+227,"Lincoln County,Kentucky","Dinwiddie County,Virginia",31670,803261
+228,"Lincoln County,Kentucky","Essex County,Virginia",32599,918336
+229,"Lincoln County,Kentucky","Fairfax County,Virginia",31416,912147
+230,"Lincoln County,Kentucky","Fauquier County,Virginia",30061,873757
+231,"Lincoln County,Kentucky","Floyd County,Virginia",21559,532226
+232,"Lincoln County,Kentucky","Fluvanna County,Virginia",27120,777620
+233,"Lincoln County,Kentucky","Franklin County,Virginia",24220,612412
+234,"Lincoln County,Kentucky","Frederick County,Virginia",28288,766640
+235,"Lincoln County,Kentucky","Giles County,Virginia",19804,540249
+236,"Lincoln County,Kentucky","Gloucester County,Virginia",33053,945516
+237,"Lincoln County,Kentucky","Goochland County,Virginia",28024,808231
+238,"Lincoln County,Kentucky","Grayson County,Virginia",19400,455293
+239,"Lincoln County,Kentucky","Greene County,Virginia",27435,761032
+240,"Lincoln County,Kentucky","Greensville County,Virginia",32700,929038
+241,"Lincoln County,Kentucky","Halifax County,Virginia",27971,689812
+242,"Lincoln County,Kentucky","Hanover County,Virginia",29230,849337
+243,"Lincoln County,Kentucky","Henrico County,Virginia",29742,862297
+244,"Lincoln County,Kentucky","Henry County,Virginia",23541,578846
+245,"Lincoln County,Kentucky","Highland County,Virginia",24568,647751
+246,"Lincoln County,Kentucky","Isle of Wight County,Virginia",33994,966874
+247,"Lincoln County,Kentucky","James City County,Virginia",32118,932099
+248,"Lincoln County,Kentucky","King and Queen County,Virginia",31776,907683
+249,"Lincoln County,Kentucky","King George County,Virginia",31895,922280
+250,"Lincoln County,Kentucky","King William County,Virginia",30464,877605
+251,"Lincoln County,Kentucky","Lancaster County,Virginia",34257,960691
+252,"Lincoln County,Kentucky","Lee County,Virginia",10099,237133
+253,"Lincoln County,Kentucky","Loudoun County,Virginia",31118,888372
+254,"Lincoln County,Kentucky","Louisa County,Virginia",27681,791325
+255,"Lincoln County,Kentucky","Lunenburg County,Virginia",30445,761634
+256,"Lincoln County,Kentucky","Madison County,Virginia",28355,790772
+257,"Lincoln County,Kentucky","Mathews County,Virginia",33878,968940
+258,"Lincoln County,Kentucky","Mecklenburg County,Virginia",30003,741358
+259,"Lincoln County,Kentucky","Middlesex County,Virginia",32654,941717
+260,"Lincoln County,Kentucky","Montgomery County,Virginia",20734,522730
+261,"Lincoln County,Kentucky","Nelson County,Virginia",25981,705128
+262,"Lincoln County,Kentucky","New Kent County,Virginia",31554,906013
+263,"Lincoln County,Kentucky","Northampton County,Virginia",36535,1048763
+264,"Lincoln County,Kentucky","Northumberland County,Virginia",34296,959203
+265,"Lincoln County,Kentucky","Nottoway County,Virginia",29937,762014
+266,"Lincoln County,Kentucky","Orange County,Virginia",28644,799433
+267,"Lincoln County,Kentucky","Page County,Virginia",27289,774558
+268,"Lincoln County,Kentucky","Patrick County,Virginia",21773,537161
+269,"Lincoln County,Kentucky","Pittsylvania County,Virginia",25857,633054
+270,"Lincoln County,Kentucky","Powhatan County,Virginia",29277,833452
+271,"Lincoln County,Kentucky","Prince Edward County,Virginia",28552,719350
+272,"Lincoln County,Kentucky","Prince George County,Virginia",31529,906127
+273,"Lincoln County,Kentucky","Prince William County,Virginia",30160,879861
+274,"Lincoln County,Kentucky","Pulaski County,Virginia",19410,483546
+275,"Lincoln County,Kentucky","Rappahannock County,Virginia",29120,811045
+276,"Lincoln County,Kentucky","Richmond County,Virginia",32996,931846
+277,"Lincoln County,Kentucky","Roanoke County,Virginia",21514,542666
+278,"Lincoln County,Kentucky","Rockbridge County,Virginia",22444,630827
+279,"Lincoln County,Kentucky","Rockingham County,Virginia",26328,746908
+280,"Lincoln County,Kentucky","Russell County,Virginia",15304,342096
+281,"Lincoln County,Kentucky","Scott County,Virginia",12419,284974
+282,"Lincoln County,Kentucky","Shenandoah County,Virginia",26833,777012
+283,"Lincoln County,Kentucky","Smyth County,Virginia",16679,394996
+284,"Lincoln County,Kentucky","Southampton County,Virginia",33559,964409
+285,"Lincoln County,Kentucky","Spotsylvania County,Virginia",29697,833164
+286,"Lincoln County,Kentucky","Stafford County,Virginia",31079,857457
+287,"Lincoln County,Kentucky","Surry County,Virginia",32862,930961
+288,"Lincoln County,Kentucky","Sussex County,Virginia",32223,934652
+289,"Lincoln County,Kentucky","Tazewell County,Virginia",16792,395006
+290,"Lincoln County,Kentucky","Warren County,Virginia",28735,821604
+291,"Lincoln County,Kentucky","Washington County,Virginia",15169,355992
+292,"Lincoln County,Kentucky","Westmoreland County,Virginia",32869,939105
+293,"Lincoln County,Kentucky","Wise County,Virginia",11036,265173
+294,"Lincoln County,Kentucky","Wythe County,Virginia",17894,437455
+295,"Lincoln County,Kentucky","York County,Virginia",33406,962874
+296,"Lincoln County,Kentucky","Alexandria City County,Virginia",32241,938662
+297,"Lincoln County,Kentucky","Bedford City County,Virginia",23872,602610
+298,"Lincoln County,Kentucky","Bristol City County,Virginia",14372,326301
+299,"Lincoln County,Kentucky","Buena Vista City County,Virginia",22799,644805
+300,"Lincoln County,Kentucky","Charlottesville City County,Virginia",25912,740663
+301,"Lincoln County,Kentucky","Chesapeake City County,Virginia",34869,1015779
+302,"Lincoln County,Kentucky","Clifton Forge City County,Virginia",20655,582678
+303,"Lincoln County,Kentucky","Colonial Heights City County,Virginia",30578,885004
+304,"Lincoln County,Kentucky","Covington City County,Virginia",20181,566056
+305,"Lincoln County,Kentucky","Danville City County,Virginia",25698,633302
+306,"Lincoln County,Kentucky","Emporia City County,Virginia",32856,943227
+307,"Lincoln County,Kentucky","Fairfax City County,Virginia",31293,905609
+308,"Lincoln County,Kentucky","Falls Church City County,Virginia",31434,915792
+309,"Lincoln County,Kentucky","Franklin City County,Virginia",34107,972264
+310,"Lincoln County,Kentucky","Fredericksburg City County,Virginia",30830,842824
+311,"Lincoln County,Kentucky","Galax City County,Virginia",20291,497992
+312,"Lincoln County,Kentucky","Hampton City County,Virginia",33356,972580
+313,"Lincoln County,Kentucky","Harrisonburg City County,Virginia",25387,726804
+314,"Lincoln County,Kentucky","Hopewell City County,Virginia",30615,883970
+315,"Lincoln County,Kentucky","Lexington City County,Virginia",22433,633296
+316,"Lincoln County,Kentucky","Lynchburg City County,Virginia",25897,647485
+317,"Lincoln County,Kentucky","Manassas City County,Virginia",30388,884806
+318,"Lincoln County,Kentucky","Manassas Park City County,Virginia",30890,891149
+319,"Lincoln County,Kentucky","Martinsville City County,Virginia",24068,587640
+320,"Lincoln County,Kentucky","Newport News City County,Virginia",32913,959066
+321,"Lincoln County,Kentucky","Norfolk City County,Virginia",34662,997996
+322,"Lincoln County,Kentucky","Norton City County,Virginia",11665,276985
+323,"Lincoln County,Kentucky","Petersburg City County,Virginia",30450,885992
+324,"Lincoln County,Kentucky","Poquoson City County,Virginia",33585,969642
+325,"Lincoln County,Kentucky","Portsmouth City County,Virginia",34602,1006817
+326,"Lincoln County,Kentucky","Radford County,Virginia",19921,497494
+327,"Lincoln County,Kentucky","Richmond City County,Virginia",29318,850107
+328,"Lincoln County,Kentucky","Roanoke City County,Virginia",22116,562771
+329,"Lincoln County,Kentucky","Salem City County,Virginia",21528,549321
+330,"Lincoln County,Kentucky","South Boston City County,Virginia",27710,687481
+331,"Lincoln County,Kentucky","Staunton City County,Virginia",24204,687939
+332,"Lincoln County,Kentucky","Suffolk City County,Virginia",34837,981598
+333,"Lincoln County,Kentucky","Virginia Beach City County,Virginia",35223,1021254
+334,"Lincoln County,Kentucky","Waynesboro City County,Virginia",24542,700658
+335,"Lincoln County,Kentucky","Williamsburg City County,Virginia",31957,931315
+336,"Lincoln County,Kentucky","Winchester City County,Virginia",28767,800641
+337,"Lincoln County,Kentucky","Barbour County,West Virginia",20247,561338
+338,"Lincoln County,Kentucky","Berkeley County,West Virginia",28180,799497
+339,"Lincoln County,Kentucky","Boone County,West Virginia",15426,394955
+340,"Lincoln County,Kentucky","Braxton County,West Virginia",16937,452317
+341,"Lincoln County,Kentucky","Brooke County,West Virginia",22208,628260
+342,"Lincoln County,Kentucky","Cabell County,West Virginia",9998,261463
+343,"Lincoln County,Kentucky","Calhoun County,West Virginia",16858,450002
+344,"Lincoln County,Kentucky","Clay County,West Virginia",15704,423230
+345,"Lincoln County,Kentucky","Doddridge County,West Virginia",19391,542847
+346,"Lincoln County,Kentucky","Fayette County,West Virginia",16992,441574
+347,"Lincoln County,Kentucky","Gilmer County,West Virginia",18136,474504
+348,"Lincoln County,Kentucky","Grant County,West Virginia",24603,662883
+349,"Lincoln County,Kentucky","Greenbrier County,West Virginia",20066,519612
+350,"Lincoln County,Kentucky","Hampshire County,West Virginia",27435,761101
+351,"Lincoln County,Kentucky","Hancock County,West Virginia",23797,662795
+352,"Lincoln County,Kentucky","Hardy County,West Virginia",25658,694380
+353,"Lincoln County,Kentucky","Harrison County,West Virginia",19481,547708
+354,"Lincoln County,Kentucky","Jackson County,West Virginia",14743,404333
+355,"Lincoln County,Kentucky","Jefferson County,West Virginia",29646,855495
+356,"Lincoln County,Kentucky","Kanawha County,West Virginia",14300,375638
+357,"Lincoln County,Kentucky","Lewis County,West Virginia",18110,501179
+358,"Lincoln County,Kentucky","Lincoln County,West Virginia",13215,319114
+359,"Lincoln County,Kentucky","Logan County,West Virginia",15139,344492
+360,"Lincoln County,Kentucky","McDowell County,West Virginia",18682,407154
+361,"Lincoln County,Kentucky","Marion County,West Virginia",20626,574876
+362,"Lincoln County,Kentucky","Marshall County,West Virginia",22165,622768
+363,"Lincoln County,Kentucky","Mason County,West Virginia",12979,352208
+364,"Lincoln County,Kentucky","Mercer County,West Virginia",17627,487197
+365,"Lincoln County,Kentucky","Mineral County,West Virginia",26297,691704
+366,"Lincoln County,Kentucky","Mingo County,West Virginia",13823,310945
+367,"Lincoln County,Kentucky","Monongalia County,West Virginia",20837,600344
+368,"Lincoln County,Kentucky","Monroe County,West Virginia",20672,531909
+369,"Lincoln County,Kentucky","Morgan County,West Virginia",27672,788889
+370,"Lincoln County,Kentucky","Nicholas County,West Virginia",17420,483110
+371,"Lincoln County,Kentucky","Ohio County,West Virginia",21227,609497
+372,"Lincoln County,Kentucky","Pendleton County,West Virginia",24934,665507
+373,"Lincoln County,Kentucky","Pleasants County,West Virginia",18225,502185
+374,"Lincoln County,Kentucky","Pocahontas County,West Virginia",22750,552649
+375,"Lincoln County,Kentucky","Preston County,West Virginia",22983,627075
+376,"Lincoln County,Kentucky","Putnam County,West Virginia",11681,314241
+377,"Lincoln County,Kentucky","Raleigh County,West Virginia",16168,440890
+378,"Lincoln County,Kentucky","Randolph County,West Virginia",20612,563633
+379,"Lincoln County,Kentucky","Ritchie County,West Virginia",18556,515889
+380,"Lincoln County,Kentucky","Roane County,West Virginia",16368,433149
+381,"Lincoln County,Kentucky","Summers County,West Virginia",19621,502328
+382,"Lincoln County,Kentucky","Taylor County,West Virginia",20519,570448
+383,"Lincoln County,Kentucky","Tucker County,West Virginia",21679,594158
+384,"Lincoln County,Kentucky","Tyler County,West Virginia",20134,541800
+385,"Lincoln County,Kentucky","Upshur County,West Virginia",19675,515876
+386,"Lincoln County,Kentucky","Wayne County,West Virginia",11528,282659
+387,"Lincoln County,Kentucky","Webster County,West Virginia",19605,510190
+388,"Lincoln County,Kentucky","Wetzel County,West Virginia",21346,563707
+389,"Lincoln County,Kentucky","Wirt County,West Virginia",17009,461671
+390,"Lincoln County,Kentucky","Wood County,West Virginia",16523,463361
+391,"Lincoln County,Kentucky","Wyoming County,West Virginia",18304,413012

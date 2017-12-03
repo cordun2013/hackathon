@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Henderson County,Kentucky","Adair County,Kentucky",9692,289663
+1,"Henderson County,Kentucky","Allen County,Kentucky",6922,200631
+2,"Henderson County,Kentucky","Anderson County,Kentucky",10279,300580
+3,"Henderson County,Kentucky","Ballard County,Kentucky",8077,223492
+4,"Henderson County,Kentucky","Barren County,Kentucky",8103,237358
+5,"Henderson County,Kentucky","Bath County,Kentucky",13791,410250
+6,"Henderson County,Kentucky","Bell County,Kentucky",17663,485824
+7,"Henderson County,Kentucky","Boone County,Kentucky",12920,366338
+8,"Henderson County,Kentucky","Bourbon County,Kentucky",12913,367906
+9,"Henderson County,Kentucky","Boyd County,Kentucky",17049,511706
+10,"Henderson County,Kentucky","Boyle County,Kentucky",10790,308499
+11,"Henderson County,Kentucky","Bracken County,Kentucky",15249,439084
+12,"Henderson County,Kentucky","Breathitt County,Kentucky",16391,474430
+13,"Henderson County,Kentucky","Breckinridge County,Kentucky",5323,137295
+14,"Henderson County,Kentucky","Bullitt County,Kentucky",8234,244655
+15,"Henderson County,Kentucky","Butler County,Kentucky",4626,130996
+16,"Henderson County,Kentucky","Caldwell County,Kentucky",4188,114345
+17,"Henderson County,Kentucky","Calloway County,Kentucky",6998,199337
+18,"Henderson County,Kentucky","Campbell County,Kentucky",13790,396040
+19,"Henderson County,Kentucky","Carlisle County,Kentucky",8534,238860
+20,"Henderson County,Kentucky","Carroll County,Kentucky",10404,300115
+21,"Henderson County,Kentucky","Carter County,Kentucky",16186,480963
+22,"Henderson County,Kentucky","Casey County,Kentucky",12026,318215
+23,"Henderson County,Kentucky","Christian County,Kentucky",3823,109538
+24,"Henderson County,Kentucky","Clay County,Kentucky",15826,444853
+25,"Henderson County,Kentucky","Clinton County,Kentucky",11643,318192
+26,"Henderson County,Kentucky","Crittenden County,Kentucky",4019,84286
+27,"Henderson County,Kentucky","Cumberland County,Kentucky",10802,294292
+28,"Henderson County,Kentucky","Daviess County,Kentucky",2264,56813
+29,"Henderson County,Kentucky","Edmonson County,Kentucky",6559,171551
+30,"Henderson County,Kentucky","Elliott County,Kentucky",16962,472225
+31,"Henderson County,Kentucky","Estill County,Kentucky",14325,410970
+32,"Henderson County,Kentucky","Fayette County,Kentucky",11754,341464
+33,"Henderson County,Kentucky","Fleming County,Kentucky",15220,440468
+34,"Henderson County,Kentucky","Floyd County,Kentucky",18578,534461
+35,"Henderson County,Kentucky","Franklin County,Kentucky",11170,311955
+36,"Henderson County,Kentucky","Fulton County,Kentucky",8938,259824
+37,"Henderson County,Kentucky","Gallatin County,Kentucky",11113,319440
+38,"Henderson County,Kentucky","Garrard County,Kentucky",12432,340695
+39,"Henderson County,Kentucky","Grant County,Kentucky",12479,344893
+40,"Henderson County,Kentucky","Graves County,Kentucky",7558,211566
+41,"Henderson County,Kentucky","Grayson County,Kentucky",5436,148157
+42,"Henderson County,Kentucky","Green County,Kentucky",9459,242064
+43,"Henderson County,Kentucky","Greenup County,Kentucky",17654,508293
+44,"Henderson County,Kentucky","Hancock County,Kentucky",4095,101119
+45,"Henderson County,Kentucky","Hardin County,Kentucky",6833,193675
+46,"Henderson County,Kentucky","Harlan County,Kentucky",19957,541429
+47,"Henderson County,Kentucky","Harrison County,Kentucky",13432,374049
+48,"Henderson County,Kentucky","Hart County,Kentucky",7854,207106
+49,"Henderson County,Kentucky","Henry County,Kentucky",10078,280862
+50,"Henderson County,Kentucky","Hickman County,Kentucky",8567,240152
+51,"Henderson County,Kentucky","Hopkins County,Kentucky",2636,61995
+52,"Henderson County,Kentucky","Jackson County,Kentucky",15557,439205
+53,"Henderson County,Kentucky","Jefferson County,Kentucky",8597,235030
+54,"Henderson County,Kentucky","Jessamine County,Kentucky",11727,340245
+55,"Henderson County,Kentucky","Johnson County,Kentucky",17532,510454
+56,"Henderson County,Kentucky","Kenton County,Kentucky",12807,362054
+57,"Henderson County,Kentucky","Knott County,Kentucky",18628,525558
+58,"Henderson County,Kentucky","Knox County,Kentucky",15895,438734
+59,"Henderson County,Kentucky","Larue County,Kentucky",7732,224907
+60,"Henderson County,Kentucky","Laurel County,Kentucky",14636,409604
+61,"Henderson County,Kentucky","Lawrence County,Kentucky",19052,538842
+62,"Henderson County,Kentucky","Lee County,Kentucky",15640,450887
+63,"Henderson County,Kentucky","Leslie County,Kentucky",17777,495976
+64,"Henderson County,Kentucky","Letcher County,Kentucky",19799,547563
+65,"Henderson County,Kentucky","Lewis County,Kentucky",16744,478608
+66,"Henderson County,Kentucky","Lincoln County,Kentucky",12175,338431
+67,"Henderson County,Kentucky","Livingston County,Kentucky",5174,110225
+68,"Henderson County,Kentucky","Logan County,Kentucky",6053,166259
+69,"Henderson County,Kentucky","Lyon County,Kentucky",6497,174702
+70,"Henderson County,Kentucky","McCracken County,Kentucky",6689,191552
+71,"Henderson County,Kentucky","McCreary County,Kentucky",13945,402510
+72,"Henderson County,Kentucky","Madison County,Kentucky",13177,384693
+73,"Henderson County,Kentucky","Magoffin County,Kentucky",17001,492321
+74,"Henderson County,Kentucky","Marion County,Kentucky",9854,283798
+75,"Henderson County,Kentucky","Marshall County,Kentucky",6104,175123
+76,"Henderson County,Kentucky","Martin County,Kentucky",20318,568799
+77,"Henderson County,Kentucky","Mason County,Kentucky",16042,439472
+78,"Henderson County,Kentucky","Meade County,Kentucky",6795,170984
+79,"Henderson County,Kentucky","Menifee County,Kentucky",15065,422787
+80,"Henderson County,Kentucky","Mercer County,Kentucky",10637,307375
+81,"Henderson County,Kentucky","Metcalfe County,Kentucky",8666,260009
+82,"Henderson County,Kentucky","Monroe County,Kentucky",9421,266037
+83,"Henderson County,Kentucky","Montgomery County,Kentucky",13709,400696
+84,"Henderson County,Kentucky","Morgan County,Kentucky",16391,480605
+85,"Henderson County,Kentucky","Muhlenberg County,Kentucky",3806,97036
+86,"Henderson County,Kentucky","Nelson County,Kentucky",8130,242861
+87,"Henderson County,Kentucky","Nicholas County,Kentucky",14170,395288
+88,"Henderson County,Kentucky","Ohio County,Kentucky",3839,104180
+89,"Henderson County,Kentucky","Oldham County,Kentucky",8805,248162
+90,"Henderson County,Kentucky","Owen County,Kentucky",12315,344976
+91,"Henderson County,Kentucky","Owsley County,Kentucky",16787,470864
+92,"Henderson County,Kentucky","Pendleton County,Kentucky",13745,380758
+93,"Henderson County,Kentucky","Perry County,Kentucky",18003,514313
+94,"Henderson County,Kentucky","Pike County,Kentucky",20258,564785
+95,"Henderson County,Kentucky","Powell County,Kentucky",14002,409555
+96,"Henderson County,Kentucky","Robertson County,Kentucky",14940,416414
+97,"Henderson County,Kentucky","Rockcastle County,Kentucky",13921,375117
+98,"Henderson County,Kentucky","Rowan County,Kentucky",14532,434101
+99,"Henderson County,Kentucky","Russell County,Kentucky",10799,317872
+100,"Henderson County,Kentucky","Scott County,Kentucky",12019,343524
+101,"Henderson County,Kentucky","Shelby County,Kentucky",9702,269558
+102,"Henderson County,Kentucky","Simpson County,Kentucky",6837,194490
+103,"Henderson County,Kentucky","Spencer County,Kentucky",9650,280609
+104,"Henderson County,Kentucky","Taylor County,Kentucky",9691,270920
+105,"Henderson County,Kentucky","Todd County,Kentucky",4928,138238
+106,"Henderson County,Kentucky","Trigg County,Kentucky",5237,135467
+107,"Henderson County,Kentucky","Trimble County,Kentucky",10203,287962
+108,"Henderson County,Kentucky","Union County,Kentucky",2404,48637
+109,"Henderson County,Kentucky","Warren County,Kentucky",5528,161667
+110,"Henderson County,Kentucky","Washington County,Kentucky",9961,283480
+111,"Henderson County,Kentucky","Wayne County,Kentucky",13044,348392
+112,"Henderson County,Kentucky","Webster County,Kentucky",2090,39457
+113,"Henderson County,Kentucky","Whitley County,Kentucky",15279,434588
+114,"Henderson County,Kentucky","Wolfe County,Kentucky",15266,447427
+115,"Henderson County,Kentucky","Woodford County,Kentucky",10957,318287
+116,"Henderson County,Kentucky","Adams County,Ohio",16684,472698
+117,"Henderson County,Kentucky","Allen County,Ohio",20226,587947
+118,"Henderson County,Kentucky","Ashland County,Ohio",23415,689825
+119,"Henderson County,Kentucky","Ashtabula County,Ohio",29161,874577
+120,"Henderson County,Kentucky","Athens County,Ohio",21878,619040
+121,"Henderson County,Kentucky","Auglaize County,Ohio",19597,526688
+122,"Henderson County,Kentucky","Belmont County,Ohio",24753,736257
+123,"Henderson County,Kentucky","Brown County,Ohio",15937,449253
+124,"Henderson County,Kentucky","Butler County,Ohio",15304,437821
+125,"Henderson County,Kentucky","Carroll County,Ohio",26717,773480
+126,"Henderson County,Kentucky","Champaign County,Ohio",18260,529394
+127,"Henderson County,Kentucky","Clark County,Ohio",17689,516027
+128,"Henderson County,Kentucky","Clermont County,Ohio",14055,409000
+129,"Henderson County,Kentucky","Clinton County,Ohio",16149,460306
+130,"Henderson County,Kentucky","Columbiana County,Ohio",28274,809069
+131,"Henderson County,Kentucky","Coshocton County,Ohio",23276,668897
+132,"Henderson County,Kentucky","Crawford County,Ohio",22952,681797
+133,"Henderson County,Kentucky","Cuyahoga County,Ohio",25733,772290
+134,"Henderson County,Kentucky","Darke County,Ohio",16390,451907
+135,"Henderson County,Kentucky","Defiance County,Ohio",20409,570308
+136,"Henderson County,Kentucky","Delaware County,Ohio",20332,596497
+137,"Henderson County,Kentucky","Fairfield County,Ohio",19736,579746
+138,"Henderson County,Kentucky","Fayette County,Ohio",17048,497911
+139,"Henderson County,Kentucky","Franklin County,Ohio",18850,556424
+140,"Henderson County,Kentucky","Fulton County,Ohio",21843,612887
+141,"Henderson County,Kentucky","Gallia County,Ohio",20775,591217
+142,"Henderson County,Kentucky","Geauga County,Ohio",27261,811508
+143,"Henderson County,Kentucky","Greene County,Ohio",16476,469660
+144,"Henderson County,Kentucky","Guernsey County,Ohio",22482,669938
+145,"Henderson County,Kentucky","Hamilton County,Ohio",13958,402306
+146,"Henderson County,Kentucky","Hancock County,Ohio",21335,628843
+147,"Henderson County,Kentucky","Hardin County,Ohio",21123,613240
+148,"Henderson County,Kentucky","Harrison County,Ohio",25723,755546
+149,"Henderson County,Kentucky","Henry County,Ohio",21229,607191
+150,"Henderson County,Kentucky","Highland County,Ohio",16997,471952
+151,"Henderson County,Kentucky","Hocking County,Ohio",21173,623151
+152,"Henderson County,Kentucky","Holmes County,Ohio",24826,705755
+153,"Henderson County,Kentucky","Huron County,Ohio",24562,688596
+154,"Henderson County,Kentucky","Jackson County,Ohio",19276,553410
+155,"Henderson County,Kentucky","Jefferson County,Ohio",26716,765324
+156,"Henderson County,Kentucky","Knox County,Ohio",22782,656119
+157,"Henderson County,Kentucky","Lawrence County,Ohio",19455,548134
+158,"Henderson County,Kentucky","Licking County,Ohio",21114,611342
+159,"Henderson County,Kentucky","Logan County,Ohio",19495,561931
+160,"Henderson County,Kentucky","Lorain County,Ohio",26347,747250
+161,"Henderson County,Kentucky","Lucas County,Ohio",24175,674862
+162,"Henderson County,Kentucky","Madison County,Ohio",18269,533093
+163,"Henderson County,Kentucky","Mahoning County,Ohio",28131,826209
+164,"Henderson County,Kentucky","Marion County,Ohio",21379,603932
+165,"Henderson County,Kentucky","Medina County,Ohio",24060,714838
+166,"Henderson County,Kentucky","Meigs County,Ohio",22266,642461
+167,"Henderson County,Kentucky","Mercer County,Ohio",18451,488427
+168,"Henderson County,Kentucky","Miami County,Ohio",17068,497651
+169,"Henderson County,Kentucky","Monroe County,Ohio",26158,750821
+170,"Henderson County,Kentucky","Montgomery County,Ohio",16451,475391
+171,"Henderson County,Kentucky","Morgan County,Ohio",23547,678434
+172,"Henderson County,Kentucky","Morrow County,Ohio",21140,619318
+173,"Henderson County,Kentucky","Muskingum County,Ohio",21333,636094
+174,"Henderson County,Kentucky","Noble County,Ohio",24181,707058
+175,"Henderson County,Kentucky","Paulding County,Ohio",19342,535227
+176,"Henderson County,Kentucky","Perry County,Ohio",21401,624678
+177,"Henderson County,Kentucky","Pickaway County,Ohio",18984,546507
+178,"Henderson County,Kentucky","Pike County,Ohio",18052,518395
+179,"Henderson County,Kentucky","Portage County,Ohio",26582,785988
+180,"Henderson County,Kentucky","Preble County,Ohio",15315,430134
+181,"Henderson County,Kentucky","Putnam County,Ohio",21212,582832
+182,"Henderson County,Kentucky","Richland County,Ohio",22169,654556
+183,"Henderson County,Kentucky","Ross County,Ohio",18628,545824
+184,"Henderson County,Kentucky","Sandusky County,Ohio",24375,708918
+185,"Henderson County,Kentucky","Scioto County,Ohio",18852,539026
+186,"Henderson County,Kentucky","Seneca County,Ohio",23680,685182
+187,"Henderson County,Kentucky","Shelby County,Ohio",18107,533937
+188,"Henderson County,Kentucky","Stark County,Ohio",26327,770371
+189,"Henderson County,Kentucky","Summit County,Ohio",25263,750165
+190,"Henderson County,Kentucky","Trumbull County,Ohio",28164,836480
+191,"Henderson County,Kentucky","Tuscarawas County,Ohio",24777,729303
+192,"Henderson County,Kentucky","Union County,Ohio",19622,559315
+193,"Henderson County,Kentucky","Van Wert County,Ohio",19480,552348
+194,"Henderson County,Kentucky","Vinton County,Ohio",20811,594577
+195,"Henderson County,Kentucky","Warren County,Ohio",14838,428562
+196,"Henderson County,Kentucky","Washington County,Ohio",24911,699137
+197,"Henderson County,Kentucky","Wayne County,Ohio",23788,703836
+198,"Henderson County,Kentucky","Williams County,Ohio",21399,590189
+199,"Henderson County,Kentucky","Wood County,Ohio",22402,636115
+200,"Henderson County,Kentucky","Wyandot County,Ohio",22031,649723
+201,"Henderson County,Kentucky","Accomack County,Virginia",47134,1385574
+202,"Henderson County,Kentucky","Albemarle County,Virginia",33284,998074
+203,"Henderson County,Kentucky","Alleghany County,Virginia",27953,835097
+204,"Henderson County,Kentucky","Amelia County,Virginia",37984,1098192
+205,"Henderson County,Kentucky","Amherst County,Virginia",33282,966063
+206,"Henderson County,Kentucky","Appomattox County,Virginia",34875,1004822
+207,"Henderson County,Kentucky","Arlington County,Virginia",39567,1194106
+208,"Henderson County,Kentucky","Augusta County,Virginia",31895,936413
+209,"Henderson County,Kentucky","Bath County,Virginia",30965,910407
+210,"Henderson County,Kentucky","Bedford County,Virginia",33016,969770
+211,"Henderson County,Kentucky","Bland County,Virginia",26915,801316
+212,"Henderson County,Kentucky","Botetourt County,Virginia",31107,906396
+213,"Henderson County,Kentucky","Brunswick County,Virginia",39764,1183513
+214,"Henderson County,Kentucky","Buchanan County,Virginia",24310,644291
+215,"Henderson County,Kentucky","Buckingham County,Virginia",35157,1015757
+216,"Henderson County,Kentucky","Campbell County,Virginia",34432,1011005
+217,"Henderson County,Kentucky","Caroline County,Virginia",38623,1166919
+218,"Henderson County,Kentucky","Carroll County,Virginia",27976,850716
+219,"Henderson County,Kentucky","Charles City County,Virginia",38723,1163954
+220,"Henderson County,Kentucky","Charlotte County,Virginia",36759,1058342
+221,"Henderson County,Kentucky","Chesterfield County,Virginia",37859,1141738
+222,"Henderson County,Kentucky","Clarke County,Virginia",37463,1125132
+223,"Henderson County,Kentucky","Craig County,Virginia",29596,856182
+224,"Henderson County,Kentucky","Culpeper County,Virginia",37081,1087290
+225,"Henderson County,Kentucky","Cumberland County,Virginia",36367,1043759
+226,"Henderson County,Kentucky","Dickenson County,Virginia",23359,614509
+227,"Henderson County,Kentucky","Dinwiddie County,Virginia",39606,1192169
+228,"Henderson County,Kentucky","Essex County,Virginia",40440,1190962
+229,"Henderson County,Kentucky","Fairfax County,Virginia",39258,1184773
+230,"Henderson County,Kentucky","Fauquier County,Virginia",37902,1146383
+231,"Henderson County,Kentucky","Floyd County,Virginia",29868,890817
+232,"Henderson County,Kentucky","Fluvanna County,Virginia",34962,1050245
+233,"Henderson County,Kentucky","Franklin County,Virginia",32529,971003
+234,"Henderson County,Kentucky","Frederick County,Virginia",36129,1039266
+235,"Henderson County,Kentucky","Giles County,Virginia",27645,812875
+236,"Henderson County,Kentucky","Gloucester County,Virginia",40894,1218142
+237,"Henderson County,Kentucky","Goochland County,Virginia",35865,1080856
+238,"Henderson County,Kentucky","Grayson County,Virginia",27709,813884
+239,"Henderson County,Kentucky","Greene County,Virginia",35276,1033658
+240,"Henderson County,Kentucky","Greensville County,Virginia",40960,1200932
+241,"Henderson County,Kentucky","Halifax County,Virginia",36279,1048403
+242,"Henderson County,Kentucky","Hanover County,Virginia",37072,1121963
+243,"Henderson County,Kentucky","Henrico County,Virginia",37583,1134923
+244,"Henderson County,Kentucky","Henry County,Virginia",31849,937437
+245,"Henderson County,Kentucky","Highland County,Virginia",32409,920377
+246,"Henderson County,Kentucky","Isle of Wight County,Virginia",41835,1239500
+247,"Henderson County,Kentucky","James City County,Virginia",39959,1204725
+248,"Henderson County,Kentucky","King and Queen County,Virginia",39617,1180309
+249,"Henderson County,Kentucky","King George County,Virginia",39736,1194906
+250,"Henderson County,Kentucky","King William County,Virginia",38305,1150231
+251,"Henderson County,Kentucky","Lancaster County,Virginia",42098,1233317
+252,"Henderson County,Kentucky","Lee County,Virginia",20754,562383
+253,"Henderson County,Kentucky","Loudoun County,Virginia",38959,1160998
+254,"Henderson County,Kentucky","Louisa County,Virginia",35522,1063951
+255,"Henderson County,Kentucky","Lunenburg County,Virginia",38532,1099626
+256,"Henderson County,Kentucky","Madison County,Virginia",36196,1063398
+257,"Henderson County,Kentucky","Mathews County,Virginia",41719,1241566
+258,"Henderson County,Kentucky","Mecklenburg County,Virginia",38311,1099949
+259,"Henderson County,Kentucky","Middlesex County,Virginia",40495,1214343
+260,"Henderson County,Kentucky","Montgomery County,Virginia",28729,840881
+261,"Henderson County,Kentucky","Nelson County,Virginia",33823,977754
+262,"Henderson County,Kentucky","New Kent County,Virginia",39395,1178639
+263,"Henderson County,Kentucky","Northampton County,Virginia",44377,1321388
+264,"Henderson County,Kentucky","Northumberland County,Virginia",42137,1231829
+265,"Henderson County,Kentucky","Nottoway County,Virginia",38025,1100006
+266,"Henderson County,Kentucky","Orange County,Virginia",36485,1072059
+267,"Henderson County,Kentucky","Page County,Virginia",35130,1047184
+268,"Henderson County,Kentucky","Patrick County,Virginia",30081,895752
+269,"Henderson County,Kentucky","Pittsylvania County,Virginia",34165,991645
+270,"Henderson County,Kentucky","Powhatan County,Virginia",37118,1106078
+271,"Henderson County,Kentucky","Prince Edward County,Virginia",36639,1057342
+272,"Henderson County,Kentucky","Prince George County,Virginia",39370,1178753
+273,"Henderson County,Kentucky","Prince William County,Virginia",38002,1152487
+274,"Henderson County,Kentucky","Pulaski County,Virginia",27718,842137
+275,"Henderson County,Kentucky","Rappahannock County,Virginia",36961,1083671
+276,"Henderson County,Kentucky","Richmond County,Virginia",40837,1204472
+277,"Henderson County,Kentucky","Roanoke County,Virginia",29823,901257
+278,"Henderson County,Kentucky","Rockbridge County,Virginia",30286,903453
+279,"Henderson County,Kentucky","Rockingham County,Virginia",34169,1019534
+280,"Henderson County,Kentucky","Russell County,Virginia",25841,662840
+281,"Henderson County,Kentucky","Scott County,Virginia",23074,610224
+282,"Henderson County,Kentucky","Shenandoah County,Virginia",34674,1049638
+283,"Henderson County,Kentucky","Smyth County,Virginia",24988,753586
+284,"Henderson County,Kentucky","Southampton County,Virginia",41401,1237035
+285,"Henderson County,Kentucky","Spotsylvania County,Virginia",37539,1105790
+286,"Henderson County,Kentucky","Stafford County,Virginia",38920,1130083
+287,"Henderson County,Kentucky","Surry County,Virginia",40703,1203586
+288,"Henderson County,Kentucky","Sussex County,Virginia",40064,1207278
+289,"Henderson County,Kentucky","Tazewell County,Virginia",26554,701065
+290,"Henderson County,Kentucky","Warren County,Virginia",36576,1094230
+291,"Henderson County,Kentucky","Washington County,Virginia",24099,717671
+292,"Henderson County,Kentucky","Westmoreland County,Virginia",40710,1211730
+293,"Henderson County,Kentucky","Wise County,Virginia",21623,590408
+294,"Henderson County,Kentucky","Wythe County,Virginia",26202,796046
+295,"Henderson County,Kentucky","York County,Virginia",41247,1235499
+296,"Henderson County,Kentucky","Alexandria City County,Virginia",40082,1211287
+297,"Henderson County,Kentucky","Bedford City County,Virginia",32180,961201
+298,"Henderson County,Kentucky","Bristol City County,Virginia",22698,685654
+299,"Henderson County,Kentucky","Buena Vista City County,Virginia",30640,917430
+300,"Henderson County,Kentucky","Charlottesville City County,Virginia",33753,1013288
+301,"Henderson County,Kentucky","Chesapeake City County,Virginia",42710,1288405
+302,"Henderson County,Kentucky","Clifton Forge City County,Virginia",28496,855303
+303,"Henderson County,Kentucky","Colonial Heights City County,Virginia",38419,1157630
+304,"Henderson County,Kentucky","Covington City County,Virginia",28022,838682
+305,"Henderson County,Kentucky","Danville City County,Virginia",34007,991893
+306,"Henderson County,Kentucky","Emporia City County,Virginia",40730,1227514
+307,"Henderson County,Kentucky","Fairfax City County,Virginia",39134,1178235
+308,"Henderson County,Kentucky","Falls Church City County,Virginia",39275,1188418
+309,"Henderson County,Kentucky","Franklin City County,Virginia",41948,1244890
+310,"Henderson County,Kentucky","Fredericksburg City County,Virginia",38672,1115449
+311,"Henderson County,Kentucky","Galax City County,Virginia",28599,856582
+312,"Henderson County,Kentucky","Hampton City County,Virginia",41197,1245206
+313,"Henderson County,Kentucky","Harrisonburg City County,Virginia",33228,999430
+314,"Henderson County,Kentucky","Hopewell City County,Virginia",38456,1156596
+315,"Henderson County,Kentucky","Lexington City County,Virginia",30275,905922
+316,"Henderson County,Kentucky","Lynchburg City County,Virginia",33858,981036
+317,"Henderson County,Kentucky","Manassas City County,Virginia",38229,1157432
+318,"Henderson County,Kentucky","Manassas Park City County,Virginia",38731,1163775
+319,"Henderson County,Kentucky","Martinsville City County,Virginia",32377,946231
+320,"Henderson County,Kentucky","Newport News City County,Virginia",40754,1231692
+321,"Henderson County,Kentucky","Norfolk City County,Virginia",42504,1270622
+322,"Henderson County,Kentucky","Norton City County,Virginia",22252,602219
+323,"Henderson County,Kentucky","Petersburg City County,Virginia",38291,1158618
+324,"Henderson County,Kentucky","Poquoson City County,Virginia",41426,1242268
+325,"Henderson County,Kentucky","Portsmouth City County,Virginia",42443,1279442
+326,"Henderson County,Kentucky","Radford County,Virginia",28229,856085
+327,"Henderson County,Kentucky","Richmond City County,Virginia",37159,1122733
+328,"Henderson County,Kentucky","Roanoke City County,Virginia",30425,921362
+329,"Henderson County,Kentucky","Salem City County,Virginia",29836,907912
+330,"Henderson County,Kentucky","South Boston City County,Virginia",36019,1046071
+331,"Henderson County,Kentucky","Staunton City County,Virginia",32046,960565
+332,"Henderson County,Kentucky","Suffolk City County,Virginia",42678,1254224
+333,"Henderson County,Kentucky","Virginia Beach City County,Virginia",43064,1293880
+334,"Henderson County,Kentucky","Waynesboro City County,Virginia",32384,973283
+335,"Henderson County,Kentucky","Williamsburg City County,Virginia",39798,1203941
+336,"Henderson County,Kentucky","Winchester City County,Virginia",36608,1073267
+337,"Henderson County,Kentucky","Barbour County,West Virginia",28088,833964
+338,"Henderson County,Kentucky","Berkeley County,West Virginia",36022,1072123
+339,"Henderson County,Kentucky","Boone County,West Virginia",23267,667580
+340,"Henderson County,Kentucky","Braxton County,West Virginia",24779,724943
+341,"Henderson County,Kentucky","Brooke County,West Virginia",26832,778505
+342,"Henderson County,Kentucky","Cabell County,West Virginia",17839,534089
+343,"Henderson County,Kentucky","Calhoun County,West Virginia",24700,722627
+344,"Henderson County,Kentucky","Clay County,West Virginia",23545,695856
+345,"Henderson County,Kentucky","Doddridge County,West Virginia",27250,765723
+346,"Henderson County,Kentucky","Fayette County,West Virginia",24833,714200
+347,"Henderson County,Kentucky","Gilmer County,West Virginia",25977,747130
+348,"Henderson County,Kentucky","Grant County,West Virginia",32444,935509
+349,"Henderson County,Kentucky","Greenbrier County,West Virginia",27907,792238
+350,"Henderson County,Kentucky","Hampshire County,West Virginia",35276,1033726
+351,"Henderson County,Kentucky","Hancock County,West Virginia",28421,813041
+352,"Henderson County,Kentucky","Hardy County,West Virginia",33499,967006
+353,"Henderson County,Kentucky","Harrison County,West Virginia",27322,820334
+354,"Henderson County,Kentucky","Jackson County,West Virginia",22584,676959
+355,"Henderson County,Kentucky","Jefferson County,West Virginia",37487,1128121
+356,"Henderson County,Kentucky","Kanawha County,West Virginia",22141,648264
+357,"Henderson County,Kentucky","Lewis County,West Virginia",25952,773804
+358,"Henderson County,Kentucky","Lincoln County,West Virginia",21056,591739
+359,"Henderson County,Kentucky","Logan County,West Virginia",23312,635554
+360,"Henderson County,Kentucky","McDowell County,West Virginia",27164,687742
+361,"Henderson County,Kentucky","Marion County,West Virginia",28467,847502
+362,"Henderson County,Kentucky","Marshall County,West Virginia",26789,773013
+363,"Henderson County,Kentucky","Mason County,West Virginia",20820,624834
+364,"Henderson County,Kentucky","Mercer County,West Virginia",25468,759823
+365,"Henderson County,Kentucky","Mineral County,West Virginia",34138,964330
+366,"Henderson County,Kentucky","Mingo County,West Virginia",21996,602007
+367,"Henderson County,Kentucky","Monongalia County,West Virginia",28678,872970
+368,"Henderson County,Kentucky","Monroe County,West Virginia",28513,804534
+369,"Henderson County,Kentucky","Morgan County,West Virginia",35513,1061515
+370,"Henderson County,Kentucky","Nicholas County,West Virginia",25262,755736
+371,"Henderson County,Kentucky","Ohio County,West Virginia",25850,759742
+372,"Henderson County,Kentucky","Pendleton County,West Virginia",32775,938133
+373,"Henderson County,Kentucky","Pleasants County,West Virginia",26066,774811
+374,"Henderson County,Kentucky","Pocahontas County,West Virginia",30591,825275
+375,"Henderson County,Kentucky","Preston County,West Virginia",30824,899701
+376,"Henderson County,Kentucky","Putnam County,West Virginia",19522,586867
+377,"Henderson County,Kentucky","Raleigh County,West Virginia",24009,713516
+378,"Henderson County,Kentucky","Randolph County,West Virginia",28453,836259
+379,"Henderson County,Kentucky","Ritchie County,West Virginia",26415,738765
+380,"Henderson County,Kentucky","Roane County,West Virginia",24209,705775
+381,"Henderson County,Kentucky","Summers County,West Virginia",27462,774953
+382,"Henderson County,Kentucky","Taylor County,West Virginia",28360,843074
+383,"Henderson County,Kentucky","Tucker County,West Virginia",29520,866784
+384,"Henderson County,Kentucky","Tyler County,West Virginia",27975,814426
+385,"Henderson County,Kentucky","Upshur County,West Virginia",27516,788501
+386,"Henderson County,Kentucky","Wayne County,West Virginia",19370,555285
+387,"Henderson County,Kentucky","Webster County,West Virginia",27446,782816
+388,"Henderson County,Kentucky","Wetzel County,West Virginia",29188,836333
+389,"Henderson County,Kentucky","Wirt County,West Virginia",24850,734297
+390,"Henderson County,Kentucky","Wood County,West Virginia",24365,735987
+391,"Henderson County,Kentucky","Wyoming County,West Virginia",25954,753457

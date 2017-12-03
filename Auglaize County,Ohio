@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Auglaize County,Ohio","Adair County,Kentucky",17848,496095
+1,"Auglaize County,Ohio","Allen County,Kentucky",18605,549381
+2,"Auglaize County,Ohio","Anderson County,Kentucky",12831,375240
+3,"Auglaize County,Ohio","Ballard County,Kentucky",24765,741543
+4,"Auglaize County,Ohio","Barren County,Kentucky",17732,517794
+5,"Auglaize County,Ohio","Bath County,Kentucky",13116,396549
+6,"Auglaize County,Ohio","Bell County,Kentucky",18350,524275
+7,"Auglaize County,Ohio","Boone County,Kentucky",8299,225965
+8,"Auglaize County,Ohio","Bourbon County,Kentucky",11704,334508
+9,"Auglaize County,Ohio","Boyd County,Kentucky",14355,378002
+10,"Auglaize County,Ohio","Boyle County,Kentucky",14140,403129
+11,"Auglaize County,Ohio","Bracken County,Kentucky",9862,275325
+12,"Auglaize County,Ohio","Breathitt County,Kentucky",15716,460729
+13,"Auglaize County,Ohio","Breckinridge County,Kentucky",16645,467945
+14,"Auglaize County,Ohio","Bullitt County,Kentucky",13181,388777
+15,"Auglaize County,Ohio","Butler County,Kentucky",17984,526451
+16,"Auglaize County,Ohio","Caldwell County,Kentucky",20876,632397
+17,"Auglaize County,Ohio","Calloway County,Kentucky",23686,717389
+18,"Auglaize County,Ohio","Campbell County,Kentucky",8392,228274
+19,"Auglaize County,Ohio","Carlisle County,Kentucky",25222,756912
+20,"Auglaize County,Ohio","Carroll County,Kentucky",9873,287731
+21,"Auglaize County,Ohio","Carter County,Kentucky",14723,390717
+22,"Auglaize County,Ohio","Casey County,Kentucky",16065,433257
+23,"Auglaize County,Ohio","Christian County,Kentucky",20525,627653
+24,"Auglaize County,Ohio","Clay County,Kentucky",16581,483319
+25,"Auglaize County,Ohio","Clinton County,Kentucky",18303,522803
+26,"Auglaize County,Ohio","Crittenden County,Kentucky",22456,665467
+27,"Auglaize County,Ohio","Cumberland County,Kentucky",19057,541042
+28,"Auglaize County,Ohio","Daviess County,Kentucky",17957,531263
+29,"Auglaize County,Ohio","Edmonson County,Kentucky",17425,514326
+30,"Auglaize County,Ohio","Elliott County,Kentucky",16052,399550
+31,"Auglaize County,Ohio","Estill County,Kentucky",13649,397269
+32,"Auglaize County,Ohio","Fayette County,Kentucky",11078,327764
+33,"Auglaize County,Ohio","Fleming County,Kentucky",12137,328064
+34,"Auglaize County,Ohio","Floyd County,Kentucky",17902,520760
+35,"Auglaize County,Ohio","Franklin County,Kentucky",12313,331114
+36,"Auglaize County,Ohio","Fulton County,Kentucky",25626,777876
+37,"Auglaize County,Ohio","Gallatin County,Kentucky",9084,260144
+38,"Auglaize County,Ohio","Garrard County,Kentucky",14108,407123
+39,"Auglaize County,Ohio","Grant County,Kentucky",9151,260618
+40,"Auglaize County,Ohio","Graves County,Kentucky",24246,729618
+41,"Auglaize County,Ohio","Grayson County,Kentucky",16312,483087
+42,"Auglaize County,Ohio","Green County,Kentucky",16999,489083
+43,"Auglaize County,Ohio","Greenup County,Kentucky",12737,341935
+44,"Auglaize County,Ohio","Hancock County,Kentucky",16842,485782
+45,"Auglaize County,Ohio","Hardin County,Kentucky",15188,445220
+46,"Auglaize County,Ohio","Harlan County,Kentucky",20644,579880
+47,"Auglaize County,Ohio","Harrison County,Kentucky",10587,294680
+48,"Auglaize County,Ohio","Hart County,Kentucky",15987,472848
+49,"Auglaize County,Ohio","Henderson County,Kentucky",19541,573758
+50,"Auglaize County,Ohio","Henry County,Kentucky",11059,316054
+51,"Auglaize County,Ohio","Hickman County,Kentucky",25255,758204
+52,"Auglaize County,Ohio","Hopkins County,Kentucky",20335,606865
+53,"Auglaize County,Ohio","Jackson County,Kentucky",15093,427105
+54,"Auglaize County,Ohio","Jefferson County,Kentucky",12274,358213
+55,"Auglaize County,Ohio","Jessamine County,Kentucky",12339,351075
+56,"Auglaize County,Ohio","Johnson County,Kentucky",16856,496753
+57,"Auglaize County,Ohio","Kenton County,Kentucky",7944,219523
+58,"Auglaize County,Ohio","Knott County,Kentucky",18176,524108
+59,"Auglaize County,Ohio","Knox County,Kentucky",16511,486015
+60,"Auglaize County,Ohio","Larue County,Kentucky",15258,448819
+61,"Auglaize County,Ohio","Laurel County,Kentucky",15362,457410
+62,"Auglaize County,Ohio","Lawrence County,Kentucky",16601,425826
+63,"Auglaize County,Ohio","Lee County,Kentucky",14965,437186
+64,"Auglaize County,Ohio","Leslie County,Kentucky",18531,534443
+65,"Auglaize County,Ohio","Letcher County,Kentucky",19429,549080
+66,"Auglaize County,Ohio","Lewis County,Kentucky",12991,339720
+67,"Auglaize County,Ohio","Lincoln County,Kentucky",14818,424041
+68,"Auglaize County,Ohio","Livingston County,Kentucky",23052,682364
+69,"Auglaize County,Ohio","Logan County,Kentucky",19725,569690
+70,"Auglaize County,Ohio","Lyon County,Kentucky",23185,692754
+71,"Auglaize County,Ohio","McCracken County,Kentucky",23377,709603
+72,"Auglaize County,Ohio","McCreary County,Kentucky",17467,501852
+73,"Auglaize County,Ohio","Madison County,Kentucky",12501,370993
+74,"Auglaize County,Ohio","Magoffin County,Kentucky",16325,478620
+75,"Auglaize County,Ohio","Marion County,Kentucky",14838,427592
+76,"Auglaize County,Ohio","Marshall County,Kentucky",22792,693175
+77,"Auglaize County,Ohio","Martin County,Kentucky",18087,458171
+78,"Auglaize County,Ohio","Mason County,Kentucky",10595,290372
+79,"Auglaize County,Ohio","Meade County,Kentucky",14721,425453
+80,"Auglaize County,Ohio","Menifee County,Kentucky",14390,409086
+81,"Auglaize County,Ohio","Mercer County,Kentucky",13214,383303
+82,"Auglaize County,Ohio","Metcalfe County,Kentucky",18184,537887
+83,"Auglaize County,Ohio","Monroe County,Kentucky",19079,561469
+84,"Auglaize County,Ohio","Montgomery County,Kentucky",13033,386995
+85,"Auglaize County,Ohio","Morgan County,Kentucky",15715,466904
+86,"Auglaize County,Ohio","Muhlenberg County,Kentucky",19195,573341
+87,"Auglaize County,Ohio","Nelson County,Kentucky",14446,426664
+88,"Auglaize County,Ohio","Nicholas County,Kentucky",12294,335964
+89,"Auglaize County,Ohio","Ohio County,Kentucky",18108,540930
+90,"Auglaize County,Ohio","Oldham County,Kentucky",11174,329159
+91,"Auglaize County,Ohio","Owen County,Kentucky",10316,286533
+92,"Auglaize County,Ohio","Owsley County,Kentucky",16112,457163
+93,"Auglaize County,Ohio","Pendleton County,Kentucky",9268,250116
+94,"Auglaize County,Ohio","Perry County,Kentucky",17327,500612
+95,"Auglaize County,Ohio","Pike County,Kentucky",19582,551084
+96,"Auglaize County,Ohio","Powell County,Kentucky",13326,395854
+97,"Auglaize County,Ohio","Robertson County,Kentucky",11191,294109
+98,"Auglaize County,Ohio","Rockcastle County,Kentucky",13935,412135
+99,"Auglaize County,Ohio","Rowan County,Kentucky",13623,361426
+100,"Auglaize County,Ohio","Russell County,Kentucky",17501,503421
+101,"Auglaize County,Ohio","Scott County,Kentucky",10080,295138
+102,"Auglaize County,Ohio","Shelby County,Kentucky",12429,343044
+103,"Auglaize County,Ohio","Simpson County,Kentucky",19306,577747
+104,"Auglaize County,Ohio","Spencer County,Kentucky",13388,387833
+105,"Auglaize County,Ohio","Taylor County,Kentucky",16127,459088
+106,"Auglaize County,Ohio","Todd County,Kentucky",20961,593850
+107,"Auglaize County,Ohio","Trigg County,Kentucky",21939,653582
+108,"Auglaize County,Ohio","Trimble County,Kentucky",10771,311055
+109,"Auglaize County,Ohio","Union County,Kentucky",21261,604205
+110,"Auglaize County,Ohio","Warren County,Kentucky",18341,542695
+111,"Auglaize County,Ohio","Washington County,Kentucky",14456,411900
+112,"Auglaize County,Ohio","Wayne County,Kentucky",17677,500494
+113,"Auglaize County,Ohio","Webster County,Kentucky",21184,610380
+114,"Auglaize County,Ohio","Whitley County,Kentucky",16195,491895
+115,"Auglaize County,Ohio","Wolfe County,Kentucky",14590,433726
+116,"Auglaize County,Ohio","Woodford County,Kentucky",11692,343395
+117,"Auglaize County,Ohio","Adams County,Ohio",10184,279614
+118,"Auglaize County,Ohio","Allen County,Ohio",2089,36986
+119,"Auglaize County,Ohio","Ashland County,Ohio",8322,226258
+120,"Auglaize County,Ohio","Ashtabula County,Ohio",14163,417025
+121,"Auglaize County,Ohio","Athens County,Ohio",10294,276344
+122,"Auglaize County,Ohio","Belmont County,Ohio",12353,350658
+123,"Auglaize County,Ohio","Brown County,Ohio",9437,256169
+124,"Auglaize County,Ohio","Butler County,Ohio",6384,172724
+125,"Auglaize County,Ohio","Carroll County,Ohio",12756,337236
+126,"Auglaize County,Ohio","Champaign County,Ohio",4262,103464
+127,"Auglaize County,Ohio","Clark County,Ohio",5144,146045
+128,"Auglaize County,Ohio","Clermont County,Ohio",7467,210457
+129,"Auglaize County,Ohio","Clinton County,Ohio",6610,172835
+130,"Auglaize County,Ohio","Columbiana County,Ohio",13205,350723
+131,"Auglaize County,Ohio","Coshocton County,Ohio",9791,258732
+132,"Auglaize County,Ohio","Crawford County,Ohio",5179,148455
+133,"Auglaize County,Ohio","Cuyahoga County,Ohio",10735,314738
+134,"Auglaize County,Ohio","Darke County,Ohio",3654,77066
+135,"Auglaize County,Ohio","Defiance County,Ohio",4942,108301
+136,"Auglaize County,Ohio","Delaware County,Ohio",5843,136849
+137,"Auglaize County,Ohio","Fairfield County,Ohio",7488,197601
+138,"Auglaize County,Ohio","Fayette County,Ohio",6832,192732
+139,"Auglaize County,Ohio","Franklin County,Ohio",5950,157989
+140,"Auglaize County,Ohio","Fulton County,Ohio",6217,139869
+141,"Auglaize County,Ohio","Gallia County,Ohio",11011,319707
+142,"Auglaize County,Ohio","Geauga County,Ohio",12263,353957
+143,"Auglaize County,Ohio","Greene County,Ohio",5196,146748
+144,"Auglaize County,Ohio","Guernsey County,Ohio",10082,284339
+145,"Auglaize County,Ohio","Hamilton County,Ohio",6831,189488
+146,"Auglaize County,Ohio","Hancock County,Ohio",3562,95501
+147,"Auglaize County,Ohio","Hardin County,Ohio",3349,79898
+148,"Auglaize County,Ohio","Harrison County,Ohio",12723,336196
+149,"Auglaize County,Ohio","Henry County,Ohio",5250,107098
+150,"Auglaize County,Ohio","Highland County,Ohio",8359,212528
+151,"Auglaize County,Ohio","Hocking County,Ohio",8925,241006
+152,"Auglaize County,Ohio","Holmes County,Ohio",9863,260260
+153,"Auglaize County,Ohio","Huron County,Ohio",7380,198441
+154,"Auglaize County,Ohio","Jackson County,Ohio",9952,292249
+155,"Auglaize County,Ohio","Jefferson County,Ohio",14316,379725
+156,"Auglaize County,Ohio","Knox County,Ohio",9224,194418
+157,"Auglaize County,Ohio","Lawrence County,Ohio",13634,354322
+158,"Auglaize County,Ohio","Licking County,Ohio",7622,200604
+159,"Auglaize County,Ohio","Logan County,Ohio",2703,61757
+160,"Auglaize County,Ohio","Lorain County,Ohio",10012,272234
+161,"Auglaize County,Ohio","Lucas County,Ohio",6887,182021
+162,"Auglaize County,Ohio","Madison County,Ohio",5963,145220
+163,"Auglaize County,Ohio","Mahoning County,Ohio",13133,368657
+164,"Auglaize County,Ohio","Marion County,Ohio",5494,120370
+165,"Auglaize County,Ohio","Medina County,Ohio",9062,257286
+166,"Auglaize County,Ohio","Meigs County,Ohio",11219,306452
+167,"Auglaize County,Ohio","Mercer County,Ohio",1713,33779
+168,"Auglaize County,Ohio","Miami County,Ohio",2888,78638
+169,"Auglaize County,Ohio","Monroe County,Ohio",13758,365222
+170,"Auglaize County,Ohio","Montgomery County,Ohio",4589,128007
+171,"Auglaize County,Ohio","Morgan County,Ohio",11148,292835
+172,"Auglaize County,Ohio","Morrow County,Ohio",6946,149316
+173,"Auglaize County,Ohio","Muskingum County,Ohio",8933,250495
+174,"Auglaize County,Ohio","Noble County,Ohio",11781,321459
+175,"Auglaize County,Ohio","Paulding County,Ohio",3784,83745
+176,"Auglaize County,Ohio","Perry County,Ohio",9001,239079
+177,"Auglaize County,Ohio","Pickaway County,Ohio",6984,184603
+178,"Auglaize County,Ohio","Pike County,Ohio",9521,272928
+179,"Auglaize County,Ohio","Portage County,Ohio",11584,328436
+180,"Auglaize County,Ohio","Preble County,Ohio",5044,116390
+181,"Auglaize County,Ohio","Putnam County,Ohio",3179,61604
+182,"Auglaize County,Ohio","Richland County,Ohio",6950,194091
+183,"Auglaize County,Ohio","Ross County,Ohio",8186,237969
+184,"Auglaize County,Ohio","Sandusky County,Ohio",6602,175576
+185,"Auglaize County,Ohio","Scioto County,Ohio",10480,296383
+186,"Auglaize County,Ohio","Seneca County,Ohio",5906,151840
+187,"Auglaize County,Ohio","Shelby County,Ohio",1573,31007
+188,"Auglaize County,Ohio","Stark County,Ohio",11259,312025
+189,"Auglaize County,Ohio","Summit County,Ohio",10265,292614
+190,"Auglaize County,Ohio","Trumbull County,Ohio",13165,378928
+191,"Auglaize County,Ohio","Tuscarawas County,Ohio",11777,309953
+192,"Auglaize County,Ohio","Union County,Ohio",4213,105757
+193,"Auglaize County,Ohio","Van Wert County,Ohio",2349,49450
+194,"Auglaize County,Ohio","Vinton County,Ohio",10368,286722
+195,"Auglaize County,Ohio","Warren County,Ohio",6052,157295
+196,"Auglaize County,Ohio","Washington County,Ohio",12965,362404
+197,"Auglaize County,Ohio","Wayne County,Ohio",8719,245489
+198,"Auglaize County,Ohio","Williams County,Ohio",6057,124052
+199,"Auglaize County,Ohio","Wood County,Ohio",4650,136129
+200,"Auglaize County,Ohio","Wyandot County,Ohio",4258,116381
+201,"Auglaize County,Ohio","Accomack County,Virginia",39566,1112529
+202,"Auglaize County,Ohio","Albemarle County,Virginia",27703,809686
+203,"Auglaize County,Ohio","Alleghany County,Virginia",22372,646709
+204,"Auglaize County,Ohio","Amelia County,Virginia",32404,909804
+205,"Auglaize County,Ohio","Amherst County,Virginia",27701,777674
+206,"Auglaize County,Ohio","Appomattox County,Virginia",29294,816433
+207,"Auglaize County,Ohio","Arlington County,Virginia",28430,829456
+208,"Auglaize County,Ohio","Augusta County,Virginia",26314,748025
+209,"Auglaize County,Ohio","Bath County,Virginia",25384,722018
+210,"Auglaize County,Ohio","Bedford County,Virginia",27961,763799
+211,"Auglaize County,Ohio","Bland County,Virginia",21334,612928
+212,"Auglaize County,Ohio","Botetourt County,Virginia",25526,718008
+213,"Auglaize County,Ohio","Brunswick County,Virginia",34947,959477
+214,"Auglaize County,Ohio","Buchanan County,Virginia",23634,630590
+215,"Auglaize County,Ohio","Buckingham County,Virginia",29577,827369
+216,"Auglaize County,Ohio","Campbell County,Virginia",29218,818905
+217,"Auglaize County,Ohio","Caroline County,Virginia",32435,948446
+218,"Auglaize County,Ohio","Carroll County,Virginia",23580,682366
+219,"Auglaize County,Ohio","Charles City County,Virginia",33143,975566
+220,"Auglaize County,Ohio","Charlotte County,Virginia",31179,869954
+221,"Auglaize County,Ohio","Chesterfield County,Virginia",32279,953350
+222,"Auglaize County,Ohio","Clarke County,Virginia",26542,730092
+223,"Auglaize County,Ohio","Craig County,Virginia",24015,667793
+224,"Auglaize County,Ohio","Culpeper County,Virginia",29863,829531
+225,"Auglaize County,Ohio","Cumberland County,Virginia",30787,855371
+226,"Auglaize County,Ohio","Dickenson County,Virginia",22988,616026
+227,"Auglaize County,Ohio","Dinwiddie County,Virginia",34026,1003781
+228,"Auglaize County,Ohio","Essex County,Virginia",33837,972500
+229,"Auglaize County,Ohio","Fairfax County,Virginia",28121,820123
+230,"Auglaize County,Ohio","Fauquier County,Virginia",28293,796257
+231,"Auglaize County,Ohio","Floyd County,Virginia",25200,701330
+232,"Auglaize County,Ohio","Fluvanna County,Virginia",29381,861857
+233,"Auglaize County,Ohio","Franklin County,Virginia",27474,765033
+234,"Auglaize County,Ohio","Frederick County,Virginia",25332,704814
+235,"Auglaize County,Ohio","Giles County,Virginia",22065,624486
+236,"Auglaize County,Ohio","Gloucester County,Virginia",35313,1029754
+237,"Auglaize County,Ohio","Goochland County,Virginia",30285,892468
+238,"Auglaize County,Ohio","Grayson County,Virginia",23982,672073
+239,"Auglaize County,Ohio","Greene County,Virginia",29696,845270
+240,"Auglaize County,Ohio","Greensville County,Virginia",35442,1052533
+241,"Auglaize County,Ohio","Halifax County,Virginia",31883,880053
+242,"Auglaize County,Ohio","Hanover County,Virginia",31491,933575
+243,"Auglaize County,Ohio","Henrico County,Virginia",32002,946535
+244,"Auglaize County,Ohio","Henry County,Virginia",27453,769087
+245,"Auglaize County,Ohio","Highland County,Virginia",25475,654358
+246,"Auglaize County,Ohio","Isle of Wight County,Virginia",36254,1051112
+247,"Auglaize County,Ohio","James City County,Virginia",34379,1016337
+248,"Auglaize County,Ohio","King and Queen County,Virginia",34037,991921
+249,"Auglaize County,Ohio","King George County,Virginia",32395,932307
+250,"Auglaize County,Ohio","King William County,Virginia",32724,961843
+251,"Auglaize County,Ohio","Lancaster County,Virginia",36260,1028494
+252,"Auglaize County,Ohio","Lee County,Virginia",21441,600833
+253,"Auglaize County,Ohio","Loudoun County,Virginia",28038,765959
+254,"Auglaize County,Ohio","Louisa County,Virginia",29942,875563
+255,"Auglaize County,Ohio","Lunenburg County,Virginia",32951,911238
+256,"Auglaize County,Ohio","Madison County,Virginia",30286,817789
+257,"Auglaize County,Ohio","Mathews County,Virginia",36138,1053178
+258,"Auglaize County,Ohio","Mecklenburg County,Virginia",33942,924362
+259,"Auglaize County,Ohio","Middlesex County,Virginia",34915,1025954
+260,"Auglaize County,Ohio","Montgomery County,Virginia",23148,652493
+261,"Auglaize County,Ohio","Nelson County,Virginia",28242,789365
+262,"Auglaize County,Ohio","New Kent County,Virginia",33815,990251
+263,"Auglaize County,Ohio","Northampton County,Virginia",38796,1133000
+264,"Auglaize County,Ohio","Northumberland County,Virginia",36299,1027007
+265,"Auglaize County,Ohio","Nottoway County,Virginia",32444,911618
+266,"Auglaize County,Ohio","Orange County,Virginia",30904,883671
+267,"Auglaize County,Ohio","Page County,Virginia",28916,778266
+268,"Auglaize County,Ohio","Patrick County,Virginia",25685,727401
+269,"Auglaize County,Ohio","Pittsylvania County,Virginia",29769,823295
+270,"Auglaize County,Ohio","Powhatan County,Virginia",31538,917690
+271,"Auglaize County,Ohio","Prince Edward County,Virginia",31059,868953
+272,"Auglaize County,Ohio","Prince George County,Virginia",33789,990365
+273,"Auglaize County,Ohio","Prince William County,Virginia",28392,802361
+274,"Auglaize County,Ohio","Pulaski County,Virginia",23243,648825
+275,"Auglaize County,Ohio","Rappahannock County,Virginia",28604,781395
+276,"Auglaize County,Ohio","Richmond County,Virginia",34999,999650
+277,"Auglaize County,Ohio","Roanoke County,Virginia",24768,695287
+278,"Auglaize County,Ohio","Rockbridge County,Virginia",24705,715065
+279,"Auglaize County,Ohio","Rockingham County,Virginia",27088,746198
+280,"Auglaize County,Ohio","Russell County,Virginia",25165,649139
+281,"Auglaize County,Ohio","Scott County,Virginia",23761,648675
+282,"Auglaize County,Ohio","Shenandoah County,Virginia",27224,767205
+283,"Auglaize County,Ohio","Smyth County,Virginia",23692,678280
+284,"Auglaize County,Ohio","Southampton County,Virginia",35820,1048647
+285,"Auglaize County,Ohio","Spotsylvania County,Virginia",31807,916706
+286,"Auglaize County,Ohio","Stafford County,Virginia",30095,883410
+287,"Auglaize County,Ohio","Surry County,Virginia",35122,1015198
+288,"Auglaize County,Ohio","Sussex County,Virginia",34484,1018889
+289,"Auglaize County,Ohio","Tazewell County,Virginia",22150,631516
+290,"Auglaize County,Ohio","Warren County,Virginia",27147,752753
+291,"Auglaize County,Ohio","Washington County,Virginia",25085,717747
+292,"Auglaize County,Ohio","Westmoreland County,Virginia",33363,951107
+293,"Auglaize County,Ohio","Wise County,Virginia",21252,591925
+294,"Auglaize County,Ohio","Wythe County,Virginia",21939,631145
+295,"Auglaize County,Ohio","York County,Virginia",35667,1047111
+296,"Auglaize County,Ohio","Alexandria City County,Virginia",28945,846638
+297,"Auglaize County,Ohio","Bedford City County,Virginia",27125,755231
+298,"Auglaize County,Ohio","Bristol City County,Virginia",25714,690001
+299,"Auglaize County,Ohio","Buena Vista City County,Virginia",25060,729042
+300,"Auglaize County,Ohio","Charlottesville City County,Virginia",28172,824900
+301,"Auglaize County,Ohio","Chesapeake City County,Virginia",37130,1100017
+302,"Auglaize County,Ohio","Clifton Forge City County,Virginia",22916,666915
+303,"Auglaize County,Ohio","Colonial Heights City County,Virginia",32839,969242
+304,"Auglaize County,Ohio","Covington City County,Virginia",22441,650294
+305,"Auglaize County,Ohio","Danville City County,Virginia",29611,823542
+306,"Auglaize County,Ohio","Emporia City County,Virginia",35149,1039126
+307,"Auglaize County,Ohio","Fairfax City County,Virginia",28591,831756
+308,"Auglaize County,Ohio","Falls Church City County,Virginia",28138,823768
+309,"Auglaize County,Ohio","Franklin City County,Virginia",36367,1056501
+310,"Auglaize County,Ohio","Fredericksburg City County,Virginia",30908,899001
+311,"Auglaize County,Ohio","Galax City County,Virginia",24203,688232
+312,"Auglaize County,Ohio","Hampton City County,Virginia",35617,1056817
+313,"Auglaize County,Ohio","Harrisonburg City County,Virginia",27648,811042
+314,"Auglaize County,Ohio","Hopewell City County,Virginia",32875,968208
+315,"Auglaize County,Ohio","Lexington City County,Virginia",24694,717533
+316,"Auglaize County,Ohio","Lynchburg City County,Virginia",28277,792648
+317,"Auglaize County,Ohio","Manassas City County,Virginia",28620,807306
+318,"Auglaize County,Ohio","Manassas Park City County,Virginia",29122,813649
+319,"Auglaize County,Ohio","Martinsville City County,Virginia",27981,777880
+320,"Auglaize County,Ohio","Newport News City County,Virginia",35173,1043303
+321,"Auglaize County,Ohio","Norfolk City County,Virginia",36923,1082233
+322,"Auglaize County,Ohio","Norton City County,Virginia",21881,603737
+323,"Auglaize County,Ohio","Petersburg City County,Virginia",32710,970230
+324,"Auglaize County,Ohio","Poquoson City County,Virginia",35845,1053880
+325,"Auglaize County,Ohio","Portsmouth City County,Virginia",36862,1091054
+326,"Auglaize County,Ohio","Radford County,Virginia",23555,650534
+327,"Auglaize County,Ohio","Richmond City County,Virginia",31578,934345
+328,"Auglaize County,Ohio","Roanoke City County,Virginia",25370,715392
+329,"Auglaize County,Ohio","Salem City County,Virginia",24781,701941
+330,"Auglaize County,Ohio","South Boston City County,Virginia",31623,877721
+331,"Auglaize County,Ohio","Staunton City County,Virginia",26465,772177
+332,"Auglaize County,Ohio","Suffolk City County,Virginia",37097,1065836
+333,"Auglaize County,Ohio","Virginia Beach City County,Virginia",37484,1105492
+334,"Auglaize County,Ohio","Waynesboro City County,Virginia",26803,784895
+335,"Auglaize County,Ohio","Williamsburg City County,Virginia",34217,1015552
+336,"Auglaize County,Ohio","Winchester City County,Virginia",25471,708618
+337,"Auglaize County,Ohio","Barbour County,West Virginia",18601,497269
+338,"Auglaize County,Ohio","Berkeley County,West Virginia",24885,707474
+339,"Auglaize County,Ohio","Boone County,West Virginia",17687,479192
+340,"Auglaize County,Ohio","Braxton County,West Virginia",19198,536555
+341,"Auglaize County,Ohio","Brooke County,West Virginia",14432,392906
+342,"Auglaize County,Ohio","Cabell County,West Virginia",14387,380149
+343,"Auglaize County,Ohio","Calhoun County,West Virginia",16720,423554
+344,"Auglaize County,Ohio","Clay County,West Virginia",17965,507467
+345,"Auglaize County,Ohio","Doddridge County,West Virginia",15588,422987
+346,"Auglaize County,Ohio","Fayette County,West Virginia",19252,525812
+347,"Auglaize County,Ohio","Gilmer County,West Virginia",17775,438091
+348,"Auglaize County,Ohio","Grant County,West Virginia",23259,638282
+349,"Auglaize County,Ohio","Greenbrier County,West Virginia",22326,603850
+350,"Auglaize County,Ohio","Hampshire County,West Virginia",24139,669077
+351,"Auglaize County,Ohio","Hancock County,West Virginia",15065,392086
+352,"Auglaize County,Ohio","Hardy County,West Virginia",24345,670884
+353,"Auglaize County,Ohio","Harrison County,West Virginia",16671,455981
+354,"Auglaize County,Ohio","Jackson County,West Virginia",13833,366882
+355,"Auglaize County,Ohio","Jefferson County,West Virginia",26350,763471
+356,"Auglaize County,Ohio","Kanawha County,West Virginia",16561,459875
+357,"Auglaize County,Ohio","Lewis County,West Virginia",18364,458132
+358,"Auglaize County,Ohio","Lincoln County,West Virginia",17127,457483
+359,"Auglaize County,Ohio","Logan County,West Virginia",18616,516311
+360,"Auglaize County,Ohio","McDowell County,West Virginia",22923,607188
+361,"Auglaize County,Ohio","Marion County,West Virginia",18608,499104
+362,"Auglaize County,Ohio","Marshall County,West Virginia",14389,387414
+363,"Auglaize County,Ohio","Mason County,West Virginia",12042,354172
+364,"Auglaize County,Ohio","Mercer County,West Virginia",19888,571435
+365,"Auglaize County,Ohio","Mineral County,West Virginia",23018,643628
+366,"Auglaize County,Ohio","Mingo County,West Virginia",18661,520818
+367,"Auglaize County,Ohio","Monongalia County,West Virginia",17541,508321
+368,"Auglaize County,Ohio","Monroe County,West Virginia",22933,616146
+369,"Auglaize County,Ohio","Morgan County,West Virginia",24376,696865
+370,"Auglaize County,Ohio","Nicholas County,West Virginia",19681,567348
+371,"Auglaize County,Ohio","Ohio County,West Virginia",13451,374143
+372,"Auglaize County,Ohio","Pendleton County,West Virginia",24987,655791
+373,"Auglaize County,Ohio","Pleasants County,West Virginia",14259,392091
+374,"Auglaize County,Ohio","Pocahontas County,West Virginia",25010,636887
+375,"Auglaize County,Ohio","Preston County,West Virginia",19778,540106
+376,"Auglaize County,Ohio","Putnam County,West Virginia",13677,394195
+377,"Auglaize County,Ohio","Raleigh County,West Virginia",18429,525127
+378,"Auglaize County,Ohio","Randolph County,West Virginia",20665,553918
+379,"Auglaize County,Ohio","Ritchie County,West Virginia",14753,396029
+380,"Auglaize County,Ohio","Roane County,West Virginia",15459,395697
+381,"Auglaize County,Ohio","Summers County,West Virginia",21881,586565
+382,"Auglaize County,Ohio","Taylor County,West Virginia",18500,494676
+383,"Auglaize County,Ohio","Tucker County,West Virginia",21167,547997
+384,"Auglaize County,Ohio","Tyler County,West Virginia",16138,430762
+385,"Auglaize County,Ohio","Upshur County,West Virginia",19641,528359
+386,"Auglaize County,Ohio","Wayne County,West Virginia",16215,415412
+387,"Auglaize County,Ohio","Webster County,West Virginia",21865,594428
+388,"Auglaize County,Ohio","Wetzel County,West Virginia",16823,446862
+389,"Auglaize County,Ohio","Wirt County,West Virginia",14177,372663
+390,"Auglaize County,Ohio","Wood County,West Virginia",12860,347393
+391,"Auglaize County,Ohio","Wyoming County,West Virginia",20373,565069

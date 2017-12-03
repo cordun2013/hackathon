@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Crittenden County,Kentucky","Adair County,Kentucky",11286,327360
+1,"Crittenden County,Kentucky","Allen County,Kentucky",8516,238327
+2,"Crittenden County,Kentucky","Anderson County,Kentucky",11839,337902
+3,"Crittenden County,Kentucky","Ballard County,Kentucky",5730,132316
+4,"Crittenden County,Kentucky","Barren County,Kentucky",9697,275054
+5,"Crittenden County,Kentucky","Bath County,Kentucky",15530,455171
+6,"Crittenden County,Kentucky","Bell County,Kentucky",19257,523521
+7,"Crittenden County,Kentucky","Boone County,Kentucky",15961,458568
+8,"Crittenden County,Kentucky","Bourbon County,Kentucky",14595,409682
+9,"Crittenden County,Kentucky","Boyd County,Kentucky",18788,556628
+10,"Crittenden County,Kentucky","Boyle County,Kentucky",12351,345822
+11,"Crittenden County,Kentucky","Bracken County,Kentucky",17803,472520
+12,"Crittenden County,Kentucky","Breathitt County,Kentucky",18131,519352
+13,"Crittenden County,Kentucky","Breckinridge County,Kentucky",8574,216250
+14,"Crittenden County,Kentucky","Bullitt County,Kentucky",9795,281978
+15,"Crittenden County,Kentucky","Butler County,Kentucky",6220,168693
+16,"Crittenden County,Kentucky","Caldwell County,Kentucky",2138,39149
+17,"Crittenden County,Kentucky","Calloway County,Kentucky",4652,108162
+18,"Crittenden County,Kentucky","Campbell County,Kentucky",16831,488270
+19,"Crittenden County,Kentucky","Carlisle County,Kentucky",6187,147685
+20,"Crittenden County,Kentucky","Carroll County,Kentucky",13445,392344
+21,"Crittenden County,Kentucky","Carter County,Kentucky",17925,525885
+22,"Crittenden County,Kentucky","Casey County,Kentucky",13586,355537
+23,"Crittenden County,Kentucky","Christian County,Kentucky",4602,95173
+24,"Crittenden County,Kentucky","Clay County,Kentucky",17421,482549
+25,"Crittenden County,Kentucky","Clinton County,Kentucky",13237,355889
+26,"Crittenden County,Kentucky","Cumberland County,Kentucky",12396,331988
+27,"Crittenden County,Kentucky","Daviess County,Kentucky",5651,129594
+28,"Crittenden County,Kentucky","Edmonson County,Kentucky",8181,205864
+29,"Crittenden County,Kentucky","Elliott County,Kentucky",18701,517147
+30,"Crittenden County,Kentucky","Estill County,Kentucky",16014,448036
+31,"Crittenden County,Kentucky","Fayette County,Kentucky",13157,379906
+32,"Crittenden County,Kentucky","Fleming County,Kentucky",16959,485390
+33,"Crittenden County,Kentucky","Floyd County,Kentucky",20317,579383
+34,"Crittenden County,Kentucky","Franklin County,Kentucky",13498,376595
+35,"Crittenden County,Kentucky","Fulton County,Kentucky",6591,168649
+36,"Crittenden County,Kentucky","Gallatin County,Kentucky",14154,411670
+37,"Crittenden County,Kentucky","Garrard County,Kentucky",13993,378018
+38,"Crittenden County,Kentucky","Grant County,Kentucky",15520,437123
+39,"Crittenden County,Kentucky","Graves County,Kentucky",5212,120391
+40,"Crittenden County,Kentucky","Grayson County,Kentucky",6996,185479
+41,"Crittenden County,Kentucky","Green County,Kentucky",11019,279386
+42,"Crittenden County,Kentucky","Greenup County,Kentucky",19393,553215
+43,"Crittenden County,Kentucky","Hancock County,Kentucky",7482,173900
+44,"Crittenden County,Kentucky","Hardin County,Kentucky",8394,230998
+45,"Crittenden County,Kentucky","Harlan County,Kentucky",21551,579126
+46,"Crittenden County,Kentucky","Harrison County,Kentucky",15367,426627
+47,"Crittenden County,Kentucky","Hart County,Kentucky",9414,244429
+48,"Crittenden County,Kentucky","Henderson County,Kentucky",4007,84317
+49,"Crittenden County,Kentucky","Henry County,Kentucky",13119,373092
+50,"Crittenden County,Kentucky","Hickman County,Kentucky",6220,148977
+51,"Crittenden County,Kentucky","Hopkins County,Kentucky",3434,65603
+52,"Crittenden County,Kentucky","Jackson County,Kentucky",17151,476901
+53,"Crittenden County,Kentucky","Jefferson County,Kentucky",11052,313483
+54,"Crittenden County,Kentucky","Jessamine County,Kentucky",13288,377567
+55,"Crittenden County,Kentucky","Johnson County,Kentucky",19271,555376
+56,"Crittenden County,Kentucky","Kenton County,Kentucky",15847,454284
+57,"Crittenden County,Kentucky","Knott County,Kentucky",20222,563255
+58,"Crittenden County,Kentucky","Knox County,Kentucky",17489,476431
+59,"Crittenden County,Kentucky","Larue County,Kentucky",9293,262230
+60,"Crittenden County,Kentucky","Laurel County,Kentucky",16230,447301
+61,"Crittenden County,Kentucky","Lawrence County,Kentucky",20791,583764
+62,"Crittenden County,Kentucky","Lee County,Kentucky",17380,495809
+63,"Crittenden County,Kentucky","Leslie County,Kentucky",19371,533673
+64,"Crittenden County,Kentucky","Letcher County,Kentucky",21394,585259
+65,"Crittenden County,Kentucky","Lewis County,Kentucky",18483,523530
+66,"Crittenden County,Kentucky","Lincoln County,Kentucky",13735,375753
+67,"Crittenden County,Kentucky","Livingston County,Kentucky",1777,33358
+68,"Crittenden County,Kentucky","Logan County,Kentucky",6833,151895
+69,"Crittenden County,Kentucky","Lyon County,Kentucky",4151,83527
+70,"Crittenden County,Kentucky","McCracken County,Kentucky",4342,100376
+71,"Crittenden County,Kentucky","McCreary County,Kentucky",15539,440206
+72,"Crittenden County,Kentucky","Madison County,Kentucky",14866,421759
+73,"Crittenden County,Kentucky","Magoffin County,Kentucky",18740,537243
+74,"Crittenden County,Kentucky","Marion County,Kentucky",11414,321120
+75,"Crittenden County,Kentucky","Marshall County,Kentucky",3757,83948
+76,"Crittenden County,Kentucky","Martin County,Kentucky",22057,613721
+77,"Crittenden County,Kentucky","Mason County,Kentucky",17724,481248
+78,"Crittenden County,Kentucky","Meade County,Kentucky",10045,252170
+79,"Crittenden County,Kentucky","Menifee County,Kentucky",16805,467709
+80,"Crittenden County,Kentucky","Mercer County,Kentucky",12198,344697
+81,"Crittenden County,Kentucky","Metcalfe County,Kentucky",10260,297705
+82,"Crittenden County,Kentucky","Monroe County,Kentucky",11015,303733
+83,"Crittenden County,Kentucky","Montgomery County,Kentucky",15448,445618
+84,"Crittenden County,Kentucky","Morgan County,Kentucky",18130,525527
+85,"Crittenden County,Kentucky","Muhlenberg County,Kentucky",4702,111777
+86,"Crittenden County,Kentucky","Nelson County,Kentucky",9691,280183
+87,"Crittenden County,Kentucky","Nicholas County,Kentucky",15851,437063
+88,"Crittenden County,Kentucky","Ohio County,Kentucky",6255,163452
+89,"Crittenden County,Kentucky","Oldham County,Kentucky",11845,340392
+90,"Crittenden County,Kentucky","Owen County,Kentucky",14841,408768
+91,"Crittenden County,Kentucky","Owsley County,Kentucky",18450,498403
+92,"Crittenden County,Kentucky","Pendleton County,Kentucky",16786,472988
+93,"Crittenden County,Kentucky","Perry County,Kentucky",19605,542374
+94,"Crittenden County,Kentucky","Pike County,Kentucky",21997,609707
+95,"Crittenden County,Kentucky","Powell County,Kentucky",15741,454477
+96,"Crittenden County,Kentucky","Robertson County,Kentucky",16622,458189
+97,"Crittenden County,Kentucky","Rockcastle County,Kentucky",15481,412440
+98,"Crittenden County,Kentucky","Rowan County,Kentucky",16271,479023
+99,"Crittenden County,Kentucky","Russell County,Kentucky",12394,355568
+100,"Crittenden County,Kentucky","Scott County,Kentucky",14176,408554
+101,"Crittenden County,Kentucky","Shelby County,Kentucky",12182,347676
+102,"Crittenden County,Kentucky","Simpson County,Kentucky",8207,183332
+103,"Crittenden County,Kentucky","Spencer County,Kentucky",11211,317931
+104,"Crittenden County,Kentucky","Taylor County,Kentucky",11251,308242
+105,"Crittenden County,Kentucky","Todd County,Kentucky",5707,123873
+106,"Crittenden County,Kentucky","Trigg County,Kentucky",4104,86739
+107,"Crittenden County,Kentucky","Trimble County,Kentucky",13244,380191
+108,"Crittenden County,Kentucky","Union County,Kentucky",2668,52914
+109,"Crittenden County,Kentucky","Warren County,Kentucky",7122,199364
+110,"Crittenden County,Kentucky","Washington County,Kentucky",11522,320802
+111,"Crittenden County,Kentucky","Wayne County,Kentucky",14638,386088
+112,"Crittenden County,Kentucky","Webster County,Kentucky",2406,48777
+113,"Crittenden County,Kentucky","Whitley County,Kentucky",16873,472284
+114,"Crittenden County,Kentucky","Wolfe County,Kentucky",17005,492348
+115,"Crittenden County,Kentucky","Woodford County,Kentucky",12413,360165
+116,"Crittenden County,Kentucky","Adams County,Ohio",19725,564928
+117,"Crittenden County,Kentucky","Allen County,Ohio",23267,680177
+118,"Crittenden County,Kentucky","Ashland County,Ohio",26456,782055
+119,"Crittenden County,Kentucky","Ashtabula County,Ohio",32202,966806
+120,"Crittenden County,Kentucky","Athens County,Ohio",24919,711270
+121,"Crittenden County,Kentucky","Auglaize County,Ohio",22523,667442
+122,"Crittenden County,Kentucky","Belmont County,Ohio",27793,828487
+123,"Crittenden County,Kentucky","Brown County,Ohio",18978,541482
+124,"Crittenden County,Kentucky","Butler County,Ohio",18344,530051
+125,"Crittenden County,Kentucky","Carroll County,Ohio",29758,865710
+126,"Crittenden County,Kentucky","Champaign County,Ohio",21301,621624
+127,"Crittenden County,Kentucky","Clark County,Ohio",20729,608256
+128,"Crittenden County,Kentucky","Clermont County,Ohio",17095,501229
+129,"Crittenden County,Kentucky","Clinton County,Ohio",19190,552536
+130,"Crittenden County,Kentucky","Columbiana County,Ohio",31314,901299
+131,"Crittenden County,Kentucky","Coshocton County,Ohio",26317,761127
+132,"Crittenden County,Kentucky","Crawford County,Ohio",25993,774027
+133,"Crittenden County,Kentucky","Cuyahoga County,Ohio",28773,864520
+134,"Crittenden County,Kentucky","Darke County,Ohio",19796,518034
+135,"Crittenden County,Kentucky","Defiance County,Ohio",23815,636435
+136,"Crittenden County,Kentucky","Delaware County,Ohio",23373,688727
+137,"Crittenden County,Kentucky","Fairfield County,Ohio",22776,671976
+138,"Crittenden County,Kentucky","Fayette County,Ohio",20088,590141
+139,"Crittenden County,Kentucky","Franklin County,Ohio",21890,648654
+140,"Crittenden County,Kentucky","Fulton County,Ohio",25249,679013
+141,"Crittenden County,Kentucky","Gallia County,Ohio",23073,657000
+142,"Crittenden County,Kentucky","Geauga County,Ohio",30302,903738
+143,"Crittenden County,Kentucky","Greene County,Ohio",19517,561890
+144,"Crittenden County,Kentucky","Guernsey County,Ohio",25522,762168
+145,"Crittenden County,Kentucky","Hamilton County,Ohio",16999,494535
+146,"Crittenden County,Kentucky","Hancock County,Ohio",24376,721072
+147,"Crittenden County,Kentucky","Hardin County,Ohio",24163,705470
+148,"Crittenden County,Kentucky","Harrison County,Ohio",28763,847776
+149,"Crittenden County,Kentucky","Henry County,Ohio",24635,673317
+150,"Crittenden County,Kentucky","Highland County,Ohio",20038,564182
+151,"Crittenden County,Kentucky","Hocking County,Ohio",24214,715380
+152,"Crittenden County,Kentucky","Holmes County,Ohio",27867,797985
+153,"Crittenden County,Kentucky","Huron County,Ohio",27602,780825
+154,"Crittenden County,Kentucky","Jackson County,Ohio",22316,645640
+155,"Crittenden County,Kentucky","Jefferson County,Ohio",29757,857554
+156,"Crittenden County,Kentucky","Knox County,Ohio",25822,748348
+157,"Crittenden County,Kentucky","Lawrence County,Ohio",21194,593056
+158,"Crittenden County,Kentucky","Licking County,Ohio",24155,703572
+159,"Crittenden County,Kentucky","Logan County,Ohio",22535,654160
+160,"Crittenden County,Kentucky","Lorain County,Ohio",29387,839479
+161,"Crittenden County,Kentucky","Lucas County,Ohio",27581,740989
+162,"Crittenden County,Kentucky","Madison County,Ohio",21310,625323
+163,"Crittenden County,Kentucky","Mahoning County,Ohio",31171,918438
+164,"Crittenden County,Kentucky","Marion County,Ohio",24420,696162
+165,"Crittenden County,Kentucky","Medina County,Ohio",27101,807068
+166,"Crittenden County,Kentucky","Meigs County,Ohio",24005,687383
+167,"Crittenden County,Kentucky","Mercer County,Ohio",21857,554553
+168,"Crittenden County,Kentucky","Miami County,Ohio",20109,589881
+169,"Crittenden County,Kentucky","Monroe County,Ohio",29199,843051
+170,"Crittenden County,Kentucky","Montgomery County,Ohio",19492,567621
+171,"Crittenden County,Kentucky","Morgan County,Ohio",26588,770664
+172,"Crittenden County,Kentucky","Morrow County,Ohio",24180,711548
+173,"Crittenden County,Kentucky","Muskingum County,Ohio",24373,728324
+174,"Crittenden County,Kentucky","Noble County,Ohio",27222,799287
+175,"Crittenden County,Kentucky","Paulding County,Ohio",22748,601354
+176,"Crittenden County,Kentucky","Perry County,Ohio",24442,716907
+177,"Crittenden County,Kentucky","Pickaway County,Ohio",22025,638737
+178,"Crittenden County,Kentucky","Pike County,Ohio",21093,610625
+179,"Crittenden County,Kentucky","Portage County,Ohio",29623,878217
+180,"Crittenden County,Kentucky","Preble County,Ohio",18721,496261
+181,"Crittenden County,Kentucky","Putnam County,Ohio",24442,712645
+182,"Crittenden County,Kentucky","Richland County,Ohio",25210,746786
+183,"Crittenden County,Kentucky","Ross County,Ohio",21669,638054
+184,"Crittenden County,Kentucky","Sandusky County,Ohio",27416,801148
+185,"Crittenden County,Kentucky","Scioto County,Ohio",21475,591747
+186,"Crittenden County,Kentucky","Seneca County,Ohio",26720,777412
+187,"Crittenden County,Kentucky","Shelby County,Ohio",21147,626166
+188,"Crittenden County,Kentucky","Stark County,Ohio",29368,862601
+189,"Crittenden County,Kentucky","Summit County,Ohio",28304,842395
+190,"Crittenden County,Kentucky","Trumbull County,Ohio",31204,928710
+191,"Crittenden County,Kentucky","Tuscarawas County,Ohio",27817,821533
+192,"Crittenden County,Kentucky","Union County,Ohio",22662,651544
+193,"Crittenden County,Kentucky","Van Wert County,Ohio",22886,618474
+194,"Crittenden County,Kentucky","Vinton County,Ohio",23851,686807
+195,"Crittenden County,Kentucky","Warren County,Ohio",17878,520792
+196,"Crittenden County,Kentucky","Washington County,Ohio",27042,759332
+197,"Crittenden County,Kentucky","Wayne County,Ohio",26829,796065
+198,"Crittenden County,Kentucky","Williams County,Ohio",24805,656315
+199,"Crittenden County,Kentucky","Wood County,Ohio",25464,761700
+200,"Crittenden County,Kentucky","Wyandot County,Ohio",25071,741952
+201,"Crittenden County,Kentucky","Accomack County,Virginia",48873,1430496
+202,"Crittenden County,Kentucky","Albemarle County,Virginia",35023,1042996
+203,"Crittenden County,Kentucky","Alleghany County,Virginia",29692,880019
+204,"Crittenden County,Kentucky","Amelia County,Virginia",38099,1097341
+205,"Crittenden County,Kentucky","Amherst County,Virginia",35001,1003400
+206,"Crittenden County,Kentucky","Appomattox County,Virginia",35176,1017010
+207,"Crittenden County,Kentucky","Arlington County,Virginia",41306,1239028
+208,"Crittenden County,Kentucky","Augusta County,Virginia",33634,981335
+209,"Crittenden County,Kentucky","Bath County,Virginia",32704,955328
+210,"Crittenden County,Kentucky","Bedford County,Virginia",32909,948320
+211,"Crittenden County,Kentucky","Bland County,Virginia",26925,797922
+212,"Crittenden County,Kentucky","Botetourt County,Virginia",31765,932385
+213,"Crittenden County,Kentucky","Brunswick County,Virginia",39657,1162064
+214,"Crittenden County,Kentucky","Buchanan County,Virginia",26049,689213
+215,"Crittenden County,Kentucky","Buckingham County,Virginia",36290,1040920
+216,"Crittenden County,Kentucky","Campbell County,Virginia",34325,989555
+217,"Crittenden County,Kentucky","Caroline County,Virginia",40362,1211841
+218,"Crittenden County,Kentucky","Carroll County,Virginia",27869,829267
+219,"Crittenden County,Kentucky","Charles City County,Virginia",40463,1208876
+220,"Crittenden County,Kentucky","Charlotte County,Virginia",36874,1057492
+221,"Crittenden County,Kentucky","Chesterfield County,Virginia",39793,1136231
+222,"Crittenden County,Kentucky","Clarke County,Virginia",39203,1170054
+223,"Crittenden County,Kentucky","Craig County,Virginia",31164,909954
+224,"Crittenden County,Kentucky","Culpeper County,Virginia",38820,1132212
+225,"Crittenden County,Kentucky","Cumberland County,Virginia",37704,1078152
+226,"Crittenden County,Kentucky","Dickenson County,Virginia",24953,652205
+227,"Crittenden County,Kentucky","Dinwiddie County,Virginia",39872,1140403
+228,"Crittenden County,Kentucky","Essex County,Virginia",42180,1235884
+229,"Crittenden County,Kentucky","Fairfax County,Virginia",40997,1229695
+230,"Crittenden County,Kentucky","Fauquier County,Virginia",39641,1191305
+231,"Crittenden County,Kentucky","Floyd County,Virginia",29761,869367
+232,"Crittenden County,Kentucky","Fluvanna County,Virginia",36701,1095167
+233,"Crittenden County,Kentucky","Franklin County,Virginia",32422,949554
+234,"Crittenden County,Kentucky","Frederick County,Virginia",37868,1084188
+235,"Crittenden County,Kentucky","Giles County,Virginia",29385,857797
+236,"Crittenden County,Kentucky","Gloucester County,Virginia",42633,1263064
+237,"Crittenden County,Kentucky","Goochland County,Virginia",37604,1125778
+238,"Crittenden County,Kentucky","Grayson County,Virginia",27601,792434
+239,"Crittenden County,Kentucky","Greene County,Virginia",37016,1078580
+240,"Crittenden County,Kentucky","Greensville County,Virginia",40853,1179483
+241,"Crittenden County,Kentucky","Halifax County,Virginia",36172,1026954
+242,"Crittenden County,Kentucky","Hanover County,Virginia",38811,1166885
+243,"Crittenden County,Kentucky","Henrico County,Virginia",39322,1179845
+244,"Crittenden County,Kentucky","Henry County,Virginia",31742,915988
+245,"Crittenden County,Kentucky","Highland County,Virginia",34148,965299
+246,"Crittenden County,Kentucky","Isle of Wight County,Virginia",43574,1284422
+247,"Crittenden County,Kentucky","James City County,Virginia",41699,1249647
+248,"Crittenden County,Kentucky","King and Queen County,Virginia",41357,1225231
+249,"Crittenden County,Kentucky","King George County,Virginia",41475,1239828
+250,"Crittenden County,Kentucky","King William County,Virginia",40044,1195153
+251,"Crittenden County,Kentucky","Lancaster County,Virginia",43837,1278239
+252,"Crittenden County,Kentucky","Lee County,Virginia",22348,600079
+253,"Crittenden County,Kentucky","Loudoun County,Virginia",40699,1205920
+254,"Crittenden County,Kentucky","Louisa County,Virginia",37262,1108873
+255,"Crittenden County,Kentucky","Lunenburg County,Virginia",38646,1098776
+256,"Crittenden County,Kentucky","Madison County,Virginia",37936,1108320
+257,"Crittenden County,Kentucky","Mathews County,Virginia",43458,1286488
+258,"Crittenden County,Kentucky","Mecklenburg County,Virginia",38204,1078500
+259,"Crittenden County,Kentucky","Middlesex County,Virginia",42235,1259265
+260,"Crittenden County,Kentucky","Montgomery County,Virginia",28935,859872
+261,"Crittenden County,Kentucky","Nelson County,Virginia",35552,1033798
+262,"Crittenden County,Kentucky","New Kent County,Virginia",41135,1223561
+263,"Crittenden County,Kentucky","Northampton County,Virginia",46116,1366310
+264,"Crittenden County,Kentucky","Northumberland County,Virginia",43877,1276751
+265,"Crittenden County,Kentucky","Nottoway County,Virginia",38139,1099156
+266,"Crittenden County,Kentucky","Orange County,Virginia",38224,1116981
+267,"Crittenden County,Kentucky","Page County,Virginia",36869,1092106
+268,"Crittenden County,Kentucky","Patrick County,Virginia",29974,874303
+269,"Crittenden County,Kentucky","Pittsylvania County,Virginia",34058,970196
+270,"Crittenden County,Kentucky","Powhatan County,Virginia",38858,1151000
+271,"Crittenden County,Kentucky","Prince Edward County,Virginia",36754,1056491
+272,"Crittenden County,Kentucky","Prince George County,Virginia",41109,1223675
+273,"Crittenden County,Kentucky","Prince William County,Virginia",39741,1197409
+274,"Crittenden County,Kentucky","Pulaski County,Virginia",27611,820688
+275,"Crittenden County,Kentucky","Rappahannock County,Virginia",38700,1128593
+276,"Crittenden County,Kentucky","Richmond County,Virginia",42577,1249394
+277,"Crittenden County,Kentucky","Roanoke County,Virginia",29715,879808
+278,"Crittenden County,Kentucky","Rockbridge County,Virginia",32025,948375
+279,"Crittenden County,Kentucky","Rockingham County,Virginia",35909,1064456
+280,"Crittenden County,Kentucky","Russell County,Virginia",25854,732046
+281,"Crittenden County,Kentucky","Scott County,Virginia",23121,667931
+282,"Crittenden County,Kentucky","Shenandoah County,Virginia",36413,1094559
+283,"Crittenden County,Kentucky","Smyth County,Virginia",24881,732137
+284,"Crittenden County,Kentucky","Southampton County,Virginia",42469,1237006
+285,"Crittenden County,Kentucky","Spotsylvania County,Virginia",39278,1150712
+286,"Crittenden County,Kentucky","Stafford County,Virginia",40659,1175005
+287,"Crittenden County,Kentucky","Surry County,Virginia",42442,1248508
+288,"Crittenden County,Kentucky","Sussex County,Virginia",41753,1227785
+289,"Crittenden County,Kentucky","Tazewell County,Virginia",26944,773207
+290,"Crittenden County,Kentucky","Warren County,Virginia",38315,1139152
+291,"Crittenden County,Kentucky","Washington County,Virginia",23992,696222
+292,"Crittenden County,Kentucky","Westmoreland County,Virginia",42450,1256652
+293,"Crittenden County,Kentucky","Wise County,Virginia",23217,628104
+294,"Crittenden County,Kentucky","Wythe County,Virginia",26095,774597
+295,"Crittenden County,Kentucky","York County,Virginia",42986,1280421
+296,"Crittenden County,Kentucky","Alexandria City County,Virginia",41822,1256209
+297,"Crittenden County,Kentucky","Bedford City County,Virginia",32073,939752
+298,"Crittenden County,Kentucky","Bristol City County,Virginia",22591,664205
+299,"Crittenden County,Kentucky","Buena Vista City County,Virginia",32380,962352
+300,"Crittenden County,Kentucky","Charlottesville City County,Virginia",35492,1058210
+301,"Crittenden County,Kentucky","Chesapeake City County,Virginia",44450,1333327
+302,"Crittenden County,Kentucky","Clifton Forge City County,Virginia",30236,900225
+303,"Crittenden County,Kentucky","Colonial Heights City County,Virginia",40159,1202552
+304,"Crittenden County,Kentucky","Covington City County,Virginia",29761,883604
+305,"Crittenden County,Kentucky","Danville City County,Virginia",33900,970444
+306,"Crittenden County,Kentucky","Emporia City County,Virginia",41009,1193671
+307,"Crittenden County,Kentucky","Fairfax City County,Virginia",40873,1223156
+308,"Crittenden County,Kentucky","Falls Church City County,Virginia",41014,1233340
+309,"Crittenden County,Kentucky","Franklin City County,Virginia",43096,1250141
+310,"Crittenden County,Kentucky","Fredericksburg City County,Virginia",40411,1160371
+311,"Crittenden County,Kentucky","Galax City County,Virginia",28492,835133
+312,"Crittenden County,Kentucky","Hampton City County,Virginia",42936,1290128
+313,"Crittenden County,Kentucky","Harrisonburg City County,Virginia",34968,1044352
+314,"Crittenden County,Kentucky","Hopewell City County,Virginia",40195,1201518
+315,"Crittenden County,Kentucky","Lexington City County,Virginia",32014,950844
+316,"Crittenden County,Kentucky","Lynchburg City County,Virginia",34098,984627
+317,"Crittenden County,Kentucky","Manassas City County,Virginia",39968,1202354
+318,"Crittenden County,Kentucky","Manassas Park City County,Virginia",40471,1208697
+319,"Crittenden County,Kentucky","Martinsville City County,Virginia",32270,924781
+320,"Crittenden County,Kentucky","Newport News City County,Virginia",42493,1276613
+321,"Crittenden County,Kentucky","Norfolk City County,Virginia",44243,1315544
+322,"Crittenden County,Kentucky","Norton City County,Virginia",23846,639916
+323,"Crittenden County,Kentucky","Petersburg City County,Virginia",40030,1203540
+324,"Crittenden County,Kentucky","Poquoson City County,Virginia",43165,1287190
+325,"Crittenden County,Kentucky","Portsmouth City County,Virginia",44182,1324364
+326,"Crittenden County,Kentucky","Radford County,Virginia",28122,834635
+327,"Crittenden County,Kentucky","Richmond City County,Virginia",38898,1167655
+328,"Crittenden County,Kentucky","Roanoke City County,Virginia",30318,899913
+329,"Crittenden County,Kentucky","Salem City County,Virginia",29729,886463
+330,"Crittenden County,Kentucky","South Boston City County,Virginia",35912,1024622
+331,"Crittenden County,Kentucky","Staunton City County,Virginia",33785,1005487
+332,"Crittenden County,Kentucky","Suffolk City County,Virginia",44412,1283443
+333,"Crittenden County,Kentucky","Virginia Beach City County,Virginia",44804,1338802
+334,"Crittenden County,Kentucky","Waynesboro City County,Virginia",34123,1018205
+335,"Crittenden County,Kentucky","Williamsburg City County,Virginia",41537,1248863
+336,"Crittenden County,Kentucky","Winchester City County,Virginia",38347,1118189
+337,"Crittenden County,Kentucky","Barbour County,West Virginia",29828,878886
+338,"Crittenden County,Kentucky","Berkeley County,West Virginia",37761,1117045
+339,"Crittenden County,Kentucky","Boone County,West Virginia",25007,712502
+340,"Crittenden County,Kentucky","Braxton County,West Virginia",26518,769865
+341,"Crittenden County,Kentucky","Brooke County,West Virginia",29872,870735
+342,"Crittenden County,Kentucky","Cabell County,West Virginia",19578,579011
+343,"Crittenden County,Kentucky","Calhoun County,West Virginia",26439,767549
+344,"Crittenden County,Kentucky","Clay County,West Virginia",25285,740778
+345,"Crittenden County,Kentucky","Doddridge County,West Virginia",28971,860395
+346,"Crittenden County,Kentucky","Fayette County,West Virginia",26572,759122
+347,"Crittenden County,Kentucky","Gilmer County,West Virginia",27717,792051
+348,"Crittenden County,Kentucky","Grant County,West Virginia",34183,980431
+349,"Crittenden County,Kentucky","Greenbrier County,West Virginia",29646,837160
+350,"Crittenden County,Kentucky","Hampshire County,West Virginia",37015,1078648
+351,"Crittenden County,Kentucky","Hancock County,West Virginia",31462,905270
+352,"Crittenden County,Kentucky","Hardy County,West Virginia",35239,1011928
+353,"Crittenden County,Kentucky","Harrison County,West Virginia",29061,865256
+354,"Crittenden County,Kentucky","Jackson County,West Virginia",24323,721881
+355,"Crittenden County,Kentucky","Jefferson County,West Virginia",39227,1173043
+356,"Crittenden County,Kentucky","Kanawha County,West Virginia",23881,693186
+357,"Crittenden County,Kentucky","Lewis County,West Virginia",27691,818726
+358,"Crittenden County,Kentucky","Lincoln County,West Virginia",22795,636661
+359,"Crittenden County,Kentucky","Logan County,West Virginia",25052,680476
+360,"Crittenden County,Kentucky","McDowell County,West Virginia",28903,732664
+361,"Crittenden County,Kentucky","Marion County,West Virginia",30207,892424
+362,"Crittenden County,Kentucky","Marshall County,West Virginia",29830,865242
+363,"Crittenden County,Kentucky","Mason County,West Virginia",22560,669756
+364,"Crittenden County,Kentucky","Mercer County,West Virginia",27208,804745
+365,"Crittenden County,Kentucky","Mineral County,West Virginia",35878,1009252
+366,"Crittenden County,Kentucky","Mingo County,West Virginia",23735,646929
+367,"Crittenden County,Kentucky","Monongalia County,West Virginia",30417,917892
+368,"Crittenden County,Kentucky","Monroe County,West Virginia",30253,849456
+369,"Crittenden County,Kentucky","Morgan County,West Virginia",37252,1106437
+370,"Crittenden County,Kentucky","Nicholas County,West Virginia",27001,800658
+371,"Crittenden County,Kentucky","Ohio County,West Virginia",28891,851972
+372,"Crittenden County,Kentucky","Pendleton County,West Virginia",34514,983055
+373,"Crittenden County,Kentucky","Pleasants County,West Virginia",27806,819733
+374,"Crittenden County,Kentucky","Pocahontas County,West Virginia",32330,870197
+375,"Crittenden County,Kentucky","Preston County,West Virginia",32563,944623
+376,"Crittenden County,Kentucky","Putnam County,West Virginia",21261,631788
+377,"Crittenden County,Kentucky","Raleigh County,West Virginia",25749,758438
+378,"Crittenden County,Kentucky","Randolph County,West Virginia",30192,881181
+379,"Crittenden County,Kentucky","Ritchie County,West Virginia",28136,833437
+380,"Crittenden County,Kentucky","Roane County,West Virginia",25949,750696
+381,"Crittenden County,Kentucky","Summers County,West Virginia",29201,819875
+382,"Crittenden County,Kentucky","Taylor County,West Virginia",30099,887996
+383,"Crittenden County,Kentucky","Tucker County,West Virginia",31259,911706
+384,"Crittenden County,Kentucky","Tyler County,West Virginia",29715,859348
+385,"Crittenden County,Kentucky","Upshur County,West Virginia",29256,833423
+386,"Crittenden County,Kentucky","Wayne County,West Virginia",21109,600206
+387,"Crittenden County,Kentucky","Webster County,West Virginia",29185,827738
+388,"Crittenden County,Kentucky","Wetzel County,West Virginia",30927,881255
+389,"Crittenden County,Kentucky","Wirt County,West Virginia",26589,779219
+390,"Crittenden County,Kentucky","Wood County,West Virginia",26104,780909
+391,"Crittenden County,Kentucky","Wyoming County,West Virginia",27693,798379
