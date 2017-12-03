@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Bell County,Kentucky","Adair County,Kentucky",8572,201900
+1,"Bell County,Kentucky","Allen County,Kentucky",11769,297542
+2,"Bell County,Kentucky","Anderson County,Kentucky",9974,229151
+3,"Bell County,Kentucky","Ballard County,Kentucky",21581,600218
+4,"Bell County,Kentucky","Barren County,Kentucky",10318,260927
+5,"Bell County,Kentucky","Bath County,Kentucky",9403,238673
+6,"Bell County,Kentucky","Boone County,Kentucky",11750,317142
+7,"Bell County,Kentucky","Bourbon County,Kentucky",8951,228842
+8,"Bell County,Kentucky","Boyd County,Kentucky",12661,340129
+9,"Bell County,Kentucky","Boyle County,Kentucky",7750,176056
+10,"Bell County,Kentucky","Bracken County,Kentucky",12336,303369
+11,"Bell County,Kentucky","Breathitt County,Kentucky",7849,162769
+12,"Bell County,Kentucky","Breckinridge County,Kentucky",14991,351461
+13,"Bell County,Kentucky","Bullitt County,Kentucky",12037,275946
+14,"Bell County,Kentucky","Butler County,Kentucky",13357,357401
+15,"Bell County,Kentucky","Caldwell County,Kentucky",17693,491071
+16,"Bell County,Kentucky","Calloway County,Kentucky",19762,516053
+17,"Bell County,Kentucky","Campbell County,Kentucky",12281,313956
+18,"Bell County,Kentucky","Carlisle County,Kentucky",22038,615586
+19,"Bell County,Kentucky","Carroll County,Kentucky",12586,313248
+20,"Bell County,Kentucky","Carter County,Kentucky",11797,309386
+21,"Bell County,Kentucky","Casey County,Kentucky",8510,175174
+22,"Bell County,Kentucky","Christian County,Kentucky",16049,423540
+23,"Bell County,Kentucky","Clay County,Kentucky",4072,74506
+24,"Bell County,Kentucky","Clinton County,Kentucky",8980,205265
+25,"Bell County,Kentucky","Crittenden County,Kentucky",19273,524142
+26,"Bell County,Kentucky","Cumberland County,Kentucky",9734,223504
+27,"Bell County,Kentucky","Daviess County,Kentucky",15791,431194
+28,"Bell County,Kentucky","Edmonson County,Kentucky",11847,305088
+29,"Bell County,Kentucky","Elliott County,Kentucky",12310,255871
+30,"Bell County,Kentucky","Estill County,Kentucky",7881,189496
+31,"Bell County,Kentucky","Fayette County,Kentucky",7848,202927
+32,"Bell County,Kentucky","Fleming County,Kentucky",10832,268892
+33,"Bell County,Kentucky","Floyd County,Kentucky",8197,177281
+34,"Bell County,Kentucky","Franklin County,Kentucky",9886,251843
+35,"Bell County,Kentucky","Fulton County,Kentucky",22442,636551
+36,"Bell County,Kentucky","Gallatin County,Kentucky",11584,303907
+37,"Bell County,Kentucky","Garrard County,Kentucky",7419,160842
+38,"Bell County,Kentucky","Grant County,Kentucky",10383,278015
+39,"Bell County,Kentucky","Graves County,Kentucky",21063,588293
+40,"Bell County,Kentucky","Grayson County,Kentucky",13733,337680
+41,"Bell County,Kentucky","Green County,Kentucky",10325,244065
+42,"Bell County,Kentucky","Greenup County,Kentucky",13266,336716
+43,"Bell County,Kentucky","Hancock County,Kentucky",16212,386097
+44,"Bell County,Kentucky","Hardin County,Kentucky",12609,299813
+45,"Bell County,Kentucky","Harlan County,Kentucky",2852,54424
+46,"Bell County,Kentucky","Harrison County,Kentucky",9899,257477
+47,"Bell County,Kentucky","Hart County,Kentucky",11675,290342
+48,"Bell County,Kentucky","Henderson County,Kentucky",17698,487614
+49,"Bell County,Kentucky","Henry County,Kentucky",11487,295562
+50,"Bell County,Kentucky","Hickman County,Kentucky",22072,616878
+51,"Bell County,Kentucky","Hopkins County,Kentucky",17152,465540
+52,"Bell County,Kentucky","Jackson County,Kentucky",5698,117190
+53,"Bell County,Kentucky","Jefferson County,Kentucky",11581,311095
+54,"Bell County,Kentucky","Jessamine County,Kentucky",8416,205565
+55,"Bell County,Kentucky","Johnson County,Kentucky",9759,217551
+56,"Bell County,Kentucky","Kenton County,Kentucky",11636,312858
+57,"Bell County,Kentucky","Knott County,Kentucky",6990,140127
+58,"Bell County,Kentucky","Knox County,Kentucky",2398,45199
+59,"Bell County,Kentucky","Larue County,Kentucky",11807,276038
+60,"Bell County,Kentucky","Laurel County,Kentucky",4292,80026
+61,"Bell County,Kentucky","Lawrence County,Kentucky",11534,251239
+62,"Bell County,Kentucky","Lee County,Kentucky",7370,132711
+63,"Bell County,Kentucky","Leslie County,Kentucky",4084,79079
+64,"Bell County,Kentucky","Letcher County,Kentucky",5483,106050
+65,"Bell County,Kentucky","Lewis County,Kentucky",12356,307032
+66,"Bell County,Kentucky","Lincoln County,Kentucky",6981,160423
+67,"Bell County,Kentucky","Livingston County,Kentucky",19868,541038
+68,"Bell County,Kentucky","Logan County,Kentucky",13720,362820
+69,"Bell County,Kentucky","Lyon County,Kentucky",20008,515307
+70,"Bell County,Kentucky","McCracken County,Kentucky",20194,568278
+71,"Bell County,Kentucky","McCreary County,Kentucky",5530,109497
+72,"Bell County,Kentucky","Madison County,Kentucky",6438,158272
+73,"Bell County,Kentucky","Magoffin County,Kentucky",10103,221527
+74,"Bell County,Kentucky","Marion County,Kentucky",9448,214661
+75,"Bell County,Kentucky","Marshall County,Kentucky",19608,551850
+76,"Bell County,Kentucky","Martin County,Kentucky",11288,243553
+77,"Bell County,Kentucky","Mason County,Kentucky",12080,300408
+78,"Bell County,Kentucky","Meade County,Kentucky",14042,383410
+79,"Bell County,Kentucky","Menifee County,Kentucky",10790,194112
+80,"Bell County,Kentucky","Mercer County,Kentucky",8750,200987
+81,"Bell County,Kentucky","Metcalfe County,Kentucky",9228,232165
+82,"Bell County,Kentucky","Monroe County,Kentucky",11198,269669
+83,"Bell County,Kentucky","Montgomery County,Kentucky",9321,229120
+84,"Bell County,Kentucky","Morgan County,Kentucky",10088,215330
+85,"Bell County,Kentucky","Muhlenberg County,Kentucky",15476,406040
+86,"Bell County,Kentucky","Nelson County,Kentucky",10666,247670
+87,"Bell County,Kentucky","Nicholas County,Kentucky",10207,256224
+88,"Bell County,Kentucky","Ohio County,Kentucky",14892,399231
+89,"Bell County,Kentucky","Oldham County,Kentucky",11653,322976
+90,"Bell County,Kentucky","Owen County,Kentucky",10708,278620
+91,"Bell County,Kentucky","Owsley County,Kentucky",6663,115832
+92,"Bell County,Kentucky","Pendleton County,Kentucky",11459,294604
+93,"Bell County,Kentucky","Perry County,Kentucky",6363,125941
+94,"Bell County,Kentucky","Pike County,Kentucky",8205,178020
+95,"Bell County,Kentucky","Powell County,Kentucky",9448,177375
+96,"Bell County,Kentucky","Robertson County,Kentucky",10977,277350
+97,"Bell County,Kentucky","Rockcastle County,Kentucky",5462,122021
+98,"Bell County,Kentucky","Rowan County,Kentucky",10144,262525
+99,"Bell County,Kentucky","Russell County,Kentucky",8177,185884
+100,"Bell County,Kentucky","Scott County,Kentucky",8683,230954
+101,"Bell County,Kentucky","Shelby County,Kentucky",10510,282230
+102,"Bell County,Kentucky","Simpson County,Kentucky",13309,351693
+103,"Bell County,Kentucky","Spencer County,Kentucky",11039,288078
+104,"Bell County,Kentucky","Taylor County,Kentucky",9926,226159
+105,"Bell County,Kentucky","Todd County,Kentucky",14896,392875
+106,"Bell County,Kentucky","Trigg County,Kentucky",17584,454160
+107,"Bell County,Kentucky","Trimble County,Kentucky",12726,329016
+108,"Bell County,Kentucky","Union County,Kentucky",19442,524715
+109,"Bell County,Kentucky","Warren County,Kentucky",12344,316642
+110,"Bell County,Kentucky","Washington County,Kentucky",9737,222519
+111,"Bell County,Kentucky","Wayne County,Kentucky",8034,156627
+112,"Bell County,Kentucky","Webster County,Kentucky",18261,493628
+113,"Bell County,Kentucky","Whitley County,Kentucky",3895,73582
+114,"Bell County,Kentucky","Wolfe County,Kentucky",9156,171154
+115,"Bell County,Kentucky","Woodford County,Kentucky",8902,233590
+116,"Bell County,Kentucky","Adams County,Ohio",14509,347141
+117,"Bell County,Kentucky","Allen County,Ohio",19055,538751
+118,"Bell County,Kentucky","Ashland County,Ohio",22244,640629
+119,"Bell County,Kentucky","Ashtabula County,Ohio",27990,825381
+120,"Bell County,Kentucky","Athens County,Ohio",18908,446107
+121,"Bell County,Kentucky","Auglaize County,Ohio",18312,526016
+122,"Bell County,Kentucky","Belmont County,Ohio",23423,620547
+123,"Bell County,Kentucky","Brown County,Ohio",13495,335387
+124,"Bell County,Kentucky","Butler County,Ohio",14133,388625
+125,"Bell County,Kentucky","Carroll County,Ohio",25353,657433
+126,"Bell County,Kentucky","Champaign County,Ohio",17090,480198
+127,"Bell County,Kentucky","Clark County,Ohio",16518,466831
+128,"Bell County,Kentucky","Clermont County,Ohio",12884,359804
+129,"Bell County,Kentucky","Clinton County,Ohio",14978,411110
+130,"Bell County,Kentucky","Columbiana County,Ohio",27194,711668
+131,"Bell County,Kentucky","Coshocton County,Ohio",22105,619702
+132,"Bell County,Kentucky","Crawford County,Ohio",21782,632602
+133,"Bell County,Kentucky","Cuyahoga County,Ohio",24562,723094
+134,"Bell County,Kentucky","Darke County,Ohio",17409,483063
+135,"Bell County,Kentucky","Defiance County,Ohio",22543,617182
+136,"Bell County,Kentucky","Delaware County,Ohio",19161,547301
+137,"Bell County,Kentucky","Fairfield County,Ohio",18565,530551
+138,"Bell County,Kentucky","Fayette County,Ohio",15877,448715
+139,"Bell County,Kentucky","Franklin County,Ohio",17679,507229
+140,"Bell County,Kentucky","Fulton County,Ohio",23306,634125
+141,"Bell County,Kentucky","Gallia County,Ohio",16865,388460
+142,"Bell County,Kentucky","Geauga County,Ohio",26091,762313
+143,"Bell County,Kentucky","Greene County,Ohio",15305,420464
+144,"Bell County,Kentucky","Guernsey County,Ohio",21311,620742
+145,"Bell County,Kentucky","Hamilton County,Ohio",12788,353110
+146,"Bell County,Kentucky","Hancock County,Ohio",20165,579647
+147,"Bell County,Kentucky","Hardin County,Ohio",19952,564044
+148,"Bell County,Kentucky","Harrison County,Ohio",24358,639499
+149,"Bell County,Kentucky","Henry County,Ohio",21889,604115
+150,"Bell County,Kentucky","Highland County,Ohio",15642,380590
+151,"Bell County,Kentucky","Hocking County,Ohio",20002,573955
+152,"Bell County,Kentucky","Holmes County,Ohio",23656,656560
+153,"Bell County,Kentucky","Huron County,Ohio",23391,639400
+154,"Bell County,Kentucky","Jackson County,Ohio",16496,423696
+155,"Bell County,Kentucky","Jefferson County,Ohio",25351,649277
+156,"Bell County,Kentucky","Knox County,Ohio",21611,606923
+157,"Bell County,Kentucky","Lawrence County,Ohio",15088,333063
+158,"Bell County,Kentucky","Licking County,Ohio",19944,562146
+159,"Bell County,Kentucky","Logan County,Ohio",18324,512735
+160,"Bell County,Kentucky","Lorain County,Ohio",25176,698054
+161,"Bell County,Kentucky","Lucas County,Ohio",23490,666167
+162,"Bell County,Kentucky","Madison County,Ohio",17099,483898
+163,"Bell County,Kentucky","Mahoning County,Ohio",26960,777013
+164,"Bell County,Kentucky","Marion County,Ohio",20208,554737
+165,"Bell County,Kentucky","Medina County,Ohio",22889,665642
+166,"Bell County,Kentucky","Meigs County,Ohio",17798,418843
+167,"Bell County,Kentucky","Mercer County,Ohio",19547,552950
+168,"Bell County,Kentucky","Miami County,Ohio",15898,448455
+169,"Bell County,Kentucky","Monroe County,Ohio",22474,555661
+170,"Bell County,Kentucky","Montgomery County,Ohio",15281,426195
+171,"Bell County,Kentucky","Morgan County,Ohio",21480,542308
+172,"Bell County,Kentucky","Morrow County,Ohio",19969,570122
+173,"Bell County,Kentucky","Muskingum County,Ohio",20162,586898
+174,"Bell County,Kentucky","Noble County,Ohio",20980,538821
+175,"Bell County,Kentucky","Paulding County,Ohio",21587,601729
+176,"Bell County,Kentucky","Perry County,Ohio",20231,575482
+177,"Bell County,Kentucky","Pickaway County,Ohio",17814,497311
+178,"Bell County,Kentucky","Pike County,Ohio",16038,393123
+179,"Bell County,Kentucky","Portage County,Ohio",25412,736792
+180,"Bell County,Kentucky","Preble County,Ohio",16178,433025
+181,"Bell County,Kentucky","Putnam County,Ohio",20230,571219
+182,"Bell County,Kentucky","Richland County,Ohio",20999,605361
+183,"Bell County,Kentucky","Ross County,Ohio",17458,496628
+184,"Bell County,Kentucky","Sandusky County,Ohio",23205,659723
+185,"Bell County,Kentucky","Scioto County,Ohio",15348,375249
+186,"Bell County,Kentucky","Seneca County,Ohio",22509,635987
+187,"Bell County,Kentucky","Shelby County,Ohio",16936,484741
+188,"Bell County,Kentucky","Stark County,Ohio",25212,672668
+189,"Bell County,Kentucky","Summit County,Ohio",24093,700970
+190,"Bell County,Kentucky","Trumbull County,Ohio",26993,787284
+191,"Bell County,Kentucky","Tuscarawas County,Ohio",23412,613256
+192,"Bell County,Kentucky","Union County,Ohio",18451,510119
+193,"Bell County,Kentucky","Van Wert County,Ohio",20220,571275
+194,"Bell County,Kentucky","Vinton County,Ohio",19068,467798
+195,"Bell County,Kentucky","Warren County,Ohio",13667,379366
+196,"Bell County,Kentucky","Washington County,Ohio",19839,496757
+197,"Bell County,Kentucky","Wayne County,Ohio",22617,654640
+198,"Bell County,Kentucky","Williams County,Ohio",23720,640698
+199,"Bell County,Kentucky","Wood County,Ohio",21253,620275
+200,"Bell County,Kentucky","Wyandot County,Ohio",20860,600527
+201,"Bell County,Kentucky","Accomack County,Virginia",35238,951347
+202,"Bell County,Kentucky","Albemarle County,Virginia",21387,563846
+203,"Bell County,Kentucky","Alleghany County,Virginia",19372,472777
+204,"Bell County,Kentucky","Amelia County,Virginia",23959,602701
+205,"Bell County,Kentucky","Amherst County,Virginia",20861,508760
+206,"Bell County,Kentucky","Appomattox County,Virginia",21036,522370
+207,"Bell County,Kentucky","Arlington County,Virginia",28072,764155
+208,"Bell County,Kentucky","Augusta County,Virginia",20809,541539
+209,"Bell County,Kentucky","Bath County,Virginia",21097,514119
+210,"Bell County,Kentucky","Bedford County,Virginia",18769,453680
+211,"Bell County,Kentucky","Bland County,Virginia",12785,303282
+212,"Bell County,Kentucky","Botetourt County,Virginia",17626,437745
+213,"Bell County,Kentucky","Brunswick County,Virginia",25930,689796
+214,"Bell County,Kentucky","Buchanan County,Virginia",10953,198819
+215,"Bell County,Kentucky","Buckingham County,Virginia",22150,546280
+216,"Bell County,Kentucky","Campbell County,Virginia",20185,494915
+217,"Bell County,Kentucky","Caroline County,Virginia",26726,732692
+218,"Bell County,Kentucky","Carroll County,Virginia",13729,334627
+219,"Bell County,Kentucky","Charles City County,Virginia",26827,729726
+220,"Bell County,Kentucky","Charlotte County,Virginia",22734,562852
+221,"Bell County,Kentucky","Chesterfield County,Virginia",25653,641591
+222,"Bell County,Kentucky","Clarke County,Virginia",25567,690904
+223,"Bell County,Kentucky","Craig County,Virginia",17024,415314
+224,"Bell County,Kentucky","Culpeper County,Virginia",25184,653063
+225,"Bell County,Kentucky","Cumberland County,Virginia",23564,583512
+226,"Bell County,Kentucky","Dickenson County,Virginia",8380,156494
+227,"Bell County,Kentucky","Dinwiddie County,Virginia",25732,645763
+228,"Bell County,Kentucky","Essex County,Virginia",28544,756734
+229,"Bell County,Kentucky","Fairfax County,Virginia",27694,754431
+230,"Bell County,Kentucky","Fauquier County,Virginia",26005,712155
+231,"Bell County,Kentucky","Floyd County,Virginia",15621,374727
+232,"Bell County,Kentucky","Fluvanna County,Virginia",23065,616018
+233,"Bell County,Kentucky","Franklin County,Virginia",18282,454914
+234,"Bell County,Kentucky","Frederick County,Virginia",25019,678631
+235,"Bell County,Kentucky","Giles County,Virginia",15566,361356
+236,"Bell County,Kentucky","Gloucester County,Virginia",28997,783915
+237,"Bell County,Kentucky","Goochland County,Virginia",23969,646629
+238,"Bell County,Kentucky","Grayson County,Virginia",13462,297794
+239,"Bell County,Kentucky","Greene County,Virginia",23380,599430
+240,"Bell County,Kentucky","Greensville County,Virginia",27126,707215
+241,"Bell County,Kentucky","Halifax County,Virginia",22032,532314
+242,"Bell County,Kentucky","Hanover County,Virginia",25175,687735
+243,"Bell County,Kentucky","Henrico County,Virginia",25686,700695
+244,"Bell County,Kentucky","Henry County,Virginia",17602,421348
+245,"Bell County,Kentucky","Highland County,Virginia",23229,561911
+246,"Bell County,Kentucky","Isle of Wight County,Virginia",29852,745883
+247,"Bell County,Kentucky","James City County,Virginia",28063,770497
+248,"Bell County,Kentucky","King and Queen County,Virginia",27721,746081
+249,"Bell County,Kentucky","King George County,Virginia",27840,760678
+250,"Bell County,Kentucky","King William County,Virginia",26408,716004
+251,"Bell County,Kentucky","Lancaster County,Virginia",30201,799089
+252,"Bell County,Kentucky","Lee County,Virginia",4474,84604
+253,"Bell County,Kentucky","Loudoun County,Virginia",27063,726771
+254,"Bell County,Kentucky","Louisa County,Virginia",23626,629724
+255,"Bell County,Kentucky","Lunenburg County,Virginia",24506,604136
+256,"Bell County,Kentucky","Madison County,Virginia",24300,629171
+257,"Bell County,Kentucky","Mathews County,Virginia",29822,807338
+258,"Bell County,Kentucky","Mecklenburg County,Virginia",24065,583859
+259,"Bell County,Kentucky","Middlesex County,Virginia",28599,780115
+260,"Bell County,Kentucky","Montgomery County,Virginia",14795,365232
+261,"Bell County,Kentucky","Nelson County,Virginia",21412,539157
+262,"Bell County,Kentucky","New Kent County,Virginia",27499,744411
+263,"Bell County,Kentucky","Northampton County,Virginia",32480,887161
+264,"Bell County,Kentucky","Northumberland County,Virginia",30241,797601
+265,"Bell County,Kentucky","Nottoway County,Virginia",23999,604516
+266,"Bell County,Kentucky","Orange County,Virginia",24588,637831
+267,"Bell County,Kentucky","Page County,Virginia",23233,612956
+268,"Bell County,Kentucky","Patrick County,Virginia",15835,379663
+269,"Bell County,Kentucky","Pittsylvania County,Virginia",19918,475556
+270,"Bell County,Kentucky","Powhatan County,Virginia",25062,618218
+271,"Bell County,Kentucky","Prince Edward County,Virginia",22614,561851
+272,"Bell County,Kentucky","Prince George County,Virginia",27387,685137
+273,"Bell County,Kentucky","Prince William County,Virginia",26105,718259
+274,"Bell County,Kentucky","Pulaski County,Virginia",13472,326048
+275,"Bell County,Kentucky","Rappahannock County,Virginia",25065,649443
+276,"Bell County,Kentucky","Richmond County,Virginia",28941,770245
+277,"Bell County,Kentucky","Roanoke County,Virginia",15576,385168
+278,"Bell County,Kentucky","Rockbridge County,Virginia",19073,481816
+279,"Bell County,Kentucky","Rockingham County,Virginia",22273,585306
+280,"Bell County,Kentucky","Russell County,Virginia",9754,189759
+281,"Bell County,Kentucky","Scott County,Virginia",6481,127475
+282,"Bell County,Kentucky","Shenandoah County,Virginia",22777,615410
+283,"Bell County,Kentucky","Smyth County,Virginia",10741,237497
+284,"Bell County,Kentucky","Southampton County,Virginia",28742,764738
+285,"Bell County,Kentucky","Spotsylvania County,Virginia",25642,671562
+286,"Bell County,Kentucky","Stafford County,Virginia",27023,695855
+287,"Bell County,Kentucky","Surry County,Virginia",28806,769359
+288,"Bell County,Kentucky","Sussex County,Virginia",27741,690894
+289,"Bell County,Kentucky","Tazewell County,Virginia",11242,242670
+290,"Bell County,Kentucky","Warren County,Virginia",24680,660002
+291,"Bell County,Kentucky","Washington County,Virginia",9620,203655
+292,"Bell County,Kentucky","Westmoreland County,Virginia",28814,777503
+293,"Bell County,Kentucky","Wise County,Virginia",6581,131126
+294,"Bell County,Kentucky","Wythe County,Virginia",11955,279957
+295,"Bell County,Kentucky","York County,Virginia",29351,801272
+296,"Bell County,Kentucky","Alexandria City County,Virginia",28274,776802
+297,"Bell County,Kentucky","Bedford City County,Virginia",17933,445112
+298,"Bell County,Kentucky","Bristol City County,Virginia",8434,168802
+299,"Bell County,Kentucky","Buena Vista City County,Virginia",18445,474304
+300,"Bell County,Kentucky","Charlottesville City County,Virginia",21856,579061
+301,"Bell County,Kentucky","Chesapeake City County,Virginia",30814,854177
+302,"Bell County,Kentucky","Clifton Forge City County,Virginia",18712,463937
+303,"Bell County,Kentucky","Colonial Heights City County,Virginia",26523,723402
+304,"Bell County,Kentucky","Covington City County,Virginia",19442,476362
+305,"Bell County,Kentucky","Danville City County,Virginia",19760,475804
+306,"Bell County,Kentucky","Emporia City County,Virginia",27283,721403
+307,"Bell County,Kentucky","Fairfax City County,Virginia",27237,744007
+308,"Bell County,Kentucky","Falls Church City County,Virginia",27569,758479
+309,"Bell County,Kentucky","Franklin City County,Virginia",29369,777873
+310,"Bell County,Kentucky","Fredericksburg City County,Virginia",26775,681222
+311,"Bell County,Kentucky","Galax City County,Virginia",14352,340493
+312,"Bell County,Kentucky","Hampton City County,Virginia",29301,810978
+313,"Bell County,Kentucky","Harrisonburg City County,Virginia",21332,565203
+314,"Bell County,Kentucky","Hopewell City County,Virginia",26559,722369
+315,"Bell County,Kentucky","Lexington City County,Virginia",18359,472631
+316,"Bell County,Kentucky","Lynchburg City County,Virginia",19958,489987
+317,"Bell County,Kentucky","Manassas City County,Virginia",26332,723204
+318,"Bell County,Kentucky","Manassas Park City County,Virginia",26835,729547
+319,"Bell County,Kentucky","Martinsville City County,Virginia",18130,430141
+320,"Bell County,Kentucky","Newport News City County,Virginia",28857,797464
+321,"Bell County,Kentucky","Norfolk City County,Virginia",30607,836394
+322,"Bell County,Kentucky","Norton City County,Virginia",6045,122516
+323,"Bell County,Kentucky","Petersburg City County,Virginia",26390,667740
+324,"Bell County,Kentucky","Poquoson City County,Virginia",29529,808040
+325,"Bell County,Kentucky","Portsmouth City County,Virginia",30546,845215
+326,"Bell County,Kentucky","Radford County,Virginia",13982,339995
+327,"Bell County,Kentucky","Richmond City County,Virginia",25262,688505
+328,"Bell County,Kentucky","Roanoke City County,Virginia",16178,405273
+329,"Bell County,Kentucky","Salem City County,Virginia",15590,391822
+330,"Bell County,Kentucky","South Boston City County,Virginia",21772,529982
+331,"Bell County,Kentucky","Staunton City County,Virginia",20149,526338
+332,"Bell County,Kentucky","Suffolk City County,Virginia",30685,811175
+333,"Bell County,Kentucky","Virginia Beach City County,Virginia",31168,859652
+334,"Bell County,Kentucky","Waynesboro City County,Virginia",20487,539056
+335,"Bell County,Kentucky","Williamsburg City County,Virginia",27901,769713
+336,"Bell County,Kentucky","Winchester City County,Virginia",24899,674775
+337,"Bell County,Kentucky","Barbour County,West Virginia",22385,568214
+338,"Bell County,Kentucky","Berkeley County,West Virginia",26636,721982
+339,"Bell County,Kentucky","Boone County,West Virginia",13957,320048
+340,"Bell County,Kentucky","Braxton County,West Virginia",19075,459194
+341,"Bell County,Kentucky","Brooke County,West Virginia",25502,662795
+342,"Bell County,Kentucky","Cabell County,West Virginia",13371,310472
+343,"Bell County,Kentucky","Calhoun County,West Virginia",18996,456878
+344,"Bell County,Kentucky","Clay County,West Virginia",17842,430106
+345,"Bell County,Kentucky","Doddridge County,West Virginia",21528,549724
+346,"Bell County,Kentucky","Fayette County,West Virginia",17525,399397
+347,"Bell County,Kentucky","Gilmer County,West Virginia",20274,481380
+348,"Bell County,Kentucky","Grant County,West Virginia",26740,669760
+349,"Bell County,Kentucky","Greenbrier County,West Virginia",19327,429918
+350,"Bell County,Kentucky","Hampshire County,West Virginia",26756,692886
+351,"Bell County,Kentucky","Hancock County,West Virginia",27091,697331
+352,"Bell County,Kentucky","Hardy County,West Virginia",25976,675799
+353,"Bell County,Kentucky","Harrison County,West Virginia",21618,554585
+354,"Bell County,Kentucky","Jackson County,West Virginia",16880,411210
+355,"Bell County,Kentucky","Jefferson County,West Virginia",26687,709388
+356,"Bell County,Kentucky","Kanawha County,West Virginia",15850,359953
+357,"Bell County,Kentucky","Lewis County,West Virginia",20248,508055
+358,"Bell County,Kentucky","Lincoln County,West Virginia",14691,327787
+359,"Bell County,Kentucky","Logan County,West Virginia",12063,276684
+360,"Bell County,Kentucky","McDowell County,West Virginia",14306,285217
+361,"Bell County,Kentucky","Marion County,West Virginia",22764,581752
+362,"Bell County,Kentucky","Marshall County,West Virginia",24888,598896
+363,"Bell County,Kentucky","Mason County,West Virginia",16352,401216
+364,"Bell County,Kentucky","Mercer County,West Virginia",14104,315061
+365,"Bell County,Kentucky","Mineral County,West Virginia",28202,715993
+366,"Bell County,Kentucky","Mingo County,West Virginia",10747,243137
+367,"Bell County,Kentucky","Monongalia County,West Virginia",22974,607221
+368,"Bell County,Kentucky","Monroe County,West Virginia",16568,364460
+369,"Bell County,Kentucky","Morgan County,West Virginia",26882,723108
+370,"Bell County,Kentucky","Nicholas County,West Virginia",18971,440395
+371,"Bell County,Kentucky","Ohio County,West Virginia",24521,644032
+372,"Bell County,Kentucky","Pendleton County,West Virginia",25120,636491
+373,"Bell County,Kentucky","Pleasants County,West Virginia",20363,509062
+374,"Bell County,Kentucky","Pocahontas County,West Virginia",22406,510131
+375,"Bell County,Kentucky","Preston County,West Virginia",25120,633952
+376,"Bell County,Kentucky","Putnam County,West Virginia",15054,363249
+377,"Bell County,Kentucky","Raleigh County,West Virginia",15700,359634
+378,"Bell County,Kentucky","Randolph County,West Virginia",22749,570510
+379,"Bell County,Kentucky","Ritchie County,West Virginia",20693,522766
+380,"Bell County,Kentucky","Roane County,West Virginia",18506,440025
+381,"Bell County,Kentucky","Summers County,West Virginia",16659,359999
+382,"Bell County,Kentucky","Taylor County,West Virginia",22656,577325
+383,"Bell County,Kentucky","Tucker County,West Virginia",23816,601035
+384,"Bell County,Kentucky","Tyler County,West Virginia",22272,548677
+385,"Bell County,Kentucky","Upshur County,West Virginia",21813,522752
+386,"Bell County,Kentucky","Wayne County,West Virginia",12699,280268
+387,"Bell County,Kentucky","Webster County,West Virginia",21742,517067
+388,"Bell County,Kentucky","Wetzel County,West Virginia",23484,570584
+389,"Bell County,Kentucky","Wirt County,West Virginia",19146,468548
+390,"Bell County,Kentucky","Wood County,West Virginia",18661,470237
+391,"Bell County,Kentucky","Wyoming County,West Virginia",15033,315623
