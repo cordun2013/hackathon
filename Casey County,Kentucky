@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Casey County,Kentucky","Adair County,Kentucky",2992,56872
+1,"Casey County,Kentucky","Allen County,Kentucky",6224,160546
+2,"Casey County,Kentucky","Anderson County,Kentucky",4549,100609
+3,"Casey County,Kentucky","Ballard County,Kentucky",15912,431061
+4,"Casey County,Kentucky","Barren County,Kentucky",4773,123931
+5,"Casey County,Kentucky","Bath County,Kentucky",7545,171462
+6,"Casey County,Kentucky","Bell County,Kentucky",8505,175272
+7,"Casey County,Kentucky","Boone County,Kentucky",9520,240776
+8,"Casey County,Kentucky","Bourbon County,Kentucky",6872,155716
+9,"Casey County,Kentucky","Boyd County,Kentucky",10803,272919
+10,"Casey County,Kentucky","Boyle County,Kentucky",2325,47514
+11,"Casey County,Kentucky","Bracken County,Kentucky",10081,218554
+12,"Casey County,Kentucky","Breathitt County,Kentucky",9814,217207
+13,"Casey County,Kentucky","Breckinridge County,Kentucky",8718,186385
+14,"Casey County,Kentucky","Bullitt County,Kentucky",6520,130109
+15,"Casey County,Kentucky","Butler County,Kentucky",7812,220405
+16,"Casey County,Kentucky","Caldwell County,Kentucky",12024,321914
+17,"Casey County,Kentucky","Calloway County,Kentucky",14216,379057
+18,"Casey County,Kentucky","Campbell County,Kentucky",10026,229141
+19,"Casey County,Kentucky","Carlisle County,Kentucky",16369,446429
+20,"Casey County,Kentucky","Carroll County,Kentucky",8664,191122
+21,"Casey County,Kentucky","Carter County,Kentucky",9940,242176
+22,"Casey County,Kentucky","Christian County,Kentucky",10504,286544
+23,"Casey County,Kentucky","Clay County,Kentucky",6669,134301
+24,"Casey County,Kentucky","Clinton County,Kentucky",4463,90655
+25,"Casey County,Kentucky","Crittenden County,Kentucky",13604,354984
+26,"Casey County,Kentucky","Cumberland County,Kentucky",4745,108900
+27,"Casey County,Kentucky","Daviess County,Kentucky",10155,262411
+28,"Casey County,Kentucky","Edmonson County,Kentucky",6302,168092
+29,"Casey County,Kentucky","Elliott County,Kentucky",10716,233438
+30,"Casey County,Kentucky","Estill County,Kentucky",5860,117610
+31,"Casey County,Kentucky","Fayette County,Kentucky",5435,125941
+32,"Casey County,Kentucky","Fleming County,Kentucky",8974,201681
+33,"Casey County,Kentucky","Floyd County,Kentucky",10687,245465
+34,"Casey County,Kentucky","Franklin County,Kentucky",5726,122076
+35,"Casey County,Kentucky","Fulton County,Kentucky",16773,467393
+36,"Casey County,Kentucky","Gallatin County,Kentucky",8644,188996
+37,"Casey County,Kentucky","Garrard County,Kentucky",3082,56893
+38,"Casey County,Kentucky","Grant County,Kentucky",8154,201649
+39,"Casey County,Kentucky","Graves County,Kentucky",15394,419135
+40,"Casey County,Kentucky","Grayson County,Kentucky",7459,172605
+41,"Casey County,Kentucky","Green County,Kentucky",3870,74637
+42,"Casey County,Kentucky","Greenup County,Kentucky",11408,269506
+43,"Casey County,Kentucky","Hancock County,Kentucky",9938,221021
+44,"Casey County,Kentucky","Hardin County,Kentucky",6336,134737
+45,"Casey County,Kentucky","Harlan County,Kentucky",10799,230877
+46,"Casey County,Kentucky","Harrison County,Kentucky",7644,172661
+47,"Casey County,Kentucky","Hart County,Kentucky",5558,109541
+48,"Casey County,Kentucky","Henderson County,Kentucky",12062,318831
+49,"Casey County,Kentucky","Henry County,Kentucky",7128,153344
+50,"Casey County,Kentucky","Hickman County,Kentucky",16403,447721
+51,"Casey County,Kentucky","Hopkins County,Kentucky",11483,296382
+52,"Casey County,Kentucky","Jackson County,Kentucky",6399,128653
+53,"Casey County,Kentucky","Jefferson County,Kentucky",7258,169032
+54,"Casey County,Kentucky","Jessamine County,Kentucky",4100,84418
+55,"Casey County,Kentucky","Johnson County,Kentucky",10954,253231
+56,"Casey County,Kentucky","Kenton County,Kentucky",9407,236493
+57,"Casey County,Kentucky","Knott County,Kentucky",9471,215006
+58,"Casey County,Kentucky","Knox County,Kentucky",6737,128182
+59,"Casey County,Kentucky","Larue County,Kentucky",4959,101167
+60,"Casey County,Kentucky","Laurel County,Kentucky",5478,99052
+61,"Casey County,Kentucky","Lawrence County,Kentucky",12806,300055
+62,"Casey County,Kentucky","Lee County,Kentucky",7850,151040
+63,"Casey County,Kentucky","Leslie County,Kentucky",8619,185424
+64,"Casey County,Kentucky","Letcher County,Kentucky",10642,237011
+65,"Casey County,Kentucky","Lewis County,Kentucky",10498,239821
+66,"Casey County,Kentucky","Lincoln County,Kentucky",2259,40178
+67,"Casey County,Kentucky","Livingston County,Kentucky",14199,371881
+68,"Casey County,Kentucky","Logan County,Kentucky",8175,225824
+69,"Casey County,Kentucky","Lyon County,Kentucky",14333,382271
+70,"Casey County,Kentucky","McCracken County,Kentucky",14525,399121
+71,"Casey County,Kentucky","McCreary County,Kentucky",5011,109070
+72,"Casey County,Kentucky","Madison County,Kentucky",4113,83705
+73,"Casey County,Kentucky","Magoffin County,Kentucky",10423,235098
+74,"Casey County,Kentucky","Marion County,Kentucky",3242,57186
+75,"Casey County,Kentucky","Marshall County,Kentucky",13939,382692
+76,"Casey County,Kentucky","Martin County,Kentucky",13778,311737
+77,"Casey County,Kentucky","Mason County,Kentucky",10002,227282
+78,"Casey County,Kentucky","Meade County,Kentucky",7865,164437
+79,"Casey County,Kentucky","Menifee County,Kentucky",8819,184000
+80,"Casey County,Kentucky","Mercer County,Kentucky",3325,72446
+81,"Casey County,Kentucky","Metcalfe County,Kentucky",3683,95169
+82,"Casey County,Kentucky","Monroe County,Kentucky",5653,132673
+83,"Casey County,Kentucky","Montgomery County,Kentucky",7463,161909
+84,"Casey County,Kentucky","Morgan County,Kentucky",9813,223382
+85,"Casey County,Kentucky","Muhlenberg County,Kentucky",9931,269044
+86,"Casey County,Kentucky","Nelson County,Kentucky",5114,94395
+87,"Casey County,Kentucky","Nicholas County,Kentucky",8129,183097
+88,"Casey County,Kentucky","Ohio County,Kentucky",9256,230448
+89,"Casey County,Kentucky","Oldham County,Kentucky",7330,180913
+90,"Casey County,Kentucky","Owen County,Kentucky",7068,154250
+91,"Casey County,Kentucky","Owsley County,Kentucky",7698,150154
+92,"Casey County,Kentucky","Pendleton County,Kentucky",9204,209789
+93,"Casey County,Kentucky","Perry County,Kentucky",8853,194125
+94,"Casey County,Kentucky","Pike County,Kentucky",13248,298465
+95,"Casey County,Kentucky","Powell County,Kentucky",7425,152332
+96,"Casey County,Kentucky","Robertson County,Kentucky",8899,204224
+97,"Casey County,Kentucky","Rockcastle County,Kentucky",4296,80599
+98,"Casey County,Kentucky","Rowan County,Kentucky",8286,195314
+99,"Casey County,Kentucky","Russell County,Kentucky",2523,48867
+100,"Casey County,Kentucky","Scott County,Kentucky",6454,154588
+101,"Casey County,Kentucky","Shelby County,Kentucky",6187,140166
+102,"Casey County,Kentucky","Simpson County,Kentucky",7764,214697
+103,"Casey County,Kentucky","Spencer County,Kentucky",5837,112307
+104,"Casey County,Kentucky","Taylor County,Kentucky",2364,47296
+105,"Casey County,Kentucky","Todd County,Kentucky",9351,255879
+106,"Casey County,Kentucky","Trigg County,Kentucky",12039,317164
+107,"Casey County,Kentucky","Trimble County,Kentucky",8435,178992
+108,"Casey County,Kentucky","Union County,Kentucky",13806,355932
+109,"Casey County,Kentucky","Warren County,Kentucky",6799,179646
+110,"Casey County,Kentucky","Washington County,Kentucky",4312,93978
+111,"Casey County,Kentucky","Wayne County,Kentucky",5266,108280
+112,"Casey County,Kentucky","Webster County,Kentucky",12592,324471
+113,"Casey County,Kentucky","Whitley County,Kentucky",6350,142893
+114,"Casey County,Kentucky","Wolfe County,Kentucky",8688,190204
+115,"Casey County,Kentucky","Woodford County,Kentucky",4690,106199
+116,"Casey County,Kentucky","Adams County,Ohio",12431,274015
+117,"Casey County,Kentucky","Allen County,Ohio",16826,462386
+118,"Casey County,Kentucky","Ashland County,Ohio",20015,564264
+119,"Casey County,Kentucky","Ashtabula County,Ohio",25761,749015
+120,"Casey County,Kentucky","Athens County,Ohio",17130,430938
+121,"Casey County,Kentucky","Auglaize County,Ohio",16082,449651
+122,"Casey County,Kentucky","Belmont County,Ohio",21353,610696
+123,"Casey County,Kentucky","Brown County,Ohio",11417,262260
+124,"Casey County,Kentucky","Butler County,Ohio",11904,312260
+125,"Casey County,Kentucky","Carroll County,Ohio",23317,647919
+126,"Casey County,Kentucky","Champaign County,Ohio",14860,403832
+127,"Casey County,Kentucky","Clark County,Ohio",14289,390465
+128,"Casey County,Kentucky","Clermont County,Ohio",10655,283438
+129,"Casey County,Kentucky","Clinton County,Ohio",12749,334745
+130,"Casey County,Kentucky","Columbiana County,Ohio",24874,683508
+131,"Casey County,Kentucky","Coshocton County,Ohio",19876,543336
+132,"Casey County,Kentucky","Crawford County,Ohio",19553,556236
+133,"Casey County,Kentucky","Cuyahoga County,Ohio",22333,646728
+134,"Casey County,Kentucky","Darke County,Ohio",15180,406697
+135,"Casey County,Kentucky","Defiance County,Ohio",20314,540816
+136,"Casey County,Kentucky","Delaware County,Ohio",16932,470936
+137,"Casey County,Kentucky","Fairfield County,Ohio",16336,454185
+138,"Casey County,Kentucky","Fayette County,Ohio",13648,372350
+139,"Casey County,Kentucky","Franklin County,Ohio",15450,430863
+140,"Casey County,Kentucky","Fulton County,Ohio",21077,557759
+141,"Casey County,Kentucky","Gallia County,Ohio",15088,373291
+142,"Casey County,Kentucky","Geauga County,Ohio",23862,685947
+143,"Casey County,Kentucky","Greene County,Ohio",13076,344099
+144,"Casey County,Kentucky","Guernsey County,Ohio",19082,544377
+145,"Casey County,Kentucky","Hamilton County,Ohio",10558,276744
+146,"Casey County,Kentucky","Hancock County,Ohio",17936,503281
+147,"Casey County,Kentucky","Hardin County,Ohio",17723,487678
+148,"Casey County,Kentucky","Harrison County,Ohio",22323,629985
+149,"Casey County,Kentucky","Henry County,Ohio",19659,527750
+150,"Casey County,Kentucky","Highland County,Ohio",13564,307463
+151,"Casey County,Kentucky","Hocking County,Ohio",17773,497589
+152,"Casey County,Kentucky","Holmes County,Ohio",21427,580194
+153,"Casey County,Kentucky","Huron County,Ohio",21162,563034
+154,"Casey County,Kentucky","Jackson County,Ohio",14638,356486
+155,"Casey County,Kentucky","Jefferson County,Ohio",23316,639763
+156,"Casey County,Kentucky","Knox County,Ohio",19382,530557
+157,"Casey County,Kentucky","Lawrence County,Ohio",13209,309347
+158,"Casey County,Kentucky","Licking County,Ohio",17714,485781
+159,"Casey County,Kentucky","Logan County,Ohio",16095,436369
+160,"Casey County,Kentucky","Lorain County,Ohio",22947,621688
+161,"Casey County,Kentucky","Lucas County,Ohio",21261,589801
+162,"Casey County,Kentucky","Madison County,Ohio",14870,407532
+163,"Casey County,Kentucky","Mahoning County,Ohio",24731,700647
+164,"Casey County,Kentucky","Marion County,Ohio",17979,478371
+165,"Casey County,Kentucky","Medina County,Ohio",20660,589277
+166,"Casey County,Kentucky","Meigs County,Ohio",16020,403674
+167,"Casey County,Kentucky","Mercer County,Ohio",17318,476584
+168,"Casey County,Kentucky","Miami County,Ohio",13668,372089
+169,"Casey County,Kentucky","Monroe County,Ohio",21932,582623
+170,"Casey County,Kentucky","Montgomery County,Ohio",13052,349829
+171,"Casey County,Kentucky","Morgan County,Ohio",20084,497962
+172,"Casey County,Kentucky","Morrow County,Ohio",17740,493756
+173,"Casey County,Kentucky","Muskingum County,Ohio",17933,510533
+174,"Casey County,Kentucky","Noble County,Ohio",20438,565783
+175,"Casey County,Kentucky","Paulding County,Ohio",19357,525364
+176,"Casey County,Kentucky","Perry County,Ohio",18001,499116
+177,"Casey County,Kentucky","Pickaway County,Ohio",15585,420946
+178,"Casey County,Kentucky","Pike County,Ohio",14137,322074
+179,"Casey County,Kentucky","Portage County,Ohio",23182,660426
+180,"Casey County,Kentucky","Preble County,Ohio",13949,356659
+181,"Casey County,Kentucky","Putnam County,Ohio",18001,494853
+182,"Casey County,Kentucky","Richland County,Ohio",18770,528995
+183,"Casey County,Kentucky","Ross County,Ohio",15228,420263
+184,"Casey County,Kentucky","Sandusky County,Ohio",20975,583357
+185,"Casey County,Kentucky","Scioto County,Ohio",13490,308038
+186,"Casey County,Kentucky","Seneca County,Ohio",20280,559621
+187,"Casey County,Kentucky","Shelby County,Ohio",14707,408375
+188,"Casey County,Kentucky","Stark County,Ohio",22927,644810
+189,"Casey County,Kentucky","Summit County,Ohio",21863,624604
+190,"Casey County,Kentucky","Trumbull County,Ohio",24764,710918
+191,"Casey County,Kentucky","Tuscarawas County,Ohio",21377,603741
+192,"Casey County,Kentucky","Union County,Ohio",16222,433753
+193,"Casey County,Kentucky","Van Wert County,Ohio",17991,494909
+194,"Casey County,Kentucky","Vinton County,Ohio",17210,400588
+195,"Casey County,Kentucky","Warren County,Ohio",11438,303001
+196,"Casey County,Kentucky","Washington County,Ohio",19057,475623
+197,"Casey County,Kentucky","Wayne County,Ohio",20388,578274
+198,"Casey County,Kentucky","Williams County,Ohio",21491,564332
+199,"Casey County,Kentucky","Wood County,Ohio",19023,543909
+200,"Casey County,Kentucky","Wyandot County,Ohio",18631,524161
+201,"Casey County,Kentucky","Accomack County,Virginia",40888,1146787
+202,"Casey County,Kentucky","Albemarle County,Virginia",27038,759287
+203,"Casey County,Kentucky","Alleghany County,Virginia",21707,596310
+204,"Casey County,Kentucky","Amelia County,Virginia",31394,774898
+205,"Casey County,Kentucky","Amherst County,Virginia",27036,727276
+206,"Casey County,Kentucky","Appomattox County,Virginia",28471,694567
+207,"Casey County,Kentucky","Arlington County,Virginia",33321,955319
+208,"Casey County,Kentucky","Augusta County,Virginia",25649,697626
+209,"Casey County,Kentucky","Bath County,Virginia",24719,671619
+210,"Casey County,Kentucky","Bedford County,Virginia",26204,625877
+211,"Casey County,Kentucky","Bland County,Virginia",20220,475479
+212,"Casey County,Kentucky","Botetourt County,Virginia",25061,609942
+213,"Casey County,Kentucky","Brunswick County,Virginia",33001,926317
+214,"Casey County,Kentucky","Buchanan County,Virginia",16774,346282
+215,"Casey County,Kentucky","Buckingham County,Virginia",28912,776970
+216,"Casey County,Kentucky","Campbell County,Virginia",27620,667112
+217,"Casey County,Kentucky","Caroline County,Virginia",32377,928132
+218,"Casey County,Kentucky","Carroll County,Virginia",21164,506824
+219,"Casey County,Kentucky","Charles City County,Virginia",32478,925167
+220,"Casey County,Kentucky","Charlotte County,Virginia",30169,735049
+221,"Casey County,Kentucky","Chesterfield County,Virginia",31613,902951
+222,"Casey County,Kentucky","Clarke County,Virginia",31218,886345
+223,"Casey County,Kentucky","Craig County,Virginia",23350,617395
+224,"Casey County,Kentucky","Culpeper County,Virginia",30835,848503
+225,"Casey County,Kentucky","Cumberland County,Virginia",30121,804972
+226,"Casey County,Kentucky","Dickenson County,Virginia",14201,303957
+227,"Casey County,Kentucky","Dinwiddie County,Virginia",33167,817959
+228,"Casey County,Kentucky","Essex County,Virginia",34195,952175
+229,"Casey County,Kentucky","Fairfax County,Virginia",33012,945986
+230,"Casey County,Kentucky","Fauquier County,Virginia",31656,907596
+231,"Casey County,Kentucky","Floyd County,Virginia",23056,546924
+232,"Casey County,Kentucky","Fluvanna County,Virginia",28716,811458
+233,"Casey County,Kentucky","Franklin County,Virginia",25717,627110
+234,"Casey County,Kentucky","Frederick County,Virginia",29883,800479
+235,"Casey County,Kentucky","Giles County,Virginia",21400,574088
+236,"Casey County,Kentucky","Gloucester County,Virginia",34648,979355
+237,"Casey County,Kentucky","Goochland County,Virginia",29619,842069
+238,"Casey County,Kentucky","Grayson County,Virginia",20897,469991
+239,"Casey County,Kentucky","Greene County,Virginia",29030,794871
+240,"Casey County,Kentucky","Greensville County,Virginia",34197,943736
+241,"Casey County,Kentucky","Halifax County,Virginia",29468,704511
+242,"Casey County,Kentucky","Hanover County,Virginia",30826,883176
+243,"Casey County,Kentucky","Henrico County,Virginia",31337,896136
+244,"Casey County,Kentucky","Henry County,Virginia",25038,593545
+245,"Casey County,Kentucky","Highland County,Virginia",26163,681590
+246,"Casey County,Kentucky","Isle of Wight County,Virginia",35589,1000713
+247,"Casey County,Kentucky","James City County,Virginia",33713,965938
+248,"Casey County,Kentucky","King and Queen County,Virginia",33372,941522
+249,"Casey County,Kentucky","King George County,Virginia",33490,956119
+250,"Casey County,Kentucky","King William County,Virginia",32059,911444
+251,"Casey County,Kentucky","Lancaster County,Virginia",35852,994529
+252,"Casey County,Kentucky","Lee County,Virginia",11596,251831
+253,"Casey County,Kentucky","Loudoun County,Virginia",32713,922211
+254,"Casey County,Kentucky","Louisa County,Virginia",29276,825164
+255,"Casey County,Kentucky","Lunenburg County,Virginia",31941,776333
+256,"Casey County,Kentucky","Madison County,Virginia",29951,824611
+257,"Casey County,Kentucky","Mathews County,Virginia",35473,1002779
+258,"Casey County,Kentucky","Mecklenburg County,Virginia",31500,756056
+259,"Casey County,Kentucky","Middlesex County,Virginia",34249,975556
+260,"Casey County,Kentucky","Montgomery County,Virginia",22231,537428
+261,"Casey County,Kentucky","Nelson County,Virginia",27577,738967
+262,"Casey County,Kentucky","New Kent County,Virginia",33150,939852
+263,"Casey County,Kentucky","Northampton County,Virginia",38131,1082601
+264,"Casey County,Kentucky","Northumberland County,Virginia",35891,993042
+265,"Casey County,Kentucky","Nottoway County,Virginia",31434,776712
+266,"Casey County,Kentucky","Orange County,Virginia",30239,833272
+267,"Casey County,Kentucky","Page County,Virginia",28884,808397
+268,"Casey County,Kentucky","Patrick County,Virginia",23270,551859
+269,"Casey County,Kentucky","Pittsylvania County,Virginia",27354,647753
+270,"Casey County,Kentucky","Powhatan County,Virginia",30873,867291
+271,"Casey County,Kentucky","Prince Edward County,Virginia",30049,734048
+272,"Casey County,Kentucky","Prince George County,Virginia",33124,939966
+273,"Casey County,Kentucky","Prince William County,Virginia",31756,913700
+274,"Casey County,Kentucky","Pulaski County,Virginia",20907,498244
+275,"Casey County,Kentucky","Rappahannock County,Virginia",30715,844884
+276,"Casey County,Kentucky","Richmond County,Virginia",34591,965685
+277,"Casey County,Kentucky","Roanoke County,Virginia",23011,557365
+278,"Casey County,Kentucky","Rockbridge County,Virginia",24040,664666
+279,"Casey County,Kentucky","Rockingham County,Virginia",27923,780747
+280,"Casey County,Kentucky","Russell County,Virginia",16733,356778
+281,"Casey County,Kentucky","Scott County,Virginia",13916,299672
+282,"Casey County,Kentucky","Shenandoah County,Virginia",28428,810850
+283,"Casey County,Kentucky","Smyth County,Virginia",18176,409694
+284,"Casey County,Kentucky","Southampton County,Virginia",35155,998248
+285,"Casey County,Kentucky","Spotsylvania County,Virginia",31293,867003
+286,"Casey County,Kentucky","Stafford County,Virginia",32674,891296
+287,"Casey County,Kentucky","Surry County,Virginia",34457,964799
+288,"Casey County,Kentucky","Sussex County,Virginia",33818,968491
+289,"Casey County,Kentucky","Tazewell County,Virginia",18221,409689
+290,"Casey County,Kentucky","Warren County,Virginia",30330,855443
+291,"Casey County,Kentucky","Washington County,Virginia",16599,370674
+292,"Casey County,Kentucky","Westmoreland County,Virginia",34464,972943
+293,"Casey County,Kentucky","Wise County,Virginia",12465,279856
+294,"Casey County,Kentucky","Wythe County,Virginia",19391,452153
+295,"Casey County,Kentucky","York County,Virginia",35001,996712
+296,"Casey County,Kentucky","Alexandria City County,Virginia",33836,972500
+297,"Casey County,Kentucky","Bedford City County,Virginia",25369,617308
+298,"Casey County,Kentucky","Bristol City County,Virginia",15869,340999
+299,"Casey County,Kentucky","Buena Vista City County,Virginia",24394,678643
+300,"Casey County,Kentucky","Charlottesville City County,Virginia",27507,774501
+301,"Casey County,Kentucky","Chesapeake City County,Virginia",36464,1049618
+302,"Casey County,Kentucky","Clifton Forge City County,Virginia",22250,616516
+303,"Casey County,Kentucky","Colonial Heights City County,Virginia",32173,918843
+304,"Casey County,Kentucky","Covington City County,Virginia",21776,599895
+305,"Casey County,Kentucky","Danville City County,Virginia",27195,648000
+306,"Casey County,Kentucky","Emporia City County,Virginia",34353,957925
+307,"Casey County,Kentucky","Fairfax City County,Virginia",32888,939447
+308,"Casey County,Kentucky","Falls Church City County,Virginia",33029,949631
+309,"Casey County,Kentucky","Franklin City County,Virginia",35702,1006103
+310,"Casey County,Kentucky","Fredericksburg City County,Virginia",32426,876662
+311,"Casey County,Kentucky","Galax City County,Virginia",21788,512690
+312,"Casey County,Kentucky","Hampton City County,Virginia",34951,1006419
+313,"Casey County,Kentucky","Harrisonburg City County,Virginia",26983,760643
+314,"Casey County,Kentucky","Hopewell City County,Virginia",32210,917809
+315,"Casey County,Kentucky","Lexington City County,Virginia",24029,667135
+316,"Casey County,Kentucky","Lynchburg City County,Virginia",27394,662184
+317,"Casey County,Kentucky","Manassas City County,Virginia",31983,918645
+318,"Casey County,Kentucky","Manassas Park City County,Virginia",32485,924988
+319,"Casey County,Kentucky","Martinsville City County,Virginia",25565,602338
+320,"Casey County,Kentucky","Newport News City County,Virginia",34508,992904
+321,"Casey County,Kentucky","Norfolk City County,Virginia",36258,1031835
+322,"Casey County,Kentucky","Norton City County,Virginia",13094,291667
+323,"Casey County,Kentucky","Petersburg City County,Virginia",32045,919831
+324,"Casey County,Kentucky","Poquoson City County,Virginia",35180,1003481
+325,"Casey County,Kentucky","Portsmouth City County,Virginia",36197,1040655
+326,"Casey County,Kentucky","Radford County,Virginia",21418,512192
+327,"Casey County,Kentucky","Richmond City County,Virginia",30913,883946
+328,"Casey County,Kentucky","Roanoke City County,Virginia",23613,577469
+329,"Casey County,Kentucky","Salem City County,Virginia",23025,564019
+330,"Casey County,Kentucky","South Boston City County,Virginia",29207,702179
+331,"Casey County,Kentucky","Staunton City County,Virginia",25800,721778
+332,"Casey County,Kentucky","Suffolk City County,Virginia",36432,1015437
+333,"Casey County,Kentucky","Virginia Beach City County,Virginia",36819,1055093
+334,"Casey County,Kentucky","Waynesboro City County,Virginia",26138,734496
+335,"Casey County,Kentucky","Williamsburg City County,Virginia",33552,965154
+336,"Casey County,Kentucky","Winchester City County,Virginia",30362,834480
+337,"Casey County,Kentucky","Barbour County,West Virginia",21843,595177
+338,"Casey County,Kentucky","Berkeley County,West Virginia",29776,833336
+339,"Casey County,Kentucky","Boone County,West Virginia",17022,428793
+340,"Casey County,Kentucky","Braxton County,West Virginia",18533,486156
+341,"Casey County,Kentucky","Brooke County,West Virginia",23432,652943
+342,"Casey County,Kentucky","Cabell County,West Virginia",11593,295302
+343,"Casey County,Kentucky","Calhoun County,West Virginia",18454,483840
+344,"Casey County,Kentucky","Clay County,West Virginia",17300,457069
+345,"Casey County,Kentucky","Doddridge County,West Virginia",20986,576686
+346,"Casey County,Kentucky","Fayette County,West Virginia",18587,475413
+347,"Casey County,Kentucky","Gilmer County,West Virginia",19731,508342
+348,"Casey County,Kentucky","Grant County,West Virginia",26198,696722
+349,"Casey County,Kentucky","Greenbrier County,West Virginia",21661,553451
+350,"Casey County,Kentucky","Hampshire County,West Virginia",29030,794939
+351,"Casey County,Kentucky","Hancock County,West Virginia",25021,687479
+352,"Casey County,Kentucky","Hardy County,West Virginia",27253,728219
+353,"Casey County,Kentucky","Harrison County,West Virginia",21076,581547
+354,"Casey County,Kentucky","Jackson County,West Virginia",16338,438172
+355,"Casey County,Kentucky","Jefferson County,West Virginia",31241,889334
+356,"Casey County,Kentucky","Kanawha County,West Virginia",15895,409477
+357,"Casey County,Kentucky","Lewis County,West Virginia",19706,535017
+358,"Casey County,Kentucky","Lincoln County,West Virginia",14810,352952
+359,"Casey County,Kentucky","Logan County,West Virginia",16764,388755
+360,"Casey County,Kentucky","McDowell County,West Virginia",20112,421836
+361,"Casey County,Kentucky","Marion County,West Virginia",22222,608715
+362,"Casey County,Kentucky","Marshall County,West Virginia",23389,647451
+363,"Casey County,Kentucky","Mason County,West Virginia",14574,386047
+364,"Casey County,Kentucky","Mercer County,West Virginia",19222,521036
+365,"Casey County,Kentucky","Mineral County,West Virginia",27892,725543
+366,"Casey County,Kentucky","Mingo County,West Virginia",15448,355208
+367,"Casey County,Kentucky","Monongalia County,West Virginia",22432,634183
+368,"Casey County,Kentucky","Monroe County,West Virginia",22268,565747
+369,"Casey County,Kentucky","Morgan County,West Virginia",29267,822728
+370,"Casey County,Kentucky","Nicholas County,West Virginia",19016,516949
+371,"Casey County,Kentucky","Ohio County,West Virginia",22451,634181
+372,"Casey County,Kentucky","Pendleton County,West Virginia",26529,699346
+373,"Casey County,Kentucky","Pleasants County,West Virginia",19820,536024
+374,"Casey County,Kentucky","Pocahontas County,West Virginia",24345,586488
+375,"Casey County,Kentucky","Preston County,West Virginia",24578,660914
+376,"Casey County,Kentucky","Putnam County,West Virginia",13276,348079
+377,"Casey County,Kentucky","Raleigh County,West Virginia",17763,474729
+378,"Casey County,Kentucky","Randolph County,West Virginia",22207,597472
+379,"Casey County,Kentucky","Ritchie County,West Virginia",20151,549728
+380,"Casey County,Kentucky","Roane County,West Virginia",17963,466987
+381,"Casey County,Kentucky","Summers County,West Virginia",21216,536166
+382,"Casey County,Kentucky","Taylor County,West Virginia",22114,604287
+383,"Casey County,Kentucky","Tucker County,West Virginia",23274,627997
+384,"Casey County,Kentucky","Tyler County,West Virginia",21729,575639
+385,"Casey County,Kentucky","Upshur County,West Virginia",21270,549714
+386,"Casey County,Kentucky","Wayne County,West Virginia",13124,316497
+387,"Casey County,Kentucky","Webster County,West Virginia",21200,544029
+388,"Casey County,Kentucky","Wetzel County,West Virginia",22942,597546
+389,"Casey County,Kentucky","Wirt County,West Virginia",18604,495510
+390,"Casey County,Kentucky","Wood County,West Virginia",18119,497200
+391,"Casey County,Kentucky","Wyoming County,West Virginia",19734,427694

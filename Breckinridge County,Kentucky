@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Breckinridge County,Kentucky","Adair County,Kentucky",7599,171745
+1,"Breckinridge County,Kentucky","Allen County,Kentucky",6481,167062
+2,"Breckinridge County,Kentucky","Anderson County,Kentucky",7014,169510
+3,"Breckinridge County,Kentucky","Ballard County,Kentucky",10834,291355
+4,"Breckinridge County,Kentucky","Barren County,Kentucky",6683,148331
+5,"Breckinridge County,Kentucky","Bath County,Kentucky",10376,289747
+6,"Breckinridge County,Kentucky","Bell County,Kentucky",15016,352591
+7,"Breckinridge County,Kentucky","Boone County,Kentucky",10096,260085
+8,"Breckinridge County,Kentucky","Bourbon County,Kentucky",9498,247404
+9,"Breckinridge County,Kentucky","Boyd County,Kentucky",13633,391204
+10,"Breckinridge County,Kentucky","Boyle County,Kentucky",7526,177430
+11,"Breckinridge County,Kentucky","Bracken County,Kentucky",12453,299440
+12,"Breckinridge County,Kentucky","Breathitt County,Kentucky",12976,353928
+13,"Breckinridge County,Kentucky","Bullitt County,Kentucky",4537,104042
+14,"Breckinridge County,Kentucky","Butler County,Kentucky",4212,83950
+15,"Breckinridge County,Kentucky","Caldwell County,Kentucky",6946,182208
+16,"Breckinridge County,Kentucky","Calloway County,Kentucky",9756,267200
+17,"Breckinridge County,Kentucky","Campbell County,Kentucky",10967,289788
+18,"Breckinridge County,Kentucky","Carlisle County,Kentucky",11291,306723
+19,"Breckinridge County,Kentucky","Carroll County,Kentucky",7580,193862
+20,"Breckinridge County,Kentucky","Carter County,Kentucky",12770,360461
+21,"Breckinridge County,Kentucky","Casey County,Kentucky",8762,187145
+22,"Breckinridge County,Kentucky","Christian County,Kentucky",6595,177465
+23,"Breckinridge County,Kentucky","Clay County,Kentucky",13247,311636
+24,"Breckinridge County,Kentucky","Clinton County,Kentucky",10222,229166
+25,"Breckinridge County,Kentucky","Crittenden County,Kentucky",8526,215278
+26,"Breckinridge County,Kentucky","Cumberland County,Kentucky",9381,205266
+27,"Breckinridge County,Kentucky","Daviess County,Kentucky",3518,82246
+28,"Breckinridge County,Kentucky","Edmonson County,Kentucky",4395,91464
+29,"Breckinridge County,Kentucky","Elliott County,Kentucky",13546,351723
+30,"Breckinridge County,Kentucky","Estill County,Kentucky",10910,290468
+31,"Breckinridge County,Kentucky","Fayette County,Kentucky",8339,220962
+32,"Breckinridge County,Kentucky","Fleming County,Kentucky",11804,319966
+33,"Breckinridge County,Kentucky","Floyd County,Kentucky",15163,413959
+34,"Breckinridge County,Kentucky","Franklin County,Kentucky",7755,191453
+35,"Breckinridge County,Kentucky","Fulton County,Kentucky",11695,327687
+36,"Breckinridge County,Kentucky","Gallatin County,Kentucky",8289,213187
+37,"Breckinridge County,Kentucky","Garrard County,Kentucky",9168,209625
+38,"Breckinridge County,Kentucky","Grant County,Kentucky",9655,238640
+39,"Breckinridge County,Kentucky","Graves County,Kentucky",10316,279429
+40,"Breckinridge County,Kentucky","Grayson County,Kentucky",2679,56046
+41,"Breckinridge County,Kentucky","Green County,Kentucky",6210,134101
+42,"Breckinridge County,Kentucky","Greenup County,Kentucky",14239,387791
+43,"Breckinridge County,Kentucky","Hancock County,Kentucky",1756,40402
+44,"Breckinridge County,Kentucky","Hardin County,Kentucky",2623,54681
+45,"Breckinridge County,Kentucky","Harlan County,Kentucky",17310,408196
+46,"Breckinridge County,Kentucky","Harrison County,Kentucky",10017,253547
+47,"Breckinridge County,Kentucky","Hart County,Kentucky",5018,110319
+48,"Breckinridge County,Kentucky","Henderson County,Kentucky",5426,138666
+49,"Breckinridge County,Kentucky","Henry County,Kentucky",7255,174610
+50,"Breckinridge County,Kentucky","Hickman County,Kentucky",11325,308015
+51,"Breckinridge County,Kentucky","Hopkins County,Kentucky",6405,156676
+52,"Breckinridge County,Kentucky","Jackson County,Kentucky",12353,320304
+53,"Breckinridge County,Kentucky","Jefferson County,Kentucky",5188,115001
+54,"Breckinridge County,Kentucky","Jessamine County,Kentucky",8463,209175
+55,"Breckinridge County,Kentucky","Johnson County,Kentucky",14116,389952
+56,"Breckinridge County,Kentucky","Kenton County,Kentucky",9983,255801
+57,"Breckinridge County,Kentucky","Knott County,Kentucky",15436,417306
+58,"Breckinridge County,Kentucky","Knox County,Kentucky",13177,314332
+59,"Breckinridge County,Kentucky","Larue County,Kentucky",4468,93838
+60,"Breckinridge County,Kentucky","Laurel County,Kentucky",12029,285727
+61,"Breckinridge County,Kentucky","Lawrence County,Kentucky",15637,418340
+62,"Breckinridge County,Kentucky","Lee County,Kentucky",12225,330385
+63,"Breckinridge County,Kentucky","Leslie County,Kentucky",15197,362759
+64,"Breckinridge County,Kentucky","Letcher County,Kentucky",16689,442279
+65,"Breckinridge County,Kentucky","Lewis County,Kentucky",13329,358106
+66,"Breckinridge County,Kentucky","Lincoln County,Kentucky",8911,207361
+67,"Breckinridge County,Kentucky","Livingston County,Kentucky",9121,232175
+68,"Breckinridge County,Kentucky","Logan County,Kentucky",5861,138754
+69,"Breckinridge County,Kentucky","Lyon County,Kentucky",9255,242565
+70,"Breckinridge County,Kentucky","McCracken County,Kentucky",9447,259415
+71,"Breckinridge County,Kentucky","McCreary County,Kentucky",11949,285596
+72,"Breckinridge County,Kentucky","Madison County,Kentucky",9761,264191
+73,"Breckinridge County,Kentucky","Magoffin County,Kentucky",13585,371819
+74,"Breckinridge County,Kentucky","Marion County,Kentucky",6589,152728
+75,"Breckinridge County,Kentucky","Marshall County,Kentucky",8861,242986
+76,"Breckinridge County,Kentucky","Martin County,Kentucky",16903,448297
+77,"Breckinridge County,Kentucky","Mason County,Kentucky",12627,318970
+78,"Breckinridge County,Kentucky","Meade County,Kentucky",2082,37136
+79,"Breckinridge County,Kentucky","Menifee County,Kentucky",11650,302285
+80,"Breckinridge County,Kentucky","Mercer County,Kentucky",7373,176305
+81,"Breckinridge County,Kentucky","Metcalfe County,Kentucky",7215,175358
+82,"Breckinridge County,Kentucky","Monroe County,Kentucky",8001,177011
+83,"Breckinridge County,Kentucky","Montgomery County,Kentucky",10293,280194
+84,"Breckinridge County,Kentucky","Morgan County,Kentucky",12975,360103
+85,"Breckinridge County,Kentucky","Muhlenberg County,Kentucky",5265,123152
+86,"Breckinridge County,Kentucky","Nelson County,Kentucky",4866,111791
+87,"Breckinridge County,Kentucky","Nicholas County,Kentucky",10754,274786
+88,"Breckinridge County,Kentucky","Ohio County,Kentucky",2730,55622
+89,"Breckinridge County,Kentucky","Oldham County,Kentucky",5981,141909
+90,"Breckinridge County,Kentucky","Owen County,Kentucky",9097,223627
+91,"Breckinridge County,Kentucky","Owsley County,Kentucky",13372,350362
+92,"Breckinridge County,Kentucky","Pendleton County,Kentucky",10922,274505
+93,"Breckinridge County,Kentucky","Perry County,Kentucky",14588,393811
+94,"Breckinridge County,Kentucky","Pike County,Kentucky",16842,444283
+95,"Breckinridge County,Kentucky","Powell County,Kentucky",10587,289053
+96,"Breckinridge County,Kentucky","Robertson County,Kentucky",11525,295912
+97,"Breckinridge County,Kentucky","Rockcastle County,Kentucky",10657,244048
+98,"Breckinridge County,Kentucky","Rowan County,Kentucky",11117,313599
+99,"Breckinridge County,Kentucky","Russell County,Kentucky",8803,200958
+100,"Breckinridge County,Kentucky","Scott County,Kentucky",8604,223022
+101,"Breckinridge County,Kentucky","Shelby County,Kentucky",6287,149056
+102,"Breckinridge County,Kentucky","Simpson County,Kentucky",6396,160922
+103,"Breckinridge County,Kentucky","Spencer County,Kentucky",6300,148610
+104,"Breckinridge County,Kentucky","Taylor County,Kentucky",6427,139850
+105,"Breckinridge County,Kentucky","Todd County,Kentucky",7189,151348
+106,"Breckinridge County,Kentucky","Trigg County,Kentucky",8008,203394
+107,"Breckinridge County,Kentucky","Trimble County,Kentucky",7379,181709
+108,"Breckinridge County,Kentucky","Union County,Kentucky",7170,175767
+109,"Breckinridge County,Kentucky","Warren County,Kentucky",5158,110551
+110,"Breckinridge County,Kentucky","Washington County,Kentucky",6697,152410
+111,"Breckinridge County,Kentucky","Wayne County,Kentucky",11623,259366
+112,"Breckinridge County,Kentucky","Webster County,Kentucky",7100,151121
+113,"Breckinridge County,Kentucky","Whitley County,Kentucky",12862,320212
+114,"Breckinridge County,Kentucky","Wolfe County,Kentucky",11851,326925
+115,"Breckinridge County,Kentucky","Woodford County,Kentucky",7542,197785
+116,"Breckinridge County,Kentucky","Adams County,Ohio",13861,366445
+117,"Breckinridge County,Kentucky","Allen County,Ohio",17402,481694
+118,"Breckinridge County,Kentucky","Ashland County,Ohio",20591,583572
+119,"Breckinridge County,Kentucky","Ashtabula County,Ohio",26337,768324
+120,"Breckinridge County,Kentucky","Athens County,Ohio",19055,512788
+121,"Breckinridge County,Kentucky","Auglaize County,Ohio",16658,468959
+122,"Breckinridge County,Kentucky","Belmont County,Ohio",21929,630004
+123,"Breckinridge County,Kentucky","Brown County,Ohio",13114,343000
+124,"Breckinridge County,Kentucky","Butler County,Ohio",12480,331568
+125,"Breckinridge County,Kentucky","Carroll County,Ohio",23894,667228
+126,"Breckinridge County,Kentucky","Champaign County,Ohio",15436,423141
+127,"Breckinridge County,Kentucky","Clark County,Ohio",14865,409774
+128,"Breckinridge County,Kentucky","Clermont County,Ohio",11231,302747
+129,"Breckinridge County,Kentucky","Clinton County,Ohio",13325,354053
+130,"Breckinridge County,Kentucky","Columbiana County,Ohio",25450,702817
+131,"Breckinridge County,Kentucky","Coshocton County,Ohio",20452,562645
+132,"Breckinridge County,Kentucky","Crawford County,Ohio",20129,575545
+133,"Breckinridge County,Kentucky","Cuyahoga County,Ohio",22909,666037
+134,"Breckinridge County,Kentucky","Darke County,Ohio",15694,432612
+135,"Breckinridge County,Kentucky","Defiance County,Ohio",19713,551013
+136,"Breckinridge County,Kentucky","Delaware County,Ohio",17508,490244
+137,"Breckinridge County,Kentucky","Fairfield County,Ohio",16912,473494
+138,"Breckinridge County,Kentucky","Fayette County,Ohio",14224,391658
+139,"Breckinridge County,Kentucky","Franklin County,Ohio",16026,450172
+140,"Breckinridge County,Kentucky","Fulton County,Ohio",21147,593592
+141,"Breckinridge County,Kentucky","Gallia County,Ohio",17919,491576
+142,"Breckinridge County,Kentucky","Geauga County,Ohio",24438,705256
+143,"Breckinridge County,Kentucky","Greene County,Ohio",13652,363407
+144,"Breckinridge County,Kentucky","Guernsey County,Ohio",19658,563685
+145,"Breckinridge County,Kentucky","Hamilton County,Ohio",11135,296053
+146,"Breckinridge County,Kentucky","Hancock County,Ohio",18512,522590
+147,"Breckinridge County,Kentucky","Hardin County,Ohio",18299,506987
+148,"Breckinridge County,Kentucky","Harrison County,Ohio",22899,649293
+149,"Breckinridge County,Kentucky","Henry County,Ohio",20236,547058
+150,"Breckinridge County,Kentucky","Highland County,Ohio",14173,365699
+151,"Breckinridge County,Kentucky","Hocking County,Ohio",18349,516898
+152,"Breckinridge County,Kentucky","Holmes County,Ohio",22003,599503
+153,"Breckinridge County,Kentucky","Huron County,Ohio",21738,582343
+154,"Breckinridge County,Kentucky","Jackson County,Ohio",16452,447157
+155,"Breckinridge County,Kentucky","Jefferson County,Ohio",23892,659071
+156,"Breckinridge County,Kentucky","Knox County,Ohio",19958,549866
+157,"Breckinridge County,Kentucky","Lawrence County,Ohio",16040,427632
+158,"Breckinridge County,Kentucky","Licking County,Ohio",18291,505089
+159,"Breckinridge County,Kentucky","Logan County,Ohio",16671,455678
+160,"Breckinridge County,Kentucky","Lorain County,Ohio",23523,640997
+161,"Breckinridge County,Kentucky","Lucas County,Ohio",21837,609110
+162,"Breckinridge County,Kentucky","Madison County,Ohio",15446,426841
+163,"Breckinridge County,Kentucky","Mahoning County,Ohio",25307,719956
+164,"Breckinridge County,Kentucky","Marion County,Ohio",18555,497680
+165,"Breckinridge County,Kentucky","Medina County,Ohio",21236,608585
+166,"Breckinridge County,Kentucky","Meigs County,Ohio",18851,521959
+167,"Breckinridge County,Kentucky","Mercer County,Ohio",17755,469131
+168,"Breckinridge County,Kentucky","Miami County,Ohio",14245,391398
+169,"Breckinridge County,Kentucky","Monroe County,Ohio",23334,644569
+170,"Breckinridge County,Kentucky","Montgomery County,Ohio",13628,369138
+171,"Breckinridge County,Kentucky","Morgan County,Ohio",20724,572181
+172,"Breckinridge County,Kentucky","Morrow County,Ohio",18316,513065
+173,"Breckinridge County,Kentucky","Muskingum County,Ohio",18509,529841
+174,"Breckinridge County,Kentucky","Noble County,Ohio",21357,600805
+175,"Breckinridge County,Kentucky","Paulding County,Ohio",18645,515932
+176,"Breckinridge County,Kentucky","Perry County,Ohio",18577,518425
+177,"Breckinridge County,Kentucky","Pickaway County,Ohio",16161,440254
+178,"Breckinridge County,Kentucky","Pike County,Ohio",15228,412142
+179,"Breckinridge County,Kentucky","Portage County,Ohio",23758,679735
+180,"Breckinridge County,Kentucky","Preble County,Ohio",14525,375968
+181,"Breckinridge County,Kentucky","Putnam County,Ohio",18577,514162
+182,"Breckinridge County,Kentucky","Richland County,Ohio",19346,548304
+183,"Breckinridge County,Kentucky","Ross County,Ohio",15804,439571
+184,"Breckinridge County,Kentucky","Sandusky County,Ohio",21552,602666
+185,"Breckinridge County,Kentucky","Scioto County,Ohio",16028,432773
+186,"Breckinridge County,Kentucky","Seneca County,Ohio",20856,578930
+187,"Breckinridge County,Kentucky","Shelby County,Ohio",15283,427684
+188,"Breckinridge County,Kentucky","Stark County,Ohio",23504,664118
+189,"Breckinridge County,Kentucky","Summit County,Ohio",22440,643913
+190,"Breckinridge County,Kentucky","Trumbull County,Ohio",25340,730227
+191,"Breckinridge County,Kentucky","Tuscarawas County,Ohio",21953,623050
+192,"Breckinridge County,Kentucky","Union County,Ohio",16798,453062
+193,"Breckinridge County,Kentucky","Van Wert County,Ohio",18567,514218
+194,"Breckinridge County,Kentucky","Vinton County,Ohio",17987,488324
+195,"Breckinridge County,Kentucky","Warren County,Ohio",12014,322309
+196,"Breckinridge County,Kentucky","Washington County,Ohio",21888,593908
+197,"Breckinridge County,Kentucky","Wayne County,Ohio",20964,597583
+198,"Breckinridge County,Kentucky","Williams County,Ohio",20703,570894
+199,"Breckinridge County,Kentucky","Wood County,Ohio",19599,563218
+200,"Breckinridge County,Kentucky","Wyandot County,Ohio",19207,543470
+201,"Breckinridge County,Kentucky","Accomack County,Virginia",43719,1265072
+202,"Breckinridge County,Kentucky","Albemarle County,Virginia",29868,877572
+203,"Breckinridge County,Kentucky","Alleghany County,Virginia",24537,714595
+204,"Breckinridge County,Kentucky","Amelia County,Virginia",34569,977690
+205,"Breckinridge County,Kentucky","Amherst County,Virginia",29866,845561
+206,"Breckinridge County,Kentucky","Appomattox County,Virginia",31460,884320
+207,"Breckinridge County,Kentucky","Arlington County,Virginia",36152,1073604
+208,"Breckinridge County,Kentucky","Augusta County,Virginia",28479,815911
+209,"Breckinridge County,Kentucky","Bath County,Virginia",27549,789905
+210,"Breckinridge County,Kentucky","Bedford County,Virginia",30126,831685
+211,"Breckinridge County,Kentucky","Bland County,Virginia",23499,680814
+212,"Breckinridge County,Kentucky","Botetourt County,Virginia",27692,785894
+213,"Breckinridge County,Kentucky","Brunswick County,Virginia",37112,1027363
+214,"Breckinridge County,Kentucky","Buchanan County,Virginia",20894,523789
+215,"Breckinridge County,Kentucky","Buckingham County,Virginia",31742,895255
+216,"Breckinridge County,Kentucky","Campbell County,Virginia",31383,886792
+217,"Breckinridge County,Kentucky","Caroline County,Virginia",35208,1046417
+218,"Breckinridge County,Kentucky","Carroll County,Virginia",25745,750252
+219,"Breckinridge County,Kentucky","Charles City County,Virginia",35308,1043452
+220,"Breckinridge County,Kentucky","Charlotte County,Virginia",33344,937840
+221,"Breckinridge County,Kentucky","Chesterfield County,Virginia",34444,1021236
+222,"Breckinridge County,Kentucky","Clarke County,Virginia",34048,1004630
+223,"Breckinridge County,Kentucky","Craig County,Virginia",26181,735680
+224,"Breckinridge County,Kentucky","Culpeper County,Virginia",33666,966788
+225,"Breckinridge County,Kentucky","Cumberland County,Virginia",32952,923257
+226,"Breckinridge County,Kentucky","Dickenson County,Virginia",20248,509225
+227,"Breckinridge County,Kentucky","Dinwiddie County,Virginia",36191,1071667
+228,"Breckinridge County,Kentucky","Essex County,Virginia",37025,1070460
+229,"Breckinridge County,Kentucky","Fairfax County,Virginia",35842,1064271
+230,"Breckinridge County,Kentucky","Fauquier County,Virginia",34487,1025881
+231,"Breckinridge County,Kentucky","Floyd County,Virginia",27366,769216
+232,"Breckinridge County,Kentucky","Fluvanna County,Virginia",31546,929743
+233,"Breckinridge County,Kentucky","Franklin County,Virginia",29639,832919
+234,"Breckinridge County,Kentucky","Frederick County,Virginia",32714,918764
+235,"Breckinridge County,Kentucky","Giles County,Virginia",24230,692373
+236,"Breckinridge County,Kentucky","Gloucester County,Virginia",37479,1097640
+237,"Breckinridge County,Kentucky","Goochland County,Virginia",32450,960354
+238,"Breckinridge County,Kentucky","Grayson County,Virginia",26148,739959
+239,"Breckinridge County,Kentucky","Greene County,Virginia",31861,913156
+240,"Breckinridge County,Kentucky","Greensville County,Virginia",37607,1120419
+241,"Breckinridge County,Kentucky","Halifax County,Virginia",34048,947939
+242,"Breckinridge County,Kentucky","Hanover County,Virginia",33656,1001461
+243,"Breckinridge County,Kentucky","Henrico County,Virginia",34168,1014421
+244,"Breckinridge County,Kentucky","Henry County,Virginia",29618,836973
+245,"Breckinridge County,Kentucky","Highland County,Virginia",28994,799875
+246,"Breckinridge County,Kentucky","Isle of Wight County,Virginia",38420,1118998
+247,"Breckinridge County,Kentucky","James City County,Virginia",36544,1084223
+248,"Breckinridge County,Kentucky","King and Queen County,Virginia",36202,1059807
+249,"Breckinridge County,Kentucky","King George County,Virginia",36321,1074404
+250,"Breckinridge County,Kentucky","King William County,Virginia",34890,1029729
+251,"Breckinridge County,Kentucky","Lancaster County,Virginia",38682,1112815
+252,"Breckinridge County,Kentucky","Lee County,Virginia",18108,429150
+253,"Breckinridge County,Kentucky","Loudoun County,Virginia",35544,1040496
+254,"Breckinridge County,Kentucky","Louisa County,Virginia",32107,943449
+255,"Breckinridge County,Kentucky","Lunenburg County,Virginia",35116,979124
+256,"Breckinridge County,Kentucky","Madison County,Virginia",32781,942896
+257,"Breckinridge County,Kentucky","Mathews County,Virginia",38304,1121064
+258,"Breckinridge County,Kentucky","Mecklenburg County,Virginia",36107,992249
+259,"Breckinridge County,Kentucky","Middlesex County,Virginia",37080,1093841
+260,"Breckinridge County,Kentucky","Montgomery County,Virginia",25313,720379
+261,"Breckinridge County,Kentucky","Nelson County,Virginia",30407,857252
+262,"Breckinridge County,Kentucky","New Kent County,Virginia",35980,1058137
+263,"Breckinridge County,Kentucky","Northampton County,Virginia",40961,1200886
+264,"Breckinridge County,Kentucky","Northumberland County,Virginia",38722,1111327
+265,"Breckinridge County,Kentucky","Nottoway County,Virginia",34609,979504
+266,"Breckinridge County,Kentucky","Orange County,Virginia",33070,951557
+267,"Breckinridge County,Kentucky","Page County,Virginia",31715,926682
+268,"Breckinridge County,Kentucky","Patrick County,Virginia",27851,795288
+269,"Breckinridge County,Kentucky","Pittsylvania County,Virginia",31934,891181
+270,"Breckinridge County,Kentucky","Powhatan County,Virginia",33703,985576
+271,"Breckinridge County,Kentucky","Prince Edward County,Virginia",33224,936840
+272,"Breckinridge County,Kentucky","Prince George County,Virginia",35955,1058251
+273,"Breckinridge County,Kentucky","Prince William County,Virginia",34586,1031985
+274,"Breckinridge County,Kentucky","Pulaski County,Virginia",25408,716711
+275,"Breckinridge County,Kentucky","Rappahannock County,Virginia",33546,963169
+276,"Breckinridge County,Kentucky","Richmond County,Virginia",37422,1083970
+277,"Breckinridge County,Kentucky","Roanoke County,Virginia",26933,763173
+278,"Breckinridge County,Kentucky","Rockbridge County,Virginia",26870,782951
+279,"Breckinridge County,Kentucky","Rockingham County,Virginia",30754,899032
+280,"Breckinridge County,Kentucky","Russell County,Virginia",22426,542338
+281,"Breckinridge County,Kentucky","Scott County,Virginia",20427,476991
+282,"Breckinridge County,Kentucky","Shenandoah County,Virginia",31259,929136
+283,"Breckinridge County,Kentucky","Smyth County,Virginia",24535,624826
+284,"Breckinridge County,Kentucky","Southampton County,Virginia",37985,1116533
+285,"Breckinridge County,Kentucky","Spotsylvania County,Virginia",34123,985288
+286,"Breckinridge County,Kentucky","Stafford County,Virginia",35505,1009581
+287,"Breckinridge County,Kentucky","Surry County,Virginia",37288,1083084
+288,"Breckinridge County,Kentucky","Sussex County,Virginia",36649,1086776
+289,"Breckinridge County,Kentucky","Tazewell County,Virginia",23139,580563
+290,"Breckinridge County,Kentucky","Warren County,Virginia",33161,973728
+291,"Breckinridge County,Kentucky","Washington County,Virginia",22646,575943
+292,"Breckinridge County,Kentucky","Westmoreland County,Virginia",37295,1091228
+293,"Breckinridge County,Kentucky","Wise County,Virginia",18513,485124
+294,"Breckinridge County,Kentucky","Wythe County,Virginia",24104,699031
+295,"Breckinridge County,Kentucky","York County,Virginia",37832,1114997
+296,"Breckinridge County,Kentucky","Alexandria City County,Virginia",36667,1090785
+297,"Breckinridge County,Kentucky","Bedford City County,Virginia",29291,823117
+298,"Breckinridge County,Kentucky","Bristol City County,Virginia",22380,518318
+299,"Breckinridge County,Kentucky","Buena Vista City County,Virginia",27225,796928
+300,"Breckinridge County,Kentucky","Charlottesville City County,Virginia",30338,892786
+301,"Breckinridge County,Kentucky","Chesapeake City County,Virginia",39295,1167903
+302,"Breckinridge County,Kentucky","Clifton Forge City County,Virginia",25081,734801
+303,"Breckinridge County,Kentucky","Colonial Heights City County,Virginia",35004,1037128
+304,"Breckinridge County,Kentucky","Covington City County,Virginia",24607,718180
+305,"Breckinridge County,Kentucky","Danville City County,Virginia",31776,891429
+306,"Breckinridge County,Kentucky","Emporia City County,Virginia",37315,1107012
+307,"Breckinridge County,Kentucky","Fairfax City County,Virginia",35719,1057732
+308,"Breckinridge County,Kentucky","Falls Church City County,Virginia",35860,1067916
+309,"Breckinridge County,Kentucky","Franklin City County,Virginia",38533,1124388
+310,"Breckinridge County,Kentucky","Fredericksburg City County,Virginia",35256,994947
+311,"Breckinridge County,Kentucky","Galax City County,Virginia",26368,756118
+312,"Breckinridge County,Kentucky","Hampton City County,Virginia",37782,1124704
+313,"Breckinridge County,Kentucky","Harrisonburg City County,Virginia",29813,878928
+314,"Breckinridge County,Kentucky","Hopewell City County,Virginia",35041,1036094
+315,"Breckinridge County,Kentucky","Lexington City County,Virginia",26859,785420
+316,"Breckinridge County,Kentucky","Lynchburg City County,Virginia",30442,860534
+317,"Breckinridge County,Kentucky","Manassas City County,Virginia",34814,1036930
+318,"Breckinridge County,Kentucky","Manassas Park City County,Virginia",35316,1043273
+319,"Breckinridge County,Kentucky","Martinsville City County,Virginia",30146,845766
+320,"Breckinridge County,Kentucky","Newport News City County,Virginia",37339,1111190
+321,"Breckinridge County,Kentucky","Norfolk City County,Virginia",39088,1150120
+322,"Breckinridge County,Kentucky","Norton City County,Virginia",19142,496936
+323,"Breckinridge County,Kentucky","Petersburg City County,Virginia",34876,1038116
+324,"Breckinridge County,Kentucky","Poquoson City County,Virginia",38010,1121766
+325,"Breckinridge County,Kentucky","Portsmouth City County,Virginia",39027,1158940
+326,"Breckinridge County,Kentucky","Radford County,Virginia",25721,718420
+327,"Breckinridge County,Kentucky","Richmond City County,Virginia",33744,1002231
+328,"Breckinridge County,Kentucky","Roanoke City County,Virginia",27535,783278
+329,"Breckinridge County,Kentucky","Salem City County,Virginia",26947,769828
+330,"Breckinridge County,Kentucky","South Boston City County,Virginia",33788,945607
+331,"Breckinridge County,Kentucky","Staunton City County,Virginia",28630,840063
+332,"Breckinridge County,Kentucky","Suffolk City County,Virginia",39263,1133722
+333,"Breckinridge County,Kentucky","Virginia Beach City County,Virginia",39649,1173378
+334,"Breckinridge County,Kentucky","Waynesboro City County,Virginia",28968,852781
+335,"Breckinridge County,Kentucky","Williamsburg City County,Virginia",36383,1083439
+336,"Breckinridge County,Kentucky","Winchester City County,Virginia",33192,952765
+337,"Breckinridge County,Kentucky","Barbour County,West Virginia",24673,713462
+338,"Breckinridge County,Kentucky","Berkeley County,West Virginia",32606,951621
+339,"Breckinridge County,Kentucky","Boone County,West Virginia",19852,547078
+340,"Breckinridge County,Kentucky","Braxton County,West Virginia",21363,604441
+341,"Breckinridge County,Kentucky","Brooke County,West Virginia",24008,672252
+342,"Breckinridge County,Kentucky","Cabell County,West Virginia",14424,413587
+343,"Breckinridge County,Kentucky","Calhoun County,West Virginia",21284,602125
+344,"Breckinridge County,Kentucky","Clay County,West Virginia",20130,575354
+345,"Breckinridge County,Kentucky","Doddridge County,West Virginia",23817,694971
+346,"Breckinridge County,Kentucky","Fayette County,West Virginia",21417,593698
+347,"Breckinridge County,Kentucky","Gilmer County,West Virginia",22562,626628
+348,"Breckinridge County,Kentucky","Grant County,West Virginia",29029,815007
+349,"Breckinridge County,Kentucky","Greenbrier County,West Virginia",24492,671736
+350,"Breckinridge County,Kentucky","Hampshire County,West Virginia",31861,913224
+351,"Breckinridge County,Kentucky","Hancock County,West Virginia",25597,706788
+352,"Breckinridge County,Kentucky","Hardy County,West Virginia",30084,846504
+353,"Breckinridge County,Kentucky","Harrison County,West Virginia",23907,699832
+354,"Breckinridge County,Kentucky","Jackson County,West Virginia",19168,556457
+355,"Breckinridge County,Kentucky","Jefferson County,West Virginia",34072,1007619
+356,"Breckinridge County,Kentucky","Kanawha County,West Virginia",18726,527762
+357,"Breckinridge County,Kentucky","Lewis County,West Virginia",22536,653302
+358,"Breckinridge County,Kentucky","Lincoln County,West Virginia",17641,471237
+359,"Breckinridge County,Kentucky","Logan County,West Virginia",19897,515052
+360,"Breckinridge County,Kentucky","McDowell County,West Virginia",23749,567240
+361,"Breckinridge County,Kentucky","Marion County,West Virginia",25052,727000
+362,"Breckinridge County,Kentucky","Marshall County,West Virginia",23965,666760
+363,"Breckinridge County,Kentucky","Mason County,West Virginia",17405,504332
+364,"Breckinridge County,Kentucky","Mercer County,West Virginia",22053,639321
+365,"Breckinridge County,Kentucky","Mineral County,West Virginia",30723,843828
+366,"Breckinridge County,Kentucky","Mingo County,West Virginia",18581,481505
+367,"Breckinridge County,Kentucky","Monongalia County,West Virginia",25263,752468
+368,"Breckinridge County,Kentucky","Monroe County,West Virginia",25098,684032
+369,"Breckinridge County,Kentucky","Morgan County,West Virginia",32098,941013
+370,"Breckinridge County,Kentucky","Nicholas County,West Virginia",21846,635234
+371,"Breckinridge County,Kentucky","Ohio County,West Virginia",23027,653490
+372,"Breckinridge County,Kentucky","Pendleton County,West Virginia",29360,817631
+373,"Breckinridge County,Kentucky","Pleasants County,West Virginia",22651,654309
+374,"Breckinridge County,Kentucky","Pocahontas County,West Virginia",27176,704773
+375,"Breckinridge County,Kentucky","Preston County,West Virginia",27409,779199
+376,"Breckinridge County,Kentucky","Putnam County,West Virginia",16107,466365
+377,"Breckinridge County,Kentucky","Raleigh County,West Virginia",20594,593014
+378,"Breckinridge County,Kentucky","Randolph County,West Virginia",25038,715757
+379,"Breckinridge County,Kentucky","Ritchie County,West Virginia",22982,668013
+380,"Breckinridge County,Kentucky","Roane County,West Virginia",20794,585273
+381,"Breckinridge County,Kentucky","Summers County,West Virginia",24046,654451
+382,"Breckinridge County,Kentucky","Taylor County,West Virginia",24945,722572
+383,"Breckinridge County,Kentucky","Tucker County,West Virginia",26105,746282
+384,"Breckinridge County,Kentucky","Tyler County,West Virginia",24560,693924
+385,"Breckinridge County,Kentucky","Upshur County,West Virginia",24101,667999
+386,"Breckinridge County,Kentucky","Wayne County,West Virginia",15954,434783
+387,"Breckinridge County,Kentucky","Webster County,West Virginia",24031,662314
+388,"Breckinridge County,Kentucky","Wetzel County,West Virginia",25772,715831
+389,"Breckinridge County,Kentucky","Wirt County,West Virginia",21435,613795
+390,"Breckinridge County,Kentucky","Wood County,West Virginia",20949,615485
+391,"Breckinridge County,Kentucky","Wyoming County,West Virginia",22539,632955

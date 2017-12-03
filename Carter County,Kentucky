@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Carter County,Kentucky","Adair County,Kentucky",11468,305201
+1,"Carter County,Kentucky","Allen County,Kentucky",14086,405849
+2,"Carter County,Kentucky","Anderson County,Kentucky",7267,208240
+3,"Carter County,Kentucky","Ballard County,Kentucky",20246,598012
+4,"Carter County,Kentucky","Barren County,Kentucky",13213,364229
+5,"Carter County,Kentucky","Bath County,Kentucky",2915,79422
+6,"Carter County,Kentucky","Bell County,Kentucky",11921,310039
+7,"Carter County,Kentucky","Boone County,Kentucky",9047,214792
+8,"Carter County,Kentucky","Bourbon County,Kentucky",4829,125839
+9,"Carter County,Kentucky","Boyd County,Kentucky",1628,35147
+10,"Carter County,Kentucky","Boyle County,Kentucky",8496,212127
+11,"Carter County,Kentucky","Bracken County,Kentucky",5559,133899
+12,"Carter County,Kentucky","Breathitt County,Kentucky",6445,127342
+13,"Carter County,Kentucky","Breckinridge County,Kentucky",12801,360922
+14,"Carter County,Kentucky","Bullitt County,Kentucky",9371,282041
+15,"Carter County,Kentucky","Butler County,Kentucky",13466,382919
+16,"Carter County,Kentucky","Caldwell County,Kentucky",16358,488865
+17,"Carter County,Kentucky","Calloway County,Kentucky",19168,573857
+18,"Carter County,Kentucky","Campbell County,Kentucky",7260,173771
+19,"Carter County,Kentucky","Carlisle County,Kentucky",20703,613380
+20,"Carter County,Kentucky","Carroll County,Kentucky",9812,256055
+21,"Carter County,Kentucky","Casey County,Kentucky",9991,243632
+22,"Carter County,Kentucky","Christian County,Kentucky",16007,484121
+23,"Carter County,Kentucky","Clay County,Kentucky",10037,204655
+24,"Carter County,Kentucky","Clinton County,Kentucky",11875,308567
+25,"Carter County,Kentucky","Crittenden County,Kentucky",17937,521935
+26,"Carter County,Kentucky","Cumberland County,Kentucky",12629,326806
+27,"Carter County,Kentucky","Daviess County,Kentucky",14489,429362
+28,"Carter County,Kentucky","Edmonson County,Kentucky",12906,370794
+29,"Carter County,Kentucky","Elliott County,Kentucky",2229,36507
+30,"Carter County,Kentucky","Estill County,Kentucky",5907,141737
+31,"Carter County,Kentucky","Fayette County,Kentucky",5075,145733
+32,"Carter County,Kentucky","Fleming County,Kentucky",3341,82607
+33,"Carter County,Kentucky","Floyd County,Kentucky",5784,117040
+34,"Carter County,Kentucky","Franklin County,Kentucky",7112,194650
+35,"Carter County,Kentucky","Fulton County,Kentucky",21107,634344
+36,"Carter County,Kentucky","Gallatin County,Kentucky",8810,246713
+37,"Carter County,Kentucky","Garrard County,Kentucky",7680,192887
+38,"Carter County,Kentucky","Grant County,Kentucky",7609,220821
+39,"Carter County,Kentucky","Graves County,Kentucky",19728,586086
+40,"Carter County,Kentucky","Grayson County,Kentucky",11793,339555
+41,"Carter County,Kentucky","Green County,Kentucky",11573,304761
+42,"Carter County,Kentucky","Greenup County,Kentucky",2164,47980
+43,"Carter County,Kentucky","Hancock County,Kentucky",13596,393815
+44,"Carter County,Kentucky","Hardin County,Kentucky",10669,301688
+45,"Carter County,Kentucky","Harlan County,Kentucky",12905,263980
+46,"Carter County,Kentucky","Harrison County,Kentucky",6399,158939
+47,"Carter County,Kentucky","Hart County,Kentucky",11469,329317
+48,"Carter County,Kentucky","Henderson County,Kentucky",16295,481792
+49,"Carter County,Kentucky","Henry County,Kentucky",8714,238368
+50,"Carter County,Kentucky","Hickman County,Kentucky",20736,614672
+51,"Carter County,Kentucky","Hopkins County,Kentucky",15816,463333
+52,"Carter County,Kentucky","Jackson County,Kentucky",8580,189745
+53,"Carter County,Kentucky","Jefferson County,Kentucky",8807,253902
+54,"Carter County,Kentucky","Jessamine County,Kentucky",6544,167197
+55,"Carter County,Kentucky","Johnson County,Kentucky",4432,82671
+56,"Carter County,Kentucky","Kenton County,Kentucky",8416,202486
+57,"Carter County,Kentucky","Knott County,Kentucky",6966,148921
+58,"Carter County,Kentucky","Knox County,Kentucky",10083,271779
+59,"Carter County,Kentucky","Larue County,Kentucky",10741,288864
+60,"Carter County,Kentucky","Laurel County,Kentucky",8934,243174
+61,"Carter County,Kentucky","Lawrence County,Kentucky",3274,59382
+62,"Carter County,Kentucky","Lee County,Kentucky",6895,142367
+63,"Carter County,Kentucky","Leslie County,Kentucky",9934,208887
+64,"Carter County,Kentucky","Letcher County,Kentucky",8821,186531
+65,"Carter County,Kentucky","Lewis County,Kentucky",2893,56283
+66,"Carter County,Kentucky","Lincoln County,Kentucky",8390,209805
+67,"Carter County,Kentucky","Livingston County,Kentucky",18533,538832
+68,"Carter County,Kentucky","Logan County,Kentucky",15206,426158
+69,"Carter County,Kentucky","Lyon County,Kentucky",18667,549222
+70,"Carter County,Kentucky","McCracken County,Kentucky",18858,566071
+71,"Carter County,Kentucky","McCreary County,Kentucky",11039,287616
+72,"Carter County,Kentucky","Madison County,Kentucky",6073,156756
+73,"Carter County,Kentucky","Magoffin County,Kentucky",5400,103350
+74,"Carter County,Kentucky","Marion County,Kentucky",9119,250473
+75,"Carter County,Kentucky","Marshall County,Kentucky",18273,549643
+76,"Carter County,Kentucky","Martin County,Kentucky",5499,128026
+77,"Carter County,Kentucky","Mason County,Kentucky",4908,113445
+78,"Carter County,Kentucky","Meade County,Kentucky",11268,326216
+79,"Carter County,Kentucky","Menifee County,Kentucky",4031,91485
+80,"Carter County,Kentucky","Mercer County,Kentucky",7495,206184
+81,"Carter County,Kentucky","Metcalfe County,Kentucky",12124,335466
+82,"Carter County,Kentucky","Monroe County,Kentucky",14094,372970
+83,"Carter County,Kentucky","Montgomery County,Kentucky",3728,97962
+84,"Carter County,Kentucky","Morgan County,Kentucky",3953,74095
+85,"Carter County,Kentucky","Muhlenberg County,Kentucky",14677,429809
+86,"Carter County,Kentucky","Nelson County,Kentucky",8726,249545
+87,"Carter County,Kentucky","Nicholas County,Kentucky",5406,125845
+88,"Carter County,Kentucky","Ohio County,Kentucky",13590,397398
+89,"Carter County,Kentucky","Oldham County,Kentucky",8879,265783
+90,"Carter County,Kentucky","Owen County,Kentucky",7934,221427
+91,"Carter County,Kentucky","Owsley County,Kentucky",8042,162344
+92,"Carter County,Kentucky","Pendleton County,Kentucky",7497,174823
+93,"Carter County,Kentucky","Perry County,Kentucky",8057,167225
+94,"Carter County,Kentucky","Pike County,Kentucky",7464,147364
+95,"Carter County,Kentucky","Powell County,Kentucky",5172,127708
+96,"Carter County,Kentucky","Robertson County,Kentucky",5323,125351
+97,"Carter County,Kentucky","Rockcastle County,Kentucky",7507,197899
+98,"Carter County,Kentucky","Rowan County,Kentucky",2057,51629
+99,"Carter County,Kentucky","Russell County,Kentucky",11072,289185
+100,"Carter County,Kentucky","Scott County,Kentucky",5909,173760
+101,"Carter County,Kentucky","Shelby County,Kentucky",7736,225036
+102,"Carter County,Kentucky","Simpson County,Kentucky",14788,434215
+103,"Carter County,Kentucky","Spencer County,Kentucky",8266,230884
+104,"Carter County,Kentucky","Taylor County,Kentucky",10408,281969
+105,"Carter County,Kentucky","Todd County,Kentucky",16442,450318
+106,"Carter County,Kentucky","Trigg County,Kentucky",17420,510050
+107,"Carter County,Kentucky","Trimble County,Kentucky",9952,271823
+108,"Carter County,Kentucky","Union County,Kentucky",18015,512238
+109,"Carter County,Kentucky","Warren County,Kentucky",13822,399163
+110,"Carter County,Kentucky","Washington County,Kentucky",8737,234781
+111,"Carter County,Kentucky","Wayne County,Kentucky",11248,286258
+112,"Carter County,Kentucky","Webster County,Kentucky",16926,491422
+113,"Carter County,Kentucky","Whitley County,Kentucky",9767,277659
+114,"Carter County,Kentucky","Wolfe County,Kentucky",5047,97457
+115,"Carter County,Kentucky","Woodford County,Kentucky",6129,176396
+116,"Carter County,Kentucky","Adams County,Ohio",6714,148406
+117,"Carter County,Kentucky","Allen County,Ohio",15438,375966
+118,"Carter County,Kentucky","Ashland County,Ohio",14506,367654
+119,"Carter County,Kentucky","Ashtabula County,Ohio",20252,552405
+120,"Carter County,Kentucky","Athens County,Ohio",7955,193167
+121,"Carter County,Kentucky","Auglaize County,Ohio",14688,392666
+122,"Carter County,Kentucky","Belmont County,Ohio",13706,409738
+123,"Carter County,Kentucky","Brown County,Ohio",6245,142929
+124,"Carter County,Kentucky","Butler County,Ohio",10587,262346
+125,"Carter County,Kentucky","Carroll County,Ohio",15635,446624
+126,"Carter County,Kentucky","Champaign County,Ohio",11992,294763
+127,"Carter County,Kentucky","Clark County,Ohio",10671,254307
+128,"Carter County,Kentucky","Clermont County,Ohio",8066,184330
+129,"Carter County,Kentucky","Clinton County,Ohio",8941,202819
+130,"Carter County,Kentucky","Columbiana County,Ohio",17477,500859
+131,"Carter County,Kentucky","Coshocton County,Ohio",14105,339566
+132,"Carter County,Kentucky","Crawford County,Ohio",14120,336112
+133,"Carter County,Kentucky","Cuyahoga County,Ohio",16824,450119
+134,"Carter County,Kentucky","Darke County,Ohio",13785,349712
+135,"Carter County,Kentucky","Defiance County,Ohio",18873,454287
+136,"Carter County,Kentucky","Delaware County,Ohio",11423,274326
+137,"Carter County,Kentucky","Fairfield County,Ohio",9967,226149
+138,"Carter County,Kentucky","Fayette County,Ohio",8739,212453
+139,"Carter County,Kentucky","Franklin County,Ohio",9940,234253
+140,"Carter County,Kentucky","Fulton County,Ohio",19210,491680
+141,"Carter County,Kentucky","Gallia County,Ohio",5913,135519
+142,"Carter County,Kentucky","Geauga County,Ohio",18352,489337
+143,"Carter County,Kentucky","Greene County,Ohio",9609,245605
+144,"Carter County,Kentucky","Guernsey County,Ohio",11821,355659
+145,"Carter County,Kentucky","Hamilton County,Ohio",9241,226831
+146,"Carter County,Kentucky","Hancock County,Ohio",15297,377204
+147,"Carter County,Kentucky","Hardin County,Ohio",13949,331795
+148,"Carter County,Kentucky","Harrison County,Ohio",14641,428689
+149,"Carter County,Kentucky","Henry County,Ohio",18010,448825
+150,"Carter County,Kentucky","Highland County,Ohio",7675,166628
+151,"Carter County,Kentucky","Hocking County,Ohio",9097,186405
+152,"Carter County,Kentucky","Holmes County,Ohio",15329,440625
+153,"Carter County,Kentucky","Huron County,Ohio",15652,366424
+154,"Carter County,Kentucky","Jackson County,Ohio",5463,118714
+155,"Carter County,Kentucky","Jefferson County,Ohio",15634,438467
+156,"Carter County,Kentucky","Knox County,Ohio",13872,333947
+157,"Carter County,Kentucky","Lawrence County,Ohio",4034,71575
+158,"Carter County,Kentucky","Licking County,Ohio",11944,282010
+159,"Carter County,Kentucky","Logan County,Ohio",12969,326072
+160,"Carter County,Kentucky","Lorain County,Ohio",17437,425078
+161,"Carter County,Kentucky","Lucas County,Ohio",18932,464703
+162,"Carter County,Kentucky","Madison County,Ohio",10440,235537
+163,"Carter County,Kentucky","Mahoning County,Ohio",17973,515664
+164,"Carter County,Kentucky","Marion County,Ohio",12680,294942
+165,"Carter County,Kentucky","Medina County,Ohio",15151,392667
+166,"Carter County,Kentucky","Meigs County,Ohio",6845,165902
+167,"Carter County,Kentucky","Mercer County,Ohio",15923,419599
+168,"Carter County,Kentucky","Miami County,Ohio",12274,315104
+169,"Carter County,Kentucky","Monroe County,Ohio",12757,344851
+170,"Carter County,Kentucky","Montgomery County,Ohio",11643,293061
+171,"Carter County,Kentucky","Morgan County,Ohio",10909,260191
+172,"Carter County,Kentucky","Morrow County,Ohio",12230,297146
+173,"Carter County,Kentucky","Muskingum County,Ohio",12162,306762
+174,"Carter County,Kentucky","Noble County,Ohio",11263,328011
+175,"Carter County,Kentucky","Paulding County,Ohio",17974,451872
+176,"Carter County,Kentucky","Perry County,Ohio",11054,224997
+177,"Carter County,Kentucky","Pickaway County,Ohio",8179,192551
+178,"Carter County,Kentucky","Pike County,Ohio",5141,117678
+179,"Carter County,Kentucky","Portage County,Ohio",17194,513610
+180,"Carter County,Kentucky","Preble County,Ohio",12631,306745
+181,"Carter County,Kentucky","Putnam County,Ohio",16561,408324
+182,"Carter County,Kentucky","Richland County,Ohio",13260,332385
+183,"Carter County,Kentucky","Ross County,Ohio",6923,158858
+184,"Carter County,Kentucky","Sandusky County,Ohio",17053,395899
+185,"Carter County,Kentucky","Scioto County,Ohio",4451,99803
+186,"Carter County,Kentucky","Seneca County,Ohio",15670,369783
+187,"Carter County,Kentucky","Shelby County,Ohio",13312,351390
+188,"Carter County,Kentucky","Stark County,Ohio",15494,461859
+189,"Carter County,Kentucky","Summit County,Ohio",16354,427994
+190,"Carter County,Kentucky","Trumbull County,Ohio",18928,541911
+191,"Carter County,Kentucky","Tuscarawas County,Ohio",13695,402446
+192,"Carter County,Kentucky","Union County,Ohio",11473,276303
+193,"Carter County,Kentucky","Van Wert County,Ohio",16672,418836
+194,"Carter County,Kentucky","Vinton County,Ohio",8035,162816
+195,"Carter County,Kentucky","Warren County,Ohio",10040,219082
+196,"Carter County,Kentucky","Washington County,Ohio",9882,237851
+197,"Carter County,Kentucky","Wayne County,Ohio",14879,381664
+198,"Carter County,Kentucky","Williams County,Ohio",20050,477803
+199,"Carter County,Kentucky","Wood County,Ohio",16695,418811
+200,"Carter County,Kentucky","Wyandot County,Ohio",14267,341339
+201,"Carter County,Kentucky","Accomack County,Virginia",31713,909016
+202,"Carter County,Kentucky","Albemarle County,Virginia",17863,521515
+203,"Carter County,Kentucky","Alleghany County,Virginia",12532,358538
+204,"Carter County,Kentucky","Amelia County,Virginia",22564,621633
+205,"Carter County,Kentucky","Amherst County,Virginia",17861,489504
+206,"Carter County,Kentucky","Appomattox County,Virginia",19454,528263
+207,"Carter County,Kentucky","Arlington County,Virginia",24146,717547
+208,"Carter County,Kentucky","Augusta County,Virginia",16474,459855
+209,"Carter County,Kentucky","Bath County,Virginia",15544,433848
+210,"Carter County,Kentucky","Bedford County,Virginia",18121,475629
+211,"Carter County,Kentucky","Bland County,Virginia",11494,324758
+212,"Carter County,Kentucky","Botetourt County,Virginia",15686,429838
+213,"Carter County,Kentucky","Brunswick County,Virginia",25107,671306
+214,"Carter County,Kentucky","Buchanan County,Virginia",11516,226870
+215,"Carter County,Kentucky","Buckingham County,Virginia",19737,539198
+216,"Carter County,Kentucky","Campbell County,Virginia",19378,530735
+217,"Carter County,Kentucky","Caroline County,Virginia",23202,690361
+218,"Carter County,Kentucky","Carroll County,Virginia",13739,394195
+219,"Carter County,Kentucky","Charles City County,Virginia",23303,687395
+220,"Carter County,Kentucky","Charlotte County,Virginia",21339,581784
+221,"Carter County,Kentucky","Chesterfield County,Virginia",22439,665179
+222,"Carter County,Kentucky","Clarke County,Virginia",22043,648573
+223,"Carter County,Kentucky","Craig County,Virginia",14175,379623
+224,"Carter County,Kentucky","Culpeper County,Virginia",21660,610732
+225,"Carter County,Kentucky","Cumberland County,Virginia",20946,567201
+226,"Carter County,Kentucky","Dickenson County,Virginia",11324,232367
+227,"Carter County,Kentucky","Dinwiddie County,Virginia",24186,715611
+228,"Carter County,Kentucky","Essex County,Virginia",25020,714403
+229,"Carter County,Kentucky","Fairfax County,Virginia",23837,708214
+230,"Carter County,Kentucky","Fauquier County,Virginia",22481,669825
+231,"Carter County,Kentucky","Floyd County,Virginia",15360,413160
+232,"Carter County,Kentucky","Fluvanna County,Virginia",19541,573687
+233,"Carter County,Kentucky","Franklin County,Virginia",17633,476862
+234,"Carter County,Kentucky","Frederick County,Virginia",20708,562707
+235,"Carter County,Kentucky","Giles County,Virginia",12225,336316
+236,"Carter County,Kentucky","Gloucester County,Virginia",25473,741584
+237,"Carter County,Kentucky","Goochland County,Virginia",20444,604298
+238,"Carter County,Kentucky","Grayson County,Virginia",14142,383903
+239,"Carter County,Kentucky","Greene County,Virginia",19856,557099
+240,"Carter County,Kentucky","Greensville County,Virginia",25602,764362
+241,"Carter County,Kentucky","Halifax County,Virginia",22043,591882
+242,"Carter County,Kentucky","Hanover County,Virginia",21651,645405
+243,"Carter County,Kentucky","Henrico County,Virginia",22162,658364
+244,"Carter County,Kentucky","Henry County,Virginia",17613,480916
+245,"Carter County,Kentucky","Highland County,Virginia",16988,443818
+246,"Carter County,Kentucky","Isle of Wight County,Virginia",26414,762941
+247,"Carter County,Kentucky","James City County,Virginia",24539,728166
+248,"Carter County,Kentucky","King and Queen County,Virginia",24197,703750
+249,"Carter County,Kentucky","King George County,Virginia",24315,718347
+250,"Carter County,Kentucky","King William County,Virginia",22884,673673
+251,"Carter County,Kentucky","Lancaster County,Virginia",26677,756758
+252,"Carter County,Kentucky","Lee County,Virginia",12624,280883
+253,"Carter County,Kentucky","Loudoun County,Virginia",23538,684440
+254,"Carter County,Kentucky","Louisa County,Virginia",20102,587393
+255,"Carter County,Kentucky","Lunenburg County,Virginia",23111,623068
+256,"Carter County,Kentucky","Madison County,Virginia",20776,586840
+257,"Carter County,Kentucky","Mathews County,Virginia",26298,765007
+258,"Carter County,Kentucky","Mecklenburg County,Virginia",24102,636192
+259,"Carter County,Kentucky","Middlesex County,Virginia",25075,737784
+260,"Carter County,Kentucky","Montgomery County,Virginia",13308,364323
+261,"Carter County,Kentucky","Nelson County,Virginia",18402,501195
+262,"Carter County,Kentucky","New Kent County,Virginia",23975,702080
+263,"Carter County,Kentucky","Northampton County,Virginia",28956,844830
+264,"Carter County,Kentucky","Northumberland County,Virginia",26717,755270
+265,"Carter County,Kentucky","Nottoway County,Virginia",22604,623447
+266,"Carter County,Kentucky","Orange County,Virginia",21064,595500
+267,"Carter County,Kentucky","Page County,Virginia",19709,570625
+268,"Carter County,Kentucky","Patrick County,Virginia",15845,439231
+269,"Carter County,Kentucky","Pittsylvania County,Virginia",19929,535124
+270,"Carter County,Kentucky","Powhatan County,Virginia",21698,629519
+271,"Carter County,Kentucky","Prince Edward County,Virginia",21219,580783
+272,"Carter County,Kentucky","Prince George County,Virginia",23949,702195
+273,"Carter County,Kentucky","Prince William County,Virginia",22581,675928
+274,"Carter County,Kentucky","Pulaski County,Virginia",13403,360654
+275,"Carter County,Kentucky","Rappahannock County,Virginia",21540,607112
+276,"Carter County,Kentucky","Richmond County,Virginia",25417,727914
+277,"Carter County,Kentucky","Roanoke County,Virginia",14927,407116
+278,"Carter County,Kentucky","Rockbridge County,Virginia",14865,426894
+279,"Carter County,Kentucky","Rockingham County,Virginia",18748,542975
+280,"Carter County,Kentucky","Russell County,Virginia",13047,245419
+281,"Carter County,Kentucky","Scott County,Virginia",12800,279820
+282,"Carter County,Kentucky","Shenandoah County,Virginia",19253,573079
+283,"Carter County,Kentucky","Smyth County,Virginia",13852,390110
+284,"Carter County,Kentucky","Southampton County,Virginia",25980,760476
+285,"Carter County,Kentucky","Spotsylvania County,Virginia",22118,629231
+286,"Carter County,Kentucky","Stafford County,Virginia",23499,653524
+287,"Carter County,Kentucky","Surry County,Virginia",25282,727028
+288,"Carter County,Kentucky","Sussex County,Virginia",24644,730719
+289,"Carter County,Kentucky","Tazewell County,Virginia",12309,343345
+290,"Carter County,Kentucky","Warren County,Virginia",21155,617671
+291,"Carter County,Kentucky","Washington County,Virginia",13722,299084
+292,"Carter County,Kentucky","Westmoreland County,Virginia",25289,735172
+293,"Carter County,Kentucky","Wise County,Virginia",9589,208266
+294,"Carter County,Kentucky","Wythe County,Virginia",12099,342975
+295,"Carter County,Kentucky","York County,Virginia",25826,758941
+296,"Carter County,Kentucky","Alexandria City County,Virginia",24662,734729
+297,"Carter County,Kentucky","Bedford City County,Virginia",17285,467060
+298,"Carter County,Kentucky","Bristol City County,Virginia",14562,319971
+299,"Carter County,Kentucky","Buena Vista City County,Virginia",15219,440872
+300,"Carter County,Kentucky","Charlottesville City County,Virginia",18332,536730
+301,"Carter County,Kentucky","Chesapeake City County,Virginia",27289,811846
+302,"Carter County,Kentucky","Clifton Forge City County,Virginia",13076,378745
+303,"Carter County,Kentucky","Colonial Heights City County,Virginia",22998,681071
+304,"Carter County,Kentucky","Covington City County,Virginia",12601,362124
+305,"Carter County,Kentucky","Danville City County,Virginia",19770,535372
+306,"Carter County,Kentucky","Emporia City County,Virginia",25309,750956
+307,"Carter County,Kentucky","Fairfax City County,Virginia",23713,701676
+308,"Carter County,Kentucky","Falls Church City County,Virginia",23854,711859
+309,"Carter County,Kentucky","Franklin City County,Virginia",26527,768331
+310,"Carter County,Kentucky","Fredericksburg City County,Virginia",23251,638891
+311,"Carter County,Kentucky","Galax City County,Virginia",14363,400061
+312,"Carter County,Kentucky","Hampton City County,Virginia",25776,768647
+313,"Carter County,Kentucky","Harrisonburg City County,Virginia",17808,522872
+314,"Carter County,Kentucky","Hopewell City County,Virginia",23035,680038
+315,"Carter County,Kentucky","Lexington City County,Virginia",14854,429363
+316,"Carter County,Kentucky","Lynchburg City County,Virginia",18437,504478
+317,"Carter County,Kentucky","Manassas City County,Virginia",22808,680873
+318,"Carter County,Kentucky","Manassas Park City County,Virginia",23310,687216
+319,"Carter County,Kentucky","Martinsville City County,Virginia",18140,489710
+320,"Carter County,Kentucky","Newport News City County,Virginia",25333,755133
+321,"Carter County,Kentucky","Norfolk City County,Virginia",27083,794063
+322,"Carter County,Kentucky","Norton City County,Virginia",10217,220078
+323,"Carter County,Kentucky","Petersburg City County,Virginia",22870,682059
+324,"Carter County,Kentucky","Poquoson City County,Virginia",26005,765709
+325,"Carter County,Kentucky","Portsmouth City County,Virginia",27022,802884
+326,"Carter County,Kentucky","Radford County,Virginia",13715,362363
+327,"Carter County,Kentucky","Richmond City County,Virginia",21738,646175
+328,"Carter County,Kentucky","Roanoke City County,Virginia",15529,427221
+329,"Carter County,Kentucky","Salem City County,Virginia",14941,413771
+330,"Carter County,Kentucky","South Boston City County,Virginia",21783,589550
+331,"Carter County,Kentucky","Staunton City County,Virginia",16625,484007
+332,"Carter County,Kentucky","Suffolk City County,Virginia",27257,777665
+333,"Carter County,Kentucky","Virginia Beach City County,Virginia",27644,817321
+334,"Carter County,Kentucky","Waynesboro City County,Virginia",16963,496725
+335,"Carter County,Kentucky","Williamsburg City County,Virginia",24377,727382
+336,"Carter County,Kentucky","Winchester City County,Virginia",21187,596708
+337,"Carter County,Kentucky","Barbour County,West Virginia",12668,357405
+338,"Carter County,Kentucky","Berkeley County,West Virginia",20601,595564
+339,"Carter County,Kentucky","Boone County,West Virginia",7847,191022
+340,"Carter County,Kentucky","Braxton County,West Virginia",9358,248384
+341,"Carter County,Kentucky","Brooke County,West Virginia",15785,451985
+342,"Carter County,Kentucky","Cabell County,West Virginia",2418,57531
+343,"Carter County,Kentucky","Calhoun County,West Virginia",9279,246069
+344,"Carter County,Kentucky","Clay County,West Virginia",8125,219297
+345,"Carter County,Kentucky","Doddridge County,West Virginia",11811,338914
+346,"Carter County,Kentucky","Fayette County,West Virginia",9412,237641
+347,"Carter County,Kentucky","Gilmer County,West Virginia",10557,270571
+348,"Carter County,Kentucky","Grant County,West Virginia",17023,458950
+349,"Carter County,Kentucky","Greenbrier County,West Virginia",12486,315680
+350,"Carter County,Kentucky","Hampshire County,West Virginia",19855,557168
+351,"Carter County,Kentucky","Hancock County,West Virginia",17374,486521
+352,"Carter County,Kentucky","Hardy County,West Virginia",18079,490447
+353,"Carter County,Kentucky","Harrison County,West Virginia",11901,343776
+354,"Carter County,Kentucky","Jackson County,West Virginia",7163,200400
+355,"Carter County,Kentucky","Jefferson County,West Virginia",22067,651562
+356,"Carter County,Kentucky","Kanawha County,West Virginia",6721,171705
+357,"Carter County,Kentucky","Lewis County,West Virginia",10531,297246
+358,"Carter County,Kentucky","Lincoln County,West Virginia",5635,115181
+359,"Carter County,Kentucky","Logan County,West Virginia",8165,187509
+360,"Carter County,Kentucky","McDowell County,West Virginia",12571,260574
+361,"Carter County,Kentucky","Marion County,West Virginia",13047,370943
+362,"Carter County,Kentucky","Marshall County,West Virginia",15171,388086
+363,"Carter County,Kentucky","Mason County,West Virginia",5399,148275
+364,"Carter County,Kentucky","Mercer County,West Virginia",10047,283264
+365,"Carter County,Kentucky","Mineral County,West Virginia",18717,487771
+366,"Carter County,Kentucky","Mingo County,West Virginia",6849,153962
+367,"Carter County,Kentucky","Monongalia County,West Virginia",13257,396411
+368,"Carter County,Kentucky","Monroe County,West Virginia",13093,327976
+369,"Carter County,Kentucky","Morgan County,West Virginia",20092,584956
+370,"Carter County,Kentucky","Nicholas County,West Virginia",9841,279178
+371,"Carter County,Kentucky","Ohio County,West Virginia",14803,433223
+372,"Carter County,Kentucky","Pendleton County,West Virginia",17354,461574
+373,"Carter County,Kentucky","Pleasants County,West Virginia",10645,298252
+374,"Carter County,Kentucky","Pocahontas County,West Virginia",15170,348716
+375,"Carter County,Kentucky","Preston County,West Virginia",15403,423142
+376,"Carter County,Kentucky","Putnam County,West Virginia",4101,110308
+377,"Carter County,Kentucky","Raleigh County,West Virginia",8589,236957
+378,"Carter County,Kentucky","Randolph County,West Virginia",13032,359701
+379,"Carter County,Kentucky","Ritchie County,West Virginia",10976,311956
+380,"Carter County,Kentucky","Roane County,West Virginia",8789,229216
+381,"Carter County,Kentucky","Summers County,West Virginia",12041,298395
+382,"Carter County,Kentucky","Taylor County,West Virginia",12939,366515
+383,"Carter County,Kentucky","Tucker County,West Virginia",14099,390225
+384,"Carter County,Kentucky","Tyler County,West Virginia",12555,337868
+385,"Carter County,Kentucky","Upshur County,West Virginia",12096,311943
+386,"Carter County,Kentucky","Wayne County,West Virginia",3949,78726
+387,"Carter County,Kentucky","Webster County,West Virginia",12025,306257
+388,"Carter County,Kentucky","Wetzel County,West Virginia",13767,359774
+389,"Carter County,Kentucky","Wirt County,West Virginia",9429,257738
+390,"Carter County,Kentucky","Wood County,West Virginia",8944,259428
+391,"Carter County,Kentucky","Wyoming County,West Virginia",10533,276899
