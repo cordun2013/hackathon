@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Carroll County,Ohio","Adair County,Kentucky",25268,697019
+1,"Carroll County,Ohio","Allen County,Kentucky",26025,750305
+2,"Carroll County,Ohio","Anderson County,Kentucky",20250,576164
+3,"Carroll County,Ohio","Ballard County,Kentucky",32185,942467
+4,"Carroll County,Ohio","Barren County,Kentucky",25152,718718
+5,"Carroll County,Ohio","Bath County,Kentucky",17899,522286
+6,"Carroll County,Ohio","Bell County,Kentucky",25454,658102
+7,"Carroll County,Ohio","Boone County,Kentucky",15719,426889
+8,"Carroll County,Ohio","Bourbon County,Kentucky",19123,535432
+9,"Carroll County,Ohio","Boyd County,Kentucky",14575,416611
+10,"Carroll County,Ohio","Boyle County,Kentucky",21560,604052
+11,"Carroll County,Ohio","Bracken County,Kentucky",17106,472425
+12,"Carroll County,Ohio","Breathitt County,Kentucky",21286,563313
+13,"Carroll County,Ohio","Breckinridge County,Kentucky",24064,668869
+14,"Carroll County,Ohio","Bullitt County,Kentucky",20601,589701
+15,"Carroll County,Ohio","Butler County,Kentucky",25404,727375
+16,"Carroll County,Ohio","Caldwell County,Kentucky",28296,833320
+17,"Carroll County,Ohio","Calloway County,Kentucky",31106,918313
+18,"Carroll County,Ohio","Campbell County,Kentucky",15636,425374
+19,"Carroll County,Ohio","Carlisle County,Kentucky",32642,957836
+20,"Carroll County,Ohio","Carroll County,Kentucky",17292,488655
+21,"Carroll County,Ohio","Carter County,Kentucky",15739,446708
+22,"Carroll County,Ohio","Casey County,Kentucky",23484,634181
+23,"Carroll County,Ohio","Christian County,Kentucky",27945,828577
+24,"Carroll County,Ohio","Clay County,Kentucky",23784,650427
+25,"Carroll County,Ohio","Clinton County,Kentucky",25723,723727
+26,"Carroll County,Ohio","Crittenden County,Kentucky",29876,866391
+27,"Carroll County,Ohio","Cumberland County,Kentucky",26477,741966
+28,"Carroll County,Ohio","Daviess County,Kentucky",25377,732187
+29,"Carroll County,Ohio","Edmonson County,Kentucky",24844,715250
+30,"Carroll County,Ohio","Elliott County,Kentucky",17070,472478
+31,"Carroll County,Ohio","Estill County,Kentucky",20891,584602
+32,"Carroll County,Ohio","Fayette County,Kentucky",18498,528687
+33,"Carroll County,Ohio","Fleming County,Kentucky",18149,454996
+34,"Carroll County,Ohio","Floyd County,Kentucky",18708,523876
+35,"Carroll County,Ohio","Franklin County,Kentucky",19732,532038
+36,"Carroll County,Ohio","Fulton County,Kentucky",33046,978800
+37,"Carroll County,Ohio","Gallatin County,Kentucky",16504,461068
+38,"Carroll County,Ohio","Garrard County,Kentucky",21528,608047
+39,"Carroll County,Ohio","Grant County,Kentucky",16571,461542
+40,"Carroll County,Ohio","Graves County,Kentucky",31666,930542
+41,"Carroll County,Ohio","Grayson County,Kentucky",23732,684011
+42,"Carroll County,Ohio","Green County,Kentucky",24419,690007
+43,"Carroll County,Ohio","Greenup County,Kentucky",15498,395958
+44,"Carroll County,Ohio","Hancock County,Kentucky",24262,686706
+45,"Carroll County,Ohio","Hardin County,Kentucky",22608,646144
+46,"Carroll County,Ohio","Harlan County,Kentucky",24777,638418
+47,"Carroll County,Ohio","Harrison County,Kentucky",18007,495604
+48,"Carroll County,Ohio","Hart County,Kentucky",23407,673772
+49,"Carroll County,Ohio","Henderson County,Kentucky",26961,774682
+50,"Carroll County,Ohio","Henry County,Kentucky",18478,516977
+51,"Carroll County,Ohio","Hickman County,Kentucky",32675,959127
+52,"Carroll County,Ohio","Hopkins County,Kentucky",27755,807789
+53,"Carroll County,Ohio","Jackson County,Kentucky",22512,628029
+54,"Carroll County,Ohio","Jefferson County,Kentucky",19694,559136
+55,"Carroll County,Ohio","Jessamine County,Kentucky",19759,551999
+56,"Carroll County,Ohio","Johnson County,Kentucky",17356,489507
+57,"Carroll County,Ohio","Kenton County,Kentucky",15364,420447
+58,"Carroll County,Ohio","Knott County,Kentucky",19889,555758
+59,"Carroll County,Ohio","Knox County,Kentucky",23931,686939
+60,"Carroll County,Ohio","Larue County,Kentucky",22677,649743
+61,"Carroll County,Ohio","Laurel County,Kentucky",22782,658334
+62,"Carroll County,Ohio","Lawrence County,Kentucky",16498,460931
+63,"Carroll County,Ohio","Lee County,Kentucky",21736,578338
+64,"Carroll County,Ohio","Leslie County,Kentucky",22969,625431
+65,"Carroll County,Ohio","Letcher County,Kentucky",20961,558698
+66,"Carroll County,Ohio","Lewis County,Kentucky",16683,417276
+67,"Carroll County,Ohio","Lincoln County,Kentucky",22238,624965
+68,"Carroll County,Ohio","Livingston County,Kentucky",30472,883287
+69,"Carroll County,Ohio","Logan County,Kentucky",27145,770613
+70,"Carroll County,Ohio","Lyon County,Kentucky",30605,893678
+71,"Carroll County,Ohio","McCracken County,Kentucky",30797,910527
+72,"Carroll County,Ohio","McCreary County,Kentucky",24887,702776
+73,"Carroll County,Ohio","Madison County,Kentucky",19921,571916
+74,"Carroll County,Ohio","Magoffin County,Kentucky",18324,510186
+75,"Carroll County,Ohio","Marion County,Kentucky",22258,628516
+76,"Carroll County,Ohio","Marshall County,Kentucky",30211,894099
+77,"Carroll County,Ohio","Martin County,Kentucky",17983,493276
+78,"Carroll County,Ohio","Mason County,Kentucky",17685,436224
+79,"Carroll County,Ohio","Meade County,Kentucky",22141,626377
+80,"Carroll County,Ohio","Menifee County,Kentucky",19015,534350
+81,"Carroll County,Ohio","Mercer County,Kentucky",20634,584227
+82,"Carroll County,Ohio","Metcalfe County,Kentucky",25603,738810
+83,"Carroll County,Ohio","Monroe County,Kentucky",26499,762393
+84,"Carroll County,Ohio","Montgomery County,Kentucky",18712,540827
+85,"Carroll County,Ohio","Morgan County,Kentucky",18793,510066
+86,"Carroll County,Ohio","Muhlenberg County,Kentucky",26615,774265
+87,"Carroll County,Ohio","Nelson County,Kentucky",21865,627588
+88,"Carroll County,Ohio","Nicholas County,Kentucky",18871,472046
+89,"Carroll County,Ohio","Ohio County,Kentucky",25528,741854
+90,"Carroll County,Ohio","Oldham County,Kentucky",18593,530082
+91,"Carroll County,Ohio","Owen County,Kentucky",17736,487457
+92,"Carroll County,Ohio","Owsley County,Kentucky",22883,598315
+93,"Carroll County,Ohio","Pendleton County,Kentucky",16512,447216
+94,"Carroll County,Ohio","Perry County,Kentucky",21269,586315
+95,"Carroll County,Ohio","Pike County,Kentucky",18263,488815
+96,"Carroll County,Ohio","Powell County,Kentucky",20156,570573
+97,"Carroll County,Ohio","Robertson County,Kentucky",18435,491209
+98,"Carroll County,Ohio","Rockcastle County,Kentucky",21355,613059
+99,"Carroll County,Ohio","Rowan County,Kentucky",17042,494494
+100,"Carroll County,Ohio","Russell County,Kentucky",24920,704345
+101,"Carroll County,Ohio","Scott County,Kentucky",17500,496062
+102,"Carroll County,Ohio","Shelby County,Kentucky",19849,543968
+103,"Carroll County,Ohio","Simpson County,Kentucky",26726,778671
+104,"Carroll County,Ohio","Spencer County,Kentucky",20808,588757
+105,"Carroll County,Ohio","Taylor County,Kentucky",23547,660012
+106,"Carroll County,Ohio","Todd County,Kentucky",28381,794774
+107,"Carroll County,Ohio","Trigg County,Kentucky",29359,854506
+108,"Carroll County,Ohio","Trimble County,Kentucky",18191,511979
+109,"Carroll County,Ohio","Union County,Kentucky",28680,805129
+110,"Carroll County,Ohio","Warren County,Kentucky",25761,743619
+111,"Carroll County,Ohio","Washington County,Kentucky",21875,612824
+112,"Carroll County,Ohio","Wayne County,Kentucky",25096,701418
+113,"Carroll County,Ohio","Webster County,Kentucky",28604,811304
+114,"Carroll County,Ohio","Whitley County,Kentucky",23615,692819
+115,"Carroll County,Ohio","Wolfe County,Kentucky",19888,533428
+116,"Carroll County,Ohio","Woodford County,Kentucky",19111,544319
+117,"Carroll County,Ohio","Adams County,Ohio",14883,382614
+118,"Carroll County,Ohio","Allen County,Ohio",11417,299424
+119,"Carroll County,Ohio","Ashland County,Ohio",6167,134201
+120,"Carroll County,Ohio","Ashtabula County,Ohio",7688,194731
+121,"Carroll County,Ohio","Athens County,Ohio",9885,259757
+122,"Carroll County,Ohio","Auglaize County,Ohio",12560,337781
+123,"Carroll County,Ohio","Belmont County,Ohio",4297,74419
+124,"Carroll County,Ohio","Brown County,Ohio",15441,393781
+125,"Carroll County,Ohio","Butler County,Ohio",14715,384268
+126,"Carroll County,Ohio","Champaign County,Ohio",12034,282168
+127,"Carroll County,Ohio","Clark County,Ohio",10867,295003
+128,"Carroll County,Ohio","Clermont County,Ohio",14523,401005
+129,"Carroll County,Ohio","Clinton County,Ohio",12258,330285
+130,"Carroll County,Ohio","Columbiana County,Ohio",2752,48845
+131,"Carroll County,Ohio","Coshocton County,Ohio",4981,104058
+132,"Carroll County,Ohio","Crawford County,Ohio",7875,197308
+133,"Carroll County,Ohio","Cuyahoga County,Ohio",5716,133852
+134,"Carroll County,Ohio","Darke County,Ohio",14443,392905
+135,"Carroll County,Ohio","Defiance County,Ohio",14207,382919
+136,"Carroll County,Ohio","Delaware County,Ohio",8765,222172
+137,"Carroll County,Ohio","Fairfield County,Ohio",8238,207537
+138,"Carroll County,Ohio","Fayette County,Ohio",10895,292336
+139,"Carroll County,Ohio","Franklin County,Ohio",8838,234638
+140,"Carroll County,Ohio","Fulton County,Ohio",12559,339770
+141,"Carroll County,Ohio","Gallia County,Ohio",11768,299634
+142,"Carroll County,Ohio","Geauga County,Ohio",6498,117135
+143,"Carroll County,Ohio","Greene County,Ohio",11643,320501
+144,"Carroll County,Ohio","Guernsey County,Ohio",4640,100520
+145,"Carroll County,Ohio","Hamilton County,Ohio",14217,394846
+146,"Carroll County,Ohio","Hancock County,Ohio",9905,259389
+147,"Carroll County,Ohio","Hardin County,Ohio",10561,261980
+148,"Carroll County,Ohio","Harrison County,Ohio",2003,34155
+149,"Carroll County,Ohio","Henry County,Ohio",12618,331010
+150,"Carroll County,Ohio","Highland County,Ohio",13329,332582
+151,"Carroll County,Ohio","Hocking County,Ohio",10010,227161
+152,"Carroll County,Ohio","Holmes County,Ohio",4828,89724
+153,"Carroll County,Ohio","Huron County,Ohio",8064,175830
+154,"Carroll County,Ohio","Jackson County,Ohio",12013,322812
+155,"Carroll County,Ohio","Jefferson County,Ohio",2455,42436
+156,"Carroll County,Ohio","Knox County,Ohio",6769,146534
+157,"Carroll County,Ohio","Lawrence County,Ohio",14361,339024
+158,"Carroll County,Ohio","Licking County,Ohio",7391,167091
+159,"Carroll County,Ohio","Logan County,Ohio",11623,301281
+160,"Carroll County,Ohio","Lorain County,Ohio",6940,163676
+161,"Carroll County,Ohio","Lucas County,Ohio",11513,292620
+162,"Carroll County,Ohio","Madison County,Ohio",10116,269360
+163,"Carroll County,Ohio","Mahoning County,Ohio",3777,70861
+164,"Carroll County,Ohio","Marion County,Ohio",8972,215085
+165,"Carroll County,Ohio","Medina County,Ohio",5389,119883
+166,"Carroll County,Ohio","Meigs County,Ohio",9851,252335
+167,"Carroll County,Ohio","Mercer County,Ohio",13795,364715
+168,"Carroll County,Ohio","Miami County,Ohio",12954,358337
+169,"Carroll County,Ohio","Monroe County,Ohio",7004,132908
+170,"Carroll County,Ohio","Montgomery County,Ohio",13215,363784
+171,"Carroll County,Ohio","Morgan County,Ohio",7359,161497
+172,"Carroll County,Ohio","Morrow County,Ohio",7673,188360
+173,"Carroll County,Ohio","Muskingum County,Ohio",5616,137805
+174,"Carroll County,Ohio","Noble County,Ohio",6119,136128
+175,"Carroll County,Ohio","Paulding County,Ohio",13517,362742
+176,"Carroll County,Ohio","Perry County,Ohio",7715,185748
+177,"Carroll County,Ohio","Pickaway County,Ohio",9615,252215
+178,"Carroll County,Ohio","Pike County,Ohio",12557,326419
+179,"Carroll County,Ohio","Portage County,Ohio",4769,83992
+180,"Carroll County,Ohio","Preble County,Ohio",13985,386495
+181,"Carroll County,Ohio","Putnam County,Ohio",12103,319195
+182,"Carroll County,Ohio","Richland County,Ohio",6522,147542
+183,"Carroll County,Ohio","Ross County,Ohio",11301,292889
+184,"Carroll County,Ohio","Sandusky County,Ohio",9801,251195
+185,"Carroll County,Ohio","Scioto County,Ohio",13516,349873
+186,"Carroll County,Ohio","Seneca County,Ohio",9973,234530
+187,"Carroll County,Ohio","Shelby County,Ohio",12953,344357
+188,"Carroll County,Ohio","Stark County,Ohio",2838,47004
+189,"Carroll County,Ohio","Summit County,Ohio",4297,89472
+190,"Carroll County,Ohio","Trumbull County,Ohio",5332,122187
+191,"Carroll County,Ohio","Tuscarawas County,Ohio",2722,47278
+192,"Carroll County,Ohio","Union County,Ohio",10127,251512
+193,"Carroll County,Ohio","Van Wert County,Ohio",12214,329706
+194,"Carroll County,Ohio","Vinton County,Ohio",11539,254075
+195,"Carroll County,Ohio","Warren County,Ohio",12633,350814
+196,"Carroll County,Ohio","Washington County,Ohio",7302,177073
+197,"Carroll County,Ohio","Wayne County,Ohio",4752,100788
+198,"Carroll County,Ohio","Williams County,Ohio",13804,371226
+199,"Carroll County,Ohio","Wood County,Ohio",11303,300996
+200,"Carroll County,Ohio","Wyandot County,Ohio",8875,223524
+201,"Carroll County,Ohio","Accomack County,Virginia",30105,788396
+202,"Carroll County,Ohio","Albemarle County,Virginia",22510,548898
+203,"Carroll County,Ohio","Alleghany County,Virginia",18724,532965
+204,"Carroll County,Ohio","Amelia County,Virginia",26675,723159
+205,"Carroll County,Ohio","Amherst County,Virginia",24053,663930
+206,"Carroll County,Ohio","Appomattox County,Virginia",25646,702689
+207,"Carroll County,Ohio","Arlington County,Virginia",18969,505323
+208,"Carroll County,Ohio","Augusta County,Virginia",22204,495072
+209,"Carroll County,Ohio","Bath County,Virginia",21613,476716
+210,"Carroll County,Ohio","Bedford County,Virginia",24313,650055
+211,"Carroll County,Ohio","Bland County,Virginia",17686,499184
+212,"Carroll County,Ohio","Botetourt County,Virginia",21878,604264
+213,"Carroll County,Ohio","Brunswick County,Virginia",27978,773745
+214,"Carroll County,Ohio","Buchanan County,Virginia",21681,583414
+215,"Carroll County,Ohio","Buckingham County,Virginia",25841,613853
+216,"Carroll County,Ohio","Campbell County,Virginia",25570,705161
+217,"Carroll County,Ohio","Caroline County,Virginia",22974,624312
+218,"Carroll County,Ohio","Carroll County,Virginia",19932,568622
+219,"Carroll County,Ohio","Charles City County,Virginia",25444,695795
+220,"Carroll County,Ohio","Charlotte County,Virginia",27531,756210
+221,"Carroll County,Ohio","Chesterfield County,Virginia",25375,688712
+222,"Carroll County,Ohio","Clarke County,Virginia",17717,435055
+223,"Carroll County,Ohio","Craig County,Virginia",20367,554049
+224,"Carroll County,Ohio","Culpeper County,Virginia",21037,534494
+225,"Carroll County,Ohio","Cumberland County,Virginia",26553,639255
+226,"Carroll County,Ohio","Dickenson County,Virginia",22362,578776
+227,"Carroll County,Ohio","Dinwiddie County,Virginia",26615,733712
+228,"Carroll County,Ohio","Essex County,Virginia",24376,648366
+229,"Carroll County,Ohio","Fairfax County,Virginia",18660,495990
+230,"Carroll County,Ohio","Fauquier County,Virginia",19467,501221
+231,"Carroll County,Ohio","Floyd County,Virginia",21552,587586
+232,"Carroll County,Ohio","Fluvanna County,Virginia",24188,601070
+233,"Carroll County,Ohio","Franklin County,Virginia",23826,651289
+234,"Carroll County,Ohio","Frederick County,Virginia",16507,409777
+235,"Carroll County,Ohio","Giles County,Virginia",18417,510742
+236,"Carroll County,Ohio","Gloucester County,Virginia",27615,749983
+237,"Carroll County,Ohio","Goochland County,Virginia",25091,631681
+238,"Carroll County,Ohio","Grayson County,Virginia",20334,558329
+239,"Carroll County,Ohio","Greene County,Virginia",22124,510527
+240,"Carroll County,Ohio","Greensville County,Virginia",28031,782463
+241,"Carroll County,Ohio","Halifax County,Virginia",28235,766309
+242,"Carroll County,Ohio","Hanover County,Virginia",23792,653804
+243,"Carroll County,Ohio","Henrico County,Virginia",24591,676465
+244,"Carroll County,Ohio","Henry County,Virginia",23805,655343
+245,"Carroll County,Ohio","Highland County,Virginia",18751,428873
+246,"Carroll County,Ohio","Isle of Wight County,Virginia",28726,785055
+247,"Carroll County,Ohio","James City County,Virginia",26680,736566
+248,"Carroll County,Ohio","King and Queen County,Virginia",25428,683627
+249,"Carroll County,Ohio","King George County,Virginia",22935,608173
+250,"Carroll County,Ohio","King William County,Virginia",24393,661425
+251,"Carroll County,Ohio","Lancaster County,Virginia",26799,704360
+252,"Carroll County,Ohio","Lee County,Virginia",23662,627292
+253,"Carroll County,Ohio","Loudoun County,Virginia",18674,479958
+254,"Carroll County,Ohio","Louisa County,Virginia",23645,597869
+255,"Carroll County,Ohio","Lunenburg County,Virginia",29091,781604
+256,"Carroll County,Ohio","Madison County,Virginia",21460,522753
+257,"Carroll County,Ohio","Mathews County,Virginia",28510,748748
+258,"Carroll County,Ohio","Mecklenburg County,Virginia",29704,822017
+259,"Carroll County,Ohio","Middlesex County,Virginia",26880,712329
+260,"Carroll County,Ohio","Montgomery County,Virginia",19500,538749
+261,"Carroll County,Ohio","Nelson County,Virginia",23389,567399
+262,"Carroll County,Ohio","New Kent County,Virginia",26116,710480
+263,"Carroll County,Ohio","Northampton County,Virginia",31098,853229
+264,"Carroll County,Ohio","Northumberland County,Virginia",26839,702873
+265,"Carroll County,Ohio","Nottoway County,Virginia",27486,748292
+266,"Carroll County,Ohio","Orange County,Virginia",22378,568993
+267,"Carroll County,Ohio","Page County,Virginia",20000,491454
+268,"Carroll County,Ohio","Patrick County,Virginia",22037,613657
+269,"Carroll County,Ohio","Pittsylvania County,Virginia",26121,709551
+270,"Carroll County,Ohio","Powhatan County,Virginia",25478,699399
+271,"Carroll County,Ohio","Prince Edward County,Virginia",27360,667871
+272,"Carroll County,Ohio","Prince George County,Virginia",26261,724308
+273,"Carroll County,Ohio","Prince William County,Virginia",19567,507324
+274,"Carroll County,Ohio","Pulaski County,Virginia",19595,535081
+275,"Carroll County,Ohio","Rappahannock County,Virginia",19778,486358
+276,"Carroll County,Ohio","Richmond County,Virginia",25539,675516
+277,"Carroll County,Ohio","Roanoke County,Virginia",21119,581543
+278,"Carroll County,Ohio","Rockbridge County,Virginia",21057,601321
+279,"Carroll County,Ohio","Rockingham County,Virginia",18555,441507
+280,"Carroll County,Ohio","Russell County,Virginia",21494,579364
+281,"Carroll County,Ohio","Scott County,Virginia",23838,626229
+282,"Carroll County,Ohio","Shenandoah County,Virginia",18398,472168
+283,"Carroll County,Ohio","Smyth County,Virginia",20044,564536
+284,"Carroll County,Ohio","Southampton County,Virginia",28409,778577
+285,"Carroll County,Ohio","Spotsylvania County,Virginia",22346,592572
+286,"Carroll County,Ohio","Stafford County,Virginia",20634,559277
+287,"Carroll County,Ohio","Surry County,Virginia",27373,746003
+288,"Carroll County,Ohio","Sussex County,Virginia",27073,748820
+289,"Carroll County,Ohio","Tazewell County,Virginia",18502,517772
+290,"Carroll County,Ohio","Warren County,Virginia",18322,457716
+291,"Carroll County,Ohio","Washington County,Virginia",21437,604003
+292,"Carroll County,Ohio","Westmoreland County,Virginia",23903,626974
+293,"Carroll County,Ohio","Wise County,Virginia",20626,554675
+294,"Carroll County,Ohio","Wythe County,Virginia",18291,517401
+295,"Carroll County,Ohio","York County,Virginia",27968,767341
+296,"Carroll County,Ohio","Alexandria City County,Virginia",19485,522504
+297,"Carroll County,Ohio","Bedford City County,Virginia",23477,641487
+298,"Carroll County,Ohio","Bristol City County,Virginia",21912,629720
+299,"Carroll County,Ohio","Buena Vista City County,Virginia",21412,615298
+300,"Carroll County,Ohio","Charlottesville City County,Virginia",22979,564113
+301,"Carroll County,Ohio","Chesapeake City County,Virginia",29431,820246
+302,"Carroll County,Ohio","Clifton Forge City County,Virginia",19268,553171
+303,"Carroll County,Ohio","Colonial Heights City County,Virginia",25428,699172
+304,"Carroll County,Ohio","Covington City County,Virginia",18793,536550
+305,"Carroll County,Ohio","Danville City County,Virginia",25963,709798
+306,"Carroll County,Ohio","Emporia City County,Virginia",27739,769057
+307,"Carroll County,Ohio","Fairfax City County,Virginia",19130,507623
+308,"Carroll County,Ohio","Falls Church City County,Virginia",18677,499635
+309,"Carroll County,Ohio","Franklin City County,Virginia",28957,786432
+310,"Carroll County,Ohio","Fredericksburg City County,Virginia",21447,574867
+311,"Carroll County,Ohio","Galax City County,Virginia",20555,574488
+312,"Carroll County,Ohio","Hampton City County,Virginia",27918,777047
+313,"Carroll County,Ohio","Harrisonburg City County,Virginia",19613,460182
+314,"Carroll County,Ohio","Hopewell City County,Virginia",25192,699210
+315,"Carroll County,Ohio","Lexington City County,Virginia",21046,603789
+316,"Carroll County,Ohio","Lynchburg City County,Virginia",24629,678904
+317,"Carroll County,Ohio","Manassas City County,Virginia",19795,512269
+318,"Carroll County,Ohio","Manassas Park City County,Virginia",19870,524862
+319,"Carroll County,Ohio","Martinsville City County,Virginia",24333,664136
+320,"Carroll County,Ohio","Newport News City County,Virginia",27475,763533
+321,"Carroll County,Ohio","Norfolk City County,Virginia",29225,802463
+322,"Carroll County,Ohio","Norton City County,Virginia",21255,566487
+323,"Carroll County,Ohio","Petersburg City County,Virginia",25300,700160
+324,"Carroll County,Ohio","Poquoson City County,Virginia",28147,774109
+325,"Carroll County,Ohio","Portsmouth City County,Virginia",29164,811284
+326,"Carroll County,Ohio","Radford County,Virginia",19907,536790
+327,"Carroll County,Ohio","Richmond City County,Virginia",24168,664275
+328,"Carroll County,Ohio","Roanoke City County,Virginia",21722,601648
+329,"Carroll County,Ohio","Salem City County,Virginia",21133,588197
+330,"Carroll County,Ohio","South Boston City County,Virginia",27975,763977
+331,"Carroll County,Ohio","Staunton City County,Virginia",21201,508352
+332,"Carroll County,Ohio","Suffolk City County,Virginia",29569,799779
+333,"Carroll County,Ohio","Virginia Beach City County,Virginia",29785,825721
+334,"Carroll County,Ohio","Waynesboro City County,Virginia",21598,518202
+335,"Carroll County,Ohio","Williamsburg City County,Virginia",26519,735782
+336,"Carroll County,Ohio","Winchester City County,Virginia",16645,413581
+337,"Carroll County,Ohio","Barbour County,West Virginia",11877,271784
+338,"Carroll County,Ohio","Berkeley County,West Virginia",15433,383465
+339,"Carroll County,Ohio","Boone County,West Virginia",14437,377963
+340,"Carroll County,Ohio","Braxton County,West Virginia",14085,329438
+341,"Carroll County,Ohio","Brooke County,West Virginia",4123,71035
+342,"Carroll County,Ohio","Cabell County,West Virginia",14165,353622
+343,"Carroll County,Ohio","Calhoun County,West Virginia",11529,274937
+344,"Carroll County,Ohio","Clay County,West Virginia",14108,387392
+345,"Carroll County,Ohio","Doddridge County,West Virginia",10376,270777
+346,"Carroll County,Ohio","Fayette County,West Virginia",15604,412068
+347,"Carroll County,Ohio","Gilmer County,West Virginia",12663,289941
+348,"Carroll County,Ohio","Grant County,West Virginia",14726,333591
+349,"Carroll County,Ohio","Greenbrier County,West Virginia",18678,490106
+350,"Carroll County,Ohio","Hampshire County,West Virginia",15606,364386
+351,"Carroll County,Ohio","Hancock County,West Virginia",4020,74382
+352,"Carroll County,Ohio","Hardy County,West Virginia",15812,366193
+353,"Carroll County,Ohio","Harrison County,West Virginia",10594,244986
+354,"Carroll County,Ohio","Jackson County,West Virginia",9741,259582
+355,"Carroll County,Ohio","Jefferson County,West Virginia",16890,439338
+356,"Carroll County,Ohio","Kanawha County,West Virginia",12913,346131
+357,"Carroll County,Ohio","Lewis County,West Virginia",11789,278427
+358,"Carroll County,Ohio","Lincoln County,West Virginia",14695,372550
+359,"Carroll County,Ohio","Logan County,West Virginia",15366,415081
+360,"Carroll County,Ohio","McDowell County,West Virginia",19275,493444
+361,"Carroll County,Ohio","Marion County,West Virginia",10080,218899
+362,"Carroll County,Ohio","Marshall County,West Virginia",6361,111182
+363,"Carroll County,Ohio","Mason County,West Virginia",11506,303636
+364,"Carroll County,Ohio","Mercer County,West Virginia",16239,457691
+365,"Carroll County,Ohio","Mineral County,West Virginia",14485,338937
+366,"Carroll County,Ohio","Mingo County,West Virginia",15411,419589
+367,"Carroll County,Ohio","Monongalia County,West Virginia",9008,203629
+368,"Carroll County,Ohio","Monroe County,West Virginia",19285,502402
+369,"Carroll County,Ohio","Morgan County,West Virginia",14924,372857
+370,"Carroll County,Ohio","Nicholas County,West Virginia",15070,379084
+371,"Carroll County,Ohio","Ohio County,West Virginia",5240,90785
+372,"Carroll County,Ohio","Pendleton County,West Virginia",17055,388154
+373,"Carroll County,Ohio","Pleasants County,West Virginia",8597,206760
+374,"Carroll County,Ohio","Pocahontas County,West Virginia",18556,411537
+375,"Carroll County,Ohio","Preston County,West Virginia",11245,235415
+376,"Carroll County,Ohio","Putnam County,West Virginia",12288,346397
+377,"Carroll County,Ohio","Raleigh County,West Virginia",14781,411383
+378,"Carroll County,Ohio","Randolph County,West Virginia",13942,328432
+379,"Carroll County,Ohio","Ritchie County,West Virginia",9541,243819
+380,"Carroll County,Ohio","Roane County,West Virginia",11367,288398
+381,"Carroll County,Ohio","Summers County,West Virginia",18233,472821
+382,"Carroll County,Ohio","Taylor County,West Virginia",10165,222935
+383,"Carroll County,Ohio","Tucker County,West Virginia",13390,282376
+384,"Carroll County,Ohio","Tyler County,West Virginia",8696,167896
+385,"Carroll County,Ohio","Upshur County,West Virginia",12917,302873
+386,"Carroll County,Ohio","Wayne County,West Virginia",15622,427498
+387,"Carroll County,Ohio","Webster County,West Virginia",16292,375260
+388,"Carroll County,Ohio","Wetzel County,West Virginia",8794,170630
+389,"Carroll County,Ohio","Wirt County,West Virginia",8985,224046
+390,"Carroll County,Ohio","Wood County,West Virginia",7747,199243
+391,"Carroll County,Ohio","Wyoming County,West Virginia",16725,451325

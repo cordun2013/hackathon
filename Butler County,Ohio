@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Butler County,Ohio","Adair County,Kentucky",13690,360059
+1,"Butler County,Ohio","Allen County,Kentucky",14447,413346
+2,"Butler County,Ohio","Anderson County,Kentucky",8672,239204
+3,"Butler County,Ohio","Ballard County,Kentucky",20607,605508
+4,"Butler County,Ohio","Barren County,Kentucky",13574,381758
+5,"Butler County,Ohio","Bath County,Kentucky",8957,260513
+6,"Butler County,Ohio","Bell County,Kentucky",14192,388239
+7,"Butler County,Ohio","Boone County,Kentucky",4059,79136
+8,"Butler County,Ohio","Bourbon County,Kentucky",7546,198472
+9,"Butler County,Ohio","Boyd County,Kentucky",11196,278429
+10,"Butler County,Ohio","Boyle County,Kentucky",9982,267093
+11,"Butler County,Ohio","Bracken County,Kentucky",5704,139290
+12,"Butler County,Ohio","Breathitt County,Kentucky",11558,324694
+13,"Butler County,Ohio","Breckinridge County,Kentucky",12486,331910
+14,"Butler County,Ohio","Bullitt County,Kentucky",9023,252741
+15,"Butler County,Ohio","Butler County,Kentucky",13826,390416
+16,"Butler County,Ohio","Caldwell County,Kentucky",16718,496361
+17,"Butler County,Ohio","Calloway County,Kentucky",19528,581354
+18,"Butler County,Ohio","Campbell County,Kentucky",4234,92239
+19,"Butler County,Ohio","Carlisle County,Kentucky",21064,620876
+20,"Butler County,Ohio","Carroll County,Kentucky",5715,151695
+21,"Butler County,Ohio","Carter County,Kentucky",10620,261115
+22,"Butler County,Ohio","Casey County,Kentucky",11906,297222
+23,"Butler County,Ohio","Christian County,Kentucky",16367,491618
+24,"Butler County,Ohio","Clay County,Kentucky",12423,347284
+25,"Butler County,Ohio","Clinton County,Kentucky",14145,386767
+26,"Butler County,Ohio","Crittenden County,Kentucky",18298,529432
+27,"Butler County,Ohio","Cumberland County,Kentucky",14899,405006
+28,"Butler County,Ohio","Daviess County,Kentucky",13799,395228
+29,"Butler County,Ohio","Edmonson County,Kentucky",13266,378291
+30,"Butler County,Ohio","Elliott County,Kentucky",11894,263514
+31,"Butler County,Ohio","Estill County,Kentucky",9491,261234
+32,"Butler County,Ohio","Fayette County,Kentucky",6920,191728
+33,"Butler County,Ohio","Fleming County,Kentucky",7979,192029
+34,"Butler County,Ohio","Floyd County,Kentucky",13744,384724
+35,"Butler County,Ohio","Franklin County,Kentucky",8155,195078
+36,"Butler County,Ohio","Fulton County,Kentucky",21468,641841
+37,"Butler County,Ohio","Gallatin County,Kentucky",4926,124108
+38,"Butler County,Ohio","Garrard County,Kentucky",9950,271087
+39,"Butler County,Ohio","Grant County,Kentucky",4993,124582
+40,"Butler County,Ohio","Graves County,Kentucky",20088,593583
+41,"Butler County,Ohio","Grayson County,Kentucky",12154,347052
+42,"Butler County,Ohio","Green County,Kentucky",12841,353048
+43,"Butler County,Ohio","Greenup County,Kentucky",9916,232848
+44,"Butler County,Ohio","Hancock County,Kentucky",12684,349746
+45,"Butler County,Ohio","Hardin County,Kentucky",11030,309185
+46,"Butler County,Ohio","Harlan County,Kentucky",16486,443845
+47,"Butler County,Ohio","Harrison County,Kentucky",6429,158645
+48,"Butler County,Ohio","Hart County,Kentucky",11829,336813
+49,"Butler County,Ohio","Henderson County,Kentucky",15383,437723
+50,"Butler County,Ohio","Henry County,Kentucky",6900,180018
+51,"Butler County,Ohio","Hickman County,Kentucky",21097,622168
+52,"Butler County,Ohio","Hopkins County,Kentucky",16177,470829
+53,"Butler County,Ohio","Jackson County,Kentucky",10935,291070
+54,"Butler County,Ohio","Jefferson County,Kentucky",8116,222177
+55,"Butler County,Ohio","Jessamine County,Kentucky",8181,215040
+56,"Butler County,Ohio","Johnson County,Kentucky",12698,360717
+57,"Butler County,Ohio","Kenton County,Kentucky",3786,83488
+58,"Butler County,Ohio","Knott County,Kentucky",14017,388072
+59,"Butler County,Ohio","Knox County,Kentucky",12353,349980
+60,"Butler County,Ohio","Larue County,Kentucky",11100,312784
+61,"Butler County,Ohio","Laurel County,Kentucky",11204,321375
+62,"Butler County,Ohio","Lawrence County,Kentucky",13133,305532
+63,"Butler County,Ohio","Lee County,Kentucky",10807,301151
+64,"Butler County,Ohio","Leslie County,Kentucky",14373,398407
+65,"Butler County,Ohio","Letcher County,Kentucky",15270,413045
+66,"Butler County,Ohio","Lewis County,Kentucky",8832,203684
+67,"Butler County,Ohio","Lincoln County,Kentucky",10660,288006
+68,"Butler County,Ohio","Livingston County,Kentucky",18894,546328
+69,"Butler County,Ohio","Logan County,Kentucky",15567,433654
+70,"Butler County,Ohio","Lyon County,Kentucky",19027,556719
+71,"Butler County,Ohio","McCracken County,Kentucky",19219,573568
+72,"Butler County,Ohio","McCreary County,Kentucky",13309,365817
+73,"Butler County,Ohio","Madison County,Kentucky",8343,234957
+74,"Butler County,Ohio","Magoffin County,Kentucky",12167,342585
+75,"Butler County,Ohio","Marion County,Kentucky",10680,291557
+76,"Butler County,Ohio","Marshall County,Kentucky",18633,557140
+77,"Butler County,Ohio","Martin County,Kentucky",15067,371308
+78,"Butler County,Ohio","Mason County,Kentucky",6437,154336
+79,"Butler County,Ohio","Meade County,Kentucky",10563,289418
+80,"Butler County,Ohio","Menifee County,Kentucky",10232,273051
+81,"Butler County,Ohio","Mercer County,Kentucky",9056,247268
+82,"Butler County,Ohio","Metcalfe County,Kentucky",14026,401851
+83,"Butler County,Ohio","Monroe County,Kentucky",14921,425434
+84,"Butler County,Ohio","Montgomery County,Kentucky",8875,250960
+85,"Butler County,Ohio","Morgan County,Kentucky",11557,330869
+86,"Butler County,Ohio","Muhlenberg County,Kentucky",15037,437305
+87,"Butler County,Ohio","Nelson County,Kentucky",10287,290628
+88,"Butler County,Ohio","Nicholas County,Kentucky",8136,199929
+89,"Butler County,Ohio","Ohio County,Kentucky",13950,404895
+90,"Butler County,Ohio","Oldham County,Kentucky",7015,193123
+91,"Butler County,Ohio","Owen County,Kentucky",6158,150497
+92,"Butler County,Ohio","Owsley County,Kentucky",11953,321128
+93,"Butler County,Ohio","Pendleton County,Kentucky",5110,114081
+94,"Butler County,Ohio","Perry County,Kentucky",13169,364577
+95,"Butler County,Ohio","Pike County,Kentucky",15424,415048
+96,"Butler County,Ohio","Powell County,Kentucky",9168,259819
+97,"Butler County,Ohio","Robertson County,Kentucky",7033,158074
+98,"Butler County,Ohio","Rockcastle County,Kentucky",9777,276100
+99,"Butler County,Ohio","Rowan County,Kentucky",9465,225391
+100,"Butler County,Ohio","Russell County,Kentucky",13343,367386
+101,"Butler County,Ohio","Scott County,Kentucky",5922,159103
+102,"Butler County,Ohio","Shelby County,Kentucky",8271,207008
+103,"Butler County,Ohio","Simpson County,Kentucky",15148,441711
+104,"Butler County,Ohio","Spencer County,Kentucky",9230,251797
+105,"Butler County,Ohio","Taylor County,Kentucky",11969,323053
+106,"Butler County,Ohio","Todd County,Kentucky",16803,457815
+107,"Butler County,Ohio","Trigg County,Kentucky",17781,517547
+108,"Butler County,Ohio","Trimble County,Kentucky",6613,175019
+109,"Butler County,Ohio","Union County,Kentucky",17102,468169
+110,"Butler County,Ohio","Warren County,Kentucky",14183,406660
+111,"Butler County,Ohio","Washington County,Kentucky",10298,275865
+112,"Butler County,Ohio","Wayne County,Kentucky",13519,364458
+113,"Butler County,Ohio","Webster County,Kentucky",17026,474345
+114,"Butler County,Ohio","Whitley County,Kentucky",12037,355860
+115,"Butler County,Ohio","Wolfe County,Kentucky",10432,297690
+116,"Butler County,Ohio","Woodford County,Kentucky",7534,207360
+117,"Butler County,Ohio","Adams County,Ohio",6025,143579
+118,"Butler County,Ohio","Allen County,Ohio",7224,187456
+119,"Butler County,Ohio","Ashland County,Ohio",11275,300604
+120,"Butler County,Ohio","Ashtabula County,Ohio",17021,485355
+121,"Butler County,Ohio","Athens County,Ohio",10402,269267
+122,"Butler County,Ohio","Auglaize County,Ohio",6480,174721
+123,"Butler County,Ohio","Belmont County,Ohio",12613,347036
+124,"Butler County,Ohio","Brown County,Ohio",5278,120133
+125,"Butler County,Ohio","Carroll County,Ohio",14577,384259
+126,"Butler County,Ohio","Champaign County,Ohio",5258,128903
+127,"Butler County,Ohio","Clark County,Ohio",4686,115535
+128,"Butler County,Ohio","Clermont County,Ohio",3308,74421
+129,"Butler County,Ohio","Clinton County,Ohio",4009,71085
+130,"Butler County,Ohio","Columbiana County,Ohio",16134,419848
+131,"Butler County,Ohio","Coshocton County,Ohio",11136,279676
+132,"Butler County,Ohio","Crawford County,Ohio",9950,281306
+133,"Butler County,Ohio","Cuyahoga County,Ohio",13593,383069
+134,"Butler County,Ohio","Darke County,Ohio",4147,84987
+135,"Butler County,Ohio","Defiance County,Ohio",10887,228373
+136,"Butler County,Ohio","Delaware County,Ohio",8103,194513
+137,"Butler County,Ohio","Fairfield County,Ohio",7596,190525
+138,"Butler County,Ohio","Fayette County,Ohio",4908,108690
+139,"Butler County,Ohio","Franklin County,Ohio",6710,167203
+140,"Butler County,Ohio","Fulton County,Ohio",11474,282830
+141,"Butler County,Ohio","Gallia County,Ohio",9313,238341
+142,"Butler County,Ohio","Geauga County,Ohio",15122,422287
+143,"Butler County,Ohio","Greene County,Ohio",3755,71976
+144,"Butler County,Ohio","Guernsey County,Ohio",10342,280717
+145,"Butler County,Ohio","Hamilton County,Ohio",2205,26728
+146,"Butler County,Ohio","Hancock County,Ohio",8333,228351
+147,"Butler County,Ohio","Hardin County,Ohio",8120,212749
+148,"Butler County,Ohio","Harrison County,Ohio",13583,366325
+149,"Butler County,Ohio","Henry County,Ohio",10057,252820
+150,"Butler County,Ohio","Highland County,Ohio",5822,115035
+151,"Butler County,Ohio","Hocking County,Ohio",9033,233929
+152,"Butler County,Ohio","Holmes County,Ohio",12686,316534
+153,"Butler County,Ohio","Huron County,Ohio",12150,331292
+154,"Butler County,Ohio","Jackson County,Ohio",8254,210882
+155,"Butler County,Ohio","Jefferson County,Ohio",14576,376103
+156,"Butler County,Ohio","Knox County,Ohio",10642,266897
+157,"Butler County,Ohio","Lawrence County,Ohio",11640,269838
+158,"Butler County,Ohio","Licking County,Ohio",8974,222121
+159,"Butler County,Ohio","Logan County,Ohio",6492,161439
+160,"Butler County,Ohio","Lorain County,Ohio",14207,358028
+161,"Butler County,Ohio","Lucas County,Ohio",11658,314871
+162,"Butler County,Ohio","Madison County,Ohio",5586,143568
+163,"Butler County,Ohio","Mahoning County,Ohio",15991,436987
+164,"Butler County,Ohio","Marion County,Ohio",8377,203441
+165,"Butler County,Ohio","Medina County,Ohio",11920,325617
+166,"Butler County,Ohio","Meigs County,Ohio",11135,278120
+167,"Butler County,Ohio","Mercer County,Ohio",6648,146768
+168,"Butler County,Ohio","Miami County,Ohio",4066,97160
+169,"Butler County,Ohio","Monroe County,Ohio",14018,361600
+170,"Butler County,Ohio","Montgomery County,Ohio",2586,49252
+171,"Butler County,Ohio","Morgan County,Ohio",11408,289213
+172,"Butler County,Ohio","Morrow County,Ohio",9000,230096
+173,"Butler County,Ohio","Muskingum County,Ohio",9193,246873
+174,"Butler County,Ohio","Noble County,Ohio",12041,317836
+175,"Butler County,Ohio","Paulding County,Ohio",9238,201958
+176,"Butler County,Ohio","Perry County,Ohio",9261,235456
+177,"Butler County,Ohio","Pickaway County,Ohio",6845,157286
+178,"Butler County,Ohio","Pike County,Ohio",7393,189276
+179,"Butler County,Ohio","Portage County,Ohio",14442,396766
+180,"Butler County,Ohio","Preble County,Ohio",2220,46257
+181,"Butler County,Ohio","Putnam County,Ohio",8398,219924
+182,"Butler County,Ohio","Richland County,Ohio",10030,265335
+183,"Butler County,Ohio","Ross County,Ohio",6488,156603
+184,"Butler County,Ohio","Sandusky County,Ohio",11373,308427
+185,"Butler County,Ohio","Scioto County,Ohio",8193,209906
+186,"Butler County,Ohio","Seneca County,Ohio",10677,284691
+187,"Butler County,Ohio","Shelby County,Ohio",5104,133445
+188,"Butler County,Ohio","Stark County,Ohio",14187,381150
+189,"Butler County,Ohio","Summit County,Ohio",13123,360944
+190,"Butler County,Ohio","Trumbull County,Ohio",16024,447258
+191,"Butler County,Ohio","Tuscarawas County,Ohio",12637,340081
+192,"Butler County,Ohio","Union County,Ohio",6619,158823
+193,"Butler County,Ohio","Van Wert County,Ohio",7872,171504
+194,"Butler County,Ohio","Vinton County,Ohio",8671,205356
+195,"Butler County,Ohio","Warren County,Ohio",2309,35347
+196,"Butler County,Ohio","Washington County,Ohio",13225,358781
+197,"Butler County,Ohio","Wayne County,Ohio",11648,314614
+198,"Butler County,Ohio","Williams County,Ohio",11847,248675
+199,"Butler County,Ohio","Wood County,Ohio",9421,268980
+200,"Butler County,Ohio","Wyandot County,Ohio",9028,249231
+201,"Butler County,Ohio","Accomack County,Virginia",39826,1108907
+202,"Butler County,Ohio","Albemarle County,Virginia",26005,728319
+203,"Butler County,Ohio","Alleghany County,Virginia",20674,565342
+204,"Butler County,Ohio","Amelia County,Virginia",30706,828437
+205,"Butler County,Ohio","Amherst County,Virginia",26003,696308
+206,"Butler County,Ohio","Appomattox County,Virginia",27596,735067
+207,"Butler County,Ohio","Arlington County,Virginia",28690,825834
+208,"Butler County,Ohio","Augusta County,Virginia",24616,666659
+209,"Butler County,Ohio","Bath County,Virginia",23686,640652
+210,"Butler County,Ohio","Bedford County,Virginia",26263,682433
+211,"Butler County,Ohio","Bland County,Virginia",19636,531562
+212,"Butler County,Ohio","Botetourt County,Virginia",23829,636641
+213,"Butler County,Ohio","Brunswick County,Virginia",33249,878110
+214,"Butler County,Ohio","Buchanan County,Virginia",19476,494555
+215,"Butler County,Ohio","Buckingham County,Virginia",27879,746002
+216,"Butler County,Ohio","Campbell County,Virginia",27520,737539
+217,"Butler County,Ohio","Caroline County,Virginia",31345,897165
+218,"Butler County,Ohio","Carroll County,Virginia",21882,600999
+219,"Butler County,Ohio","Charles City County,Virginia",31445,894199
+220,"Butler County,Ohio","Charlotte County,Virginia",29481,788588
+221,"Butler County,Ohio","Chesterfield County,Virginia",30581,871983
+222,"Butler County,Ohio","Clarke County,Virginia",26802,726470
+223,"Butler County,Ohio","Craig County,Virginia",22317,586427
+224,"Butler County,Ohio","Culpeper County,Virginia",29802,817536
+225,"Butler County,Ohio","Cumberland County,Virginia",29089,774005
+226,"Butler County,Ohio","Dickenson County,Virginia",18830,479991
+227,"Butler County,Ohio","Dinwiddie County,Virginia",32328,922415
+228,"Butler County,Ohio","Essex County,Virginia",33162,921207
+229,"Butler County,Ohio","Fairfax County,Virginia",28381,816501
+230,"Butler County,Ohio","Fauquier County,Virginia",28553,792635
+231,"Butler County,Ohio","Floyd County,Virginia",23503,619964
+232,"Butler County,Ohio","Fluvanna County,Virginia",27683,780491
+233,"Butler County,Ohio","Franklin County,Virginia",25776,683666
+234,"Butler County,Ohio","Frederick County,Virginia",25592,701191
+235,"Butler County,Ohio","Giles County,Virginia",20367,543120
+236,"Butler County,Ohio","Gloucester County,Virginia",33616,948388
+237,"Butler County,Ohio","Goochland County,Virginia",28587,811102
+238,"Butler County,Ohio","Grayson County,Virginia",22284,590706
+239,"Butler County,Ohio","Greene County,Virginia",27998,763903
+240,"Butler County,Ohio","Greensville County,Virginia",33744,971166
+241,"Butler County,Ohio","Halifax County,Virginia",30185,798686
+242,"Butler County,Ohio","Hanover County,Virginia",29793,852208
+243,"Butler County,Ohio","Henrico County,Virginia",30304,865168
+244,"Butler County,Ohio","Henry County,Virginia",25755,687720
+245,"Butler County,Ohio","Highland County,Virginia",25131,650622
+246,"Butler County,Ohio","Isle of Wight County,Virginia",34557,969745
+247,"Butler County,Ohio","James City County,Virginia",32681,934970
+248,"Butler County,Ohio","King and Queen County,Virginia",32339,910554
+249,"Butler County,Ohio","King George County,Virginia",32458,925151
+250,"Butler County,Ohio","King William County,Virginia",31027,880476
+251,"Butler County,Ohio","Lancaster County,Virginia",34819,963562
+252,"Butler County,Ohio","Lee County,Virginia",17283,464798
+253,"Butler County,Ohio","Loudoun County,Virginia",28298,762336
+254,"Butler County,Ohio","Louisa County,Virginia",28244,794197
+255,"Butler County,Ohio","Lunenburg County,Virginia",31253,829872
+256,"Butler County,Ohio","Madison County,Virginia",28918,793644
+257,"Butler County,Ohio","Mathews County,Virginia",34441,971811
+258,"Butler County,Ohio","Mecklenburg County,Virginia",32244,842996
+259,"Butler County,Ohio","Middlesex County,Virginia",33217,944588
+260,"Butler County,Ohio","Montgomery County,Virginia",21450,571127
+261,"Butler County,Ohio","Nelson County,Virginia",26544,707999
+262,"Butler County,Ohio","New Kent County,Virginia",32117,908884
+263,"Butler County,Ohio","Northampton County,Virginia",37098,1051634
+264,"Butler County,Ohio","Northumberland County,Virginia",34859,962074
+265,"Butler County,Ohio","Nottoway County,Virginia",30746,830251
+266,"Butler County,Ohio","Orange County,Virginia",29207,802304
+267,"Butler County,Ohio","Page County,Virginia",27852,777429
+268,"Butler County,Ohio","Patrick County,Virginia",23987,646035
+269,"Butler County,Ohio","Pittsylvania County,Virginia",28071,741928
+270,"Butler County,Ohio","Powhatan County,Virginia",29840,836323
+271,"Butler County,Ohio","Prince Edward County,Virginia",29361,787587
+272,"Butler County,Ohio","Prince George County,Virginia",32092,908998
+273,"Butler County,Ohio","Prince William County,Virginia",28652,798739
+274,"Butler County,Ohio","Pulaski County,Virginia",21545,567458
+275,"Butler County,Ohio","Rappahannock County,Virginia",28864,777773
+276,"Butler County,Ohio","Richmond County,Virginia",33559,934718
+277,"Butler County,Ohio","Roanoke County,Virginia",23070,613920
+278,"Butler County,Ohio","Rockbridge County,Virginia",23007,633698
+279,"Butler County,Ohio","Rockingham County,Virginia",26891,749779
+280,"Butler County,Ohio","Russell County,Virginia",21007,513104
+281,"Butler County,Ohio","Scott County,Virginia",19603,512639
+282,"Butler County,Ohio","Shenandoah County,Virginia",27395,779883
+283,"Butler County,Ohio","Smyth County,Virginia",21994,596914
+284,"Butler County,Ohio","Southampton County,Virginia",34122,967280
+285,"Butler County,Ohio","Spotsylvania County,Virginia",30260,836035
+286,"Butler County,Ohio","Stafford County,Virginia",30355,879788
+287,"Butler County,Ohio","Surry County,Virginia",33425,933832
+288,"Butler County,Ohio","Sussex County,Virginia",32786,937523
+289,"Butler County,Ohio","Tazewell County,Virginia",20452,550149
+290,"Butler County,Ohio","Warren County,Virginia",27407,749130
+291,"Butler County,Ohio","Washington County,Virginia",21228,546709
+292,"Butler County,Ohio","Westmoreland County,Virginia",33432,941976
+293,"Butler County,Ohio","Wise County,Virginia",17094,455890
+294,"Butler County,Ohio","Wythe County,Virginia",20241,549779
+295,"Butler County,Ohio","York County,Virginia",33969,965745
+296,"Butler County,Ohio","Alexandria City County,Virginia",29205,843016
+297,"Butler County,Ohio","Bedford City County,Virginia",25427,673864
+298,"Butler County,Ohio","Bristol City County,Virginia",21556,553966
+299,"Butler County,Ohio","Buena Vista City County,Virginia",23362,647676
+300,"Butler County,Ohio","Charlottesville City County,Virginia",26475,743534
+301,"Butler County,Ohio","Chesapeake City County,Virginia",35432,1018650
+302,"Butler County,Ohio","Clifton Forge City County,Virginia",21218,585549
+303,"Butler County,Ohio","Colonial Heights City County,Virginia",31141,887875
+304,"Butler County,Ohio","Covington City County,Virginia",20743,568927
+305,"Butler County,Ohio","Danville City County,Virginia",27913,742176
+306,"Butler County,Ohio","Emporia City County,Virginia",33452,957760
+307,"Butler County,Ohio","Fairfax City County,Virginia",28851,828134
+308,"Butler County,Ohio","Falls Church City County,Virginia",28398,820146
+309,"Butler County,Ohio","Franklin City County,Virginia",34670,975135
+310,"Butler County,Ohio","Fredericksburg City County,Virginia",31168,895378
+311,"Butler County,Ohio","Galax City County,Virginia",22505,606865
+312,"Butler County,Ohio","Hampton City County,Virginia",33919,975451
+313,"Butler County,Ohio","Harrisonburg City County,Virginia",25950,729675
+314,"Butler County,Ohio","Hopewell City County,Virginia",31177,886842
+315,"Butler County,Ohio","Lexington City County,Virginia",22996,636167
+316,"Butler County,Ohio","Lynchburg City County,Virginia",26579,711281
+317,"Butler County,Ohio","Manassas City County,Virginia",28880,803683
+318,"Butler County,Ohio","Manassas Park City County,Virginia",29382,810026
+319,"Butler County,Ohio","Martinsville City County,Virginia",26283,696513
+320,"Butler County,Ohio","Newport News City County,Virginia",33476,961937
+321,"Butler County,Ohio","Norfolk City County,Virginia",35225,1000867
+322,"Butler County,Ohio","Norton City County,Virginia",17723,467702
+323,"Butler County,Ohio","Petersburg City County,Virginia",31013,888863
+324,"Butler County,Ohio","Poquoson City County,Virginia",34147,972513
+325,"Butler County,Ohio","Portsmouth City County,Virginia",35164,1009688
+326,"Butler County,Ohio","Radford County,Virginia",21858,569167
+327,"Butler County,Ohio","Richmond City County,Virginia",29881,852978
+328,"Butler County,Ohio","Roanoke City County,Virginia",23672,634025
+329,"Butler County,Ohio","Salem City County,Virginia",23084,620575
+330,"Butler County,Ohio","South Boston City County,Virginia",29925,796354
+331,"Butler County,Ohio","Staunton City County,Virginia",24767,690811
+332,"Butler County,Ohio","Suffolk City County,Virginia",35400,984469
+333,"Butler County,Ohio","Virginia Beach City County,Virginia",35786,1024125
+334,"Butler County,Ohio","Waynesboro City County,Virginia",25105,703529
+335,"Butler County,Ohio","Williamsburg City County,Virginia",32520,934186
+336,"Butler County,Ohio","Winchester City County,Virginia",25731,704995
+337,"Butler County,Ohio","Barbour County,West Virginia",18709,490193
+338,"Butler County,Ohio","Berkeley County,West Virginia",25145,703851
+339,"Butler County,Ohio","Boone County,West Virginia",15989,397826
+340,"Butler County,Ohio","Braxton County,West Virginia",17500,455188
+341,"Butler County,Ohio","Brooke County,West Virginia",14692,389283
+342,"Butler County,Ohio","Cabell County,West Virginia",11731,280032
+343,"Butler County,Ohio","Calhoun County,West Virginia",16123,381167
+344,"Butler County,Ohio","Clay County,West Virginia",16267,426101
+345,"Butler County,Ohio","Doddridge County,West Virginia",15696,415910
+346,"Butler County,Ohio","Fayette County,West Virginia",17554,444445
+347,"Butler County,Ohio","Gilmer County,West Virginia",17401,405669
+348,"Butler County,Ohio","Grant County,West Virginia",23519,634660
+349,"Butler County,Ohio","Greenbrier County,West Virginia",20629,522484
+350,"Butler County,Ohio","Hampshire County,West Virginia",24399,665455
+351,"Butler County,Ohio","Hancock County,West Virginia",16281,423819
+352,"Butler County,Ohio","Hardy County,West Virginia",24605,667261
+353,"Butler County,Ohio","Harrison County,West Virginia",16779,448904
+354,"Butler County,Ohio","Jackson County,West Virginia",12571,312511
+355,"Butler County,Ohio","Jefferson County,West Virginia",26610,759849
+356,"Butler County,Ohio","Kanawha County,West Virginia",14863,378509
+357,"Butler County,Ohio","Lewis County,West Virginia",18472,451055
+358,"Butler County,Ohio","Lincoln County,West Virginia",15119,339730
+359,"Butler County,Ohio","Logan County,West Virginia",16918,434944
+360,"Butler County,Ohio","McDowell County,West Virginia",21226,525821
+361,"Butler County,Ohio","Marion County,West Virginia",18716,492027
+362,"Butler County,Ohio","Marshall County,West Virginia",14649,383791
+363,"Butler County,Ohio","Mason County,West Virginia",10344,272805
+364,"Butler County,Ohio","Mercer County,West Virginia",18190,490068
+365,"Butler County,Ohio","Mineral County,West Virginia",23278,640006
+366,"Butler County,Ohio","Mingo County,West Virginia",16417,397243
+367,"Butler County,Ohio","Monongalia County,West Virginia",17801,504698
+368,"Butler County,Ohio","Monroe County,West Virginia",21235,534780
+369,"Butler County,Ohio","Morgan County,West Virginia",24636,693243
+370,"Butler County,Ohio","Nicholas County,West Virginia",17983,485981
+371,"Butler County,Ohio","Ohio County,West Virginia",13711,370521
+372,"Butler County,Ohio","Pendleton County,West Virginia",25095,648715
+373,"Butler County,Ohio","Pleasants County,West Virginia",14519,388469
+374,"Butler County,Ohio","Pocahontas County,West Virginia",23313,555520
+375,"Butler County,Ohio","Preston County,West Virginia",20038,536483
+376,"Butler County,Ohio","Putnam County,West Virginia",11980,312828
+377,"Butler County,Ohio","Raleigh County,West Virginia",16731,443761
+378,"Butler County,Ohio","Randolph County,West Virginia",20773,546841
+379,"Butler County,Ohio","Ritchie County,West Virginia",14861,388952
+380,"Butler County,Ohio","Roane County,West Virginia",14196,341327
+381,"Butler County,Ohio","Summers County,West Virginia",20183,505199
+382,"Butler County,Ohio","Taylor County,West Virginia",18608,487599
+383,"Butler County,Ohio","Tucker County,West Virginia",21275,540921
+384,"Butler County,Ohio","Tyler County,West Virginia",16398,427140
+385,"Butler County,Ohio","Upshur County,West Virginia",19749,521282
+386,"Butler County,Ohio","Wayne County,West Virginia",13517,322007
+387,"Butler County,Ohio","Webster County,West Virginia",20168,513061
+388,"Butler County,Ohio","Wetzel County,West Virginia",17083,443239
+389,"Butler County,Ohio","Wirt County,West Virginia",14285,365587
+390,"Butler County,Ohio","Wood County,West Virginia",12968,340317
+391,"Butler County,Ohio","Wyoming County,West Virginia",18676,483703

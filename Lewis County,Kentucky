@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Lewis County,Kentucky","Adair County,Kentucky",11996,302808
+1,"Lewis County,Kentucky","Allen County,Kentucky",14614,403456
+2,"Lewis County,Kentucky","Anderson County,Kentucky",7796,205847
+3,"Lewis County,Kentucky","Ballard County,Kentucky",20774,595618
+4,"Lewis County,Kentucky","Barren County,Kentucky",13741,361835
+5,"Lewis County,Kentucky","Bath County,Kentucky",3443,77028
+6,"Lewis County,Kentucky","Bell County,Kentucky",12449,307645
+7,"Lewis County,Kentucky","Boone County,Kentucky",7289,157351
+8,"Lewis County,Kentucky","Bourbon County,Kentucky",5102,108052
+9,"Lewis County,Kentucky","Boyd County,Kentucky",3828,87473
+10,"Lewis County,Kentucky","Boyle County,Kentucky",9024,209734
+11,"Lewis County,Kentucky","Bracken County,Kentucky",3801,76459
+12,"Lewis County,Kentucky","Breathitt County,Kentucky",7391,147780
+13,"Lewis County,Kentucky","Breckinridge County,Kentucky",13329,358528
+14,"Lewis County,Kentucky","Bullitt County,Kentucky",9899,279648
+15,"Lewis County,Kentucky","Butler County,Kentucky",13994,380526
+16,"Lewis County,Kentucky","Caldwell County,Kentucky",16886,486471
+17,"Lewis County,Kentucky","Calloway County,Kentucky",19696,571464
+18,"Lewis County,Kentucky","Campbell County,Kentucky",5502,116330
+19,"Lewis County,Kentucky","Carlisle County,Kentucky",21231,610987
+20,"Lewis County,Kentucky","Carroll County,Kentucky",8863,219117
+21,"Lewis County,Kentucky","Carter County,Kentucky",2965,56730
+22,"Lewis County,Kentucky","Casey County,Kentucky",10519,241239
+23,"Lewis County,Kentucky","Christian County,Kentucky",16535,481728
+24,"Lewis County,Kentucky","Clay County,Kentucky",10691,230106
+25,"Lewis County,Kentucky","Clinton County,Kentucky",12403,306173
+26,"Lewis County,Kentucky","Crittenden County,Kentucky",18466,519542
+27,"Lewis County,Kentucky","Cumberland County,Kentucky",13157,324412
+28,"Lewis County,Kentucky","Daviess County,Kentucky",15017,426969
+29,"Lewis County,Kentucky","Edmonson County,Kentucky",13434,368401
+30,"Lewis County,Kentucky","Elliott County,Kentucky",4069,68881
+31,"Lewis County,Kentucky","Estill County,Kentucky",6435,139344
+32,"Lewis County,Kentucky","Fayette County,Kentucky",5603,143340
+33,"Lewis County,Kentucky","Fleming County,Kentucky",2059,38737
+34,"Lewis County,Kentucky","Floyd County,Kentucky",8237,171703
+35,"Lewis County,Kentucky","Franklin County,Kentucky",7640,192256
+36,"Lewis County,Kentucky","Fulton County,Kentucky",21635,631951
+37,"Lewis County,Kentucky","Gallatin County,Kentucky",8074,191530
+38,"Lewis County,Kentucky","Garrard County,Kentucky",8208,190493
+39,"Lewis County,Kentucky","Grant County,Kentucky",7814,147495
+40,"Lewis County,Kentucky","Graves County,Kentucky",20256,583693
+41,"Lewis County,Kentucky","Grayson County,Kentucky",12321,337162
+42,"Lewis County,Kentucky","Green County,Kentucky",12101,302367
+43,"Lewis County,Kentucky","Greenup County,Kentucky",2788,60855
+44,"Lewis County,Kentucky","Hancock County,Kentucky",14125,391421
+45,"Lewis County,Kentucky","Hardin County,Kentucky",11197,299295
+46,"Lewis County,Kentucky","Harlan County,Kentucky",13852,284418
+47,"Lewis County,Kentucky","Harrison County,Kentucky",5989,117636
+48,"Lewis County,Kentucky","Hart County,Kentucky",11997,326923
+49,"Lewis County,Kentucky","Henderson County,Kentucky",16823,479398
+50,"Lewis County,Kentucky","Henry County,Kentucky",9242,235975
+51,"Lewis County,Kentucky","Hickman County,Kentucky",21265,612278
+52,"Lewis County,Kentucky","Hopkins County,Kentucky",16344,460940
+53,"Lewis County,Kentucky","Jackson County,Kentucky",9108,187352
+54,"Lewis County,Kentucky","Jefferson County,Kentucky",9335,251508
+55,"Lewis County,Kentucky","Jessamine County,Kentucky",7072,164804
+56,"Lewis County,Kentucky","Johnson County,Kentucky",6885,137334
+57,"Lewis County,Kentucky","Kenton County,Kentucky",6658,145045
+58,"Lewis County,Kentucky","Knott County,Kentucky",9418,203585
+59,"Lewis County,Kentucky","Knox County,Kentucky",10611,269386
+60,"Lewis County,Kentucky","Larue County,Kentucky",11269,286471
+61,"Lewis County,Kentucky","Laurel County,Kentucky",9462,240781
+62,"Lewis County,Kentucky","Lawrence County,Kentucky",5726,114045
+63,"Lewis County,Kentucky","Lee County,Kentucky",7549,167818
+64,"Lewis County,Kentucky","Leslie County,Kentucky",10880,229325
+65,"Lewis County,Kentucky","Letcher County,Kentucky",11104,236131
+66,"Lewis County,Kentucky","Lincoln County,Kentucky",8918,207412
+67,"Lewis County,Kentucky","Livingston County,Kentucky",19061,536438
+68,"Lewis County,Kentucky","Logan County,Kentucky",15734,423764
+69,"Lewis County,Kentucky","Lyon County,Kentucky",19195,546829
+70,"Lewis County,Kentucky","McCracken County,Kentucky",19386,563678
+71,"Lewis County,Kentucky","McCreary County,Kentucky",11567,285223
+72,"Lewis County,Kentucky","Madison County,Kentucky",6601,154363
+73,"Lewis County,Kentucky","Magoffin County,Kentucky",6895,129422
+74,"Lewis County,Kentucky","Marion County,Kentucky",9647,248080
+75,"Lewis County,Kentucky","Marshall County,Kentucky",18801,547250
+76,"Lewis County,Kentucky","Martin County,Kentucky",7699,180352
+77,"Lewis County,Kentucky","Mason County,Kentucky",3150,56004
+78,"Lewis County,Kentucky","Meade County,Kentucky",11796,323823
+79,"Lewis County,Kentucky","Menifee County,Kentucky",4559,89092
+80,"Lewis County,Kentucky","Mercer County,Kentucky",8023,203791
+81,"Lewis County,Kentucky","Metcalfe County,Kentucky",12652,333073
+82,"Lewis County,Kentucky","Monroe County,Kentucky",14622,370577
+83,"Lewis County,Kentucky","Montgomery County,Kentucky",4256,95569
+84,"Lewis County,Kentucky","Morgan County,Kentucky",4899,94533
+85,"Lewis County,Kentucky","Muhlenberg County,Kentucky",15205,427415
+86,"Lewis County,Kentucky","Nelson County,Kentucky",9255,247151
+87,"Lewis County,Kentucky","Nicholas County,Kentucky",4281,86051
+88,"Lewis County,Kentucky","Ohio County,Kentucky",14118,395005
+89,"Lewis County,Kentucky","Oldham County,Kentucky",9407,263390
+90,"Lewis County,Kentucky","Owen County,Kentucky",8462,219033
+91,"Lewis County,Kentucky","Owsley County,Kentucky",8696,187795
+92,"Lewis County,Kentucky","Pendleton County,Kentucky",5739,117383
+93,"Lewis County,Kentucky","Perry County,Kentucky",9003,187663
+94,"Lewis County,Kentucky","Pike County,Kentucky",9916,202027
+95,"Lewis County,Kentucky","Powell County,Kentucky",5700,125314
+96,"Lewis County,Kentucky","Robertson County,Kentucky",4198,85557
+97,"Lewis County,Kentucky","Rockcastle County,Kentucky",8035,195506
+98,"Lewis County,Kentucky","Rowan County,Kentucky",2531,49207
+99,"Lewis County,Kentucky","Russell County,Kentucky",11600,286792
+100,"Lewis County,Kentucky","Scott County,Kentucky",6437,171367
+101,"Lewis County,Kentucky","Shelby County,Kentucky",8264,222643
+102,"Lewis County,Kentucky","Simpson County,Kentucky",15316,431822
+103,"Lewis County,Kentucky","Spencer County,Kentucky",8794,228491
+104,"Lewis County,Kentucky","Taylor County,Kentucky",10936,279576
+105,"Lewis County,Kentucky","Todd County,Kentucky",16970,447925
+106,"Lewis County,Kentucky","Trigg County,Kentucky",17948,507657
+107,"Lewis County,Kentucky","Trimble County,Kentucky",9762,242441
+108,"Lewis County,Kentucky","Union County,Kentucky",18543,509845
+109,"Lewis County,Kentucky","Warren County,Kentucky",14350,396770
+110,"Lewis County,Kentucky","Washington County,Kentucky",9265,232388
+111,"Lewis County,Kentucky","Wayne County,Kentucky",11776,283864
+112,"Lewis County,Kentucky","Webster County,Kentucky",17454,489028
+113,"Lewis County,Kentucky","Whitley County,Kentucky",10295,275266
+114,"Lewis County,Kentucky","Wolfe County,Kentucky",5994,117894
+115,"Lewis County,Kentucky","Woodford County,Kentucky",6657,174003
+116,"Lewis County,Kentucky","Adams County,Ohio",5059,90211
+117,"Lewis County,Kentucky","Allen County,Ohio",13751,355031
+118,"Lewis County,Kentucky","Ashland County,Ohio",13582,340727
+119,"Lewis County,Kentucky","Ashtabula County,Ohio",19329,525478
+120,"Lewis County,Kentucky","Athens County,Ohio",7983,190127
+121,"Lewis County,Kentucky","Auglaize County,Ohio",13007,342296
+122,"Lewis County,Kentucky","Belmont County,Ohio",14659,379998
+123,"Lewis County,Kentucky","Brown County,Ohio",4487,85488
+124,"Lewis County,Kentucky","Butler County,Ohio",8829,204906
+125,"Lewis County,Kentucky","Carroll County,Ohio",16623,417222
+126,"Lewis County,Kentucky","Champaign County,Ohio",11068,267836
+127,"Lewis County,Kentucky","Clark County,Ohio",9748,227380
+128,"Lewis County,Kentucky","Clermont County,Ohio",6307,126889
+129,"Lewis County,Kentucky","Clinton County,Ohio",7183,145378
+130,"Lewis County,Kentucky","Columbiana County,Ohio",18441,459971
+131,"Lewis County,Kentucky","Coshocton County,Ohio",13182,312639
+132,"Lewis County,Kentucky","Crawford County,Ohio",13197,309185
+133,"Lewis County,Kentucky","Cuyahoga County,Ohio",15900,423192
+134,"Lewis County,Kentucky","Darke County,Ohio",12105,299343
+135,"Lewis County,Kentucky","Defiance County,Ohio",17239,433462
+136,"Lewis County,Kentucky","Delaware County,Ohio",10500,247399
+137,"Lewis County,Kentucky","Fairfield County,Ohio",9044,199222
+138,"Lewis County,Kentucky","Fayette County,Ohio",7815,185526
+139,"Lewis County,Kentucky","Franklin County,Ohio",9017,207326
+140,"Lewis County,Kentucky","Fulton County,Ohio",18002,450405
+141,"Lewis County,Kentucky","Gallia County,Ohio",6346,134870
+142,"Lewis County,Kentucky","Geauga County,Ohio",17429,462410
+143,"Lewis County,Kentucky","Greene County,Ohio",8686,218678
+144,"Lewis County,Kentucky","Guernsey County,Ohio",12388,313679
+145,"Lewis County,Kentucky","Hamilton County,Ohio",7483,169390
+146,"Lewis County,Kentucky","Hancock County,Ohio",14374,350277
+147,"Lewis County,Kentucky","Hardin County,Ohio",13025,304868
+148,"Lewis County,Kentucky","Harrison County,Ohio",15629,399287
+149,"Lewis County,Kentucky","Henry County,Ohio",16584,420395
+150,"Lewis County,Kentucky","Highland County,Ohio",6634,130691
+151,"Lewis County,Kentucky","Hocking County,Ohio",8654,185510
+152,"Lewis County,Kentucky","Holmes County,Ohio",14733,349497
+153,"Lewis County,Kentucky","Huron County,Ohio",14729,339497
+154,"Lewis County,Kentucky","Jackson County,Ohio",5380,124496
+155,"Lewis County,Kentucky","Jefferson County,Ohio",16622,409065
+156,"Lewis County,Kentucky","Knox County,Ohio",12949,307020
+157,"Lewis County,Kentucky","Lawrence County,Ohio",4874,101297
+158,"Lewis County,Kentucky","Licking County,Ohio",11021,255083
+159,"Lewis County,Kentucky","Logan County,Ohio",12046,299145
+160,"Lewis County,Kentucky","Lorain County,Ohio",16514,398151
+161,"Lewis County,Kentucky","Lucas County,Ohio",18009,437776
+162,"Lewis County,Kentucky","Madison County,Ohio",9517,208610
+163,"Lewis County,Kentucky","Mahoning County,Ohio",18298,477110
+164,"Lewis County,Kentucky","Marion County,Ohio",11757,268015
+165,"Lewis County,Kentucky","Medina County,Ohio",14228,365740
+166,"Lewis County,Kentucky","Meigs County,Ohio",8362,186788
+167,"Lewis County,Kentucky","Mercer County,Ohio",14243,369230
+168,"Lewis County,Kentucky","Miami County,Ohio",10593,264735
+169,"Lewis County,Kentucky","Monroe County,Ohio",14355,342928
+170,"Lewis County,Kentucky","Montgomery County,Ohio",9976,242475
+171,"Lewis County,Kentucky","Morgan County,Ohio",11102,250174
+172,"Lewis County,Kentucky","Morrow County,Ohio",11307,270219
+173,"Lewis County,Kentucky","Muskingum County,Ohio",11239,279835
+174,"Lewis County,Kentucky","Noble County,Ohio",12861,326088
+175,"Lewis County,Kentucky","Paulding County,Ohio",16282,418009
+176,"Lewis County,Kentucky","Perry County,Ohio",10226,216465
+177,"Lewis County,Kentucky","Pickaway County,Ohio",7256,165624
+178,"Lewis County,Kentucky","Pike County,Ohio",4218,90751
+179,"Lewis County,Kentucky","Portage County,Ohio",16750,436889
+180,"Lewis County,Kentucky","Preble County,Ohio",10873,249305
+181,"Lewis County,Kentucky","Putnam County,Ohio",14926,387499
+182,"Lewis County,Kentucky","Richland County,Ohio",12337,305458
+183,"Lewis County,Kentucky","Ross County,Ohio",6000,131931
+184,"Lewis County,Kentucky","Sandusky County,Ohio",16130,368972
+185,"Lewis County,Kentucky","Scioto County,Ohio",3527,72876
+186,"Lewis County,Kentucky","Seneca County,Ohio",14747,342856
+187,"Lewis County,Kentucky","Shelby County,Ohio",11632,301021
+188,"Lewis County,Kentucky","Stark County,Ohio",16482,432457
+189,"Lewis County,Kentucky","Summit County,Ohio",15431,401067
+190,"Lewis County,Kentucky","Trumbull County,Ohio",18331,487381
+191,"Lewis County,Kentucky","Tuscarawas County,Ohio",14683,373044
+192,"Lewis County,Kentucky","Union County,Ohio",10550,249376
+193,"Lewis County,Kentucky","Van Wert County,Ohio",14916,387555
+194,"Lewis County,Kentucky","Vinton County,Ohio",7704,165727
+195,"Lewis County,Kentucky","Warren County,Ohio",8282,161641
+196,"Lewis County,Kentucky","Washington County,Ohio",11016,270224
+197,"Lewis County,Kentucky","Wayne County,Ohio",13956,354737
+198,"Lewis County,Kentucky","Williams County,Ohio",18416,456978
+199,"Lewis County,Kentucky","Wood County,Ohio",15772,391884
+200,"Lewis County,Kentucky","Wyandot County,Ohio",13344,314412
+201,"Lewis County,Kentucky","Accomack County,Virginia",33914,961342
+202,"Lewis County,Kentucky","Albemarle County,Virginia",20063,573841
+203,"Lewis County,Kentucky","Alleghany County,Virginia",14732,410864
+204,"Lewis County,Kentucky","Amelia County,Virginia",24764,673960
+205,"Lewis County,Kentucky","Amherst County,Virginia",20061,541830
+206,"Lewis County,Kentucky","Appomattox County,Virginia",21654,580589
+207,"Lewis County,Kentucky","Arlington County,Virginia",26346,769873
+208,"Lewis County,Kentucky","Augusta County,Virginia",18674,512181
+209,"Lewis County,Kentucky","Bath County,Virginia",17744,486174
+210,"Lewis County,Kentucky","Bedford County,Virginia",20321,527955
+211,"Lewis County,Kentucky","Bland County,Virginia",13694,377084
+212,"Lewis County,Kentucky","Botetourt County,Virginia",17887,482164
+213,"Lewis County,Kentucky","Brunswick County,Virginia",27307,723633
+214,"Lewis County,Kentucky","Buchanan County,Virginia",13968,281533
+215,"Lewis County,Kentucky","Buckingham County,Virginia",21937,591525
+216,"Lewis County,Kentucky","Campbell County,Virginia",21578,583061
+217,"Lewis County,Kentucky","Caroline County,Virginia",25402,742687
+218,"Lewis County,Kentucky","Carroll County,Virginia",15940,446522
+219,"Lewis County,Kentucky","Charles City County,Virginia",25503,739722
+220,"Lewis County,Kentucky","Charlotte County,Virginia",23539,634110
+221,"Lewis County,Kentucky","Chesterfield County,Virginia",24639,717505
+222,"Lewis County,Kentucky","Clarke County,Virginia",24243,700899
+223,"Lewis County,Kentucky","Craig County,Virginia",16375,431949
+224,"Lewis County,Kentucky","Culpeper County,Virginia",23860,663058
+225,"Lewis County,Kentucky","Cumberland County,Virginia",23147,619527
+226,"Lewis County,Kentucky","Dickenson County,Virginia",13776,287030
+227,"Lewis County,Kentucky","Dinwiddie County,Virginia",26386,767937
+228,"Lewis County,Kentucky","Essex County,Virginia",27220,766729
+229,"Lewis County,Kentucky","Fairfax County,Virginia",26037,760540
+230,"Lewis County,Kentucky","Fauquier County,Virginia",24681,722151
+231,"Lewis County,Kentucky","Floyd County,Virginia",17561,465486
+232,"Lewis County,Kentucky","Fluvanna County,Virginia",21741,626013
+233,"Lewis County,Kentucky","Franklin County,Virginia",19834,529188
+234,"Lewis County,Kentucky","Frederick County,Virginia",22908,615034
+235,"Lewis County,Kentucky","Giles County,Virginia",14425,388642
+236,"Lewis County,Kentucky","Gloucester County,Virginia",27674,793910
+237,"Lewis County,Kentucky","Goochland County,Virginia",22645,656624
+238,"Lewis County,Kentucky","Grayson County,Virginia",16342,436229
+239,"Lewis County,Kentucky","Greene County,Virginia",22056,609426
+240,"Lewis County,Kentucky","Greensville County,Virginia",27802,816688
+241,"Lewis County,Kentucky","Halifax County,Virginia",24243,644208
+242,"Lewis County,Kentucky","Hanover County,Virginia",23851,697731
+243,"Lewis County,Kentucky","Henrico County,Virginia",24362,710690
+244,"Lewis County,Kentucky","Henry County,Virginia",19813,533242
+245,"Lewis County,Kentucky","Highland County,Virginia",19189,496144
+246,"Lewis County,Kentucky","Isle of Wight County,Virginia",28615,815267
+247,"Lewis County,Kentucky","James City County,Virginia",26739,780493
+248,"Lewis County,Kentucky","King and Queen County,Virginia",26397,756076
+249,"Lewis County,Kentucky","King George County,Virginia",26516,770673
+250,"Lewis County,Kentucky","King William County,Virginia",25085,725999
+251,"Lewis County,Kentucky","Lancaster County,Virginia",28877,809084
+252,"Lewis County,Kentucky","Lee County,Virginia",15077,335546
+253,"Lewis County,Kentucky","Loudoun County,Virginia",25739,736766
+254,"Lewis County,Kentucky","Louisa County,Virginia",22302,639719
+255,"Lewis County,Kentucky","Lunenburg County,Virginia",25311,675394
+256,"Lewis County,Kentucky","Madison County,Virginia",22976,639166
+257,"Lewis County,Kentucky","Mathews County,Virginia",28498,817333
+258,"Lewis County,Kentucky","Mecklenburg County,Virginia",26302,688518
+259,"Lewis County,Kentucky","Middlesex County,Virginia",27275,790110
+260,"Lewis County,Kentucky","Montgomery County,Virginia",15508,416649
+261,"Lewis County,Kentucky","Nelson County,Virginia",20602,553521
+262,"Lewis County,Kentucky","New Kent County,Virginia",26175,754406
+263,"Lewis County,Kentucky","Northampton County,Virginia",31156,897156
+264,"Lewis County,Kentucky","Northumberland County,Virginia",28917,807596
+265,"Lewis County,Kentucky","Nottoway County,Virginia",24804,675774
+266,"Lewis County,Kentucky","Orange County,Virginia",23265,647827
+267,"Lewis County,Kentucky","Page County,Virginia",21910,622951
+268,"Lewis County,Kentucky","Patrick County,Virginia",18045,491557
+269,"Lewis County,Kentucky","Pittsylvania County,Virginia",22129,587450
+270,"Lewis County,Kentucky","Powhatan County,Virginia",23898,681846
+271,"Lewis County,Kentucky","Prince Edward County,Virginia",23419,633109
+272,"Lewis County,Kentucky","Prince George County,Virginia",26150,754521
+273,"Lewis County,Kentucky","Prince William County,Virginia",24781,728255
+274,"Lewis County,Kentucky","Pulaski County,Virginia",15603,412980
+275,"Lewis County,Kentucky","Rappahannock County,Virginia",23741,659438
+276,"Lewis County,Kentucky","Richmond County,Virginia",27617,780240
+277,"Lewis County,Kentucky","Roanoke County,Virginia",17128,459443
+278,"Lewis County,Kentucky","Rockbridge County,Virginia",17065,479221
+279,"Lewis County,Kentucky","Rockingham County,Virginia",20949,595302
+280,"Lewis County,Kentucky","Russell County,Virginia",15499,300082
+281,"Lewis County,Kentucky","Scott County,Virginia",15252,334483
+282,"Lewis County,Kentucky","Shenandoah County,Virginia",21453,625405
+283,"Lewis County,Kentucky","Smyth County,Virginia",16052,442436
+284,"Lewis County,Kentucky","Southampton County,Virginia",28180,812802
+285,"Lewis County,Kentucky","Spotsylvania County,Virginia",24318,681557
+286,"Lewis County,Kentucky","Stafford County,Virginia",25699,705850
+287,"Lewis County,Kentucky","Surry County,Virginia",27483,779354
+288,"Lewis County,Kentucky","Sussex County,Virginia",26844,783045
+289,"Lewis County,Kentucky","Tazewell County,Virginia",14510,395672
+290,"Lewis County,Kentucky","Warren County,Virginia",23356,669998
+291,"Lewis County,Kentucky","Washington County,Virginia",16174,353748
+292,"Lewis County,Kentucky","Westmoreland County,Virginia",27490,787498
+293,"Lewis County,Kentucky","Wise County,Virginia",12041,262929
+294,"Lewis County,Kentucky","Wythe County,Virginia",14299,395301
+295,"Lewis County,Kentucky","York County,Virginia",28027,811267
+296,"Lewis County,Kentucky","Alexandria City County,Virginia",26862,787055
+297,"Lewis County,Kentucky","Bedford City County,Virginia",19485,519386
+298,"Lewis County,Kentucky","Bristol City County,Virginia",17014,374634
+299,"Lewis County,Kentucky","Buena Vista City County,Virginia",17420,493198
+300,"Lewis County,Kentucky","Charlottesville City County,Virginia",20533,589056
+301,"Lewis County,Kentucky","Chesapeake City County,Virginia",29490,864172
+302,"Lewis County,Kentucky","Clifton Forge City County,Virginia",15276,431071
+303,"Lewis County,Kentucky","Colonial Heights City County,Virginia",25199,733398
+304,"Lewis County,Kentucky","Covington City County,Virginia",14801,414450
+305,"Lewis County,Kentucky","Danville City County,Virginia",21971,587698
+306,"Lewis County,Kentucky","Emporia City County,Virginia",27510,803282
+307,"Lewis County,Kentucky","Fairfax City County,Virginia",25913,754002
+308,"Lewis County,Kentucky","Falls Church City County,Virginia",26055,764185
+309,"Lewis County,Kentucky","Franklin City County,Virginia",28728,820657
+310,"Lewis County,Kentucky","Fredericksburg City County,Virginia",25451,691217
+311,"Lewis County,Kentucky","Galax City County,Virginia",16563,452388
+312,"Lewis County,Kentucky","Hampton City County,Virginia",27977,820973
+313,"Lewis County,Kentucky","Harrisonburg City County,Virginia",20008,575198
+314,"Lewis County,Kentucky","Hopewell City County,Virginia",25235,732364
+315,"Lewis County,Kentucky","Lexington City County,Virginia",17054,481689
+316,"Lewis County,Kentucky","Lynchburg City County,Virginia",20637,556804
+317,"Lewis County,Kentucky","Manassas City County,Virginia",25008,733199
+318,"Lewis County,Kentucky","Manassas Park City County,Virginia",25511,739542
+319,"Lewis County,Kentucky","Martinsville City County,Virginia",20341,542036
+320,"Lewis County,Kentucky","Newport News City County,Virginia",27533,807459
+321,"Lewis County,Kentucky","Norfolk City County,Virginia",29283,846389
+322,"Lewis County,Kentucky","Norton City County,Virginia",12670,274741
+323,"Lewis County,Kentucky","Petersburg City County,Virginia",25070,734385
+324,"Lewis County,Kentucky","Poquoson City County,Virginia",28205,818036
+325,"Lewis County,Kentucky","Portsmouth City County,Virginia",29222,855210
+326,"Lewis County,Kentucky","Radford County,Virginia",15916,414690
+327,"Lewis County,Kentucky","Richmond City County,Virginia",23938,698501
+328,"Lewis County,Kentucky","Roanoke City County,Virginia",17730,479547
+329,"Lewis County,Kentucky","Salem City County,Virginia",17142,466097
+330,"Lewis County,Kentucky","South Boston City County,Virginia",23983,641877
+331,"Lewis County,Kentucky","Staunton City County,Virginia",18825,536333
+332,"Lewis County,Kentucky","Suffolk City County,Virginia",29457,829991
+333,"Lewis County,Kentucky","Virginia Beach City County,Virginia",29844,869648
+334,"Lewis County,Kentucky","Waynesboro City County,Virginia",19163,549051
+335,"Lewis County,Kentucky","Williamsburg City County,Virginia",26578,779708
+336,"Lewis County,Kentucky","Winchester City County,Virginia",23387,649035
+337,"Lewis County,Kentucky","Barbour County,West Virginia",14868,409731
+338,"Lewis County,Kentucky","Berkeley County,West Virginia",22801,647891
+339,"Lewis County,Kentucky","Boone County,West Virginia",10047,243348
+340,"Lewis County,Kentucky","Braxton County,West Virginia",11558,300711
+341,"Lewis County,Kentucky","Brooke County,West Virginia",16738,422246
+342,"Lewis County,Kentucky","Cabell County,West Virginia",4619,109857
+343,"Lewis County,Kentucky","Calhoun County,West Virginia",11479,298395
+344,"Lewis County,Kentucky","Clay County,West Virginia",10325,271623
+345,"Lewis County,Kentucky","Doddridge County,West Virginia",13354,336810
+346,"Lewis County,Kentucky","Fayette County,West Virginia",11612,289968
+347,"Lewis County,Kentucky","Gilmer County,West Virginia",12757,322897
+348,"Lewis County,Kentucky","Grant County,West Virginia",19224,511276
+349,"Lewis County,Kentucky","Greenbrier County,West Virginia",14687,368006
+350,"Lewis County,Kentucky","Hampshire County,West Virginia",22055,609494
+351,"Lewis County,Kentucky","Hancock County,West Virginia",18327,456782
+352,"Lewis County,Kentucky","Hardy County,West Virginia",20279,542774
+353,"Lewis County,Kentucky","Harrison County,West Virginia",14102,396102
+354,"Lewis County,Kentucky","Jackson County,West Virginia",9363,252727
+355,"Lewis County,Kentucky","Jefferson County,West Virginia",24267,703889
+356,"Lewis County,Kentucky","Kanawha County,West Virginia",8921,224031
+357,"Lewis County,Kentucky","Lewis County,West Virginia",12731,349572
+358,"Lewis County,Kentucky","Lincoln County,West Virginia",7836,167507
+359,"Lewis County,Kentucky","Logan County,West Virginia",10366,239835
+360,"Lewis County,Kentucky","McDowell County,West Virginia",14771,312900
+361,"Lewis County,Kentucky","Marion County,West Virginia",15247,423269
+362,"Lewis County,Kentucky","Marshall County,West Virginia",16695,416754
+363,"Lewis County,Kentucky","Mason County,West Virginia",7377,169335
+364,"Lewis County,Kentucky","Mercer County,West Virginia",12248,335590
+365,"Lewis County,Kentucky","Mineral County,West Virginia",20918,540097
+366,"Lewis County,Kentucky","Mingo County,West Virginia",9049,206288
+367,"Lewis County,Kentucky","Monongalia County,West Virginia",15457,448738
+368,"Lewis County,Kentucky","Monroe County,West Virginia",15293,380302
+369,"Lewis County,Kentucky","Morgan County,West Virginia",22293,637282
+370,"Lewis County,Kentucky","Nicholas County,West Virginia",12041,331504
+371,"Lewis County,Kentucky","Ohio County,West Virginia",15757,403484
+372,"Lewis County,Kentucky","Pendleton County,West Virginia",19555,513901
+373,"Lewis County,Kentucky","Pleasants County,West Virginia",12244,296329
+374,"Lewis County,Kentucky","Pocahontas County,West Virginia",17370,401043
+375,"Lewis County,Kentucky","Preston County,West Virginia",17603,475469
+376,"Lewis County,Kentucky","Putnam County,West Virginia",6302,162634
+377,"Lewis County,Kentucky","Raleigh County,West Virginia",10789,289283
+378,"Lewis County,Kentucky","Randolph County,West Virginia",15233,412027
+379,"Lewis County,Kentucky","Ritchie County,West Virginia",12519,309852
+380,"Lewis County,Kentucky","Roane County,West Virginia",10989,281542
+381,"Lewis County,Kentucky","Summers County,West Virginia",14241,350721
+382,"Lewis County,Kentucky","Taylor County,West Virginia",15140,418842
+383,"Lewis County,Kentucky","Tucker County,West Virginia",16300,442551
+384,"Lewis County,Kentucky","Tyler County,West Virginia",14153,335944
+385,"Lewis County,Kentucky","Upshur County,West Virginia",14296,364269
+386,"Lewis County,Kentucky","Wayne County,West Virginia",6149,131052
+387,"Lewis County,Kentucky","Webster County,West Virginia",14226,358584
+388,"Lewis County,Kentucky","Wetzel County,West Virginia",15365,357851
+389,"Lewis County,Kentucky","Wirt County,West Virginia",11447,251161
+390,"Lewis County,Kentucky","Wood County,West Virginia",10626,261216
+391,"Lewis County,Kentucky","Wyoming County,West Virginia",12734,329225

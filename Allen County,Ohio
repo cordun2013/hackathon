@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Allen County,Ohio","Adair County,Kentucky",18607,510243
+1,"Allen County,Ohio","Allen County,Kentucky",19363,563530
+2,"Allen County,Ohio","Anderson County,Kentucky",13589,389388
+3,"Allen County,Ohio","Ballard County,Kentucky",25523,755692
+4,"Allen County,Ohio","Barren County,Kentucky",18490,531942
+5,"Allen County,Ohio","Bath County,Kentucky",13874,410697
+6,"Allen County,Ohio","Bell County,Kentucky",19108,538423
+7,"Allen County,Ohio","Boone County,Kentucky",9057,240114
+8,"Allen County,Ohio","Bourbon County,Kentucky",12462,348656
+9,"Allen County,Ohio","Boyd County,Kentucky",15114,392151
+10,"Allen County,Ohio","Boyle County,Kentucky",14898,417277
+11,"Allen County,Ohio","Bracken County,Kentucky",10620,289473
+12,"Allen County,Ohio","Breathitt County,Kentucky",16474,474878
+13,"Allen County,Ohio","Breckinridge County,Kentucky",17403,482094
+14,"Allen County,Ohio","Bullitt County,Kentucky",13939,402925
+15,"Allen County,Ohio","Butler County,Kentucky",18743,540600
+16,"Allen County,Ohio","Caldwell County,Kentucky",21635,646545
+17,"Allen County,Ohio","Calloway County,Kentucky",24445,731538
+18,"Allen County,Ohio","Campbell County,Kentucky",9150,242423
+19,"Allen County,Ohio","Carlisle County,Kentucky",25980,771060
+20,"Allen County,Ohio","Carroll County,Kentucky",10631,301879
+21,"Allen County,Ohio","Carter County,Kentucky",15481,404865
+22,"Allen County,Ohio","Casey County,Kentucky",16823,447406
+23,"Allen County,Ohio","Christian County,Kentucky",21284,641802
+24,"Allen County,Ohio","Clay County,Kentucky",17339,497468
+25,"Allen County,Ohio","Clinton County,Kentucky",19062,536951
+26,"Allen County,Ohio","Crittenden County,Kentucky",23215,679616
+27,"Allen County,Ohio","Cumberland County,Kentucky",19816,555190
+28,"Allen County,Ohio","Daviess County,Kentucky",18715,545412
+29,"Allen County,Ohio","Edmonson County,Kentucky",18183,528475
+30,"Allen County,Ohio","Elliott County,Kentucky",16811,413698
+31,"Allen County,Ohio","Estill County,Kentucky",14408,411418
+32,"Allen County,Ohio","Fayette County,Kentucky",11837,341912
+33,"Allen County,Ohio","Fleming County,Kentucky",12896,342213
+34,"Allen County,Ohio","Floyd County,Kentucky",18661,534908
+35,"Allen County,Ohio","Franklin County,Kentucky",13071,345262
+36,"Allen County,Ohio","Fulton County,Kentucky",26384,792024
+37,"Allen County,Ohio","Gallatin County,Kentucky",9842,274292
+38,"Allen County,Ohio","Garrard County,Kentucky",14866,421271
+39,"Allen County,Ohio","Grant County,Kentucky",9909,274766
+40,"Allen County,Ohio","Graves County,Kentucky",25005,743767
+41,"Allen County,Ohio","Grayson County,Kentucky",17070,497236
+42,"Allen County,Ohio","Green County,Kentucky",17758,503232
+43,"Allen County,Ohio","Greenup County,Kentucky",13495,356084
+44,"Allen County,Ohio","Hancock County,Kentucky",17601,499930
+45,"Allen County,Ohio","Hardin County,Kentucky",15946,459368
+46,"Allen County,Ohio","Harlan County,Kentucky",21402,594028
+47,"Allen County,Ohio","Harrison County,Kentucky",11346,308829
+48,"Allen County,Ohio","Hart County,Kentucky",16746,486997
+49,"Allen County,Ohio","Henderson County,Kentucky",20299,587907
+50,"Allen County,Ohio","Henry County,Kentucky",11817,330202
+51,"Allen County,Ohio","Hickman County,Kentucky",26014,772352
+52,"Allen County,Ohio","Hopkins County,Kentucky",21093,621013
+53,"Allen County,Ohio","Jackson County,Kentucky",15851,441254
+54,"Allen County,Ohio","Jefferson County,Kentucky",13033,372361
+55,"Allen County,Ohio","Jessamine County,Kentucky",13097,365224
+56,"Allen County,Ohio","Johnson County,Kentucky",17615,510901
+57,"Allen County,Ohio","Kenton County,Kentucky",8702,233672
+58,"Allen County,Ohio","Knott County,Kentucky",18934,538256
+59,"Allen County,Ohio","Knox County,Kentucky",17270,500164
+60,"Allen County,Ohio","Larue County,Kentucky",16016,462968
+61,"Allen County,Ohio","Laurel County,Kentucky",16121,471559
+62,"Allen County,Ohio","Lawrence County,Kentucky",17360,439975
+63,"Allen County,Ohio","Lee County,Kentucky",15723,451335
+64,"Allen County,Ohio","Leslie County,Kentucky",19289,548591
+65,"Allen County,Ohio","Letcher County,Kentucky",20187,563229
+66,"Allen County,Ohio","Lewis County,Kentucky",13749,353868
+67,"Allen County,Ohio","Lincoln County,Kentucky",15576,438190
+68,"Allen County,Ohio","Livingston County,Kentucky",23810,696512
+69,"Allen County,Ohio","Logan County,Kentucky",20483,583838
+70,"Allen County,Ohio","Lyon County,Kentucky",23944,706903
+71,"Allen County,Ohio","McCracken County,Kentucky",24135,723752
+72,"Allen County,Ohio","McCreary County,Kentucky",18226,516001
+73,"Allen County,Ohio","Madison County,Kentucky",13260,385141
+74,"Allen County,Ohio","Magoffin County,Kentucky",17083,492769
+75,"Allen County,Ohio","Marion County,Kentucky",15596,441741
+76,"Allen County,Ohio","Marshall County,Kentucky",23550,707324
+77,"Allen County,Ohio","Martin County,Kentucky",18845,472319
+78,"Allen County,Ohio","Mason County,Kentucky",11354,304520
+79,"Allen County,Ohio","Meade County,Kentucky",15479,439602
+80,"Allen County,Ohio","Menifee County,Kentucky",15148,423235
+81,"Allen County,Ohio","Mercer County,Kentucky",13973,397452
+82,"Allen County,Ohio","Metcalfe County,Kentucky",18942,552035
+83,"Allen County,Ohio","Monroe County,Kentucky",19837,575618
+84,"Allen County,Ohio","Montgomery County,Kentucky",13792,401144
+85,"Allen County,Ohio","Morgan County,Kentucky",16473,481053
+86,"Allen County,Ohio","Muhlenberg County,Kentucky",19954,587489
+87,"Allen County,Ohio","Nelson County,Kentucky",15204,440812
+88,"Allen County,Ohio","Nicholas County,Kentucky",13052,350113
+89,"Allen County,Ohio","Ohio County,Kentucky",18867,555079
+90,"Allen County,Ohio","Oldham County,Kentucky",11932,343307
+91,"Allen County,Ohio","Owen County,Kentucky",11074,300681
+92,"Allen County,Ohio","Owsley County,Kentucky",16870,471312
+93,"Allen County,Ohio","Pendleton County,Kentucky",10026,264265
+94,"Allen County,Ohio","Perry County,Kentucky",18086,514761
+95,"Allen County,Ohio","Pike County,Kentucky",20340,565232
+96,"Allen County,Ohio","Powell County,Kentucky",14085,410003
+97,"Allen County,Ohio","Robertson County,Kentucky",11949,308258
+98,"Allen County,Ohio","Rockcastle County,Kentucky",14694,426283
+99,"Allen County,Ohio","Rowan County,Kentucky",14381,375575
+100,"Allen County,Ohio","Russell County,Kentucky",18259,517569
+101,"Allen County,Ohio","Scott County,Kentucky",10838,309287
+102,"Allen County,Ohio","Shelby County,Kentucky",13187,357192
+103,"Allen County,Ohio","Simpson County,Kentucky",20065,591895
+104,"Allen County,Ohio","Spencer County,Kentucky",14147,401981
+105,"Allen County,Ohio","Taylor County,Kentucky",16886,473237
+106,"Allen County,Ohio","Todd County,Kentucky",21719,607999
+107,"Allen County,Ohio","Trigg County,Kentucky",22697,667731
+108,"Allen County,Ohio","Trimble County,Kentucky",11530,325203
+109,"Allen County,Ohio","Union County,Kentucky",22019,618353
+110,"Allen County,Ohio","Warren County,Kentucky",19099,556844
+111,"Allen County,Ohio","Washington County,Kentucky",15214,426049
+112,"Allen County,Ohio","Wayne County,Kentucky",18435,514642
+113,"Allen County,Ohio","Webster County,Kentucky",21943,624529
+114,"Allen County,Ohio","Whitley County,Kentucky",16954,506044
+115,"Allen County,Ohio","Wolfe County,Kentucky",15349,447874
+116,"Allen County,Ohio","Woodford County,Kentucky",12450,357544
+117,"Allen County,Ohio","Adams County,Ohio",10942,293763
+118,"Allen County,Ohio","Ashland County,Ohio",7030,187982
+119,"Allen County,Ohio","Ashtabula County,Ohio",12871,378748
+120,"Allen County,Ohio","Athens County,Ohio",10674,272012
+121,"Allen County,Ohio","Auglaize County,Ohio",2112,38344
+122,"Allen County,Ohio","Belmont County,Ohio",12732,346326
+123,"Allen County,Ohio","Brown County,Ohio",10195,270317
+124,"Allen County,Ohio","Butler County,Ohio",7142,186873
+125,"Allen County,Ohio","Carroll County,Ohio",11463,298959
+126,"Allen County,Ohio","Champaign County,Ohio",5020,117612
+127,"Allen County,Ohio","Clark County,Ohio",5902,160193
+128,"Allen County,Ohio","Clermont County,Ohio",8225,224605
+129,"Allen County,Ohio","Clinton County,Ohio",7368,186983
+130,"Allen County,Ohio","Columbiana County,Ohio",11913,312446
+131,"Allen County,Ohio","Coshocton County,Ohio",10240,243872
+132,"Allen County,Ohio","Crawford County,Ohio",3887,110179
+133,"Allen County,Ohio","Cuyahoga County,Ohio",9442,276462
+134,"Allen County,Ohio","Darke County,Ohio",5543,114717
+135,"Allen County,Ohio","Defiance County,Ohio",4099,81968
+136,"Allen County,Ohio","Delaware County,Ohio",5845,155021
+137,"Allen County,Ohio","Fairfield County,Ohio",7867,193269
+138,"Allen County,Ohio","Fayette County,Ohio",7590,206880
+139,"Allen County,Ohio","Franklin County,Ohio",6330,153657
+140,"Allen County,Ohio","Fulton County,Ohio",4984,98402
+141,"Allen County,Ohio","Gallia County,Ohio",11769,333856
+142,"Allen County,Ohio","Geauga County,Ohio",10971,315680
+143,"Allen County,Ohio","Greene County,Ohio",5954,160896
+144,"Allen County,Ohio","Guernsey County,Ohio",10461,280007
+145,"Allen County,Ohio","Hamilton County,Ohio",7589,203637
+146,"Allen County,Ohio","Hancock County,Ohio",2502,54713
+147,"Allen County,Ohio","Hardin County,Ohio",2624,47742
+148,"Allen County,Ohio","Harrison County,Ohio",11698,301327
+149,"Allen County,Ohio","Henry County,Ohio",3680,73164
+150,"Allen County,Ohio","Highland County,Ohio",9118,226676
+151,"Allen County,Ohio","Hocking County,Ohio",9304,236674
+152,"Allen County,Ohio","Holmes County,Ohio",8570,221984
+153,"Allen County,Ohio","Huron County,Ohio",6087,160164
+154,"Allen County,Ohio","Jackson County,Ohio",10711,306397
+155,"Allen County,Ohio","Jefferson County,Ohio",13509,338557
+156,"Allen County,Ohio","Knox County,Ohio",8036,192188
+157,"Allen County,Ohio","Lawrence County,Ohio",14392,368470
+158,"Allen County,Ohio","Licking County,Ohio",8001,196272
+159,"Allen County,Ohio","Logan County,Ohio",3288,61996
+160,"Allen County,Ohio","Lorain County,Ohio",8794,219581
+161,"Allen County,Ohio","Lucas County,Ohio",5827,141233
+162,"Allen County,Ohio","Madison County,Ohio",6342,140888
+163,"Allen County,Ohio","Mahoning County,Ohio",11840,330380
+164,"Allen County,Ohio","Marion County,Ohio",4813,127760
+165,"Allen County,Ohio","Medina County,Ohio",7770,219010
+166,"Allen County,Ohio","Meigs County,Ohio",11599,302120
+167,"Allen County,Ohio","Mercer County,Ohio",3283,67008
+168,"Allen County,Ohio","Miami County,Ohio",3646,92786
+169,"Allen County,Ohio","Monroe County,Ohio",14137,360890
+170,"Allen County,Ohio","Montgomery County,Ohio",5348,142155
+171,"Allen County,Ohio","Morgan County,Ohio",11527,288503
+172,"Allen County,Ohio","Morrow County,Ohio",5758,147086
+173,"Allen County,Ohio","Muskingum County,Ohio",9312,246163
+174,"Allen County,Ohio","Noble County,Ohio",12160,317127
+175,"Allen County,Ohio","Paulding County,Ohio",3211,74913
+176,"Allen County,Ohio","Perry County,Ohio",9381,234747
+177,"Allen County,Ohio","Pickaway County,Ohio",7364,180271
+178,"Allen County,Ohio","Pike County,Ohio",10279,287077
+179,"Allen County,Ohio","Portage County,Ohio",10292,290159
+180,"Allen County,Ohio","Preble County,Ohio",6118,164867
+181,"Allen County,Ohio","Putnam County,Ohio",1786,36006
+182,"Allen County,Ohio","Richland County,Ohio",5657,155815
+183,"Allen County,Ohio","Ross County,Ohio",8944,252118
+184,"Allen County,Ohio","Sandusky County,Ohio",5542,134789
+185,"Allen County,Ohio","Scioto County,Ohio",11238,310531
+186,"Allen County,Ohio","Seneca County,Ohio",4796,117822
+187,"Allen County,Ohio","Shelby County,Ohio",2781,61606
+188,"Allen County,Ohio","Stark County,Ohio",9966,273748
+189,"Allen County,Ohio","Summit County,Ohio",8973,254337
+190,"Allen County,Ohio","Trumbull County,Ohio",11873,340652
+191,"Allen County,Ohio","Tuscarawas County,Ohio",10771,274395
+192,"Allen County,Ohio","Union County,Ohio",4592,101425
+193,"Allen County,Ohio","Van Wert County,Ohio",1908,41877
+194,"Allen County,Ohio","Vinton County,Ohio",11008,266178
+195,"Allen County,Ohio","Warren County,Ohio",6810,171444
+196,"Allen County,Ohio","Washington County,Ohio",13344,358072
+197,"Allen County,Ohio","Wayne County,Ohio",7427,207213
+198,"Allen County,Ohio","Williams County,Ohio",5276,105485
+199,"Allen County,Ohio","Wood County,Ohio",3590,95341
+200,"Allen County,Ohio","Wyandot County,Ohio",2965,78104
+201,"Allen County,Ohio","Accomack County,Virginia",39125,1096219
+202,"Allen County,Ohio","Albemarle County,Virginia",28462,823834
+203,"Allen County,Ohio","Alleghany County,Virginia",23131,660857
+204,"Allen County,Ohio","Amelia County,Virginia",33162,923952
+205,"Allen County,Ohio","Amherst County,Virginia",28459,791823
+206,"Allen County,Ohio","Appomattox County,Virginia",30053,830582
+207,"Allen County,Ohio","Arlington County,Virginia",27988,813146
+208,"Allen County,Ohio","Augusta County,Virginia",27072,762174
+209,"Allen County,Ohio","Bath County,Virginia",26142,736167
+210,"Allen County,Ohio","Bedford County,Virginia",28719,777948
+211,"Allen County,Ohio","Bland County,Virginia",22092,627077
+212,"Allen County,Ohio","Botetourt County,Virginia",26285,732156
+213,"Allen County,Ohio","Brunswick County,Virginia",35705,973625
+214,"Allen County,Ohio","Buchanan County,Virginia",24392,644739
+215,"Allen County,Ohio","Buckingham County,Virginia",30335,841517
+216,"Allen County,Ohio","Campbell County,Virginia",29976,833054
+217,"Allen County,Ohio","Caroline County,Virginia",31994,932136
+218,"Allen County,Ohio","Carroll County,Virginia",24338,696514
+219,"Allen County,Ohio","Charles City County,Virginia",33901,989714
+220,"Allen County,Ohio","Charlotte County,Virginia",31937,884103
+221,"Allen County,Ohio","Chesterfield County,Virginia",33037,967498
+222,"Allen County,Ohio","Clarke County,Virginia",26736,742879
+223,"Allen County,Ohio","Craig County,Virginia",24774,681942
+224,"Allen County,Ohio","Culpeper County,Virginia",30057,842318
+225,"Allen County,Ohio","Cumberland County,Virginia",31545,869520
+226,"Allen County,Ohio","Dickenson County,Virginia",23746,630175
+227,"Allen County,Ohio","Dinwiddie County,Virginia",34784,1017930
+228,"Allen County,Ohio","Essex County,Virginia",33395,956190
+229,"Allen County,Ohio","Fairfax County,Virginia",27679,803813
+230,"Allen County,Ohio","Fauquier County,Virginia",28487,809044
+231,"Allen County,Ohio","Floyd County,Virginia",25959,715479
+232,"Allen County,Ohio","Fluvanna County,Virginia",30139,876006
+233,"Allen County,Ohio","Franklin County,Virginia",28232,779181
+234,"Allen County,Ohio","Frederick County,Virginia",25526,717601
+235,"Allen County,Ohio","Giles County,Virginia",22823,638635
+236,"Allen County,Ohio","Gloucester County,Virginia",36072,1043903
+237,"Allen County,Ohio","Goochland County,Virginia",31043,906617
+238,"Allen County,Ohio","Grayson County,Virginia",24741,686221
+239,"Allen County,Ohio","Greene County,Virginia",30454,859418
+240,"Allen County,Ohio","Greensville County,Virginia",36200,1066681
+241,"Allen County,Ohio","Halifax County,Virginia",32641,894201
+242,"Allen County,Ohio","Hanover County,Virginia",32249,947723
+243,"Allen County,Ohio","Henrico County,Virginia",32761,960683
+244,"Allen County,Ohio","Henry County,Virginia",28211,783235
+245,"Allen County,Ohio","Highland County,Virginia",25854,650026
+246,"Allen County,Ohio","Isle of Wight County,Virginia",37013,1065260
+247,"Allen County,Ohio","James City County,Virginia",35137,1030485
+248,"Allen County,Ohio","King and Queen County,Virginia",34447,991451
+249,"Allen County,Ohio","King George County,Virginia",31954,915997
+250,"Allen County,Ohio","King William County,Virginia",33412,969248
+251,"Allen County,Ohio","Lancaster County,Virginia",35818,1012184
+252,"Allen County,Ohio","Lee County,Virginia",22200,614982
+253,"Allen County,Ohio","Loudoun County,Virginia",27693,787782
+254,"Allen County,Ohio","Louisa County,Virginia",30700,889712
+255,"Allen County,Ohio","Lunenburg County,Virginia",33709,925387
+256,"Allen County,Ohio","Madison County,Virginia",30479,830577
+257,"Allen County,Ohio","Mathews County,Virginia",36897,1067326
+258,"Allen County,Ohio","Mecklenburg County,Virginia",34700,938511
+259,"Allen County,Ohio","Middlesex County,Virginia",35673,1040103
+260,"Allen County,Ohio","Montgomery County,Virginia",23906,666642
+261,"Allen County,Ohio","Nelson County,Virginia",29000,803514
+262,"Allen County,Ohio","New Kent County,Virginia",34573,1004399
+263,"Allen County,Ohio","Northampton County,Virginia",39554,1147149
+264,"Allen County,Ohio","Northumberland County,Virginia",35858,1010697
+265,"Allen County,Ohio","Nottoway County,Virginia",33202,925766
+266,"Allen County,Ohio","Orange County,Virginia",31398,876816
+267,"Allen County,Ohio","Page County,Virginia",29020,799278
+268,"Allen County,Ohio","Patrick County,Virginia",26444,741550
+269,"Allen County,Ohio","Pittsylvania County,Virginia",30527,837443
+270,"Allen County,Ohio","Powhatan County,Virginia",32296,931838
+271,"Allen County,Ohio","Prince Edward County,Virginia",31817,883102
+272,"Allen County,Ohio","Prince George County,Virginia",34548,1004513
+273,"Allen County,Ohio","Prince William County,Virginia",28586,815148
+274,"Allen County,Ohio","Pulaski County,Virginia",24001,662973
+275,"Allen County,Ohio","Rappahannock County,Virginia",28798,794182
+276,"Allen County,Ohio","Richmond County,Virginia",34558,983340
+277,"Allen County,Ohio","Roanoke County,Virginia",25526,709435
+278,"Allen County,Ohio","Rockbridge County,Virginia",25463,729213
+279,"Allen County,Ohio","Rockingham County,Virginia",27467,741866
+280,"Allen County,Ohio","Russell County,Virginia",25924,663288
+281,"Allen County,Ohio","Scott County,Virginia",24519,662823
+282,"Allen County,Ohio","Shenandoah County,Virginia",27417,779992
+283,"Allen County,Ohio","Smyth County,Virginia",24450,692429
+284,"Allen County,Ohio","Southampton County,Virginia",36578,1062795
+285,"Allen County,Ohio","Spotsylvania County,Virginia",31365,900396
+286,"Allen County,Ohio","Stafford County,Virginia",29653,867100
+287,"Allen County,Ohio","Surry County,Virginia",35881,1029347
+288,"Allen County,Ohio","Sussex County,Virginia",35242,1033038
+289,"Allen County,Ohio","Tazewell County,Virginia",22908,645664
+290,"Allen County,Ohio","Warren County,Virginia",27341,765540
+291,"Allen County,Ohio","Washington County,Virginia",25843,731895
+292,"Allen County,Ohio","Westmoreland County,Virginia",32922,934797
+293,"Allen County,Ohio","Wise County,Virginia",22011,606074
+294,"Allen County,Ohio","Wythe County,Virginia",22697,645294
+295,"Allen County,Ohio","York County,Virginia",36425,1061260
+296,"Allen County,Ohio","Alexandria City County,Virginia",28504,830328
+297,"Allen County,Ohio","Bedford City County,Virginia",27884,769379
+298,"Allen County,Ohio","Bristol City County,Virginia",26473,704150
+299,"Allen County,Ohio","Buena Vista City County,Virginia",25818,743191
+300,"Allen County,Ohio","Charlottesville City County,Virginia",28931,839049
+301,"Allen County,Ohio","Chesapeake City County,Virginia",37888,1114165
+302,"Allen County,Ohio","Clifton Forge City County,Virginia",23674,681064
+303,"Allen County,Ohio","Colonial Heights City County,Virginia",33597,983390
+304,"Allen County,Ohio","Covington City County,Virginia",23200,664442
+305,"Allen County,Ohio","Danville City County,Virginia",30369,837691
+306,"Allen County,Ohio","Emporia City County,Virginia",35908,1053275
+307,"Allen County,Ohio","Fairfax City County,Virginia",28149,815446
+308,"Allen County,Ohio","Falls Church City County,Virginia",27697,807458
+309,"Allen County,Ohio","Franklin City County,Virginia",37126,1070650
+310,"Allen County,Ohio","Fredericksburg City County,Virginia",30466,882691
+311,"Allen County,Ohio","Galax City County,Virginia",24961,702380
+312,"Allen County,Ohio","Hampton City County,Virginia",36375,1070966
+313,"Allen County,Ohio","Harrisonburg City County,Virginia",28540,706190
+314,"Allen County,Ohio","Hopewell City County,Virginia",33634,982357
+315,"Allen County,Ohio","Lexington City County,Virginia",25452,731682
+316,"Allen County,Ohio","Lynchburg City County,Virginia",29036,806796
+317,"Allen County,Ohio","Manassas City County,Virginia",28814,820093
+318,"Allen County,Ohio","Manassas Park City County,Virginia",28889,832686
+319,"Allen County,Ohio","Martinsville City County,Virginia",28739,792028
+320,"Allen County,Ohio","Newport News City County,Virginia",35932,1057452
+321,"Allen County,Ohio","Norfolk City County,Virginia",37681,1096382
+322,"Allen County,Ohio","Norton City County,Virginia",22640,617886
+323,"Allen County,Ohio","Petersburg City County,Virginia",33469,984378
+324,"Allen County,Ohio","Poquoson City County,Virginia",36604,1068028
+325,"Allen County,Ohio","Portsmouth City County,Virginia",37621,1105203
+326,"Allen County,Ohio","Radford County,Virginia",24314,664682
+327,"Allen County,Ohio","Richmond City County,Virginia",32337,948493
+328,"Allen County,Ohio","Roanoke City County,Virginia",26128,729540
+329,"Allen County,Ohio","Salem City County,Virginia",25540,716090
+330,"Allen County,Ohio","South Boston City County,Virginia",32381,891869
+331,"Allen County,Ohio","Staunton City County,Virginia",27223,786325
+332,"Allen County,Ohio","Suffolk City County,Virginia",37856,1079984
+333,"Allen County,Ohio","Virginia Beach City County,Virginia",38242,1119640
+334,"Allen County,Ohio","Waynesboro City County,Virginia",27561,799044
+335,"Allen County,Ohio","Williamsburg City County,Virginia",34976,1029701
+336,"Allen County,Ohio","Winchester City County,Virginia",25665,721405
+337,"Allen County,Ohio","Barbour County,West Virginia",18980,492937
+338,"Allen County,Ohio","Berkeley County,West Virginia",24452,691289
+339,"Allen County,Ohio","Boone County,West Virginia",18445,493341
+340,"Allen County,Ohio","Braxton County,West Virginia",19812,519447
+341,"Allen County,Ohio","Brooke County,West Virginia",14811,388574
+342,"Allen County,Ohio","Cabell County,West Virginia",15145,394298
+343,"Allen County,Ohio","Calhoun County,West Virginia",17099,419222
+344,"Allen County,Ohio","Clay County,West Virginia",18579,490360
+345,"Allen County,Ohio","Doddridge County,West Virginia",15967,418655
+346,"Allen County,Ohio","Fayette County,West Virginia",20011,539960
+347,"Allen County,Ohio","Gilmer County,West Virginia",18154,433759
+348,"Allen County,Ohio","Grant County,West Virginia",23638,633950
+349,"Allen County,Ohio","Greenbrier County,West Virginia",23085,617999
+350,"Allen County,Ohio","Hampshire County,West Virginia",24518,664745
+351,"Allen County,Ohio","Hancock County,West Virginia",13773,353810
+352,"Allen County,Ohio","Hardy County,West Virginia",24725,666552
+353,"Allen County,Ohio","Harrison County,West Virginia",17050,451649
+354,"Allen County,Ohio","Jackson County,West Virginia",14212,362550
+355,"Allen County,Ohio","Jefferson County,West Virginia",25909,747162
+356,"Allen County,Ohio","Kanawha County,West Virginia",17319,474024
+357,"Allen County,Ohio","Lewis County,West Virginia",18743,453800
+358,"Allen County,Ohio","Lincoln County,West Virginia",17885,471632
+359,"Allen County,Ohio","Logan County,West Virginia",19374,530459
+360,"Allen County,Ohio","McDowell County,West Virginia",23682,621336
+361,"Allen County,Ohio","Marion County,West Virginia",18987,494772
+362,"Allen County,Ohio","Marshall County,West Virginia",14768,383082
+363,"Allen County,Ohio","Mason County,West Virginia",12800,368320
+364,"Allen County,Ohio","Mercer County,West Virginia",20646,585583
+365,"Allen County,Ohio","Mineral County,West Virginia",23398,639296
+366,"Allen County,Ohio","Mingo County,West Virginia",19420,534967
+367,"Allen County,Ohio","Monongalia County,West Virginia",17920,503989
+368,"Allen County,Ohio","Monroe County,West Virginia",23691,630295
+369,"Allen County,Ohio","Morgan County,West Virginia",23944,680681
+370,"Allen County,Ohio","Nicholas County,West Virginia",20295,550240
+371,"Allen County,Ohio","Ohio County,West Virginia",13830,369811
+372,"Allen County,Ohio","Pendleton County,West Virginia",25367,651459
+373,"Allen County,Ohio","Pleasants County,West Virginia",14638,387759
+374,"Allen County,Ohio","Pocahontas County,West Virginia",25624,619779
+375,"Allen County,Ohio","Preston County,West Virginia",20157,535774
+376,"Allen County,Ohio","Putnam County,West Virginia",14436,408343
+377,"Allen County,Ohio","Raleigh County,West Virginia",19187,539276
+378,"Allen County,Ohio","Randolph County,West Virginia",21045,549586
+379,"Allen County,Ohio","Ritchie County,West Virginia",15132,391697
+380,"Allen County,Ohio","Roane County,West Virginia",15838,391365
+381,"Allen County,Ohio","Summers County,West Virginia",22640,600714
+382,"Allen County,Ohio","Taylor County,West Virginia",18880,490344
+383,"Allen County,Ohio","Tucker County,West Virginia",21546,543665
+384,"Allen County,Ohio","Tyler County,West Virginia",16517,426430
+385,"Allen County,Ohio","Upshur County,West Virginia",20020,524027
+386,"Allen County,Ohio","Wayne County,West Virginia",16973,429561
+387,"Allen County,Ohio","Webster County,West Virginia",22479,577320
+388,"Allen County,Ohio","Wetzel County,West Virginia",17202,442530
+389,"Allen County,Ohio","Wirt County,West Virginia",14556,368331
+390,"Allen County,Ohio","Wood County,West Virginia",13239,343061
+391,"Allen County,Ohio","Wyoming County,West Virginia",21132,579218

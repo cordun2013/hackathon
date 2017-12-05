@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Nicholas County,Kentucky","Adair County,Kentucky",9785,252057
+1,"Nicholas County,Kentucky","Allen County,Kentucky",11880,319414
+2,"Nicholas County,Kentucky","Anderson County,Kentucky",5142,122523
+3,"Nicholas County,Kentucky","Ballard County,Kentucky",18040,511576
+4,"Nicholas County,Kentucky","Barren County,Kentucky",11007,287827
+5,"Nicholas County,Kentucky","Bath County,Kentucky",3155,55322
+6,"Nicholas County,Kentucky","Bell County,Kentucky",10238,256895
+7,"Nicholas County,Kentucky","Boone County,Kentucky",6024,119533
+8,"Nicholas County,Kentucky","Bourbon County,Kentucky",1438,29830
+9,"Nicholas County,Kentucky","Boyd County,Kentucky",6314,154680
+10,"Nicholas County,Kentucky","Boyle County,Kentucky",6214,139574
+11,"Nicholas County,Kentucky","Bracken County,Kentucky",3178,73810
+12,"Nicholas County,Kentucky","Breathitt County,Kentucky",6791,163684
+13,"Nicholas County,Kentucky","Breckinridge County,Kentucky",10675,275204
+14,"Nicholas County,Kentucky","Bullitt County,Kentucky",7245,196323
+15,"Nicholas County,Kentucky","Butler County,Kentucky",11259,296484
+16,"Nicholas County,Kentucky","Caldwell County,Kentucky",14151,402429
+17,"Nicholas County,Kentucky","Calloway County,Kentucky",16961,487422
+18,"Nicholas County,Kentucky","Campbell County,Kentucky",4360,86958
+19,"Nicholas County,Kentucky","Carlisle County,Kentucky",18497,526945
+20,"Nicholas County,Kentucky","Carroll County,Kentucky",6864,137199
+21,"Nicholas County,Kentucky","Carter County,Kentucky",5451,123936
+22,"Nicholas County,Kentucky","Casey County,Kentucky",8139,169703
+23,"Nicholas County,Kentucky","Christian County,Kentucky",13800,397686
+24,"Nicholas County,Kentucky","Clay County,Kentucky",8469,215939
+25,"Nicholas County,Kentucky","Clinton County,Kentucky",10192,255423
+26,"Nicholas County,Kentucky","Crittenden County,Kentucky",15731,435500
+27,"Nicholas County,Kentucky","Cumberland County,Kentucky",10946,273662
+28,"Nicholas County,Kentucky","Daviess County,Kentucky",12282,342927
+29,"Nicholas County,Kentucky","Edmonson County,Kentucky",10700,284359
+30,"Nicholas County,Kentucky","Elliott County,Kentucky",6175,117525
+31,"Nicholas County,Kentucky","Estill County,Kentucky",4887,100491
+32,"Nicholas County,Kentucky","Fayette County,Kentucky",2868,59298
+33,"Nicholas County,Kentucky","Fleming County,Kentucky",2260,46040
+34,"Nicholas County,Kentucky","Floyd County,Kentucky",8977,223715
+35,"Nicholas County,Kentucky","Franklin County,Kentucky",5049,97321
+36,"Nicholas County,Kentucky","Fulton County,Kentucky",18901,547909
+37,"Nicholas County,Kentucky","Gallatin County,Kentucky",5858,106298
+38,"Nicholas County,Kentucky","Garrard County,Kentucky",5997,139743
+39,"Nicholas County,Kentucky","Grant County,Kentucky",4657,80405
+40,"Nicholas County,Kentucky","Graves County,Kentucky",17521,499651
+41,"Nicholas County,Kentucky","Grayson County,Kentucky",9587,253120
+42,"Nicholas County,Kentucky","Green County,Kentucky",9366,218325
+43,"Nicholas County,Kentucky","Greenup County,Kentucky",5752,138747
+44,"Nicholas County,Kentucky","Hancock County,Kentucky",11471,308097
+45,"Nicholas County,Kentucky","Hardin County,Kentucky",8463,215253
+46,"Nicholas County,Kentucky","Harlan County,Kentucky",12533,312500
+47,"Nicholas County,Kentucky","Harrison County,Kentucky",2140,32232
+48,"Nicholas County,Kentucky","Hart County,Kentucky",9262,242881
+49,"Nicholas County,Kentucky","Henderson County,Kentucky",14170,396074
+50,"Nicholas County,Kentucky","Henry County,Kentucky",6588,152650
+51,"Nicholas County,Kentucky","Hickman County,Kentucky",18530,528236
+52,"Nicholas County,Kentucky","Hopkins County,Kentucky",13610,376898
+53,"Nicholas County,Kentucky","Jackson County,Kentucky",6981,159725
+54,"Nicholas County,Kentucky","Jefferson County,Kentucky",6682,168184
+55,"Nicholas County,Kentucky","Jessamine County,Kentucky",4414,87521
+56,"Nicholas County,Kentucky","Johnson County,Kentucky",7931,199708
+57,"Nicholas County,Kentucky","Kenton County,Kentucky",5911,115249
+58,"Nicholas County,Kentucky","Knott County,Kentucky",9250,227063
+59,"Nicholas County,Kentucky","Knox County,Kentucky",8400,218635
+60,"Nicholas County,Kentucky","Larue County,Kentucky",8535,202429
+61,"Nicholas County,Kentucky","Laurel County,Kentucky",7251,190030
+62,"Nicholas County,Kentucky","Lawrence County,Kentucky",8317,181815
+63,"Nicholas County,Kentucky","Lee County,Kentucky",6040,140141
+64,"Nicholas County,Kentucky","Leslie County,Kentucky",10279,245229
+65,"Nicholas County,Kentucky","Letcher County,Kentucky",10503,252035
+66,"Nicholas County,Kentucky","Lewis County,Kentucky",4326,84777
+67,"Nicholas County,Kentucky","Lincoln County,Kentucky",6706,156661
+68,"Nicholas County,Kentucky","Livingston County,Kentucky",16327,452396
+69,"Nicholas County,Kentucky","Logan County,Kentucky",13000,339723
+70,"Nicholas County,Kentucky","Lyon County,Kentucky",16460,462787
+71,"Nicholas County,Kentucky","McCracken County,Kentucky",16652,479636
+72,"Nicholas County,Kentucky","McCreary County,Kentucky",9356,234472
+73,"Nicholas County,Kentucky","Madison County,Kentucky",4390,103612
+74,"Nicholas County,Kentucky","Magoffin County,Kentucky",7400,181575
+75,"Nicholas County,Kentucky","Marion County,Kentucky",6912,164038
+76,"Nicholas County,Kentucky","Marshall County,Kentucky",16067,463208
+77,"Nicholas County,Kentucky","Martin County,Kentucky",10185,247558
+78,"Nicholas County,Kentucky","Mason County,Kentucky",2490,52013
+79,"Nicholas County,Kentucky","Meade County,Kentucky",9142,240499
+80,"Nicholas County,Kentucky","Menifee County,Kentucky",4516,80451
+81,"Nicholas County,Kentucky","Mercer County,Kentucky",5289,119749
+82,"Nicholas County,Kentucky","Metcalfe County,Kentucky",10441,282322
+83,"Nicholas County,Kentucky","Monroe County,Kentucky",12473,282235
+84,"Nicholas County,Kentucky","Montgomery County,Kentucky",3273,55455
+85,"Nicholas County,Kentucky","Morgan County,Kentucky",6043,119248
+86,"Nicholas County,Kentucky","Muhlenberg County,Kentucky",12470,343374
+87,"Nicholas County,Kentucky","Nelson County,Kentucky",6520,163109
+88,"Nicholas County,Kentucky","Ohio County,Kentucky",11383,310963
+89,"Nicholas County,Kentucky","Oldham County,Kentucky",6753,180065
+90,"Nicholas County,Kentucky","Owen County,Kentucky",5231,84141
+91,"Nicholas County,Kentucky","Owsley County,Kentucky",7186,160118
+92,"Nicholas County,Kentucky","Pendleton County,Kentucky",3539,67605
+93,"Nicholas County,Kentucky","Perry County,Kentucky",8402,203567
+94,"Nicholas County,Kentucky","Pike County,Kentucky",10657,254039
+95,"Nicholas County,Kentucky","Powell County,Kentucky",4401,98809
+96,"Nicholas County,Kentucky","Robertson County,Kentucky",1387,28955
+97,"Nicholas County,Kentucky","Rockcastle County,Kentucky",5824,144755
+98,"Nicholas County,Kentucky","Rowan County,Kentucky",3746,79402
+99,"Nicholas County,Kentucky","Russell County,Kentucky",9389,236041
+100,"Nicholas County,Kentucky","Scott County,Kentucky",3278,67896
+101,"Nicholas County,Kentucky","Shelby County,Kentucky",5610,139318
+102,"Nicholas County,Kentucky","Simpson County,Kentucky",12581,347780
+103,"Nicholas County,Kentucky","Spencer County,Kentucky",6140,145166
+104,"Nicholas County,Kentucky","Taylor County,Kentucky",8202,195534
+105,"Nicholas County,Kentucky","Todd County,Kentucky",14236,363883
+106,"Nicholas County,Kentucky","Trigg County,Kentucky",15214,423615
+107,"Nicholas County,Kentucky","Trimble County,Kentucky",7762,160523
+108,"Nicholas County,Kentucky","Union County,Kentucky",15889,426520
+109,"Nicholas County,Kentucky","Warren County,Kentucky",11616,312728
+110,"Nicholas County,Kentucky","Washington County,Kentucky",6530,148346
+111,"Nicholas County,Kentucky","Wayne County,Kentucky",9565,233114
+112,"Nicholas County,Kentucky","Webster County,Kentucky",14719,404986
+113,"Nicholas County,Kentucky","Whitley County,Kentucky",8084,224515
+114,"Nicholas County,Kentucky","Wolfe County,Kentucky",5665,136681
+115,"Nicholas County,Kentucky","Woodford County,Kentucky",4003,90678
+116,"Nicholas County,Kentucky","Adams County,Ohio",4919,98746
+117,"Nicholas County,Kentucky","Allen County,Ohio",13128,352383
+118,"Nicholas County,Kentucky","Ashland County,Ohio",15288,387854
+119,"Nicholas County,Kentucky","Ashtabula County,Ohio",21034,572606
+120,"Nicholas County,Kentucky","Athens County,Ohio",10452,247451
+121,"Nicholas County,Kentucky","Auglaize County,Ohio",12384,339647
+122,"Nicholas County,Kentucky","Belmont County,Ohio",16626,434286
+123,"Nicholas County,Kentucky","Brown County,Ohio",3905,86992
+124,"Nicholas County,Kentucky","Butler County,Ohio",8206,202257
+125,"Nicholas County,Kentucky","Carroll County,Ohio",18590,471509
+126,"Nicholas County,Kentucky","Champaign County,Ohio",11224,238199
+127,"Nicholas County,Kentucky","Clark County,Ohio",10012,211029
+128,"Nicholas County,Kentucky","Clermont County,Ohio",5726,128392
+129,"Nicholas County,Kentucky","Clinton County,Ohio",6602,146881
+130,"Nicholas County,Kentucky","Columbiana County,Ohio",20147,507098
+131,"Nicholas County,Kentucky","Coshocton County,Ohio",15149,366926
+132,"Nicholas County,Kentucky","Crawford County,Ohio",14902,356312
+133,"Nicholas County,Kentucky","Cuyahoga County,Ohio",17606,470319
+134,"Nicholas County,Kentucky","Darke County,Ohio",11482,296694
+135,"Nicholas County,Kentucky","Defiance County,Ohio",16616,430813
+136,"Nicholas County,Kentucky","Delaware County,Ohio",12205,294526
+137,"Nicholas County,Kentucky","Fairfield County,Ohio",11565,255159
+138,"Nicholas County,Kentucky","Fayette County,Ohio",8058,171178
+139,"Nicholas County,Kentucky","Franklin County,Ohio",10722,254453
+140,"Nicholas County,Kentucky","Fulton County,Ohio",17379,447756
+141,"Nicholas County,Kentucky","Gallia County,Ohio",9348,219628
+142,"Nicholas County,Kentucky","Geauga County,Ohio",19134,509537
+143,"Nicholas County,Kentucky","Greene County,Ohio",8425,182811
+144,"Nicholas County,Kentucky","Guernsey County,Ohio",14355,367967
+145,"Nicholas County,Kentucky","Hamilton County,Ohio",6860,166741
+146,"Nicholas County,Kentucky","Hancock County,Ohio",14237,393278
+147,"Nicholas County,Kentucky","Hardin County,Ohio",14025,377675
+148,"Nicholas County,Kentucky","Harrison County,Ohio",17596,453575
+149,"Nicholas County,Kentucky","Henry County,Ohio",15961,417746
+150,"Nicholas County,Kentucky","Highland County,Ohio",6052,132194
+151,"Nicholas County,Kentucky","Hocking County,Ohio",11175,241447
+152,"Nicholas County,Kentucky","Holmes County,Ohio",16699,403784
+153,"Nicholas County,Kentucky","Huron County,Ohio",16435,386625
+154,"Nicholas County,Kentucky","Jackson County,Ohio",7849,181821
+155,"Nicholas County,Kentucky","Jefferson County,Ohio",18589,463353
+156,"Nicholas County,Kentucky","Knox County,Ohio",14655,354148
+157,"Nicholas County,Kentucky","Lawrence County,Ohio",7839,179189
+158,"Nicholas County,Kentucky","Licking County,Ohio",12987,309371
+159,"Nicholas County,Kentucky","Logan County,Ohio",12397,326366
+160,"Nicholas County,Kentucky","Lorain County,Ohio",18220,445279
+161,"Nicholas County,Kentucky","Lucas County,Ohio",17562,479798
+162,"Nicholas County,Kentucky","Madison County,Ohio",10142,231122
+163,"Nicholas County,Kentucky","Mahoning County,Ohio",20004,524238
+164,"Nicholas County,Kentucky","Marion County,Ohio",13462,315142
+165,"Nicholas County,Kentucky","Medina County,Ohio",15933,412867
+166,"Nicholas County,Kentucky","Meigs County,Ohio",11132,259266
+167,"Nicholas County,Kentucky","Mercer County,Ohio",13620,366581
+168,"Nicholas County,Kentucky","Miami County,Ohio",9970,262086
+169,"Nicholas County,Kentucky","Monroe County,Ohio",16824,400252
+170,"Nicholas County,Kentucky","Montgomery County,Ohio",9353,239826
+171,"Nicholas County,Kentucky","Morgan County,Ohio",13571,307498
+172,"Nicholas County,Kentucky","Morrow County,Ohio",13012,317347
+173,"Nicholas County,Kentucky","Muskingum County,Ohio",13205,334123
+174,"Nicholas County,Kentucky","Noble County,Ohio",15330,383413
+175,"Nicholas County,Kentucky","Paulding County,Ohio",15659,415360
+176,"Nicholas County,Kentucky","Perry County,Ohio",12747,272402
+177,"Nicholas County,Kentucky","Pickaway County,Ohio",9777,221562
+178,"Nicholas County,Kentucky","Pike County,Ohio",6625,146806
+179,"Nicholas County,Kentucky","Portage County,Ohio",18455,484017
+180,"Nicholas County,Kentucky","Preble County,Ohio",10250,246656
+181,"Nicholas County,Kentucky","Putnam County,Ohio",14303,384850
+182,"Nicholas County,Kentucky","Richland County,Ohio",14042,352585
+183,"Nicholas County,Kentucky","Ross County,Ohio",8521,187868
+184,"Nicholas County,Kentucky","Sandusky County,Ohio",17277,473354
+185,"Nicholas County,Kentucky","Scioto County,Ohio",6492,150768
+186,"Nicholas County,Kentucky","Seneca County,Ohio",16453,389984
+187,"Nicholas County,Kentucky","Shelby County,Ohio",11009,298372
+188,"Nicholas County,Kentucky","Stark County,Ohio",18200,468400
+189,"Nicholas County,Kentucky","Summit County,Ohio",17136,448194
+190,"Nicholas County,Kentucky","Trumbull County,Ohio",20036,534509
+191,"Nicholas County,Kentucky","Tuscarawas County,Ohio",16650,427332
+192,"Nicholas County,Kentucky","Union County,Ohio",11723,257757
+193,"Nicholas County,Kentucky","Van Wert County,Ohio",14293,384906
+194,"Nicholas County,Kentucky","Vinton County,Ohio",10225,221664
+195,"Nicholas County,Kentucky","Warren County,Ohio",7701,163144
+196,"Nicholas County,Kentucky","Washington County,Ohio",13484,327548
+197,"Nicholas County,Kentucky","Wayne County,Ohio",15661,401865
+198,"Nicholas County,Kentucky","Williams County,Ohio",17793,454329
+199,"Nicholas County,Kentucky","Wood County,Ohio",15325,433906
+200,"Nicholas County,Kentucky","Wyandot County,Ohio",15049,361540
+201,"Nicholas County,Kentucky","Accomack County,Virginia",36399,1028548
+202,"Nicholas County,Kentucky","Albemarle County,Virginia",22549,641048
+203,"Nicholas County,Kentucky","Alleghany County,Virginia",17218,478071
+204,"Nicholas County,Kentucky","Amelia County,Virginia",27250,741166
+205,"Nicholas County,Kentucky","Amherst County,Virginia",22547,609036
+206,"Nicholas County,Kentucky","Appomattox County,Virginia",24140,647795
+207,"Nicholas County,Kentucky","Arlington County,Virginia",28832,837079
+208,"Nicholas County,Kentucky","Augusta County,Virginia",21160,579387
+209,"Nicholas County,Kentucky","Bath County,Virginia",20230,553380
+210,"Nicholas County,Kentucky","Bedford County,Virginia",22807,595161
+211,"Nicholas County,Kentucky","Bland County,Virginia",16180,444290
+212,"Nicholas County,Kentucky","Botetourt County,Virginia",20372,549370
+213,"Nicholas County,Kentucky","Brunswick County,Virginia",29793,790839
+214,"Nicholas County,Kentucky","Buchanan County,Virginia",14709,333545
+215,"Nicholas County,Kentucky","Buckingham County,Virginia",24423,658731
+216,"Nicholas County,Kentucky","Campbell County,Virginia",24064,650267
+217,"Nicholas County,Kentucky","Caroline County,Virginia",27888,809893
+218,"Nicholas County,Kentucky","Carroll County,Virginia",18426,513728
+219,"Nicholas County,Kentucky","Charles City County,Virginia",27989,806928
+220,"Nicholas County,Kentucky","Charlotte County,Virginia",26025,701316
+221,"Nicholas County,Kentucky","Chesterfield County,Virginia",27125,784712
+222,"Nicholas County,Kentucky","Clarke County,Virginia",26729,768105
+223,"Nicholas County,Kentucky","Craig County,Virginia",18861,499155
+224,"Nicholas County,Kentucky","Culpeper County,Virginia",26346,730264
+225,"Nicholas County,Kentucky","Cumberland County,Virginia",25632,686733
+226,"Nicholas County,Kentucky","Dickenson County,Virginia",14063,318981
+227,"Nicholas County,Kentucky","Dinwiddie County,Virginia",28872,835143
+228,"Nicholas County,Kentucky","Essex County,Virginia",29706,833936
+229,"Nicholas County,Kentucky","Fairfax County,Virginia",28523,827747
+230,"Nicholas County,Kentucky","Fauquier County,Virginia",27167,789357
+231,"Nicholas County,Kentucky","Floyd County,Virginia",20046,532692
+232,"Nicholas County,Kentucky","Fluvanna County,Virginia",24227,693219
+233,"Nicholas County,Kentucky","Franklin County,Virginia",22319,596395
+234,"Nicholas County,Kentucky","Frederick County,Virginia",25394,682240
+235,"Nicholas County,Kentucky","Giles County,Virginia",16911,455848
+236,"Nicholas County,Kentucky","Gloucester County,Virginia",30159,861116
+237,"Nicholas County,Kentucky","Goochland County,Virginia",25130,723830
+238,"Nicholas County,Kentucky","Grayson County,Virginia",18828,503435
+239,"Nicholas County,Kentucky","Greene County,Virginia",24542,676632
+240,"Nicholas County,Kentucky","Greensville County,Virginia",30288,883895
+241,"Nicholas County,Kentucky","Halifax County,Virginia",26729,711415
+242,"Nicholas County,Kentucky","Hanover County,Virginia",26337,764937
+243,"Nicholas County,Kentucky","Henrico County,Virginia",26848,777897
+244,"Nicholas County,Kentucky","Henry County,Virginia",22299,600449
+245,"Nicholas County,Kentucky","Highland County,Virginia",21674,563351
+246,"Nicholas County,Kentucky","Isle of Wight County,Virginia",31100,882474
+247,"Nicholas County,Kentucky","James City County,Virginia",29225,847699
+248,"Nicholas County,Kentucky","King and Queen County,Virginia",28883,823283
+249,"Nicholas County,Kentucky","King George County,Virginia",29001,837879
+250,"Nicholas County,Kentucky","King William County,Virginia",27570,793205
+251,"Nicholas County,Kentucky","Lancaster County,Virginia",31363,876290
+252,"Nicholas County,Kentucky","Lee County,Virginia",13330,333453
+253,"Nicholas County,Kentucky","Loudoun County,Virginia",28225,803972
+254,"Nicholas County,Kentucky","Louisa County,Virginia",24788,706925
+255,"Nicholas County,Kentucky","Lunenburg County,Virginia",27797,742600
+256,"Nicholas County,Kentucky","Madison County,Virginia",25462,706372
+257,"Nicholas County,Kentucky","Mathews County,Virginia",30984,884540
+258,"Nicholas County,Kentucky","Mecklenburg County,Virginia",28788,755724
+259,"Nicholas County,Kentucky","Middlesex County,Virginia",29761,857316
+260,"Nicholas County,Kentucky","Montgomery County,Virginia",17994,483855
+261,"Nicholas County,Kentucky","Nelson County,Virginia",23088,620727
+262,"Nicholas County,Kentucky","New Kent County,Virginia",28661,821613
+263,"Nicholas County,Kentucky","Northampton County,Virginia",33642,964362
+264,"Nicholas County,Kentucky","Northumberland County,Virginia",31403,874803
+265,"Nicholas County,Kentucky","Nottoway County,Virginia",27290,742980
+266,"Nicholas County,Kentucky","Orange County,Virginia",25750,715033
+267,"Nicholas County,Kentucky","Page County,Virginia",24395,690157
+268,"Nicholas County,Kentucky","Patrick County,Virginia",20531,558763
+269,"Nicholas County,Kentucky","Pittsylvania County,Virginia",24615,654657
+270,"Nicholas County,Kentucky","Powhatan County,Virginia",26384,749052
+271,"Nicholas County,Kentucky","Prince Edward County,Virginia",25905,700315
+272,"Nicholas County,Kentucky","Prince George County,Virginia",28635,821727
+273,"Nicholas County,Kentucky","Prince William County,Virginia",27267,795461
+274,"Nicholas County,Kentucky","Pulaski County,Virginia",18089,480187
+275,"Nicholas County,Kentucky","Rappahannock County,Virginia",26226,726645
+276,"Nicholas County,Kentucky","Richmond County,Virginia",30103,847446
+277,"Nicholas County,Kentucky","Roanoke County,Virginia",19613,526649
+278,"Nicholas County,Kentucky","Rockbridge County,Virginia",19551,546427
+279,"Nicholas County,Kentucky","Rockingham County,Virginia",23435,662508
+280,"Nicholas County,Kentucky","Russell County,Virginia",16240,352094
+281,"Nicholas County,Kentucky","Scott County,Virginia",15539,366434
+282,"Nicholas County,Kentucky","Shenandoah County,Virginia",23939,692611
+283,"Nicholas County,Kentucky","Smyth County,Virginia",18350,434582
+284,"Nicholas County,Kentucky","Southampton County,Virginia",30666,880009
+285,"Nicholas County,Kentucky","Spotsylvania County,Virginia",26804,748764
+286,"Nicholas County,Kentucky","Stafford County,Virginia",28185,773057
+287,"Nicholas County,Kentucky","Surry County,Virginia",29968,846560
+288,"Nicholas County,Kentucky","Sussex County,Virginia",29330,850251
+289,"Nicholas County,Kentucky","Tazewell County,Virginia",16953,390319
+290,"Nicholas County,Kentucky","Warren County,Virginia",25841,737204
+291,"Nicholas County,Kentucky","Washington County,Virginia",16461,385699
+292,"Nicholas County,Kentucky","Westmoreland County,Virginia",29975,854704
+293,"Nicholas County,Kentucky","Wise County,Virginia",12327,294880
+294,"Nicholas County,Kentucky","Wythe County,Virginia",16785,462507
+295,"Nicholas County,Kentucky","York County,Virginia",30512,878473
+296,"Nicholas County,Kentucky","Alexandria City County,Virginia",29348,854261
+297,"Nicholas County,Kentucky","Bedford City County,Virginia",21971,586593
+298,"Nicholas County,Kentucky","Bristol City County,Virginia",17301,406585
+299,"Nicholas County,Kentucky","Buena Vista City County,Virginia",19906,560404
+300,"Nicholas County,Kentucky","Charlottesville City County,Virginia",23018,656262
+301,"Nicholas County,Kentucky","Chesapeake City County,Virginia",31975,931379
+302,"Nicholas County,Kentucky","Clifton Forge City County,Virginia",17762,498277
+303,"Nicholas County,Kentucky","Colonial Heights City County,Virginia",27685,800604
+304,"Nicholas County,Kentucky","Covington City County,Virginia",17287,481656
+305,"Nicholas County,Kentucky","Danville City County,Virginia",24456,654904
+306,"Nicholas County,Kentucky","Emporia City County,Virginia",29995,870488
+307,"Nicholas County,Kentucky","Fairfax City County,Virginia",28399,821208
+308,"Nicholas County,Kentucky","Falls Church City County,Virginia",28540,831391
+309,"Nicholas County,Kentucky","Franklin City County,Virginia",31213,887863
+310,"Nicholas County,Kentucky","Fredericksburg City County,Virginia",27937,758423
+311,"Nicholas County,Kentucky","Galax City County,Virginia",19049,519594
+312,"Nicholas County,Kentucky","Hampton City County,Virginia",30462,888179
+313,"Nicholas County,Kentucky","Harrisonburg City County,Virginia",22494,642404
+314,"Nicholas County,Kentucky","Hopewell City County,Virginia",27721,799570
+315,"Nicholas County,Kentucky","Lexington City County,Virginia",19540,548895
+316,"Nicholas County,Kentucky","Lynchburg City County,Virginia",23123,624010
+317,"Nicholas County,Kentucky","Manassas City County,Virginia",27494,800405
+318,"Nicholas County,Kentucky","Manassas Park City County,Virginia",27996,806748
+319,"Nicholas County,Kentucky","Martinsville City County,Virginia",22827,609242
+320,"Nicholas County,Kentucky","Newport News City County,Virginia",30019,874665
+321,"Nicholas County,Kentucky","Norfolk City County,Virginia",31769,913595
+322,"Nicholas County,Kentucky","Norton City County,Virginia",12956,306692
+323,"Nicholas County,Kentucky","Petersburg City County,Virginia",27556,801592
+324,"Nicholas County,Kentucky","Poquoson City County,Virginia",30691,885242
+325,"Nicholas County,Kentucky","Portsmouth City County,Virginia",31708,922416
+326,"Nicholas County,Kentucky","Radford County,Virginia",18401,481896
+327,"Nicholas County,Kentucky","Richmond City County,Virginia",26424,765707
+328,"Nicholas County,Kentucky","Roanoke City County,Virginia",20216,546754
+329,"Nicholas County,Kentucky","Salem City County,Virginia",19627,533303
+330,"Nicholas County,Kentucky","South Boston City County,Virginia",26469,709083
+331,"Nicholas County,Kentucky","Staunton City County,Virginia",21311,603539
+332,"Nicholas County,Kentucky","Suffolk City County,Virginia",31943,897198
+333,"Nicholas County,Kentucky","Virginia Beach City County,Virginia",32330,936854
+334,"Nicholas County,Kentucky","Waynesboro City County,Virginia",21649,616257
+335,"Nicholas County,Kentucky","Williamsburg City County,Virginia",29063,846914
+336,"Nicholas County,Kentucky","Winchester City County,Virginia",25873,716241
+337,"Nicholas County,Kentucky","Barbour County,West Virginia",17354,476937
+338,"Nicholas County,Kentucky","Berkeley County,West Virginia",25287,715097
+339,"Nicholas County,Kentucky","Boone County,West Virginia",12533,310554
+340,"Nicholas County,Kentucky","Braxton County,West Virginia",14044,367917
+341,"Nicholas County,Kentucky","Brooke County,West Virginia",18705,476534
+342,"Nicholas County,Kentucky","Cabell County,West Virginia",7104,177063
+343,"Nicholas County,Kentucky","Calhoun County,West Virginia",13965,365601
+344,"Nicholas County,Kentucky","Clay County,West Virginia",12811,338829
+345,"Nicholas County,Kentucky","Doddridge County,West Virginia",15823,394134
+346,"Nicholas County,Kentucky","Fayette County,West Virginia",14098,357174
+347,"Nicholas County,Kentucky","Gilmer County,West Virginia",15243,390103
+348,"Nicholas County,Kentucky","Grant County,West Virginia",21709,578483
+349,"Nicholas County,Kentucky","Greenbrier County,West Virginia",17172,435212
+350,"Nicholas County,Kentucky","Hampshire County,West Virginia",24541,676700
+351,"Nicholas County,Kentucky","Hancock County,West Virginia",20294,511070
+352,"Nicholas County,Kentucky","Hardy County,West Virginia",22765,609980
+353,"Nicholas County,Kentucky","Harrison County,West Virginia",16587,463308
+354,"Nicholas County,Kentucky","Jackson County,West Virginia",11849,319933
+355,"Nicholas County,Kentucky","Jefferson County,West Virginia",26753,771095
+356,"Nicholas County,Kentucky","Kanawha County,West Virginia",11407,291237
+357,"Nicholas County,Kentucky","Lewis County,West Virginia",15217,416778
+358,"Nicholas County,Kentucky","Lincoln County,West Virginia",10321,234713
+359,"Nicholas County,Kentucky","Logan County,West Virginia",12851,307041
+360,"Nicholas County,Kentucky","McDowell County,West Virginia",17257,380106
+361,"Nicholas County,Kentucky","Marion County,West Virginia",17733,490475
+362,"Nicholas County,Kentucky","Marshall County,West Virginia",18662,471042
+363,"Nicholas County,Kentucky","Mason County,West Virginia",10086,267807
+364,"Nicholas County,Kentucky","Mercer County,West Virginia",14733,402797
+365,"Nicholas County,Kentucky","Mineral County,West Virginia",23404,607303
+366,"Nicholas County,Kentucky","Mingo County,West Virginia",11535,273494
+367,"Nicholas County,Kentucky","Monongalia County,West Virginia",17943,515944
+368,"Nicholas County,Kentucky","Monroe County,West Virginia",17779,447508
+369,"Nicholas County,Kentucky","Morgan County,West Virginia",24778,704488
+370,"Nicholas County,Kentucky","Nicholas County,West Virginia",14527,398710
+371,"Nicholas County,Kentucky","Ohio County,West Virginia",17723,457771
+372,"Nicholas County,Kentucky","Pendleton County,West Virginia",22040,581107
+373,"Nicholas County,Kentucky","Pleasants County,West Virginia",14712,353653
+374,"Nicholas County,Kentucky","Pocahontas County,West Virginia",19856,468249
+375,"Nicholas County,Kentucky","Preston County,West Virginia",20089,542675
+376,"Nicholas County,Kentucky","Putnam County,West Virginia",8787,229840
+377,"Nicholas County,Kentucky","Raleigh County,West Virginia",13275,356489
+378,"Nicholas County,Kentucky","Randolph County,West Virginia",17718,479233
+379,"Nicholas County,Kentucky","Ritchie County,West Virginia",14988,367176
+380,"Nicholas County,Kentucky","Roane County,West Virginia",13475,348748
+381,"Nicholas County,Kentucky","Summers County,West Virginia",16727,417927
+382,"Nicholas County,Kentucky","Taylor County,West Virginia",17625,486048
+383,"Nicholas County,Kentucky","Tucker County,West Virginia",18785,509758
+384,"Nicholas County,Kentucky","Tyler County,West Virginia",16621,393269
+385,"Nicholas County,Kentucky","Upshur County,West Virginia",16782,431475
+386,"Nicholas County,Kentucky","Wayne County,West Virginia",8635,198258
+387,"Nicholas County,Kentucky","Webster County,West Virginia",16711,425790
+388,"Nicholas County,Kentucky","Wetzel County,West Virginia",17834,415175
+389,"Nicholas County,Kentucky","Wirt County,West Virginia",14115,377271
+390,"Nicholas County,Kentucky","Wood County,West Virginia",13094,318541
+391,"Nicholas County,Kentucky","Wyoming County,West Virginia",15219,396431

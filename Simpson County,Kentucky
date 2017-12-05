@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Simpson County,Kentucky","Adair County,Kentucky",5341,154188
+1,"Simpson County,Kentucky","Allen County,Kentucky",2389,46147
+2,"Simpson County,Kentucky","Anderson County,Kentucky",8683,248307
+3,"Simpson County,Kentucky","Ballard County,Kentucky",9771,257797
+4,"Simpson County,Kentucky","Barren County,Kentucky",3752,101882
+5,"Simpson County,Kentucky","Bath County,Kentucky",12374,365576
+6,"Simpson County,Kentucky","Bell County,Kentucky",13312,350348
+7,"Simpson County,Kentucky","Boone County,Kentucky",12805,368972
+8,"Simpson County,Kentucky","Bourbon County,Kentucky",11439,320086
+9,"Simpson County,Kentucky","Boyd County,Kentucky",15632,467032
+10,"Simpson County,Kentucky","Boyle County,Kentucky",9194,256226
+11,"Simpson County,Kentucky","Bracken County,Kentucky",14647,382925
+12,"Simpson County,Kentucky","Breathitt County,Kentucky",15146,406029
+13,"Simpson County,Kentucky","Breckinridge County,Kentucky",6432,160663
+14,"Simpson County,Kentucky","Bullitt County,Kentucky",6639,192382
+15,"Simpson County,Kentucky","Butler County,Kentucky",2578,66036
+16,"Simpson County,Kentucky","Caldwell County,Kentucky",6634,153885
+17,"Simpson County,Kentucky","Calloway County,Kentucky",7572,189630
+18,"Simpson County,Kentucky","Campbell County,Kentucky",13675,398675
+19,"Simpson County,Kentucky","Carlisle County,Kentucky",10228,273165
+20,"Simpson County,Kentucky","Carroll County,Kentucky",10288,302749
+21,"Simpson County,Kentucky","Carter County,Kentucky",14769,436289
+22,"Simpson County,Kentucky","Casey County,Kentucky",7941,207224
+23,"Simpson County,Kentucky","Christian County,Kentucky",3859,97117
+24,"Simpson County,Kentucky","Clay County,Kentucky",11476,309377
+25,"Simpson County,Kentucky","Clinton County,Kentucky",7292,182717
+26,"Simpson County,Kentucky","Crittenden County,Kentucky",8213,186955
+27,"Simpson County,Kentucky","Cumberland County,Kentucky",6451,158816
+28,"Simpson County,Kentucky","Daviess County,Kentucky",5012,139829
+29,"Simpson County,Kentucky","Edmonson County,Kentucky",3403,83003
+30,"Simpson County,Kentucky","Elliott County,Kentucky",15545,427551
+31,"Simpson County,Kentucky","Estill County,Kentucky",12243,333344
+32,"Simpson County,Kentucky","Fayette County,Kentucky",10001,290311
+33,"Simpson County,Kentucky","Fleming County,Kentucky",13803,395795
+34,"Simpson County,Kentucky","Floyd County,Kentucky",15494,420541
+35,"Simpson County,Kentucky","Franklin County,Kentucky",10342,286999
+36,"Simpson County,Kentucky","Fulton County,Kentucky",10632,294129
+37,"Simpson County,Kentucky","Gallatin County,Kentucky",10998,322074
+38,"Simpson County,Kentucky","Garrard County,Kentucky",10084,278661
+39,"Simpson County,Kentucky","Grant County,Kentucky",12364,347527
+40,"Simpson County,Kentucky","Graves County,Kentucky",9252,228976
+41,"Simpson County,Kentucky","Grayson County,Kentucky",4793,111306
+42,"Simpson County,Kentucky","Green County,Kentucky",5385,134173
+43,"Simpson County,Kentucky","Greenup County,Kentucky",16237,463619
+44,"Simpson County,Kentucky","Hancock County,Kentucky",6022,152560
+45,"Simpson County,Kentucky","Hardin County,Kentucky",5797,159077
+46,"Simpson County,Kentucky","Harlan County,Kentucky",15606,405954
+47,"Simpson County,Kentucky","Harrison County,Kentucky",12210,337032
+48,"Simpson County,Kentucky","Hart County,Kentucky",4119,111494
+49,"Simpson County,Kentucky","Henderson County,Kentucky",6919,196249
+50,"Simpson County,Kentucky","Henry County,Kentucky",9963,283497
+51,"Simpson County,Kentucky","Hickman County,Kentucky",10262,274457
+52,"Simpson County,Kentucky","Hopkins County,Kentucky",6194,157378
+53,"Simpson County,Kentucky","Jackson County,Kentucky",11206,303729
+54,"Simpson County,Kentucky","Jefferson County,Kentucky",7896,223888
+55,"Simpson County,Kentucky","Jessamine County,Kentucky",10131,287971
+56,"Simpson County,Kentucky","Johnson County,Kentucky",16115,465780
+57,"Simpson County,Kentucky","Kenton County,Kentucky",12691,364688
+58,"Simpson County,Kentucky","Knott County,Kentucky",14278,390083
+59,"Simpson County,Kentucky","Knox County,Kentucky",11544,303259
+60,"Simpson County,Kentucky","Larue County,Kentucky",5392,144220
+61,"Simpson County,Kentucky","Laurel County,Kentucky",10285,274129
+62,"Simpson County,Kentucky","Lawrence County,Kentucky",17635,494168
+63,"Simpson County,Kentucky","Lee County,Kentucky",13212,342111
+64,"Simpson County,Kentucky","Leslie County,Kentucky",13426,360501
+65,"Simpson County,Kentucky","Letcher County,Kentucky",15449,412087
+66,"Simpson County,Kentucky","Lewis County,Kentucky",15327,433935
+67,"Simpson County,Kentucky","Lincoln County,Kentucky",8909,256965
+68,"Simpson County,Kentucky","Livingston County,Kentucky",8102,211735
+69,"Simpson County,Kentucky","Logan County,Kentucky",1531,36396
+70,"Simpson County,Kentucky","Lyon County,Kentucky",7819,188884
+71,"Simpson County,Kentucky","McCracken County,Kentucky",8384,225857
+72,"Simpson County,Kentucky","McCreary County,Kentucky",9595,267034
+73,"Simpson County,Kentucky","Madison County,Kentucky",10800,302119
+74,"Simpson County,Kentucky","Magoffin County,Kentucky",15584,447647
+75,"Simpson County,Kentucky","Marion County,Kentucky",8127,192693
+76,"Simpson County,Kentucky","Marshall County,Kentucky",7798,209429
+77,"Simpson County,Kentucky","Martin County,Kentucky",18585,486813
+78,"Simpson County,Kentucky","Mason County,Kentucky",14568,391652
+79,"Simpson County,Kentucky","Meade County,Kentucky",7841,177998
+80,"Simpson County,Kentucky","Menifee County,Kentucky",13648,378114
+81,"Simpson County,Kentucky","Mercer County,Kentucky",9042,255102
+82,"Simpson County,Kentucky","Metcalfe County,Kentucky",4315,124533
+83,"Simpson County,Kentucky","Monroe County,Kentucky",5070,130561
+84,"Simpson County,Kentucky","Montgomery County,Kentucky",12292,356023
+85,"Simpson County,Kentucky","Morgan County,Kentucky",14974,435932
+86,"Simpson County,Kentucky","Muhlenberg County,Kentucky",4009,89428
+87,"Simpson County,Kentucky","Nelson County,Kentucky",6534,190587
+88,"Simpson County,Kentucky","Nicholas County,Kentucky",12695,347468
+89,"Simpson County,Kentucky","Ohio County,Kentucky",4113,107866
+90,"Simpson County,Kentucky","Oldham County,Kentucky",8689,250796
+91,"Simpson County,Kentucky","Owen County,Kentucky",11684,319173
+92,"Simpson County,Kentucky","Owsley County,Kentucky",12505,325231
+93,"Simpson County,Kentucky","Pendleton County,Kentucky",13630,383392
+94,"Simpson County,Kentucky","Perry County,Kentucky",13660,369202
+95,"Simpson County,Kentucky","Pike County,Kentucky",18055,473541
+96,"Simpson County,Kentucky","Powell County,Kentucky",12585,364881
+97,"Simpson County,Kentucky","Robertson County,Kentucky",13466,368594
+98,"Simpson County,Kentucky","Rockcastle County,Kentucky",9771,265870
+99,"Simpson County,Kentucky","Rowan County,Kentucky",13115,389428
+100,"Simpson County,Kentucky","Russell County,Kentucky",6449,182396
+101,"Simpson County,Kentucky","Scott County,Kentucky",11020,318958
+102,"Simpson County,Kentucky","Shelby County,Kentucky",9026,258080
+103,"Simpson County,Kentucky","Spencer County,Kentucky",8054,228335
+104,"Simpson County,Kentucky","Taylor County,Kentucky",6756,160670
+105,"Simpson County,Kentucky","Todd County,Kentucky",2706,66452
+106,"Simpson County,Kentucky","Trigg County,Kentucky",5394,127737
+107,"Simpson County,Kentucky","Trimble County,Kentucky",10088,290596
+108,"Simpson County,Kentucky","Union County,Kentucky",8663,233351
+109,"Simpson County,Kentucky","Warren County,Kentucky",1580,35468
+110,"Simpson County,Kentucky","Washington County,Kentucky",8366,231207
+111,"Simpson County,Kentucky","Wayne County,Kentucky",8693,212916
+112,"Simpson County,Kentucky","Webster County,Kentucky",7303,185467
+113,"Simpson County,Kentucky","Whitley County,Kentucky",10928,299112
+114,"Simpson County,Kentucky","Wolfe County,Kentucky",13849,402753
+115,"Simpson County,Kentucky","Woodford County,Kentucky",9257,270569
+116,"Simpson County,Kentucky","Adams County,Ohio",16569,475332
+117,"Simpson County,Kentucky","Allen County,Ohio",20111,590581
+118,"Simpson County,Kentucky","Ashland County,Ohio",23299,692459
+119,"Simpson County,Kentucky","Ashtabula County,Ohio",29046,877211
+120,"Simpson County,Kentucky","Athens County,Ohio",21763,621675
+121,"Simpson County,Kentucky","Auglaize County,Ohio",19367,577846
+122,"Simpson County,Kentucky","Belmont County,Ohio",24637,738891
+123,"Simpson County,Kentucky","Brown County,Ohio",15822,451887
+124,"Simpson County,Kentucky","Butler County,Ohio",15188,440455
+125,"Simpson County,Kentucky","Carroll County,Ohio",26602,776115
+126,"Simpson County,Kentucky","Champaign County,Ohio",18145,532028
+127,"Simpson County,Kentucky","Clark County,Ohio",17573,518661
+128,"Simpson County,Kentucky","Clermont County,Ohio",13939,411634
+129,"Simpson County,Kentucky","Clinton County,Ohio",16033,462940
+130,"Simpson County,Kentucky","Columbiana County,Ohio",28158,811704
+131,"Simpson County,Kentucky","Coshocton County,Ohio",23160,671532
+132,"Simpson County,Kentucky","Crawford County,Ohio",22837,684432
+133,"Simpson County,Kentucky","Cuyahoga County,Ohio",25617,774924
+134,"Simpson County,Kentucky","Darke County,Ohio",18464,534893
+135,"Simpson County,Kentucky","Defiance County,Ohio",22870,671112
+136,"Simpson County,Kentucky","Delaware County,Ohio",20217,599131
+137,"Simpson County,Kentucky","Fairfield County,Ohio",19620,582380
+138,"Simpson County,Kentucky","Fayette County,Ohio",16932,500545
+139,"Simpson County,Kentucky","Franklin County,Ohio",18734,559059
+140,"Simpson County,Kentucky","Fulton County,Ohio",24304,713691
+141,"Simpson County,Kentucky","Gallia County,Ohio",19917,567404
+142,"Simpson County,Kentucky","Geauga County,Ohio",27146,814143
+143,"Simpson County,Kentucky","Greene County,Ohio",16360,472294
+144,"Simpson County,Kentucky","Guernsey County,Ohio",22366,672572
+145,"Simpson County,Kentucky","Hamilton County,Ohio",13843,404940
+146,"Simpson County,Kentucky","Hancock County,Ohio",21220,631477
+147,"Simpson County,Kentucky","Hardin County,Ohio",21007,615874
+148,"Simpson County,Kentucky","Harrison County,Ohio",25607,758180
+149,"Simpson County,Kentucky","Henry County,Ohio",22944,655945
+150,"Simpson County,Kentucky","Highland County,Ohio",16882,474586
+151,"Simpson County,Kentucky","Hocking County,Ohio",21058,625785
+152,"Simpson County,Kentucky","Holmes County,Ohio",24711,708390
+153,"Simpson County,Kentucky","Huron County,Ohio",24446,691230
+154,"Simpson County,Kentucky","Jackson County,Ohio",19160,556044
+155,"Simpson County,Kentucky","Jefferson County,Ohio",26600,767958
+156,"Simpson County,Kentucky","Knox County,Ohio",22666,658753
+157,"Simpson County,Kentucky","Lawrence County,Ohio",18038,503461
+158,"Simpson County,Kentucky","Licking County,Ohio",20999,613976
+159,"Simpson County,Kentucky","Logan County,Ohio",19379,564565
+160,"Simpson County,Kentucky","Lorain County,Ohio",26231,749884
+161,"Simpson County,Kentucky","Lucas County,Ohio",24545,717997
+162,"Simpson County,Kentucky","Madison County,Ohio",18154,535728
+163,"Simpson County,Kentucky","Mahoning County,Ohio",28015,828843
+164,"Simpson County,Kentucky","Marion County,Ohio",21263,606566
+165,"Simpson County,Kentucky","Medina County,Ohio",23945,717472
+166,"Simpson County,Kentucky","Meigs County,Ohio",20849,597787
+167,"Simpson County,Kentucky","Mercer County,Ohio",20602,604780
+168,"Simpson County,Kentucky","Miami County,Ohio",16953,500285
+169,"Simpson County,Kentucky","Monroe County,Ohio",26043,753456
+170,"Simpson County,Kentucky","Montgomery County,Ohio",16336,478025
+171,"Simpson County,Kentucky","Morgan County,Ohio",23432,681068
+172,"Simpson County,Kentucky","Morrow County,Ohio",21024,621952
+173,"Simpson County,Kentucky","Muskingum County,Ohio",21217,638728
+174,"Simpson County,Kentucky","Noble County,Ohio",24066,709692
+175,"Simpson County,Kentucky","Paulding County,Ohio",21803,636031
+176,"Simpson County,Kentucky","Perry County,Ohio",21286,627312
+177,"Simpson County,Kentucky","Pickaway County,Ohio",18869,549141
+178,"Simpson County,Kentucky","Pike County,Ohio",17936,521029
+179,"Simpson County,Kentucky","Portage County,Ohio",26467,788622
+180,"Simpson County,Kentucky","Preble County,Ohio",17233,484854
+181,"Simpson County,Kentucky","Putnam County,Ohio",21285,623049
+182,"Simpson County,Kentucky","Richland County,Ohio",22054,657191
+183,"Simpson County,Kentucky","Ross County,Ohio",18513,548458
+184,"Simpson County,Kentucky","Sandusky County,Ohio",24260,711553
+185,"Simpson County,Kentucky","Scioto County,Ohio",18319,502151
+186,"Simpson County,Kentucky","Seneca County,Ohio",23564,687816
+187,"Simpson County,Kentucky","Shelby County,Ohio",17991,536571
+188,"Simpson County,Kentucky","Stark County,Ohio",26212,773005
+189,"Simpson County,Kentucky","Summit County,Ohio",25148,752800
+190,"Simpson County,Kentucky","Trumbull County,Ohio",28048,839114
+191,"Simpson County,Kentucky","Tuscarawas County,Ohio",24661,731937
+192,"Simpson County,Kentucky","Union County,Ohio",19506,561949
+193,"Simpson County,Kentucky","Van Wert County,Ohio",21276,623105
+194,"Simpson County,Kentucky","Vinton County,Ohio",20695,597211
+195,"Simpson County,Kentucky","Warren County,Ohio",14722,431196
+196,"Simpson County,Kentucky","Washington County,Ohio",23886,669737
+197,"Simpson County,Kentucky","Wayne County,Ohio",23672,706470
+198,"Simpson County,Kentucky","Williams County,Ohio",23860,690993
+199,"Simpson County,Kentucky","Wood County,Ohio",22308,672105
+200,"Simpson County,Kentucky","Wyandot County,Ohio",21915,652357
+201,"Simpson County,Kentucky","Accomack County,Virginia",45199,1287523
+202,"Simpson County,Kentucky","Albemarle County,Virginia",31349,900022
+203,"Simpson County,Kentucky","Alleghany County,Virginia",26536,790423
+204,"Simpson County,Kentucky","Amelia County,Virginia",33921,938877
+205,"Simpson County,Kentucky","Amherst County,Virginia",30823,844937
+206,"Simpson County,Kentucky","Appomattox County,Virginia",30998,858546
+207,"Simpson County,Kentucky","Arlington County,Virginia",38033,1100332
+208,"Simpson County,Kentucky","Augusta County,Virginia",30478,891740
+209,"Simpson County,Kentucky","Bath County,Virginia",29548,865733
+210,"Simpson County,Kentucky","Bedford County,Virginia",28731,789856
+211,"Simpson County,Kentucky","Bland County,Virginia",22747,639458
+212,"Simpson County,Kentucky","Botetourt County,Virginia",27587,773921
+213,"Simpson County,Kentucky","Brunswick County,Virginia",35479,1003600
+214,"Simpson County,Kentucky","Buchanan County,Virginia",21581,521358
+215,"Simpson County,Kentucky","Buckingham County,Virginia",32112,882456
+216,"Simpson County,Kentucky","Campbell County,Virginia",30147,831091
+217,"Simpson County,Kentucky","Caroline County,Virginia",36688,1068868
+218,"Simpson County,Kentucky","Carroll County,Virginia",23691,670803
+219,"Simpson County,Kentucky","Charles City County,Virginia",36789,1065902
+220,"Simpson County,Kentucky","Charlotte County,Virginia",32696,899028
+221,"Simpson County,Kentucky","Chesterfield County,Virginia",35615,977767
+222,"Simpson County,Kentucky","Clarke County,Virginia",35529,1027080
+223,"Simpson County,Kentucky","Craig County,Virginia",26986,751490
+224,"Simpson County,Kentucky","Culpeper County,Virginia",35146,989239
+225,"Simpson County,Kentucky","Cumberland County,Virginia",33526,919688
+226,"Simpson County,Kentucky","Dickenson County,Virginia",19008,479033
+227,"Simpson County,Kentucky","Dinwiddie County,Virginia",35694,981939
+228,"Simpson County,Kentucky","Essex County,Virginia",38506,1092910
+229,"Simpson County,Kentucky","Fairfax County,Virginia",37656,1090607
+230,"Simpson County,Kentucky","Fauquier County,Virginia",35967,1048332
+231,"Simpson County,Kentucky","Floyd County,Virginia",25583,710903
+232,"Simpson County,Kentucky","Fluvanna County,Virginia",33027,952194
+233,"Simpson County,Kentucky","Franklin County,Virginia",28244,791090
+234,"Simpson County,Kentucky","Frederick County,Virginia",34712,994592
+235,"Simpson County,Kentucky","Giles County,Virginia",25528,697532
+236,"Simpson County,Kentucky","Gloucester County,Virginia",38959,1120091
+237,"Simpson County,Kentucky","Goochland County,Virginia",33930,982805
+238,"Simpson County,Kentucky","Grayson County,Virginia",23424,633970
+239,"Simpson County,Kentucky","Greene County,Virginia",33342,935606
+240,"Simpson County,Kentucky","Greensville County,Virginia",36675,1021019
+241,"Simpson County,Kentucky","Halifax County,Virginia",31994,868490
+242,"Simpson County,Kentucky","Hanover County,Virginia",35137,1023912
+243,"Simpson County,Kentucky","Henrico County,Virginia",35648,1036871
+244,"Simpson County,Kentucky","Henry County,Virginia",27564,757524
+245,"Simpson County,Kentucky","Highland County,Virginia",30992,875703
+246,"Simpson County,Kentucky","Isle of Wight County,Virginia",39814,1082059
+247,"Simpson County,Kentucky","James City County,Virginia",38025,1106673
+248,"Simpson County,Kentucky","King and Queen County,Virginia",37683,1082257
+249,"Simpson County,Kentucky","King George County,Virginia",37801,1096854
+250,"Simpson County,Kentucky","King William County,Virginia",36370,1052180
+251,"Simpson County,Kentucky","Lancaster County,Virginia",40163,1135265
+252,"Simpson County,Kentucky","Lee County,Virginia",16404,426907
+253,"Simpson County,Kentucky","Loudoun County,Virginia",37025,1062947
+254,"Simpson County,Kentucky","Louisa County,Virginia",33588,965900
+255,"Simpson County,Kentucky","Lunenburg County,Virginia",34468,940312
+256,"Simpson County,Kentucky","Madison County,Virginia",34262,965347
+257,"Simpson County,Kentucky","Mathews County,Virginia",39784,1143514
+258,"Simpson County,Kentucky","Mecklenburg County,Virginia",34026,920036
+259,"Simpson County,Kentucky","Middlesex County,Virginia",38561,1116291
+260,"Simpson County,Kentucky","Montgomery County,Virginia",24757,701408
+261,"Simpson County,Kentucky","Nelson County,Virginia",31374,875334
+262,"Simpson County,Kentucky","New Kent County,Virginia",37461,1080587
+263,"Simpson County,Kentucky","Northampton County,Virginia",42442,1223337
+264,"Simpson County,Kentucky","Northumberland County,Virginia",40203,1133777
+265,"Simpson County,Kentucky","Nottoway County,Virginia",33961,940692
+266,"Simpson County,Kentucky","Orange County,Virginia",34550,974007
+267,"Simpson County,Kentucky","Page County,Virginia",33195,949132
+268,"Simpson County,Kentucky","Patrick County,Virginia",25796,715839
+269,"Simpson County,Kentucky","Pittsylvania County,Virginia",29880,811732
+270,"Simpson County,Kentucky","Powhatan County,Virginia",35023,954394
+271,"Simpson County,Kentucky","Prince Edward County,Virginia",32576,898027
+272,"Simpson County,Kentucky","Prince George County,Virginia",37349,1021313
+273,"Simpson County,Kentucky","Prince William County,Virginia",36067,1054435
+274,"Simpson County,Kentucky","Pulaski County,Virginia",23434,662224
+275,"Simpson County,Kentucky","Rappahannock County,Virginia",35026,985619
+276,"Simpson County,Kentucky","Richmond County,Virginia",38903,1106421
+277,"Simpson County,Kentucky","Roanoke County,Virginia",25538,721344
+278,"Simpson County,Kentucky","Rockbridge County,Virginia",29035,817992
+279,"Simpson County,Kentucky","Rockingham County,Virginia",32234,921482
+280,"Simpson County,Kentucky","Russell County,Virginia",21540,531855
+281,"Simpson County,Kentucky","Scott County,Virginia",18723,474748
+282,"Simpson County,Kentucky","Shenandoah County,Virginia",32739,951586
+283,"Simpson County,Kentucky","Smyth County,Virginia",20703,573673
+284,"Simpson County,Kentucky","Southampton County,Virginia",38291,1078542
+285,"Simpson County,Kentucky","Spotsylvania County,Virginia",35604,1007738
+286,"Simpson County,Kentucky","Stafford County,Virginia",36985,1032031
+287,"Simpson County,Kentucky","Surry County,Virginia",38768,1105535
+288,"Simpson County,Kentucky","Sussex County,Virginia",37575,1069321
+289,"Simpson County,Kentucky","Tazewell County,Virginia",22766,614743
+290,"Simpson County,Kentucky","Warren County,Virginia",34641,996179
+291,"Simpson County,Kentucky","Washington County,Virginia",19814,537758
+292,"Simpson County,Kentucky","Westmoreland County,Virginia",38775,1113679
+293,"Simpson County,Kentucky","Wise County,Virginia",17273,454932
+294,"Simpson County,Kentucky","Wythe County,Virginia",21917,616133
+295,"Simpson County,Kentucky","York County,Virginia",39312,1137448
+296,"Simpson County,Kentucky","Alexandria City County,Virginia",38236,1112978
+297,"Simpson County,Kentucky","Bedford City County,Virginia",27895,781288
+298,"Simpson County,Kentucky","Bristol City County,Virginia",18413,505741
+299,"Simpson County,Kentucky","Buena Vista City County,Virginia",28407,810480
+300,"Simpson County,Kentucky","Charlottesville City County,Virginia",31818,915237
+301,"Simpson County,Kentucky","Chesapeake City County,Virginia",40775,1190353
+302,"Simpson County,Kentucky","Clifton Forge City County,Virginia",27079,810630
+303,"Simpson County,Kentucky","Colonial Heights City County,Virginia",36484,1059579
+304,"Simpson County,Kentucky","Covington City County,Virginia",26605,794009
+305,"Simpson County,Kentucky","Danville City County,Virginia",29722,811980
+306,"Simpson County,Kentucky","Emporia City County,Virginia",36831,1035207
+307,"Simpson County,Kentucky","Fairfax City County,Virginia",37199,1080183
+308,"Simpson County,Kentucky","Falls Church City County,Virginia",37531,1094655
+309,"Simpson County,Kentucky","Franklin City County,Virginia",38918,1091677
+310,"Simpson County,Kentucky","Fredericksburg City County,Virginia",36737,1017398
+311,"Simpson County,Kentucky","Galax City County,Virginia",24314,676669
+312,"Simpson County,Kentucky","Hampton City County,Virginia",39262,1147154
+313,"Simpson County,Kentucky","Harrisonburg City County,Virginia",31294,901379
+314,"Simpson County,Kentucky","Hopewell City County,Virginia",36521,1058545
+315,"Simpson County,Kentucky","Lexington City County,Virginia",28321,808807
+316,"Simpson County,Kentucky","Lynchburg City County,Virginia",29920,826163
+317,"Simpson County,Kentucky","Manassas City County,Virginia",36294,1059380
+318,"Simpson County,Kentucky","Manassas Park City County,Virginia",36796,1065723
+319,"Simpson County,Kentucky","Martinsville City County,Virginia",28092,766317
+320,"Simpson County,Kentucky","Newport News City County,Virginia",38819,1133640
+321,"Simpson County,Kentucky","Norfolk City County,Virginia",40569,1172570
+322,"Simpson County,Kentucky","Norton City County,Virginia",17901,466744
+323,"Simpson County,Kentucky","Petersburg City County,Virginia",36352,1003916
+324,"Simpson County,Kentucky","Poquoson City County,Virginia",39491,1144216
+325,"Simpson County,Kentucky","Portsmouth City County,Virginia",40508,1181391
+326,"Simpson County,Kentucky","Radford County,Virginia",23944,676172
+327,"Simpson County,Kentucky","Richmond City County,Virginia",35224,1024682
+328,"Simpson County,Kentucky","Roanoke City County,Virginia",26140,741449
+329,"Simpson County,Kentucky","Salem City County,Virginia",25551,727999
+330,"Simpson County,Kentucky","South Boston City County,Virginia",31734,866158
+331,"Simpson County,Kentucky","Staunton City County,Virginia",30111,862514
+332,"Simpson County,Kentucky","Suffolk City County,Virginia",40234,1124979
+333,"Simpson County,Kentucky","Virginia Beach City County,Virginia",41130,1195828
+334,"Simpson County,Kentucky","Waynesboro City County,Virginia",30449,875232
+335,"Simpson County,Kentucky","Williamsburg City County,Virginia",37863,1105889
+336,"Simpson County,Kentucky","Winchester City County,Virginia",34860,1010951
+337,"Simpson County,Kentucky","Barbour County,West Virginia",26672,789290
+338,"Simpson County,Kentucky","Berkeley County,West Virginia",34605,1027449
+339,"Simpson County,Kentucky","Boone County,West Virginia",21851,622907
+340,"Simpson County,Kentucky","Braxton County,West Virginia",23362,680269
+341,"Simpson County,Kentucky","Brooke County,West Virginia",26716,781139
+342,"Simpson County,Kentucky","Cabell County,West Virginia",16422,489416
+343,"Simpson County,Kentucky","Calhoun County,West Virginia",23283,677954
+344,"Simpson County,Kentucky","Clay County,West Virginia",22129,651182
+345,"Simpson County,Kentucky","Doddridge County,West Virginia",25815,770799
+346,"Simpson County,Kentucky","Fayette County,West Virginia",23416,669527
+347,"Simpson County,Kentucky","Gilmer County,West Virginia",24561,702456
+348,"Simpson County,Kentucky","Grant County,West Virginia",31027,890835
+349,"Simpson County,Kentucky","Greenbrier County,West Virginia",26490,747565
+350,"Simpson County,Kentucky","Hampshire County,West Virginia",33859,989053
+351,"Simpson County,Kentucky","Hancock County,West Virginia",28306,815675
+352,"Simpson County,Kentucky","Hardy County,West Virginia",32082,922333
+353,"Simpson County,Kentucky","Harrison County,West Virginia",25905,775661
+354,"Simpson County,Kentucky","Jackson County,West Virginia",21167,632286
+355,"Simpson County,Kentucky","Jefferson County,West Virginia",36070,1083447
+356,"Simpson County,Kentucky","Kanawha County,West Virginia",20724,603590
+357,"Simpson County,Kentucky","Lewis County,West Virginia",24535,729131
+358,"Simpson County,Kentucky","Lincoln County,West Virginia",19639,547066
+359,"Simpson County,Kentucky","Logan County,West Virginia",21571,563831
+360,"Simpson County,Kentucky","McDowell County,West Virginia",24919,596913
+361,"Simpson County,Kentucky","Marion County,West Virginia",27051,802828
+362,"Simpson County,Kentucky","Marshall County,West Virginia",26673,775647
+363,"Simpson County,Kentucky","Mason County,West Virginia",19403,580160
+364,"Simpson County,Kentucky","Mercer County,West Virginia",24051,715149
+365,"Simpson County,Kentucky","Mineral County,West Virginia",32721,919656
+366,"Simpson County,Kentucky","Mingo County,West Virginia",20255,530284
+367,"Simpson County,Kentucky","Monongalia County,West Virginia",27261,828296
+368,"Simpson County,Kentucky","Monroe County,West Virginia",26912,739136
+369,"Simpson County,Kentucky","Morgan County,West Virginia",34096,1016841
+370,"Simpson County,Kentucky","Nicholas County,West Virginia",23845,711063
+371,"Simpson County,Kentucky","Ohio County,West Virginia",25735,762376
+372,"Simpson County,Kentucky","Pendleton County,West Virginia",31358,893460
+373,"Simpson County,Kentucky","Pleasants County,West Virginia",24649,730137
+374,"Simpson County,Kentucky","Pocahontas County,West Virginia",29174,780602
+375,"Simpson County,Kentucky","Preston County,West Virginia",29407,855027
+376,"Simpson County,Kentucky","Putnam County,West Virginia",18105,542193
+377,"Simpson County,Kentucky","Raleigh County,West Virginia",22592,668842
+378,"Simpson County,Kentucky","Randolph County,West Virginia",27036,791586
+379,"Simpson County,Kentucky","Ritchie County,West Virginia",24980,743841
+380,"Simpson County,Kentucky","Roane County,West Virginia",22792,661101
+381,"Simpson County,Kentucky","Summers County,West Virginia",26045,730280
+382,"Simpson County,Kentucky","Taylor County,West Virginia",26943,798400
+383,"Simpson County,Kentucky","Tucker County,West Virginia",28103,822110
+384,"Simpson County,Kentucky","Tyler County,West Virginia",26558,769753
+385,"Simpson County,Kentucky","Upshur County,West Virginia",26100,743828
+386,"Simpson County,Kentucky","Wayne County,West Virginia",17953,510611
+387,"Simpson County,Kentucky","Webster County,West Virginia",26029,738142
+388,"Simpson County,Kentucky","Wetzel County,West Virginia",27771,791659
+389,"Simpson County,Kentucky","Wirt County,West Virginia",23433,689623
+390,"Simpson County,Kentucky","Wood County,West Virginia",22948,691313
+391,"Simpson County,Kentucky","Wyoming County,West Virginia",24541,602771

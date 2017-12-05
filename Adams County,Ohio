@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Adams County,Ohio","Adair County,Kentucky",14053,342965
+1,"Adams County,Ohio","Allen County,Kentucky",15932,450167
+2,"Adams County,Ohio","Anderson County,Kentucky",9410,213430
+3,"Adams County,Ohio","Ballard County,Kentucky",22092,642329
+4,"Adams County,Ohio","Barren County,Kentucky",15059,418579
+5,"Adams County,Ohio","Bath County,Kentucky",6160,116454
+6,"Adams County,Ohio","Bell County,Kentucky",14507,347802
+7,"Adams County,Ohio","Boone County,Kentucky",5626,126751
+8,"Adams County,Ohio","Bourbon County,Kentucky",5706,120737
+9,"Adams County,Ohio","Boyd County,Kentucky",6499,131207
+10,"Adams County,Ohio","Boyle County,Kentucky",10483,230482
+11,"Adams County,Ohio","Bracken County,Kentucky",4151,78416
+12,"Adams County,Ohio","Breathitt County,Kentucky",10463,227517
+13,"Adams County,Ohio","Breckinridge County,Kentucky",13971,368731
+14,"Adams County,Ohio","Bullitt County,Kentucky",10508,289562
+15,"Adams County,Ohio","Butler County,Kentucky",15311,427237
+16,"Adams County,Ohio","Caldwell County,Kentucky",18203,533182
+17,"Adams County,Ohio","Calloway County,Kentucky",21013,618175
+18,"Adams County,Ohio","Campbell County,Kentucky",5255,115905
+19,"Adams County,Ohio","Carlisle County,Kentucky",22549,657697
+20,"Adams County,Ohio","Carroll County,Kentucky",7200,188516
+21,"Adams County,Ohio","Carter County,Kentucky",6895,147681
+22,"Adams County,Ohio","Casey County,Kentucky",12407,260610
+23,"Adams County,Ohio","Christian County,Kentucky",17852,528439
+24,"Adams County,Ohio","Clay County,Kentucky",12854,266261
+25,"Adams County,Ohio","Clinton County,Kentucky",14460,346330
+26,"Adams County,Ohio","Crittenden County,Kentucky",19783,566253
+27,"Adams County,Ohio","Cumberland County,Kentucky",15214,364569
+28,"Adams County,Ohio","Daviess County,Kentucky",15284,432049
+29,"Adams County,Ohio","Edmonson County,Kentucky",14751,415112
+30,"Adams County,Ohio","Elliott County,Kentucky",8162,150080
+31,"Adams County,Ohio","Estill County,Kentucky",8499,167897
+32,"Adams County,Ohio","Fayette County,Kentucky",7137,150205
+33,"Adams County,Ohio","Fleming County,Kentucky",4248,78595
+34,"Adams County,Ohio","Floyd County,Kentucky",11084,263475
+35,"Adams County,Ohio","Franklin County,Kentucky",9317,188229
+36,"Adams County,Ohio","Fulton County,Kentucky",22953,678662
+37,"Adams County,Ohio","Gallatin County,Kentucky",6411,160930
+38,"Adams County,Ohio","Garrard County,Kentucky",10265,230650
+39,"Adams County,Ohio","Grant County,Kentucky",6478,161403
+40,"Adams County,Ohio","Graves County,Kentucky",21573,630404
+41,"Adams County,Ohio","Grayson County,Kentucky",13639,383873
+42,"Adams County,Ohio","Green County,Kentucky",13635,309233
+43,"Adams County,Ohio","Greenup County,Kentucky",4881,95139
+44,"Adams County,Ohio","Hancock County,Kentucky",14169,386567
+45,"Adams County,Ohio","Hardin County,Kentucky",12515,346006
+46,"Adams County,Ohio","Harlan County,Kentucky",16801,403407
+47,"Adams County,Ohio","Harrison County,Kentucky",6593,130321
+48,"Adams County,Ohio","Hart County,Kentucky",13314,373634
+49,"Adams County,Ohio","Henderson County,Kentucky",16868,474544
+50,"Adams County,Ohio","Henry County,Kentucky",8385,216839
+51,"Adams County,Ohio","Hickman County,Kentucky",22582,658989
+52,"Adams County,Ohio","Hopkins County,Kentucky",17662,507650
+53,"Adams County,Ohio","Jackson County,Kentucky",11171,215906
+54,"Adams County,Ohio","Jefferson County,Kentucky",9601,258998
+55,"Adams County,Ohio","Jessamine County,Kentucky",8682,178429
+56,"Adams County,Ohio","Johnson County,Kentucky",9733,229106
+57,"Adams County,Ohio","Kenton County,Kentucky",4995,114445
+58,"Adams County,Ohio","Knott County,Kentucky",12266,295357
+59,"Adams County,Ohio","Knox County,Kentucky",12668,309543
+60,"Adams County,Ohio","Larue County,Kentucky",12585,349605
+61,"Adams County,Ohio","Laurel County,Kentucky",11519,280938
+62,"Adams County,Ohio","Lawrence County,Kentucky",8874,200530
+63,"Adams County,Ohio","Lee County,Kentucky",9713,203974
+64,"Adams County,Ohio","Leslie County,Kentucky",13952,309062
+65,"Adams County,Ohio","Letcher County,Kentucky",14176,315868
+66,"Adams County,Ohio","Lewis County,Kentucky",5108,90251
+67,"Adams County,Ohio","Lincoln County,Kentucky",10975,247568
+68,"Adams County,Ohio","Livingston County,Kentucky",20379,583149
+69,"Adams County,Ohio","Logan County,Kentucky",17052,470475
+70,"Adams County,Ohio","Lyon County,Kentucky",20512,593540
+71,"Adams County,Ohio","McCracken County,Kentucky",20704,610389
+72,"Adams County,Ohio","McCreary County,Kentucky",13624,325379
+73,"Adams County,Ohio","Madison County,Kentucky",8658,194520
+74,"Adams County,Ohio","Magoffin County,Kentucky",10120,193796
+75,"Adams County,Ohio","Marion County,Kentucky",11181,254945
+76,"Adams County,Ohio","Marshall County,Kentucky",20118,593961
+77,"Adams County,Ohio","Martin County,Kentucky",10360,232875
+78,"Adams County,Ohio","Mason County,Kentucky",3696,57294
+79,"Adams County,Ohio","Meade County,Kentucky",12048,326239
+80,"Adams County,Ohio","Menifee County,Kentucky",7522,141582
+81,"Adams County,Ohio","Mercer County,Kentucky",9557,210656
+82,"Adams County,Ohio","Metcalfe County,Kentucky",14709,373229
+83,"Adams County,Ohio","Monroe County,Kentucky",16406,462255
+84,"Adams County,Ohio","Montgomery County,Kentucky",6658,127657
+85,"Adams County,Ohio","Morgan County,Kentucky",8124,158906
+86,"Adams County,Ohio","Muhlenberg County,Kentucky",16522,474126
+87,"Adams County,Ohio","Nelson County,Kentucky",10789,254017
+88,"Adams County,Ohio","Nicholas County,Kentucky",4885,98736
+89,"Adams County,Ohio","Ohio County,Kentucky",15435,441716
+90,"Adams County,Ohio","Oldham County,Kentucky",8500,229944
+91,"Adams County,Ohio","Owen County,Kentucky",7643,187318
+92,"Adams County,Ohio","Owsley County,Kentucky",10859,223951
+93,"Adams County,Ohio","Pendleton County,Kentucky",6088,119340
+94,"Adams County,Ohio","Perry County,Kentucky",12075,267400
+95,"Adams County,Ohio","Pike County,Kentucky",12764,293800
+96,"Adams County,Ohio","Powell County,Kentucky",7949,154660
+97,"Adams County,Ohio","Robertson County,Kentucky",4805,79709
+98,"Adams County,Ohio","Rockcastle County,Kentucky",10092,235662
+99,"Adams County,Ohio","Rowan County,Kentucky",5733,111957
+100,"Adams County,Ohio","Russell County,Kentucky",13658,326948
+101,"Adams County,Ohio","Scott County,Kentucky",7407,195924
+102,"Adams County,Ohio","Shelby County,Kentucky",9756,243830
+103,"Adams County,Ohio","Simpson County,Kentucky",16633,478533
+104,"Adams County,Ohio","Spencer County,Kentucky",10408,236074
+105,"Adams County,Ohio","Taylor County,Kentucky",12470,286441
+106,"Adams County,Ohio","Todd County,Kentucky",18288,494636
+107,"Adams County,Ohio","Trigg County,Kentucky",19266,554368
+108,"Adams County,Ohio","Trimble County,Kentucky",8098,211840
+109,"Adams County,Ohio","Union County,Kentucky",18587,504991
+110,"Adams County,Ohio","Warren County,Kentucky",15668,443481
+111,"Adams County,Ohio","Washington County,Kentucky",10799,239253
+112,"Adams County,Ohio","Wayne County,Kentucky",13834,324021
+113,"Adams County,Ohio","Webster County,Kentucky",18511,511166
+114,"Adams County,Ohio","Whitley County,Kentucky",12352,315422
+115,"Adams County,Ohio","Wolfe County,Kentucky",9219,182268
+116,"Adams County,Ohio","Woodford County,Kentucky",8271,181586
+117,"Adams County,Ohio","Allen County,Ohio",10867,292854
+118,"Adams County,Ohio","Ashland County,Ohio",11804,305840
+119,"Adams County,Ohio","Ashtabula County,Ohio",17550,490591
+120,"Adams County,Ohio","Athens County,Ohio",6152,156627
+121,"Adams County,Ohio","Auglaize County,Ohio",10124,280119
+122,"Adams County,Ohio","Belmont County,Ohio",12880,345111
+123,"Adams County,Ohio","Brown County,Ohio",2399,43210
+124,"Adams County,Ohio","Butler County,Ohio",5945,142728
+125,"Adams County,Ohio","Carroll County,Ohio",14845,382335
+126,"Adams County,Ohio","Champaign County,Ohio",8061,161116
+127,"Adams County,Ohio","Clark County,Ohio",6831,129494
+128,"Adams County,Ohio","Clermont County,Ohio",3053,68374
+129,"Adams County,Ohio","Clinton County,Ohio",3967,86911
+130,"Adams County,Ohio","Columbiana County,Ohio",16663,425084
+131,"Adams County,Ohio","Coshocton County,Ohio",11404,277752
+132,"Adams County,Ohio","Crawford County,Ohio",11418,274298
+133,"Adams County,Ohio","Cuyahoga County,Ohio",14122,388305
+134,"Adams County,Ohio","Darke County,Ohio",9221,237166
+135,"Adams County,Ohio","Defiance County,Ohio",14355,371284
+136,"Adams County,Ohio","Delaware County,Ohio",8721,212512
+137,"Adams County,Ohio","Fairfield County,Ohio",7265,164335
+138,"Adams County,Ohio","Fayette County,Ohio",4877,89643
+139,"Adams County,Ohio","Franklin County,Ohio",7238,172439
+140,"Adams County,Ohio","Fulton County,Ohio",15118,388228
+141,"Adams County,Ohio","Gallia County,Ohio",5048,128804
+142,"Adams County,Ohio","Geauga County,Ohio",15650,427523
+143,"Adams County,Ohio","Greene County,Ohio",5413,108123
+144,"Adams County,Ohio","Guernsey County,Ohio",10609,278792
+145,"Adams County,Ohio","Hamilton County,Ohio",5210,123771
+146,"Adams County,Ohio","Hancock County,Ohio",11977,333750
+147,"Adams County,Ohio","Hardin County,Ohio",11247,269981
+148,"Adams County,Ohio","Harrison County,Ohio",13850,364401
+149,"Adams County,Ohio","Henry County,Ohio",13701,358218
+150,"Adams County,Ohio","Highland County,Ohio",2812,50222
+151,"Adams County,Ohio","Hocking County,Ohio",6875,150623
+152,"Adams County,Ohio","Holmes County,Ohio",12954,314610
+153,"Adams County,Ohio","Huron County,Ohio",12951,304610
+154,"Adams County,Ohio","Jackson County,Ohio",3549,90997
+155,"Adams County,Ohio","Jefferson County,Ohio",14844,374178
+156,"Adams County,Ohio","Knox County,Ohio",11171,272133
+157,"Adams County,Ohio","Lawrence County,Ohio",6605,132129
+158,"Adams County,Ohio","Licking County,Ohio",9242,220197
+159,"Adams County,Ohio","Logan County,Ohio",9716,196834
+160,"Adams County,Ohio","Lorain County,Ohio",14736,363264
+161,"Adams County,Ohio","Lucas County,Ohio",15302,420270
+162,"Adams County,Ohio","Madison County,Ohio",6961,149587
+163,"Adams County,Ohio","Mahoning County,Ohio",16520,442223
+164,"Adams County,Ohio","Marion County,Ohio",9978,233128
+165,"Adams County,Ohio","Medina County,Ohio",12449,330853
+166,"Adams County,Ohio","Meigs County,Ohio",6833,168442
+167,"Adams County,Ohio","Mercer County,Ohio",11359,307053
+168,"Adams County,Ohio","Miami County,Ohio",7710,202558
+169,"Adams County,Ohio","Monroe County,Ohio",12525,309428
+170,"Adams County,Ohio","Montgomery County,Ohio",7093,180298
+171,"Adams County,Ohio","Morgan County,Ohio",9271,216674
+172,"Adams County,Ohio","Morrow County,Ohio",9528,235333
+173,"Adams County,Ohio","Muskingum County,Ohio",9460,244948
+174,"Adams County,Ohio","Noble County,Ohio",11030,292588
+175,"Adams County,Ohio","Paulding County,Ohio",13399,355832
+176,"Adams County,Ohio","Perry County,Ohio",8447,181578
+177,"Adams County,Ohio","Pickaway County,Ohio",5477,130737
+178,"Adams County,Ohio","Pike County,Ohio",2326,55982
+179,"Adams County,Ohio","Portage County,Ohio",14971,402002
+180,"Adams County,Ohio","Preble County,Ohio",7990,187127
+181,"Adams County,Ohio","Putnam County,Ohio",12042,325322
+182,"Adams County,Ohio","Richland County,Ohio",10558,270571
+183,"Adams County,Ohio","Ross County,Ohio",4222,97044
+184,"Adams County,Ohio","Sandusky County,Ohio",14351,334085
+185,"Adams County,Ohio","Scioto County,Ohio",3125,76612
+186,"Adams County,Ohio","Seneca County,Ohio",12969,307969
+187,"Adams County,Ohio","Shelby County,Ohio",8748,238844
+188,"Adams County,Ohio","Stark County,Ohio",14704,397570
+189,"Adams County,Ohio","Summit County,Ohio",13652,366180
+190,"Adams County,Ohio","Trumbull County,Ohio",16552,452495
+191,"Adams County,Ohio","Tuscarawas County,Ohio",12904,338157
+192,"Adams County,Ohio","Union County,Ohio",8543,176222
+193,"Adams County,Ohio","Van Wert County,Ohio",12033,325378
+194,"Adams County,Ohio","Vinton County,Ohio",5925,130840
+195,"Adams County,Ohio","Warren County,Ohio",5066,103174
+196,"Adams County,Ohio","Washington County,Ohio",9185,236724
+197,"Adams County,Ohio","Wayne County,Ohio",12177,319850
+198,"Adams County,Ohio","Williams County,Ohio",15532,394801
+199,"Adams County,Ohio","Wood County,Ohio",13065,374378
+200,"Adams County,Ohio","Wyandot County,Ohio",11565,279525
+201,"Adams County,Ohio","Accomack County,Virginia",35591,1006282
+202,"Adams County,Ohio","Albemarle County,Virginia",21741,618782
+203,"Adams County,Ohio","Alleghany County,Virginia",16410,455805
+204,"Adams County,Ohio","Amelia County,Virginia",26441,718900
+205,"Adams County,Ohio","Amherst County,Virginia",21739,586771
+206,"Adams County,Ohio","Appomattox County,Virginia",23332,625530
+207,"Adams County,Ohio","Arlington County,Virginia",25642,726031
+208,"Adams County,Ohio","Augusta County,Virginia",20351,557121
+209,"Adams County,Ohio","Bath County,Virginia",19422,531115
+210,"Adams County,Ohio","Bedford County,Virginia",21998,572895
+211,"Adams County,Ohio","Bland County,Virginia",15372,422024
+212,"Adams County,Ohio","Botetourt County,Virginia",19564,527104
+213,"Adams County,Ohio","Brunswick County,Virginia",28984,768573
+214,"Adams County,Ohio","Buchanan County,Virginia",16816,373306
+215,"Adams County,Ohio","Buckingham County,Virginia",23614,636465
+216,"Adams County,Ohio","Campbell County,Virginia",23255,628002
+217,"Adams County,Ohio","Caroline County,Virginia",27080,787627
+218,"Adams County,Ohio","Carroll County,Virginia",17617,491462
+219,"Adams County,Ohio","Charles City County,Virginia",27180,784662
+220,"Adams County,Ohio","Charlotte County,Virginia",25216,679050
+221,"Adams County,Ohio","Chesterfield County,Virginia",26316,762446
+222,"Adams County,Ohio","Clarke County,Virginia",23755,626667
+223,"Adams County,Ohio","Craig County,Virginia",18053,476890
+224,"Adams County,Ohio","Culpeper County,Virginia",25538,707998
+225,"Adams County,Ohio","Cumberland County,Virginia",24824,664467
+226,"Adams County,Ohio","Dickenson County,Virginia",16624,378802
+227,"Adams County,Ohio","Dinwiddie County,Virginia",28063,812877
+228,"Adams County,Ohio","Essex County,Virginia",28897,811670
+229,"Adams County,Ohio","Fairfax County,Virginia",25333,716698
+230,"Adams County,Ohio","Fauquier County,Virginia",25306,648297
+231,"Adams County,Ohio","Floyd County,Virginia",19238,510426
+232,"Adams County,Ohio","Fluvanna County,Virginia",23419,670954
+233,"Adams County,Ohio","Franklin County,Virginia",21511,574129
+234,"Adams County,Ohio","Frederick County,Virginia",22545,601389
+235,"Adams County,Ohio","Giles County,Virginia",16102,433583
+236,"Adams County,Ohio","Gloucester County,Virginia",29351,838850
+237,"Adams County,Ohio","Goochland County,Virginia",24322,701565
+238,"Adams County,Ohio","Grayson County,Virginia",18020,481169
+239,"Adams County,Ohio","Greene County,Virginia",23733,654366
+240,"Adams County,Ohio","Greensville County,Virginia",29480,861629
+241,"Adams County,Ohio","Halifax County,Virginia",25921,689149
+242,"Adams County,Ohio","Hanover County,Virginia",25529,742671
+243,"Adams County,Ohio","Henrico County,Virginia",26040,755631
+244,"Adams County,Ohio","Henry County,Virginia",21491,578183
+245,"Adams County,Ohio","Highland County,Virginia",20866,541085
+246,"Adams County,Ohio","Isle of Wight County,Virginia",30292,860208
+247,"Adams County,Ohio","James City County,Virginia",28416,825433
+248,"Adams County,Ohio","King and Queen County,Virginia",28074,801017
+249,"Adams County,Ohio","King George County,Virginia",28193,815614
+250,"Adams County,Ohio","King William County,Virginia",26762,770939
+251,"Adams County,Ohio","Lancaster County,Virginia",30555,854025
+252,"Adams County,Ohio","Lee County,Virginia",17598,424361
+253,"Adams County,Ohio","Loudoun County,Virginia",25251,662534
+254,"Adams County,Ohio","Louisa County,Virginia",23979,684659
+255,"Adams County,Ohio","Lunenburg County,Virginia",26989,720335
+256,"Adams County,Ohio","Madison County,Virginia",24653,684106
+257,"Adams County,Ohio","Mathews County,Virginia",30176,862274
+258,"Adams County,Ohio","Mecklenburg County,Virginia",27980,733459
+259,"Adams County,Ohio","Middlesex County,Virginia",28952,835051
+260,"Adams County,Ohio","Montgomery County,Virginia",17186,461589
+261,"Adams County,Ohio","Nelson County,Virginia",22280,598462
+262,"Adams County,Ohio","New Kent County,Virginia",27852,799347
+263,"Adams County,Ohio","Northampton County,Virginia",32834,942096
+264,"Adams County,Ohio","Northumberland County,Virginia",30594,852537
+265,"Adams County,Ohio","Nottoway County,Virginia",26482,720714
+266,"Adams County,Ohio","Orange County,Virginia",24942,692767
+267,"Adams County,Ohio","Page County,Virginia",23587,667892
+268,"Adams County,Ohio","Patrick County,Virginia",19723,536498
+269,"Adams County,Ohio","Pittsylvania County,Virginia",23807,632391
+270,"Adams County,Ohio","Powhatan County,Virginia",25575,726786
+271,"Adams County,Ohio","Prince Edward County,Virginia",25096,678050
+272,"Adams County,Ohio","Prince George County,Virginia",27827,799461
+273,"Adams County,Ohio","Prince William County,Virginia",25406,654401
+274,"Adams County,Ohio","Pulaski County,Virginia",17280,457921
+275,"Adams County,Ohio","Rappahannock County,Virginia",25418,704379
+276,"Adams County,Ohio","Richmond County,Virginia",29294,825180
+277,"Adams County,Ohio","Roanoke County,Virginia",18805,504383
+278,"Adams County,Ohio","Rockbridge County,Virginia",18743,524161
+279,"Adams County,Ohio","Rockingham County,Virginia",22626,640242
+280,"Adams County,Ohio","Russell County,Virginia",18347,391855
+281,"Adams County,Ohio","Scott County,Virginia",18100,426256
+282,"Adams County,Ohio","Shenandoah County,Virginia",23131,670346
+283,"Adams County,Ohio","Smyth County,Virginia",17729,487377
+284,"Adams County,Ohio","Southampton County,Virginia",29857,857743
+285,"Adams County,Ohio","Spotsylvania County,Virginia",25996,726498
+286,"Adams County,Ohio","Stafford County,Virginia",27307,779985
+287,"Adams County,Ohio","Surry County,Virginia",29160,824295
+288,"Adams County,Ohio","Sussex County,Virginia",28521,827986
+289,"Adams County,Ohio","Tazewell County,Virginia",16187,440612
+290,"Adams County,Ohio","Warren County,Virginia",23947,596098
+291,"Adams County,Ohio","Washington County,Virginia",19022,445520
+292,"Adams County,Ohio","Westmoreland County,Virginia",29167,832438
+293,"Adams County,Ohio","Wise County,Virginia",14889,354701
+294,"Adams County,Ohio","Wythe County,Virginia",15976,440242
+295,"Adams County,Ohio","York County,Virginia",29704,856208
+296,"Adams County,Ohio","Alexandria City County,Virginia",26158,743213
+297,"Adams County,Ohio","Bedford City County,Virginia",21163,564327
+298,"Adams County,Ohio","Bristol City County,Virginia",19598,552560
+299,"Adams County,Ohio","Buena Vista City County,Virginia",19097,538139
+300,"Adams County,Ohio","Charlottesville City County,Virginia",22210,633996
+301,"Adams County,Ohio","Chesapeake City County,Virginia",31167,909113
+302,"Adams County,Ohio","Clifton Forge City County,Virginia",16953,476011
+303,"Adams County,Ohio","Colonial Heights City County,Virginia",26876,778338
+304,"Adams County,Ohio","Covington City County,Virginia",16479,459390
+305,"Adams County,Ohio","Danville City County,Virginia",23648,632639
+306,"Adams County,Ohio","Emporia City County,Virginia",29187,848222
+307,"Adams County,Ohio","Fairfax City County,Virginia",25803,728331
+308,"Adams County,Ohio","Falls Church City County,Virginia",25350,720343
+309,"Adams County,Ohio","Franklin City County,Virginia",30405,865598
+310,"Adams County,Ohio","Fredericksburg City County,Virginia",27129,736158
+311,"Adams County,Ohio","Galax City County,Virginia",18241,497328
+312,"Adams County,Ohio","Hampton City County,Virginia",29654,865914
+313,"Adams County,Ohio","Harrisonburg City County,Virginia",21685,620138
+314,"Adams County,Ohio","Hopewell City County,Virginia",26913,777304
+315,"Adams County,Ohio","Lexington City County,Virginia",18731,526630
+316,"Adams County,Ohio","Lynchburg City County,Virginia",22315,601744
+317,"Adams County,Ohio","Manassas City County,Virginia",25633,659346
+318,"Adams County,Ohio","Manassas Park City County,Virginia",26136,665689
+319,"Adams County,Ohio","Martinsville City County,Virginia",22018,586976
+320,"Adams County,Ohio","Newport News City County,Virginia",29211,852400
+321,"Adams County,Ohio","Norfolk City County,Virginia",30961,891330
+322,"Adams County,Ohio","Norton City County,Virginia",15518,366513
+323,"Adams County,Ohio","Petersburg City County,Virginia",26748,779326
+324,"Adams County,Ohio","Poquoson City County,Virginia",29883,862976
+325,"Adams County,Ohio","Portsmouth City County,Virginia",30900,900151
+326,"Adams County,Ohio","Radford County,Virginia",17593,459630
+327,"Adams County,Ohio","Richmond City County,Virginia",25616,743441
+328,"Adams County,Ohio","Roanoke City County,Virginia",19407,524488
+329,"Adams County,Ohio","Salem City County,Virginia",18819,511038
+330,"Adams County,Ohio","South Boston City County,Virginia",25660,686817
+331,"Adams County,Ohio","Staunton City County,Virginia",20503,581273
+332,"Adams County,Ohio","Suffolk City County,Virginia",31135,874932
+333,"Adams County,Ohio","Virginia Beach City County,Virginia",31521,914588
+334,"Adams County,Ohio","Waynesboro City County,Virginia",20840,593992
+335,"Adams County,Ohio","Williamsburg City County,Virginia",28255,824649
+336,"Adams County,Ohio","Winchester City County,Virginia",22683,605192
+337,"Adams County,Ohio","Barbour County,West Virginia",14536,377593
+338,"Adams County,Ohio","Berkeley County,West Virginia",22097,604048
+339,"Adams County,Ohio","Boone County,West Virginia",11724,288289
+340,"Adams County,Ohio","Braxton County,West Virginia",13236,345651
+341,"Adams County,Ohio","Brooke County,West Virginia",14959,387359
+342,"Adams County,Ohio","Cabell County,West Virginia",6696,142324
+343,"Adams County,Ohio","Calhoun County,West Virginia",11859,271630
+344,"Adams County,Ohio","Clay County,West Virginia",12002,316564
+345,"Adams County,Ohio","Doddridge County,West Virginia",11523,303310
+346,"Adams County,Ohio","Fayette County,West Virginia",13290,334908
+347,"Adams County,Ohio","Gilmer County,West Virginia",13136,296132
+348,"Adams County,Ohio","Grant County,West Virginia",19671,490988
+349,"Adams County,Ohio","Greenbrier County,West Virginia",16364,412946
+350,"Adams County,Ohio","Hampshire County,West Virginia",21351,565652
+351,"Adams County,Ohio","Hancock County,West Virginia",16549,421895
+352,"Adams County,Ohio","Hardy County,West Virginia",20758,518591
+353,"Adams County,Ohio","Harrison County,West Virginia",12606,336304
+354,"Adams County,Ohio","Jackson County,West Virginia",8306,202974
+355,"Adams County,Ohio","Jefferson County,West Virginia",23563,660046
+356,"Adams County,Ohio","Kanawha County,West Virginia",10598,268972
+357,"Adams County,Ohio","Lewis County,West Virginia",14299,338455
+358,"Adams County,Ohio","Lincoln County,West Virginia",10084,202021
+359,"Adams County,Ohio","Logan County,West Virginia",12696,261865
+360,"Adams County,Ohio","McDowell County,West Virginia",16961,416284
+361,"Adams County,Ohio","Marion County,West Virginia",14543,379427
+362,"Adams County,Ohio","Marshall County,West Virginia",14939,352663
+363,"Adams County,Ohio","Mason County,West Virginia",6079,163268
+364,"Adams County,Ohio","Mercer County,West Virginia",13925,380531
+365,"Adams County,Ohio","Mineral County,West Virginia",20231,540203
+366,"Adams County,Ohio","Mingo County,West Virginia",11621,241783
+367,"Adams County,Ohio","Monongalia County,West Virginia",14753,404895
+368,"Adams County,Ohio","Monroe County,West Virginia",16970,425243
+369,"Adams County,Ohio","Morgan County,West Virginia",21589,593440
+370,"Adams County,Ohio","Nicholas County,West Virginia",13719,376444
+371,"Adams County,Ohio","Ohio County,West Virginia",13978,368597
+372,"Adams County,Ohio","Pendleton County,West Virginia",20922,536115
+373,"Adams County,Ohio","Pleasants County,West Virginia",10413,262829
+374,"Adams County,Ohio","Pocahontas County,West Virginia",19048,445983
+375,"Adams County,Ohio","Preston County,West Virginia",16899,431626
+376,"Adams County,Ohio","Putnam County,West Virginia",7715,203291
+377,"Adams County,Ohio","Raleigh County,West Virginia",12466,334224
+378,"Adams County,Ohio","Randolph County,West Virginia",16600,434241
+379,"Adams County,Ohio","Ritchie County,West Virginia",10688,276352
+380,"Adams County,Ohio","Roane County,West Virginia",9931,231789
+381,"Adams County,Ohio","Summers County,West Virginia",15919,395661
+382,"Adams County,Ohio","Taylor County,West Virginia",14435,374999
+383,"Adams County,Ohio","Tucker County,West Virginia",17102,428321
+384,"Adams County,Ohio","Tyler County,West Virginia",12322,302445
+385,"Adams County,Ohio","Upshur County,West Virginia",15576,408682
+386,"Adams County,Ohio","Wayne County,West Virginia",8524,177587
+387,"Adams County,Ohio","Webster County,West Virginia",15903,403524
+388,"Adams County,Ohio","Wetzel County,West Virginia",13534,324351
+389,"Adams County,Ohio","Wirt County,West Virginia",10112,252987
+390,"Adams County,Ohio","Wood County,West Virginia",8795,227717
+391,"Adams County,Ohio","Wyoming County,West Virginia",14411,374166

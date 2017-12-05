@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Christian County,Kentucky","Adair County,Kentucky",7946,220746
+1,"Christian County,Kentucky","Allen County,Kentucky",5176,131713
+2,"Christian County,Kentucky","Anderson County,Kentucky",9949,299394
+3,"Christian County,Kentucky","Ballard County,Kentucky",6238,172807
+4,"Christian County,Kentucky","Barren County,Kentucky",6357,168440
+5,"Christian County,Kentucky","Bath County,Kentucky",13640,416663
+6,"Christian County,Kentucky","Bell County,Kentucky",15916,416907
+7,"Christian County,Kentucky","Boone County,Kentucky",14071,420059
+8,"Christian County,Kentucky","Bourbon County,Kentucky",12705,371173
+9,"Christian County,Kentucky","Boyd County,Kentucky",16898,518119
+10,"Christian County,Kentucky","Boyle County,Kentucky",10461,307313
+11,"Christian County,Kentucky","Bracken County,Kentucky",15913,434012
+12,"Christian County,Kentucky","Breathitt County,Kentucky",16241,480843
+13,"Christian County,Kentucky","Breckinridge County,Kentucky",6684,177741
+14,"Christian County,Kentucky","Bullitt County,Kentucky",7905,243469
+15,"Christian County,Kentucky","Butler County,Kentucky",4306,102765
+16,"Christian County,Kentucky","Caldwell County,Kentucky",3151,63228
+17,"Christian County,Kentucky","Calloway County,Kentucky",4126,98474
+18,"Christian County,Kentucky","Campbell County,Kentucky",14941,449762
+19,"Christian County,Kentucky","Carlisle County,Kentucky",6695,188176
+20,"Christian County,Kentucky","Carroll County,Kentucky",11554,353836
+21,"Christian County,Kentucky","Carter County,Kentucky",16035,487376
+22,"Christian County,Kentucky","Casey County,Kentucky",10545,273783
+23,"Christian County,Kentucky","Clay County,Kentucky",14080,375935
+24,"Christian County,Kentucky","Clinton County,Kentucky",9897,249275
+25,"Christian County,Kentucky","Crittenden County,Kentucky",4731,96298
+26,"Christian County,Kentucky","Cumberland County,Kentucky",9056,225374
+27,"Christian County,Kentucky","Daviess County,Kentucky",4954,129333
+28,"Christian County,Kentucky","Edmonson County,Kentucky",6007,149561
+29,"Christian County,Kentucky","Elliott County,Kentucky",16811,478638
+30,"Christian County,Kentucky","Estill County,Kentucky",14124,409527
+31,"Christian County,Kentucky","Fayette County,Kentucky",11267,341398
+32,"Christian County,Kentucky","Fleming County,Kentucky",15069,446882
+33,"Christian County,Kentucky","Floyd County,Kentucky",18099,487100
+34,"Christian County,Kentucky","Franklin County,Kentucky",11608,338086
+35,"Christian County,Kentucky","Fulton County,Kentucky",7099,209140
+36,"Christian County,Kentucky","Gallatin County,Kentucky",12264,373161
+37,"Christian County,Kentucky","Garrard County,Kentucky",12103,339509
+38,"Christian County,Kentucky","Grant County,Kentucky",13630,398614
+39,"Christian County,Kentucky","Graves County,Kentucky",5807,137821
+40,"Christian County,Kentucky","Grayson County,Kentucky",5106,146971
+41,"Christian County,Kentucky","Green County,Kentucky",7990,200732
+42,"Christian County,Kentucky","Greenup County,Kentucky",17503,514706
+43,"Christian County,Kentucky","Hancock County,Kentucky",6273,169638
+44,"Christian County,Kentucky","Hardin County,Kentucky",6503,192489
+45,"Christian County,Kentucky","Harlan County,Kentucky",18211,472512
+46,"Christian County,Kentucky","Harrison County,Kentucky",13477,388119
+47,"Christian County,Kentucky","Hart County,Kentucky",6723,178052
+48,"Christian County,Kentucky","Henderson County,Kentucky",3942,110602
+49,"Christian County,Kentucky","Henry County,Kentucky",11229,334584
+50,"Christian County,Kentucky","Hickman County,Kentucky",6728,189467
+51,"Christian County,Kentucky","Hopkins County,Kentucky",2711,66721
+52,"Christian County,Kentucky","Jackson County,Kentucky",13811,370288
+53,"Christian County,Kentucky","Jefferson County,Kentucky",9162,274975
+54,"Christian County,Kentucky","Jessamine County,Kentucky",11398,339058
+55,"Christian County,Kentucky","Johnson County,Kentucky",17381,516867
+56,"Christian County,Kentucky","Kenton County,Kentucky",13957,415775
+57,"Christian County,Kentucky","Knott County,Kentucky",16882,456641
+58,"Christian County,Kentucky","Knox County,Kentucky",14149,369817
+59,"Christian County,Kentucky","Larue County,Kentucky",7403,223721
+60,"Christian County,Kentucky","Laurel County,Kentucky",12890,340687
+61,"Christian County,Kentucky","Lawrence County,Kentucky",18901,545255
+62,"Christian County,Kentucky","Lee County,Kentucky",15490,457301
+63,"Christian County,Kentucky","Leslie County,Kentucky",16030,427059
+64,"Christian County,Kentucky","Letcher County,Kentucky",18053,478645
+65,"Christian County,Kentucky","Lewis County,Kentucky",16593,485022
+66,"Christian County,Kentucky","Lincoln County,Kentucky",11514,323524
+67,"Christian County,Kentucky","Livingston County,Kentucky",4569,126746
+68,"Christian County,Kentucky","Logan County,Kentucky",2373,59563
+69,"Christian County,Kentucky","Lyon County,Kentucky",4373,97728
+70,"Christian County,Kentucky","McCracken County,Kentucky",4850,140867
+71,"Christian County,Kentucky","McCreary County,Kentucky",12199,333593
+72,"Christian County,Kentucky","Madison County,Kentucky",12976,383251
+73,"Christian County,Kentucky","Magoffin County,Kentucky",16850,498735
+74,"Christian County,Kentucky","Marion County,Kentucky",9524,282612
+75,"Christian County,Kentucky","Marshall County,Kentucky",4264,124439
+76,"Christian County,Kentucky","Martin County,Kentucky",20167,575213
+77,"Christian County,Kentucky","Mason County,Kentucky",15834,442739
+78,"Christian County,Kentucky","Meade County,Kentucky",8155,213662
+79,"Christian County,Kentucky","Menifee County,Kentucky",14915,429201
+80,"Christian County,Kentucky","Mercer County,Kentucky",10308,306189
+81,"Christian County,Kentucky","Metcalfe County,Kentucky",6920,191092
+82,"Christian County,Kentucky","Monroe County,Kentucky",7675,197120
+83,"Christian County,Kentucky","Montgomery County,Kentucky",13558,407110
+84,"Christian County,Kentucky","Morgan County,Kentucky",16240,487019
+85,"Christian County,Kentucky","Muhlenberg County,Kentucky",2812,73269
+86,"Christian County,Kentucky","Nelson County,Kentucky",7800,241674
+87,"Christian County,Kentucky","Nicholas County,Kentucky",13961,398555
+88,"Christian County,Kentucky","Ohio County,Kentucky",4365,124944
+89,"Christian County,Kentucky","Oldham County,Kentucky",9955,301884
+90,"Christian County,Kentucky","Owen County,Kentucky",12951,370260
+91,"Christian County,Kentucky","Owsley County,Kentucky",15110,391789
+92,"Christian County,Kentucky","Pendleton County,Kentucky",14896,434479
+93,"Christian County,Kentucky","Perry County,Kentucky",16265,435760
+94,"Christian County,Kentucky","Pike County,Kentucky",20107,571198
+95,"Christian County,Kentucky","Powell County,Kentucky",13851,415969
+96,"Christian County,Kentucky","Robertson County,Kentucky",14732,419681
+97,"Christian County,Kentucky","Rockcastle County,Kentucky",12376,332428
+98,"Christian County,Kentucky","Rowan County,Kentucky",14381,440515
+99,"Christian County,Kentucky","Russell County,Kentucky",9053,248955
+100,"Christian County,Kentucky","Scott County,Kentucky",12286,370046
+101,"Christian County,Kentucky","Shelby County,Kentucky",10292,309167
+102,"Christian County,Kentucky","Simpson County,Kentucky",3747,91001
+103,"Christian County,Kentucky","Spencer County,Kentucky",9321,279423
+104,"Christian County,Kentucky","Taylor County,Kentucky",9360,227228
+105,"Christian County,Kentucky","Todd County,Kentucky",1247,31542
+106,"Christian County,Kentucky","Trigg County,Kentucky",1840,35464
+107,"Christian County,Kentucky","Trimble County,Kentucky",11354,341683
+108,"Christian County,Kentucky","Union County,Kentucky",5360,130962
+109,"Christian County,Kentucky","Warren County,Kentucky",4093,100654
+110,"Christian County,Kentucky","Washington County,Kentucky",9632,282294
+111,"Christian County,Kentucky","Wayne County,Kentucky",11298,279474
+112,"Christian County,Kentucky","Webster County,Kentucky",3820,94810
+113,"Christian County,Kentucky","Whitley County,Kentucky",13532,365671
+114,"Christian County,Kentucky","Wolfe County,Kentucky",15115,453840
+115,"Christian County,Kentucky","Woodford County,Kentucky",10523,321656
+116,"Christian County,Kentucky","Adams County,Ohio",17835,526420
+117,"Christian County,Kentucky","Allen County,Ohio",21377,641668
+118,"Christian County,Kentucky","Ashland County,Ohio",24566,743546
+119,"Christian County,Kentucky","Ashtabula County,Ohio",30312,928298
+120,"Christian County,Kentucky","Athens County,Ohio",23029,672762
+121,"Christian County,Kentucky","Auglaize County,Ohio",20633,628933
+122,"Christian County,Kentucky","Belmont County,Ohio",25903,789978
+123,"Christian County,Kentucky","Brown County,Ohio",17088,502974
+124,"Christian County,Kentucky","Butler County,Ohio",16454,491542
+125,"Christian County,Kentucky","Carroll County,Ohio",27868,827202
+126,"Christian County,Kentucky","Champaign County,Ohio",19411,583115
+127,"Christian County,Kentucky","Clark County,Ohio",18839,569748
+128,"Christian County,Kentucky","Clermont County,Ohio",15205,462721
+129,"Christian County,Kentucky","Clinton County,Ohio",17299,514028
+130,"Christian County,Kentucky","Columbiana County,Ohio",29424,862791
+131,"Christian County,Kentucky","Coshocton County,Ohio",24426,722619
+132,"Christian County,Kentucky","Crawford County,Ohio",24103,735519
+133,"Christian County,Kentucky","Cuyahoga County,Ohio",26883,826011
+134,"Christian County,Kentucky","Darke County,Ohio",19476,553828
+135,"Christian County,Kentucky","Defiance County,Ohio",23495,672228
+136,"Christian County,Kentucky","Delaware County,Ohio",21483,650218
+137,"Christian County,Kentucky","Fairfield County,Ohio",20886,633468
+138,"Christian County,Kentucky","Fayette County,Ohio",18198,551632
+139,"Christian County,Kentucky","Franklin County,Ohio",20000,610146
+140,"Christian County,Kentucky","Fulton County,Ohio",24929,714807
+141,"Christian County,Kentucky","Gallia County,Ohio",21183,618491
+142,"Christian County,Kentucky","Geauga County,Ohio",28412,865230
+143,"Christian County,Kentucky","Greene County,Ohio",17626,523381
+144,"Christian County,Kentucky","Guernsey County,Ohio",23632,723659
+145,"Christian County,Kentucky","Hamilton County,Ohio",15109,456027
+146,"Christian County,Kentucky","Hancock County,Ohio",22486,682564
+147,"Christian County,Kentucky","Hardin County,Ohio",22273,666961
+148,"Christian County,Kentucky","Harrison County,Ohio",26873,809267
+149,"Christian County,Kentucky","Henry County,Ohio",24210,707032
+150,"Christian County,Kentucky","Highland County,Ohio",18148,525673
+151,"Christian County,Kentucky","Hocking County,Ohio",22324,676872
+152,"Christian County,Kentucky","Holmes County,Ohio",25977,759477
+153,"Christian County,Kentucky","Huron County,Ohio",25712,742317
+154,"Christian County,Kentucky","Jackson County,Ohio",20426,607131
+155,"Christian County,Kentucky","Jefferson County,Ohio",27867,819045
+156,"Christian County,Kentucky","Knox County,Ohio",23932,709840
+157,"Christian County,Kentucky","Lawrence County,Ohio",19304,554548
+158,"Christian County,Kentucky","Licking County,Ohio",22265,665064
+159,"Christian County,Kentucky","Logan County,Ohio",20645,615652
+160,"Christian County,Kentucky","Lorain County,Ohio",27497,800971
+161,"Christian County,Kentucky","Lucas County,Ohio",25811,769084
+162,"Christian County,Kentucky","Madison County,Ohio",19420,586815
+163,"Christian County,Kentucky","Mahoning County,Ohio",29281,879930
+164,"Christian County,Kentucky","Marion County,Ohio",22530,657654
+165,"Christian County,Kentucky","Medina County,Ohio",25211,768559
+166,"Christian County,Kentucky","Meigs County,Ohio",22115,648875
+167,"Christian County,Kentucky","Mercer County,Ohio",21537,590347
+168,"Christian County,Kentucky","Miami County,Ohio",18219,551372
+169,"Christian County,Kentucky","Monroe County,Ohio",27309,804543
+170,"Christian County,Kentucky","Montgomery County,Ohio",17602,529112
+171,"Christian County,Kentucky","Morgan County,Ohio",24698,732155
+172,"Christian County,Kentucky","Morrow County,Ohio",22290,673039
+173,"Christian County,Kentucky","Muskingum County,Ohio",22483,689815
+174,"Christian County,Kentucky","Noble County,Ohio",25332,760779
+175,"Christian County,Kentucky","Paulding County,Ohio",22427,637147
+176,"Christian County,Kentucky","Perry County,Ohio",22552,678399
+177,"Christian County,Kentucky","Pickaway County,Ohio",20135,600228
+178,"Christian County,Kentucky","Pike County,Ohio",19203,572116
+179,"Christian County,Kentucky","Portage County,Ohio",27733,839709
+180,"Christian County,Kentucky","Preble County,Ohio",18400,532054
+181,"Christian County,Kentucky","Putnam County,Ohio",22551,674136
+182,"Christian County,Kentucky","Richland County,Ohio",23320,708278
+183,"Christian County,Kentucky","Ross County,Ohio",19779,599546
+184,"Christian County,Kentucky","Sandusky County,Ohio",25526,762640
+185,"Christian County,Kentucky","Scioto County,Ohio",19585,553239
+186,"Christian County,Kentucky","Seneca County,Ohio",24830,738904
+187,"Christian County,Kentucky","Shelby County,Ohio",19257,587658
+188,"Christian County,Kentucky","Stark County,Ohio",27478,824092
+189,"Christian County,Kentucky","Summit County,Ohio",26414,803887
+190,"Christian County,Kentucky","Trumbull County,Ohio",29314,890201
+191,"Christian County,Kentucky","Tuscarawas County,Ohio",25927,783024
+192,"Christian County,Kentucky","Union County,Ohio",20772,613036
+193,"Christian County,Kentucky","Van Wert County,Ohio",22566,654268
+194,"Christian County,Kentucky","Vinton County,Ohio",21961,648298
+195,"Christian County,Kentucky","Warren County,Ohio",15988,482283
+196,"Christian County,Kentucky","Washington County,Ohio",25152,720824
+197,"Christian County,Kentucky","Wayne County,Ohio",24939,757557
+198,"Christian County,Kentucky","Williams County,Ohio",24485,692109
+199,"Christian County,Kentucky","Wood County,Ohio",23574,723192
+200,"Christian County,Kentucky","Wyandot County,Ohio",23181,703444
+201,"Christian County,Kentucky","Accomack County,Virginia",45900,1359773
+202,"Christian County,Kentucky","Albemarle County,Virginia",32050,972273
+203,"Christian County,Kentucky","Alleghany County,Virginia",27802,841510
+204,"Christian County,Kentucky","Amelia County,Virginia",34622,1011128
+205,"Christian County,Kentucky","Amherst County,Virginia",31524,917187
+206,"Christian County,Kentucky","Appomattox County,Virginia",31699,930797
+207,"Christian County,Kentucky","Arlington County,Virginia",38734,1172582
+208,"Christian County,Kentucky","Augusta County,Virginia",31472,949966
+209,"Christian County,Kentucky","Bath County,Virginia",30814,916820
+210,"Christian County,Kentucky","Bedford County,Virginia",29432,862107
+211,"Christian County,Kentucky","Bland County,Virginia",23448,711709
+212,"Christian County,Kentucky","Botetourt County,Virginia",28288,846172
+213,"Christian County,Kentucky","Brunswick County,Virginia",36180,1075850
+214,"Christian County,Kentucky","Buchanan County,Virginia",24186,587916
+215,"Christian County,Kentucky","Buckingham County,Virginia",32813,954707
+216,"Christian County,Kentucky","Campbell County,Virginia",30848,903342
+217,"Christian County,Kentucky","Caroline County,Virginia",37389,1141118
+218,"Christian County,Kentucky","Carroll County,Virginia",24392,743054
+219,"Christian County,Kentucky","Charles City County,Virginia",37490,1138153
+220,"Christian County,Kentucky","Charlotte County,Virginia",33397,971278
+221,"Christian County,Kentucky","Chesterfield County,Virginia",36316,1050018
+222,"Christian County,Kentucky","Clarke County,Virginia",36230,1099330
+223,"Christian County,Kentucky","Craig County,Virginia",27687,823740
+224,"Christian County,Kentucky","Culpeper County,Virginia",35847,1061489
+225,"Christian County,Kentucky","Cumberland County,Virginia",34227,991938
+226,"Christian County,Kentucky","Dickenson County,Virginia",21612,545591
+227,"Christian County,Kentucky","Dinwiddie County,Virginia",36395,1054189
+228,"Christian County,Kentucky","Essex County,Virginia",39207,1165161
+229,"Christian County,Kentucky","Fairfax County,Virginia",38357,1162858
+230,"Christian County,Kentucky","Fauquier County,Virginia",36668,1120582
+231,"Christian County,Kentucky","Floyd County,Virginia",26284,783154
+232,"Christian County,Kentucky","Fluvanna County,Virginia",33728,1024444
+233,"Christian County,Kentucky","Franklin County,Virginia",28945,863340
+234,"Christian County,Kentucky","Frederick County,Virginia",35682,1087057
+235,"Christian County,Kentucky","Giles County,Virginia",26229,769782
+236,"Christian County,Kentucky","Gloucester County,Virginia",39660,1192341
+237,"Christian County,Kentucky","Goochland County,Virginia",34632,1055055
+238,"Christian County,Kentucky","Grayson County,Virginia",24125,706221
+239,"Christian County,Kentucky","Greene County,Virginia",34043,1007857
+240,"Christian County,Kentucky","Greensville County,Virginia",37376,1093269
+241,"Christian County,Kentucky","Halifax County,Virginia",32695,940740
+242,"Christian County,Kentucky","Hanover County,Virginia",35838,1096162
+243,"Christian County,Kentucky","Henrico County,Virginia",36349,1109122
+244,"Christian County,Kentucky","Henry County,Virginia",28265,829774
+245,"Christian County,Kentucky","Highland County,Virginia",32258,926790
+246,"Christian County,Kentucky","Isle of Wight County,Virginia",40515,1154310
+247,"Christian County,Kentucky","James City County,Virginia",38726,1178924
+248,"Christian County,Kentucky","King and Queen County,Virginia",38384,1154508
+249,"Christian County,Kentucky","King George County,Virginia",38502,1169104
+250,"Christian County,Kentucky","King William County,Virginia",37071,1124430
+251,"Christian County,Kentucky","Lancaster County,Virginia",40864,1207515
+252,"Christian County,Kentucky","Lee County,Virginia",19008,493466
+253,"Christian County,Kentucky","Loudoun County,Virginia",37726,1135197
+254,"Christian County,Kentucky","Louisa County,Virginia",34289,1038150
+255,"Christian County,Kentucky","Lunenburg County,Virginia",35169,1012562
+256,"Christian County,Kentucky","Madison County,Virginia",34963,1037597
+257,"Christian County,Kentucky","Mathews County,Virginia",40485,1215765
+258,"Christian County,Kentucky","Mecklenburg County,Virginia",34728,992286
+259,"Christian County,Kentucky","Middlesex County,Virginia",39262,1188541
+260,"Christian County,Kentucky","Montgomery County,Virginia",25458,773658
+261,"Christian County,Kentucky","Nelson County,Virginia",32075,947584
+262,"Christian County,Kentucky","New Kent County,Virginia",38162,1152838
+263,"Christian County,Kentucky","Northampton County,Virginia",43143,1295587
+264,"Christian County,Kentucky","Northumberland County,Virginia",40904,1206028
+265,"Christian County,Kentucky","Nottoway County,Virginia",34662,1012942
+266,"Christian County,Kentucky","Orange County,Virginia",35251,1046258
+267,"Christian County,Kentucky","Page County,Virginia",33896,1021383
+268,"Christian County,Kentucky","Patrick County,Virginia",26497,788089
+269,"Christian County,Kentucky","Pittsylvania County,Virginia",30581,883982
+270,"Christian County,Kentucky","Powhatan County,Virginia",35725,1026645
+271,"Christian County,Kentucky","Prince Edward County,Virginia",33277,970278
+272,"Christian County,Kentucky","Prince George County,Virginia",38050,1093563
+273,"Christian County,Kentucky","Prince William County,Virginia",36768,1126686
+274,"Christian County,Kentucky","Pulaski County,Virginia",24135,734474
+275,"Christian County,Kentucky","Rappahannock County,Virginia",35727,1057870
+276,"Christian County,Kentucky","Richmond County,Virginia",39604,1178671
+277,"Christian County,Kentucky","Roanoke County,Virginia",26239,793594
+278,"Christian County,Kentucky","Rockbridge County,Virginia",29736,890243
+279,"Christian County,Kentucky","Rockingham County,Virginia",32936,993733
+280,"Christian County,Kentucky","Russell County,Virginia",22377,645832
+281,"Christian County,Kentucky","Scott County,Virginia",19644,581718
+282,"Christian County,Kentucky","Shenandoah County,Virginia",33440,1023836
+283,"Christian County,Kentucky","Smyth County,Virginia",21404,645924
+284,"Christian County,Kentucky","Southampton County,Virginia",38992,1150793
+285,"Christian County,Kentucky","Spotsylvania County,Virginia",36305,1079989
+286,"Christian County,Kentucky","Stafford County,Virginia",37686,1104282
+287,"Christian County,Kentucky","Surry County,Virginia",39469,1177785
+288,"Christian County,Kentucky","Sussex County,Virginia",38276,1141572
+289,"Christian County,Kentucky","Tazewell County,Virginia",23467,686993
+290,"Christian County,Kentucky","Warren County,Virginia",35342,1068429
+291,"Christian County,Kentucky","Washington County,Virginia",20515,610009
+292,"Christian County,Kentucky","Westmoreland County,Virginia",39477,1185929
+293,"Christian County,Kentucky","Wise County,Virginia",19877,521490
+294,"Christian County,Kentucky","Wythe County,Virginia",22618,688383
+295,"Christian County,Kentucky","York County,Virginia",40013,1209698
+296,"Christian County,Kentucky","Alexandria City County,Virginia",38937,1185228
+297,"Christian County,Kentucky","Bedford City County,Virginia",28596,853538
+298,"Christian County,Kentucky","Bristol City County,Virginia",19114,577991
+299,"Christian County,Kentucky","Buena Vista City County,Virginia",29108,882730
+300,"Christian County,Kentucky","Charlottesville City County,Virginia",32519,987487
+301,"Christian County,Kentucky","Chesapeake City County,Virginia",41477,1262604
+302,"Christian County,Kentucky","Clifton Forge City County,Virginia",28346,861717
+303,"Christian County,Kentucky","Colonial Heights City County,Virginia",37186,1131829
+304,"Christian County,Kentucky","Covington City County,Virginia",27871,845096
+305,"Christian County,Kentucky","Danville City County,Virginia",30423,884230
+306,"Christian County,Kentucky","Emporia City County,Virginia",37532,1107457
+307,"Christian County,Kentucky","Fairfax City County,Virginia",37900,1152433
+308,"Christian County,Kentucky","Falls Church City County,Virginia",38232,1166906
+309,"Christian County,Kentucky","Franklin City County,Virginia",39619,1163927
+310,"Christian County,Kentucky","Fredericksburg City County,Virginia",37438,1089648
+311,"Christian County,Kentucky","Galax City County,Virginia",25015,748920
+312,"Christian County,Kentucky","Hampton City County,Virginia",39964,1219405
+313,"Christian County,Kentucky","Harrisonburg City County,Virginia",31995,973629
+314,"Christian County,Kentucky","Hopewell City County,Virginia",37222,1130795
+315,"Christian County,Kentucky","Lexington City County,Virginia",29022,881058
+316,"Christian County,Kentucky","Lynchburg City County,Virginia",30621,898413
+317,"Christian County,Kentucky","Manassas City County,Virginia",36995,1131630
+318,"Christian County,Kentucky","Manassas Park City County,Virginia",37498,1137974
+319,"Christian County,Kentucky","Martinsville City County,Virginia",28793,838568
+320,"Christian County,Kentucky","Newport News City County,Virginia",39520,1205890
+321,"Christian County,Kentucky","Norfolk City County,Virginia",41270,1244820
+322,"Christian County,Kentucky","Norton City County,Virginia",20506,533302
+323,"Christian County,Kentucky","Petersburg City County,Virginia",37053,1076167
+324,"Christian County,Kentucky","Poquoson City County,Virginia",40192,1216467
+325,"Christian County,Kentucky","Portsmouth City County,Virginia",41209,1253641
+326,"Christian County,Kentucky","Radford County,Virginia",24645,748422
+327,"Christian County,Kentucky","Richmond City County,Virginia",35925,1096932
+328,"Christian County,Kentucky","Roanoke City County,Virginia",26841,813699
+329,"Christian County,Kentucky","Salem City County,Virginia",26253,800249
+330,"Christian County,Kentucky","South Boston City County,Virginia",32435,938409
+331,"Christian County,Kentucky","Staunton City County,Virginia",30812,934764
+332,"Christian County,Kentucky","Suffolk City County,Virginia",40935,1197230
+333,"Christian County,Kentucky","Virginia Beach City County,Virginia",41831,1268079
+334,"Christian County,Kentucky","Waynesboro City County,Virginia",31150,947482
+335,"Christian County,Kentucky","Williamsburg City County,Virginia",38564,1178139
+336,"Christian County,Kentucky","Winchester City County,Virginia",35562,1083201
+337,"Christian County,Kentucky","Barbour County,West Virginia",27938,840377
+338,"Christian County,Kentucky","Berkeley County,West Virginia",35871,1078537
+339,"Christian County,Kentucky","Boone County,West Virginia",23117,673994
+340,"Christian County,Kentucky","Braxton County,West Virginia",24628,731356
+341,"Christian County,Kentucky","Brooke County,West Virginia",27982,832226
+342,"Christian County,Kentucky","Cabell County,West Virginia",17688,540503
+343,"Christian County,Kentucky","Calhoun County,West Virginia",24549,729041
+344,"Christian County,Kentucky","Clay County,West Virginia",23395,702269
+345,"Christian County,Kentucky","Doddridge County,West Virginia",27081,821886
+346,"Christian County,Kentucky","Fayette County,West Virginia",24682,720614
+347,"Christian County,Kentucky","Gilmer County,West Virginia",25827,753543
+348,"Christian County,Kentucky","Grant County,West Virginia",32293,941922
+349,"Christian County,Kentucky","Greenbrier County,West Virginia",27756,798652
+350,"Christian County,Kentucky","Hampshire County,West Virginia",35125,1040140
+351,"Christian County,Kentucky","Hancock County,West Virginia",29572,866762
+352,"Christian County,Kentucky","Hardy County,West Virginia",33349,973420
+353,"Christian County,Kentucky","Harrison County,West Virginia",27171,826748
+354,"Christian County,Kentucky","Jackson County,West Virginia",22433,683373
+355,"Christian County,Kentucky","Jefferson County,West Virginia",37350,1117815
+356,"Christian County,Kentucky","Kanawha County,West Virginia",21991,654677
+357,"Christian County,Kentucky","Lewis County,West Virginia",25801,780218
+358,"Christian County,Kentucky","Lincoln County,West Virginia",20905,598153
+359,"Christian County,Kentucky","Logan County,West Virginia",23161,641967
+360,"Christian County,Kentucky","McDowell County,West Virginia",26782,725103
+361,"Christian County,Kentucky","Marion County,West Virginia",28317,853915
+362,"Christian County,Kentucky","Marshall County,West Virginia",27940,826734
+363,"Christian County,Kentucky","Mason County,West Virginia",20670,631247
+364,"Christian County,Kentucky","Mercer County,West Virginia",25149,761987
+365,"Christian County,Kentucky","Mineral County,West Virginia",33987,970743
+366,"Christian County,Kentucky","Mingo County,West Virginia",21845,608420
+367,"Christian County,Kentucky","Monongalia County,West Virginia",28527,879384
+368,"Christian County,Kentucky","Monroe County,West Virginia",27613,811386
+369,"Christian County,Kentucky","Morgan County,West Virginia",35362,1067928
+370,"Christian County,Kentucky","Nicholas County,West Virginia",25111,762150
+371,"Christian County,Kentucky","Ohio County,West Virginia",27001,813464
+372,"Christian County,Kentucky","Pendleton County,West Virginia",32624,944547
+373,"Christian County,Kentucky","Pleasants County,West Virginia",25916,781224
+374,"Christian County,Kentucky","Pocahontas County,West Virginia",30440,831689
+375,"Christian County,Kentucky","Preston County,West Virginia",30673,906114
+376,"Christian County,Kentucky","Putnam County,West Virginia",19371,593280
+377,"Christian County,Kentucky","Raleigh County,West Virginia",23859,719929
+378,"Christian County,Kentucky","Randolph County,West Virginia",28302,842673
+379,"Christian County,Kentucky","Ritchie County,West Virginia",26246,794928
+380,"Christian County,Kentucky","Roane County,West Virginia",24059,712188
+381,"Christian County,Kentucky","Summers County,West Virginia",27311,781367
+382,"Christian County,Kentucky","Taylor County,West Virginia",28209,849487
+383,"Christian County,Kentucky","Tucker County,West Virginia",29369,873197
+384,"Christian County,Kentucky","Tyler County,West Virginia",27825,820840
+385,"Christian County,Kentucky","Upshur County,West Virginia",27366,794915
+386,"Christian County,Kentucky","Wayne County,West Virginia",19219,561698
+387,"Christian County,Kentucky","Webster County,West Virginia",27295,789230
+388,"Christian County,Kentucky","Wetzel County,West Virginia",29037,842746
+389,"Christian County,Kentucky","Wirt County,West Virginia",24699,740710
+390,"Christian County,Kentucky","Wood County,West Virginia",24214,742400
+391,"Christian County,Kentucky","Wyoming County,West Virginia",25803,759871

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Union County,Kentucky","Adair County,Kentucky",11444,327472
+1,"Union County,Kentucky","Allen County,Kentucky",8674,238440
+2,"Union County,Kentucky","Anderson County,Kentucky",12031,338389
+3,"Union County,Kentucky","Ballard County,Kentucky",7590,172354
+4,"Union County,Kentucky","Barren County,Kentucky",9855,275167
+5,"Union County,Kentucky","Bath County,Kentucky",15562,441404
+6,"Union County,Kentucky","Bell County,Kentucky",19415,523633
+7,"Union County,Kentucky","Boone County,Kentucky",14691,397493
+8,"Union County,Kentucky","Bourbon County,Kentucky",14684,399061
+9,"Union County,Kentucky","Boyd County,Kentucky",18819,542861
+10,"Union County,Kentucky","Boyle County,Kentucky",12542,346309
+11,"Union County,Kentucky","Bracken County,Kentucky",17020,470238
+12,"Union County,Kentucky","Breathitt County,Kentucky",18162,505585
+13,"Union County,Kentucky","Breckinridge County,Kentucky",7075,175104
+14,"Union County,Kentucky","Bullitt County,Kentucky",9986,282464
+15,"Union County,Kentucky","Butler County,Kentucky",6378,168805
+16,"Union County,Kentucky","Caldwell County,Kentucky",3908,75285
+17,"Union County,Kentucky","Calloway County,Kentucky",6714,151262
+18,"Union County,Kentucky","Campbell County,Kentucky",15561,427195
+19,"Union County,Kentucky","Carlisle County,Kentucky",8249,190784
+20,"Union County,Kentucky","Carroll County,Kentucky",12175,331269
+21,"Union County,Kentucky","Carter County,Kentucky",17956,512117
+22,"Union County,Kentucky","Casey County,Kentucky",13778,356024
+23,"Union County,Kentucky","Christian County,Kentucky",5302,134551
+24,"Union County,Kentucky","Clay County,Kentucky",17578,482662
+25,"Union County,Kentucky","Clinton County,Kentucky",13395,356001
+26,"Union County,Kentucky","Crittenden County,Kentucky",2720,51375
+27,"Union County,Kentucky","Cumberland County,Kentucky",12554,332101
+28,"Union County,Kentucky","Daviess County,Kentucky",4016,94622
+29,"Union County,Kentucky","Edmonson County,Kentucky",8311,209360
+30,"Union County,Kentucky","Elliott County,Kentucky",18732,503380
+31,"Union County,Kentucky","Estill County,Kentucky",16096,442125
+32,"Union County,Kentucky","Fayette County,Kentucky",13525,372619
+33,"Union County,Kentucky","Fleming County,Kentucky",16990,471623
+34,"Union County,Kentucky","Floyd County,Kentucky",20349,565615
+35,"Union County,Kentucky","Franklin County,Kentucky",12941,343110
+36,"Union County,Kentucky","Fulton County,Kentucky",8653,211749
+37,"Union County,Kentucky","Gallatin County,Kentucky",12884,350595
+38,"Union County,Kentucky","Garrard County,Kentucky",14184,378504
+39,"Union County,Kentucky","Grant County,Kentucky",14250,376048
+40,"Union County,Kentucky","Graves County,Kentucky",7274,163491
+41,"Union County,Kentucky","Grayson County,Kentucky",7188,185966
+42,"Union County,Kentucky","Green County,Kentucky",11211,279873
+43,"Union County,Kentucky","Greenup County,Kentucky",19425,539448
+44,"Union County,Kentucky","Hancock County,Kentucky",5847,138928
+45,"Union County,Kentucky","Hardin County,Kentucky",8585,231484
+46,"Union County,Kentucky","Harlan County,Kentucky",21709,579239
+47,"Union County,Kentucky","Harrison County,Kentucky",15203,405204
+48,"Union County,Kentucky","Hart County,Kentucky",9606,244915
+49,"Union County,Kentucky","Henderson County,Kentucky",2408,49345
+50,"Union County,Kentucky","Henry County,Kentucky",11849,312017
+51,"Union County,Kentucky","Hickman County,Kentucky",8283,192076
+52,"Union County,Kentucky","Hopkins County,Kentucky",3400,69737
+53,"Union County,Kentucky","Jackson County,Kentucky",17309,477014
+54,"Union County,Kentucky","Jefferson County,Kentucky",10367,266184
+55,"Union County,Kentucky","Jessamine County,Kentucky",13479,378054
+56,"Union County,Kentucky","Johnson County,Kentucky",19302,541608
+57,"Union County,Kentucky","Kenton County,Kentucky",14577,393209
+58,"Union County,Kentucky","Knott County,Kentucky",20380,563367
+59,"Union County,Kentucky","Knox County,Kentucky",17647,476543
+60,"Union County,Kentucky","Larue County,Kentucky",9484,262716
+61,"Union County,Kentucky","Laurel County,Kentucky",16388,447413
+62,"Union County,Kentucky","Lawrence County,Kentucky",20823,569996
+63,"Union County,Kentucky","Lee County,Kentucky",17411,482042
+64,"Union County,Kentucky","Leslie County,Kentucky",19529,533785
+65,"Union County,Kentucky","Letcher County,Kentucky",21551,585372
+66,"Union County,Kentucky","Lewis County,Kentucky",18515,509763
+67,"Union County,Kentucky","Lincoln County,Kentucky",13927,376240
+68,"Union County,Kentucky","Livingston County,Kentucky",3874,77314
+69,"Union County,Kentucky","Logan County,Kentucky",7533,191272
+70,"Union County,Kentucky","Lyon County,Kentucky",6213,126627
+71,"Union County,Kentucky","McCracken County,Kentucky",6415,150099
+72,"Union County,Kentucky","McCreary County,Kentucky",15697,440319
+73,"Union County,Kentucky","Madison County,Kentucky",14947,415848
+74,"Union County,Kentucky","Magoffin County,Kentucky",18771,523476
+75,"Union County,Kentucky","Marion County,Kentucky",11606,321607
+76,"Union County,Kentucky","Marshall County,Kentucky",5819,127048
+77,"Union County,Kentucky","Martin County,Kentucky",22089,599954
+78,"Union County,Kentucky","Mason County,Kentucky",17813,470627
+79,"Union County,Kentucky","Meade County,Kentucky",8547,208793
+80,"Union County,Kentucky","Menifee County,Kentucky",16836,453942
+81,"Union County,Kentucky","Mercer County,Kentucky",12389,345184
+82,"Union County,Kentucky","Metcalfe County,Kentucky",10418,297818
+83,"Union County,Kentucky","Monroe County,Kentucky",11173,303846
+84,"Union County,Kentucky","Montgomery County,Kentucky",15479,431851
+85,"Union County,Kentucky","Morgan County,Kentucky",18161,511760
+86,"Union County,Kentucky","Muhlenberg County,Kentucky",5285,122049
+87,"Union County,Kentucky","Nelson County,Kentucky",9882,280670
+88,"Union County,Kentucky","Nicholas County,Kentucky",15940,426442
+89,"Union County,Kentucky","Ohio County,Kentucky",5591,141989
+90,"Union County,Kentucky","Oldham County,Kentucky",10575,279317
+91,"Union County,Kentucky","Owen County,Kentucky",14086,376131
+92,"Union County,Kentucky","Owsley County,Kentucky",18558,502019
+93,"Union County,Kentucky","Pendleton County,Kentucky",15516,411913
+94,"Union County,Kentucky","Perry County,Kentucky",19774,545468
+95,"Union County,Kentucky","Pike County,Kentucky",22028,595940
+96,"Union County,Kentucky","Powell County,Kentucky",15773,440710
+97,"Union County,Kentucky","Robertson County,Kentucky",16711,447569
+98,"Union County,Kentucky","Rockcastle County,Kentucky",15673,412926
+99,"Union County,Kentucky","Rowan County,Kentucky",16303,465256
+100,"Union County,Kentucky","Russell County,Kentucky",12551,355681
+101,"Union County,Kentucky","Scott County,Kentucky",13790,374679
+102,"Union County,Kentucky","Shelby County,Kentucky",11473,300713
+103,"Union County,Kentucky","Simpson County,Kentucky",8589,232299
+104,"Union County,Kentucky","Spencer County,Kentucky",11402,318418
+105,"Union County,Kentucky","Taylor County,Kentucky",11443,308729
+106,"Union County,Kentucky","Todd County,Kentucky",6407,163251
+107,"Union County,Kentucky","Trigg County,Kentucky",6167,129838
+108,"Union County,Kentucky","Trimble County,Kentucky",11974,319116
+109,"Union County,Kentucky","Warren County,Kentucky",7280,199476
+110,"Union County,Kentucky","Washington County,Kentucky",11714,321289
+111,"Union County,Kentucky","Wayne County,Kentucky",14796,386201
+112,"Union County,Kentucky","Webster County,Kentucky",2157,42462
+113,"Union County,Kentucky","Whitley County,Kentucky",17031,472397
+114,"Union County,Kentucky","Wolfe County,Kentucky",17036,478581
+115,"Union County,Kentucky","Woodford County,Kentucky",12728,349441
+116,"Union County,Kentucky","Adams County,Ohio",18455,503853
+117,"Union County,Kentucky","Allen County,Ohio",21997,619102
+118,"Union County,Kentucky","Ashland County,Ohio",25186,720980
+119,"Union County,Kentucky","Ashtabula County,Ohio",30932,905731
+120,"Union County,Kentucky","Athens County,Ohio",23649,650195
+121,"Union County,Kentucky","Auglaize County,Ohio",21368,557842
+122,"Union County,Kentucky","Belmont County,Ohio",26524,767412
+123,"Union County,Kentucky","Brown County,Ohio",17708,480407
+124,"Union County,Kentucky","Butler County,Ohio",17075,468976
+125,"Union County,Kentucky","Carroll County,Ohio",28488,804635
+126,"Union County,Kentucky","Champaign County,Ohio",20031,560549
+127,"Union County,Kentucky","Clark County,Ohio",19459,547181
+128,"Union County,Kentucky","Clermont County,Ohio",15825,440154
+129,"Union County,Kentucky","Clinton County,Ohio",17920,491461
+130,"Union County,Kentucky","Columbiana County,Ohio",30044,840224
+131,"Union County,Kentucky","Coshocton County,Ohio",25047,700052
+132,"Union County,Kentucky","Crawford County,Ohio",24723,712952
+133,"Union County,Kentucky","Cuyahoga County,Ohio",27504,803445
+134,"Union County,Kentucky","Darke County,Ohio",18161,483062
+135,"Union County,Kentucky","Defiance County,Ohio",22180,601463
+136,"Union County,Kentucky","Delaware County,Ohio",22103,627652
+137,"Union County,Kentucky","Fairfield County,Ohio",21506,610901
+138,"Union County,Kentucky","Fayette County,Ohio",18818,529066
+139,"Union County,Kentucky","Franklin County,Ohio",20620,587579
+140,"Union County,Kentucky","Fulton County,Ohio",23614,644041
+141,"Union County,Kentucky","Gallia County,Ohio",22546,622372
+142,"Union County,Kentucky","Geauga County,Ohio",29032,842663
+143,"Union County,Kentucky","Greene County,Ohio",18247,500815
+144,"Union County,Kentucky","Guernsey County,Ohio",24253,701093
+145,"Union County,Kentucky","Hamilton County,Ohio",15729,433460
+146,"Union County,Kentucky","Hancock County,Ohio",23106,659997
+147,"Union County,Kentucky","Hardin County,Ohio",22893,644395
+148,"Union County,Kentucky","Harrison County,Ohio",27493,786701
+149,"Union County,Kentucky","Henry County,Ohio",23000,638345
+150,"Union County,Kentucky","Highland County,Ohio",18768,503107
+151,"Union County,Kentucky","Hocking County,Ohio",22944,654305
+152,"Union County,Kentucky","Holmes County,Ohio",26597,736910
+153,"Union County,Kentucky","Huron County,Ohio",26332,719750
+154,"Union County,Kentucky","Jackson County,Ohio",21046,584565
+155,"Union County,Kentucky","Jefferson County,Ohio",28487,796479
+156,"Union County,Kentucky","Knox County,Ohio",24553,687273
+157,"Union County,Kentucky","Lawrence County,Ohio",21226,579289
+158,"Union County,Kentucky","Licking County,Ohio",22885,642497
+159,"Union County,Kentucky","Logan County,Ohio",21265,593085
+160,"Union County,Kentucky","Lorain County,Ohio",28118,778404
+161,"Union County,Kentucky","Lucas County,Ohio",25945,706017
+162,"Union County,Kentucky","Madison County,Ohio",20040,564248
+163,"Union County,Kentucky","Mahoning County,Ohio",29901,857363
+164,"Union County,Kentucky","Marion County,Ohio",23150,635087
+165,"Union County,Kentucky","Medina County,Ohio",25831,745993
+166,"Union County,Kentucky","Meigs County,Ohio",24037,673616
+167,"Union County,Kentucky","Mercer County,Ohio",20222,519581
+168,"Union County,Kentucky","Miami County,Ohio",18839,528806
+169,"Union County,Kentucky","Monroe County,Ohio",27929,781976
+170,"Union County,Kentucky","Montgomery County,Ohio",18222,506546
+171,"Union County,Kentucky","Morgan County,Ohio",25318,709589
+172,"Union County,Kentucky","Morrow County,Ohio",22910,650473
+173,"Union County,Kentucky","Muskingum County,Ohio",23103,667249
+174,"Union County,Kentucky","Noble County,Ohio",25952,738212
+175,"Union County,Kentucky","Paulding County,Ohio",21113,566382
+176,"Union County,Kentucky","Perry County,Ohio",23172,655832
+177,"Union County,Kentucky","Pickaway County,Ohio",20755,577662
+178,"Union County,Kentucky","Pike County,Ohio",19823,549550
+179,"Union County,Kentucky","Portage County,Ohio",28353,817142
+180,"Union County,Kentucky","Preble County,Ohio",17085,461289
+181,"Union County,Kentucky","Putnam County,Ohio",22983,613987
+182,"Union County,Kentucky","Richland County,Ohio",23940,685711
+183,"Union County,Kentucky","Ross County,Ohio",20399,576979
+184,"Union County,Kentucky","Sandusky County,Ohio",26146,740073
+185,"Union County,Kentucky","Scioto County,Ohio",20622,570180
+186,"Union County,Kentucky","Seneca County,Ohio",25450,716337
+187,"Union County,Kentucky","Shelby County,Ohio",19878,565091
+188,"Union County,Kentucky","Stark County,Ohio",28098,801526
+189,"Union County,Kentucky","Summit County,Ohio",27034,781320
+190,"Union County,Kentucky","Trumbull County,Ohio",29934,867635
+191,"Union County,Kentucky","Tuscarawas County,Ohio",26547,760458
+192,"Union County,Kentucky","Union County,Ohio",21392,590469
+193,"Union County,Kentucky","Van Wert County,Ohio",21251,583503
+194,"Union County,Kentucky","Vinton County,Ohio",22581,625732
+195,"Union County,Kentucky","Warren County,Ohio",16608,459717
+196,"Union County,Kentucky","Washington County,Ohio",26682,730292
+197,"Union County,Kentucky","Wayne County,Ohio",25559,734990
+198,"Union County,Kentucky","Williams County,Ohio",23170,621343
+199,"Union County,Kentucky","Wood County,Ohio",24173,667270
+200,"Union County,Kentucky","Wyandot County,Ohio",23802,680877
+201,"Union County,Kentucky","Accomack County,Virginia",48905,1416729
+202,"Union County,Kentucky","Albemarle County,Virginia",35054,1029229
+203,"Union County,Kentucky","Alleghany County,Virginia",29723,866252
+204,"Union County,Kentucky","Amelia County,Virginia",39685,1143803
+205,"Union County,Kentucky","Amherst County,Virginia",35052,997217
+206,"Union County,Kentucky","Appomattox County,Virginia",36645,1035976
+207,"Union County,Kentucky","Arlington County,Virginia",41338,1225261
+208,"Union County,Kentucky","Augusta County,Virginia",33665,967568
+209,"Union County,Kentucky","Bath County,Virginia",32735,941561
+210,"Union County,Kentucky","Bedford County,Virginia",34495,994782
+211,"Union County,Kentucky","Bland County,Virginia",28511,844384
+212,"Union County,Kentucky","Botetourt County,Virginia",32878,937551
+213,"Union County,Kentucky","Brunswick County,Virginia",41243,1208525
+214,"Union County,Kentucky","Buchanan County,Virginia",26080,675446
+215,"Union County,Kentucky","Buckingham County,Virginia",36928,1046912
+216,"Union County,Kentucky","Campbell County,Virginia",35911,1036017
+217,"Union County,Kentucky","Caroline County,Virginia",40394,1198074
+218,"Union County,Kentucky","Carroll County,Virginia",29455,875729
+219,"Union County,Kentucky","Charles City County,Virginia",40494,1195109
+220,"Union County,Kentucky","Charlotte County,Virginia",38460,1103954
+221,"Union County,Kentucky","Chesterfield County,Virginia",39630,1172893
+222,"Union County,Kentucky","Clarke County,Virginia",39234,1156286
+223,"Union County,Kentucky","Craig County,Virginia",31367,887337
+224,"Union County,Kentucky","Culpeper County,Virginia",38852,1118445
+225,"Union County,Kentucky","Cumberland County,Virginia",38138,1074914
+226,"Union County,Kentucky","Dickenson County,Virginia",25111,652318
+227,"Union County,Kentucky","Dinwiddie County,Virginia",41458,1186864
+228,"Union County,Kentucky","Essex County,Virginia",42211,1222117
+229,"Union County,Kentucky","Fairfax County,Virginia",41028,1215928
+230,"Union County,Kentucky","Fauquier County,Virginia",39672,1177538
+231,"Union County,Kentucky","Floyd County,Virginia",31347,915829
+232,"Union County,Kentucky","Fluvanna County,Virginia",36732,1081400
+233,"Union County,Kentucky","Franklin County,Virginia",34008,996016
+234,"Union County,Kentucky","Frederick County,Virginia",37900,1070421
+235,"Union County,Kentucky","Giles County,Virginia",29416,844029
+236,"Union County,Kentucky","Gloucester County,Virginia",42665,1249297
+237,"Union County,Kentucky","Goochland County,Virginia",37636,1112011
+238,"Union County,Kentucky","Grayson County,Virginia",29188,838896
+239,"Union County,Kentucky","Greene County,Virginia",37047,1064813
+240,"Union County,Kentucky","Greensville County,Virginia",42439,1225944
+241,"Union County,Kentucky","Halifax County,Virginia",37759,1073416
+242,"Union County,Kentucky","Hanover County,Virginia",38842,1153118
+243,"Union County,Kentucky","Henrico County,Virginia",39353,1166078
+244,"Union County,Kentucky","Henry County,Virginia",33329,962450
+245,"Union County,Kentucky","Highland County,Virginia",34180,951532
+246,"Union County,Kentucky","Isle of Wight County,Virginia",43606,1270655
+247,"Union County,Kentucky","James City County,Virginia",41730,1235880
+248,"Union County,Kentucky","King and Queen County,Virginia",41388,1211464
+249,"Union County,Kentucky","King George County,Virginia",41507,1226060
+250,"Union County,Kentucky","King William County,Virginia",40076,1181386
+251,"Union County,Kentucky","Lancaster County,Virginia",43868,1264471
+252,"Union County,Kentucky","Lee County,Virginia",22506,600192
+253,"Union County,Kentucky","Loudoun County,Virginia",40730,1192153
+254,"Union County,Kentucky","Louisa County,Virginia",37293,1095106
+255,"Union County,Kentucky","Lunenburg County,Virginia",40232,1145238
+256,"Union County,Kentucky","Madison County,Virginia",37967,1094553
+257,"Union County,Kentucky","Mathews County,Virginia",43490,1272721
+258,"Union County,Kentucky","Mecklenburg County,Virginia",39791,1124961
+259,"Union County,Kentucky","Middlesex County,Virginia",42266,1245497
+260,"Union County,Kentucky","Montgomery County,Virginia",30499,872036
+261,"Union County,Kentucky","Nelson County,Virginia",35593,1008909
+262,"Union County,Kentucky","New Kent County,Virginia",41166,1209794
+263,"Union County,Kentucky","Northampton County,Virginia",46147,1352543
+264,"Union County,Kentucky","Northumberland County,Virginia",43908,1262984
+265,"Union County,Kentucky","Nottoway County,Virginia",39725,1145617
+266,"Union County,Kentucky","Orange County,Virginia",38256,1103214
+267,"Union County,Kentucky","Page County,Virginia",36901,1078339
+268,"Union County,Kentucky","Patrick County,Virginia",31561,920765
+269,"Union County,Kentucky","Pittsylvania County,Virginia",35645,1016658
+270,"Union County,Kentucky","Powhatan County,Virginia",38889,1137233
+271,"Union County,Kentucky","Prince Edward County,Virginia",38340,1102953
+272,"Union County,Kentucky","Prince George County,Virginia",41141,1209908
+273,"Union County,Kentucky","Prince William County,Virginia",39772,1183642
+274,"Union County,Kentucky","Pulaski County,Virginia",29198,867149
+275,"Union County,Kentucky","Rappahannock County,Virginia",38732,1114826
+276,"Union County,Kentucky","Richmond County,Virginia",42608,1235627
+277,"Union County,Kentucky","Roanoke County,Virginia",31302,926270
+278,"Union County,Kentucky","Rockbridge County,Virginia",32056,934608
+279,"Union County,Kentucky","Rockingham County,Virginia",35940,1050689
+280,"Union County,Kentucky","Russell County,Virginia",27611,693995
+281,"Union County,Kentucky","Scott County,Virginia",24707,714393
+282,"Union County,Kentucky","Shenandoah County,Virginia",36444,1080792
+283,"Union County,Kentucky","Smyth County,Virginia",26467,778599
+284,"Union County,Kentucky","Southampton County,Virginia",43171,1268190
+285,"Union County,Kentucky","Spotsylvania County,Virginia",39309,1136945
+286,"Union County,Kentucky","Stafford County,Virginia",40690,1161238
+287,"Union County,Kentucky","Surry County,Virginia",42474,1234741
+288,"Union County,Kentucky","Sussex County,Virginia",41835,1238433
+289,"Union County,Kentucky","Tazewell County,Virginia",28325,732220
+290,"Union County,Kentucky","Warren County,Virginia",38347,1125385
+291,"Union County,Kentucky","Washington County,Virginia",25578,742684
+292,"Union County,Kentucky","Westmoreland County,Virginia",42481,1242885
+293,"Union County,Kentucky","Wise County,Virginia",23375,628217
+294,"Union County,Kentucky","Wythe County,Virginia",27682,821059
+295,"Union County,Kentucky","York County,Virginia",43018,1266654
+296,"Union County,Kentucky","Alexandria City County,Virginia",41853,1242442
+297,"Union County,Kentucky","Bedford City County,Virginia",33660,986214
+298,"Union County,Kentucky","Bristol City County,Virginia",24177,710666
+299,"Union County,Kentucky","Buena Vista City County,Virginia",32411,948585
+300,"Union County,Kentucky","Charlottesville City County,Virginia",35524,1044443
+301,"Union County,Kentucky","Chesapeake City County,Virginia",44481,1319560
+302,"Union County,Kentucky","Clifton Forge City County,Virginia",30267,886458
+303,"Union County,Kentucky","Colonial Heights City County,Virginia",40190,1188785
+304,"Union County,Kentucky","Covington City County,Virginia",29792,869837
+305,"Union County,Kentucky","Danville City County,Virginia",35486,1016906
+306,"Union County,Kentucky","Emporia City County,Virginia",42596,1240133
+307,"Union County,Kentucky","Fairfax City County,Virginia",40905,1209389
+308,"Union County,Kentucky","Falls Church City County,Virginia",41046,1219573
+309,"Union County,Kentucky","Franklin City County,Virginia",43719,1276045
+310,"Union County,Kentucky","Fredericksburg City County,Virginia",40442,1146604
+311,"Union County,Kentucky","Galax City County,Virginia",30079,881595
+312,"Union County,Kentucky","Hampton City County,Virginia",42968,1276360
+313,"Union County,Kentucky","Harrisonburg City County,Virginia",34999,1030585
+314,"Union County,Kentucky","Hopewell City County,Virginia",40227,1187751
+315,"Union County,Kentucky","Lexington City County,Virginia",32045,937077
+316,"Union County,Kentucky","Lynchburg City County,Virginia",35628,1012191
+317,"Union County,Kentucky","Manassas City County,Virginia",40000,1188586
+318,"Union County,Kentucky","Manassas Park City County,Virginia",40502,1194929
+319,"Union County,Kentucky","Martinsville City County,Virginia",33856,971243
+320,"Union County,Kentucky","Newport News City County,Virginia",42525,1262846
+321,"Union County,Kentucky","Norfolk City County,Virginia",44274,1301776
+322,"Union County,Kentucky","Norton City County,Virginia",24004,640029
+323,"Union County,Kentucky","Petersburg City County,Virginia",40062,1189773
+324,"Union County,Kentucky","Poquoson City County,Virginia",43196,1273423
+325,"Union County,Kentucky","Portsmouth City County,Virginia",44213,1310597
+326,"Union County,Kentucky","Radford County,Virginia",29709,881097
+327,"Union County,Kentucky","Richmond City County,Virginia",38930,1153888
+328,"Union County,Kentucky","Roanoke City County,Virginia",31904,946375
+329,"Union County,Kentucky","Salem City County,Virginia",31316,932924
+330,"Union County,Kentucky","South Boston City County,Virginia",37498,1071084
+331,"Union County,Kentucky","Staunton City County,Virginia",33816,991720
+332,"Union County,Kentucky","Suffolk City County,Virginia",44449,1285379
+333,"Union County,Kentucky","Virginia Beach City County,Virginia",44835,1325035
+334,"Union County,Kentucky","Waynesboro City County,Virginia",34154,1004438
+335,"Union County,Kentucky","Williamsburg City County,Virginia",41569,1235095
+336,"Union County,Kentucky","Winchester City County,Virginia",38378,1104422
+337,"Union County,Kentucky","Barbour County,West Virginia",29859,865118
+338,"Union County,Kentucky","Berkeley County,West Virginia",37792,1103278
+339,"Union County,Kentucky","Boone County,West Virginia",25038,698735
+340,"Union County,Kentucky","Braxton County,West Virginia",26549,756098
+341,"Union County,Kentucky","Brooke County,West Virginia",28602,809660
+342,"Union County,Kentucky","Cabell County,West Virginia",19610,565244
+343,"Union County,Kentucky","Calhoun County,West Virginia",26470,753782
+344,"Union County,Kentucky","Clay County,West Virginia",25316,727010
+345,"Union County,Kentucky","Doddridge County,West Virginia",29020,796878
+346,"Union County,Kentucky","Fayette County,West Virginia",26603,745355
+347,"Union County,Kentucky","Gilmer County,West Virginia",27748,778284
+348,"Union County,Kentucky","Grant County,West Virginia",34215,966664
+349,"Union County,Kentucky","Greenbrier County,West Virginia",29678,823393
+350,"Union County,Kentucky","Hampshire County,West Virginia",37047,1064881
+351,"Union County,Kentucky","Hancock County,West Virginia",30192,844195
+352,"Union County,Kentucky","Hardy County,West Virginia",35270,998161
+353,"Union County,Kentucky","Harrison County,West Virginia",29093,851489
+354,"Union County,Kentucky","Jackson County,West Virginia",24354,708114
+355,"Union County,Kentucky","Jefferson County,West Virginia",39258,1159276
+356,"Union County,Kentucky","Kanawha County,West Virginia",23912,679418
+357,"Union County,Kentucky","Lewis County,West Virginia",27722,804959
+358,"Union County,Kentucky","Lincoln County,West Virginia",22827,622894
+359,"Union County,Kentucky","Logan County,West Virginia",25083,666709
+360,"Union County,Kentucky","McDowell County,West Virginia",28935,718897
+361,"Union County,Kentucky","Marion County,West Virginia",30238,878656
+362,"Union County,Kentucky","Marshall County,West Virginia",28560,804167
+363,"Union County,Kentucky","Mason County,West Virginia",22591,655988
+364,"Union County,Kentucky","Mercer County,West Virginia",27239,790978
+365,"Union County,Kentucky","Mineral County,West Virginia",35909,995484
+366,"Union County,Kentucky","Mingo County,West Virginia",23767,633162
+367,"Union County,Kentucky","Monongalia County,West Virginia",30449,904125
+368,"Union County,Kentucky","Monroe County,West Virginia",30284,835689
+369,"Union County,Kentucky","Morgan County,West Virginia",37284,1092669
+370,"Union County,Kentucky","Nicholas County,West Virginia",27032,786891
+371,"Union County,Kentucky","Ohio County,West Virginia",27621,790897
+372,"Union County,Kentucky","Pendleton County,West Virginia",34546,969288
+373,"Union County,Kentucky","Pleasants County,West Virginia",27837,805966
+374,"Union County,Kentucky","Pocahontas County,West Virginia",32362,856430
+375,"Union County,Kentucky","Preston County,West Virginia",32594,930856
+376,"Union County,Kentucky","Putnam County,West Virginia",21293,618021
+377,"Union County,Kentucky","Raleigh County,West Virginia",25780,744670
+378,"Union County,Kentucky","Randolph County,West Virginia",30224,867414
+379,"Union County,Kentucky","Ritchie County,West Virginia",28185,769920
+380,"Union County,Kentucky","Roane County,West Virginia",25980,736929
+381,"Union County,Kentucky","Summers County,West Virginia",29232,806108
+382,"Union County,Kentucky","Taylor County,West Virginia",30131,874229
+383,"Union County,Kentucky","Tucker County,West Virginia",31291,897939
+384,"Union County,Kentucky","Tyler County,West Virginia",29746,845581
+385,"Union County,Kentucky","Upshur County,West Virginia",29287,819656
+386,"Union County,Kentucky","Wayne County,West Virginia",21140,586439
+387,"Union County,Kentucky","Webster County,West Virginia",29217,813971
+388,"Union County,Kentucky","Wetzel County,West Virginia",30958,867488
+389,"Union County,Kentucky","Wirt County,West Virginia",26621,765452
+390,"Union County,Kentucky","Wood County,West Virginia",26135,767141
+391,"Union County,Kentucky","Wyoming County,West Virginia",27725,784612

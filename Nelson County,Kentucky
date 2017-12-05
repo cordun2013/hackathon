@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Nelson County,Kentucky","Adair County,Kentucky",4831,97564
+1,"Nelson County,Kentucky","Allen County,Kentucky",5816,163201
+2,"Nelson County,Kentucky","Anderson County,Kentucky",2543,63926
+3,"Nelson County,Kentucky","Ballard County,Kentucky",11976,355363
+4,"Nelson County,Kentucky","Barren County,Kentucky",4943,131613
+5,"Nelson County,Kentucky","Bath County,Kentucky",6235,181195
+6,"Nelson County,Kentucky","Bell County,Kentucky",10545,247007
+7,"Nelson County,Kentucky","Boone County,Kentucky",7947,220766
+8,"Nelson County,Kentucky","Bourbon County,Kentucky",5299,135705
+9,"Nelson County,Kentucky","Boyd County,Kentucky",9492,282652
+10,"Nelson County,Kentucky","Boyle County,Kentucky",3055,71846
+11,"Nelson County,Kentucky","Bracken County,Kentucky",8508,198544
+12,"Nelson County,Kentucky","Breathitt County,Kentucky",8835,245376
+13,"Nelson County,Kentucky","Breckinridge County,Kentucky",4781,110687
+14,"Nelson County,Kentucky","Bullitt County,Kentucky",1992,40240
+15,"Nelson County,Kentucky","Butler County,Kentucky",5196,140271
+16,"Nelson County,Kentucky","Caldwell County,Kentucky",8088,246216
+17,"Nelson County,Kentucky","Calloway County,Kentucky",10898,331209
+18,"Nelson County,Kentucky","Campbell County,Kentucky",8452,209131
+19,"Nelson County,Kentucky","Carlisle County,Kentucky",12433,370731
+20,"Nelson County,Kentucky","Carroll County,Kentucky",5640,140091
+21,"Nelson County,Kentucky","Carter County,Kentucky",8629,251909
+22,"Nelson County,Kentucky","Casey County,Kentucky",5122,94395
+23,"Nelson County,Kentucky","Christian County,Kentucky",7737,241473
+24,"Nelson County,Kentucky","Clay County,Kentucky",8776,206052
+25,"Nelson County,Kentucky","Clinton County,Kentucky",7523,163732
+26,"Nelson County,Kentucky","Crittenden County,Kentucky",9667,279287
+27,"Nelson County,Kentucky","Cumberland County,Kentucky",6682,139832
+28,"Nelson County,Kentucky","Daviess County,Kentucky",6219,186713
+29,"Nelson County,Kentucky","Edmonson County,Kentucky",4636,128146
+30,"Nelson County,Kentucky","Elliott County,Kentucky",9405,243171
+31,"Nelson County,Kentucky","Estill County,Kentucky",6718,174060
+32,"Nelson County,Kentucky","Fayette County,Kentucky",3861,105930
+33,"Nelson County,Kentucky","Fleming County,Kentucky",7663,211414
+34,"Nelson County,Kentucky","Floyd County,Kentucky",11021,305406
+35,"Nelson County,Kentucky","Franklin County,Kentucky",4202,102618
+36,"Nelson County,Kentucky","Fulton County,Kentucky",12837,391696
+37,"Nelson County,Kentucky","Gallatin County,Kentucky",6349,159417
+38,"Nelson County,Kentucky","Garrard County,Kentucky",4697,104041
+39,"Nelson County,Kentucky","Grant County,Kentucky",6580,181639
+40,"Nelson County,Kentucky","Graves County,Kentucky",11458,343438
+41,"Nelson County,Kentucky","Grayson County,Kentucky",3523,96907
+42,"Nelson County,Kentucky","Green County,Kentucky",3608,76448
+43,"Nelson County,Kentucky","Greenup County,Kentucky",10097,279239
+44,"Nelson County,Kentucky","Hancock County,Kentucky",6002,145324
+45,"Nelson County,Kentucky","Hardin County,Kentucky",2399,59039
+46,"Nelson County,Kentucky","Harlan County,Kentucky",12839,302613
+47,"Nelson County,Kentucky","Harrison County,Kentucky",6071,152651
+48,"Nelson County,Kentucky","Hart County,Kentucky",3199,86668
+49,"Nelson County,Kentucky","Henderson County,Kentucky",8126,243133
+50,"Nelson County,Kentucky","Henry County,Kentucky",4883,100734
+51,"Nelson County,Kentucky","Hickman County,Kentucky",12466,372023
+52,"Nelson County,Kentucky","Hopkins County,Kentucky",7546,220684
+53,"Nelson County,Kentucky","Jackson County,Kentucky",8314,167176
+54,"Nelson County,Kentucky","Jefferson County,Kentucky",3192,56476
+55,"Nelson County,Kentucky","Jessamine County,Kentucky",3992,103591
+56,"Nelson County,Kentucky","Johnson County,Kentucky",9975,281400
+57,"Nelson County,Kentucky","Kenton County,Kentucky",7833,216482
+58,"Nelson County,Kentucky","Knott County,Kentucky",11295,308754
+59,"Nelson County,Kentucky","Knox County,Kentucky",8706,208748
+60,"Nelson County,Kentucky","Larue County,Kentucky",2234,41953
+61,"Nelson County,Kentucky","Laurel County,Kentucky",7557,180143
+62,"Nelson County,Kentucky","Lawrence County,Kentucky",11495,309787
+63,"Nelson County,Kentucky","Lee County,Kentucky",8084,221833
+64,"Nelson County,Kentucky","Leslie County,Kentucky",10726,257175
+65,"Nelson County,Kentucky","Letcher County,Kentucky",12548,333727
+66,"Nelson County,Kentucky","Lewis County,Kentucky",9187,249554
+67,"Nelson County,Kentucky","Lincoln County,Kentucky",4440,101777
+68,"Nelson County,Kentucky","Livingston County,Kentucky",10263,296183
+69,"Nelson County,Kentucky","Logan County,Kentucky",6936,183509
+70,"Nelson County,Kentucky","Lyon County,Kentucky",10397,306574
+71,"Nelson County,Kentucky","McCracken County,Kentucky",10588,323423
+72,"Nelson County,Kentucky","McCreary County,Kentucky",8576,199616
+73,"Nelson County,Kentucky","Madison County,Kentucky",5570,147783
+74,"Nelson County,Kentucky","Magoffin County,Kentucky",9444,263267
+75,"Nelson County,Kentucky","Marion County,Kentucky",2118,47144
+76,"Nelson County,Kentucky","Marshall County,Kentucky",10003,306995
+77,"Nelson County,Kentucky","Martin County,Kentucky",12761,339745
+78,"Nelson County,Kentucky","Mason County,Kentucky",8428,207272
+79,"Nelson County,Kentucky","Meade County,Kentucky",3908,87990
+80,"Nelson County,Kentucky","Menifee County,Kentucky",7509,193733
+81,"Nelson County,Kentucky","Mercer County,Kentucky",2902,70721
+82,"Nelson County,Kentucky","Metcalfe County,Kentucky",5310,114189
+83,"Nelson County,Kentucky","Monroe County,Kentucky",6290,175289
+84,"Nelson County,Kentucky","Montgomery County,Kentucky",6152,171642
+85,"Nelson County,Kentucky","Morgan County,Kentucky",8834,251551
+86,"Nelson County,Kentucky","Muhlenberg County,Kentucky",6407,187160
+87,"Nelson County,Kentucky","Nicholas County,Kentucky",6556,163087
+88,"Nelson County,Kentucky","Ohio County,Kentucky",5320,154750
+89,"Nelson County,Kentucky","Oldham County,Kentucky",4040,88139
+90,"Nelson County,Kentucky","Owen County,Kentucky",5545,134792
+91,"Nelson County,Kentucky","Owsley County,Kentucky",9231,241810
+92,"Nelson County,Kentucky","Pendleton County,Kentucky",7630,189779
+93,"Nelson County,Kentucky","Perry County,Kentucky",10446,285259
+94,"Nelson County,Kentucky","Pike County,Kentucky",12701,335731
+95,"Nelson County,Kentucky","Powell County,Kentucky",6445,180501
+96,"Nelson County,Kentucky","Robertson County,Kentucky",7326,184213
+97,"Nelson County,Kentucky","Rockcastle County,Kentucky",6185,138464
+98,"Nelson County,Kentucky","Rowan County,Kentucky",6976,205047
+99,"Nelson County,Kentucky","Russell County,Kentucky",6035,126777
+100,"Nelson County,Kentucky","Scott County,Kentucky",4880,134578
+101,"Nelson County,Kentucky","Shelby County,Kentucky",3224,70234
+102,"Nelson County,Kentucky","Simpson County,Kentucky",6518,191566
+103,"Nelson County,Kentucky","Spencer County,Kentucky",1915,43955
+104,"Nelson County,Kentucky","Taylor County,Kentucky",3250,68964
+105,"Nelson County,Kentucky","Todd County,Kentucky",8172,207670
+106,"Nelson County,Kentucky","Trigg County,Kentucky",9150,267402
+107,"Nelson County,Kentucky","Trimble County,Kentucky",5439,127938
+108,"Nelson County,Kentucky","Union County,Kentucky",9870,280235
+109,"Nelson County,Kentucky","Warren County,Kentucky",5552,156515
+110,"Nelson County,Kentucky","Washington County,Kentucky",2226,46826
+111,"Nelson County,Kentucky","Wayne County,Kentucky",8924,193932
+112,"Nelson County,Kentucky","Webster County,Kentucky",8655,248773
+113,"Nelson County,Kentucky","Whitley County,Kentucky",8390,214628
+114,"Nelson County,Kentucky","Wolfe County,Kentucky",7709,218372
+115,"Nelson County,Kentucky","Woodford County,Kentucky",3117,86189
+116,"Nelson County,Kentucky","Adams County,Ohio",10858,254004
+117,"Nelson County,Kentucky","Allen County,Ohio",15253,442375
+118,"Nelson County,Kentucky","Ashland County,Ohio",18442,544254
+119,"Nelson County,Kentucky","Ashtabula County,Ohio",24188,729005
+120,"Nelson County,Kentucky","Athens County,Ohio",15820,440671
+121,"Nelson County,Kentucky","Auglaize County,Ohio",14509,429640
+122,"Nelson County,Kentucky","Belmont County,Ohio",19780,590685
+123,"Nelson County,Kentucky","Brown County,Ohio",9844,242250
+124,"Nelson County,Kentucky","Butler County,Ohio",10331,292249
+125,"Nelson County,Kentucky","Carroll County,Ohio",21744,627909
+126,"Nelson County,Kentucky","Champaign County,Ohio",13287,383822
+127,"Nelson County,Kentucky","Clark County,Ohio",12715,370455
+128,"Nelson County,Kentucky","Clermont County,Ohio",9081,263428
+129,"Nelson County,Kentucky","Clinton County,Ohio",11176,314735
+130,"Nelson County,Kentucky","Columbiana County,Ohio",23301,663498
+131,"Nelson County,Kentucky","Coshocton County,Ohio",18303,523326
+132,"Nelson County,Kentucky","Crawford County,Ohio",17979,536226
+133,"Nelson County,Kentucky","Cuyahoga County,Ohio",20760,626718
+134,"Nelson County,Kentucky","Darke County,Ohio",13607,386687
+135,"Nelson County,Kentucky","Defiance County,Ohio",18223,518971
+136,"Nelson County,Kentucky","Delaware County,Ohio",15359,450925
+137,"Nelson County,Kentucky","Fairfield County,Ohio",14762,434175
+138,"Nelson County,Kentucky","Fayette County,Ohio",12074,352339
+139,"Nelson County,Kentucky","Franklin County,Ohio",13876,410853
+140,"Nelson County,Kentucky","Fulton County,Ohio",19504,537749
+141,"Nelson County,Kentucky","Gallia County,Ohio",13777,383023
+142,"Nelson County,Kentucky","Geauga County,Ohio",22288,665937
+143,"Nelson County,Kentucky","Greene County,Ohio",11503,324088
+144,"Nelson County,Kentucky","Guernsey County,Ohio",17509,524366
+145,"Nelson County,Kentucky","Hamilton County,Ohio",8985,256734
+146,"Nelson County,Kentucky","Hancock County,Ohio",16362,483271
+147,"Nelson County,Kentucky","Hardin County,Ohio",16149,467668
+148,"Nelson County,Kentucky","Harrison County,Ohio",20750,609975
+149,"Nelson County,Kentucky","Henry County,Ohio",18086,507739
+150,"Nelson County,Kentucky","Highland County,Ohio",11991,287453
+151,"Nelson County,Kentucky","Hocking County,Ohio",16200,477579
+152,"Nelson County,Kentucky","Holmes County,Ohio",19853,560184
+153,"Nelson County,Kentucky","Huron County,Ohio",19588,543024
+154,"Nelson County,Kentucky","Jackson County,Ohio",13328,366219
+155,"Nelson County,Kentucky","Jefferson County,Ohio",21743,619752
+156,"Nelson County,Kentucky","Knox County,Ohio",17809,510547
+157,"Nelson County,Kentucky","Lawrence County,Ohio",11899,319080
+158,"Nelson County,Kentucky","Licking County,Ohio",16141,465771
+159,"Nelson County,Kentucky","Logan County,Ohio",14522,416359
+160,"Nelson County,Kentucky","Lorain County,Ohio",21374,601678
+161,"Nelson County,Kentucky","Lucas County,Ohio",19687,569791
+162,"Nelson County,Kentucky","Madison County,Ohio",13296,387522
+163,"Nelson County,Kentucky","Mahoning County,Ohio",23157,680637
+164,"Nelson County,Kentucky","Marion County,Ohio",16406,458361
+165,"Nelson County,Kentucky","Medina County,Ohio",19087,569266
+166,"Nelson County,Kentucky","Meigs County,Ohio",14710,413407
+167,"Nelson County,Kentucky","Mercer County,Ohio",15745,456574
+168,"Nelson County,Kentucky","Miami County,Ohio",12095,352079
+169,"Nelson County,Kentucky","Monroe County,Ohio",20621,592356
+170,"Nelson County,Kentucky","Montgomery County,Ohio",11478,329819
+171,"Nelson County,Kentucky","Morgan County,Ohio",18574,532862
+172,"Nelson County,Kentucky","Morrow County,Ohio",16166,473746
+173,"Nelson County,Kentucky","Muskingum County,Ohio",16359,490522
+174,"Nelson County,Kentucky","Noble County,Ohio",19127,575516
+175,"Nelson County,Kentucky","Paulding County,Ohio",17156,483889
+176,"Nelson County,Kentucky","Perry County,Ohio",16428,479106
+177,"Nelson County,Kentucky","Pickaway County,Ohio",14011,400935
+178,"Nelson County,Kentucky","Pike County,Ohio",12564,302064
+179,"Nelson County,Kentucky","Portage County,Ohio",21609,640416
+180,"Nelson County,Kentucky","Preble County,Ohio",12375,336649
+181,"Nelson County,Kentucky","Putnam County,Ohio",16428,474843
+182,"Nelson County,Kentucky","Richland County,Ohio",17196,508985
+183,"Nelson County,Kentucky","Ross County,Ohio",13655,400253
+184,"Nelson County,Kentucky","Sandusky County,Ohio",19402,563347
+185,"Nelson County,Kentucky","Scioto County,Ohio",12179,317771
+186,"Nelson County,Kentucky","Seneca County,Ohio",18706,539611
+187,"Nelson County,Kentucky","Shelby County,Ohio",13134,388365
+188,"Nelson County,Kentucky","Stark County,Ohio",21354,624799
+189,"Nelson County,Kentucky","Summit County,Ohio",20290,604594
+190,"Nelson County,Kentucky","Trumbull County,Ohio",23190,690908
+191,"Nelson County,Kentucky","Tuscarawas County,Ohio",19804,583731
+192,"Nelson County,Kentucky","Union County,Ohio",14648,413743
+193,"Nelson County,Kentucky","Van Wert County,Ohio",16418,474899
+194,"Nelson County,Kentucky","Vinton County,Ohio",15900,410320
+195,"Nelson County,Kentucky","Warren County,Ohio",9864,282991
+196,"Nelson County,Kentucky","Washington County,Ohio",17746,485356
+197,"Nelson County,Kentucky","Wayne County,Ohio",18815,558264
+198,"Nelson County,Kentucky","Williams County,Ohio",19213,538851
+199,"Nelson County,Kentucky","Wood County,Ohio",17450,523899
+200,"Nelson County,Kentucky","Wyandot County,Ohio",17058,504151
+201,"Nelson County,Kentucky","Accomack County,Virginia",39578,1156520
+202,"Nelson County,Kentucky","Albemarle County,Virginia",25727,769020
+203,"Nelson County,Kentucky","Alleghany County,Virginia",20396,606043
+204,"Nelson County,Kentucky","Amelia County,Virginia",30428,869138
+205,"Nelson County,Kentucky","Amherst County,Virginia",25725,737008
+206,"Nelson County,Kentucky","Appomattox County,Virginia",27318,775767
+207,"Nelson County,Kentucky","Arlington County,Virginia",32010,965052
+208,"Nelson County,Kentucky","Augusta County,Virginia",24338,707359
+209,"Nelson County,Kentucky","Bath County,Virginia",23408,681352
+210,"Nelson County,Kentucky","Bedford County,Virginia",25985,723133
+211,"Nelson County,Kentucky","Bland County,Virginia",19358,572262
+212,"Nelson County,Kentucky","Botetourt County,Virginia",23550,677342
+213,"Nelson County,Kentucky","Brunswick County,Virginia",32971,918811
+214,"Nelson County,Kentucky","Buchanan County,Virginia",16753,415237
+215,"Nelson County,Kentucky","Buckingham County,Virginia",27601,786703
+216,"Nelson County,Kentucky","Campbell County,Virginia",27242,778239
+217,"Nelson County,Kentucky","Caroline County,Virginia",31066,937865
+218,"Nelson County,Kentucky","Carroll County,Virginia",21604,641700
+219,"Nelson County,Kentucky","Charles City County,Virginia",31167,934900
+220,"Nelson County,Kentucky","Charlotte County,Virginia",29203,829288
+221,"Nelson County,Kentucky","Chesterfield County,Virginia",30303,912684
+222,"Nelson County,Kentucky","Clarke County,Virginia",29907,896077
+223,"Nelson County,Kentucky","Craig County,Virginia",22039,627128
+224,"Nelson County,Kentucky","Culpeper County,Virginia",29524,858236
+225,"Nelson County,Kentucky","Cumberland County,Virginia",28811,814705
+226,"Nelson County,Kentucky","Dickenson County,Virginia",16107,400673
+227,"Nelson County,Kentucky","Dinwiddie County,Virginia",32050,963115
+228,"Nelson County,Kentucky","Essex County,Virginia",32884,961908
+229,"Nelson County,Kentucky","Fairfax County,Virginia",31701,955719
+230,"Nelson County,Kentucky","Fauquier County,Virginia",30345,917329
+231,"Nelson County,Kentucky","Floyd County,Virginia",23224,660664
+232,"Nelson County,Kentucky","Fluvanna County,Virginia",27405,821191
+233,"Nelson County,Kentucky","Franklin County,Virginia",25498,724367
+234,"Nelson County,Kentucky","Frederick County,Virginia",28572,810212
+235,"Nelson County,Kentucky","Giles County,Virginia",20089,583820
+236,"Nelson County,Kentucky","Gloucester County,Virginia",33337,989088
+237,"Nelson County,Kentucky","Goochland County,Virginia",28309,851802
+238,"Nelson County,Kentucky","Grayson County,Virginia",22006,631407
+239,"Nelson County,Kentucky","Greene County,Virginia",27720,804604
+240,"Nelson County,Kentucky","Greensville County,Virginia",33466,1011867
+241,"Nelson County,Kentucky","Halifax County,Virginia",29907,839387
+242,"Nelson County,Kentucky","Hanover County,Virginia",29515,892909
+243,"Nelson County,Kentucky","Henrico County,Virginia",30026,905869
+244,"Nelson County,Kentucky","Henry County,Virginia",25477,728421
+245,"Nelson County,Kentucky","Highland County,Virginia",24852,691323
+246,"Nelson County,Kentucky","Isle of Wight County,Virginia",34279,1010446
+247,"Nelson County,Kentucky","James City County,Virginia",32403,975671
+248,"Nelson County,Kentucky","King and Queen County,Virginia",32061,951255
+249,"Nelson County,Kentucky","King George County,Virginia",32180,965851
+250,"Nelson County,Kentucky","King William County,Virginia",30748,921177
+251,"Nelson County,Kentucky","Lancaster County,Virginia",34541,1004262
+252,"Nelson County,Kentucky","Lee County,Virginia",13636,323566
+253,"Nelson County,Kentucky","Loudoun County,Virginia",31403,931944
+254,"Nelson County,Kentucky","Louisa County,Virginia",27966,834897
+255,"Nelson County,Kentucky","Lunenburg County,Virginia",30975,870572
+256,"Nelson County,Kentucky","Madison County,Virginia",28640,834344
+257,"Nelson County,Kentucky","Mathews County,Virginia",34162,1012512
+258,"Nelson County,Kentucky","Mecklenburg County,Virginia",31966,883697
+259,"Nelson County,Kentucky","Middlesex County,Virginia",32939,985288
+260,"Nelson County,Kentucky","Montgomery County,Virginia",21172,611827
+261,"Nelson County,Kentucky","Nelson County,Virginia",26266,748700
+262,"Nelson County,Kentucky","New Kent County,Virginia",31839,949585
+263,"Nelson County,Kentucky","Northampton County,Virginia",36820,1092334
+264,"Nelson County,Kentucky","Northumberland County,Virginia",34581,1002775
+265,"Nelson County,Kentucky","Nottoway County,Virginia",30468,870952
+266,"Nelson County,Kentucky","Orange County,Virginia",28928,843005
+267,"Nelson County,Kentucky","Page County,Virginia",27573,818130
+268,"Nelson County,Kentucky","Patrick County,Virginia",23709,686736
+269,"Nelson County,Kentucky","Pittsylvania County,Virginia",27793,782629
+270,"Nelson County,Kentucky","Powhatan County,Virginia",29562,877024
+271,"Nelson County,Kentucky","Prince Edward County,Virginia",29083,828287
+272,"Nelson County,Kentucky","Prince George County,Virginia",31813,949699
+273,"Nelson County,Kentucky","Prince William County,Virginia",30445,923433
+274,"Nelson County,Kentucky","Pulaski County,Virginia",21267,608159
+275,"Nelson County,Kentucky","Rappahannock County,Virginia",29405,854617
+276,"Nelson County,Kentucky","Richmond County,Virginia",33281,975418
+277,"Nelson County,Kentucky","Roanoke County,Virginia",22792,654621
+278,"Nelson County,Kentucky","Rockbridge County,Virginia",22729,674399
+279,"Nelson County,Kentucky","Rockingham County,Virginia",26613,790480
+280,"Nelson County,Kentucky","Russell County,Virginia",18284,433786
+281,"Nelson County,Kentucky","Scott County,Virginia",15956,371407
+282,"Nelson County,Kentucky","Shenandoah County,Virginia",27117,820583
+283,"Nelson County,Kentucky","Smyth County,Virginia",20216,481429
+284,"Nelson County,Kentucky","Southampton County,Virginia",33844,1007981
+285,"Nelson County,Kentucky","Spotsylvania County,Virginia",29982,876736
+286,"Nelson County,Kentucky","Stafford County,Virginia",31363,901029
+287,"Nelson County,Kentucky","Surry County,Virginia",33146,974532
+288,"Nelson County,Kentucky","Sussex County,Virginia",32508,978224
+289,"Nelson County,Kentucky","Tazewell County,Virginia",18997,472011
+290,"Nelson County,Kentucky","Warren County,Virginia",29020,865176
+291,"Nelson County,Kentucky","Washington County,Virginia",18505,467391
+292,"Nelson County,Kentucky","Westmoreland County,Virginia",33154,982676
+293,"Nelson County,Kentucky","Wise County,Virginia",14372,376572
+294,"Nelson County,Kentucky","Wythe County,Virginia",19963,590479
+295,"Nelson County,Kentucky","York County,Virginia",33691,1006445
+296,"Nelson County,Kentucky","Alexandria City County,Virginia",32526,982233
+297,"Nelson County,Kentucky","Bedford City County,Virginia",25149,714565
+298,"Nelson County,Kentucky","Bristol City County,Virginia",17909,412734
+299,"Nelson County,Kentucky","Buena Vista City County,Virginia",23084,688376
+300,"Nelson County,Kentucky","Charlottesville City County,Virginia",26196,784234
+301,"Nelson County,Kentucky","Chesapeake City County,Virginia",35154,1059351
+302,"Nelson County,Kentucky","Clifton Forge City County,Virginia",20940,626249
+303,"Nelson County,Kentucky","Colonial Heights City County,Virginia",30863,928576
+304,"Nelson County,Kentucky","Covington City County,Virginia",20465,609628
+305,"Nelson County,Kentucky","Danville City County,Virginia",27635,782877
+306,"Nelson County,Kentucky","Emporia City County,Virginia",33173,998460
+307,"Nelson County,Kentucky","Fairfax City County,Virginia",31577,949180
+308,"Nelson County,Kentucky","Falls Church City County,Virginia",31718,959364
+309,"Nelson County,Kentucky","Franklin City County,Virginia",34391,1015836
+310,"Nelson County,Kentucky","Fredericksburg City County,Virginia",31115,886395
+311,"Nelson County,Kentucky","Galax City County,Virginia",22227,647566
+312,"Nelson County,Kentucky","Hampton City County,Virginia",33641,1016152
+313,"Nelson County,Kentucky","Harrisonburg City County,Virginia",25672,770376
+314,"Nelson County,Kentucky","Hopewell City County,Virginia",30899,927542
+315,"Nelson County,Kentucky","Lexington City County,Virginia",22718,676868
+316,"Nelson County,Kentucky","Lynchburg City County,Virginia",26301,751982
+317,"Nelson County,Kentucky","Manassas City County,Virginia",30672,928377
+318,"Nelson County,Kentucky","Manassas Park City County,Virginia",31175,934721
+319,"Nelson County,Kentucky","Martinsville City County,Virginia",26005,737214
+320,"Nelson County,Kentucky","Newport News City County,Virginia",33197,1002637
+321,"Nelson County,Kentucky","Norfolk City County,Virginia",34947,1041567
+322,"Nelson County,Kentucky","Norton City County,Virginia",15000,388384
+323,"Nelson County,Kentucky","Petersburg City County,Virginia",30734,929564
+324,"Nelson County,Kentucky","Poquoson City County,Virginia",33869,1013214
+325,"Nelson County,Kentucky","Portsmouth City County,Virginia",34886,1050388
+326,"Nelson County,Kentucky","Radford County,Virginia",21579,609868
+327,"Nelson County,Kentucky","Richmond City County,Virginia",29602,893679
+328,"Nelson County,Kentucky","Roanoke City County,Virginia",23394,674726
+329,"Nelson County,Kentucky","Salem City County,Virginia",22806,661275
+330,"Nelson County,Kentucky","South Boston City County,Virginia",29647,837055
+331,"Nelson County,Kentucky","Staunton City County,Virginia",24489,731511
+332,"Nelson County,Kentucky","Suffolk City County,Virginia",35121,1025170
+333,"Nelson County,Kentucky","Virginia Beach City County,Virginia",35508,1064826
+334,"Nelson County,Kentucky","Waynesboro City County,Virginia",24827,744229
+335,"Nelson County,Kentucky","Williamsburg City County,Virginia",32241,974886
+336,"Nelson County,Kentucky","Winchester City County,Virginia",29051,844213
+337,"Nelson County,Kentucky","Barbour County,West Virginia",20532,604909
+338,"Nelson County,Kentucky","Berkeley County,West Virginia",28465,843069
+339,"Nelson County,Kentucky","Boone County,West Virginia",15711,438526
+340,"Nelson County,Kentucky","Braxton County,West Virginia",17222,495889
+341,"Nelson County,Kentucky","Brooke County,West Virginia",21858,632933
+342,"Nelson County,Kentucky","Cabell County,West Virginia",10283,305035
+343,"Nelson County,Kentucky","Calhoun County,West Virginia",17143,493573
+344,"Nelson County,Kentucky","Clay County,West Virginia",15989,466801
+345,"Nelson County,Kentucky","Doddridge County,West Virginia",19675,586419
+346,"Nelson County,Kentucky","Fayette County,West Virginia",17276,485146
+347,"Nelson County,Kentucky","Gilmer County,West Virginia",18421,518075
+348,"Nelson County,Kentucky","Grant County,West Virginia",24887,706455
+349,"Nelson County,Kentucky","Greenbrier County,West Virginia",20350,563184
+350,"Nelson County,Kentucky","Hampshire County,West Virginia",27719,804672
+351,"Nelson County,Kentucky","Hancock County,West Virginia",23448,667469
+352,"Nelson County,Kentucky","Hardy County,West Virginia",25943,737952
+353,"Nelson County,Kentucky","Harrison County,West Virginia",19765,591280
+354,"Nelson County,Kentucky","Jackson County,West Virginia",15027,447905
+355,"Nelson County,Kentucky","Jefferson County,West Virginia",29931,899067
+356,"Nelson County,Kentucky","Kanawha County,West Virginia",14585,419209
+357,"Nelson County,Kentucky","Lewis County,West Virginia",18395,544750
+358,"Nelson County,Kentucky","Lincoln County,West Virginia",13500,362685
+359,"Nelson County,Kentucky","Logan County,West Virginia",15756,406500
+360,"Nelson County,Kentucky","McDowell County,West Virginia",19608,458688
+361,"Nelson County,Kentucky","Marion County,West Virginia",20911,618447
+362,"Nelson County,Kentucky","Marshall County,West Virginia",21816,627441
+363,"Nelson County,Kentucky","Mason County,West Virginia",13264,395779
+364,"Nelson County,Kentucky","Mercer County,West Virginia",17912,530769
+365,"Nelson County,Kentucky","Mineral County,West Virginia",26582,735275
+366,"Nelson County,Kentucky","Mingo County,West Virginia",14440,372953
+367,"Nelson County,Kentucky","Monongalia County,West Virginia",21121,643916
+368,"Nelson County,Kentucky","Monroe County,West Virginia",20957,575480
+369,"Nelson County,Kentucky","Morgan County,West Virginia",27957,832460
+370,"Nelson County,Kentucky","Nicholas County,West Virginia",17705,526682
+371,"Nelson County,Kentucky","Ohio County,West Virginia",20877,614171
+372,"Nelson County,Kentucky","Pendleton County,West Virginia",25219,709079
+373,"Nelson County,Kentucky","Pleasants County,West Virginia",18510,545757
+374,"Nelson County,Kentucky","Pocahontas County,West Virginia",23034,596221
+375,"Nelson County,Kentucky","Preston County,West Virginia",23267,670647
+376,"Nelson County,Kentucky","Putnam County,West Virginia",11966,357812
+377,"Nelson County,Kentucky","Raleigh County,West Virginia",16453,484462
+378,"Nelson County,Kentucky","Randolph County,West Virginia",20897,607205
+379,"Nelson County,Kentucky","Ritchie County,West Virginia",18840,559461
+380,"Nelson County,Kentucky","Roane County,West Virginia",16653,476720
+381,"Nelson County,Kentucky","Summers County,West Virginia",19905,545899
+382,"Nelson County,Kentucky","Taylor County,West Virginia",20803,614020
+383,"Nelson County,Kentucky","Tucker County,West Virginia",21963,637730
+384,"Nelson County,Kentucky","Tyler County,West Virginia",20419,585372
+385,"Nelson County,Kentucky","Upshur County,West Virginia",19960,559447
+386,"Nelson County,Kentucky","Wayne County,West Virginia",11813,326230
+387,"Nelson County,Kentucky","Webster County,West Virginia",19890,553762
+388,"Nelson County,Kentucky","Wetzel County,West Virginia",21631,607279
+389,"Nelson County,Kentucky","Wirt County,West Virginia",17294,505243
+390,"Nelson County,Kentucky","Wood County,West Virginia",16808,506932
+391,"Nelson County,Kentucky","Wyoming County,West Virginia",18398,524403

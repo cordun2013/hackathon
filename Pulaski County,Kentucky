@@ -1,0 +1,394 @@
+,origin,destination,seconds,meters
+0,"Pulaski County,Kentucky","Adair County,Kentucky",3283,78136
+1,"Pulaski County,Kentucky","Allen County,Kentucky",6480,173778
+2,"Pulaski County,Kentucky","Anderson County,Kentucky",6203,135347
+3,"Pulaski County,Kentucky","Ballard County,Kentucky",16292,476454
+4,"Pulaski County,Kentucky","Barren County,Kentucky",5028,137164
+5,"Pulaski County,Kentucky","Bath County,Kentucky",6514,166934
+6,"Pulaski County,Kentucky","Bell County,Kentucky",6062,134762
+7,"Pulaski County,Kentucky","Boone County,Kentucky",8861,245403
+8,"Pulaski County,Kentucky","Bourbon County,Kentucky",6062,157103
+9,"Pulaski County,Kentucky","Boyd County,Kentucky",9772,268390
+10,"Pulaski County,Kentucky","Boyle County,Kentucky",3979,82252
+11,"Pulaski County,Kentucky","Bracken County,Kentucky",9447,231630
+12,"Pulaski County,Kentucky","Breathitt County,Kentucky",7896,190442
+13,"Pulaski County,Kentucky","Breckinridge County,Kentucky",10329,240205
+14,"Pulaski County,Kentucky","Bullitt County,Kentucky",8266,182143
+15,"Pulaski County,Kentucky","Butler County,Kentucky",8068,233637
+16,"Pulaski County,Kentucky","Caldwell County,Kentucky",12403,367308
+17,"Pulaski County,Kentucky","Calloway County,Kentucky",14472,392289
+18,"Pulaski County,Kentucky","Campbell County,Kentucky",9392,242217
+19,"Pulaski County,Kentucky","Carlisle County,Kentucky",16749,491823
+20,"Pulaski County,Kentucky","Carroll County,Kentucky",9697,241509
+21,"Pulaski County,Kentucky","Carter County,Kentucky",8909,237647
+22,"Pulaski County,Kentucky","Casey County,Kentucky",3313,58232
+23,"Pulaski County,Kentucky","Christian County,Kentucky",10759,299777
+24,"Pulaski County,Kentucky","Clay County,Kentucky",4225,93791
+25,"Pulaski County,Kentucky","Clinton County,Kentucky",3576,80399
+26,"Pulaski County,Kentucky","Crittenden County,Kentucky",13983,400378
+27,"Pulaski County,Kentucky","Cumberland County,Kentucky",4330,98638
+28,"Pulaski County,Kentucky","Daviess County,Kentucky",10501,307430
+29,"Pulaski County,Kentucky","Edmonson County,Kentucky",6557,181324
+30,"Pulaski County,Kentucky","Elliott County,Kentucky",9685,228909
+31,"Pulaski County,Kentucky","Estill County,Kentucky",4993,117757
+32,"Pulaski County,Kentucky","Fayette County,Kentucky",4960,131188
+33,"Pulaski County,Kentucky","Fleming County,Kentucky",7943,197152
+34,"Pulaski County,Kentucky","Floyd County,Kentucky",8244,204955
+35,"Pulaski County,Kentucky","Franklin County,Kentucky",6998,180104
+36,"Pulaski County,Kentucky","Fulton County,Kentucky",17153,512787
+37,"Pulaski County,Kentucky","Gallatin County,Kentucky",8695,232168
+38,"Pulaski County,Kentucky","Garrard County,Kentucky",3730,74276
+39,"Pulaski County,Kentucky","Grant County,Kentucky",7494,206275
+40,"Pulaski County,Kentucky","Graves County,Kentucky",15774,464529
+41,"Pulaski County,Kentucky","Grayson County,Kentucky",8852,229569
+42,"Pulaski County,Kentucky","Green County,Kentucky",5035,120301
+43,"Pulaski County,Kentucky","Greenup County,Kentucky",10377,264977
+44,"Pulaski County,Kentucky","Hancock County,Kentucky",11549,274841
+45,"Pulaski County,Kentucky","Hardin County,Kentucky",7946,188557
+46,"Pulaski County,Kentucky","Harlan County,Kentucky",8356,190367
+47,"Pulaski County,Kentucky","Harrison County,Kentucky",7011,185737
+48,"Pulaski County,Kentucky","Hart County,Kentucky",6385,166579
+49,"Pulaski County,Kentucky","Henderson County,Kentucky",12409,363851
+50,"Pulaski County,Kentucky","Henry County,Kentucky",8599,223823
+51,"Pulaski County,Kentucky","Hickman County,Kentucky",16782,493115
+52,"Pulaski County,Kentucky","Hopkins County,Kentucky",11862,341776
+53,"Pulaski County,Kentucky","Jackson County,Kentucky",3956,88143
+54,"Pulaski County,Kentucky","Jefferson County,Kentucky",8693,239356
+55,"Pulaski County,Kentucky","Jessamine County,Kentucky",5207,111494
+56,"Pulaski County,Kentucky","Johnson County,Kentucky",9806,245225
+57,"Pulaski County,Kentucky","Kenton County,Kentucky",8747,241119
+58,"Pulaski County,Kentucky","Knott County,Kentucky",7027,174496
+59,"Pulaski County,Kentucky","Knox County,Kentucky",4294,87672
+60,"Pulaski County,Kentucky","Larue County,Kentucky",6517,152275
+61,"Pulaski County,Kentucky","Laurel County,Kentucky",2738,48365
+62,"Pulaski County,Kentucky","Lawrence County,Kentucky",11581,278912
+63,"Pulaski County,Kentucky","Lee County,Kentucky",5962,126524
+64,"Pulaski County,Kentucky","Leslie County,Kentucky",6176,144914
+65,"Pulaski County,Kentucky","Letcher County,Kentucky",8198,196501
+66,"Pulaski County,Kentucky","Lewis County,Kentucky",9467,235292
+67,"Pulaski County,Kentucky","Lincoln County,Kentucky",2555,52580
+68,"Pulaski County,Kentucky","Livingston County,Kentucky",14579,417275
+69,"Pulaski County,Kentucky","Logan County,Kentucky",8431,239056
+70,"Pulaski County,Kentucky","Lyon County,Kentucky",14719,391543
+71,"Pulaski County,Kentucky","McCracken County,Kentucky",14904,444514
+72,"Pulaski County,Kentucky","McCreary County,Kentucky",2740,59448
+73,"Pulaski County,Kentucky","Madison County,Kentucky",3549,86533
+74,"Pulaski County,Kentucky","Magoffin County,Kentucky",9483,209862
+75,"Pulaski County,Kentucky","Marion County,Kentucky",5677,120857
+76,"Pulaski County,Kentucky","Marshall County,Kentucky",14319,428086
+77,"Pulaski County,Kentucky","Martin County,Kentucky",11335,271227
+78,"Pulaski County,Kentucky","Mason County,Kentucky",9191,228669
+79,"Pulaski County,Kentucky","Meade County,Kentucky",9476,218257
+80,"Pulaski County,Kentucky","Menifee County,Kentucky",7789,179471
+81,"Pulaski County,Kentucky","Mercer County,Kentucky",4979,107183
+82,"Pulaski County,Kentucky","Metcalfe County,Kentucky",3939,108401
+83,"Pulaski County,Kentucky","Monroe County,Kentucky",5909,145905
+84,"Pulaski County,Kentucky","Montgomery County,Kentucky",6432,157380
+85,"Pulaski County,Kentucky","Morgan County,Kentucky",8873,198146
+86,"Pulaski County,Kentucky","Muhlenberg County,Kentucky",10186,282276
+87,"Pulaski County,Kentucky","Nelson County,Kentucky",6895,153866
+88,"Pulaski County,Kentucky","Nicholas County,Kentucky",7318,184485
+89,"Pulaski County,Kentucky","Ohio County,Kentucky",9603,275467
+90,"Pulaski County,Kentucky","Oldham County,Kentucky",8764,251237
+91,"Pulaski County,Kentucky","Owen County,Kentucky",7819,206881
+92,"Pulaski County,Kentucky","Owsley County,Kentucky",5255,109644
+93,"Pulaski County,Kentucky","Pendleton County,Kentucky",8570,222865
+94,"Pulaski County,Kentucky","Perry County,Kentucky",6410,153615
+95,"Pulaski County,Kentucky","Pike County,Kentucky",10805,257955
+96,"Pulaski County,Kentucky","Powell County,Kentucky",6304,146422
+97,"Pulaski County,Kentucky","Robertson County,Kentucky",8089,205611
+98,"Pulaski County,Kentucky","Rockcastle County,Kentucky",2521,50283
+99,"Pulaski County,Kentucky","Rowan County,Kentucky",7256,190786
+100,"Pulaski County,Kentucky","Russell County,Kentucky",2888,62120
+101,"Pulaski County,Kentucky","Scott County,Kentucky",5794,159215
+102,"Pulaski County,Kentucky","Shelby County,Kentucky",7621,210491
+103,"Pulaski County,Kentucky","Simpson County,Kentucky",8020,227930
+104,"Pulaski County,Kentucky","Spencer County,Kentucky",7568,163852
+105,"Pulaski County,Kentucky","Taylor County,Kentucky",4637,102396
+106,"Pulaski County,Kentucky","Todd County,Kentucky",9606,269111
+107,"Pulaski County,Kentucky","Trigg County,Kentucky",12294,330397
+108,"Pulaski County,Kentucky","Trimble County,Kentucky",9838,257277
+109,"Pulaski County,Kentucky","Union County,Kentucky",14153,400952
+110,"Pulaski County,Kentucky","Warren County,Kentucky",7055,192878
+111,"Pulaski County,Kentucky","Washington County,Kentucky",5966,128716
+112,"Pulaski County,Kentucky","Wayne County,Kentucky",2949,58090
+113,"Pulaski County,Kentucky","Webster County,Kentucky",12971,369865
+114,"Pulaski County,Kentucky","Whitley County,Kentucky",3923,74082
+115,"Pulaski County,Kentucky","Wolfe County,Kentucky",7748,164967
+116,"Pulaski County,Kentucky","Woodford County,Kentucky",6014,161850
+117,"Pulaski County,Kentucky","Adams County,Ohio",11621,275402
+118,"Pulaski County,Kentucky","Allen County,Ohio",16167,467012
+119,"Pulaski County,Kentucky","Ashland County,Ohio",19356,568890
+120,"Pulaski County,Kentucky","Ashtabula County,Ohio",25102,753642
+121,"Pulaski County,Kentucky","Athens County,Ohio",16099,426409
+122,"Pulaski County,Kentucky","Auglaize County,Ohio",15423,454277
+123,"Pulaski County,Kentucky","Belmont County,Ohio",20694,615322
+124,"Pulaski County,Kentucky","Brown County,Ohio",10606,263648
+125,"Pulaski County,Kentucky","Butler County,Ohio",11245,316886
+126,"Pulaski County,Kentucky","Carroll County,Ohio",22658,652545
+127,"Pulaski County,Kentucky","Champaign County,Ohio",14201,408459
+128,"Pulaski County,Kentucky","Clark County,Ohio",13630,395092
+129,"Pulaski County,Kentucky","Clermont County,Ohio",9995,288065
+130,"Pulaski County,Kentucky","Clinton County,Ohio",12090,339371
+131,"Pulaski County,Kentucky","Columbiana County,Ohio",24215,688134
+132,"Pulaski County,Kentucky","Coshocton County,Ohio",19217,547963
+133,"Pulaski County,Kentucky","Crawford County,Ohio",18893,560862
+134,"Pulaski County,Kentucky","Cuyahoga County,Ohio",21674,651355
+135,"Pulaski County,Kentucky","Darke County,Ohio",14521,411324
+136,"Pulaski County,Kentucky","Defiance County,Ohio",19655,545442
+137,"Pulaski County,Kentucky","Delaware County,Ohio",16273,475562
+138,"Pulaski County,Kentucky","Fairfield County,Ohio",15676,458811
+139,"Pulaski County,Kentucky","Fayette County,Ohio",12988,376976
+140,"Pulaski County,Kentucky","Franklin County,Ohio",14790,435489
+141,"Pulaski County,Kentucky","Fulton County,Ohio",20418,562386
+142,"Pulaski County,Kentucky","Gallia County,Ohio",14057,368762
+143,"Pulaski County,Kentucky","Geauga County,Ohio",23202,690574
+144,"Pulaski County,Kentucky","Greene County,Ohio",12417,348725
+145,"Pulaski County,Kentucky","Guernsey County,Ohio",18423,549003
+146,"Pulaski County,Kentucky","Hamilton County,Ohio",9899,281371
+147,"Pulaski County,Kentucky","Hancock County,Ohio",17276,507908
+148,"Pulaski County,Kentucky","Hardin County,Ohio",17063,492305
+149,"Pulaski County,Kentucky","Harrison County,Ohio",21664,634611
+150,"Pulaski County,Kentucky","Henry County,Ohio",19000,532376
+151,"Pulaski County,Kentucky","Highland County,Ohio",12754,308850
+152,"Pulaski County,Kentucky","Hocking County,Ohio",17114,502216
+153,"Pulaski County,Kentucky","Holmes County,Ohio",20767,584820
+154,"Pulaski County,Kentucky","Huron County,Ohio",20502,567661
+155,"Pulaski County,Kentucky","Jackson County,Ohio",13608,351957
+156,"Pulaski County,Kentucky","Jefferson County,Ohio",22657,644389
+157,"Pulaski County,Kentucky","Knox County,Ohio",18723,535184
+158,"Pulaski County,Kentucky","Lawrence County,Ohio",12178,304818
+159,"Pulaski County,Kentucky","Licking County,Ohio",17055,490407
+160,"Pulaski County,Kentucky","Logan County,Ohio",15436,440996
+161,"Pulaski County,Kentucky","Lorain County,Ohio",22288,626315
+162,"Pulaski County,Kentucky","Lucas County,Ohio",20601,594428
+163,"Pulaski County,Kentucky","Madison County,Ohio",14210,412158
+164,"Pulaski County,Kentucky","Mahoning County,Ohio",24072,705274
+165,"Pulaski County,Kentucky","Marion County,Ohio",17320,482997
+166,"Pulaski County,Kentucky","Medina County,Ohio",20001,593903
+167,"Pulaski County,Kentucky","Meigs County,Ohio",14989,399145
+168,"Pulaski County,Kentucky","Mercer County,Ohio",16659,481211
+169,"Pulaski County,Kentucky","Miami County,Ohio",13009,376716
+170,"Pulaski County,Kentucky","Monroe County,Ohio",20901,578094
+171,"Pulaski County,Kentucky","Montgomery County,Ohio",12392,354456
+172,"Pulaski County,Kentucky","Morgan County,Ohio",19053,493434
+173,"Pulaski County,Kentucky","Morrow County,Ohio",17080,498383
+174,"Pulaski County,Kentucky","Muskingum County,Ohio",17273,515159
+175,"Pulaski County,Kentucky","Noble County,Ohio",19407,561254
+176,"Pulaski County,Kentucky","Paulding County,Ohio",18698,529990
+177,"Pulaski County,Kentucky","Perry County,Ohio",17342,503743
+178,"Pulaski County,Kentucky","Pickaway County,Ohio",14925,425572
+179,"Pulaski County,Kentucky","Pike County,Ohio",13149,321384
+180,"Pulaski County,Kentucky","Portage County,Ohio",22523,665053
+181,"Pulaski County,Kentucky","Preble County,Ohio",13289,361285
+182,"Pulaski County,Kentucky","Putnam County,Ohio",17342,499480
+183,"Pulaski County,Kentucky","Richland County,Ohio",18110,533621
+184,"Pulaski County,Kentucky","Ross County,Ohio",14569,424889
+185,"Pulaski County,Kentucky","Sandusky County,Ohio",20316,587983
+186,"Pulaski County,Kentucky","Scioto County,Ohio",12459,303509
+187,"Pulaski County,Kentucky","Seneca County,Ohio",19621,564247
+188,"Pulaski County,Kentucky","Shelby County,Ohio",14048,413002
+189,"Pulaski County,Kentucky","Stark County,Ohio",22268,649436
+190,"Pulaski County,Kentucky","Summit County,Ohio",21204,629230
+191,"Pulaski County,Kentucky","Trumbull County,Ohio",24104,715545
+192,"Pulaski County,Kentucky","Tuscarawas County,Ohio",20718,608368
+193,"Pulaski County,Kentucky","Union County,Ohio",15562,438380
+194,"Pulaski County,Kentucky","Van Wert County,Ohio",17332,499535
+195,"Pulaski County,Kentucky","Vinton County,Ohio",16179,396059
+196,"Pulaski County,Kentucky","Warren County,Ohio",10779,307627
+197,"Pulaski County,Kentucky","Washington County,Ohio",18026,471094
+198,"Pulaski County,Kentucky","Wayne County,Ohio",19729,582901
+199,"Pulaski County,Kentucky","Williams County,Ohio",20832,568959
+200,"Pulaski County,Kentucky","Wood County,Ohio",18364,548536
+201,"Pulaski County,Kentucky","Wyandot County,Ohio",17972,528788
+202,"Pulaski County,Kentucky","Accomack County,Virginia",39857,1142258
+203,"Pulaski County,Kentucky","Albemarle County,Virginia",26007,754758
+204,"Pulaski County,Kentucky","Alleghany County,Virginia",20676,591781
+205,"Pulaski County,Kentucky","Amelia County,Virginia",28951,734388
+206,"Pulaski County,Kentucky","Amherst County,Virginia",25853,640447
+207,"Pulaski County,Kentucky","Appomattox County,Virginia",26028,654057
+208,"Pulaski County,Kentucky","Arlington County,Virginia",32290,950790
+209,"Pulaski County,Kentucky","Augusta County,Virginia",24618,693098
+210,"Pulaski County,Kentucky","Bath County,Virginia",23688,667091
+211,"Pulaski County,Kentucky","Bedford County,Virginia",23761,585367
+212,"Pulaski County,Kentucky","Bland County,Virginia",17777,434969
+213,"Pulaski County,Kentucky","Botetourt County,Virginia",22618,569432
+214,"Pulaski County,Kentucky","Brunswick County,Virginia",30574,857507
+215,"Pulaski County,Kentucky","Buchanan County,Virginia",14331,305772
+216,"Pulaski County,Kentucky","Buckingham County,Virginia",27142,677967
+217,"Pulaski County,Kentucky","Campbell County,Virginia",25177,626602
+218,"Pulaski County,Kentucky","Caroline County,Virginia",31346,923604
+219,"Pulaski County,Kentucky","Carroll County,Virginia",18721,466314
+220,"Pulaski County,Kentucky","Charles City County,Virginia",31447,920638
+221,"Pulaski County,Kentucky","Charlotte County,Virginia",27726,694538
+222,"Pulaski County,Kentucky","Chesterfield County,Virginia",30645,773278
+223,"Pulaski County,Kentucky","Clarke County,Virginia",30187,881816
+224,"Pulaski County,Kentucky","Craig County,Virginia",22017,547000
+225,"Pulaski County,Kentucky","Culpeper County,Virginia",29804,843975
+226,"Pulaski County,Kentucky","Cumberland County,Virginia",28556,715198
+227,"Pulaski County,Kentucky","Dickenson County,Virginia",11758,263447
+228,"Pulaski County,Kentucky","Dinwiddie County,Virginia",30724,777449
+229,"Pulaski County,Kentucky","Essex County,Virginia",33164,947646
+230,"Pulaski County,Kentucky","Fairfax County,Virginia",31981,941457
+231,"Pulaski County,Kentucky","Fauquier County,Virginia",30625,903067
+232,"Pulaski County,Kentucky","Floyd County,Virginia",20613,506414
+233,"Pulaski County,Kentucky","Fluvanna County,Virginia",27685,806930
+234,"Pulaski County,Kentucky","Franklin County,Virginia",23274,586600
+235,"Pulaski County,Kentucky","Frederick County,Virginia",28852,795950
+236,"Pulaski County,Kentucky","Giles County,Virginia",20238,478610
+237,"Pulaski County,Kentucky","Gloucester County,Virginia",33617,974827
+238,"Pulaski County,Kentucky","Goochland County,Virginia",28589,837541
+239,"Pulaski County,Kentucky","Grayson County,Virginia",18454,429481
+240,"Pulaski County,Kentucky","Greene County,Virginia",28000,790342
+241,"Pulaski County,Kentucky","Greensville County,Virginia",31770,874926
+242,"Pulaski County,Kentucky","Halifax County,Virginia",27025,664001
+243,"Pulaski County,Kentucky","Hanover County,Virginia",29795,878647
+244,"Pulaski County,Kentucky","Henrico County,Virginia",30306,891607
+245,"Pulaski County,Kentucky","Henry County,Virginia",22595,553034
+246,"Pulaski County,Kentucky","Highland County,Virginia",25132,677061
+247,"Pulaski County,Kentucky","Isle of Wight County,Virginia",34558,996184
+248,"Pulaski County,Kentucky","James City County,Virginia",32683,961409
+249,"Pulaski County,Kentucky","King and Queen County,Virginia",32341,936993
+250,"Pulaski County,Kentucky","King George County,Virginia",32459,951590
+251,"Pulaski County,Kentucky","King William County,Virginia",31028,906916
+252,"Pulaski County,Kentucky","Lancaster County,Virginia",34821,990001
+253,"Pulaski County,Kentucky","Lee County,Virginia",9153,211321
+254,"Pulaski County,Kentucky","Loudoun County,Virginia",31683,917683
+255,"Pulaski County,Kentucky","Louisa County,Virginia",28246,820636
+256,"Pulaski County,Kentucky","Lunenburg County,Virginia",29498,735823
+257,"Pulaski County,Kentucky","Madison County,Virginia",28920,820083
+258,"Pulaski County,Kentucky","Mathews County,Virginia",34442,998250
+259,"Pulaski County,Kentucky","Mecklenburg County,Virginia",29057,715546
+260,"Pulaski County,Kentucky","Middlesex County,Virginia",33219,971027
+261,"Pulaski County,Kentucky","Montgomery County,Virginia",19788,496918
+262,"Pulaski County,Kentucky","Nelson County,Virginia",26405,670844
+263,"Pulaski County,Kentucky","New Kent County,Virginia",32119,935323
+264,"Pulaski County,Kentucky","Northampton County,Virginia",37100,1078073
+265,"Pulaski County,Kentucky","Northumberland County,Virginia",34861,988513
+266,"Pulaski County,Kentucky","Nottoway County,Virginia",28991,736202
+267,"Pulaski County,Kentucky","Orange County,Virginia",29208,828743
+268,"Pulaski County,Kentucky","Page County,Virginia",27853,803868
+269,"Pulaski County,Kentucky","Patrick County,Virginia",20827,511349
+270,"Pulaski County,Kentucky","Pittsylvania County,Virginia",24910,607243
+271,"Pulaski County,Kentucky","Powhatan County,Virginia",30054,749905
+272,"Pulaski County,Kentucky","Prince Edward County,Virginia",27606,693538
+273,"Pulaski County,Kentucky","Prince George County,Virginia",32093,935437
+274,"Pulaski County,Kentucky","Prince William County,Virginia",30725,909171
+275,"Pulaski County,Kentucky","Pulaski County,Virginia",18464,457734
+276,"Pulaski County,Kentucky","Rappahannock County,Virginia",29685,840355
+277,"Pulaski County,Kentucky","Richmond County,Virginia",33561,961157
+278,"Pulaski County,Kentucky","Roanoke County,Virginia",20568,516855
+279,"Pulaski County,Kentucky","Rockbridge County,Virginia",23009,660137
+280,"Pulaski County,Kentucky","Rockingham County,Virginia",26893,776218
+281,"Pulaski County,Kentucky","Russell County,Virginia",14290,316268
+282,"Pulaski County,Kentucky","Scott County,Virginia",11473,259162
+283,"Pulaski County,Kentucky","Shenandoah County,Virginia",27397,806322
+284,"Pulaski County,Kentucky","Smyth County,Virginia",15733,369184
+285,"Pulaski County,Kentucky","Southampton County,Virginia",33386,932449
+286,"Pulaski County,Kentucky","Spotsylvania County,Virginia",30262,862474
+287,"Pulaski County,Kentucky","Stafford County,Virginia",31643,886767
+288,"Pulaski County,Kentucky","Surry County,Virginia",33426,960271
+289,"Pulaski County,Kentucky","Sussex County,Virginia",32670,923228
+290,"Pulaski County,Kentucky","Tazewell County,Virginia",15778,369179
+291,"Pulaski County,Kentucky","Warren County,Virginia",29300,850914
+292,"Pulaski County,Kentucky","Washington County,Virginia",14156,330164
+293,"Pulaski County,Kentucky","Westmoreland County,Virginia",33434,968415
+294,"Pulaski County,Kentucky","Wise County,Virginia",10022,239346
+295,"Pulaski County,Kentucky","Wythe County,Virginia",16947,411643
+296,"Pulaski County,Kentucky","York County,Virginia",33971,992184
+297,"Pulaski County,Kentucky","Alexandria City County,Virginia",32806,967972
+298,"Pulaski County,Kentucky","Bedford City County,Virginia",22926,576798
+299,"Pulaski County,Kentucky","Bristol City County,Virginia",13426,300489
+300,"Pulaski County,Kentucky","Buena Vista City County,Virginia",23437,605990
+301,"Pulaski County,Kentucky","Charlottesville City County,Virginia",26476,769973
+302,"Pulaski County,Kentucky","Chesapeake City County,Virginia",35434,1045089
+303,"Pulaski County,Kentucky","Clifton Forge City County,Virginia",21220,611988
+304,"Pulaski County,Kentucky","Colonial Heights City County,Virginia",31143,914314
+305,"Pulaski County,Kentucky","Covington City County,Virginia",20745,595366
+306,"Pulaski County,Kentucky","Danville City County,Virginia",24752,607490
+307,"Pulaski County,Kentucky","Emporia City County,Virginia",31926,889114
+308,"Pulaski County,Kentucky","Fairfax City County,Virginia",31857,934919
+309,"Pulaski County,Kentucky","Falls Church City County,Virginia",31998,945102
+310,"Pulaski County,Kentucky","Franklin City County,Virginia",34013,945584
+311,"Pulaski County,Kentucky","Fredericksburg City County,Virginia",31395,872134
+312,"Pulaski County,Kentucky","Galax City County,Virginia",19345,472180
+313,"Pulaski County,Kentucky","Hampton City County,Virginia",33921,1001890
+314,"Pulaski County,Kentucky","Harrisonburg City County,Virginia",25952,756114
+315,"Pulaski County,Kentucky","Hopewell City County,Virginia",31179,913281
+316,"Pulaski County,Kentucky","Lexington City County,Virginia",22998,662606
+317,"Pulaski County,Kentucky","Lynchburg City County,Virginia",24951,621674
+318,"Pulaski County,Kentucky","Manassas City County,Virginia",30952,914116
+319,"Pulaski County,Kentucky","Manassas Park City County,Virginia",31455,920459
+320,"Pulaski County,Kentucky","Martinsville City County,Virginia",23122,561828
+321,"Pulaski County,Kentucky","Newport News City County,Virginia",33477,988376
+322,"Pulaski County,Kentucky","Norfolk City County,Virginia",35227,1027306
+323,"Pulaski County,Kentucky","Norton City County,Virginia",10651,251157
+324,"Pulaski County,Kentucky","Petersburg City County,Virginia",31014,915302
+325,"Pulaski County,Kentucky","Poquoson City County,Virginia",34149,998952
+326,"Pulaski County,Kentucky","Portsmouth City County,Virginia",35166,1036127
+327,"Pulaski County,Kentucky","Radford County,Virginia",18975,471682
+328,"Pulaski County,Kentucky","Richmond City County,Virginia",29882,879417
+329,"Pulaski County,Kentucky","Roanoke City County,Virginia",21170,536959
+330,"Pulaski County,Kentucky","Salem City County,Virginia",20582,523509
+331,"Pulaski County,Kentucky","South Boston City County,Virginia",26764,661669
+332,"Pulaski County,Kentucky","Staunton City County,Virginia",24769,717250
+333,"Pulaski County,Kentucky","Suffolk City County,Virginia",35329,978886
+334,"Pulaski County,Kentucky","Virginia Beach City County,Virginia",35788,1050564
+335,"Pulaski County,Kentucky","Waynesboro City County,Virginia",25107,729968
+336,"Pulaski County,Kentucky","Williamsburg City County,Virginia",32521,960625
+337,"Pulaski County,Kentucky","Winchester City County,Virginia",29331,829951
+338,"Pulaski County,Kentucky","Barbour County,West Virginia",20812,590648
+339,"Pulaski County,Kentucky","Berkeley County,West Virginia",28745,828807
+340,"Pulaski County,Kentucky","Boone County,West Virginia",16215,391609
+341,"Pulaski County,Kentucky","Braxton County,West Virginia",17502,481627
+342,"Pulaski County,Kentucky","Brooke County,West Virginia",22773,657570
+343,"Pulaski County,Kentucky","Cabell County,West Virginia",10562,290774
+344,"Pulaski County,Kentucky","Calhoun County,West Virginia",17423,479312
+345,"Pulaski County,Kentucky","Clay County,West Virginia",16269,452540
+346,"Pulaski County,Kentucky","Doddridge County,West Virginia",19955,572157
+347,"Pulaski County,Kentucky","Fayette County,West Virginia",17556,470884
+348,"Pulaski County,Kentucky","Gilmer County,West Virginia",18701,503814
+349,"Pulaski County,Kentucky","Grant County,West Virginia",25167,692193
+350,"Pulaski County,Kentucky","Greenbrier County,West Virginia",20630,548923
+351,"Pulaski County,Kentucky","Hampshire County,West Virginia",27999,790411
+352,"Pulaski County,Kentucky","Hancock County,West Virginia",24362,692106
+353,"Pulaski County,Kentucky","Hardy County,West Virginia",26223,723690
+354,"Pulaski County,Kentucky","Harrison County,West Virginia",20045,577018
+355,"Pulaski County,Kentucky","Jackson County,West Virginia",15307,433643
+356,"Pulaski County,Kentucky","Jefferson County,West Virginia",30211,884805
+357,"Pulaski County,Kentucky","Kanawha County,West Virginia",14865,404948
+358,"Pulaski County,Kentucky","Lewis County,West Virginia",18675,530489
+359,"Pulaski County,Kentucky","Lincoln County,West Virginia",13779,348424
+360,"Pulaski County,Kentucky","Logan County,West Virginia",14321,348245
+361,"Pulaski County,Kentucky","McDowell County,West Virginia",17669,381326
+362,"Pulaski County,Kentucky","Marion County,West Virginia",21191,604186
+363,"Pulaski County,Kentucky","Marshall County,West Virginia",22730,652078
+364,"Pulaski County,Kentucky","Mason County,West Virginia",13544,381518
+365,"Pulaski County,Kentucky","Mercer County,West Virginia",18192,516507
+366,"Pulaski County,Kentucky","Mineral County,West Virginia",26862,721014
+367,"Pulaski County,Kentucky","Mingo County,West Virginia",13005,314698
+368,"Pulaski County,Kentucky","Monongalia County,West Virginia",21401,629654
+369,"Pulaski County,Kentucky","Monroe County,West Virginia",21103,490969
+370,"Pulaski County,Kentucky","Morgan County,West Virginia",28236,818199
+371,"Pulaski County,Kentucky","Nicholas County,West Virginia",17985,512420
+372,"Pulaski County,Kentucky","Ohio County,West Virginia",21791,638807
+373,"Pulaski County,Kentucky","Pendleton County,West Virginia",25498,694817
+374,"Pulaski County,Kentucky","Pleasants County,West Virginia",18790,531495
+375,"Pulaski County,Kentucky","Pocahontas County,West Virginia",23314,581959
+376,"Pulaski County,Kentucky","Preston County,West Virginia",23547,656385
+377,"Pulaski County,Kentucky","Putnam County,West Virginia",12246,343551
+378,"Pulaski County,Kentucky","Raleigh County,West Virginia",16733,470200
+379,"Pulaski County,Kentucky","Randolph County,West Virginia",21176,592944
+380,"Pulaski County,Kentucky","Ritchie County,West Virginia",19120,545199
+381,"Pulaski County,Kentucky","Roane County,West Virginia",16933,462459
+382,"Pulaski County,Kentucky","Summers County,West Virginia",20185,531638
+383,"Pulaski County,Kentucky","Taylor County,West Virginia",21083,599758
+384,"Pulaski County,Kentucky","Tucker County,West Virginia",22243,623468
+385,"Pulaski County,Kentucky","Tyler County,West Virginia",20699,571110
+386,"Pulaski County,Kentucky","Upshur County,West Virginia",20240,545186
+387,"Pulaski County,Kentucky","Wayne County,West Virginia",12093,311969
+388,"Pulaski County,Kentucky","Webster County,West Virginia",20169,539500
+389,"Pulaski County,Kentucky","Wetzel County,West Virginia",21911,593017
+390,"Pulaski County,Kentucky","Wirt County,West Virginia",17574,490981
+391,"Pulaski County,Kentucky","Wood County,West Virginia",17088,492671
+392,"Pulaski County,Kentucky","Wyoming County,West Virginia",17291,387184

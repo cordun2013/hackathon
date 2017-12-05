@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Taylor County,Kentucky","Adair County,Kentucky",1937,40231
+1,"Taylor County,Kentucky","Allen County,Kentucky",5298,134118
+2,"Taylor County,Kentucky","Anderson County,Kentucky",4247,96459
+3,"Taylor County,Kentucky","Ballard County,Kentucky",13549,383765
+4,"Taylor County,Kentucky","Barren County,Kentucky",3847,97504
+5,"Taylor County,Kentucky","Bath County,Kentucky",7938,213729
+6,"Taylor County,Kentucky","Bell County,Kentucky",9842,225642
+7,"Taylor County,Kentucky","Boone County,Kentucky",9651,253300
+8,"Taylor County,Kentucky","Bourbon County,Kentucky",7003,168239
+9,"Taylor County,Kentucky","Boyd County,Kentucky",11196,315185
+10,"Taylor County,Kentucky","Boyle County,Kentucky",3465,74690
+11,"Taylor County,Kentucky","Bracken County,Kentucky",10211,231077
+12,"Taylor County,Kentucky","Breathitt County,Kentucky",10538,277909
+13,"Taylor County,Kentucky","Breckinridge County,Kentucky",6354,139089
+14,"Taylor County,Kentucky","Bullitt County,Kentucky",4441,109027
+15,"Taylor County,Kentucky","Butler County,Kentucky",6768,168673
+16,"Taylor County,Kentucky","Caldwell County,Kentucky",9660,274618
+17,"Taylor County,Kentucky","Calloway County,Kentucky",12470,359611
+18,"Taylor County,Kentucky","Campbell County,Kentucky",10156,241664
+19,"Taylor County,Kentucky","Carlisle County,Kentucky",14006,399133
+20,"Taylor County,Kentucky","Carroll County,Kentucky",8124,180853
+21,"Taylor County,Kentucky","Carter County,Kentucky",10333,284442
+22,"Taylor County,Kentucky","Casey County,Kentucky",2335,47295
+23,"Taylor County,Kentucky","Christian County,Kentucky",9309,269875
+24,"Taylor County,Kentucky","Clay County,Kentucky",8005,184670
+25,"Taylor County,Kentucky","Clinton County,Kentucky",4629,106399
+26,"Taylor County,Kentucky","Crittenden County,Kentucky",11240,307689
+27,"Taylor County,Kentucky","Cumberland County,Kentucky",3788,82498
+28,"Taylor County,Kentucky","Daviess County,Kentucky",7791,215115
+29,"Taylor County,Kentucky","Edmonson County,Kentucky",4832,97677
+30,"Taylor County,Kentucky","Elliott County,Kentucky",11109,275704
+31,"Taylor County,Kentucky","Estill County,Kentucky",7611,148878
+32,"Taylor County,Kentucky","Fayette County,Kentucky",5565,138464
+33,"Taylor County,Kentucky","Fleming County,Kentucky",9367,243948
+34,"Taylor County,Kentucky","Floyd County,Kentucky",12024,295835
+35,"Taylor County,Kentucky","Franklin County,Kentucky",5906,135152
+36,"Taylor County,Kentucky","Fulton County,Kentucky",14410,420097
+37,"Taylor County,Kentucky","Gallatin County,Kentucky",8833,200178
+38,"Taylor County,Kentucky","Garrard County,Kentucky",4834,88160
+39,"Taylor County,Kentucky","Grant County,Kentucky",8284,214172
+40,"Taylor County,Kentucky","Graves County,Kentucky",13030,371840
+41,"Taylor County,Kentucky","Grayson County,Kentucky",5096,125309
+42,"Taylor County,Kentucky","Green County,Kentucky",1507,27342
+43,"Taylor County,Kentucky","Greenup County,Kentucky",11801,311772
+44,"Taylor County,Kentucky","Hancock County,Kentucky",7575,173726
+45,"Taylor County,Kentucky","Hardin County,Kentucky",3972,87441
+46,"Taylor County,Kentucky","Harlan County,Kentucky",12136,281247
+47,"Taylor County,Kentucky","Harrison County,Kentucky",7775,185185
+48,"Taylor County,Kentucky","Hart County,Kentucky",3195,62245
+49,"Taylor County,Kentucky","Henderson County,Kentucky",9699,271535
+50,"Taylor County,Kentucky","Henry County,Kentucky",6625,142497
+51,"Taylor County,Kentucky","Hickman County,Kentucky",14039,400425
+52,"Taylor County,Kentucky","Hopkins County,Kentucky",9119,249086
+53,"Taylor County,Kentucky","Jackson County,Kentucky",7736,179023
+54,"Taylor County,Kentucky","Jefferson County,Kentucky",5698,140533
+55,"Taylor County,Kentucky","Jessamine County,Kentucky",5561,120838
+56,"Taylor County,Kentucky","Johnson County,Kentucky",11679,313933
+57,"Taylor County,Kentucky","Kenton County,Kentucky",9537,249016
+58,"Taylor County,Kentucky","Knott County,Kentucky",10807,265376
+59,"Taylor County,Kentucky","Knox County,Kentucky",8074,178552
+60,"Taylor County,Kentucky","Larue County,Kentucky",2595,53871
+61,"Taylor County,Kentucky","Laurel County,Kentucky",6815,149422
+62,"Taylor County,Kentucky","Lawrence County,Kentucky",13199,342321
+63,"Taylor County,Kentucky","Lee County,Kentucky",9602,182308
+64,"Taylor County,Kentucky","Leslie County,Kentucky",9956,235794
+65,"Taylor County,Kentucky","Letcher County,Kentucky",11978,287380
+66,"Taylor County,Kentucky","Lewis County,Kentucky",10891,282088
+67,"Taylor County,Kentucky","Lincoln County,Kentucky",4039,78312
+68,"Taylor County,Kentucky","Livingston County,Kentucky",11836,324585
+69,"Taylor County,Kentucky","Logan County,Kentucky",7184,176098
+70,"Taylor County,Kentucky","Lyon County,Kentucky",11969,334976
+71,"Taylor County,Kentucky","McCracken County,Kentucky",12161,351825
+72,"Taylor County,Kentucky","McCreary County,Kentucky",6124,142328
+73,"Taylor County,Kentucky","Madison County,Kentucky",5865,114972
+74,"Taylor County,Kentucky","Magoffin County,Kentucky",11148,295800
+75,"Taylor County,Kentucky","Marion County,Kentucky",1696,36566
+76,"Taylor County,Kentucky","Marshall County,Kentucky",11576,335397
+77,"Taylor County,Kentucky","Martin County,Kentucky",14465,372278
+78,"Taylor County,Kentucky","Mason County,Kentucky",10132,239805
+79,"Taylor County,Kentucky","Meade County,Kentucky",5501,117141
+80,"Taylor County,Kentucky","Menifee County,Kentucky",9213,226267
+81,"Taylor County,Kentucky","Mercer County,Kentucky",4421,90285
+82,"Taylor County,Kentucky","Metcalfe County,Kentucky",2757,68741
+83,"Taylor County,Kentucky","Monroe County,Kentucky",4613,91251
+84,"Taylor County,Kentucky","Montgomery County,Kentucky",7856,204176
+85,"Taylor County,Kentucky","Morgan County,Kentucky",10538,284085
+86,"Taylor County,Kentucky","Muhlenberg County,Kentucky",7979,215562
+87,"Taylor County,Kentucky","Nelson County,Kentucky",3227,68967
+88,"Taylor County,Kentucky","Nicholas County,Kentucky",8259,195621
+89,"Taylor County,Kentucky","Ohio County,Kentucky",6892,183152
+90,"Taylor County,Kentucky","Oldham County,Kentucky",6491,167441
+91,"Taylor County,Kentucky","Owen County,Kentucky",7249,167326
+92,"Taylor County,Kentucky","Owsley County,Kentucky",9035,200524
+93,"Taylor County,Kentucky","Pendleton County,Kentucky",9334,222312
+94,"Taylor County,Kentucky","Perry County,Kentucky",10190,244495
+95,"Taylor County,Kentucky","Pike County,Kentucky",14585,348835
+96,"Taylor County,Kentucky","Powell County,Kentucky",8149,213034
+97,"Taylor County,Kentucky","Robertson County,Kentucky",9030,216747
+98,"Taylor County,Kentucky","Rockcastle County,Kentucky",5995,117137
+99,"Taylor County,Kentucky","Rowan County,Kentucky",8679,237581
+100,"Taylor County,Kentucky","Russell County,Kentucky",2941,57673
+101,"Taylor County,Kentucky","Scott County,Kentucky",6584,167111
+102,"Taylor County,Kentucky","Shelby County,Kentucky",5168,119460
+103,"Taylor County,Kentucky","Simpson County,Kentucky",6773,164971
+104,"Taylor County,Kentucky","Spencer County,Kentucky",4176,89479
+105,"Taylor County,Kentucky","Todd County,Kentucky",8360,206153
+106,"Taylor County,Kentucky","Trigg County,Kentucky",10723,295804
+107,"Taylor County,Kentucky","Trimble County,Kentucky",7895,168723
+108,"Taylor County,Kentucky","Union County,Kentucky",11443,308637
+109,"Taylor County,Kentucky","Warren County,Kentucky",5808,129920
+110,"Taylor County,Kentucky","Washington County,Kentucky",2910,58815
+111,"Taylor County,Kentucky","Wayne County,Kentucky",6030,136598
+112,"Taylor County,Kentucky","Webster County,Kentucky",10228,277175
+113,"Taylor County,Kentucky","Whitley County,Kentucky",7458,174406
+114,"Taylor County,Kentucky","Wolfe County,Kentucky",9413,250906
+115,"Taylor County,Kentucky","Woodford County,Kentucky",4821,118722
+116,"Taylor County,Kentucky","Adams County,Ohio",12562,286538
+117,"Taylor County,Kentucky","Allen County,Ohio",16957,474909
+118,"Taylor County,Kentucky","Ashland County,Ohio",20145,576787
+119,"Taylor County,Kentucky","Ashtabula County,Ohio",25892,761539
+120,"Taylor County,Kentucky","Athens County,Ohio",17523,473205
+121,"Taylor County,Kentucky","Auglaize County,Ohio",16213,462174
+122,"Taylor County,Kentucky","Belmont County,Ohio",21483,623219
+123,"Taylor County,Kentucky","Brown County,Ohio",11547,274784
+124,"Taylor County,Kentucky","Butler County,Ohio",12034,324783
+125,"Taylor County,Kentucky","Carroll County,Ohio",23448,660442
+126,"Taylor County,Kentucky","Champaign County,Ohio",14991,416356
+127,"Taylor County,Kentucky","Clark County,Ohio",14419,402988
+128,"Taylor County,Kentucky","Clermont County,Ohio",10785,295961
+129,"Taylor County,Kentucky","Clinton County,Ohio",12879,347268
+130,"Taylor County,Kentucky","Columbiana County,Ohio",25004,696031
+131,"Taylor County,Kentucky","Coshocton County,Ohio",20006,555859
+132,"Taylor County,Kentucky","Crawford County,Ohio",19683,568759
+133,"Taylor County,Kentucky","Cuyahoga County,Ohio",22463,659252
+134,"Taylor County,Kentucky","Darke County,Ohio",15310,419220
+135,"Taylor County,Kentucky","Defiance County,Ohio",20444,553339
+136,"Taylor County,Kentucky","Delaware County,Ohio",17063,483459
+137,"Taylor County,Kentucky","Fairfield County,Ohio",16466,466708
+138,"Taylor County,Kentucky","Fayette County,Ohio",13778,384873
+139,"Taylor County,Kentucky","Franklin County,Ohio",15580,443386
+140,"Taylor County,Kentucky","Fulton County,Ohio",21207,570283
+141,"Taylor County,Kentucky","Gallia County,Ohio",15481,415557
+142,"Taylor County,Kentucky","Geauga County,Ohio",23992,698470
+143,"Taylor County,Kentucky","Greene County,Ohio",13206,356622
+144,"Taylor County,Kentucky","Guernsey County,Ohio",19212,556900
+145,"Taylor County,Kentucky","Hamilton County,Ohio",10689,289267
+146,"Taylor County,Kentucky","Hancock County,Ohio",18066,515804
+147,"Taylor County,Kentucky","Hardin County,Ohio",17853,500202
+148,"Taylor County,Kentucky","Harrison County,Ohio",22453,642508
+149,"Taylor County,Kentucky","Henry County,Ohio",19790,540273
+150,"Taylor County,Kentucky","Highland County,Ohio",13695,319986
+151,"Taylor County,Kentucky","Hocking County,Ohio",17904,510112
+152,"Taylor County,Kentucky","Holmes County,Ohio",21557,592717
+153,"Taylor County,Kentucky","Huron County,Ohio",21292,575557
+154,"Taylor County,Kentucky","Jackson County,Ohio",15032,398752
+155,"Taylor County,Kentucky","Jefferson County,Ohio",23447,652286
+156,"Taylor County,Kentucky","Knox County,Ohio",19512,543081
+157,"Taylor County,Kentucky","Lawrence County,Ohio",13602,351613
+158,"Taylor County,Kentucky","Licking County,Ohio",17845,498304
+159,"Taylor County,Kentucky","Logan County,Ohio",16225,448892
+160,"Taylor County,Kentucky","Lorain County,Ohio",23077,634211
+161,"Taylor County,Kentucky","Lucas County,Ohio",21391,602324
+162,"Taylor County,Kentucky","Madison County,Ohio",15000,420055
+163,"Taylor County,Kentucky","Mahoning County,Ohio",24861,713170
+164,"Taylor County,Kentucky","Marion County,Ohio",18110,490894
+165,"Taylor County,Kentucky","Medina County,Ohio",20791,601800
+166,"Taylor County,Kentucky","Meigs County,Ohio",16413,445940
+167,"Taylor County,Kentucky","Mercer County,Ohio",17449,489108
+168,"Taylor County,Kentucky","Miami County,Ohio",13799,384613
+169,"Taylor County,Kentucky","Monroe County,Ohio",22325,624889
+170,"Taylor County,Kentucky","Montgomery County,Ohio",13182,362353
+171,"Taylor County,Kentucky","Morgan County,Ohio",20278,565396
+172,"Taylor County,Kentucky","Morrow County,Ohio",17870,506280
+173,"Taylor County,Kentucky","Muskingum County,Ohio",18063,523056
+174,"Taylor County,Kentucky","Noble County,Ohio",20831,608049
+175,"Taylor County,Kentucky","Paulding County,Ohio",19488,537887
+176,"Taylor County,Kentucky","Perry County,Ohio",18132,511639
+177,"Taylor County,Kentucky","Pickaway County,Ohio",15715,433469
+178,"Taylor County,Kentucky","Pike County,Ohio",14267,334598
+179,"Taylor County,Kentucky","Portage County,Ohio",23313,672950
+180,"Taylor County,Kentucky","Preble County,Ohio",14079,369182
+181,"Taylor County,Kentucky","Putnam County,Ohio",18131,507377
+182,"Taylor County,Kentucky","Richland County,Ohio",18900,541518
+183,"Taylor County,Kentucky","Ross County,Ohio",15359,432786
+184,"Taylor County,Kentucky","Sandusky County,Ohio",21106,595880
+185,"Taylor County,Kentucky","Scioto County,Ohio",13883,350304
+186,"Taylor County,Kentucky","Seneca County,Ohio",20410,572144
+187,"Taylor County,Kentucky","Shelby County,Ohio",14837,420898
+188,"Taylor County,Kentucky","Stark County,Ohio",23058,657333
+189,"Taylor County,Kentucky","Summit County,Ohio",21994,637127
+190,"Taylor County,Kentucky","Trumbull County,Ohio",24894,723442
+191,"Taylor County,Kentucky","Tuscarawas County,Ohio",21507,616265
+192,"Taylor County,Kentucky","Union County,Ohio",16352,446276
+193,"Taylor County,Kentucky","Van Wert County,Ohio",18122,507432
+194,"Taylor County,Kentucky","Vinton County,Ohio",17603,442854
+195,"Taylor County,Kentucky","Warren County,Ohio",11568,315524
+196,"Taylor County,Kentucky","Washington County,Ohio",19450,517889
+197,"Taylor County,Kentucky","Wayne County,Ohio",20519,590797
+198,"Taylor County,Kentucky","Williams County,Ohio",21662,607638
+199,"Taylor County,Kentucky","Wood County,Ohio",19154,556433
+200,"Taylor County,Kentucky","Wyandot County,Ohio",18761,536684
+201,"Taylor County,Kentucky","Accomack County,Virginia",41281,1189054
+202,"Taylor County,Kentucky","Albemarle County,Virginia",27431,801553
+203,"Taylor County,Kentucky","Alleghany County,Virginia",22100,638576
+204,"Taylor County,Kentucky","Amelia County,Virginia",32132,901671
+205,"Taylor County,Kentucky","Amherst County,Virginia",27429,769542
+206,"Taylor County,Kentucky","Appomattox County,Virginia",29022,808301
+207,"Taylor County,Kentucky","Arlington County,Virginia",33714,997585
+208,"Taylor County,Kentucky","Augusta County,Virginia",26042,739893
+209,"Taylor County,Kentucky","Bath County,Virginia",25112,713886
+210,"Taylor County,Kentucky","Bedford County,Virginia",27541,676247
+211,"Taylor County,Kentucky","Bland County,Virginia",21062,604796
+212,"Taylor County,Kentucky","Botetourt County,Virginia",25254,709876
+213,"Taylor County,Kentucky","Brunswick County,Virginia",34163,940425
+214,"Taylor County,Kentucky","Buchanan County,Virginia",18111,396651
+215,"Taylor County,Kentucky","Buckingham County,Virginia",29305,819236
+216,"Taylor County,Kentucky","Campbell County,Virginia",28957,717482
+217,"Taylor County,Kentucky","Caroline County,Virginia",32770,970399
+218,"Taylor County,Kentucky","Carroll County,Virginia",22501,557193
+219,"Taylor County,Kentucky","Charles City County,Virginia",32871,967433
+220,"Taylor County,Kentucky","Charlotte County,Virginia",30907,861822
+221,"Taylor County,Kentucky","Chesterfield County,Virginia",32007,945217
+222,"Taylor County,Kentucky","Clarke County,Virginia",31611,928611
+223,"Taylor County,Kentucky","Craig County,Virginia",23743,659661
+224,"Taylor County,Kentucky","Culpeper County,Virginia",31228,890770
+225,"Taylor County,Kentucky","Cumberland County,Virginia",30514,847239
+226,"Taylor County,Kentucky","Dickenson County,Virginia",15538,354326
+227,"Taylor County,Kentucky","Dinwiddie County,Virginia",33754,995649
+228,"Taylor County,Kentucky","Essex County,Virginia",34588,994441
+229,"Taylor County,Kentucky","Fairfax County,Virginia",33405,988252
+230,"Taylor County,Kentucky","Fauquier County,Virginia",32049,949863
+231,"Taylor County,Kentucky","Floyd County,Virginia",24393,597294
+232,"Taylor County,Kentucky","Fluvanna County,Virginia",29109,853725
+233,"Taylor County,Kentucky","Franklin County,Virginia",27054,677480
+234,"Taylor County,Kentucky","Frederick County,Virginia",30276,842745
+235,"Taylor County,Kentucky","Giles County,Virginia",21793,616354
+236,"Taylor County,Kentucky","Gloucester County,Virginia",35041,1021622
+237,"Taylor County,Kentucky","Goochland County,Virginia",30012,884336
+238,"Taylor County,Kentucky","Grayson County,Virginia",22234,520361
+239,"Taylor County,Kentucky","Greene County,Virginia",29424,837137
+240,"Taylor County,Kentucky","Greensville County,Virginia",35359,957844
+241,"Taylor County,Kentucky","Halifax County,Virginia",30805,754880
+242,"Taylor County,Kentucky","Hanover County,Virginia",31219,925443
+243,"Taylor County,Kentucky","Henrico County,Virginia",31730,938402
+244,"Taylor County,Kentucky","Henry County,Virginia",26375,643914
+245,"Taylor County,Kentucky","Highland County,Virginia",26556,723856
+246,"Taylor County,Kentucky","Isle of Wight County,Virginia",35982,1042979
+247,"Taylor County,Kentucky","James City County,Virginia",34107,1008204
+248,"Taylor County,Kentucky","King and Queen County,Virginia",33765,983788
+249,"Taylor County,Kentucky","King George County,Virginia",33883,998385
+250,"Taylor County,Kentucky","King William County,Virginia",32452,953711
+251,"Taylor County,Kentucky","Lancaster County,Virginia",36245,1036796
+252,"Taylor County,Kentucky","Lee County,Virginia",12933,302201
+253,"Taylor County,Kentucky","Loudoun County,Virginia",33107,964478
+254,"Taylor County,Kentucky","Louisa County,Virginia",29670,867431
+255,"Taylor County,Kentucky","Lunenburg County,Virginia",32679,903106
+256,"Taylor County,Kentucky","Madison County,Virginia",30344,866878
+257,"Taylor County,Kentucky","Mathews County,Virginia",35866,1045045
+258,"Taylor County,Kentucky","Mecklenburg County,Virginia",32837,806426
+259,"Taylor County,Kentucky","Middlesex County,Virginia",34643,1017822
+260,"Taylor County,Kentucky","Montgomery County,Virginia",22876,644361
+261,"Taylor County,Kentucky","Nelson County,Virginia",27970,781233
+262,"Taylor County,Kentucky","New Kent County,Virginia",33543,982118
+263,"Taylor County,Kentucky","Northampton County,Virginia",38524,1124868
+264,"Taylor County,Kentucky","Northumberland County,Virginia",36285,1035308
+265,"Taylor County,Kentucky","Nottoway County,Virginia",32172,903485
+266,"Taylor County,Kentucky","Orange County,Virginia",30632,875538
+267,"Taylor County,Kentucky","Page County,Virginia",29277,850663
+268,"Taylor County,Kentucky","Patrick County,Virginia",24607,602229
+269,"Taylor County,Kentucky","Pittsylvania County,Virginia",28690,698122
+270,"Taylor County,Kentucky","Powhatan County,Virginia",31266,909557
+271,"Taylor County,Kentucky","Prince Edward County,Virginia",30787,860821
+272,"Taylor County,Kentucky","Prince George County,Virginia",33517,982233
+273,"Taylor County,Kentucky","Prince William County,Virginia",32149,955966
+274,"Taylor County,Kentucky","Pulaski County,Virginia",22244,548614
+275,"Taylor County,Kentucky","Rappahannock County,Virginia",31108,887150
+276,"Taylor County,Kentucky","Richmond County,Virginia",34985,1007952
+277,"Taylor County,Kentucky","Roanoke County,Virginia",24348,607734
+278,"Taylor County,Kentucky","Rockbridge County,Virginia",24433,706932
+279,"Taylor County,Kentucky","Rockingham County,Virginia",28316,823013
+280,"Taylor County,Kentucky","Russell County,Virginia",18070,407148
+281,"Taylor County,Kentucky","Scott County,Virginia",15253,350042
+282,"Taylor County,Kentucky","Shenandoah County,Virginia",28821,853117
+283,"Taylor County,Kentucky","Smyth County,Virginia",19513,460064
+284,"Taylor County,Kentucky","Southampton County,Virginia",35548,1040514
+285,"Taylor County,Kentucky","Spotsylvania County,Virginia",31686,909269
+286,"Taylor County,Kentucky","Stafford County,Virginia",33067,933562
+287,"Taylor County,Kentucky","Surry County,Virginia",34850,1007066
+288,"Taylor County,Kentucky","Sussex County,Virginia",34212,1010757
+289,"Taylor County,Kentucky","Tazewell County,Virginia",19558,460058
+290,"Taylor County,Kentucky","Warren County,Virginia",30723,897709
+291,"Taylor County,Kentucky","Washington County,Virginia",17936,421044
+292,"Taylor County,Kentucky","Westmoreland County,Virginia",34857,1015210
+293,"Taylor County,Kentucky","Wise County,Virginia",13802,330225
+294,"Taylor County,Kentucky","Wythe County,Virginia",20727,502523
+295,"Taylor County,Kentucky","York County,Virginia",35394,1038979
+296,"Taylor County,Kentucky","Alexandria City County,Virginia",34230,1014767
+297,"Taylor County,Kentucky","Bedford City County,Virginia",26706,667678
+298,"Taylor County,Kentucky","Bristol City County,Virginia",17206,391369
+299,"Taylor County,Kentucky","Buena Vista City County,Virginia",24788,720910
+300,"Taylor County,Kentucky","Charlottesville City County,Virginia",27900,816768
+301,"Taylor County,Kentucky","Chesapeake City County,Virginia",36857,1091884
+302,"Taylor County,Kentucky","Clifton Forge City County,Virginia",22644,658783
+303,"Taylor County,Kentucky","Colonial Heights City County,Virginia",32566,961109
+304,"Taylor County,Kentucky","Covington City County,Virginia",22169,642162
+305,"Taylor County,Kentucky","Danville City County,Virginia",28532,698370
+306,"Taylor County,Kentucky","Emporia City County,Virginia",34877,1030994
+307,"Taylor County,Kentucky","Fairfax City County,Virginia",33281,981714
+308,"Taylor County,Kentucky","Falls Church City County,Virginia",33422,991897
+309,"Taylor County,Kentucky","Franklin City County,Virginia",36095,1048369
+310,"Taylor County,Kentucky","Fredericksburg City County,Virginia",32819,918929
+311,"Taylor County,Kentucky","Galax City County,Virginia",23125,563060
+312,"Taylor County,Kentucky","Hampton City County,Virginia",35344,1048685
+313,"Taylor County,Kentucky","Harrisonburg City County,Virginia",27376,802910
+314,"Taylor County,Kentucky","Hopewell City County,Virginia",32603,960076
+315,"Taylor County,Kentucky","Lexington City County,Virginia",24422,709401
+316,"Taylor County,Kentucky","Lynchburg City County,Virginia",28005,784516
+317,"Taylor County,Kentucky","Manassas City County,Virginia",32376,960911
+318,"Taylor County,Kentucky","Manassas Park City County,Virginia",32878,967254
+319,"Taylor County,Kentucky","Martinsville City County,Virginia",26902,652708
+320,"Taylor County,Kentucky","Newport News City County,Virginia",34901,1035171
+321,"Taylor County,Kentucky","Norfolk City County,Virginia",36651,1074101
+322,"Taylor County,Kentucky","Norton City County,Virginia",14431,342037
+323,"Taylor County,Kentucky","Petersburg City County,Virginia",32438,962097
+324,"Taylor County,Kentucky","Poquoson City County,Virginia",35573,1045747
+325,"Taylor County,Kentucky","Portsmouth City County,Virginia",36590,1082922
+326,"Taylor County,Kentucky","Radford County,Virginia",22755,562562
+327,"Taylor County,Kentucky","Richmond City County,Virginia",31306,926213
+328,"Taylor County,Kentucky","Roanoke City County,Virginia",24950,627839
+329,"Taylor County,Kentucky","Salem City County,Virginia",24362,614389
+330,"Taylor County,Kentucky","South Boston City County,Virginia",30544,752549
+331,"Taylor County,Kentucky","Staunton City County,Virginia",26193,764045
+332,"Taylor County,Kentucky","Suffolk City County,Virginia",36825,1057703
+333,"Taylor County,Kentucky","Virginia Beach City County,Virginia",37212,1097359
+334,"Taylor County,Kentucky","Waynesboro City County,Virginia",26531,776763
+335,"Taylor County,Kentucky","Williamsburg City County,Virginia",33945,1007420
+336,"Taylor County,Kentucky","Winchester City County,Virginia",30755,876746
+337,"Taylor County,Kentucky","Barbour County,West Virginia",22236,637443
+338,"Taylor County,Kentucky","Berkeley County,West Virginia",30169,875602
+339,"Taylor County,Kentucky","Boone County,West Virginia",17415,471060
+340,"Taylor County,Kentucky","Braxton County,West Virginia",18926,528422
+341,"Taylor County,Kentucky","Brooke County,West Virginia",23562,665467
+342,"Taylor County,Kentucky","Cabell County,West Virginia",11986,337569
+343,"Taylor County,Kentucky","Calhoun County,West Virginia",18847,526107
+344,"Taylor County,Kentucky","Clay County,West Virginia",17693,499335
+345,"Taylor County,Kentucky","Doddridge County,West Virginia",21379,618952
+346,"Taylor County,Kentucky","Fayette County,West Virginia",18980,517679
+347,"Taylor County,Kentucky","Gilmer County,West Virginia",20125,550609
+348,"Taylor County,Kentucky","Grant County,West Virginia",26591,738988
+349,"Taylor County,Kentucky","Greenbrier County,West Virginia",22054,595718
+350,"Taylor County,Kentucky","Hampshire County,West Virginia",29423,837206
+351,"Taylor County,Kentucky","Hancock County,West Virginia",25152,700002
+352,"Taylor County,Kentucky","Hardy County,West Virginia",27647,770485
+353,"Taylor County,Kentucky","Harrison County,West Virginia",21469,623814
+354,"Taylor County,Kentucky","Jackson County,West Virginia",16731,480438
+355,"Taylor County,Kentucky","Jefferson County,West Virginia",31635,931600
+356,"Taylor County,Kentucky","Kanawha County,West Virginia",16289,451743
+357,"Taylor County,Kentucky","Lewis County,West Virginia",20099,577284
+358,"Taylor County,Kentucky","Lincoln County,West Virginia",15203,395219
+359,"Taylor County,Kentucky","Logan County,West Virginia",17459,439033
+360,"Taylor County,Kentucky","McDowell County,West Virginia",21449,472206
+361,"Taylor County,Kentucky","Marion County,West Virginia",22615,650981
+362,"Taylor County,Kentucky","Marshall County,West Virginia",23520,659974
+363,"Taylor County,Kentucky","Mason County,West Virginia",14967,428313
+364,"Taylor County,Kentucky","Mercer County,West Virginia",19615,563302
+365,"Taylor County,Kentucky","Mineral County,West Virginia",28285,767809
+366,"Taylor County,Kentucky","Mingo County,West Virginia",16143,405486
+367,"Taylor County,Kentucky","Monongalia County,West Virginia",22825,676449
+368,"Taylor County,Kentucky","Monroe County,West Virginia",22661,608014
+369,"Taylor County,Kentucky","Morgan County,West Virginia",29660,864994
+370,"Taylor County,Kentucky","Nicholas County,West Virginia",19409,559216
+371,"Taylor County,Kentucky","Ohio County,West Virginia",22581,646704
+372,"Taylor County,Kentucky","Pendleton County,West Virginia",26922,741612
+373,"Taylor County,Kentucky","Pleasants County,West Virginia",20214,578290
+374,"Taylor County,Kentucky","Pocahontas County,West Virginia",24738,628754
+375,"Taylor County,Kentucky","Preston County,West Virginia",24971,703180
+376,"Taylor County,Kentucky","Putnam County,West Virginia",13669,390346
+377,"Taylor County,Kentucky","Raleigh County,West Virginia",18157,516995
+378,"Taylor County,Kentucky","Randolph County,West Virginia",22600,639739
+379,"Taylor County,Kentucky","Ritchie County,West Virginia",20544,591994
+380,"Taylor County,Kentucky","Roane County,West Virginia",18357,509254
+381,"Taylor County,Kentucky","Summers County,West Virginia",21609,578433
+382,"Taylor County,Kentucky","Taylor County,West Virginia",22507,646553
+383,"Taylor County,Kentucky","Tucker County,West Virginia",23667,670263
+384,"Taylor County,Kentucky","Tyler County,West Virginia",22123,617906
+385,"Taylor County,Kentucky","Upshur County,West Virginia",21664,591981
+386,"Taylor County,Kentucky","Wayne County,West Virginia",13517,358764
+387,"Taylor County,Kentucky","Webster County,West Virginia",21593,586295
+388,"Taylor County,Kentucky","Wetzel County,West Virginia",23335,639812
+389,"Taylor County,Kentucky","Wirt County,West Virginia",18997,537776
+390,"Taylor County,Kentucky","Wood County,West Virginia",18512,539466
+391,"Taylor County,Kentucky","Wyoming County,West Virginia",20101,556937

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Champaign County,Ohio","Adair County,Kentucky",16720,454312
+1,"Champaign County,Ohio","Allen County,Kentucky",17477,507599
+2,"Champaign County,Ohio","Anderson County,Kentucky",11702,333457
+3,"Champaign County,Ohio","Ballard County,Kentucky",23637,699761
+4,"Champaign County,Ohio","Barren County,Kentucky",16604,476011
+5,"Champaign County,Ohio","Bath County,Kentucky",11987,354766
+6,"Champaign County,Ohio","Bell County,Kentucky",17222,482492
+7,"Champaign County,Ohio","Boone County,Kentucky",7171,184183
+8,"Champaign County,Ohio","Bourbon County,Kentucky",10576,292725
+9,"Champaign County,Ohio","Boyd County,Kentucky",11761,282634
+10,"Champaign County,Ohio","Boyle County,Kentucky",13012,361346
+11,"Champaign County,Ohio","Bracken County,Kentucky",8734,233543
+12,"Champaign County,Ohio","Breathitt County,Kentucky",14588,418947
+13,"Champaign County,Ohio","Breckinridge County,Kentucky",15516,426163
+14,"Champaign County,Ohio","Bullitt County,Kentucky",12053,346994
+15,"Champaign County,Ohio","Butler County,Kentucky",16856,484669
+16,"Champaign County,Ohio","Caldwell County,Kentucky",19748,590614
+17,"Champaign County,Ohio","Calloway County,Kentucky",22558,675607
+18,"Champaign County,Ohio","Campbell County,Kentucky",7264,186492
+19,"Champaign County,Ohio","Carlisle County,Kentucky",24094,715129
+20,"Champaign County,Ohio","Carroll County,Kentucky",8745,245948
+21,"Champaign County,Ohio","Carter County,Kentucky",12129,295349
+22,"Champaign County,Ohio","Casey County,Kentucky",14936,391475
+23,"Champaign County,Ohio","Christian County,Kentucky",19397,585871
+24,"Champaign County,Ohio","Clay County,Kentucky",15453,441537
+25,"Champaign County,Ohio","Clinton County,Kentucky",17175,481021
+26,"Champaign County,Ohio","Crittenden County,Kentucky",21328,623685
+27,"Champaign County,Ohio","Cumberland County,Kentucky",17929,499259
+28,"Champaign County,Ohio","Daviess County,Kentucky",16829,489481
+29,"Champaign County,Ohio","Edmonson County,Kentucky",16297,472544
+30,"Champaign County,Ohio","Elliott County,Kentucky",13472,323889
+31,"Champaign County,Ohio","Estill County,Kentucky",12521,355487
+32,"Champaign County,Ohio","Fayette County,Kentucky",9950,285981
+33,"Champaign County,Ohio","Fleming County,Kentucky",11091,224670
+34,"Champaign County,Ohio","Floyd County,Kentucky",16217,393403
+35,"Champaign County,Ohio","Franklin County,Kentucky",11185,289331
+36,"Champaign County,Ohio","Fulton County,Kentucky",24498,736094
+37,"Champaign County,Ohio","Gallatin County,Kentucky",7956,218361
+38,"Champaign County,Ohio","Garrard County,Kentucky",12980,365340
+39,"Champaign County,Ohio","Grant County,Kentucky",8023,218835
+40,"Champaign County,Ohio","Graves County,Kentucky",23118,687836
+41,"Champaign County,Ohio","Grayson County,Kentucky",15184,441305
+42,"Champaign County,Ohio","Green County,Kentucky",15871,447301
+43,"Champaign County,Ohio","Greenup County,Kentucky",10143,246567
+44,"Champaign County,Ohio","Hancock County,Kentucky",15714,443999
+45,"Champaign County,Ohio","Hardin County,Kentucky",14060,403438
+46,"Champaign County,Ohio","Harlan County,Kentucky",19516,538098
+47,"Champaign County,Ohio","Harrison County,Kentucky",9459,252898
+48,"Champaign County,Ohio","Hart County,Kentucky",14859,431066
+49,"Champaign County,Ohio","Henderson County,Kentucky",18413,531976
+50,"Champaign County,Ohio","Henry County,Kentucky",9930,274271
+51,"Champaign County,Ohio","Hickman County,Kentucky",24127,716421
+52,"Champaign County,Ohio","Hopkins County,Kentucky",19207,565082
+53,"Champaign County,Ohio","Jackson County,Kentucky",13965,385323
+54,"Champaign County,Ohio","Jefferson County,Kentucky",11146,316430
+55,"Champaign County,Ohio","Jessamine County,Kentucky",11211,309293
+56,"Champaign County,Ohio","Johnson County,Kentucky",14866,359034
+57,"Champaign County,Ohio","Kenton County,Kentucky",6816,177741
+58,"Champaign County,Ohio","Knott County,Kentucky",17048,482325
+59,"Champaign County,Ohio","Knox County,Kentucky",15383,444233
+60,"Champaign County,Ohio","Larue County,Kentucky",14130,407037
+61,"Champaign County,Ohio","Laurel County,Kentucky",14234,415628
+62,"Champaign County,Ohio","Lawrence County,Kentucky",14007,330458
+63,"Champaign County,Ohio","Lee County,Kentucky",13837,395404
+64,"Champaign County,Ohio","Leslie County,Kentucky",17403,492660
+65,"Champaign County,Ohio","Letcher County,Kentucky",18300,507298
+66,"Champaign County,Ohio","Lewis County,Kentucky",11053,268417
+67,"Champaign County,Ohio","Lincoln County,Kentucky",13690,382259
+68,"Champaign County,Ohio","Livingston County,Kentucky",21924,640581
+69,"Champaign County,Ohio","Logan County,Kentucky",18597,527907
+70,"Champaign County,Ohio","Lyon County,Kentucky",22057,650972
+71,"Champaign County,Ohio","McCracken County,Kentucky",22249,667821
+72,"Champaign County,Ohio","McCreary County,Kentucky",16339,460070
+73,"Champaign County,Ohio","Madison County,Kentucky",11373,329210
+74,"Champaign County,Ohio","Magoffin County,Kentucky",15197,436838
+75,"Champaign County,Ohio","Marion County,Kentucky",13710,385810
+76,"Champaign County,Ohio","Marshall County,Kentucky",21664,651393
+77,"Champaign County,Ohio","Martin County,Kentucky",15493,362803
+78,"Champaign County,Ohio","Mason County,Kentucky",9467,248589
+79,"Champaign County,Ohio","Meade County,Kentucky",13593,383671
+80,"Champaign County,Ohio","Menifee County,Kentucky",13262,367304
+81,"Champaign County,Ohio","Mercer County,Kentucky",12086,341521
+82,"Champaign County,Ohio","Metcalfe County,Kentucky",17056,496104
+83,"Champaign County,Ohio","Monroe County,Kentucky",17951,519687
+84,"Champaign County,Ohio","Montgomery County,Kentucky",11905,345213
+85,"Champaign County,Ohio","Morgan County,Kentucky",14587,425122
+86,"Champaign County,Ohio","Muhlenberg County,Kentucky",18067,531558
+87,"Champaign County,Ohio","Nelson County,Kentucky",13317,384881
+88,"Champaign County,Ohio","Nicholas County,Kentucky",11311,237839
+89,"Champaign County,Ohio","Ohio County,Kentucky",16980,499148
+90,"Champaign County,Ohio","Oldham County,Kentucky",10046,287376
+91,"Champaign County,Ohio","Owen County,Kentucky",9188,244750
+92,"Champaign County,Ohio","Owsley County,Kentucky",14984,415381
+93,"Champaign County,Ohio","Pendleton County,Kentucky",8140,208334
+94,"Champaign County,Ohio","Perry County,Kentucky",16199,458830
+95,"Champaign County,Ohio","Pike County,Kentucky",17897,423727
+96,"Champaign County,Ohio","Powell County,Kentucky",12198,354072
+97,"Champaign County,Ohio","Robertson County,Kentucky",10063,252327
+98,"Champaign County,Ohio","Rockcastle County,Kentucky",12807,370353
+99,"Champaign County,Ohio","Rowan County,Kentucky",12576,258032
+100,"Champaign County,Ohio","Russell County,Kentucky",16373,461639
+101,"Champaign County,Ohio","Scott County,Kentucky",8952,253356
+102,"Champaign County,Ohio","Shelby County,Kentucky",11301,301262
+103,"Champaign County,Ohio","Simpson County,Kentucky",18178,535965
+104,"Champaign County,Ohio","Spencer County,Kentucky",12260,346050
+105,"Champaign County,Ohio","Taylor County,Kentucky",14999,417306
+106,"Champaign County,Ohio","Todd County,Kentucky",19833,552068
+107,"Champaign County,Ohio","Trigg County,Kentucky",20811,611800
+108,"Champaign County,Ohio","Trimble County,Kentucky",9643,269272
+109,"Champaign County,Ohio","Union County,Kentucky",20132,562423
+110,"Champaign County,Ohio","Warren County,Kentucky",17213,500913
+111,"Champaign County,Ohio","Washington County,Kentucky",13328,370118
+112,"Champaign County,Ohio","Wayne County,Kentucky",16549,458711
+113,"Champaign County,Ohio","Webster County,Kentucky",20056,568598
+114,"Champaign County,Ohio","Whitley County,Kentucky",15067,450113
+115,"Champaign County,Ohio","Wolfe County,Kentucky",13462,391943
+116,"Champaign County,Ohio","Woodford County,Kentucky",10564,301613
+117,"Champaign County,Ohio","Adams County,Ohio",8203,161665
+118,"Champaign County,Ohio","Allen County,Ohio",5046,117858
+119,"Champaign County,Ohio","Ashland County,Ohio",7922,198807
+120,"Champaign County,Ohio","Ashtabula County,Ohio",13668,383559
+121,"Champaign County,Ohio","Athens County,Ohio",7861,194029
+122,"Champaign County,Ohio","Auglaize County,Ohio",4302,105123
+123,"Champaign County,Ohio","Belmont County,Ohio",9920,268343
+124,"Champaign County,Ohio","Brown County,Ohio",7861,154432
+125,"Champaign County,Ohio","Butler County,Ohio",5256,130942
+126,"Champaign County,Ohio","Carroll County,Ohio",11885,282808
+127,"Champaign County,Ohio","Clark County,Ohio",2179,35669
+128,"Champaign County,Ohio","Clermont County,Ohio",6338,168674
+129,"Champaign County,Ohio","Clinton County,Ohio",4678,90936
+130,"Champaign County,Ohio","Columbiana County,Ohio",12781,318051
+131,"Champaign County,Ohio","Coshocton County,Ohio",7958,187409
+132,"Champaign County,Ohio","Crawford County,Ohio",6149,137815
+133,"Champaign County,Ohio","Cuyahoga County,Ohio",10240,281272
+134,"Champaign County,Ohio","Darke County,Ohio",4489,79129
+135,"Champaign County,Ohio","Defiance County,Ohio",8533,196288
+136,"Champaign County,Ohio","Delaware County,Ohio",4213,78035
+137,"Champaign County,Ohio","Fairfield County,Ohio",5055,115286
+138,"Champaign County,Ohio","Fayette County,Ohio",4204,81013
+139,"Champaign County,Ohio","Franklin County,Ohio",3762,82663
+140,"Champaign County,Ohio","Fulton County,Ohio",9296,213232
+141,"Champaign County,Ohio","Gallia County,Ohio",8417,224339
+142,"Champaign County,Ohio","Geauga County,Ohio",11769,320490
+143,"Champaign County,Ohio","Greene County,Ohio",2837,61715
+144,"Champaign County,Ohio","Guernsey County,Ohio",7649,202024
+145,"Champaign County,Ohio","Hamilton County,Ohio",5702,147706
+146,"Champaign County,Ohio","Hancock County,Ohio",5698,113331
+147,"Champaign County,Ohio","Hardin County,Ohio",4249,78038
+148,"Champaign County,Ohio","Harrison County,Ohio",10891,264873
+149,"Champaign County,Ohio","Henry County,Ohio",7879,183222
+150,"Champaign County,Ohio","Highland County,Ohio",5907,123623
+151,"Champaign County,Ohio","Hocking County,Ohio",6492,158691
+152,"Champaign County,Ohio","Holmes County,Ohio",9385,214184
+153,"Champaign County,Ohio","Huron County,Ohio",8246,172243
+154,"Champaign County,Ohio","Jackson County,Ohio",7358,196881
+155,"Champaign County,Ohio","Jefferson County,Ohio",11883,297410
+156,"Champaign County,Ohio","Knox County,Ohio",7289,165101
+157,"Champaign County,Ohio","Lawrence County,Ohio",11040,258954
+158,"Champaign County,Ohio","Licking County,Ohio",5790,129282
+159,"Champaign County,Ohio","Logan County,Ohio",2292,39268
+160,"Champaign County,Ohio","Lorain County,Ohio",10854,256231
+161,"Champaign County,Ohio","Lucas County,Ohio",9333,200830
+162,"Champaign County,Ohio","Madison County,Ohio",2606,48827
+163,"Champaign County,Ohio","Mahoning County,Ohio",12638,335190
+164,"Champaign County,Ohio","Marion County,Ohio",4119,87713
+165,"Champaign County,Ohio","Medina County,Ohio",8567,223820
+166,"Champaign County,Ohio","Meigs County,Ohio",8786,224137
+167,"Champaign County,Ohio","Mercer County,Ohio",5538,132057
+168,"Champaign County,Ohio","Miami County,Ohio",2586,48726
+169,"Champaign County,Ohio","Monroe County,Ohio",11325,282907
+170,"Champaign County,Ohio","Montgomery County,Ohio",3566,89564
+171,"Champaign County,Ohio","Morgan County,Ohio",8714,210520
+172,"Champaign County,Ohio","Morrow County,Ohio",5729,118248
+173,"Champaign County,Ohio","Muskingum County,Ohio",6500,168180
+174,"Champaign County,Ohio","Noble County,Ohio",9348,239144
+175,"Champaign County,Ohio","Paulding County,Ohio",7577,180836
+176,"Champaign County,Ohio","Perry County,Ohio",6568,156764
+177,"Champaign County,Ohio","Pickaway County,Ohio",4573,102427
+178,"Champaign County,Ohio","Pike County,Ohio",6927,177560
+179,"Champaign County,Ohio","Portage County,Ohio",11090,294970
+180,"Champaign County,Ohio","Preble County,Ohio",4336,112275
+181,"Champaign County,Ohio","Putnam County,Ohio",6220,150326
+182,"Champaign County,Ohio","Richland County,Ohio",6677,163538
+183,"Champaign County,Ohio","Ross County,Ohio",5592,142601
+184,"Champaign County,Ohio","Sandusky County,Ohio",8757,174847
+185,"Champaign County,Ohio","Scioto County,Ohio",7886,201014
+186,"Champaign County,Ohio","Seneca County,Ohio",7374,148731
+187,"Champaign County,Ohio","Shelby County,Ohio",2948,56403
+188,"Champaign County,Ohio","Stark County,Ohio",10835,279353
+189,"Champaign County,Ohio","Summit County,Ohio",9771,259147
+190,"Champaign County,Ohio","Trumbull County,Ohio",12671,345462
+191,"Champaign County,Ohio","Tuscarawas County,Ohio",9945,238630
+192,"Champaign County,Ohio","Union County,Ohio",2362,43095
+193,"Champaign County,Ohio","Van Wert County,Ohio",6211,150381
+194,"Champaign County,Ohio","Vinton County,Ohio",7774,191354
+195,"Champaign County,Ohio","Warren County,Ohio",4831,96277
+196,"Champaign County,Ohio","Washington County,Ohio",10532,280089
+197,"Champaign County,Ohio","Wayne County,Ohio",8295,212817
+198,"Champaign County,Ohio","Williams County,Ohio",9710,219805
+199,"Champaign County,Ohio","Wood County,Ohio",7096,154938
+200,"Champaign County,Ohio","Wyandot County,Ohio",5543,109014
+201,"Champaign County,Ohio","Accomack County,Virginia",37133,1030214
+202,"Champaign County,Ohio","Albemarle County,Virginia",25109,714317
+203,"Champaign County,Ohio","Alleghany County,Virginia",19778,551341
+204,"Champaign County,Ohio","Amelia County,Virginia",29810,814436
+205,"Champaign County,Ohio","Amherst County,Virginia",25107,682306
+206,"Champaign County,Ohio","Appomattox County,Virginia",26700,721065
+207,"Champaign County,Ohio","Arlington County,Virginia",25997,747141
+208,"Champaign County,Ohio","Augusta County,Virginia",23720,652657
+209,"Champaign County,Ohio","Bath County,Virginia",22790,626650
+210,"Champaign County,Ohio","Bedford County,Virginia",25367,668431
+211,"Champaign County,Ohio","Bland County,Virginia",18740,517560
+212,"Champaign County,Ohio","Botetourt County,Virginia",22932,622640
+213,"Champaign County,Ohio","Brunswick County,Virginia",32353,864109
+214,"Champaign County,Ohio","Buchanan County,Virginia",21949,503233
+215,"Champaign County,Ohio","Buckingham County,Virginia",26983,732001
+216,"Champaign County,Ohio","Campbell County,Virginia",26624,723537
+217,"Champaign County,Ohio","Caroline County,Virginia",30002,866131
+218,"Champaign County,Ohio","Carroll County,Virginia",20986,586998
+219,"Champaign County,Ohio","Charles City County,Virginia",30549,880198
+220,"Champaign County,Ohio","Charlotte County,Virginia",28585,774586
+221,"Champaign County,Ohio","Chesterfield County,Virginia",29685,857981
+222,"Champaign County,Ohio","Clarke County,Virginia",24109,647777
+223,"Champaign County,Ohio","Craig County,Virginia",21421,572425
+224,"Champaign County,Ohio","Culpeper County,Virginia",27430,747216
+225,"Champaign County,Ohio","Cumberland County,Virginia",28193,760003
+226,"Champaign County,Ohio","Dickenson County,Virginia",21757,508730
+227,"Champaign County,Ohio","Dinwiddie County,Virginia",31432,908413
+228,"Champaign County,Ohio","Essex County,Virginia",31404,890185
+229,"Champaign County,Ohio","Fairfax County,Virginia",25688,737808
+230,"Champaign County,Ohio","Fauquier County,Virginia",25860,713942
+231,"Champaign County,Ohio","Floyd County,Virginia",22606,605962
+232,"Champaign County,Ohio","Fluvanna County,Virginia",26787,766489
+233,"Champaign County,Ohio","Franklin County,Virginia",24880,669664
+234,"Champaign County,Ohio","Frederick County,Virginia",22899,622499
+235,"Champaign County,Ohio","Giles County,Virginia",19471,529118
+236,"Champaign County,Ohio","Gloucester County,Virginia",32719,934386
+237,"Champaign County,Ohio","Goochland County,Virginia",27691,797100
+238,"Champaign County,Ohio","Grayson County,Virginia",21388,576705
+239,"Champaign County,Ohio","Greene County,Virginia",27102,749902
+240,"Champaign County,Ohio","Greensville County,Virginia",32848,957165
+241,"Champaign County,Ohio","Halifax County,Virginia",29289,784684
+242,"Champaign County,Ohio","Hanover County,Virginia",28897,838207
+243,"Champaign County,Ohio","Henrico County,Virginia",29408,851167
+244,"Champaign County,Ohio","Henry County,Virginia",24859,673718
+245,"Champaign County,Ohio","Highland County,Virginia",23042,572043
+246,"Champaign County,Ohio","Isle of Wight County,Virginia",33661,955743
+247,"Champaign County,Ohio","James City County,Virginia",31785,920969
+248,"Champaign County,Ohio","King and Queen County,Virginia",31443,896553
+249,"Champaign County,Ohio","King George County,Virginia",29962,849992
+250,"Champaign County,Ohio","King William County,Virginia",30130,866475
+251,"Champaign County,Ohio","Lancaster County,Virginia",33827,946179
+252,"Champaign County,Ohio","Lee County,Virginia",20313,559051
+253,"Champaign County,Ohio","Loudoun County,Virginia",25605,683644
+254,"Champaign County,Ohio","Louisa County,Virginia",27348,780195
+255,"Champaign County,Ohio","Lunenburg County,Virginia",30357,815870
+256,"Champaign County,Ohio","Madison County,Virginia",27852,735474
+257,"Champaign County,Ohio","Mathews County,Virginia",33544,957809
+258,"Champaign County,Ohio","Mecklenburg County,Virginia",31348,828994
+259,"Champaign County,Ohio","Middlesex County,Virginia",32321,930586
+260,"Champaign County,Ohio","Montgomery County,Virginia",20554,557125
+261,"Champaign County,Ohio","Nelson County,Virginia",25648,693997
+262,"Champaign County,Ohio","New Kent County,Virginia",31221,894883
+263,"Champaign County,Ohio","Northampton County,Virginia",36202,1037632
+264,"Champaign County,Ohio","Northumberland County,Virginia",33866,944692
+265,"Champaign County,Ohio","Nottoway County,Virginia",29850,816250
+266,"Champaign County,Ohio","Orange County,Virginia",28310,788303
+267,"Champaign County,Ohio","Page County,Virginia",26483,695951
+268,"Champaign County,Ohio","Patrick County,Virginia",23091,632033
+269,"Champaign County,Ohio","Pittsylvania County,Virginia",27175,727927
+270,"Champaign County,Ohio","Powhatan County,Virginia",28944,822322
+271,"Champaign County,Ohio","Prince Edward County,Virginia",28465,773585
+272,"Champaign County,Ohio","Prince George County,Virginia",31195,894997
+273,"Champaign County,Ohio","Prince William County,Virginia",25959,720046
+274,"Champaign County,Ohio","Pulaski County,Virginia",20649,553456
+275,"Champaign County,Ohio","Rappahannock County,Virginia",26171,699080
+276,"Champaign County,Ohio","Richmond County,Virginia",32566,917335
+277,"Champaign County,Ohio","Roanoke County,Virginia",22174,599919
+278,"Champaign County,Ohio","Rockbridge County,Virginia",22111,619697
+279,"Champaign County,Ohio","Rockingham County,Virginia",24655,663884
+280,"Champaign County,Ohio","Russell County,Virginia",22549,597740
+281,"Champaign County,Ohio","Scott County,Virginia",22633,606892
+282,"Champaign County,Ohio","Shenandoah County,Virginia",24790,684890
+283,"Champaign County,Ohio","Smyth County,Virginia",21098,582912
+284,"Champaign County,Ohio","Southampton County,Virginia",33226,953279
+285,"Champaign County,Ohio","Spotsylvania County,Virginia",29374,834391
+286,"Champaign County,Ohio","Stafford County,Virginia",27662,801095
+287,"Champaign County,Ohio","Surry County,Virginia",32528,919830
+288,"Champaign County,Ohio","Sussex County,Virginia",31890,923521
+289,"Champaign County,Ohio","Tazewell County,Virginia",19556,536148
+290,"Champaign County,Ohio","Warren County,Virginia",24714,670438
+291,"Champaign County,Ohio","Washington County,Virginia",22491,622379
+292,"Champaign County,Ohio","Westmoreland County,Virginia",30930,868792
+293,"Champaign County,Ohio","Wise County,Virginia",20022,484629
+294,"Champaign County,Ohio","Wythe County,Virginia",19345,535777
+295,"Champaign County,Ohio","York County,Virginia",33073,951743
+296,"Champaign County,Ohio","Alexandria City County,Virginia",26512,764323
+297,"Champaign County,Ohio","Bedford City County,Virginia",24531,659862
+298,"Champaign County,Ohio","Bristol City County,Virginia",22966,648096
+299,"Champaign County,Ohio","Buena Vista City County,Virginia",22466,633674
+300,"Champaign County,Ohio","Charlottesville City County,Virginia",25578,729532
+301,"Champaign County,Ohio","Chesapeake City County,Virginia",34536,1004649
+302,"Champaign County,Ohio","Clifton Forge City County,Virginia",20322,571547
+303,"Champaign County,Ohio","Colonial Heights City County,Virginia",30245,873874
+304,"Champaign County,Ohio","Covington City County,Virginia",19847,554926
+305,"Champaign County,Ohio","Danville City County,Virginia",27017,728174
+306,"Champaign County,Ohio","Emporia City County,Virginia",32555,943758
+307,"Champaign County,Ohio","Fairfax City County,Virginia",26158,749441
+308,"Champaign County,Ohio","Falls Church City County,Virginia",25705,741453
+309,"Champaign County,Ohio","Franklin City County,Virginia",33773,961133
+310,"Champaign County,Ohio","Fredericksburg City County,Virginia",28475,816686
+311,"Champaign County,Ohio","Galax City County,Virginia",21609,592864
+312,"Champaign County,Ohio","Hampton City County,Virginia",33023,961449
+313,"Champaign County,Ohio","Harrisonburg City County,Virginia",25054,715674
+314,"Champaign County,Ohio","Hopewell City County,Virginia",30281,872840
+315,"Champaign County,Ohio","Lexington City County,Virginia",22100,622165
+316,"Champaign County,Ohio","Lynchburg City County,Virginia",25683,697280
+317,"Champaign County,Ohio","Manassas City County,Virginia",26187,724991
+318,"Champaign County,Ohio","Manassas Park City County,Virginia",26689,731334
+319,"Champaign County,Ohio","Martinsville City County,Virginia",25387,682512
+320,"Champaign County,Ohio","Newport News City County,Virginia",32579,947935
+321,"Champaign County,Ohio","Norfolk City County,Virginia",34329,986865
+322,"Champaign County,Ohio","Norton City County,Virginia",20651,496441
+323,"Champaign County,Ohio","Petersburg City County,Virginia",30116,874861
+324,"Champaign County,Ohio","Poquoson City County,Virginia",33251,958512
+325,"Champaign County,Ohio","Portsmouth City County,Virginia",34268,995686
+326,"Champaign County,Ohio","Radford County,Virginia",20961,555166
+327,"Champaign County,Ohio","Richmond City County,Virginia",28984,838977
+328,"Champaign County,Ohio","Roanoke City County,Virginia",22776,620023
+329,"Champaign County,Ohio","Salem City County,Virginia",22187,606573
+330,"Champaign County,Ohio","South Boston City County,Virginia",29029,782353
+331,"Champaign County,Ohio","Staunton City County,Virginia",23871,676809
+332,"Champaign County,Ohio","Suffolk City County,Virginia",34503,970467
+333,"Champaign County,Ohio","Virginia Beach City County,Virginia",34890,1010124
+334,"Champaign County,Ohio","Waynesboro City County,Virginia",24209,689527
+335,"Champaign County,Ohio","Williamsburg City County,Virginia",31623,920184
+336,"Champaign County,Ohio","Winchester City County,Virginia",23038,626303
+337,"Champaign County,Ohio","Barbour County,West Virginia",16168,414955
+338,"Champaign County,Ohio","Berkeley County,West Virginia",22451,625159
+339,"Champaign County,Ohio","Boone County,West Virginia",15093,383824
+340,"Champaign County,Ohio","Braxton County,West Virginia",16604,441187
+341,"Champaign County,Ohio","Brooke County,West Virginia",11999,310591
+342,"Champaign County,Ohio","Cabell County,West Virginia",11793,284781
+343,"Champaign County,Ohio","Calhoun County,West Virginia",14287,341239
+344,"Champaign County,Ohio","Clay County,West Virginia",15371,412099
+345,"Champaign County,Ohio","Doddridge County,West Virginia",13155,340672
+346,"Champaign County,Ohio","Fayette County,West Virginia",16658,430444
+347,"Champaign County,Ohio","Gilmer County,West Virginia",15342,355777
+348,"Champaign County,Ohio","Grant County,West Virginia",20826,555967
+349,"Champaign County,Ohio","Greenbrier County,West Virginia",19732,508482
+350,"Champaign County,Ohio","Hampshire County,West Virginia",21706,586762
+351,"Champaign County,Ohio","Hancock County,West Virginia",13588,345127
+352,"Champaign County,Ohio","Hardy County,West Virginia",21912,588569
+353,"Champaign County,Ohio","Harrison County,West Virginia",14238,373666
+354,"Champaign County,Ohio","Jackson County,West Virginia",11400,284567
+355,"Champaign County,Ohio","Jefferson County,West Virginia",23917,681157
+356,"Champaign County,Ohio","Kanawha County,West Virginia",13967,364507
+357,"Champaign County,Ohio","Lewis County,West Virginia",15931,375817
+358,"Champaign County,Ohio","Lincoln County,West Virginia",14533,362115
+359,"Champaign County,Ohio","Logan County,West Virginia",16022,420943
+360,"Champaign County,Ohio","McDowell County,West Virginia",20329,511820
+361,"Champaign County,Ohio","Marion County,West Virginia",16175,416789
+362,"Champaign County,Ohio","Marshall County,West Virginia",11956,305099
+363,"Champaign County,Ohio","Mason County,West Virginia",9448,258804
+364,"Champaign County,Ohio","Mercer County,West Virginia",17294,476067
+365,"Champaign County,Ohio","Mineral County,West Virginia",20585,561313
+366,"Champaign County,Ohio","Mingo County,West Virginia",16067,425450
+367,"Champaign County,Ohio","Monongalia County,West Virginia",15108,426006
+368,"Champaign County,Ohio","Monroe County,West Virginia",20339,520778
+369,"Champaign County,Ohio","Morgan County,West Virginia",21943,614550
+370,"Champaign County,Ohio","Nicholas County,West Virginia",17087,471980
+371,"Champaign County,Ohio","Ohio County,West Virginia",11017,291828
+372,"Champaign County,Ohio","Pendleton County,West Virginia",22554,573476
+373,"Champaign County,Ohio","Pleasants County,West Virginia",11826,309776
+374,"Champaign County,Ohio","Pocahontas County,West Virginia",22416,541519
+375,"Champaign County,Ohio","Preston County,West Virginia",17345,457791
+376,"Champaign County,Ohio","Putnam County,West Virginia",11083,298827
+377,"Champaign County,Ohio","Raleigh County,West Virginia",15835,429759
+378,"Champaign County,Ohio","Randolph County,West Virginia",18232,471603
+379,"Champaign County,Ohio","Ritchie County,West Virginia",12320,313714
+380,"Champaign County,Ohio","Roane County,West Virginia",13026,313382
+381,"Champaign County,Ohio","Summers County,West Virginia",19287,491197
+382,"Champaign County,Ohio","Taylor County,West Virginia",16067,412361
+383,"Champaign County,Ohio","Tucker County,West Virginia",18733,465682
+384,"Champaign County,Ohio","Tyler County,West Virginia",13705,348447
+385,"Champaign County,Ohio","Upshur County,West Virginia",17207,446044
+386,"Champaign County,Ohio","Wayne County,West Virginia",13621,320044
+387,"Champaign County,Ohio","Webster County,West Virginia",19272,499060
+388,"Champaign County,Ohio","Wetzel County,West Virginia",14390,364547
+389,"Champaign County,Ohio","Wirt County,West Virginia",11743,290348
+390,"Champaign County,Ohio","Wood County,West Virginia",10427,265079
+391,"Champaign County,Ohio","Wyoming County,West Virginia",17779,469701

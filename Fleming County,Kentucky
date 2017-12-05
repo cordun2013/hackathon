@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Fleming County,Kentucky","Adair County,Kentucky",10455,264731
+1,"Fleming County,Kentucky","Allen County,Kentucky",13073,365379
+2,"Fleming County,Kentucky","Anderson County,Kentucky",6255,167770
+3,"Fleming County,Kentucky","Ballard County,Kentucky",19233,557542
+4,"Fleming County,Kentucky","Barren County,Kentucky",12201,323759
+5,"Fleming County,Kentucky","Bath County,Kentucky",2275,43644
+6,"Fleming County,Kentucky","Bell County,Kentucky",10909,269569
+7,"Fleming County,Kentucky","Boone County,Kentucky",6458,145719
+8,"Fleming County,Kentucky","Bourbon County,Kentucky",3073,68046
+9,"Fleming County,Kentucky","Boyd County,Kentucky",4241,113762
+10,"Fleming County,Kentucky","Boyle County,Kentucky",7484,171657
+11,"Fleming County,Kentucky","Bracken County,Kentucky",2970,64826
+12,"Fleming County,Kentucky","Breathitt County,Kentucky",6559,136365
+13,"Fleming County,Kentucky","Breckinridge County,Kentucky",11788,320452
+14,"Fleming County,Kentucky","Bullitt County,Kentucky",8358,241571
+15,"Fleming County,Kentucky","Butler County,Kentucky",12453,342449
+16,"Fleming County,Kentucky","Caldwell County,Kentucky",15345,448395
+17,"Fleming County,Kentucky","Calloway County,Kentucky",18155,533387
+18,"Fleming County,Kentucky","Campbell County,Kentucky",4671,104698
+19,"Fleming County,Kentucky","Carlisle County,Kentucky",19690,572910
+20,"Fleming County,Kentucky","Carroll County,Kentucky",8032,207484
+21,"Fleming County,Kentucky","Carter County,Kentucky",3378,83019
+22,"Fleming County,Kentucky","Casey County,Kentucky",8978,203162
+23,"Fleming County,Kentucky","Christian County,Kentucky",14994,443651
+24,"Fleming County,Kentucky","Clay County,Kentucky",9232,200947
+25,"Fleming County,Kentucky","Clinton County,Kentucky",10862,268097
+26,"Fleming County,Kentucky","Crittenden County,Kentucky",16925,481465
+27,"Fleming County,Kentucky","Cumberland County,Kentucky",11616,286336
+28,"Fleming County,Kentucky","Daviess County,Kentucky",13476,388892
+29,"Fleming County,Kentucky","Edmonson County,Kentucky",11893,330324
+30,"Fleming County,Kentucky","Elliott County,Kentucky",4104,74292
+31,"Fleming County,Kentucky","Estill County,Kentucky",4876,102583
+32,"Fleming County,Kentucky","Fayette County,Kentucky",4062,105263
+33,"Fleming County,Kentucky","Floyd County,Kentucky",7640,160147
+34,"Fleming County,Kentucky","Franklin County,Kentucky",6100,154180
+35,"Fleming County,Kentucky","Fulton County,Kentucky",20094,593874
+36,"Fleming County,Kentucky","Gallatin County,Kentucky",7243,179898
+37,"Fleming County,Kentucky","Garrard County,Kentucky",6667,152417
+38,"Fleming County,Kentucky","Grant County,Kentucky",6360,112523
+39,"Fleming County,Kentucky","Graves County,Kentucky",18715,545616
+40,"Fleming County,Kentucky","Grayson County,Kentucky",10780,299085
+41,"Fleming County,Kentucky","Green County,Kentucky",10560,264291
+42,"Fleming County,Kentucky","Greenup County,Kentucky",4230,98569
+43,"Fleming County,Kentucky","Hancock County,Kentucky",12584,353345
+44,"Fleming County,Kentucky","Hardin County,Kentucky",9657,261218
+45,"Fleming County,Kentucky","Harlan County,Kentucky",13019,273003
+46,"Fleming County,Kentucky","Harrison County,Kentucky",3960,77630
+47,"Fleming County,Kentucky","Hart County,Kentucky",10456,288847
+48,"Fleming County,Kentucky","Henderson County,Kentucky",15283,441322
+49,"Fleming County,Kentucky","Henry County,Kentucky",7701,197898
+50,"Fleming County,Kentucky","Hickman County,Kentucky",19724,574202
+51,"Fleming County,Kentucky","Hopkins County,Kentucky",14804,422863
+52,"Fleming County,Kentucky","Jackson County,Kentucky",7549,150591
+53,"Fleming County,Kentucky","Jefferson County,Kentucky",7795,213432
+54,"Fleming County,Kentucky","Jessamine County,Kentucky",5531,126727
+55,"Fleming County,Kentucky","Johnson County,Kentucky",6593,136141
+56,"Fleming County,Kentucky","Kenton County,Kentucky",5827,133413
+57,"Fleming County,Kentucky","Knott County,Kentucky",8821,192029
+58,"Fleming County,Kentucky","Knox County,Kentucky",9070,231309
+59,"Fleming County,Kentucky","Larue County,Kentucky",9728,248394
+60,"Fleming County,Kentucky","Laurel County,Kentucky",7921,202704
+61,"Fleming County,Kentucky","Lawrence County,Kentucky",6244,140898
+62,"Fleming County,Kentucky","Lee County,Kentucky",6090,138660
+63,"Fleming County,Kentucky","Leslie County,Kentucky",10047,217910
+64,"Fleming County,Kentucky","Letcher County,Kentucky",10271,224716
+65,"Fleming County,Kentucky","Lewis County,Kentucky",2066,38737
+66,"Fleming County,Kentucky","Lincoln County,Kentucky",7377,169335
+67,"Fleming County,Kentucky","Livingston County,Kentucky",17520,498362
+68,"Fleming County,Kentucky","Logan County,Kentucky",14193,385688
+69,"Fleming County,Kentucky","Lyon County,Kentucky",17654,508752
+70,"Fleming County,Kentucky","McCracken County,Kentucky",17846,525601
+71,"Fleming County,Kentucky","McCreary County,Kentucky",10026,247146
+72,"Fleming County,Kentucky","Madison County,Kentucky",5060,116286
+73,"Fleming County,Kentucky","Magoffin County,Kentucky",6062,118008
+74,"Fleming County,Kentucky","Marion County,Kentucky",8106,210003
+75,"Fleming County,Kentucky","Marshall County,Kentucky",17260,509173
+76,"Fleming County,Kentucky","Martin County,Kentucky",8112,206641
+77,"Fleming County,Kentucky","Mason County,Kentucky",2319,44372
+78,"Fleming County,Kentucky","Meade County,Kentucky",10255,285746
+79,"Fleming County,Kentucky","Menifee County,Kentucky",3499,66788
+80,"Fleming County,Kentucky","Mercer County,Kentucky",6482,165714
+81,"Fleming County,Kentucky","Metcalfe County,Kentucky",11111,294996
+82,"Fleming County,Kentucky","Monroe County,Kentucky",13081,332500
+83,"Fleming County,Kentucky","Montgomery County,Kentucky",3036,62342
+84,"Fleming County,Kentucky","Morgan County,Kentucky",4066,83118
+85,"Fleming County,Kentucky","Muhlenberg County,Kentucky",13664,389339
+86,"Fleming County,Kentucky","Nelson County,Kentucky",7714,209075
+87,"Fleming County,Kentucky","Nicholas County,Kentucky",2252,46045
+88,"Fleming County,Kentucky","Ohio County,Kentucky",12577,356928
+89,"Fleming County,Kentucky","Oldham County,Kentucky",7866,225313
+90,"Fleming County,Kentucky","Owen County,Kentucky",7051,129538
+91,"Fleming County,Kentucky","Owsley County,Kentucky",7237,158636
+92,"Fleming County,Kentucky","Pendleton County,Kentucky",4629,92715
+93,"Fleming County,Kentucky","Perry County,Kentucky",8170,176248
+94,"Fleming County,Kentucky","Pike County,Kentucky",9319,190472
+95,"Fleming County,Kentucky","Powell County,Kentucky",4327,89346
+96,"Fleming County,Kentucky","Robertson County,Kentucky",2170,45551
+97,"Fleming County,Kentucky","Rockcastle County,Kentucky",6494,157429
+98,"Fleming County,Kentucky","Rowan County,Kentucky",1675,36169
+99,"Fleming County,Kentucky","Russell County,Kentucky",10060,248715
+100,"Fleming County,Kentucky","Scott County,Kentucky",4913,106113
+101,"Fleming County,Kentucky","Shelby County,Kentucky",6723,184566
+102,"Fleming County,Kentucky","Simpson County,Kentucky",13775,393745
+103,"Fleming County,Kentucky","Spencer County,Kentucky",7253,190414
+104,"Fleming County,Kentucky","Taylor County,Kentucky",9395,241499
+105,"Fleming County,Kentucky","Todd County,Kentucky",15429,409848
+106,"Fleming County,Kentucky","Trigg County,Kentucky",16408,469581
+107,"Fleming County,Kentucky","Trimble County,Kentucky",8931,230808
+108,"Fleming County,Kentucky","Union County,Kentucky",17002,471768
+109,"Fleming County,Kentucky","Warren County,Kentucky",12809,358693
+110,"Fleming County,Kentucky","Washington County,Kentucky",7724,194311
+111,"Fleming County,Kentucky","Wayne County,Kentucky",10236,245788
+112,"Fleming County,Kentucky","Webster County,Kentucky",15913,450952
+113,"Fleming County,Kentucky","Whitley County,Kentucky",8754,237189
+114,"Fleming County,Kentucky","Wolfe County,Kentucky",5161,106480
+115,"Fleming County,Kentucky","Woodford County,Kentucky",5116,135926
+116,"Fleming County,Kentucky","Adams County,Ohio",4227,78579
+117,"Fleming County,Kentucky","Allen County,Ohio",12920,343399
+118,"Fleming County,Kentucky","Ashland County,Ohio",15025,378441
+119,"Fleming County,Kentucky","Ashtabula County,Ohio",20771,563192
+120,"Fleming County,Kentucky","Athens County,Ohio",9425,227841
+121,"Fleming County,Kentucky","Auglaize County,Ohio",12176,330664
+122,"Fleming County,Kentucky","Belmont County,Ohio",16101,417712
+123,"Fleming County,Kentucky","Brown County,Ohio",3654,73856
+124,"Fleming County,Kentucky","Butler County,Ohio",7998,193273
+125,"Fleming County,Kentucky","Carroll County,Ohio",18066,454935
+126,"Fleming County,Kentucky","Champaign County,Ohio",10973,225063
+127,"Fleming County,Kentucky","Clark County,Ohio",9762,197893
+128,"Fleming County,Kentucky","Clermont County,Ohio",5475,115256
+129,"Fleming County,Kentucky","Clinton County,Ohio",6351,133745
+130,"Fleming County,Kentucky","Columbiana County,Ohio",19883,497685
+131,"Fleming County,Kentucky","Coshocton County,Ohio",14624,350353
+132,"Fleming County,Kentucky","Crawford County,Ohio",14639,346898
+133,"Fleming County,Kentucky","Cuyahoga County,Ohio",17342,460905
+134,"Fleming County,Kentucky","Darke County,Ohio",11274,287710
+135,"Fleming County,Kentucky","Defiance County,Ohio",16408,421829
+136,"Fleming County,Kentucky","Delaware County,Ohio",11942,285112
+137,"Fleming County,Kentucky","Fairfield County,Ohio",10486,236936
+138,"Fleming County,Kentucky","Fayette County,Ohio",7807,158042
+139,"Fleming County,Kentucky","Franklin County,Ohio",10459,245040
+140,"Fleming County,Kentucky","Fulton County,Ohio",17171,438773
+141,"Fleming County,Kentucky","Gallia County,Ohio",7789,172584
+142,"Fleming County,Kentucky","Geauga County,Ohio",18871,500124
+143,"Fleming County,Kentucky","Greene County,Ohio",8174,169676
+144,"Fleming County,Kentucky","Guernsey County,Ohio",13830,351393
+145,"Fleming County,Kentucky","Hamilton County,Ohio",6652,157757
+146,"Fleming County,Kentucky","Hancock County,Ohio",14029,384294
+147,"Fleming County,Kentucky","Hardin County,Ohio",13817,368692
+148,"Fleming County,Kentucky","Harrison County,Ohio",17071,437001
+149,"Fleming County,Kentucky","Henry County,Ohio",15753,408763
+150,"Fleming County,Kentucky","Highland County,Ohio",5802,119059
+151,"Fleming County,Kentucky","Hocking County,Ohio",10096,223223
+152,"Fleming County,Kentucky","Holmes County,Ohio",16175,387210
+153,"Fleming County,Kentucky","Huron County,Ohio",16171,377211
+154,"Fleming County,Kentucky","Jackson County,Ohio",6822,162210
+155,"Fleming County,Kentucky","Jefferson County,Ohio",18064,446779
+156,"Fleming County,Kentucky","Knox County,Ohio",14391,344734
+157,"Fleming County,Kentucky","Lawrence County,Ohio",6316,139011
+158,"Fleming County,Kentucky","Licking County,Ohio",12463,292797
+159,"Fleming County,Kentucky","Logan County,Ohio",12189,317382
+160,"Fleming County,Kentucky","Lorain County,Ohio",17956,435865
+161,"Fleming County,Kentucky","Lucas County,Ohio",17354,470814
+162,"Fleming County,Kentucky","Madison County,Ohio",9892,217987
+163,"Fleming County,Kentucky","Mahoning County,Ohio",19740,514824
+164,"Fleming County,Kentucky","Marion County,Ohio",13199,305729
+165,"Fleming County,Kentucky","Medina County,Ohio",15670,403454
+166,"Fleming County,Kentucky","Meigs County,Ohio",9458,244517
+167,"Fleming County,Kentucky","Mercer County,Ohio",13412,357597
+168,"Fleming County,Kentucky","Miami County,Ohio",9762,253103
+169,"Fleming County,Kentucky","Monroe County,Ohio",15370,423466
+170,"Fleming County,Kentucky","Montgomery County,Ohio",9145,230843
+171,"Fleming County,Kentucky","Morgan County,Ohio",12544,287888
+172,"Fleming County,Kentucky","Morrow County,Ohio",12749,307933
+173,"Fleming County,Kentucky","Muskingum County,Ohio",12681,317549
+174,"Fleming County,Kentucky","Noble County,Ohio",13876,406626
+175,"Fleming County,Kentucky","Paulding County,Ohio",15451,406377
+176,"Fleming County,Kentucky","Perry County,Ohio",11668,254179
+177,"Fleming County,Kentucky","Pickaway County,Ohio",8698,203338
+178,"Fleming County,Kentucky","Pike County,Ohio",5660,128465
+179,"Fleming County,Kentucky","Portage County,Ohio",18192,474603
+180,"Fleming County,Kentucky","Preble County,Ohio",10042,237672
+181,"Fleming County,Kentucky","Putnam County,Ohio",14095,375867
+182,"Fleming County,Kentucky","Richland County,Ohio",13779,343172
+183,"Fleming County,Kentucky","Ross County,Ohio",7442,169645
+184,"Fleming County,Kentucky","Sandusky County,Ohio",17069,464370
+185,"Fleming County,Kentucky","Scioto County,Ohio",4970,110590
+186,"Fleming County,Kentucky","Seneca County,Ohio",16189,380570
+187,"Fleming County,Kentucky","Shelby County,Ohio",10801,289388
+188,"Fleming County,Kentucky","Stark County,Ohio",17924,470170
+189,"Fleming County,Kentucky","Summit County,Ohio",16873,438781
+190,"Fleming County,Kentucky","Trumbull County,Ohio",19773,525095
+191,"Fleming County,Kentucky","Tuscarawas County,Ohio",16125,410758
+192,"Fleming County,Kentucky","Union County,Ohio",11473,244621
+193,"Fleming County,Kentucky","Van Wert County,Ohio",14085,375922
+194,"Fleming County,Kentucky","Vinton County,Ohio",9146,203441
+195,"Fleming County,Kentucky","Warren County,Ohio",7450,150008
+196,"Fleming County,Kentucky","Washington County,Ohio",12458,307938
+197,"Fleming County,Kentucky","Wayne County,Ohio",15398,392451
+198,"Fleming County,Kentucky","Williams County,Ohio",17585,445345
+199,"Fleming County,Kentucky","Wood County,Ohio",15117,424923
+200,"Fleming County,Kentucky","Wyandot County,Ohio",14786,352126
+201,"Fleming County,Kentucky","Accomack County,Virginia",34326,987631
+202,"Fleming County,Kentucky","Albemarle County,Virginia",20476,600130
+203,"Fleming County,Kentucky","Alleghany County,Virginia",15145,437153
+204,"Fleming County,Kentucky","Amelia County,Virginia",25177,700248
+205,"Fleming County,Kentucky","Amherst County,Virginia",20474,568119
+206,"Fleming County,Kentucky","Appomattox County,Virginia",22067,606878
+207,"Fleming County,Kentucky","Arlington County,Virginia",26759,796162
+208,"Fleming County,Kentucky","Augusta County,Virginia",19087,538470
+209,"Fleming County,Kentucky","Bath County,Virginia",18157,512463
+210,"Fleming County,Kentucky","Bedford County,Virginia",20734,554244
+211,"Fleming County,Kentucky","Bland County,Virginia",14107,403373
+212,"Fleming County,Kentucky","Botetourt County,Virginia",18299,508453
+213,"Fleming County,Kentucky","Brunswick County,Virginia",27720,749921
+214,"Fleming County,Kentucky","Buchanan County,Virginia",13371,269978
+215,"Fleming County,Kentucky","Buckingham County,Virginia",22350,617813
+216,"Fleming County,Kentucky","Campbell County,Virginia",21991,609350
+217,"Fleming County,Kentucky","Caroline County,Virginia",25815,768976
+218,"Fleming County,Kentucky","Carroll County,Virginia",16353,472810
+219,"Fleming County,Kentucky","Charles City County,Virginia",25916,766010
+220,"Fleming County,Kentucky","Charlotte County,Virginia",23952,660399
+221,"Fleming County,Kentucky","Chesterfield County,Virginia",25052,743794
+222,"Fleming County,Kentucky","Clarke County,Virginia",24656,727188
+223,"Fleming County,Kentucky","Craig County,Virginia",16788,458238
+224,"Fleming County,Kentucky","Culpeper County,Virginia",24273,689347
+225,"Fleming County,Kentucky","Cumberland County,Virginia",23560,645816
+226,"Fleming County,Kentucky","Dickenson County,Virginia",13179,275475
+227,"Fleming County,Kentucky","Dinwiddie County,Virginia",26799,794226
+228,"Fleming County,Kentucky","Essex County,Virginia",27633,793018
+229,"Fleming County,Kentucky","Fairfax County,Virginia",26450,786829
+230,"Fleming County,Kentucky","Fauquier County,Virginia",25094,748439
+231,"Fleming County,Kentucky","Floyd County,Virginia",17973,491775
+232,"Fleming County,Kentucky","Fluvanna County,Virginia",22154,652302
+233,"Fleming County,Kentucky","Franklin County,Virginia",20247,555477
+234,"Fleming County,Kentucky","Frederick County,Virginia",23321,641322
+235,"Fleming County,Kentucky","Giles County,Virginia",14838,414931
+236,"Fleming County,Kentucky","Gloucester County,Virginia",28086,820199
+237,"Fleming County,Kentucky","Goochland County,Virginia",23058,682913
+238,"Fleming County,Kentucky","Grayson County,Virginia",16755,462518
+239,"Fleming County,Kentucky","Greene County,Virginia",22469,635714
+240,"Fleming County,Kentucky","Greensville County,Virginia",28215,842977
+241,"Fleming County,Kentucky","Halifax County,Virginia",24656,670497
+242,"Fleming County,Kentucky","Hanover County,Virginia",24264,724020
+243,"Fleming County,Kentucky","Henrico County,Virginia",24775,736979
+244,"Fleming County,Kentucky","Henry County,Virginia",20226,559531
+245,"Fleming County,Kentucky","Highland County,Virginia",19601,522433
+246,"Fleming County,Kentucky","Isle of Wight County,Virginia",29027,841556
+247,"Fleming County,Kentucky","James City County,Virginia",27152,806781
+248,"Fleming County,Kentucky","King and Queen County,Virginia",26810,782365
+249,"Fleming County,Kentucky","King George County,Virginia",26928,796962
+250,"Fleming County,Kentucky","King William County,Virginia",25497,752288
+251,"Fleming County,Kentucky","Lancaster County,Virginia",29290,835373
+252,"Fleming County,Kentucky","Lee County,Virginia",14000,346127
+253,"Fleming County,Kentucky","Loudoun County,Virginia",26152,763055
+254,"Fleming County,Kentucky","Louisa County,Virginia",22715,666008
+255,"Fleming County,Kentucky","Lunenburg County,Virginia",25724,701683
+256,"Fleming County,Kentucky","Madison County,Virginia",23389,665455
+257,"Fleming County,Kentucky","Mathews County,Virginia",28911,843622
+258,"Fleming County,Kentucky","Mecklenburg County,Virginia",26715,714807
+259,"Fleming County,Kentucky","Middlesex County,Virginia",27688,816399
+260,"Fleming County,Kentucky","Montgomery County,Virginia",15921,442938
+261,"Fleming County,Kentucky","Nelson County,Virginia",21015,579810
+262,"Fleming County,Kentucky","New Kent County,Virginia",26588,780695
+263,"Fleming County,Kentucky","Northampton County,Virginia",31569,923445
+264,"Fleming County,Kentucky","Northumberland County,Virginia",29330,833885
+265,"Fleming County,Kentucky","Nottoway County,Virginia",25217,702062
+266,"Fleming County,Kentucky","Orange County,Virginia",23677,674115
+267,"Fleming County,Kentucky","Page County,Virginia",22322,649240
+268,"Fleming County,Kentucky","Patrick County,Virginia",18458,517846
+269,"Fleming County,Kentucky","Pittsylvania County,Virginia",22542,613739
+270,"Fleming County,Kentucky","Powhatan County,Virginia",24311,708134
+271,"Fleming County,Kentucky","Prince Edward County,Virginia",23832,659398
+272,"Fleming County,Kentucky","Prince George County,Virginia",26562,780810
+273,"Fleming County,Kentucky","Prince William County,Virginia",25194,754543
+274,"Fleming County,Kentucky","Pulaski County,Virginia",16016,439269
+275,"Fleming County,Kentucky","Rappahannock County,Virginia",24154,685727
+276,"Fleming County,Kentucky","Richmond County,Virginia",28030,806529
+277,"Fleming County,Kentucky","Roanoke County,Virginia",17541,485731
+278,"Fleming County,Kentucky","Rockbridge County,Virginia",17478,505509
+279,"Fleming County,Kentucky","Rockingham County,Virginia",21362,621590
+280,"Fleming County,Kentucky","Russell County,Virginia",14902,288527
+281,"Fleming County,Kentucky","Scott County,Virginia",14655,322928
+282,"Fleming County,Kentucky","Shenandoah County,Virginia",21866,651694
+283,"Fleming County,Kentucky","Smyth County,Virginia",16465,468725
+284,"Fleming County,Kentucky","Southampton County,Virginia",28593,839091
+285,"Fleming County,Kentucky","Spotsylvania County,Virginia",24731,707846
+286,"Fleming County,Kentucky","Stafford County,Virginia",26112,732139
+287,"Fleming County,Kentucky","Surry County,Virginia",27895,805643
+288,"Fleming County,Kentucky","Sussex County,Virginia",27257,809334
+289,"Fleming County,Kentucky","Tazewell County,Virginia",14923,421960
+290,"Fleming County,Kentucky","Warren County,Virginia",23769,696286
+291,"Fleming County,Kentucky","Washington County,Virginia",15577,342192
+292,"Fleming County,Kentucky","Westmoreland County,Virginia",27903,813787
+293,"Fleming County,Kentucky","Wise County,Virginia",11444,251374
+294,"Fleming County,Kentucky","Wythe County,Virginia",14712,421590
+295,"Fleming County,Kentucky","York County,Virginia",28439,837556
+296,"Fleming County,Kentucky","Alexandria City County,Virginia",27275,813344
+297,"Fleming County,Kentucky","Bedford City County,Virginia",19898,545675
+298,"Fleming County,Kentucky","Bristol City County,Virginia",16417,363079
+299,"Fleming County,Kentucky","Buena Vista City County,Virginia",17833,519487
+300,"Fleming County,Kentucky","Charlottesville City County,Virginia",20945,615345
+301,"Fleming County,Kentucky","Chesapeake City County,Virginia",29903,890461
+302,"Fleming County,Kentucky","Clifton Forge City County,Virginia",15689,457360
+303,"Fleming County,Kentucky","Colonial Heights City County,Virginia",25612,759686
+304,"Fleming County,Kentucky","Covington City County,Virginia",15214,440739
+305,"Fleming County,Kentucky","Danville City County,Virginia",22384,613987
+306,"Fleming County,Kentucky","Emporia City County,Virginia",27922,829571
+307,"Fleming County,Kentucky","Fairfax City County,Virginia",26326,780291
+308,"Fleming County,Kentucky","Falls Church City County,Virginia",26467,790474
+309,"Fleming County,Kentucky","Franklin City County,Virginia",29140,846946
+310,"Fleming County,Kentucky","Fredericksburg City County,Virginia",25864,717506
+311,"Fleming County,Kentucky","Galax City County,Virginia",16976,478676
+312,"Fleming County,Kentucky","Hampton City County,Virginia",28390,847262
+313,"Fleming County,Kentucky","Harrisonburg City County,Virginia",20421,601487
+314,"Fleming County,Kentucky","Hopewell City County,Virginia",25648,758653
+315,"Fleming County,Kentucky","Lexington City County,Virginia",17467,507978
+316,"Fleming County,Kentucky","Lynchburg City County,Virginia",21050,583093
+317,"Fleming County,Kentucky","Manassas City County,Virginia",25421,759488
+318,"Fleming County,Kentucky","Manassas Park City County,Virginia",25924,765831
+319,"Fleming County,Kentucky","Martinsville City County,Virginia",20754,568325
+320,"Fleming County,Kentucky","Newport News City County,Virginia",27946,833748
+321,"Fleming County,Kentucky","Norfolk City County,Virginia",29696,872678
+322,"Fleming County,Kentucky","Norton City County,Virginia",12073,263185
+323,"Fleming County,Kentucky","Petersburg City County,Virginia",25483,760674
+324,"Fleming County,Kentucky","Poquoson City County,Virginia",28618,844324
+325,"Fleming County,Kentucky","Portsmouth City County,Virginia",29635,881499
+326,"Fleming County,Kentucky","Radford County,Virginia",16328,440978
+327,"Fleming County,Kentucky","Richmond City County,Virginia",24351,724789
+328,"Fleming County,Kentucky","Roanoke City County,Virginia",18143,505836
+329,"Fleming County,Kentucky","Salem City County,Virginia",17554,492386
+330,"Fleming County,Kentucky","South Boston City County,Virginia",24396,668165
+331,"Fleming County,Kentucky","Staunton City County,Virginia",19238,562622
+332,"Fleming County,Kentucky","Suffolk City County,Virginia",29870,856280
+333,"Fleming County,Kentucky","Virginia Beach City County,Virginia",30257,895936
+334,"Fleming County,Kentucky","Waynesboro City County,Virginia",19576,575340
+335,"Fleming County,Kentucky","Williamsburg City County,Virginia",26990,805997
+336,"Fleming County,Kentucky","Winchester City County,Virginia",23800,675323
+337,"Fleming County,Kentucky","Barbour County,West Virginia",15281,436020
+338,"Fleming County,Kentucky","Berkeley County,West Virginia",23214,674179
+339,"Fleming County,Kentucky","Boone County,West Virginia",10460,269637
+340,"Fleming County,Kentucky","Braxton County,West Virginia",11971,326999
+341,"Fleming County,Kentucky","Brooke County,West Virginia",18180,459960
+342,"Fleming County,Kentucky","Cabell County,West Virginia",5031,136146
+343,"Fleming County,Kentucky","Calhoun County,West Virginia",11892,324684
+344,"Fleming County,Kentucky","Clay County,West Virginia",10738,297912
+345,"Fleming County,Kentucky","Doddridge County,West Virginia",14424,417529
+346,"Fleming County,Kentucky","Fayette County,West Virginia",12025,316256
+347,"Fleming County,Kentucky","Gilmer County,West Virginia",13170,349186
+348,"Fleming County,Kentucky","Grant County,West Virginia",19636,537565
+349,"Fleming County,Kentucky","Greenbrier County,West Virginia",15099,394295
+350,"Fleming County,Kentucky","Hampshire County,West Virginia",22468,635783
+351,"Fleming County,Kentucky","Hancock County,West Virginia",19769,494496
+352,"Fleming County,Kentucky","Hardy County,West Virginia",20692,569062
+353,"Fleming County,Kentucky","Harrison County,West Virginia",14514,422391
+354,"Fleming County,Kentucky","Jackson County,West Virginia",9776,279015
+355,"Fleming County,Kentucky","Jefferson County,West Virginia",24680,730177
+356,"Fleming County,Kentucky","Kanawha County,West Virginia",9334,250320
+357,"Fleming County,Kentucky","Lewis County,West Virginia",13144,375861
+358,"Fleming County,Kentucky","Lincoln County,West Virginia",8248,193796
+359,"Fleming County,Kentucky","Logan County,West Virginia",10778,266124
+360,"Fleming County,Kentucky","McDowell County,West Virginia",15184,339189
+361,"Fleming County,Kentucky","Marion County,West Virginia",15660,449558
+362,"Fleming County,Kentucky","Marshall County,West Virginia",17784,466701
+363,"Fleming County,Kentucky","Mason County,West Virginia",8013,226890
+364,"Fleming County,Kentucky","Mercer County,West Virginia",12661,361879
+365,"Fleming County,Kentucky","Mineral County,West Virginia",21331,566386
+366,"Fleming County,Kentucky","Mingo County,West Virginia",9462,232577
+367,"Fleming County,Kentucky","Monongalia County,West Virginia",15870,475026
+368,"Fleming County,Kentucky","Monroe County,West Virginia",15706,406591
+369,"Fleming County,Kentucky","Morgan County,West Virginia",22705,663571
+370,"Fleming County,Kentucky","Nicholas County,West Virginia",12454,357792
+371,"Fleming County,Kentucky","Ohio County,West Virginia",17199,441197
+372,"Fleming County,Kentucky","Pendleton County,West Virginia",19967,540189
+373,"Fleming County,Kentucky","Pleasants County,West Virginia",13259,376867
+374,"Fleming County,Kentucky","Pocahontas County,West Virginia",17783,427331
+375,"Fleming County,Kentucky","Preston County,West Virginia",18016,501757
+376,"Fleming County,Kentucky","Putnam County,West Virginia",6715,188923
+377,"Fleming County,Kentucky","Raleigh County,West Virginia",11202,315572
+378,"Fleming County,Kentucky","Randolph County,West Virginia",15645,438316
+379,"Fleming County,Kentucky","Ritchie County,West Virginia",13589,390571
+380,"Fleming County,Kentucky","Roane County,West Virginia",11402,307831
+381,"Fleming County,Kentucky","Summers County,West Virginia",14654,377010
+382,"Fleming County,Kentucky","Taylor County,West Virginia",15552,445130
+383,"Fleming County,Kentucky","Tucker County,West Virginia",16712,468840
+384,"Fleming County,Kentucky","Tyler County,West Virginia",15168,416483
+385,"Fleming County,Kentucky","Upshur County,West Virginia",14709,390558
+386,"Fleming County,Kentucky","Wayne County,West Virginia",6562,157341
+387,"Fleming County,Kentucky","Webster County,West Virginia",14638,384872
+388,"Fleming County,Kentucky","Wetzel County,West Virginia",16380,438389
+389,"Fleming County,Kentucky","Wirt County,West Virginia",12043,336353
+390,"Fleming County,Kentucky","Wood County,West Virginia",11557,338043
+391,"Fleming County,Kentucky","Wyoming County,West Virginia",13146,355514

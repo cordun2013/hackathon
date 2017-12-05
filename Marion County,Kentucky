@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Marion County,Kentucky","Adair County,Kentucky",3412,73580
+1,"Marion County,Kentucky","Allen County,Kentucky",6772,167468
+2,"Marion County,Kentucky","Anderson County,Kentucky",2936,64971
+3,"Marion County,Kentucky","Ballard County,Kentucky",13697,395982
+4,"Marion County,Kentucky","Barren County,Kentucky",5321,130853
+5,"Marion County,Kentucky","Bath County,Kentucky",6627,182241
+6,"Marion County,Kentucky","Bell County,Kentucky",9408,214812
+7,"Marion County,Kentucky","Boone County,Kentucky",8340,221811
+8,"Marion County,Kentucky","Bourbon County,Kentucky",5692,136751
+9,"Marion County,Kentucky","Boyd County,Kentucky",9885,283697
+10,"Marion County,Kentucky","Boyle County,Kentucky",1946,42479
+11,"Marion County,Kentucky","Bracken County,Kentucky",8900,199589
+12,"Marion County,Kentucky","Breathitt County,Kentucky",9228,246421
+13,"Marion County,Kentucky","Breckinridge County,Kentucky",6502,151306
+14,"Marion County,Kentucky","Bullitt County,Kentucky",3548,75792
+15,"Marion County,Kentucky","Butler County,Kentucky",6917,180890
+16,"Marion County,Kentucky","Caldwell County,Kentucky",9808,286835
+17,"Marion County,Kentucky","Calloway County,Kentucky",12618,371828
+18,"Marion County,Kentucky","Campbell County,Kentucky",8845,210176
+19,"Marion County,Kentucky","Carlisle County,Kentucky",14154,411351
+20,"Marion County,Kentucky","Carroll County,Kentucky",6813,149365
+21,"Marion County,Kentucky","Carter County,Kentucky",9022,252954
+22,"Marion County,Kentucky","Casey County,Kentucky",3249,57180
+23,"Marion County,Kentucky","Christian County,Kentucky",9457,282092
+24,"Marion County,Kentucky","Clay County,Kentucky",7640,173857
+25,"Marion County,Kentucky","Clinton County,Kentucky",6104,139748
+26,"Marion County,Kentucky","Crittenden County,Kentucky",11388,319906
+27,"Marion County,Kentucky","Cumberland County,Kentucky",5263,115848
+28,"Marion County,Kentucky","Daviess County,Kentucky",7939,227333
+29,"Marion County,Kentucky","Edmonson County,Kentucky",6180,129701
+30,"Marion County,Kentucky","Elliott County,Kentucky",9798,244216
+31,"Marion County,Kentucky","Estill County,Kentucky",6375,129303
+32,"Marion County,Kentucky","Fayette County,Kentucky",4254,106976
+33,"Marion County,Kentucky","Fleming County,Kentucky",8056,212459
+34,"Marion County,Kentucky","Floyd County,Kentucky",11414,306452
+35,"Marion County,Kentucky","Franklin County,Kentucky",4595,103664
+36,"Marion County,Kentucky","Fulton County,Kentucky",14558,432315
+37,"Marion County,Kentucky","Gallatin County,Kentucky",7522,168690
+38,"Marion County,Kentucky","Garrard County,Kentucky",3603,68568
+39,"Marion County,Kentucky","Grant County,Kentucky",6973,182684
+40,"Marion County,Kentucky","Graves County,Kentucky",13179,384057
+41,"Marion County,Kentucky","Grayson County,Kentucky",5244,137526
+42,"Marion County,Kentucky","Green County,Kentucky",2855,59365
+43,"Marion County,Kentucky","Greenup County,Kentucky",10490,280284
+44,"Marion County,Kentucky","Hancock County,Kentucky",7723,185943
+45,"Marion County,Kentucky","Hardin County,Kentucky",4120,99659
+46,"Marion County,Kentucky","Harlan County,Kentucky",11703,270418
+47,"Marion County,Kentucky","Harrison County,Kentucky",6464,153696
+48,"Marion County,Kentucky","Hart County,Kentucky",4543,94269
+49,"Marion County,Kentucky","Henderson County,Kentucky",9847,283753
+50,"Marion County,Kentucky","Henry County,Kentucky",5314,111009
+51,"Marion County,Kentucky","Hickman County,Kentucky",14187,412642
+52,"Marion County,Kentucky","Hopkins County,Kentucky",9267,261304
+53,"Marion County,Kentucky","Jackson County,Kentucky",7158,138026
+54,"Marion County,Kentucky","Jefferson County,Kentucky",4618,90884
+55,"Marion County,Kentucky","Jessamine County,Kentucky",4042,88628
+56,"Marion County,Kentucky","Johnson County,Kentucky",10368,282445
+57,"Marion County,Kentucky","Kenton County,Kentucky",8226,217528
+58,"Marion County,Kentucky","Knott County,Kentucky",10441,254563
+59,"Marion County,Kentucky","Knox County,Kentucky",7570,176553
+60,"Marion County,Kentucky","Larue County,Kentucky",3352,64174
+61,"Marion County,Kentucky","Laurel County,Kentucky",6421,147948
+62,"Marion County,Kentucky","Lawrence County,Kentucky",11888,310833
+63,"Marion County,Kentucky","Lee County,Kentucky",8365,162733
+64,"Marion County,Kentucky","Leslie County,Kentucky",9590,224980
+65,"Marion County,Kentucky","Letcher County,Kentucky",11613,276567
+66,"Marion County,Kentucky","Lewis County,Kentucky",9580,250599
+67,"Marion County,Kentucky","Lincoln County,Kentucky",3303,69583
+68,"Marion County,Kentucky","Livingston County,Kentucky",11984,336803
+69,"Marion County,Kentucky","Logan County,Kentucky",8532,208122
+70,"Marion County,Kentucky","Lyon County,Kentucky",12117,347193
+71,"Marion County,Kentucky","McCracken County,Kentucky",12309,364042
+72,"Marion County,Kentucky","McCreary County,Kentucky",7439,167422
+73,"Marion County,Kentucky","Madison County,Kentucky",4629,95397
+74,"Marion County,Kentucky","Magoffin County,Kentucky",9837,264312
+75,"Marion County,Kentucky","Marshall County,Kentucky",11724,347614
+76,"Marion County,Kentucky","Martin County,Kentucky",13154,340790
+77,"Marion County,Kentucky","Mason County,Kentucky",8821,208317
+78,"Marion County,Kentucky","Meade County,Kentucky",5629,128610
+79,"Marion County,Kentucky","Menifee County,Kentucky",7902,194778
+80,"Marion County,Kentucky","Mercer County,Kentucky",2902,58075
+81,"Marion County,Kentucky","Metcalfe County,Kentucky",4232,102090
+82,"Marion County,Kentucky","Monroe County,Kentucky",5961,123275
+83,"Marion County,Kentucky","Montgomery County,Kentucky",6545,172687
+84,"Marion County,Kentucky","Morgan County,Kentucky",9227,252596
+85,"Marion County,Kentucky","Muhlenberg County,Kentucky",8127,227780
+86,"Marion County,Kentucky","Nelson County,Kentucky",2177,47515
+87,"Marion County,Kentucky","Nicholas County,Kentucky",6948,164132
+88,"Marion County,Kentucky","Ohio County,Kentucky",7041,195369
+89,"Marion County,Kentucky","Oldham County,Kentucky",5334,114720
+90,"Marion County,Kentucky","Owen County,Kentucky",5938,135838
+91,"Marion County,Kentucky","Owsley County,Kentucky",8659,186820
+92,"Marion County,Kentucky","Pendleton County,Kentucky",8023,190824
+93,"Marion County,Kentucky","Perry County,Kentucky",9824,233682
+94,"Marion County,Kentucky","Pike County,Kentucky",13094,336776
+95,"Marion County,Kentucky","Powell County,Kentucky",6838,181546
+96,"Marion County,Kentucky","Robertson County,Kentucky",7719,185259
+97,"Marion County,Kentucky","Rockcastle County,Kentucky",5049,106269
+98,"Marion County,Kentucky","Rowan County,Kentucky",7368,206092
+99,"Marion County,Kentucky","Russell County,Kentucky",4632,94247
+100,"Marion County,Kentucky","Scott County,Kentucky",5273,135623
+101,"Marion County,Kentucky","Shelby County,Kentucky",3857,87972
+102,"Marion County,Kentucky","Simpson County,Kentucky",8122,196995
+103,"Marion County,Kentucky","Spencer County,Kentucky",2865,57991
+104,"Marion County,Kentucky","Taylor County,Kentucky",1691,36574
+105,"Marion County,Kentucky","Todd County,Kentucky",9708,238177
+106,"Marion County,Kentucky","Trigg County,Kentucky",10871,308021
+107,"Marion County,Kentucky","Trimble County,Kentucky",6584,137235
+108,"Marion County,Kentucky","Union County,Kentucky",11591,320854
+109,"Marion County,Kentucky","Warren County,Kentucky",7156,161944
+110,"Marion County,Kentucky","Washington County,Kentucky",1599,27327
+111,"Marion County,Kentucky","Wayne County,Kentucky",7505,169948
+112,"Marion County,Kentucky","Webster County,Kentucky",10376,289392
+113,"Marion County,Kentucky","Whitley County,Kentucky",7254,182433
+114,"Marion County,Kentucky","Wolfe County,Kentucky",8102,219418
+115,"Marion County,Kentucky","Woodford County,Kentucky",3510,87234
+116,"Marion County,Kentucky","Adams County,Ohio",11251,255050
+117,"Marion County,Kentucky","Allen County,Ohio",15646,443421
+118,"Marion County,Kentucky","Ashland County,Ohio",18835,545299
+119,"Marion County,Kentucky","Ashtabula County,Ohio",24581,730050
+120,"Marion County,Kentucky","Athens County,Ohio",16212,441716
+121,"Marion County,Kentucky","Auglaize County,Ohio",14902,430686
+122,"Marion County,Kentucky","Belmont County,Ohio",20172,591731
+123,"Marion County,Kentucky","Brown County,Ohio",10237,243295
+124,"Marion County,Kentucky","Butler County,Ohio",10723,293295
+125,"Marion County,Kentucky","Carroll County,Ohio",22137,628954
+126,"Marion County,Kentucky","Champaign County,Ohio",13680,384867
+127,"Marion County,Kentucky","Clark County,Ohio",13108,371500
+128,"Marion County,Kentucky","Clermont County,Ohio",9474,264473
+129,"Marion County,Kentucky","Clinton County,Ohio",11569,315780
+130,"Marion County,Kentucky","Columbiana County,Ohio",23693,664543
+131,"Marion County,Kentucky","Coshocton County,Ohio",18696,524371
+132,"Marion County,Kentucky","Crawford County,Ohio",18372,537271
+133,"Marion County,Kentucky","Cuyahoga County,Ohio",21152,627764
+134,"Marion County,Kentucky","Darke County,Ohio",13999,387732
+135,"Marion County,Kentucky","Defiance County,Ohio",19133,521851
+136,"Marion County,Kentucky","Delaware County,Ohio",15752,451971
+137,"Marion County,Kentucky","Fairfield County,Ohio",15155,435220
+138,"Marion County,Kentucky","Fayette County,Ohio",12467,353385
+139,"Marion County,Kentucky","Franklin County,Ohio",14269,411898
+140,"Marion County,Kentucky","Fulton County,Ohio",19897,538794
+141,"Marion County,Kentucky","Gallia County,Ohio",14170,384069
+142,"Marion County,Kentucky","Geauga County,Ohio",22681,666982
+143,"Marion County,Kentucky","Greene County,Ohio",11896,325134
+144,"Marion County,Kentucky","Guernsey County,Ohio",17901,525412
+145,"Marion County,Kentucky","Hamilton County,Ohio",9378,257779
+146,"Marion County,Kentucky","Hancock County,Ohio",16755,484316
+147,"Marion County,Kentucky","Hardin County,Ohio",16542,468713
+148,"Marion County,Kentucky","Harrison County,Ohio",21142,611020
+149,"Marion County,Kentucky","Henry County,Ohio",18479,508785
+150,"Marion County,Kentucky","Highland County,Ohio",12384,288498
+151,"Marion County,Kentucky","Hocking County,Ohio",16593,478624
+152,"Marion County,Kentucky","Holmes County,Ohio",20246,561229
+153,"Marion County,Kentucky","Huron County,Ohio",19981,544069
+154,"Marion County,Kentucky","Jackson County,Ohio",13721,367264
+155,"Marion County,Kentucky","Jefferson County,Ohio",22136,620798
+156,"Marion County,Kentucky","Knox County,Ohio",18201,511592
+157,"Marion County,Kentucky","Lawrence County,Ohio",12291,320125
+158,"Marion County,Kentucky","Licking County,Ohio",16534,466816
+159,"Marion County,Kentucky","Logan County,Ohio",14914,417404
+160,"Marion County,Kentucky","Lorain County,Ohio",21766,602723
+161,"Marion County,Kentucky","Lucas County,Ohio",20080,570836
+162,"Marion County,Kentucky","Madison County,Ohio",13689,388567
+163,"Marion County,Kentucky","Mahoning County,Ohio",23550,681682
+164,"Marion County,Kentucky","Marion County,Ohio",16799,459406
+165,"Marion County,Kentucky","Medina County,Ohio",19480,570312
+166,"Marion County,Kentucky","Meigs County,Ohio",15102,414452
+167,"Marion County,Kentucky","Mercer County,Ohio",16138,457619
+168,"Marion County,Kentucky","Miami County,Ohio",12488,353124
+169,"Marion County,Kentucky","Monroe County,Ohio",21014,593401
+170,"Marion County,Kentucky","Montgomery County,Ohio",11871,330864
+171,"Marion County,Kentucky","Morgan County,Ohio",18967,533908
+172,"Marion County,Kentucky","Morrow County,Ohio",16559,474791
+173,"Marion County,Kentucky","Muskingum County,Ohio",16752,491568
+174,"Marion County,Kentucky","Noble County,Ohio",19520,576561
+175,"Marion County,Kentucky","Paulding County,Ohio",18177,506399
+176,"Marion County,Kentucky","Perry County,Ohio",16821,480151
+177,"Marion County,Kentucky","Pickaway County,Ohio",14404,401981
+178,"Marion County,Kentucky","Pike County,Ohio",12956,303110
+179,"Marion County,Kentucky","Portage County,Ohio",22002,641461
+180,"Marion County,Kentucky","Preble County,Ohio",12768,337694
+181,"Marion County,Kentucky","Putnam County,Ohio",16821,475888
+182,"Marion County,Kentucky","Richland County,Ohio",17589,510030
+183,"Marion County,Kentucky","Ross County,Ohio",14048,401298
+184,"Marion County,Kentucky","Sandusky County,Ohio",19795,564392
+185,"Marion County,Kentucky","Scioto County,Ohio",12572,318816
+186,"Marion County,Kentucky","Seneca County,Ohio",19099,540656
+187,"Marion County,Kentucky","Shelby County,Ohio",13526,389410
+188,"Marion County,Kentucky","Stark County,Ohio",21747,625845
+189,"Marion County,Kentucky","Summit County,Ohio",20683,605639
+190,"Marion County,Kentucky","Trumbull County,Ohio",23583,691953
+191,"Marion County,Kentucky","Tuscarawas County,Ohio",20196,584776
+192,"Marion County,Kentucky","Union County,Ohio",15041,414788
+193,"Marion County,Kentucky","Van Wert County,Ohio",16811,475944
+194,"Marion County,Kentucky","Vinton County,Ohio",16292,411366
+195,"Marion County,Kentucky","Warren County,Ohio",10257,284036
+196,"Marion County,Kentucky","Washington County,Ohio",18139,486401
+197,"Marion County,Kentucky","Wayne County,Ohio",19208,559309
+198,"Marion County,Kentucky","Williams County,Ohio",20310,545367
+199,"Marion County,Kentucky","Wood County,Ohio",17843,524944
+200,"Marion County,Kentucky","Wyandot County,Ohio",17450,505196
+201,"Marion County,Kentucky","Accomack County,Virginia",39970,1157565
+202,"Marion County,Kentucky","Albemarle County,Virginia",26120,770065
+203,"Marion County,Kentucky","Alleghany County,Virginia",20789,607088
+204,"Marion County,Kentucky","Amelia County,Virginia",30821,870183
+205,"Marion County,Kentucky","Amherst County,Virginia",26118,738054
+206,"Marion County,Kentucky","Appomattox County,Virginia",27711,776813
+207,"Marion County,Kentucky","Arlington County,Virginia",32403,966097
+208,"Marion County,Kentucky","Augusta County,Virginia",24731,708404
+209,"Marion County,Kentucky","Bath County,Virginia",23801,682398
+210,"Marion County,Kentucky","Bedford County,Virginia",26378,724178
+211,"Marion County,Kentucky","Bland County,Virginia",19751,573308
+212,"Marion County,Kentucky","Botetourt County,Virginia",23943,678387
+213,"Marion County,Kentucky","Brunswick County,Virginia",33364,919856
+214,"Marion County,Kentucky","Buchanan County,Virginia",17146,416282
+215,"Marion County,Kentucky","Buckingham County,Virginia",27994,787748
+216,"Marion County,Kentucky","Campbell County,Virginia",27635,779285
+217,"Marion County,Kentucky","Caroline County,Virginia",31459,938910
+218,"Marion County,Kentucky","Carroll County,Virginia",22068,546364
+219,"Marion County,Kentucky","Charles City County,Virginia",31560,935945
+220,"Marion County,Kentucky","Charlotte County,Virginia",29596,830333
+221,"Marion County,Kentucky","Chesterfield County,Virginia",30696,913729
+222,"Marion County,Kentucky","Clarke County,Virginia",30300,897123
+223,"Marion County,Kentucky","Craig County,Virginia",22432,628173
+224,"Marion County,Kentucky","Culpeper County,Virginia",29917,859281
+225,"Marion County,Kentucky","Cumberland County,Virginia",29204,815750
+226,"Marion County,Kentucky","Dickenson County,Virginia",15172,343513
+227,"Marion County,Kentucky","Dinwiddie County,Virginia",32443,964161
+228,"Marion County,Kentucky","Essex County,Virginia",33277,962953
+229,"Marion County,Kentucky","Fairfax County,Virginia",32094,956764
+230,"Marion County,Kentucky","Fauquier County,Virginia",30738,918374
+231,"Marion County,Kentucky","Floyd County,Virginia",23617,661709
+232,"Marion County,Kentucky","Fluvanna County,Virginia",27798,822237
+233,"Marion County,Kentucky","Franklin County,Virginia",25891,725412
+234,"Marion County,Kentucky","Frederick County,Virginia",28965,811257
+235,"Marion County,Kentucky","Giles County,Virginia",20482,584866
+236,"Marion County,Kentucky","Gloucester County,Virginia",33730,990133
+237,"Marion County,Kentucky","Goochland County,Virginia",28701,852848
+238,"Marion County,Kentucky","Grayson County,Virginia",21801,509531
+239,"Marion County,Kentucky","Greene County,Virginia",28113,805649
+240,"Marion County,Kentucky","Greensville County,Virginia",33859,1012912
+241,"Marion County,Kentucky","Halifax County,Virginia",30371,744051
+242,"Marion County,Kentucky","Hanover County,Virginia",29908,893954
+243,"Marion County,Kentucky","Henrico County,Virginia",30419,906914
+244,"Marion County,Kentucky","Henry County,Virginia",25941,633085
+245,"Marion County,Kentucky","Highland County,Virginia",25245,692368
+246,"Marion County,Kentucky","Isle of Wight County,Virginia",34671,1011491
+247,"Marion County,Kentucky","James City County,Virginia",32796,976716
+248,"Marion County,Kentucky","King and Queen County,Virginia",32454,952300
+249,"Marion County,Kentucky","King George County,Virginia",32572,966897
+250,"Marion County,Kentucky","King William County,Virginia",31141,922222
+251,"Marion County,Kentucky","Lancaster County,Virginia",34934,1005308
+252,"Marion County,Kentucky","Lee County,Virginia",12500,291371
+253,"Marion County,Kentucky","Loudoun County,Virginia",31796,932989
+254,"Marion County,Kentucky","Louisa County,Virginia",28359,835942
+255,"Marion County,Kentucky","Lunenburg County,Virginia",31368,871618
+256,"Marion County,Kentucky","Madison County,Virginia",29033,835389
+257,"Marion County,Kentucky","Mathews County,Virginia",34555,1013557
+258,"Marion County,Kentucky","Mecklenburg County,Virginia",32404,795597
+259,"Marion County,Kentucky","Middlesex County,Virginia",33332,986334
+260,"Marion County,Kentucky","Montgomery County,Virginia",21565,612873
+261,"Marion County,Kentucky","Nelson County,Virginia",26659,749745
+262,"Marion County,Kentucky","New Kent County,Virginia",32232,950630
+263,"Marion County,Kentucky","Northampton County,Virginia",37213,1093380
+264,"Marion County,Kentucky","Northumberland County,Virginia",34974,1003820
+265,"Marion County,Kentucky","Nottoway County,Virginia",30861,871997
+266,"Marion County,Kentucky","Orange County,Virginia",29321,844050
+267,"Marion County,Kentucky","Page County,Virginia",27966,819175
+268,"Marion County,Kentucky","Patrick County,Virginia",24174,591400
+269,"Marion County,Kentucky","Pittsylvania County,Virginia",28257,687293
+270,"Marion County,Kentucky","Powhatan County,Virginia",29955,878069
+271,"Marion County,Kentucky","Prince Edward County,Virginia",29476,829333
+272,"Marion County,Kentucky","Prince George County,Virginia",32206,950744
+273,"Marion County,Kentucky","Prince William County,Virginia",30838,924478
+274,"Marion County,Kentucky","Pulaski County,Virginia",21811,537785
+275,"Marion County,Kentucky","Rappahannock County,Virginia",29797,855662
+276,"Marion County,Kentucky","Richmond County,Virginia",33674,976463
+277,"Marion County,Kentucky","Roanoke County,Virginia",23184,655666
+278,"Marion County,Kentucky","Rockbridge County,Virginia",23122,675444
+279,"Marion County,Kentucky","Rockingham County,Virginia",27006,791525
+280,"Marion County,Kentucky","Russell County,Virginia",17704,396335
+281,"Marion County,Kentucky","Scott County,Virginia",14820,339212
+282,"Marion County,Kentucky","Shenandoah County,Virginia",27510,821629
+283,"Marion County,Kentucky","Smyth County,Virginia",19080,449234
+284,"Marion County,Kentucky","Southampton County,Virginia",34237,1009026
+285,"Marion County,Kentucky","Spotsylvania County,Virginia",30375,877781
+286,"Marion County,Kentucky","Stafford County,Virginia",31756,902074
+287,"Marion County,Kentucky","Surry County,Virginia",33539,975578
+288,"Marion County,Kentucky","Sussex County,Virginia",32901,979269
+289,"Marion County,Kentucky","Tazewell County,Virginia",19192,449245
+290,"Marion County,Kentucky","Warren County,Virginia",29412,866221
+291,"Marion County,Kentucky","Washington County,Virginia",17570,410231
+292,"Marion County,Kentucky","Westmoreland County,Virginia",33547,983722
+293,"Marion County,Kentucky","Wise County,Virginia",13436,319412
+294,"Marion County,Kentucky","Wythe County,Virginia",20294,491694
+295,"Marion County,Kentucky","York County,Virginia",34083,1007491
+296,"Marion County,Kentucky","Alexandria City County,Virginia",32919,983279
+297,"Marion County,Kentucky","Bedford City County,Virginia",25542,715610
+298,"Marion County,Kentucky","Bristol City County,Virginia",16773,380539
+299,"Marion County,Kentucky","Buena Vista City County,Virginia",23477,689422
+300,"Marion County,Kentucky","Charlottesville City County,Virginia",26589,785280
+301,"Marion County,Kentucky","Chesapeake City County,Virginia",35547,1060396
+302,"Marion County,Kentucky","Clifton Forge City County,Virginia",21333,627295
+303,"Marion County,Kentucky","Colonial Heights City County,Virginia",31256,929621
+304,"Marion County,Kentucky","Covington City County,Virginia",20858,610673
+305,"Marion County,Kentucky","Danville City County,Virginia",28099,687541
+306,"Marion County,Kentucky","Emporia City County,Virginia",33566,999505
+307,"Marion County,Kentucky","Fairfax City County,Virginia",31970,950226
+308,"Marion County,Kentucky","Falls Church City County,Virginia",32111,960409
+309,"Marion County,Kentucky","Franklin City County,Virginia",34784,1016881
+310,"Marion County,Kentucky","Fredericksburg City County,Virginia",31508,887441
+311,"Marion County,Kentucky","Galax City County,Virginia",22691,552230
+312,"Marion County,Kentucky","Hampton City County,Virginia",34033,1017197
+313,"Marion County,Kentucky","Harrisonburg City County,Virginia",26065,771421
+314,"Marion County,Kentucky","Hopewell City County,Virginia",31292,928587
+315,"Marion County,Kentucky","Lexington City County,Virginia",23111,677913
+316,"Marion County,Kentucky","Lynchburg City County,Virginia",26694,753027
+317,"Marion County,Kentucky","Manassas City County,Virginia",31065,929423
+318,"Marion County,Kentucky","Manassas Park City County,Virginia",31568,935766
+319,"Marion County,Kentucky","Martinsville City County,Virginia",26469,641878
+320,"Marion County,Kentucky","Newport News City County,Virginia",33590,1003683
+321,"Marion County,Kentucky","Norfolk City County,Virginia",35340,1042613
+322,"Marion County,Kentucky","Norton City County,Virginia",14065,331224
+323,"Marion County,Kentucky","Petersburg City County,Virginia",31127,930609
+324,"Marion County,Kentucky","Poquoson City County,Virginia",34262,1014259
+325,"Marion County,Kentucky","Portsmouth City County,Virginia",35279,1051434
+326,"Marion County,Kentucky","Radford County,Virginia",21972,610913
+327,"Marion County,Kentucky","Richmond City County,Virginia",29995,894724
+328,"Marion County,Kentucky","Roanoke City County,Virginia",23787,675771
+329,"Marion County,Kentucky","Salem City County,Virginia",23198,662321
+330,"Marion County,Kentucky","South Boston City County,Virginia",30111,741719
+331,"Marion County,Kentucky","Staunton City County,Virginia",24882,732556
+332,"Marion County,Kentucky","Suffolk City County,Virginia",35514,1026215
+333,"Marion County,Kentucky","Virginia Beach City County,Virginia",35901,1065871
+334,"Marion County,Kentucky","Waynesboro City County,Virginia",25220,745275
+335,"Marion County,Kentucky","Williamsburg City County,Virginia",32634,975932
+336,"Marion County,Kentucky","Winchester City County,Virginia",29444,845258
+337,"Marion County,Kentucky","Barbour County,West Virginia",20925,605955
+338,"Marion County,Kentucky","Berkeley County,West Virginia",28858,844114
+339,"Marion County,Kentucky","Boone County,West Virginia",16104,439572
+340,"Marion County,Kentucky","Braxton County,West Virginia",17615,496934
+341,"Marion County,Kentucky","Brooke County,West Virginia",22251,633978
+342,"Marion County,Kentucky","Cabell County,West Virginia",10675,306080
+343,"Marion County,Kentucky","Calhoun County,West Virginia",17536,494619
+344,"Marion County,Kentucky","Clay County,West Virginia",16382,467847
+345,"Marion County,Kentucky","Doddridge County,West Virginia",20068,587464
+346,"Marion County,Kentucky","Fayette County,West Virginia",17669,486191
+347,"Marion County,Kentucky","Gilmer County,West Virginia",18814,519121
+348,"Marion County,Kentucky","Grant County,West Virginia",25280,707500
+349,"Marion County,Kentucky","Greenbrier County,West Virginia",20743,564229
+350,"Marion County,Kentucky","Hampshire County,West Virginia",28112,805718
+351,"Marion County,Kentucky","Hancock County,West Virginia",23841,668514
+352,"Marion County,Kentucky","Hardy County,West Virginia",26336,738997
+353,"Marion County,Kentucky","Harrison County,West Virginia",20158,592325
+354,"Marion County,Kentucky","Jackson County,West Virginia",15420,448950
+355,"Marion County,Kentucky","Jefferson County,West Virginia",30324,900112
+356,"Marion County,Kentucky","Kanawha County,West Virginia",14978,420255
+357,"Marion County,Kentucky","Lewis County,West Virginia",18788,545796
+358,"Marion County,Kentucky","Lincoln County,West Virginia",13892,363731
+359,"Marion County,Kentucky","Logan County,West Virginia",16149,407545
+360,"Marion County,Kentucky","McDowell County,West Virginia",20000,459734
+361,"Marion County,Kentucky","Marion County,West Virginia",21304,619493
+362,"Marion County,Kentucky","Marshall County,West Virginia",22209,628486
+363,"Marion County,Kentucky","Mason County,West Virginia",13657,396825
+364,"Marion County,Kentucky","Mercer County,West Virginia",18305,531814
+365,"Marion County,Kentucky","Mineral County,West Virginia",26975,736321
+366,"Marion County,Kentucky","Mingo County,West Virginia",14832,373998
+367,"Marion County,Kentucky","Monongalia County,West Virginia",21514,644961
+368,"Marion County,Kentucky","Monroe County,West Virginia",21350,576526
+369,"Marion County,Kentucky","Morgan County,West Virginia",28349,833506
+370,"Marion County,Kentucky","Nicholas County,West Virginia",18098,527727
+371,"Marion County,Kentucky","Ohio County,West Virginia",21270,615216
+372,"Marion County,Kentucky","Pendleton County,West Virginia",25611,710124
+373,"Marion County,Kentucky","Pleasants County,West Virginia",18903,546802
+374,"Marion County,Kentucky","Pocahontas County,West Virginia",23427,597266
+375,"Marion County,Kentucky","Preston County,West Virginia",23660,671692
+376,"Marion County,Kentucky","Putnam County,West Virginia",12358,358858
+377,"Marion County,Kentucky","Raleigh County,West Virginia",16846,485507
+378,"Marion County,Kentucky","Randolph County,West Virginia",21289,608250
+379,"Marion County,Kentucky","Ritchie County,West Virginia",19233,560506
+380,"Marion County,Kentucky","Roane County,West Virginia",17046,477766
+381,"Marion County,Kentucky","Summers County,West Virginia",20298,546945
+382,"Marion County,Kentucky","Taylor County,West Virginia",21196,615065
+383,"Marion County,Kentucky","Tucker County,West Virginia",22356,638775
+384,"Marion County,Kentucky","Tyler County,West Virginia",20812,586417
+385,"Marion County,Kentucky","Upshur County,West Virginia",20353,560493
+386,"Marion County,Kentucky","Wayne County,West Virginia",12206,327276
+387,"Marion County,Kentucky","Webster County,West Virginia",20282,554807
+388,"Marion County,Kentucky","Wetzel County,West Virginia",22024,608324
+389,"Marion County,Kentucky","Wirt County,West Virginia",17686,506288
+390,"Marion County,Kentucky","Wood County,West Virginia",17201,507978
+391,"Marion County,Kentucky","Wyoming County,West Virginia",18790,525449

@@ -1,0 +1,394 @@
+,origin,destination,seconds,meters
+0,"Clark County,Kentucky","Adair County,Kentucky",7737,193507
+1,"Clark County,Kentucky","Allen County,Kentucky",10933,289149
+2,"Clark County,Kentucky","Anderson County,Kentucky",4153,102935
+3,"Clark County,Kentucky","Ballard County,Kentucky",17131,492706
+4,"Clark County,Kentucky","Barren County,Kentucky",9482,252534
+5,"Clark County,Kentucky","Bath County,Kentucky",2226,53485
+6,"Clark County,Kentucky","Bell County,Kentucky",8190,198344
+7,"Clark County,Kentucky","Boone County,Kentucky",5861,154643
+8,"Clark County,Kentucky","Bourbon County,Kentucky",2108,36074
+9,"Clark County,Kentucky","Boyd County,Kentucky",5484,154941
+10,"Clark County,Kentucky","Boyle County,Kentucky",5136,101971
+11,"Clark County,Kentucky","Bracken County,Kentucky",5854,106794
+12,"Clark County,Kentucky","Breathitt County,Kentucky",4826,117665
+13,"Clark County,Kentucky","Breckinridge County,Kentucky",9686,255616
+14,"Clark County,Kentucky","Bullitt County,Kentucky",6256,176735
+15,"Clark County,Kentucky","Butler County,Kentucky",10351,277614
+16,"Clark County,Kentucky","Caldwell County,Kentucky",13243,383559
+17,"Clark County,Kentucky","Calloway County,Kentucky",16053,468552
+18,"Clark County,Kentucky","Campbell County,Kentucky",5801,120893
+19,"Clark County,Kentucky","Carlisle County,Kentucky",17588,508074
+20,"Clark County,Kentucky","Carroll County,Kentucky",6697,150749
+21,"Clark County,Kentucky","Carter County,Kentucky",4620,124198
+22,"Clark County,Kentucky","Casey County,Kentucky",6260,131937
+23,"Clark County,Kentucky","Christian County,Kentucky",13049,377195
+24,"Clark County,Kentucky","Clay County,Kentucky",6421,157388
+25,"Clark County,Kentucky","Clinton County,Kentucky",8144,196872
+26,"Clark County,Kentucky","Crittenden County,Kentucky",14823,416629
+27,"Clark County,Kentucky","Cumberland County,Kentucky",8898,215111
+28,"Clark County,Kentucky","Daviess County,Kentucky",11374,324056
+29,"Clark County,Kentucky","Edmonson County,Kentucky",9791,265489
+30,"Clark County,Kentucky","Elliott County,Kentucky",5396,115460
+31,"Clark County,Kentucky","Estill County,Kentucky",2235,42447
+32,"Clark County,Kentucky","Fayette County,Kentucky",1960,40427
+33,"Clark County,Kentucky","Fleming County,Kentucky",3655,83704
+34,"Clark County,Kentucky","Floyd County,Kentucky",7013,177696
+35,"Clark County,Kentucky","Franklin County,Kentucky",3998,89344
+36,"Clark County,Kentucky","Fulton County,Kentucky",17992,529038
+37,"Clark County,Kentucky","Gallatin County,Kentucky",5695,141408
+38,"Clark County,Kentucky","Garrard County,Kentucky",3948,81192
+39,"Clark County,Kentucky","Grant County,Kentucky",4494,115515
+40,"Clark County,Kentucky","Graves County,Kentucky",16613,480780
+41,"Clark County,Kentucky","Grayson County,Kentucky",8678,234250
+42,"Clark County,Kentucky","Green County,Kentucky",8458,199455
+43,"Clark County,Kentucky","Greenup County,Kentucky",6089,151528
+44,"Clark County,Kentucky","Hancock County,Kentucky",10482,288509
+45,"Clark County,Kentucky","Hardin County,Kentucky",7555,196382
+46,"Clark County,Kentucky","Harlan County,Kentucky",10485,253949
+47,"Clark County,Kentucky","Harrison County,Kentucky",3420,64413
+48,"Clark County,Kentucky","Hart County,Kentucky",8354,224011
+49,"Clark County,Kentucky","Henderson County,Kentucky",13181,376486
+50,"Clark County,Kentucky","Henry County,Kentucky",5599,133062
+51,"Clark County,Kentucky","Hickman County,Kentucky",17622,509366
+52,"Clark County,Kentucky","Hopkins County,Kentucky",12702,358027
+53,"Clark County,Kentucky","Jackson County,Kentucky",4908,90456
+54,"Clark County,Kentucky","Jefferson County,Kentucky",5693,148596
+55,"Clark County,Kentucky","Jessamine County,Kentucky",3300,51844
+56,"Clark County,Kentucky","Johnson County,Kentucky",5967,153689
+57,"Clark County,Kentucky","Kenton County,Kentucky",5748,150359
+58,"Clark County,Kentucky","Knott County,Kentucky",7286,181044
+59,"Clark County,Kentucky","Knox County,Kentucky",6352,160085
+60,"Clark County,Kentucky","Larue County,Kentucky",7626,183558
+61,"Clark County,Kentucky","Laurel County,Kentucky",5203,131480
+62,"Clark County,Kentucky","Lawrence County,Kentucky",7487,182077
+63,"Clark County,Kentucky","Lee County,Kentucky",4179,75489
+64,"Clark County,Kentucky","Leslie County,Kentucky",8315,199211
+65,"Clark County,Kentucky","Letcher County,Kentucky",8539,206016
+66,"Clark County,Kentucky","Lewis County,Kentucky",5179,121844
+67,"Clark County,Kentucky","Lincoln County,Kentucky",4658,98110
+68,"Clark County,Kentucky","Livingston County,Kentucky",15418,433526
+69,"Clark County,Kentucky","Logan County,Kentucky",12091,320852
+70,"Clark County,Kentucky","Lyon County,Kentucky",15552,443917
+71,"Clark County,Kentucky","McCracken County,Kentucky",15744,460766
+72,"Clark County,Kentucky","McCreary County,Kentucky",7308,175921
+73,"Clark County,Kentucky","Madison County,Kentucky",2342,45062
+74,"Clark County,Kentucky","Magoffin County,Kentucky",5436,135556
+75,"Clark County,Kentucky","Marion County,Kentucky",6004,145167
+76,"Clark County,Kentucky","Marshall County,Kentucky",15158,444338
+77,"Clark County,Kentucky","Martin County,Kentucky",8753,212034
+78,"Clark County,Kentucky","Mason County,Kentucky",5286,108178
+79,"Clark County,Kentucky","Meade County,Kentucky",8153,220911
+80,"Clark County,Kentucky","Menifee County,Kentucky",3500,66023
+81,"Clark County,Kentucky","Mercer County,Kentucky",4381,100878
+82,"Clark County,Kentucky","Metcalfe County,Kentucky",8393,223771
+83,"Clark County,Kentucky","Monroe County,Kentucky",10363,261276
+84,"Clark County,Kentucky","Montgomery County,Kentucky",2144,43932
+85,"Clark County,Kentucky","Morgan County,Kentucky",4826,123841
+86,"Clark County,Kentucky","Muhlenberg County,Kentucky",11562,324503
+87,"Clark County,Kentucky","Nelson County,Kentucky",5612,144239
+88,"Clark County,Kentucky","Nicholas County,Kentucky",3414,63994
+89,"Clark County,Kentucky","Ohio County,Kentucky",10475,292093
+90,"Clark County,Kentucky","Oldham County,Kentucky",5764,160477
+91,"Clark County,Kentucky","Owen County,Kentucky",4819,116121
+92,"Clark County,Kentucky","Owsley County,Kentucky",5222,114099
+93,"Clark County,Kentucky","Pendleton County,Kentucky",4980,101541
+94,"Clark County,Kentucky","Perry County,Kentucky",6438,157549
+95,"Clark County,Kentucky","Pike County,Kentucky",8693,208020
+96,"Clark County,Kentucky","Powell County,Kentucky",2437,52790
+97,"Clark County,Kentucky","Robertson County,Kentucky",4184,85120
+98,"Clark County,Kentucky","Rockcastle County,Kentucky",3776,86204
+99,"Clark County,Kentucky","Rowan County,Kentucky",2967,77337
+100,"Clark County,Kentucky","Russell County,Kentucky",7341,177490
+101,"Clark County,Kentucky","Scott County,Kentucky",2794,68454
+102,"Clark County,Kentucky","Shelby County,Kentucky",4621,119730
+103,"Clark County,Kentucky","Simpson County,Kentucky",11673,328909
+104,"Clark County,Kentucky","Spencer County,Kentucky",5151,125578
+105,"Clark County,Kentucky","Taylor County,Kentucky",7294,176663
+106,"Clark County,Kentucky","Todd County,Kentucky",13328,345012
+107,"Clark County,Kentucky","Trigg County,Kentucky",14306,404745
+108,"Clark County,Kentucky","Trimble County,Kentucky",6838,166517
+109,"Clark County,Kentucky","Union County,Kentucky",14900,406932
+110,"Clark County,Kentucky","Warren County,Kentucky",10708,293858
+111,"Clark County,Kentucky","Washington County,Kentucky",5622,129475
+112,"Clark County,Kentucky","Wayne County,Kentucky",7517,174563
+113,"Clark County,Kentucky","Webster County,Kentucky",13811,386116
+114,"Clark County,Kentucky","Whitley County,Kentucky",6036,165964
+115,"Clark County,Kentucky","Wolfe County,Kentucky",3701,90662
+116,"Clark County,Kentucky","Woodford County,Kentucky",3014,71090
+117,"Clark County,Kentucky","Adams County,Ohio",7266,149028
+118,"Clark County,Kentucky","Allen County,Ohio",13167,376252
+119,"Clark County,Kentucky","Ashland County,Ohio",16356,478130
+120,"Clark County,Kentucky","Ashtabula County,Ohio",22102,662882
+121,"Clark County,Kentucky","Athens County,Ohio",11811,312961
+122,"Clark County,Kentucky","Auglaize County,Ohio",12423,363517
+123,"Clark County,Kentucky","Belmont County,Ohio",17562,529532
+124,"Clark County,Kentucky","Brown County,Ohio",6702,143157
+125,"Clark County,Kentucky","Butler County,Ohio",8245,226126
+126,"Clark County,Kentucky","Carroll County,Ohio",19491,566418
+127,"Clark County,Kentucky","Champaign County,Ohio",11201,317699
+128,"Clark County,Kentucky","Clark County,Ohio",10630,304331
+129,"Clark County,Kentucky","Clermont County,Ohio",6995,197305
+130,"Clark County,Kentucky","Clinton County,Ohio",9090,248611
+131,"Clark County,Kentucky","Columbiana County,Ohio",21215,597374
+132,"Clark County,Kentucky","Coshocton County,Ohio",16217,457202
+133,"Clark County,Kentucky","Crawford County,Ohio",15893,470102
+134,"Clark County,Kentucky","Cuyahoga County,Ohio",18674,560595
+135,"Clark County,Kentucky","Darke County,Ohio",11521,320564
+136,"Clark County,Kentucky","Defiance County,Ohio",16655,454682
+137,"Clark County,Kentucky","Delaware County,Ohio",13273,384802
+138,"Clark County,Kentucky","Fairfield County,Ohio",12676,368051
+139,"Clark County,Kentucky","Fayette County,Ohio",9988,286216
+140,"Clark County,Kentucky","Franklin County,Ohio",11790,344729
+141,"Clark County,Kentucky","Fulton County,Ohio",17418,471626
+142,"Clark County,Kentucky","Gallia County,Ohio",9769,255313
+143,"Clark County,Kentucky","Geauga County,Ohio",20202,599813
+144,"Clark County,Kentucky","Greene County,Ohio",9417,257965
+145,"Clark County,Kentucky","Guernsey County,Ohio",15423,458243
+146,"Clark County,Kentucky","Hamilton County,Ohio",6899,190610
+147,"Clark County,Kentucky","Hancock County,Ohio",14276,417147
+148,"Clark County,Kentucky","Hardin County,Ohio",14064,401545
+149,"Clark County,Kentucky","Harrison County,Ohio",18497,548483
+150,"Clark County,Kentucky","Henry County,Ohio",16000,441616
+151,"Clark County,Kentucky","Highland County,Ohio",8849,188360
+152,"Clark County,Kentucky","Hocking County,Ohio",12953,306199
+153,"Clark County,Kentucky","Holmes County,Ohio",17767,494060
+154,"Clark County,Kentucky","Huron County,Ohio",17502,476900
+155,"Clark County,Kentucky","Jackson County,Ohio",9319,238508
+156,"Clark County,Kentucky","Jefferson County,Ohio",19490,558261
+157,"Clark County,Kentucky","Knox County,Ohio",15723,444424
+158,"Clark County,Kentucky","Lawrence County,Ohio",7890,191370
+159,"Clark County,Kentucky","Licking County,Ohio",14055,399647
+160,"Clark County,Kentucky","Logan County,Ohio",12436,350235
+161,"Clark County,Kentucky","Lorain County,Ohio",19288,535554
+162,"Clark County,Kentucky","Lucas County,Ohio",17601,503667
+163,"Clark County,Kentucky","Madison County,Ohio",11210,321398
+164,"Clark County,Kentucky","Mahoning County,Ohio",21072,614513
+165,"Clark County,Kentucky","Marion County,Ohio",14320,392237
+166,"Clark County,Kentucky","Medina County,Ohio",17001,503143
+167,"Clark County,Kentucky","Meigs County,Ohio",10701,285696
+168,"Clark County,Kentucky","Mercer County,Ohio",13659,390451
+169,"Clark County,Kentucky","Miami County,Ohio",10009,285956
+170,"Clark County,Kentucky","Monroe County,Ohio",16613,464645
+171,"Clark County,Kentucky","Montgomery County,Ohio",9392,263696
+172,"Clark County,Kentucky","Morgan County,Ohio",14765,379985
+173,"Clark County,Kentucky","Morrow County,Ohio",14080,407623
+174,"Clark County,Kentucky","Muskingum County,Ohio",14273,424399
+175,"Clark County,Kentucky","Noble County,Ohio",15119,447805
+176,"Clark County,Kentucky","Paulding County,Ohio",15698,439230
+177,"Clark County,Kentucky","Perry County,Ohio",14342,412982
+178,"Clark County,Kentucky","Pickaway County,Ohio",11899,282809
+179,"Clark County,Kentucky","Pike County,Ohio",8861,207935
+180,"Clark County,Kentucky","Portage County,Ohio",19523,574293
+181,"Clark County,Kentucky","Preble County,Ohio",10289,270525
+182,"Clark County,Kentucky","Putnam County,Ohio",14342,408720
+183,"Clark County,Kentucky","Richland County,Ohio",15110,442861
+184,"Clark County,Kentucky","Ross County,Ohio",10643,249115
+185,"Clark County,Kentucky","Sandusky County,Ohio",17316,497223
+186,"Clark County,Kentucky","Scioto County,Ohio",8171,190060
+187,"Clark County,Kentucky","Seneca County,Ohio",16621,473487
+188,"Clark County,Kentucky","Shelby County,Ohio",11048,322241
+189,"Clark County,Kentucky","Stark County,Ohio",19268,558676
+190,"Clark County,Kentucky","Summit County,Ohio",18204,538470
+191,"Clark County,Kentucky","Trumbull County,Ohio",21104,624785
+192,"Clark County,Kentucky","Tuscarawas County,Ohio",17551,522240
+193,"Clark County,Kentucky","Union County,Ohio",12563,347619
+194,"Clark County,Kentucky","Van Wert County,Ohio",14332,408775
+195,"Clark County,Kentucky","Vinton County,Ohio",11891,282610
+196,"Clark County,Kentucky","Warren County,Ohio",7779,216867
+197,"Clark County,Kentucky","Washington County,Ohio",13738,357645
+198,"Clark County,Kentucky","Wayne County,Ohio",16729,492140
+199,"Clark County,Kentucky","Williams County,Ohio",17832,478199
+200,"Clark County,Kentucky","Wood County,Ohio",15364,457776
+201,"Clark County,Kentucky","Wyandot County,Ohio",14972,438027
+202,"Clark County,Kentucky","Accomack County,Virginia",35569,1028810
+203,"Clark County,Kentucky","Albemarle County,Virginia",21719,641309
+204,"Clark County,Kentucky","Alleghany County,Virginia",16388,478332
+205,"Clark County,Kentucky","Amelia County,Virginia",26419,741427
+206,"Clark County,Kentucky","Amherst County,Virginia",21717,609298
+207,"Clark County,Kentucky","Appomattox County,Virginia",23310,648057
+208,"Clark County,Kentucky","Arlington County,Virginia",28002,837341
+209,"Clark County,Kentucky","Augusta County,Virginia",20329,579649
+210,"Clark County,Kentucky","Bath County,Virginia",19400,553642
+211,"Clark County,Kentucky","Bedford County,Virginia",21976,595423
+212,"Clark County,Kentucky","Bland County,Virginia",15350,444552
+213,"Clark County,Kentucky","Botetourt County,Virginia",19542,549632
+214,"Clark County,Kentucky","Brunswick County,Virginia",28962,791100
+215,"Clark County,Kentucky","Buchanan County,Virginia",12745,287526
+216,"Clark County,Kentucky","Buckingham County,Virginia",23592,658992
+217,"Clark County,Kentucky","Campbell County,Virginia",23233,650529
+218,"Clark County,Kentucky","Caroline County,Virginia",27058,810155
+219,"Clark County,Kentucky","Carroll County,Virginia",17595,513989
+220,"Clark County,Kentucky","Charles City County,Virginia",27158,807189
+221,"Clark County,Kentucky","Charlotte County,Virginia",25194,701578
+222,"Clark County,Kentucky","Chesterfield County,Virginia",26294,784973
+223,"Clark County,Kentucky","Clarke County,Virginia",25898,768367
+224,"Clark County,Kentucky","Craig County,Virginia",18031,499417
+225,"Clark County,Kentucky","Culpeper County,Virginia",25516,730526
+226,"Clark County,Kentucky","Cumberland County,Virginia",24802,686995
+227,"Clark County,Kentucky","Dickenson County,Virginia",12098,272962
+228,"Clark County,Kentucky","Dinwiddie County,Virginia",28041,835405
+229,"Clark County,Kentucky","Essex County,Virginia",28875,834197
+230,"Clark County,Kentucky","Fairfax County,Virginia",27693,828008
+231,"Clark County,Kentucky","Fauquier County,Virginia",26337,789619
+232,"Clark County,Kentucky","Floyd County,Virginia",19216,532954
+233,"Clark County,Kentucky","Fluvanna County,Virginia",23397,693481
+234,"Clark County,Kentucky","Franklin County,Virginia",21489,596656
+235,"Clark County,Kentucky","Frederick County,Virginia",24564,682501
+236,"Clark County,Kentucky","Giles County,Virginia",16080,456110
+237,"Clark County,Kentucky","Gloucester County,Virginia",29329,861378
+238,"Clark County,Kentucky","Goochland County,Virginia",24300,724092
+239,"Clark County,Kentucky","Grayson County,Virginia",17998,503697
+240,"Clark County,Kentucky","Greene County,Virginia",23711,676893
+241,"Clark County,Kentucky","Greensville County,Virginia",29458,884156
+242,"Clark County,Kentucky","Halifax County,Virginia",25899,711676
+243,"Clark County,Kentucky","Hanover County,Virginia",25507,765199
+244,"Clark County,Kentucky","Henrico County,Virginia",26018,778158
+245,"Clark County,Kentucky","Henry County,Virginia",21469,600710
+246,"Clark County,Kentucky","Highland County,Virginia",20844,563612
+247,"Clark County,Kentucky","Isle of Wight County,Virginia",30270,882735
+248,"Clark County,Kentucky","James City County,Virginia",28394,847960
+249,"Clark County,Kentucky","King and Queen County,Virginia",28052,823544
+250,"Clark County,Kentucky","King George County,Virginia",28171,838141
+251,"Clark County,Kentucky","King William County,Virginia",26740,793467
+252,"Clark County,Kentucky","Lancaster County,Virginia",30533,876552
+253,"Clark County,Kentucky","Lee County,Virginia",11282,274903
+254,"Clark County,Kentucky","Loudoun County,Virginia",27394,804234
+255,"Clark County,Kentucky","Louisa County,Virginia",23957,707187
+256,"Clark County,Kentucky","Lunenburg County,Virginia",26967,742862
+257,"Clark County,Kentucky","Madison County,Virginia",24631,706634
+258,"Clark County,Kentucky","Mathews County,Virginia",30154,884801
+259,"Clark County,Kentucky","Mecklenburg County,Virginia",27958,755986
+260,"Clark County,Kentucky","Middlesex County,Virginia",28930,857578
+261,"Clark County,Kentucky","Montgomery County,Virginia",17164,484117
+262,"Clark County,Kentucky","Nelson County,Virginia",22258,620989
+263,"Clark County,Kentucky","New Kent County,Virginia",27830,821874
+264,"Clark County,Kentucky","Northampton County,Virginia",32812,964624
+265,"Clark County,Kentucky","Northumberland County,Virginia",30572,875064
+266,"Clark County,Kentucky","Nottoway County,Virginia",26460,743242
+267,"Clark County,Kentucky","Orange County,Virginia",24920,715294
+268,"Clark County,Kentucky","Page County,Virginia",23565,690419
+269,"Clark County,Kentucky","Patrick County,Virginia",19701,559025
+270,"Clark County,Kentucky","Pittsylvania County,Virginia",23785,654918
+271,"Clark County,Kentucky","Powhatan County,Virginia",25553,749313
+272,"Clark County,Kentucky","Prince Edward County,Virginia",25074,700577
+273,"Clark County,Kentucky","Prince George County,Virginia",27805,821989
+274,"Clark County,Kentucky","Prince William County,Virginia",26437,795722
+275,"Clark County,Kentucky","Pulaski County,Virginia",17258,480448
+276,"Clark County,Kentucky","Rappahannock County,Virginia",25396,726906
+277,"Clark County,Kentucky","Richmond County,Virginia",29272,847708
+278,"Clark County,Kentucky","Roanoke County,Virginia",18783,526910
+279,"Clark County,Kentucky","Rockbridge County,Virginia",18721,546688
+280,"Clark County,Kentucky","Rockingham County,Virginia",22604,662769
+281,"Clark County,Kentucky","Russell County,Virginia",14276,306075
+282,"Clark County,Kentucky","Scott County,Virginia",13602,322744
+283,"Clark County,Kentucky","Shenandoah County,Virginia",23109,692873
+284,"Clark County,Kentucky","Smyth County,Virginia",16385,388563
+285,"Clark County,Kentucky","Southampton County,Virginia",29835,880270
+286,"Clark County,Kentucky","Spotsylvania County,Virginia",25974,749025
+287,"Clark County,Kentucky","Stafford County,Virginia",27355,773318
+288,"Clark County,Kentucky","Surry County,Virginia",29138,846822
+289,"Clark County,Kentucky","Sussex County,Virginia",28499,850513
+290,"Clark County,Kentucky","Tazewell County,Virginia",14989,344301
+291,"Clark County,Kentucky","Warren County,Virginia",25011,737466
+292,"Clark County,Kentucky","Washington County,Virginia",14496,339680
+293,"Clark County,Kentucky","Westmoreland County,Virginia",29145,854966
+294,"Clark County,Kentucky","Wise County,Virginia",10363,248861
+295,"Clark County,Kentucky","Wythe County,Virginia",15954,462769
+296,"Clark County,Kentucky","York County,Virginia",29682,878735
+297,"Clark County,Kentucky","Alexandria City County,Virginia",28517,854523
+298,"Clark County,Kentucky","Bedford City County,Virginia",21141,586854
+299,"Clark County,Kentucky","Bristol City County,Virginia",15336,360567
+300,"Clark County,Kentucky","Buena Vista City County,Virginia",19075,560666
+301,"Clark County,Kentucky","Charlottesville City County,Virginia",22188,656524
+302,"Clark County,Kentucky","Chesapeake City County,Virginia",31145,931640
+303,"Clark County,Kentucky","Clifton Forge City County,Virginia",16931,498539
+304,"Clark County,Kentucky","Colonial Heights City County,Virginia",26854,800866
+305,"Clark County,Kentucky","Covington City County,Virginia",16457,481918
+306,"Clark County,Kentucky","Danville City County,Virginia",23626,655166
+307,"Clark County,Kentucky","Emporia City County,Virginia",29165,870750
+308,"Clark County,Kentucky","Fairfax City County,Virginia",27569,821470
+309,"Clark County,Kentucky","Falls Church City County,Virginia",27710,831653
+310,"Clark County,Kentucky","Franklin City County,Virginia",30383,888125
+311,"Clark County,Kentucky","Fredericksburg City County,Virginia",27107,758685
+312,"Clark County,Kentucky","Galax City County,Virginia",18219,519856
+313,"Clark County,Kentucky","Hampton City County,Virginia",29632,888441
+314,"Clark County,Kentucky","Harrisonburg City County,Virginia",21663,642666
+315,"Clark County,Kentucky","Hopewell City County,Virginia",26891,799832
+316,"Clark County,Kentucky","Lexington City County,Virginia",18709,549157
+317,"Clark County,Kentucky","Lynchburg City County,Virginia",22293,624272
+318,"Clark County,Kentucky","Manassas City County,Virginia",26664,800667
+319,"Clark County,Kentucky","Manassas Park City County,Virginia",27166,807010
+320,"Clark County,Kentucky","Martinsville City County,Virginia",21996,609504
+321,"Clark County,Kentucky","Newport News City County,Virginia",29189,874927
+322,"Clark County,Kentucky","Norfolk City County,Virginia",30939,913857
+323,"Clark County,Kentucky","Norton City County,Virginia",10992,260673
+324,"Clark County,Kentucky","Petersburg City County,Virginia",26726,801853
+325,"Clark County,Kentucky","Poquoson City County,Virginia",29861,885503
+326,"Clark County,Kentucky","Portsmouth City County,Virginia",30878,922678
+327,"Clark County,Kentucky","Radford County,Virginia",17571,482157
+328,"Clark County,Kentucky","Richmond City County,Virginia",25594,765969
+329,"Clark County,Kentucky","Roanoke City County,Virginia",19385,547015
+330,"Clark County,Kentucky","Salem City County,Virginia",18797,533565
+331,"Clark County,Kentucky","South Boston City County,Virginia",25638,709344
+332,"Clark County,Kentucky","Staunton City County,Virginia",20481,603801
+333,"Clark County,Kentucky","Suffolk City County,Virginia",31113,897459
+334,"Clark County,Kentucky","Virginia Beach City County,Virginia",31499,937115
+335,"Clark County,Kentucky","Waynesboro City County,Virginia",20818,616519
+336,"Clark County,Kentucky","Williamsburg City County,Virginia",28233,847176
+337,"Clark County,Kentucky","Winchester City County,Virginia",25043,716502
+338,"Clark County,Kentucky","Barbour County,West Virginia",16523,477199
+339,"Clark County,Kentucky","Berkeley County,West Virginia",24456,715358
+340,"Clark County,Kentucky","Boone County,West Virginia",11702,310816
+341,"Clark County,Kentucky","Braxton County,West Virginia",13214,368178
+342,"Clark County,Kentucky","Brooke County,West Virginia",19640,571779
+343,"Clark County,Kentucky","Cabell County,West Virginia",6274,177325
+344,"Clark County,Kentucky","Calhoun County,West Virginia",13135,365863
+345,"Clark County,Kentucky","Clay County,West Virginia",11980,339091
+346,"Clark County,Kentucky","Doddridge County,West Virginia",15667,458708
+347,"Clark County,Kentucky","Fayette County,West Virginia",13268,357435
+348,"Clark County,Kentucky","Gilmer County,West Virginia",14412,390365
+349,"Clark County,Kentucky","Grant County,West Virginia",20879,578744
+350,"Clark County,Kentucky","Greenbrier County,West Virginia",16342,435474
+351,"Clark County,Kentucky","Hampshire County,West Virginia",23711,676962
+352,"Clark County,Kentucky","Hancock County,West Virginia",21230,606315
+353,"Clark County,Kentucky","Hardy County,West Virginia",21934,610241
+354,"Clark County,Kentucky","Harrison County,West Virginia",15757,463570
+355,"Clark County,Kentucky","Jackson County,West Virginia",11019,320195
+356,"Clark County,Kentucky","Jefferson County,West Virginia",25922,771356
+357,"Clark County,Kentucky","Kanawha County,West Virginia",10576,291499
+358,"Clark County,Kentucky","Lewis County,West Virginia",14386,417040
+359,"Clark County,Kentucky","Lincoln County,West Virginia",9491,234975
+360,"Clark County,Kentucky","Logan County,West Virginia",11747,278789
+361,"Clark County,Kentucky","McDowell County,West Virginia",15599,330978
+362,"Clark County,Kentucky","Marion County,West Virginia",16902,490737
+363,"Clark County,Kentucky","Marshall County,West Virginia",19027,507880
+364,"Clark County,Kentucky","Mason County,West Virginia",9255,268069
+365,"Clark County,Kentucky","Mercer County,West Virginia",13903,403058
+366,"Clark County,Kentucky","Mineral County,West Virginia",22573,607565
+367,"Clark County,Kentucky","Mingo County,West Virginia",10431,245242
+368,"Clark County,Kentucky","Monongalia County,West Virginia",17113,516205
+369,"Clark County,Kentucky","Monroe County,West Virginia",16948,447770
+370,"Clark County,Kentucky","Morgan County,West Virginia",23948,704750
+371,"Clark County,Kentucky","Nicholas County,West Virginia",13697,398972
+372,"Clark County,Kentucky","Ohio County,West Virginia",18659,553017
+373,"Clark County,Kentucky","Pendleton County,West Virginia",21210,581368
+374,"Clark County,Kentucky","Pleasants County,West Virginia",14501,418046
+375,"Clark County,Kentucky","Pocahontas County,West Virginia",19026,468510
+376,"Clark County,Kentucky","Preston County,West Virginia",19259,542936
+377,"Clark County,Kentucky","Putnam County,West Virginia",7957,230102
+378,"Clark County,Kentucky","Raleigh County,West Virginia",12444,356751
+379,"Clark County,Kentucky","Randolph County,West Virginia",16888,479495
+380,"Clark County,Kentucky","Ritchie County,West Virginia",14832,431750
+381,"Clark County,Kentucky","Roane County,West Virginia",12644,349010
+382,"Clark County,Kentucky","Summers County,West Virginia",15897,418189
+383,"Clark County,Kentucky","Taylor County,West Virginia",16795,486309
+384,"Clark County,Kentucky","Tucker County,West Virginia",17955,510019
+385,"Clark County,Kentucky","Tyler County,West Virginia",16410,457662
+386,"Clark County,Kentucky","Upshur County,West Virginia",15951,431737
+387,"Clark County,Kentucky","Wayne County,West Virginia",7805,198520
+388,"Clark County,Kentucky","Webster County,West Virginia",15881,426051
+389,"Clark County,Kentucky","Wetzel County,West Virginia",17622,479568
+390,"Clark County,Kentucky","Wirt County,West Virginia",13285,377532
+391,"Clark County,Kentucky","Wood County,West Virginia",12800,379222
+392,"Clark County,Kentucky","Wyoming County,West Virginia",14389,396693

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Todd County,Kentucky","Adair County,Kentucky",6934,192759
+1,"Todd County,Kentucky","Allen County,Kentucky",4164,103726
+2,"Todd County,Kentucky","Anderson County,Kentucky",10332,265752
+3,"Todd County,Kentucky","Ballard County,Kentucky",7281,194860
+4,"Todd County,Kentucky","Barren County,Kentucky",5345,140453
+5,"Todd County,Kentucky","Bath County,Kentucky",14023,383021
+6,"Todd County,Kentucky","Bell County,Kentucky",14904,388920
+7,"Todd County,Kentucky","Boone County,Kentucky",14454,386417
+8,"Todd County,Kentucky","Bourbon County,Kentucky",13088,337531
+9,"Todd County,Kentucky","Boyd County,Kentucky",17281,484478
+10,"Todd County,Kentucky","Boyle County,Kentucky",10844,273672
+11,"Todd County,Kentucky","Bracken County,Kentucky",16297,400370
+12,"Todd County,Kentucky","Breathitt County,Kentucky",16739,444600
+13,"Todd County,Kentucky","Breckinridge County,Kentucky",7054,165295
+14,"Todd County,Kentucky","Bullitt County,Kentucky",8288,209828
+15,"Todd County,Kentucky","Butler County,Kentucky",3294,74778
+16,"Todd County,Kentucky","Caldwell County,Kentucky",4143,90947
+17,"Todd County,Kentucky","Calloway County,Kentucky",5082,126692
+18,"Todd County,Kentucky","Campbell County,Kentucky",15324,416120
+19,"Todd County,Kentucky","Carlisle County,Kentucky",7738,210228
+20,"Todd County,Kentucky","Carroll County,Kentucky",11938,320194
+21,"Todd County,Kentucky","Carter County,Kentucky",16418,453734
+22,"Todd County,Kentucky","Casey County,Kentucky",9533,245796
+23,"Todd County,Kentucky","Christian County,Kentucky",1369,34180
+24,"Todd County,Kentucky","Clay County,Kentucky",13068,347948
+25,"Todd County,Kentucky","Clinton County,Kentucky",8885,221288
+26,"Todd County,Kentucky","Crittenden County,Kentucky",5723,124018
+27,"Todd County,Kentucky","Cumberland County,Kentucky",8044,197387
+28,"Todd County,Kentucky","Daviess County,Kentucky",5113,110931
+29,"Todd County,Kentucky","Edmonson County,Kentucky",4995,121574
+30,"Todd County,Kentucky","Elliott County,Kentucky",17194,444997
+31,"Todd County,Kentucky","Estill County,Kentucky",13835,371915
+32,"Todd County,Kentucky","Fayette County,Kentucky",11650,307756
+33,"Todd County,Kentucky","Fleming County,Kentucky",15452,413240
+34,"Todd County,Kentucky","Floyd County,Kentucky",17087,459112
+35,"Todd County,Kentucky","Franklin County,Kentucky",11991,304444
+36,"Todd County,Kentucky","Fulton County,Kentucky",8142,231192
+37,"Todd County,Kentucky","Gallatin County,Kentucky",12647,339520
+38,"Todd County,Kentucky","Garrard County,Kentucky",11677,317232
+39,"Todd County,Kentucky","Grant County,Kentucky",14013,364973
+40,"Todd County,Kentucky","Graves County,Kentucky",6762,166039
+41,"Todd County,Kentucky","Grayson County,Kentucky",5448,113298
+42,"Todd County,Kentucky","Green County,Kentucky",6978,172745
+43,"Todd County,Kentucky","Greenup County,Kentucky",17886,481065
+44,"Todd County,Kentucky","Hancock County,Kentucky",6644,157192
+45,"Todd County,Kentucky","Hardin County,Kentucky",6887,158847
+46,"Todd County,Kentucky","Harlan County,Kentucky",17199,444525
+47,"Todd County,Kentucky","Harrison County,Kentucky",13860,354477
+48,"Todd County,Kentucky","Hart County,Kentucky",5711,150065
+49,"Todd County,Kentucky","Henderson County,Kentucky",4934,138322
+50,"Todd County,Kentucky","Henry County,Kentucky",11612,300942
+51,"Todd County,Kentucky","Hickman County,Kentucky",7771,211520
+52,"Todd County,Kentucky","Hopkins County,Kentucky",3703,94441
+53,"Todd County,Kentucky","Jackson County,Kentucky",12799,342300
+54,"Todd County,Kentucky","Jefferson County,Kentucky",9546,241333
+55,"Todd County,Kentucky","Jessamine County,Kentucky",11781,305417
+56,"Todd County,Kentucky","Johnson County,Kentucky",17764,483225
+57,"Todd County,Kentucky","Kenton County,Kentucky",14340,382133
+58,"Todd County,Kentucky","Knott County,Kentucky",15870,428654
+59,"Todd County,Kentucky","Knox County,Kentucky",13137,341830
+60,"Todd County,Kentucky","Larue County,Kentucky",6984,182791
+61,"Todd County,Kentucky","Laurel County,Kentucky",11878,312700
+62,"Todd County,Kentucky","Lawrence County,Kentucky",19284,511613
+63,"Todd County,Kentucky","Lee County,Kentucky",14804,380682
+64,"Todd County,Kentucky","Leslie County,Kentucky",15018,399072
+65,"Todd County,Kentucky","Letcher County,Kentucky",17041,450658
+66,"Todd County,Kentucky","Lewis County,Kentucky",16976,451380
+67,"Todd County,Kentucky","Lincoln County,Kentucky",10502,295536
+68,"Todd County,Kentucky","Livingston County,Kentucky",5612,148798
+69,"Todd County,Kentucky","Logan County,Kentucky",1361,31576
+70,"Todd County,Kentucky","Lyon County,Kentucky",5329,125946
+71,"Todd County,Kentucky","McCracken County,Kentucky",5893,162919
+72,"Todd County,Kentucky","McCreary County,Kentucky",11187,305605
+73,"Todd County,Kentucky","Madison County,Kentucky",12392,340690
+74,"Todd County,Kentucky","Magoffin County,Kentucky",17233,465093
+75,"Todd County,Kentucky","Marion County,Kentucky",9720,231264
+76,"Todd County,Kentucky","Marshall County,Kentucky",5308,146491
+77,"Todd County,Kentucky","Martin County,Kentucky",20178,525384
+78,"Todd County,Kentucky","Mason County,Kentucky",16217,409098
+79,"Todd County,Kentucky","Meade County,Kentucky",8497,179989
+80,"Todd County,Kentucky","Menifee County,Kentucky",15298,395559
+81,"Todd County,Kentucky","Mercer County,Kentucky",10691,272547
+82,"Todd County,Kentucky","Metcalfe County,Kentucky",5907,163104
+83,"Todd County,Kentucky","Monroe County,Kentucky",6663,169132
+84,"Todd County,Kentucky","Montgomery County,Kentucky",13941,373468
+85,"Todd County,Kentucky","Morgan County,Kentucky",16623,453377
+86,"Todd County,Kentucky","Muhlenberg County,Kentucky",1919,44266
+87,"Todd County,Kentucky","Nelson County,Kentucky",8184,208033
+88,"Todd County,Kentucky","Nicholas County,Kentucky",14345,364913
+89,"Todd County,Kentucky","Ohio County,Kentucky",4735,112498
+90,"Todd County,Kentucky","Oldham County,Kentucky",10338,268242
+91,"Todd County,Kentucky","Owen County,Kentucky",13334,336618
+92,"Todd County,Kentucky","Owsley County,Kentucky",14098,363802
+93,"Todd County,Kentucky","Pendleton County,Kentucky",15279,400838
+94,"Todd County,Kentucky","Perry County,Kentucky",15253,407773
+95,"Todd County,Kentucky","Pike County,Kentucky",19647,512112
+96,"Todd County,Kentucky","Powell County,Kentucky",14234,382327
+97,"Todd County,Kentucky","Robertson County,Kentucky",15115,386039
+98,"Todd County,Kentucky","Rockcastle County,Kentucky",11364,304441
+99,"Todd County,Kentucky","Rowan County,Kentucky",14765,406873
+100,"Todd County,Kentucky","Russell County,Kentucky",8041,220967
+101,"Todd County,Kentucky","Scott County,Kentucky",12669,336404
+102,"Todd County,Kentucky","Shelby County,Kentucky",10675,275525
+103,"Todd County,Kentucky","Simpson County,Kentucky",2734,63014
+104,"Todd County,Kentucky","Spencer County,Kentucky",9704,245781
+105,"Todd County,Kentucky","Taylor County,Kentucky",8348,199241
+106,"Todd County,Kentucky","Trigg County,Kentucky",2904,64800
+107,"Todd County,Kentucky","Trimble County,Kentucky",11737,308041
+108,"Todd County,Kentucky","Union County,Kentucky",6353,158682
+109,"Todd County,Kentucky","Warren County,Kentucky",3081,72667
+110,"Todd County,Kentucky","Washington County,Kentucky",10015,248652
+111,"Todd County,Kentucky","Wayne County,Kentucky",10285,251487
+112,"Todd County,Kentucky","Webster County,Kentucky",4812,122530
+113,"Todd County,Kentucky","Whitley County,Kentucky",12520,337684
+114,"Todd County,Kentucky","Wolfe County,Kentucky",15498,420198
+115,"Todd County,Kentucky","Woodford County,Kentucky",10906,288015
+116,"Todd County,Kentucky","Adams County,Ohio",18218,492778
+117,"Todd County,Kentucky","Allen County,Ohio",21760,608027
+118,"Todd County,Kentucky","Ashland County,Ohio",24949,709905
+119,"Todd County,Kentucky","Ashtabula County,Ohio",30695,894656
+120,"Todd County,Kentucky","Athens County,Ohio",23412,639120
+121,"Todd County,Kentucky","Auglaize County,Ohio",21016,595292
+122,"Todd County,Kentucky","Belmont County,Ohio",26287,756336
+123,"Todd County,Kentucky","Brown County,Ohio",17471,469332
+124,"Todd County,Kentucky","Butler County,Ohio",16838,457901
+125,"Todd County,Kentucky","Carroll County,Ohio",28251,793560
+126,"Todd County,Kentucky","Champaign County,Ohio",19794,549473
+127,"Todd County,Kentucky","Clark County,Ohio",19222,536106
+128,"Todd County,Kentucky","Clermont County,Ohio",15588,429079
+129,"Todd County,Kentucky","Clinton County,Ohio",17683,480386
+130,"Todd County,Kentucky","Columbiana County,Ohio",29807,829149
+131,"Todd County,Kentucky","Coshocton County,Ohio",24810,688977
+132,"Todd County,Kentucky","Crawford County,Ohio",24486,701877
+133,"Todd County,Kentucky","Cuyahoga County,Ohio",27267,792369
+134,"Todd County,Kentucky","Darke County,Ohio",20114,552338
+135,"Todd County,Kentucky","Defiance County,Ohio",24487,699948
+136,"Todd County,Kentucky","Delaware County,Ohio",21866,616576
+137,"Todd County,Kentucky","Fairfield County,Ohio",21269,599826
+138,"Todd County,Kentucky","Fayette County,Ohio",18581,517991
+139,"Todd County,Kentucky","Franklin County,Ohio",20383,576504
+140,"Todd County,Kentucky","Fulton County,Ohio",25921,742526
+141,"Todd County,Kentucky","Gallia County,Ohio",21566,584849
+142,"Todd County,Kentucky","Geauga County,Ohio",28795,831588
+143,"Todd County,Kentucky","Greene County,Ohio",18010,489740
+144,"Todd County,Kentucky","Guernsey County,Ohio",24016,690017
+145,"Todd County,Kentucky","Hamilton County,Ohio",15492,422385
+146,"Todd County,Kentucky","Hancock County,Ohio",22869,648922
+147,"Todd County,Kentucky","Hardin County,Ohio",22656,633319
+148,"Todd County,Kentucky","Harrison County,Ohio",27256,775626
+149,"Todd County,Kentucky","Henry County,Ohio",24593,673391
+150,"Todd County,Kentucky","Highland County,Ohio",18531,492032
+151,"Todd County,Kentucky","Hocking County,Ohio",22707,643230
+152,"Todd County,Kentucky","Holmes County,Ohio",26360,725835
+153,"Todd County,Kentucky","Huron County,Ohio",26095,708675
+154,"Todd County,Kentucky","Jackson County,Ohio",20809,573489
+155,"Todd County,Kentucky","Jefferson County,Ohio",28250,785403
+156,"Todd County,Kentucky","Knox County,Ohio",24316,676198
+157,"Todd County,Kentucky","Lawrence County,Ohio",19687,520906
+158,"Todd County,Kentucky","Licking County,Ohio",22648,631422
+159,"Todd County,Kentucky","Logan County,Ohio",21028,582010
+160,"Todd County,Kentucky","Lorain County,Ohio",27881,767329
+161,"Todd County,Kentucky","Lucas County,Ohio",26194,735442
+162,"Todd County,Kentucky","Madison County,Ohio",19803,553173
+163,"Todd County,Kentucky","Mahoning County,Ohio",29664,846288
+164,"Todd County,Kentucky","Marion County,Ohio",22913,624012
+165,"Todd County,Kentucky","Medina County,Ohio",25594,734918
+166,"Todd County,Kentucky","Meigs County,Ohio",22498,615233
+167,"Todd County,Kentucky","Mercer County,Ohio",22252,622225
+168,"Todd County,Kentucky","Miami County,Ohio",18602,517730
+169,"Todd County,Kentucky","Monroe County,Ohio",27692,770901
+170,"Todd County,Kentucky","Montgomery County,Ohio",17985,495470
+171,"Todd County,Kentucky","Morgan County,Ohio",25081,698513
+172,"Todd County,Kentucky","Morrow County,Ohio",22673,639397
+173,"Todd County,Kentucky","Muskingum County,Ohio",22866,656174
+174,"Todd County,Kentucky","Noble County,Ohio",25715,727137
+175,"Todd County,Kentucky","Paulding County,Ohio",23420,664867
+176,"Todd County,Kentucky","Perry County,Ohio",22935,644757
+177,"Todd County,Kentucky","Pickaway County,Ohio",20518,566587
+178,"Todd County,Kentucky","Pike County,Ohio",19586,538474
+179,"Todd County,Kentucky","Portage County,Ohio",28116,806067
+180,"Todd County,Kentucky","Preble County,Ohio",18882,502300
+181,"Todd County,Kentucky","Putnam County,Ohio",22935,640494
+182,"Todd County,Kentucky","Richland County,Ohio",23703,674636
+183,"Todd County,Kentucky","Ross County,Ohio",20162,565904
+184,"Todd County,Kentucky","Sandusky County,Ohio",25909,728998
+185,"Todd County,Kentucky","Scioto County,Ohio",19968,519597
+186,"Todd County,Kentucky","Seneca County,Ohio",25213,705262
+187,"Todd County,Kentucky","Shelby County,Ohio",19641,554016
+188,"Todd County,Kentucky","Stark County,Ohio",27861,790451
+189,"Todd County,Kentucky","Summit County,Ohio",26797,770245
+190,"Todd County,Kentucky","Trumbull County,Ohio",29697,856559
+191,"Todd County,Kentucky","Tuscarawas County,Ohio",26310,749382
+192,"Todd County,Kentucky","Union County,Ohio",21155,579394
+193,"Todd County,Kentucky","Van Wert County,Ohio",22925,640550
+194,"Todd County,Kentucky","Vinton County,Ohio",22344,614657
+195,"Todd County,Kentucky","Warren County,Ohio",16371,448642
+196,"Todd County,Kentucky","Washington County,Ohio",25535,687182
+197,"Todd County,Kentucky","Wayne County,Ohio",25322,723915
+198,"Todd County,Kentucky","Williams County,Ohio",25477,719828
+199,"Todd County,Kentucky","Wood County,Ohio",23957,689550
+200,"Todd County,Kentucky","Wyandot County,Ohio",23565,669802
+201,"Todd County,Kentucky","Accomack County,Virginia",46222,1351688
+202,"Todd County,Kentucky","Albemarle County,Virginia",32372,964188
+203,"Todd County,Kentucky","Alleghany County,Virginia",28185,807869
+204,"Todd County,Kentucky","Amelia County,Virginia",34944,1003043
+205,"Todd County,Kentucky","Amherst County,Virginia",31846,909102
+206,"Todd County,Kentucky","Appomattox County,Virginia",32021,922712
+207,"Todd County,Kentucky","Arlington County,Virginia",39056,1164497
+208,"Todd County,Kentucky","Augusta County,Virginia",31794,941881
+209,"Todd County,Kentucky","Bath County,Virginia",31197,883178
+210,"Todd County,Kentucky","Bedford County,Virginia",29754,854022
+211,"Todd County,Kentucky","Bland County,Virginia",23770,703623
+212,"Todd County,Kentucky","Botetourt County,Virginia",28610,838087
+213,"Todd County,Kentucky","Brunswick County,Virginia",36502,1067765
+214,"Todd County,Kentucky","Buchanan County,Virginia",23174,559929
+215,"Todd County,Kentucky","Buckingham County,Virginia",33135,946621
+216,"Todd County,Kentucky","Campbell County,Virginia",31170,895257
+217,"Todd County,Kentucky","Caroline County,Virginia",37711,1133033
+218,"Todd County,Kentucky","Carroll County,Virginia",24714,734968
+219,"Todd County,Kentucky","Charles City County,Virginia",37812,1130068
+220,"Todd County,Kentucky","Charlotte County,Virginia",33719,963193
+221,"Todd County,Kentucky","Chesterfield County,Virginia",36638,1041933
+222,"Todd County,Kentucky","Clarke County,Virginia",36552,1091245
+223,"Todd County,Kentucky","Craig County,Virginia",28009,815655
+224,"Todd County,Kentucky","Culpeper County,Virginia",36169,1053404
+225,"Todd County,Kentucky","Cumberland County,Virginia",34549,983853
+226,"Todd County,Kentucky","Dickenson County,Virginia",20600,517604
+227,"Todd County,Kentucky","Dinwiddie County,Virginia",36717,1046104
+228,"Todd County,Kentucky","Essex County,Virginia",39529,1157076
+229,"Todd County,Kentucky","Fairfax County,Virginia",38679,1154773
+230,"Todd County,Kentucky","Fauquier County,Virginia",36990,1112497
+231,"Todd County,Kentucky","Floyd County,Virginia",26606,775069
+232,"Todd County,Kentucky","Fluvanna County,Virginia",34050,1016359
+233,"Todd County,Kentucky","Franklin County,Virginia",29267,855255
+234,"Todd County,Kentucky","Frederick County,Virginia",36004,1078972
+235,"Todd County,Kentucky","Giles County,Virginia",26551,761697
+236,"Todd County,Kentucky","Gloucester County,Virginia",39982,1184256
+237,"Todd County,Kentucky","Goochland County,Virginia",34953,1046970
+238,"Todd County,Kentucky","Grayson County,Virginia",24447,698136
+239,"Todd County,Kentucky","Greene County,Virginia",34365,999772
+240,"Todd County,Kentucky","Greensville County,Virginia",37698,1085184
+241,"Todd County,Kentucky","Halifax County,Virginia",33017,932655
+242,"Todd County,Kentucky","Hanover County,Virginia",36160,1088077
+243,"Todd County,Kentucky","Henrico County,Virginia",36671,1101037
+244,"Todd County,Kentucky","Henry County,Virginia",28587,821689
+245,"Todd County,Kentucky","Highland County,Virginia",32641,893149
+246,"Todd County,Kentucky","Isle of Wight County,Virginia",40837,1146225
+247,"Todd County,Kentucky","James City County,Virginia",39048,1170839
+248,"Todd County,Kentucky","King and Queen County,Virginia",38706,1146423
+249,"Todd County,Kentucky","King George County,Virginia",38824,1161019
+250,"Todd County,Kentucky","King William County,Virginia",37393,1116345
+251,"Todd County,Kentucky","Lancaster County,Virginia",41186,1199430
+252,"Todd County,Kentucky","Lee County,Virginia",17996,465478
+253,"Todd County,Kentucky","Loudoun County,Virginia",38048,1127112
+254,"Todd County,Kentucky","Louisa County,Virginia",34611,1030065
+255,"Todd County,Kentucky","Lunenburg County,Virginia",35491,1004477
+256,"Todd County,Kentucky","Madison County,Virginia",35285,1029512
+257,"Todd County,Kentucky","Mathews County,Virginia",40807,1207680
+258,"Todd County,Kentucky","Mecklenburg County,Virginia",35050,984201
+259,"Todd County,Kentucky","Middlesex County,Virginia",39584,1180456
+260,"Todd County,Kentucky","Montgomery County,Virginia",25780,765573
+261,"Todd County,Kentucky","Nelson County,Virginia",32397,939499
+262,"Todd County,Kentucky","New Kent County,Virginia",38484,1144753
+263,"Todd County,Kentucky","Northampton County,Virginia",43465,1287502
+264,"Todd County,Kentucky","Northumberland County,Virginia",41226,1197943
+265,"Todd County,Kentucky","Nottoway County,Virginia",34984,1004857
+266,"Todd County,Kentucky","Orange County,Virginia",35573,1038173
+267,"Todd County,Kentucky","Page County,Virginia",34218,1013297
+268,"Todd County,Kentucky","Patrick County,Virginia",26819,780004
+269,"Todd County,Kentucky","Pittsylvania County,Virginia",30903,875897
+270,"Todd County,Kentucky","Powhatan County,Virginia",36046,1018560
+271,"Todd County,Kentucky","Prince Edward County,Virginia",33599,962192
+272,"Todd County,Kentucky","Prince George County,Virginia",38372,1085478
+273,"Todd County,Kentucky","Prince William County,Virginia",37090,1118601
+274,"Todd County,Kentucky","Pulaski County,Virginia",24457,726389
+275,"Todd County,Kentucky","Rappahannock County,Virginia",36049,1049785
+276,"Todd County,Kentucky","Richmond County,Virginia",39926,1170586
+277,"Todd County,Kentucky","Roanoke County,Virginia",26561,785509
+278,"Todd County,Kentucky","Rockbridge County,Virginia",30058,882157
+279,"Todd County,Kentucky","Rockingham County,Virginia",33258,985648
+280,"Todd County,Kentucky","Russell County,Virginia",22699,637747
+281,"Todd County,Kentucky","Scott County,Virginia",19966,573633
+282,"Todd County,Kentucky","Shenandoah County,Virginia",33762,1015751
+283,"Todd County,Kentucky","Smyth County,Virginia",21726,637838
+284,"Todd County,Kentucky","Southampton County,Virginia",39314,1142707
+285,"Todd County,Kentucky","Spotsylvania County,Virginia",36627,1071904
+286,"Todd County,Kentucky","Stafford County,Virginia",38008,1096197
+287,"Todd County,Kentucky","Surry County,Virginia",39791,1169700
+288,"Todd County,Kentucky","Sussex County,Virginia",38598,1133487
+289,"Todd County,Kentucky","Tazewell County,Virginia",23789,678908
+290,"Todd County,Kentucky","Warren County,Virginia",35664,1060344
+291,"Todd County,Kentucky","Washington County,Virginia",20837,601924
+292,"Todd County,Kentucky","Westmoreland County,Virginia",39799,1177844
+293,"Todd County,Kentucky","Wise County,Virginia",18865,493503
+294,"Todd County,Kentucky","Wythe County,Virginia",22940,680298
+295,"Todd County,Kentucky","York County,Virginia",40335,1201613
+296,"Todd County,Kentucky","Alexandria City County,Virginia",39259,1177143
+297,"Todd County,Kentucky","Bedford City County,Virginia",28918,845453
+298,"Todd County,Kentucky","Bristol City County,Virginia",19436,569906
+299,"Todd County,Kentucky","Buena Vista City County,Virginia",29430,874645
+300,"Todd County,Kentucky","Charlottesville City County,Virginia",32841,979402
+301,"Todd County,Kentucky","Chesapeake City County,Virginia",41799,1254519
+302,"Todd County,Kentucky","Clifton Forge City County,Virginia",28729,828075
+303,"Todd County,Kentucky","Colonial Heights City County,Virginia",37508,1123744
+304,"Todd County,Kentucky","Covington City County,Virginia",28254,811454
+305,"Todd County,Kentucky","Danville City County,Virginia",30745,876145
+306,"Todd County,Kentucky","Emporia City County,Virginia",37854,1099372
+307,"Todd County,Kentucky","Fairfax City County,Virginia",38222,1144348
+308,"Todd County,Kentucky","Falls Church City County,Virginia",38554,1158821
+309,"Todd County,Kentucky","Franklin City County,Virginia",39941,1155842
+310,"Todd County,Kentucky","Fredericksburg City County,Virginia",37760,1081563
+311,"Todd County,Kentucky","Galax City County,Virginia",25337,740835
+312,"Todd County,Kentucky","Hampton City County,Virginia",40286,1211319
+313,"Todd County,Kentucky","Harrisonburg City County,Virginia",32317,965544
+314,"Todd County,Kentucky","Hopewell City County,Virginia",37544,1122710
+315,"Todd County,Kentucky","Lexington City County,Virginia",29344,872972
+316,"Todd County,Kentucky","Lynchburg City County,Virginia",30943,890328
+317,"Todd County,Kentucky","Manassas City County,Virginia",37317,1123545
+318,"Todd County,Kentucky","Manassas Park City County,Virginia",37820,1129888
+319,"Todd County,Kentucky","Martinsville City County,Virginia",29115,830483
+320,"Todd County,Kentucky","Newport News City County,Virginia",39842,1197805
+321,"Todd County,Kentucky","Norfolk City County,Virginia",41592,1236735
+322,"Todd County,Kentucky","Norton City County,Virginia",19494,505315
+323,"Todd County,Kentucky","Petersburg City County,Virginia",37375,1068082
+324,"Todd County,Kentucky","Poquoson City County,Virginia",40514,1208382
+325,"Todd County,Kentucky","Portsmouth City County,Virginia",41531,1245556
+326,"Todd County,Kentucky","Radford County,Virginia",24967,740337
+327,"Todd County,Kentucky","Richmond City County,Virginia",36247,1088847
+328,"Todd County,Kentucky","Roanoke City County,Virginia",27163,805614
+329,"Todd County,Kentucky","Salem City County,Virginia",26575,792164
+330,"Todd County,Kentucky","South Boston City County,Virginia",32757,930324
+331,"Todd County,Kentucky","Staunton City County,Virginia",31134,926679
+332,"Todd County,Kentucky","Suffolk City County,Virginia",41257,1189145
+333,"Todd County,Kentucky","Virginia Beach City County,Virginia",42153,1259994
+334,"Todd County,Kentucky","Waynesboro City County,Virginia",31472,939397
+335,"Todd County,Kentucky","Williamsburg City County,Virginia",38886,1170054
+336,"Todd County,Kentucky","Winchester City County,Virginia",35883,1075116
+337,"Todd County,Kentucky","Barbour County,West Virginia",28321,806735
+338,"Todd County,Kentucky","Berkeley County,West Virginia",36254,1044895
+339,"Todd County,Kentucky","Boone County,West Virginia",23500,640352
+340,"Todd County,Kentucky","Braxton County,West Virginia",25011,697715
+341,"Todd County,Kentucky","Brooke County,West Virginia",28365,798584
+342,"Todd County,Kentucky","Cabell County,West Virginia",18071,506861
+343,"Todd County,Kentucky","Calhoun County,West Virginia",24932,695399
+344,"Todd County,Kentucky","Clay County,West Virginia",23778,668627
+345,"Todd County,Kentucky","Doddridge County,West Virginia",27464,788245
+346,"Todd County,Kentucky","Fayette County,West Virginia",25065,686972
+347,"Todd County,Kentucky","Gilmer County,West Virginia",26210,719901
+348,"Todd County,Kentucky","Grant County,West Virginia",32676,908281
+349,"Todd County,Kentucky","Greenbrier County,West Virginia",28139,765010
+350,"Todd County,Kentucky","Hampshire County,West Virginia",35508,1006498
+351,"Todd County,Kentucky","Hancock County,West Virginia",29955,833120
+352,"Todd County,Kentucky","Hardy County,West Virginia",33732,939778
+353,"Todd County,Kentucky","Harrison County,West Virginia",27554,793106
+354,"Todd County,Kentucky","Jackson County,West Virginia",22816,649731
+355,"Todd County,Kentucky","Jefferson County,West Virginia",37672,1109729
+356,"Todd County,Kentucky","Kanawha County,West Virginia",22374,621035
+357,"Todd County,Kentucky","Lewis County,West Virginia",26184,746576
+358,"Todd County,Kentucky","Lincoln County,West Virginia",21288,564511
+359,"Todd County,Kentucky","Logan County,West Virginia",23163,602402
+360,"Todd County,Kentucky","McDowell County,West Virginia",26512,635484
+361,"Todd County,Kentucky","Marion County,West Virginia",28700,820273
+362,"Todd County,Kentucky","Marshall County,West Virginia",28323,793092
+363,"Todd County,Kentucky","Mason County,West Virginia",21053,597605
+364,"Todd County,Kentucky","Mercer County,West Virginia",25471,753902
+365,"Todd County,Kentucky","Mineral County,West Virginia",34371,937101
+366,"Todd County,Kentucky","Mingo County,West Virginia",21847,568855
+367,"Todd County,Kentucky","Monongalia County,West Virginia",28910,845742
+368,"Todd County,Kentucky","Monroe County,West Virginia",27935,803301
+369,"Todd County,Kentucky","Morgan County,West Virginia",35745,1034286
+370,"Todd County,Kentucky","Nicholas County,West Virginia",25494,728508
+371,"Todd County,Kentucky","Ohio County,West Virginia",27384,779822
+372,"Todd County,Kentucky","Pendleton County,West Virginia",33007,910905
+373,"Todd County,Kentucky","Pleasants County,West Virginia",26299,747583
+374,"Todd County,Kentucky","Pocahontas County,West Virginia",30823,798047
+375,"Todd County,Kentucky","Preston County,West Virginia",31056,872473
+376,"Todd County,Kentucky","Putnam County,West Virginia",19755,559638
+377,"Todd County,Kentucky","Raleigh County,West Virginia",24242,686287
+378,"Todd County,Kentucky","Randolph County,West Virginia",28685,809031
+379,"Todd County,Kentucky","Ritchie County,West Virginia",26629,761287
+380,"Todd County,Kentucky","Roane County,West Virginia",24442,678546
+381,"Todd County,Kentucky","Summers County,West Virginia",27694,747725
+382,"Todd County,Kentucky","Taylor County,West Virginia",28592,815846
+383,"Todd County,Kentucky","Tucker County,West Virginia",29752,839556
+384,"Todd County,Kentucky","Tyler County,West Virginia",28208,787198
+385,"Todd County,Kentucky","Upshur County,West Virginia",27749,761273
+386,"Todd County,Kentucky","Wayne County,West Virginia",19602,528056
+387,"Todd County,Kentucky","Webster County,West Virginia",27678,755588
+388,"Todd County,Kentucky","Wetzel County,West Virginia",29420,809105
+389,"Todd County,Kentucky","Wirt County,West Virginia",25083,707069
+390,"Todd County,Kentucky","Wood County,West Virginia",24597,708758
+391,"Todd County,Kentucky","Wyoming County,West Virginia",26133,641342

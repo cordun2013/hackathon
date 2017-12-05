@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Floyd County,Kentucky","Adair County,Kentucky",10748,272204
+1,"Floyd County,Kentucky","Allen County,Kentucky",13944,367846
+2,"Floyd County,Kentucky","Anderson County,Kentucky",9828,262630
+3,"Floyd County,Kentucky","Ballard County,Kentucky",22807,652401
+4,"Floyd County,Kentucky","Barren County,Kentucky",12493,331231
+5,"Floyd County,Kentucky","Bath County,Kentucky",6691,139444
+6,"Floyd County,Kentucky","Bell County,Kentucky",8108,177262
+7,"Floyd County,Kentucky","Boone County,Kentucky",11537,314338
+8,"Floyd County,Kentucky","Bourbon County,Kentucky",7831,196193
+9,"Floyd County,Kentucky","Boyd County,Kentucky",5201,128475
+10,"Floyd County,Kentucky","Boyle County,Kentucky",9975,246361
+11,"Floyd County,Kentucky","Bracken County,Kentucky",10495,222728
+12,"Floyd County,Kentucky","Breathitt County,Kentucky",4246,100197
+13,"Floyd County,Kentucky","Breckinridge County,Kentucky",15362,415311
+14,"Floyd County,Kentucky","Bullitt County,Kentucky",11932,336431
+15,"Floyd County,Kentucky","Butler County,Kentucky",15532,427705
+16,"Floyd County,Kentucky","Caldwell County,Kentucky",18919,543254
+17,"Floyd County,Kentucky","Calloway County,Kentucky",21937,586357
+18,"Floyd County,Kentucky","Campbell County,Kentucky",11525,281012
+19,"Floyd County,Kentucky","Carlisle County,Kentucky",23264,667770
+20,"Floyd County,Kentucky","Carroll County,Kentucky",12373,310444
+21,"Floyd County,Kentucky","Carter County,Kentucky",5994,117189
+22,"Floyd County,Kentucky","Casey County,Kentucky",10685,245478
+23,"Floyd County,Kentucky","Christian County,Kentucky",18224,493844
+24,"Floyd County,Kentucky","Clay County,Kentucky",5275,127482
+25,"Floyd County,Kentucky","Clinton County,Kentucky",11155,275569
+26,"Floyd County,Kentucky","Crittenden County,Kentucky",20498,576325
+27,"Floyd County,Kentucky","Cumberland County,Kentucky",11909,293808
+28,"Floyd County,Kentucky","Daviess County,Kentucky",17050,483751
+29,"Floyd County,Kentucky","Edmonson County,Kentucky",14022,375392
+30,"Floyd County,Kentucky","Elliott County,Kentucky",5603,103568
+31,"Floyd County,Kentucky","Estill County,Kentucky",6734,163123
+32,"Floyd County,Kentucky","Fayette County,Kentucky",7636,200123
+33,"Floyd County,Kentucky","Fleming County,Kentucky",7712,160709
+34,"Floyd County,Kentucky","Franklin County,Kentucky",9673,249039
+35,"Floyd County,Kentucky","Fulton County,Kentucky",23668,688734
+36,"Floyd County,Kentucky","Gallatin County,Kentucky",11371,301103
+37,"Floyd County,Kentucky","Garrard County,Kentucky",9644,231148
+38,"Floyd County,Kentucky","Grant County,Kentucky",10170,275211
+39,"Floyd County,Kentucky","Graves County,Kentucky",22289,640476
+40,"Floyd County,Kentucky","Grayson County,Kentucky",14354,393945
+41,"Floyd County,Kentucky","Green County,Kentucky",12500,314368
+42,"Floyd County,Kentucky","Greenup County,Kentucky",7199,178881
+43,"Floyd County,Kentucky","Hancock County,Kentucky",16157,448204
+44,"Floyd County,Kentucky","Hardin County,Kentucky",13230,356078
+45,"Floyd County,Kentucky","Harlan County,Kentucky",7431,157578
+46,"Floyd County,Kentucky","Harrison County,Kentucky",9143,224532
+47,"Floyd County,Kentucky","Hart County,Kentucky",13850,360646
+48,"Floyd County,Kentucky","Henderson County,Kentucky",18856,536181
+49,"Floyd County,Kentucky","Henry County,Kentucky",11275,292758
+50,"Floyd County,Kentucky","Hickman County,Kentucky",23297,669061
+51,"Floyd County,Kentucky","Hopkins County,Kentucky",18377,517723
+52,"Floyd County,Kentucky","Jackson County,Kentucky",7147,163900
+53,"Floyd County,Kentucky","Jefferson County,Kentucky",11368,308291
+54,"Floyd County,Kentucky","Jessamine County,Kentucky",9105,221587
+55,"Floyd County,Kentucky","Johnson County,Kentucky",1850,41231
+56,"Floyd County,Kentucky","Kenton County,Kentucky",11423,310054
+57,"Floyd County,Kentucky","Knott County,Kentucky",1380,32812
+58,"Floyd County,Kentucky","Knox County,Kentucky",6600,154136
+59,"Floyd County,Kentucky","Larue County,Kentucky",13302,343254
+60,"Floyd County,Kentucky","Laurel County,Kentucky",6877,164277
+61,"Floyd County,Kentucky","Lawrence County,Kentucky",3625,74919
+62,"Floyd County,Kentucky","Lee County,Kentucky",5719,128899
+63,"Floyd County,Kentucky","Leslie County,Kentucky",4459,102486
+64,"Floyd County,Kentucky","Letcher County,Kentucky",3235,70421
+65,"Floyd County,Kentucky","Lewis County,Kentucky",8339,171875
+66,"Floyd County,Kentucky","Lincoln County,Kentucky",9206,230729
+67,"Floyd County,Kentucky","Livingston County,Kentucky",21094,593221
+68,"Floyd County,Kentucky","Logan County,Kentucky",15895,433124
+69,"Floyd County,Kentucky","Lyon County,Kentucky",21228,603612
+70,"Floyd County,Kentucky","McCracken County,Kentucky",21419,620461
+71,"Floyd County,Kentucky","McCreary County,Kentucky",9410,234692
+72,"Floyd County,Kentucky","Madison County,Kentucky",8236,195139
+73,"Floyd County,Kentucky","Magoffin County,Kentucky",2194,45207
+74,"Floyd County,Kentucky","Marion County,Kentucky",11673,284966
+75,"Floyd County,Kentucky","Marshall County,Kentucky",20834,604033
+76,"Floyd County,Kentucky","Martin County,Kentucky",3379,67233
+77,"Floyd County,Kentucky","Mason County,Kentucky",9844,202274
+78,"Floyd County,Kentucky","Meade County,Kentucky",13829,380606
+79,"Floyd County,Kentucky","Menifee County,Kentucky",5863,119407
+80,"Floyd County,Kentucky","Mercer County,Kentucky",10056,260574
+81,"Floyd County,Kentucky","Metcalfe County,Kentucky",11404,302468
+82,"Floyd County,Kentucky","Monroe County,Kentucky",13373,339973
+83,"Floyd County,Kentucky","Montgomery County,Kentucky",6831,160092
+84,"Floyd County,Kentucky","Morgan County,Kentucky",4307,96394
+85,"Floyd County,Kentucky","Muhlenberg County,Kentucky",17238,484198
+86,"Floyd County,Kentucky","Nelson County,Kentucky",11287,303934
+87,"Floyd County,Kentucky","Nicholas County,Kentucky",9137,224113
+88,"Floyd County,Kentucky","Ohio County,Kentucky",16151,451788
+89,"Floyd County,Kentucky","Oldham County,Kentucky",11440,320172
+90,"Floyd County,Kentucky","Owen County,Kentucky",10495,275816
+91,"Floyd County,Kentucky","Owsley County,Kentucky",6383,138071
+92,"Floyd County,Kentucky","Pendleton County,Kentucky",10703,261660
+93,"Floyd County,Kentucky","Perry County,Kentucky",2759,63370
+94,"Floyd County,Kentucky","Pike County,Kentucky",2849,53961
+95,"Floyd County,Kentucky","Powell County,Kentucky",5619,131377
+96,"Floyd County,Kentucky","Robertson County,Kentucky",9695,203453
+97,"Floyd County,Kentucky","Rockcastle County,Kentucky",7687,192327
+98,"Floyd County,Kentucky","Rowan County,Kentucky",6131,125168
+99,"Floyd County,Kentucky","Russell County,Kentucky",10352,256187
+100,"Floyd County,Kentucky","Scott County,Kentucky",8470,228150
+101,"Floyd County,Kentucky","Shelby County,Kentucky",10297,279426
+102,"Floyd County,Kentucky","Simpson County,Kentucky",15485,421997
+103,"Floyd County,Kentucky","Spencer County,Kentucky",10826,285274
+104,"Floyd County,Kentucky","Taylor County,Kentucky",12102,296463
+105,"Floyd County,Kentucky","Todd County,Kentucky",17071,463179
+106,"Floyd County,Kentucky","Trigg County,Kentucky",19759,524464
+107,"Floyd County,Kentucky","Trimble County,Kentucky",12513,326212
+108,"Floyd County,Kentucky","Union County,Kentucky",20576,566628
+109,"Floyd County,Kentucky","Warren County,Kentucky",14519,386946
+110,"Floyd County,Kentucky","Washington County,Kentucky",11298,289171
+111,"Floyd County,Kentucky","Wayne County,Kentucky",10528,253260
+112,"Floyd County,Kentucky","Webster County,Kentucky",19486,545811
+113,"Floyd County,Kentucky","Whitley County,Kentucky",7775,198778
+114,"Floyd County,Kentucky","Wolfe County,Kentucky",4222,97144
+115,"Floyd County,Kentucky","Woodford County,Kentucky",8690,230786
+116,"Floyd County,Kentucky","Adams County,Ohio",11047,255230
+117,"Floyd County,Kentucky","Allen County,Ohio",18843,535947
+118,"Floyd County,Kentucky","Ashland County,Ohio",18678,465394
+119,"Floyd County,Kentucky","Ashtabula County,Ohio",23686,697434
+120,"Floyd County,Kentucky","Athens County,Ohio",10999,269788
+121,"Floyd County,Kentucky","Auglaize County,Ohio",18099,523212
+122,"Floyd County,Kentucky","Belmont County,Ohio",16749,486359
+123,"Floyd County,Kentucky","Brown County,Ohio",11180,231758
+124,"Floyd County,Kentucky","Butler County,Ohio",13920,385821
+125,"Floyd County,Kentucky","Carroll County,Ohio",18679,523245
+126,"Floyd County,Kentucky","Champaign County,Ohio",16164,392503
+127,"Floyd County,Kentucky","Clark County,Ohio",14843,352048
+128,"Floyd County,Kentucky","Clermont County,Ohio",12671,357000
+129,"Floyd County,Kentucky","Clinton County,Ohio",13876,291647
+130,"Floyd County,Kentucky","Columbiana County,Ohio",20521,577480
+131,"Floyd County,Kentucky","Coshocton County,Ohio",17314,494362
+132,"Floyd County,Kentucky","Crawford County,Ohio",18292,433852
+133,"Floyd County,Kentucky","Cuyahoga County,Ohio",20715,608649
+134,"Floyd County,Kentucky","Darke County,Ohio",17196,480259
+135,"Floyd County,Kentucky","Defiance County,Ohio",22330,614378
+136,"Floyd County,Kentucky","Delaware County,Ohio",15595,372066
+137,"Floyd County,Kentucky","Fairfield County,Ohio",14139,323889
+138,"Floyd County,Kentucky","Fayette County,Ohio",12911,310193
+139,"Floyd County,Kentucky","Franklin County,Ohio",14112,331993
+140,"Floyd County,Kentucky","Fulton County,Ohio",23093,631321
+141,"Floyd County,Kentucky","Gallia County,Ohio",8957,212140
+142,"Floyd County,Kentucky","Geauga County,Ohio",21787,634366
+143,"Floyd County,Kentucky","Greene County,Ohio",13781,343345
+144,"Floyd County,Kentucky","Guernsey County,Ohio",14865,432281
+145,"Floyd County,Kentucky","Hamilton County,Ohio",12575,350306
+146,"Floyd County,Kentucky","Hancock County,Ohio",19469,474944
+147,"Floyd County,Kentucky","Hardin County,Ohio",18121,429536
+148,"Floyd County,Kentucky","Harrison County,Ohio",17685,505311
+149,"Floyd County,Kentucky","Henry County,Ohio",21676,601311
+150,"Floyd County,Kentucky","Highland County,Ohio",12013,269313
+151,"Floyd County,Kentucky","Hocking County,Ohio",12697,267196
+152,"Floyd County,Kentucky","Holmes County,Ohio",18373,517246
+153,"Floyd County,Kentucky","Huron County,Ohio",19824,464164
+154,"Floyd County,Kentucky","Jackson County,Ohio",9377,216829
+155,"Floyd County,Kentucky","Jefferson County,Ohio",18678,515088
+156,"Floyd County,Kentucky","Knox County,Ohio",18045,431688
+157,"Floyd County,Kentucky","Lawrence County,Ohio",7180,156743
+158,"Floyd County,Kentucky","Licking County,Ohio",16116,379751
+159,"Floyd County,Kentucky","Logan County,Ohio",17141,423813
+160,"Floyd County,Kentucky","Lorain County,Ohio",21610,522818
+161,"Floyd County,Kentucky","Lucas County,Ohio",23104,562443
+162,"Floyd County,Kentucky","Madison County,Ohio",14612,333277
+163,"Floyd County,Kentucky","Mahoning County,Ohio",21016,592285
+164,"Floyd County,Kentucky","Marion County,Ohio",16852,392682
+165,"Floyd County,Kentucky","Medina County,Ohio",19323,490407
+166,"Floyd County,Kentucky","Meigs County,Ohio",9889,242524
+167,"Floyd County,Kentucky","Mercer County,Ohio",19334,550146
+168,"Floyd County,Kentucky","Miami County,Ohio",15685,445651
+169,"Floyd County,Kentucky","Monroe County,Ohio",15801,421472
+170,"Floyd County,Kentucky","Montgomery County,Ohio",15068,423391
+171,"Floyd County,Kentucky","Morgan County,Ohio",13952,336812
+172,"Floyd County,Kentucky","Morrow County,Ohio",16402,394887
+173,"Floyd County,Kentucky","Muskingum County,Ohio",15666,357951
+174,"Floyd County,Kentucky","Noble County,Ohio",14307,404632
+175,"Floyd County,Kentucky","Paulding County,Ohio",21374,598925
+176,"Floyd County,Kentucky","Perry County,Ohio",14217,335208
+177,"Floyd County,Kentucky","Pickaway County,Ohio",12351,290292
+178,"Floyd County,Kentucky","Pike County,Ohio",9445,219171
+179,"Floyd County,Kentucky","Portage County,Ohio",20237,590231
+180,"Floyd County,Kentucky","Preble County,Ohio",15965,430221
+181,"Floyd County,Kentucky","Putnam County,Ohio",20017,568415
+182,"Floyd County,Kentucky","Richland County,Ohio",17432,430125
+183,"Floyd County,Kentucky","Ross County,Ohio",11095,256598
+184,"Floyd County,Kentucky","Sandusky County,Ohio",21225,493639
+185,"Floyd County,Kentucky","Scioto County,Ohio",8525,195809
+186,"Floyd County,Kentucky","Seneca County,Ohio",19843,467524
+187,"Floyd County,Kentucky","Shelby County,Ohio",16723,481937
+188,"Floyd County,Kentucky","Stark County,Ohio",18538,538480
+189,"Floyd County,Kentucky","Summit County,Ohio",19297,564268
+190,"Floyd County,Kentucky","Trumbull County,Ohio",21971,618532
+191,"Floyd County,Kentucky","Tuscarawas County,Ohio",16739,479067
+192,"Floyd County,Kentucky","Union County,Ohio",15645,374044
+193,"Floyd County,Kentucky","Van Wert County,Ohio",20008,568471
+194,"Floyd County,Kentucky","Vinton County,Ohio",11636,243607
+195,"Floyd County,Kentucky","Warren County,Ohio",13454,376562
+196,"Floyd County,Kentucky","Washington County,Ohio",12926,314473
+197,"Floyd County,Kentucky","Wayne County,Ohio",19051,479404
+198,"Floyd County,Kentucky","Williams County,Ohio",23507,637894
+199,"Floyd County,Kentucky","Wood County,Ohio",20867,516552
+200,"Floyd County,Kentucky","Wyandot County,Ohio",18439,439080
+201,"Floyd County,Kentucky","Accomack County,Virginia",34757,985637
+202,"Floyd County,Kentucky","Albemarle County,Virginia",20907,598136
+203,"Floyd County,Kentucky","Alleghany County,Virginia",15576,435159
+204,"Floyd County,Kentucky","Amelia County,Virginia",24214,619769
+205,"Floyd County,Kentucky","Amherst County,Virginia",20904,566125
+206,"Floyd County,Kentucky","Appomattox County,Virginia",21291,539438
+207,"Floyd County,Kentucky","Arlington County,Virginia",27190,794168
+208,"Floyd County,Kentucky","Augusta County,Virginia",19517,536476
+209,"Floyd County,Kentucky","Bath County,Virginia",18587,510469
+210,"Floyd County,Kentucky","Bedford County,Virginia",19024,470748
+211,"Floyd County,Kentucky","Bland County,Virginia",12024,262039
+212,"Floyd County,Kentucky","Botetourt County,Virginia",17880,454813
+213,"Floyd County,Kentucky","Brunswick County,Virginia",26185,706864
+214,"Floyd County,Kentucky","Buchanan County,Virginia",6901,133467
+215,"Floyd County,Kentucky","Buckingham County,Virginia",22405,563348
+216,"Floyd County,Kentucky","Campbell County,Virginia",20440,511983
+217,"Floyd County,Kentucky","Caroline County,Virginia",26246,766982
+218,"Floyd County,Kentucky","Carroll County,Virginia",13984,351695
+219,"Floyd County,Kentucky","Charles City County,Virginia",26346,764017
+220,"Floyd County,Kentucky","Charlotte County,Virginia",22989,579920
+221,"Floyd County,Kentucky","Chesterfield County,Virginia",25482,741800
+222,"Floyd County,Kentucky","Clarke County,Virginia",25086,725194
+223,"Floyd County,Kentucky","Craig County,Virginia",15556,342980
+224,"Floyd County,Kentucky","Culpeper County,Virginia",24704,687353
+225,"Floyd County,Kentucky","Cumberland County,Virginia",23819,600580
+226,"Floyd County,Kentucky","Dickenson County,Virginia",6709,138964
+227,"Floyd County,Kentucky","Dinwiddie County,Virginia",25987,662831
+228,"Floyd County,Kentucky","Essex County,Virginia",28063,791024
+229,"Floyd County,Kentucky","Fairfax County,Virginia",26880,784835
+230,"Floyd County,Kentucky","Fauquier County,Virginia",25525,746446
+231,"Floyd County,Kentucky","Floyd County,Virginia",15876,391795
+232,"Floyd County,Kentucky","Fluvanna County,Virginia",22585,650308
+233,"Floyd County,Kentucky","Franklin County,Virginia",18537,471982
+234,"Floyd County,Kentucky","Frederick County,Virginia",23752,639329
+235,"Floyd County,Kentucky","Giles County,Virginia",13605,299673
+236,"Floyd County,Kentucky","Gloucester County,Virginia",28517,818205
+237,"Floyd County,Kentucky","Goochland County,Virginia",23488,680919
+238,"Floyd County,Kentucky","Grayson County,Virginia",13717,314862
+239,"Floyd County,Kentucky","Greene County,Virginia",22899,633721
+240,"Floyd County,Kentucky","Greensville County,Virginia",27381,724283
+241,"Floyd County,Kentucky","Halifax County,Virginia",22287,549382
+242,"Floyd County,Kentucky","Hanover County,Virginia",24694,722026
+243,"Floyd County,Kentucky","Henrico County,Virginia",25206,734985
+244,"Floyd County,Kentucky","Henry County,Virginia",17857,438416
+245,"Floyd County,Kentucky","Highland County,Virginia",20032,520439
+246,"Floyd County,Kentucky","Isle of Wight County,Virginia",29458,839562
+247,"Floyd County,Kentucky","James City County,Virginia",27582,804788
+248,"Floyd County,Kentucky","King and Queen County,Virginia",27240,780371
+249,"Floyd County,Kentucky","King George County,Virginia",27359,794968
+250,"Floyd County,Kentucky","King William County,Virginia",25928,750294
+251,"Floyd County,Kentucky","Lancaster County,Virginia",29721,833379
+252,"Floyd County,Kentucky","Lee County,Virginia",8009,187480
+253,"Floyd County,Kentucky","Loudoun County,Virginia",26582,761061
+254,"Floyd County,Kentucky","Louisa County,Virginia",23145,664014
+255,"Floyd County,Kentucky","Lunenburg County,Virginia",24761,621204
+256,"Floyd County,Kentucky","Madison County,Virginia",23819,663461
+257,"Floyd County,Kentucky","Mathews County,Virginia",29342,841628
+258,"Floyd County,Kentucky","Mecklenburg County,Virginia",24320,600927
+259,"Floyd County,Kentucky","Middlesex County,Virginia",28118,814405
+260,"Floyd County,Kentucky","Montgomery County,Virginia",14688,327680
+261,"Floyd County,Kentucky","Nelson County,Virginia",21445,577816
+262,"Floyd County,Kentucky","New Kent County,Virginia",27018,778701
+263,"Floyd County,Kentucky","Northampton County,Virginia",32000,921451
+264,"Floyd County,Kentucky","Northumberland County,Virginia",29760,831891
+265,"Floyd County,Kentucky","Nottoway County,Virginia",24254,621583
+266,"Floyd County,Kentucky","Orange County,Virginia",24108,672122
+267,"Floyd County,Kentucky","Page County,Virginia",22753,647246
+268,"Floyd County,Kentucky","Patrick County,Virginia",16090,396731
+269,"Floyd County,Kentucky","Pittsylvania County,Virginia",20173,492624
+270,"Floyd County,Kentucky","Powhatan County,Virginia",24741,706141
+271,"Floyd County,Kentucky","Prince Edward County,Virginia",22869,578919
+272,"Floyd County,Kentucky","Prince George County,Virginia",26993,778816
+273,"Floyd County,Kentucky","Prince William County,Virginia",25624,752549
+274,"Floyd County,Kentucky","Pulaski County,Virginia",13727,343115
+275,"Floyd County,Kentucky","Rappahannock County,Virginia",24584,683733
+276,"Floyd County,Kentucky","Richmond County,Virginia",28460,804535
+277,"Floyd County,Kentucky","Roanoke County,Virginia",15831,402236
+278,"Floyd County,Kentucky","Rockbridge County,Virginia",17909,503516
+279,"Floyd County,Kentucky","Rockingham County,Virginia",21792,619597
+280,"Floyd County,Kentucky","Russell County,Virginia",8432,152016
+281,"Floyd County,Kentucky","Scott County,Virginia",8185,186417
+282,"Floyd County,Kentucky","Shenandoah County,Virginia",22297,649700
+283,"Floyd County,Kentucky","Smyth County,Virginia",10996,254565
+284,"Floyd County,Kentucky","Southampton County,Virginia",28997,781806
+285,"Floyd County,Kentucky","Spotsylvania County,Virginia",25162,705852
+286,"Floyd County,Kentucky","Stafford County,Virginia",26543,730145
+287,"Floyd County,Kentucky","Surry County,Virginia",28326,803649
+288,"Floyd County,Kentucky","Sussex County,Virginia",27996,707962
+289,"Floyd County,Kentucky","Tazewell County,Virginia",9145,190242
+290,"Floyd County,Kentucky","Warren County,Virginia",24199,694293
+291,"Floyd County,Kentucky","Washington County,Virginia",9107,205682
+292,"Floyd County,Kentucky","Westmoreland County,Virginia",28333,811793
+293,"Floyd County,Kentucky","Wise County,Virginia",4974,114863
+294,"Floyd County,Kentucky","Wythe County,Virginia",12210,297025
+295,"Floyd County,Kentucky","York County,Virginia",28870,835562
+296,"Floyd County,Kentucky","Alexandria City County,Virginia",27705,811350
+297,"Floyd County,Kentucky","Bedford City County,Virginia",18188,462180
+298,"Floyd County,Kentucky","Bristol City County,Virginia",9947,226568
+299,"Floyd County,Kentucky","Buena Vista City County,Virginia",18263,517493
+300,"Floyd County,Kentucky","Charlottesville City County,Virginia",21376,613351
+301,"Floyd County,Kentucky","Chesapeake City County,Virginia",30333,888467
+302,"Floyd County,Kentucky","Clifton Forge City County,Virginia",16119,455366
+303,"Floyd County,Kentucky","Colonial Heights City County,Virginia",26042,757693
+304,"Floyd County,Kentucky","Covington City County,Virginia",15645,438745
+305,"Floyd County,Kentucky","Danville City County,Virginia",20015,492872
+306,"Floyd County,Kentucky","Emporia City County,Virginia",27538,738471
+307,"Floyd County,Kentucky","Fairfax City County,Virginia",26757,778297
+308,"Floyd County,Kentucky","Falls Church City County,Virginia",26898,788480
+309,"Floyd County,Kentucky","Franklin City County,Virginia",29624,794941
+310,"Floyd County,Kentucky","Fredericksburg City County,Virginia",26294,715512
+311,"Floyd County,Kentucky","Galax City County,Virginia",14607,357561
+312,"Floyd County,Kentucky","Hampton City County,Virginia",28820,845268
+313,"Floyd County,Kentucky","Harrisonburg City County,Virginia",20851,599493
+314,"Floyd County,Kentucky","Hopewell City County,Virginia",26079,756659
+315,"Floyd County,Kentucky","Lexington City County,Virginia",17897,505984
+316,"Floyd County,Kentucky","Lynchburg City County,Virginia",20213,507055
+317,"Floyd County,Kentucky","Manassas City County,Virginia",25852,757494
+318,"Floyd County,Kentucky","Manassas Park City County,Virginia",26354,763837
+319,"Floyd County,Kentucky","Martinsville City County,Virginia",18385,447209
+320,"Floyd County,Kentucky","Newport News City County,Virginia",28377,831754
+321,"Floyd County,Kentucky","Norfolk City County,Virginia",30126,870684
+322,"Floyd County,Kentucky","Norton City County,Virginia",5602,126675
+323,"Floyd County,Kentucky","Petersburg City County,Virginia",25914,758680
+324,"Floyd County,Kentucky","Poquoson City County,Virginia",29049,842331
+325,"Floyd County,Kentucky","Portsmouth City County,Virginia",30066,879505
+326,"Floyd County,Kentucky","Radford County,Virginia",14237,357063
+327,"Floyd County,Kentucky","Richmond City County,Virginia",24782,722796
+328,"Floyd County,Kentucky","Roanoke City County,Virginia",16433,422341
+329,"Floyd County,Kentucky","Salem City County,Virginia",15845,408890
+330,"Floyd County,Kentucky","South Boston City County,Virginia",22027,547050
+331,"Floyd County,Kentucky","Staunton City County,Virginia",19668,560628
+332,"Floyd County,Kentucky","Suffolk City County,Virginia",30301,854286
+333,"Floyd County,Kentucky","Virginia Beach City County,Virginia",30687,893943
+334,"Floyd County,Kentucky","Waynesboro City County,Virginia",20006,573346
+335,"Floyd County,Kentucky","Williamsburg City County,Virginia",27421,804003
+336,"Floyd County,Kentucky","Winchester City County,Virginia",24231,673330
+337,"Floyd County,Kentucky","Barbour County,West Virginia",15711,434026
+338,"Floyd County,Kentucky","Berkeley County,West Virginia",23644,672186
+339,"Floyd County,Kentucky","Boone County,West Virginia",8259,187615
+340,"Floyd County,Kentucky","Braxton County,West Virginia",12402,325005
+341,"Floyd County,Kentucky","Brooke County,West Virginia",18828,528607
+342,"Floyd County,Kentucky","Cabell County,West Virginia",5462,134152
+343,"Floyd County,Kentucky","Calhoun County,West Virginia",12322,322690
+344,"Floyd County,Kentucky","Clay County,West Virginia",11168,295918
+345,"Floyd County,Kentucky","Doddridge County,West Virginia",14855,415535
+346,"Floyd County,Kentucky","Fayette County,West Virginia",12456,314263
+347,"Floyd County,Kentucky","Gilmer County,West Virginia",13600,347192
+348,"Floyd County,Kentucky","Grant County,West Virginia",20067,535571
+349,"Floyd County,Kentucky","Greenbrier County,West Virginia",15530,392301
+350,"Floyd County,Kentucky","Hampshire County,West Virginia",22899,633789
+351,"Floyd County,Kentucky","Hancock County,West Virginia",20418,563142
+352,"Floyd County,Kentucky","Hardy County,West Virginia",21122,567069
+353,"Floyd County,Kentucky","Harrison County,West Virginia",14945,420397
+354,"Floyd County,Kentucky","Jackson County,West Virginia",10207,277022
+355,"Floyd County,Kentucky","Jefferson County,West Virginia",25110,728184
+356,"Floyd County,Kentucky","Kanawha County,West Virginia",9764,248326
+357,"Floyd County,Kentucky","Lewis County,West Virginia",13574,373867
+358,"Floyd County,Kentucky","Lincoln County,West Virginia",8512,163258
+359,"Floyd County,Kentucky","Logan County,West Virginia",6365,144251
+360,"Floyd County,Kentucky","McDowell County,West Virginia",9755,176919
+361,"Floyd County,Kentucky","Marion County,West Virginia",16090,447564
+362,"Floyd County,Kentucky","Marshall County,West Virginia",18215,464707
+363,"Floyd County,Kentucky","Mason County,West Virginia",8443,224896
+364,"Floyd County,Kentucky","Mercer County,West Virginia",12007,262633
+365,"Floyd County,Kentucky","Mineral County,West Virginia",21761,564392
+366,"Floyd County,Kentucky","Mingo County,West Virginia",5049,110704
+367,"Floyd County,Kentucky","Monongalia County,West Virginia",16301,473033
+368,"Floyd County,Kentucky","Monroe County,West Virginia",14470,312032
+369,"Floyd County,Kentucky","Morgan County,West Virginia",23136,661577
+370,"Floyd County,Kentucky","Nicholas County,West Virginia",12885,355799
+371,"Floyd County,Kentucky","Ohio County,West Virginia",17847,509844
+372,"Floyd County,Kentucky","Pendleton County,West Virginia",20398,538196
+373,"Floyd County,Kentucky","Pleasants County,West Virginia",13689,374873
+374,"Floyd County,Kentucky","Pocahontas County,West Virginia",18214,425338
+375,"Floyd County,Kentucky","Preston County,West Virginia",18447,499764
+376,"Floyd County,Kentucky","Putnam County,West Virginia",7145,186929
+377,"Floyd County,Kentucky","Raleigh County,West Virginia",11573,224812
+378,"Floyd County,Kentucky","Randolph County,West Virginia",16076,436322
+379,"Floyd County,Kentucky","Ritchie County,West Virginia",14020,388577
+380,"Floyd County,Kentucky","Roane County,West Virginia",11832,305837
+381,"Floyd County,Kentucky","Summers County,West Virginia",14562,307571
+382,"Floyd County,Kentucky","Taylor County,West Virginia",15983,443136
+383,"Floyd County,Kentucky","Tucker County,West Virginia",17143,466846
+384,"Floyd County,Kentucky","Tyler County,West Virginia",15598,414489
+385,"Floyd County,Kentucky","Upshur County,West Virginia",15139,388564
+386,"Floyd County,Kentucky","Wayne County,West Virginia",4791,103948
+387,"Floyd County,Kentucky","Webster County,West Virginia",15069,382879
+388,"Floyd County,Kentucky","Wetzel County,West Virginia",16810,436395
+389,"Floyd County,Kentucky","Wirt County,West Virginia",12473,334359
+390,"Floyd County,Kentucky","Wood County,West Virginia",11987,336049
+391,"Floyd County,Kentucky","Wyoming County,West Virginia",9335,183191

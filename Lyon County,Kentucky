@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Lyon County,Kentucky","Adair County,Kentucky",12084,315125
+1,"Lyon County,Kentucky","Allen County,Kentucky",9314,226092
+2,"Lyon County,Kentucky","Anderson County,Kentucky",12585,364658
+3,"Lyon County,Kentucky","Ballard County,Kentucky",4819,108038
+4,"Lyon County,Kentucky","Barren County,Kentucky",10495,262819
+5,"Lyon County,Kentucky","Bath County,Kentucky",16276,481927
+6,"Lyon County,Kentucky","Bell County,Kentucky",20054,511286
+7,"Lyon County,Kentucky","Boone County,Kentucky",16706,485323
+8,"Lyon County,Kentucky","Bourbon County,Kentucky",15341,436437
+9,"Lyon County,Kentucky","Boyd County,Kentucky",19534,583383
+10,"Lyon County,Kentucky","Boyle County,Kentucky",13096,372577
+11,"Lyon County,Kentucky","Bracken County,Kentucky",18549,499276
+12,"Lyon County,Kentucky","Breathitt County,Kentucky",18876,546107
+13,"Lyon County,Kentucky","Breckinridge County,Kentucky",9320,243005
+14,"Lyon County,Kentucky","Bullitt County,Kentucky",10540,308733
+15,"Lyon County,Kentucky","Butler County,Kentucky",6966,195448
+16,"Lyon County,Kentucky","Caldwell County,Kentucky",3229,71571
+17,"Lyon County,Kentucky","Calloway County,Kentucky",2829,62352
+18,"Lyon County,Kentucky","Campbell County,Kentucky",17577,515026
+19,"Lyon County,Kentucky","Carlisle County,Kentucky",5276,123406
+20,"Lyon County,Kentucky","Carroll County,Kentucky",14190,419100
+21,"Lyon County,Kentucky","Carter County,Kentucky",18670,552640
+22,"Lyon County,Kentucky","Casey County,Kentucky",14332,382293
+23,"Lyon County,Kentucky","Christian County,Kentucky",4249,96797
+24,"Lyon County,Kentucky","Clay County,Kentucky",18218,470314
+25,"Lyon County,Kentucky","Clinton County,Kentucky",14034,343654
+26,"Lyon County,Kentucky","Crittenden County,Kentucky",4220,83506
+27,"Lyon County,Kentucky","Cumberland County,Kentucky",13194,319753
+28,"Lyon County,Kentucky","Daviess County,Kentucky",7569,193801
+29,"Lyon County,Kentucky","Edmonson County,Kentucky",8927,232620
+30,"Lyon County,Kentucky","Elliott County,Kentucky",19446,543902
+31,"Lyon County,Kentucky","Estill County,Kentucky",16760,474791
+32,"Lyon County,Kentucky","Fayette County,Kentucky",13903,406662
+33,"Lyon County,Kentucky","Fleming County,Kentucky",17705,512146
+34,"Lyon County,Kentucky","Floyd County,Kentucky",21063,606138
+35,"Lyon County,Kentucky","Franklin County,Kentucky",14244,403350
+36,"Lyon County,Kentucky","Fulton County,Kentucky",5680,144370
+37,"Lyon County,Kentucky","Gallatin County,Kentucky",14899,438425
+38,"Lyon County,Kentucky","Garrard County,Kentucky",14738,404773
+39,"Lyon County,Kentucky","Grant County,Kentucky",16265,463878
+40,"Lyon County,Kentucky","Graves County,Kentucky",4301,96112
+41,"Lyon County,Kentucky","Grayson County,Kentucky",7742,212235
+42,"Lyon County,Kentucky","Green County,Kentucky",11765,306142
+43,"Lyon County,Kentucky","Greenup County,Kentucky",20139,579970
+44,"Lyon County,Kentucky","Hancock County,Kentucky",8909,234902
+45,"Lyon County,Kentucky","Hardin County,Kentucky",9139,257753
+46,"Lyon County,Kentucky","Harlan County,Kentucky",22348,566891
+47,"Lyon County,Kentucky","Harrison County,Kentucky",16112,453383
+48,"Lyon County,Kentucky","Hart County,Kentucky",10160,271184
+49,"Lyon County,Kentucky","Henderson County,Kentucky",6557,175070
+50,"Lyon County,Kentucky","Henry County,Kentucky",13865,399848
+51,"Lyon County,Kentucky","Hickman County,Kentucky",5309,124698
+52,"Lyon County,Kentucky","Hopkins County,Kentucky",4654,108601
+53,"Lyon County,Kentucky","Jackson County,Kentucky",17949,464667
+54,"Lyon County,Kentucky","Jefferson County,Kentucky",11798,340239
+55,"Lyon County,Kentucky","Jessamine County,Kentucky",14033,404322
+56,"Lyon County,Kentucky","Johnson County,Kentucky",20017,582131
+57,"Lyon County,Kentucky","Kenton County,Kentucky",16593,481039
+58,"Lyon County,Kentucky","Knott County,Kentucky",21020,551020
+59,"Lyon County,Kentucky","Knox County,Kentucky",18286,464196
+60,"Lyon County,Kentucky","Larue County,Kentucky",10038,288985
+61,"Lyon County,Kentucky","Laurel County,Kentucky",17028,435066
+62,"Lyon County,Kentucky","Lawrence County,Kentucky",21537,610519
+63,"Lyon County,Kentucky","Lee County,Kentucky",18125,522565
+64,"Lyon County,Kentucky","Leslie County,Kentucky",20168,521438
+65,"Lyon County,Kentucky","Letcher County,Kentucky",22191,573024
+66,"Lyon County,Kentucky","Lewis County,Kentucky",19229,550286
+67,"Lyon County,Kentucky","Lincoln County,Kentucky",14481,402509
+68,"Lyon County,Kentucky","Livingston County,Kentucky",3107,61946
+69,"Lyon County,Kentucky","Logan County,Kentucky",6510,153942
+70,"Lyon County,Kentucky","McCracken County,Kentucky",3431,76098
+71,"Lyon County,Kentucky","McCreary County,Kentucky",16337,427972
+72,"Lyon County,Kentucky","Madison County,Kentucky",15612,448515
+73,"Lyon County,Kentucky","Magoffin County,Kentucky",19486,563998
+74,"Lyon County,Kentucky","Marion County,Kentucky",12160,347875
+75,"Lyon County,Kentucky","Marshall County,Kentucky",2846,59670
+76,"Lyon County,Kentucky","Martin County,Kentucky",22803,640476
+77,"Lyon County,Kentucky","Mason County,Kentucky",18470,508003
+78,"Lyon County,Kentucky","Meade County,Kentucky",10790,278926
+79,"Lyon County,Kentucky","Menifee County,Kentucky",17550,494465
+80,"Lyon County,Kentucky","Mercer County,Kentucky",12943,371453
+81,"Lyon County,Kentucky","Metcalfe County,Kentucky",11057,285471
+82,"Lyon County,Kentucky","Monroe County,Kentucky",11813,291499
+83,"Lyon County,Kentucky","Montgomery County,Kentucky",16194,472374
+84,"Lyon County,Kentucky","Morgan County,Kentucky",18876,552283
+85,"Lyon County,Kentucky","Muhlenberg County,Kentucky",5448,138533
+86,"Lyon County,Kentucky","Nelson County,Kentucky",10436,306938
+87,"Lyon County,Kentucky","Nicholas County,Kentucky",16597,463819
+88,"Lyon County,Kentucky","Ohio County,Kentucky",7000,190208
+89,"Lyon County,Kentucky","Oldham County,Kentucky",12591,367147
+90,"Lyon County,Kentucky","Owen County,Kentucky",15586,435524
+91,"Lyon County,Kentucky","Owsley County,Kentucky",19247,486168
+92,"Lyon County,Kentucky","Pendleton County,Kentucky",17532,499743
+93,"Lyon County,Kentucky","Perry County,Kentucky",20403,530139
+94,"Lyon County,Kentucky","Pike County,Kentucky",22743,636462
+95,"Lyon County,Kentucky","Powell County,Kentucky",16487,481232
+96,"Lyon County,Kentucky","Robertson County,Kentucky",17367,484945
+97,"Lyon County,Kentucky","Rockcastle County,Kentucky",16227,439195
+98,"Lyon County,Kentucky","Rowan County,Kentucky",17017,505779
+99,"Lyon County,Kentucky","Russell County,Kentucky",13191,343334
+100,"Lyon County,Kentucky","Scott County,Kentucky",14922,435309
+101,"Lyon County,Kentucky","Shelby County,Kentucky",12927,374431
+102,"Lyon County,Kentucky","Simpson County,Kentucky",7884,185380
+103,"Lyon County,Kentucky","Spencer County,Kentucky",11956,344686
+104,"Lyon County,Kentucky","Taylor County,Kentucky",11997,334998
+105,"Lyon County,Kentucky","Todd County,Kentucky",5385,125921
+106,"Lyon County,Kentucky","Trigg County,Kentucky",3111,62001
+107,"Lyon County,Kentucky","Trimble County,Kentucky",13989,406947
+108,"Lyon County,Kentucky","Union County,Kentucky",6225,128144
+109,"Lyon County,Kentucky","Warren County,Kentucky",7868,226119
+110,"Lyon County,Kentucky","Washington County,Kentucky",12267,347558
+111,"Lyon County,Kentucky","Wayne County,Kentucky",15435,373854
+112,"Lyon County,Kentucky","Webster County,Kentucky",5238,123660
+113,"Lyon County,Kentucky","Whitley County,Kentucky",17670,460050
+114,"Lyon County,Kentucky","Wolfe County,Kentucky",17751,519104
+115,"Lyon County,Kentucky","Woodford County,Kentucky",13158,386920
+116,"Lyon County,Kentucky","Adams County,Ohio",20471,591683
+117,"Lyon County,Kentucky","Allen County,Ohio",24012,706932
+118,"Lyon County,Kentucky","Ashland County,Ohio",27201,808810
+119,"Lyon County,Kentucky","Ashtabula County,Ohio",32947,993562
+120,"Lyon County,Kentucky","Athens County,Ohio",25665,738026
+121,"Lyon County,Kentucky","Auglaize County,Ohio",23268,694197
+122,"Lyon County,Kentucky","Belmont County,Ohio",28539,855242
+123,"Lyon County,Kentucky","Brown County,Ohio",19724,568238
+124,"Lyon County,Kentucky","Butler County,Ohio",19090,556806
+125,"Lyon County,Kentucky","Carroll County,Ohio",30504,892466
+126,"Lyon County,Kentucky","Champaign County,Ohio",22046,648379
+127,"Lyon County,Kentucky","Clark County,Ohio",21475,635012
+128,"Lyon County,Kentucky","Clermont County,Ohio",17841,527985
+129,"Lyon County,Kentucky","Clinton County,Ohio",19935,579291
+130,"Lyon County,Kentucky","Columbiana County,Ohio",32060,928055
+131,"Lyon County,Kentucky","Coshocton County,Ohio",27062,787883
+132,"Lyon County,Kentucky","Crawford County,Ohio",26739,800783
+133,"Lyon County,Kentucky","Cuyahoga County,Ohio",29519,891275
+134,"Lyon County,Kentucky","Darke County,Ohio",22090,618295
+135,"Lyon County,Kentucky","Defiance County,Ohio",26110,736696
+136,"Lyon County,Kentucky","Delaware County,Ohio",24118,715482
+137,"Lyon County,Kentucky","Fairfield County,Ohio",23522,698731
+138,"Lyon County,Kentucky","Fayette County,Ohio",20834,616896
+139,"Lyon County,Kentucky","Franklin County,Ohio",22636,675410
+140,"Lyon County,Kentucky","Fulton County,Ohio",27544,779275
+141,"Lyon County,Kentucky","Gallia County,Ohio",23819,683755
+142,"Lyon County,Kentucky","Geauga County,Ohio",31048,930494
+143,"Lyon County,Kentucky","Greene County,Ohio",20262,588645
+144,"Lyon County,Kentucky","Guernsey County,Ohio",26268,788923
+145,"Lyon County,Kentucky","Hamilton County,Ohio",17745,521291
+146,"Lyon County,Kentucky","Hancock County,Ohio",25122,747828
+147,"Lyon County,Kentucky","Hardin County,Ohio",24909,732225
+148,"Lyon County,Kentucky","Harrison County,Ohio",29509,874531
+149,"Lyon County,Kentucky","Henry County,Ohio",26846,772296
+150,"Lyon County,Kentucky","Highland County,Ohio",20783,590937
+151,"Lyon County,Kentucky","Hocking County,Ohio",24959,742136
+152,"Lyon County,Kentucky","Holmes County,Ohio",28613,824741
+153,"Lyon County,Kentucky","Huron County,Ohio",28348,807581
+154,"Lyon County,Kentucky","Jackson County,Ohio",23062,672395
+155,"Lyon County,Kentucky","Jefferson County,Ohio",30502,884309
+156,"Lyon County,Kentucky","Knox County,Ohio",26568,775104
+157,"Lyon County,Kentucky","Lawrence County,Ohio",21940,619812
+158,"Lyon County,Kentucky","Licking County,Ohio",24901,730327
+159,"Lyon County,Kentucky","Logan County,Ohio",23281,680916
+160,"Lyon County,Kentucky","Lorain County,Ohio",30133,866235
+161,"Lyon County,Kentucky","Lucas County,Ohio",28447,834348
+162,"Lyon County,Kentucky","Madison County,Ohio",22056,652079
+163,"Lyon County,Kentucky","Mahoning County,Ohio",31917,945194
+164,"Lyon County,Kentucky","Marion County,Ohio",25165,722918
+165,"Lyon County,Kentucky","Medina County,Ohio",27846,833823
+166,"Lyon County,Kentucky","Meigs County,Ohio",24751,714139
+167,"Lyon County,Kentucky","Mercer County,Ohio",24151,654815
+168,"Lyon County,Kentucky","Miami County,Ohio",20855,616636
+169,"Lyon County,Kentucky","Monroe County,Ohio",29944,869807
+170,"Lyon County,Kentucky","Montgomery County,Ohio",20238,594376
+171,"Lyon County,Kentucky","Morgan County,Ohio",27334,797419
+172,"Lyon County,Kentucky","Morrow County,Ohio",24926,738303
+173,"Lyon County,Kentucky","Muskingum County,Ohio",25119,755079
+174,"Lyon County,Kentucky","Noble County,Ohio",27967,826043
+175,"Lyon County,Kentucky","Paulding County,Ohio",25042,701615
+176,"Lyon County,Kentucky","Perry County,Ohio",25187,743663
+177,"Lyon County,Kentucky","Pickaway County,Ohio",22771,665492
+178,"Lyon County,Kentucky","Pike County,Ohio",21838,637380
+179,"Lyon County,Kentucky","Portage County,Ohio",30368,904973
+180,"Lyon County,Kentucky","Preble County,Ohio",21015,596522
+181,"Lyon County,Kentucky","Putnam County,Ohio",25187,739400
+182,"Lyon County,Kentucky","Richland County,Ohio",25956,773542
+183,"Lyon County,Kentucky","Ross County,Ohio",22414,664809
+184,"Lyon County,Kentucky","Sandusky County,Ohio",28162,827904
+185,"Lyon County,Kentucky","Scioto County,Ohio",22221,618502
+186,"Lyon County,Kentucky","Seneca County,Ohio",27466,804167
+187,"Lyon County,Kentucky","Shelby County,Ohio",21893,652922
+188,"Lyon County,Kentucky","Stark County,Ohio",30114,889356
+189,"Lyon County,Kentucky","Summit County,Ohio",29050,869151
+190,"Lyon County,Kentucky","Trumbull County,Ohio",31950,955465
+191,"Lyon County,Kentucky","Tuscarawas County,Ohio",28563,848288
+192,"Lyon County,Kentucky","Union County,Ohio",23408,678300
+193,"Lyon County,Kentucky","Van Wert County,Ohio",25180,718736
+194,"Lyon County,Kentucky","Vinton County,Ohio",24597,713562
+195,"Lyon County,Kentucky","Warren County,Ohio",18624,547547
+196,"Lyon County,Kentucky","Washington County,Ohio",27788,786088
+197,"Lyon County,Kentucky","Wayne County,Ohio",27574,822821
+198,"Lyon County,Kentucky","Williams County,Ohio",27100,756577
+199,"Lyon County,Kentucky","Wood County,Ohio",26209,788456
+200,"Lyon County,Kentucky","Wyandot County,Ohio",25817,768708
+201,"Lyon County,Kentucky","Accomack County,Virginia",49116,1436551
+202,"Lyon County,Kentucky","Albemarle County,Virginia",35265,1049050
+203,"Lyon County,Kentucky","Alleghany County,Virginia",30438,906774
+204,"Lyon County,Kentucky","Amelia County,Virginia",37837,1087905
+205,"Lyon County,Kentucky","Amherst County,Virginia",34739,993964
+206,"Lyon County,Kentucky","Appomattox County,Virginia",34914,1007574
+207,"Lyon County,Kentucky","Arlington County,Virginia",41950,1249359
+208,"Lyon County,Kentucky","Augusta County,Virginia",34379,1008091
+209,"Lyon County,Kentucky","Bath County,Virginia",33449,982084
+210,"Lyon County,Kentucky","Bedford County,Virginia",32647,938884
+211,"Lyon County,Kentucky","Bland County,Virginia",26663,788486
+212,"Lyon County,Kentucky","Botetourt County,Virginia",31504,922949
+213,"Lyon County,Kentucky","Brunswick County,Virginia",39395,1152627
+214,"Lyon County,Kentucky","Buchanan County,Virginia",26795,715968
+215,"Lyon County,Kentucky","Buckingham County,Virginia",36028,1031484
+216,"Lyon County,Kentucky","Campbell County,Virginia",34063,980119
+217,"Lyon County,Kentucky","Caroline County,Virginia",40604,1217896
+218,"Lyon County,Kentucky","Carroll County,Virginia",27607,819831
+219,"Lyon County,Kentucky","Charles City County,Virginia",40705,1214930
+220,"Lyon County,Kentucky","Charlotte County,Virginia",36612,1048056
+221,"Lyon County,Kentucky","Chesterfield County,Virginia",39531,1126795
+222,"Lyon County,Kentucky","Clarke County,Virginia",39445,1176108
+223,"Lyon County,Kentucky","Craig County,Virginia",30902,900518
+224,"Lyon County,Kentucky","Culpeper County,Virginia",39062,1138267
+225,"Lyon County,Kentucky","Cumberland County,Virginia",37442,1068716
+226,"Lyon County,Kentucky","Dickenson County,Virginia",25750,639970
+227,"Lyon County,Kentucky","Dinwiddie County,Virginia",39610,1130967
+228,"Lyon County,Kentucky","Essex County,Virginia",42422,1241938
+229,"Lyon County,Kentucky","Fairfax County,Virginia",41572,1239635
+230,"Lyon County,Kentucky","Fauquier County,Virginia",39883,1197359
+231,"Lyon County,Kentucky","Floyd County,Virginia",29499,859931
+232,"Lyon County,Kentucky","Fluvanna County,Virginia",36943,1101222
+233,"Lyon County,Kentucky","Franklin County,Virginia",32160,940118
+234,"Lyon County,Kentucky","Frederick County,Virginia",38614,1110943
+235,"Lyon County,Kentucky","Giles County,Virginia",29444,846560
+236,"Lyon County,Kentucky","Gloucester County,Virginia",42876,1269119
+237,"Lyon County,Kentucky","Goochland County,Virginia",37847,1131833
+238,"Lyon County,Kentucky","Grayson County,Virginia",27340,782998
+239,"Lyon County,Kentucky","Greene County,Virginia",37258,1084634
+240,"Lyon County,Kentucky","Greensville County,Virginia",40591,1170047
+241,"Lyon County,Kentucky","Halifax County,Virginia",35910,1017518
+242,"Lyon County,Kentucky","Hanover County,Virginia",39053,1172940
+243,"Lyon County,Kentucky","Henrico County,Virginia",39564,1185899
+244,"Lyon County,Kentucky","Henry County,Virginia",31480,906552
+245,"Lyon County,Kentucky","Highland County,Virginia",34894,992054
+246,"Lyon County,Kentucky","Isle of Wight County,Virginia",43730,1231087
+247,"Lyon County,Kentucky","James City County,Virginia",41941,1255701
+248,"Lyon County,Kentucky","King and Queen County,Virginia",41599,1231285
+249,"Lyon County,Kentucky","King George County,Virginia",41718,1245882
+250,"Lyon County,Kentucky","King William County,Virginia",40287,1201208
+251,"Lyon County,Kentucky","Lancaster County,Virginia",44079,1284293
+252,"Lyon County,Kentucky","Lee County,Virginia",23146,587845
+253,"Lyon County,Kentucky","Loudoun County,Virginia",40941,1211975
+254,"Lyon County,Kentucky","Louisa County,Virginia",37504,1114928
+255,"Lyon County,Kentucky","Lunenburg County,Virginia",38384,1089340
+256,"Lyon County,Kentucky","Madison County,Virginia",38178,1114375
+257,"Lyon County,Kentucky","Mathews County,Virginia",43700,1292542
+258,"Lyon County,Kentucky","Mecklenburg County,Virginia",37943,1069064
+259,"Lyon County,Kentucky","Middlesex County,Virginia",42477,1265319
+260,"Lyon County,Kentucky","Montgomery County,Virginia",28673,850436
+261,"Lyon County,Kentucky","Nelson County,Virginia",35290,1024362
+262,"Lyon County,Kentucky","New Kent County,Virginia",41377,1229615
+263,"Lyon County,Kentucky","Northampton County,Virginia",46358,1372365
+264,"Lyon County,Kentucky","Northumberland County,Virginia",44119,1282805
+265,"Lyon County,Kentucky","Nottoway County,Virginia",37877,1089720
+266,"Lyon County,Kentucky","Orange County,Virginia",38467,1123035
+267,"Lyon County,Kentucky","Page County,Virginia",37111,1098160
+268,"Lyon County,Kentucky","Patrick County,Virginia",29713,864867
+269,"Lyon County,Kentucky","Pittsylvania County,Virginia",33796,960760
+270,"Lyon County,Kentucky","Powhatan County,Virginia",38940,1103422
+271,"Lyon County,Kentucky","Prince Edward County,Virginia",36492,1047055
+272,"Lyon County,Kentucky","Prince George County,Virginia",41265,1170341
+273,"Lyon County,Kentucky","Prince William County,Virginia",39983,1203463
+274,"Lyon County,Kentucky","Pulaski County,Virginia",27350,811252
+275,"Lyon County,Kentucky","Rappahannock County,Virginia",38943,1134647
+276,"Lyon County,Kentucky","Richmond County,Virginia",42819,1255449
+277,"Lyon County,Kentucky","Roanoke County,Virginia",29454,870372
+278,"Lyon County,Kentucky","Rockbridge County,Virginia",32951,967020
+279,"Lyon County,Kentucky","Rockingham County,Virginia",36151,1070510
+280,"Lyon County,Kentucky","Russell County,Virginia",25592,722610
+281,"Lyon County,Kentucky","Scott County,Virginia",22859,658495
+282,"Lyon County,Kentucky","Shenandoah County,Virginia",36655,1100614
+283,"Lyon County,Kentucky","Smyth County,Virginia",24619,722701
+284,"Lyon County,Kentucky","Southampton County,Virginia",42207,1227570
+285,"Lyon County,Kentucky","Spotsylvania County,Virginia",39520,1156766
+286,"Lyon County,Kentucky","Stafford County,Virginia",40901,1181059
+287,"Lyon County,Kentucky","Surry County,Virginia",42684,1254563
+288,"Lyon County,Kentucky","Sussex County,Virginia",41491,1218349
+289,"Lyon County,Kentucky","Tazewell County,Virginia",26683,763771
+290,"Lyon County,Kentucky","Warren County,Virginia",38558,1145206
+291,"Lyon County,Kentucky","Washington County,Virginia",23730,686786
+292,"Lyon County,Kentucky","Westmoreland County,Virginia",42692,1262707
+293,"Lyon County,Kentucky","Wise County,Virginia",24015,615869
+294,"Lyon County,Kentucky","Wythe County,Virginia",25833,765161
+295,"Lyon County,Kentucky","York County,Virginia",43229,1286476
+296,"Lyon County,Kentucky","Alexandria City County,Virginia",42152,1262006
+297,"Lyon County,Kentucky","Bedford City County,Virginia",31812,930316
+298,"Lyon County,Kentucky","Bristol City County,Virginia",22329,654768
+299,"Lyon County,Kentucky","Buena Vista City County,Virginia",32323,959508
+300,"Lyon County,Kentucky","Charlottesville City County,Virginia",35734,1064265
+301,"Lyon County,Kentucky","Chesapeake City County,Virginia",44692,1339381
+302,"Lyon County,Kentucky","Clifton Forge City County,Virginia",30981,926981
+303,"Lyon County,Kentucky","Colonial Heights City County,Virginia",40401,1208606
+304,"Lyon County,Kentucky","Covington City County,Virginia",30507,910360
+305,"Lyon County,Kentucky","Danville City County,Virginia",33638,961008
+306,"Lyon County,Kentucky","Emporia City County,Virginia",40748,1184235
+307,"Lyon County,Kentucky","Fairfax City County,Virginia",41115,1229211
+308,"Lyon County,Kentucky","Falls Church City County,Virginia",41447,1243683
+309,"Lyon County,Kentucky","Franklin City County,Virginia",42834,1240705
+310,"Lyon County,Kentucky","Fredericksburg City County,Virginia",40653,1166426
+311,"Lyon County,Kentucky","Galax City County,Virginia",28231,825697
+312,"Lyon County,Kentucky","Hampton City County,Virginia",43179,1296182
+313,"Lyon County,Kentucky","Harrisonburg City County,Virginia",35210,1050407
+314,"Lyon County,Kentucky","Hopewell City County,Virginia",40437,1207573
+315,"Lyon County,Kentucky","Lexington City County,Virginia",32237,957835
+316,"Lyon County,Kentucky","Lynchburg City County,Virginia",33837,975191
+317,"Lyon County,Kentucky","Manassas City County,Virginia",40210,1208408
+318,"Lyon County,Kentucky","Manassas Park City County,Virginia",40713,1214751
+319,"Lyon County,Kentucky","Martinsville City County,Virginia",32008,915345
+320,"Lyon County,Kentucky","Newport News City County,Virginia",42735,1282668
+321,"Lyon County,Kentucky","Norfolk City County,Virginia",44485,1321598
+322,"Lyon County,Kentucky","Norton City County,Virginia",24508,706635
+323,"Lyon County,Kentucky","Petersburg City County,Virginia",40268,1152944
+324,"Lyon County,Kentucky","Poquoson City County,Virginia",43407,1293244
+325,"Lyon County,Kentucky","Portsmouth City County,Virginia",44424,1330419
+326,"Lyon County,Kentucky","Radford County,Virginia",27860,825199
+327,"Lyon County,Kentucky","Richmond City County,Virginia",39140,1173709
+328,"Lyon County,Kentucky","Roanoke City County,Virginia",30056,890477
+329,"Lyon County,Kentucky","Salem City County,Virginia",29468,877027
+330,"Lyon County,Kentucky","South Boston City County,Virginia",35650,1015186
+331,"Lyon County,Kentucky","Staunton City County,Virginia",34027,1011542
+332,"Lyon County,Kentucky","Suffolk City County,Virginia",44150,1274007
+333,"Lyon County,Kentucky","Virginia Beach City County,Virginia",45046,1344856
+334,"Lyon County,Kentucky","Waynesboro City County,Virginia",34365,1024260
+335,"Lyon County,Kentucky","Williamsburg City County,Virginia",41780,1254917
+336,"Lyon County,Kentucky","Winchester City County,Virginia",38777,1159979
+337,"Lyon County,Kentucky","Barbour County,West Virginia",30573,905641
+338,"Lyon County,Kentucky","Berkeley County,West Virginia",38506,1143800
+339,"Lyon County,Kentucky","Boone County,West Virginia",25752,739258
+340,"Lyon County,Kentucky","Braxton County,West Virginia",27264,796620
+341,"Lyon County,Kentucky","Brooke County,West Virginia",30618,897490
+342,"Lyon County,Kentucky","Cabell County,West Virginia",20324,605767
+343,"Lyon County,Kentucky","Calhoun County,West Virginia",27185,794305
+344,"Lyon County,Kentucky","Clay County,West Virginia",26030,767533
+345,"Lyon County,Kentucky","Doddridge County,West Virginia",29717,887150
+346,"Lyon County,Kentucky","Fayette County,West Virginia",27318,785878
+347,"Lyon County,Kentucky","Gilmer County,West Virginia",28462,818807
+348,"Lyon County,Kentucky","Grant County,West Virginia",34929,1007186
+349,"Lyon County,Kentucky","Greenbrier County,West Virginia",30392,863916
+350,"Lyon County,Kentucky","Hampshire County,West Virginia",37761,1105404
+351,"Lyon County,Kentucky","Hancock County,West Virginia",32207,932026
+352,"Lyon County,Kentucky","Hardy County,West Virginia",35984,1038684
+353,"Lyon County,Kentucky","Harrison County,West Virginia",29807,892012
+354,"Lyon County,Kentucky","Jackson County,West Virginia",25069,748637
+355,"Lyon County,Kentucky","Jefferson County,West Virginia",39972,1199798
+356,"Lyon County,Kentucky","Kanawha County,West Virginia",24626,719941
+357,"Lyon County,Kentucky","Lewis County,West Virginia",28436,845482
+358,"Lyon County,Kentucky","Lincoln County,West Virginia",23541,663417
+359,"Lyon County,Kentucky","Logan County,West Virginia",25797,707231
+360,"Lyon County,Kentucky","McDowell County,West Virginia",29649,759420
+361,"Lyon County,Kentucky","Marion County,West Virginia",30952,919179
+362,"Lyon County,Kentucky","Marshall County,West Virginia",30575,891998
+363,"Lyon County,Kentucky","Mason County,West Virginia",23305,696511
+364,"Lyon County,Kentucky","Mercer County,West Virginia",27953,831500
+365,"Lyon County,Kentucky","Mineral County,West Virginia",36623,1036007
+366,"Lyon County,Kentucky","Mingo County,West Virginia",24481,673684
+367,"Lyon County,Kentucky","Monongalia County,West Virginia",31163,944648
+368,"Lyon County,Kentucky","Monroe County,West Virginia",30828,888164
+369,"Lyon County,Kentucky","Morgan County,West Virginia",37998,1133192
+370,"Lyon County,Kentucky","Nicholas County,West Virginia",27747,827414
+371,"Lyon County,Kentucky","Ohio County,West Virginia",29637,878728
+372,"Lyon County,Kentucky","Pendleton County,West Virginia",35260,1009811
+373,"Lyon County,Kentucky","Pleasants County,West Virginia",28551,846488
+374,"Lyon County,Kentucky","Pocahontas County,West Virginia",33076,896953
+375,"Lyon County,Kentucky","Preston County,West Virginia",33309,971378
+376,"Lyon County,Kentucky","Putnam County,West Virginia",22007,658544
+377,"Lyon County,Kentucky","Raleigh County,West Virginia",26494,785193
+378,"Lyon County,Kentucky","Randolph County,West Virginia",30938,907937
+379,"Lyon County,Kentucky","Ritchie County,West Virginia",28882,860192
+380,"Lyon County,Kentucky","Roane County,West Virginia",26694,777452
+381,"Lyon County,Kentucky","Summers County,West Virginia",29947,846631
+382,"Lyon County,Kentucky","Taylor County,West Virginia",30845,914751
+383,"Lyon County,Kentucky","Tucker County,West Virginia",32005,938461
+384,"Lyon County,Kentucky","Tyler County,West Virginia",30460,886104
+385,"Lyon County,Kentucky","Upshur County,West Virginia",30001,860179
+386,"Lyon County,Kentucky","Wayne County,West Virginia",21855,626962
+387,"Lyon County,Kentucky","Webster County,West Virginia",29931,854493
+388,"Lyon County,Kentucky","Wetzel County,West Virginia",31672,908010
+389,"Lyon County,Kentucky","Wirt County,West Virginia",27335,805974
+390,"Lyon County,Kentucky","Wood County,West Virginia",26850,807664
+391,"Lyon County,Kentucky","Wyoming County,West Virginia",28439,825135

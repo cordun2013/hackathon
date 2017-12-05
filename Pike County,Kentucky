@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Pike County,Kentucky","Adair County,Kentucky",13343,325360
+1,"Pike County,Kentucky","Allen County,Kentucky",16539,421002
+2,"Pike County,Kentucky","Anderson County,Kentucky",11387,292714
+3,"Pike County,Kentucky","Ballard County,Kentucky",24365,682486
+4,"Pike County,Kentucky","Barren County,Kentucky",15088,384387
+5,"Pike County,Kentucky","Bath County,Kentucky",8249,169529
+6,"Pike County,Kentucky","Bell County,Kentucky",8277,177632
+7,"Pike County,Kentucky","Boone County,Kentucky",13095,344423
+8,"Pike County,Kentucky","Bourbon County,Kentucky",9389,226278
+9,"Pike County,Kentucky","Boyd County,Kentucky",6759,158559
+10,"Pike County,Kentucky","Boyle County,Kentucky",12570,299518
+11,"Pike County,Kentucky","Bracken County,Kentucky",12053,252812
+12,"Pike County,Kentucky","Breathitt County,Kentucky",6841,153353
+13,"Pike County,Kentucky","Breckinridge County,Kentucky",16920,445396
+14,"Pike County,Kentucky","Bullitt County,Kentucky",13490,366515
+15,"Pike County,Kentucky","Butler County,Kentucky",17585,467393
+16,"Pike County,Kentucky","Caldwell County,Kentucky",20477,573339
+17,"Pike County,Kentucky","Calloway County,Kentucky",23287,658331
+18,"Pike County,Kentucky","Campbell County,Kentucky",13083,311096
+19,"Pike County,Kentucky","Carlisle County,Kentucky",24822,697854
+20,"Pike County,Kentucky","Carroll County,Kentucky",13931,340529
+21,"Pike County,Kentucky","Carter County,Kentucky",7552,147273
+22,"Pike County,Kentucky","Casey County,Kentucky",13281,298634
+23,"Pike County,Kentucky","Christian County,Kentucky",20126,568595
+24,"Pike County,Kentucky","Clay County,Kentucky",7870,180638
+25,"Pike County,Kentucky","Clinton County,Kentucky",13750,328725
+26,"Pike County,Kentucky","Crittenden County,Kentucky",22057,606409
+27,"Pike County,Kentucky","Cumberland County,Kentucky",14504,346964
+28,"Pike County,Kentucky","Daviess County,Kentucky",18608,513836
+29,"Pike County,Kentucky","Edmonson County,Kentucky",16617,428548
+30,"Pike County,Kentucky","Elliott County,Kentucky",7162,133653
+31,"Pike County,Kentucky","Estill County,Kentucky",8292,193208
+32,"Pike County,Kentucky","Fayette County,Kentucky",9194,230207
+33,"Pike County,Kentucky","Fleming County,Kentucky",9270,190793
+34,"Pike County,Kentucky","Floyd County,Kentucky",2793,54086
+35,"Pike County,Kentucky","Franklin County,Kentucky",11231,279124
+36,"Pike County,Kentucky","Fulton County,Kentucky",25226,718818
+37,"Pike County,Kentucky","Gallatin County,Kentucky",12929,331188
+38,"Pike County,Kentucky","Garrard County,Kentucky",11490,257547
+39,"Pike County,Kentucky","Grant County,Kentucky",11728,305295
+40,"Pike County,Kentucky","Graves County,Kentucky",23847,670560
+41,"Pike County,Kentucky","Grayson County,Kentucky",15912,424029
+42,"Pike County,Kentucky","Green County,Kentucky",15095,367525
+43,"Pike County,Kentucky","Greenup County,Kentucky",8757,208966
+44,"Pike County,Kentucky","Hancock County,Kentucky",17716,478289
+45,"Pike County,Kentucky","Hardin County,Kentucky",14788,386162
+46,"Pike County,Kentucky","Harlan County,Kentucky",7599,157948
+47,"Pike County,Kentucky","Harrison County,Kentucky",10702,254617
+48,"Pike County,Kentucky","Hart County,Kentucky",15588,413791
+49,"Pike County,Kentucky","Henderson County,Kentucky",20414,566266
+50,"Pike County,Kentucky","Henry County,Kentucky",12833,322842
+51,"Pike County,Kentucky","Hickman County,Kentucky",24856,699146
+52,"Pike County,Kentucky","Hopkins County,Kentucky",19935,547807
+53,"Pike County,Kentucky","Jackson County,Kentucky",9742,217057
+54,"Pike County,Kentucky","Jefferson County,Kentucky",12926,338376
+55,"Pike County,Kentucky","Jessamine County,Kentucky",10663,251671
+56,"Pike County,Kentucky","Johnson County,Kentucky",3408,71316
+57,"Pike County,Kentucky","Kenton County,Kentucky",12981,340139
+58,"Pike County,Kentucky","Knott County,Kentucky",3975,85968
+59,"Pike County,Kentucky","Knox County,Kentucky",9195,207293
+60,"Pike County,Kentucky","Larue County,Kentucky",14860,373338
+61,"Pike County,Kentucky","Laurel County,Kentucky",9472,217434
+62,"Pike County,Kentucky","Lawrence County,Kentucky",5183,105003
+63,"Pike County,Kentucky","Lee County,Kentucky",7277,158984
+64,"Pike County,Kentucky","Leslie County,Kentucky",7054,155642
+65,"Pike County,Kentucky","Letcher County,Kentucky",3784,78227
+66,"Pike County,Kentucky","Lewis County,Kentucky",9897,201959
+67,"Pike County,Kentucky","Lincoln County,Kentucky",11801,283885
+68,"Pike County,Kentucky","Livingston County,Kentucky",22652,623306
+69,"Pike County,Kentucky","Logan County,Kentucky",18490,486280
+70,"Pike County,Kentucky","Lyon County,Kentucky",22786,633696
+71,"Pike County,Kentucky","McCracken County,Kentucky",22977,650545
+72,"Pike County,Kentucky","McCreary County,Kentucky",12005,287848
+73,"Pike County,Kentucky","Madison County,Kentucky",9794,225223
+74,"Pike County,Kentucky","Magoffin County,Kentucky",3753,75292
+75,"Pike County,Kentucky","Marion County,Kentucky",13238,334947
+76,"Pike County,Kentucky","Marshall County,Kentucky",22392,634117
+77,"Pike County,Kentucky","Martin County,Kentucky",4937,97318
+78,"Pike County,Kentucky","Mason County,Kentucky",11402,232358
+79,"Pike County,Kentucky","Meade County,Kentucky",15387,410690
+80,"Pike County,Kentucky","Menifee County,Kentucky",7421,149491
+81,"Pike County,Kentucky","Mercer County,Kentucky",11614,290658
+82,"Pike County,Kentucky","Metcalfe County,Kentucky",13999,355625
+83,"Pike County,Kentucky","Monroe County,Kentucky",15968,393129
+84,"Pike County,Kentucky","Montgomery County,Kentucky",8389,190176
+85,"Pike County,Kentucky","Morgan County,Kentucky",5866,126478
+86,"Pike County,Kentucky","Muhlenberg County,Kentucky",18796,514283
+87,"Pike County,Kentucky","Nelson County,Kentucky",12846,334019
+88,"Pike County,Kentucky","Nicholas County,Kentucky",10695,254197
+89,"Pike County,Kentucky","Ohio County,Kentucky",17709,481872
+90,"Pike County,Kentucky","Oldham County,Kentucky",12998,350257
+91,"Pike County,Kentucky","Owen County,Kentucky",12053,305901
+92,"Pike County,Kentucky","Owsley County,Kentucky",8424,178961
+93,"Pike County,Kentucky","Pendleton County,Kentucky",12261,291744
+94,"Pike County,Kentucky","Perry County,Kentucky",5355,116526
+95,"Pike County,Kentucky","Powell County,Kentucky",7177,161461
+96,"Pike County,Kentucky","Robertson County,Kentucky",11253,233537
+97,"Pike County,Kentucky","Rockcastle County,Kentucky",10282,245483
+98,"Pike County,Kentucky","Rowan County,Kentucky",7689,155252
+99,"Pike County,Kentucky","Russell County,Kentucky",12947,309343
+100,"Pike County,Kentucky","Scott County,Kentucky",10028,258234
+101,"Pike County,Kentucky","Shelby County,Kentucky",11855,309510
+102,"Pike County,Kentucky","Simpson County,Kentucky",18080,475153
+103,"Pike County,Kentucky","Spencer County,Kentucky",12385,315358
+104,"Pike County,Kentucky","Taylor County,Kentucky",14697,349619
+105,"Pike County,Kentucky","Todd County,Kentucky",19666,516335
+106,"Pike County,Kentucky","Trigg County,Kentucky",21539,594525
+107,"Pike County,Kentucky","Trimble County,Kentucky",14072,356297
+108,"Pike County,Kentucky","Union County,Kentucky",22134,596712
+109,"Pike County,Kentucky","Warren County,Kentucky",17114,440102
+110,"Pike County,Kentucky","Washington County,Kentucky",12856,319255
+111,"Pike County,Kentucky","Wayne County,Kentucky",13123,306416
+112,"Pike County,Kentucky","Webster County,Kentucky",21045,575896
+113,"Pike County,Kentucky","Whitley County,Kentucky",10370,251934
+114,"Pike County,Kentucky","Wolfe County,Kentucky",5780,127229
+115,"Pike County,Kentucky","Woodford County,Kentucky",10248,260870
+116,"Pike County,Kentucky","Adams County,Ohio",12605,285315
+117,"Pike County,Kentucky","Allen County,Ohio",20401,566032
+118,"Pike County,Kentucky","Ashland County,Ohio",20236,495479
+119,"Pike County,Kentucky","Ashtabula County,Ohio",23199,662261
+120,"Pike County,Kentucky","Athens County,Ohio",12443,317654
+121,"Pike County,Kentucky","Auglaize County,Ohio",19657,553297
+122,"Pike County,Kentucky","Belmont County,Ohio",16263,451186
+123,"Pike County,Kentucky","Brown County,Ohio",12738,261842
+124,"Pike County,Kentucky","Butler County,Ohio",15478,415906
+125,"Pike County,Kentucky","Carroll County,Ohio",18192,488072
+126,"Pike County,Kentucky","Champaign County,Ohio",17722,422588
+127,"Pike County,Kentucky","Clark County,Ohio",16401,382132
+128,"Pike County,Kentucky","Clermont County,Ohio",14229,387084
+129,"Pike County,Kentucky","Clinton County,Ohio",15434,321732
+130,"Pike County,Kentucky","Columbiana County,Ohio",20034,542307
+131,"Pike County,Kentucky","Coshocton County,Ohio",16827,459188
+132,"Pike County,Kentucky","Crawford County,Ohio",19850,463936
+133,"Pike County,Kentucky","Cuyahoga County,Ohio",20228,573476
+134,"Pike County,Kentucky","Darke County,Ohio",18754,510343
+135,"Pike County,Kentucky","Defiance County,Ohio",23888,644462
+136,"Pike County,Kentucky","Delaware County,Ohio",17153,402150
+137,"Pike County,Kentucky","Fairfield County,Ohio",15697,353973
+138,"Pike County,Kentucky","Fayette County,Ohio",14469,340277
+139,"Pike County,Kentucky","Franklin County,Ohio",15670,362078
+140,"Pike County,Kentucky","Fulton County,Ohio",24652,661406
+141,"Pike County,Kentucky","Gallia County,Ohio",10515,242225
+142,"Pike County,Kentucky","Geauga County,Ohio",21300,599193
+143,"Pike County,Kentucky","Greene County,Ohio",15339,373430
+144,"Pike County,Kentucky","Guernsey County,Ohio",14378,397107
+145,"Pike County,Kentucky","Hamilton County,Ohio",14133,380390
+146,"Pike County,Kentucky","Hancock County,Ohio",21027,505028
+147,"Pike County,Kentucky","Hardin County,Ohio",19679,459620
+148,"Pike County,Kentucky","Harrison County,Ohio",17198,470137
+149,"Pike County,Kentucky","Henry County,Ohio",23234,631396
+150,"Pike County,Kentucky","Highland County,Ohio",13571,299397
+151,"Pike County,Kentucky","Hocking County,Ohio",14256,297280
+152,"Pike County,Kentucky","Holmes County,Ohio",17886,482073
+153,"Pike County,Kentucky","Huron County,Ohio",21383,494249
+154,"Pike County,Kentucky","Jackson County,Ohio",10935,246913
+155,"Pike County,Kentucky","Jefferson County,Ohio",18191,479915
+156,"Pike County,Kentucky","Knox County,Ohio",18616,501664
+157,"Pike County,Kentucky","Lawrence County,Ohio",8738,186828
+158,"Pike County,Kentucky","Licking County,Ohio",17674,409835
+159,"Pike County,Kentucky","Logan County,Ohio",18700,453897
+160,"Pike County,Kentucky","Lorain County,Ohio",21453,603299
+161,"Pike County,Kentucky","Lucas County,Ohio",24662,592528
+162,"Pike County,Kentucky","Madison County,Ohio",16170,363362
+163,"Pike County,Kentucky","Mahoning County,Ohio",20529,557112
+164,"Pike County,Kentucky","Marion County,Ohio",18410,422766
+165,"Pike County,Kentucky","Medina County,Ohio",19901,559507
+166,"Pike County,Kentucky","Meigs County,Ohio",11324,288624
+167,"Pike County,Kentucky","Mercer County,Ohio",20893,580230
+168,"Pike County,Kentucky","Miami County,Ohio",17243,475736
+169,"Pike County,Kentucky","Monroe County,Ohio",15314,386299
+170,"Pike County,Kentucky","Montgomery County,Ohio",16626,453475
+171,"Pike County,Kentucky","Morgan County,Ohio",14319,372947
+172,"Pike County,Kentucky","Morrow County,Ohio",17961,424971
+173,"Pike County,Kentucky","Muskingum County,Ohio",15224,425099
+174,"Pike County,Kentucky","Noble County,Ohio",13820,369459
+175,"Pike County,Kentucky","Paulding County,Ohio",22932,629010
+176,"Pike County,Kentucky","Perry County,Ohio",15661,383074
+177,"Pike County,Kentucky","Pickaway County,Ohio",13909,320376
+178,"Pike County,Kentucky","Pike County,Ohio",11003,249255
+179,"Pike County,Kentucky","Portage County,Ohio",19750,555058
+180,"Pike County,Kentucky","Preble County,Ohio",17523,460305
+181,"Pike County,Kentucky","Putnam County,Ohio",21576,598500
+182,"Pike County,Kentucky","Richland County,Ohio",18990,460210
+183,"Pike County,Kentucky","Ross County,Ohio",12654,286682
+184,"Pike County,Kentucky","Sandusky County,Ohio",22783,523723
+185,"Pike County,Kentucky","Scioto County,Ohio",10083,225893
+186,"Pike County,Kentucky","Seneca County,Ohio",21401,497608
+187,"Pike County,Kentucky","Shelby County,Ohio",18281,512021
+188,"Pike County,Kentucky","Stark County,Ohio",18051,503307
+189,"Pike County,Kentucky","Summit County,Ohio",18810,529095
+190,"Pike County,Kentucky","Trumbull County,Ohio",21484,583359
+191,"Pike County,Kentucky","Tuscarawas County,Ohio",16252,443894
+192,"Pike County,Kentucky","Union County,Ohio",17204,404128
+193,"Pike County,Kentucky","Van Wert County,Ohio",21566,598555
+194,"Pike County,Kentucky","Vinton County,Ohio",13194,273691
+195,"Pike County,Kentucky","Warren County,Ohio",15012,406647
+196,"Pike County,Kentucky","Washington County,Ohio",12678,327396
+197,"Pike County,Kentucky","Wayne County,Ohio",19022,506185
+198,"Pike County,Kentucky","Williams County,Ohio",25065,667978
+199,"Pike County,Kentucky","Wood County,Ohio",22425,546636
+200,"Pike County,Kentucky","Wyandot County,Ohio",19997,469164
+201,"Pike County,Kentucky","Accomack County,Virginia",33645,924597
+202,"Pike County,Kentucky","Albemarle County,Virginia",19794,537096
+203,"Pike County,Kentucky","Alleghany County,Virginia",14463,374119
+204,"Pike County,Kentucky","Amelia County,Virginia",22476,549488
+205,"Pike County,Kentucky","Amherst County,Virginia",19378,455547
+206,"Pike County,Kentucky","Appomattox County,Virginia",19553,469157
+207,"Pike County,Kentucky","Arlington County,Virginia",26479,737405
+208,"Pike County,Kentucky","Augusta County,Virginia",18405,475436
+209,"Pike County,Kentucky","Bath County,Virginia",17475,449429
+210,"Pike County,Kentucky","Bedford County,Virginia",17286,400467
+211,"Pike County,Kentucky","Bland County,Virginia",10000,211976
+212,"Pike County,Kentucky","Botetourt County,Virginia",16143,384532
+213,"Pike County,Kentucky","Brunswick County,Virginia",24447,636582
+214,"Pike County,Kentucky","Buchanan County,Virginia",4878,83404
+215,"Pike County,Kentucky","Buckingham County,Virginia",20667,493067
+216,"Pike County,Kentucky","Campbell County,Virginia",18702,441702
+217,"Pike County,Kentucky","Caroline County,Virginia",25134,705942
+218,"Pike County,Kentucky","Carroll County,Virginia",12246,281414
+219,"Pike County,Kentucky","Charles City County,Virginia",25234,702976
+220,"Pike County,Kentucky","Charlotte County,Virginia",21251,509638
+221,"Pike County,Kentucky","Chesterfield County,Virginia",24170,588378
+222,"Pike County,Kentucky","Clarke County,Virginia",23974,664154
+223,"Pike County,Kentucky","Craig County,Virginia",13532,292917
+224,"Pike County,Kentucky","Culpeper County,Virginia",23592,626313
+225,"Pike County,Kentucky","Cumberland County,Virginia",22081,530298
+226,"Pike County,Kentucky","Dickenson County,Virginia",5184,98306
+227,"Pike County,Kentucky","Dinwiddie County,Virginia",24249,592549
+228,"Pike County,Kentucky","Essex County,Virginia",26951,729984
+229,"Pike County,Kentucky","Fairfax County,Virginia",26102,727681
+230,"Pike County,Kentucky","Fauquier County,Virginia",24412,685405
+231,"Pike County,Kentucky","Floyd County,Virginia",14138,321514
+232,"Pike County,Kentucky","Fluvanna County,Virginia",21472,589268
+233,"Pike County,Kentucky","Franklin County,Virginia",16799,401700
+234,"Pike County,Kentucky","Frederick County,Virginia",23265,604155
+235,"Pike County,Kentucky","Giles County,Virginia",11582,249610
+236,"Pike County,Kentucky","Gloucester County,Virginia",27405,757165
+237,"Pike County,Kentucky","Goochland County,Virginia",22376,619879
+238,"Pike County,Kentucky","Grayson County,Virginia",12192,274204
+239,"Pike County,Kentucky","Greene County,Virginia",21787,572680
+240,"Pike County,Kentucky","Greensville County,Virginia",25643,654001
+241,"Pike County,Kentucky","Halifax County,Virginia",20549,479100
+242,"Pike County,Kentucky","Hanover County,Virginia",23582,660986
+243,"Pike County,Kentucky","Henrico County,Virginia",24093,673945
+244,"Pike County,Kentucky","Henry County,Virginia",16119,368134
+245,"Pike County,Kentucky","Highland County,Virginia",18920,459399
+246,"Pike County,Kentucky","Isle of Wight County,Virginia",28369,692670
+247,"Pike County,Kentucky","James City County,Virginia",26470,743747
+248,"Pike County,Kentucky","King and Queen County,Virginia",26128,719331
+249,"Pike County,Kentucky","King George County,Virginia",26247,733928
+250,"Pike County,Kentucky","King William County,Virginia",24816,689254
+251,"Pike County,Kentucky","Lancaster County,Virginia",28608,772339
+252,"Pike County,Kentucky","Lee County,Virginia",6484,146822
+253,"Pike County,Kentucky","Loudoun County,Virginia",25470,700021
+254,"Pike County,Kentucky","Louisa County,Virginia",22033,602974
+255,"Pike County,Kentucky","Lunenburg County,Virginia",23023,550922
+256,"Pike County,Kentucky","Madison County,Virginia",22707,602421
+257,"Pike County,Kentucky","Mathews County,Virginia",28230,780588
+258,"Pike County,Kentucky","Mecklenburg County,Virginia",22582,530646
+259,"Pike County,Kentucky","Middlesex County,Virginia",27006,753365
+260,"Pike County,Kentucky","Montgomery County,Virginia",12665,277616
+261,"Pike County,Kentucky","Nelson County,Virginia",19929,485944
+262,"Pike County,Kentucky","New Kent County,Virginia",25906,717661
+263,"Pike County,Kentucky","Northampton County,Virginia",30887,860411
+264,"Pike County,Kentucky","Northumberland County,Virginia",28648,770851
+265,"Pike County,Kentucky","Nottoway County,Virginia",22516,551302
+266,"Pike County,Kentucky","Orange County,Virginia",22996,611081
+267,"Pike County,Kentucky","Page County,Virginia",21641,586206
+268,"Pike County,Kentucky","Patrick County,Virginia",14352,326449
+269,"Pike County,Kentucky","Pittsylvania County,Virginia",18435,422342
+270,"Pike County,Kentucky","Powhatan County,Virginia",23579,565005
+271,"Pike County,Kentucky","Prince Edward County,Virginia",21131,508638
+272,"Pike County,Kentucky","Prince George County,Virginia",25904,631923
+273,"Pike County,Kentucky","Prince William County,Virginia",24512,691509
+274,"Pike County,Kentucky","Pulaski County,Virginia",11989,272834
+275,"Pike County,Kentucky","Rappahannock County,Virginia",23472,622693
+276,"Pike County,Kentucky","Richmond County,Virginia",27348,743495
+277,"Pike County,Kentucky","Roanoke County,Virginia",14093,331954
+278,"Pike County,Kentucky","Rockbridge County,Virginia",16796,442475
+279,"Pike County,Kentucky","Rockingham County,Virginia",20680,558556
+280,"Pike County,Kentucky","Russell County,Virginia",6409,101953
+281,"Pike County,Kentucky","Scott County,Virginia",6660,145759
+282,"Pike County,Kentucky","Shenandoah County,Virginia",21184,588660
+283,"Pike County,Kentucky","Smyth County,Virginia",9471,213907
+284,"Pike County,Kentucky","Southampton County,Virginia",27259,711525
+285,"Pike County,Kentucky","Spotsylvania County,Virginia",24049,644812
+286,"Pike County,Kentucky","Stafford County,Virginia",25430,669105
+287,"Pike County,Kentucky","Surry County,Virginia",27214,742609
+288,"Pike County,Kentucky","Sussex County,Virginia",26258,637680
+289,"Pike County,Kentucky","Tazewell County,Virginia",7122,140178
+290,"Pike County,Kentucky","Warren County,Virginia",23087,633252
+291,"Pike County,Kentucky","Washington County,Virginia",7582,165024
+292,"Pike County,Kentucky","Westmoreland County,Virginia",27221,750753
+293,"Pike County,Kentucky","Wise County,Virginia",3449,74205
+294,"Pike County,Kentucky","Wythe County,Virginia",10605,230193
+295,"Pike County,Kentucky","York County,Virginia",27758,774522
+296,"Pike County,Kentucky","Alexandria City County,Virginia",26682,750052
+297,"Pike County,Kentucky","Bedford City County,Virginia",16450,391898
+298,"Pike County,Kentucky","Bristol City County,Virginia",8422,185910
+299,"Pike County,Kentucky","Buena Vista City County,Virginia",16962,421090
+300,"Pike County,Kentucky","Charlottesville City County,Virginia",20264,552311
+301,"Pike County,Kentucky","Chesapeake City County,Virginia",29221,827427
+302,"Pike County,Kentucky","Clifton Forge City County,Virginia",15007,394326
+303,"Pike County,Kentucky","Colonial Heights City County,Virginia",24930,696652
+304,"Pike County,Kentucky","Covington City County,Virginia",14532,377705
+305,"Pike County,Kentucky","Danville City County,Virginia",18277,422590
+306,"Pike County,Kentucky","Emporia City County,Virginia",25800,668190
+307,"Pike County,Kentucky","Fairfax City County,Virginia",25645,717257
+308,"Pike County,Kentucky","Falls Church City County,Virginia",25977,731729
+309,"Pike County,Kentucky","Franklin City County,Virginia",27886,724660
+310,"Pike County,Kentucky","Fredericksburg City County,Virginia",25182,654472
+311,"Pike County,Kentucky","Galax City County,Virginia",12869,287280
+312,"Pike County,Kentucky","Hampton City County,Virginia",27708,784228
+313,"Pike County,Kentucky","Harrisonburg City County,Virginia",19739,538453
+314,"Pike County,Kentucky","Hopewell City County,Virginia",24967,695619
+315,"Pike County,Kentucky","Lexington City County,Virginia",16785,444944
+316,"Pike County,Kentucky","Lynchburg City County,Virginia",18476,436773
+317,"Pike County,Kentucky","Manassas City County,Virginia",24740,696454
+318,"Pike County,Kentucky","Manassas Park City County,Virginia",25242,702797
+319,"Pike County,Kentucky","Martinsville City County,Virginia",16647,376928
+320,"Pike County,Kentucky","Newport News City County,Virginia",27265,770714
+321,"Pike County,Kentucky","Norfolk City County,Virginia",29014,809644
+322,"Pike County,Kentucky","Norton City County,Virginia",4077,86017
+323,"Pike County,Kentucky","Petersburg City County,Virginia",24802,697640
+324,"Pike County,Kentucky","Poquoson City County,Virginia",27936,781290
+325,"Pike County,Kentucky","Portsmouth City County,Virginia",28953,818465
+326,"Pike County,Kentucky","Radford County,Virginia",12422,254360
+327,"Pike County,Kentucky","Richmond City County,Virginia",23670,661755
+328,"Pike County,Kentucky","Roanoke City County,Virginia",14695,352059
+329,"Pike County,Kentucky","Salem City County,Virginia",14107,338609
+330,"Pike County,Kentucky","South Boston City County,Virginia",20289,476769
+331,"Pike County,Kentucky","Staunton City County,Virginia",18556,499588
+332,"Pike County,Kentucky","Suffolk City County,Virginia",29202,757962
+333,"Pike County,Kentucky","Virginia Beach City County,Virginia",29575,832902
+334,"Pike County,Kentucky","Waynesboro City County,Virginia",18894,512306
+335,"Pike County,Kentucky","Williamsburg City County,Virginia",26309,742963
+336,"Pike County,Kentucky","Winchester City County,Virginia",23306,648025
+337,"Pike County,Kentucky","Barbour County,West Virginia",15224,398853
+338,"Pike County,Kentucky","Berkeley County,West Virginia",23157,637012
+339,"Pike County,Kentucky","Boone County,West Virginia",6797,150687
+340,"Pike County,Kentucky","Braxton County,West Virginia",11915,289832
+341,"Pike County,Kentucky","Brooke County,West Virginia",18341,493433
+342,"Pike County,Kentucky","Cabell County,West Virginia",7020,164236
+343,"Pike County,Kentucky","Calhoun County,West Virginia",11835,287517
+344,"Pike County,Kentucky","Clay County,West Virginia",10681,260745
+345,"Pike County,Kentucky","Doddridge County,West Virginia",14368,380362
+346,"Pike County,Kentucky","Fayette County,West Virginia",11343,253222
+347,"Pike County,Kentucky","Gilmer County,West Virginia",13113,312019
+348,"Pike County,Kentucky","Grant County,West Virginia",19580,500398
+349,"Pike County,Kentucky","Greenbrier County,West Virginia",14418,331261
+350,"Pike County,Kentucky","Hampshire County,West Virginia",22412,598616
+351,"Pike County,Kentucky","Hancock County,West Virginia",19931,527969
+352,"Pike County,Kentucky","Hardy County,West Virginia",20635,531895
+353,"Pike County,Kentucky","Harrison County,West Virginia",14458,385224
+354,"Pike County,Kentucky","Jackson County,West Virginia",9720,241848
+355,"Pike County,Kentucky","Jefferson County,West Virginia",24623,693010
+356,"Pike County,Kentucky","Kanawha County,West Virginia",8689,190591
+357,"Pike County,Kentucky","Lewis County,West Virginia",13087,338694
+358,"Pike County,Kentucky","Lincoln County,West Virginia",7531,158426
+359,"Pike County,Kentucky","Logan County,West Virginia",4902,107323
+360,"Pike County,Kentucky","McDowell County,West Virginia",7823,131485
+361,"Pike County,Kentucky","Marion County,West Virginia",15603,412391
+362,"Pike County,Kentucky","Marshall County,West Virginia",17728,429534
+363,"Pike County,Kentucky","Mason County,West Virginia",9541,236087
+364,"Pike County,Kentucky","Mercer County,West Virginia",9983,212569
+365,"Pike County,Kentucky","Mineral County,West Virginia",21274,529219
+366,"Pike County,Kentucky","Mingo County,West Virginia",3586,73775
+367,"Pike County,Kentucky","Monongalia County,West Virginia",15814,437859
+368,"Pike County,Kentucky","Monroe County,West Virginia",12447,261969
+369,"Pike County,Kentucky","Morgan County,West Virginia",22649,626404
+370,"Pike County,Kentucky","Nicholas County,West Virginia",12398,320626
+371,"Pike County,Kentucky","Ohio County,West Virginia",17360,474671
+372,"Pike County,Kentucky","Pendleton County,West Virginia",19911,503022
+373,"Pike County,Kentucky","Pleasants County,West Virginia",13202,339700
+374,"Pike County,Kentucky","Pocahontas County,West Virginia",17497,411473
+375,"Pike County,Kentucky","Preston County,West Virginia",17960,464590
+376,"Pike County,Kentucky","Putnam County,West Virginia",8322,201705
+377,"Pike County,Kentucky","Raleigh County,West Virginia",10111,187884
+378,"Pike County,Kentucky","Randolph County,West Virginia",15589,401149
+379,"Pike County,Kentucky","Ritchie County,West Virginia",13533,353404
+380,"Pike County,Kentucky","Roane County,West Virginia",11345,270664
+381,"Pike County,Kentucky","Summers County,West Virginia",12538,257508
+382,"Pike County,Kentucky","Taylor County,West Virginia",15496,407963
+383,"Pike County,Kentucky","Tucker County,West Virginia",16656,431673
+384,"Pike County,Kentucky","Tyler County,West Virginia",15111,379316
+385,"Pike County,Kentucky","Upshur County,West Virginia",14652,353391
+386,"Pike County,Kentucky","Wayne County,West Virginia",6349,134033
+387,"Pike County,Kentucky","Webster County,West Virginia",14582,347705
+388,"Pike County,Kentucky","Wetzel County,West Virginia",16323,401222
+389,"Pike County,Kentucky","Wirt County,West Virginia",11986,299186
+390,"Pike County,Kentucky","Wood County,West Virginia",11500,300876
+391,"Pike County,Kentucky","Wyoming County,West Virginia",7872,146262

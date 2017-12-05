@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Webster County,Kentucky","Adair County,Kentucky",10311,296970
+1,"Webster County,Kentucky","Allen County,Kentucky",7541,207937
+2,"Webster County,Kentucky","Anderson County,Kentucky",10863,307512
+3,"Webster County,Kentucky","Ballard County,Kentucky",6794,172321
+4,"Webster County,Kentucky","Barren County,Kentucky",8722,244664
+5,"Webster County,Kentucky","Bath County,Kentucky",14555,424782
+6,"Webster County,Kentucky","Bell County,Kentucky",18281,493131
+7,"Webster County,Kentucky","Boone County,Kentucky",14513,402992
+8,"Webster County,Kentucky","Bourbon County,Kentucky",13619,379292
+9,"Webster County,Kentucky","Boyd County,Kentucky",17812,526238
+10,"Webster County,Kentucky","Boyle County,Kentucky",11375,315432
+11,"Webster County,Kentucky","Bracken County,Kentucky",16828,442130
+12,"Webster County,Kentucky","Breathitt County,Kentucky",17155,488962
+13,"Webster County,Kentucky","Breckinridge County,Kentucky",6896,159958
+14,"Webster County,Kentucky","Bullitt County,Kentucky",8819,251588
+15,"Webster County,Kentucky","Butler County,Kentucky",5245,138303
+16,"Webster County,Kentucky","Caldwell County,Kentucky",2763,53735
+17,"Webster County,Kentucky","Calloway County,Kentucky",5716,148167
+18,"Webster County,Kentucky","Campbell County,Kentucky",15383,432695
+19,"Webster County,Kentucky","Carlisle County,Kentucky",7251,187689
+20,"Webster County,Kentucky","Carroll County,Kentucky",11997,336769
+21,"Webster County,Kentucky","Carter County,Kentucky",16949,495495
+22,"Webster County,Kentucky","Casey County,Kentucky",12611,325148
+23,"Webster County,Kentucky","Christian County,Kentucky",3744,93889
+24,"Webster County,Kentucky","Clay County,Kentucky",16445,452159
+25,"Webster County,Kentucky","Clinton County,Kentucky",12261,325499
+26,"Webster County,Kentucky","Crittenden County,Kentucky",2460,48777
+27,"Webster County,Kentucky","Cumberland County,Kentucky",11421,301598
+28,"Webster County,Kentucky","Daviess County,Kentucky",3837,79476
+29,"Webster County,Kentucky","Edmonson County,Kentucky",7206,175475
+30,"Webster County,Kentucky","Elliott County,Kentucky",17725,486757
+31,"Webster County,Kentucky","Estill County,Kentucky",15039,417646
+32,"Webster County,Kentucky","Fayette County,Kentucky",12181,349517
+33,"Webster County,Kentucky","Fleming County,Kentucky",15983,455000
+34,"Webster County,Kentucky","Floyd County,Kentucky",19342,548993
+35,"Webster County,Kentucky","Franklin County,Kentucky",12522,346205
+36,"Webster County,Kentucky","Fulton County,Kentucky",7655,208653
+37,"Webster County,Kentucky","Gallatin County,Kentucky",12706,356095
+38,"Webster County,Kentucky","Garrard County,Kentucky",13017,347628
+39,"Webster County,Kentucky","Grant County,Kentucky",14072,381548
+40,"Webster County,Kentucky","Graves County,Kentucky",6276,160395
+41,"Webster County,Kentucky","Grayson County,Kentucky",6021,155089
+42,"Webster County,Kentucky","Green County,Kentucky",10044,248997
+43,"Webster County,Kentucky","Greenup County,Kentucky",18418,522825
+44,"Webster County,Kentucky","Hancock County,Kentucky",5668,123782
+45,"Webster County,Kentucky","Hardin County,Kentucky",7418,200608
+46,"Webster County,Kentucky","Harlan County,Kentucky",20575,548736
+47,"Webster County,Kentucky","Harrison County,Kentucky",14391,396237
+48,"Webster County,Kentucky","Hart County,Kentucky",8439,214039
+49,"Webster County,Kentucky","Henderson County,Kentucky",2033,39490
+50,"Webster County,Kentucky","Henry County,Kentucky",11671,317517
+51,"Webster County,Kentucky","Hickman County,Kentucky",7285,188981
+52,"Webster County,Kentucky","Hopkins County,Kentucky",1852,32855
+53,"Webster County,Kentucky","Jackson County,Kentucky",16176,446512
+54,"Webster County,Kentucky","Jefferson County,Kentucky",10077,283094
+55,"Webster County,Kentucky","Jessamine County,Kentucky",12312,347177
+56,"Webster County,Kentucky","Johnson County,Kentucky",18295,524986
+57,"Webster County,Kentucky","Kenton County,Kentucky",14399,398709
+58,"Webster County,Kentucky","Knott County,Kentucky",19247,532865
+59,"Webster County,Kentucky","Knox County,Kentucky",16513,446041
+60,"Webster County,Kentucky","Larue County,Kentucky",8317,231840
+61,"Webster County,Kentucky","Laurel County,Kentucky",15255,416911
+62,"Webster County,Kentucky","Lawrence County,Kentucky",19816,553374
+63,"Webster County,Kentucky","Lee County,Kentucky",16404,465419
+64,"Webster County,Kentucky","Leslie County,Kentucky",18395,503283
+65,"Webster County,Kentucky","Letcher County,Kentucky",20418,554869
+66,"Webster County,Kentucky","Lewis County,Kentucky",17508,493140
+67,"Webster County,Kentucky","Lincoln County,Kentucky",12760,345364
+68,"Webster County,Kentucky","Livingston County,Kentucky",3611,73808
+69,"Webster County,Kentucky","Logan County,Kentucky",5974,150611
+70,"Webster County,Kentucky","Lyon County,Kentucky",5215,123532
+71,"Webster County,Kentucky","McCracken County,Kentucky",5407,140381
+72,"Webster County,Kentucky","McCreary County,Kentucky",14564,409817
+73,"Webster County,Kentucky","Madison County,Kentucky",13890,391369
+74,"Webster County,Kentucky","Magoffin County,Kentucky",17764,506853
+75,"Webster County,Kentucky","Marion County,Kentucky",10438,290730
+76,"Webster County,Kentucky","Marshall County,Kentucky",4821,123953
+77,"Webster County,Kentucky","Martin County,Kentucky",21082,583331
+78,"Webster County,Kentucky","Mason County,Kentucky",16749,450858
+79,"Webster County,Kentucky","Meade County,Kentucky",8369,193647
+80,"Webster County,Kentucky","Menifee County,Kentucky",15829,437319
+81,"Webster County,Kentucky","Mercer County,Kentucky",11222,314308
+82,"Webster County,Kentucky","Metcalfe County,Kentucky",9284,267316
+83,"Webster County,Kentucky","Monroe County,Kentucky",10040,273344
+84,"Webster County,Kentucky","Montgomery County,Kentucky",14472,415228
+85,"Webster County,Kentucky","Morgan County,Kentucky",17154,495137
+86,"Webster County,Kentucky","Muhlenberg County,Kentucky",3727,81387
+87,"Webster County,Kentucky","Nelson County,Kentucky",8715,249793
+88,"Webster County,Kentucky","Nicholas County,Kentucky",14876,406673
+89,"Webster County,Kentucky","Ohio County,Kentucky",4810,97450
+90,"Webster County,Kentucky","Oldham County,Kentucky",10397,284817
+91,"Webster County,Kentucky","Owen County,Kentucky",13865,378379
+92,"Webster County,Kentucky","Owsley County,Kentucky",17474,468013
+93,"Webster County,Kentucky","Pendleton County,Kentucky",15338,417413
+94,"Webster County,Kentucky","Perry County,Kentucky",18630,511984
+95,"Webster County,Kentucky","Pike County,Kentucky",21021,579317
+96,"Webster County,Kentucky","Powell County,Kentucky",14766,424087
+97,"Webster County,Kentucky","Robertson County,Kentucky",15646,427800
+98,"Webster County,Kentucky","Rockcastle County,Kentucky",14506,382050
+99,"Webster County,Kentucky","Rowan County,Kentucky",15296,448633
+100,"Webster County,Kentucky","Russell County,Kentucky",11418,325179
+101,"Webster County,Kentucky","Scott County,Kentucky",13200,378164
+102,"Webster County,Kentucky","Shelby County,Kentucky",11295,306213
+103,"Webster County,Kentucky","Simpson County,Kentucky",7348,182048
+104,"Webster County,Kentucky","Spencer County,Kentucky",10235,287541
+105,"Webster County,Kentucky","Taylor County,Kentucky",10276,277852
+106,"Webster County,Kentucky","Todd County,Kentucky",4849,122589
+107,"Webster County,Kentucky","Trigg County,Kentucky",4773,91862
+108,"Webster County,Kentucky","Trimble County,Kentucky",11796,324616
+109,"Webster County,Kentucky","Union County,Kentucky",2179,41290
+110,"Webster County,Kentucky","Warren County,Kentucky",6147,168974
+111,"Webster County,Kentucky","Washington County,Kentucky",10546,290412
+112,"Webster County,Kentucky","Wayne County,Kentucky",13662,355698
+113,"Webster County,Kentucky","Whitley County,Kentucky",15897,441895
+114,"Webster County,Kentucky","Wolfe County,Kentucky",16029,461959
+115,"Webster County,Kentucky","Woodford County,Kentucky",11437,329775
+116,"Webster County,Kentucky","Adams County,Ohio",18277,509353
+117,"Webster County,Kentucky","Allen County,Ohio",21819,624602
+118,"Webster County,Kentucky","Ashland County,Ohio",25008,726480
+119,"Webster County,Kentucky","Ashtabula County,Ohio",30754,911231
+120,"Webster County,Kentucky","Athens County,Ohio",23471,655695
+121,"Webster County,Kentucky","Auglaize County,Ohio",21190,563342
+122,"Webster County,Kentucky","Belmont County,Ohio",26346,772912
+123,"Webster County,Kentucky","Brown County,Ohio",17530,485907
+124,"Webster County,Kentucky","Butler County,Ohio",16897,474476
+125,"Webster County,Kentucky","Carroll County,Ohio",28310,810135
+126,"Webster County,Kentucky","Champaign County,Ohio",19853,566048
+127,"Webster County,Kentucky","Clark County,Ohio",19282,552681
+128,"Webster County,Kentucky","Clermont County,Ohio",15647,445654
+129,"Webster County,Kentucky","Clinton County,Ohio",17742,496961
+130,"Webster County,Kentucky","Columbiana County,Ohio",29867,845724
+131,"Webster County,Kentucky","Coshocton County,Ohio",24869,705552
+132,"Webster County,Kentucky","Crawford County,Ohio",24545,718452
+133,"Webster County,Kentucky","Cuyahoga County,Ohio",27326,808945
+134,"Webster County,Kentucky","Darke County,Ohio",17983,488562
+135,"Webster County,Kentucky","Defiance County,Ohio",22002,606963
+136,"Webster County,Kentucky","Delaware County,Ohio",21925,633152
+137,"Webster County,Kentucky","Fairfield County,Ohio",21328,616401
+138,"Webster County,Kentucky","Fayette County,Ohio",18640,534566
+139,"Webster County,Kentucky","Franklin County,Ohio",20442,593079
+140,"Webster County,Kentucky","Fulton County,Ohio",23436,649541
+141,"Webster County,Kentucky","Gallia County,Ohio",22098,626610
+142,"Webster County,Kentucky","Geauga County,Ohio",28854,848163
+143,"Webster County,Kentucky","Greene County,Ohio",18069,506315
+144,"Webster County,Kentucky","Guernsey County,Ohio",24075,706593
+145,"Webster County,Kentucky","Hamilton County,Ohio",15551,438960
+146,"Webster County,Kentucky","Hancock County,Ohio",22928,665497
+147,"Webster County,Kentucky","Hardin County,Ohio",22715,649894
+148,"Webster County,Kentucky","Harrison County,Ohio",27316,792201
+149,"Webster County,Kentucky","Henry County,Ohio",22822,643845
+150,"Webster County,Kentucky","Highland County,Ohio",18590,508607
+151,"Webster County,Kentucky","Hocking County,Ohio",22766,659805
+152,"Webster County,Kentucky","Holmes County,Ohio",26419,742410
+153,"Webster County,Kentucky","Huron County,Ohio",26154,725250
+154,"Webster County,Kentucky","Jackson County,Ohio",20869,590065
+155,"Webster County,Kentucky","Jefferson County,Ohio",28309,801979
+156,"Webster County,Kentucky","Knox County,Ohio",24375,692773
+157,"Webster County,Kentucky","Lawrence County,Ohio",20219,562666
+158,"Webster County,Kentucky","Licking County,Ohio",22707,647997
+159,"Webster County,Kentucky","Logan County,Ohio",21088,598585
+160,"Webster County,Kentucky","Lorain County,Ohio",27940,783904
+161,"Webster County,Kentucky","Lucas County,Ohio",25767,711517
+162,"Webster County,Kentucky","Madison County,Ohio",19862,569748
+163,"Webster County,Kentucky","Mahoning County,Ohio",29724,862863
+164,"Webster County,Kentucky","Marion County,Ohio",22972,640587
+165,"Webster County,Kentucky","Medina County,Ohio",25653,751493
+166,"Webster County,Kentucky","Meigs County,Ohio",23030,656993
+167,"Webster County,Kentucky","Mercer County,Ohio",20044,525081
+168,"Webster County,Kentucky","Miami County,Ohio",18661,534305
+169,"Webster County,Kentucky","Monroe County,Ohio",27751,787476
+170,"Webster County,Kentucky","Montgomery County,Ohio",18044,512045
+171,"Webster County,Kentucky","Morgan County,Ohio",25140,715089
+172,"Webster County,Kentucky","Morrow County,Ohio",22732,655972
+173,"Webster County,Kentucky","Muskingum County,Ohio",22925,672749
+174,"Webster County,Kentucky","Noble County,Ohio",25774,743712
+175,"Webster County,Kentucky","Paulding County,Ohio",20935,571882
+176,"Webster County,Kentucky","Perry County,Ohio",22994,661332
+177,"Webster County,Kentucky","Pickaway County,Ohio",20577,583162
+178,"Webster County,Kentucky","Pike County,Ohio",19645,555049
+179,"Webster County,Kentucky","Portage County,Ohio",28175,822642
+180,"Webster County,Kentucky","Preble County,Ohio",16907,466789
+181,"Webster County,Kentucky","Putnam County,Ohio",22805,619486
+182,"Webster County,Kentucky","Richland County,Ohio",23762,691211
+183,"Webster County,Kentucky","Ross County,Ohio",20221,582479
+184,"Webster County,Kentucky","Sandusky County,Ohio",25968,745573
+185,"Webster County,Kentucky","Scioto County,Ohio",20444,575680
+186,"Webster County,Kentucky","Seneca County,Ohio",25273,721837
+187,"Webster County,Kentucky","Shelby County,Ohio",19700,570591
+188,"Webster County,Kentucky","Stark County,Ohio",27920,807026
+189,"Webster County,Kentucky","Summit County,Ohio",26856,786820
+190,"Webster County,Kentucky","Trumbull County,Ohio",29756,873134
+191,"Webster County,Kentucky","Tuscarawas County,Ohio",26370,765957
+192,"Webster County,Kentucky","Union County,Ohio",21214,595969
+193,"Webster County,Kentucky","Van Wert County,Ohio",21073,589002
+194,"Webster County,Kentucky","Vinton County,Ohio",22403,631232
+195,"Webster County,Kentucky","Warren County,Ohio",16431,465217
+196,"Webster County,Kentucky","Washington County,Ohio",26066,728942
+197,"Webster County,Kentucky","Wayne County,Ohio",25381,740490
+198,"Webster County,Kentucky","Williams County,Ohio",22992,626843
+199,"Webster County,Kentucky","Wood County,Ohio",23995,672769
+200,"Webster County,Kentucky","Wyandot County,Ohio",23624,686377
+201,"Webster County,Kentucky","Accomack County,Virginia",47898,1400106
+202,"Webster County,Kentucky","Albemarle County,Virginia",34047,1012606
+203,"Webster County,Kentucky","Alleghany County,Virginia",28716,849629
+204,"Webster County,Kentucky","Amelia County,Virginia",38127,1103142
+205,"Webster County,Kentucky","Amherst County,Virginia",34045,980595
+206,"Webster County,Kentucky","Appomattox County,Virginia",35204,1022811
+207,"Webster County,Kentucky","Arlington County,Virginia",40331,1208638
+208,"Webster County,Kentucky","Augusta County,Virginia",32658,950945
+209,"Webster County,Kentucky","Bath County,Virginia",31728,924939
+210,"Webster County,Kentucky","Bedford County,Virginia",32937,954121
+211,"Webster County,Kentucky","Bland County,Virginia",26953,803722
+212,"Webster County,Kentucky","Botetourt County,Virginia",31793,938186
+213,"Webster County,Kentucky","Brunswick County,Virginia",39685,1167864
+214,"Webster County,Kentucky","Buchanan County,Virginia",25073,658823
+215,"Webster County,Kentucky","Buckingham County,Virginia",35921,1030289
+216,"Webster County,Kentucky","Campbell County,Virginia",34353,995356
+217,"Webster County,Kentucky","Caroline County,Virginia",39387,1181452
+218,"Webster County,Kentucky","Carroll County,Virginia",27897,835067
+219,"Webster County,Kentucky","Charles City County,Virginia",39487,1178486
+220,"Webster County,Kentucky","Charlotte County,Virginia",36902,1063292
+221,"Webster County,Kentucky","Chesterfield County,Virginia",38623,1156270
+222,"Webster County,Kentucky","Clarke County,Virginia",38227,1139664
+223,"Webster County,Kentucky","Craig County,Virginia",30360,870714
+224,"Webster County,Kentucky","Culpeper County,Virginia",37845,1101822
+225,"Webster County,Kentucky","Cumberland County,Virginia",37131,1058291
+226,"Webster County,Kentucky","Dickenson County,Virginia",23977,621815
+227,"Webster County,Kentucky","Dinwiddie County,Virginia",39900,1146203
+228,"Webster County,Kentucky","Essex County,Virginia",41204,1205494
+229,"Webster County,Kentucky","Fairfax County,Virginia",40021,1199305
+230,"Webster County,Kentucky","Fauquier County,Virginia",38665,1160915
+231,"Webster County,Kentucky","Floyd County,Virginia",29789,875168
+232,"Webster County,Kentucky","Fluvanna County,Virginia",35725,1064778
+233,"Webster County,Kentucky","Franklin County,Virginia",32450,955354
+234,"Webster County,Kentucky","Frederick County,Virginia",36893,1053798
+235,"Webster County,Kentucky","Giles County,Virginia",28409,827407
+236,"Webster County,Kentucky","Gloucester County,Virginia",41658,1232674
+237,"Webster County,Kentucky","Goochland County,Virginia",36629,1095389
+238,"Webster County,Kentucky","Grayson County,Virginia",27630,798235
+239,"Webster County,Kentucky","Greene County,Virginia",36040,1048190
+240,"Webster County,Kentucky","Greensville County,Virginia",40881,1185283
+241,"Webster County,Kentucky","Halifax County,Virginia",36200,1032754
+242,"Webster County,Kentucky","Hanover County,Virginia",37835,1136495
+243,"Webster County,Kentucky","Henrico County,Virginia",38346,1149455
+244,"Webster County,Kentucky","Henry County,Virginia",31770,921788
+245,"Webster County,Kentucky","Highland County,Virginia",33173,934909
+246,"Webster County,Kentucky","Isle of Wight County,Virginia",42599,1254032
+247,"Webster County,Kentucky","James City County,Virginia",40723,1219257
+248,"Webster County,Kentucky","King and Queen County,Virginia",40381,1194841
+249,"Webster County,Kentucky","King George County,Virginia",40500,1209438
+250,"Webster County,Kentucky","King William County,Virginia",39069,1164763
+251,"Webster County,Kentucky","Lancaster County,Virginia",42861,1247849
+252,"Webster County,Kentucky","Lee County,Virginia",21373,569690
+253,"Webster County,Kentucky","Loudoun County,Virginia",39723,1175530
+254,"Webster County,Kentucky","Louisa County,Virginia",36286,1078483
+255,"Webster County,Kentucky","Lunenburg County,Virginia",38674,1104576
+256,"Webster County,Kentucky","Madison County,Virginia",36960,1077930
+257,"Webster County,Kentucky","Mathews County,Virginia",42483,1256098
+258,"Webster County,Kentucky","Mecklenburg County,Virginia",38232,1084300
+259,"Webster County,Kentucky","Middlesex County,Virginia",41259,1228875
+260,"Webster County,Kentucky","Montgomery County,Virginia",28963,865672
+261,"Webster County,Kentucky","Nelson County,Virginia",34586,992286
+262,"Webster County,Kentucky","New Kent County,Virginia",40159,1193171
+263,"Webster County,Kentucky","Northampton County,Virginia",45140,1335921
+264,"Webster County,Kentucky","Northumberland County,Virginia",42901,1246361
+265,"Webster County,Kentucky","Nottoway County,Virginia",38167,1104956
+266,"Webster County,Kentucky","Orange County,Virginia",37249,1086591
+267,"Webster County,Kentucky","Page County,Virginia",35894,1061716
+268,"Webster County,Kentucky","Patrick County,Virginia",30002,880103
+269,"Webster County,Kentucky","Pittsylvania County,Virginia",34086,975996
+270,"Webster County,Kentucky","Powhatan County,Virginia",37882,1120610
+271,"Webster County,Kentucky","Prince Edward County,Virginia",36782,1062291
+272,"Webster County,Kentucky","Prince George County,Virginia",40134,1193285
+273,"Webster County,Kentucky","Prince William County,Virginia",38765,1167019
+274,"Webster County,Kentucky","Pulaski County,Virginia",27639,826488
+275,"Webster County,Kentucky","Rappahannock County,Virginia",37725,1098203
+276,"Webster County,Kentucky","Richmond County,Virginia",41601,1219004
+277,"Webster County,Kentucky","Roanoke County,Virginia",29744,885608
+278,"Webster County,Kentucky","Rockbridge County,Virginia",31049,917985
+279,"Webster County,Kentucky","Rockingham County,Virginia",34933,1034066
+280,"Webster County,Kentucky","Russell County,Virginia",25882,737846
+281,"Webster County,Kentucky","Scott County,Virginia",23149,673732
+282,"Webster County,Kentucky","Shenandoah County,Virginia",35437,1064170
+283,"Webster County,Kentucky","Smyth County,Virginia",24909,737937
+284,"Webster County,Kentucky","Southampton County,Virginia",42164,1251567
+285,"Webster County,Kentucky","Spotsylvania County,Virginia",38302,1120322
+286,"Webster County,Kentucky","Stafford County,Virginia",39683,1144615
+287,"Webster County,Kentucky","Surry County,Virginia",41467,1218119
+288,"Webster County,Kentucky","Sussex County,Virginia",40828,1221810
+289,"Webster County,Kentucky","Tazewell County,Virginia",26972,779007
+290,"Webster County,Kentucky","Warren County,Virginia",37340,1108762
+291,"Webster County,Kentucky","Washington County,Virginia",24020,702022
+292,"Webster County,Kentucky","Westmoreland County,Virginia",41474,1226263
+293,"Webster County,Kentucky","Wise County,Virginia",22242,597714
+294,"Webster County,Kentucky","Wythe County,Virginia",26123,780397
+295,"Webster County,Kentucky","York County,Virginia",42011,1250032
+296,"Webster County,Kentucky","Alexandria City County,Virginia",40846,1225820
+297,"Webster County,Kentucky","Bedford City County,Virginia",32101,945552
+298,"Webster County,Kentucky","Bristol City County,Virginia",22619,670005
+299,"Webster County,Kentucky","Buena Vista City County,Virginia",31404,931963
+300,"Webster County,Kentucky","Charlottesville City County,Virginia",34517,1027821
+301,"Webster County,Kentucky","Chesapeake City County,Virginia",43474,1302937
+302,"Webster County,Kentucky","Clifton Forge City County,Virginia",29260,869836
+303,"Webster County,Kentucky","Colonial Heights City County,Virginia",39183,1172162
+304,"Webster County,Kentucky","Covington City County,Virginia",28785,853214
+305,"Webster County,Kentucky","Danville City County,Virginia",33928,976244
+306,"Webster County,Kentucky","Emporia City County,Virginia",41037,1199471
+307,"Webster County,Kentucky","Fairfax City County,Virginia",39898,1192767
+308,"Webster County,Kentucky","Falls Church City County,Virginia",40039,1202950
+309,"Webster County,Kentucky","Franklin City County,Virginia",42712,1259422
+310,"Webster County,Kentucky","Fredericksburg City County,Virginia",39435,1129982
+311,"Webster County,Kentucky","Galax City County,Virginia",28520,840934
+312,"Webster County,Kentucky","Hampton City County,Virginia",41961,1259738
+313,"Webster County,Kentucky","Harrisonburg City County,Virginia",33992,1013962
+314,"Webster County,Kentucky","Hopewell City County,Virginia",39219,1171128
+315,"Webster County,Kentucky","Lexington City County,Virginia",31038,920454
+316,"Webster County,Kentucky","Lynchburg City County,Virginia",34126,990427
+317,"Webster County,Kentucky","Manassas City County,Virginia",38993,1171964
+318,"Webster County,Kentucky","Manassas Park City County,Virginia",39495,1178307
+319,"Webster County,Kentucky","Martinsville City County,Virginia",32298,930582
+320,"Webster County,Kentucky","Newport News City County,Virginia",41518,1246224
+321,"Webster County,Kentucky","Norfolk City County,Virginia",43267,1285154
+322,"Webster County,Kentucky","Norton City County,Virginia",22871,609526
+323,"Webster County,Kentucky","Petersburg City County,Virginia",39055,1173150
+324,"Webster County,Kentucky","Poquoson City County,Virginia",42189,1256800
+325,"Webster County,Kentucky","Portsmouth City County,Virginia",43206,1293975
+326,"Webster County,Kentucky","Radford County,Virginia",28150,840436
+327,"Webster County,Kentucky","Richmond City County,Virginia",37923,1137265
+328,"Webster County,Kentucky","Roanoke City County,Virginia",30346,905713
+329,"Webster County,Kentucky","Salem City County,Virginia",29757,892263
+330,"Webster County,Kentucky","South Boston City County,Virginia",35940,1030422
+331,"Webster County,Kentucky","Staunton City County,Virginia",32809,975097
+332,"Webster County,Kentucky","Suffolk City County,Virginia",43442,1268756
+333,"Webster County,Kentucky","Virginia Beach City County,Virginia",43828,1308412
+334,"Webster County,Kentucky","Waynesboro City County,Virginia",33147,987816
+335,"Webster County,Kentucky","Williamsburg City County,Virginia",40562,1218473
+336,"Webster County,Kentucky","Winchester City County,Virginia",37371,1087799
+337,"Webster County,Kentucky","Barbour County,West Virginia",28852,848496
+338,"Webster County,Kentucky","Berkeley County,West Virginia",36785,1086655
+339,"Webster County,Kentucky","Boone County,West Virginia",24031,682113
+340,"Webster County,Kentucky","Braxton County,West Virginia",25542,739475
+341,"Webster County,Kentucky","Brooke County,West Virginia",28425,815159
+342,"Webster County,Kentucky","Cabell County,West Virginia",18603,548621
+343,"Webster County,Kentucky","Calhoun County,West Virginia",25463,737160
+344,"Webster County,Kentucky","Clay County,West Virginia",24309,710388
+345,"Webster County,Kentucky","Doddridge County,West Virginia",27996,830005
+346,"Webster County,Kentucky","Fayette County,West Virginia",25596,728732
+347,"Webster County,Kentucky","Gilmer County,West Virginia",26741,761662
+348,"Webster County,Kentucky","Grant County,West Virginia",33208,950041
+349,"Webster County,Kentucky","Greenbrier County,West Virginia",28671,806771
+350,"Webster County,Kentucky","Hampshire County,West Virginia",36040,1048259
+351,"Webster County,Kentucky","Hancock County,West Virginia",30014,849695
+352,"Webster County,Kentucky","Hardy County,West Virginia",34263,981538
+353,"Webster County,Kentucky","Harrison County,West Virginia",28086,834866
+354,"Webster County,Kentucky","Jackson County,West Virginia",23347,691491
+355,"Webster County,Kentucky","Jefferson County,West Virginia",38251,1142653
+356,"Webster County,Kentucky","Kanawha County,West Virginia",22905,662796
+357,"Webster County,Kentucky","Lewis County,West Virginia",26715,788337
+358,"Webster County,Kentucky","Lincoln County,West Virginia",21820,606272
+359,"Webster County,Kentucky","Logan County,West Virginia",24076,650086
+360,"Webster County,Kentucky","McDowell County,West Virginia",27928,702275
+361,"Webster County,Kentucky","Marion County,West Virginia",29231,862034
+362,"Webster County,Kentucky","Marshall County,West Virginia",28382,809667
+363,"Webster County,Kentucky","Mason County,West Virginia",21584,639366
+364,"Webster County,Kentucky","Mercer County,West Virginia",26232,774355
+365,"Webster County,Kentucky","Mineral County,West Virginia",34902,978862
+366,"Webster County,Kentucky","Mingo County,West Virginia",22760,616539
+367,"Webster County,Kentucky","Monongalia County,West Virginia",29442,887502
+368,"Webster County,Kentucky","Monroe County,West Virginia",29277,819067
+369,"Webster County,Kentucky","Morgan County,West Virginia",36277,1076047
+370,"Webster County,Kentucky","Nicholas County,West Virginia",26025,770268
+371,"Webster County,Kentucky","Ohio County,West Virginia",27443,796397
+372,"Webster County,Kentucky","Pendleton County,West Virginia",33539,952665
+373,"Webster County,Kentucky","Pleasants County,West Virginia",26830,789343
+374,"Webster County,Kentucky","Pocahontas County,West Virginia",31355,839807
+375,"Webster County,Kentucky","Preston County,West Virginia",31587,914233
+376,"Webster County,Kentucky","Putnam County,West Virginia",20286,601399
+377,"Webster County,Kentucky","Raleigh County,West Virginia",24773,728048
+378,"Webster County,Kentucky","Randolph County,West Virginia",29217,850791
+379,"Webster County,Kentucky","Ritchie County,West Virginia",27161,803047
+380,"Webster County,Kentucky","Roane County,West Virginia",24973,720307
+381,"Webster County,Kentucky","Summers County,West Virginia",28225,789486
+382,"Webster County,Kentucky","Taylor County,West Virginia",29124,857606
+383,"Webster County,Kentucky","Tucker County,West Virginia",30284,881316
+384,"Webster County,Kentucky","Tyler County,West Virginia",28739,828958
+385,"Webster County,Kentucky","Upshur County,West Virginia",28280,803034
+386,"Webster County,Kentucky","Wayne County,West Virginia",20133,569817
+387,"Webster County,Kentucky","Webster County,West Virginia",28210,797348
+388,"Webster County,Kentucky","Wetzel County,West Virginia",29951,850865
+389,"Webster County,Kentucky","Wirt County,West Virginia",25614,748829
+390,"Webster County,Kentucky","Wood County,West Virginia",25128,750519
+391,"Webster County,Kentucky","Wyoming County,West Virginia",26718,767990

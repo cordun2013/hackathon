@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Owen County,Kentucky","Adair County,Kentucky",8910,203342
+1,"Owen County,Kentucky","Allen County,Kentucky",10866,290216
+2,"Owen County,Kentucky","Anderson County,Kentucky",3489,70057
+3,"Owen County,Kentucky","Ballard County,Kentucky",17026,482378
+4,"Owen County,Kentucky","Barren County,Kentucky",9993,258629
+5,"Owen County,Kentucky","Bath County,Kentucky",5500,151091
+6,"Owen County,Kentucky","Bell County,Kentucky",10734,278817
+7,"Owen County,Kentucky","Boone County,Kentucky",3800,80096
+8,"Owen County,Kentucky","Bourbon County,Kentucky",4088,89050
+9,"Owen County,Kentucky","Boyd County,Kentucky",8757,252548
+10,"Owen County,Kentucky","Boyle County,Kentucky",5157,109885
+11,"Owen County,Kentucky","Bracken County,Kentucky",6018,112368
+12,"Owen County,Kentucky","Breathitt County,Kentucky",8100,215272
+13,"Owen County,Kentucky","Breckinridge County,Kentucky",9050,223037
+14,"Owen County,Kentucky","Bullitt County,Kentucky",5620,144157
+15,"Owen County,Kentucky","Butler County,Kentucky",10246,267286
+16,"Owen County,Kentucky","Caldwell County,Kentucky",13138,373231
+17,"Owen County,Kentucky","Calloway County,Kentucky",15948,458224
+18,"Owen County,Kentucky","Campbell County,Kentucky",4507,82843
+19,"Owen County,Kentucky","Carlisle County,Kentucky",17483,497746
+20,"Owen County,Kentucky","Carroll County,Kentucky",2580,44270
+21,"Owen County,Kentucky","Carter County,Kentucky",7894,221805
+22,"Owen County,Kentucky","Casey County,Kentucky",7054,153868
+23,"Owen County,Kentucky","Christian County,Kentucky",12787,368488
+24,"Owen County,Kentucky","Clay County,Kentucky",8965,237862
+25,"Owen County,Kentucky","Clinton County,Kentucky",10688,277346
+26,"Owen County,Kentucky","Crittenden County,Kentucky",14718,406302
+27,"Owen County,Kentucky","Cumberland County,Kentucky",10760,245609
+28,"Owen County,Kentucky","Daviess County,Kentucky",10853,303958
+29,"Owen County,Kentucky","Edmonson County,Kentucky",9686,255161
+30,"Owen County,Kentucky","Elliott County,Kentucky",8670,213067
+31,"Owen County,Kentucky","Estill County,Kentucky",6034,151812
+32,"Owen County,Kentucky","Fayette County,Kentucky",3463,82306
+33,"Owen County,Kentucky","Fleming County,Kentucky",6987,154643
+34,"Owen County,Kentucky","Floyd County,Kentucky",10287,275302
+35,"Owen County,Kentucky","Franklin County,Kentucky",2398,47963
+36,"Owen County,Kentucky","Fulton County,Kentucky",17887,518711
+37,"Owen County,Kentucky","Gallatin County,Kentucky",2160,40051
+38,"Owen County,Kentucky","Garrard County,Kentucky",6136,123410
+39,"Owen County,Kentucky","Grant County,Kentucky",1711,31123
+40,"Owen County,Kentucky","Graves County,Kentucky",16508,470453
+41,"Owen County,Kentucky","Grayson County,Kentucky",8573,223922
+42,"Owen County,Kentucky","Green County,Kentucky",8353,189127
+43,"Owen County,Kentucky","Greenup County,Kentucky",9363,249135
+44,"Owen County,Kentucky","Hancock County,Kentucky",9738,258476
+45,"Owen County,Kentucky","Hardin County,Kentucky",7450,186055
+46,"Owen County,Kentucky","Harlan County,Kentucky",13028,334423
+47,"Owen County,Kentucky","Harrison County,Kentucky",3354,61757
+48,"Owen County,Kentucky","Hart County,Kentucky",8249,213683
+49,"Owen County,Kentucky","Henderson County,Kentucky",12436,346453
+50,"Owen County,Kentucky","Henry County,Kentucky",2773,47793
+51,"Owen County,Kentucky","Hickman County,Kentucky",17517,499038
+52,"Owen County,Kentucky","Hopkins County,Kentucky",12597,347700
+53,"Owen County,Kentucky","Jackson County,Kentucky",7477,181648
+54,"Owen County,Kentucky","Jefferson County,Kentucky",5056,116017
+55,"Owen County,Kentucky","Jessamine County,Kentucky",4471,85287
+56,"Owen County,Kentucky","Johnson County,Kentucky",9240,251295
+57,"Owen County,Kentucky","Kenton County,Kentucky",3687,75812
+58,"Owen County,Kentucky","Knott County,Kentucky",10560,278650
+59,"Owen County,Kentucky","Knox County,Kentucky",8896,240558
+60,"Owen County,Kentucky","Larue County,Kentucky",7521,173230
+61,"Owen County,Kentucky","Laurel County,Kentucky",7747,211953
+62,"Owen County,Kentucky","Lawrence County,Kentucky",10761,279683
+63,"Owen County,Kentucky","Lee County,Kentucky",7349,191729
+64,"Owen County,Kentucky","Leslie County,Kentucky",10915,288985
+65,"Owen County,Kentucky","Letcher County,Kentucky",11813,303623
+66,"Owen County,Kentucky","Lewis County,Kentucky",8453,219450
+67,"Owen County,Kentucky","Lincoln County,Kentucky",6413,137413
+68,"Owen County,Kentucky","Livingston County,Kentucky",15313,423198
+69,"Owen County,Kentucky","Logan County,Kentucky",11986,310524
+70,"Owen County,Kentucky","Lyon County,Kentucky",15447,433589
+71,"Owen County,Kentucky","McCracken County,Kentucky",15639,450438
+72,"Owen County,Kentucky","McCreary County,Kentucky",9852,256395
+73,"Owen County,Kentucky","Madison County,Kentucky",4885,125535
+74,"Owen County,Kentucky","Magoffin County,Kentucky",8709,233163
+75,"Owen County,Kentucky","Marion County,Kentucky",5899,134840
+76,"Owen County,Kentucky","Marshall County,Kentucky",15053,434010
+77,"Owen County,Kentucky","Martin County,Kentucky",12027,309641
+78,"Owen County,Kentucky","Mason County,Kentucky",6751,127415
+79,"Owen County,Kentucky","Meade County,Kentucky",7517,188332
+80,"Owen County,Kentucky","Menifee County,Kentucky",6774,163629
+81,"Owen County,Kentucky","Mercer County,Kentucky",4231,90059
+82,"Owen County,Kentucky","Metcalfe County,Kentucky",9729,231852
+83,"Owen County,Kentucky","Monroe County,Kentucky",11459,253037
+84,"Owen County,Kentucky","Montgomery County,Kentucky",5417,141538
+85,"Owen County,Kentucky","Morgan County,Kentucky",8099,221447
+86,"Owen County,Kentucky","Muhlenberg County,Kentucky",11457,314175
+87,"Owen County,Kentucky","Nelson County,Kentucky",5507,133911
+88,"Owen County,Kentucky","Nicholas County,Kentucky",5279,82620
+89,"Owen County,Kentucky","Ohio County,Kentucky",10370,281765
+90,"Owen County,Kentucky","Oldham County,Kentucky",4069,101853
+91,"Owen County,Kentucky","Owsley County,Kentucky",8496,211706
+92,"Owen County,Kentucky","Pendleton County,Kentucky",3702,68435
+93,"Owen County,Kentucky","Perry County,Kentucky",9712,255155
+94,"Owen County,Kentucky","Pike County,Kentucky",11966,305627
+95,"Owen County,Kentucky","Powell County,Kentucky",5711,150397
+96,"Owen County,Kentucky","Robertson County,Kentucky",5416,92720
+97,"Owen County,Kentucky","Rockcastle County,Kentucky",6319,166678
+98,"Owen County,Kentucky","Rowan County,Kentucky",6241,174943
+99,"Owen County,Kentucky","Russell County,Kentucky",9099,196465
+100,"Owen County,Kentucky","Scott County,Kentucky",2464,49681
+101,"Owen County,Kentucky","Shelby County,Kentucky",3985,87152
+102,"Owen County,Kentucky","Simpson County,Kentucky",11568,318582
+103,"Owen County,Kentucky","Spencer County,Kentucky",4515,93000
+104,"Owen County,Kentucky","Taylor County,Kentucky",7188,166336
+105,"Owen County,Kentucky","Todd County,Kentucky",13222,334685
+106,"Owen County,Kentucky","Trigg County,Kentucky",14200,394417
+107,"Owen County,Kentucky","Trimble County,Kentucky",3667,83749
+108,"Owen County,Kentucky","Union County,Kentucky",14156,376900
+109,"Owen County,Kentucky","Warren County,Kentucky",10602,283530
+110,"Owen County,Kentucky","Washington County,Kentucky",5517,119148
+111,"Owen County,Kentucky","Wayne County,Kentucky",10061,255036
+112,"Owen County,Kentucky","Webster County,Kentucky",13706,375788
+113,"Owen County,Kentucky","Whitley County,Kentucky",8580,246438
+114,"Owen County,Kentucky","Wolfe County,Kentucky",6974,188268
+115,"Owen County,Kentucky","Woodford County,Kentucky",2757,57333
+116,"Owen County,Kentucky","Adams County,Ohio",7565,186457
+117,"Owen County,Kentucky","Allen County,Ohio",11106,301706
+118,"Owen County,Kentucky","Ashland County,Ohio",14295,403584
+119,"Owen County,Kentucky","Ashtabula County,Ohio",20041,588335
+120,"Owen County,Kentucky","Athens County,Ohio",12759,332799
+121,"Owen County,Kentucky","Auglaize County,Ohio",10362,288971
+122,"Owen County,Kentucky","Belmont County,Ohio",15633,450015
+123,"Owen County,Kentucky","Brown County,Ohio",6817,163011
+124,"Owen County,Kentucky","Butler County,Ohio",6184,151580
+125,"Owen County,Kentucky","Carroll County,Ohio",17597,487239
+126,"Owen County,Kentucky","Champaign County,Ohio",9140,243152
+127,"Owen County,Kentucky","Clark County,Ohio",8569,229785
+128,"Owen County,Kentucky","Clermont County,Ohio",4935,122758
+129,"Owen County,Kentucky","Clinton County,Ohio",7029,174065
+130,"Owen County,Kentucky","Columbiana County,Ohio",19154,522828
+131,"Owen County,Kentucky","Coshocton County,Ohio",14156,382656
+132,"Owen County,Kentucky","Crawford County,Ohio",13833,395556
+133,"Owen County,Kentucky","Cuyahoga County,Ohio",16613,486048
+134,"Owen County,Kentucky","Darke County,Ohio",9460,246017
+135,"Owen County,Kentucky","Defiance County,Ohio",14594,380136
+136,"Owen County,Kentucky","Delaware County,Ohio",11212,310255
+137,"Owen County,Kentucky","Fairfield County,Ohio",10616,293505
+138,"Owen County,Kentucky","Fayette County,Ohio",7928,211670
+139,"Owen County,Kentucky","Franklin County,Ohio",9730,270183
+140,"Owen County,Kentucky","Fulton County,Ohio",15357,397079
+141,"Owen County,Kentucky","Gallia County,Ohio",11655,304975
+142,"Owen County,Kentucky","Geauga County,Ohio",18142,525267
+143,"Owen County,Kentucky","Greene County,Ohio",7356,183419
+144,"Owen County,Kentucky","Guernsey County,Ohio",13362,383696
+145,"Owen County,Kentucky","Hamilton County,Ohio",4838,116064
+146,"Owen County,Kentucky","Hancock County,Ohio",12216,342601
+147,"Owen County,Kentucky","Hardin County,Ohio",12003,326998
+148,"Owen County,Kentucky","Harrison County,Ohio",16603,469305
+149,"Owen County,Kentucky","Henry County,Ohio",13939,367070
+150,"Owen County,Kentucky","Highland County,Ohio",7877,185711
+151,"Owen County,Kentucky","Hocking County,Ohio",12053,336909
+152,"Owen County,Kentucky","Holmes County,Ohio",15707,419514
+153,"Owen County,Kentucky","Huron County,Ohio",15442,402354
+154,"Owen County,Kentucky","Jackson County,Ohio",10156,267168
+155,"Owen County,Kentucky","Jefferson County,Ohio",17596,479082
+156,"Owen County,Kentucky","Knox County,Ohio",13662,369877
+157,"Owen County,Kentucky","Lawrence County,Ohio",11164,288976
+158,"Owen County,Kentucky","Licking County,Ohio",11995,325101
+159,"Owen County,Kentucky","Logan County,Ohio",10375,275689
+160,"Owen County,Kentucky","Lorain County,Ohio",17227,461008
+161,"Owen County,Kentucky","Lucas County,Ohio",15541,429121
+162,"Owen County,Kentucky","Madison County,Ohio",9150,246852
+163,"Owen County,Kentucky","Mahoning County,Ohio",19011,539967
+164,"Owen County,Kentucky","Marion County,Ohio",12259,317691
+165,"Owen County,Kentucky","Medina County,Ohio",14940,428597
+166,"Owen County,Kentucky","Meigs County,Ohio",13439,344614
+167,"Owen County,Kentucky","Mercer County,Ohio",11598,315904
+168,"Owen County,Kentucky","Miami County,Ohio",7949,211409
+169,"Owen County,Kentucky","Monroe County,Ohio",17038,464580
+170,"Owen County,Kentucky","Montgomery County,Ohio",7332,189149
+171,"Owen County,Kentucky","Morgan County,Ohio",14428,392192
+172,"Owen County,Kentucky","Morrow County,Ohio",12020,333076
+173,"Owen County,Kentucky","Muskingum County,Ohio",12213,349853
+174,"Owen County,Kentucky","Noble County,Ohio",15061,420816
+175,"Owen County,Kentucky","Paulding County,Ohio",13637,364684
+176,"Owen County,Kentucky","Perry County,Ohio",12281,338436
+177,"Owen County,Kentucky","Pickaway County,Ohio",9865,260266
+178,"Owen County,Kentucky","Pike County,Ohio",8932,232153
+179,"Owen County,Kentucky","Portage County,Ohio",17462,499746
+180,"Owen County,Kentucky","Preble County,Ohio",8229,195979
+181,"Owen County,Kentucky","Putnam County,Ohio",12281,334173
+182,"Owen County,Kentucky","Richland County,Ohio",13050,368315
+183,"Owen County,Kentucky","Ross County,Ohio",9508,259583
+184,"Owen County,Kentucky","Sandusky County,Ohio",15256,422677
+185,"Owen County,Kentucky","Scioto County,Ohio",9732,252784
+186,"Owen County,Kentucky","Seneca County,Ohio",14560,398941
+187,"Owen County,Kentucky","Shelby County,Ohio",8987,247695
+188,"Owen County,Kentucky","Stark County,Ohio",17208,484130
+189,"Owen County,Kentucky","Summit County,Ohio",16143,463924
+190,"Owen County,Kentucky","Trumbull County,Ohio",19044,550238
+191,"Owen County,Kentucky","Tuscarawas County,Ohio",15657,443061
+192,"Owen County,Kentucky","Union County,Ohio",10502,273073
+193,"Owen County,Kentucky","Van Wert County,Ohio",12271,334229
+194,"Owen County,Kentucky","Vinton County,Ohio",11691,308336
+195,"Owen County,Kentucky","Warren County,Ohio",5718,142321
+196,"Owen County,Kentucky","Washington County,Ohio",15792,412896
+197,"Owen County,Kentucky","Wayne County,Ohio",14668,417594
+198,"Owen County,Kentucky","Williams County,Ohio",15771,403652
+199,"Owen County,Kentucky","Wood County,Ohio",13303,383229
+200,"Owen County,Kentucky","Wyandot County,Ohio",12911,363481
+201,"Owen County,Kentucky","Accomack County,Virginia",38843,1126416
+202,"Owen County,Kentucky","Albemarle County,Virginia",24992,738916
+203,"Owen County,Kentucky","Alleghany County,Virginia",19661,575939
+204,"Owen County,Kentucky","Amelia County,Virginia",29693,839034
+205,"Owen County,Kentucky","Amherst County,Virginia",24990,706904
+206,"Owen County,Kentucky","Appomattox County,Virginia",26583,745663
+207,"Owen County,Kentucky","Arlington County,Virginia",31276,934948
+208,"Owen County,Kentucky","Augusta County,Virginia",23603,677255
+209,"Owen County,Kentucky","Bath County,Virginia",22673,651248
+210,"Owen County,Kentucky","Bedford County,Virginia",25250,693029
+211,"Owen County,Kentucky","Bland County,Virginia",18623,542158
+212,"Owen County,Kentucky","Botetourt County,Virginia",22816,647238
+213,"Owen County,Kentucky","Brunswick County,Virginia",32236,888707
+214,"Owen County,Kentucky","Buchanan County,Virginia",16018,385133
+215,"Owen County,Kentucky","Buckingham County,Virginia",26866,756599
+216,"Owen County,Kentucky","Campbell County,Virginia",26507,748135
+217,"Owen County,Kentucky","Caroline County,Virginia",30332,907761
+218,"Owen County,Kentucky","Carroll County,Virginia",20869,611596
+219,"Owen County,Kentucky","Charles City County,Virginia",30432,904796
+220,"Owen County,Kentucky","Charlotte County,Virginia",28468,799184
+221,"Owen County,Kentucky","Chesterfield County,Virginia",29568,882580
+222,"Owen County,Kentucky","Clarke County,Virginia",29172,865973
+223,"Owen County,Kentucky","Craig County,Virginia",21305,597024
+224,"Owen County,Kentucky","Culpeper County,Virginia",28790,828132
+225,"Owen County,Kentucky","Cumberland County,Virginia",28076,784601
+226,"Owen County,Kentucky","Dickenson County,Virginia",15372,370569
+227,"Owen County,Kentucky","Dinwiddie County,Virginia",31315,933011
+228,"Owen County,Kentucky","Essex County,Virginia",32149,931804
+229,"Owen County,Kentucky","Fairfax County,Virginia",30966,925615
+230,"Owen County,Kentucky","Fauquier County,Virginia",29610,887225
+231,"Owen County,Kentucky","Floyd County,Virginia",22490,630560
+232,"Owen County,Kentucky","Fluvanna County,Virginia",26670,791087
+233,"Owen County,Kentucky","Franklin County,Virginia",24763,694263
+234,"Owen County,Kentucky","Frederick County,Virginia",27838,780108
+235,"Owen County,Kentucky","Giles County,Virginia",19354,553716
+236,"Owen County,Kentucky","Gloucester County,Virginia",32603,958984
+237,"Owen County,Kentucky","Goochland County,Virginia",27574,821698
+238,"Owen County,Kentucky","Grayson County,Virginia",21272,601303
+239,"Owen County,Kentucky","Greene County,Virginia",26985,774500
+240,"Owen County,Kentucky","Greensville County,Virginia",32731,981763
+241,"Owen County,Kentucky","Halifax County,Virginia",29172,809283
+242,"Owen County,Kentucky","Hanover County,Virginia",28780,862805
+243,"Owen County,Kentucky","Henrico County,Virginia",29291,875765
+244,"Owen County,Kentucky","Henry County,Virginia",24742,698317
+245,"Owen County,Kentucky","Highland County,Virginia",24118,661219
+246,"Owen County,Kentucky","Isle of Wight County,Virginia",33544,980342
+247,"Owen County,Kentucky","James City County,Virginia",31668,945567
+248,"Owen County,Kentucky","King and Queen County,Virginia",31326,921151
+249,"Owen County,Kentucky","King George County,Virginia",31445,935747
+250,"Owen County,Kentucky","King William County,Virginia",30014,891073
+251,"Owen County,Kentucky","Lancaster County,Virginia",33806,974158
+252,"Owen County,Kentucky","Lee County,Virginia",13826,355376
+253,"Owen County,Kentucky","Loudoun County,Virginia",30668,901840
+254,"Owen County,Kentucky","Louisa County,Virginia",27231,804793
+255,"Owen County,Kentucky","Lunenburg County,Virginia",30240,840468
+256,"Owen County,Kentucky","Madison County,Virginia",27905,804240
+257,"Owen County,Kentucky","Mathews County,Virginia",33428,982408
+258,"Owen County,Kentucky","Mecklenburg County,Virginia",31231,853593
+259,"Owen County,Kentucky","Middlesex County,Virginia",32204,955184
+260,"Owen County,Kentucky","Montgomery County,Virginia",20437,581723
+261,"Owen County,Kentucky","Nelson County,Virginia",25531,718596
+262,"Owen County,Kentucky","New Kent County,Virginia",31104,919481
+263,"Owen County,Kentucky","Northampton County,Virginia",36085,1062230
+264,"Owen County,Kentucky","Northumberland County,Virginia",33846,972671
+265,"Owen County,Kentucky","Nottoway County,Virginia",29733,840848
+266,"Owen County,Kentucky","Orange County,Virginia",28194,812901
+267,"Owen County,Kentucky","Page County,Virginia",26839,788026
+268,"Owen County,Kentucky","Patrick County,Virginia",22974,656631
+269,"Owen County,Kentucky","Pittsylvania County,Virginia",27058,752525
+270,"Owen County,Kentucky","Powhatan County,Virginia",28827,846920
+271,"Owen County,Kentucky","Prince Edward County,Virginia",28348,798183
+272,"Owen County,Kentucky","Prince George County,Virginia",31079,919595
+273,"Owen County,Kentucky","Prince William County,Virginia",29710,893329
+274,"Owen County,Kentucky","Pulaski County,Virginia",20532,578055
+275,"Owen County,Kentucky","Rappahannock County,Virginia",28670,824513
+276,"Owen County,Kentucky","Richmond County,Virginia",32546,945314
+277,"Owen County,Kentucky","Roanoke County,Virginia",22057,624517
+278,"Owen County,Kentucky","Rockbridge County,Virginia",21994,644295
+279,"Owen County,Kentucky","Rockingham County,Virginia",25878,760376
+280,"Owen County,Kentucky","Russell County,Virginia",17549,403682
+281,"Owen County,Kentucky","Scott County,Virginia",16145,403217
+282,"Owen County,Kentucky","Shenandoah County,Virginia",26382,790479
+283,"Owen County,Kentucky","Smyth County,Virginia",19659,486170
+284,"Owen County,Kentucky","Southampton County,Virginia",33109,977877
+285,"Owen County,Kentucky","Spotsylvania County,Virginia",29247,846632
+286,"Owen County,Kentucky","Stafford County,Virginia",30628,870925
+287,"Owen County,Kentucky","Surry County,Virginia",32412,944428
+288,"Owen County,Kentucky","Sussex County,Virginia",31773,948120
+289,"Owen County,Kentucky","Tazewell County,Virginia",18263,441907
+290,"Owen County,Kentucky","Warren County,Virginia",28285,835072
+291,"Owen County,Kentucky","Washington County,Virginia",17770,437287
+292,"Owen County,Kentucky","Westmoreland County,Virginia",32419,952572
+293,"Owen County,Kentucky","Wise County,Virginia",13637,346468
+294,"Owen County,Kentucky","Wythe County,Virginia",19228,560375
+295,"Owen County,Kentucky","York County,Virginia",32956,976341
+296,"Owen County,Kentucky","Alexandria City County,Virginia",31791,952129
+297,"Owen County,Kentucky","Bedford City County,Virginia",24414,684461
+298,"Owen County,Kentucky","Bristol City County,Virginia",18099,444544
+299,"Owen County,Kentucky","Buena Vista City County,Virginia",22349,658272
+300,"Owen County,Kentucky","Charlottesville City County,Virginia",25462,754130
+301,"Owen County,Kentucky","Chesapeake City County,Virginia",34419,1029247
+302,"Owen County,Kentucky","Clifton Forge City County,Virginia",20205,596145
+303,"Owen County,Kentucky","Colonial Heights City County,Virginia",30128,898472
+304,"Owen County,Kentucky","Covington City County,Virginia",19730,579524
+305,"Owen County,Kentucky","Danville City County,Virginia",26900,752773
+306,"Owen County,Kentucky","Emporia City County,Virginia",32439,968356
+307,"Owen County,Kentucky","Fairfax City County,Virginia",30843,919076
+308,"Owen County,Kentucky","Falls Church City County,Virginia",30984,929260
+309,"Owen County,Kentucky","Franklin City County,Virginia",33657,985732
+310,"Owen County,Kentucky","Fredericksburg City County,Virginia",30380,856291
+311,"Owen County,Kentucky","Galax City County,Virginia",21492,617462
+312,"Owen County,Kentucky","Hampton City County,Virginia",32906,986048
+313,"Owen County,Kentucky","Harrisonburg City County,Virginia",24937,740272
+314,"Owen County,Kentucky","Hopewell City County,Virginia",30164,897438
+315,"Owen County,Kentucky","Lexington City County,Virginia",21983,646764
+316,"Owen County,Kentucky","Lynchburg City County,Virginia",25566,721878
+317,"Owen County,Kentucky","Manassas City County,Virginia",29938,898273
+318,"Owen County,Kentucky","Manassas Park City County,Virginia",30440,904617
+319,"Owen County,Kentucky","Martinsville City County,Virginia",25270,707110
+320,"Owen County,Kentucky","Newport News City County,Virginia",32463,972533
+321,"Owen County,Kentucky","Norfolk City County,Virginia",34212,1011463
+322,"Owen County,Kentucky","Norton City County,Virginia",14265,358280
+323,"Owen County,Kentucky","Petersburg City County,Virginia",30000,899460
+324,"Owen County,Kentucky","Poquoson City County,Virginia",33134,983110
+325,"Owen County,Kentucky","Portsmouth City County,Virginia",34151,1020284
+326,"Owen County,Kentucky","Radford County,Virginia",20845,579764
+327,"Owen County,Kentucky","Richmond City County,Virginia",28868,863575
+328,"Owen County,Kentucky","Roanoke City County,Virginia",22659,644622
+329,"Owen County,Kentucky","Salem City County,Virginia",22071,631171
+330,"Owen County,Kentucky","South Boston City County,Virginia",28912,806951
+331,"Owen County,Kentucky","Staunton City County,Virginia",23754,701407
+332,"Owen County,Kentucky","Suffolk City County,Virginia",34387,995066
+333,"Owen County,Kentucky","Virginia Beach City County,Virginia",34773,1034722
+334,"Owen County,Kentucky","Waynesboro City County,Virginia",24092,714125
+335,"Owen County,Kentucky","Williamsburg City County,Virginia",31507,944782
+336,"Owen County,Kentucky","Winchester City County,Virginia",28316,814109
+337,"Owen County,Kentucky","Barbour County,West Virginia",19797,574805
+338,"Owen County,Kentucky","Berkeley County,West Virginia",27730,812965
+339,"Owen County,Kentucky","Boone County,West Virginia",14976,408422
+340,"Owen County,Kentucky","Braxton County,West Virginia",16487,465785
+341,"Owen County,Kentucky","Brooke County,West Virginia",17712,492263
+342,"Owen County,Kentucky","Cabell County,West Virginia",9548,274931
+343,"Owen County,Kentucky","Calhoun County,West Virginia",16408,463469
+344,"Owen County,Kentucky","Clay County,West Virginia",15254,436697
+345,"Owen County,Kentucky","Doddridge County,West Virginia",18130,479482
+346,"Owen County,Kentucky","Fayette County,West Virginia",16541,455042
+347,"Owen County,Kentucky","Gilmer County,West Virginia",17686,487971
+348,"Owen County,Kentucky","Grant County,West Virginia",24153,676351
+349,"Owen County,Kentucky","Greenbrier County,West Virginia",19616,533080
+350,"Owen County,Kentucky","Hampshire County,West Virginia",26985,774568
+351,"Owen County,Kentucky","Hancock County,West Virginia",19301,526799
+352,"Owen County,Kentucky","Hardy County,West Virginia",25208,707848
+353,"Owen County,Kentucky","Harrison County,West Virginia",19031,561176
+354,"Owen County,Kentucky","Jackson County,West Virginia",14292,417801
+355,"Owen County,Kentucky","Jefferson County,West Virginia",29196,868963
+356,"Owen County,Kentucky","Kanawha County,West Virginia",13850,389105
+357,"Owen County,Kentucky","Lewis County,West Virginia",17660,514646
+358,"Owen County,Kentucky","Lincoln County,West Virginia",12765,332581
+359,"Owen County,Kentucky","Logan County,West Virginia",15021,376396
+360,"Owen County,Kentucky","McDowell County,West Virginia",18873,428584
+361,"Owen County,Kentucky","Marion County,West Virginia",20176,588343
+362,"Owen County,Kentucky","Marshall County,West Virginia",17669,486771
+363,"Owen County,Kentucky","Mason County,West Virginia",12529,365675
+364,"Owen County,Kentucky","Mercer County,West Virginia",17177,500665
+365,"Owen County,Kentucky","Mineral County,West Virginia",25847,705171
+366,"Owen County,Kentucky","Mingo County,West Virginia",13705,342849
+367,"Owen County,Kentucky","Monongalia County,West Virginia",20387,613812
+368,"Owen County,Kentucky","Monroe County,West Virginia",20222,545376
+369,"Owen County,Kentucky","Morgan County,West Virginia",27222,802356
+370,"Owen County,Kentucky","Nicholas County,West Virginia",16970,496578
+371,"Owen County,Kentucky","Ohio County,West Virginia",16731,473501
+372,"Owen County,Kentucky","Pendleton County,West Virginia",24484,678975
+373,"Owen County,Kentucky","Pleasants County,West Virginia",17019,439001
+374,"Owen County,Kentucky","Pocahontas County,West Virginia",22300,566117
+375,"Owen County,Kentucky","Preston County,West Virginia",22532,640543
+376,"Owen County,Kentucky","Putnam County,West Virginia",11231,327708
+377,"Owen County,Kentucky","Raleigh County,West Virginia",15718,454357
+378,"Owen County,Kentucky","Randolph County,West Virginia",20162,577101
+379,"Owen County,Kentucky","Ritchie County,West Virginia",17295,452524
+380,"Owen County,Kentucky","Roane County,West Virginia",15918,446616
+381,"Owen County,Kentucky","Summers County,West Virginia",19170,515795
+382,"Owen County,Kentucky","Taylor County,West Virginia",20069,583916
+383,"Owen County,Kentucky","Tucker County,West Virginia",21229,607626
+384,"Owen County,Kentucky","Tyler County,West Virginia",18928,478616
+385,"Owen County,Kentucky","Upshur County,West Virginia",19225,529343
+386,"Owen County,Kentucky","Wayne County,West Virginia",11078,296126
+387,"Owen County,Kentucky","Webster County,West Virginia",19155,523658
+388,"Owen County,Kentucky","Wetzel County,West Virginia",20141,500523
+389,"Owen County,Kentucky","Wirt County,West Virginia",16559,475139
+390,"Owen County,Kentucky","Wood County,West Virginia",15402,403889
+391,"Owen County,Kentucky","Wyoming County,West Virginia",17663,494299

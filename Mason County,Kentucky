@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Mason County,Kentucky","Adair County,Kentucky",11655,296242
+1,"Mason County,Kentucky","Allen County,Kentucky",13750,363599
+2,"Mason County,Kentucky","Anderson County,Kentucky",7012,166707
+3,"Mason County,Kentucky","Ballard County,Kentucky",19910,555761
+4,"Mason County,Kentucky","Barren County,Kentucky",12877,332011
+5,"Mason County,Kentucky","Bath County,Kentucky",4248,82220
+6,"Mason County,Kentucky","Bell County,Kentucky",12108,301079
+7,"Mason County,Kentucky","Boone County,Kentucky",4941,108015
+8,"Mason County,Kentucky","Bourbon County,Kentucky",3308,74014
+9,"Mason County,Kentucky","Boyd County,Kentucky",5551,130761
+10,"Mason County,Kentucky","Boyle County,Kentucky",8085,183759
+11,"Mason County,Kentucky","Bracken County,Kentucky",1453,27122
+12,"Mason County,Kentucky","Breathitt County,Kentucky",8551,193283
+13,"Mason County,Kentucky","Breckinridge County,Kentucky",12545,319388
+14,"Mason County,Kentucky","Bullitt County,Kentucky",9115,240508
+15,"Mason County,Kentucky","Butler County,Kentucky",13130,340669
+16,"Mason County,Kentucky","Caldwell County,Kentucky",16021,446614
+17,"Mason County,Kentucky","Calloway County,Kentucky",18831,531607
+18,"Mason County,Kentucky","Campbell County,Kentucky",3153,66994
+19,"Mason County,Kentucky","Carlisle County,Kentucky",20367,571129
+20,"Mason County,Kentucky","Carroll County,Kentucky",6514,169780
+21,"Mason County,Kentucky","Carter County,Kentucky",4975,113447
+22,"Mason County,Kentucky","Casey County,Kentucky",10009,213887
+23,"Mason County,Kentucky","Christian County,Kentucky",15670,441871
+24,"Mason County,Kentucky","Clay County,Kentucky",10340,260123
+25,"Mason County,Kentucky","Clinton County,Kentucky",12062,299607
+26,"Mason County,Kentucky","Crittenden County,Kentucky",17601,479684
+27,"Mason County,Kentucky","Cumberland County,Kentucky",12816,317846
+28,"Mason County,Kentucky","Daviess County,Kentucky",14152,387111
+29,"Mason County,Kentucky","Edmonson County,Kentucky",12570,328544
+30,"Mason County,Kentucky","Elliott County,Kentucky",6250,115846
+31,"Mason County,Kentucky","Estill County,Kentucky",6586,133663
+32,"Mason County,Kentucky","Fayette County,Kentucky",4738,103483
+33,"Mason County,Kentucky","Fleming County,Kentucky",2335,44361
+34,"Mason County,Kentucky","Floyd County,Kentucky",9785,201701
+35,"Mason County,Kentucky","Franklin County,Kentucky",6919,141506
+36,"Mason County,Kentucky","Fulton County,Kentucky",20771,592093
+37,"Mason County,Kentucky","Gallatin County,Kentucky",5726,142194
+38,"Mason County,Kentucky","Garrard County,Kentucky",7867,183927
+39,"Mason County,Kentucky","Grant County,Kentucky",5466,98159
+40,"Mason County,Kentucky","Graves County,Kentucky",19391,543835
+41,"Mason County,Kentucky","Grayson County,Kentucky",11457,297305
+42,"Mason County,Kentucky","Green County,Kentucky",11236,262510
+43,"Mason County,Kentucky","Greenup County,Kentucky",4550,104674
+44,"Mason County,Kentucky","Hancock County,Kentucky",13341,352281
+45,"Mason County,Kentucky","Hardin County,Kentucky",10333,259437
+46,"Mason County,Kentucky","Harlan County,Kentucky",14403,356684
+47,"Mason County,Kentucky","Harrison County,Kentucky",4195,83598
+48,"Mason County,Kentucky","Hart County,Kentucky",11132,287066
+49,"Mason County,Kentucky","Henderson County,Kentucky",16040,440258
+50,"Mason County,Kentucky","Henry County,Kentucky",7700,198103
+51,"Mason County,Kentucky","Hickman County,Kentucky",20400,572421
+52,"Mason County,Kentucky","Hopkins County,Kentucky",15480,421082
+53,"Mason County,Kentucky","Jackson County,Kentucky",8851,203910
+54,"Mason County,Kentucky","Jefferson County,Kentucky",8552,212368
+55,"Mason County,Kentucky","Jessamine County,Kentucky",6284,131706
+56,"Mason County,Kentucky","Johnson County,Kentucky",8647,181153
+57,"Mason County,Kentucky","Kenton County,Kentucky",4310,95709
+58,"Mason County,Kentucky","Knott County,Kentucky",10967,233583
+59,"Mason County,Kentucky","Knox County,Kentucky",10270,262820
+60,"Mason County,Kentucky","Larue County,Kentucky",10405,246613
+61,"Mason County,Kentucky","Laurel County,Kentucky",9121,234215
+62,"Mason County,Kentucky","Lawrence County,Kentucky",7488,157864
+63,"Mason County,Kentucky","Lee County,Kentucky",7800,169740
+64,"Mason County,Kentucky","Leslie County,Kentucky",12040,274828
+65,"Mason County,Kentucky","Letcher County,Kentucky",12264,281634
+66,"Mason County,Kentucky","Lewis County,Kentucky",3188,56016
+67,"Mason County,Kentucky","Lincoln County,Kentucky",8577,200846
+68,"Mason County,Kentucky","Livingston County,Kentucky",18197,496581
+69,"Mason County,Kentucky","Logan County,Kentucky",14870,383907
+70,"Mason County,Kentucky","Lyon County,Kentucky",18330,506972
+71,"Mason County,Kentucky","McCracken County,Kentucky",18522,523821
+72,"Mason County,Kentucky","McCreary County,Kentucky",11226,278656
+73,"Mason County,Kentucky","Madison County,Kentucky",6260,147797
+74,"Mason County,Kentucky","Magoffin County,Kentucky",8208,159562
+75,"Mason County,Kentucky","Marion County,Kentucky",8782,208222
+76,"Mason County,Kentucky","Marshall County,Kentucky",17937,507393
+77,"Mason County,Kentucky","Martin County,Kentucky",9422,223640
+78,"Mason County,Kentucky","Meade County,Kentucky",11012,284683
+79,"Mason County,Kentucky","Menifee County,Kentucky",5609,107348
+80,"Mason County,Kentucky","Mercer County,Kentucky",7159,163934
+81,"Mason County,Kentucky","Metcalfe County,Kentucky",12311,326506
+82,"Mason County,Kentucky","Monroe County,Kentucky",14343,326420
+83,"Mason County,Kentucky","Montgomery County,Kentucky",4745,93422
+84,"Mason County,Kentucky","Morgan County,Kentucky",6212,124672
+85,"Mason County,Kentucky","Muhlenberg County,Kentucky",14340,387558
+86,"Mason County,Kentucky","Nelson County,Kentucky",8390,207294
+87,"Mason County,Kentucky","Nicholas County,Kentucky",2487,52013
+88,"Mason County,Kentucky","Ohio County,Kentucky",13254,355148
+89,"Mason County,Kentucky","Oldham County,Kentucky",7815,211208
+90,"Mason County,Kentucky","Owen County,Kentucky",6797,127410
+91,"Mason County,Kentucky","Owsley County,Kentucky",8947,189717
+92,"Mason County,Kentucky","Pendleton County,Kentucky",3390,68046
+93,"Mason County,Kentucky","Perry County,Kentucky",10162,233166
+94,"Mason County,Kentucky","Pike County,Kentucky",11465,232026
+95,"Mason County,Kentucky","Powell County,Kentucky",6036,120426
+96,"Mason County,Kentucky","Robertson County,Kentucky",1961,25831
+97,"Mason County,Kentucky","Rockcastle County,Kentucky",7694,188939
+98,"Mason County,Kentucky","Rowan County,Kentucky",3820,77723
+99,"Mason County,Kentucky","Russell County,Kentucky",11259,280225
+100,"Mason County,Kentucky","Scott County,Kentucky",5148,112081
+101,"Mason County,Kentucky","Shelby County,Kentucky",7480,183503
+102,"Mason County,Kentucky","Simpson County,Kentucky",14451,391964
+103,"Mason County,Kentucky","Spencer County,Kentucky",8010,189351
+104,"Mason County,Kentucky","Taylor County,Kentucky",10072,239718
+105,"Mason County,Kentucky","Todd County,Kentucky",16106,408068
+106,"Mason County,Kentucky","Trigg County,Kentucky",17084,467800
+107,"Mason County,Kentucky","Trimble County,Kentucky",7413,193105
+108,"Mason County,Kentucky","Union County,Kentucky",17759,470705
+109,"Mason County,Kentucky","Warren County,Kentucky",13486,356913
+110,"Mason County,Kentucky","Washington County,Kentucky",8400,192530
+111,"Mason County,Kentucky","Wayne County,Kentucky",11435,277298
+112,"Mason County,Kentucky","Webster County,Kentucky",16589,449171
+113,"Mason County,Kentucky","Whitley County,Kentucky",9954,268700
+114,"Mason County,Kentucky","Wolfe County,Kentucky",7306,148034
+115,"Mason County,Kentucky","Woodford County,Kentucky",5873,134863
+116,"Mason County,Kentucky","Adams County,Ohio",3718,57308
+117,"Mason County,Kentucky","Allen County,Ohio",11403,305695
+118,"Mason County,Kentucky","Ashland County,Ohio",14112,352394
+119,"Mason County,Kentucky","Ashtabula County,Ohio",19858,537145
+120,"Mason County,Kentucky","Athens County,Ohio",9250,206013
+121,"Mason County,Kentucky","Auglaize County,Ohio",10659,292960
+122,"Mason County,Kentucky","Belmont County,Ohio",15450,398825
+123,"Mason County,Kentucky","Brown County,Ohio",2729,51531
+124,"Mason County,Kentucky","Butler County,Ohio",6480,155569
+125,"Mason County,Kentucky","Carroll County,Ohio",17414,436049
+126,"Mason County,Kentucky","Champaign County,Ohio",9437,247142
+127,"Mason County,Kentucky","Clark County,Ohio",8836,175568
+128,"Mason County,Kentucky","Clermont County,Ohio",4550,92931
+129,"Mason County,Kentucky","Clinton County,Ohio",5426,111421
+130,"Mason County,Kentucky","Columbiana County,Ohio",18971,471638
+131,"Mason County,Kentucky","Coshocton County,Ohio",13973,331466
+132,"Mason County,Kentucky","Crawford County,Ohio",13726,320851
+133,"Mason County,Kentucky","Cuyahoga County,Ohio",16430,434858
+134,"Mason County,Kentucky","Darke County,Ohio",9756,250007
+135,"Mason County,Kentucky","Defiance County,Ohio",14890,384125
+136,"Mason County,Kentucky","Delaware County,Ohio",11029,259065
+137,"Mason County,Kentucky","Fairfield County,Ohio",10364,213721
+138,"Mason County,Kentucky","Fayette County,Ohio",6882,135717
+139,"Mason County,Kentucky","Franklin County,Ohio",9546,218993
+140,"Mason County,Kentucky","Fulton County,Ohio",15653,401069
+141,"Mason County,Kentucky","Gallia County,Ohio",8147,178190
+142,"Mason County,Kentucky","Geauga County,Ohio",17958,474077
+143,"Mason County,Kentucky","Greene County,Ohio",7249,147351
+144,"Mason County,Kentucky","Guernsey County,Ohio",13179,332506
+145,"Mason County,Kentucky","Hamilton County,Ohio",5135,120054
+146,"Mason County,Kentucky","Hancock County,Ohio",12512,346591
+147,"Mason County,Kentucky","Hardin County,Ohio",12299,330988
+148,"Mason County,Kentucky","Harrison County,Ohio",16420,418115
+149,"Mason County,Kentucky","Henry County,Ohio",14236,371059
+150,"Mason County,Kentucky","Highland County,Ohio",4876,96734
+151,"Mason County,Kentucky","Hocking County,Ohio",9974,200009
+152,"Mason County,Kentucky","Holmes County,Ohio",15523,368324
+153,"Mason County,Kentucky","Huron County,Ohio",15258,351164
+154,"Mason County,Kentucky","Jackson County,Ohio",6648,140383
+155,"Mason County,Kentucky","Jefferson County,Ohio",17413,427892
+156,"Mason County,Kentucky","Knox County,Ohio",13479,318687
+157,"Mason County,Kentucky","Lawrence County,Ohio",6637,145116
+158,"Mason County,Kentucky","Licking County,Ohio",11811,273911
+159,"Mason County,Kentucky","Logan County,Ohio",10671,279679
+160,"Mason County,Kentucky","Lorain County,Ohio",17044,409818
+161,"Mason County,Kentucky","Lucas County,Ohio",15837,433110
+162,"Mason County,Kentucky","Madison County,Ohio",8966,195662
+163,"Mason County,Kentucky","Mahoning County,Ohio",18828,488777
+164,"Mason County,Kentucky","Marion County,Ohio",12286,279681
+165,"Mason County,Kentucky","Medina County,Ohio",14757,377406
+166,"Mason County,Kentucky","Meigs County,Ohio",9931,217828
+167,"Mason County,Kentucky","Mercer County,Ohio",11894,319894
+168,"Mason County,Kentucky","Miami County,Ohio",8245,215399
+169,"Mason County,Kentucky","Monroe County,Ohio",15623,358814
+170,"Mason County,Kentucky","Montgomery County,Ohio",7628,193139
+171,"Mason County,Kentucky","Morgan County,Ohio",12370,266060
+172,"Mason County,Kentucky","Morrow County,Ohio",11836,281886
+173,"Mason County,Kentucky","Muskingum County,Ohio",12029,298662
+174,"Mason County,Kentucky","Noble County,Ohio",14129,341975
+175,"Mason County,Kentucky","Paulding County,Ohio",13934,368673
+176,"Mason County,Kentucky","Perry County,Ohio",11546,230964
+177,"Mason County,Kentucky","Pickaway County,Ohio",8576,180124
+178,"Mason County,Kentucky","Pike County,Ohio",5424,105368
+179,"Mason County,Kentucky","Portage County,Ohio",17279,448556
+180,"Mason County,Kentucky","Preble County,Ohio",8525,199968
+181,"Mason County,Kentucky","Putnam County,Ohio",12577,338163
+182,"Mason County,Kentucky","Richland County,Ohio",12866,317125
+183,"Mason County,Kentucky","Ross County,Ohio",7320,146430
+184,"Mason County,Kentucky","Sandusky County,Ohio",15552,426666
+185,"Mason County,Kentucky","Scioto County,Ohio",5290,116695
+186,"Mason County,Kentucky","Seneca County,Ohio",14856,402930
+187,"Mason County,Kentucky","Shelby County,Ohio",9283,251684
+188,"Mason County,Kentucky","Stark County,Ohio",17024,432940
+189,"Mason County,Kentucky","Summit County,Ohio",15960,412734
+190,"Mason County,Kentucky","Trumbull County,Ohio",18860,499048
+191,"Mason County,Kentucky","Tuscarawas County,Ohio",15474,391871
+192,"Mason County,Kentucky","Union County,Ohio",10547,222296
+193,"Mason County,Kentucky","Van Wert County,Ohio",12568,338218
+194,"Mason County,Kentucky","Vinton County,Ohio",9024,180226
+195,"Mason County,Kentucky","Warren County,Ohio",5813,142274
+196,"Mason County,Kentucky","Washington County,Ohio",12283,286110
+197,"Mason County,Kentucky","Wayne County,Ohio",14485,366404
+198,"Mason County,Kentucky","Williams County,Ohio",16067,407642
+199,"Mason County,Kentucky","Wood County,Ohio",13600,387219
+200,"Mason County,Kentucky","Wyandot County,Ohio",13207,367471
+201,"Mason County,Kentucky","Accomack County,Virginia",35637,1004629
+202,"Mason County,Kentucky","Albemarle County,Virginia",21786,617129
+203,"Mason County,Kentucky","Alleghany County,Virginia",16455,454152
+204,"Mason County,Kentucky","Amelia County,Virginia",26487,717247
+205,"Mason County,Kentucky","Amherst County,Virginia",21784,585118
+206,"Mason County,Kentucky","Appomattox County,Virginia",23377,623877
+207,"Mason County,Kentucky","Arlington County,Virginia",28069,813161
+208,"Mason County,Kentucky","Augusta County,Virginia",20397,555468
+209,"Mason County,Kentucky","Bath County,Virginia",19467,529461
+210,"Mason County,Kentucky","Bedford County,Virginia",22044,571242
+211,"Mason County,Kentucky","Bland County,Virginia",15417,420371
+212,"Mason County,Kentucky","Botetourt County,Virginia",19610,525451
+213,"Mason County,Kentucky","Brunswick County,Virginia",29030,766920
+214,"Mason County,Kentucky","Buchanan County,Virginia",15517,311532
+215,"Mason County,Kentucky","Buckingham County,Virginia",23660,634812
+216,"Mason County,Kentucky","Campbell County,Virginia",23301,626349
+217,"Mason County,Kentucky","Caroline County,Virginia",27126,785974
+218,"Mason County,Kentucky","Carroll County,Virginia",17663,489809
+219,"Mason County,Kentucky","Charles City County,Virginia",27226,783009
+220,"Mason County,Kentucky","Charlotte County,Virginia",25262,677397
+221,"Mason County,Kentucky","Chesterfield County,Virginia",26362,760793
+222,"Mason County,Kentucky","Clarke County,Virginia",25966,744187
+223,"Mason County,Kentucky","Craig County,Virginia",18098,475237
+224,"Mason County,Kentucky","Culpeper County,Virginia",25584,706345
+225,"Mason County,Kentucky","Cumberland County,Virginia",24870,662814
+226,"Mason County,Kentucky","Dickenson County,Virginia",15325,317029
+227,"Mason County,Kentucky","Dinwiddie County,Virginia",28109,811224
+228,"Mason County,Kentucky","Essex County,Virginia",28943,810017
+229,"Mason County,Kentucky","Fairfax County,Virginia",27760,803828
+230,"Mason County,Kentucky","Fauquier County,Virginia",26404,765438
+231,"Mason County,Kentucky","Floyd County,Virginia",19284,508773
+232,"Mason County,Kentucky","Fluvanna County,Virginia",23464,669300
+233,"Mason County,Kentucky","Franklin County,Virginia",21557,572476
+234,"Mason County,Kentucky","Frederick County,Virginia",24632,658321
+235,"Mason County,Kentucky","Giles County,Virginia",16148,431930
+236,"Mason County,Kentucky","Gloucester County,Virginia",29397,837197
+237,"Mason County,Kentucky","Goochland County,Virginia",24368,699911
+238,"Mason County,Kentucky","Grayson County,Virginia",18066,479516
+239,"Mason County,Kentucky","Greene County,Virginia",23779,652713
+240,"Mason County,Kentucky","Greensville County,Virginia",29525,859976
+241,"Mason County,Kentucky","Halifax County,Virginia",25966,687496
+242,"Mason County,Kentucky","Hanover County,Virginia",25574,741018
+243,"Mason County,Kentucky","Henrico County,Virginia",26085,753978
+244,"Mason County,Kentucky","Henry County,Virginia",21536,576530
+245,"Mason County,Kentucky","Highland County,Virginia",20912,539432
+246,"Mason County,Kentucky","Isle of Wight County,Virginia",30338,858555
+247,"Mason County,Kentucky","James City County,Virginia",28462,823780
+248,"Mason County,Kentucky","King and Queen County,Virginia",28120,799364
+249,"Mason County,Kentucky","King George County,Virginia",28239,813961
+250,"Mason County,Kentucky","King William County,Virginia",26808,769286
+251,"Mason County,Kentucky","Lancaster County,Virginia",30600,852371
+252,"Mason County,Kentucky","Lee County,Virginia",15200,377638
+253,"Mason County,Kentucky","Loudoun County,Virginia",27462,780053
+254,"Mason County,Kentucky","Louisa County,Virginia",24025,683006
+255,"Mason County,Kentucky","Lunenburg County,Virginia",27034,718681
+256,"Mason County,Kentucky","Madison County,Virginia",24699,682453
+257,"Mason County,Kentucky","Mathews County,Virginia",30222,860621
+258,"Mason County,Kentucky","Mecklenburg County,Virginia",28025,731806
+259,"Mason County,Kentucky","Middlesex County,Virginia",28998,833398
+260,"Mason County,Kentucky","Montgomery County,Virginia",17231,459936
+261,"Mason County,Kentucky","Nelson County,Virginia",22325,596809
+262,"Mason County,Kentucky","New Kent County,Virginia",27898,797694
+263,"Mason County,Kentucky","Northampton County,Virginia",32879,940443
+264,"Mason County,Kentucky","Northumberland County,Virginia",30640,850884
+265,"Mason County,Kentucky","Nottoway County,Virginia",26527,719061
+266,"Mason County,Kentucky","Orange County,Virginia",24988,691114
+267,"Mason County,Kentucky","Page County,Virginia",23633,666239
+268,"Mason County,Kentucky","Patrick County,Virginia",19768,534845
+269,"Mason County,Kentucky","Pittsylvania County,Virginia",23852,630738
+270,"Mason County,Kentucky","Powhatan County,Virginia",25621,725133
+271,"Mason County,Kentucky","Prince Edward County,Virginia",25142,676397
+272,"Mason County,Kentucky","Prince George County,Virginia",27873,797808
+273,"Mason County,Kentucky","Prince William County,Virginia",26504,771542
+274,"Mason County,Kentucky","Pulaski County,Virginia",17326,456268
+275,"Mason County,Kentucky","Rappahannock County,Virginia",25464,702726
+276,"Mason County,Kentucky","Richmond County,Virginia",29340,823527
+277,"Mason County,Kentucky","Roanoke County,Virginia",18851,502730
+278,"Mason County,Kentucky","Rockbridge County,Virginia",18788,522508
+279,"Mason County,Kentucky","Rockingham County,Virginia",22672,638589
+280,"Mason County,Kentucky","Russell County,Virginia",17048,330081
+281,"Mason County,Kentucky","Scott County,Virginia",16801,364482
+282,"Mason County,Kentucky","Shenandoah County,Virginia",23176,668692
+283,"Mason County,Kentucky","Smyth County,Virginia",17775,485723
+284,"Mason County,Kentucky","Southampton County,Virginia",29903,856090
+285,"Mason County,Kentucky","Spotsylvania County,Virginia",26041,724845
+286,"Mason County,Kentucky","Stafford County,Virginia",27422,749138
+287,"Mason County,Kentucky","Surry County,Virginia",29206,822641
+288,"Mason County,Kentucky","Sussex County,Virginia",28567,826333
+289,"Mason County,Kentucky","Tazewell County,Virginia",16233,438959
+290,"Mason County,Kentucky","Warren County,Virginia",25079,713285
+291,"Mason County,Kentucky","Washington County,Virginia",17723,383746
+292,"Mason County,Kentucky","Westmoreland County,Virginia",29213,830785
+293,"Mason County,Kentucky","Wise County,Virginia",13589,292928
+294,"Mason County,Kentucky","Wythe County,Virginia",16022,438588
+295,"Mason County,Kentucky","York County,Virginia",29750,854554
+296,"Mason County,Kentucky","Alexandria City County,Virginia",28585,830342
+297,"Mason County,Kentucky","Bedford City County,Virginia",21208,562674
+298,"Mason County,Kentucky","Bristol City County,Virginia",18563,404633
+299,"Mason County,Kentucky","Buena Vista City County,Virginia",19143,536485
+300,"Mason County,Kentucky","Charlottesville City County,Virginia",22256,632343
+301,"Mason County,Kentucky","Chesapeake City County,Virginia",31213,907460
+302,"Mason County,Kentucky","Clifton Forge City County,Virginia",16999,474358
+303,"Mason County,Kentucky","Colonial Heights City County,Virginia",26922,776685
+304,"Mason County,Kentucky","Covington City County,Virginia",16524,457737
+305,"Mason County,Kentucky","Danville City County,Virginia",23694,630986
+306,"Mason County,Kentucky","Emporia City County,Virginia",29233,846569
+307,"Mason County,Kentucky","Fairfax City County,Virginia",27637,797289
+308,"Mason County,Kentucky","Falls Church City County,Virginia",27778,807473
+309,"Mason County,Kentucky","Franklin City County,Virginia",30451,863945
+310,"Mason County,Kentucky","Fredericksburg City County,Virginia",27174,734504
+311,"Mason County,Kentucky","Galax City County,Virginia",18286,495675
+312,"Mason County,Kentucky","Hampton City County,Virginia",29700,864261
+313,"Mason County,Kentucky","Harrisonburg City County,Virginia",21731,618485
+314,"Mason County,Kentucky","Hopewell City County,Virginia",26958,775651
+315,"Mason County,Kentucky","Lexington City County,Virginia",18777,524977
+316,"Mason County,Kentucky","Lynchburg City County,Virginia",22360,600091
+317,"Mason County,Kentucky","Manassas City County,Virginia",26732,776487
+318,"Mason County,Kentucky","Manassas Park City County,Virginia",27234,782830
+319,"Mason County,Kentucky","Martinsville City County,Virginia",22064,585323
+320,"Mason County,Kentucky","Newport News City County,Virginia",29257,850746
+321,"Mason County,Kentucky","Norfolk City County,Virginia",31006,889677
+322,"Mason County,Kentucky","Norton City County,Virginia",14218,304739
+323,"Mason County,Kentucky","Petersburg City County,Virginia",26794,777673
+324,"Mason County,Kentucky","Poquoson City County,Virginia",29928,861323
+325,"Mason County,Kentucky","Portsmouth City County,Virginia",30945,898497
+326,"Mason County,Kentucky","Radford County,Virginia",17639,457977
+327,"Mason County,Kentucky","Richmond City County,Virginia",25662,741788
+328,"Mason County,Kentucky","Roanoke City County,Virginia",19453,522835
+329,"Mason County,Kentucky","Salem City County,Virginia",18865,509385
+330,"Mason County,Kentucky","South Boston City County,Virginia",25706,685164
+331,"Mason County,Kentucky","Staunton City County,Virginia",20548,579620
+332,"Mason County,Kentucky","Suffolk City County,Virginia",31181,873279
+333,"Mason County,Kentucky","Virginia Beach City County,Virginia",31567,912935
+334,"Mason County,Kentucky","Waynesboro City County,Virginia",20886,592338
+335,"Mason County,Kentucky","Williamsburg City County,Virginia",28301,822996
+336,"Mason County,Kentucky","Winchester City County,Virginia",25110,692322
+337,"Mason County,Kentucky","Barbour County,West Virginia",16591,453019
+338,"Mason County,Kentucky","Berkeley County,West Virginia",24524,691178
+339,"Mason County,Kentucky","Boone County,West Virginia",11770,286635
+340,"Mason County,Kentucky","Braxton County,West Virginia",13281,343998
+341,"Mason County,Kentucky","Brooke County,West Virginia",17529,441073
+342,"Mason County,Kentucky","Cabell County,West Virginia",6342,153144
+343,"Mason County,Kentucky","Calhoun County,West Virginia",13202,341682
+344,"Mason County,Kentucky","Clay County,West Virginia",12048,314911
+345,"Mason County,Kentucky","Doddridge County,West Virginia",14622,352696
+346,"Mason County,Kentucky","Fayette County,West Virginia",13335,333255
+347,"Mason County,Kentucky","Gilmer County,West Virginia",14480,366184
+348,"Mason County,Kentucky","Grant County,West Virginia",20947,554564
+349,"Mason County,Kentucky","Greenbrier County,West Virginia",16410,411293
+350,"Mason County,Kentucky","Hampshire County,West Virginia",23779,652781
+351,"Mason County,Kentucky","Hancock County,West Virginia",19118,475609
+352,"Mason County,Kentucky","Hardy County,West Virginia",22002,586061
+353,"Mason County,Kentucky","Harrison County,West Virginia",15704,385690
+354,"Mason County,Kentucky","Jackson County,West Virginia",11086,296014
+355,"Mason County,Kentucky","Jefferson County,West Virginia",25990,747176
+356,"Mason County,Kentucky","Kanawha County,West Virginia",10644,267319
+357,"Mason County,Kentucky","Lewis County,West Virginia",14454,392859
+358,"Mason County,Kentucky","Lincoln County,West Virginia",9559,210794
+359,"Mason County,Kentucky","Logan County,West Virginia",12089,283122
+360,"Mason County,Kentucky","McDowell County,West Virginia",16494,356188
+361,"Mason County,Kentucky","Marion County,West Virginia",16970,466557
+362,"Mason County,Kentucky","Marshall County,West Virginia",17486,435581
+363,"Mason County,Kentucky","Mason County,West Virginia",9178,212654
+364,"Mason County,Kentucky","Mercer County,West Virginia",13971,378878
+365,"Mason County,Kentucky","Mineral County,West Virginia",22641,583385
+366,"Mason County,Kentucky","Mingo County,West Virginia",10772,249575
+367,"Mason County,Kentucky","Monongalia County,West Virginia",17181,492025
+368,"Mason County,Kentucky","Monroe County,West Virginia",17016,423589
+369,"Mason County,Kentucky","Morgan County,West Virginia",24016,680570
+370,"Mason County,Kentucky","Nicholas County,West Virginia",13764,374791
+371,"Mason County,Kentucky","Ohio County,West Virginia",16547,422311
+372,"Mason County,Kentucky","Pendleton County,West Virginia",21278,557188
+373,"Mason County,Kentucky","Pleasants County,West Virginia",13511,312216
+374,"Mason County,Kentucky","Pocahontas County,West Virginia",19094,444330
+375,"Mason County,Kentucky","Preston County,West Virginia",19326,518756
+376,"Mason County,Kentucky","Putnam County,West Virginia",8025,205921
+377,"Mason County,Kentucky","Raleigh County,West Virginia",12512,332571
+378,"Mason County,Kentucky","Randolph County,West Virginia",16956,455314
+379,"Mason County,Kentucky","Ritchie County,West Virginia",13787,325738
+380,"Mason County,Kentucky","Roane County,West Virginia",12712,324829
+381,"Mason County,Kentucky","Summers County,West Virginia",15964,394008
+382,"Mason County,Kentucky","Taylor County,West Virginia",16863,462129
+383,"Mason County,Kentucky","Tucker County,West Virginia",18023,485839
+384,"Mason County,Kentucky","Tyler County,West Virginia",15420,351831
+385,"Mason County,Kentucky","Upshur County,West Virginia",16019,407556
+386,"Mason County,Kentucky","Wayne County,West Virginia",7872,174339
+387,"Mason County,Kentucky","Webster County,West Virginia",15949,401871
+388,"Mason County,Kentucky","Wetzel County,West Virginia",16632,373737
+389,"Mason County,Kentucky","Wirt County,West Virginia",13210,302373
+390,"Mason County,Kentucky","Wood County,West Virginia",11893,277103
+391,"Mason County,Kentucky","Wyoming County,West Virginia",14457,372512

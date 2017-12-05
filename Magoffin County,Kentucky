@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Magoffin County,Kentucky","Adair County,Kentucky",12101,279628
+1,"Magoffin County,Kentucky","Allen County,Kentucky",14930,417586
+2,"Magoffin County,Kentucky","Anderson County,Kentucky",8111,219977
+3,"Magoffin County,Kentucky","Ballard County,Kentucky",21089,609748
+4,"Magoffin County,Kentucky","Barren County,Kentucky",13847,338655
+5,"Magoffin County,Kentucky","Bath County,Kentucky",4973,96791
+6,"Magoffin County,Kentucky","Bell County,Kentucky",9958,221026
+7,"Magoffin County,Kentucky","Boone County,Kentucky",9819,271685
+8,"Magoffin County,Kentucky","Bourbon County,Kentucky",6113,153540
+9,"Magoffin County,Kentucky","Boyd County,Kentucky",4699,114587
+10,"Magoffin County,Kentucky","Boyle County,Kentucky",9340,223864
+11,"Magoffin County,Kentucky","Bracken County,Kentucky",8777,180075
+12,"Magoffin County,Kentucky","Breathitt County,Kentucky",3568,70966
+13,"Magoffin County,Kentucky","Breckinridge County,Kentucky",13644,372658
+14,"Magoffin County,Kentucky","Bullitt County,Kentucky",10214,293778
+15,"Magoffin County,Kentucky","Butler County,Kentucky",14309,394656
+16,"Magoffin County,Kentucky","Caldwell County,Kentucky",17201,500601
+17,"Magoffin County,Kentucky","Calloway County,Kentucky",20011,585594
+18,"Magoffin County,Kentucky","Campbell County,Kentucky",9807,238359
+19,"Magoffin County,Kentucky","Carlisle County,Kentucky",21546,625117
+20,"Magoffin County,Kentucky","Carroll County,Kentucky",10655,267792
+21,"Magoffin County,Kentucky","Carter County,Kentucky",5492,103301
+22,"Magoffin County,Kentucky","Casey County,Kentucky",10526,235555
+23,"Magoffin County,Kentucky","Christian County,Kentucky",16850,495858
+24,"Magoffin County,Kentucky","Clay County,Kentucky",7143,148534
+25,"Magoffin County,Kentucky","Clinton County,Kentucky",12509,282993
+26,"Magoffin County,Kentucky","Crittenden County,Kentucky",18781,533672
+27,"Magoffin County,Kentucky","Cumberland County,Kentucky",13262,301232
+28,"Magoffin County,Kentucky","Daviess County,Kentucky",15332,441099
+29,"Magoffin County,Kentucky","Edmonson County,Kentucky",13749,382531
+30,"Magoffin County,Kentucky","Elliott County,Kentucky",4577,81272
+31,"Magoffin County,Kentucky","Estill County,Kentucky",5016,120470
+32,"Magoffin County,Kentucky","Fayette County,Kentucky",5918,157470
+33,"Magoffin County,Kentucky","Fleming County,Kentucky",5995,118056
+34,"Magoffin County,Kentucky","Floyd County,Kentucky",2048,44694
+35,"Magoffin County,Kentucky","Franklin County,Kentucky",7956,206386
+36,"Magoffin County,Kentucky","Fulton County,Kentucky",21950,646081
+37,"Magoffin County,Kentucky","Gallatin County,Kentucky",9653,258450
+38,"Magoffin County,Kentucky","Garrard County,Kentucky",8214,184810
+39,"Magoffin County,Kentucky","Grant County,Kentucky",8452,232558
+40,"Magoffin County,Kentucky","Graves County,Kentucky",20571,597823
+41,"Magoffin County,Kentucky","Grayson County,Kentucky",12636,351292
+42,"Magoffin County,Kentucky","Green County,Kentucky",12416,316497
+43,"Magoffin County,Kentucky","Greenup County,Kentucky",6697,164994
+44,"Magoffin County,Kentucky","Hancock County,Kentucky",14440,405552
+45,"Magoffin County,Kentucky","Hardin County,Kentucky",11513,313425
+46,"Magoffin County,Kentucky","Harlan County,Kentucky",9281,201342
+47,"Magoffin County,Kentucky","Harrison County,Kentucky",7426,181879
+48,"Magoffin County,Kentucky","Hart County,Kentucky",12312,341053
+49,"Magoffin County,Kentucky","Henderson County,Kentucky",17139,493528
+50,"Magoffin County,Kentucky","Henry County,Kentucky",9557,250105
+51,"Magoffin County,Kentucky","Hickman County,Kentucky",21580,626408
+52,"Magoffin County,Kentucky","Hopkins County,Kentucky",16660,475070
+53,"Magoffin County,Kentucky","Jackson County,Kentucky",6627,136692
+54,"Magoffin County,Kentucky","Jefferson County,Kentucky",9651,265638
+55,"Magoffin County,Kentucky","Jessamine County,Kentucky",7387,178934
+56,"Magoffin County,Kentucky","Johnson County,Kentucky",1002,20687
+57,"Magoffin County,Kentucky","Kenton County,Kentucky",9706,267401
+58,"Magoffin County,Kentucky","Knott County,Kentucky",3230,76576
+59,"Magoffin County,Kentucky","Knox County,Kentucky",8450,197900
+60,"Magoffin County,Kentucky","Larue County,Kentucky",11584,300601
+61,"Magoffin County,Kentucky","Laurel County,Kentucky",8385,176986
+62,"Magoffin County,Kentucky","Lawrence County,Kentucky",3123,61032
+63,"Magoffin County,Kentucky","Lee County,Kentucky",4001,86247
+64,"Magoffin County,Kentucky","Leslie County,Kentucky",6309,146249
+65,"Magoffin County,Kentucky","Letcher County,Kentucky",5085,114185
+66,"Magoffin County,Kentucky","Lewis County,Kentucky",6829,129471
+67,"Magoffin County,Kentucky","Lincoln County,Kentucky",8924,201728
+68,"Magoffin County,Kentucky","Livingston County,Kentucky",19376,550568
+69,"Magoffin County,Kentucky","Logan County,Kentucky",16049,437894
+70,"Magoffin County,Kentucky","Lyon County,Kentucky",19510,560959
+71,"Magoffin County,Kentucky","McCracken County,Kentucky",19702,577808
+72,"Magoffin County,Kentucky","McCreary County,Kentucky",10853,247385
+73,"Magoffin County,Kentucky","Madison County,Kentucky",6519,152486
+74,"Magoffin County,Kentucky","Marion County,Kentucky",9962,262210
+75,"Magoffin County,Kentucky","Marshall County,Kentucky",19116,561380
+76,"Magoffin County,Kentucky","Martin County,Kentucky",3788,79033
+77,"Magoffin County,Kentucky","Mason County,Kentucky",8126,159621
+78,"Magoffin County,Kentucky","Meade County,Kentucky",12111,337953
+79,"Magoffin County,Kentucky","Menifee County,Kentucky",4145,76754
+80,"Magoffin County,Kentucky","Mercer County,Kentucky",8339,217921
+81,"Magoffin County,Kentucky","Metcalfe County,Kentucky",12757,309892
+82,"Magoffin County,Kentucky","Monroe County,Kentucky",14727,347397
+83,"Magoffin County,Kentucky","Montgomery County,Kentucky",5114,117439
+84,"Magoffin County,Kentucky","Morgan County,Kentucky",2590,53741
+85,"Magoffin County,Kentucky","Muhlenberg County,Kentucky",15520,441546
+86,"Magoffin County,Kentucky","Nelson County,Kentucky",9570,261281
+87,"Magoffin County,Kentucky","Nicholas County,Kentucky",7420,181460
+88,"Magoffin County,Kentucky","Ohio County,Kentucky",14433,409135
+89,"Magoffin County,Kentucky","Oldham County,Kentucky",9722,277520
+90,"Magoffin County,Kentucky","Owen County,Kentucky",8777,233164
+91,"Magoffin County,Kentucky","Owsley County,Kentucky",5148,106223
+92,"Magoffin County,Kentucky","Pendleton County,Kentucky",8985,219007
+93,"Magoffin County,Kentucky","Perry County,Kentucky",4609,107134
+94,"Magoffin County,Kentucky","Pike County,Kentucky",3728,75018
+95,"Magoffin County,Kentucky","Powell County,Kentucky",3901,88724
+96,"Magoffin County,Kentucky","Robertson County,Kentucky",7977,160800
+97,"Magoffin County,Kentucky","Rockcastle County,Kentucky",8205,195388
+98,"Magoffin County,Kentucky","Rowan County,Kentucky",4413,82515
+99,"Magoffin County,Kentucky","Russell County,Kentucky",11706,263611
+100,"Magoffin County,Kentucky","Scott County,Kentucky",6752,185497
+101,"Magoffin County,Kentucky","Shelby County,Kentucky",8579,236773
+102,"Magoffin County,Kentucky","Simpson County,Kentucky",15631,445952
+103,"Magoffin County,Kentucky","Spencer County,Kentucky",9109,242621
+104,"Magoffin County,Kentucky","Taylor County,Kentucky",11252,293706
+105,"Magoffin County,Kentucky","Todd County,Kentucky",17286,462055
+106,"Magoffin County,Kentucky","Trigg County,Kentucky",18264,521787
+107,"Magoffin County,Kentucky","Trimble County,Kentucky",10796,283560
+108,"Magoffin County,Kentucky","Union County,Kentucky",18858,523975
+109,"Magoffin County,Kentucky","Warren County,Kentucky",14666,410900
+110,"Magoffin County,Kentucky","Washington County,Kentucky",9580,246518
+111,"Magoffin County,Kentucky","Wayne County,Kentucky",11882,260684
+112,"Magoffin County,Kentucky","Webster County,Kentucky",17769,503158
+113,"Magoffin County,Kentucky","Whitley County,Kentucky",9218,211471
+114,"Magoffin County,Kentucky","Wolfe County,Kentucky",2504,54492
+115,"Magoffin County,Kentucky","Woodford County,Kentucky",6972,188133
+116,"Magoffin County,Kentucky","Adams County,Ohio",10034,193828
+117,"Magoffin County,Kentucky","Allen County,Ohio",17125,493295
+118,"Magoffin County,Kentucky","Ashland County,Ohio",18176,451507
+119,"Magoffin County,Kentucky","Ashtabula County,Ohio",23184,683547
+120,"Magoffin County,Kentucky","Athens County,Ohio",10497,255900
+121,"Magoffin County,Kentucky","Auglaize County,Ohio",16381,480559
+122,"Magoffin County,Kentucky","Belmont County,Ohio",16247,472471
+123,"Magoffin County,Kentucky","Brown County,Ohio",9462,189105
+124,"Magoffin County,Kentucky","Butler County,Ohio",12203,343169
+125,"Magoffin County,Kentucky","Carroll County,Ohio",18177,509358
+126,"Magoffin County,Kentucky","Champaign County,Ohio",15159,434741
+127,"Magoffin County,Kentucky","Clark County,Ohio",14341,338161
+128,"Magoffin County,Kentucky","Clermont County,Ohio",10953,314347
+129,"Magoffin County,Kentucky","Clinton County,Ohio",12158,248995
+130,"Magoffin County,Kentucky","Columbiana County,Ohio",20019,563593
+131,"Magoffin County,Kentucky","Coshocton County,Ohio",16812,480474
+132,"Magoffin County,Kentucky","Crawford County,Ohio",17790,419965
+133,"Magoffin County,Kentucky","Cuyahoga County,Ohio",20213,594762
+134,"Magoffin County,Kentucky","Darke County,Ohio",15479,437606
+135,"Magoffin County,Kentucky","Defiance County,Ohio",20613,571725
+136,"Magoffin County,Kentucky","Delaware County,Ohio",15093,358179
+137,"Magoffin County,Kentucky","Fairfield County,Ohio",13637,310002
+138,"Magoffin County,Kentucky","Fayette County,Ohio",12409,296306
+139,"Magoffin County,Kentucky","Franklin County,Ohio",13610,318106
+140,"Magoffin County,Kentucky","Fulton County,Ohio",21376,588668
+141,"Magoffin County,Kentucky","Gallia County,Ohio",8455,198253
+142,"Magoffin County,Kentucky","Geauga County,Ohio",21285,620479
+143,"Magoffin County,Kentucky","Greene County,Ohio",13279,329458
+144,"Magoffin County,Kentucky","Guernsey County,Ohio",14363,418393
+145,"Magoffin County,Kentucky","Hamilton County,Ohio",10857,307653
+146,"Magoffin County,Kentucky","Hancock County,Ohio",18234,534190
+147,"Magoffin County,Kentucky","Hardin County,Ohio",17618,415648
+148,"Magoffin County,Kentucky","Harrison County,Ohio",17182,491423
+149,"Magoffin County,Kentucky","Henry County,Ohio",19958,558658
+150,"Magoffin County,Kentucky","Highland County,Ohio",11609,234308
+151,"Magoffin County,Kentucky","Hocking County,Ohio",12195,253308
+152,"Magoffin County,Kentucky","Holmes County,Ohio",17871,503359
+153,"Magoffin County,Kentucky","Huron County,Ohio",19322,450277
+154,"Magoffin County,Kentucky","Jackson County,Ohio",8874,202941
+155,"Magoffin County,Kentucky","Jefferson County,Ohio",18176,501201
+156,"Magoffin County,Kentucky","Knox County,Ohio",17542,417800
+157,"Magoffin County,Kentucky","Lawrence County,Ohio",6678,142856
+158,"Magoffin County,Kentucky","Licking County,Ohio",15614,365863
+159,"Magoffin County,Kentucky","Logan County,Ohio",16394,467278
+160,"Magoffin County,Kentucky","Lorain County,Ohio",21107,508931
+161,"Magoffin County,Kentucky","Lucas County,Ohio",21559,620710
+162,"Magoffin County,Kentucky","Madison County,Ohio",14110,319390
+163,"Magoffin County,Kentucky","Mahoning County,Ohio",20514,578398
+164,"Magoffin County,Kentucky","Marion County,Ohio",16350,378795
+165,"Magoffin County,Kentucky","Medina County,Ohio",18821,476520
+166,"Magoffin County,Kentucky","Meigs County,Ohio",9387,228636
+167,"Magoffin County,Kentucky","Mercer County,Ohio",17617,507493
+168,"Magoffin County,Kentucky","Miami County,Ohio",13967,402998
+169,"Magoffin County,Kentucky","Monroe County,Ohio",15299,407585
+170,"Magoffin County,Kentucky","Montgomery County,Ohio",13350,380738
+171,"Magoffin County,Kentucky","Morgan County,Ohio",13450,322925
+172,"Magoffin County,Kentucky","Morrow County,Ohio",15900,380999
+173,"Magoffin County,Kentucky","Muskingum County,Ohio",15164,344063
+174,"Magoffin County,Kentucky","Noble County,Ohio",13804,390745
+175,"Magoffin County,Kentucky","Paulding County,Ohio",19656,556273
+176,"Magoffin County,Kentucky","Perry County,Ohio",13715,321321
+177,"Magoffin County,Kentucky","Pickaway County,Ohio",11849,276404
+178,"Magoffin County,Kentucky","Pike County,Ohio",8943,205284
+179,"Magoffin County,Kentucky","Portage County,Ohio",19735,576344
+180,"Magoffin County,Kentucky","Preble County,Ohio",14247,387568
+181,"Magoffin County,Kentucky","Putnam County,Ohio",18300,525762
+182,"Magoffin County,Kentucky","Richland County,Ohio",16930,416238
+183,"Magoffin County,Kentucky","Ross County,Ohio",10593,242711
+184,"Magoffin County,Kentucky","Sandusky County,Ohio",20723,479752
+185,"Magoffin County,Kentucky","Scioto County,Ohio",8023,181922
+186,"Magoffin County,Kentucky","Seneca County,Ohio",19340,453636
+187,"Magoffin County,Kentucky","Shelby County,Ohio",15006,439284
+188,"Magoffin County,Kentucky","Stark County,Ohio",18036,524593
+189,"Magoffin County,Kentucky","Summit County,Ohio",18794,550381
+190,"Magoffin County,Kentucky","Trumbull County,Ohio",21469,604645
+191,"Magoffin County,Kentucky","Tuscarawas County,Ohio",16236,465180
+192,"Magoffin County,Kentucky","Union County,Ohio",15143,360156
+193,"Magoffin County,Kentucky","Van Wert County,Ohio",18290,525818
+194,"Magoffin County,Kentucky","Vinton County,Ohio",11134,229720
+195,"Magoffin County,Kentucky","Warren County,Ohio",11737,333910
+196,"Magoffin County,Kentucky","Washington County,Ohio",12423,300585
+197,"Magoffin County,Kentucky","Wayne County,Ohio",18549,465517
+198,"Magoffin County,Kentucky","Williams County,Ohio",21790,595241
+199,"Magoffin County,Kentucky","Wood County,Ohio",19322,574818
+200,"Magoffin County,Kentucky","Wyandot County,Ohio",17937,425192
+201,"Magoffin County,Kentucky","Accomack County,Virginia",34255,971750
+202,"Magoffin County,Kentucky","Albemarle County,Virginia",20404,584249
+203,"Magoffin County,Kentucky","Alleghany County,Virginia",15073,421272
+204,"Magoffin County,Kentucky","Amelia County,Virginia",25093,640827
+205,"Magoffin County,Kentucky","Amherst County,Virginia",20402,552238
+206,"Magoffin County,Kentucky","Appomattox County,Virginia",21995,590997
+207,"Magoffin County,Kentucky","Arlington County,Virginia",26687,780281
+208,"Magoffin County,Kentucky","Augusta County,Virginia",19015,522589
+209,"Magoffin County,Kentucky","Bath County,Virginia",18085,496582
+210,"Magoffin County,Kentucky","Bedford County,Virginia",19903,491805
+211,"Magoffin County,Kentucky","Bland County,Virginia",12903,283097
+212,"Magoffin County,Kentucky","Botetourt County,Virginia",18228,492572
+213,"Magoffin County,Kentucky","Brunswick County,Virginia",27064,727921
+214,"Magoffin County,Kentucky","Buchanan County,Virginia",7780,154525
+215,"Magoffin County,Kentucky","Buckingham County,Virginia",22278,601932
+216,"Magoffin County,Kentucky","Campbell County,Virginia",21319,533041
+217,"Magoffin County,Kentucky","Caroline County,Virginia",25744,753095
+218,"Magoffin County,Kentucky","Carroll County,Virginia",14863,372752
+219,"Magoffin County,Kentucky","Charles City County,Virginia",25844,750129
+220,"Magoffin County,Kentucky","Charlotte County,Virginia",23868,600977
+221,"Magoffin County,Kentucky","Chesterfield County,Virginia",24980,727913
+222,"Magoffin County,Kentucky","Clarke County,Virginia",24584,711307
+223,"Magoffin County,Kentucky","Craig County,Virginia",16435,364038
+224,"Magoffin County,Kentucky","Culpeper County,Virginia",24202,673466
+225,"Magoffin County,Kentucky","Cumberland County,Virginia",23488,629935
+226,"Magoffin County,Kentucky","Dickenson County,Virginia",7588,160021
+227,"Magoffin County,Kentucky","Dinwiddie County,Virginia",26866,683888
+228,"Magoffin County,Kentucky","Essex County,Virginia",27561,777137
+229,"Magoffin County,Kentucky","Fairfax County,Virginia",26378,770948
+230,"Magoffin County,Kentucky","Fauquier County,Virginia",25022,732558
+231,"Magoffin County,Kentucky","Floyd County,Virginia",16755,412852
+232,"Magoffin County,Kentucky","Fluvanna County,Virginia",22082,636421
+233,"Magoffin County,Kentucky","Franklin County,Virginia",19416,493039
+234,"Magoffin County,Kentucky","Frederick County,Virginia",23250,625441
+235,"Magoffin County,Kentucky","Giles County,Virginia",14484,320730
+236,"Magoffin County,Kentucky","Gloucester County,Virginia",28015,804318
+237,"Magoffin County,Kentucky","Goochland County,Virginia",22986,667032
+238,"Magoffin County,Kentucky","Grayson County,Virginia",14596,335920
+239,"Magoffin County,Kentucky","Greene County,Virginia",22397,619833
+240,"Magoffin County,Kentucky","Greensville County,Virginia",28260,745340
+241,"Magoffin County,Kentucky","Halifax County,Virginia",23166,570439
+242,"Magoffin County,Kentucky","Hanover County,Virginia",24192,708138
+243,"Magoffin County,Kentucky","Henrico County,Virginia",24703,721098
+244,"Magoffin County,Kentucky","Henry County,Virginia",18736,459473
+245,"Magoffin County,Kentucky","Highland County,Virginia",19530,506552
+246,"Magoffin County,Kentucky","Isle of Wight County,Virginia",28956,825675
+247,"Magoffin County,Kentucky","James City County,Virginia",27080,790900
+248,"Magoffin County,Kentucky","King and Queen County,Virginia",26738,766484
+249,"Magoffin County,Kentucky","King George County,Virginia",26857,781081
+250,"Magoffin County,Kentucky","King William County,Virginia",25426,736407
+251,"Magoffin County,Kentucky","Lancaster County,Virginia",29218,819492
+252,"Magoffin County,Kentucky","Lee County,Virginia",8889,208537
+253,"Magoffin County,Kentucky","Loudoun County,Virginia",26080,747174
+254,"Magoffin County,Kentucky","Louisa County,Virginia",22643,650127
+255,"Magoffin County,Kentucky","Lunenburg County,Virginia",25640,642261
+256,"Magoffin County,Kentucky","Madison County,Virginia",23317,649574
+257,"Magoffin County,Kentucky","Mathews County,Virginia",28840,827741
+258,"Magoffin County,Kentucky","Mecklenburg County,Virginia",25199,621985
+259,"Magoffin County,Kentucky","Middlesex County,Virginia",27616,800518
+260,"Magoffin County,Kentucky","Montgomery County,Virginia",15567,348737
+261,"Magoffin County,Kentucky","Nelson County,Virginia",20943,563929
+262,"Magoffin County,Kentucky","New Kent County,Virginia",26516,764814
+263,"Magoffin County,Kentucky","Northampton County,Virginia",31497,907564
+264,"Magoffin County,Kentucky","Northumberland County,Virginia",29258,818004
+265,"Magoffin County,Kentucky","Nottoway County,Virginia",25133,642641
+266,"Magoffin County,Kentucky","Orange County,Virginia",23606,658234
+267,"Magoffin County,Kentucky","Page County,Virginia",22251,633359
+268,"Magoffin County,Kentucky","Patrick County,Virginia",16969,417788
+269,"Magoffin County,Kentucky","Pittsylvania County,Virginia",21052,513681
+270,"Magoffin County,Kentucky","Powhatan County,Virginia",24239,692253
+271,"Magoffin County,Kentucky","Prince Edward County,Virginia",23748,599976
+272,"Magoffin County,Kentucky","Prince George County,Virginia",26491,764929
+273,"Magoffin County,Kentucky","Prince William County,Virginia",25122,738662
+274,"Magoffin County,Kentucky","Pulaski County,Virginia",14606,364173
+275,"Magoffin County,Kentucky","Rappahannock County,Virginia",24082,669846
+276,"Magoffin County,Kentucky","Richmond County,Virginia",27958,790648
+277,"Magoffin County,Kentucky","Roanoke County,Virginia",16710,423293
+278,"Magoffin County,Kentucky","Rockbridge County,Virginia",17406,489628
+279,"Magoffin County,Kentucky","Rockingham County,Virginia",21290,605709
+280,"Magoffin County,Kentucky","Russell County,Virginia",9311,173074
+281,"Magoffin County,Kentucky","Scott County,Virginia",9064,207475
+282,"Magoffin County,Kentucky","Shenandoah County,Virginia",21794,635813
+283,"Magoffin County,Kentucky","Smyth County,Virginia",11875,275622
+284,"Magoffin County,Kentucky","Southampton County,Virginia",28521,823210
+285,"Magoffin County,Kentucky","Spotsylvania County,Virginia",24659,691965
+286,"Magoffin County,Kentucky","Stafford County,Virginia",26040,716258
+287,"Magoffin County,Kentucky","Surry County,Virginia",27824,789762
+288,"Magoffin County,Kentucky","Sussex County,Virginia",27185,793453
+289,"Magoffin County,Kentucky","Tazewell County,Virginia",10024,211299
+290,"Magoffin County,Kentucky","Warren County,Virginia",23697,680405
+291,"Magoffin County,Kentucky","Washington County,Virginia",9986,226739
+292,"Magoffin County,Kentucky","Westmoreland County,Virginia",27831,797906
+293,"Magoffin County,Kentucky","Wise County,Virginia",5853,135920
+294,"Magoffin County,Kentucky","Wythe County,Virginia",13089,318082
+295,"Magoffin County,Kentucky","York County,Virginia",28368,821675
+296,"Magoffin County,Kentucky","Alexandria City County,Virginia",27203,797463
+297,"Magoffin County,Kentucky","Bedford City County,Virginia",19068,483237
+298,"Magoffin County,Kentucky","Bristol City County,Virginia",10826,247625
+299,"Magoffin County,Kentucky","Buena Vista City County,Virginia",17761,503606
+300,"Magoffin County,Kentucky","Charlottesville City County,Virginia",20874,599464
+301,"Magoffin County,Kentucky","Chesapeake City County,Virginia",29831,874580
+302,"Magoffin County,Kentucky","Clifton Forge City County,Virginia",15617,441479
+303,"Magoffin County,Kentucky","Colonial Heights City County,Virginia",25540,743805
+304,"Magoffin County,Kentucky","Covington City County,Virginia",15142,424858
+305,"Magoffin County,Kentucky","Danville City County,Virginia",20894,513929
+306,"Magoffin County,Kentucky","Emporia City County,Virginia",27851,813690
+307,"Magoffin County,Kentucky","Fairfax City County,Virginia",26255,764410
+308,"Magoffin County,Kentucky","Falls Church City County,Virginia",26396,774593
+309,"Magoffin County,Kentucky","Franklin City County,Virginia",29069,831065
+310,"Magoffin County,Kentucky","Fredericksburg City County,Virginia",25792,701625
+311,"Magoffin County,Kentucky","Galax City County,Virginia",15487,378618
+312,"Magoffin County,Kentucky","Hampton City County,Virginia",28318,831381
+313,"Magoffin County,Kentucky","Harrisonburg City County,Virginia",20349,585606
+314,"Magoffin County,Kentucky","Hopewell City County,Virginia",25576,742772
+315,"Magoffin County,Kentucky","Lexington City County,Virginia",17395,492097
+316,"Magoffin County,Kentucky","Lynchburg City County,Virginia",20978,567212
+317,"Magoffin County,Kentucky","Manassas City County,Virginia",25350,743607
+318,"Magoffin County,Kentucky","Manassas Park City County,Virginia",25852,749950
+319,"Magoffin County,Kentucky","Martinsville City County,Virginia",19264,468266
+320,"Magoffin County,Kentucky","Newport News City County,Virginia",27875,817867
+321,"Magoffin County,Kentucky","Norfolk City County,Virginia",29624,856797
+322,"Magoffin County,Kentucky","Norton City County,Virginia",6481,147732
+323,"Magoffin County,Kentucky","Petersburg City County,Virginia",25412,744793
+324,"Magoffin County,Kentucky","Poquoson City County,Virginia",28546,828443
+325,"Magoffin County,Kentucky","Portsmouth City County,Virginia",29563,865618
+326,"Magoffin County,Kentucky","Radford County,Virginia",15116,378121
+327,"Magoffin County,Kentucky","Richmond City County,Virginia",24280,708908
+328,"Magoffin County,Kentucky","Roanoke City County,Virginia",17312,443398
+329,"Magoffin County,Kentucky","Salem City County,Virginia",16724,429948
+330,"Magoffin County,Kentucky","South Boston City County,Virginia",22906,568107
+331,"Magoffin County,Kentucky","Staunton City County,Virginia",19166,546741
+332,"Magoffin County,Kentucky","Suffolk City County,Virginia",29799,840399
+333,"Magoffin County,Kentucky","Virginia Beach City County,Virginia",30185,880055
+334,"Magoffin County,Kentucky","Waynesboro City County,Virginia",19504,559459
+335,"Magoffin County,Kentucky","Williamsburg City County,Virginia",26919,790116
+336,"Magoffin County,Kentucky","Winchester City County,Virginia",23728,659442
+337,"Magoffin County,Kentucky","Barbour County,West Virginia",15209,420139
+338,"Magoffin County,Kentucky","Berkeley County,West Virginia",23142,658298
+339,"Magoffin County,Kentucky","Boone County,West Virginia",8677,189152
+340,"Magoffin County,Kentucky","Braxton County,West Virginia",11899,311118
+341,"Magoffin County,Kentucky","Brooke County,West Virginia",18326,514719
+342,"Magoffin County,Kentucky","Cabell County,West Virginia",4960,120265
+343,"Magoffin County,Kentucky","Calhoun County,West Virginia",11820,308803
+344,"Magoffin County,Kentucky","Clay County,West Virginia",10666,282031
+345,"Magoffin County,Kentucky","Doddridge County,West Virginia",14353,401648
+346,"Magoffin County,Kentucky","Fayette County,West Virginia",11953,300375
+347,"Magoffin County,Kentucky","Gilmer County,West Virginia",13098,333305
+348,"Magoffin County,Kentucky","Grant County,West Virginia",19565,521684
+349,"Magoffin County,Kentucky","Greenbrier County,West Virginia",15028,378414
+350,"Magoffin County,Kentucky","Hampshire County,West Virginia",22397,619902
+351,"Magoffin County,Kentucky","Hancock County,West Virginia",19916,549255
+352,"Magoffin County,Kentucky","Hardy County,West Virginia",20620,553181
+353,"Magoffin County,Kentucky","Harrison County,West Virginia",14443,406510
+354,"Magoffin County,Kentucky","Jackson County,West Virginia",9704,263134
+355,"Magoffin County,Kentucky","Jefferson County,West Virginia",24608,714296
+356,"Magoffin County,Kentucky","Kanawha County,West Virginia",9262,234439
+357,"Magoffin County,Kentucky","Lewis County,West Virginia",13072,359980
+358,"Magoffin County,Kentucky","Lincoln County,West Virginia",8010,149371
+359,"Magoffin County,Kentucky","Logan County,West Virginia",6783,145787
+360,"Magoffin County,Kentucky","McDowell County,West Virginia",10634,197976
+361,"Magoffin County,Kentucky","Marion County,West Virginia",15588,433677
+362,"Magoffin County,Kentucky","Marshall County,West Virginia",17713,450820
+363,"Magoffin County,Kentucky","Mason County,West Virginia",7941,211009
+364,"Magoffin County,Kentucky","Mercer County,West Virginia",12589,345998
+365,"Magoffin County,Kentucky","Mineral County,West Virginia",21259,550505
+366,"Magoffin County,Kentucky","Mingo County,West Virginia",5466,112240
+367,"Magoffin County,Kentucky","Monongalia County,West Virginia",15799,459145
+368,"Magoffin County,Kentucky","Monroe County,West Virginia",15349,333089
+369,"Magoffin County,Kentucky","Morgan County,West Virginia",22634,647690
+370,"Magoffin County,Kentucky","Nicholas County,West Virginia",12382,341911
+371,"Magoffin County,Kentucky","Ohio County,West Virginia",17345,495957
+372,"Magoffin County,Kentucky","Pendleton County,West Virginia",19896,524308
+373,"Magoffin County,Kentucky","Pleasants County,West Virginia",13187,360986
+374,"Magoffin County,Kentucky","Pocahontas County,West Virginia",17712,411450
+375,"Magoffin County,Kentucky","Preston County,West Virginia",17944,485876
+376,"Magoffin County,Kentucky","Putnam County,West Virginia",6643,173042
+377,"Magoffin County,Kentucky","Raleigh County,West Virginia",11130,299691
+378,"Magoffin County,Kentucky","Randolph County,West Virginia",15574,422435
+379,"Magoffin County,Kentucky","Ritchie County,West Virginia",13518,374690
+380,"Magoffin County,Kentucky","Roane County,West Virginia",11330,291950
+381,"Magoffin County,Kentucky","Summers County,West Virginia",14582,361129
+382,"Magoffin County,Kentucky","Taylor County,West Virginia",15481,429249
+383,"Magoffin County,Kentucky","Tucker County,West Virginia",16641,452959
+384,"Magoffin County,Kentucky","Tyler County,West Virginia",15096,400601
+385,"Magoffin County,Kentucky","Upshur County,West Virginia",14637,374677
+386,"Magoffin County,Kentucky","Wayne County,West Virginia",4288,90061
+387,"Magoffin County,Kentucky","Webster County,West Virginia",14567,368991
+388,"Magoffin County,Kentucky","Wetzel County,West Virginia",16308,422508
+389,"Magoffin County,Kentucky","Wirt County,West Virginia",11971,320472
+390,"Magoffin County,Kentucky","Wood County,West Virginia",11485,322162
+391,"Magoffin County,Kentucky","Wyoming County,West Virginia",10214,204248

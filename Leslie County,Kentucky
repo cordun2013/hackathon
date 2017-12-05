@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Leslie County,Kentucky","Adair County,Kentucky",8693,212194
+1,"Leslie County,Kentucky","Allen County,Kentucky",11889,307835
+2,"Leslie County,Kentucky","Anderson County,Kentucky",10143,239446
+3,"Leslie County,Kentucky","Ballard County,Kentucky",21701,610512
+4,"Leslie County,Kentucky","Barren County,Kentucky",10438,271221
+5,"Leslie County,Kentucky","Bath County,Kentucky",8760,179656
+6,"Leslie County,Kentucky","Bell County,Kentucky",4087,79034
+7,"Leslie County,Kentucky","Boone County,Kentucky",11919,327438
+8,"Leslie County,Kentucky","Bourbon County,Kentucky",8969,217300
+9,"Leslie County,Kentucky","Boyd County,Kentucky",9375,229973
+10,"Leslie County,Kentucky","Boyle County,Kentucky",7920,186351
+11,"Leslie County,Kentucky","Bracken County,Kentucky",12506,313665
+12,"Leslie County,Kentucky","Breathitt County,Kentucky",4115,87947
+13,"Leslie County,Kentucky","Breckinridge County,Kentucky",15161,361756
+14,"Leslie County,Kentucky","Bullitt County,Kentucky",12207,286242
+15,"Leslie County,Kentucky","Butler County,Kentucky",13477,367694
+16,"Leslie County,Kentucky","Caldwell County,Kentucky",17813,501365
+17,"Leslie County,Kentucky","Calloway County,Kentucky",19882,526347
+18,"Leslie County,Kentucky","Campbell County,Kentucky",12450,324252
+19,"Leslie County,Kentucky","Carlisle County,Kentucky",22158,625880
+20,"Leslie County,Kentucky","Carroll County,Kentucky",12756,323544
+21,"Leslie County,Kentucky","Carter County,Kentucky",9944,208725
+22,"Leslie County,Kentucky","Casey County,Kentucky",8630,185468
+23,"Leslie County,Kentucky","Christian County,Kentucky",16169,433834
+24,"Leslie County,Kentucky","Clay County,Kentucky",3220,67471
+25,"Leslie County,Kentucky","Clinton County,Kentucky",9100,215559
+26,"Leslie County,Kentucky","Crittenden County,Kentucky",19393,534435
+27,"Leslie County,Kentucky","Cumberland County,Kentucky",9854,233798
+28,"Leslie County,Kentucky","Daviess County,Kentucky",15911,441488
+29,"Leslie County,Kentucky","Edmonson County,Kentucky",11967,315382
+30,"Leslie County,Kentucky","Elliott County,Kentucky",8576,181050
+31,"Leslie County,Kentucky","Estill County,Kentucky",7583,143754
+32,"Leslie County,Kentucky","Fayette County,Kentucky",8018,213222
+33,"Leslie County,Kentucky","Fleming County,Kentucky",9994,217834
+34,"Leslie County,Kentucky","Floyd County,Kentucky",4463,102460
+35,"Leslie County,Kentucky","Franklin County,Kentucky",10056,262139
+36,"Leslie County,Kentucky","Fulton County,Kentucky",22562,646844
+37,"Leslie County,Kentucky","Gallatin County,Kentucky",11753,314203
+38,"Leslie County,Kentucky","Garrard County,Kentucky",7589,171138
+39,"Leslie County,Kentucky","Grant County,Kentucky",10552,288310
+40,"Leslie County,Kentucky","Graves County,Kentucky",21183,598586
+41,"Leslie County,Kentucky","Grayson County,Kentucky",13903,347976
+42,"Leslie County,Kentucky","Green County,Kentucky",10445,254358
+43,"Leslie County,Kentucky","Greenup County,Kentucky",11448,248228
+44,"Leslie County,Kentucky","Hancock County,Kentucky",16382,396393
+45,"Leslie County,Kentucky","Hardin County,Kentucky",12779,310109
+46,"Leslie County,Kentucky","Harlan County,Kentucky",3409,59350
+47,"Leslie County,Kentucky","Harrison County,Kentucky",10069,267772
+48,"Leslie County,Kentucky","Hart County,Kentucky",11795,300636
+49,"Leslie County,Kentucky","Henderson County,Kentucky",17818,497908
+50,"Leslie County,Kentucky","Henry County,Kentucky",11657,305857
+51,"Leslie County,Kentucky","Hickman County,Kentucky",22192,627172
+52,"Leslie County,Kentucky","Hopkins County,Kentucky",17272,475833
+53,"Leslie County,Kentucky","Jackson County,Kentucky",5092,103890
+54,"Leslie County,Kentucky","Jefferson County,Kentucky",11751,321391
+55,"Leslie County,Kentucky","Jessamine County,Kentucky",8585,215861
+56,"Leslie County,Kentucky","Johnson County,Kentucky",6025,142730
+57,"Leslie County,Kentucky","Kenton County,Kentucky",11806,323154
+58,"Leslie County,Kentucky","Knott County,Kentucky",3246,72001
+59,"Leslie County,Kentucky","Knox County,Kentucky",4545,94126
+60,"Leslie County,Kentucky","Larue County,Kentucky",11927,286332
+61,"Leslie County,Kentucky","Laurel County,Kentucky",4822,104267
+62,"Leslie County,Kentucky","Lawrence County,Kentucky",7800,176417
+63,"Leslie County,Kentucky","Lee County,Kentucky",5567,110361
+64,"Leslie County,Kentucky","Letcher County,Kentucky",4417,94005
+65,"Leslie County,Kentucky","Lewis County,Kentucky",10828,229249
+66,"Leslie County,Kentucky","Lincoln County,Kentucky",7151,170718
+67,"Leslie County,Kentucky","Livingston County,Kentucky",19988,551332
+68,"Leslie County,Kentucky","Logan County,Kentucky",13840,373113
+69,"Leslie County,Kentucky","Lyon County,Kentucky",20129,525601
+70,"Leslie County,Kentucky","McCracken County,Kentucky",20314,578572
+71,"Leslie County,Kentucky","McCreary County,Kentucky",7355,174682
+72,"Leslie County,Kentucky","Madison County,Kentucky",6607,168568
+73,"Leslie County,Kentucky","Magoffin County,Kentucky",6369,146706
+74,"Leslie County,Kentucky","Marion County,Kentucky",9618,224956
+75,"Leslie County,Kentucky","Marshall County,Kentucky",19728,562143
+76,"Leslie County,Kentucky","Martin County,Kentucky",7554,168732
+77,"Leslie County,Kentucky","Mason County,Kentucky",12125,259399
+78,"Leslie County,Kentucky","Meade County,Kentucky",14211,393706
+79,"Leslie County,Kentucky","Menifee County,Kentucky",7932,159619
+80,"Leslie County,Kentucky","Mercer County,Kentucky",8919,211283
+81,"Leslie County,Kentucky","Metcalfe County,Kentucky",9349,242458
+82,"Leslie County,Kentucky","Monroe County,Kentucky",11318,279963
+83,"Leslie County,Kentucky","Montgomery County,Kentucky",7969,181199
+84,"Leslie County,Kentucky","Morgan County,Kentucky",6354,140509
+85,"Leslie County,Kentucky","Muhlenberg County,Kentucky",15596,416333
+86,"Leslie County,Kentucky","Nelson County,Kentucky",10836,257965
+87,"Leslie County,Kentucky","Nicholas County,Kentucky",10275,245220
+88,"Leslie County,Kentucky","Ohio County,Kentucky",15012,409524
+89,"Leslie County,Kentucky","Oldham County,Kentucky",11822,333272
+90,"Leslie County,Kentucky","Owen County,Kentucky",10878,288916
+91,"Leslie County,Kentucky","Owsley County,Kentucky",4841,88779
+92,"Leslie County,Kentucky","Pendleton County,Kentucky",11628,304899
+93,"Leslie County,Kentucky","Perry County,Kentucky",2629,51120
+94,"Leslie County,Kentucky","Pike County,Kentucky",7023,155460
+95,"Leslie County,Kentucky","Powell County,Kentucky",6757,152484
+96,"Leslie County,Kentucky","Robertson County,Kentucky",11045,266346
+97,"Leslie County,Kentucky","Rockcastle County,Kentucky",5632,132317
+98,"Leslie County,Kentucky","Rowan County,Kentucky",8412,182293
+99,"Leslie County,Kentucky","Russell County,Kentucky",8297,196177
+100,"Leslie County,Kentucky","Scott County,Kentucky",8852,241249
+101,"Leslie County,Kentucky","Shelby County,Kentucky",10680,292525
+102,"Leslie County,Kentucky","Simpson County,Kentucky",13430,361987
+103,"Leslie County,Kentucky","Spencer County,Kentucky",11209,298373
+104,"Leslie County,Kentucky","Taylor County,Kentucky",10047,236453
+105,"Leslie County,Kentucky","Todd County,Kentucky",15016,403169
+106,"Leslie County,Kentucky","Trigg County,Kentucky",17704,464454
+107,"Leslie County,Kentucky","Trimble County,Kentucky",12896,339312
+108,"Leslie County,Kentucky","Union County,Kentucky",19562,535009
+109,"Leslie County,Kentucky","Warren County,Kentucky",12464,326935
+110,"Leslie County,Kentucky","Washington County,Kentucky",9907,232815
+111,"Leslie County,Kentucky","Wayne County,Kentucky",8473,193250
+112,"Leslie County,Kentucky","Webster County,Kentucky",18381,503922
+113,"Leslie County,Kentucky","Whitley County,Kentucky",5720,138767
+114,"Leslie County,Kentucky","Wolfe County,Kentucky",5608,120031
+115,"Leslie County,Kentucky","Woodford County,Kentucky",9072,243885
+116,"Leslie County,Kentucky","Adams County,Ohio",14033,293606
+117,"Leslie County,Kentucky","Allen County,Ohio",19225,549047
+118,"Leslie County,Kentucky","Ashland County,Ohio",22414,650925
+119,"Leslie County,Kentucky","Ashtabula County,Ohio",27861,798933
+120,"Leslie County,Kentucky","Athens County,Ohio",15173,371286
+121,"Leslie County,Kentucky","Auglaize County,Ohio",18481,536312
+122,"Leslie County,Kentucky","Belmont County,Ohio",20924,587857
+123,"Leslie County,Kentucky","Brown County,Ohio",13461,288883
+124,"Leslie County,Kentucky","Butler County,Ohio",14303,398921
+125,"Leslie County,Kentucky","Carroll County,Ohio",22854,624743
+126,"Leslie County,Kentucky","Champaign County,Ohio",17259,490494
+127,"Leslie County,Kentucky","Clark County,Ohio",16688,477126
+128,"Leslie County,Kentucky","Clermont County,Ohio",13054,370099
+129,"Leslie County,Kentucky","Clinton County,Ohio",15148,421406
+130,"Leslie County,Kentucky","Columbiana County,Ohio",24695,678979
+131,"Leslie County,Kentucky","Coshocton County,Ohio",21489,595860
+132,"Leslie County,Kentucky","Crawford County,Ohio",21951,642897
+133,"Leslie County,Kentucky","Cuyahoga County,Ohio",24732,733390
+134,"Leslie County,Kentucky","Darke County,Ohio",17579,493358
+135,"Leslie County,Kentucky","Defiance County,Ohio",22713,627477
+136,"Leslie County,Kentucky","Delaware County,Ohio",19331,557597
+137,"Leslie County,Kentucky","Fairfield County,Ohio",18314,425387
+138,"Leslie County,Kentucky","Fayette County,Ohio",16047,459011
+139,"Leslie County,Kentucky","Franklin County,Ohio",17849,517524
+140,"Leslie County,Kentucky","Fulton County,Ohio",23476,644421
+141,"Leslie County,Kentucky","Gallia County,Ohio",13131,313639
+142,"Leslie County,Kentucky","Geauga County,Ohio",25961,735865
+143,"Leslie County,Kentucky","Greene County,Ohio",15475,430760
+144,"Leslie County,Kentucky","Guernsey County,Ohio",19039,533779
+145,"Leslie County,Kentucky","Hamilton County,Ohio",12957,363405
+146,"Leslie County,Kentucky","Hancock County,Ohio",20334,589942
+147,"Leslie County,Kentucky","Hardin County,Ohio",20122,574340
+148,"Leslie County,Kentucky","Harrison County,Ohio",21859,606809
+149,"Leslie County,Kentucky","Henry County,Ohio",22058,614411
+150,"Leslie County,Kentucky","Highland County,Ohio",15608,334086
+151,"Leslie County,Kentucky","Hocking County,Ohio",16872,368694
+152,"Leslie County,Kentucky","Holmes County,Ohio",22547,618744
+153,"Leslie County,Kentucky","Huron County,Ohio",23561,649695
+154,"Leslie County,Kentucky","Jackson County,Ohio",13551,318327
+155,"Leslie County,Kentucky","Jefferson County,Ohio",22852,616587
+156,"Leslie County,Kentucky","Knox County,Ohio",21781,617219
+157,"Leslie County,Kentucky","Lawrence County,Ohio",11354,258242
+158,"Leslie County,Kentucky","Licking County,Ohio",20113,572442
+159,"Leslie County,Kentucky","Logan County,Ohio",18494,523030
+160,"Leslie County,Kentucky","Lorain County,Ohio",25346,708349
+161,"Leslie County,Kentucky","Lucas County,Ohio",23659,676462
+162,"Leslie County,Kentucky","Madison County,Ohio",17268,494193
+163,"Leslie County,Kentucky","Mahoning County,Ohio",25191,693784
+164,"Leslie County,Kentucky","Marion County,Ohio",20378,565032
+165,"Leslie County,Kentucky","Medina County,Ohio",23059,675938
+166,"Leslie County,Kentucky","Meigs County,Ohio",14063,344022
+167,"Leslie County,Kentucky","Mercer County,Ohio",19717,563246
+168,"Leslie County,Kentucky","Miami County,Ohio",16067,458751
+169,"Leslie County,Kentucky","Monroe County,Ohio",19975,522971
+170,"Leslie County,Kentucky","Montgomery County,Ohio",15450,436491
+171,"Leslie County,Kentucky","Morgan County,Ohio",18127,438310
+172,"Leslie County,Kentucky","Morrow County,Ohio",20139,580418
+173,"Leslie County,Kentucky","Muskingum County,Ohio",19841,459449
+174,"Leslie County,Kentucky","Noble County,Ohio",18481,506131
+175,"Leslie County,Kentucky","Paulding County,Ohio",21756,612025
+176,"Leslie County,Kentucky","Perry County,Ohio",18391,436707
+177,"Leslie County,Kentucky","Pickaway County,Ohio",16526,391790
+178,"Leslie County,Kentucky","Pike County,Ohio",13620,320669
+179,"Leslie County,Kentucky","Portage County,Ohio",24412,691729
+180,"Leslie County,Kentucky","Preble County,Ohio",16347,443320
+181,"Leslie County,Kentucky","Putnam County,Ohio",20400,581515
+182,"Leslie County,Kentucky","Richland County,Ohio",21168,615656
+183,"Leslie County,Kentucky","Ross County,Ohio",15270,358096
+184,"Leslie County,Kentucky","Sandusky County,Ohio",23374,670018
+185,"Leslie County,Kentucky","Scioto County,Ohio",12699,297307
+186,"Leslie County,Kentucky","Seneca County,Ohio",22679,646282
+187,"Leslie County,Kentucky","Shelby County,Ohio",17106,495036
+188,"Leslie County,Kentucky","Stark County,Ohio",22712,639978
+189,"Leslie County,Kentucky","Summit County,Ohio",23471,665767
+190,"Leslie County,Kentucky","Trumbull County,Ohio",26146,720031
+191,"Leslie County,Kentucky","Tuscarawas County,Ohio",20913,580566
+192,"Leslie County,Kentucky","Union County,Ohio",18621,520414
+193,"Leslie County,Kentucky","Van Wert County,Ohio",20390,581570
+194,"Leslie County,Kentucky","Vinton County,Ohio",15810,345105
+195,"Leslie County,Kentucky","Warren County,Ohio",13837,389662
+196,"Leslie County,Kentucky","Washington County,Ohio",17100,415971
+197,"Leslie County,Kentucky","Wayne County,Ohio",22787,664935
+198,"Leslie County,Kentucky","Williams County,Ohio",23890,650994
+199,"Leslie County,Kentucky","Wood County,Ohio",21422,630571
+200,"Leslie County,Kentucky","Wyandot County,Ohio",21030,610822
+201,"Leslie County,Kentucky","Accomack County,Virginia",35794,956273
+202,"Leslie County,Kentucky","Albemarle County,Virginia",21944,568772
+203,"Leslie County,Kentucky","Alleghany County,Virginia",19929,477703
+204,"Leslie County,Kentucky","Amelia County,Virginia",24516,607628
+205,"Leslie County,Kentucky","Amherst County,Virginia",21418,513687
+206,"Leslie County,Kentucky","Appomattox County,Virginia",21593,527297
+207,"Leslie County,Kentucky","Arlington County,Virginia",28628,769082
+208,"Leslie County,Kentucky","Augusta County,Virginia",21366,546466
+209,"Leslie County,Kentucky","Bath County,Virginia",21654,519045
+210,"Leslie County,Kentucky","Bedford County,Virginia",19326,458606
+211,"Leslie County,Kentucky","Bland County,Virginia",13342,308208
+212,"Leslie County,Kentucky","Botetourt County,Virginia",18182,442671
+213,"Leslie County,Kentucky","Brunswick County,Virginia",26487,694722
+214,"Leslie County,Kentucky","Buchanan County,Virginia",10550,203276
+215,"Leslie County,Kentucky","Buckingham County,Virginia",22707,551206
+216,"Leslie County,Kentucky","Campbell County,Virginia",20742,499842
+217,"Leslie County,Kentucky","Caroline County,Virginia",27283,737618
+218,"Leslie County,Kentucky","Carroll County,Virginia",14286,339553
+219,"Leslie County,Kentucky","Charles City County,Virginia",27384,734653
+220,"Leslie County,Kentucky","Charlotte County,Virginia",23291,567778
+221,"Leslie County,Kentucky","Chesterfield County,Virginia",26210,646518
+222,"Leslie County,Kentucky","Clarke County,Virginia",26124,695830
+223,"Leslie County,Kentucky","Craig County,Virginia",17581,420240
+224,"Leslie County,Kentucky","Culpeper County,Virginia",25741,657989
+225,"Leslie County,Kentucky","Cumberland County,Virginia",24121,588438
+226,"Leslie County,Kentucky","Dickenson County,Virginia",7976,160951
+227,"Leslie County,Kentucky","Dinwiddie County,Virginia",26289,650689
+228,"Leslie County,Kentucky","Essex County,Virginia",29101,761660
+229,"Leslie County,Kentucky","Fairfax County,Virginia",28251,759358
+230,"Leslie County,Kentucky","Fauquier County,Virginia",26562,717082
+231,"Leslie County,Kentucky","Floyd County,Virginia",16178,379654
+232,"Leslie County,Kentucky","Fluvanna County,Virginia",23622,620944
+233,"Leslie County,Kentucky","Franklin County,Virginia",18839,459840
+234,"Leslie County,Kentucky","Frederick County,Virginia",25576,683557
+235,"Leslie County,Kentucky","Giles County,Virginia",16123,366282
+236,"Leslie County,Kentucky","Gloucester County,Virginia",29554,788841
+237,"Leslie County,Kentucky","Goochland County,Virginia",24525,651555
+238,"Leslie County,Kentucky","Grayson County,Virginia",14019,302721
+239,"Leslie County,Kentucky","Greene County,Virginia",23937,604357
+240,"Leslie County,Kentucky","Greensville County,Virginia",27683,712141
+241,"Leslie County,Kentucky","Halifax County,Virginia",22589,537240
+242,"Leslie County,Kentucky","Hanover County,Virginia",25732,692662
+243,"Leslie County,Kentucky","Henrico County,Virginia",26243,705622
+244,"Leslie County,Kentucky","Henry County,Virginia",18159,426274
+245,"Leslie County,Kentucky","Highland County,Virginia",23786,566837
+246,"Leslie County,Kentucky","Isle of Wight County,Virginia",30409,750810
+247,"Leslie County,Kentucky","James City County,Virginia",28620,775424
+248,"Leslie County,Kentucky","King and Queen County,Virginia",28278,751008
+249,"Leslie County,Kentucky","King George County,Virginia",28396,765604
+250,"Leslie County,Kentucky","King William County,Virginia",26965,720930
+251,"Leslie County,Kentucky","Lancaster County,Virginia",30758,804015
+252,"Leslie County,Kentucky","Lee County,Virginia",5031,89530
+253,"Leslie County,Kentucky","Loudoun County,Virginia",27620,731697
+254,"Leslie County,Kentucky","Louisa County,Virginia",24183,634650
+255,"Leslie County,Kentucky","Lunenburg County,Virginia",25063,609062
+256,"Leslie County,Kentucky","Madison County,Virginia",24857,634097
+257,"Leslie County,Kentucky","Mathews County,Virginia",30379,812264
+258,"Leslie County,Kentucky","Mecklenburg County,Virginia",24622,588786
+259,"Leslie County,Kentucky","Middlesex County,Virginia",29156,785041
+260,"Leslie County,Kentucky","Montgomery County,Virginia",15352,370158
+261,"Leslie County,Kentucky","Nelson County,Virginia",21969,544084
+262,"Leslie County,Kentucky","New Kent County,Virginia",28056,749338
+263,"Leslie County,Kentucky","Northampton County,Virginia",33037,892087
+264,"Leslie County,Kentucky","Northumberland County,Virginia",30798,802527
+265,"Leslie County,Kentucky","Nottoway County,Virginia",24556,609442
+266,"Leslie County,Kentucky","Orange County,Virginia",25145,642758
+267,"Leslie County,Kentucky","Page County,Virginia",23790,617882
+268,"Leslie County,Kentucky","Patrick County,Virginia",16391,384589
+269,"Leslie County,Kentucky","Pittsylvania County,Virginia",20475,480482
+270,"Leslie County,Kentucky","Powhatan County,Virginia",25618,623145
+271,"Leslie County,Kentucky","Prince Edward County,Virginia",23171,566777
+272,"Leslie County,Kentucky","Prince George County,Virginia",27944,690063
+273,"Leslie County,Kentucky","Prince William County,Virginia",26662,723186
+274,"Leslie County,Kentucky","Pulaski County,Virginia",14029,330974
+275,"Leslie County,Kentucky","Rappahannock County,Virginia",25621,654369
+276,"Leslie County,Kentucky","Richmond County,Virginia",29498,775171
+277,"Leslie County,Kentucky","Roanoke County,Virginia",16133,390094
+278,"Leslie County,Kentucky","Rockbridge County,Virginia",19630,486742
+279,"Leslie County,Kentucky","Rockingham County,Virginia",22829,590233
+280,"Leslie County,Kentucky","Russell County,Virginia",10311,194686
+281,"Leslie County,Kentucky","Scott County,Virginia",7038,132402
+282,"Leslie County,Kentucky","Shenandoah County,Virginia",23334,620336
+283,"Leslie County,Kentucky","Smyth County,Virginia",11298,242423
+284,"Leslie County,Kentucky","Southampton County,Virginia",29299,769664
+285,"Leslie County,Kentucky","Spotsylvania County,Virginia",26199,676489
+286,"Leslie County,Kentucky","Stafford County,Virginia",27580,700782
+287,"Leslie County,Kentucky","Surry County,Virginia",29363,774285
+288,"Leslie County,Kentucky","Sussex County,Virginia",28298,695820
+289,"Leslie County,Kentucky","Tazewell County,Virginia",11799,247596
+290,"Leslie County,Kentucky","Warren County,Virginia",25236,664929
+291,"Leslie County,Kentucky","Washington County,Virginia",10177,208582
+292,"Leslie County,Kentucky","Westmoreland County,Virginia",29370,782429
+293,"Leslie County,Kentucky","Wise County,Virginia",6241,136850
+294,"Leslie County,Kentucky","Wythe County,Virginia",12512,284883
+295,"Leslie County,Kentucky","York County,Virginia",29907,806198
+296,"Leslie County,Kentucky","Alexandria City County,Virginia",28831,781728
+297,"Leslie County,Kentucky","Bedford City County,Virginia",18490,450038
+298,"Leslie County,Kentucky","Bristol City County,Virginia",8991,173728
+299,"Leslie County,Kentucky","Buena Vista City County,Virginia",19002,479230
+300,"Leslie County,Kentucky","Charlottesville City County,Virginia",22413,583987
+301,"Leslie County,Kentucky","Chesapeake City County,Virginia",31370,859104
+302,"Leslie County,Kentucky","Clifton Forge City County,Virginia",19269,468864
+303,"Leslie County,Kentucky","Colonial Heights City County,Virginia",27079,728329
+304,"Leslie County,Kentucky","Covington City County,Virginia",19998,481288
+305,"Leslie County,Kentucky","Danville City County,Virginia",20317,480730
+306,"Leslie County,Kentucky","Emporia City County,Virginia",27839,726329
+307,"Leslie County,Kentucky","Fairfax City County,Virginia",27794,748933
+308,"Leslie County,Kentucky","Falls Church City County,Virginia",28126,763406
+309,"Leslie County,Kentucky","Franklin City County,Virginia",29926,782799
+310,"Leslie County,Kentucky","Fredericksburg City County,Virginia",27332,686148
+311,"Leslie County,Kentucky","Galax City County,Virginia",14909,345419
+312,"Leslie County,Kentucky","Hampton City County,Virginia",29857,815904
+313,"Leslie County,Kentucky","Harrisonburg City County,Virginia",21889,570129
+314,"Leslie County,Kentucky","Hopewell City County,Virginia",27116,727295
+315,"Leslie County,Kentucky","Lexington City County,Virginia",18916,477557
+316,"Leslie County,Kentucky","Lynchburg City County,Virginia",20515,494913
+317,"Leslie County,Kentucky","Manassas City County,Virginia",26889,728130
+318,"Leslie County,Kentucky","Manassas Park City County,Virginia",27391,734473
+319,"Leslie County,Kentucky","Martinsville City County,Virginia",18687,435068
+320,"Leslie County,Kentucky","Newport News City County,Virginia",29414,802390
+321,"Leslie County,Kentucky","Norfolk City County,Virginia",31164,841320
+322,"Leslie County,Kentucky","Norton City County,Virginia",6602,127442
+323,"Leslie County,Kentucky","Petersburg City County,Virginia",26947,672667
+324,"Leslie County,Kentucky","Poquoson City County,Virginia",30086,812967
+325,"Leslie County,Kentucky","Portsmouth City County,Virginia",31103,850141
+326,"Leslie County,Kentucky","Radford County,Virginia",14539,344922
+327,"Leslie County,Kentucky","Richmond City County,Virginia",25819,693432
+328,"Leslie County,Kentucky","Roanoke City County,Virginia",16735,410199
+329,"Leslie County,Kentucky","Salem City County,Virginia",16147,396749
+330,"Leslie County,Kentucky","South Boston City County,Virginia",22329,534908
+331,"Leslie County,Kentucky","Staunton City County,Virginia",20706,531264
+332,"Leslie County,Kentucky","Suffolk City County,Virginia",31242,816102
+333,"Leslie County,Kentucky","Virginia Beach City County,Virginia",31725,864579
+334,"Leslie County,Kentucky","Waynesboro City County,Virginia",21044,543982
+335,"Leslie County,Kentucky","Williamsburg City County,Virginia",28458,774639
+336,"Leslie County,Kentucky","Winchester City County,Virginia",25455,679701
+337,"Leslie County,Kentucky","Barbour County,West Virginia",19886,535525
+338,"Leslie County,Kentucky","Berkeley County,West Virginia",27193,726908
+339,"Leslie County,Kentucky","Boone County,West Virginia",12434,289114
+340,"Leslie County,Kentucky","Braxton County,West Virginia",16576,426504
+341,"Leslie County,Kentucky","Brooke County,West Virginia",23003,630105
+342,"Leslie County,Kentucky","Cabell County,West Virginia",9636,235650
+343,"Leslie County,Kentucky","Calhoun County,West Virginia",16497,424188
+344,"Leslie County,Kentucky","Clay County,West Virginia",15343,397417
+345,"Leslie County,Kentucky","Doddridge County,West Virginia",19029,517034
+346,"Leslie County,Kentucky","Fayette County,West Virginia",16630,415761
+347,"Leslie County,Kentucky","Gilmer County,West Virginia",17775,448691
+348,"Leslie County,Kentucky","Grant County,West Virginia",24241,637070
+349,"Leslie County,Kentucky","Greenbrier County,West Virginia",19884,434844
+350,"Leslie County,Kentucky","Hampshire County,West Virginia",27312,697812
+351,"Leslie County,Kentucky","Hancock County,West Virginia",24592,664641
+352,"Leslie County,Kentucky","Hardy County,West Virginia",25297,668567
+353,"Leslie County,Kentucky","Harrison County,West Virginia",19119,521895
+354,"Leslie County,Kentucky","Jackson County,West Virginia",14381,378520
+355,"Leslie County,Kentucky","Jefferson County,West Virginia",27244,714314
+356,"Leslie County,Kentucky","Kanawha County,West Virginia",13939,349825
+357,"Leslie County,Kentucky","Lewis County,West Virginia",17749,475365
+358,"Leslie County,Kentucky","Lincoln County,West Virginia",12686,264756
+359,"Leslie County,Kentucky","Logan County,West Virginia",10539,245750
+360,"Leslie County,Kentucky","McDowell County,West Virginia",13888,278831
+361,"Leslie County,Kentucky","Marion County,West Virginia",20265,549063
+362,"Leslie County,Kentucky","Marshall County,West Virginia",22389,566206
+363,"Leslie County,Kentucky","Mason County,West Virginia",12618,326395
+364,"Leslie County,Kentucky","Mercer County,West Virginia",14661,319987
+365,"Leslie County,Kentucky","Mineral County,West Virginia",25936,665891
+366,"Leslie County,Kentucky","Mingo County,West Virginia",9223,212203
+367,"Leslie County,Kentucky","Monongalia County,West Virginia",20475,574531
+368,"Leslie County,Kentucky","Monroe County,West Virginia",17124,369386
+369,"Leslie County,Kentucky","Morgan County,West Virginia",27439,728034
+370,"Leslie County,Kentucky","Nicholas County,West Virginia",17059,457297
+371,"Leslie County,Kentucky","Ohio County,West Virginia",22022,611343
+372,"Leslie County,Kentucky","Pendleton County,West Virginia",24572,639694
+373,"Leslie County,Kentucky","Pleasants County,West Virginia",17864,476372
+374,"Leslie County,Kentucky","Pocahontas County,West Virginia",22388,526836
+375,"Leslie County,Kentucky","Preston County,West Virginia",22621,601262
+376,"Leslie County,Kentucky","Putnam County,West Virginia",11319,288428
+377,"Leslie County,Kentucky","Raleigh County,West Virginia",15748,326311
+378,"Leslie County,Kentucky","Randolph County,West Virginia",20250,537820
+379,"Leslie County,Kentucky","Ritchie County,West Virginia",18194,490076
+380,"Leslie County,Kentucky","Roane County,West Virginia",16007,407336
+381,"Leslie County,Kentucky","Summers County,West Virginia",17216,364926
+382,"Leslie County,Kentucky","Taylor County,West Virginia",20157,544635
+383,"Leslie County,Kentucky","Tucker County,West Virginia",21317,568345
+384,"Leslie County,Kentucky","Tyler County,West Virginia",19773,515987
+385,"Leslie County,Kentucky","Upshur County,West Virginia",19314,490062
+386,"Leslie County,Kentucky","Wayne County,West Virginia",8965,205447
+387,"Leslie County,Kentucky","Webster County,West Virginia",19243,484377
+388,"Leslie County,Kentucky","Wetzel County,West Virginia",20985,537894
+389,"Leslie County,Kentucky","Wirt County,West Virginia",16647,435858
+390,"Leslie County,Kentucky","Wood County,West Virginia",16162,437548
+391,"Leslie County,Kentucky","Wyoming County,West Virginia",13509,284689

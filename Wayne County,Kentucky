@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wayne County,Kentucky","Adair County,Kentucky",4523,93575
+1,"Wayne County,Kentucky","Allen County,Kentucky",7189,159456
+2,"Wayne County,Kentucky","Anderson County,Kentucky",8418,180758
+3,"Wayne County,Kentucky","Ballard County,Kentucky",17001,462132
+4,"Wayne County,Kentucky","Barren County,Kentucky",5287,113639
+5,"Wayne County,Kentucky","Bath County,Kentucky",8799,215172
+6,"Wayne County,Kentucky","Bell County,Kentucky",8032,156619
+7,"Wayne County,Kentucky","Boone County,Kentucky",11146,293641
+8,"Wayne County,Kentucky","Bourbon County,Kentucky",8347,205341
+9,"Wayne County,Kentucky","Boyd County,Kentucky",12057,316628
+10,"Wayne County,Kentucky","Boyle County,Kentucky",6195,127663
+11,"Wayne County,Kentucky","Bracken County,Kentucky",11732,279868
+12,"Wayne County,Kentucky","Breathitt County,Kentucky",10181,238681
+13,"Wayne County,Kentucky","Breckinridge County,Kentucky",11646,256762
+14,"Wayne County,Kentucky","Bullitt County,Kentucky",9817,237325
+15,"Wayne County,Kentucky","Butler County,Kentucky",8777,219315
+16,"Wayne County,Kentucky","Caldwell County,Kentucky",13112,352985
+17,"Wayne County,Kentucky","Calloway County,Kentucky",15181,377967
+18,"Wayne County,Kentucky","Campbell County,Kentucky",11677,290455
+19,"Wayne County,Kentucky","Carlisle County,Kentucky",17458,477500
+20,"Wayne County,Kentucky","Carroll County,Kentucky",11982,289747
+21,"Wayne County,Kentucky","Carter County,Kentucky",11193,285885
+22,"Wayne County,Kentucky","Casey County,Kentucky",5390,109952
+23,"Wayne County,Kentucky","Christian County,Kentucky",11468,285454
+24,"Wayne County,Kentucky","Clay County,Kentucky",6510,142029
+25,"Wayne County,Kentucky","Clinton County,Kentucky",1966,38075
+26,"Wayne County,Kentucky","Crittenden County,Kentucky",14692,386056
+27,"Wayne County,Kentucky","Cumberland County,Kentucky",2720,56314
+28,"Wayne County,Kentucky","Daviess County,Kentucky",11210,293108
+29,"Wayne County,Kentucky","Edmonson County,Kentucky",7266,167002
+30,"Wayne County,Kentucky","Elliott County,Kentucky",11969,277147
+31,"Wayne County,Kentucky","Estill County,Kentucky",7277,165995
+32,"Wayne County,Kentucky","Fayette County,Kentucky",7244,179426
+33,"Wayne County,Kentucky","Fleming County,Kentucky",10228,245391
+34,"Wayne County,Kentucky","Floyd County,Kentucky",10529,253193
+35,"Wayne County,Kentucky","Franklin County,Kentucky",9282,228342
+36,"Wayne County,Kentucky","Fulton County,Kentucky",17862,498465
+37,"Wayne County,Kentucky","Gallatin County,Kentucky",10980,280406
+38,"Wayne County,Kentucky","Garrard County,Kentucky",5946,119687
+39,"Wayne County,Kentucky","Grant County,Kentucky",9779,254513
+40,"Wayne County,Kentucky","Graves County,Kentucky",16483,450207
+41,"Wayne County,Kentucky","Grayson County,Kentucky",9561,215246
+42,"Wayne County,Kentucky","Green County,Kentucky",6287,138778
+43,"Wayne County,Kentucky","Greenup County,Kentucky",12662,313215
+44,"Wayne County,Kentucky","Hancock County,Kentucky",12220,305839
+45,"Wayne County,Kentucky","Hardin County,Kentucky",9169,224439
+46,"Wayne County,Kentucky","Harlan County,Kentucky",10326,212225
+47,"Wayne County,Kentucky","Harrison County,Kentucky",9295,233975
+48,"Wayne County,Kentucky","Hart County,Kentucky",7237,156738
+49,"Wayne County,Kentucky","Henderson County,Kentucky",13118,349528
+50,"Wayne County,Kentucky","Henry County,Kentucky",10998,233493
+51,"Wayne County,Kentucky","Hickman County,Kentucky",17491,478792
+52,"Wayne County,Kentucky","Hopkins County,Kentucky",12571,327453
+53,"Wayne County,Kentucky","Jackson County,Kentucky",6241,136381
+54,"Wayne County,Kentucky","Jefferson County,Kentucky",10977,287594
+55,"Wayne County,Kentucky","Jessamine County,Kentucky",7422,156905
+56,"Wayne County,Kentucky","Johnson County,Kentucky",12091,293463
+57,"Wayne County,Kentucky","Kenton County,Kentucky",11032,289357
+58,"Wayne County,Kentucky","Knott County,Kentucky",9312,222734
+59,"Wayne County,Kentucky","Knox County,Kentucky",6486,137473
+60,"Wayne County,Kentucky","Larue County,Kentucky",7769,170751
+61,"Wayne County,Kentucky","Laurel County,Kentucky",5320,106780
+62,"Wayne County,Kentucky","Lawrence County,Kentucky",13865,327150
+63,"Wayne County,Kentucky","Lee County,Kentucky",8246,174762
+64,"Wayne County,Kentucky","Leslie County,Kentucky",8460,193152
+65,"Wayne County,Kentucky","Letcher County,Kentucky",10483,244739
+66,"Wayne County,Kentucky","Lewis County,Kentucky",11752,283530
+67,"Wayne County,Kentucky","Lincoln County,Kentucky",4771,97991
+68,"Wayne County,Kentucky","Livingston County,Kentucky",15288,402952
+69,"Wayne County,Kentucky","Logan County,Kentucky",9140,224734
+70,"Wayne County,Kentucky","Lyon County,Kentucky",15428,377221
+71,"Wayne County,Kentucky","McCracken County,Kentucky",15613,430192
+72,"Wayne County,Kentucky","McCreary County,Kentucky",2537,47399
+73,"Wayne County,Kentucky","Madison County,Kentucky",5834,134771
+74,"Wayne County,Kentucky","Magoffin County,Kentucky",11767,258100
+75,"Wayne County,Kentucky","Marion County,Kentucky",7571,169912
+76,"Wayne County,Kentucky","Marshall County,Kentucky",15028,413764
+77,"Wayne County,Kentucky","Martin County,Kentucky",13620,319465
+78,"Wayne County,Kentucky","Mason County,Kentucky",11476,276907
+79,"Wayne County,Kentucky","Meade County,Kentucky",10878,245439
+80,"Wayne County,Kentucky","Menifee County,Kentucky",10073,227709
+81,"Wayne County,Kentucky","Mercer County,Kentucky",7194,152594
+82,"Wayne County,Kentucky","Metcalfe County,Kentucky",5040,106476
+83,"Wayne County,Kentucky","Monroe County,Kentucky",5156,109041
+84,"Wayne County,Kentucky","Montgomery County,Kentucky",8717,205618
+85,"Wayne County,Kentucky","Morgan County,Kentucky",11157,246384
+86,"Wayne County,Kentucky","Muhlenberg County,Kentucky",10895,267954
+87,"Wayne County,Kentucky","Nelson County,Kentucky",8982,193942
+88,"Wayne County,Kentucky","Nicholas County,Kentucky",9603,232723
+89,"Wayne County,Kentucky","Ohio County,Kentucky",10312,261144
+90,"Wayne County,Kentucky","Oldham County,Kentucky",11049,299475
+91,"Wayne County,Kentucky","Owen County,Kentucky",10104,255119
+92,"Wayne County,Kentucky","Owsley County,Kentucky",7539,157882
+93,"Wayne County,Kentucky","Pendleton County,Kentucky",10855,271103
+94,"Wayne County,Kentucky","Perry County,Kentucky",8695,201853
+95,"Wayne County,Kentucky","Pike County,Kentucky",13089,306193
+96,"Wayne County,Kentucky","Powell County,Kentucky",8842,200717
+97,"Wayne County,Kentucky","Robertson County,Kentucky",10373,253849
+98,"Wayne County,Kentucky","Rockcastle County,Kentucky",4805,98522
+99,"Wayne County,Kentucky","Rowan County,Kentucky",9540,239024
+100,"Wayne County,Kentucky","Russell County,Kentucky",3727,74111
+101,"Wayne County,Kentucky","Scott County,Kentucky",8079,207453
+102,"Wayne County,Kentucky","Shelby County,Kentucky",9906,258729
+103,"Wayne County,Kentucky","Simpson County,Kentucky",8729,213607
+104,"Wayne County,Kentucky","Spencer County,Kentucky",9783,209262
+105,"Wayne County,Kentucky","Taylor County,Kentucky",6106,136609
+106,"Wayne County,Kentucky","Todd County,Kentucky",10315,254789
+107,"Wayne County,Kentucky","Trigg County,Kentucky",13003,316074
+108,"Wayne County,Kentucky","Trimble County,Kentucky",12122,305515
+109,"Wayne County,Kentucky","Union County,Kentucky",14862,386629
+110,"Wayne County,Kentucky","Warren County,Kentucky",7764,178556
+111,"Wayne County,Kentucky","Washington County,Kentucky",8182,174127
+112,"Wayne County,Kentucky","Webster County,Kentucky",13680,355542
+113,"Wayne County,Kentucky","Whitley County,Kentucky",4156,83490
+114,"Wayne County,Kentucky","Wolfe County,Kentucky",10032,213205
+115,"Wayne County,Kentucky","Woodford County,Kentucky",8298,210089
+116,"Wayne County,Kentucky","Adams County,Ohio",13905,323640
+117,"Wayne County,Kentucky","Allen County,Ohio",18451,515250
+118,"Wayne County,Kentucky","Ashland County,Ohio",21640,617128
+119,"Wayne County,Kentucky","Ashtabula County,Ohio",27386,801880
+120,"Wayne County,Kentucky","Athens County,Ohio",18384,474647
+121,"Wayne County,Kentucky","Auglaize County,Ohio",17708,502515
+122,"Wayne County,Kentucky","Belmont County,Ohio",22978,663560
+123,"Wayne County,Kentucky","Brown County,Ohio",12891,311886
+124,"Wayne County,Kentucky","Butler County,Ohio",13529,365124
+125,"Wayne County,Kentucky","Carroll County,Ohio",24943,700783
+126,"Wayne County,Kentucky","Champaign County,Ohio",16486,456697
+127,"Wayne County,Kentucky","Clark County,Ohio",15914,443330
+128,"Wayne County,Kentucky","Clermont County,Ohio",12280,336303
+129,"Wayne County,Kentucky","Clinton County,Ohio",14374,387609
+130,"Wayne County,Kentucky","Columbiana County,Ohio",26499,736372
+131,"Wayne County,Kentucky","Coshocton County,Ohio",21501,596201
+132,"Wayne County,Kentucky","Crawford County,Ohio",21178,609100
+133,"Wayne County,Kentucky","Cuyahoga County,Ohio",23958,699593
+134,"Wayne County,Kentucky","Darke County,Ohio",16805,459562
+135,"Wayne County,Kentucky","Defiance County,Ohio",21939,593680
+136,"Wayne County,Kentucky","Delaware County,Ohio",18557,523800
+137,"Wayne County,Kentucky","Fairfield County,Ohio",17961,507049
+138,"Wayne County,Kentucky","Fayette County,Ohio",15273,425214
+139,"Wayne County,Kentucky","Franklin County,Ohio",17075,483727
+140,"Wayne County,Kentucky","Fulton County,Ohio",22702,610624
+141,"Wayne County,Kentucky","Gallia County,Ohio",16342,417000
+142,"Wayne County,Kentucky","Geauga County,Ohio",25487,738812
+143,"Wayne County,Kentucky","Greene County,Ohio",14701,396963
+144,"Wayne County,Kentucky","Guernsey County,Ohio",20707,597241
+145,"Wayne County,Kentucky","Hamilton County,Ohio",12184,329609
+146,"Wayne County,Kentucky","Hancock County,Ohio",19561,556146
+147,"Wayne County,Kentucky","Hardin County,Ohio",19348,540543
+148,"Wayne County,Kentucky","Harrison County,Ohio",23948,682849
+149,"Wayne County,Kentucky","Henry County,Ohio",21285,580614
+150,"Wayne County,Kentucky","Highland County,Ohio",15038,357088
+151,"Wayne County,Kentucky","Hocking County,Ohio",19398,550454
+152,"Wayne County,Kentucky","Holmes County,Ohio",23052,633058
+153,"Wayne County,Kentucky","Huron County,Ohio",22787,615899
+154,"Wayne County,Kentucky","Jackson County,Ohio",15892,400195
+155,"Wayne County,Kentucky","Jefferson County,Ohio",24941,692627
+156,"Wayne County,Kentucky","Knox County,Ohio",21007,583422
+157,"Wayne County,Kentucky","Lawrence County,Ohio",14463,353056
+158,"Wayne County,Kentucky","Licking County,Ohio",19340,538645
+159,"Wayne County,Kentucky","Logan County,Ohio",17720,489234
+160,"Wayne County,Kentucky","Lorain County,Ohio",24572,674553
+161,"Wayne County,Kentucky","Lucas County,Ohio",22886,642666
+162,"Wayne County,Kentucky","Madison County,Ohio",16495,460396
+163,"Wayne County,Kentucky","Mahoning County,Ohio",26356,753512
+164,"Wayne County,Kentucky","Marion County,Ohio",19604,531235
+165,"Wayne County,Kentucky","Medina County,Ohio",22285,642141
+166,"Wayne County,Kentucky","Meigs County,Ohio",17274,447383
+167,"Wayne County,Kentucky","Mercer County,Ohio",18943,529449
+168,"Wayne County,Kentucky","Miami County,Ohio",15294,424954
+169,"Wayne County,Kentucky","Monroe County,Ohio",23186,626332
+170,"Wayne County,Kentucky","Montgomery County,Ohio",14677,402694
+171,"Wayne County,Kentucky","Morgan County,Ohio",21338,541672
+172,"Wayne County,Kentucky","Morrow County,Ohio",19365,546621
+173,"Wayne County,Kentucky","Muskingum County,Ohio",19558,563397
+174,"Wayne County,Kentucky","Noble County,Ohio",21692,609492
+175,"Wayne County,Kentucky","Paulding County,Ohio",20983,578228
+176,"Wayne County,Kentucky","Perry County,Ohio",19627,551981
+177,"Wayne County,Kentucky","Pickaway County,Ohio",17210,473810
+178,"Wayne County,Kentucky","Pike County,Ohio",15434,369622
+179,"Wayne County,Kentucky","Portage County,Ohio",24808,713291
+180,"Wayne County,Kentucky","Preble County,Ohio",15574,409523
+181,"Wayne County,Kentucky","Putnam County,Ohio",19626,547718
+182,"Wayne County,Kentucky","Richland County,Ohio",20395,581859
+183,"Wayne County,Kentucky","Ross County,Ohio",16854,473127
+184,"Wayne County,Kentucky","Sandusky County,Ohio",22601,636221
+185,"Wayne County,Kentucky","Scioto County,Ohio",14744,351747
+186,"Wayne County,Kentucky","Seneca County,Ohio",21905,612485
+187,"Wayne County,Kentucky","Shelby County,Ohio",16332,461240
+188,"Wayne County,Kentucky","Stark County,Ohio",24553,697674
+189,"Wayne County,Kentucky","Summit County,Ohio",23489,677468
+190,"Wayne County,Kentucky","Trumbull County,Ohio",26389,763783
+191,"Wayne County,Kentucky","Tuscarawas County,Ohio",23002,656606
+192,"Wayne County,Kentucky","Union County,Ohio",17847,486618
+193,"Wayne County,Kentucky","Van Wert County,Ohio",19616,547774
+194,"Wayne County,Kentucky","Vinton County,Ohio",18464,444297
+195,"Wayne County,Kentucky","Warren County,Ohio",13063,355865
+196,"Wayne County,Kentucky","Washington County,Ohio",20311,519332
+197,"Wayne County,Kentucky","Wayne County,Ohio",22013,631139
+198,"Wayne County,Kentucky","Williams County,Ohio",23116,617197
+199,"Wayne County,Kentucky","Wood County,Ohio",20649,596774
+200,"Wayne County,Kentucky","Wyandot County,Ohio",20256,577026
+201,"Wayne County,Kentucky","Accomack County,Virginia",40582,1133433
+202,"Wayne County,Kentucky","Albemarle County,Virginia",26732,745932
+203,"Wayne County,Kentucky","Alleghany County,Virginia",22961,640019
+204,"Wayne County,Kentucky","Amelia County,Virginia",29304,784787
+205,"Wayne County,Kentucky","Amherst County,Virginia",26206,690846
+206,"Wayne County,Kentucky","Appomattox County,Virginia",26381,704456
+207,"Wayne County,Kentucky","Arlington County,Virginia",33416,946241
+208,"Wayne County,Kentucky","Augusta County,Virginia",26154,723625
+209,"Wayne County,Kentucky","Bath County,Virginia",25973,715329
+210,"Wayne County,Kentucky","Bedford County,Virginia",24114,635766
+211,"Wayne County,Kentucky","Bland County,Virginia",18130,485368
+212,"Wayne County,Kentucky","Botetourt County,Virginia",22970,619831
+213,"Wayne County,Kentucky","Brunswick County,Virginia",30862,849509
+214,"Wayne County,Kentucky","Buchanan County,Virginia",16616,354010
+215,"Wayne County,Kentucky","Buckingham County,Virginia",27495,728366
+216,"Wayne County,Kentucky","Campbell County,Virginia",25530,677001
+217,"Wayne County,Kentucky","Caroline County,Virginia",32071,914778
+218,"Wayne County,Kentucky","Carroll County,Virginia",19074,516713
+219,"Wayne County,Kentucky","Charles City County,Virginia",32172,911812
+220,"Wayne County,Kentucky","Charlotte County,Virginia",28079,744938
+221,"Wayne County,Kentucky","Chesterfield County,Virginia",30998,823677
+222,"Wayne County,Kentucky","Clarke County,Virginia",30912,872990
+223,"Wayne County,Kentucky","Craig County,Virginia",22369,597400
+224,"Wayne County,Kentucky","Culpeper County,Virginia",30529,835149
+225,"Wayne County,Kentucky","Cumberland County,Virginia",28909,765598
+226,"Wayne County,Kentucky","Dickenson County,Virginia",14042,311685
+227,"Wayne County,Kentucky","Dinwiddie County,Virginia",31077,827849
+228,"Wayne County,Kentucky","Essex County,Virginia",33889,938820
+229,"Wayne County,Kentucky","Fairfax County,Virginia",33039,936517
+230,"Wayne County,Kentucky","Fauquier County,Virginia",31350,894241
+231,"Wayne County,Kentucky","Floyd County,Virginia",20966,556813
+232,"Wayne County,Kentucky","Fluvanna County,Virginia",28410,798104
+233,"Wayne County,Kentucky","Franklin County,Virginia",23627,637000
+234,"Wayne County,Kentucky","Frederick County,Virginia",30364,860717
+235,"Wayne County,Kentucky","Giles County,Virginia",20911,543442
+236,"Wayne County,Kentucky","Gloucester County,Virginia",34342,966001
+237,"Wayne County,Kentucky","Goochland County,Virginia",29313,828715
+238,"Wayne County,Kentucky","Grayson County,Virginia",18807,479880
+239,"Wayne County,Kentucky","Greene County,Virginia",28724,781516
+240,"Wayne County,Kentucky","Greensville County,Virginia",32058,866928
+241,"Wayne County,Kentucky","Halifax County,Virginia",27377,714400
+242,"Wayne County,Kentucky","Hanover County,Virginia",30520,869822
+243,"Wayne County,Kentucky","Henrico County,Virginia",31031,882781
+244,"Wayne County,Kentucky","Henry County,Virginia",22947,603434
+245,"Wayne County,Kentucky","Highland County,Virginia",27417,725299
+246,"Wayne County,Kentucky","Isle of Wight County,Virginia",35197,927969
+247,"Wayne County,Kentucky","James City County,Virginia",33408,952583
+248,"Wayne County,Kentucky","King and Queen County,Virginia",33066,928167
+249,"Wayne County,Kentucky","King George County,Virginia",33184,942764
+250,"Wayne County,Kentucky","King William County,Virginia",31753,898090
+251,"Wayne County,Kentucky","Lancaster County,Virginia",35546,981175
+252,"Wayne County,Kentucky","Lee County,Virginia",11124,233178
+253,"Wayne County,Kentucky","Loudoun County,Virginia",32407,908857
+254,"Wayne County,Kentucky","Louisa County,Virginia",28970,811810
+255,"Wayne County,Kentucky","Lunenburg County,Virginia",29851,786222
+256,"Wayne County,Kentucky","Madison County,Virginia",29645,811257
+257,"Wayne County,Kentucky","Mathews County,Virginia",35167,989424
+258,"Wayne County,Kentucky","Mecklenburg County,Virginia",29409,765946
+259,"Wayne County,Kentucky","Middlesex County,Virginia",33943,962201
+260,"Wayne County,Kentucky","Montgomery County,Virginia",20140,547318
+261,"Wayne County,Kentucky","Nelson County,Virginia",26757,721244
+262,"Wayne County,Kentucky","New Kent County,Virginia",32844,926497
+263,"Wayne County,Kentucky","Northampton County,Virginia",37825,1069247
+264,"Wayne County,Kentucky","Northumberland County,Virginia",35585,979687
+265,"Wayne County,Kentucky","Nottoway County,Virginia",29344,786602
+266,"Wayne County,Kentucky","Orange County,Virginia",29933,819917
+267,"Wayne County,Kentucky","Page County,Virginia",28578,795042
+268,"Wayne County,Kentucky","Patrick County,Virginia",21179,561749
+269,"Wayne County,Kentucky","Pittsylvania County,Virginia",25263,657642
+270,"Wayne County,Kentucky","Powhatan County,Virginia",30406,800304
+271,"Wayne County,Kentucky","Prince Edward County,Virginia",27959,743937
+272,"Wayne County,Kentucky","Prince George County,Virginia",32732,867223
+273,"Wayne County,Kentucky","Prince William County,Virginia",31450,900345
+274,"Wayne County,Kentucky","Pulaski County,Virginia",18816,508134
+275,"Wayne County,Kentucky","Rappahannock County,Virginia",30409,831529
+276,"Wayne County,Kentucky","Richmond County,Virginia",34286,952331
+277,"Wayne County,Kentucky","Roanoke County,Virginia",20921,567254
+278,"Wayne County,Kentucky","Rockbridge County,Virginia",24418,663902
+279,"Wayne County,Kentucky","Rockingham County,Virginia",27617,767392
+280,"Wayne County,Kentucky","Russell County,Virginia",16575,364506
+281,"Wayne County,Kentucky","Scott County,Virginia",13443,281019
+282,"Wayne County,Kentucky","Shenandoah County,Virginia",28122,797496
+283,"Wayne County,Kentucky","Smyth County,Virginia",16086,419583
+284,"Wayne County,Kentucky","Southampton County,Virginia",33674,924452
+285,"Wayne County,Kentucky","Spotsylvania County,Virginia",30987,853648
+286,"Wayne County,Kentucky","Stafford County,Virginia",32368,877941
+287,"Wayne County,Kentucky","Surry County,Virginia",34151,951445
+288,"Wayne County,Kentucky","Sussex County,Virginia",32958,915231
+289,"Wayne County,Kentucky","Tazewell County,Virginia",18063,417417
+290,"Wayne County,Kentucky","Warren County,Virginia",30024,842088
+291,"Wayne County,Kentucky","Washington County,Virginia",15197,383668
+292,"Wayne County,Kentucky","Westmoreland County,Virginia",34158,959589
+293,"Wayne County,Kentucky","Wise County,Virginia",12307,287584
+294,"Wayne County,Kentucky","Wythe County,Virginia",17300,462043
+295,"Wayne County,Kentucky","York County,Virginia",34695,983358
+296,"Wayne County,Kentucky","Alexandria City County,Virginia",33619,958888
+297,"Wayne County,Kentucky","Bedford City County,Virginia",23278,627198
+298,"Wayne County,Kentucky","Bristol City County,Virginia",13796,351650
+299,"Wayne County,Kentucky","Buena Vista City County,Virginia",23790,656390
+300,"Wayne County,Kentucky","Charlottesville City County,Virginia",27201,761147
+301,"Wayne County,Kentucky","Chesapeake City County,Virginia",36158,1036263
+302,"Wayne County,Kentucky","Clifton Forge City County,Virginia",23504,660226
+303,"Wayne County,Kentucky","Colonial Heights City County,Virginia",31867,905488
+304,"Wayne County,Kentucky","Covington City County,Virginia",23030,643604
+305,"Wayne County,Kentucky","Danville City County,Virginia",25105,657890
+306,"Wayne County,Kentucky","Emporia City County,Virginia",32214,881117
+307,"Wayne County,Kentucky","Fairfax City County,Virginia",32582,926093
+308,"Wayne County,Kentucky","Falls Church City County,Virginia",32914,940565
+309,"Wayne County,Kentucky","Franklin City County,Virginia",34301,937587
+310,"Wayne County,Kentucky","Fredericksburg City County,Virginia",32120,863308
+311,"Wayne County,Kentucky","Galax City County,Virginia",19697,522579
+312,"Wayne County,Kentucky","Hampton City County,Virginia",34645,993064
+313,"Wayne County,Kentucky","Harrisonburg City County,Virginia",26677,747289
+314,"Wayne County,Kentucky","Hopewell City County,Virginia",31904,904455
+315,"Wayne County,Kentucky","Lexington City County,Virginia",23704,654717
+316,"Wayne County,Kentucky","Lynchburg City County,Virginia",25303,672073
+317,"Wayne County,Kentucky","Manassas City County,Virginia",31677,905290
+318,"Wayne County,Kentucky","Manassas Park City County,Virginia",32179,911633
+319,"Wayne County,Kentucky","Martinsville City County,Virginia",23475,612227
+320,"Wayne County,Kentucky","Newport News City County,Virginia",34202,979550
+321,"Wayne County,Kentucky","Norfolk City County,Virginia",35952,1018480
+322,"Wayne County,Kentucky","Norton City County,Virginia",12936,299395
+323,"Wayne County,Kentucky","Petersburg City County,Virginia",31735,849826
+324,"Wayne County,Kentucky","Poquoson City County,Virginia",34874,990126
+325,"Wayne County,Kentucky","Portsmouth City County,Virginia",35891,1027301
+326,"Wayne County,Kentucky","Radford County,Virginia",19327,522081
+327,"Wayne County,Kentucky","Richmond City County,Virginia",30607,870591
+328,"Wayne County,Kentucky","Roanoke City County,Virginia",21523,587359
+329,"Wayne County,Kentucky","Salem City County,Virginia",20934,573908
+330,"Wayne County,Kentucky","South Boston City County,Virginia",27117,712068
+331,"Wayne County,Kentucky","Staunton City County,Virginia",25494,708424
+332,"Wayne County,Kentucky","Suffolk City County,Virginia",35617,970889
+333,"Wayne County,Kentucky","Virginia Beach City County,Virginia",36513,1041738
+334,"Wayne County,Kentucky","Waynesboro City County,Virginia",25832,721142
+335,"Wayne County,Kentucky","Williamsburg City County,Virginia",33246,951799
+336,"Wayne County,Kentucky","Winchester City County,Virginia",30243,856861
+337,"Wayne County,Kentucky","Barbour County,West Virginia",23096,638886
+338,"Wayne County,Kentucky","Berkeley County,West Virginia",31029,877045
+339,"Wayne County,Kentucky","Boone County,West Virginia",18500,439847
+340,"Wayne County,Kentucky","Braxton County,West Virginia",19787,529865
+341,"Wayne County,Kentucky","Brooke County,West Virginia",25057,705808
+342,"Wayne County,Kentucky","Cabell County,West Virginia",12847,339012
+343,"Wayne County,Kentucky","Calhoun County,West Virginia",19708,527550
+344,"Wayne County,Kentucky","Clay County,West Virginia",18553,500778
+345,"Wayne County,Kentucky","Doddridge County,West Virginia",22240,620395
+346,"Wayne County,Kentucky","Fayette County,West Virginia",19841,519122
+347,"Wayne County,Kentucky","Gilmer County,West Virginia",20985,552052
+348,"Wayne County,Kentucky","Grant County,West Virginia",27452,740431
+349,"Wayne County,Kentucky","Greenbrier County,West Virginia",22915,597161
+350,"Wayne County,Kentucky","Hampshire County,West Virginia",30284,838649
+351,"Wayne County,Kentucky","Hancock County,West Virginia",26646,740344
+352,"Wayne County,Kentucky","Hardy County,West Virginia",28507,771928
+353,"Wayne County,Kentucky","Harrison County,West Virginia",22330,625257
+354,"Wayne County,Kentucky","Jackson County,West Virginia",17592,481881
+355,"Wayne County,Kentucky","Jefferson County,West Virginia",32032,891474
+356,"Wayne County,Kentucky","Kanawha County,West Virginia",17149,453186
+357,"Wayne County,Kentucky","Lewis County,West Virginia",20959,578727
+358,"Wayne County,Kentucky","Lincoln County,West Virginia",16064,396662
+359,"Wayne County,Kentucky","Logan County,West Virginia",16605,396483
+360,"Wayne County,Kentucky","McDowell County,West Virginia",19953,429564
+361,"Wayne County,Kentucky","Marion County,West Virginia",23475,652424
+362,"Wayne County,Kentucky","Marshall County,West Virginia",25014,700316
+363,"Wayne County,Kentucky","Mason County,West Virginia",15828,429756
+364,"Wayne County,Kentucky","Mercer County,West Virginia",19831,535647
+365,"Wayne County,Kentucky","Mineral County,West Virginia",29146,769252
+366,"Wayne County,Kentucky","Mingo County,West Virginia",15289,362936
+367,"Wayne County,Kentucky","Monongalia County,West Virginia",23686,677892
+368,"Wayne County,Kentucky","Monroe County,West Virginia",22295,585046
+369,"Wayne County,Kentucky","Morgan County,West Virginia",30521,866437
+370,"Wayne County,Kentucky","Nicholas County,West Virginia",20270,560658
+371,"Wayne County,Kentucky","Ohio County,West Virginia",24076,687045
+372,"Wayne County,Kentucky","Pendleton County,West Virginia",27783,743055
+373,"Wayne County,Kentucky","Pleasants County,West Virginia",21074,579733
+374,"Wayne County,Kentucky","Pocahontas County,West Virginia",25599,630197
+375,"Wayne County,Kentucky","Preston County,West Virginia",25832,704623
+376,"Wayne County,Kentucky","Putnam County,West Virginia",14530,391789
+377,"Wayne County,Kentucky","Raleigh County,West Virginia",19017,518438
+378,"Wayne County,Kentucky","Randolph County,West Virginia",23461,641182
+379,"Wayne County,Kentucky","Ritchie County,West Virginia",21405,593437
+380,"Wayne County,Kentucky","Roane County,West Virginia",19217,510697
+381,"Wayne County,Kentucky","Summers County,West Virginia",22386,580585
+382,"Wayne County,Kentucky","Taylor County,West Virginia",23368,647996
+383,"Wayne County,Kentucky","Tucker County,West Virginia",24528,671706
+384,"Wayne County,Kentucky","Tyler County,West Virginia",22983,619348
+385,"Wayne County,Kentucky","Upshur County,West Virginia",22524,593424
+386,"Wayne County,Kentucky","Wayne County,West Virginia",14378,360207
+387,"Wayne County,Kentucky","Webster County,West Virginia",22454,587738
+388,"Wayne County,Kentucky","Wetzel County,West Virginia",24195,641255
+389,"Wayne County,Kentucky","Wirt County,West Virginia",19858,539219
+390,"Wayne County,Kentucky","Wood County,West Virginia",19373,540909
+391,"Wayne County,Kentucky","Wyoming County,West Virginia",19575,435422

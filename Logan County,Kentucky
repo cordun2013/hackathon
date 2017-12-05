@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Logan County,Kentucky","Adair County,Kentucky",5757,166176
+1,"Logan County,Kentucky","Allen County,Kentucky",2987,77144
+2,"Logan County,Kentucky","Anderson County,Kentucky",9098,260295
+3,"Logan County,Kentucky","Ballard County,Kentucky",8371,222884
+4,"Logan County,Kentucky","Barren County,Kentucky",4168,113871
+5,"Logan County,Kentucky","Bath County,Kentucky",12789,377565
+6,"Logan County,Kentucky","Bell County,Kentucky",13727,362337
+7,"Logan County,Kentucky","Boone County,Kentucky",13220,380961
+8,"Logan County,Kentucky","Bourbon County,Kentucky",11854,332075
+9,"Logan County,Kentucky","Boyd County,Kentucky",16047,479021
+10,"Logan County,Kentucky","Boyle County,Kentucky",9610,268215
+11,"Logan County,Kentucky","Bracken County,Kentucky",15062,394913
+12,"Logan County,Kentucky","Breathitt County,Kentucky",15562,418017
+13,"Logan County,Kentucky","Breckinridge County,Kentucky",5919,138623
+14,"Logan County,Kentucky","Bullitt County,Kentucky",7054,204371
+15,"Logan County,Kentucky","Butler County,Kentucky",2034,43979
+16,"Logan County,Kentucky","Caldwell County,Kentucky",5234,118971
+17,"Logan County,Kentucky","Calloway County,Kentucky",6172,154717
+18,"Logan County,Kentucky","Campbell County,Kentucky",14090,410663
+19,"Logan County,Kentucky","Carlisle County,Kentucky",8828,238252
+20,"Logan County,Kentucky","Carroll County,Kentucky",10704,314737
+21,"Logan County,Kentucky","Carter County,Kentucky",15184,448278
+22,"Logan County,Kentucky","Casey County,Kentucky",8356,219213
+23,"Logan County,Kentucky","Christian County,Kentucky",2459,62204
+24,"Logan County,Kentucky","Clay County,Kentucky",11891,321366
+25,"Logan County,Kentucky","Clinton County,Kentucky",7707,194705
+26,"Logan County,Kentucky","Crittenden County,Kentucky",6813,152042
+27,"Logan County,Kentucky","Cumberland County,Kentucky",6866,170805
+28,"Logan County,Kentucky","Daviess County,Kentucky",4499,117789
+29,"Logan County,Kentucky","Edmonson County,Kentucky",3818,94992
+30,"Logan County,Kentucky","Elliott County,Kentucky",15960,439540
+31,"Logan County,Kentucky","Estill County,Kentucky",12658,345332
+32,"Logan County,Kentucky","Fayette County,Kentucky",10416,302300
+33,"Logan County,Kentucky","Fleming County,Kentucky",14218,407783
+34,"Logan County,Kentucky","Floyd County,Kentucky",15909,432530
+35,"Logan County,Kentucky","Franklin County,Kentucky",10757,298988
+36,"Logan County,Kentucky","Fulton County,Kentucky",9232,259216
+37,"Logan County,Kentucky","Gallatin County,Kentucky",11413,334063
+38,"Logan County,Kentucky","Garrard County,Kentucky",10499,290650
+39,"Logan County,Kentucky","Grant County,Kentucky",12779,359516
+40,"Logan County,Kentucky","Graves County,Kentucky",7852,194063
+41,"Logan County,Kentucky","Grayson County,Kentucky",4334,89179
+42,"Logan County,Kentucky","Green County,Kentucky",5800,146162
+43,"Logan County,Kentucky","Greenup County,Kentucky",16652,475608
+44,"Logan County,Kentucky","Hancock County,Kentucky",5508,130520
+45,"Logan County,Kentucky","Hardin County,Kentucky",5772,134728
+46,"Logan County,Kentucky","Harlan County,Kentucky",16021,417942
+47,"Logan County,Kentucky","Harrison County,Kentucky",12626,349020
+48,"Logan County,Kentucky","Hart County,Kentucky",4534,123483
+49,"Logan County,Kentucky","Henderson County,Kentucky",6025,166346
+50,"Logan County,Kentucky","Henry County,Kentucky",10378,295485
+51,"Logan County,Kentucky","Hickman County,Kentucky",8862,239544
+52,"Logan County,Kentucky","Hopkins County,Kentucky",4794,122465
+53,"Logan County,Kentucky","Jackson County,Kentucky",11622,315718
+54,"Logan County,Kentucky","Jefferson County,Kentucky",8311,235877
+55,"Logan County,Kentucky","Jessamine County,Kentucky",10547,299960
+56,"Logan County,Kentucky","Johnson County,Kentucky",16530,477769
+57,"Logan County,Kentucky","Kenton County,Kentucky",13106,376677
+58,"Logan County,Kentucky","Knott County,Kentucky",14693,402071
+59,"Logan County,Kentucky","Knox County,Kentucky",11959,315247
+60,"Logan County,Kentucky","Larue County,Kentucky",5807,156208
+61,"Logan County,Kentucky","Laurel County,Kentucky",10701,286117
+62,"Logan County,Kentucky","Lawrence County,Kentucky",18050,506157
+63,"Logan County,Kentucky","Lee County,Kentucky",13627,354099
+64,"Logan County,Kentucky","Leslie County,Kentucky",13841,372489
+65,"Logan County,Kentucky","Letcher County,Kentucky",15864,424076
+66,"Logan County,Kentucky","Lewis County,Kentucky",15742,445923
+67,"Logan County,Kentucky","Lincoln County,Kentucky",9325,268954
+68,"Logan County,Kentucky","Livingston County,Kentucky",6702,176822
+69,"Logan County,Kentucky","Lyon County,Kentucky",6419,153970
+70,"Logan County,Kentucky","McCracken County,Kentucky",6984,190944
+71,"Logan County,Kentucky","McCreary County,Kentucky",10010,279023
+72,"Logan County,Kentucky","Madison County,Kentucky",11215,314108
+73,"Logan County,Kentucky","Magoffin County,Kentucky",15999,459636
+74,"Logan County,Kentucky","Marion County,Kentucky",8543,204682
+75,"Logan County,Kentucky","Marshall County,Kentucky",6398,174515
+76,"Logan County,Kentucky","Martin County,Kentucky",19001,498802
+77,"Logan County,Kentucky","Mason County,Kentucky",14983,403641
+78,"Logan County,Kentucky","Meade County,Kentucky",7382,155870
+79,"Logan County,Kentucky","Menifee County,Kentucky",14064,390102
+80,"Logan County,Kentucky","Mercer County,Kentucky",9457,267091
+81,"Logan County,Kentucky","Metcalfe County,Kentucky",4730,136522
+82,"Logan County,Kentucky","Monroe County,Kentucky",5486,142550
+83,"Logan County,Kentucky","Montgomery County,Kentucky",12707,368011
+84,"Logan County,Kentucky","Morgan County,Kentucky",15389,447920
+85,"Logan County,Kentucky","Muhlenberg County,Kentucky",2609,54515
+86,"Logan County,Kentucky","Nelson County,Kentucky",6950,202576
+87,"Logan County,Kentucky","Nicholas County,Kentucky",13110,359456
+88,"Logan County,Kentucky","Ohio County,Kentucky",3600,85825
+89,"Logan County,Kentucky","Oldham County,Kentucky",9104,262785
+90,"Logan County,Kentucky","Owen County,Kentucky",12100,331162
+91,"Logan County,Kentucky","Owsley County,Kentucky",12920,337219
+92,"Logan County,Kentucky","Pendleton County,Kentucky",14045,395381
+93,"Logan County,Kentucky","Perry County,Kentucky",14075,381190
+94,"Logan County,Kentucky","Pike County,Kentucky",18470,485530
+95,"Logan County,Kentucky","Powell County,Kentucky",13000,376870
+96,"Logan County,Kentucky","Robertson County,Kentucky",13881,380583
+97,"Logan County,Kentucky","Rockcastle County,Kentucky",10186,277858
+98,"Logan County,Kentucky","Rowan County,Kentucky",13530,401416
+99,"Logan County,Kentucky","Russell County,Kentucky",6864,194385
+100,"Logan County,Kentucky","Scott County,Kentucky",11435,330947
+101,"Logan County,Kentucky","Shelby County,Kentucky",9441,270069
+102,"Logan County,Kentucky","Simpson County,Kentucky",1557,36431
+103,"Logan County,Kentucky","Spencer County,Kentucky",8470,240324
+104,"Logan County,Kentucky","Taylor County,Kentucky",7171,172659
+105,"Logan County,Kentucky","Todd County,Kentucky",1306,31539
+106,"Logan County,Kentucky","Trigg County,Kentucky",3994,92824
+107,"Logan County,Kentucky","Trimble County,Kentucky",10503,302584
+108,"Logan County,Kentucky","Union County,Kentucky",7443,186706
+109,"Logan County,Kentucky","Warren County,Kentucky",1904,46084
+110,"Logan County,Kentucky","Washington County,Kentucky",8781,243195
+111,"Logan County,Kentucky","Wayne County,Kentucky",9108,224905
+112,"Logan County,Kentucky","Webster County,Kentucky",5903,150554
+113,"Logan County,Kentucky","Whitley County,Kentucky",11343,311101
+114,"Logan County,Kentucky","Wolfe County,Kentucky",14264,414742
+115,"Logan County,Kentucky","Woodford County,Kentucky",9672,282558
+116,"Logan County,Kentucky","Adams County,Ohio",16984,487321
+117,"Logan County,Kentucky","Allen County,Ohio",20526,602570
+118,"Logan County,Kentucky","Ashland County,Ohio",23715,704448
+119,"Logan County,Kentucky","Ashtabula County,Ohio",29461,889200
+120,"Logan County,Kentucky","Athens County,Ohio",22178,633663
+121,"Logan County,Kentucky","Auglaize County,Ohio",19782,589835
+122,"Logan County,Kentucky","Belmont County,Ohio",25052,750880
+123,"Logan County,Kentucky","Brown County,Ohio",16237,463875
+124,"Logan County,Kentucky","Butler County,Ohio",15604,452444
+125,"Logan County,Kentucky","Carroll County,Ohio",27017,788103
+126,"Logan County,Kentucky","Champaign County,Ohio",18560,544017
+127,"Logan County,Kentucky","Clark County,Ohio",17988,530650
+128,"Logan County,Kentucky","Clermont County,Ohio",14354,423623
+129,"Logan County,Kentucky","Clinton County,Ohio",16449,474929
+130,"Logan County,Kentucky","Columbiana County,Ohio",28573,823692
+131,"Logan County,Kentucky","Coshocton County,Ohio",23576,683520
+132,"Logan County,Kentucky","Crawford County,Ohio",23252,696420
+133,"Logan County,Kentucky","Cuyahoga County,Ohio",26033,786913
+134,"Logan County,Kentucky","Darke County,Ohio",18880,546882
+135,"Logan County,Kentucky","Defiance County,Ohio",23285,683101
+136,"Logan County,Kentucky","Delaware County,Ohio",20632,611120
+137,"Logan County,Kentucky","Fairfield County,Ohio",20035,594369
+138,"Logan County,Kentucky","Fayette County,Ohio",17347,512534
+139,"Logan County,Kentucky","Franklin County,Ohio",19149,571047
+140,"Logan County,Kentucky","Fulton County,Ohio",24719,725680
+141,"Logan County,Kentucky","Gallia County,Ohio",20332,579393
+142,"Logan County,Kentucky","Geauga County,Ohio",27561,826131
+143,"Logan County,Kentucky","Greene County,Ohio",16776,484283
+144,"Logan County,Kentucky","Guernsey County,Ohio",22782,684561
+145,"Logan County,Kentucky","Hamilton County,Ohio",14258,416928
+146,"Logan County,Kentucky","Hancock County,Ohio",21635,643465
+147,"Logan County,Kentucky","Hardin County,Ohio",21422,627863
+148,"Logan County,Kentucky","Harrison County,Ohio",26022,770169
+149,"Logan County,Kentucky","Henry County,Ohio",23359,667934
+150,"Logan County,Kentucky","Highland County,Ohio",17297,486575
+151,"Logan County,Kentucky","Hocking County,Ohio",21473,637773
+152,"Logan County,Kentucky","Holmes County,Ohio",25126,720378
+153,"Logan County,Kentucky","Huron County,Ohio",24861,703218
+154,"Logan County,Kentucky","Jackson County,Ohio",19575,568033
+155,"Logan County,Kentucky","Jefferson County,Ohio",27016,779947
+156,"Logan County,Kentucky","Knox County,Ohio",23081,670742
+157,"Logan County,Kentucky","Lawrence County,Ohio",18453,515449
+158,"Logan County,Kentucky","Licking County,Ohio",21414,625965
+159,"Logan County,Kentucky","Logan County,Ohio",19794,576553
+160,"Logan County,Kentucky","Lorain County,Ohio",26646,761872
+161,"Logan County,Kentucky","Lucas County,Ohio",24960,729985
+162,"Logan County,Kentucky","Madison County,Ohio",18569,547716
+163,"Logan County,Kentucky","Mahoning County,Ohio",28430,840831
+164,"Logan County,Kentucky","Marion County,Ohio",21679,618555
+165,"Logan County,Kentucky","Medina County,Ohio",24360,729461
+166,"Logan County,Kentucky","Meigs County,Ohio",21264,609776
+167,"Logan County,Kentucky","Mercer County,Ohio",21018,616769
+168,"Logan County,Kentucky","Miami County,Ohio",17368,512274
+169,"Logan County,Kentucky","Monroe County,Ohio",26458,765444
+170,"Logan County,Kentucky","Montgomery County,Ohio",16751,490014
+171,"Logan County,Kentucky","Morgan County,Ohio",23847,693057
+172,"Logan County,Kentucky","Morrow County,Ohio",21439,633941
+173,"Logan County,Kentucky","Muskingum County,Ohio",21632,650717
+174,"Logan County,Kentucky","Noble County,Ohio",24481,721680
+175,"Logan County,Kentucky","Paulding County,Ohio",22218,648020
+176,"Logan County,Kentucky","Perry County,Ohio",21701,639300
+177,"Logan County,Kentucky","Pickaway County,Ohio",19284,561130
+178,"Logan County,Kentucky","Pike County,Ohio",18352,533018
+179,"Logan County,Kentucky","Portage County,Ohio",26882,800611
+180,"Logan County,Kentucky","Preble County,Ohio",17648,496843
+181,"Logan County,Kentucky","Putnam County,Ohio",21701,635038
+182,"Logan County,Kentucky","Richland County,Ohio",22469,669179
+183,"Logan County,Kentucky","Ross County,Ohio",18928,560447
+184,"Logan County,Kentucky","Sandusky County,Ohio",24675,723541
+185,"Logan County,Kentucky","Scioto County,Ohio",18734,514140
+186,"Logan County,Kentucky","Seneca County,Ohio",23979,699805
+187,"Logan County,Kentucky","Shelby County,Ohio",18406,548559
+188,"Logan County,Kentucky","Stark County,Ohio",26627,784994
+189,"Logan County,Kentucky","Summit County,Ohio",25563,764788
+190,"Logan County,Kentucky","Trumbull County,Ohio",28463,851103
+191,"Logan County,Kentucky","Tuscarawas County,Ohio",25076,743926
+192,"Logan County,Kentucky","Union County,Ohio",19921,573937
+193,"Logan County,Kentucky","Van Wert County,Ohio",21691,635093
+194,"Logan County,Kentucky","Vinton County,Ohio",21110,609200
+195,"Logan County,Kentucky","Warren County,Ohio",15137,443185
+196,"Logan County,Kentucky","Washington County,Ohio",24301,681725
+197,"Logan County,Kentucky","Wayne County,Ohio",24088,718458
+198,"Logan County,Kentucky","Williams County,Ohio",24275,702982
+199,"Logan County,Kentucky","Wood County,Ohio",22723,684094
+200,"Logan County,Kentucky","Wyandot County,Ohio",22331,664345
+201,"Logan County,Kentucky","Accomack County,Virginia",46293,1315351
+202,"Logan County,Kentucky","Albemarle County,Virginia",32443,927851
+203,"Logan County,Kentucky","Alleghany County,Virginia",26951,802412
+204,"Logan County,Kentucky","Amelia County,Virginia",35015,966706
+205,"Logan County,Kentucky","Amherst County,Virginia",31917,872765
+206,"Logan County,Kentucky","Appomattox County,Virginia",32092,886375
+207,"Logan County,Kentucky","Arlington County,Virginia",38565,1161421
+208,"Logan County,Kentucky","Augusta County,Virginia",30893,903728
+209,"Logan County,Kentucky","Bath County,Virginia",29963,877722
+210,"Logan County,Kentucky","Bedford County,Virginia",29825,817685
+211,"Logan County,Kentucky","Bland County,Virginia",23841,667287
+212,"Logan County,Kentucky","Botetourt County,Virginia",28681,801750
+213,"Logan County,Kentucky","Brunswick County,Virginia",36573,1031428
+214,"Logan County,Kentucky","Buchanan County,Virginia",21997,533347
+215,"Logan County,Kentucky","Buckingham County,Virginia",33206,910285
+216,"Logan County,Kentucky","Campbell County,Virginia",31241,858920
+217,"Logan County,Kentucky","Caroline County,Virginia",37782,1096696
+218,"Logan County,Kentucky","Carroll County,Virginia",24785,698632
+219,"Logan County,Kentucky","Charles City County,Virginia",37883,1093731
+220,"Logan County,Kentucky","Charlotte County,Virginia",33790,926856
+221,"Logan County,Kentucky","Chesterfield County,Virginia",36709,1005596
+222,"Logan County,Kentucky","Clarke County,Virginia",36623,1054909
+223,"Logan County,Kentucky","Craig County,Virginia",28080,779318
+224,"Logan County,Kentucky","Culpeper County,Virginia",36240,1017067
+225,"Logan County,Kentucky","Cumberland County,Virginia",34620,947516
+226,"Logan County,Kentucky","Dickenson County,Virginia",19423,491022
+227,"Logan County,Kentucky","Dinwiddie County,Virginia",36788,1009767
+228,"Logan County,Kentucky","Essex County,Virginia",39600,1120739
+229,"Logan County,Kentucky","Fairfax County,Virginia",38256,1152088
+230,"Logan County,Kentucky","Fauquier County,Virginia",37061,1076160
+231,"Logan County,Kentucky","Floyd County,Virginia",26677,738732
+232,"Logan County,Kentucky","Fluvanna County,Virginia",34121,980022
+233,"Logan County,Kentucky","Franklin County,Virginia",29338,818918
+234,"Logan County,Kentucky","Frederick County,Virginia",35127,1006581
+235,"Logan County,Kentucky","Giles County,Virginia",26622,725361
+236,"Logan County,Kentucky","Gloucester County,Virginia",40053,1147919
+237,"Logan County,Kentucky","Goochland County,Virginia",35024,1010633
+238,"Logan County,Kentucky","Grayson County,Virginia",24518,661799
+239,"Logan County,Kentucky","Greene County,Virginia",34436,963435
+240,"Logan County,Kentucky","Greensville County,Virginia",37769,1048847
+241,"Logan County,Kentucky","Halifax County,Virginia",33088,896319
+242,"Logan County,Kentucky","Hanover County,Virginia",36231,1051740
+243,"Logan County,Kentucky","Henrico County,Virginia",36742,1064700
+244,"Logan County,Kentucky","Henry County,Virginia",28658,785352
+245,"Logan County,Kentucky","Highland County,Virginia",31407,887692
+246,"Logan County,Kentucky","Isle of Wight County,Virginia",40908,1109888
+247,"Logan County,Kentucky","James City County,Virginia",39119,1134502
+248,"Logan County,Kentucky","King and Queen County,Virginia",38777,1110086
+249,"Logan County,Kentucky","King George County,Virginia",38895,1124683
+250,"Logan County,Kentucky","King William County,Virginia",37464,1080008
+251,"Logan County,Kentucky","Lancaster County,Virginia",41257,1163094
+252,"Logan County,Kentucky","Lee County,Virginia",16819,438896
+253,"Logan County,Kentucky","Loudoun County,Virginia",38119,1090775
+254,"Logan County,Kentucky","Louisa County,Virginia",34682,993728
+255,"Logan County,Kentucky","Lunenburg County,Virginia",35562,968141
+256,"Logan County,Kentucky","Madison County,Virginia",35356,993175
+257,"Logan County,Kentucky","Mathews County,Virginia",40878,1171343
+258,"Logan County,Kentucky","Mecklenburg County,Virginia",35120,947864
+259,"Logan County,Kentucky","Middlesex County,Virginia",39655,1144120
+260,"Logan County,Kentucky","Montgomery County,Virginia",25851,729236
+261,"Logan County,Kentucky","Nelson County,Virginia",32468,903162
+262,"Logan County,Kentucky","New Kent County,Virginia",38555,1108416
+263,"Logan County,Kentucky","Northampton County,Virginia",43536,1251165
+264,"Logan County,Kentucky","Northumberland County,Virginia",41297,1161606
+265,"Logan County,Kentucky","Nottoway County,Virginia",35055,968520
+266,"Logan County,Kentucky","Orange County,Virginia",35644,1001836
+267,"Logan County,Kentucky","Page County,Virginia",34289,976961
+268,"Logan County,Kentucky","Patrick County,Virginia",26890,743667
+269,"Logan County,Kentucky","Pittsylvania County,Virginia",30974,839561
+270,"Logan County,Kentucky","Powhatan County,Virginia",36117,982223
+271,"Logan County,Kentucky","Prince Edward County,Virginia",33670,925856
+272,"Logan County,Kentucky","Prince George County,Virginia",38443,1049141
+273,"Logan County,Kentucky","Prince William County,Virginia",37161,1082264
+274,"Logan County,Kentucky","Pulaski County,Virginia",24528,690052
+275,"Logan County,Kentucky","Rappahannock County,Virginia",36120,1013448
+276,"Logan County,Kentucky","Richmond County,Virginia",39997,1134249
+277,"Logan County,Kentucky","Roanoke County,Virginia",26632,749173
+278,"Logan County,Kentucky","Rockbridge County,Virginia",29284,870768
+279,"Logan County,Kentucky","Rockingham County,Virginia",33328,949311
+280,"Logan County,Kentucky","Russell County,Virginia",21956,543843
+281,"Logan County,Kentucky","Scott County,Virginia",19138,486737
+282,"Logan County,Kentucky","Shenandoah County,Virginia",33833,979415
+283,"Logan County,Kentucky","Smyth County,Virginia",21797,601502
+284,"Logan County,Kentucky","Southampton County,Virginia",39385,1106371
+285,"Logan County,Kentucky","Spotsylvania County,Virginia",36698,1035567
+286,"Logan County,Kentucky","Stafford County,Virginia",38079,1059860
+287,"Logan County,Kentucky","Surry County,Virginia",39862,1133363
+288,"Logan County,Kentucky","Sussex County,Virginia",38669,1097150
+289,"Logan County,Kentucky","Tazewell County,Virginia",23444,596754
+290,"Logan County,Kentucky","Warren County,Virginia",35735,1024007
+291,"Logan County,Kentucky","Washington County,Virginia",20908,565587
+292,"Logan County,Kentucky","Westmoreland County,Virginia",39869,1141507
+293,"Logan County,Kentucky","Wise County,Virginia",17688,466921
+294,"Logan County,Kentucky","Wythe County,Virginia",23011,643961
+295,"Logan County,Kentucky","York County,Virginia",40406,1165276
+296,"Logan County,Kentucky","Alexandria City County,Virginia",39330,1140806
+297,"Logan County,Kentucky","Bedford City County,Virginia",28989,809116
+298,"Logan County,Kentucky","Bristol City County,Virginia",19507,533569
+299,"Logan County,Kentucky","Buena Vista City County,Virginia",29501,838308
+300,"Logan County,Kentucky","Charlottesville City County,Virginia",32912,943065
+301,"Logan County,Kentucky","Chesapeake City County,Virginia",41869,1218182
+302,"Logan County,Kentucky","Clifton Forge City County,Virginia",27495,822618
+303,"Logan County,Kentucky","Colonial Heights City County,Virginia",37578,1087407
+304,"Logan County,Kentucky","Covington City County,Virginia",27020,805997
+305,"Logan County,Kentucky","Danville City County,Virginia",30816,839808
+306,"Logan County,Kentucky","Emporia City County,Virginia",37925,1063035
+307,"Logan County,Kentucky","Fairfax City County,Virginia",38293,1108011
+308,"Logan County,Kentucky","Falls Church City County,Virginia",38625,1122484
+309,"Logan County,Kentucky","Franklin City County,Virginia",40012,1119506
+310,"Logan County,Kentucky","Fredericksburg City County,Virginia",37831,1045226
+311,"Logan County,Kentucky","Galax City County,Virginia",25408,704498
+312,"Logan County,Kentucky","Hampton City County,Virginia",40356,1174983
+313,"Logan County,Kentucky","Harrisonburg City County,Virginia",32388,929207
+314,"Logan County,Kentucky","Hopewell City County,Virginia",37615,1086373
+315,"Logan County,Kentucky","Lexington City County,Virginia",29415,836636
+316,"Logan County,Kentucky","Lynchburg City County,Virginia",31014,853992
+317,"Logan County,Kentucky","Manassas City County,Virginia",37388,1087209
+318,"Logan County,Kentucky","Manassas Park City County,Virginia",37890,1093552
+319,"Logan County,Kentucky","Martinsville City County,Virginia",29186,794146
+320,"Logan County,Kentucky","Newport News City County,Virginia",39913,1161468
+321,"Logan County,Kentucky","Norfolk City County,Virginia",41663,1200399
+322,"Logan County,Kentucky","Norton City County,Virginia",18317,478732
+323,"Logan County,Kentucky","Petersburg City County,Virginia",37446,1031745
+324,"Logan County,Kentucky","Poquoson City County,Virginia",40585,1172045
+325,"Logan County,Kentucky","Portsmouth City County,Virginia",41602,1209219
+326,"Logan County,Kentucky","Radford County,Virginia",25038,704000
+327,"Logan County,Kentucky","Richmond City County,Virginia",36318,1052510
+328,"Logan County,Kentucky","Roanoke City County,Virginia",27234,769277
+329,"Logan County,Kentucky","Salem City County,Virginia",26645,755827
+330,"Logan County,Kentucky","South Boston City County,Virginia",32828,893987
+331,"Logan County,Kentucky","Staunton City County,Virginia",31205,890342
+332,"Logan County,Kentucky","Suffolk City County,Virginia",41328,1152808
+333,"Logan County,Kentucky","Virginia Beach City County,Virginia",42224,1223657
+334,"Logan County,Kentucky","Waynesboro City County,Virginia",31543,903060
+335,"Logan County,Kentucky","Williamsburg City County,Virginia",38957,1133718
+336,"Logan County,Kentucky","Winchester City County,Virginia",35606,1040582
+337,"Logan County,Kentucky","Barbour County,West Virginia",27087,801279
+338,"Logan County,Kentucky","Berkeley County,West Virginia",35020,1039438
+339,"Logan County,Kentucky","Boone County,West Virginia",22266,634896
+340,"Logan County,Kentucky","Braxton County,West Virginia",23777,692258
+341,"Logan County,Kentucky","Brooke County,West Virginia",27131,793128
+342,"Logan County,Kentucky","Cabell County,West Virginia",16837,501404
+343,"Logan County,Kentucky","Calhoun County,West Virginia",23698,689943
+344,"Logan County,Kentucky","Clay County,West Virginia",22544,663171
+345,"Logan County,Kentucky","Doddridge County,West Virginia",26230,782788
+346,"Logan County,Kentucky","Fayette County,West Virginia",23831,681515
+347,"Logan County,Kentucky","Gilmer County,West Virginia",24976,714445
+348,"Logan County,Kentucky","Grant County,West Virginia",31442,902824
+349,"Logan County,Kentucky","Greenbrier County,West Virginia",26905,759553
+350,"Logan County,Kentucky","Hampshire County,West Virginia",34274,1001042
+351,"Logan County,Kentucky","Hancock County,West Virginia",28721,827663
+352,"Logan County,Kentucky","Hardy County,West Virginia",32498,934321
+353,"Logan County,Kentucky","Harrison County,West Virginia",26320,787649
+354,"Logan County,Kentucky","Jackson County,West Virginia",21582,644274
+355,"Logan County,Kentucky","Jefferson County,West Virginia",36486,1095436
+356,"Logan County,Kentucky","Kanawha County,West Virginia",21140,615579
+357,"Logan County,Kentucky","Lewis County,West Virginia",24950,741120
+358,"Logan County,Kentucky","Lincoln County,West Virginia",20054,559055
+359,"Logan County,Kentucky","Logan County,West Virginia",21986,575820
+360,"Logan County,Kentucky","McDowell County,West Virginia",25334,608901
+361,"Logan County,Kentucky","Marion County,West Virginia",27466,814817
+362,"Logan County,Kentucky","Marshall County,West Virginia",27089,787635
+363,"Logan County,Kentucky","Mason County,West Virginia",19819,592149
+364,"Logan County,Kentucky","Mercer County,West Virginia",24467,727138
+365,"Logan County,Kentucky","Mineral County,West Virginia",33137,931645
+366,"Logan County,Kentucky","Mingo County,West Virginia",20670,542273
+367,"Logan County,Kentucky","Monongalia County,West Virginia",27676,840285
+368,"Logan County,Kentucky","Monroe County,West Virginia",27512,771850
+369,"Logan County,Kentucky","Morgan County,West Virginia",34511,1028830
+370,"Logan County,Kentucky","Nicholas County,West Virginia",24260,723051
+371,"Logan County,Kentucky","Ohio County,West Virginia",26150,774365
+372,"Logan County,Kentucky","Pendleton County,West Virginia",31773,905448
+373,"Logan County,Kentucky","Pleasants County,West Virginia",25065,742126
+374,"Logan County,Kentucky","Pocahontas County,West Virginia",29589,792590
+375,"Logan County,Kentucky","Preston County,West Virginia",29822,867016
+376,"Logan County,Kentucky","Putnam County,West Virginia",18521,554182
+377,"Logan County,Kentucky","Raleigh County,West Virginia",23008,680831
+378,"Logan County,Kentucky","Randolph County,West Virginia",27451,803574
+379,"Logan County,Kentucky","Ritchie County,West Virginia",25395,755830
+380,"Logan County,Kentucky","Roane County,West Virginia",23208,673090
+381,"Logan County,Kentucky","Summers County,West Virginia",26460,742269
+382,"Logan County,Kentucky","Taylor County,West Virginia",27358,810389
+383,"Logan County,Kentucky","Tucker County,West Virginia",28518,834099
+384,"Logan County,Kentucky","Tyler County,West Virginia",26974,781741
+385,"Logan County,Kentucky","Upshur County,West Virginia",26515,755816
+386,"Logan County,Kentucky","Wayne County,West Virginia",18368,522600
+387,"Logan County,Kentucky","Webster County,West Virginia",26444,750131
+388,"Logan County,Kentucky","Wetzel County,West Virginia",28186,803648
+389,"Logan County,Kentucky","Wirt County,West Virginia",23848,701612
+390,"Logan County,Kentucky","Wood County,West Virginia",23363,703302
+391,"Logan County,Kentucky","Wyoming County,West Virginia",24956,614759

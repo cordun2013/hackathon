@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Edmonson County,Kentucky","Adair County,Kentucky",3877,109173
+1,"Edmonson County,Kentucky","Allen County,Kentucky",2819,57444
+2,"Edmonson County,Kentucky","Anderson County,Kentucky",6760,188706
+3,"Edmonson County,Kentucky","Ballard County,Kentucky",10499,281619
+4,"Edmonson County,Kentucky","Barren County,Kentucky",2288,56867
+5,"Edmonson County,Kentucky","Bath County,Kentucky",10452,305976
+6,"Edmonson County,Kentucky","Bell County,Kentucky",11847,305334
+7,"Edmonson County,Kentucky","Boone County,Kentucky",10882,309372
+8,"Edmonson County,Kentucky","Bourbon County,Kentucky",9516,260486
+9,"Edmonson County,Kentucky","Boyd County,Kentucky",13709,407432
+10,"Edmonson County,Kentucky","Boyle County,Kentucky",7272,196626
+11,"Edmonson County,Kentucky","Bracken County,Kentucky",12725,323324
+12,"Edmonson County,Kentucky","Breathitt County,Kentucky",13052,370156
+13,"Edmonson County,Kentucky","Breckinridge County,Kentucky",4379,89760
+14,"Edmonson County,Kentucky","Bullitt County,Kentucky",4716,132782
+15,"Edmonson County,Kentucky","Butler County,Kentucky",2743,54327
+16,"Edmonson County,Kentucky","Caldwell County,Kentucky",6611,172472
+17,"Edmonson County,Kentucky","Calloway County,Kentucky",9421,257464
+18,"Edmonson County,Kentucky","Campbell County,Kentucky",11752,339074
+19,"Edmonson County,Kentucky","Carlisle County,Kentucky",10956,296987
+20,"Edmonson County,Kentucky","Carroll County,Kentucky",8366,243149
+21,"Edmonson County,Kentucky","Carter County,Kentucky",12846,376689
+22,"Edmonson County,Kentucky","Casey County,Kentucky",6476,162210
+23,"Edmonson County,Kentucky","Christian County,Kentucky",6081,154521
+24,"Edmonson County,Kentucky","Clay County,Kentucky",10011,264362
+25,"Edmonson County,Kentucky","Clinton County,Kentucky",5828,137702
+26,"Edmonson County,Kentucky","Crittenden County,Kentucky",8190,205542
+27,"Edmonson County,Kentucky","Cumberland County,Kentucky",4987,113801
+28,"Edmonson County,Kentucky","Daviess County,Kentucky",4685,116333
+29,"Edmonson County,Kentucky","Elliott County,Kentucky",13622,367951
+30,"Edmonson County,Kentucky","Estill County,Kentucky",10779,288329
+31,"Edmonson County,Kentucky","Fayette County,Kentucky",8078,230711
+32,"Edmonson County,Kentucky","Fleming County,Kentucky",11880,336195
+33,"Edmonson County,Kentucky","Floyd County,Kentucky",14030,375527
+34,"Edmonson County,Kentucky","Franklin County,Kentucky",8419,227399
+35,"Edmonson County,Kentucky","Fulton County,Kentucky",11360,317951
+36,"Edmonson County,Kentucky","Gallatin County,Kentucky",9075,262474
+37,"Edmonson County,Kentucky","Garrard County,Kentucky",8620,233647
+38,"Edmonson County,Kentucky","Grant County,Kentucky",10441,287927
+39,"Edmonson County,Kentucky","Graves County,Kentucky",9981,269693
+40,"Edmonson County,Kentucky","Grayson County,Kentucky",2295,48244
+41,"Edmonson County,Kentucky","Green County,Kentucky",3445,71148
+42,"Edmonson County,Kentucky","Greenup County,Kentucky",14314,404019
+43,"Edmonson County,Kentucky","Hancock County,Kentucky",5063,106391
+44,"Edmonson County,Kentucky","Hardin County,Kentucky",3639,76223
+45,"Edmonson County,Kentucky","Harlan County,Kentucky",14142,360939
+46,"Edmonson County,Kentucky","Harrison County,Kentucky",10288,277432
+47,"Edmonson County,Kentucky","Hart County,Kentucky",2196,51894
+48,"Edmonson County,Kentucky","Henderson County,Kentucky",6592,172753
+49,"Edmonson County,Kentucky","Henry County,Kentucky",8040,223896
+50,"Edmonson County,Kentucky","Hickman County,Kentucky",10989,298279
+51,"Edmonson County,Kentucky","Hopkins County,Kentucky",6069,146940
+52,"Edmonson County,Kentucky","Jackson County,Kentucky",9742,258715
+53,"Edmonson County,Kentucky","Jefferson County,Kentucky",5974,164288
+54,"Edmonson County,Kentucky","Jessamine County,Kentucky",8209,228371
+55,"Edmonson County,Kentucky","Johnson County,Kentucky",14192,406180
+56,"Edmonson County,Kentucky","Kenton County,Kentucky",10768,305088
+57,"Edmonson County,Kentucky","Knott County,Kentucky",12813,345068
+58,"Edmonson County,Kentucky","Knox County,Kentucky",10080,258244
+59,"Edmonson County,Kentucky","Larue County,Kentucky",3469,84620
+60,"Edmonson County,Kentucky","Laurel County,Kentucky",8821,229114
+61,"Edmonson County,Kentucky","Lawrence County,Kentucky",15712,434568
+62,"Edmonson County,Kentucky","Lee County,Kentucky",11747,297096
+63,"Edmonson County,Kentucky","Leslie County,Kentucky",11961,315486
+64,"Edmonson County,Kentucky","Letcher County,Kentucky",13984,367072
+65,"Edmonson County,Kentucky","Lewis County,Kentucky",13404,374334
+66,"Edmonson County,Kentucky","Lincoln County,Kentucky",7445,211951
+67,"Edmonson County,Kentucky","Livingston County,Kentucky",8786,222439
+68,"Edmonson County,Kentucky","Logan County,Kentucky",3753,93801
+69,"Edmonson County,Kentucky","Lyon County,Kentucky",8920,232829
+70,"Edmonson County,Kentucky","McCracken County,Kentucky",9111,249678
+71,"Edmonson County,Kentucky","McCreary County,Kentucky",8130,222020
+72,"Edmonson County,Kentucky","Madison County,Kentucky",9335,257104
+73,"Edmonson County,Kentucky","Magoffin County,Kentucky",13661,388047
+74,"Edmonson County,Kentucky","Marion County,Kentucky",6187,129668
+75,"Edmonson County,Kentucky","Marshall County,Kentucky",8526,233250
+76,"Edmonson County,Kentucky","Martin County,Kentucky",17121,441799
+77,"Edmonson County,Kentucky","Mason County,Kentucky",12645,332052
+78,"Edmonson County,Kentucky","Meade County,Kentucky",5586,116325
+79,"Edmonson County,Kentucky","Menifee County,Kentucky",11726,318514
+80,"Edmonson County,Kentucky","Mercer County,Kentucky",7119,195502
+81,"Edmonson County,Kentucky","Metcalfe County,Kentucky",2851,79519
+82,"Edmonson County,Kentucky","Monroe County,Kentucky",3606,85547
+83,"Edmonson County,Kentucky","Montgomery County,Kentucky",10369,296423
+84,"Edmonson County,Kentucky","Morgan County,Kentucky",13051,376332
+85,"Edmonson County,Kentucky","Muhlenberg County,Kentucky",4758,101182
+86,"Edmonson County,Kentucky","Nelson County,Kentucky",4612,130987
+87,"Edmonson County,Kentucky","Nicholas County,Kentucky",10773,287868
+88,"Edmonson County,Kentucky","Ohio County,Kentucky",3786,84369
+89,"Edmonson County,Kentucky","Oldham County,Kentucky",6766,191196
+90,"Edmonson County,Kentucky","Owen County,Kentucky",9762,259573
+91,"Edmonson County,Kentucky","Owsley County,Kentucky",11041,280216
+92,"Edmonson County,Kentucky","Pendleton County,Kentucky",11707,323792
+93,"Edmonson County,Kentucky","Perry County,Kentucky",12196,324187
+94,"Edmonson County,Kentucky","Pike County,Kentucky",16590,428526
+95,"Edmonson County,Kentucky","Powell County,Kentucky",10662,305281
+96,"Edmonson County,Kentucky","Robertson County,Kentucky",11543,308994
+97,"Edmonson County,Kentucky","Rockcastle County,Kentucky",8307,220855
+98,"Edmonson County,Kentucky","Rowan County,Kentucky",11193,329828
+99,"Edmonson County,Kentucky","Russell County,Kentucky",4984,137382
+100,"Edmonson County,Kentucky","Scott County,Kentucky",9097,259358
+101,"Edmonson County,Kentucky","Shelby County,Kentucky",7103,198480
+102,"Edmonson County,Kentucky","Simpson County,Kentucky",3342,82674
+103,"Edmonson County,Kentucky","Spencer County,Kentucky",6132,168735
+104,"Edmonson County,Kentucky","Taylor County,Kentucky",4815,97645
+105,"Edmonson County,Kentucky","Todd County,Kentucky",4928,123856
+106,"Edmonson County,Kentucky","Trigg County,Kentucky",7616,185141
+107,"Edmonson County,Kentucky","Trimble County,Kentucky",8165,230996
+108,"Edmonson County,Kentucky","Union County,Kentucky",8336,209854
+109,"Edmonson County,Kentucky","Warren County,Kentucky",2214,43224
+110,"Edmonson County,Kentucky","Washington County,Kentucky",6443,171606
+111,"Edmonson County,Kentucky","Wayne County,Kentucky",7229,167901
+112,"Edmonson County,Kentucky","Webster County,Kentucky",7178,175029
+113,"Edmonson County,Kentucky","Whitley County,Kentucky",9463,254098
+114,"Edmonson County,Kentucky","Wolfe County,Kentucky",11926,343153
+115,"Edmonson County,Kentucky","Woodford County,Kentucky",7334,210969
+116,"Edmonson County,Kentucky","Adams County,Ohio",14646,415732
+117,"Edmonson County,Kentucky","Allen County,Ohio",18188,530981
+118,"Edmonson County,Kentucky","Ashland County,Ohio",21377,632859
+119,"Edmonson County,Kentucky","Ashtabula County,Ohio",27123,817611
+120,"Edmonson County,Kentucky","Athens County,Ohio",19840,562075
+121,"Edmonson County,Kentucky","Auglaize County,Ohio",17444,518246
+122,"Edmonson County,Kentucky","Belmont County,Ohio",22715,679291
+123,"Edmonson County,Kentucky","Brown County,Ohio",13899,392287
+124,"Edmonson County,Kentucky","Butler County,Ohio",13266,380855
+125,"Edmonson County,Kentucky","Carroll County,Ohio",24679,716514
+126,"Edmonson County,Kentucky","Champaign County,Ohio",16222,472428
+127,"Edmonson County,Kentucky","Clark County,Ohio",15650,459061
+128,"Edmonson County,Kentucky","Clermont County,Ohio",12016,352034
+129,"Edmonson County,Kentucky","Clinton County,Ohio",14111,403340
+130,"Edmonson County,Kentucky","Columbiana County,Ohio",26235,752103
+131,"Edmonson County,Kentucky","Coshocton County,Ohio",21238,611932
+132,"Edmonson County,Kentucky","Crawford County,Ohio",20914,624831
+133,"Edmonson County,Kentucky","Cuyahoga County,Ohio",23695,715324
+134,"Edmonson County,Kentucky","Darke County,Ohio",16542,475293
+135,"Edmonson County,Kentucky","Defiance County,Ohio",20947,611512
+136,"Edmonson County,Kentucky","Delaware County,Ohio",18294,539531
+137,"Edmonson County,Kentucky","Fairfield County,Ohio",17697,522780
+138,"Edmonson County,Kentucky","Fayette County,Ohio",15009,440945
+139,"Edmonson County,Kentucky","Franklin County,Ohio",16811,499458
+140,"Edmonson County,Kentucky","Fulton County,Ohio",22381,654091
+141,"Edmonson County,Kentucky","Gallia County,Ohio",17994,507804
+142,"Edmonson County,Kentucky","Geauga County,Ohio",25223,754543
+143,"Edmonson County,Kentucky","Greene County,Ohio",14438,412694
+144,"Edmonson County,Kentucky","Guernsey County,Ohio",20444,612972
+145,"Edmonson County,Kentucky","Hamilton County,Ohio",11920,345340
+146,"Edmonson County,Kentucky","Hancock County,Ohio",19297,571877
+147,"Edmonson County,Kentucky","Hardin County,Ohio",19084,556274
+148,"Edmonson County,Kentucky","Harrison County,Ohio",23684,698580
+149,"Edmonson County,Kentucky","Henry County,Ohio",21021,596345
+150,"Edmonson County,Kentucky","Highland County,Ohio",14959,414986
+151,"Edmonson County,Kentucky","Hocking County,Ohio",19135,566185
+152,"Edmonson County,Kentucky","Holmes County,Ohio",22788,648789
+153,"Edmonson County,Kentucky","Huron County,Ohio",22523,631630
+154,"Edmonson County,Kentucky","Jackson County,Ohio",17238,496444
+155,"Edmonson County,Kentucky","Jefferson County,Ohio",24678,708358
+156,"Edmonson County,Kentucky","Knox County,Ohio",20744,599153
+157,"Edmonson County,Kentucky","Lawrence County,Ohio",16116,443860
+158,"Edmonson County,Kentucky","Licking County,Ohio",19076,554376
+159,"Edmonson County,Kentucky","Logan County,Ohio",17456,504965
+160,"Edmonson County,Kentucky","Lorain County,Ohio",24309,690284
+161,"Edmonson County,Kentucky","Lucas County,Ohio",22622,658397
+162,"Edmonson County,Kentucky","Madison County,Ohio",16231,476127
+163,"Edmonson County,Kentucky","Mahoning County,Ohio",26092,769243
+164,"Edmonson County,Kentucky","Marion County,Ohio",19341,546966
+165,"Edmonson County,Kentucky","Medina County,Ohio",22022,657872
+166,"Edmonson County,Kentucky","Meigs County,Ohio",18926,538187
+167,"Edmonson County,Kentucky","Mercer County,Ohio",18680,545180
+168,"Edmonson County,Kentucky","Miami County,Ohio",15030,440685
+169,"Edmonson County,Kentucky","Monroe County,Ohio",24120,693855
+170,"Edmonson County,Kentucky","Montgomery County,Ohio",14413,418425
+171,"Edmonson County,Kentucky","Morgan County,Ohio",21509,621468
+172,"Edmonson County,Kentucky","Morrow County,Ohio",19101,562352
+173,"Edmonson County,Kentucky","Muskingum County,Ohio",19294,579128
+174,"Edmonson County,Kentucky","Noble County,Ohio",22143,650092
+175,"Edmonson County,Kentucky","Paulding County,Ohio",19880,576431
+176,"Edmonson County,Kentucky","Perry County,Ohio",19363,567712
+177,"Edmonson County,Kentucky","Pickaway County,Ohio",16946,489541
+178,"Edmonson County,Kentucky","Pike County,Ohio",16014,461429
+179,"Edmonson County,Kentucky","Portage County,Ohio",24544,729022
+180,"Edmonson County,Kentucky","Preble County,Ohio",15310,425254
+181,"Edmonson County,Kentucky","Putnam County,Ohio",19363,563449
+182,"Edmonson County,Kentucky","Richland County,Ohio",20131,597590
+183,"Edmonson County,Kentucky","Ross County,Ohio",16590,488858
+184,"Edmonson County,Kentucky","Sandusky County,Ohio",22337,651953
+185,"Edmonson County,Kentucky","Scioto County,Ohio",16396,442551
+186,"Edmonson County,Kentucky","Seneca County,Ohio",21641,628216
+187,"Edmonson County,Kentucky","Shelby County,Ohio",16069,476971
+188,"Edmonson County,Kentucky","Stark County,Ohio",24289,713405
+189,"Edmonson County,Kentucky","Summit County,Ohio",23225,693199
+190,"Edmonson County,Kentucky","Trumbull County,Ohio",26125,779514
+191,"Edmonson County,Kentucky","Tuscarawas County,Ohio",22738,672337
+192,"Edmonson County,Kentucky","Union County,Ohio",17583,502349
+193,"Edmonson County,Kentucky","Van Wert County,Ohio",19353,563505
+194,"Edmonson County,Kentucky","Vinton County,Ohio",18772,537611
+195,"Edmonson County,Kentucky","Warren County,Ohio",12799,371596
+196,"Edmonson County,Kentucky","Washington County,Ohio",21963,610136
+197,"Edmonson County,Kentucky","Wayne County,Ohio",21750,646870
+198,"Edmonson County,Kentucky","Williams County,Ohio",21937,631393
+199,"Edmonson County,Kentucky","Wood County,Ohio",20385,612505
+200,"Edmonson County,Kentucky","Wyandot County,Ohio",19993,592757
+201,"Edmonson County,Kentucky","Accomack County,Virginia",43794,1281301
+202,"Edmonson County,Kentucky","Albemarle County,Virginia",29944,893800
+203,"Edmonson County,Kentucky","Alleghany County,Virginia",24613,730823
+204,"Edmonson County,Kentucky","Amelia County,Virginia",34635,934987
+205,"Edmonson County,Kentucky","Amherst County,Virginia",29942,861789
+206,"Edmonson County,Kentucky","Appomattox County,Virginia",31535,900548
+207,"Edmonson County,Kentucky","Arlington County,Virginia",36227,1089832
+208,"Edmonson County,Kentucky","Augusta County,Virginia",28555,832140
+209,"Edmonson County,Kentucky","Bath County,Virginia",27625,806133
+210,"Edmonson County,Kentucky","Bedford County,Virginia",29445,785966
+211,"Edmonson County,Kentucky","Bland County,Virginia",23461,635568
+212,"Edmonson County,Kentucky","Botetourt County,Virginia",27767,802123
+213,"Edmonson County,Kentucky","Brunswick County,Virginia",36193,999709
+214,"Edmonson County,Kentucky","Buchanan County,Virginia",20117,476343
+215,"Edmonson County,Kentucky","Buckingham County,Virginia",31818,911483
+216,"Edmonson County,Kentucky","Campbell County,Virginia",30861,827201
+217,"Edmonson County,Kentucky","Caroline County,Virginia",35283,1062646
+218,"Edmonson County,Kentucky","Carroll County,Virginia",24405,666913
+219,"Edmonson County,Kentucky","Charles City County,Virginia",35384,1059680
+220,"Edmonson County,Kentucky","Charlotte County,Virginia",33410,895138
+221,"Edmonson County,Kentucky","Chesterfield County,Virginia",34520,1037464
+222,"Edmonson County,Kentucky","Clarke County,Virginia",34124,1020858
+223,"Edmonson County,Kentucky","Craig County,Virginia",26256,751908
+224,"Edmonson County,Kentucky","Culpeper County,Virginia",33741,983017
+225,"Edmonson County,Kentucky","Cumberland County,Virginia",33028,939486
+226,"Edmonson County,Kentucky","Dickenson County,Virginia",17543,434018
+227,"Edmonson County,Kentucky","Dinwiddie County,Virginia",36408,978049
+228,"Edmonson County,Kentucky","Essex County,Virginia",37101,1086688
+229,"Edmonson County,Kentucky","Fairfax County,Virginia",35918,1080499
+230,"Edmonson County,Kentucky","Fauquier County,Virginia",34562,1042109
+231,"Edmonson County,Kentucky","Floyd County,Virginia",26297,707013
+232,"Edmonson County,Kentucky","Fluvanna County,Virginia",31622,945972
+233,"Edmonson County,Kentucky","Franklin County,Virginia",28958,787200
+234,"Edmonson County,Kentucky","Frederick County,Virginia",32789,934992
+235,"Edmonson County,Kentucky","Giles County,Virginia",24306,708601
+236,"Edmonson County,Kentucky","Gloucester County,Virginia",37554,1113869
+237,"Edmonson County,Kentucky","Goochland County,Virginia",32526,976583
+238,"Edmonson County,Kentucky","Grayson County,Virginia",24138,630080
+239,"Edmonson County,Kentucky","Greene County,Virginia",31937,929384
+240,"Edmonson County,Kentucky","Greensville County,Virginia",37389,1017128
+241,"Edmonson County,Kentucky","Halifax County,Virginia",32709,864600
+242,"Edmonson County,Kentucky","Hanover County,Virginia",33732,1017690
+243,"Edmonson County,Kentucky","Henrico County,Virginia",34243,1030649
+244,"Edmonson County,Kentucky","Henry County,Virginia",28279,753634
+245,"Edmonson County,Kentucky","Highland County,Virginia",29069,816103
+246,"Edmonson County,Kentucky","Isle of Wight County,Virginia",38495,1135226
+247,"Edmonson County,Kentucky","James City County,Virginia",36620,1100451
+248,"Edmonson County,Kentucky","King and Queen County,Virginia",36278,1076035
+249,"Edmonson County,Kentucky","King George County,Virginia",36396,1090632
+250,"Edmonson County,Kentucky","King William County,Virginia",34965,1045958
+251,"Edmonson County,Kentucky","Lancaster County,Virginia",38758,1129043
+252,"Edmonson County,Kentucky","Lee County,Virginia",14939,381893
+253,"Edmonson County,Kentucky","Loudoun County,Virginia",35620,1056725
+254,"Edmonson County,Kentucky","Louisa County,Virginia",32183,959678
+255,"Edmonson County,Kentucky","Lunenburg County,Virginia",35182,936422
+256,"Edmonson County,Kentucky","Madison County,Virginia",32857,959125
+257,"Edmonson County,Kentucky","Mathews County,Virginia",38379,1137292
+258,"Edmonson County,Kentucky","Mecklenburg County,Virginia",34741,916145
+259,"Edmonson County,Kentucky","Middlesex County,Virginia",37156,1110069
+260,"Edmonson County,Kentucky","Montgomery County,Virginia",25389,736608
+261,"Edmonson County,Kentucky","Nelson County,Virginia",30483,873480
+262,"Edmonson County,Kentucky","New Kent County,Virginia",36056,1074365
+263,"Edmonson County,Kentucky","Northampton County,Virginia",41037,1217115
+264,"Edmonson County,Kentucky","Northumberland County,Virginia",38798,1127555
+265,"Edmonson County,Kentucky","Nottoway County,Virginia",34675,936802
+266,"Edmonson County,Kentucky","Orange County,Virginia",33145,967785
+267,"Edmonson County,Kentucky","Page County,Virginia",31790,942910
+268,"Edmonson County,Kentucky","Patrick County,Virginia",26511,711949
+269,"Edmonson County,Kentucky","Pittsylvania County,Virginia",30594,807842
+270,"Edmonson County,Kentucky","Powhatan County,Virginia",33779,1001804
+271,"Edmonson County,Kentucky","Prince Edward County,Virginia",33290,894137
+272,"Edmonson County,Kentucky","Prince George County,Virginia",36030,1074480
+273,"Edmonson County,Kentucky","Prince William County,Virginia",34662,1048213
+274,"Edmonson County,Kentucky","Pulaski County,Virginia",24148,658334
+275,"Edmonson County,Kentucky","Rappahannock County,Virginia",33622,979397
+276,"Edmonson County,Kentucky","Richmond County,Virginia",37498,1100199
+277,"Edmonson County,Kentucky","Roanoke County,Virginia",26252,717454
+278,"Edmonson County,Kentucky","Rockbridge County,Virginia",26946,799179
+279,"Edmonson County,Kentucky","Rockingham County,Virginia",30830,915260
+280,"Edmonson County,Kentucky","Russell County,Virginia",20076,486840
+281,"Edmonson County,Kentucky","Scott County,Virginia",17259,429734
+282,"Edmonson County,Kentucky","Shenandoah County,Virginia",31334,945364
+283,"Edmonson County,Kentucky","Smyth County,Virginia",21417,569783
+284,"Edmonson County,Kentucky","Southampton County,Virginia",38061,1132761
+285,"Edmonson County,Kentucky","Spotsylvania County,Virginia",34199,1001516
+286,"Edmonson County,Kentucky","Stafford County,Virginia",35580,1025809
+287,"Edmonson County,Kentucky","Surry County,Virginia",37363,1099313
+288,"Edmonson County,Kentucky","Sussex County,Virginia",36725,1103004
+289,"Edmonson County,Kentucky","Tazewell County,Virginia",21564,539750
+290,"Edmonson County,Kentucky","Warren County,Virginia",33237,989956
+291,"Edmonson County,Kentucky","Washington County,Virginia",19942,500736
+292,"Edmonson County,Kentucky","Westmoreland County,Virginia",37371,1107457
+293,"Edmonson County,Kentucky","Wise County,Virginia",15808,409917
+294,"Edmonson County,Kentucky","Wythe County,Virginia",22631,612243
+295,"Edmonson County,Kentucky","York County,Virginia",37908,1131226
+296,"Edmonson County,Kentucky","Alexandria City County,Virginia",36743,1107014
+297,"Edmonson County,Kentucky","Bedford City County,Virginia",28610,777398
+298,"Edmonson County,Kentucky","Bristol City County,Virginia",19212,471060
+299,"Edmonson County,Kentucky","Buena Vista City County,Virginia",27301,813157
+300,"Edmonson County,Kentucky","Charlottesville City County,Virginia",30413,909015
+301,"Edmonson County,Kentucky","Chesapeake City County,Virginia",39371,1184131
+302,"Edmonson County,Kentucky","Clifton Forge City County,Virginia",25157,751030
+303,"Edmonson County,Kentucky","Colonial Heights City County,Virginia",35080,1053356
+304,"Edmonson County,Kentucky","Covington City County,Virginia",24682,734409
+305,"Edmonson County,Kentucky","Danville City County,Virginia",30436,808090
+306,"Edmonson County,Kentucky","Emporia City County,Virginia",37546,1031317
+307,"Edmonson County,Kentucky","Fairfax City County,Virginia",35794,1073961
+308,"Edmonson County,Kentucky","Falls Church City County,Virginia",35935,1084144
+309,"Edmonson County,Kentucky","Franklin City County,Virginia",38608,1140616
+310,"Edmonson County,Kentucky","Fredericksburg City County,Virginia",35332,1011176
+311,"Edmonson County,Kentucky","Galax City County,Virginia",25029,672779
+312,"Edmonson County,Kentucky","Hampton City County,Virginia",37858,1140932
+313,"Edmonson County,Kentucky","Harrisonburg City County,Virginia",29889,895157
+314,"Edmonson County,Kentucky","Hopewell City County,Virginia",35116,1052323
+315,"Edmonson County,Kentucky","Lexington City County,Virginia",26935,801648
+316,"Edmonson County,Kentucky","Lynchburg City County,Virginia",30518,876763
+317,"Edmonson County,Kentucky","Manassas City County,Virginia",34889,1053158
+318,"Edmonson County,Kentucky","Manassas Park City County,Virginia",35392,1059501
+319,"Edmonson County,Kentucky","Martinsville City County,Virginia",28806,762427
+320,"Edmonson County,Kentucky","Newport News City County,Virginia",37414,1127418
+321,"Edmonson County,Kentucky","Norfolk City County,Virginia",39164,1166348
+322,"Edmonson County,Kentucky","Norton City County,Virginia",16437,421729
+323,"Edmonson County,Kentucky","Petersburg City County,Virginia",34951,1054344
+324,"Edmonson County,Kentucky","Poquoson City County,Virginia",38086,1137994
+325,"Edmonson County,Kentucky","Portsmouth City County,Virginia",39103,1175169
+326,"Edmonson County,Kentucky","Radford County,Virginia",24659,672281
+327,"Edmonson County,Kentucky","Richmond City County,Virginia",33819,1018459
+328,"Edmonson County,Kentucky","Roanoke City County,Virginia",26854,737559
+329,"Edmonson County,Kentucky","Salem City County,Virginia",26266,724108
+330,"Edmonson County,Kentucky","South Boston City County,Virginia",32448,862268
+331,"Edmonson County,Kentucky","Staunton City County,Virginia",28706,856292
+332,"Edmonson County,Kentucky","Suffolk City County,Virginia",39338,1149950
+333,"Edmonson County,Kentucky","Virginia Beach City County,Virginia",39725,1189606
+334,"Edmonson County,Kentucky","Waynesboro City County,Virginia",29044,869010
+335,"Edmonson County,Kentucky","Williamsburg City County,Virginia",36458,1099667
+336,"Edmonson County,Kentucky","Winchester City County,Virginia",33268,968993
+337,"Edmonson County,Kentucky","Barbour County,West Virginia",24749,729690
+338,"Edmonson County,Kentucky","Berkeley County,West Virginia",32682,967849
+339,"Edmonson County,Kentucky","Boone County,West Virginia",19928,563307
+340,"Edmonson County,Kentucky","Braxton County,West Virginia",21439,620669
+341,"Edmonson County,Kentucky","Brooke County,West Virginia",24793,721539
+342,"Edmonson County,Kentucky","Cabell County,West Virginia",14499,429816
+343,"Edmonson County,Kentucky","Calhoun County,West Virginia",21360,618354
+344,"Edmonson County,Kentucky","Clay County,West Virginia",20206,591582
+345,"Edmonson County,Kentucky","Doddridge County,West Virginia",23892,711199
+346,"Edmonson County,Kentucky","Fayette County,West Virginia",21493,609926
+347,"Edmonson County,Kentucky","Gilmer County,West Virginia",22638,642856
+348,"Edmonson County,Kentucky","Grant County,West Virginia",29104,831235
+349,"Edmonson County,Kentucky","Greenbrier County,West Virginia",24567,687965
+350,"Edmonson County,Kentucky","Hampshire County,West Virginia",31936,929453
+351,"Edmonson County,Kentucky","Hancock County,West Virginia",26383,756075
+352,"Edmonson County,Kentucky","Hardy County,West Virginia",30160,862732
+353,"Edmonson County,Kentucky","Harrison County,West Virginia",23982,716061
+354,"Edmonson County,Kentucky","Jackson County,West Virginia",19244,572685
+355,"Edmonson County,Kentucky","Jefferson County,West Virginia",34148,1023847
+356,"Edmonson County,Kentucky","Kanawha County,West Virginia",18802,543990
+357,"Edmonson County,Kentucky","Lewis County,West Virginia",22612,669531
+358,"Edmonson County,Kentucky","Lincoln County,West Virginia",17716,487466
+359,"Edmonson County,Kentucky","Logan County,West Virginia",20107,518816
+360,"Edmonson County,Kentucky","McDowell County,West Virginia",23455,551898
+361,"Edmonson County,Kentucky","Marion County,West Virginia",25128,743228
+362,"Edmonson County,Kentucky","Marshall County,West Virginia",24751,716047
+363,"Edmonson County,Kentucky","Mason County,West Virginia",17481,520560
+364,"Edmonson County,Kentucky","Mercer County,West Virginia",22129,655549
+365,"Edmonson County,Kentucky","Mineral County,West Virginia",30799,860056
+366,"Edmonson County,Kentucky","Mingo County,West Virginia",18790,485269
+367,"Edmonson County,Kentucky","Monongalia County,West Virginia",25338,768696
+368,"Edmonson County,Kentucky","Monroe County,West Virginia",25174,700261
+369,"Edmonson County,Kentucky","Morgan County,West Virginia",32174,957241
+370,"Edmonson County,Kentucky","Nicholas County,West Virginia",21922,651463
+371,"Edmonson County,Kentucky","Ohio County,West Virginia",23812,702776
+372,"Edmonson County,Kentucky","Pendleton County,West Virginia",29435,833859
+373,"Edmonson County,Kentucky","Pleasants County,West Virginia",22727,670537
+374,"Edmonson County,Kentucky","Pocahontas County,West Virginia",27251,721001
+375,"Edmonson County,Kentucky","Preston County,West Virginia",27484,795427
+376,"Edmonson County,Kentucky","Putnam County,West Virginia",16183,482593
+377,"Edmonson County,Kentucky","Raleigh County,West Virginia",20670,609242
+378,"Edmonson County,Kentucky","Randolph County,West Virginia",25113,731986
+379,"Edmonson County,Kentucky","Ritchie County,West Virginia",23057,684241
+380,"Edmonson County,Kentucky","Roane County,West Virginia",20870,601501
+381,"Edmonson County,Kentucky","Summers County,West Virginia",24122,670680
+382,"Edmonson County,Kentucky","Taylor County,West Virginia",25020,738800
+383,"Edmonson County,Kentucky","Tucker County,West Virginia",26180,762510
+384,"Edmonson County,Kentucky","Tyler County,West Virginia",24636,710153
+385,"Edmonson County,Kentucky","Upshur County,West Virginia",24177,684228
+386,"Edmonson County,Kentucky","Wayne County,West Virginia",16030,451011
+387,"Edmonson County,Kentucky","Webster County,West Virginia",24106,678542
+388,"Edmonson County,Kentucky","Wetzel County,West Virginia",25848,732059
+389,"Edmonson County,Kentucky","Wirt County,West Virginia",21511,630023
+390,"Edmonson County,Kentucky","Wood County,West Virginia",21025,631713
+391,"Edmonson County,Kentucky","Wyoming County,West Virginia",22614,649184
