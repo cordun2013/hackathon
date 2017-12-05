@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Monroe County,West Virginia","Adair County,Kentucky",23798,563603
+1,"Monroe County,West Virginia","Allen County,Kentucky",25685,720276
+2,"Monroe County,West Virginia","Anderson County,Kentucky",19512,552071
+3,"Monroe County,West Virginia","Ballard County,Kentucky",32490,941842
+4,"Monroe County,West Virginia","Barren County,Kentucky",25543,622630
+5,"Monroe County,West Virginia","Bath County,Kentucky",15159,423252
+6,"Monroe County,West Virginia","Bell County,Kentucky",16687,370482
+7,"Monroe County,West Virginia","Boone County,Kentucky",20972,544645
+8,"Monroe County,West Virginia","Bourbon County,Kentucky",17073,469670
+9,"Monroe County,West Virginia","Boyd County,Kentucky",11835,317577
+10,"Monroe County,West Virginia","Boyle County,Kentucky",20741,555957
+11,"Monroe County,West Virginia","Bracken County,Kentucky",17484,463752
+12,"Monroe County,West Virginia","Breathitt County,Kentucky",17377,394302
+13,"Monroe County,West Virginia","Breckinridge County,Kentucky",25045,704752
+14,"Monroe County,West Virginia","Bullitt County,Kentucky",21615,625871
+15,"Monroe County,West Virginia","Butler County,Kentucky",25710,726750
+16,"Monroe County,West Virginia","Caldwell County,Kentucky",28602,832695
+17,"Monroe County,West Virginia","Calloway County,Kentucky",30431,887391
+18,"Monroe County,West Virginia","Campbell County,Kentucky",19184,503624
+19,"Monroe County,West Virginia","Carlisle County,Kentucky",32947,957210
+20,"Monroe County,West Virginia","Carroll County,Kentucky",22056,599885
+21,"Monroe County,West Virginia","Carter County,Kentucky",12999,347674
+22,"Monroe County,West Virginia","Casey County,Kentucky",22235,587462
+23,"Monroe County,West Virginia","Christian County,Kentucky",27324,808370
+24,"Monroe County,West Virginia","Clay County,Kentucky",18325,418881
+25,"Monroe County,West Virginia","Clinton County,Kentucky",22729,599681
+26,"Monroe County,West Virginia","Crittenden County,Kentucky",30182,865766
+27,"Monroe County,West Virginia","Cumberland County,Kentucky",23608,620350
+28,"Monroe County,West Virginia","Daviess County,Kentucky",26733,773192
+29,"Monroe County,West Virginia","Edmonson County,Kentucky",25150,714625
+30,"Monroe County,West Virginia","Elliott County,Kentucky",14330,373444
+31,"Monroe County,West Virginia","Estill County,Kentucky",18152,485567
+32,"Monroe County,West Virginia","Fayette County,Kentucky",17319,489564
+33,"Monroe County,West Virginia","Fleming County,Kentucky",15585,426438
+34,"Monroe County,West Virginia","Floyd County,Kentucky",14375,312774
+35,"Monroe County,West Virginia","Franklin County,Kentucky",19357,538480
+36,"Monroe County,West Virginia","Fulton County,Kentucky",33351,978175
+37,"Monroe County,West Virginia","Gallatin County,Kentucky",21054,590544
+38,"Monroe County,West Virginia","Garrard County,Kentucky",19924,536717
+39,"Monroe County,West Virginia","Grant County,Kentucky",19853,564652
+40,"Monroe County,West Virginia","Graves County,Kentucky",31972,929917
+41,"Monroe County,West Virginia","Grayson County,Kentucky",24037,683386
+42,"Monroe County,West Virginia","Green County,Kentucky",23817,648591
+43,"Monroe County,West Virginia","Greenup County,Kentucky",13610,358703
+44,"Monroe County,West Virginia","Hancock County,Kentucky",25841,737645
+45,"Monroe County,West Virginia","Hardin County,Kentucky",22914,645519
+46,"Monroe County,West Virginia","Harlan County,Kentucky",15289,318108
+47,"Monroe County,West Virginia","Harrison County,Kentucky",18644,502769
+48,"Monroe County,West Virginia","Hart County,Kentucky",23713,673147
+49,"Monroe County,West Virginia","Henderson County,Kentucky",28540,825622
+50,"Monroe County,West Virginia","Henry County,Kentucky",20958,582199
+51,"Monroe County,West Virginia","Hickman County,Kentucky",32981,958502
+52,"Monroe County,West Virginia","Hopkins County,Kentucky",28061,807164
+53,"Monroe County,West Virginia","Jackson County,Kentucky",20197,455300
+54,"Monroe County,West Virginia","Jefferson County,Kentucky",21052,597732
+55,"Monroe County,West Virginia","Jessamine County,Kentucky",18788,511028
+56,"Monroe County,West Virginia","Johnson County,Kentucky",14616,390473
+57,"Monroe County,West Virginia","Kenton County,Kentucky",20341,532339
+58,"Monroe County,West Virginia","Knott County,Kentucky",14917,337052
+59,"Monroe County,West Virginia","Knox County,Kentucky",18187,415291
+60,"Monroe County,West Virginia","Larue County,Kentucky",22985,632694
+61,"Monroe County,West Virginia","Laurel County,Kentucky",19927,455677
+62,"Monroe County,West Virginia","Lawrence County,Kentucky",13758,361897
+63,"Monroe County,West Virginia","Lee County,Kentucky",18859,417672
+64,"Monroe County,West Virginia","Leslie County,Kentucky",17224,375388
+65,"Monroe County,West Virginia","Letcher County,Kentucky",13318,300599
+66,"Monroe County,West Virginia","Lewis County,Kentucky",15038,399491
+67,"Monroe County,West Virginia","Lincoln County,Kentucky",20634,553636
+68,"Monroe County,West Virginia","Livingston County,Kentucky",30777,882662
+69,"Monroe County,West Virginia","Logan County,Kentucky",27450,769988
+70,"Monroe County,West Virginia","Lyon County,Kentucky",30678,886645
+71,"Monroe County,West Virginia","McCracken County,Kentucky",31103,909902
+72,"Monroe County,West Virginia","McCreary County,Kentucky",19735,536527
+73,"Monroe County,West Virginia","Madison County,Kentucky",18317,500587
+74,"Monroe County,West Virginia","Magoffin County,Kentucky",15334,333980
+75,"Monroe County,West Virginia","Marion County,Kentucky",21363,594304
+76,"Monroe County,West Virginia","Marshall County,Kentucky",30517,893474
+77,"Monroe County,West Virginia","Martin County,Kentucky",14872,343620
+78,"Monroe County,West Virginia","Mason County,Kentucky",16833,443298
+79,"Monroe County,West Virginia","Meade County,Kentucky",23512,670047
+80,"Monroe County,West Virginia","Menifee County,Kentucky",16275,435316
+81,"Monroe County,West Virginia","Mercer County,Kentucky",19740,550015
+82,"Monroe County,West Virginia","Metcalfe County,Kentucky",24454,593868
+83,"Monroe County,West Virginia","Monroe County,Kentucky",24169,650771
+84,"Monroe County,West Virginia","Montgomery County,Kentucky",15972,441792
+85,"Monroe County,West Virginia","Morgan County,Kentucky",16054,411031
+86,"Monroe County,West Virginia","Muhlenberg County,Kentucky",26921,773639
+87,"Monroe County,West Virginia","Nelson County,Kentucky",20971,593375
+88,"Monroe County,West Virginia","Nicholas County,Kentucky",17650,469676
+89,"Monroe County,West Virginia","Ohio County,Kentucky",25834,741229
+90,"Monroe County,West Virginia","Oldham County,Kentucky",21123,609613
+91,"Monroe County,West Virginia","Owen County,Kentucky",20178,565257
+92,"Monroe County,West Virginia","Owsley County,Kentucky",19515,432176
+93,"Monroe County,West Virginia","Pendleton County,Kentucky",19422,504676
+94,"Monroe County,West Virginia","Perry County,Kentucky",15891,357475
+95,"Monroe County,West Virginia","Pike County,Kentucky",12438,262518
+96,"Monroe County,West Virginia","Powell County,Kentucky",17416,471538
+97,"Monroe County,West Virginia","Robertson County,Kentucky",17568,469182
+98,"Monroe County,West Virginia","Rockcastle County,Kentucky",19751,541729
+99,"Monroe County,West Virginia","Rowan County,Kentucky",14302,395459
+100,"Monroe County,West Virginia","Russell County,Kentucky",23402,547587
+101,"Monroe County,West Virginia","Scott County,Kentucky",18153,517591
+102,"Monroe County,West Virginia","Shelby County,Kentucky",19980,568867
+103,"Monroe County,West Virginia","Simpson County,Kentucky",26723,737246
+104,"Monroe County,West Virginia","Spencer County,Kentucky",20510,574715
+105,"Monroe County,West Virginia","Taylor County,Kentucky",22652,625800
+106,"Monroe County,West Virginia","Todd County,Kentucky",27739,801317
+107,"Monroe County,West Virginia","Trigg County,Kentucky",28231,825730
+108,"Monroe County,West Virginia","Trimble County,Kentucky",22197,615653
+109,"Monroe County,West Virginia","Union County,Kentucky",30259,856069
+110,"Monroe County,West Virginia","Warren County,Kentucky",26066,742994
+111,"Monroe County,West Virginia","Washington County,Kentucky",20981,578612
+112,"Monroe County,West Virginia","Wayne County,Kentucky",22239,583658
+113,"Monroe County,West Virginia","Webster County,Kentucky",29170,835252
+114,"Monroe County,West Virginia","Whitley County,Kentucky",18339,521290
+115,"Monroe County,West Virginia","Wolfe County,Kentucky",17148,434393
+116,"Monroe County,West Virginia","Woodford County,Kentucky",18373,520227
+117,"Monroe County,West Virginia","Adams County,Ohio",16925,445855
+118,"Monroe County,West Virginia","Allen County,Ohio",23657,621272
+119,"Monroe County,West Virginia","Ashland County,Ohio",21402,575163
+120,"Monroe County,West Virginia","Ashtabula County,Ohio",23768,646562
+121,"Monroe County,West Virginia","Athens County,Ohio",13333,351454
+122,"Monroe County,West Virginia","Auglaize County,Ohio",22907,637972
+123,"Monroe County,West Virginia","Belmont County,Ohio",17153,484985
+124,"Monroe County,West Virginia","Brown County,Ohio",18170,472782
+125,"Monroe County,West Virginia","Butler County,Ohio",21283,554808
+126,"Monroe County,West Virginia","Carroll County,Ohio",19082,521871
+127,"Monroe County,West Virginia","Champaign County,Ohio",20211,540069
+128,"Monroe County,West Virginia","Clark County,Ohio",18890,499614
+129,"Monroe County,West Virginia","Clermont County,Ohio",19004,503879
+130,"Monroe County,West Virginia","Clinton County,Ohio",18395,487295
+131,"Monroe County,West Virginia","Columbiana County,Ohio",20372,498494
+132,"Monroe County,West Virginia","Coshocton County,Ohio",17717,492988
+133,"Monroe County,West Virginia","Crawford County,Ohio",22009,586323
+134,"Monroe County,West Virginia","Cuyahoga County,Ohio",21118,607276
+135,"Monroe County,West Virginia","Darke County,Ohio",22005,595018
+136,"Monroe County,West Virginia","Defiance County,Ohio",27093,699593
+137,"Monroe County,West Virginia","Delaware County,Ohio",19163,519060
+138,"Monroe County,West Virginia","Fairfield County,Ohio",16694,446155
+139,"Monroe County,West Virginia","Fayette County,Ohio",16958,457759
+140,"Monroe County,West Virginia","Franklin County,Ohio",17694,476009
+141,"Monroe County,West Virginia","Fulton County,Ohio",27100,741892
+142,"Monroe County,West Virginia","Gallia County,Ohio",12272,316870
+143,"Monroe County,West Virginia","Geauga County,Ohio",22190,632993
+144,"Monroe County,West Virginia","Greene County,Ohio",17829,490911
+145,"Monroe County,West Virginia","Guernsey County,Ohio",15268,430907
+146,"Monroe County,West Virginia","Hamilton County,Ohio",20784,565385
+147,"Monroe County,West Virginia","Hancock County,Ohio",23186,627416
+148,"Monroe County,West Virginia","Hardin County,Ohio",22168,577101
+149,"Monroe County,West Virginia","Harrison County,Ohio",18088,503937
+150,"Monroe County,West Virginia","Henry County,Ohio",25899,699037
+151,"Monroe County,West Virginia","Highland County,Ohio",17462,445868
+152,"Monroe County,West Virginia","Hocking County,Ohio",15136,402118
+153,"Monroe County,West Virginia","Holmes County,Ohio",18776,515872
+154,"Monroe County,West Virginia","Huron County,Ohio",23299,616792
+155,"Monroe County,West Virginia","Jackson County,Ohio",13449,356419
+156,"Monroe County,West Virginia","Jefferson County,Ohio",19081,513715
+157,"Monroe County,West Virginia","Knox County,Ohio",19506,535464
+158,"Monroe County,West Virginia","Lawrence County,Ohio",12974,322633
+159,"Monroe County,West Virginia","Licking County,Ohio",18639,473164
+160,"Monroe County,West Virginia","Logan County,Ohio",21189,571378
+161,"Monroe County,West Virginia","Lorain County,Ohio",22343,637099
+162,"Monroe County,West Virginia","Lucas County,Ohio",26822,714915
+163,"Monroe County,West Virginia","Madison County,Ohio",18660,480843
+164,"Monroe County,West Virginia","Mahoning County,Ohio",20254,536554
+165,"Monroe County,West Virginia","Marion County,Ohio",20569,545154
+166,"Monroe County,West Virginia","Medina County,Ohio",20791,593306
+167,"Monroe County,West Virginia","Meigs County,Ohio",12214,322424
+168,"Monroe County,West Virginia","Mercer County,Ohio",24143,664905
+169,"Monroe County,West Virginia","Miami County,Ohio",20494,560411
+170,"Monroe County,West Virginia","Monroe County,Ohio",16204,420099
+171,"Monroe County,West Virginia","Montgomery County,Ohio",19863,538367
+172,"Monroe County,West Virginia","Morgan County,Ohio",15209,406747
+173,"Monroe County,West Virginia","Morrow County,Ohio",19971,541881
+174,"Monroe County,West Virginia","Muskingum County,Ohio",16114,458899
+175,"Monroe County,West Virginia","Noble County,Ohio",14710,403259
+176,"Monroe County,West Virginia","Paulding County,Ohio",26194,697178
+177,"Monroe County,West Virginia","Perry County,Ohio",16551,416874
+178,"Monroe County,West Virginia","Pickaway County,Ohio",16399,437858
+179,"Monroe County,West Virginia","Pike County,Ohio",14895,395726
+180,"Monroe County,West Virginia","Portage County,Ohio",20640,588857
+181,"Monroe County,West Virginia","Preble County,Ohio",21482,566945
+182,"Monroe County,West Virginia","Putnam County,Ohio",24780,653630
+183,"Monroe County,West Virginia","Richland County,Ohio",21001,577120
+184,"Monroe County,West Virginia","Ross County,Ohio",15143,404164
+185,"Monroe County,West Virginia","Sandusky County,Ohio",24943,646110
+186,"Monroe County,West Virginia","Scioto County,Ohio",14779,379906
+187,"Monroe County,West Virginia","Seneca County,Ohio",23560,619995
+188,"Monroe County,West Virginia","Shelby County,Ohio",21532,596696
+189,"Monroe County,West Virginia","Stark County,Ohio",18941,537106
+190,"Monroe County,West Virginia","Summit County,Ohio",19700,562895
+191,"Monroe County,West Virginia","Trumbull County,Ohio",21412,574018
+192,"Monroe County,West Virginia","Tuscarawas County,Ohio",17142,477694
+193,"Monroe County,West Virginia","Union County,Ohio",19693,521609
+194,"Monroe County,West Virginia","Van Wert County,Ohio",24892,664142
+195,"Monroe County,West Virginia","Vinton County,Ohio",15345,381925
+196,"Monroe County,West Virginia","Warren County,Ohio",19200,521354
+197,"Monroe County,West Virginia","Washington County,Ohio",13568,361195
+198,"Monroe County,West Virginia","Wayne County,Ohio",19912,539985
+199,"Monroe County,West Virginia","Williams County,Ohio",28270,723109
+200,"Monroe County,West Virginia","Wood County,Ohio",24584,669023
+201,"Monroe County,West Virginia","Wyandot County,Ohio",22156,591551
+202,"Monroe County,West Virginia","Accomack County,Virginia",22818,624753
+203,"Monroe County,West Virginia","Albemarle County,Virginia",8967,237252
+204,"Monroe County,West Virginia","Alleghany County,Virginia",3636,74275
+205,"Monroe County,West Virginia","Amelia County,Virginia",13668,337370
+206,"Monroe County,West Virginia","Amherst County,Virginia",8965,205241
+207,"Monroe County,West Virginia","Appomattox County,Virginia",10558,244000
+208,"Monroe County,West Virginia","Arlington County,Virginia",15652,437562
+209,"Monroe County,West Virginia","Augusta County,Virginia",7578,175592
+210,"Monroe County,West Virginia","Bath County,Virginia",6648,149585
+211,"Monroe County,West Virginia","Bedford County,Virginia",9014,169584
+212,"Monroe County,West Virginia","Bland County,Virginia",4807,104479
+213,"Monroe County,West Virginia","Botetourt County,Virginia",6791,145575
+214,"Monroe County,West Virginia","Brunswick County,Virginia",16211,387043
+215,"Monroe County,West Virginia","Buchanan County,Virginia",8801,188708
+216,"Monroe County,West Virginia","Buckingham County,Virginia",10841,254935
+217,"Monroe County,West Virginia","Campbell County,Virginia",10430,210820
+218,"Monroe County,West Virginia","Caroline County,Virginia",14307,406098
+219,"Monroe County,West Virginia","Carroll County,Virginia",6919,156281
+220,"Monroe County,West Virginia","Charles City County,Virginia",14407,403132
+221,"Monroe County,West Virginia","Charlotte County,Virginia",12443,297521
+222,"Monroe County,West Virginia","Chesterfield County,Virginia",13543,380916
+223,"Monroe County,West Virginia","Clarke County,Virginia",13147,364310
+224,"Monroe County,West Virginia","Craig County,Virginia",5161,91232
+225,"Monroe County,West Virginia","Culpeper County,Virginia",12765,326469
+226,"Monroe County,West Virginia","Cumberland County,Virginia",12051,282938
+227,"Monroe County,West Virginia","Dickenson County,Virginia",11482,228813
+228,"Monroe County,West Virginia","Dinwiddie County,Virginia",15290,431348
+229,"Monroe County,West Virginia","Essex County,Virginia",16124,430140
+230,"Monroe County,West Virginia","Fairfax County,Virginia",15275,427837
+231,"Monroe County,West Virginia","Fauquier County,Virginia",13585,385562
+232,"Monroe County,West Virginia","Floyd County,Virginia",6687,144504
+233,"Monroe County,West Virginia","Fluvanna County,Virginia",10645,289424
+234,"Monroe County,West Virginia","Franklin County,Virginia",8526,170818
+235,"Monroe County,West Virginia","Frederick County,Virginia",12599,352037
+236,"Monroe County,West Virginia","Giles County,Virginia",3551,67660
+237,"Monroe County,West Virginia","Gloucester County,Virginia",16578,457321
+238,"Monroe County,West Virginia","Goochland County,Virginia",11549,320035
+239,"Monroe County,West Virginia","Grayson County,Virginia",7455,163624
+240,"Monroe County,West Virginia","Greene County,Virginia",10960,272836
+241,"Monroe County,West Virginia","Greensville County,Virginia",16706,480099
+242,"Monroe County,West Virginia","Halifax County,Virginia",13250,264496
+243,"Monroe County,West Virginia","Hanover County,Virginia",12755,361142
+244,"Monroe County,West Virginia","Henrico County,Virginia",13266,374101
+245,"Monroe County,West Virginia","Henry County,Virginia",9936,205780
+246,"Monroe County,West Virginia","Highland County,Virginia",8003,159102
+247,"Monroe County,West Virginia","Isle of Wight County,Virginia",17519,478678
+248,"Monroe County,West Virginia","James City County,Virginia",15643,443903
+249,"Monroe County,West Virginia","King and Queen County,Virginia",15301,419487
+250,"Monroe County,West Virginia","King George County,Virginia",15420,434084
+251,"Monroe County,West Virginia","King William County,Virginia",13989,389410
+252,"Monroe County,West Virginia","Lancaster County,Virginia",17781,472495
+253,"Monroe County,West Virginia","Lee County,Virginia",13089,296906
+254,"Monroe County,West Virginia","Loudoun County,Virginia",14643,400177
+255,"Monroe County,West Virginia","Louisa County,Virginia",11206,303130
+256,"Monroe County,West Virginia","Lunenburg County,Virginia",14215,338805
+257,"Monroe County,West Virginia","Madison County,Virginia",11880,302577
+258,"Monroe County,West Virginia","Mathews County,Virginia",17403,480744
+259,"Monroe County,West Virginia","Mecklenburg County,Virginia",15206,351929
+260,"Monroe County,West Virginia","Middlesex County,Virginia",16179,453521
+261,"Monroe County,West Virginia","Montgomery County,Virginia",4634,95667
+262,"Monroe County,West Virginia","Nelson County,Virginia",9506,216932
+263,"Monroe County,West Virginia","New Kent County,Virginia",15079,417817
+264,"Monroe County,West Virginia","Northampton County,Virginia",20060,560567
+265,"Monroe County,West Virginia","Northumberland County,Virginia",17821,471007
+266,"Monroe County,West Virginia","Nottoway County,Virginia",13708,339185
+267,"Monroe County,West Virginia","Orange County,Virginia",12169,311237
+268,"Monroe County,West Virginia","Page County,Virginia",10814,286367
+269,"Monroe County,West Virginia","Patrick County,Virginia",8807,181407
+270,"Monroe County,West Virginia","Pittsylvania County,Virginia",10951,220766
+271,"Monroe County,West Virginia","Powhatan County,Virginia",12802,345256
+272,"Monroe County,West Virginia","Prince Edward County,Virginia",12323,296520
+273,"Monroe County,West Virginia","Prince George County,Virginia",15054,417932
+274,"Monroe County,West Virginia","Prince William County,Virginia",13685,391665
+275,"Monroe County,West Virginia","Pulaski County,Virginia",4729,91999
+276,"Monroe County,West Virginia","Rappahannock County,Virginia",12645,322849
+277,"Monroe County,West Virginia","Richmond County,Virginia",16521,443651
+278,"Monroe County,West Virginia","Roanoke County,Virginia",6254,138461
+279,"Monroe County,West Virginia","Rockbridge County,Virginia",5969,142632
+280,"Monroe County,West Virginia","Rockingham County,Virginia",9853,258712
+281,"Monroe County,West Virginia","Russell County,Virginia",8615,184659
+282,"Monroe County,West Virginia","Scott County,Virginia",11279,252786
+283,"Monroe County,West Virginia","Shenandoah County,Virginia",10357,288816
+284,"Monroe County,West Virginia","Smyth County,Virginia",7164,169831
+285,"Monroe County,West Virginia","Southampton County,Virginia",17084,476213
+286,"Monroe County,West Virginia","Spotsylvania County,Virginia",13222,344968
+287,"Monroe County,West Virginia","Stafford County,Virginia",14603,369261
+288,"Monroe County,West Virginia","Surry County,Virginia",16387,442765
+289,"Monroe County,West Virginia","Sussex County,Virginia",15748,446456
+290,"Monroe County,West Virginia","Tazewell County,Virginia",5622,123067
+291,"Monroe County,West Virginia","Warren County,Virginia",12260,333409
+292,"Monroe County,West Virginia","Washington County,Virginia",8558,209298
+293,"Monroe County,West Virginia","Westmoreland County,Virginia",16394,450909
+294,"Monroe County,West Virginia","Wise County,Virginia",11393,256995
+295,"Monroe County,West Virginia","Wythe County,Virginia",5411,122696
+296,"Monroe County,West Virginia","York County,Virginia",16931,474678
+297,"Monroe County,West Virginia","Alexandria City County,Virginia",15855,450208
+298,"Monroe County,West Virginia","Bedford City County,Virginia",8178,161016
+299,"Monroe County,West Virginia","Bristol City County,Virginia",9033,235015
+300,"Monroe County,West Virginia","Buena Vista City County,Virginia",6324,156609
+301,"Monroe County,West Virginia","Charlottesville City County,Virginia",9437,252467
+302,"Monroe County,West Virginia","Chesapeake City County,Virginia",18394,527583
+303,"Monroe County,West Virginia","Clifton Forge City County,Virginia",4180,94482
+304,"Monroe County,West Virginia","Colonial Heights City County,Virginia",14103,396809
+305,"Monroe County,West Virginia","Covington City County,Virginia",3705,77861
+306,"Monroe County,West Virginia","Danville City County,Virginia",11989,240983
+307,"Monroe County,West Virginia","Emporia City County,Virginia",16414,466693
+308,"Monroe County,West Virginia","Fairfax City County,Virginia",14818,417413
+309,"Monroe County,West Virginia","Falls Church City County,Virginia",15150,431885
+310,"Monroe County,West Virginia","Franklin City County,Virginia",17632,484068
+311,"Monroe County,West Virginia","Fredericksburg City County,Virginia",14355,354628
+312,"Monroe County,West Virginia","Galax City County,Virginia",7543,162148
+313,"Monroe County,West Virginia","Hampton City County,Virginia",16881,484384
+314,"Monroe County,West Virginia","Harrisonburg City County,Virginia",8912,238609
+315,"Monroe County,West Virginia","Hopewell City County,Virginia",14140,395775
+316,"Monroe County,West Virginia","Lexington City County,Virginia",5958,145100
+317,"Monroe County,West Virginia","Lynchburg City County,Virginia",9541,220215
+318,"Monroe County,West Virginia","Manassas City County,Virginia",13913,396610
+319,"Monroe County,West Virginia","Manassas Park City County,Virginia",14415,402953
+320,"Monroe County,West Virginia","Martinsville City County,Virginia",10089,200882
+321,"Monroe County,West Virginia","Newport News City County,Virginia",16438,470870
+322,"Monroe County,West Virginia","Norfolk City County,Virginia",18187,509800
+323,"Monroe County,West Virginia","Norton City County,Virginia",10917,247885
+324,"Monroe County,West Virginia","Petersburg City County,Virginia",13975,397796
+325,"Monroe County,West Virginia","Poquoson City County,Virginia",17109,481446
+326,"Monroe County,West Virginia","Portsmouth City County,Virginia",18126,518621
+327,"Monroe County,West Virginia","Radford County,Virginia",5042,93708
+328,"Monroe County,West Virginia","Richmond City County,Virginia",12843,361912
+329,"Monroe County,West Virginia","Roanoke City County,Virginia",6422,121177
+330,"Monroe County,West Virginia","Salem City County,Virginia",5900,110945
+331,"Monroe County,West Virginia","South Boston City County,Virginia",13420,265554
+332,"Monroe County,West Virginia","Staunton City County,Virginia",7729,199744
+333,"Monroe County,West Virginia","Suffolk City County,Virginia",18362,493402
+334,"Monroe County,West Virginia","Virginia Beach City County,Virginia",18748,533058
+335,"Monroe County,West Virginia","Waynesboro City County,Virginia",8067,212462
+336,"Monroe County,West Virginia","Williamsburg City County,Virginia",15482,443119
+337,"Monroe County,West Virginia","Winchester City County,Virginia",12479,348181
+338,"Monroe County,West Virginia","Barbour County,West Virginia",13164,263605
+339,"Monroe County,West Virginia","Berkeley County,West Virginia",14217,395388
+340,"Monroe County,West Virginia","Boone County,West Virginia",9723,199932
+341,"Monroe County,West Virginia","Braxton County,West Virginia",9757,196201
+342,"Monroe County,West Virginia","Brooke County,West Virginia",17425,437015
+343,"Monroe County,West Virginia","Cabell County,West Virginia",11291,295838
+344,"Monroe County,West Virginia","Calhoun County,West Virginia",11528,250152
+345,"Monroe County,West Virginia","Clay County,West Virginia",9792,186984
+346,"Monroe County,West Virginia","Doddridge County,West Virginia",13271,282078
+347,"Monroe County,West Virginia","Fayette County,West Virginia",7181,133724
+348,"Monroe County,West Virginia","Gilmer County,West Virginia",11325,245881
+349,"Monroe County,West Virginia","Grant County,West Virginia",12360,259473
+350,"Monroe County,West Virginia","Greenbrier County,West Virginia",5536,92949
+351,"Monroe County,West Virginia","Hampshire County,West Virginia",14336,366292
+352,"Monroe County,West Virginia","Hancock County,West Virginia",19051,464362
+353,"Monroe County,West Virginia","Hardy County,West Virginia",13473,266941
+354,"Monroe County,West Virginia","Harrison County,West Virginia",12300,291592
+355,"Monroe County,West Virginia","Jackson County,West Virginia",10610,275648
+356,"Monroe County,West Virginia","Jefferson County,West Virginia",14267,382794
+357,"Monroe County,West Virginia","Kanawha County,West Virginia",8373,197630
+358,"Monroe County,West Virginia","Lewis County,West Virginia",10930,245062
+359,"Monroe County,West Virginia","Lincoln County,West Virginia",11955,273515
+360,"Monroe County,West Virginia","Logan County,West Virginia",11513,230421
+361,"Monroe County,West Virginia","McDowell County,West Virginia",7725,142948
+362,"Monroe County,West Virginia","Marion County,West Virginia",13446,318760
+363,"Monroe County,West Virginia","Marshall County,West Virginia",18412,431459
+364,"Monroe County,West Virginia","Mason County,West Virginia",10766,281744
+365,"Monroe County,West Virginia","Mercer County,West Virginia",3802,78238
+366,"Monroe County,West Virginia","Mineral County,West Virginia",14956,305132
+367,"Monroe County,West Virginia","Mingo County,West Virginia",12092,294356
+368,"Monroe County,West Virginia","Monongalia County,West Virginia",13656,344228
+369,"Monroe County,West Virginia","Morgan County,West Virginia",14494,392947
+370,"Monroe County,West Virginia","Nicholas County,West Virginia",7376,146374
+371,"Monroe County,West Virginia","Ohio County,West Virginia",17332,445961
+372,"Monroe County,West Virginia","Pendleton County,West Virginia",10141,207198
+373,"Monroe County,West Virginia","Pleasants County,West Virginia",14092,373500
+374,"Monroe County,West Virginia","Pocahontas County,West Virginia",7244,124147
+375,"Monroe County,West Virginia","Preston County,West Virginia",15988,320099
+376,"Monroe County,West Virginia","Putnam County,West Virginia",9548,247362
+377,"Monroe County,West Virginia","Raleigh County,West Virginia",5398,122811
+378,"Monroe County,West Virginia","Randolph County,West Virginia",11179,216998
+379,"Monroe County,West Virginia","Ritchie County,West Virginia",14001,292527
+380,"Monroe County,West Virginia","Roane County,West Virginia",12235,304464
+381,"Monroe County,West Virginia","Summers County,West Virginia",2602,33481
+382,"Monroe County,West Virginia","Taylor County,West Virginia",13338,314332
+383,"Monroe County,West Virginia","Tucker County,West Virginia",13310,262223
+384,"Monroe County,West Virginia","Tyler County,West Virginia",16025,360399
+385,"Monroe County,West Virginia","Upshur County,West Virginia",12494,259759
+386,"Monroe County,West Virginia","Wayne County,West Virginia",12882,328464
+387,"Monroe County,West Virginia","Webster County,West Virginia",10128,190862
+388,"Monroe County,West Virginia","Wetzel County,West Virginia",14980,343075
+389,"Monroe County,West Virginia","Wirt County,West Virginia",12876,332986
+390,"Monroe County,West Virginia","Wood County,West Virginia",12390,334676
+391,"Monroe County,West Virginia","Wyoming County,West Virginia",7342,162753

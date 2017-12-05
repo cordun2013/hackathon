@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Lincoln County,West Virginia","Adair County,Kentucky",16399,416215
+1,"Lincoln County,West Virginia","Allen County,Kentucky",19018,516863
+2,"Lincoln County,West Virginia","Anderson County,Kentucky",12199,319254
+3,"Lincoln County,West Virginia","Ballard County,Kentucky",25177,709025
+4,"Lincoln County,West Virginia","Barren County,Kentucky",18145,475242
+5,"Lincoln County,West Virginia","Bath County,Kentucky",7846,190435
+6,"Lincoln County,West Virginia","Bell County,Kentucky",14633,311439
+7,"Lincoln County,West Virginia","Boone County,Kentucky",13659,311828
+8,"Lincoln County,West Virginia","Bourbon County,Kentucky",9760,236852
+9,"Lincoln County,West Virginia","Boyd County,Kentucky",4522,84759
+10,"Lincoln County,West Virginia","Boyle County,Kentucky",13428,323140
+11,"Lincoln County,West Virginia","Bracken County,Kentucky",10171,230935
+12,"Lincoln County,West Virginia","Breathitt County,Kentucky",11233,231461
+13,"Lincoln County,West Virginia","Breckinridge County,Kentucky",17732,471935
+14,"Lincoln County,West Virginia","Bullitt County,Kentucky",14302,393054
+15,"Lincoln County,West Virginia","Butler County,Kentucky",18397,493933
+16,"Lincoln County,West Virginia","Caldwell County,Kentucky",21289,599878
+17,"Lincoln County,West Virginia","Calloway County,Kentucky",24099,684871
+18,"Lincoln County,West Virginia","Campbell County,Kentucky",11872,270807
+19,"Lincoln County,West Virginia","Carlisle County,Kentucky",25635,724393
+20,"Lincoln County,West Virginia","Carroll County,Kentucky",14743,367068
+21,"Lincoln County,West Virginia","Carter County,Kentucky",5686,114857
+22,"Lincoln County,West Virginia","Casey County,Kentucky",14922,354645
+23,"Lincoln County,West Virginia","Christian County,Kentucky",20938,595135
+24,"Lincoln County,West Virginia","Clay County,Kentucky",13627,289709
+25,"Lincoln County,West Virginia","Clinton County,Kentucky",16806,419580
+26,"Lincoln County,West Virginia","Crittenden County,Kentucky",22869,632948
+27,"Lincoln County,West Virginia","Cumberland County,Kentucky",17560,437819
+28,"Lincoln County,West Virginia","Daviess County,Kentucky",19420,540375
+29,"Lincoln County,West Virginia","Edmonson County,Kentucky",17837,481808
+30,"Lincoln County,West Virginia","Elliott County,Kentucky",7017,140627
+31,"Lincoln County,West Virginia","Estill County,Kentucky",10839,252750
+32,"Lincoln County,West Virginia","Fayette County,Kentucky",10006,256747
+33,"Lincoln County,West Virginia","Fleming County,Kentucky",8272,193621
+34,"Lincoln County,West Virginia","Floyd County,Kentucky",8550,163157
+35,"Lincoln County,West Virginia","Franklin County,Kentucky",12044,305663
+36,"Lincoln County,West Virginia","Fulton County,Kentucky",26038,745357
+37,"Lincoln County,West Virginia","Gallatin County,Kentucky",13741,357727
+38,"Lincoln County,West Virginia","Garrard County,Kentucky",12611,303900
+39,"Lincoln County,West Virginia","Grant County,Kentucky",12540,331834
+40,"Lincoln County,West Virginia","Graves County,Kentucky",24659,697100
+41,"Lincoln County,West Virginia","Grayson County,Kentucky",16724,450569
+42,"Lincoln County,West Virginia","Green County,Kentucky",16504,415774
+43,"Lincoln County,West Virginia","Greenup County,Kentucky",6297,125886
+44,"Lincoln County,West Virginia","Hancock County,Kentucky",18528,504828
+45,"Lincoln County,West Virginia","Hardin County,Kentucky",15601,412701
+46,"Lincoln County,West Virginia","Harlan County,Kentucky",13956,291756
+47,"Lincoln County,West Virginia","Harrison County,Kentucky",11331,269952
+48,"Lincoln County,West Virginia","Hart County,Kentucky",16400,440330
+49,"Lincoln County,West Virginia","Henderson County,Kentucky",21227,592805
+50,"Lincoln County,West Virginia","Henry County,Kentucky",13645,349382
+51,"Lincoln County,West Virginia","Hickman County,Kentucky",25668,725685
+52,"Lincoln County,West Virginia","Hopkins County,Kentucky",20748,574346
+53,"Lincoln County,West Virginia","Jackson County,Kentucky",13511,300759
+54,"Lincoln County,West Virginia","Jefferson County,Kentucky",13739,364915
+55,"Lincoln County,West Virginia","Jessamine County,Kentucky",11475,278210
+56,"Lincoln County,West Virginia","Johnson County,Kentucky",7198,128788
+57,"Lincoln County,West Virginia","Kenton County,Kentucky",13028,299522
+58,"Lincoln County,West Virginia","Knott County,Kentucky",9732,195039
+59,"Lincoln County,West Virginia","Knox County,Kentucky",14951,316363
+60,"Lincoln County,West Virginia","Larue County,Kentucky",15672,399877
+61,"Lincoln County,West Virginia","Laurel County,Kentucky",13865,354187
+62,"Lincoln County,West Virginia","Lawrence County,Kentucky",6286,99963
+63,"Lincoln County,West Virginia","Lee County,Kentucky",11690,233159
+64,"Lincoln County,West Virginia","Leslie County,Kentucky",12811,264713
+65,"Lincoln County,West Virginia","Letcher County,Kentucky",10140,212035
+66,"Lincoln County,West Virginia","Lewis County,Kentucky",7725,166674
+67,"Lincoln County,West Virginia","Lincoln County,Kentucky",13321,320818
+68,"Lincoln County,West Virginia","Livingston County,Kentucky",23465,649845
+69,"Lincoln County,West Virginia","Logan County,Kentucky",20137,537171
+70,"Lincoln County,West Virginia","Lyon County,Kentucky",23598,660236
+71,"Lincoln County,West Virginia","McCracken County,Kentucky",23790,677085
+72,"Lincoln County,West Virginia","McCreary County,Kentucky",15970,398629
+73,"Lincoln County,West Virginia","Madison County,Kentucky",11004,267770
+74,"Lincoln County,West Virginia","Magoffin County,Kentucky",8166,149467
+75,"Lincoln County,West Virginia","Marion County,Kentucky",14050,361486
+76,"Lincoln County,West Virginia","Marshall County,Kentucky",23204,660657
+77,"Lincoln County,West Virginia","Martin County,Kentucky",7370,122191
+78,"Lincoln County,West Virginia","Mason County,Kentucky",9520,210481
+79,"Lincoln County,West Virginia","Meade County,Kentucky",16199,437230
+80,"Lincoln County,West Virginia","Menifee County,Kentucky",8962,202499
+81,"Lincoln County,West Virginia","Mercer County,Kentucky",12427,317198
+82,"Lincoln County,West Virginia","Metcalfe County,Kentucky",17055,446479
+83,"Lincoln County,West Virginia","Monroe County,Kentucky",19025,483984
+84,"Lincoln County,West Virginia","Montgomery County,Kentucky",8659,208975
+85,"Lincoln County,West Virginia","Morgan County,Kentucky",8741,178214
+86,"Lincoln County,West Virginia","Muhlenberg County,Kentucky",19608,540822
+87,"Lincoln County,West Virginia","Nelson County,Kentucky",13658,360558
+88,"Lincoln County,West Virginia","Nicholas County,Kentucky",10337,236859
+89,"Lincoln County,West Virginia","Ohio County,Kentucky",18521,508412
+90,"Lincoln County,West Virginia","Oldham County,Kentucky",13810,376796
+91,"Lincoln County,West Virginia","Owen County,Kentucky",12865,332440
+92,"Lincoln County,West Virginia","Owsley County,Kentucky",12837,253136
+93,"Lincoln County,West Virginia","Pendleton County,Kentucky",12109,271859
+94,"Lincoln County,West Virginia","Perry County,Kentucky",11111,225597
+95,"Lincoln County,West Virginia","Pike County,Kentucky",7442,142152
+96,"Lincoln County,West Virginia","Powell County,Kentucky",10103,238721
+97,"Lincoln County,West Virginia","Robertson County,Kentucky",10255,236365
+98,"Lincoln County,West Virginia","Rockcastle County,Kentucky",12438,308912
+99,"Lincoln County,West Virginia","Rowan County,Kentucky",6989,162642
+100,"Lincoln County,West Virginia","Russell County,Kentucky",16004,400198
+101,"Lincoln County,West Virginia","Scott County,Kentucky",10840,284774
+102,"Lincoln County,West Virginia","Shelby County,Kentucky",12667,336050
+103,"Lincoln County,West Virginia","Simpson County,Kentucky",19719,545228
+104,"Lincoln County,West Virginia","Spencer County,Kentucky",13197,341898
+105,"Lincoln County,West Virginia","Taylor County,Kentucky",15340,392982
+106,"Lincoln County,West Virginia","Todd County,Kentucky",21374,561332
+107,"Lincoln County,West Virginia","Trigg County,Kentucky",22352,621064
+108,"Lincoln County,West Virginia","Trimble County,Kentucky",14884,382836
+109,"Lincoln County,West Virginia","Union County,Kentucky",22946,623251
+110,"Lincoln County,West Virginia","Warren County,Kentucky",18754,510177
+111,"Lincoln County,West Virginia","Washington County,Kentucky",13668,345794
+112,"Lincoln County,West Virginia","Wayne County,Kentucky",16180,397271
+113,"Lincoln County,West Virginia","Webster County,Kentucky",21857,602435
+114,"Lincoln County,West Virginia","Whitley County,Kentucky",14698,388672
+115,"Lincoln County,West Virginia","Wolfe County,Kentucky",9835,201576
+116,"Lincoln County,West Virginia","Woodford County,Kentucky",11060,287409
+117,"Lincoln County,West Virginia","Adams County,Ohio",9989,206511
+118,"Lincoln County,West Virginia","Allen County,Ohio",18020,432945
+119,"Lincoln County,West Virginia","Ashland County,Ohio",16978,425132
+120,"Lincoln County,West Virginia","Ashtabula County,Ohio",19666,546030
+121,"Lincoln County,West Virginia","Athens County,Ohio",8523,173654
+122,"Lincoln County,West Virginia","Auglaize County,Ohio",17270,449645
+123,"Lincoln County,West Virginia","Belmont County,Ohio",12729,334954
+124,"Lincoln County,West Virginia","Brown County,Ohio",10857,239965
+125,"Lincoln County,West Virginia","Butler County,Ohio",14959,338889
+126,"Lincoln County,West Virginia","Carroll County,Ohio",14658,371840
+127,"Lincoln County,West Virginia","Champaign County,Ohio",14574,351742
+128,"Lincoln County,West Virginia","Clark County,Ohio",13253,311287
+129,"Lincoln County,West Virginia","Clermont County,Ohio",12067,264535
+130,"Lincoln County,West Virginia","Clinton County,Ohio",12687,261247
+131,"Lincoln County,West Virginia","Columbiana County,Ohio",16500,426076
+132,"Lincoln County,West Virginia","Coshocton County,Ohio",13294,342957
+133,"Lincoln County,West Virginia","Crawford County,Ohio",16702,393091
+134,"Lincoln County,West Virginia","Cuyahoga County,Ohio",16694,457245
+135,"Lincoln County,West Virginia","Darke County,Ohio",16368,406692
+136,"Lincoln County,West Virginia","Defiance County,Ohio",21456,511266
+137,"Lincoln County,West Virginia","Delaware County,Ohio",14005,331305
+138,"Lincoln County,West Virginia","Fairfield County,Ohio",11883,268354
+139,"Lincoln County,West Virginia","Fayette County,Ohio",11321,269432
+140,"Lincoln County,West Virginia","Franklin County,Ohio",12523,291232
+141,"Lincoln County,West Virginia","Fulton County,Ohio",21793,548660
+142,"Lincoln County,West Virginia","Gallia County,Ohio",6634,128544
+143,"Lincoln County,West Virginia","Geauga County,Ohio",17766,482962
+144,"Lincoln County,West Virginia","Greene County,Ohio",12191,302584
+145,"Lincoln County,West Virginia","Guernsey County,Ohio",10844,280876
+146,"Lincoln County,West Virginia","Hamilton County,Ohio",13853,323867
+147,"Lincoln County,West Virginia","Hancock County,Ohio",17879,434183
+148,"Lincoln County,West Virginia","Hardin County,Ohio",16531,388775
+149,"Lincoln County,West Virginia","Harrison County,Ohio",13664,353906
+150,"Lincoln County,West Virginia","Henry County,Ohio",20592,505805
+151,"Lincoln County,West Virginia","Highland County,Ohio",10954,220593
+152,"Lincoln County,West Virginia","Hocking County,Ohio",10325,224318
+153,"Lincoln County,West Virginia","Holmes County,Ohio",14352,365841
+154,"Lincoln County,West Virginia","Huron County,Ohio",18235,423404
+155,"Lincoln County,West Virginia","Jackson County,Ohio",7812,168093
+156,"Lincoln County,West Virginia","Jefferson County,Ohio",14657,363684
+157,"Lincoln County,West Virginia","Knox County,Ohio",15082,385433
+158,"Lincoln County,West Virginia","Lawrence County,Ohio",5712,93377
+159,"Lincoln County,West Virginia","Licking County,Ohio",13828,295364
+160,"Lincoln County,West Virginia","Logan County,Ohio",15552,383052
+161,"Lincoln County,West Virginia","Lorain County,Ohio",17919,487068
+162,"Lincoln County,West Virginia","Lucas County,Ohio",21514,521682
+163,"Lincoln County,West Virginia","Madison County,Ohio",13022,292516
+164,"Lincoln County,West Virginia","Mahoning County,Ohio",16996,440881
+165,"Lincoln County,West Virginia","Marion County,Ohio",15262,351921
+166,"Lincoln County,West Virginia","Medina County,Ohio",16368,443275
+167,"Lincoln County,West Virginia","Meigs County,Ohio",7413,146389
+168,"Lincoln County,West Virginia","Mercer County,Ohio",18506,476579
+169,"Lincoln County,West Virginia","Miami County,Ohio",14856,372084
+170,"Lincoln County,West Virginia","Monroe County,Ohio",11780,270068
+171,"Lincoln County,West Virginia","Montgomery County,Ohio",14226,350040
+172,"Lincoln County,West Virginia","Morgan County,Ohio",10785,256716
+173,"Lincoln County,West Virginia","Morrow County,Ohio",14813,354126
+174,"Lincoln County,West Virginia","Muskingum County,Ohio",11690,308868
+175,"Lincoln County,West Virginia","Noble County,Ohio",10286,253228
+176,"Lincoln County,West Virginia","Paulding County,Ohio",20557,508851
+177,"Lincoln County,West Virginia","Perry County,Ohio",11741,239074
+178,"Lincoln County,West Virginia","Pickaway County,Ohio",10761,249531
+179,"Lincoln County,West Virginia","Pike County,Ohio",8386,170451
+180,"Lincoln County,West Virginia","Portage County,Ohio",16217,438826
+181,"Lincoln County,West Virginia","Preble County,Ohio",15845,378618
+182,"Lincoln County,West Virginia","Putnam County,Ohio",19143,465304
+183,"Lincoln County,West Virginia","Richland County,Ohio",15842,389364
+184,"Lincoln County,West Virginia","Ross County,Ohio",9506,215837
+185,"Lincoln County,West Virginia","Sandusky County,Ohio",19636,452878
+186,"Lincoln County,West Virginia","Scioto County,Ohio",7466,147089
+187,"Lincoln County,West Virginia","Seneca County,Ohio",18253,426763
+188,"Lincoln County,West Virginia","Shelby County,Ohio",15895,408369
+189,"Lincoln County,West Virginia","Stark County,Ohio",14517,387075
+190,"Lincoln County,West Virginia","Summit County,Ohio",15276,412864
+191,"Lincoln County,West Virginia","Trumbull County,Ohio",17951,467128
+192,"Lincoln County,West Virginia","Tuscarawas County,Ohio",12718,327663
+193,"Lincoln County,West Virginia","Union County,Ohio",14056,333283
+194,"Lincoln County,West Virginia","Van Wert County,Ohio",19254,475815
+195,"Lincoln County,West Virginia","Vinton County,Ohio",9707,193598
+196,"Lincoln County,West Virginia","Warren County,Ohio",13563,333027
+197,"Lincoln County,West Virginia","Washington County,Ohio",9144,211164
+198,"Lincoln County,West Virginia","Wayne County,Ohio",15489,389954
+199,"Lincoln County,West Virginia","Williams County,Ohio",22633,534782
+200,"Lincoln County,West Virginia","Wood County,Ohio",19277,475791
+201,"Lincoln County,West Virginia","Wyandot County,Ohio",16849,398319
+202,"Lincoln County,West Virginia","Accomack County,Virginia",30736,834232
+203,"Lincoln County,West Virginia","Albemarle County,Virginia",16886,446732
+204,"Lincoln County,West Virginia","Alleghany County,Virginia",11555,283755
+205,"Lincoln County,West Virginia","Amelia County,Virginia",21587,546850
+206,"Lincoln County,West Virginia","Amherst County,Virginia",16884,414721
+207,"Lincoln County,West Virginia","Appomattox County,Virginia",18477,453480
+208,"Lincoln County,West Virginia","Arlington County,Virginia",23169,642764
+209,"Lincoln County,West Virginia","Augusta County,Virginia",15497,385071
+210,"Lincoln County,West Virginia","Bath County,Virginia",14567,359065
+211,"Lincoln County,West Virginia","Bedford County,Virginia",17144,400846
+212,"Lincoln County,West Virginia","Bland County,Virginia",10517,249975
+213,"Lincoln County,West Virginia","Botetourt County,Virginia",14709,355054
+214,"Lincoln County,West Virginia","Brunswick County,Virginia",24130,596523
+215,"Lincoln County,West Virginia","Buchanan County,Virginia",11294,186069
+216,"Lincoln County,West Virginia","Buckingham County,Virginia",18760,464415
+217,"Lincoln County,West Virginia","Campbell County,Virginia",18401,455952
+218,"Lincoln County,West Virginia","Caroline County,Virginia",22225,615578
+219,"Lincoln County,West Virginia","Carroll County,Virginia",12762,319412
+220,"Lincoln County,West Virginia","Charles City County,Virginia",22326,612612
+221,"Lincoln County,West Virginia","Charlotte County,Virginia",20362,507001
+222,"Lincoln County,West Virginia","Chesterfield County,Virginia",21462,590396
+223,"Lincoln County,West Virginia","Clarke County,Virginia",21066,573790
+224,"Lincoln County,West Virginia","Craig County,Virginia",13198,304840
+225,"Lincoln County,West Virginia","Culpeper County,Virginia",20683,535948
+226,"Lincoln County,West Virginia","Cumberland County,Virginia",19969,492417
+227,"Lincoln County,West Virginia","Dickenson County,Virginia",11540,232113
+228,"Lincoln County,West Virginia","Dinwiddie County,Virginia",23209,640828
+229,"Lincoln County,West Virginia","Essex County,Virginia",24043,639620
+230,"Lincoln County,West Virginia","Fairfax County,Virginia",22860,633431
+231,"Lincoln County,West Virginia","Fauquier County,Virginia",21504,595041
+232,"Lincoln County,West Virginia","Floyd County,Virginia",14383,338376
+233,"Lincoln County,West Virginia","Fluvanna County,Virginia",18564,498904
+234,"Lincoln County,West Virginia","Franklin County,Virginia",16656,402079
+235,"Lincoln County,West Virginia","Frederick County,Virginia",19731,487924
+236,"Lincoln County,West Virginia","Giles County,Virginia",11248,261533
+237,"Lincoln County,West Virginia","Gloucester County,Virginia",24496,666800
+238,"Lincoln County,West Virginia","Goochland County,Virginia",19467,529515
+239,"Lincoln County,West Virginia","Grayson County,Virginia",13165,309119
+240,"Lincoln County,West Virginia","Greene County,Virginia",18879,482316
+241,"Lincoln County,West Virginia","Greensville County,Virginia",24625,689579
+242,"Lincoln County,West Virginia","Halifax County,Virginia",21066,517099
+243,"Lincoln County,West Virginia","Hanover County,Virginia",20674,570621
+244,"Lincoln County,West Virginia","Henrico County,Virginia",21185,583581
+245,"Lincoln County,West Virginia","Henry County,Virginia",16636,406133
+246,"Lincoln County,West Virginia","Highland County,Virginia",16011,369035
+247,"Lincoln County,West Virginia","Isle of Wight County,Virginia",25437,688158
+248,"Lincoln County,West Virginia","James City County,Virginia",23562,653383
+249,"Lincoln County,West Virginia","King and Queen County,Virginia",23220,628967
+250,"Lincoln County,West Virginia","King George County,Virginia",23338,643564
+251,"Lincoln County,West Virginia","King William County,Virginia",21907,598889
+252,"Lincoln County,West Virginia","Lancaster County,Virginia",25700,681975
+253,"Lincoln County,West Virginia","Lee County,Virginia",12841,280629
+254,"Lincoln County,West Virginia","Loudoun County,Virginia",22561,609656
+255,"Lincoln County,West Virginia","Louisa County,Virginia",19125,512609
+256,"Lincoln County,West Virginia","Lunenburg County,Virginia",22134,548285
+257,"Lincoln County,West Virginia","Madison County,Virginia",19799,512056
+258,"Lincoln County,West Virginia","Mathews County,Virginia",25321,690224
+259,"Lincoln County,West Virginia","Mecklenburg County,Virginia",23125,561409
+260,"Lincoln County,West Virginia","Middlesex County,Virginia",24098,663001
+261,"Lincoln County,West Virginia","Montgomery County,Virginia",12331,289540
+262,"Lincoln County,West Virginia","Nelson County,Virginia",17425,426412
+263,"Lincoln County,West Virginia","New Kent County,Virginia",22998,627297
+264,"Lincoln County,West Virginia","Northampton County,Virginia",27979,770047
+265,"Lincoln County,West Virginia","Northumberland County,Virginia",25740,680487
+266,"Lincoln County,West Virginia","Nottoway County,Virginia",21627,548664
+267,"Lincoln County,West Virginia","Orange County,Virginia",20087,520717
+268,"Lincoln County,West Virginia","Page County,Virginia",18733,495847
+269,"Lincoln County,West Virginia","Patrick County,Virginia",14868,364448
+270,"Lincoln County,West Virginia","Pittsylvania County,Virginia",18952,460341
+271,"Lincoln County,West Virginia","Powhatan County,Virginia",20721,554736
+272,"Lincoln County,West Virginia","Prince Edward County,Virginia",20242,506000
+273,"Lincoln County,West Virginia","Prince George County,Virginia",22972,627411
+274,"Lincoln County,West Virginia","Prince William County,Virginia",21604,601145
+275,"Lincoln County,West Virginia","Pulaski County,Virginia",12426,285871
+276,"Lincoln County,West Virginia","Rappahannock County,Virginia",20563,532329
+277,"Lincoln County,West Virginia","Richmond County,Virginia",24440,653130
+278,"Lincoln County,West Virginia","Roanoke County,Virginia",13950,332333
+279,"Lincoln County,West Virginia","Rockbridge County,Virginia",13888,352111
+280,"Lincoln County,West Virginia","Rockingham County,Virginia",17771,468192
+281,"Lincoln County,West Virginia","Russell County,Virginia",13263,245165
+282,"Lincoln County,West Virginia","Scott County,Virginia",13016,279566
+283,"Lincoln County,West Virginia","Shenandoah County,Virginia",18276,498296
+284,"Lincoln County,West Virginia","Smyth County,Virginia",12875,315327
+285,"Lincoln County,West Virginia","Southampton County,Virginia",25003,685693
+286,"Lincoln County,West Virginia","Spotsylvania County,Virginia",21141,554448
+287,"Lincoln County,West Virginia","Stafford County,Virginia",22522,578741
+288,"Lincoln County,West Virginia","Surry County,Virginia",24305,652245
+289,"Lincoln County,West Virginia","Sussex County,Virginia",23667,655936
+290,"Lincoln County,West Virginia","Tazewell County,Virginia",11332,268562
+291,"Lincoln County,West Virginia","Warren County,Virginia",20178,542888
+292,"Lincoln County,West Virginia","Washington County,Virginia",13939,298831
+293,"Lincoln County,West Virginia","Westmoreland County,Virginia",24312,660389
+294,"Lincoln County,West Virginia","Wise County,Virginia",9805,208012
+295,"Lincoln County,West Virginia","Wythe County,Virginia",11122,268192
+296,"Lincoln County,West Virginia","York County,Virginia",24849,684158
+297,"Lincoln County,West Virginia","Alexandria City County,Virginia",23685,659946
+298,"Lincoln County,West Virginia","Bedford City County,Virginia",16308,392277
+299,"Lincoln County,West Virginia","Bristol City County,Virginia",14778,319717
+300,"Lincoln County,West Virginia","Buena Vista City County,Virginia",14242,366089
+301,"Lincoln County,West Virginia","Charlottesville City County,Virginia",17355,461947
+302,"Lincoln County,West Virginia","Chesapeake City County,Virginia",26312,737063
+303,"Lincoln County,West Virginia","Clifton Forge City County,Virginia",12099,303962
+304,"Lincoln County,West Virginia","Colonial Heights City County,Virginia",22021,606288
+305,"Lincoln County,West Virginia","Covington City County,Virginia",11624,287340
+306,"Lincoln County,West Virginia","Danville City County,Virginia",18793,460589
+307,"Lincoln County,West Virginia","Emporia City County,Virginia",24332,676172
+308,"Lincoln County,West Virginia","Fairfax City County,Virginia",22736,626893
+309,"Lincoln County,West Virginia","Falls Church City County,Virginia",22877,637076
+310,"Lincoln County,West Virginia","Franklin City County,Virginia",25550,693548
+311,"Lincoln County,West Virginia","Fredericksburg City County,Virginia",22274,564108
+312,"Lincoln County,West Virginia","Galax City County,Virginia",13386,325278
+313,"Lincoln County,West Virginia","Hampton City County,Virginia",24799,693864
+314,"Lincoln County,West Virginia","Harrisonburg City County,Virginia",16831,448088
+315,"Lincoln County,West Virginia","Hopewell City County,Virginia",22058,605254
+316,"Lincoln County,West Virginia","Lexington City County,Virginia",13877,354580
+317,"Lincoln County,West Virginia","Lynchburg City County,Virginia",17460,429694
+318,"Lincoln County,West Virginia","Manassas City County,Virginia",21831,606090
+319,"Lincoln County,West Virginia","Manassas Park City County,Virginia",22333,612433
+320,"Lincoln County,West Virginia","Martinsville City County,Virginia",17163,414926
+321,"Lincoln County,West Virginia","Newport News City County,Virginia",24356,680350
+322,"Lincoln County,West Virginia","Norfolk City County,Virginia",26106,719280
+323,"Lincoln County,West Virginia","Norton City County,Virginia",10434,219824
+324,"Lincoln County,West Virginia","Petersburg City County,Virginia",21893,607276
+325,"Lincoln County,West Virginia","Poquoson City County,Virginia",25028,690926
+326,"Lincoln County,West Virginia","Portsmouth City County,Virginia",26045,728101
+327,"Lincoln County,West Virginia","Radford County,Virginia",12738,287580
+328,"Lincoln County,West Virginia","Richmond City County,Virginia",20761,571391
+329,"Lincoln County,West Virginia","Roanoke City County,Virginia",14552,352438
+330,"Lincoln County,West Virginia","Salem City County,Virginia",13964,338988
+331,"Lincoln County,West Virginia","South Boston City County,Virginia",20805,514767
+332,"Lincoln County,West Virginia","Staunton City County,Virginia",15648,409223
+333,"Lincoln County,West Virginia","Suffolk City County,Virginia",26280,702882
+334,"Lincoln County,West Virginia","Virginia Beach City County,Virginia",26667,742538
+335,"Lincoln County,West Virginia","Waynesboro City County,Virginia",15986,421942
+336,"Lincoln County,West Virginia","Williamsburg City County,Virginia",23400,652599
+337,"Lincoln County,West Virginia","Winchester City County,Virginia",20210,521925
+338,"Lincoln County,West Virginia","Barbour County,West Virginia",11691,282622
+339,"Lincoln County,West Virginia","Berkeley County,West Virginia",19624,520781
+340,"Lincoln County,West Virginia","Boone County,West Virginia",4284,61889
+341,"Lincoln County,West Virginia","Braxton County,West Virginia",8381,173601
+342,"Lincoln County,West Virginia","Brooke County,West Virginia",14808,377202
+343,"Lincoln County,West Virginia","Cabell County,West Virginia",3980,60924
+344,"Lincoln County,West Virginia","Calhoun County,West Virginia",8302,171286
+345,"Lincoln County,West Virginia","Clay County,West Virginia",7148,144514
+346,"Lincoln County,West Virginia","Doddridge County,West Virginia",10834,264131
+347,"Lincoln County,West Virginia","Fayette County,West Virginia",8435,162858
+348,"Lincoln County,West Virginia","Gilmer County,West Virginia",9580,195788
+349,"Lincoln County,West Virginia","Grant County,West Virginia",16046,384167
+350,"Lincoln County,West Virginia","Greenbrier County,West Virginia",11509,240897
+351,"Lincoln County,West Virginia","Hampshire County,West Virginia",18878,482385
+352,"Lincoln County,West Virginia","Hancock County,West Virginia",16397,411738
+353,"Lincoln County,West Virginia","Hardy County,West Virginia",17102,415664
+354,"Lincoln County,West Virginia","Harrison County,West Virginia",10924,268992
+355,"Lincoln County,West Virginia","Jackson County,West Virginia",6186,125617
+356,"Lincoln County,West Virginia","Jefferson County,West Virginia",21090,576779
+357,"Lincoln County,West Virginia","Kanawha County,West Virginia",5744,96922
+358,"Lincoln County,West Virginia","Lewis County,West Virginia",9554,222463
+359,"Lincoln County,West Virginia","Logan County,West Virginia",4545,68418
+360,"Lincoln County,West Virginia","McDowell County,West Virginia",9262,157973
+361,"Lincoln County,West Virginia","Marion County,West Virginia",12070,296160
+362,"Lincoln County,West Virginia","Marshall County,West Virginia",14194,313303
+363,"Lincoln County,West Virginia","Mason County,West Virginia",5158,103479
+364,"Lincoln County,West Virginia","Mercer County,West Virginia",9070,208481
+365,"Lincoln County,West Virginia","Mineral County,West Virginia",17740,412988
+366,"Lincoln County,West Virginia","Mingo County,West Virginia",4590,72926
+367,"Lincoln County,West Virginia","Monongalia County,West Virginia",12280,321628
+368,"Lincoln County,West Virginia","Monroe County,West Virginia",12116,253193
+369,"Lincoln County,West Virginia","Morgan County,West Virginia",19115,510173
+370,"Lincoln County,West Virginia","Nicholas County,West Virginia",8864,204394
+371,"Lincoln County,West Virginia","Ohio County,West Virginia",13826,358440
+372,"Lincoln County,West Virginia","Pendleton County,West Virginia",16377,386791
+373,"Lincoln County,West Virginia","Pleasants County,West Virginia",9668,223469
+374,"Lincoln County,West Virginia","Pocahontas County,West Virginia",14193,273933
+375,"Lincoln County,West Virginia","Preston County,West Virginia",14426,348359
+376,"Lincoln County,West Virginia","Putnam County,West Virginia",3860,65512
+377,"Lincoln County,West Virginia","Raleigh County,West Virginia",7611,162174
+378,"Lincoln County,West Virginia","Randolph County,West Virginia",12055,284917
+379,"Lincoln County,West Virginia","Ritchie County,West Virginia",9999,237173
+380,"Lincoln County,West Virginia","Roane County,West Virginia",7812,154433
+381,"Lincoln County,West Virginia","Summers County,West Virginia",11064,223612
+382,"Lincoln County,West Virginia","Taylor County,West Virginia",11962,291732
+383,"Lincoln County,West Virginia","Tucker County,West Virginia",13122,315442
+384,"Lincoln County,West Virginia","Tyler County,West Virginia",11578,263084
+385,"Lincoln County,West Virginia","Upshur County,West Virginia",11119,237160
+386,"Lincoln County,West Virginia","Wayne County,West Virginia",4052,63607
+387,"Lincoln County,West Virginia","Webster County,West Virginia",11048,231474
+388,"Lincoln County,West Virginia","Wetzel County,West Virginia",12790,284991
+389,"Lincoln County,West Virginia","Wirt County,West Virginia",8452,182955
+390,"Lincoln County,West Virginia","Wood County,West Virginia",7967,184645
+391,"Lincoln County,West Virginia","Wyoming County,West Virginia",8017,134575

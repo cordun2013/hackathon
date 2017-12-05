@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wetzel County,West Virginia","Adair County,Kentucky",24561,661258
+1,"Wetzel County,West Virginia","Allen County,Kentucky",27179,761906
+2,"Wetzel County,West Virginia","Anderson County,Kentucky",20360,564297
+3,"Wetzel County,West Virginia","Ballard County,Kentucky",33339,954068
+4,"Wetzel County,West Virginia","Barren County,Kentucky",26306,720285
+5,"Wetzel County,West Virginia","Bath County,Kentucky",16008,435478
+6,"Wetzel County,West Virginia","Bell County,Kentucky",23563,571294
+7,"Wetzel County,West Virginia","Boone County,Kentucky",18172,486604
+8,"Wetzel County,West Virginia","Bourbon County,Kentucky",17922,481895
+9,"Wetzel County,West Virginia","Boyd County,Kentucky",12683,329803
+10,"Wetzel County,West Virginia","Boyle County,Kentucky",21589,568183
+11,"Wetzel County,West Virginia","Bracken County,Kentucky",17127,395918
+12,"Wetzel County,West Virginia","Breathitt County,Kentucky",19395,476504
+13,"Wetzel County,West Virginia","Breckinridge County,Kentucky",25894,716978
+14,"Wetzel County,West Virginia","Bullitt County,Kentucky",22464,638097
+15,"Wetzel County,West Virginia","Butler County,Kentucky",26559,738976
+16,"Wetzel County,West Virginia","Caldwell County,Kentucky",29451,844921
+17,"Wetzel County,West Virginia","Calloway County,Kentucky",32261,929914
+18,"Wetzel County,West Virginia","Campbell County,Kentucky",17878,430994
+19,"Wetzel County,West Virginia","Carlisle County,Kentucky",33796,969436
+20,"Wetzel County,West Virginia","Carroll County,Kentucky",19746,548370
+21,"Wetzel County,West Virginia","Carter County,Kentucky",13848,359900
+22,"Wetzel County,West Virginia","Casey County,Kentucky",23084,599688
+23,"Wetzel County,West Virginia","Christian County,Kentucky",29100,840178
+24,"Wetzel County,West Virginia","Clay County,Kentucky",21893,563619
+25,"Wetzel County,West Virginia","Clinton County,Kentucky",24968,664623
+26,"Wetzel County,West Virginia","Crittenden County,Kentucky",31031,877992
+27,"Wetzel County,West Virginia","Cumberland County,Kentucky",25722,682862
+28,"Wetzel County,West Virginia","Daviess County,Kentucky",27582,785418
+29,"Wetzel County,West Virginia","Edmonson County,Kentucky",25999,726851
+30,"Wetzel County,West Virginia","Elliott County,Kentucky",15179,385670
+31,"Wetzel County,West Virginia","Estill County,Kentucky",19000,497793
+32,"Wetzel County,West Virginia","Fayette County,Kentucky",18168,501790
+33,"Wetzel County,West Virginia","Fleming County,Kentucky",16434,438664
+34,"Wetzel County,West Virginia","Floyd County,Kentucky",16816,437068
+35,"Wetzel County,West Virginia","Franklin County,Kentucky",20205,550706
+36,"Wetzel County,West Virginia","Fulton County,Kentucky",34200,990401
+37,"Wetzel County,West Virginia","Gallatin County,Kentucky",18957,520783
+38,"Wetzel County,West Virginia","Garrard County,Kentucky",20773,548943
+39,"Wetzel County,West Virginia","Grant County,Kentucky",19024,521257
+40,"Wetzel County,West Virginia","Graves County,Kentucky",32821,942143
+41,"Wetzel County,West Virginia","Grayson County,Kentucky",24886,695612
+42,"Wetzel County,West Virginia","Green County,Kentucky",24666,660817
+43,"Wetzel County,West Virginia","Greenup County,Kentucky",13606,309149
+44,"Wetzel County,West Virginia","Hancock County,Kentucky",26689,749871
+45,"Wetzel County,West Virginia","Hardin County,Kentucky",23762,657745
+46,"Wetzel County,West Virginia","Harlan County,Kentucky",22886,551610
+47,"Wetzel County,West Virginia","Harrison County,Kentucky",19569,447824
+48,"Wetzel County,West Virginia","Hart County,Kentucky",24562,685373
+49,"Wetzel County,West Virginia","Henderson County,Kentucky",29388,837848
+50,"Wetzel County,West Virginia","Henry County,Kentucky",20932,576693
+51,"Wetzel County,West Virginia","Hickman County,Kentucky",33829,970728
+52,"Wetzel County,West Virginia","Hopkins County,Kentucky",28909,819390
+53,"Wetzel County,West Virginia","Jackson County,Kentucky",21673,545802
+54,"Wetzel County,West Virginia","Jefferson County,Kentucky",21900,609958
+55,"Wetzel County,West Virginia","Jessamine County,Kentucky",19637,523254
+56,"Wetzel County,West Virginia","Johnson County,Kentucky",15465,402699
+57,"Wetzel County,West Virginia","Kenton County,Kentucky",17618,429533
+58,"Wetzel County,West Virginia","Knott County,Kentucky",17998,468949
+59,"Wetzel County,West Virginia","Knox County,Kentucky",23176,627836
+60,"Wetzel County,West Virginia","Larue County,Kentucky",23834,644920
+61,"Wetzel County,West Virginia","Laurel County,Kentucky",22027,599231
+62,"Wetzel County,West Virginia","Lawrence County,Kentucky",14607,374123
+63,"Wetzel County,West Virginia","Lee County,Kentucky",19845,491530
+64,"Wetzel County,West Virginia","Leslie County,Kentucky",21078,538623
+65,"Wetzel County,West Virginia","Letcher County,Kentucky",19070,471889
+66,"Wetzel County,West Virginia","Lewis County,Kentucky",15373,358784
+67,"Wetzel County,West Virginia","Lincoln County,Kentucky",21483,565862
+68,"Wetzel County,West Virginia","Livingston County,Kentucky",31626,894888
+69,"Wetzel County,West Virginia","Logan County,Kentucky",28299,782214
+70,"Wetzel County,West Virginia","Lyon County,Kentucky",31760,905279
+71,"Wetzel County,West Virginia","McCracken County,Kentucky",31951,922128
+72,"Wetzel County,West Virginia","McCreary County,Kentucky",24132,643672
+73,"Wetzel County,West Virginia","Madison County,Kentucky",19166,512813
+74,"Wetzel County,West Virginia","Magoffin County,Kentucky",16432,423378
+75,"Wetzel County,West Virginia","Marion County,Kentucky",22212,606530
+76,"Wetzel County,West Virginia","Marshall County,Kentucky",31366,905700
+77,"Wetzel County,West Virginia","Martin County,Kentucky",16092,406467
+78,"Wetzel County,West Virginia","Mason County,Kentucky",16672,374797
+79,"Wetzel County,West Virginia","Meade County,Kentucky",24361,682273
+80,"Wetzel County,West Virginia","Menifee County,Kentucky",17124,447542
+81,"Wetzel County,West Virginia","Mercer County,Kentucky",20588,562241
+82,"Wetzel County,West Virginia","Metcalfe County,Kentucky",25217,691522
+83,"Wetzel County,West Virginia","Monroe County,Kentucky",27187,729027
+84,"Wetzel County,West Virginia","Montgomery County,Kentucky",16821,454018
+85,"Wetzel County,West Virginia","Morgan County,Kentucky",16902,423257
+86,"Wetzel County,West Virginia","Muhlenberg County,Kentucky",27770,785865
+87,"Wetzel County,West Virginia","Nelson County,Kentucky",21819,605601
+88,"Wetzel County,West Virginia","Nicholas County,Kentucky",17861,416239
+89,"Wetzel County,West Virginia","Ohio County,Kentucky",26683,753455
+90,"Wetzel County,West Virginia","Oldham County,Kentucky",21047,589798
+91,"Wetzel County,West Virginia","Owen County,Kentucky",20189,547172
+92,"Wetzel County,West Virginia","Owsley County,Kentucky",20992,511507
+93,"Wetzel County,West Virginia","Pendleton County,Kentucky",18754,452836
+94,"Wetzel County,West Virginia","Perry County,Kentucky",19378,499507
+95,"Wetzel County,West Virginia","Pike County,Kentucky",16372,402007
+96,"Wetzel County,West Virginia","Powell County,Kentucky",18265,483764
+97,"Wetzel County,West Virginia","Robertson County,Kentucky",17781,397212
+98,"Wetzel County,West Virginia","Rockcastle County,Kentucky",20600,553955
+99,"Wetzel County,West Virginia","Rowan County,Kentucky",15150,407685
+100,"Wetzel County,West Virginia","Russell County,Kentucky",24165,645241
+101,"Wetzel County,West Virginia","Scott County,Kentucky",19002,529817
+102,"Wetzel County,West Virginia","Shelby County,Kentucky",20829,581093
+103,"Wetzel County,West Virginia","Simpson County,Kentucky",27881,790272
+104,"Wetzel County,West Virginia","Spencer County,Kentucky",21359,586941
+105,"Wetzel County,West Virginia","Taylor County,Kentucky",23501,638026
+106,"Wetzel County,West Virginia","Todd County,Kentucky",29535,806375
+107,"Wetzel County,West Virginia","Trigg County,Kentucky",30513,866107
+108,"Wetzel County,West Virginia","Trimble County,Kentucky",20645,571694
+109,"Wetzel County,West Virginia","Union County,Kentucky",31108,868294
+110,"Wetzel County,West Virginia","Warren County,Kentucky",26915,755220
+111,"Wetzel County,West Virginia","Washington County,Kentucky",21830,590838
+112,"Wetzel County,West Virginia","Wayne County,Kentucky",24341,642314
+113,"Wetzel County,West Virginia","Webster County,Kentucky",30019,847478
+114,"Wetzel County,West Virginia","Whitley County,Kentucky",22860,633716
+115,"Wetzel County,West Virginia","Wolfe County,Kentucky",17997,446619
+116,"Wetzel County,West Virginia","Woodford County,Kentucky",19222,532453
+117,"Wetzel County,West Virginia","Adams County,Ohio",13598,325439
+118,"Wetzel County,West Virginia","Allen County,Ohio",17085,445559
+119,"Wetzel County,West Virginia","Ashland County,Ohio",13361,313645
+120,"Wetzel County,West Virginia","Ashtabula County,Ohio",13294,330501
+121,"Wetzel County,West Virginia","Athens County,Ohio",7994,172949
+122,"Wetzel County,West Virginia","Auglaize County,Ohio",16699,449253
+123,"Wetzel County,West Virginia","Belmont County,Ohio",5148,85233
+124,"Wetzel County,West Virginia","Brown County,Ohio",15022,358299
+125,"Wetzel County,West Virginia","Butler County,Ohio",17169,443984
+126,"Wetzel County,West Virginia","Carroll County,Ohio",8763,168517
+127,"Wetzel County,West Virginia","Champaign County,Ohio",14442,364147
+128,"Wetzel County,West Virginia","Clark County,Ohio",13320,354718
+129,"Wetzel County,West Virginia","Clermont County,Ohio",15676,383462
+130,"Wetzel County,West Virginia","Clinton County,Ohio",14711,390000
+131,"Wetzel County,West Virginia","Columbiana County,Ohio",8882,184328
+132,"Wetzel County,West Virginia","Coshocton County,Ohio",9676,231470
+133,"Wetzel County,West Virginia","Crawford County,Ohio",15069,376751
+134,"Wetzel County,West Virginia","Cuyahoga County,Ohio",13077,345757
+135,"Wetzel County,West Virginia","Darke County,Ohio",16896,452620
+136,"Wetzel County,West Virginia","Defiance County,Ohio",20521,523880
+137,"Wetzel County,West Virginia","Delaware County,Ohio",12596,330467
+138,"Wetzel County,West Virginia","Fairfield County,Ohio",10691,267253
+139,"Wetzel County,West Virginia","Fayette County,Ohio",13348,352051
+140,"Wetzel County,West Virginia","Franklin County,Ohio",11292,294353
+141,"Wetzel County,West Virginia","Fulton County,Ohio",19921,551675
+142,"Wetzel County,West Virginia","Gallia County,Ohio",9877,212825
+143,"Wetzel County,West Virginia","Geauga County,Ohio",12942,303179
+144,"Wetzel County,West Virginia","Greene County,Ohio",14096,380216
+145,"Wetzel County,West Virginia","Guernsey County,Ohio",7223,169529
+146,"Wetzel County,West Virginia","Hamilton County,Ohio",16670,454561
+147,"Wetzel County,West Virginia","Hancock County,Ohio",16619,438822
+148,"Wetzel County,West Virginia","Hardin County,Ohio",15596,401388
+149,"Wetzel County,West Virginia","Harrison County,Ohio",7280,144734
+150,"Wetzel County,West Virginia","Henry County,Ohio",19332,510444
+151,"Wetzel County,West Virginia","Highland County,Ohio",14135,325452
+152,"Wetzel County,West Virginia","Hocking County,Ohio",9619,218852
+153,"Wetzel County,West Virginia","Holmes County,Ohio",10735,254354
+154,"Wetzel County,West Virginia","Huron County,Ohio",15258,355273
+155,"Wetzel County,West Virginia","Jackson County,Ohio",10122,236003
+156,"Wetzel County,West Virginia","Jefferson County,Ohio",6918,142420
+157,"Wetzel County,West Virginia","Knox County,Ohio",11465,273946
+158,"Wetzel County,West Virginia","Lawrence County,Ohio",12470,252215
+159,"Wetzel County,West Virginia","Licking County,Ohio",10851,255017
+160,"Wetzel County,West Virginia","Logan County,Ohio",14617,395665
+161,"Wetzel County,West Virginia","Lorain County,Ohio",14302,375580
+162,"Wetzel County,West Virginia","Lucas County,Ohio",18875,504525
+163,"Wetzel County,West Virginia","Madison County,Ohio",12569,329075
+164,"Wetzel County,West Virginia","Mahoning County,Ohio",9546,213206
+165,"Wetzel County,West Virginia","Marion County,Ohio",14002,356560
+166,"Wetzel County,West Virginia","Medina County,Ohio",12750,331788
+167,"Wetzel County,West Virginia","Meigs County,Ohio",7959,165526
+168,"Wetzel County,West Virginia","Mercer County,Ohio",17934,476186
+169,"Wetzel County,West Virginia","Miami County,Ohio",15407,418052
+170,"Wetzel County,West Virginia","Monroe County,Ohio",3856,57203
+171,"Wetzel County,West Virginia","Montgomery County,Ohio",15668,423499
+172,"Wetzel County,West Virginia","Morgan County,Ohio",7698,151476
+173,"Wetzel County,West Virginia","Morrow County,Ohio",13426,306908
+174,"Wetzel County,West Virginia","Muskingum County,Ohio",8069,197520
+175,"Wetzel County,West Virginia","Noble County,Ohio",5920,110023
+176,"Wetzel County,West Virginia","Paulding County,Ohio",19622,521465
+177,"Wetzel County,West Virginia","Perry County,Ohio",10223,197344
+178,"Wetzel County,West Virginia","Pickaway County,Ohio",11783,271793
+179,"Wetzel County,West Virginia","Pike County,Ohio",11568,275310
+180,"Wetzel County,West Virginia","Portage County,Ohio",11665,275577
+181,"Wetzel County,West Virginia","Preble County,Ohio",16438,446210
+182,"Wetzel County,West Virginia","Putnam County,Ohio",18208,477917
+183,"Wetzel County,West Virginia","Richland County,Ohio",13717,326985
+184,"Wetzel County,West Virginia","Ross County,Ohio",11847,283817
+185,"Wetzel County,West Virginia","Sandusky County,Ohio",17163,463099
+186,"Wetzel County,West Virginia","Scioto County,Ohio",12206,291381
+187,"Wetzel County,West Virginia","Seneca County,Ohio",16993,431402
+188,"Wetzel County,West Virginia","Shelby County,Ohio",16375,425913
+189,"Wetzel County,West Virginia","Stark County,Ohio",10900,275588
+190,"Wetzel County,West Virginia","Summit County,Ohio",11659,301376
+191,"Wetzel County,West Virginia","Trumbull County,Ohio",10938,257957
+192,"Wetzel County,West Virginia","Tuscarawas County,Ohio",8789,176017
+193,"Wetzel County,West Virginia","Union County,Ohio",13121,345896
+194,"Wetzel County,West Virginia","Van Wert County,Ohio",18319,488429
+195,"Wetzel County,West Virginia","Vinton County,Ohio",10112,221390
+196,"Wetzel County,West Virginia","Warren County,Ohio",15087,410530
+197,"Wetzel County,West Virginia","Washington County,Ohio",6002,105399
+198,"Wetzel County,West Virginia","Wayne County,Ohio",11871,278466
+199,"Wetzel County,West Virginia","Williams County,Ohio",21166,583131
+200,"Wetzel County,West Virginia","Wood County,Ohio",18017,480430
+201,"Wetzel County,West Virginia","Wyandot County,Ohio",15589,402958
+202,"Wetzel County,West Virginia","Accomack County,Virginia",27591,710635
+203,"Wetzel County,West Virginia","Albemarle County,Virginia",17885,381418
+204,"Wetzel County,West Virginia","Alleghany County,Virginia",14227,338594
+205,"Wetzel County,West Virginia","Amelia County,Virginia",22939,513236
+206,"Wetzel County,West Virginia","Amherst County,Virginia",19555,469560
+207,"Wetzel County,West Virginia","Appomattox County,Virginia",21149,508319
+208,"Wetzel County,West Virginia","Arlington County,Virginia",16455,427562
+209,"Wetzel County,West Virginia","Augusta County,Virginia",15921,327858
+210,"Wetzel County,West Virginia","Bath County,Virginia",15330,309502
+211,"Wetzel County,West Virginia","Bedford County,Virginia",20213,473580
+212,"Wetzel County,West Virginia","Bland County,Virginia",14762,377517
+213,"Wetzel County,West Virginia","Botetourt County,Virginia",17381,409893
+214,"Wetzel County,West Virginia","Brunswick County,Virginia",25570,615547
+215,"Wetzel County,West Virginia","Buchanan County,Virginia",18757,461746
+216,"Wetzel County,West Virginia","Buckingham County,Virginia",21194,446567
+217,"Wetzel County,West Virginia","Campbell County,Virginia",21072,510791
+218,"Wetzel County,West Virginia","Caroline County,Virginia",20460,546552
+219,"Wetzel County,West Virginia","Carroll County,Virginia",17008,446954
+220,"Wetzel County,West Virginia","Charles City County,Virginia",22930,618035
+221,"Wetzel County,West Virginia","Charlotte County,Virginia",23033,561839
+222,"Wetzel County,West Virginia","Chesterfield County,Virginia",22461,525082
+223,"Wetzel County,West Virginia","Clarke County,Virginia",14567,328198
+224,"Wetzel County,West Virginia","Craig County,Virginia",17443,432382
+225,"Wetzel County,West Virginia","Culpeper County,Virginia",18035,400053
+226,"Wetzel County,West Virginia","Cumberland County,Virginia",21928,471775
+227,"Wetzel County,West Virginia","Dickenson County,Virginia",20470,491968
+228,"Wetzel County,West Virginia","Dinwiddie County,Virginia",24208,575514
+229,"Wetzel County,West Virginia","Essex County,Virginia",21862,570606
+230,"Wetzel County,West Virginia","Fairfax County,Virginia",16146,418230
+231,"Wetzel County,West Virginia","Fauquier County,Virginia",16465,366780
+232,"Wetzel County,West Virginia","Floyd County,Virginia",18628,465919
+233,"Wetzel County,West Virginia","Fluvanna County,Virginia",19563,433590
+234,"Wetzel County,West Virginia","Franklin County,Virginia",20381,489003
+235,"Wetzel County,West Virginia","Frederick County,Virginia",13357,302920
+236,"Wetzel County,West Virginia","Giles County,Virginia",15493,389075
+237,"Wetzel County,West Virginia","Gloucester County,Virginia",25101,672223
+238,"Wetzel County,West Virginia","Goochland County,Virginia",20467,464201
+239,"Wetzel County,West Virginia","Grayson County,Virginia",17410,436662
+240,"Wetzel County,West Virginia","Greene County,Virginia",17858,367248
+241,"Wetzel County,West Virginia","Greensville County,Virginia",25624,624265
+242,"Wetzel County,West Virginia","Halifax County,Virginia",24393,582497
+243,"Wetzel County,West Virginia","Hanover County,Virginia",21278,576044
+244,"Wetzel County,West Virginia","Henrico County,Virginia",22184,518267
+245,"Wetzel County,West Virginia","Henry County,Virginia",20881,533675
+246,"Wetzel County,West Virginia","Highland County,Virginia",12468,261659
+247,"Wetzel County,West Virginia","Isle of Wight County,Virginia",26436,622844
+248,"Wetzel County,West Virginia","James City County,Virginia",24166,658806
+249,"Wetzel County,West Virginia","King and Queen County,Virginia",22913,605867
+250,"Wetzel County,West Virginia","King George County,Virginia",20420,530413
+251,"Wetzel County,West Virginia","King William County,Virginia",21879,583665
+252,"Wetzel County,West Virginia","Lancaster County,Virginia",24285,626600
+253,"Wetzel County,West Virginia","Lee County,Virginia",21771,540484
+254,"Wetzel County,West Virginia","Loudoun County,Virginia",16063,364065
+255,"Wetzel County,West Virginia","Louisa County,Virginia",20124,447296
+256,"Wetzel County,West Virginia","Lunenburg County,Virginia",24813,548173
+257,"Wetzel County,West Virginia","Madison County,Virginia",18458,388312
+258,"Wetzel County,West Virginia","Mathews County,Virginia",25996,670988
+259,"Wetzel County,West Virginia","Mecklenburg County,Virginia",25796,616248
+260,"Wetzel County,West Virginia","Middlesex County,Virginia",24365,634569
+261,"Wetzel County,West Virginia","Montgomery County,Virginia",16576,417082
+262,"Wetzel County,West Virginia","Nelson County,Virginia",18765,399919
+263,"Wetzel County,West Virginia","New Kent County,Virginia",23602,632720
+264,"Wetzel County,West Virginia","Northampton County,Virginia",28583,775469
+265,"Wetzel County,West Virginia","Northumberland County,Virginia",24324,625113
+266,"Wetzel County,West Virginia","Nottoway County,Virginia",24064,534727
+267,"Wetzel County,West Virginia","Orange County,Virginia",19376,434552
+268,"Wetzel County,West Virginia","Page County,Virginia",16487,344462
+269,"Wetzel County,West Virginia","Patrick County,Virginia",19113,491990
+270,"Wetzel County,West Virginia","Pittsylvania County,Virginia",22806,538951
+271,"Wetzel County,West Virginia","Powhatan County,Virginia",21720,489422
+272,"Wetzel County,West Virginia","Prince Edward County,Virginia",22735,500391
+273,"Wetzel County,West Virginia","Prince George County,Virginia",23971,562097
+274,"Wetzel County,West Virginia","Prince William County,Virginia",16564,372884
+275,"Wetzel County,West Virginia","Pulaski County,Virginia",16671,413413
+276,"Wetzel County,West Virginia","Rappahannock County,Virginia",16776,351918
+277,"Wetzel County,West Virginia","Richmond County,Virginia",23024,597756
+278,"Wetzel County,West Virginia","Roanoke County,Virginia",18195,459875
+279,"Wetzel County,West Virginia","Rockbridge County,Virginia",16560,406950
+280,"Wetzel County,West Virginia","Rockingham County,Virginia",14659,312389
+281,"Wetzel County,West Virginia","Russell County,Virginia",18570,457697
+282,"Wetzel County,West Virginia","Scott County,Virginia",21235,525824
+283,"Wetzel County,West Virginia","Shenandoah County,Virginia",14925,301852
+284,"Wetzel County,West Virginia","Smyth County,Virginia",17120,442869
+285,"Wetzel County,West Virginia","Southampton County,Virginia",26002,620379
+286,"Wetzel County,West Virginia","Spotsylvania County,Virginia",20081,441921
+287,"Wetzel County,West Virginia","Stafford County,Virginia",18120,481516
+288,"Wetzel County,West Virginia","Surry County,Virginia",24858,668242
+289,"Wetzel County,West Virginia","Sussex County,Virginia",24666,590622
+290,"Wetzel County,West Virginia","Tazewell County,Virginia",15577,396104
+291,"Wetzel County,West Virginia","Warren County,Virginia",15105,314581
+292,"Wetzel County,West Virginia","Washington County,Virginia",18513,482335
+293,"Wetzel County,West Virginia","Westmoreland County,Virginia",21388,549214
+294,"Wetzel County,West Virginia","Wise County,Virginia",18735,467867
+295,"Wetzel County,West Virginia","Wythe County,Virginia",15367,395734
+296,"Wetzel County,West Virginia","York County,Virginia",25454,689580
+297,"Wetzel County,West Virginia","Alexandria City County,Virginia",16970,444744
+298,"Wetzel County,West Virginia","Bedford City County,Virginia",19245,456727
+299,"Wetzel County,West Virginia","Bristol City County,Virginia",18988,508053
+300,"Wetzel County,West Virginia","Buena Vista City County,Virginia",16914,420927
+301,"Wetzel County,West Virginia","Charlottesville City County,Virginia",18354,396633
+302,"Wetzel County,West Virginia","Chesapeake City County,Virginia",26917,742486
+303,"Wetzel County,West Virginia","Clifton Forge City County,Virginia",14770,358800
+304,"Wetzel County,West Virginia","Colonial Heights City County,Virginia",23021,540974
+305,"Wetzel County,West Virginia","Covington City County,Virginia",14296,342179
+306,"Wetzel County,West Virginia","Danville City County,Virginia",23038,588131
+307,"Wetzel County,West Virginia","Emporia City County,Virginia",25331,610859
+308,"Wetzel County,West Virginia","Fairfax City County,Virginia",16616,429863
+309,"Wetzel County,West Virginia","Falls Church City County,Virginia",16163,421874
+310,"Wetzel County,West Virginia","Franklin City County,Virginia",26549,628234
+311,"Wetzel County,West Virginia","Fredericksburg City County,Virginia",18933,497107
+312,"Wetzel County,West Virginia","Galax City County,Virginia",17631,452820
+313,"Wetzel County,West Virginia","Hampton City County,Virginia",25404,699287
+314,"Wetzel County,West Virginia","Harrisonburg City County,Virginia",15153,317823
+315,"Wetzel County,West Virginia","Hopewell City County,Virginia",23057,539941
+316,"Wetzel County,West Virginia","Lexington City County,Virginia",16548,409419
+317,"Wetzel County,West Virginia","Lynchburg City County,Virginia",20132,484533
+318,"Wetzel County,West Virginia","Manassas City County,Virginia",16792,377829
+319,"Wetzel County,West Virginia","Manassas Park City County,Virginia",17294,384172
+320,"Wetzel County,West Virginia","Martinsville City County,Virginia",21408,542469
+321,"Wetzel County,West Virginia","Newport News City County,Virginia",24960,685773
+322,"Wetzel County,West Virginia","Norfolk City County,Virginia",26710,724703
+323,"Wetzel County,West Virginia","Norton City County,Virginia",19364,479679
+324,"Wetzel County,West Virginia","Petersburg City County,Virginia",22892,541962
+325,"Wetzel County,West Virginia","Poquoson City County,Virginia",25632,696349
+326,"Wetzel County,West Virginia","Portsmouth City County,Virginia",26649,733523
+327,"Wetzel County,West Virginia","Radford County,Virginia",16983,415122
+328,"Wetzel County,West Virginia","Richmond City County,Virginia",21760,506077
+329,"Wetzel County,West Virginia","Roanoke City County,Virginia",18277,439362
+330,"Wetzel County,West Virginia","Salem City County,Virginia",18107,437833
+331,"Wetzel County,West Virginia","South Boston City County,Virginia",24396,581316
+332,"Wetzel County,West Virginia","Staunton City County,Virginia",16062,328548
+333,"Wetzel County,West Virginia","Suffolk City County,Virginia",27279,637568
+334,"Wetzel County,West Virginia","Virginia Beach City County,Virginia",27271,747961
+335,"Wetzel County,West Virginia","Waynesboro City County,Virginia",17016,351529
+336,"Wetzel County,West Virginia","Williamsburg City County,Virginia",24005,658022
+337,"Wetzel County,West Virginia","Winchester City County,Virginia",13496,306724
+338,"Wetzel County,West Virginia","Barbour County,West Virginia",5594,104570
+339,"Wetzel County,West Virginia","Berkeley County,West Virginia",12910,305580
+340,"Wetzel County,West Virginia","Boone County,West Virginia",12546,291154
+341,"Wetzel County,West Virginia","Braxton County,West Virginia",7801,162225
+342,"Wetzel County,West Virginia","Brooke County,West Virginia",6514,120105
+343,"Wetzel County,West Virginia","Cabell County,West Virginia",12274,266814
+344,"Wetzel County,West Virginia","Calhoun County,West Virginia",8434,125708
+345,"Wetzel County,West Virginia","Clay County,West Virginia",9487,227249
+346,"Wetzel County,West Virginia","Doddridge County,West Virginia",4841,84248
+347,"Wetzel County,West Virginia","Fayette County,West Virginia",10267,247166
+348,"Wetzel County,West Virginia","Gilmer County,West Virginia",7605,161583
+349,"Wetzel County,West Virginia","Grant County,West Virginia",10830,204472
+350,"Wetzel County,West Virginia","Greenbrier County,West Virginia",13468,282726
+351,"Wetzel County,West Virginia","Hampshire County,West Virginia",12164,267183
+352,"Wetzel County,West Virginia","Hancock County,West Virginia",7836,152124
+353,"Wetzel County,West Virginia","Hardy County,West Virginia",11916,237074
+354,"Wetzel County,West Virginia","Harrison County,West Virginia",2998,53378
+355,"Wetzel County,West Virginia","Jackson County,West Virginia",7850,172774
+356,"Wetzel County,West Virginia","Jefferson County,West Virginia",14375,361578
+357,"Wetzel County,West Virginia","Kanawha County,West Virginia",11021,259323
+358,"Wetzel County,West Virginia","Lewis County,West Virginia",5506,111213
+359,"Wetzel County,West Virginia","Lincoln County,West Virginia",12804,285741
+360,"Wetzel County,West Virginia","Logan County,West Virginia",13475,328273
+361,"Wetzel County,West Virginia","McDowell County,West Virginia",16351,371776
+362,"Wetzel County,West Virginia","Marion County,West Virginia",3611,57696
+363,"Wetzel County,West Virginia","Marshall County,West Virginia",4916,81152
+364,"Wetzel County,West Virginia","Mason County,West Virginia",9614,216828
+365,"Wetzel County,West Virginia","Mercer County,West Virginia",13315,336023
+366,"Wetzel County,West Virginia","Mineral County,West Virginia",11043,241735
+367,"Wetzel County,West Virginia","Mingo County,West Virginia",13520,332781
+368,"Wetzel County,West Virginia","Monongalia County,West Virginia",5566,106427
+369,"Wetzel County,West Virginia","Monroe County,West Virginia",15076,343794
+370,"Wetzel County,West Virginia","Morgan County,West Virginia",12401,294971
+371,"Wetzel County,West Virginia","Nicholas County,West Virginia",8787,211870
+372,"Wetzel County,West Virginia","Ohio County,West Virginia",5518,99835
+373,"Wetzel County,West Virginia","Pendleton County,West Virginia",11980,263092
+374,"Wetzel County,West Virginia","Pleasants County,West Virginia",4372,77902
+375,"Wetzel County,West Virginia","Pocahontas County,West Virginia",12273,244324
+376,"Wetzel County,West Virginia","Preston County,West Virginia",7712,133158
+377,"Wetzel County,West Virginia","Putnam County,West Virginia",10397,259588
+378,"Wetzel County,West Virginia","Raleigh County,West Virginia",11857,289716
+379,"Wetzel County,West Virginia","Randolph County,West Virginia",7658,161219
+380,"Wetzel County,West Virginia","Ritchie County,West Virginia",5544,75634
+381,"Wetzel County,West Virginia","Roane County,West Virginia",9476,201589
+382,"Wetzel County,West Virginia","Summers County,West Virginia",15063,320161
+383,"Wetzel County,West Virginia","Taylor County,West Virginia",5410,96968
+384,"Wetzel County,West Virginia","Tucker County,West Virginia",8160,155298
+385,"Wetzel County,West Virginia","Tyler County,West Virginia",2754,28798
+386,"Wetzel County,West Virginia","Upshur County,West Virginia",6634,135660
+387,"Wetzel County,West Virginia","Wayne County,West Virginia",13731,340690
+388,"Wetzel County,West Virginia","Webster County,West Virginia",10009,208047
+389,"Wetzel County,West Virginia","Wirt County,West Virginia",7094,137237
+390,"Wetzel County,West Virginia","Wood County,West Virginia",5856,112434
+391,"Wetzel County,West Virginia","Wyoming County,West Virginia",13801,329658

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Roane County,West Virginia","Adair County,Kentucky",19576,530306
+1,"Roane County,West Virginia","Allen County,Kentucky",22195,630954
+2,"Roane County,West Virginia","Anderson County,Kentucky",15376,433345
+3,"Roane County,West Virginia","Ballard County,Kentucky",28355,823116
+4,"Roane County,West Virginia","Barren County,Kentucky",21322,589334
+5,"Roane County,West Virginia","Bath County,Kentucky",11023,304527
+6,"Roane County,West Virginia","Bell County,Kentucky",18579,440342
+7,"Roane County,West Virginia","Boone County,Kentucky",14624,348377
+8,"Roane County,West Virginia","Bourbon County,Kentucky",12937,350944
+9,"Roane County,West Virginia","Boyd County,Kentucky",7699,198851
+10,"Roane County,West Virginia","Boyle County,Kentucky",16605,437232
+11,"Roane County,West Virginia","Bracken County,Kentucky",13348,345027
+12,"Roane County,West Virginia","Breathitt County,Kentucky",14410,345553
+13,"Roane County,West Virginia","Breckinridge County,Kentucky",20909,586027
+14,"Roane County,West Virginia","Bullitt County,Kentucky",17479,507146
+15,"Roane County,West Virginia","Butler County,Kentucky",21574,608024
+16,"Roane County,West Virginia","Caldwell County,Kentucky",24466,713970
+17,"Roane County,West Virginia","Calloway County,Kentucky",27276,798962
+18,"Roane County,West Virginia","Campbell County,Kentucky",14253,337531
+19,"Roane County,West Virginia","Carlisle County,Kentucky",28812,838485
+20,"Roane County,West Virginia","Carroll County,Kentucky",16198,410142
+21,"Roane County,West Virginia","Carter County,Kentucky",8864,228948
+22,"Roane County,West Virginia","Casey County,Kentucky",18100,468737
+23,"Roane County,West Virginia","Christian County,Kentucky",24115,709226
+24,"Roane County,West Virginia","Clay County,Kentucky",16909,432667
+25,"Roane County,West Virginia","Clinton County,Kentucky",19984,533672
+26,"Roane County,West Virginia","Crittenden County,Kentucky",26046,747040
+27,"Roane County,West Virginia","Cumberland County,Kentucky",20738,551911
+28,"Roane County,West Virginia","Daviess County,Kentucky",22597,654467
+29,"Roane County,West Virginia","Edmonson County,Kentucky",21015,595899
+30,"Roane County,West Virginia","Elliott County,Kentucky",10194,254718
+31,"Roane County,West Virginia","Estill County,Kentucky",14016,366842
+32,"Roane County,West Virginia","Fayette County,Kentucky",13183,370838
+33,"Roane County,West Virginia","Fleming County,Kentucky",11449,307712
+34,"Roane County,West Virginia","Floyd County,Kentucky",11832,306116
+35,"Roane County,West Virginia","Franklin County,Kentucky",15221,419754
+36,"Roane County,West Virginia","Fulton County,Kentucky",29216,859449
+37,"Roane County,West Virginia","Gallatin County,Kentucky",15409,382555
+38,"Roane County,West Virginia","Garrard County,Kentucky",15788,417992
+39,"Roane County,West Virginia","Grant County,Kentucky",15476,383029
+40,"Roane County,West Virginia","Graves County,Kentucky",27836,811191
+41,"Roane County,West Virginia","Grayson County,Kentucky",19902,564660
+42,"Roane County,West Virginia","Green County,Kentucky",19681,529866
+43,"Roane County,West Virginia","Greenup County,Kentucky",9173,192128
+44,"Roane County,West Virginia","Hancock County,Kentucky",21705,618920
+45,"Roane County,West Virginia","Hardin County,Kentucky",18778,526793
+46,"Roane County,West Virginia","Harlan County,Kentucky",17901,420659
+47,"Roane County,West Virginia","Harrison County,Kentucky",14508,384044
+48,"Roane County,West Virginia","Hart County,Kentucky",19577,554421
+49,"Roane County,West Virginia","Henderson County,Kentucky",24404,706896
+50,"Roane County,West Virginia","Henry County,Kentucky",16822,463473
+51,"Roane County,West Virginia","Hickman County,Kentucky",28845,839777
+52,"Roane County,West Virginia","Hopkins County,Kentucky",23925,688438
+53,"Roane County,West Virginia","Jackson County,Kentucky",16689,414850
+54,"Roane County,West Virginia","Jefferson County,Kentucky",16916,479007
+55,"Roane County,West Virginia","Jessamine County,Kentucky",14652,392302
+56,"Roane County,West Virginia","Johnson County,Kentucky",10480,271747
+57,"Roane County,West Virginia","Kenton County,Kentucky",13993,336071
+58,"Roane County,West Virginia","Knott County,Kentucky",13014,337998
+59,"Roane County,West Virginia","Knox County,Kentucky",18192,496884
+60,"Roane County,West Virginia","Larue County,Kentucky",18849,513969
+61,"Roane County,West Virginia","Laurel County,Kentucky",17043,468279
+62,"Roane County,West Virginia","Lawrence County,Kentucky",9622,243171
+63,"Roane County,West Virginia","Lee County,Kentucky",14861,360578
+64,"Roane County,West Virginia","Leslie County,Kentucky",16093,407671
+65,"Roane County,West Virginia","Letcher County,Kentucky",14086,340938
+66,"Roane County,West Virginia","Lewis County,Kentucky",10902,280766
+67,"Roane County,West Virginia","Lincoln County,Kentucky",16498,434910
+68,"Roane County,West Virginia","Livingston County,Kentucky",26642,763937
+69,"Roane County,West Virginia","Logan County,Kentucky",23315,651263
+70,"Roane County,West Virginia","Lyon County,Kentucky",26775,774327
+71,"Roane County,West Virginia","McCracken County,Kentucky",26967,791176
+72,"Roane County,West Virginia","McCreary County,Kentucky",19148,512721
+73,"Roane County,West Virginia","Madison County,Kentucky",14181,381861
+74,"Roane County,West Virginia","Magoffin County,Kentucky",11448,292426
+75,"Roane County,West Virginia","Marion County,Kentucky",17227,475578
+76,"Roane County,West Virginia","Marshall County,Kentucky",26382,774748
+77,"Roane County,West Virginia","Martin County,Kentucky",11108,275516
+78,"Roane County,West Virginia","Mason County,Kentucky",12697,324572
+79,"Roane County,West Virginia","Meade County,Kentucky",19377,551321
+80,"Roane County,West Virginia","Menifee County,Kentucky",12140,316590
+81,"Roane County,West Virginia","Mercer County,Kentucky",15604,431289
+82,"Roane County,West Virginia","Metcalfe County,Kentucky",20232,560571
+83,"Roane County,West Virginia","Monroe County,Kentucky",22202,598075
+84,"Roane County,West Virginia","Montgomery County,Kentucky",11836,323067
+85,"Roane County,West Virginia","Morgan County,Kentucky",11918,292306
+86,"Roane County,West Virginia","Muhlenberg County,Kentucky",22785,654914
+87,"Roane County,West Virginia","Nelson County,Kentucky",16835,474650
+88,"Roane County,West Virginia","Nicholas County,Kentucky",13514,350950
+89,"Roane County,West Virginia","Ohio County,Kentucky",21698,622503
+90,"Roane County,West Virginia","Oldham County,Kentucky",16987,490888
+91,"Roane County,West Virginia","Owen County,Kentucky",16043,446532
+92,"Roane County,West Virginia","Owsley County,Kentucky",16007,380555
+93,"Roane County,West Virginia","Pendleton County,Kentucky",15129,359373
+94,"Roane County,West Virginia","Perry County,Kentucky",14393,368556
+95,"Roane County,West Virginia","Pike County,Kentucky",11388,271055
+96,"Roane County,West Virginia","Powell County,Kentucky",13280,352813
+97,"Roane County,West Virginia","Robertson County,Kentucky",13432,350456
+98,"Roane County,West Virginia","Rockcastle County,Kentucky",15616,423004
+99,"Roane County,West Virginia","Rowan County,Kentucky",10166,276734
+100,"Roane County,West Virginia","Russell County,Kentucky",19181,514290
+101,"Roane County,West Virginia","Scott County,Kentucky",14018,398865
+102,"Roane County,West Virginia","Shelby County,Kentucky",15845,450141
+103,"Roane County,West Virginia","Simpson County,Kentucky",22896,659320
+104,"Roane County,West Virginia","Spencer County,Kentucky",16374,455989
+105,"Roane County,West Virginia","Taylor County,Kentucky",18517,507074
+106,"Roane County,West Virginia","Todd County,Kentucky",24551,675423
+107,"Roane County,West Virginia","Trigg County,Kentucky",25529,735155
+108,"Roane County,West Virginia","Trimble County,Kentucky",17096,433466
+109,"Roane County,West Virginia","Union County,Kentucky",26123,737343
+110,"Roane County,West Virginia","Warren County,Kentucky",21931,624268
+111,"Roane County,West Virginia","Washington County,Kentucky",16845,459886
+112,"Roane County,West Virginia","Wayne County,Kentucky",19357,511362
+113,"Roane County,West Virginia","Webster County,Kentucky",25034,716527
+114,"Roane County,West Virginia","Whitley County,Kentucky",17876,502764
+115,"Roane County,West Virginia","Wolfe County,Kentucky",13013,315668
+116,"Roane County,West Virginia","Woodford County,Kentucky",14237,401501
+117,"Roane County,West Virginia","Adams County,Ohio",9973,231976
+118,"Roane County,West Virginia","Allen County,Ohio",15681,392202
+119,"Roane County,West Virginia","Ashland County,Ohio",13509,341023
+120,"Roane County,West Virginia","Ashtabula County,Ohio",16197,461921
+121,"Roane County,West Virginia","Athens County,Ohio",5441,117314
+122,"Roane County,West Virginia","Auglaize County,Ohio",15295,395896
+123,"Roane County,West Virginia","Belmont County,Ohio",9260,250845
+124,"Roane County,West Virginia","Brown County,Ohio",11397,264836
+125,"Roane County,West Virginia","Butler County,Ohio",14330,340929
+126,"Roane County,West Virginia","Carroll County,Ohio",11190,287731
+127,"Roane County,West Virginia","Champaign County,Ohio",12952,311663
+128,"Roane County,West Virginia","Clark County,Ohio",11938,285735
+129,"Roane County,West Virginia","Clermont County,Ohio",12051,290000
+130,"Roane County,West Virginia","Clinton County,Ohio",11442,273416
+131,"Roane County,West Virginia","Columbiana County,Ohio",13031,341967
+132,"Roane County,West Virginia","Coshocton County,Ohio",9825,258848
+133,"Roane County,West Virginia","Crawford County,Ohio",14117,352183
+134,"Roane County,West Virginia","Cuyahoga County,Ohio",13226,373135
+135,"Roane County,West Virginia","Darke County,Ohio",15053,381140
+136,"Roane County,West Virginia","Defiance County,Ohio",19117,470523
+137,"Roane County,West Virginia","Delaware County,Ohio",11271,284920
+138,"Roane County,West Virginia","Fairfield County,Ohio",8801,212015
+139,"Roane County,West Virginia","Fayette County,Ohio",10006,243880
+140,"Roane County,West Virginia","Franklin County,Ohio",9801,241869
+141,"Roane County,West Virginia","Fulton County,Ohio",19207,507752
+142,"Roane County,West Virginia","Gallia County,Ohio",5319,102992
+143,"Roane County,West Virginia","Geauga County,Ohio",14297,398853
+144,"Roane County,West Virginia","Greene County,Ohio",10876,277033
+145,"Roane County,West Virginia","Guernsey County,Ohio",7375,196767
+146,"Roane County,West Virginia","Hamilton County,Ohio",13832,351507
+147,"Roane County,West Virginia","Hancock County,Ohio",15294,393275
+148,"Roane County,West Virginia","Hardin County,Ohio",14192,348032
+149,"Roane County,West Virginia","Harrison County,Ohio",10195,269797
+150,"Roane County,West Virginia","Henry County,Ohio",18007,464897
+151,"Roane County,West Virginia","Highland County,Ohio",10510,231990
+152,"Roane County,West Virginia","Hocking County,Ohio",7243,167978
+153,"Roane County,West Virginia","Holmes County,Ohio",10884,281732
+154,"Roane County,West Virginia","Huron County,Ohio",15406,382652
+155,"Roane County,West Virginia","Jackson County,Ohio",6497,142541
+156,"Roane County,West Virginia","Jefferson County,Ohio",11188,279575
+157,"Roane County,West Virginia","Knox County,Ohio",11613,301324
+158,"Roane County,West Virginia","Lawrence County,Ohio",7913,142382
+159,"Roane County,West Virginia","Licking County,Ohio",10746,239024
+160,"Roane County,West Virginia","Logan County,Ohio",13213,342309
+161,"Roane County,West Virginia","Lorain County,Ohio",14450,402959
+162,"Roane County,West Virginia","Lucas County,Ohio",18929,480775
+163,"Roane County,West Virginia","Madison County,Ohio",11079,276591
+164,"Roane County,West Virginia","Mahoning County,Ohio",13527,356772
+165,"Roane County,West Virginia","Marion County,Ohio",12677,311013
+166,"Roane County,West Virginia","Medina County,Ohio",12899,359166
+167,"Roane County,West Virginia","Meigs County,Ohio",4322,88284
+168,"Roane County,West Virginia","Mercer County,Ohio",16531,422830
+169,"Roane County,West Virginia","Miami County,Ohio",13541,346532
+170,"Roane County,West Virginia","Monroe County,Ohio",8311,185959
+171,"Roane County,West Virginia","Montgomery County,Ohio",12911,324488
+172,"Roane County,West Virginia","Morgan County,Ohio",7317,172607
+173,"Roane County,West Virginia","Morrow County,Ohio",12078,307741
+174,"Roane County,West Virginia","Muskingum County,Ohio",8221,224759
+175,"Roane County,West Virginia","Noble County,Ohio",6817,169119
+176,"Roane County,West Virginia","Paulding County,Ohio",18218,468108
+177,"Roane County,West Virginia","Perry County,Ohio",8659,182734
+178,"Roane County,West Virginia","Pickaway County,Ohio",9446,223979
+179,"Roane County,West Virginia","Pike County,Ohio",7943,181848
+180,"Roane County,West Virginia","Portage County,Ohio",12748,354717
+181,"Roane County,West Virginia","Preble County,Ohio",14530,353066
+182,"Roane County,West Virginia","Putnam County,Ohio",16804,424561
+183,"Roane County,West Virginia","Richland County,Ohio",13108,342980
+184,"Roane County,West Virginia","Ross County,Ohio",8191,190285
+185,"Roane County,West Virginia","Sandusky County,Ohio",17050,411970
+186,"Roane County,West Virginia","Scioto County,Ohio",8606,172621
+187,"Roane County,West Virginia","Seneca County,Ohio",15667,385855
+188,"Roane County,West Virginia","Shelby County,Ohio",14580,382818
+189,"Roane County,West Virginia","Stark County,Ohio",11048,302966
+190,"Roane County,West Virginia","Summit County,Ohio",11807,328755
+191,"Roane County,West Virginia","Trumbull County,Ohio",14482,383019
+192,"Roane County,West Virginia","Tuscarawas County,Ohio",9249,243554
+193,"Roane County,West Virginia","Union County,Ohio",11717,292540
+194,"Roane County,West Virginia","Van Wert County,Ohio",16915,435072
+195,"Roane County,West Virginia","Vinton County,Ohio",7385,151141
+196,"Roane County,West Virginia","Warren County,Ohio",12248,307475
+197,"Roane County,West Virginia","Washington County,Ohio",5675,127055
+198,"Roane County,West Virginia","Wayne County,Ohio",12020,305845
+199,"Roane County,West Virginia","Williams County,Ohio",20294,494039
+200,"Roane County,West Virginia","Wood County,Ohio",16692,434883
+201,"Roane County,West Virginia","Wyandot County,Ohio",14264,357411
+202,"Roane County,West Virginia","Accomack County,Virginia",31030,865682
+203,"Roane County,West Virginia","Albemarle County,Virginia",17179,478182
+204,"Roane County,West Virginia","Alleghany County,Virginia",11848,315205
+205,"Roane County,West Virginia","Amelia County,Virginia",21880,578300
+206,"Roane County,West Virginia","Amherst County,Virginia",17177,446171
+207,"Roane County,West Virginia","Appomattox County,Virginia",18771,484929
+208,"Roane County,West Virginia","Arlington County,Virginia",21153,553990
+209,"Roane County,West Virginia","Augusta County,Virginia",15790,416521
+210,"Roane County,West Virginia","Bath County,Virginia",14860,390514
+211,"Roane County,West Virginia","Bedford County,Virginia",17437,432295
+212,"Roane County,West Virginia","Bland County,Virginia",10810,281424
+213,"Roane County,West Virginia","Botetourt County,Virginia",15003,386504
+214,"Roane County,West Virginia","Brunswick County,Virginia",24423,627973
+215,"Roane County,West Virginia","Buchanan County,Virginia",14805,365654
+216,"Roane County,West Virginia","Buckingham County,Virginia",19053,495865
+217,"Roane County,West Virginia","Campbell County,Virginia",18694,487401
+218,"Roane County,West Virginia","Caroline County,Virginia",22519,647027
+219,"Roane County,West Virginia","Carroll County,Virginia",13056,350862
+220,"Roane County,West Virginia","Charles City County,Virginia",22619,644062
+221,"Roane County,West Virginia","Charlotte County,Virginia",20655,538450
+222,"Roane County,West Virginia","Chesterfield County,Virginia",21755,621846
+223,"Roane County,West Virginia","Clarke County,Virginia",19196,435344
+224,"Roane County,West Virginia","Craig County,Virginia",13492,336290
+225,"Roane County,West Virginia","Culpeper County,Virginia",20977,567398
+226,"Roane County,West Virginia","Cumberland County,Virginia",20263,523867
+227,"Roane County,West Virginia","Dickenson County,Virginia",15486,361016
+228,"Roane County,West Virginia","Dinwiddie County,Virginia",23502,672277
+229,"Roane County,West Virginia","Essex County,Virginia",24336,671070
+230,"Roane County,West Virginia","Fairfax County,Virginia",20844,544657
+231,"Roane County,West Virginia","Fauquier County,Virginia",19634,456596
+232,"Roane County,West Virginia","Floyd County,Virginia",14677,369826
+233,"Roane County,West Virginia","Fluvanna County,Virginia",18857,530353
+234,"Roane County,West Virginia","Franklin County,Virginia",16950,433529
+235,"Roane County,West Virginia","Frederick County,Virginia",17715,399150
+236,"Roane County,West Virginia","Giles County,Virginia",11541,292982
+237,"Roane County,West Virginia","Gloucester County,Virginia",24790,698250
+238,"Roane County,West Virginia","Goochland County,Virginia",19761,560964
+239,"Roane County,West Virginia","Grayson County,Virginia",13459,340569
+240,"Roane County,West Virginia","Greene County,Virginia",19172,513766
+241,"Roane County,West Virginia","Greensville County,Virginia",24918,721029
+242,"Roane County,West Virginia","Halifax County,Virginia",21359,548549
+243,"Roane County,West Virginia","Hanover County,Virginia",20967,602071
+244,"Roane County,West Virginia","Henrico County,Virginia",21479,615031
+245,"Roane County,West Virginia","Henry County,Virginia",16929,437583
+246,"Roane County,West Virginia","Highland County,Virginia",14849,296584
+247,"Roane County,West Virginia","Isle of Wight County,Virginia",25731,719608
+248,"Roane County,West Virginia","James City County,Virginia",23855,684833
+249,"Roane County,West Virginia","King and Queen County,Virginia",23513,660417
+250,"Roane County,West Virginia","King George County,Virginia",23632,675013
+251,"Roane County,West Virginia","King William County,Virginia",22201,630339
+252,"Roane County,West Virginia","Lancaster County,Virginia",25993,713424
+253,"Roane County,West Virginia","Lee County,Virginia",16787,409532
+254,"Roane County,West Virginia","Loudoun County,Virginia",20692,471211
+255,"Roane County,West Virginia","Louisa County,Virginia",19418,544059
+256,"Roane County,West Virginia","Lunenburg County,Virginia",22427,579734
+257,"Roane County,West Virginia","Madison County,Virginia",20092,543506
+258,"Roane County,West Virginia","Mathews County,Virginia",25615,721674
+259,"Roane County,West Virginia","Mecklenburg County,Virginia",23418,592859
+260,"Roane County,West Virginia","Middlesex County,Virginia",24391,694450
+261,"Roane County,West Virginia","Montgomery County,Virginia",12624,320989
+262,"Roane County,West Virginia","Nelson County,Virginia",17718,457862
+263,"Roane County,West Virginia","New Kent County,Virginia",23291,658747
+264,"Roane County,West Virginia","Northampton County,Virginia",28272,801496
+265,"Roane County,West Virginia","Northumberland County,Virginia",26033,711937
+266,"Roane County,West Virginia","Nottoway County,Virginia",21920,580114
+267,"Roane County,West Virginia","Orange County,Virginia",20381,552167
+268,"Roane County,West Virginia","Page County,Virginia",19026,527297
+269,"Roane County,West Virginia","Patrick County,Virginia",15162,395898
+270,"Roane County,West Virginia","Pittsylvania County,Virginia",19245,491791
+271,"Roane County,West Virginia","Powhatan County,Virginia",21014,586186
+272,"Roane County,West Virginia","Prince Edward County,Virginia",20535,537449
+273,"Roane County,West Virginia","Prince George County,Virginia",23266,658861
+274,"Roane County,West Virginia","Prince William County,Virginia",19734,462700
+275,"Roane County,West Virginia","Pulaski County,Virginia",12719,317321
+276,"Roane County,West Virginia","Rappahannock County,Virginia",19945,441734
+277,"Roane County,West Virginia","Richmond County,Virginia",24733,684580
+278,"Roane County,West Virginia","Roanoke County,Virginia",14244,363783
+279,"Roane County,West Virginia","Rockbridge County,Virginia",14181,383561
+280,"Roane County,West Virginia","Rockingham County,Virginia",17696,357586
+281,"Roane County,West Virginia","Russell County,Virginia",14619,361604
+282,"Roane County,West Virginia","Scott County,Virginia",16962,408470
+283,"Roane County,West Virginia","Shenandoah County,Virginia",18095,391668
+284,"Roane County,West Virginia","Smyth County,Virginia",13168,346776
+285,"Roane County,West Virginia","Southampton County,Virginia",25296,717143
+286,"Roane County,West Virginia","Spotsylvania County,Virginia",21434,585898
+287,"Roane County,West Virginia","Stafford County,Virginia",22253,520602
+288,"Roane County,West Virginia","Surry County,Virginia",24599,683694
+289,"Roane County,West Virginia","Sussex County,Virginia",23960,687386
+290,"Roane County,West Virginia","Tazewell County,Virginia",11626,300012
+291,"Roane County,West Virginia","Warren County,Virginia",18274,404397
+292,"Roane County,West Virginia","Washington County,Virginia",14561,386243
+293,"Roane County,West Virginia","Westmoreland County,Virginia",24606,691838
+294,"Roane County,West Virginia","Wise County,Virginia",13751,336915
+295,"Roane County,West Virginia","Wythe County,Virginia",11415,299641
+296,"Roane County,West Virginia","York County,Virginia",25143,715607
+297,"Roane County,West Virginia","Alexandria City County,Virginia",21669,571171
+298,"Roane County,West Virginia","Bedford City County,Virginia",16602,423727
+299,"Roane County,West Virginia","Bristol City County,Virginia",15036,411960
+300,"Roane County,West Virginia","Buena Vista City County,Virginia",14536,397538
+301,"Roane County,West Virginia","Charlottesville City County,Virginia",17649,493396
+302,"Roane County,West Virginia","Chesapeake City County,Virginia",26606,768513
+303,"Roane County,West Virginia","Clifton Forge City County,Virginia",12392,335411
+304,"Roane County,West Virginia","Colonial Heights City County,Virginia",22315,637738
+305,"Roane County,West Virginia","Covington City County,Virginia",11918,318790
+306,"Roane County,West Virginia","Danville City County,Virginia",19087,492039
+307,"Roane County,West Virginia","Emporia City County,Virginia",24626,707622
+308,"Roane County,West Virginia","Fairfax City County,Virginia",20866,488447
+309,"Roane County,West Virginia","Falls Church City County,Virginia",20861,548302
+310,"Roane County,West Virginia","Franklin City County,Virginia",25844,724998
+311,"Roane County,West Virginia","Fredericksburg City County,Virginia",22574,517443
+312,"Roane County,West Virginia","Galax City County,Virginia",13679,356728
+313,"Roane County,West Virginia","Hampton City County,Virginia",25093,725314
+314,"Roane County,West Virginia","Harrisonburg City County,Virginia",17534,352747
+315,"Roane County,West Virginia","Hopewell City County,Virginia",22352,636704
+316,"Roane County,West Virginia","Lexington City County,Virginia",14170,386030
+317,"Roane County,West Virginia","Lynchburg City County,Virginia",17753,461144
+318,"Roane County,West Virginia","Manassas City County,Virginia",19961,467644
+319,"Roane County,West Virginia","Manassas Park City County,Virginia",20464,473987
+320,"Roane County,West Virginia","Martinsville City County,Virginia",17457,446376
+321,"Roane County,West Virginia","Newport News City County,Virginia",24650,711799
+322,"Roane County,West Virginia","Norfolk City County,Virginia",26399,750729
+323,"Roane County,West Virginia","Norton City County,Virginia",14379,348727
+324,"Roane County,West Virginia","Petersburg City County,Virginia",22187,638726
+325,"Roane County,West Virginia","Poquoson City County,Virginia",25321,722376
+326,"Roane County,West Virginia","Portsmouth City County,Virginia",26338,759550
+327,"Roane County,West Virginia","Radford County,Virginia",13032,319030
+328,"Roane County,West Virginia","Richmond City County,Virginia",21055,602841
+329,"Roane County,West Virginia","Roanoke City County,Virginia",14846,383888
+330,"Roane County,West Virginia","Salem City County,Virginia",14258,370438
+331,"Roane County,West Virginia","South Boston City County,Virginia",21099,546217
+332,"Roane County,West Virginia","Staunton City County,Virginia",15941,440673
+333,"Roane County,West Virginia","Suffolk City County,Virginia",26574,734332
+334,"Roane County,West Virginia","Virginia Beach City County,Virginia",26960,773988
+335,"Roane County,West Virginia","Waynesboro City County,Virginia",16279,453391
+336,"Roane County,West Virginia","Williamsburg City County,Virginia",23694,684048
+337,"Roane County,West Virginia","Winchester City County,Virginia",18194,433151
+338,"Roane County,West Virginia","Barbour County,West Virginia",9675,193847
+339,"Roane County,West Virginia","Berkeley County,West Virginia",17608,432007
+340,"Roane County,West Virginia","Boone County,West Virginia",7562,160203
+341,"Roane County,West Virginia","Braxton County,West Virginia",6499,98958
+342,"Roane County,West Virginia","Brooke County,West Virginia",11339,293093
+343,"Roane County,West Virginia","Cabell County,West Virginia",7155,177112
+344,"Roane County,West Virginia","Calhoun County,West Virginia",3029,47800
+345,"Roane County,West Virginia","Clay County,West Virginia",5230,86339
+346,"Roane County,West Virginia","Doddridge County,West Virginia",7520,130374
+347,"Roane County,West Virginia","Fayette County,West Virginia",8385,177857
+348,"Roane County,West Virginia","Gilmer County,West Virginia",4307,72302
+349,"Roane County,West Virginia","Grant County,West Virginia",14030,295393
+350,"Roane County,West Virginia","Greenbrier County,West Virginia",11587,213417
+351,"Roane County,West Virginia","Hampshire County,West Virginia",16862,393610
+352,"Roane County,West Virginia","Hancock County,West Virginia",12928,327629
+353,"Roane County,West Virginia","Hardy County,West Virginia",15086,326890
+354,"Roane County,West Virginia","Harrison County,West Virginia",8448,213016
+355,"Roane County,West Virginia","Jackson County,West Virginia",1658,29480
+356,"Roane County,West Virginia","Jefferson County,West Virginia",19074,488005
+357,"Roane County,West Virginia","Kanawha County,West Virginia",6037,128371
+358,"Roane County,West Virginia","Lewis County,West Virginia",6897,117376
+359,"Roane County,West Virginia","Lincoln County,West Virginia",7819,154790
+360,"Roane County,West Virginia","Logan County,West Virginia",8491,197321
+361,"Roane County,West Virginia","McDowell County,West Virginia",12400,275684
+362,"Roane County,West Virginia","Marion County,West Virginia",10054,207385
+363,"Roane County,West Virginia","Marshall County,West Virginia",10725,229194
+364,"Roane County,West Virginia","Mason County,West Virginia",4985,101153
+365,"Roane County,West Virginia","Mercer County,West Virginia",9364,239931
+366,"Roane County,West Virginia","Mineral County,West Virginia",15724,324213
+367,"Roane County,West Virginia","Mingo County,West Virginia",8536,201829
+368,"Roane County,West Virginia","Monongalia County,West Virginia",10264,232854
+369,"Roane County,West Virginia","Monroe County,West Virginia",12409,284642
+370,"Roane County,West Virginia","Morgan County,West Virginia",17099,421398
+371,"Roane County,West Virginia","Nicholas County,West Virginia",6905,142561
+372,"Roane County,West Virginia","Ohio County,West Virginia",10358,274331
+373,"Roane County,West Virginia","Pendleton County,West Virginia",14361,298017
+374,"Roane County,West Virginia","Pleasants County,West Virginia",6200,139360
+375,"Roane County,West Virginia","Pocahontas County,West Virginia",12235,212100
+376,"Roane County,West Virginia","Preston County,West Virginia",12410,259585
+377,"Roane County,West Virginia","Putnam County,West Virginia",5412,128637
+378,"Roane County,West Virginia","Raleigh County,West Virginia",7905,193624
+379,"Roane County,West Virginia","Randolph County,West Virginia",10039,196143
+380,"Roane County,West Virginia","Ritchie County,West Virginia",5959,98175
+381,"Roane County,West Virginia","Summers County,West Virginia",11357,255061
+382,"Roane County,West Virginia","Taylor County,West Virginia",9946,202958
+383,"Roane County,West Virginia","Tucker County,West Virginia",11106,226668
+384,"Roane County,West Virginia","Tyler County,West Virginia",8109,178975
+385,"Roane County,West Virginia","Upshur County,West Virginia",9014,170584
+386,"Roane County,West Virginia","Wayne County,West Virginia",8746,209738
+387,"Roane County,West Virginia","Webster County,West Virginia",9090,169641
+388,"Roane County,West Virginia","Wetzel County,West Virginia",9321,200882
+389,"Roane County,West Virginia","Wirt County,West Virginia",3168,47365
+390,"Roane County,West Virginia","Wood County,West Virginia",4498,100536
+391,"Roane County,West Virginia","Wyoming County,West Virginia",9850,233565

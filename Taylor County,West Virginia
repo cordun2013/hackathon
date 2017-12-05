@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Taylor County,West Virginia","Adair County,Kentucky",23698,668292
+1,"Taylor County,West Virginia","Allen County,Kentucky",26316,768940
+2,"Taylor County,West Virginia","Anderson County,Kentucky",19497,571331
+3,"Taylor County,West Virginia","Ballard County,Kentucky",32476,961102
+4,"Taylor County,West Virginia","Barren County,Kentucky",25443,727319
+5,"Taylor County,West Virginia","Bath County,Kentucky",15145,442512
+6,"Taylor County,West Virginia","Bell County,Kentucky",22700,578328
+7,"Taylor County,West Virginia","Boone County,Kentucky",19059,492342
+8,"Taylor County,West Virginia","Bourbon County,Kentucky",17058,488930
+9,"Taylor County,West Virginia","Boyd County,Kentucky",11820,336837
+10,"Taylor County,West Virginia","Boyle County,Kentucky",20726,575218
+11,"Taylor County,West Virginia","Bracken County,Kentucky",17469,483013
+12,"Taylor County,West Virginia","Breathitt County,Kentucky",18531,483539
+13,"Taylor County,West Virginia","Breckinridge County,Kentucky",25031,724012
+14,"Taylor County,West Virginia","Bullitt County,Kentucky",21601,645132
+15,"Taylor County,West Virginia","Butler County,Kentucky",25696,746010
+16,"Taylor County,West Virginia","Caldwell County,Kentucky",28587,851955
+17,"Taylor County,West Virginia","Calloway County,Kentucky",31397,936948
+18,"Taylor County,West Virginia","Campbell County,Kentucky",18689,481496
+19,"Taylor County,West Virginia","Carlisle County,Kentucky",32933,976471
+20,"Taylor County,West Virginia","Carroll County,Kentucky",20633,554107
+21,"Taylor County,West Virginia","Carter County,Kentucky",12985,366934
+22,"Taylor County,West Virginia","Casey County,Kentucky",22221,606723
+23,"Taylor County,West Virginia","Christian County,Kentucky",28236,847212
+24,"Taylor County,West Virginia","Clay County,Kentucky",21030,570653
+25,"Taylor County,West Virginia","Clinton County,Kentucky",24105,671658
+26,"Taylor County,West Virginia","Crittenden County,Kentucky",30167,885026
+27,"Taylor County,West Virginia","Cumberland County,Kentucky",24859,689896
+28,"Taylor County,West Virginia","Daviess County,Kentucky",26718,792453
+29,"Taylor County,West Virginia","Edmonson County,Kentucky",25136,733885
+30,"Taylor County,West Virginia","Elliott County,Kentucky",14315,392704
+31,"Taylor County,West Virginia","Estill County,Kentucky",18137,504828
+32,"Taylor County,West Virginia","Fayette County,Kentucky",17304,508824
+33,"Taylor County,West Virginia","Fleming County,Kentucky",15571,445698
+34,"Taylor County,West Virginia","Floyd County,Kentucky",15953,444102
+35,"Taylor County,West Virginia","Franklin County,Kentucky",19342,557740
+36,"Taylor County,West Virginia","Fulton County,Kentucky",33337,997435
+37,"Taylor County,West Virginia","Gallatin County,Kentucky",19844,526521
+38,"Taylor County,West Virginia","Garrard County,Kentucky",19909,555977
+39,"Taylor County,West Virginia","Grant County,Kentucky",19911,526994
+40,"Taylor County,West Virginia","Graves County,Kentucky",31958,949177
+41,"Taylor County,West Virginia","Grayson County,Kentucky",24023,702646
+42,"Taylor County,West Virginia","Green County,Kentucky",23802,667851
+43,"Taylor County,West Virginia","Greenup County,Kentucky",13596,377963
+44,"Taylor County,West Virginia","Hancock County,Kentucky",25826,756905
+45,"Taylor County,West Virginia","Hardin County,Kentucky",22899,664779
+46,"Taylor County,West Virginia","Harlan County,Kentucky",22023,558644
+47,"Taylor County,West Virginia","Harrison County,Kentucky",18629,522029
+48,"Taylor County,West Virginia","Hart County,Kentucky",23698,692407
+49,"Taylor County,West Virginia","Henderson County,Kentucky",28525,844882
+50,"Taylor County,West Virginia","Henry County,Kentucky",20943,601459
+51,"Taylor County,West Virginia","Hickman County,Kentucky",32966,977762
+52,"Taylor County,West Virginia","Hopkins County,Kentucky",28046,826424
+53,"Taylor County,West Virginia","Jackson County,Kentucky",20810,552836
+54,"Taylor County,West Virginia","Jefferson County,Kentucky",21037,616992
+55,"Taylor County,West Virginia","Jessamine County,Kentucky",18773,530288
+56,"Taylor County,West Virginia","Johnson County,Kentucky",14602,409733
+57,"Taylor County,West Virginia","Kenton County,Kentucky",18428,480036
+58,"Taylor County,West Virginia","Knott County,Kentucky",17135,475984
+59,"Taylor County,West Virginia","Knox County,Kentucky",22313,634870
+60,"Taylor County,West Virginia","Larue County,Kentucky",22971,651955
+61,"Taylor County,West Virginia","Laurel County,Kentucky",21164,606265
+62,"Taylor County,West Virginia","Lawrence County,Kentucky",13743,381157
+63,"Taylor County,West Virginia","Lee County,Kentucky",18982,498564
+64,"Taylor County,West Virginia","Leslie County,Kentucky",20214,545657
+65,"Taylor County,West Virginia","Letcher County,Kentucky",18207,478923
+66,"Taylor County,West Virginia","Lewis County,Kentucky",15023,418752
+67,"Taylor County,West Virginia","Lincoln County,Kentucky",20619,572896
+68,"Taylor County,West Virginia","Livingston County,Kentucky",30763,901922
+69,"Taylor County,West Virginia","Logan County,Kentucky",27436,789248
+70,"Taylor County,West Virginia","Lyon County,Kentucky",30896,912313
+71,"Taylor County,West Virginia","McCracken County,Kentucky",31088,929162
+72,"Taylor County,West Virginia","McCreary County,Kentucky",23269,650707
+73,"Taylor County,West Virginia","Madison County,Kentucky",18303,519847
+74,"Taylor County,West Virginia","Magoffin County,Kentucky",15569,430412
+75,"Taylor County,West Virginia","Marion County,Kentucky",21349,613564
+76,"Taylor County,West Virginia","Marshall County,Kentucky",30503,912734
+77,"Taylor County,West Virginia","Martin County,Kentucky",15229,413502
+78,"Taylor County,West Virginia","Mason County,Kentucky",16818,462558
+79,"Taylor County,West Virginia","Meade County,Kentucky",23498,689307
+80,"Taylor County,West Virginia","Menifee County,Kentucky",16261,454576
+81,"Taylor County,West Virginia","Mercer County,Kentucky",19725,569275
+82,"Taylor County,West Virginia","Metcalfe County,Kentucky",24354,698557
+83,"Taylor County,West Virginia","Monroe County,Kentucky",26323,736061
+84,"Taylor County,West Virginia","Montgomery County,Kentucky",15958,461053
+85,"Taylor County,West Virginia","Morgan County,Kentucky",16039,430292
+86,"Taylor County,West Virginia","Muhlenberg County,Kentucky",26906,792900
+87,"Taylor County,West Virginia","Nelson County,Kentucky",20956,612635
+88,"Taylor County,West Virginia","Nicholas County,Kentucky",17636,488936
+89,"Taylor County,West Virginia","Ohio County,Kentucky",25820,760489
+90,"Taylor County,West Virginia","Oldham County,Kentucky",21109,628874
+91,"Taylor County,West Virginia","Owen County,Kentucky",20164,584517
+92,"Taylor County,West Virginia","Owsley County,Kentucky",20128,518541
+93,"Taylor County,West Virginia","Pendleton County,Kentucky",19407,523937
+94,"Taylor County,West Virginia","Perry County,Kentucky",18514,506541
+95,"Taylor County,West Virginia","Pike County,Kentucky",15509,409041
+96,"Taylor County,West Virginia","Powell County,Kentucky",17401,490799
+97,"Taylor County,West Virginia","Robertson County,Kentucky",17553,488442
+98,"Taylor County,West Virginia","Rockcastle County,Kentucky",19737,560990
+99,"Taylor County,West Virginia","Rowan County,Kentucky",14287,414720
+100,"Taylor County,West Virginia","Russell County,Kentucky",23302,652276
+101,"Taylor County,West Virginia","Scott County,Kentucky",18139,536851
+102,"Taylor County,West Virginia","Shelby County,Kentucky",19966,588127
+103,"Taylor County,West Virginia","Simpson County,Kentucky",27017,797306
+104,"Taylor County,West Virginia","Spencer County,Kentucky",20495,593975
+105,"Taylor County,West Virginia","Taylor County,Kentucky",22638,645060
+106,"Taylor County,West Virginia","Todd County,Kentucky",28672,813409
+107,"Taylor County,West Virginia","Trigg County,Kentucky",29650,873141
+108,"Taylor County,West Virginia","Trimble County,Kentucky",21532,577431
+109,"Taylor County,West Virginia","Union County,Kentucky",30245,875329
+110,"Taylor County,West Virginia","Warren County,Kentucky",26052,762254
+111,"Taylor County,West Virginia","Washington County,Kentucky",20966,597872
+112,"Taylor County,West Virginia","Wayne County,Kentucky",23478,649348
+113,"Taylor County,West Virginia","Webster County,Kentucky",29155,854512
+114,"Taylor County,West Virginia","Whitley County,Kentucky",21997,640750
+115,"Taylor County,West Virginia","Wolfe County,Kentucky",17134,453653
+116,"Taylor County,West Virginia","Woodford County,Kentucky",18358,539487
+117,"Taylor County,West Virginia","Adams County,Ohio",14408,375941
+118,"Taylor County,West Virginia","Allen County,Ohio",18868,493579
+119,"Taylor County,West Virginia","Ashland County,Ohio",14690,404139
+120,"Taylor County,West Virginia","Ashtabula County,Ohio",12729,360052
+121,"Taylor County,West Virginia","Athens County,Ohio",8805,223451
+122,"Taylor County,West Virginia","Auglaize County,Ohio",18481,497273
+123,"Taylor County,West Virginia","Belmont County,Ohio",7178,187605
+124,"Taylor County,West Virginia","Brown County,Ohio",15833,408801
+125,"Taylor County,West Virginia","Butler County,Ohio",18656,489021
+126,"Taylor County,West Virginia","Carroll County,Ohio",10123,223464
+127,"Taylor County,West Virginia","Champaign County,Ohio",16139,413040
+128,"Taylor County,West Virginia","Clark County,Ohio",15017,403611
+129,"Taylor County,West Virginia","Clermont County,Ohio",16487,433965
+130,"Taylor County,West Virginia","Clinton County,Ohio",15910,417451
+131,"Taylor County,West Virginia","Columbiana County,Ohio",9332,211985
+132,"Taylor County,West Virginia","Coshocton County,Ohio",11535,313055
+133,"Taylor County,West Virginia","Crawford County,Ohio",16599,475334
+134,"Taylor County,West Virginia","Cuyahoga County,Ohio",12725,357896
+135,"Taylor County,West Virginia","Darke County,Ohio",18593,501513
+136,"Taylor County,West Virginia","Defiance County,Ohio",21043,606859
+137,"Taylor County,West Virginia","Delaware County,Ohio",14457,386297
+138,"Taylor County,West Virginia","Fairfield County,Ohio",11988,313391
+139,"Taylor County,West Virginia","Fayette County,Ohio",14473,387914
+140,"Taylor County,West Virginia","Franklin County,Ohio",12988,343246
+141,"Taylor County,West Virginia","Fulton County,Ohio",19396,563710
+142,"Taylor County,West Virginia","Gallia County,Ohio",10687,263328
+143,"Taylor County,West Virginia","Geauga County,Ohio",12218,332714
+144,"Taylor County,West Virginia","Greene County,Ohio",15344,421067
+145,"Taylor County,West Virginia","Guernsey County,Ohio",9082,251114
+146,"Taylor County,West Virginia","Hamilton County,Ohio",18157,499598
+147,"Taylor County,West Virginia","Hancock County,Ohio",18480,494652
+148,"Taylor County,West Virginia","Hardin County,Ohio",17379,449409
+149,"Taylor County,West Virginia","Harrison County,Ohio",9139,226319
+150,"Taylor County,West Virginia","Henry County,Ohio",19850,553477
+151,"Taylor County,West Virginia","Highland County,Ohio",14946,375955
+152,"Taylor County,West Virginia","Hocking County,Ohio",10430,269355
+153,"Taylor County,West Virginia","Holmes County,Ohio",12594,335939
+154,"Taylor County,West Virginia","Huron County,Ohio",15967,433745
+155,"Taylor County,West Virginia","Jackson County,Ohio",10932,286506
+156,"Taylor County,West Virginia","Jefferson County,Ohio",8079,186955
+157,"Taylor County,West Virginia","Knox County,Ohio",13323,355531
+158,"Taylor County,West Virginia","Lawrence County,Ohio",12960,341893
+159,"Taylor County,West Virginia","Licking County,Ohio",12709,336602
+160,"Taylor County,West Virginia","Logan County,Ohio",16400,443686
+161,"Taylor County,West Virginia","Lorain County,Ohio",13777,387616
+162,"Taylor County,West Virginia","Lucas County,Ohio",18350,516560
+163,"Taylor County,West Virginia","Madison County,Ohio",14265,377968
+164,"Taylor County,West Virginia","Mahoning County,Ohio",9215,250044
+165,"Taylor County,West Virginia","Marion County,Ohio",15863,412390
+166,"Taylor County,West Virginia","Medina County,Ohio",13323,371259
+167,"Taylor County,West Virginia","Meigs County,Ohio",8770,216029
+168,"Taylor County,West Virginia","Mercer County,Ohio",19717,524206
+169,"Taylor County,West Virginia","Miami County,Ohio",17104,466945
+170,"Taylor County,West Virginia","Monroe County,Ohio",8698,189179
+171,"Taylor County,West Virginia","Montgomery County,Ohio",17364,472392
+172,"Taylor County,West Virginia","Morgan County,Ohio",9247,225798
+173,"Taylor County,West Virginia","Morrow County,Ohio",15284,388493
+174,"Taylor County,West Virginia","Muskingum County,Ohio",9927,279105
+175,"Taylor County,West Virginia","Noble County,Ohio",8727,223325
+176,"Taylor County,West Virginia","Paulding County,Ohio",21405,569485
+177,"Taylor County,West Virginia","Perry County,Ohio",11772,271666
+178,"Taylor County,West Virginia","Pickaway County,Ohio",12593,322296
+179,"Taylor County,West Virginia","Pike County,Ohio",12378,325813
+180,"Taylor County,West Virginia","Portage County,Ohio",11070,306057
+181,"Taylor County,West Virginia","Preble County,Ohio",18135,495103
+182,"Taylor County,West Virginia","Putnam County,Ohio",19991,525938
+183,"Taylor County,West Virginia","Richland County,Ohio",15247,425568
+184,"Taylor County,West Virginia","Ross County,Ohio",12658,334320
+185,"Taylor County,West Virginia","Sandusky County,Ohio",16638,475135
+186,"Taylor County,West Virginia","Scioto County,Ohio",13017,341884
+187,"Taylor County,West Virginia","Seneca County,Ohio",17369,484807
+188,"Taylor County,West Virginia","Shelby County,Ohio",18158,473933
+189,"Taylor County,West Virginia","Stark County,Ohio",11847,259931
+190,"Taylor County,West Virginia","Summit County,Ohio",11964,334652
+191,"Taylor County,West Virginia","Trumbull County,Ohio",10373,287508
+192,"Taylor County,West Virginia","Tuscarawas County,Ohio",10648,257602
+193,"Taylor County,West Virginia","Union County,Ohio",14904,393917
+194,"Taylor County,West Virginia","Van Wert County,Ohio",20102,536449
+195,"Taylor County,West Virginia","Vinton County,Ohio",10923,271892
+196,"Taylor County,West Virginia","Warren County,Ohio",16574,455567
+197,"Taylor County,West Virginia","Washington County,Ohio",7586,181261
+198,"Taylor County,West Virginia","Wayne County,Ohio",13730,360051
+199,"Taylor County,West Virginia","Williams County,Ohio",20641,595167
+200,"Taylor County,West Virginia","Wood County,Ohio",18535,523463
+201,"Taylor County,West Virginia","Wyandot County,Ohio",17450,458788
+202,"Taylor County,West Virginia","Accomack County,Virginia",24495,658181
+203,"Taylor County,West Virginia","Albemarle County,Virginia",13203,322811
+204,"Taylor County,West Virginia","Alleghany County,Virginia",12668,311180
+205,"Taylor County,West Virginia","Amelia County,Virginia",18258,454630
+206,"Taylor County,West Virginia","Amherst County,Virginia",15637,373718
+207,"Taylor County,West Virginia","Appomattox County,Virginia",16852,398346
+208,"Taylor County,West Virginia","Arlington County,Virginia",13121,321812
+209,"Taylor County,West Virginia","Augusta County,Virginia",12555,246518
+210,"Taylor County,West Virginia","Bath County,Virginia",11964,228162
+211,"Taylor County,West Virginia","Bedford County,Virginia",17782,418234
+212,"Taylor County,West Virginia","Bland County,Virginia",13203,350102
+213,"Taylor County,West Virginia","Botetourt County,Virginia",15272,380756
+214,"Taylor County,West Virginia","Brunswick County,Virginia",20563,529901
+215,"Taylor County,West Virginia","Buchanan County,Virginia",17198,434332
+216,"Taylor County,West Virginia","Buckingham County,Virginia",16512,387961
+217,"Taylor County,West Virginia","Campbell County,Virginia",16999,413850
+218,"Taylor County,West Virginia","Caroline County,Virginia",15559,380468
+219,"Taylor County,West Virginia","Carroll County,Virginia",15449,419540
+220,"Taylor County,West Virginia","Charles City County,Virginia",18029,451951
+221,"Taylor County,West Virginia","Charlotte County,Virginia",18833,446845
+222,"Taylor County,West Virginia","Chesterfield County,Virginia",17779,466475
+223,"Taylor County,West Virginia","Clarke County,Virginia",10616,248560
+224,"Taylor County,West Virginia","Craig County,Virginia",15884,404968
+225,"Taylor County,West Virginia","Culpeper County,Virginia",12625,303085
+226,"Taylor County,West Virginia","Cumberland County,Virginia",17246,413168
+227,"Taylor County,West Virginia","Dickenson County,Virginia",19607,499002
+228,"Taylor County,West Virginia","Dinwiddie County,Virginia",19200,489868
+229,"Taylor County,West Virginia","Essex County,Virginia",16961,404523
+230,"Taylor County,West Virginia","Fairfax County,Virginia",12744,312088
+231,"Taylor County,West Virginia","Fauquier County,Virginia",11055,269812
+232,"Taylor County,West Virginia","Floyd County,Virginia",17069,438504
+233,"Taylor County,West Virginia","Fluvanna County,Virginia",14881,374983
+234,"Taylor County,West Virginia","Franklin County,Virginia",18234,464911
+235,"Taylor County,West Virginia","Frederick County,Virginia",9136,212366
+236,"Taylor County,West Virginia","Giles County,Virginia",13934,361661
+237,"Taylor County,West Virginia","Gloucester County,Virginia",20200,506140
+238,"Taylor County,West Virginia","Goochland County,Virginia",15785,405594
+239,"Taylor County,West Virginia","Grayson County,Virginia",15851,409247
+240,"Taylor County,West Virginia","Greene County,Virginia",12817,284440
+241,"Taylor County,West Virginia","Greensville County,Virginia",20616,538620
+242,"Taylor County,West Virginia","Halifax County,Virginia",20320,485556
+243,"Taylor County,West Virginia","Hanover County,Virginia",16378,409961
+244,"Taylor County,West Virginia","Henrico County,Virginia",17176,432622
+245,"Taylor County,West Virginia","Henry County,Virginia",19322,506261
+246,"Taylor County,West Virginia","Highland County,Virginia",9102,180319
+247,"Taylor County,West Virginia","Isle of Wight County,Virginia",21311,541211
+248,"Taylor County,West Virginia","James City County,Virginia",19265,492722
+249,"Taylor County,West Virginia","King and Queen County,Virginia",18013,439784
+250,"Taylor County,West Virginia","King George County,Virginia",15482,363965
+251,"Taylor County,West Virginia","King William County,Virginia",16978,417581
+252,"Taylor County,West Virginia","Lancaster County,Virginia",19384,460517
+253,"Taylor County,West Virginia","Lee County,Virginia",20908,547518
+254,"Taylor County,West Virginia","Loudoun County,Virginia",12112,284427
+255,"Taylor County,West Virginia","Louisa County,Virginia",15232,366460
+256,"Taylor County,West Virginia","Lunenburg County,Virginia",20131,489566
+257,"Taylor County,West Virginia","Madison County,Virginia",13047,291344
+258,"Taylor County,West Virginia","Mathews County,Virginia",21095,504905
+259,"Taylor County,West Virginia","Mecklenburg County,Virginia",21480,514012
+260,"Taylor County,West Virginia","Middlesex County,Virginia",19465,468485
+261,"Taylor County,West Virginia","Montgomery County,Virginia",15017,389667
+262,"Taylor County,West Virginia","Nelson County,Virginia",14083,341312
+263,"Taylor County,West Virginia","New Kent County,Virginia",18701,466636
+264,"Taylor County,West Virginia","Northampton County,Virginia",23683,609386
+265,"Taylor County,West Virginia","Northumberland County,Virginia",19424,459029
+266,"Taylor County,West Virginia","Nottoway County,Virginia",19382,476121
+267,"Taylor County,West Virginia","Orange County,Virginia",13966,337584
+268,"Taylor County,West Virginia","Page County,Virginia",11077,247494
+269,"Taylor County,West Virginia","Patrick County,Virginia",17554,464576
+270,"Taylor County,West Virginia","Pittsylvania County,Virginia",19569,485477
+271,"Taylor County,West Virginia","Powhatan County,Virginia",17038,430816
+272,"Taylor County,West Virginia","Prince Edward County,Virginia",18053,441784
+273,"Taylor County,West Virginia","Prince George County,Virginia",18846,480464
+274,"Taylor County,West Virginia","Prince William County,Virginia",11154,275916
+275,"Taylor County,West Virginia","Pulaski County,Virginia",15112,385999
+276,"Taylor County,West Virginia","Rappahannock County,Virginia",11366,254950
+277,"Taylor County,West Virginia","Richmond County,Virginia",18124,431673
+278,"Taylor County,West Virginia","Roanoke County,Virginia",16592,423828
+279,"Taylor County,West Virginia","Rockbridge County,Virginia",14014,346765
+280,"Taylor County,West Virginia","Rockingham County,Virginia",9249,215421
+281,"Taylor County,West Virginia","Russell County,Virginia",17011,430282
+282,"Taylor County,West Virginia","Scott County,Virginia",19676,498409
+283,"Taylor County,West Virginia","Shenandoah County,Virginia",9515,204884
+284,"Taylor County,West Virginia","Smyth County,Virginia",15561,415454
+285,"Taylor County,West Virginia","Southampton County,Virginia",20994,534734
+286,"Taylor County,West Virginia","Spotsylvania County,Virginia",14671,344953
+287,"Taylor County,West Virginia","Stafford County,Virginia",13674,333818
+288,"Taylor County,West Virginia","Surry County,Virginia",19958,502159
+289,"Taylor County,West Virginia","Sussex County,Virginia",19658,504976
+290,"Taylor County,West Virginia","Tazewell County,Virginia",14018,368690
+291,"Taylor County,West Virginia","Warren County,Virginia",9695,217613
+292,"Taylor County,West Virginia","Washington County,Virginia",16954,454921
+293,"Taylor County,West Virginia","Westmoreland County,Virginia",16450,382766
+294,"Taylor County,West Virginia","Wise County,Virginia",17872,474901
+295,"Taylor County,West Virginia","Wythe County,Virginia",13808,368319
+296,"Taylor County,West Virginia","York County,Virginia",20553,523497
+297,"Taylor County,West Virginia","Alexandria City County,Virginia",13324,334458
+298,"Taylor County,West Virginia","Bedford City County,Virginia",16807,409573
+299,"Taylor County,West Virginia","Bristol City County,Virginia",17429,480638
+300,"Taylor County,West Virginia","Buena Vista City County,Virginia",13673,340031
+301,"Taylor County,West Virginia","Charlottesville City County,Virginia",13673,338026
+302,"Taylor County,West Virginia","Chesapeake City County,Virginia",22016,576402
+303,"Taylor County,West Virginia","Clifton Forge City County,Virginia",13322,274063
+304,"Taylor County,West Virginia","Colonial Heights City County,Virginia",18013,455329
+305,"Taylor County,West Virginia","Covington City County,Virginia",12737,314765
+306,"Taylor County,West Virginia","Danville City County,Virginia",20168,501820
+307,"Taylor County,West Virginia","Emporia City County,Virginia",20324,525213
+308,"Taylor County,West Virginia","Fairfax City County,Virginia",12287,301663
+309,"Taylor County,West Virginia","Falls Church City County,Virginia",12619,316136
+310,"Taylor County,West Virginia","Franklin City County,Virginia",21542,542588
+311,"Taylor County,West Virginia","Fredericksburg City County,Virginia",13994,330659
+312,"Taylor County,West Virginia","Galax City County,Virginia",16072,425406
+313,"Taylor County,West Virginia","Hampton City County,Virginia",20503,533203
+314,"Taylor County,West Virginia","Harrisonburg City County,Virginia",10306,234096
+315,"Taylor County,West Virginia","Hopewell City County,Virginia",17777,455366
+316,"Taylor County,West Virginia","Lexington City County,Virginia",13532,337009
+317,"Taylor County,West Virginia","Lynchburg City County,Virginia",16185,393774
+318,"Taylor County,West Virginia","Manassas City County,Virginia",11382,280860
+319,"Taylor County,West Virginia","Manassas Park City County,Virginia",11884,287203
+320,"Taylor County,West Virginia","Martinsville City County,Virginia",19796,494975
+321,"Taylor County,West Virginia","Newport News City County,Virginia",20060,519689
+322,"Taylor County,West Virginia","Norfolk City County,Virginia",21810,558619
+323,"Taylor County,West Virginia","Norton City County,Virginia",18501,486713
+324,"Taylor County,West Virginia","Petersburg City County,Virginia",17885,456317
+325,"Taylor County,West Virginia","Poquoson City County,Virginia",20732,530266
+326,"Taylor County,West Virginia","Portsmouth City County,Virginia",21749,567440
+327,"Taylor County,West Virginia","Radford County,Virginia",15424,387708
+328,"Taylor County,West Virginia","Richmond City County,Virginia",16753,420432
+329,"Taylor County,West Virginia","Roanoke City County,Virginia",16130,415270
+330,"Taylor County,West Virginia","Salem City County,Virginia",15960,413741
+331,"Taylor County,West Virginia","South Boston City County,Virginia",20323,484375
+332,"Taylor County,West Virginia","Staunton City County,Virginia",11894,282265
+333,"Taylor County,West Virginia","Suffolk City County,Virginia",22154,555935
+334,"Taylor County,West Virginia","Virginia Beach City County,Virginia",22370,581877
+335,"Taylor County,West Virginia","Waynesboro City County,Virginia",12292,292116
+336,"Taylor County,West Virginia","Williamsburg City County,Virginia",19104,491938
+337,"Taylor County,West Virginia","Winchester City County,Virginia",9673,220512
+338,"Taylor County,West Virginia","Barbour County,West Virginia",2223,45005
+339,"Taylor County,West Virginia","Berkeley County,West Virginia",9813,253126
+340,"Taylor County,West Virginia","Boone County,West Virginia",11683,298189
+341,"Taylor County,West Virginia","Braxton County,West Virginia",6242,134810
+342,"Taylor County,West Virginia","Brooke County,West Virginia",6385,150505
+343,"Taylor County,West Virginia","Cabell County,West Virginia",11276,315098
+344,"Taylor County,West Virginia","Calhoun County,West Virginia",7565,169478
+345,"Taylor County,West Virginia","Clay County,West Virginia",7928,199835
+346,"Taylor County,West Virginia","Doddridge County,West Virginia",4314,88730
+347,"Taylor County,West Virginia","Fayette County,West Virginia",8708,219752
+348,"Taylor County,West Virginia","Gilmer County,West Virginia",6046,134168
+349,"Taylor County,West Virginia","Grant County,West Virginia",5420,107504
+350,"Taylor County,West Virginia","Greenbrier County,West Virginia",11909,255311
+351,"Taylor County,West Virginia","Hampshire County,West Virginia",8048,158028
+352,"Taylor County,West Virginia","Hancock County,West Virginia",8012,177852
+353,"Taylor County,West Virginia","Hardy County,West Virginia",6506,140106
+354,"Taylor County,West Virginia","Harrison County,West Virginia",2751,50358
+355,"Taylor County,West Virginia","Jackson County,West Virginia",8706,223277
+356,"Taylor County,West Virginia","Jefferson County,West Virginia",11279,309124
+357,"Taylor County,West Virginia","Kanawha County,West Virginia",10158,266357
+358,"Taylor County,West Virginia","Lewis County,West Virginia",3947,83798
+359,"Taylor County,West Virginia","Lincoln County,West Virginia",11940,292776
+360,"Taylor County,West Virginia","Logan County,West Virginia",12612,335307
+361,"Taylor County,West Virginia","McDowell County,West Virginia",14792,344362
+362,"Taylor County,West Virginia","Marion County,West Virginia",2899,40577
+363,"Taylor County,West Virginia","Marshall County,West Virginia",7373,144949
+364,"Taylor County,West Virginia","Mason County,West Virginia",10470,267332
+365,"Taylor County,West Virginia","Mercer County,West Virginia",11756,308609
+366,"Taylor County,West Virginia","Mineral County,West Virginia",6724,124961
+367,"Taylor County,West Virginia","Mingo County,West Virginia",12657,339815
+368,"Taylor County,West Virginia","Monongalia County,West Virginia",2470,53973
+369,"Taylor County,West Virginia","Monroe County,West Virginia",13517,316380
+370,"Taylor County,West Virginia","Morgan County,West Virginia",9305,242517
+371,"Taylor County,West Virginia","Nicholas County,West Virginia",7228,184456
+372,"Taylor County,West Virginia","Ohio County,West Virginia",6292,159451
+373,"Taylor County,West Virginia","Pendleton County,West Virginia",7748,162067
+374,"Taylor County,West Virginia","Pleasants County,West Virginia",5550,126498
+375,"Taylor County,West Virginia","Pocahontas County,West Virginia",8907,162983
+376,"Taylor County,West Virginia","Preston County,West Virginia",2605,45629
+377,"Taylor County,West Virginia","Putnam County,West Virginia",9533,266623
+378,"Taylor County,West Virginia","Raleigh County,West Virginia",10298,262302
+379,"Taylor County,West Virginia","Randolph County,West Virginia",4291,84701
+380,"Taylor County,West Virginia","Ritchie County,West Virginia",5460,120800
+381,"Taylor County,West Virginia","Roane County,West Virginia",9986,203513
+382,"Taylor County,West Virginia","Summers County,West Virginia",13504,292747
+383,"Taylor County,West Virginia","Tucker County,West Virginia",3625,66672
+384,"Taylor County,West Virginia","Tyler County,West Virginia",6476,119164
+385,"Taylor County,West Virginia","Upshur County,West Virginia",4973,80937
+386,"Taylor County,West Virginia","Wayne County,West Virginia",12867,347724
+387,"Taylor County,West Virginia","Webster County,West Virginia",8450,180632
+388,"Taylor County,West Virginia","Wetzel County,West Virginia",5409,97284
+389,"Taylor County,West Virginia","Wirt County,West Virginia",7807,166330
+390,"Taylor County,West Virginia","Wood County,West Virginia",6330,151760
+391,"Taylor County,West Virginia","Wyoming County,West Virginia",12242,302243

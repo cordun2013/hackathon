@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Covington City County,Virginia","Adair County,Kentucky",23283,662901
+1,"Covington City County,Virginia","Allen County,Kentucky",25902,763549
+2,"Covington City County,Virginia","Anderson County,Kentucky",19083,565940
+3,"Covington City County,Virginia","Ballard County,Kentucky",32062,955711
+4,"Covington City County,Virginia","Barren County,Kentucky",25029,721928
+5,"Covington City County,Virginia","Bath County,Kentucky",14730,437121
+6,"Covington City County,Virginia","Bell County,Kentucky",19484,483749
+7,"Covington City County,Virginia","Boone County,Kentucky",20543,558514
+8,"Covington City County,Virginia","Bourbon County,Kentucky",16644,483539
+9,"Covington City County,Virginia","Boyd County,Kentucky",11406,331446
+10,"Covington City County,Virginia","Boyle County,Kentucky",20312,569827
+11,"Covington City County,Virginia","Bracken County,Kentucky",17055,477621
+12,"Covington City County,Virginia","Breathitt County,Kentucky",18117,478148
+13,"Covington City County,Virginia","Breckinridge County,Kentucky",24616,718621
+14,"Covington City County,Virginia","Bullitt County,Kentucky",21186,639741
+15,"Covington City County,Virginia","Butler County,Kentucky",25281,740619
+16,"Covington City County,Virginia","Caldwell County,Kentucky",28173,846564
+17,"Covington City County,Virginia","Calloway County,Kentucky",30983,931557
+18,"Covington City County,Virginia","Campbell County,Kentucky",18756,517493
+19,"Covington City County,Virginia","Carlisle County,Kentucky",32519,971080
+20,"Covington City County,Virginia","Carroll County,Kentucky",21628,613754
+21,"Covington City County,Virginia","Carter County,Kentucky",12571,361543
+22,"Covington City County,Virginia","Casey County,Kentucky",21807,601332
+23,"Covington City County,Virginia","Christian County,Kentucky",27822,841821
+24,"Covington City County,Virginia","Clay County,Kentucky",20616,565262
+25,"Covington City County,Virginia","Clinton County,Kentucky",23691,666266
+26,"Covington City County,Virginia","Crittenden County,Kentucky",29753,879635
+27,"Covington City County,Virginia","Cumberland County,Kentucky",24445,684505
+28,"Covington City County,Virginia","Daviess County,Kentucky",26304,787061
+29,"Covington City County,Virginia","Edmonson County,Kentucky",24722,728494
+30,"Covington City County,Virginia","Elliott County,Kentucky",13901,387313
+31,"Covington City County,Virginia","Estill County,Kentucky",17723,499436
+32,"Covington City County,Virginia","Fayette County,Kentucky",16890,503433
+33,"Covington City County,Virginia","Fleming County,Kentucky",15156,440307
+34,"Covington City County,Virginia","Floyd County,Kentucky",15539,438711
+35,"Covington City County,Virginia","Franklin County,Kentucky",18928,552349
+36,"Covington City County,Virginia","Fulton County,Kentucky",32923,992044
+37,"Covington City County,Virginia","Gallatin County,Kentucky",20626,604413
+38,"Covington City County,Virginia","Garrard County,Kentucky",19495,550586
+39,"Covington City County,Virginia","Grant County,Kentucky",19425,578521
+40,"Covington City County,Virginia","Graves County,Kentucky",31543,943786
+41,"Covington City County,Virginia","Grayson County,Kentucky",23609,697255
+42,"Covington City County,Virginia","Green County,Kentucky",23388,662460
+43,"Covington City County,Virginia","Greenup County,Kentucky",13182,372572
+44,"Covington City County,Virginia","Hancock County,Kentucky",25412,751514
+45,"Covington City County,Virginia","Hardin County,Kentucky",22485,659388
+46,"Covington City County,Virginia","Harlan County,Kentucky",18087,429853
+47,"Covington City County,Virginia","Harrison County,Kentucky",18215,516638
+48,"Covington City County,Virginia","Hart County,Kentucky",23284,687016
+49,"Covington City County,Virginia","Henderson County,Kentucky",28111,839491
+50,"Covington City County,Virginia","Henry County,Kentucky",20529,596068
+51,"Covington City County,Virginia","Hickman County,Kentucky",32552,972371
+52,"Covington City County,Virginia","Hopkins County,Kentucky",27632,821033
+53,"Covington City County,Virginia","Jackson County,Kentucky",20396,547445
+54,"Covington City County,Virginia","Jefferson County,Kentucky",20623,611601
+55,"Covington City County,Virginia","Jessamine County,Kentucky",18359,524897
+56,"Covington City County,Virginia","Johnson County,Kentucky",14187,404342
+57,"Covington City County,Virginia","Kenton County,Kentucky",19912,546208
+58,"Covington City County,Virginia","Knott County,Kentucky",16721,470592
+59,"Covington City County,Virginia","Knox County,Kentucky",20814,525741
+60,"Covington City County,Virginia","Larue County,Kentucky",22556,646564
+61,"Covington City County,Virginia","Laurel County,Kentucky",20750,600874
+62,"Covington City County,Virginia","Lawrence County,Kentucky",13329,375766
+63,"Covington City County,Virginia","Lee County,Kentucky",18568,493173
+64,"Covington City County,Virginia","Leslie County,Kentucky",19800,540266
+65,"Covington City County,Virginia","Letcher County,Kentucky",16115,412344
+66,"Covington City County,Virginia","Lewis County,Kentucky",14609,413360
+67,"Covington City County,Virginia","Lincoln County,Kentucky",20205,567505
+68,"Covington City County,Virginia","Livingston County,Kentucky",30349,896531
+69,"Covington City County,Virginia","Logan County,Kentucky",27022,783857
+70,"Covington City County,Virginia","Lyon County,Kentucky",30482,906922
+71,"Covington City County,Virginia","McCracken County,Kentucky",30674,923771
+72,"Covington City County,Virginia","McCreary County,Kentucky",22439,618503
+73,"Covington City County,Virginia","Madison County,Kentucky",17888,514456
+74,"Covington City County,Virginia","Magoffin County,Kentucky",15155,425021
+75,"Covington City County,Virginia","Marion County,Kentucky",20934,608173
+76,"Covington City County,Virginia","Marshall County,Kentucky",30089,907343
+77,"Covington City County,Virginia","Martin County,Kentucky",14443,357490
+78,"Covington City County,Virginia","Mason County,Kentucky",16404,457167
+79,"Covington City County,Virginia","Meade County,Kentucky",23084,683916
+80,"Covington City County,Virginia","Menifee County,Kentucky",15847,449185
+81,"Covington City County,Virginia","Mercer County,Kentucky",19311,563884
+82,"Covington City County,Virginia","Metcalfe County,Kentucky",23939,693166
+83,"Covington City County,Virginia","Monroe County,Kentucky",25909,730670
+84,"Covington City County,Virginia","Montgomery County,Kentucky",15543,455662
+85,"Covington City County,Virginia","Morgan County,Kentucky",15625,424900
+86,"Covington City County,Virginia","Muhlenberg County,Kentucky",26492,787508
+87,"Covington City County,Virginia","Nelson County,Kentucky",20542,607244
+88,"Covington City County,Virginia","Nicholas County,Kentucky",17221,483545
+89,"Covington City County,Virginia","Ohio County,Kentucky",25405,755098
+90,"Covington City County,Virginia","Oldham County,Kentucky",20694,623482
+91,"Covington City County,Virginia","Owen County,Kentucky",19750,579126
+92,"Covington City County,Virginia","Owsley County,Kentucky",19714,513150
+93,"Covington City County,Virginia","Pendleton County,Kentucky",18993,518545
+94,"Covington City County,Virginia","Perry County,Kentucky",18100,501150
+95,"Covington City County,Virginia","Pike County,Kentucky",14639,322736
+96,"Covington City County,Virginia","Powell County,Kentucky",16987,485407
+97,"Covington City County,Virginia","Robertson County,Kentucky",17139,483051
+98,"Covington City County,Virginia","Rockcastle County,Kentucky",19323,555598
+99,"Covington City County,Virginia","Rowan County,Kentucky",13873,409328
+100,"Covington City County,Virginia","Russell County,Kentucky",22888,646884
+101,"Covington City County,Virginia","Scott County,Kentucky",17725,531460
+102,"Covington City County,Virginia","Shelby County,Kentucky",19552,582736
+103,"Covington City County,Virginia","Simpson County,Kentucky",26603,791915
+104,"Covington City County,Virginia","Spencer County,Kentucky",20081,588584
+105,"Covington City County,Virginia","Taylor County,Kentucky",22224,639669
+106,"Covington City County,Virginia","Todd County,Kentucky",28258,808018
+107,"Covington City County,Virginia","Trigg County,Kentucky",29236,867750
+108,"Covington City County,Virginia","Trimble County,Kentucky",21768,629522
+109,"Covington City County,Virginia","Union County,Kentucky",29830,869938
+110,"Covington City County,Virginia","Warren County,Kentucky",25638,756863
+111,"Covington City County,Virginia","Washington County,Kentucky",20552,592481
+112,"Covington City County,Virginia","Wayne County,Kentucky",23064,643957
+113,"Covington City County,Virginia","Webster County,Kentucky",28741,849121
+114,"Covington City County,Virginia","Whitley County,Kentucky",21043,603266
+115,"Covington City County,Virginia","Wolfe County,Kentucky",16720,448262
+116,"Covington City County,Virginia","Woodford County,Kentucky",17944,534096
+117,"Covington City County,Virginia","Adams County,Ohio",16497,459724
+118,"Covington City County,Virginia","Allen County,Ohio",23229,635141
+119,"Covington City County,Virginia","Ashland County,Ohio",20973,589032
+120,"Covington City County,Virginia","Ashtabula County,Ohio",23003,644836
+121,"Covington City County,Virginia","Athens County,Ohio",12905,365323
+122,"Covington City County,Virginia","Auglaize County,Ohio",22479,651841
+123,"Covington City County,Virginia","Belmont County,Ohio",16724,498854
+124,"Covington City County,Virginia","Brown County,Ohio",17741,486651
+125,"Covington City County,Virginia","Butler County,Ohio",20854,568677
+126,"Covington City County,Virginia","Carroll County,Ohio",18654,535741
+127,"Covington City County,Virginia","Champaign County,Ohio",19783,553938
+128,"Covington City County,Virginia","Clark County,Ohio",18462,513483
+129,"Covington City County,Virginia","Clermont County,Ohio",18575,517748
+130,"Covington City County,Virginia","Clinton County,Ohio",17966,501164
+131,"Covington City County,Virginia","Columbiana County,Ohio",19607,496769
+132,"Covington City County,Virginia","Coshocton County,Ohio",17289,506857
+133,"Covington City County,Virginia","Crawford County,Ohio",21581,600192
+134,"Covington City County,Virginia","Cuyahoga County,Ohio",20690,621145
+135,"Covington City County,Virginia","Darke County,Ohio",21576,608888
+136,"Covington City County,Virginia","Defiance County,Ohio",26664,713462
+137,"Covington City County,Virginia","Delaware County,Ohio",18735,532930
+138,"Covington City County,Virginia","Fairfield County,Ohio",16265,460024
+139,"Covington City County,Virginia","Fayette County,Ohio",16530,471628
+140,"Covington City County,Virginia","Franklin County,Ohio",17265,489879
+141,"Covington City County,Virginia","Fulton County,Ohio",26671,755761
+142,"Covington City County,Virginia","Gallia County,Ohio",11843,330739
+143,"Covington City County,Virginia","Geauga County,Ohio",21761,646862
+144,"Covington City County,Virginia","Greene County,Ohio",17400,504780
+145,"Covington City County,Virginia","Guernsey County,Ohio",14839,444776
+146,"Covington City County,Virginia","Hamilton County,Ohio",20355,579254
+147,"Covington City County,Virginia","Hancock County,Ohio",22758,641285
+148,"Covington City County,Virginia","Hardin County,Ohio",21740,590971
+149,"Covington City County,Virginia","Harrison County,Ohio",17659,517806
+150,"Covington City County,Virginia","Henry County,Ohio",25470,712906
+151,"Covington City County,Virginia","Highland County,Ohio",17034,459737
+152,"Covington City County,Virginia","Hocking County,Ohio",14707,415987
+153,"Covington City County,Virginia","Holmes County,Ohio",18347,529742
+154,"Covington City County,Virginia","Huron County,Ohio",22870,630661
+155,"Covington City County,Virginia","Jackson County,Ohio",13021,370289
+156,"Covington City County,Virginia","Jefferson County,Ohio",18354,471739
+157,"Covington City County,Virginia","Knox County,Ohio",19077,549333
+158,"Covington City County,Virginia","Lawrence County,Ohio",12545,336502
+159,"Covington City County,Virginia","Licking County,Ohio",18210,487033
+160,"Covington City County,Virginia","Logan County,Ohio",20760,585248
+161,"Covington City County,Virginia","Lorain County,Ohio",21914,650968
+162,"Covington City County,Virginia","Lucas County,Ohio",26393,728784
+163,"Covington City County,Virginia","Madison County,Ohio",18231,494712
+164,"Covington City County,Virginia","Mahoning County,Ohio",19490,534828
+165,"Covington City County,Virginia","Marion County,Ohio",20141,559023
+166,"Covington City County,Virginia","Medina County,Ohio",20363,607176
+167,"Covington City County,Virginia","Meigs County,Ohio",11786,336293
+168,"Covington City County,Virginia","Mercer County,Ohio",23715,678775
+169,"Covington City County,Virginia","Miami County,Ohio",20065,574280
+170,"Covington City County,Virginia","Monroe County,Ohio",15775,433968
+171,"Covington City County,Virginia","Montgomery County,Ohio",19434,552236
+172,"Covington City County,Virginia","Morgan County,Ohio",14780,420616
+173,"Covington City County,Virginia","Morrow County,Ohio",19542,555750
+174,"Covington City County,Virginia","Muskingum County,Ohio",15685,472768
+175,"Covington City County,Virginia","Noble County,Ohio",14281,417128
+176,"Covington City County,Virginia","Paulding County,Ohio",25766,711047
+177,"Covington City County,Virginia","Perry County,Ohio",16123,430743
+178,"Covington City County,Virginia","Pickaway County,Ohio",15970,451727
+179,"Covington City County,Virginia","Pike County,Ohio",14466,409595
+180,"Covington City County,Virginia","Portage County,Ohio",20212,602726
+181,"Covington City County,Virginia","Preble County,Ohio",21053,580814
+182,"Covington City County,Virginia","Putnam County,Ohio",24352,667499
+183,"Covington City County,Virginia","Richland County,Ohio",20572,590989
+184,"Covington City County,Virginia","Ross County,Ohio",14714,418033
+185,"Covington City County,Virginia","Sandusky County,Ohio",24514,659980
+186,"Covington City County,Virginia","Scioto County,Ohio",14351,393776
+187,"Covington City County,Virginia","Seneca County,Ohio",23131,633864
+188,"Covington City County,Virginia","Shelby County,Ohio",21103,610565
+189,"Covington City County,Virginia","Stark County,Ohio",18512,550976
+190,"Covington City County,Virginia","Summit County,Ohio",19271,576764
+191,"Covington City County,Virginia","Trumbull County,Ohio",20647,572292
+192,"Covington City County,Virginia","Tuscarawas County,Ohio",16713,491563
+193,"Covington City County,Virginia","Union County,Ohio",19264,535479
+194,"Covington City County,Virginia","Van Wert County,Ohio",24463,678011
+195,"Covington City County,Virginia","Vinton County,Ohio",14916,395794
+196,"Covington City County,Virginia","Warren County,Ohio",18772,535223
+197,"Covington City County,Virginia","Washington County,Ohio",13139,375065
+198,"Covington City County,Virginia","Wayne County,Ohio",19484,553854
+199,"Covington City County,Virginia","Williams County,Ohio",27842,736978
+200,"Covington City County,Virginia","Wood County,Ohio",24156,682892
+201,"Covington City County,Virginia","Wyandot County,Ohio",21728,605420
+202,"Covington City County,Virginia","Accomack County,Virginia",19763,548543
+203,"Covington City County,Virginia","Albemarle County,Virginia",5913,161042
+204,"Covington City County,Virginia","Alleghany County,Virginia",900,13876
+205,"Covington City County,Virginia","Amelia County,Virginia",10614,261161
+206,"Covington City County,Virginia","Amherst County,Virginia",5911,129031
+207,"Covington City County,Virginia","Appomattox County,Virginia",7504,167790
+208,"Covington City County,Virginia","Arlington County,Virginia",12598,361352
+209,"Covington City County,Virginia","Augusta County,Virginia",4524,99382
+210,"Covington City County,Virginia","Bath County,Virginia",3520,58333
+211,"Covington City County,Virginia","Bedford County,Virginia",6568,133052
+212,"Covington City County,Virginia","Bland County,Virginia",7604,216225
+213,"Covington City County,Virginia","Botetourt County,Virginia",3736,69365
+214,"Covington City County,Virginia","Brunswick County,Virginia",13157,310834
+215,"Covington City County,Virginia","Buchanan County,Virginia",11599,300454
+216,"Covington City County,Virginia","Buckingham County,Virginia",7787,178726
+217,"Covington City County,Virginia","Campbell County,Virginia",7428,170262
+218,"Covington City County,Virginia","Caroline County,Virginia",11252,329888
+219,"Covington City County,Virginia","Carroll County,Virginia",8873,228483
+220,"Covington City County,Virginia","Charles City County,Virginia",11353,326923
+221,"Covington City County,Virginia","Charlotte County,Virginia",9389,221311
+222,"Covington City County,Virginia","Chesterfield County,Virginia",10489,304706
+223,"Covington City County,Virginia","Clarke County,Virginia",10093,288100
+224,"Covington City County,Virginia","Craig County,Virginia",4391,70203
+225,"Covington City County,Virginia","Culpeper County,Virginia",9710,250259
+226,"Covington City County,Virginia","Cumberland County,Virginia",8997,206728
+227,"Covington City County,Virginia","Dickenson County,Virginia",14279,340558
+228,"Covington City County,Virginia","Dinwiddie County,Virginia",12236,355138
+229,"Covington City County,Virginia","Essex County,Virginia",13070,353931
+230,"Covington City County,Virginia","Fairfax County,Virginia",12220,351628
+231,"Covington City County,Virginia","Fauquier County,Virginia",10531,309352
+232,"Covington City County,Virginia","Floyd County,Virginia",7399,170030
+233,"Covington City County,Virginia","Fluvanna County,Virginia",7591,213214
+234,"Covington City County,Virginia","Franklin County,Virginia",6737,148475
+235,"Covington City County,Virginia","Frederick County,Virginia",9545,275827
+236,"Covington City County,Virginia","Giles County,Virginia",6184,106582
+237,"Covington City County,Virginia","Gloucester County,Virginia",13523,381111
+238,"Covington City County,Virginia","Goochland County,Virginia",8495,243825
+239,"Covington City County,Virginia","Grayson County,Virginia",10204,244662
+240,"Covington City County,Virginia","Greene County,Virginia",7906,196627
+241,"Covington City County,Virginia","Greensville County,Virginia",13652,403890
+242,"Covington City County,Virginia","Halifax County,Virginia",10748,241969
+243,"Covington City County,Virginia","Hanover County,Virginia",9701,284932
+244,"Covington City County,Virginia","Henrico County,Virginia",10212,297892
+245,"Covington City County,Virginia","Henry County,Virginia",8146,183436
+246,"Covington City County,Virginia","Highland County,Virginia",4679,88301
+247,"Covington City County,Virginia","Isle of Wight County,Virginia",14464,402469
+248,"Covington City County,Virginia","James City County,Virginia",12589,367694
+249,"Covington City County,Virginia","King and Queen County,Virginia",12247,343278
+250,"Covington City County,Virginia","King George County,Virginia",12365,357874
+251,"Covington City County,Virginia","King William County,Virginia",10934,313200
+252,"Covington City County,Virginia","Lancaster County,Virginia",14727,396285
+253,"Covington City County,Virginia","Lee County,Virginia",15712,407357
+254,"Covington City County,Virginia","Loudoun County,Virginia",11589,323967
+255,"Covington City County,Virginia","Louisa County,Virginia",8152,226920
+256,"Covington City County,Virginia","Lunenburg County,Virginia",11161,262595
+257,"Covington City County,Virginia","Madison County,Virginia",8826,226367
+258,"Covington City County,Virginia","Mathews County,Virginia",14348,404534
+259,"Covington City County,Virginia","Mecklenburg County,Virginia",12152,275719
+260,"Covington City County,Virginia","Middlesex County,Virginia",13125,377311
+261,"Covington City County,Virginia","Montgomery County,Virginia",6104,142453
+262,"Covington City County,Virginia","Nelson County,Virginia",6452,140722
+263,"Covington City County,Virginia","New Kent County,Virginia",12025,341608
+264,"Covington City County,Virginia","Northampton County,Virginia",17006,484357
+265,"Covington City County,Virginia","Northumberland County,Virginia",14767,394798
+266,"Covington City County,Virginia","Nottoway County,Virginia",10654,262975
+267,"Covington City County,Virginia","Orange County,Virginia",9114,235028
+268,"Covington City County,Virginia","Page County,Virginia",7759,210152
+269,"Covington City County,Virginia","Patrick County,Virginia",9519,206933
+270,"Covington City County,Virginia","Pittsylvania County,Virginia",9161,198423
+271,"Covington City County,Virginia","Powhatan County,Virginia",9748,269047
+272,"Covington City County,Virginia","Prince Edward County,Virginia",9269,220310
+273,"Covington City County,Virginia","Prince George County,Virginia",11999,341722
+274,"Covington City County,Virginia","Prince William County,Virginia",10631,315456
+275,"Covington City County,Virginia","Pulaski County,Virginia",6831,165086
+276,"Covington City County,Virginia","Rappahannock County,Virginia",9591,246640
+277,"Covington City County,Virginia","Richmond County,Virginia",13467,367441
+278,"Covington City County,Virginia","Roanoke County,Virginia",5095,107391
+279,"Covington City County,Virginia","Rockbridge County,Virginia",2915,66422
+280,"Covington City County,Virginia","Rockingham County,Virginia",6799,182503
+281,"Covington City County,Virginia","Russell County,Virginia",11413,296405
+282,"Covington City County,Virginia","Scott County,Virginia",14077,364532
+283,"Covington City County,Virginia","Shenandoah County,Virginia",7303,212606
+284,"Covington City County,Virginia","Smyth County,Virginia",9868,251807
+285,"Covington City County,Virginia","Southampton County,Virginia",14030,400004
+286,"Covington City County,Virginia","Spotsylvania County,Virginia",10168,268759
+287,"Covington City County,Virginia","Stafford County,Virginia",11549,293052
+288,"Covington City County,Virginia","Surry County,Virginia",13332,366555
+289,"Covington City County,Virginia","Sussex County,Virginia",12694,370246
+290,"Covington City County,Virginia","Tazewell County,Virginia",8420,234812
+291,"Covington City County,Virginia","Warren County,Virginia",9206,257199
+292,"Covington City County,Virginia","Washington County,Virginia",11261,291273
+293,"Covington City County,Virginia","Westmoreland County,Virginia",13340,374699
+294,"Covington City County,Virginia","Wise County,Virginia",14190,368740
+295,"Covington City County,Virginia","Wythe County,Virginia",8122,203792
+296,"Covington City County,Virginia","York County,Virginia",13877,398468
+297,"Covington City County,Virginia","Alexandria City County,Virginia",12800,373998
+298,"Covington City County,Virginia","Bedford City County,Virginia",5601,116199
+299,"Covington City County,Virginia","Bristol City County,Virginia",11736,316991
+300,"Covington City County,Virginia","Buena Vista City County,Virginia",3270,80399
+301,"Covington City County,Virginia","Charlottesville City County,Virginia",6382,176257
+302,"Covington City County,Virginia","Chesapeake City County,Virginia",15340,451374
+303,"Covington City County,Virginia","Clifton Forge City County,Virginia",1126,18272
+304,"Covington City County,Virginia","Colonial Heights City County,Virginia",11049,320599
+305,"Covington City County,Virginia","Danville City County,Virginia",10200,218640
+306,"Covington City County,Virginia","Emporia City County,Virginia",13359,390483
+307,"Covington City County,Virginia","Fairfax City County,Virginia",11763,341203
+308,"Covington City County,Virginia","Falls Church City County,Virginia",12095,355676
+309,"Covington City County,Virginia","Franklin City County,Virginia",14577,407858
+310,"Covington City County,Virginia","Fredericksburg City County,Virginia",11301,278418
+311,"Covington City County,Virginia","Galax City County,Virginia",9496,234349
+312,"Covington City County,Virginia","Hampton City County,Virginia",13827,408174
+313,"Covington City County,Virginia","Harrisonburg City County,Virginia",5858,162399
+314,"Covington City County,Virginia","Hopewell City County,Virginia",11085,319565
+315,"Covington City County,Virginia","Lexington City County,Virginia",2904,68890
+316,"Covington City County,Virginia","Lynchburg City County,Virginia",6487,144005
+317,"Covington City County,Virginia","Manassas City County,Virginia",10858,320400
+318,"Covington City County,Virginia","Manassas Park City County,Virginia",11361,326743
+319,"Covington City County,Virginia","Martinsville City County,Virginia",8299,178538
+320,"Covington City County,Virginia","Newport News City County,Virginia",13383,394660
+321,"Covington City County,Virginia","Norfolk City County,Virginia",15133,433590
+322,"Covington City County,Virginia","Norton City County,Virginia",13714,359631
+323,"Covington City County,Virginia","Petersburg City County,Virginia",10920,321586
+324,"Covington City County,Virginia","Poquoson City County,Virginia",14055,405237
+325,"Covington City County,Virginia","Portsmouth City County,Virginia",15072,442411
+326,"Covington City County,Virginia","Radford County,Virginia",6467,152297
+327,"Covington City County,Virginia","Richmond City County,Virginia",9788,285702
+328,"Covington City County,Virginia","Roanoke City County,Virginia",4633,98834
+329,"Covington City County,Virginia","Salem City County,Virginia",4463,97305
+330,"Covington City County,Virginia","South Boston City County,Virginia",10752,240787
+331,"Covington City County,Virginia","Staunton City County,Virginia",4675,123534
+332,"Covington City County,Virginia","Suffolk City County,Virginia",15307,417193
+333,"Covington City County,Virginia","Virginia Beach City County,Virginia",15694,456849
+334,"Covington City County,Virginia","Waynesboro City County,Virginia",5013,136252
+335,"Covington City County,Virginia","Williamsburg City County,Virginia",12427,366909
+336,"Covington City County,Virginia","Winchester City County,Virginia",9425,271971
+337,"Covington City County,Virginia","Barbour County,West Virginia",11592,226720
+338,"Covington City County,Virginia","Berkeley County,West Virginia",11162,319178
+339,"Covington City County,Virginia","Boone County,West Virginia",9294,213801
+340,"Covington City County,Virginia","Braxton County,West Virginia",8992,194475
+341,"Covington City County,Virginia","Brooke County,West Virginia",16660,435289
+342,"Covington City County,Virginia","Cabell County,West Virginia",10862,309707
+343,"Covington City County,Virginia","Calhoun County,West Virginia",10763,248426
+344,"Covington City County,Virginia","Clay County,West Virginia",9027,185259
+345,"Covington City County,Virginia","Doddridge County,West Virginia",12506,280352
+346,"Covington City County,Virginia","Fayette County,West Virginia",6416,131998
+347,"Covington City County,Virginia","Gilmer County,West Virginia",10560,244155
+348,"Covington City County,Virginia","Grant County,West Virginia",9209,184548
+349,"Covington City County,Virginia","Greenbrier County,West Virginia",4772,91223
+350,"Covington City County,Virginia","Hampshire County,West Virginia",11282,290082
+351,"Covington City County,Virginia","Hancock County,West Virginia",18287,462637
+352,"Covington City County,Virginia","Hardy County,West Virginia",10150,196140
+353,"Covington City County,Virginia","Harrison County,West Virginia",11536,289867
+354,"Covington City County,Virginia","Jackson County,West Virginia",10181,289517
+355,"Covington City County,Virginia","Jefferson County,West Virginia",11213,306584
+356,"Covington City County,Virginia","Kanawha County,West Virginia",7944,211499
+357,"Covington City County,Virginia","Lewis County,West Virginia",10165,243337
+358,"Covington City County,Virginia","Lincoln County,West Virginia",11526,287384
+359,"Covington City County,Virginia","Logan County,West Virginia",11085,244290
+360,"Covington City County,Virginia","McDowell County,West Virginia",9464,218741
+361,"Covington City County,Virginia","Marion County,West Virginia",12681,317034
+362,"Covington City County,Virginia","Marshall County,West Virginia",17648,429734
+363,"Covington City County,Virginia","Mason County,West Virginia",10337,295613
+364,"Covington City County,Virginia","Mercer County,West Virginia",6158,174731
+365,"Covington City County,Virginia","Mineral County,West Virginia",11806,230207
+366,"Covington City County,Virginia","Mingo County,West Virginia",11664,308225
+367,"Covington City County,Virginia","Monongalia County,West Virginia",12891,342503
+368,"Covington City County,Virginia","Monroe County,West Virginia",3706,77545
+369,"Covington City County,Virginia","Morgan County,West Virginia",11408,320304
+370,"Covington City County,Virginia","Nicholas County,West Virginia",6611,144648
+371,"Covington City County,Virginia","Ohio County,West Virginia",16567,444236
+372,"Covington City County,Virginia","Pendleton County,West Virginia",6817,136397
+373,"Covington City County,Virginia","Pleasants County,West Virginia",13664,387369
+374,"Covington City County,Virginia","Pocahontas County,West Virginia",6469,128433
+375,"Covington City County,Virginia","Preston County,West Virginia",13809,260788
+376,"Covington City County,Virginia","Putnam County,West Virginia",9119,261232
+377,"Covington City County,Virginia","Raleigh County,West Virginia",4969,136681
+378,"Covington City County,Virginia","Randolph County,West Virginia",9607,180113
+379,"Covington City County,Virginia","Ritchie County,West Virginia",13236,290801
+380,"Covington City County,Virginia","Roane County,West Virginia",11807,318333
+381,"Covington City County,Virginia","Summers County,West Virginia",5690,116558
+382,"Covington City County,Virginia","Taylor County,West Virginia",12574,312606
+383,"Covington City County,Virginia","Tucker County,West Virginia",11522,209346
+384,"Covington City County,Virginia","Tyler County,West Virginia",15260,358674
+385,"Covington City County,Virginia","Upshur County,West Virginia",11730,258034
+386,"Covington City County,Virginia","Wayne County,West Virginia",12453,342333
+387,"Covington City County,Virginia","Webster County,West Virginia",9363,189137
+388,"Covington City County,Virginia","Wetzel County,West Virginia",14215,341349
+389,"Covington City County,Virginia","Wirt County,West Virginia",12447,346855
+390,"Covington City County,Virginia","Wood County,West Virginia",11962,348545
+391,"Covington City County,Virginia","Wyoming County,West Virginia",6920,176654

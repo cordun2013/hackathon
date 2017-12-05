@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"South Boston City County,Virginia","Adair County,Kentucky",29216,730969
+1,"South Boston City County,Virginia","Allen County,Kentucky",30611,850779
+2,"South Boston City County,Virginia","Anderson County,Kentucky",28389,795705
+3,"South Boston City County,Virginia","Ballard County,Kentucky",37516,1086034
+4,"South Boston City County,Virginia","Barren County,Kentucky",30401,809724
+5,"South Boston City County,Virginia","Bath County,Kentucky",24036,666886
+6,"South Boston City County,Virginia","Bell County,Kentucky",21711,532276
+7,"South Boston City County,Virginia","Boone County,Kentucky",29849,788279
+8,"South Boston City County,Virginia","Bourbon County,Kentucky",25950,713303
+9,"South Boston City County,Virginia","Boyd County,Kentucky",20712,561210
+10,"South Boston City County,Virginia","Boyle County,Kentucky",28393,705125
+11,"South Boston City County,Virginia","Bracken County,Kentucky",26361,707386
+12,"South Boston City County,Virginia","Breathitt County,Kentucky",23335,568039
+13,"South Boston City County,Virginia","Breckinridge County,Kentucky",33922,948386
+14,"South Boston City County,Virginia","Bullitt County,Kentucky",30492,869505
+15,"South Boston City County,Virginia","Butler County,Kentucky",33072,920984
+16,"South Boston City County,Virginia","Caldwell County,Kentucky",34656,993848
+17,"South Boston City County,Virginia","Calloway County,Kentucky",35357,1017893
+18,"South Boston City County,Virginia","Campbell County,Kentucky",28061,747258
+19,"South Boston City County,Virginia","Carlisle County,Kentucky",37973,1101402
+20,"South Boston City County,Virginia","Carroll County,Kentucky",30933,843519
+21,"South Boston City County,Virginia","Carter County,Kentucky",21876,591308
+22,"South Boston City County,Virginia","Casey County,Kentucky",29153,704244
+23,"South Boston City County,Virginia","Christian County,Kentucky",32250,938873
+24,"South Boston City County,Virginia","Clay County,Kentucky",24283,592618
+25,"South Boston City County,Virginia","Clinton County,Kentucky",27659,730184
+26,"South Boston City County,Virginia","Crittenden County,Kentucky",35920,1026608
+27,"South Boston City County,Virginia","Cumberland County,Kentucky",28538,750852
+28,"South Boston City County,Virginia","Daviess County,Kentucky",35506,994777
+29,"South Boston City County,Virginia","Edmonson County,Kentucky",32380,863087
+30,"South Boston City County,Virginia","Elliott County,Kentucky",23207,617078
+31,"South Boston City County,Virginia","Estill County,Kentucky",27092,664322
+32,"South Boston City County,Virginia","Fayette County,Kentucky",26196,733198
+33,"South Boston City County,Virginia","Fleming County,Kentucky",24462,670072
+34,"South Boston City County,Virginia","Floyd County,Kentucky",21996,545348
+35,"South Boston City County,Virginia","Franklin County,Kentucky",28233,782114
+36,"South Boston City County,Virginia","Fulton County,Kentucky",38377,1122366
+37,"South Boston City County,Virginia","Gallatin County,Kentucky",29931,834178
+38,"South Boston City County,Virginia","Garrard County,Kentucky",28062,689911
+39,"South Boston City County,Virginia","Grant County,Kentucky",28730,808285
+40,"South Boston City County,Virginia","Graves County,Kentucky",36998,1074108
+41,"South Boston City County,Virginia","Grayson County,Kentucky",32914,927020
+42,"South Boston City County,Virginia","Green County,Kentucky",30968,773134
+43,"South Boston City County,Virginia","Greenup County,Kentucky",22487,602337
+44,"South Boston City County,Virginia","Hancock County,Kentucky",34718,981279
+45,"South Boston City County,Virginia","Hardin County,Kentucky",31791,889152
+46,"South Boston City County,Virginia","Harlan County,Kentucky",20786,508902
+47,"South Boston City County,Virginia","Harrison County,Kentucky",27521,746403
+48,"South Boston City County,Virginia","Hart County,Kentucky",32318,819412
+49,"South Boston City County,Virginia","Henderson County,Kentucky",36008,1048006
+50,"South Boston City County,Virginia","Henry County,Kentucky",29835,825833
+51,"South Boston City County,Virginia","Hickman County,Kentucky",38006,1102694
+52,"South Boston City County,Virginia","Hopkins County,Kentucky",34777,1004125
+53,"South Boston City County,Virginia","Jackson County,Kentucky",26155,629037
+54,"South Boston City County,Virginia","Jefferson County,Kentucky",29929,841366
+55,"South Boston City County,Virginia","Jessamine County,Kentucky",27665,754661
+56,"South Boston City County,Virginia","Johnson County,Kentucky",22611,562577
+57,"South Boston City County,Virginia","Kenton County,Kentucky",29218,775973
+58,"South Boston City County,Virginia","Knott County,Kentucky",20876,510789
+59,"South Boston City County,Virginia","Knox County,Kentucky",23041,574268
+60,"South Boston City County,Virginia","Larue County,Kentucky",31862,876328
+61,"South Boston City County,Virginia","Laurel County,Kentucky",24935,609095
+62,"South Boston City County,Virginia","Lawrence County,Kentucky",22635,605530
+63,"South Boston City County,Virginia","Lee County,Kentucky",25446,609229
+64,"South Boston City County,Virginia","Leslie County,Kentucky",22248,537181
+65,"South Boston City County,Virginia","Letcher County,Kentucky",19276,474336
+66,"South Boston City County,Virginia","Lewis County,Kentucky",23914,643125
+67,"South Boston City County,Virginia","Lincoln County,Kentucky",27624,689492
+68,"South Boston City County,Virginia","Livingston County,Kentucky",35847,1039972
+69,"South Boston City County,Virginia","Logan County,Kentucky",32682,891773
+70,"South Boston City County,Virginia","Lyon County,Kentucky",35604,1017147
+71,"South Boston City County,Virginia","McCracken County,Kentucky",36128,1054094
+72,"South Boston City County,Virginia","McCreary County,Kentucky",24665,667030
+73,"South Boston City County,Virginia","Madison County,Kentucky",27081,687341
+74,"South Boston City County,Virginia","Magoffin County,Kentucky",22955,566553
+75,"South Boston City County,Virginia","Marion County,Kentucky",30091,743730
+76,"South Boston City County,Virginia","Marshall County,Kentucky",35543,1037666
+77,"South Boston City County,Virginia","Martin County,Kentucky",23749,587254
+78,"South Boston City County,Virginia","Mason County,Kentucky",25710,686932
+79,"South Boston City County,Virginia","Meade County,Kentucky",32389,913681
+80,"South Boston City County,Virginia","Menifee County,Kentucky",25152,678949
+81,"South Boston City County,Virginia","Mercer County,Kentucky",28616,793649
+82,"South Boston City County,Virginia","Metcalfe County,Kentucky",29872,761234
+83,"South Boston City County,Virginia","Monroe County,Kentucky",29099,781273
+84,"South Boston City County,Virginia","Montgomery County,Kentucky",24849,685426
+85,"South Boston City County,Virginia","Morgan County,Kentucky",24930,654665
+86,"South Boston City County,Virginia","Muhlenberg County,Kentucky",34462,974236
+87,"South Boston City County,Virginia","Nelson County,Kentucky",29848,837009
+88,"South Boston City County,Virginia","Nicholas County,Kentucky",26527,713310
+89,"South Boston City County,Virginia","Ohio County,Kentucky",34607,962814
+90,"South Boston City County,Virginia","Oldham County,Kentucky",30000,853247
+91,"South Boston City County,Virginia","Owen County,Kentucky",29055,808891
+92,"South Boston City County,Virginia","Owsley County,Kentucky",25473,605913
+93,"South Boston City County,Virginia","Pendleton County,Kentucky",28298,748310
+94,"South Boston City County,Virginia","Perry County,Kentucky",21849,531212
+95,"South Boston City County,Virginia","Pike County,Kentucky",20371,479862
+96,"South Boston City County,Virginia","Powell County,Kentucky",25977,632575
+97,"South Boston City County,Virginia","Robertson County,Kentucky",26445,712816
+98,"South Boston City County,Virginia","Rockcastle County,Kentucky",26105,651091
+99,"South Boston City County,Virginia","Rowan County,Kentucky",23179,639093
+100,"South Boston City County,Virginia","Russell County,Kentucky",28820,714953
+101,"South Boston City County,Virginia","Scott County,Kentucky",27030,761224
+102,"South Boston City County,Virginia","Shelby County,Kentucky",28857,812501
+103,"South Boston City County,Virginia","Simpson County,Kentucky",31649,867749
+104,"South Boston City County,Virginia","Spencer County,Kentucky",29387,818349
+105,"South Boston City County,Virginia","Taylor County,Kentucky",30570,755229
+106,"South Boston City County,Virginia","Todd County,Kentucky",32665,931820
+107,"South Boston City County,Virginia","Trigg County,Kentucky",33157,956232
+108,"South Boston City County,Virginia","Trimble County,Kentucky",31074,859287
+109,"South Boston City County,Virginia","Union County,Kentucky",37426,1068366
+110,"South Boston City County,Virginia","Warren County,Kentucky",32074,890416
+111,"South Boston City County,Virginia","Washington County,Kentucky",29858,822245
+112,"South Boston City County,Virginia","Wayne County,Kentucky",27169,714160
+113,"South Boston City County,Virginia","Webster County,Kentucky",35886,1032214
+114,"South Boston City County,Virginia","Whitley County,Kentucky",23269,651792
+115,"South Boston City County,Virginia","Wolfe County,Kentucky",24829,600123
+116,"South Boston City County,Virginia","Woodford County,Kentucky",27250,763860
+117,"South Boston City County,Virginia","Adams County,Ohio",25802,689488
+118,"South Boston City County,Virginia","Allen County,Ohio",32534,864906
+119,"South Boston City County,Virginia","Ashland County,Ohio",30279,818797
+120,"South Boston City County,Virginia","Ashtabula County,Ohio",31638,860973
+121,"South Boston City County,Virginia","Athens County,Ohio",22210,595087
+122,"South Boston City County,Virginia","Auglaize County,Ohio",31784,881606
+123,"South Boston City County,Virginia","Belmont County,Ohio",26029,728619
+124,"South Boston City County,Virginia","Brown County,Ohio",27047,716416
+125,"South Boston City County,Virginia","Butler County,Ohio",30159,798441
+126,"South Boston City County,Virginia","Carroll County,Ohio",27959,765505
+127,"South Boston City County,Virginia","Champaign County,Ohio",29088,783703
+128,"South Boston City County,Virginia","Clark County,Ohio",27767,743247
+129,"South Boston City County,Virginia","Clermont County,Ohio",27881,747512
+130,"South Boston City County,Virginia","Clinton County,Ohio",27272,730929
+131,"South Boston City County,Virginia","Columbiana County,Ohio",28865,699950
+132,"South Boston City County,Virginia","Coshocton County,Ohio",26594,736622
+133,"South Boston City County,Virginia","Crawford County,Ohio",30886,829957
+134,"South Boston City County,Virginia","Cuyahoga County,Ohio",29995,850909
+135,"South Boston City County,Virginia","Darke County,Ohio",30882,838652
+136,"South Boston City County,Virginia","Defiance County,Ohio",35970,943227
+137,"South Boston City County,Virginia","Delaware County,Ohio",28040,762694
+138,"South Boston City County,Virginia","Fairfield County,Ohio",25571,689788
+139,"South Boston City County,Virginia","Fayette County,Ohio",25835,701393
+140,"South Boston City County,Virginia","Franklin County,Ohio",26571,719643
+141,"South Boston City County,Virginia","Fulton County,Ohio",35977,985526
+142,"South Boston City County,Virginia","Gallia County,Ohio",21149,560504
+143,"South Boston City County,Virginia","Geauga County,Ohio",31128,833636
+144,"South Boston City County,Virginia","Greene County,Ohio",26706,734545
+145,"South Boston City County,Virginia","Guernsey County,Ohio",24145,674541
+146,"South Boston City County,Virginia","Hamilton County,Ohio",29661,809019
+147,"South Boston City County,Virginia","Hancock County,Ohio",32063,871049
+148,"South Boston City County,Virginia","Hardin County,Ohio",31045,820735
+149,"South Boston City County,Virginia","Harrison County,Ohio",26965,747571
+150,"South Boston City County,Virginia","Henry County,Ohio",34776,942671
+151,"South Boston City County,Virginia","Highland County,Ohio",26339,689502
+152,"South Boston City County,Virginia","Hocking County,Ohio",24013,645752
+153,"South Boston City County,Virginia","Holmes County,Ohio",27653,759506
+154,"South Boston City County,Virginia","Huron County,Ohio",32176,860426
+155,"South Boston City County,Virginia","Jackson County,Ohio",22326,600053
+156,"South Boston City County,Virginia","Jefferson County,Ohio",27612,674920
+157,"South Boston City County,Virginia","Knox County,Ohio",28383,779098
+158,"South Boston City County,Virginia","Lawrence County,Ohio",21851,566267
+159,"South Boston City County,Virginia","Licking County,Ohio",27516,716798
+160,"South Boston City County,Virginia","Logan County,Ohio",30066,815012
+161,"South Boston City County,Virginia","Lorain County,Ohio",31219,880733
+162,"South Boston City County,Virginia","Lucas County,Ohio",35698,958549
+163,"South Boston City County,Virginia","Madison County,Ohio",27537,724477
+164,"South Boston City County,Virginia","Mahoning County,Ohio",28124,750965
+165,"South Boston City County,Virginia","Marion County,Ohio",29446,788787
+166,"South Boston City County,Virginia","Medina County,Ohio",29668,836940
+167,"South Boston City County,Virginia","Meigs County,Ohio",21091,566058
+168,"South Boston City County,Virginia","Mercer County,Ohio",33020,908539
+169,"South Boston City County,Virginia","Miami County,Ohio",29370,804044
+170,"South Boston City County,Virginia","Monroe County,Ohio",25081,663733
+171,"South Boston City County,Virginia","Montgomery County,Ohio",28740,782001
+172,"South Boston City County,Virginia","Morgan County,Ohio",24086,650381
+173,"South Boston City County,Virginia","Morrow County,Ohio",28848,785515
+174,"South Boston City County,Virginia","Muskingum County,Ohio",24991,702533
+175,"South Boston City County,Virginia","Noble County,Ohio",23586,646893
+176,"South Boston City County,Virginia","Paulding County,Ohio",35071,940812
+177,"South Boston City County,Virginia","Perry County,Ohio",25428,660508
+178,"South Boston City County,Virginia","Pickaway County,Ohio",25276,681491
+179,"South Boston City County,Virginia","Pike County,Ohio",23772,639360
+180,"South Boston City County,Virginia","Portage County,Ohio",29517,832491
+181,"South Boston City County,Virginia","Preble County,Ohio",30359,810578
+182,"South Boston City County,Virginia","Putnam County,Ohio",33657,897264
+183,"South Boston City County,Virginia","Richland County,Ohio",29878,820754
+184,"South Boston City County,Virginia","Ross County,Ohio",24020,647798
+185,"South Boston City County,Virginia","Sandusky County,Ohio",33820,889744
+186,"South Boston City County,Virginia","Scioto County,Ohio",23656,623540
+187,"South Boston City County,Virginia","Seneca County,Ohio",32437,863629
+188,"South Boston City County,Virginia","Shelby County,Ohio",30409,840330
+189,"South Boston City County,Virginia","Stark County,Ohio",27818,780740
+190,"South Boston City County,Virginia","Summit County,Ohio",28576,806528
+191,"South Boston City County,Virginia","Trumbull County,Ohio",29282,788429
+192,"South Boston City County,Virginia","Tuscarawas County,Ohio",26019,721328
+193,"South Boston City County,Virginia","Union County,Ohio",28570,765243
+194,"South Boston City County,Virginia","Van Wert County,Ohio",33768,907775
+195,"South Boston City County,Virginia","Vinton County,Ohio",24221,625558
+196,"South Boston City County,Virginia","Warren County,Ohio",28077,764988
+197,"South Boston City County,Virginia","Washington County,Ohio",22445,604829
+198,"South Boston City County,Virginia","Wayne County,Ohio",28789,783618
+199,"South Boston City County,Virginia","Williams County,Ohio",37147,966743
+200,"South Boston City County,Virginia","Wood County,Ohio",33461,912657
+201,"South Boston City County,Virginia","Wyandot County,Ohio",31033,835185
+202,"South Boston City County,Virginia","Accomack County,Virginia",15916,388477
+203,"South Boston City County,Virginia","Albemarle County,Virginia",8584,193343
+204,"South Boston City County,Virginia","Alleghany County,Virginia",11112,253912
+205,"South Boston City County,Virginia","Amelia County,Virginia",4788,120632
+206,"South Boston City County,Virginia","Amherst County,Virginia",5970,125051
+207,"South Boston City County,Virginia","Appomattox County,Virginia",4689,100021
+208,"South Boston City County,Virginia","Arlington County,Virginia",12766,344322
+209,"South Boston City County,Virginia","Augusta County,Virginia",10069,229503
+210,"South Boston City County,Virginia","Bath County,Virginia",11633,247239
+211,"South Boston City County,Virginia","Bedford County,Virginia",5402,97794
+212,"South Boston City County,Virginia","Bland County,Virginia",10977,271593
+213,"South Boston City County,Virginia","Botetourt County,Virginia",8903,171167
+214,"South Boston City County,Virginia","Brunswick County,Virginia",4520,106951
+215,"South Boston City County,Virginia","Buchanan County,Virginia",16734,406052
+216,"South Boston City County,Virginia","Buckingham County,Virginia",5464,126133
+217,"South Boston City County,Virginia","Campbell County,Virginia",3657,72183
+218,"South Boston City County,Virginia","Caroline County,Virginia",9496,241681
+219,"South Boston City County,Virginia","Carroll County,Virginia",8919,207118
+220,"South Boston City County,Virginia","Charles City County,Virginia",8243,209939
+221,"South Boston City County,Virginia","Charlotte County,Virginia",2738,61795
+222,"South Boston City County,Virginia","Chesterfield County,Virginia",6482,159522
+223,"South Boston City County,Virginia","Clarke County,Virginia",14722,375246
+224,"South Boston City County,Virginia","Craig County,Virginia",10290,206677
+225,"South Boston City County,Virginia","Culpeper County,Virginia",11649,266243
+226,"South Boston City County,Virginia","Cumberland County,Virginia",5610,124354
+227,"South Boston City County,Virginia","Dickenson County,Virginia",17444,424230
+228,"South Boston City County,Virginia","Dinwiddie County,Virginia",5664,149056
+229,"South Boston City County,Virginia","Essex County,Virginia",11362,266109
+230,"South Boston City County,Virginia","Fairfax County,Virginia",13063,347552
+231,"South Boston City County,Virginia","Fauquier County,Virginia",12760,327565
+232,"South Boston City County,Virginia","Floyd County,Virginia",8363,187643
+233,"South Boston City County,Virginia","Fluvanna County,Virginia",7613,175059
+234,"South Boston City County,Virginia","Franklin County,Virginia",5562,114820
+235,"South Boston City County,Virginia","Frederick County,Virginia",14174,362973
+236,"South Boston City County,Virginia","Giles County,Virginia",11110,245393
+237,"South Boston City County,Virginia","Gloucester County,Virginia",11125,294403
+238,"South Boston City County,Virginia","Goochland County,Virginia",7393,175622
+239,"South Boston City County,Virginia","Grayson County,Virginia",11232,257368
+240,"South Boston City County,Virginia","Greene County,Virginia",10932,240659
+241,"South Boston City County,Virginia","Greensville County,Virginia",6193,141379
+242,"South Boston City County,Virginia","Halifax County,Virginia",390,3171
+243,"South Boston City County,Virginia","Hanover County,Virginia",7981,192640
+244,"South Boston City County,Virginia","Henrico County,Virginia",7593,209829
+245,"South Boston City County,Virginia","Henry County,Virginia",4910,119015
+246,"South Boston City County,Virginia","Highland County,Virginia",13271,287242
+247,"South Boston City County,Virginia","Isle of Wight County,Virginia",9476,236675
+248,"South Boston City County,Virginia","James City County,Virginia",9834,245384
+249,"South Boston City County,Virginia","King and Queen County,Virginia",10539,255456
+250,"South Boston City County,Virginia","King George County,Virginia",10609,269668
+251,"South Boston City County,Virginia","King William County,Virginia",9226,225378
+252,"South Boston City County,Virginia","Lancaster County,Virginia",13019,308464
+253,"South Boston City County,Virginia","Lee County,Virginia",17938,455884
+254,"South Boston City County,Virginia","Loudoun County,Virginia",15030,400797
+255,"South Boston City County,Virginia","Louisa County,Virginia",8713,207958
+256,"South Boston City County,Virginia","Lunenburg County,Virginia",3574,78961
+257,"South Boston City County,Virginia","Madison County,Virginia",11047,250226
+258,"South Boston City County,Virginia","Mathews County,Virginia",11950,317826
+259,"South Boston City County,Virginia","Mecklenburg County,Virginia",2616,56674
+260,"South Boston City County,Virginia","Middlesex County,Virginia",10727,290603
+261,"South Boston City County,Virginia","Montgomery County,Virginia",9675,209664
+262,"South Boston City County,Virginia","Nelson County,Virginia",6464,145584
+263,"South Boston City County,Virginia","New Kent County,Virginia",9627,254899
+264,"South Boston City County,Virginia","Northampton County,Virginia",13159,324292
+265,"South Boston City County,Virginia","Northumberland County,Virginia",13059,306976
+266,"South Boston City County,Virginia","Nottoway County,Virginia",4450,110807
+267,"South Boston City County,Virginia","Orange County,Virginia",10295,236003
+268,"South Boston City County,Virginia","Page County,Virginia",12388,297299
+269,"South Boston City County,Virginia","Patrick County,Virginia",6492,157922
+270,"South Boston City County,Virginia","Pittsylvania County,Virginia",3274,75016
+271,"South Boston City County,Virginia","Powhatan County,Virginia",6257,153311
+272,"South Boston City County,Virginia","Prince Edward County,Virginia",3155,78393
+273,"South Boston City County,Virginia","Prince George County,Virginia",7213,189611
+274,"South Boston City County,Virginia","Prince William County,Virginia",13223,337400
+275,"South Boston City County,Virginia","Pulaski County,Virginia",10402,232297
+276,"South Boston City County,Virginia","Rappahannock County,Virginia",12577,285053
+277,"South Boston City County,Virginia","Richmond County,Virginia",11759,279619
+278,"South Boston City County,Virginia","Roanoke County,Virginia",8666,174602
+279,"South Boston City County,Virginia","Rockbridge County,Virginia",9103,181859
+280,"South Boston City County,Virginia","Rockingham County,Virginia",11427,269649
+281,"South Boston City County,Virginia","Russell County,Virginia",15900,389389
+282,"South Boston City County,Virginia","Scott County,Virginia",16512,416612
+283,"South Boston City County,Virginia","Shenandoah County,Virginia",11932,299752
+284,"South Boston City County,Virginia","Smyth County,Virginia",12094,300333
+285,"South Boston City County,Virginia","Southampton County,Virginia",7332,181893
+286,"South Boston City County,Virginia","Spotsylvania County,Virginia",10506,264632
+287,"South Boston City County,Virginia","Stafford County,Virginia",10578,282103
+288,"South Boston City County,Virginia","Surry County,Virginia",8901,223092
+289,"South Boston City County,Virginia","Sussex County,Virginia",6655,173031
+290,"South Boston City County,Virginia","Tazewell County,Virginia",13555,340410
+291,"South Boston City County,Virginia","Warren County,Virginia",13834,344345
+292,"South Boston City County,Virginia","Washington County,Virginia",13488,339800
+293,"South Boston City County,Virginia","Westmoreland County,Virginia",12048,298154
+294,"South Boston City County,Virginia","Wise County,Virginia",17351,430732
+295,"South Boston City County,Virginia","Wythe County,Virginia",10348,252319
+296,"South Boston City County,Virginia","York County,Virginia",11478,311760
+297,"South Boston City County,Virginia","Alexandria City County,Virginia",12738,341371
+298,"South Boston City County,Virginia","Bedford City County,Virginia",5823,108831
+299,"South Boston City County,Virginia","Bristol City County,Virginia",13963,365517
+300,"South Boston City County,Virginia","Buena Vista City County,Virginia",7857,163490
+301,"South Boston City County,Virginia","Charlottesville City County,Virginia",8304,187494
+302,"South Boston City County,Virginia","Chesapeake City County,Virginia",10551,263654
+303,"South Boston City County,Virginia","Clifton Forge City County,Virginia",10014,222730
+304,"South Boston City County,Virginia","Colonial Heights City County,Virginia",6466,174317
+305,"South Boston City County,Virginia","Covington City County,Virginia",10757,241072
+306,"South Boston City County,Virginia","Danville City County,Virginia",2366,49989
+307,"South Boston City County,Virginia","Emporia City County,Virginia",5872,138558
+308,"South Boston City County,Virginia","Fairfax City County,Virginia",12998,336334
+309,"South Boston City County,Virginia","Falls Church City County,Virginia",12945,348620
+310,"South Boston City County,Virginia","Franklin City County,Virginia",7959,195028
+311,"South Boston City County,Virginia","Fredericksburg City County,Virginia",10377,268039
+312,"South Boston City County,Virginia","Galax City County,Virginia",9760,225871
+313,"South Boston City County,Virginia","Hampton City County,Virginia",11250,282049
+314,"South Boston City County,Virginia","Harrisonburg City County,Virginia",10487,249545
+315,"South Boston City County,Virginia","Hopewell City County,Virginia",7378,186102
+316,"South Boston City County,Virginia","Lexington City County,Virginia",8388,172674
+317,"South Boston City County,Virginia","Lynchburg City County,Virginia",5085,97229
+318,"South Boston City County,Virginia","Manassas City County,Virginia",12966,334737
+319,"South Boston City County,Virginia","Manassas Park City County,Virginia",13187,331937
+320,"South Boston City County,Virginia","Martinsville City County,Virginia",4507,102994
+321,"South Boston City County,Virginia","Newport News City County,Virginia",10985,307952
+322,"South Boston City County,Virginia","Norfolk City County,Virginia",10503,262514
+323,"South Boston City County,Virginia","Norton City County,Virginia",16875,421622
+324,"South Boston City County,Virginia","Petersburg City County,Virginia",6216,172215
+325,"South Boston City County,Virginia","Poquoson City County,Virginia",11657,318528
+326,"South Boston City County,Virginia","Portsmouth City County,Virginia",10422,260050
+327,"South Boston City County,Virginia","Radford County,Virginia",10038,219508
+328,"South Boston City County,Virginia","Richmond City County,Virginia",7473,182253
+329,"South Boston City County,Virginia","Roanoke City County,Virginia",7354,144947
+330,"South Boston City County,Virginia","Salem City County,Virginia",8034,164515
+331,"South Boston City County,Virginia","Staunton City County,Virginia",9375,211226
+332,"South Boston City County,Virginia","Suffolk City County,Virginia",9275,228331
+333,"South Boston City County,Virginia","Virginia Beach City County,Virginia",11618,290310
+334,"South Boston City County,Virginia","Waynesboro City County,Virginia",8611,191415
+335,"South Boston City County,Virginia","Williamsburg City County,Virginia",10029,280201
+336,"South Boston City County,Virginia","Winchester City County,Virginia",14053,359117
+337,"South Boston City County,Virginia","Barbour County,West Virginia",20178,427947
+338,"South Boston City County,Virginia","Berkeley County,West Virginia",15791,406324
+339,"South Boston City County,Virginia","Boone County,West Virginia",18600,443565
+340,"South Boston City County,Virginia","Braxton County,West Virginia",19169,434292
+341,"South Boston City County,Virginia","Brooke County,West Virginia",25918,638471
+342,"South Boston City County,Virginia","Cabell County,West Virginia",20168,539471
+343,"South Boston City County,Virginia","Calhoun County,West Virginia",20940,488243
+344,"South Boston City County,Virginia","Clay County,West Virginia",18593,460470
+345,"South Boston City County,Virginia","Doddridge County,West Virginia",22683,520169
+346,"South Boston City County,Virginia","Fayette County,West Virginia",16100,406208
+347,"South Boston City County,Virginia","Gilmer County,West Virginia",20737,483972
+348,"South Boston City County,Virginia","Grant County,West Virginia",15883,388812
+349,"South Boston City County,Virginia","Greenbrier County,West Virginia",14949,331040
+350,"South Boston City County,Virginia","Hampshire County,West Virginia",15910,377228
+351,"South Boston City County,Virginia","Hancock County,West Virginia",27545,665818
+352,"South Boston City County,Virginia","Hardy County,West Virginia",15131,360141
+353,"South Boston City County,Virginia","Harrison County,West Virginia",21713,529683
+354,"South Boston City County,Virginia","Jackson County,West Virginia",19487,519282
+355,"South Boston City County,Virginia","Jefferson County,West Virginia",15842,393731
+356,"South Boston City County,Virginia","Kanawha County,West Virginia",17250,441264
+357,"South Boston City County,Virginia","Lewis County,West Virginia",20342,483153
+358,"South Boston City County,Virginia","Lincoln County,West Virginia",20832,517149
+359,"South Boston City County,Virginia","Logan County,West Virginia",20390,474055
+360,"South Boston City County,Virginia","McDowell County,West Virginia",16072,369088
+361,"South Boston City County,Virginia","Marion County,West Virginia",22858,556851
+362,"South Boston City County,Virginia","Marshall County,West Virginia",26905,632915
+363,"South Boston City County,Virginia","Mason County,West Virginia",19643,525378
+364,"South Boston City County,Virginia","Mercer County,West Virginia",12679,321872
+365,"South Boston City County,Virginia","Mineral County,West Virginia",17357,400335
+366,"South Boston City County,Virginia","Mingo County,West Virginia",20969,537990
+367,"South Boston City County,Virginia","Monongalia County,West Virginia",21059,513070
+368,"South Boston City County,Virginia","Monroe County,West Virginia",13435,266676
+369,"South Boston City County,Virginia","Morgan County,West Virginia",16037,407451
+370,"South Boston City County,Virginia","Nicholas County,West Virginia",16788,384465
+371,"South Boston City County,Virginia","Ohio County,West Virginia",25825,647417
+372,"South Boston City County,Virginia","Pendleton County,West Virginia",14275,320833
+373,"South Boston City County,Virginia","Pleasants County,West Virginia",22969,617134
+374,"South Boston City County,Virginia","Pocahontas County,West Virginia",16167,325733
+375,"South Boston City County,Virginia","Preston County,West Virginia",20063,467263
+376,"South Boston City County,Virginia","Putnam County,West Virginia",18425,490996
+377,"South Boston City County,Virginia","Raleigh County,West Virginia",14275,366445
+378,"South Boston City County,Virginia","Randolph County,West Virginia",18194,381340
+379,"South Boston City County,Virginia","Ritchie County,West Virginia",23413,530618
+380,"South Boston City County,Virginia","Roane County,West Virginia",21112,548097
+381,"South Boston City County,Virginia","Summers County,West Virginia",14018,299689
+382,"South Boston City County,Virginia","Taylor County,West Virginia",20406,485084
+383,"South Boston City County,Virginia","Tucker County,West Virginia",18543,450459
+384,"South Boston City County,Virginia","Tyler County,West Virginia",24878,656749
+385,"South Boston City County,Virginia","Upshur County,West Virginia",20789,416983
+386,"South Boston City County,Virginia","Wayne County,West Virginia",21759,572098
+387,"South Boston City County,Virginia","Webster County,West Virginia",19540,428953
+388,"South Boston City County,Virginia","Wetzel County,West Virginia",24392,581166
+389,"South Boston City County,Virginia","Wirt County,West Virginia",21753,576620
+390,"South Boston City County,Virginia","Wood County,West Virginia",21267,578309
+391,"South Boston City County,Virginia","Wyoming County,West Virginia",16226,406418

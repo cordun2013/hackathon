@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Winchester City County,Virginia","Adair County,Kentucky",31986,898074
+1,"Winchester City County,Virginia","Allen County,Kentucky",33683,990153
+2,"Winchester City County,Virginia","Anderson County,Kentucky",27786,801113
+3,"Winchester City County,Virginia","Ballard County,Kentucky",40588,1225408
+4,"Winchester City County,Virginia","Barren County,Kentucky",33473,949099
+5,"Winchester City County,Virginia","Bath County,Kentucky",23433,672294
+6,"Winchester City County,Virginia","Bell County,Kentucky",24783,671650
+7,"Winchester City County,Virginia","Boone County,Kentucky",26853,748876
+8,"Winchester City County,Virginia","Bourbon County,Kentucky",25347,718711
+9,"Winchester City County,Virginia","Boyd County,Kentucky",20109,566618
+10,"Winchester City County,Virginia","Boyle County,Kentucky",29015,804999
+11,"Winchester City County,Virginia","Bracken County,Kentucky",25758,712794
+12,"Winchester City County,Virginia","Breathitt County,Kentucky",26407,707414
+13,"Winchester City County,Virginia","Breckinridge County,Kentucky",33319,953794
+14,"Winchester City County,Virginia","Bullitt County,Kentucky",29889,874913
+15,"Winchester City County,Virginia","Butler County,Kentucky",33984,975792
+16,"Winchester City County,Virginia","Caldwell County,Kentucky",36876,1081737
+17,"Winchester City County,Virginia","Calloway County,Kentucky",38429,1157268
+18,"Winchester City County,Virginia","Campbell County,Kentucky",26771,747361
+19,"Winchester City County,Virginia","Carlisle County,Kentucky",41045,1240777
+20,"Winchester City County,Virginia","Carroll County,Kentucky",28427,810642
+21,"Winchester City County,Virginia","Carter County,Kentucky",21273,596716
+22,"Winchester City County,Virginia","Casey County,Kentucky",30510,836504
+23,"Winchester City County,Virginia","Christian County,Kentucky",35322,1078247
+24,"Winchester City County,Virginia","Clay County,Kentucky",27355,731992
+25,"Winchester City County,Virginia","Clinton County,Kentucky",30731,869558
+26,"Winchester City County,Virginia","Crittenden County,Kentucky",38456,1114807
+27,"Winchester City County,Virginia","Cumberland County,Kentucky",31610,890227
+28,"Winchester City County,Virginia","Daviess County,Kentucky",35007,1022234
+29,"Winchester City County,Virginia","Edmonson County,Kentucky",33424,963667
+30,"Winchester City County,Virginia","Elliott County,Kentucky",22604,622486
+31,"Winchester City County,Virginia","Estill County,Kentucky",26426,734609
+32,"Winchester City County,Virginia","Fayette County,Kentucky",25593,738606
+33,"Winchester City County,Virginia","Fleming County,Kentucky",23859,675480
+34,"Winchester City County,Virginia","Floyd County,Kentucky",24242,673883
+35,"Winchester City County,Virginia","Franklin County,Kentucky",27631,787522
+36,"Winchester City County,Virginia","Fulton County,Kentucky",41449,1261741
+37,"Winchester City County,Virginia","Gallatin County,Kentucky",27638,783055
+38,"Winchester City County,Virginia","Garrard County,Kentucky",28198,785759
+39,"Winchester City County,Virginia","Grant County,Kentucky",27705,783529
+40,"Winchester City County,Virginia","Graves County,Kentucky",40070,1213483
+41,"Winchester City County,Virginia","Grayson County,Kentucky",32312,932428
+42,"Winchester City County,Virginia","Green County,Kentucky",32091,897633
+43,"Winchester City County,Virginia","Greenup County,Kentucky",21884,607745
+44,"Winchester City County,Virginia","Hancock County,Kentucky",34115,986687
+45,"Winchester City County,Virginia","Hardin County,Kentucky",31188,894560
+46,"Winchester City County,Virginia","Harlan County,Kentucky",23857,648277
+47,"Winchester City County,Virginia","Harrison County,Kentucky",26918,751811
+48,"Winchester City County,Virginia","Hart County,Kentucky",31987,922189
+49,"Winchester City County,Virginia","Henderson County,Kentucky",36814,1074664
+50,"Winchester City County,Virginia","Henry County,Kentucky",29232,831240
+51,"Winchester City County,Virginia","Hickman County,Kentucky",41078,1242069
+52,"Winchester City County,Virginia","Hopkins County,Kentucky",36335,1056205
+53,"Winchester City County,Virginia","Jackson County,Kentucky",29098,782618
+54,"Winchester City County,Virginia","Jefferson County,Kentucky",29326,846774
+55,"Winchester City County,Virginia","Jessamine County,Kentucky",27062,760069
+56,"Winchester City County,Virginia","Johnson County,Kentucky",22890,639514
+57,"Winchester City County,Virginia","Kenton County,Kentucky",26498,742434
+58,"Winchester City County,Virginia","Knott County,Kentucky",23947,650164
+59,"Winchester City County,Virginia","Knox County,Kentucky",26113,713643
+60,"Winchester City County,Virginia","Larue County,Kentucky",31259,881736
+61,"Winchester City County,Virginia","Laurel County,Kentucky",28007,748470
+62,"Winchester City County,Virginia","Lawrence County,Kentucky",22032,610938
+63,"Winchester City County,Virginia","Lee County,Kentucky",27270,728346
+64,"Winchester City County,Virginia","Leslie County,Kentucky",25320,676556
+65,"Winchester City County,Virginia","Letcher County,Kentucky",22348,613710
+66,"Winchester City County,Virginia","Lewis County,Kentucky",23312,648533
+67,"Winchester City County,Virginia","Lincoln County,Kentucky",28908,802677
+68,"Winchester City County,Virginia","Livingston County,Kentucky",38919,1179347
+69,"Winchester City County,Virginia","Logan County,Kentucky",35754,1031148
+70,"Winchester City County,Virginia","Lyon County,Kentucky",38676,1156522
+71,"Winchester City County,Virginia","McCracken County,Kentucky",39200,1193468
+72,"Winchester City County,Virginia","McCreary County,Kentucky",27737,806404
+73,"Winchester City County,Virginia","Madison County,Kentucky",26591,749629
+74,"Winchester City County,Virginia","Magoffin County,Kentucky",23858,660194
+75,"Winchester City County,Virginia","Marion County,Kentucky",29637,843345
+76,"Winchester City County,Virginia","Marshall County,Kentucky",38615,1177040
+77,"Winchester City County,Virginia","Martin County,Kentucky",23275,624679
+78,"Winchester City County,Virginia","Mason County,Kentucky",25107,692340
+79,"Winchester City County,Virginia","Meade County,Kentucky",31786,919089
+80,"Winchester City County,Virginia","Menifee County,Kentucky",24550,684357
+81,"Winchester City County,Virginia","Mercer County,Kentucky",28014,799057
+82,"Winchester City County,Virginia","Metcalfe County,Kentucky",32642,928338
+83,"Winchester City County,Virginia","Monroe County,Kentucky",32171,920648
+84,"Winchester City County,Virginia","Montgomery County,Kentucky",24246,690834
+85,"Winchester City County,Virginia","Morgan County,Kentucky",24328,660073
+86,"Winchester City County,Virginia","Muhlenberg County,Kentucky",35195,1022681
+87,"Winchester City County,Virginia","Nelson County,Kentucky",29245,842417
+88,"Winchester City County,Virginia","Nicholas County,Kentucky",25924,718718
+89,"Winchester City County,Virginia","Ohio County,Kentucky",34108,990271
+90,"Winchester City County,Virginia","Oldham County,Kentucky",29397,858655
+91,"Winchester City County,Virginia","Owen County,Kentucky",28453,814299
+92,"Winchester City County,Virginia","Owsley County,Kentucky",28545,745288
+93,"Winchester City County,Virginia","Pendleton County,Kentucky",27696,753718
+94,"Winchester City County,Virginia","Perry County,Kentucky",24921,670587
+95,"Winchester City County,Virginia","Pike County,Kentucky",23471,589925
+96,"Winchester City County,Virginia","Powell County,Kentucky",25690,720580
+97,"Winchester City County,Virginia","Robertson County,Kentucky",25842,718224
+98,"Winchester City County,Virginia","Rockcastle County,Kentucky",28025,790771
+99,"Winchester City County,Virginia","Rowan County,Kentucky",22576,644501
+100,"Winchester City County,Virginia","Russell County,Kentucky",31591,882057
+101,"Winchester City County,Virginia","Scott County,Kentucky",26427,766632
+102,"Winchester City County,Virginia","Shelby County,Kentucky",28255,817909
+103,"Winchester City County,Virginia","Simpson County,Kentucky",34721,1007123
+104,"Winchester City County,Virginia","Spencer County,Kentucky",28784,823757
+105,"Winchester City County,Virginia","Taylor County,Kentucky",30927,874841
+106,"Winchester City County,Virginia","Todd County,Kentucky",35737,1071194
+107,"Winchester City County,Virginia","Trigg County,Kentucky",36229,1095607
+108,"Winchester City County,Virginia","Trimble County,Kentucky",29326,833966
+109,"Winchester City County,Virginia","Union County,Kentucky",38533,1105110
+110,"Winchester City County,Virginia","Warren County,Kentucky",34341,992036
+111,"Winchester City County,Virginia","Washington County,Kentucky",29255,827653
+112,"Winchester City County,Virginia","Wayne County,Kentucky",30241,853535
+113,"Winchester City County,Virginia","Webster County,Kentucky",37444,1084294
+114,"Winchester City County,Virginia","Whitley County,Kentucky",26341,791167
+115,"Winchester City County,Virginia","Wolfe County,Kentucky",25423,683435
+116,"Winchester City County,Virginia","Woodford County,Kentucky",26647,769268
+117,"Winchester City County,Virginia","Adams County,Ohio",22697,605723
+118,"Winchester City County,Virginia","Allen County,Ohio",25373,718490
+119,"Winchester City County,Virginia","Ashland County,Ohio",19922,545180
+120,"Winchester City County,Virginia","Ashtabula County,Ohio",17960,501092
+121,"Winchester City County,Virginia","Athens County,Ohio",17093,453233
+122,"Winchester City County,Virginia","Auglaize County,Ohio",25380,711525
+123,"Winchester City County,Virginia","Belmont County,Ohio",14001,368292
+124,"Winchester City County,Virginia","Brown County,Ohio",24122,638583
+125,"Winchester City County,Virginia","Butler County,Ohio",25850,706255
+126,"Winchester City County,Virginia","Carroll County,Ohio",16476,413313
+127,"Winchester City County,Virginia","Champaign County,Ohio",23123,626419
+128,"Winchester City County,Virginia","Clark County,Ohio",22001,616990
+129,"Winchester City County,Virginia","Clermont County,Ohio",24776,663747
+130,"Winchester City County,Virginia","Clinton County,Ohio",23392,652272
+131,"Winchester City County,Virginia","Columbiana County,Ohio",15262,395330
+132,"Winchester City County,Virginia","Coshocton County,Ohio",18358,493742
+133,"Winchester City County,Virginia","Crawford County,Ohio",21830,616374
+134,"Winchester City County,Virginia","Cuyahoga County,Ohio",17956,498936
+135,"Winchester City County,Virginia","Darke County,Ohio",25577,714892
+136,"Winchester City County,Virginia","Defiance County,Ohio",26274,747900
+137,"Winchester City County,Virginia","Delaware County,Ohio",21277,592739
+138,"Winchester City County,Virginia","Fairfield County,Ohio",19372,529524
+139,"Winchester City County,Virginia","Fayette County,Ohio",22029,614323
+140,"Winchester City County,Virginia","Franklin County,Ohio",19973,556625
+141,"Winchester City County,Virginia","Fulton County,Ohio",24627,704751
+142,"Winchester City County,Virginia","Gallia County,Ohio",18976,493109
+143,"Winchester City County,Virginia","Geauga County,Ohio",17449,473755
+144,"Winchester City County,Virginia","Greene County,Ohio",22777,642488
+145,"Winchester City County,Virginia","Guernsey County,Ohio",15904,431801
+146,"Winchester City County,Virginia","Hamilton County,Ohio",25351,716833
+147,"Winchester City County,Virginia","Hancock County,Ohio",23860,678455
+148,"Winchester City County,Virginia","Hardin County,Ohio",24277,663660
+149,"Winchester City County,Virginia","Harrison County,Ohio",15690,415531
+150,"Winchester City County,Virginia","Henry County,Ohio",25081,694518
+151,"Winchester City County,Virginia","Highland County,Ohio",23234,605736
+152,"Winchester City County,Virginia","Hocking County,Ohio",18719,499136
+153,"Winchester City County,Virginia","Holmes County,Ohio",19416,516626
+154,"Winchester City County,Virginia","Huron County,Ohio",21198,574785
+155,"Winchester City County,Virginia","Jackson County,Ohio",19221,516288
+156,"Winchester City County,Virginia","Jefferson County,Ohio",14432,376804
+157,"Winchester City County,Virginia","Knox County,Ohio",20146,536217
+158,"Winchester City County,Virginia","Lawrence County,Ohio",21248,571675
+159,"Winchester City County,Virginia","Licking County,Ohio",19532,517289
+160,"Winchester City County,Virginia","Logan County,Ohio",23298,657937
+161,"Winchester City County,Virginia","Lorain County,Ohio",19008,528656
+162,"Winchester City County,Virginia","Lucas County,Ohio",23581,657601
+163,"Winchester City County,Virginia","Madison County,Ohio",21250,591347
+164,"Winchester City County,Virginia","Mahoning County,Ohio",14446,391084
+165,"Winchester City County,Virginia","Marion County,Ohio",22683,618832
+166,"Winchester City County,Virginia","Medina County,Ohio",18554,512299
+167,"Winchester City County,Virginia","Meigs County,Ohio",17059,445811
+168,"Winchester City County,Virginia","Mercer County,Ohio",26616,738458
+169,"Winchester City County,Virginia","Miami County,Ohio",24088,680324
+170,"Winchester City County,Virginia","Monroe County,Ohio",16433,414975
+171,"Winchester City County,Virginia","Montgomery County,Ohio",24349,685771
+172,"Winchester City County,Virginia","Morgan County,Ohio",17536,455580
+173,"Winchester City County,Virginia","Morrow County,Ohio",21559,606633
+174,"Winchester City County,Virginia","Muskingum County,Ohio",16750,459792
+175,"Winchester City County,Virginia","Noble County,Ohio",17016,453107
+176,"Winchester City County,Virginia","Paulding County,Ohio",27480,783887
+177,"Winchester City County,Virginia","Perry County,Ohio",18849,507735
+178,"Winchester City County,Virginia","Pickaway County,Ohio",20750,574202
+179,"Winchester City County,Virginia","Pike County,Ohio",20667,555594
+180,"Winchester City County,Virginia","Portage County,Ohio",16301,447098
+181,"Winchester City County,Virginia","Preble County,Ohio",25119,708482
+182,"Winchester City County,Virginia","Putnam County,Ohio",26059,738261
+183,"Winchester City County,Virginia","Richland County,Ohio",20478,566608
+184,"Winchester City County,Virginia","Ross County,Ohio",20947,564101
+185,"Winchester City County,Virginia","Sandusky County,Ohio",21869,616175
+186,"Winchester City County,Virginia","Scioto County,Ohio",21305,571665
+187,"Winchester City County,Virginia","Seneca County,Ohio",22600,625847
+188,"Winchester City County,Virginia","Shelby County,Ohio",25056,688185
+189,"Winchester City County,Virginia","Stark County,Ohio",17081,443231
+190,"Winchester City County,Virginia","Summit County,Ohio",17195,475692
+191,"Winchester City County,Virginia","Trumbull County,Ohio",15604,428548
+192,"Winchester City County,Virginia","Tuscarawas County,Ohio",17199,446814
+193,"Winchester City County,Virginia","Union County,Ohio",21802,608168
+194,"Winchester City County,Virginia","Van Wert County,Ohio",26170,748772
+195,"Winchester City County,Virginia","Vinton County,Ohio",19211,501674
+196,"Winchester City County,Virginia","Warren County,Ohio",23768,672802
+197,"Winchester City County,Virginia","Washington County,Ohio",15874,411043
+198,"Winchester City County,Virginia","Wayne County,Ohio",19659,531110
+199,"Winchester City County,Virginia","Williams County,Ohio",25872,736207
+200,"Winchester City County,Virginia","Wood County,Ohio",23766,664504
+201,"Winchester City County,Virginia","Wyandot County,Ohio",22830,642591
+202,"Winchester City County,Virginia","Accomack County,Virginia",17200,424906
+203,"Winchester City County,Virginia","Albemarle County,Virginia",7005,194276
+204,"Winchester City County,Virginia","Alleghany County,Virginia",9767,281284
+205,"Winchester City County,Virginia","Amelia County,Virginia",11481,279505
+206,"Winchester City County,Virginia","Amherst County,Virginia",9439,245182
+207,"Winchester City County,Virginia","Appomattox County,Virginia",10653,269811
+208,"Winchester City County,Virginia","Arlington County,Virginia",5027,113870
+209,"Winchester City County,Virginia","Augusta County,Virginia",6443,171529
+210,"Winchester City County,Virginia","Bath County,Virginia",9064,208194
+211,"Winchester City County,Virginia","Bedford County,Virginia",11583,289698
+212,"Winchester City County,Virginia","Bland County,Virginia",14049,410968
+213,"Winchester City County,Virginia","Botetourt County,Virginia",9074,252221
+214,"Winchester City County,Virginia","Brunswick County,Virginia",12784,330091
+215,"Winchester City County,Virginia","Buchanan County,Virginia",19806,545427
+216,"Winchester City County,Virginia","Buckingham County,Virginia",10314,259425
+217,"Winchester City County,Virginia","Campbell County,Virginia",10801,285315
+218,"Winchester City County,Virginia","Caroline County,Virginia",7781,180658
+219,"Winchester City County,Virginia","Carroll County,Virginia",14171,416384
+220,"Winchester City County,Virginia","Charles City County,Virginia",10251,252141
+221,"Winchester City County,Virginia","Charlotte County,Virginia",12635,318311
+222,"Winchester City County,Virginia","Chesterfield County,Virginia",10181,245059
+223,"Winchester City County,Virginia","Clarke County,Virginia",1353,21343
+224,"Winchester City County,Virginia","Craig County,Virginia",11915,308548
+225,"Winchester City County,Virginia","Culpeper County,Virginia",4846,103275
+226,"Winchester City County,Virginia","Cumberland County,Virginia",11048,284633
+227,"Winchester City County,Virginia","Dickenson County,Virginia",20515,563604
+228,"Winchester City County,Virginia","Dinwiddie County,Virginia",11421,290058
+229,"Winchester City County,Virginia","Essex County,Virginia",9182,204712
+230,"Winchester City County,Virginia","Fairfax County,Virginia",4450,100742
+231,"Winchester City County,Virginia","Fauquier County,Virginia",3276,70002
+232,"Winchester City County,Virginia","Floyd County,Virginia",12698,357931
+233,"Winchester City County,Virginia","Fluvanna County,Virginia",8663,188534
+234,"Winchester City County,Virginia","Franklin County,Virginia",12035,336376
+235,"Winchester City County,Virginia","Frederick County,Virginia",808,9787
+236,"Winchester City County,Virginia","Giles County,Virginia",12838,366083
+237,"Winchester City County,Virginia","Gloucester County,Virginia",12421,306330
+238,"Winchester City County,Virginia","Goochland County,Virginia",9269,205929
+239,"Winchester City County,Virginia","Grayson County,Virginia",15503,432564
+240,"Winchester City County,Virginia","Greene County,Virginia",6587,141350
+241,"Winchester City County,Virginia","Greensville County,Virginia",12838,338809
+242,"Winchester City County,Virginia","Halifax County,Virginia",14121,357021
+243,"Winchester City County,Virginia","Hanover County,Virginia",8599,210150
+244,"Winchester City County,Virginia","Henrico County,Virginia",9398,232811
+245,"Winchester City County,Virginia","Henry County,Virginia",13445,371338
+246,"Winchester City County,Virginia","Highland County,Virginia",9195,206084
+247,"Winchester City County,Virginia","Isle of Wight County,Virginia",13532,341401
+248,"Winchester City County,Virginia","James City County,Virginia",11487,292912
+249,"Winchester City County,Virginia","King and Queen County,Virginia",10234,239974
+250,"Winchester City County,Virginia","King George County,Virginia",7703,164155
+251,"Winchester City County,Virginia","King William County,Virginia",9199,217771
+252,"Winchester City County,Virginia","Lancaster County,Virginia",11605,260707
+253,"Winchester City County,Virginia","Lee County,Virginia",21010,595258
+254,"Winchester City County,Virginia","Loudoun County,Virginia",2849,57210
+255,"Winchester City County,Virginia","Louisa County,Virginia",7453,166650
+256,"Winchester City County,Virginia","Lunenburg County,Virginia",13897,337950
+257,"Winchester City County,Virginia","Madison County,Virginia",5465,110451
+258,"Winchester City County,Virginia","Mathews County,Virginia",13316,305094
+259,"Winchester City County,Virginia","Mecklenburg County,Virginia",14510,378363
+260,"Winchester City County,Virginia","Middlesex County,Virginia",11686,268675
+261,"Winchester City County,Virginia","Montgomery County,Virginia",11402,330354
+262,"Winchester City County,Virginia","Nelson County,Virginia",7885,212777
+263,"Winchester City County,Virginia","New Kent County,Virginia",10923,266826
+264,"Winchester City County,Virginia","Northampton County,Virginia",15904,409576
+265,"Winchester City County,Virginia","Northumberland County,Virginia",11645,259219
+266,"Winchester City County,Virginia","Nottoway County,Virginia",12292,304638
+267,"Winchester City County,Virginia","Orange County,Virginia",6187,137773
+268,"Winchester City County,Virginia","Page County,Virginia",4005,79152
+269,"Winchester City County,Virginia","Patrick County,Virginia",14817,394834
+270,"Winchester City County,Virginia","Pittsylvania County,Virginia",13370,356942
+271,"Winchester City County,Virginia","Powhatan County,Virginia",10284,255745
+272,"Winchester City County,Virginia","Prince Edward County,Virginia",11855,313249
+273,"Winchester City County,Virginia","Prince George County,Virginia",11067,280654
+274,"Winchester City County,Virginia","Prince William County,Virginia",3376,76105
+275,"Winchester City County,Virginia","Pulaski County,Virginia",12130,352987
+276,"Winchester City County,Virginia","Rappahannock County,Virginia",3783,74056
+277,"Winchester City County,Virginia","Richmond County,Virginia",10345,231862
+278,"Winchester City County,Virginia","Roanoke County,Virginia",10393,295293
+279,"Winchester City County,Virginia","Rockbridge County,Virginia",7816,218230
+280,"Winchester City County,Virginia","Rockingham County,Virginia",4420,105911
+281,"Winchester City County,Virginia","Russell County,Virginia",18972,528764
+282,"Winchester City County,Virginia","Scott County,Virginia",19583,555987
+283,"Winchester City County,Virginia","Shenandoah County,Virginia",2403,59866
+284,"Winchester City County,Virginia","Smyth County,Virginia",15166,439708
+285,"Winchester City County,Virginia","Southampton County,Virginia",13215,334923
+286,"Winchester City County,Virginia","Spotsylvania County,Virginia",6893,145142
+287,"Winchester City County,Virginia","Stafford County,Virginia",5895,134007
+288,"Winchester City County,Virginia","Surry County,Virginia",12179,302349
+289,"Winchester City County,Virginia","Sussex County,Virginia",11879,305166
+290,"Winchester City County,Virginia","Tazewell County,Virginia",16627,479785
+291,"Winchester City County,Virginia","Warren County,Virginia",2326,45414
+292,"Winchester City County,Virginia","Washington County,Virginia",16559,479175
+293,"Winchester City County,Virginia","Westmoreland County,Virginia",8671,182956
+294,"Winchester City County,Virginia","Wise County,Virginia",20423,570106
+295,"Winchester City County,Virginia","Wythe County,Virginia",13420,391693
+296,"Winchester City County,Virginia","York County,Virginia",12774,323687
+297,"Winchester City County,Virginia","Alexandria City County,Virginia",5362,131175
+298,"Winchester City County,Virginia","Bedford City County,Virginia",10609,281038
+299,"Winchester City County,Virginia","Bristol City County,Virginia",17034,504892
+300,"Winchester City County,Virginia","Buena Vista City County,Virginia",7475,211496
+301,"Winchester City County,Virginia","Charlottesville City County,Virginia",7474,209491
+302,"Winchester City County,Virginia","Chesapeake City County,Virginia",14237,376592
+303,"Winchester City County,Virginia","Clifton Forge City County,Virginia",8669,250102
+304,"Winchester City County,Virginia","Colonial Heights City County,Virginia",10234,255519
+305,"Winchester City County,Virginia","Covington City County,Virginia",9412,268444
+306,"Winchester City County,Virginia","Danville City County,Virginia",13970,373285
+307,"Winchester City County,Virginia","Emporia City County,Virginia",12545,325403
+308,"Winchester City County,Virginia","Fairfax City County,Virginia",4508,101853
+309,"Winchester City County,Virginia","Falls Church City County,Virginia",4525,108194
+310,"Winchester City County,Virginia","Franklin City County,Virginia",13763,342778
+311,"Winchester City County,Virginia","Fredericksburg City County,Virginia",6215,130849
+312,"Winchester City County,Virginia","Galax City County,Virginia",14794,422250
+313,"Winchester City County,Virginia","Hampton City County,Virginia",12724,333393
+314,"Winchester City County,Virginia","Harrisonburg City County,Virginia",4209,111756
+315,"Winchester City County,Virginia","Hopewell City County,Virginia",9998,255556
+316,"Winchester City County,Virginia","Lexington City County,Virginia",7334,208474
+317,"Winchester City County,Virginia","Lynchburg City County,Virginia",9987,265238
+318,"Winchester City County,Virginia","Manassas City County,Virginia",3603,81050
+319,"Winchester City County,Virginia","Manassas Park City County,Virginia",4105,87393
+320,"Winchester City County,Virginia","Martinsville City County,Virginia",13598,366440
+321,"Winchester City County,Virginia","Newport News City County,Virginia",12281,319879
+322,"Winchester City County,Virginia","Norfolk City County,Virginia",14031,358809
+323,"Winchester City County,Virginia","Norton City County,Virginia",19947,560997
+324,"Winchester City County,Virginia","Petersburg City County,Virginia",10106,256506
+325,"Winchester City County,Virginia","Poquoson City County,Virginia",12953,330455
+326,"Winchester City County,Virginia","Portsmouth City County,Virginia",13970,367630
+327,"Winchester City County,Virginia","Radford County,Virginia",11766,340198
+328,"Winchester City County,Virginia","Richmond City County,Virginia",8974,220622
+329,"Winchester City County,Virginia","Roanoke City County,Virginia",9931,286735
+330,"Winchester City County,Virginia","Salem City County,Virginia",9761,285206
+331,"Winchester City County,Virginia","South Boston City County,Virginia",14124,355840
+332,"Winchester City County,Virginia","Staunton City County,Virginia",5696,153730
+333,"Winchester City County,Virginia","Suffolk City County,Virginia",14375,356125
+334,"Winchester City County,Virginia","Virginia Beach City County,Virginia",14592,382067
+335,"Winchester City County,Virginia","Waynesboro City County,Virginia",6093,163580
+336,"Winchester City County,Virginia","Williamsburg City County,Virginia",11325,292128
+337,"Winchester City County,Virginia","Barbour County,West Virginia",9882,221053
+338,"Winchester City County,Virginia","Berkeley County,West Virginia",2537,52865
+339,"Winchester City County,Virginia","Boone County,West Virginia",18126,480990
+340,"Winchester City County,Virginia","Braxton County,West Virginia",14531,364592
+341,"Winchester City County,Virginia","Brooke County,West Virginia",13208,331192
+342,"Winchester City County,Virginia","Cabell County,West Virginia",19565,544879
+343,"Winchester City County,Virginia","Calhoun County,West Virginia",15854,399259
+344,"Winchester City County,Virginia","Clay County,West Virginia",16217,429616
+345,"Winchester City County,Virginia","Doddridge County,West Virginia",12603,318511
+346,"Winchester City County,Virginia","Fayette County,West Virginia",15248,399187
+347,"Winchester City County,Virginia","Gilmer County,West Virginia",14335,363950
+348,"Winchester City County,Virginia","Grant County,West Virginia",5226,124149
+349,"Winchester City County,Virginia","Greenbrier County,West Virginia",13604,358412
+350,"Winchester City County,Virginia","Hampshire County,West Virginia",2637,55520
+351,"Winchester City County,Virginia","Hancock County,West Virginia",14446,368224
+352,"Winchester City County,Virginia","Hardy County,West Virginia",4474,95479
+353,"Winchester City County,Virginia","Harrison County,West Virginia",11040,280139
+354,"Winchester City County,Virginia","Jackson County,West Virginia",16995,453059
+355,"Winchester City County,Virginia","Jefferson County,West Virginia",2473,39827
+356,"Winchester City County,Virginia","Kanawha County,West Virginia",16776,478688
+357,"Winchester City County,Virginia","Lewis County,West Virginia",12236,313580
+358,"Winchester City County,Virginia","Lincoln County,West Virginia",20229,522557
+359,"Winchester City County,Virginia","Logan County,West Virginia",19917,511479
+360,"Winchester City County,Virginia","McDowell County,West Virginia",18296,485930
+361,"Winchester City County,Virginia","Marion County,West Virginia",10526,254052
+362,"Winchester City County,Virginia","Marshall County,West Virginia",14195,325636
+363,"Winchester City County,Virginia","Mason County,West Virginia",18759,497113
+364,"Winchester City County,Virginia","Mercer County,West Virginia",15011,422260
+365,"Winchester City County,Virginia","Mineral County,West Virginia",5316,87053
+366,"Winchester City County,Virginia","Mingo County,West Virginia",20496,575414
+367,"Winchester City County,Virginia","Monongalia County,West Virginia",8349,205792
+368,"Winchester City County,Virginia","Monroe County,West Virginia",12538,344734
+369,"Winchester City County,Virginia","Morgan County,West Virginia",2358,47570
+370,"Winchester City County,Virginia","Nicholas County,West Virginia",15443,411837
+371,"Winchester City County,Virginia","Ohio County,West Virginia",13115,340138
+372,"Winchester City County,Virginia","Pendleton County,West Virginia",6983,147374
+373,"Winchester City County,Virginia","Pleasants County,West Virginia",13838,356280
+374,"Winchester City County,Virginia","Pocahontas County,West Virginia",12248,257827
+375,"Winchester City County,Virginia","Preston County,West Virginia",9345,211831
+376,"Winchester City County,Virginia","Putnam County,West Virginia",17822,496404
+377,"Winchester City County,Virginia","Raleigh County,West Virginia",13801,403870
+378,"Winchester City County,Virginia","Randolph County,West Virginia",10911,247338
+379,"Winchester City County,Virginia","Ritchie County,West Virginia",13749,350581
+380,"Winchester City County,Virginia","Roane County,West Virginia",18275,433295
+381,"Winchester City County,Virginia","Summers County,West Virginia",14522,383747
+382,"Winchester City County,Virginia","Taylor County,West Virginia",9749,220421
+383,"Winchester City County,Virginia","Tucker County,West Virginia",7886,185796
+384,"Winchester City County,Virginia","Tyler County,West Virginia",14765,348946
+385,"Winchester City County,Virginia","Upshur County,West Virginia",11959,268915
+386,"Winchester City County,Virginia","Wayne County,West Virginia",21156,577506
+387,"Winchester City County,Virginia","Webster County,West Virginia",15057,321388
+388,"Winchester City County,Virginia","Wetzel County,West Virginia",13682,316176
+389,"Winchester City County,Virginia","Wirt County,West Virginia",16095,396112
+390,"Winchester City County,Virginia","Wood County,West Virginia",14619,381542
+391,"Winchester City County,Virginia","Wyoming County,West Virginia",15752,443843

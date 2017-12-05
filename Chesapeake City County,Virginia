@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Chesapeake City County,Virginia","Adair County,Kentucky",38298,1053666
+1,"Chesapeake City County,Virginia","Allen County,Kentucky",39694,1173476
+2,"Chesapeake City County,Virginia","Anderson County,Kentucky",33926,1016451
+3,"Chesapeake City County,Virginia","Ballard County,Kentucky",46599,1408731
+4,"Chesapeake City County,Virginia","Barren County,Kentucky",39484,1132421
+5,"Chesapeake City County,Virginia","Bath County,Kentucky",29573,887632
+6,"Chesapeake City County,Virginia","Bell County,Kentucky",30793,854972
+7,"Chesapeake City County,Virginia","Boone County,Kentucky",35386,1009026
+8,"Chesapeake City County,Virginia","Bourbon County,Kentucky",31487,934050
+9,"Chesapeake City County,Virginia","Boyd County,Kentucky",26249,781957
+10,"Chesapeake City County,Virginia","Boyle County,Kentucky",35155,1020338
+11,"Chesapeake City County,Virginia","Bracken County,Kentucky",31898,928133
+12,"Chesapeake City County,Virginia","Breathitt County,Kentucky",32418,890736
+13,"Chesapeake City County,Virginia","Breckinridge County,Kentucky",39459,1169132
+14,"Chesapeake City County,Virginia","Bullitt County,Kentucky",36029,1090252
+15,"Chesapeake City County,Virginia","Butler County,Kentucky",40124,1191130
+16,"Chesapeake City County,Virginia","Caldwell County,Kentucky",43016,1297075
+17,"Chesapeake City County,Virginia","Calloway County,Kentucky",44439,1340590
+18,"Chesapeake City County,Virginia","Campbell County,Kentucky",33598,968004
+19,"Chesapeake City County,Virginia","Carlisle County,Kentucky",47056,1424099
+20,"Chesapeake City County,Virginia","Carroll County,Kentucky",36470,1064266
+21,"Chesapeake City County,Virginia","Carter County,Kentucky",27413,812054
+22,"Chesapeake City County,Virginia","Casey County,Kentucky",36649,1051843
+23,"Chesapeake City County,Virginia","Christian County,Kentucky",41332,1261570
+24,"Chesapeake City County,Virginia","Clay County,Kentucky",33366,915315
+25,"Chesapeake City County,Virginia","Clinton County,Kentucky",36741,1052881
+26,"Chesapeake City County,Virginia","Crittenden County,Kentucky",44596,1330146
+27,"Chesapeake City County,Virginia","Cumberland County,Kentucky",37621,1073549
+28,"Chesapeake City County,Virginia","Daviess County,Kentucky",41147,1237573
+29,"Chesapeake City County,Virginia","Edmonson County,Kentucky",39564,1179005
+30,"Chesapeake City County,Virginia","Elliott County,Kentucky",28744,837824
+31,"Chesapeake City County,Virginia","Estill County,Kentucky",32566,949948
+32,"Chesapeake City County,Virginia","Fayette County,Kentucky",31733,953944
+33,"Chesapeake City County,Virginia","Fleming County,Kentucky",29999,890818
+34,"Chesapeake City County,Virginia","Floyd County,Kentucky",30382,889222
+35,"Chesapeake City County,Virginia","Franklin County,Kentucky",33771,1002860
+36,"Chesapeake City County,Virginia","Fulton County,Kentucky",47460,1445063
+37,"Chesapeake City County,Virginia","Gallatin County,Kentucky",35468,1054924
+38,"Chesapeake City County,Virginia","Garrard County,Kentucky",34338,1001098
+39,"Chesapeake City County,Virginia","Grant County,Kentucky",34267,1029032
+40,"Chesapeake City County,Virginia","Graves County,Kentucky",46080,1396805
+41,"Chesapeake City County,Virginia","Grayson County,Kentucky",38451,1147766
+42,"Chesapeake City County,Virginia","Green County,Kentucky",38231,1112971
+43,"Chesapeake City County,Virginia","Greenup County,Kentucky",28024,823083
+44,"Chesapeake City County,Virginia","Hancock County,Kentucky",40255,1202026
+45,"Chesapeake City County,Virginia","Hardin County,Kentucky",37328,1109899
+46,"Chesapeake City County,Virginia","Harlan County,Kentucky",29868,831599
+47,"Chesapeake City County,Virginia","Harrison County,Kentucky",33058,967149
+48,"Chesapeake City County,Virginia","Hart County,Kentucky",38127,1137527
+49,"Chesapeake City County,Virginia","Henderson County,Kentucky",42954,1290002
+50,"Chesapeake City County,Virginia","Henry County,Kentucky",35372,1046579
+51,"Chesapeake City County,Virginia","Hickman County,Kentucky",47089,1425391
+52,"Chesapeake City County,Virginia","Hopkins County,Kentucky",42475,1271544
+53,"Chesapeake City County,Virginia","Jackson County,Kentucky",35238,951733
+54,"Chesapeake City County,Virginia","Jefferson County,Kentucky",35466,1062112
+55,"Chesapeake City County,Virginia","Jessamine County,Kentucky",33202,975408
+56,"Chesapeake City County,Virginia","Johnson County,Kentucky",29030,854853
+57,"Chesapeake City County,Virginia","Kenton County,Kentucky",34755,996720
+58,"Chesapeake City County,Virginia","Knott County,Kentucky",29958,833486
+59,"Chesapeake City County,Virginia","Knox County,Kentucky",32123,896965
+60,"Chesapeake City County,Virginia","Larue County,Kentucky",37399,1097075
+61,"Chesapeake City County,Virginia","Laurel County,Kentucky",34018,931792
+62,"Chesapeake City County,Virginia","Lawrence County,Kentucky",28172,826277
+63,"Chesapeake City County,Virginia","Lee County,Kentucky",33410,943684
+64,"Chesapeake City County,Virginia","Leslie County,Kentucky",31330,859878
+65,"Chesapeake City County,Virginia","Letcher County,Kentucky",28358,797033
+66,"Chesapeake City County,Virginia","Lewis County,Kentucky",29452,863872
+67,"Chesapeake City County,Virginia","Lincoln County,Kentucky",35048,1018016
+68,"Chesapeake City County,Virginia","Livingston County,Kentucky",44930,1362669
+69,"Chesapeake City County,Virginia","Logan County,Kentucky",41764,1214470
+70,"Chesapeake City County,Virginia","Lyon County,Kentucky",44686,1339844
+71,"Chesapeake City County,Virginia","McCracken County,Kentucky",45211,1376791
+72,"Chesapeake City County,Virginia","McCreary County,Kentucky",33748,989726
+73,"Chesapeake City County,Virginia","Madison County,Kentucky",32731,964967
+74,"Chesapeake City County,Virginia","Magoffin County,Kentucky",29998,875532
+75,"Chesapeake City County,Virginia","Marion County,Kentucky",35777,1058684
+76,"Chesapeake City County,Virginia","Marshall County,Kentucky",44625,1360362
+77,"Chesapeake City County,Virginia","Martin County,Kentucky",29286,808001
+78,"Chesapeake City County,Virginia","Mason County,Kentucky",31247,907678
+79,"Chesapeake City County,Virginia","Meade County,Kentucky",37926,1134427
+80,"Chesapeake City County,Virginia","Menifee County,Kentucky",30689,899696
+81,"Chesapeake City County,Virginia","Mercer County,Kentucky",34154,1014395
+82,"Chesapeake City County,Virginia","Metcalfe County,Kentucky",38954,1083931
+83,"Chesapeake City County,Virginia","Monroe County,Kentucky",38182,1103970
+84,"Chesapeake City County,Virginia","Montgomery County,Kentucky",30386,906173
+85,"Chesapeake City County,Virginia","Morgan County,Kentucky",30468,875412
+86,"Chesapeake City County,Virginia","Muhlenberg County,Kentucky",41335,1238020
+87,"Chesapeake City County,Virginia","Nelson County,Kentucky",35385,1057755
+88,"Chesapeake City County,Virginia","Nicholas County,Kentucky",32064,934056
+89,"Chesapeake City County,Virginia","Ohio County,Kentucky",40248,1205609
+90,"Chesapeake City County,Virginia","Oldham County,Kentucky",35537,1073994
+91,"Chesapeake City County,Virginia","Owen County,Kentucky",34592,1029638
+92,"Chesapeake City County,Virginia","Owsley County,Kentucky",34555,928610
+93,"Chesapeake City County,Virginia","Pendleton County,Kentucky",33836,969057
+94,"Chesapeake City County,Virginia","Perry County,Kentucky",30932,853909
+95,"Chesapeake City County,Virginia","Pike County,Kentucky",29482,773247
+96,"Chesapeake City County,Virginia","Powell County,Kentucky",31830,935919
+97,"Chesapeake City County,Virginia","Robertson County,Kentucky",31982,933562
+98,"Chesapeake City County,Virginia","Rockcastle County,Kentucky",34165,1006110
+99,"Chesapeake City County,Virginia","Rowan County,Kentucky",28716,859840
+100,"Chesapeake City County,Virginia","Russell County,Kentucky",37903,1037650
+101,"Chesapeake City County,Virginia","Scott County,Kentucky",32567,981971
+102,"Chesapeake City County,Virginia","Shelby County,Kentucky",34394,1033247
+103,"Chesapeake City County,Virginia","Simpson County,Kentucky",40731,1190446
+104,"Chesapeake City County,Virginia","Spencer County,Kentucky",34924,1039095
+105,"Chesapeake City County,Virginia","Taylor County,Kentucky",37067,1090180
+106,"Chesapeake City County,Virginia","Todd County,Kentucky",41748,1254516
+107,"Chesapeake City County,Virginia","Trigg County,Kentucky",42239,1278929
+108,"Chesapeake City County,Virginia","Trimble County,Kentucky",36611,1080034
+109,"Chesapeake City County,Virginia","Union County,Kentucky",44673,1320449
+110,"Chesapeake City County,Virginia","Warren County,Kentucky",40480,1207374
+111,"Chesapeake City County,Virginia","Washington County,Kentucky",35395,1042992
+112,"Chesapeake City County,Virginia","Wayne County,Kentucky",36252,1036857
+113,"Chesapeake City County,Virginia","Webster County,Kentucky",43584,1299632
+114,"Chesapeake City County,Virginia","Whitley County,Kentucky",32352,974489
+115,"Chesapeake City County,Virginia","Wolfe County,Kentucky",31562,898774
+116,"Chesapeake City County,Virginia","Woodford County,Kentucky",32787,984607
+117,"Chesapeake City County,Virginia","Adams County,Ohio",31339,910235
+118,"Chesapeake City County,Virginia","Allen County,Ohio",38072,1085652
+119,"Chesapeake City County,Virginia","Ashland County,Ohio",32784,952611
+120,"Chesapeake City County,Virginia","Ashtabula County,Ohio",30823,908524
+121,"Chesapeake City County,Virginia","Athens County,Ohio",27748,815834
+122,"Chesapeake City County,Virginia","Auglaize County,Ohio",37321,1102352
+123,"Chesapeake City County,Virginia","Belmont County,Ohio",27393,804819
+124,"Chesapeake City County,Virginia","Brown County,Ohio",32584,937162
+125,"Chesapeake City County,Virginia","Butler County,Ohio",35697,1019188
+126,"Chesapeake City County,Virginia","Carroll County,Ohio",29339,820745
+127,"Chesapeake City County,Virginia","Champaign County,Ohio",34625,1004449
+128,"Chesapeake City County,Virginia","Clark County,Ohio",33304,963994
+129,"Chesapeake City County,Virginia","Clermont County,Ohio",33418,968259
+130,"Chesapeake City County,Virginia","Clinton County,Ohio",32809,951675
+131,"Chesapeake City County,Virginia","Columbiana County,Ohio",28125,802762
+132,"Chesapeake City County,Virginia","Coshocton County,Ohio",31750,930269
+133,"Chesapeake City County,Virginia","Crawford County,Ohio",34693,1023806
+134,"Chesapeake City County,Virginia","Cuyahoga County,Ohio",30819,906368
+135,"Chesapeake City County,Virginia","Darke County,Ohio",36419,1059399
+136,"Chesapeake City County,Virginia","Defiance County,Ohio",39137,1155331
+137,"Chesapeake City County,Virginia","Delaware County,Ohio",33577,983441
+138,"Chesapeake City County,Virginia","Fairfield County,Ohio",31108,910535
+139,"Chesapeake City County,Virginia","Fayette County,Ohio",31372,922139
+140,"Chesapeake City County,Virginia","Franklin County,Ohio",32108,940390
+141,"Chesapeake City County,Virginia","Fulton County,Ohio",37489,1112182
+142,"Chesapeake City County,Virginia","Gallia County,Ohio",26686,781251
+143,"Chesapeake City County,Virginia","Geauga County,Ohio",30312,881187
+144,"Chesapeake City County,Virginia","Greene County,Ohio",32243,955291
+145,"Chesapeake City County,Virginia","Guernsey County,Ohio",29296,868328
+146,"Chesapeake City County,Virginia","Hamilton County,Ohio",35198,1029766
+147,"Chesapeake City County,Virginia","Hancock County,Ohio",36723,1085887
+148,"Chesapeake City County,Virginia","Hardin County,Ohio",36582,1041482
+149,"Chesapeake City County,Virginia","Harrison County,Ohio",28552,822963
+150,"Chesapeake City County,Virginia","Henry County,Ohio",37944,1101949
+151,"Chesapeake City County,Virginia","Highland County,Ohio",31876,910248
+152,"Chesapeake City County,Virginia","Hocking County,Ohio",29550,866498
+153,"Chesapeake City County,Virginia","Holmes County,Ohio",32492,905039
+154,"Chesapeake City County,Virginia","Huron County,Ohio",34061,982217
+155,"Chesapeake City County,Virginia","Jackson County,Ohio",27863,820800
+156,"Chesapeake City County,Virginia","Jefferson County,Ohio",27295,784236
+157,"Chesapeake City County,Virginia","Knox County,Ohio",33538,972745
+158,"Chesapeake City County,Virginia","Lawrence County,Ohio",27388,787013
+159,"Chesapeake City County,Virginia","Licking County,Ohio",32924,953816
+160,"Chesapeake City County,Virginia","Logan County,Ohio",35603,1035759
+161,"Chesapeake City County,Virginia","Lorain County,Ohio",31870,936088
+162,"Chesapeake City County,Virginia","Lucas County,Ohio",36444,1065032
+163,"Chesapeake City County,Virginia","Madison County,Ohio",33074,945224
+164,"Chesapeake City County,Virginia","Mahoning County,Ohio",27309,798516
+165,"Chesapeake City County,Virginia","Marion County,Ohio",34983,1009534
+166,"Chesapeake City County,Virginia","Medina County,Ohio",31417,919731
+167,"Chesapeake City County,Virginia","Meigs County,Ohio",26628,786805
+168,"Chesapeake City County,Virginia","Mercer County,Ohio",38557,1129286
+169,"Chesapeake City County,Virginia","Miami County,Ohio",34908,1024791
+170,"Chesapeake City County,Virginia","Monroe County,Ohio",29826,851502
+171,"Chesapeake City County,Virginia","Montgomery County,Ohio",34277,1002747
+172,"Chesapeake City County,Virginia","Morgan County,Ohio",29623,871127
+173,"Chesapeake City County,Virginia","Morrow County,Ohio",34385,1006262
+174,"Chesapeake City County,Virginia","Muskingum County,Ohio",30142,896320
+175,"Chesapeake City County,Virginia","Noble County,Ohio",29124,867639
+176,"Chesapeake City County,Virginia","Paulding County,Ohio",40342,1191319
+177,"Chesapeake City County,Virginia","Perry County,Ohio",30965,881254
+178,"Chesapeake City County,Virginia","Pickaway County,Ohio",30813,902238
+179,"Chesapeake City County,Virginia","Pike County,Ohio",29309,860107
+180,"Chesapeake City County,Virginia","Portage County,Ohio",29164,854529
+181,"Chesapeake City County,Virginia","Preble County,Ohio",35896,1031325
+182,"Chesapeake City County,Virginia","Putnam County,Ohio",38922,1145693
+183,"Chesapeake City County,Virginia","Richland County,Ohio",33341,974040
+184,"Chesapeake City County,Virginia","Ross County,Ohio",29557,868544
+185,"Chesapeake City County,Virginia","Sandusky County,Ohio",34732,1023607
+186,"Chesapeake City County,Virginia","Scioto County,Ohio",29193,844287
+187,"Chesapeake City County,Virginia","Seneca County,Ohio",35462,1033279
+188,"Chesapeake City County,Virginia","Shelby County,Ohio",35946,1061077
+189,"Chesapeake City County,Virginia","Stark County,Ohio",29943,850662
+190,"Chesapeake City County,Virginia","Summit County,Ohio",30058,883124
+191,"Chesapeake City County,Virginia","Trumbull County,Ohio",28467,835980
+192,"Chesapeake City County,Virginia","Tuscarawas County,Ohio",30061,854246
+193,"Chesapeake City County,Virginia","Union County,Ohio",34107,985990
+194,"Chesapeake City County,Virginia","Van Wert County,Ohio",39033,1156204
+195,"Chesapeake City County,Virginia","Vinton County,Ohio",29759,846305
+196,"Chesapeake City County,Virginia","Warren County,Ohio",33614,985734
+197,"Chesapeake City County,Virginia","Washington County,Ohio",27982,825576
+198,"Chesapeake City County,Virginia","Wayne County,Ohio",32522,938542
+199,"Chesapeake City County,Virginia","Williams County,Ohio",38735,1143639
+200,"Chesapeake City County,Virginia","Wood County,Ohio",36629,1071935
+201,"Chesapeake City County,Virginia","Wyandot County,Ohio",35693,1050022
+202,"Chesapeake City County,Virginia","Accomack County,Virginia",5998,135221
+203,"Chesapeake City County,Virginia","Albemarle County,Virginia",10268,295666
+204,"Chesapeake City County,Virginia","Alleghany County,Virginia",15778,464606
+205,"Chesapeake City County,Virginia","Amelia County,Virginia",8590,191963
+206,"Chesapeake City County,Virginia","Amherst County,Virginia",13061,365412
+207,"Chesapeake City County,Virginia","Appomattox County,Virginia",11473,284072
+208,"Chesapeake City County,Virginia","Arlington County,Virginia",11311,327009
+209,"Chesapeake City County,Virginia","Augusta County,Virginia",12521,358300
+210,"Chesapeake City County,Virginia","Bath County,Virginia",15496,423959
+211,"Chesapeake City County,Virginia","Bedford County,Virginia",14446,349928
+212,"Chesapeake City County,Virginia","Bland County,Virginia",20060,594290
+213,"Chesapeake City County,Virginia","Botetourt County,Virginia",15085,435543
+214,"Chesapeake City County,Virginia","Brunswick County,Virginia",6209,158642
+215,"Chesapeake City County,Virginia","Buchanan County,Virginia",25816,728749
+216,"Chesapeake City County,Virginia","Buckingham County,Virginia",11065,266152
+217,"Chesapeake City County,Virginia","Campbell County,Virginia",12892,313243
+218,"Chesapeake City County,Virginia","Caroline County,Virginia",8052,216273
+219,"Chesapeake City County,Virginia","Carroll County,Virginia",18620,516563
+220,"Chesapeake City County,Virginia","Charles City County,Virginia",5852,150102
+221,"Chesapeake City County,Virginia","Charlotte County,Virginia",10841,257389
+222,"Chesapeake City County,Virginia","Chesterfield County,Virginia",7137,168044
+223,"Chesapeake City County,Virginia","Clarke County,Virginia",13992,369485
+224,"Chesapeake City County,Virginia","Craig County,Virginia",17926,491870
+225,"Chesapeake City County,Virginia","Culpeper County,Virginia",11291,300213
+226,"Chesapeake City County,Virginia","Cumberland County,Virginia",9498,231104
+227,"Chesapeake City County,Virginia","Dickenson County,Virginia",26526,746927
+228,"Chesapeake City County,Virginia","Dinwiddie County,Virginia",6750,158789
+229,"Chesapeake City County,Virginia","Essex County,Virginia",8232,183195
+230,"Chesapeake City County,Virginia","Fairfax County,Virginia",11609,330239
+231,"Chesapeake City County,Virginia","Fauquier County,Virginia",11305,310251
+232,"Chesapeake City County,Virginia","Floyd County,Virginia",18540,450393
+233,"Chesapeake City County,Virginia","Fluvanna County,Virginia",9469,259237
+234,"Chesapeake City County,Virginia","Franklin County,Virginia",15895,379875
+235,"Chesapeake City County,Virginia","Frederick County,Virginia",14547,402547
+236,"Chesapeake City County,Virginia","Giles County,Virginia",18849,549406
+237,"Chesapeake City County,Virginia","Gloucester County,Virginia",4773,99136
+238,"Chesapeake City County,Virginia","Goochland County,Virginia",8199,228524
+239,"Chesapeake City County,Virginia","Grayson County,Virginia",20751,553107
+240,"Chesapeake City County,Virginia","Greene County,Virginia",11988,313701
+241,"Chesapeake City County,Virginia","Greensville County,Virginia",5711,146307
+242,"Chesapeake City County,Virginia","Halifax County,Virginia",10727,267813
+243,"Chesapeake City County,Virginia","Hanover County,Virginia",6271,172102
+244,"Chesapeake City County,Virginia","Henrico County,Virginia",5872,159491
+245,"Chesapeake City County,Virginia","Henry County,Virginia",15086,381764
+246,"Chesapeake City County,Virginia","Highland County,Virginia",15724,416039
+247,"Chesapeake City County,Virginia","Isle of Wight County,Virginia",2782,59802
+248,"Chesapeake City County,Virginia","James City County,Virginia",4518,103523
+249,"Chesapeake City County,Virginia","King and Queen County,Virginia",6466,159620
+250,"Chesapeake City County,Virginia","King George County,Virginia",9154,252354
+251,"Chesapeake City County,Virginia","King William County,Virginia",6822,166472
+252,"Chesapeake City County,Virginia","Lancaster County,Virginia",8000,160732
+253,"Chesapeake City County,Virginia","Lee County,Virginia",27021,778580
+254,"Chesapeake City County,Virginia","Loudoun County,Virginia",13575,383483
+255,"Chesapeake City County,Virginia","Louisa County,Virginia",8966,252112
+256,"Chesapeake City County,Virginia","Lunenburg County,Virginia",8980,210952
+257,"Chesapeake City County,Virginia","Madison County,Virginia",11902,313732
+258,"Chesapeake City County,Virginia","Mathews County,Virginia",5933,127536
+259,"Chesapeake City County,Virginia","Mecklenburg County,Virginia",8844,217195
+260,"Chesapeake City County,Virginia","Middlesex County,Virginia",6079,130833
+261,"Chesapeake City County,Virginia","Montgomery County,Virginia",17413,513676
+262,"Chesapeake City County,Virginia","Nelson County,Virginia",11507,333006
+263,"Chesapeake City County,Virginia","New Kent County,Virginia",5340,126596
+264,"Chesapeake City County,Virginia","Northampton County,Virginia",3241,71035
+265,"Chesapeake City County,Virginia","Northumberland County,Virginia",8368,172894
+266,"Chesapeake City County,Virginia","Nottoway County,Virginia",7685,187315
+267,"Chesapeake City County,Virginia","Orange County,Virginia",10579,268638
+268,"Chesapeake City County,Virginia","Page County,Virginia",14176,357918
+269,"Chesapeake City County,Virginia","Patrick County,Virginia",16669,420672
+270,"Chesapeake City County,Virginia","Pittsylvania County,Virginia",13451,337766
+271,"Chesapeake City County,Virginia","Powhatan County,Virginia",8225,226131
+272,"Chesapeake City County,Virginia","Prince Edward County,Virginia",9949,237737
+273,"Chesapeake City County,Virginia","Prince George County,Virginia",4879,110534
+274,"Chesapeake City County,Virginia","Prince William County,Virginia",11768,320087
+275,"Chesapeake City County,Virginia","Pulaski County,Virginia",18140,536309
+276,"Chesapeake City County,Virginia","Rappahannock County,Virginia",12744,338251
+277,"Chesapeake City County,Virginia","Richmond County,Virginia",8488,188363
+278,"Chesapeake City County,Virginia","Roanoke County,Virginia",16404,478615
+279,"Chesapeake City County,Virginia","Rockbridge County,Virginia",13827,401552
+280,"Chesapeake City County,Virginia","Rockingham County,Virginia",13880,398446
+281,"Chesapeake City County,Virginia","Russell County,Virginia",24982,712086
+282,"Chesapeake City County,Virginia","Scott County,Virginia",25594,739309
+283,"Chesapeake City County,Virginia","Shenandoah County,Virginia",14385,428549
+284,"Chesapeake City County,Virginia","Smyth County,Virginia",21177,623030
+285,"Chesapeake City County,Virginia","Southampton County,Virginia",3758,91948
+286,"Chesapeake City County,Virginia","Spotsylvania County,Virginia",9051,247319
+287,"Chesapeake City County,Virginia","Stafford County,Virginia",9123,264790
+288,"Chesapeake City County,Virginia","Surry County,Virginia",4297,85596
+289,"Chesapeake City County,Virginia","Sussex County,Virginia",5017,112639
+290,"Chesapeake City County,Virginia","Tazewell County,Virginia",22637,663107
+291,"Chesapeake City County,Virginia","Warren County,Virginia",13775,371957
+292,"Chesapeake City County,Virginia","Washington County,Virginia",22570,662497
+293,"Chesapeake City County,Virginia","Westmoreland County,Virginia",10222,223465
+294,"Chesapeake City County,Virginia","Wise County,Virginia",26433,753429
+295,"Chesapeake City County,Virginia","Wythe County,Virginia",19431,575016
+296,"Chesapeake City County,Virginia","York County,Virginia",3599,76747
+297,"Chesapeake City County,Virginia","Alexandria City County,Virginia",11283,324058
+298,"Chesapeake City County,Virginia","Bedford City County,Virginia",13948,345012
+299,"Chesapeake City County,Virginia","Bristol City County,Virginia",23045,688214
+300,"Chesapeake City County,Virginia","Buena Vista City County,Virginia",13486,394818
+301,"Chesapeake City County,Virginia","Charlottesville City County,Virginia",9819,281073
+302,"Chesapeake City County,Virginia","Clifton Forge City County,Virginia",14680,433425
+303,"Chesapeake City County,Virginia","Colonial Heights City County,Virginia",5739,129112
+304,"Chesapeake City County,Virginia","Covington City County,Virginia",15422,451767
+305,"Chesapeake City County,Virginia","Danville City County,Virginia",12543,312738
+306,"Chesapeake City County,Virginia","Emporia City County,Virginia",5028,128310
+307,"Chesapeake City County,Virginia","Fairfax City County,Virginia",11543,319021
+308,"Chesapeake City County,Virginia","Falls Church City County,Virginia",11490,331307
+309,"Chesapeake City County,Virginia","Franklin City County,Virginia",3038,72158
+310,"Chesapeake City County,Virginia","Fredericksburg City County,Virginia",8922,250726
+311,"Chesapeake City County,Virginia","Galax City County,Virginia",19348,527101
+312,"Chesapeake City County,Virginia","Hampton City County,Virginia",2055,45201
+313,"Chesapeake City County,Virginia","Harrisonburg City County,Virginia",12939,378342
+314,"Chesapeake City County,Virginia","Hopewell City County,Virginia",5816,132265
+315,"Chesapeake City County,Virginia","Lexington City County,Virginia",13345,391796
+316,"Chesapeake City County,Virginia","Lynchburg City County,Virginia",12674,308560
+317,"Chesapeake City County,Virginia","Manassas City County,Virginia",11511,317424
+318,"Chesapeake City County,Virginia","Manassas Park City County,Virginia",11732,314624
+319,"Chesapeake City County,Virginia","Martinsville City County,Virginia",14683,365743
+320,"Chesapeake City County,Virginia","Newport News City County,Virginia",2552,60505
+321,"Chesapeake City County,Virginia","Norfolk City County,Virginia",677,10119
+322,"Chesapeake City County,Virginia","Norton City County,Virginia",25957,744319
+323,"Chesapeake City County,Virginia","Petersburg City County,Virginia",5536,125553
+324,"Chesapeake City County,Virginia","Poquoson City County,Virginia",3023,64750
+325,"Chesapeake City County,Virginia","Portsmouth City County,Virginia",767,11193
+326,"Chesapeake City County,Virginia","Radford County,Virginia",17776,523520
+327,"Chesapeake City County,Virginia","Richmond City County,Virginia",6189,167987
+328,"Chesapeake City County,Virginia","Roanoke City County,Virginia",15942,470057
+329,"Chesapeake City County,Virginia","Salem City County,Virginia",15772,468528
+330,"Chesapeake City County,Virginia","South Boston City County,Virginia",10432,265304
+331,"Chesapeake City County,Virginia","Staunton City County,Virginia",11828,340023
+332,"Chesapeake City County,Virginia","Suffolk City County,Virginia",1685,34694
+333,"Chesapeake City County,Virginia","Virginia Beach City County,Virginia",1792,37915
+334,"Chesapeake City County,Virginia","Waynesboro City County,Virginia",11104,322020
+335,"Chesapeake City County,Virginia","Williamsburg City County,Virginia",3832,92888
+336,"Chesapeake City County,Virginia","Winchester City County,Virginia",14369,376294
+337,"Chesapeake City County,Virginia","Barbour County,West Virginia",22252,576858
+338,"Chesapeake City County,Virginia","Berkeley County,West Virginia",16149,426476
+339,"Chesapeake City County,Virginia","Boone County,West Virginia",24137,664312
+340,"Chesapeake City County,Virginia","Braxton County,West Virginia",23835,644987
+341,"Chesapeake City County,Virginia","Brooke County,West Virginia",26600,767719
+342,"Chesapeake City County,Virginia","Cabell County,West Virginia",25705,760218
+343,"Chesapeake City County,Virginia","Calhoun County,West Virginia",25606,698937
+344,"Chesapeake City County,Virginia","Clay County,West Virginia",23870,635770
+345,"Chesapeake City County,Virginia","Doddridge County,West Virginia",26084,619145
+346,"Chesapeake City County,Virginia","Fayette County,West Virginia",21259,582509
+347,"Chesapeake City County,Virginia","Gilmer County,West Virginia",25403,694667
+348,"Chesapeake City County,Virginia","Grant County,West Virginia",17597,479954
+349,"Chesapeake City County,Virginia","Greenbrier County,West Virginia",19614,541734
+350,"Chesapeake City County,Virginia","Hampshire County,West Virginia",16674,435552
+351,"Chesapeake City County,Virginia","Hancock County,West Virginia",27308,775656
+352,"Chesapeake City County,Virginia","Hardy County,West Virginia",16844,451284
+353,"Chesapeake City County,Virginia","Harrison County,West Virginia",24727,621613
+354,"Chesapeake City County,Virginia","Jackson County,West Virginia",25024,740029
+355,"Chesapeake City County,Virginia","Jefferson County,West Virginia",15048,414910
+356,"Chesapeake City County,Virginia","Kanawha County,West Virginia",22787,662011
+357,"Chesapeake City County,Virginia","Lewis County,West Virginia",23772,589108
+358,"Chesapeake City County,Virginia","Lincoln County,West Virginia",26369,737896
+359,"Chesapeake City County,Virginia","Logan County,West Virginia",25927,694801
+360,"Chesapeake City County,Virginia","McDowell County,West Virginia",24306,669252
+361,"Chesapeake City County,Virginia","Marion County,West Virginia",23918,690579
+362,"Chesapeake City County,Virginia","Marshall County,West Virginia",27588,762163
+363,"Chesapeake City County,Virginia","Mason County,West Virginia",25180,746124
+364,"Chesapeake City County,Virginia","Mercer County,West Virginia",21021,605582
+365,"Chesapeake City County,Virginia","Mineral County,West Virginia",19070,491477
+366,"Chesapeake City County,Virginia","Mingo County,West Virginia",26506,758736
+367,"Chesapeake City County,Virginia","Monongalia County,West Virginia",21742,642319
+368,"Chesapeake City County,Virginia","Monroe County,West Virginia",18549,528056
+369,"Chesapeake City County,Virginia","Morgan County,West Virginia",16395,427602
+370,"Chesapeake City County,Virginia","Nicholas County,West Virginia",21454,595159
+371,"Chesapeake City County,Virginia","Ohio County,West Virginia",26507,776666
+372,"Chesapeake City County,Virginia","Pendleton County,West Virginia",16727,449630
+373,"Chesapeake City County,Virginia","Pleasants County,West Virginia",27526,697754
+374,"Chesapeake City County,Virginia","Pocahontas County,West Virginia",19187,477724
+375,"Chesapeake City County,Virginia","Preston County,West Virginia",21777,558405
+376,"Chesapeake City County,Virginia","Putnam County,West Virginia",23962,711743
+377,"Chesapeake City County,Virginia","Raleigh County,West Virginia",19812,587192
+378,"Chesapeake City County,Virginia","Randolph County,West Virginia",20646,510137
+379,"Chesapeake City County,Virginia","Ritchie County,West Virginia",27436,692055
+380,"Chesapeake City County,Virginia","Roane County,West Virginia",26649,768844
+381,"Chesapeake City County,Virginia","Summers County,West Virginia",20533,567069
+382,"Chesapeake City County,Virginia","Taylor County,West Virginia",22120,576226
+383,"Chesapeake City County,Virginia","Tucker County,West Virginia",20257,541601
+384,"Chesapeake City County,Virginia","Tyler County,West Virginia",28452,690420
+385,"Chesapeake City County,Virginia","Upshur County,West Virginia",23242,545780
+386,"Chesapeake City County,Virginia","Wayne County,West Virginia",27296,792844
+387,"Chesapeake City County,Virginia","Webster County,West Virginia",23074,557145
+388,"Chesapeake City County,Virginia","Wetzel County,West Virginia",27074,752703
+389,"Chesapeake City County,Virginia","Wirt County,West Virginia",27290,797366
+390,"Chesapeake City County,Virginia","Wood County,West Virginia",26805,799056
+391,"Chesapeake City County,Virginia","Wyoming County,West Virginia",21763,627165

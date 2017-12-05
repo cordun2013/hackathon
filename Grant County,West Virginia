@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Grant County,West Virginia","Adair County,Kentucky",27711,762823
+1,"Grant County,West Virginia","Allen County,Kentucky",30329,863471
+2,"Grant County,West Virginia","Anderson County,Kentucky",23511,665862
+3,"Grant County,West Virginia","Ballard County,Kentucky",36489,1055633
+4,"Grant County,West Virginia","Barren County,Kentucky",29457,821851
+5,"Grant County,West Virginia","Bath County,Kentucky",19158,537044
+6,"Grant County,West Virginia","Bell County,Kentucky",26505,703886
+7,"Grant County,West Virginia","Boone County,Kentucky",24537,599846
+8,"Grant County,West Virginia","Bourbon County,Kentucky",21072,583461
+9,"Grant County,West Virginia","Boyd County,Kentucky",15834,431368
+10,"Grant County,West Virginia","Boyle County,Kentucky",24740,669749
+11,"Grant County,West Virginia","Bracken County,Kentucky",21483,577544
+12,"Grant County,West Virginia","Breathitt County,Kentucky",22545,578070
+13,"Grant County,West Virginia","Breckinridge County,Kentucky",29044,818543
+14,"Grant County,West Virginia","Bullitt County,Kentucky",25614,739663
+15,"Grant County,West Virginia","Butler County,Kentucky",29709,840541
+16,"Grant County,West Virginia","Caldwell County,Kentucky",32601,946487
+17,"Grant County,West Virginia","Calloway County,Kentucky",35411,1031479
+18,"Grant County,West Virginia","Campbell County,Kentucky",23183,617415
+19,"Grant County,West Virginia","Carlisle County,Kentucky",36946,1071002
+20,"Grant County,West Virginia","Carroll County,Kentucky",26111,661611
+21,"Grant County,West Virginia","Carter County,Kentucky",16998,461465
+22,"Grant County,West Virginia","Casey County,Kentucky",26234,701254
+23,"Grant County,West Virginia","Christian County,Kentucky",32250,941743
+24,"Grant County,West Virginia","Clay County,Kentucky",25043,665184
+25,"Grant County,West Virginia","Clinton County,Kentucky",28118,766189
+26,"Grant County,West Virginia","Crittenden County,Kentucky",34181,979557
+27,"Grant County,West Virginia","Cumberland County,Kentucky",28872,784428
+28,"Grant County,West Virginia","Daviess County,Kentucky",30732,886984
+29,"Grant County,West Virginia","Edmonson County,Kentucky",29149,828416
+30,"Grant County,West Virginia","Elliott County,Kentucky",18329,487235
+31,"Grant County,West Virginia","Estill County,Kentucky",22151,599359
+32,"Grant County,West Virginia","Fayette County,Kentucky",21318,603355
+33,"Grant County,West Virginia","Fleming County,Kentucky",19584,540229
+34,"Grant County,West Virginia","Floyd County,Kentucky",19967,538633
+35,"Grant County,West Virginia","Franklin County,Kentucky",23356,652271
+36,"Grant County,West Virginia","Fulton County,Kentucky",37350,1091966
+37,"Grant County,West Virginia","Gallatin County,Kentucky",25053,704335
+38,"Grant County,West Virginia","Garrard County,Kentucky",23923,650509
+39,"Grant County,West Virginia","Grant County,Kentucky",23852,678443
+40,"Grant County,West Virginia","Graves County,Kentucky",35971,1043708
+41,"Grant County,West Virginia","Grayson County,Kentucky",28036,797177
+42,"Grant County,West Virginia","Green County,Kentucky",27816,762383
+43,"Grant County,West Virginia","Greenup County,Kentucky",17609,472494
+44,"Grant County,West Virginia","Hancock County,Kentucky",29840,851437
+45,"Grant County,West Virginia","Hardin County,Kentucky",26913,759310
+46,"Grant County,West Virginia","Harlan County,Kentucky",25580,680512
+47,"Grant County,West Virginia","Harrison County,Kentucky",22643,616560
+48,"Grant County,West Virginia","Hart County,Kentucky",27712,786938
+49,"Grant County,West Virginia","Henderson County,Kentucky",32539,939413
+50,"Grant County,West Virginia","Henry County,Kentucky",24957,695990
+51,"Grant County,West Virginia","Hickman County,Kentucky",36980,1072294
+52,"Grant County,West Virginia","Hopkins County,Kentucky",32060,920955
+53,"Grant County,West Virginia","Jackson County,Kentucky",24823,647367
+54,"Grant County,West Virginia","Jefferson County,Kentucky",25051,711524
+55,"Grant County,West Virginia","Jessamine County,Kentucky",22787,624819
+56,"Grant County,West Virginia","Johnson County,Kentucky",18615,504264
+57,"Grant County,West Virginia","Kenton County,Kentucky",23907,587540
+58,"Grant County,West Virginia","Knott County,Kentucky",21148,570515
+59,"Grant County,West Virginia","Knox County,Kentucky",26326,729401
+60,"Grant County,West Virginia","Larue County,Kentucky",26984,746486
+61,"Grant County,West Virginia","Laurel County,Kentucky",25177,700796
+62,"Grant County,West Virginia","Lawrence County,Kentucky",17757,475688
+63,"Grant County,West Virginia","Lee County,Kentucky",22995,593095
+64,"Grant County,West Virginia","Leslie County,Kentucky",24228,640188
+65,"Grant County,West Virginia","Letcher County,Kentucky",22220,573455
+66,"Grant County,West Virginia","Lewis County,Kentucky",19037,513283
+67,"Grant County,West Virginia","Lincoln County,Kentucky",24633,667427
+68,"Grant County,West Virginia","Livingston County,Kentucky",34776,996454
+69,"Grant County,West Virginia","Logan County,Kentucky",31449,883780
+70,"Grant County,West Virginia","Lyon County,Kentucky",34910,1006844
+71,"Grant County,West Virginia","McCracken County,Kentucky",35102,1023693
+72,"Grant County,West Virginia","McCreary County,Kentucky",27282,745238
+73,"Grant County,West Virginia","Madison County,Kentucky",22316,614378
+74,"Grant County,West Virginia","Magoffin County,Kentucky",19583,524943
+75,"Grant County,West Virginia","Marion County,Kentucky",25362,708095
+76,"Grant County,West Virginia","Marshall County,Kentucky",34516,1007265
+77,"Grant County,West Virginia","Martin County,Kentucky",19243,508033
+78,"Grant County,West Virginia","Mason County,Kentucky",20832,557089
+79,"Grant County,West Virginia","Meade County,Kentucky",27511,783838
+80,"Grant County,West Virginia","Menifee County,Kentucky",20274,549107
+81,"Grant County,West Virginia","Mercer County,Kentucky",23739,663806
+82,"Grant County,West Virginia","Metcalfe County,Kentucky",28367,793088
+83,"Grant County,West Virginia","Monroe County,Kentucky",30337,830592
+84,"Grant County,West Virginia","Montgomery County,Kentucky",19971,555584
+85,"Grant County,West Virginia","Morgan County,Kentucky",20053,524823
+86,"Grant County,West Virginia","Muhlenberg County,Kentucky",30920,887431
+87,"Grant County,West Virginia","Nelson County,Kentucky",24970,707167
+88,"Grant County,West Virginia","Nicholas County,Kentucky",21649,583467
+89,"Grant County,West Virginia","Ohio County,Kentucky",29833,855020
+90,"Grant County,West Virginia","Oldham County,Kentucky",25122,723405
+91,"Grant County,West Virginia","Owen County,Kentucky",24177,679049
+92,"Grant County,West Virginia","Owsley County,Kentucky",24142,613072
+93,"Grant County,West Virginia","Pendleton County,Kentucky",23421,618468
+94,"Grant County,West Virginia","Perry County,Kentucky",22528,601073
+95,"Grant County,West Virginia","Pike County,Kentucky",19522,503572
+96,"Grant County,West Virginia","Powell County,Kentucky",21415,585330
+97,"Grant County,West Virginia","Robertson County,Kentucky",21567,582973
+98,"Grant County,West Virginia","Rockcastle County,Kentucky",23750,655521
+99,"Grant County,West Virginia","Rowan County,Kentucky",18301,509251
+100,"Grant County,West Virginia","Russell County,Kentucky",27316,746807
+101,"Grant County,West Virginia","Scott County,Kentucky",22152,631382
+102,"Grant County,West Virginia","Shelby County,Kentucky",23979,682658
+103,"Grant County,West Virginia","Simpson County,Kentucky",31031,891837
+104,"Grant County,West Virginia","Spencer County,Kentucky",24509,688506
+105,"Grant County,West Virginia","Taylor County,Kentucky",26652,739591
+106,"Grant County,West Virginia","Todd County,Kentucky",32685,907940
+107,"Grant County,West Virginia","Trigg County,Kentucky",33664,967672
+108,"Grant County,West Virginia","Trimble County,Kentucky",26196,729445
+109,"Grant County,West Virginia","Union County,Kentucky",34258,969860
+110,"Grant County,West Virginia","Warren County,Kentucky",30065,856785
+111,"Grant County,West Virginia","Washington County,Kentucky",24980,692403
+112,"Grant County,West Virginia","Wayne County,Kentucky",27492,743879
+113,"Grant County,West Virginia","Webster County,Kentucky",33169,949044
+114,"Grant County,West Virginia","Whitley County,Kentucky",26010,735281
+115,"Grant County,West Virginia","Wolfe County,Kentucky",21147,548185
+116,"Grant County,West Virginia","Woodford County,Kentucky",22372,634018
+117,"Grant County,West Virginia","Adams County,Ohio",19887,483445
+118,"Grant County,West Virginia","Allen County,Ohio",23548,637530
+119,"Grant County,West Virginia","Ashland County,Ohio",19153,494698
+120,"Grant County,West Virginia","Ashtabula County,Ohio",17191,450611
+121,"Grant County,West Virginia","Athens County,Ohio",14283,330956
+122,"Grant County,West Virginia","Auglaize County,Ohio",23162,641223
+123,"Grant County,West Virginia","Belmont County,Ohio",11783,297990
+124,"Grant County,West Virginia","Brown County,Ohio",21311,516306
+125,"Grant County,West Virginia","Butler County,Ohio",23632,635954
+126,"Grant County,West Virginia","Carroll County,Ohio",14728,333849
+127,"Grant County,West Virginia","Champaign County,Ohio",20905,556118
+128,"Grant County,West Virginia","Clark County,Ohio",19783,546689
+129,"Grant County,West Virginia","Clermont County,Ohio",21965,541469
+130,"Grant County,West Virginia","Clinton County,Ohio",21388,524955
+131,"Grant County,West Virginia","Columbiana County,Ohio",13937,322370
+132,"Grant County,West Virginia","Coshocton County,Ohio",16140,423440
+133,"Grant County,West Virginia","Crawford County,Ohio",21061,565893
+134,"Grant County,West Virginia","Cuyahoga County,Ohio",17187,448455
+135,"Grant County,West Virginia","Darke County,Ohio",23359,644591
+136,"Grant County,West Virginia","Defiance County,Ohio",25506,697418
+137,"Grant County,West Virginia","Delaware County,Ohio",19059,522438
+138,"Grant County,West Virginia","Fairfield County,Ohio",17154,459223
+139,"Grant County,West Virginia","Fayette County,Ohio",19952,495419
+140,"Grant County,West Virginia","Franklin County,Ohio",17755,486324
+141,"Grant County,West Virginia","Fulton County,Ohio",23858,654269
+142,"Grant County,West Virginia","Gallia County,Ohio",16165,370832
+143,"Grant County,West Virginia","Geauga County,Ohio",16681,423274
+144,"Grant County,West Virginia","Greene County,Ohio",20559,572187
+145,"Grant County,West Virginia","Guernsey County,Ohio",13686,361499
+146,"Grant County,West Virginia","Hamilton County,Ohio",23133,646532
+147,"Grant County,West Virginia","Hancock County,Ohio",23082,630793
+148,"Grant County,West Virginia","Hardin County,Ohio",22059,593359
+149,"Grant County,West Virginia","Harrison County,Ohio",13743,336705
+150,"Grant County,West Virginia","Henry County,Ohio",24312,644036
+151,"Grant County,West Virginia","Highland County,Ohio",20424,483459
+152,"Grant County,West Virginia","Hocking County,Ohio",15908,376859
+153,"Grant County,West Virginia","Holmes County,Ohio",17198,446324
+154,"Grant County,West Virginia","Huron County,Ohio",20429,524304
+155,"Grant County,West Virginia","Jackson County,Ohio",16411,394010
+156,"Grant County,West Virginia","Jefferson County,Ohio",12684,297340
+157,"Grant County,West Virginia","Knox County,Ohio",17928,465916
+158,"Grant County,West Virginia","Lawrence County,Ohio",16973,436425
+159,"Grant County,West Virginia","Licking County,Ohio",17314,446988
+160,"Grant County,West Virginia","Logan County,Ohio",21080,587636
+161,"Grant County,West Virginia","Lorain County,Ohio",18239,478175
+162,"Grant County,West Virginia","Lucas County,Ohio",22812,607119
+163,"Grant County,West Virginia","Madison County,Ohio",19032,521045
+164,"Grant County,West Virginia","Mahoning County,Ohio",13677,340603
+165,"Grant County,West Virginia","Marion County,Ohio",20465,548531
+166,"Grant County,West Virginia","Medina County,Ohio",17785,461818
+167,"Grant County,West Virginia","Meigs County,Ohio",14248,323533
+168,"Grant County,West Virginia","Mercer County,Ohio",24398,668157
+169,"Grant County,West Virginia","Miami County,Ohio",21870,610023
+170,"Grant County,West Virginia","Monroe County,Ohio",14176,296683
+171,"Grant County,West Virginia","Montgomery County,Ohio",22131,615470
+172,"Grant County,West Virginia","Morgan County,Ohio",14726,333303
+173,"Grant County,West Virginia","Morrow County,Ohio",19889,498878
+174,"Grant County,West Virginia","Muskingum County,Ohio",14532,389491
+175,"Grant County,West Virginia","Noble County,Ohio",14205,330829
+176,"Grant County,West Virginia","Paulding County,Ohio",26085,713435
+177,"Grant County,West Virginia","Perry County,Ohio",16631,437434
+178,"Grant County,West Virginia","Pickaway County,Ohio",18071,429800
+179,"Grant County,West Virginia","Pike County,Ohio",17856,433317
+180,"Grant County,West Virginia","Portage County,Ohio",15532,396617
+181,"Grant County,West Virginia","Preble County,Ohio",22901,638181
+182,"Grant County,West Virginia","Putnam County,Ohio",24671,669888
+183,"Grant County,West Virginia","Richland County,Ohio",19709,516127
+184,"Grant County,West Virginia","Ross County,Ohio",18136,441824
+185,"Grant County,West Virginia","Sandusky County,Ohio",21100,565694
+186,"Grant County,West Virginia","Scioto County,Ohio",18495,449388
+187,"Grant County,West Virginia","Seneca County,Ohio",21831,575366
+188,"Grant County,West Virginia","Shelby County,Ohio",22838,617884
+189,"Grant County,West Virginia","Stark County,Ohio",16312,392749
+190,"Grant County,West Virginia","Summit County,Ohio",16426,425211
+191,"Grant County,West Virginia","Trumbull County,Ohio",14835,378067
+192,"Grant County,West Virginia","Tuscarawas County,Ohio",15252,367988
+193,"Grant County,West Virginia","Union County,Ohio",19584,537867
+194,"Grant County,West Virginia","Van Wert County,Ohio",24782,680399
+195,"Grant County,West Virginia","Vinton County,Ohio",16401,379397
+196,"Grant County,West Virginia","Warren County,Ohio",21550,602500
+197,"Grant County,West Virginia","Washington County,Ohio",13064,288766
+198,"Grant County,West Virginia","Wayne County,Ohio",18335,470437
+199,"Grant County,West Virginia","Williams County,Ohio",25103,685726
+200,"Grant County,West Virginia","Wood County,Ohio",22997,614022
+201,"Grant County,West Virginia","Wyandot County,Ohio",22052,594928
+202,"Grant County,West Virginia","Accomack County,Virginia",21020,542542
+203,"Grant County,West Virginia","Albemarle County,Virginia",8728,226511
+204,"Grant County,West Virginia","Alleghany County,Virginia",9294,183970
+205,"Grant County,West Virginia","Amelia County,Virginia",13782,358330
+206,"Grant County,West Virginia","Amherst County,Virginia",11161,277418
+207,"Grant County,West Virginia","Appomattox County,Virginia",12376,302046
+208,"Grant County,West Virginia","Arlington County,Virginia",8645,225512
+209,"Grant County,West Virginia","Augusta County,Virginia",8166,203764
+210,"Grant County,West Virginia","Bath County,Virginia",7943,144864
+211,"Grant County,West Virginia","Bedford County,Virginia",13306,321934
+212,"Grant County,West Virginia","Bland County,Virginia",15772,443203
+213,"Grant County,West Virginia","Botetourt County,Virginia",10797,284456
+214,"Grant County,West Virginia","Brunswick County,Virginia",16087,433601
+215,"Grant County,West Virginia","Buchanan County,Virginia",20355,482678
+216,"Grant County,West Virginia","Buckingham County,Virginia",12036,291661
+217,"Grant County,West Virginia","Campbell County,Virginia",12523,317550
+218,"Grant County,West Virginia","Caroline County,Virginia",11084,284168
+219,"Grant County,West Virginia","Carroll County,Virginia",15894,448619
+220,"Grant County,West Virginia","Charles City County,Virginia",13554,355652
+221,"Grant County,West Virginia","Charlotte County,Virginia",14358,350546
+222,"Grant County,West Virginia","Chesterfield County,Virginia",13303,370175
+223,"Grant County,West Virginia","Clarke County,Virginia",6141,152260
+224,"Grant County,West Virginia","Craig County,Virginia",13455,254266
+225,"Grant County,West Virginia","Culpeper County,Virginia",8149,206785
+226,"Grant County,West Virginia","Cumberland County,Virginia",12770,316868
+227,"Grant County,West Virginia","Dickenson County,Virginia",22238,595840
+228,"Grant County,West Virginia","Dinwiddie County,Virginia",14724,393568
+229,"Grant County,West Virginia","Essex County,Virginia",12485,308223
+230,"Grant County,West Virginia","Fairfax County,Virginia",8268,215788
+231,"Grant County,West Virginia","Fauquier County,Virginia",6579,173512
+232,"Grant County,West Virginia","Floyd County,Virginia",14420,390167
+233,"Grant County,West Virginia","Fluvanna County,Virginia",10406,278683
+234,"Grant County,West Virginia","Franklin County,Virginia",13758,368611
+235,"Grant County,West Virginia","Frederick County,Virginia",4660,116066
+236,"Grant County,West Virginia","Giles County,Virginia",14561,398319
+237,"Grant County,West Virginia","Gloucester County,Virginia",15724,409840
+238,"Grant County,West Virginia","Goochland County,Virginia",11309,309294
+239,"Grant County,West Virginia","Grayson County,Virginia",17225,464799
+240,"Grant County,West Virginia","Greene County,Virginia",8342,188140
+241,"Grant County,West Virginia","Greensville County,Virginia",16141,442320
+242,"Grant County,West Virginia","Halifax County,Virginia",15844,389256
+243,"Grant County,West Virginia","Hanover County,Virginia",11902,313661
+244,"Grant County,West Virginia","Henrico County,Virginia",12701,336322
+245,"Grant County,West Virginia","Henry County,Virginia",15167,403573
+246,"Grant County,West Virginia","Highland County,Virginia",5244,100894
+247,"Grant County,West Virginia","Isle of Wight County,Virginia",16835,444911
+248,"Grant County,West Virginia","James City County,Virginia",14790,396422
+249,"Grant County,West Virginia","King and Queen County,Virginia",13537,343484
+250,"Grant County,West Virginia","King George County,Virginia",11006,267665
+251,"Grant County,West Virginia","King William County,Virginia",12503,321281
+252,"Grant County,West Virginia","Lancaster County,Virginia",14908,364217
+253,"Grant County,West Virginia","Lee County,Virginia",22733,627493
+254,"Grant County,West Virginia","Loudoun County,Virginia",7636,188127
+255,"Grant County,West Virginia","Louisa County,Virginia",10756,270160
+256,"Grant County,West Virginia","Lunenburg County,Virginia",15655,393266
+257,"Grant County,West Virginia","Madison County,Virginia",8572,195044
+258,"Grant County,West Virginia","Mathews County,Virginia",16619,408605
+259,"Grant County,West Virginia","Mecklenburg County,Virginia",17004,417712
+260,"Grant County,West Virginia","Middlesex County,Virginia",14989,372186
+261,"Grant County,West Virginia","Montgomery County,Virginia",13125,362589
+262,"Grant County,West Virginia","Nelson County,Virginia",9607,245012
+263,"Grant County,West Virginia","New Kent County,Virginia",14226,370336
+264,"Grant County,West Virginia","Northampton County,Virginia",19207,513086
+265,"Grant County,West Virginia","Northumberland County,Virginia",14948,362729
+266,"Grant County,West Virginia","Nottoway County,Virginia",14907,379821
+267,"Grant County,West Virginia","Orange County,Virginia",9490,241284
+268,"Grant County,West Virginia","Page County,Virginia",6601,151189
+269,"Grant County,West Virginia","Patrick County,Virginia",16540,427070
+270,"Grant County,West Virginia","Pittsylvania County,Virginia",15093,389177
+271,"Grant County,West Virginia","Powhatan County,Virginia",12562,334516
+272,"Grant County,West Virginia","Prince Edward County,Virginia",13578,345485
+273,"Grant County,West Virginia","Prince George County,Virginia",14370,384165
+274,"Grant County,West Virginia","Prince William County,Virginia",6679,179616
+275,"Grant County,West Virginia","Pulaski County,Virginia",13852,385223
+276,"Grant County,West Virginia","Rappahannock County,Virginia",6890,158650
+277,"Grant County,West Virginia","Richmond County,Virginia",13648,335373
+278,"Grant County,West Virginia","Roanoke County,Virginia",12116,327528
+279,"Grant County,West Virginia","Rockbridge County,Virginia",9539,250465
+280,"Grant County,West Virginia","Rockingham County,Virginia",4773,119121
+281,"Grant County,West Virginia","Russell County,Virginia",20169,478628
+282,"Grant County,West Virginia","Scott County,Virginia",21306,588222
+283,"Grant County,West Virginia","Shenandoah County,Virginia",5039,108584
+284,"Grant County,West Virginia","Smyth County,Virginia",16889,471943
+285,"Grant County,West Virginia","Southampton County,Virginia",16519,438434
+286,"Grant County,West Virginia","Spotsylvania County,Virginia",10196,248653
+287,"Grant County,West Virginia","Stafford County,Virginia",9198,237518
+288,"Grant County,West Virginia","Surry County,Virginia",15482,405859
+289,"Grant County,West Virginia","Sussex County,Virginia",15182,408676
+290,"Grant County,West Virginia","Tazewell County,Virginia",17176,417036
+291,"Grant County,West Virginia","Warren County,Virginia",5219,121313
+292,"Grant County,West Virginia","Washington County,Virginia",18282,511410
+293,"Grant County,West Virginia","Westmoreland County,Virginia",11974,286466
+294,"Grant County,West Virginia","Wise County,Virginia",21885,569432
+295,"Grant County,West Virginia","Wythe County,Virginia",15143,423929
+296,"Grant County,West Virginia","York County,Virginia",16077,427197
+297,"Grant County,West Virginia","Alexandria City County,Virginia",8848,238158
+298,"Grant County,West Virginia","Bedford City County,Virginia",12331,313273
+299,"Grant County,West Virginia","Bristol City County,Virginia",18757,537127
+300,"Grant County,West Virginia","Buena Vista City County,Virginia",9198,243731
+301,"Grant County,West Virginia","Charlottesville City County,Virginia",9197,241726
+302,"Grant County,West Virginia","Chesapeake City County,Virginia",17541,480102
+303,"Grant County,West Virginia","Clifton Forge City County,Virginia",9507,198648
+304,"Grant County,West Virginia","Colonial Heights City County,Virginia",13537,359029
+305,"Grant County,West Virginia","Covington City County,Virginia",9276,184537
+306,"Grant County,West Virginia","Danville City County,Virginia",15692,405520
+307,"Grant County,West Virginia","Emporia City County,Virginia",15848,428913
+308,"Grant County,West Virginia","Fairfax City County,Virginia",7811,205363
+309,"Grant County,West Virginia","Falls Church City County,Virginia",8143,219836
+310,"Grant County,West Virginia","Franklin City County,Virginia",17066,446288
+311,"Grant County,West Virginia","Fredericksburg City County,Virginia",9519,234359
+312,"Grant County,West Virginia","Galax City County,Virginia",16517,454486
+313,"Grant County,West Virginia","Hampton City County,Virginia",16028,436903
+314,"Grant County,West Virginia","Harrisonburg City County,Virginia",5831,137796
+315,"Grant County,West Virginia","Hopewell City County,Virginia",13301,359066
+316,"Grant County,West Virginia","Lexington City County,Virginia",9057,240709
+317,"Grant County,West Virginia","Lynchburg City County,Virginia",11709,297474
+318,"Grant County,West Virginia","Manassas City County,Virginia",6906,184560
+319,"Grant County,West Virginia","Manassas Park City County,Virginia",7408,190903
+320,"Grant County,West Virginia","Martinsville City County,Virginia",15320,398675
+321,"Grant County,West Virginia","Newport News City County,Virginia",15584,423389
+322,"Grant County,West Virginia","Norfolk City County,Virginia",17334,462319
+323,"Grant County,West Virginia","Norton City County,Virginia",21669,593232
+324,"Grant County,West Virginia","Petersburg City County,Virginia",13409,360017
+325,"Grant County,West Virginia","Poquoson City County,Virginia",16256,433966
+326,"Grant County,West Virginia","Portsmouth City County,Virginia",17273,471140
+327,"Grant County,West Virginia","Radford County,Virginia",13488,372433
+328,"Grant County,West Virginia","Richmond City County,Virginia",12277,324132
+329,"Grant County,West Virginia","Roanoke City County,Virginia",11654,318970
+330,"Grant County,West Virginia","Salem City County,Virginia",11484,317441
+331,"Grant County,West Virginia","South Boston City County,Virginia",15847,388075
+332,"Grant County,West Virginia","Staunton City County,Virginia",7419,185965
+333,"Grant County,West Virginia","Suffolk City County,Virginia",17678,459635
+334,"Grant County,West Virginia","Virginia Beach City County,Virginia",17895,485577
+335,"Grant County,West Virginia","Waynesboro City County,Virginia",7816,195816
+336,"Grant County,West Virginia","Williamsburg City County,Virginia",14628,395638
+337,"Grant County,West Virginia","Winchester City County,Virginia",5198,124212
+338,"Grant County,West Virginia","Barbour County,West Virginia",5685,113152
+339,"Grant County,West Virginia","Berkeley County,West Virginia",6749,150904
+340,"Grant County,West Virginia","Boone County,West Virginia",15696,392720
+341,"Grant County,West Virginia","Braxton County,West Virginia",10256,229342
+342,"Grant County,West Virginia","Brooke County,West Virginia",10990,260891
+343,"Grant County,West Virginia","Cabell County,West Virginia",15290,409629
+344,"Grant County,West Virginia","Calhoun County,West Virginia",11578,264009
+345,"Grant County,West Virginia","Clay County,West Virginia",11942,294366
+346,"Grant County,West Virginia","Doddridge County,West Virginia",9793,196234
+347,"Grant County,West Virginia","Fayette County,West Virginia",12721,314283
+348,"Grant County,West Virginia","Gilmer County,West Virginia",10059,228700
+349,"Grant County,West Virginia","Greenbrier County,West Virginia",13528,273447
+350,"Grant County,West Virginia","Hampshire County,West Virginia",4062,82763
+351,"Grant County,West Virginia","Hancock County,West Virginia",12617,288238
+352,"Grant County,West Virginia","Hardy County,West Virginia",2030,43806
+353,"Grant County,West Virginia","Harrison County,West Virginia",8230,157862
+354,"Grant County,West Virginia","Jackson County,West Virginia",14184,330782
+355,"Grant County,West Virginia","Jefferson County,West Virginia",7298,160099
+356,"Grant County,West Virginia","Kanawha County,West Virginia",14172,360888
+357,"Grant County,West Virginia","Lewis County,West Virginia",7960,178330
+358,"Grant County,West Virginia","Lincoln County,West Virginia",15954,387307
+359,"Grant County,West Virginia","Logan County,West Virginia",16625,429838
+360,"Grant County,West Virginia","McDowell County,West Virginia",18220,400965
+361,"Grant County,West Virginia","Marion County,West Virginia",8377,148081
+362,"Grant County,West Virginia","Marshall County,West Virginia",11977,255335
+363,"Grant County,West Virginia","Mason County,West Virginia",14765,395535
+364,"Grant County,West Virginia","Mercer County,West Virginia",14914,356955
+365,"Grant County,West Virginia","Mineral County,West Virginia",3134,55609
+366,"Grant County,West Virginia","Mingo County,West Virginia",16671,434346
+367,"Grant County,West Virginia","Monongalia County,West Virginia",6131,135491
+368,"Grant County,West Virginia","Monroe County,West Virginia",12368,259476
+369,"Grant County,West Virginia","Morgan County,West Virginia",5930,143932
+370,"Grant County,West Virginia","Nicholas County,West Virginia",11241,278987
+371,"Grant County,West Virginia","Ohio County,West Virginia",10897,269837
+372,"Grant County,West Virginia","Pendleton County,West Virginia",2428,48151
+373,"Grant County,West Virginia","Pleasants County,West Virginia",11028,234002
+374,"Grant County,West Virginia","Pocahontas County,West Virginia",7456,142955
+375,"Grant County,West Virginia","Preston County,West Virginia",5135,89683
+376,"Grant County,West Virginia","Putnam County,West Virginia",13547,361154
+377,"Grant County,West Virginia","Raleigh County,West Virginia",13725,318904
+378,"Grant County,West Virginia","Randolph County,West Virginia",6589,137735
+379,"Grant County,West Virginia","Ritchie County,West Virginia",10939,228304
+380,"Grant County,West Virginia","Roane County,West Virginia",13999,298044
+381,"Grant County,West Virginia","Summers County,West Virginia",14446,298782
+382,"Grant County,West Virginia","Taylor County,West Virginia",5478,107504
+383,"Grant County,West Virginia","Tucker County,West Virginia",3690,77896
+384,"Grant County,West Virginia","Tyler County,West Virginia",11955,226669
+385,"Grant County,West Virginia","Upshur County,West Virginia",7636,159312
+386,"Grant County,West Virginia","Wayne County,West Virginia",16881,442255
+387,"Grant County,West Virginia","Webster County,West Virginia",10265,206517
+388,"Grant County,West Virginia","Wetzel County,West Virginia",10887,204788
+389,"Grant County,West Virginia","Wirt County,West Virginia",13020,295574
+390,"Grant County,West Virginia","Wood County,West Virginia",11808,259265
+391,"Grant County,West Virginia","Wyoming County,West Virginia",15676,358877

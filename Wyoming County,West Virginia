@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wyoming County,West Virginia","Adair County,Kentucky",19728,449517
+1,"Wyoming County,West Virginia","Allen County,Kentucky",22924,545159
+2,"Wyoming County,West Virginia","Anderson County,Kentucky",17533,416905
+3,"Wyoming County,West Virginia","Ballard County,Kentucky",30511,806676
+4,"Wyoming County,West Virginia","Barren County,Kentucky",21473,508544
+5,"Wyoming County,West Virginia","Bath County,Kentucky",13153,358444
+6,"Wyoming County,West Virginia","Bell County,Kentucky",15028,310436
+7,"Wyoming County,West Virginia","Boone County,Kentucky",18966,479837
+8,"Wyoming County,West Virginia","Bourbon County,Kentucky",15067,404861
+9,"Wyoming County,West Virginia","Boyd County,Kentucky",9829,252768
+10,"Wyoming County,West Virginia","Boyle County,Kentucky",18762,420792
+11,"Wyoming County,West Virginia","Bracken County,Kentucky",15478,398944
+12,"Wyoming County,West Virginia","Breathitt County,Kentucky",12991,267893
+13,"Wyoming County,West Virginia","Breckinridge County,Kentucky",23066,569586
+14,"Wyoming County,West Virginia","Bullitt County,Kentucky",19636,490706
+15,"Wyoming County,West Virginia","Butler County,Kentucky",23731,591584
+16,"Wyoming County,West Virginia","Caldwell County,Kentucky",26623,697529
+17,"Wyoming County,West Virginia","Calloway County,Kentucky",29433,782522
+18,"Wyoming County,West Virginia","Campbell County,Kentucky",17178,438815
+19,"Wyoming County,West Virginia","Carlisle County,Kentucky",30969,822045
+20,"Wyoming County,West Virginia","Carroll County,Kentucky",20078,464720
+21,"Wyoming County,West Virginia","Carter County,Kentucky",10993,282865
+22,"Wyoming County,West Virginia","Casey County,Kentucky",19666,422791
+23,"Wyoming County,West Virginia","Christian County,Kentucky",26272,692786
+24,"Wyoming County,West Virginia","Clay County,Kentucky",14255,304794
+25,"Wyoming County,West Virginia","Clinton County,Kentucky",20135,452882
+26,"Wyoming County,West Virginia","Crittenden County,Kentucky",28203,730600
+27,"Wyoming County,West Virginia","Cumberland County,Kentucky",20889,471121
+28,"Wyoming County,West Virginia","Daviess County,Kentucky",24754,638026
+29,"Wyoming County,West Virginia","Edmonson County,Kentucky",23002,552705
+30,"Wyoming County,West Virginia","Elliott County,Kentucky",12274,223592
+31,"Wyoming County,West Virginia","Estill County,Kentucky",14438,317398
+32,"Wyoming County,West Virginia","Fayette County,Kentucky",15340,354398
+33,"Wyoming County,West Virginia","Fleming County,Kentucky",13579,361629
+34,"Wyoming County,West Virginia","Floyd County,Kentucky",9178,178243
+35,"Wyoming County,West Virginia","Franklin County,Kentucky",17378,403314
+36,"Wyoming County,West Virginia","Fulton County,Kentucky",31373,843009
+37,"Wyoming County,West Virginia","Gallatin County,Kentucky",19075,455378
+38,"Wyoming County,West Virginia","Garrard County,Kentucky",17636,381738
+39,"Wyoming County,West Virginia","Grant County,Kentucky",17874,429486
+40,"Wyoming County,West Virginia","Graves County,Kentucky",29993,794751
+41,"Wyoming County,West Virginia","Grayson County,Kentucky",22059,548220
+42,"Wyoming County,West Virginia","Green County,Kentucky",21480,491681
+43,"Wyoming County,West Virginia","Greenup County,Kentucky",11604,293894
+44,"Wyoming County,West Virginia","Hancock County,Kentucky",23862,602479
+45,"Wyoming County,West Virginia","Hardin County,Kentucky",20935,510353
+46,"Wyoming County,West Virginia","Harlan County,Kentucky",14351,290753
+47,"Wyoming County,West Virginia","Harrison County,Kentucky",16638,437960
+48,"Wyoming County,West Virginia","Hart County,Kentucky",21734,537981
+49,"Wyoming County,West Virginia","Henderson County,Kentucky",26561,690456
+50,"Wyoming County,West Virginia","Henry County,Kentucky",18979,447033
+51,"Wyoming County,West Virginia","Hickman County,Kentucky",31002,823336
+52,"Wyoming County,West Virginia","Hopkins County,Kentucky",26082,671998
+53,"Wyoming County,West Virginia","Jackson County,Kentucky",16127,341213
+54,"Wyoming County,West Virginia","Jefferson County,Kentucky",19073,462566
+55,"Wyoming County,West Virginia","Jessamine County,Kentucky",16809,375862
+56,"Wyoming County,West Virginia","Johnson County,Kentucky",8931,178803
+57,"Wyoming County,West Virginia","Kenton County,Kentucky",18335,467531
+58,"Wyoming County,West Virginia","Knott County,Kentucky",10360,210125
+59,"Wyoming County,West Virginia","Knox County,Kentucky",15580,331449
+60,"Wyoming County,West Virginia","Larue County,Kentucky",21006,497529
+61,"Wyoming County,West Virginia","Laurel County,Kentucky",15857,341590
+62,"Wyoming County,West Virginia","Lawrence County,Kentucky",9471,184266
+63,"Wyoming County,West Virginia","Lee County,Kentucky",13423,283174
+64,"Wyoming County,West Virginia","Leslie County,Kentucky",13440,279798
+65,"Wyoming County,West Virginia","Letcher County,Kentucky",10535,211032
+66,"Wyoming County,West Virginia","Lewis County,Kentucky",13031,334683
+67,"Wyoming County,West Virginia","Lincoln County,Kentucky",18186,408041
+68,"Wyoming County,West Virginia","Livingston County,Kentucky",28799,747496
+69,"Wyoming County,West Virginia","Logan County,Kentucky",24875,610436
+70,"Wyoming County,West Virginia","Lyon County,Kentucky",28932,757887
+71,"Wyoming County,West Virginia","McCracken County,Kentucky",29124,774736
+72,"Wyoming County,West Virginia","McCreary County,Kentucky",18390,412005
+73,"Wyoming County,West Virginia","Madison County,Kentucky",15941,349414
+74,"Wyoming County,West Virginia","Magoffin County,Kentucky",9899,199483
+75,"Wyoming County,West Virginia","Marion County,Kentucky",19384,459138
+76,"Wyoming County,West Virginia","Marshall County,Kentucky",28538,758308
+77,"Wyoming County,West Virginia","Martin County,Kentucky",7930,140911
+78,"Wyoming County,West Virginia","Mason County,Kentucky",14827,378489
+79,"Wyoming County,West Virginia","Meade County,Kentucky",21533,534881
+80,"Wyoming County,West Virginia","Menifee County,Kentucky",13567,273682
+81,"Wyoming County,West Virginia","Mercer County,Kentucky",17761,414849
+82,"Wyoming County,West Virginia","Metcalfe County,Kentucky",20384,479781
+83,"Wyoming County,West Virginia","Monroe County,Kentucky",22354,517286
+84,"Wyoming County,West Virginia","Montgomery County,Kentucky",13966,376984
+85,"Wyoming County,West Virginia","Morgan County,Kentucky",12012,250669
+86,"Wyoming County,West Virginia","Muhlenberg County,Kentucky",24942,638473
+87,"Wyoming County,West Virginia","Nelson County,Kentucky",18992,458209
+88,"Wyoming County,West Virginia","Nicholas County,Kentucky",15644,404867
+89,"Wyoming County,West Virginia","Ohio County,Kentucky",23855,606063
+90,"Wyoming County,West Virginia","Oldham County,Kentucky",19144,474447
+91,"Wyoming County,West Virginia","Owen County,Kentucky",18200,430091
+92,"Wyoming County,West Virginia","Owsley County,Kentucky",14570,303151
+93,"Wyoming County,West Virginia","Pendleton County,Kentucky",17415,439868
+94,"Wyoming County,West Virginia","Perry County,Kentucky",11740,240683
+95,"Wyoming County,West Virginia","Pike County,Kentucky",7837,141149
+96,"Wyoming County,West Virginia","Powell County,Kentucky",13323,285652
+97,"Wyoming County,West Virginia","Robertson County,Kentucky",15562,404373
+98,"Wyoming County,West Virginia","Rockcastle County,Kentucky",16667,369640
+99,"Wyoming County,West Virginia","Rowan County,Kentucky",12296,330651
+100,"Wyoming County,West Virginia","Russell County,Kentucky",19332,433500
+101,"Wyoming County,West Virginia","Scott County,Kentucky",16174,382425
+102,"Wyoming County,West Virginia","Shelby County,Kentucky",18002,433701
+103,"Wyoming County,West Virginia","Simpson County,Kentucky",24465,599310
+104,"Wyoming County,West Virginia","Spencer County,Kentucky",18531,439549
+105,"Wyoming County,West Virginia","Taylor County,Kentucky",20674,490634
+106,"Wyoming County,West Virginia","Todd County,Kentucky",26051,640492
+107,"Wyoming County,West Virginia","Trigg County,Kentucky",27686,718715
+108,"Wyoming County,West Virginia","Trimble County,Kentucky",20218,480487
+109,"Wyoming County,West Virginia","Union County,Kentucky",28280,720903
+110,"Wyoming County,West Virginia","Warren County,Kentucky",23499,564258
+111,"Wyoming County,West Virginia","Washington County,Kentucky",19002,443446
+112,"Wyoming County,West Virginia","Wayne County,Kentucky",19508,430573
+113,"Wyoming County,West Virginia","Webster County,Kentucky",27191,700086
+114,"Wyoming County,West Virginia","Whitley County,Kentucky",16755,376090
+115,"Wyoming County,West Virginia","Wolfe County,Kentucky",11926,251420
+116,"Wyoming County,West Virginia","Woodford County,Kentucky",16394,385061
+117,"Wyoming County,West Virginia","Adams County,Ohio",14919,381046
+118,"Wyoming County,West Virginia","Allen County,Ohio",21651,556463
+119,"Wyoming County,West Virginia","Ashland County,Ohio",19396,510355
+120,"Wyoming County,West Virginia","Ashtabula County,Ohio",22083,631252
+121,"Wyoming County,West Virginia","Athens County,Ohio",11327,286645
+122,"Wyoming County,West Virginia","Auglaize County,Ohio",20901,573163
+123,"Wyoming County,West Virginia","Belmont County,Ohio",15146,420177
+124,"Wyoming County,West Virginia","Brown County,Ohio",16164,407973
+125,"Wyoming County,West Virginia","Butler County,Ohio",19276,489999
+126,"Wyoming County,West Virginia","Carroll County,Ohio",17076,457063
+127,"Wyoming County,West Virginia","Champaign County,Ohio",18205,475260
+128,"Wyoming County,West Virginia","Clark County,Ohio",16884,434805
+129,"Wyoming County,West Virginia","Clermont County,Ohio",16998,439070
+130,"Wyoming County,West Virginia","Clinton County,Ohio",16389,422486
+131,"Wyoming County,West Virginia","Columbiana County,Ohio",18918,511298
+132,"Wyoming County,West Virginia","Coshocton County,Ohio",15711,428180
+133,"Wyoming County,West Virginia","Crawford County,Ohio",20003,521515
+134,"Wyoming County,West Virginia","Cuyahoga County,Ohio",19112,542467
+135,"Wyoming County,West Virginia","Darke County,Ohio",19999,530210
+136,"Wyoming County,West Virginia","Defiance County,Ohio",25087,634784
+137,"Wyoming County,West Virginia","Delaware County,Ohio",17157,454252
+138,"Wyoming County,West Virginia","Fairfield County,Ohio",14688,381346
+139,"Wyoming County,West Virginia","Fayette County,Ohio",14952,392950
+140,"Wyoming County,West Virginia","Franklin County,Ohio",15688,411201
+141,"Wyoming County,West Virginia","Fulton County,Ohio",25094,677084
+142,"Wyoming County,West Virginia","Gallia County,Ohio",10266,252062
+143,"Wyoming County,West Virginia","Geauga County,Ohio",20184,568184
+144,"Wyoming County,West Virginia","Greene County,Ohio",15823,426103
+145,"Wyoming County,West Virginia","Guernsey County,Ohio",13262,366099
+146,"Wyoming County,West Virginia","Hamilton County,Ohio",18778,500577
+147,"Wyoming County,West Virginia","Hancock County,Ohio",21180,562607
+148,"Wyoming County,West Virginia","Hardin County,Ohio",20162,512293
+149,"Wyoming County,West Virginia","Harrison County,Ohio",16082,439129
+150,"Wyoming County,West Virginia","Henry County,Ohio",23893,634228
+151,"Wyoming County,West Virginia","Highland County,Ohio",15456,381060
+152,"Wyoming County,West Virginia","Hocking County,Ohio",13130,337309
+153,"Wyoming County,West Virginia","Holmes County,Ohio",16770,451064
+154,"Wyoming County,West Virginia","Huron County,Ohio",21293,551983
+155,"Wyoming County,West Virginia","Jackson County,Ohio",11443,291611
+156,"Wyoming County,West Virginia","Jefferson County,Ohio",17075,448906
+157,"Wyoming County,West Virginia","Knox County,Ohio",17500,470656
+158,"Wyoming County,West Virginia","Lawrence County,Ohio",10968,257825
+159,"Wyoming County,West Virginia","Licking County,Ohio",16633,408356
+160,"Wyoming County,West Virginia","Logan County,Ohio",19183,506570
+161,"Wyoming County,West Virginia","Lorain County,Ohio",20336,572290
+162,"Wyoming County,West Virginia","Lucas County,Ohio",24815,650106
+163,"Wyoming County,West Virginia","Madison County,Ohio",16653,416035
+164,"Wyoming County,West Virginia","Mahoning County,Ohio",19413,526103
+165,"Wyoming County,West Virginia","Marion County,Ohio",18563,480345
+166,"Wyoming County,West Virginia","Medina County,Ohio",18785,528498
+167,"Wyoming County,West Virginia","Meigs County,Ohio",10208,257616
+168,"Wyoming County,West Virginia","Mercer County,Ohio",22137,600097
+169,"Wyoming County,West Virginia","Miami County,Ohio",18487,495602
+170,"Wyoming County,West Virginia","Monroe County,Ohio",14198,355290
+171,"Wyoming County,West Virginia","Montgomery County,Ohio",17857,473558
+172,"Wyoming County,West Virginia","Morgan County,Ohio",13203,341938
+173,"Wyoming County,West Virginia","Morrow County,Ohio",17965,477073
+174,"Wyoming County,West Virginia","Muskingum County,Ohio",14108,394090
+175,"Wyoming County,West Virginia","Noble County,Ohio",12703,338450
+176,"Wyoming County,West Virginia","Paulding County,Ohio",24188,632369
+177,"Wyoming County,West Virginia","Perry County,Ohio",14545,352065
+178,"Wyoming County,West Virginia","Pickaway County,Ohio",14393,373049
+179,"Wyoming County,West Virginia","Pike County,Ohio",12889,330918
+180,"Wyoming County,West Virginia","Portage County,Ohio",18634,524049
+181,"Wyoming County,West Virginia","Preble County,Ohio",19476,502136
+182,"Wyoming County,West Virginia","Putnam County,Ohio",22774,588822
+183,"Wyoming County,West Virginia","Richland County,Ohio",18994,512311
+184,"Wyoming County,West Virginia","Ross County,Ohio",13137,339355
+185,"Wyoming County,West Virginia","Sandusky County,Ohio",22936,581302
+186,"Wyoming County,West Virginia","Scioto County,Ohio",12773,315098
+187,"Wyoming County,West Virginia","Seneca County,Ohio",21554,555186
+188,"Wyoming County,West Virginia","Shelby County,Ohio",19526,531888
+189,"Wyoming County,West Virginia","Stark County,Ohio",16935,472298
+190,"Wyoming County,West Virginia","Summit County,Ohio",17693,498086
+191,"Wyoming County,West Virginia","Trumbull County,Ohio",20368,552350
+192,"Wyoming County,West Virginia","Tuscarawas County,Ohio",15136,412885
+193,"Wyoming County,West Virginia","Union County,Ohio",17687,456801
+194,"Wyoming County,West Virginia","Van Wert County,Ohio",22885,599333
+195,"Wyoming County,West Virginia","Vinton County,Ohio",13338,317116
+196,"Wyoming County,West Virginia","Warren County,Ohio",17194,456545
+197,"Wyoming County,West Virginia","Washington County,Ohio",11562,296387
+198,"Wyoming County,West Virginia","Wayne County,Ohio",17906,475176
+199,"Wyoming County,West Virginia","Williams County,Ohio",26264,658301
+200,"Wyoming County,West Virginia","Wood County,Ohio",22578,604214
+201,"Wyoming County,West Virginia","Wyandot County,Ohio",20150,526742
+202,"Wyoming County,West Virginia","Accomack County,Virginia",26558,730902
+203,"Wyoming County,West Virginia","Albemarle County,Virginia",12707,343401
+204,"Wyoming County,West Virginia","Alleghany County,Virginia",7377,180424
+205,"Wyoming County,West Virginia","Amelia County,Virginia",17408,443519
+206,"Wyoming County,West Virginia","Amherst County,Virginia",12705,311390
+207,"Wyoming County,West Virginia","Appomattox County,Virginia",14299,350149
+208,"Wyoming County,West Virginia","Arlington County,Virginia",19392,543710
+209,"Wyoming County,West Virginia","Augusta County,Virginia",11318,281741
+210,"Wyoming County,West Virginia","Bath County,Virginia",10388,255734
+211,"Wyoming County,West Virginia","Bedford County,Virginia",12965,297515
+212,"Wyoming County,West Virginia","Bland County,Virginia",6338,146644
+213,"Wyoming County,West Virginia","Botetourt County,Virginia",10531,251724
+214,"Wyoming County,West Virginia","Brunswick County,Virginia",19951,493192
+215,"Wyoming County,West Virginia","Buchanan County,Virginia",7151,105013
+216,"Wyoming County,West Virginia","Buckingham County,Virginia",14581,361084
+217,"Wyoming County,West Virginia","Campbell County,Virginia",14222,352621
+218,"Wyoming County,West Virginia","Caroline County,Virginia",18047,512247
+219,"Wyoming County,West Virginia","Carroll County,Virginia",8584,216081
+220,"Wyoming County,West Virginia","Charles City County,Virginia",18147,509281
+221,"Wyoming County,West Virginia","Charlotte County,Virginia",16183,403670
+222,"Wyoming County,West Virginia","Chesterfield County,Virginia",17283,487065
+223,"Wyoming County,West Virginia","Clarke County,Virginia",16887,470459
+224,"Wyoming County,West Virginia","Craig County,Virginia",9020,201509
+225,"Wyoming County,West Virginia","Culpeper County,Virginia",16505,432618
+226,"Wyoming County,West Virginia","Cumberland County,Virginia",15791,389087
+227,"Wyoming County,West Virginia","Dickenson County,Virginia",10092,148726
+228,"Wyoming County,West Virginia","Dinwiddie County,Virginia",19030,537497
+229,"Wyoming County,West Virginia","Essex County,Virginia",19864,536289
+230,"Wyoming County,West Virginia","Fairfax County,Virginia",19015,533986
+231,"Wyoming County,West Virginia","Fauquier County,Virginia",17326,491710
+232,"Wyoming County,West Virginia","Floyd County,Virginia",10205,235046
+233,"Wyoming County,West Virginia","Fluvanna County,Virginia",14385,395573
+234,"Wyoming County,West Virginia","Franklin County,Virginia",12478,298748
+235,"Wyoming County,West Virginia","Frederick County,Virginia",16339,458186
+236,"Wyoming County,West Virginia","Giles County,Virginia",7069,158202
+237,"Wyoming County,West Virginia","Gloucester County,Virginia",20318,563470
+238,"Wyoming County,West Virginia","Goochland County,Virginia",15289,426184
+239,"Wyoming County,West Virginia","Grayson County,Virginia",8987,205789
+240,"Wyoming County,West Virginia","Greene County,Virginia",14700,378985
+241,"Wyoming County,West Virginia","Greensville County,Virginia",20446,586248
+242,"Wyoming County,West Virginia","Halifax County,Virginia",16887,413768
+243,"Wyoming County,West Virginia","Hanover County,Virginia",16495,467291
+244,"Wyoming County,West Virginia","Henrico County,Virginia",17007,480250
+245,"Wyoming County,West Virginia","Henry County,Virginia",12457,302802
+246,"Wyoming County,West Virginia","Highland County,Virginia",11833,265704
+247,"Wyoming County,West Virginia","Isle of Wight County,Virginia",21259,584827
+248,"Wyoming County,West Virginia","James City County,Virginia",19383,550052
+249,"Wyoming County,West Virginia","King and Queen County,Virginia",19041,525636
+250,"Wyoming County,West Virginia","King George County,Virginia",19160,540233
+251,"Wyoming County,West Virginia","King William County,Virginia",17729,495559
+252,"Wyoming County,West Virginia","Lancaster County,Virginia",21522,578644
+253,"Wyoming County,West Virginia","Lee County,Virginia",13236,279626
+254,"Wyoming County,West Virginia","Loudoun County,Virginia",18383,506326
+255,"Wyoming County,West Virginia","Louisa County,Virginia",14946,409279
+256,"Wyoming County,West Virginia","Lunenburg County,Virginia",17955,444954
+257,"Wyoming County,West Virginia","Madison County,Virginia",15620,408726
+258,"Wyoming County,West Virginia","Mathews County,Virginia",21143,586893
+259,"Wyoming County,West Virginia","Mecklenburg County,Virginia",18946,458078
+260,"Wyoming County,West Virginia","Middlesex County,Virginia",19919,559670
+261,"Wyoming County,West Virginia","Montgomery County,Virginia",8152,186209
+262,"Wyoming County,West Virginia","Nelson County,Virginia",13246,323081
+263,"Wyoming County,West Virginia","New Kent County,Virginia",18819,523966
+264,"Wyoming County,West Virginia","Northampton County,Virginia",23800,666716
+265,"Wyoming County,West Virginia","Northumberland County,Virginia",21561,577156
+266,"Wyoming County,West Virginia","Nottoway County,Virginia",17448,445333
+267,"Wyoming County,West Virginia","Orange County,Virginia",15909,417386
+268,"Wyoming County,West Virginia","Page County,Virginia",14554,392516
+269,"Wyoming County,West Virginia","Patrick County,Virginia",10690,261117
+270,"Wyoming County,West Virginia","Pittsylvania County,Virginia",14773,357010
+271,"Wyoming County,West Virginia","Powhatan County,Virginia",16542,451405
+272,"Wyoming County,West Virginia","Prince Edward County,Virginia",16063,402669
+273,"Wyoming County,West Virginia","Prince George County,Virginia",18794,524081
+274,"Wyoming County,West Virginia","Prince William County,Virginia",17425,497814
+275,"Wyoming County,West Virginia","Pulaski County,Virginia",8247,182540
+276,"Wyoming County,West Virginia","Rappahannock County,Virginia",16385,428998
+277,"Wyoming County,West Virginia","Richmond County,Virginia",20261,549800
+278,"Wyoming County,West Virginia","Roanoke County,Virginia",9772,229002
+279,"Wyoming County,West Virginia","Rockbridge County,Virginia",9709,248780
+280,"Wyoming County,West Virginia","Rockingham County,Virginia",13593,364861
+281,"Wyoming County,West Virginia","Russell County,Virginia",8848,151819
+282,"Wyoming County,West Virginia","Scott County,Virginia",11512,219946
+283,"Wyoming County,West Virginia","Shenandoah County,Virginia",14098,394965
+284,"Wyoming County,West Virginia","Smyth County,Virginia",8696,211996
+285,"Wyoming County,West Virginia","Southampton County,Virginia",20824,582362
+286,"Wyoming County,West Virginia","Spotsylvania County,Virginia",16962,451117
+287,"Wyoming County,West Virginia","Stafford County,Virginia",18344,475410
+288,"Wyoming County,West Virginia","Surry County,Virginia",20127,548914
+289,"Wyoming County,West Virginia","Sussex County,Virginia",19488,552605
+290,"Wyoming County,West Virginia","Tazewell County,Virginia",5741,88768
+291,"Wyoming County,West Virginia","Warren County,Virginia",16000,439557
+292,"Wyoming County,West Virginia","Washington County,Virginia",9664,180090
+293,"Wyoming County,West Virginia","Westmoreland County,Virginia",20134,557058
+294,"Wyoming County,West Virginia","Wise County,Virginia",10200,207009
+295,"Wyoming County,West Virginia","Wythe County,Virginia",6943,164861
+296,"Wyoming County,West Virginia","York County,Virginia",20671,580827
+297,"Wyoming County,West Virginia","Alexandria City County,Virginia",19595,556357
+298,"Wyoming County,West Virginia","Bedford City County,Virginia",12130,288946
+299,"Wyoming County,West Virginia","Bristol City County,Virginia",10504,200976
+300,"Wyoming County,West Virginia","Buena Vista City County,Virginia",10064,262758
+301,"Wyoming County,West Virginia","Charlottesville City County,Virginia",13177,358616
+302,"Wyoming County,West Virginia","Chesapeake City County,Virginia",22134,633732
+303,"Wyoming County,West Virginia","Clifton Forge City County,Virginia",7920,200631
+304,"Wyoming County,West Virginia","Colonial Heights City County,Virginia",17843,502957
+305,"Wyoming County,West Virginia","Covington City County,Virginia",7446,184010
+306,"Wyoming County,West Virginia","Danville City County,Virginia",14615,357258
+307,"Wyoming County,West Virginia","Emporia City County,Virginia",20154,572842
+308,"Wyoming County,West Virginia","Fairfax City County,Virginia",18558,523562
+309,"Wyoming County,West Virginia","Falls Church City County,Virginia",18890,538034
+310,"Wyoming County,West Virginia","Franklin City County,Virginia",21372,590217
+311,"Wyoming County,West Virginia","Fredericksburg City County,Virginia",18095,460777
+312,"Wyoming County,West Virginia","Galax City County,Virginia",9207,221947
+313,"Wyoming County,West Virginia","Hampton City County,Virginia",20621,590533
+314,"Wyoming County,West Virginia","Harrisonburg City County,Virginia",12652,344758
+315,"Wyoming County,West Virginia","Hopewell City County,Virginia",17880,501924
+316,"Wyoming County,West Virginia","Lexington City County,Virginia",9698,251249
+317,"Wyoming County,West Virginia","Lynchburg City County,Virginia",13282,326364
+318,"Wyoming County,West Virginia","Manassas City County,Virginia",17653,502759
+319,"Wyoming County,West Virginia","Manassas Park City County,Virginia",18155,509102
+320,"Wyoming County,West Virginia","Martinsville City County,Virginia",12985,311596
+321,"Wyoming County,West Virginia","Newport News City County,Virginia",20178,577019
+322,"Wyoming County,West Virginia","Norfolk City County,Virginia",21927,615949
+323,"Wyoming County,West Virginia","Norton City County,Virginia",10829,218821
+324,"Wyoming County,West Virginia","Petersburg City County,Virginia",17715,503945
+325,"Wyoming County,West Virginia","Poquoson City County,Virginia",20849,587595
+326,"Wyoming County,West Virginia","Portsmouth City County,Virginia",21866,624770
+327,"Wyoming County,West Virginia","Radford County,Virginia",8560,184249
+328,"Wyoming County,West Virginia","Richmond City County,Virginia",16583,468060
+329,"Wyoming County,West Virginia","Roanoke City County,Virginia",10374,249107
+330,"Wyoming County,West Virginia","Salem City County,Virginia",9786,235657
+331,"Wyoming County,West Virginia","South Boston City County,Virginia",16627,411436
+332,"Wyoming County,West Virginia","Staunton City County,Virginia",11469,305893
+333,"Wyoming County,West Virginia","Suffolk City County,Virginia",22102,599551
+334,"Wyoming County,West Virginia","Virginia Beach City County,Virginia",22488,639207
+335,"Wyoming County,West Virginia","Waynesboro City County,Virginia",11807,318611
+336,"Wyoming County,West Virginia","Williamsburg City County,Virginia",19222,549268
+337,"Wyoming County,West Virginia","Winchester City County,Virginia",16219,454330
+338,"Wyoming County,West Virginia","Barbour County,West Virginia",12354,297611
+339,"Wyoming County,West Virginia","Berkeley County,West Virginia",17957,501537
+340,"Wyoming County,West Virginia","Boone County,West Virginia",4215,70542
+341,"Wyoming County,West Virginia","Braxton County,West Virginia",9044,188591
+342,"Wyoming County,West Virginia","Brooke County,West Virginia",16712,429405
+343,"Wyoming County,West Virginia","Cabell County,West Virginia",9285,231029
+344,"Wyoming County,West Virginia","Calhoun County,West Virginia",10719,256508
+345,"Wyoming County,West Virginia","Clay County,West Virginia",7710,152028
+346,"Wyoming County,West Virginia","Doddridge County,West Virginia",12558,274467
+347,"Wyoming County,West Virginia","Fayette County,West Virginia",5217,97765
+348,"Wyoming County,West Virginia","Gilmer County,West Virginia",10612,238271
+349,"Wyoming County,West Virginia","Grant County,West Virginia",16190,366075
+350,"Wyoming County,West Virginia","Greenbrier County,West Virginia",7331,137566
+351,"Wyoming County,West Virginia","Hampshire County,West Virginia",18076,472441
+352,"Wyoming County,West Virginia","Hancock County,West Virginia",18339,456752
+353,"Wyoming County,West Virginia","Hardy County,West Virginia",17303,373543
+354,"Wyoming County,West Virginia","Harrison County,West Virginia",11588,283982
+355,"Wyoming County,West Virginia","Jackson County,West Virginia",8604,210840
+356,"Wyoming County,West Virginia","Jefferson County,West Virginia",18007,488943
+357,"Wyoming County,West Virginia","Kanawha County,West Virginia",6367,132822
+358,"Wyoming County,West Virginia","Lewis County,West Virginia",10217,237452
+359,"Wyoming County,West Virginia","Lincoln County,West Virginia",7701,137964
+360,"Wyoming County,West Virginia","Logan County,West Virginia",4401,74772
+361,"Wyoming County,West Virginia","McDowell County,West Virginia",3222,49916
+362,"Wyoming County,West Virginia","Marion County,West Virginia",12733,311149
+363,"Wyoming County,West Virginia","Marshall County,West Virginia",16612,398525
+364,"Wyoming County,West Virginia","Mason County,West Virginia",8760,216935
+365,"Wyoming County,West Virginia","Mercer County,West Virginia",4306,72671
+366,"Wyoming County,West Virginia","Mineral County,West Virginia",18404,427977
+367,"Wyoming County,West Virginia","Mingo County,West Virginia",5151,91646
+368,"Wyoming County,West Virginia","Monongalia County,West Virginia",12943,336618
+369,"Wyoming County,West Virginia","Monroe County,West Virginia",7937,149862
+370,"Wyoming County,West Virginia","Morgan County,West Virginia",18234,499096
+371,"Wyoming County,West Virginia","Nicholas County,West Virginia",6663,138764
+372,"Wyoming County,West Virginia","Ohio County,West Virginia",16244,443662
+373,"Wyoming County,West Virginia","Pendleton County,West Virginia",13971,313800
+374,"Wyoming County,West Virginia","Pleasants County,West Virginia",12086,308691
+375,"Wyoming County,West Virginia","Pocahontas County,West Virginia",10410,217778
+376,"Wyoming County,West Virginia","Preston County,West Virginia",15089,363349
+377,"Wyoming County,West Virginia","Putnam County,West Virginia",7542,182554
+378,"Wyoming County,West Virginia","Raleigh County,West Virginia",2778,48389
+379,"Wyoming County,West Virginia","Randolph County,West Virginia",12719,299907
+380,"Wyoming County,West Virginia","Ritchie County,West Virginia",12417,322395
+381,"Wyoming County,West Virginia","Roane County,West Virginia",10229,239655
+382,"Wyoming County,West Virginia","Summers County,West Virginia",6885,120281
+383,"Wyoming County,West Virginia","Taylor County,West Virginia",12626,306722
+384,"Wyoming County,West Virginia","Tucker County,West Virginia",13786,330432
+385,"Wyoming County,West Virginia","Tyler County,West Virginia",13995,348307
+386,"Wyoming County,West Virginia","Upshur County,West Virginia",11782,252149
+387,"Wyoming County,West Virginia","Wayne County,West Virginia",8927,156320
+388,"Wyoming County,West Virginia","Webster County,West Virginia",10007,195715
+389,"Wyoming County,West Virginia","Wetzel County,West Virginia",14267,335464
+390,"Wyoming County,West Virginia","Wirt County,West Virginia",10870,268177
+391,"Wyoming County,West Virginia","Wood County,West Virginia",10982,275311

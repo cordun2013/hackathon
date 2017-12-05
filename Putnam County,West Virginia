@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Putnam County,West Virginia","Adair County,Kentucky",14798,411192
+1,"Putnam County,West Virginia","Allen County,Kentucky",17416,511840
+2,"Putnam County,West Virginia","Anderson County,Kentucky",10598,314231
+3,"Putnam County,West Virginia","Ballard County,Kentucky",23576,704002
+4,"Putnam County,West Virginia","Barren County,Kentucky",16543,470219
+5,"Putnam County,West Virginia","Bath County,Kentucky",6245,185412
+6,"Putnam County,West Virginia","Bell County,Kentucky",14963,363333
+7,"Putnam County,West Virginia","Boone County,Kentucky",12058,306805
+8,"Putnam County,West Virginia","Bourbon County,Kentucky",8159,231829
+9,"Putnam County,West Virginia","Boyd County,Kentucky",2920,79737
+10,"Putnam County,West Virginia","Boyle County,Kentucky",11826,318117
+11,"Putnam County,West Virginia","Bracken County,Kentucky",8570,225912
+12,"Putnam County,West Virginia","Breathitt County,Kentucky",9632,226438
+13,"Putnam County,West Virginia","Breckinridge County,Kentucky",16131,466912
+14,"Putnam County,West Virginia","Bullitt County,Kentucky",12701,388031
+15,"Putnam County,West Virginia","Butler County,Kentucky",16796,488910
+16,"Putnam County,West Virginia","Caldwell County,Kentucky",19688,594855
+17,"Putnam County,West Virginia","Calloway County,Kentucky",22498,679848
+18,"Putnam County,West Virginia","Campbell County,Kentucky",10270,265784
+19,"Putnam County,West Virginia","Carlisle County,Kentucky",24033,719370
+20,"Putnam County,West Virginia","Carroll County,Kentucky",13142,362045
+21,"Putnam County,West Virginia","Carter County,Kentucky",4085,109834
+22,"Putnam County,West Virginia","Casey County,Kentucky",13321,349622
+23,"Putnam County,West Virginia","Christian County,Kentucky",19337,590112
+24,"Putnam County,West Virginia","Clay County,Kentucky",12130,313553
+25,"Putnam County,West Virginia","Clinton County,Kentucky",15205,414557
+26,"Putnam County,West Virginia","Crittenden County,Kentucky",21268,627926
+27,"Putnam County,West Virginia","Cumberland County,Kentucky",15959,432796
+28,"Putnam County,West Virginia","Daviess County,Kentucky",17819,535352
+29,"Putnam County,West Virginia","Edmonson County,Kentucky",16236,476785
+30,"Putnam County,West Virginia","Elliott County,Kentucky",5416,135604
+31,"Putnam County,West Virginia","Estill County,Kentucky",9237,247727
+32,"Putnam County,West Virginia","Fayette County,Kentucky",8405,251724
+33,"Putnam County,West Virginia","Fleming County,Kentucky",6671,188598
+34,"Putnam County,West Virginia","Floyd County,Kentucky",7053,187002
+35,"Putnam County,West Virginia","Franklin County,Kentucky",10442,300640
+36,"Putnam County,West Virginia","Fulton County,Kentucky",24437,740335
+37,"Putnam County,West Virginia","Gallatin County,Kentucky",12140,352704
+38,"Putnam County,West Virginia","Garrard County,Kentucky",11010,298877
+39,"Putnam County,West Virginia","Grant County,Kentucky",10939,326811
+40,"Putnam County,West Virginia","Graves County,Kentucky",23058,692077
+41,"Putnam County,West Virginia","Grayson County,Kentucky",15123,445546
+42,"Putnam County,West Virginia","Green County,Kentucky",14903,410751
+43,"Putnam County,West Virginia","Greenup County,Kentucky",4696,120863
+44,"Putnam County,West Virginia","Hancock County,Kentucky",16927,499805
+45,"Putnam County,West Virginia","Hardin County,Kentucky",13999,407679
+46,"Putnam County,West Virginia","Harlan County,Kentucky",14286,343649
+47,"Putnam County,West Virginia","Harrison County,Kentucky",9729,264929
+48,"Putnam County,West Virginia","Hart County,Kentucky",14799,435307
+49,"Putnam County,West Virginia","Henderson County,Kentucky",19625,587782
+50,"Putnam County,West Virginia","Henry County,Kentucky",12044,344359
+51,"Putnam County,West Virginia","Hickman County,Kentucky",24067,720662
+52,"Putnam County,West Virginia","Hopkins County,Kentucky",19146,569323
+53,"Putnam County,West Virginia","Jackson County,Kentucky",11910,295736
+54,"Putnam County,West Virginia","Jefferson County,Kentucky",12137,359892
+55,"Putnam County,West Virginia","Jessamine County,Kentucky",9874,273188
+56,"Putnam County,West Virginia","Johnson County,Kentucky",5702,152633
+57,"Putnam County,West Virginia","Kenton County,Kentucky",11427,294499
+58,"Putnam County,West Virginia","Knott County,Kentucky",8235,218883
+59,"Putnam County,West Virginia","Knox County,Kentucky",13413,377770
+60,"Putnam County,West Virginia","Larue County,Kentucky",14071,394854
+61,"Putnam County,West Virginia","Laurel County,Kentucky",12264,349165
+62,"Putnam County,West Virginia","Lawrence County,Kentucky",4844,124057
+63,"Putnam County,West Virginia","Lee County,Kentucky",10082,241464
+64,"Putnam County,West Virginia","Leslie County,Kentucky",11315,288557
+65,"Putnam County,West Virginia","Letcher County,Kentucky",10090,256493
+66,"Putnam County,West Virginia","Lewis County,Kentucky",6123,161651
+67,"Putnam County,West Virginia","Lincoln County,Kentucky",11720,315796
+68,"Putnam County,West Virginia","Livingston County,Kentucky",21863,644822
+69,"Putnam County,West Virginia","Logan County,Kentucky",18536,532148
+70,"Putnam County,West Virginia","Lyon County,Kentucky",21997,655213
+71,"Putnam County,West Virginia","McCracken County,Kentucky",22188,672062
+72,"Putnam County,West Virginia","McCreary County,Kentucky",14369,393606
+73,"Putnam County,West Virginia","Madison County,Kentucky",9403,262747
+74,"Putnam County,West Virginia","Magoffin County,Kentucky",6670,173312
+75,"Putnam County,West Virginia","Marion County,Kentucky",12449,356463
+76,"Putnam County,West Virginia","Marshall County,Kentucky",21603,655634
+77,"Putnam County,West Virginia","Martin County,Kentucky",6329,156401
+78,"Putnam County,West Virginia","Mason County,Kentucky",7919,205458
+79,"Putnam County,West Virginia","Meade County,Kentucky",14598,432207
+80,"Putnam County,West Virginia","Menifee County,Kentucky",7361,197476
+81,"Putnam County,West Virginia","Mercer County,Kentucky",10825,312175
+82,"Putnam County,West Virginia","Metcalfe County,Kentucky",15454,441456
+83,"Putnam County,West Virginia","Monroe County,Kentucky",17424,478961
+84,"Putnam County,West Virginia","Montgomery County,Kentucky",7058,203952
+85,"Putnam County,West Virginia","Morgan County,Kentucky",7139,173191
+86,"Putnam County,West Virginia","Muhlenberg County,Kentucky",18007,535799
+87,"Putnam County,West Virginia","Nelson County,Kentucky",12057,355535
+88,"Putnam County,West Virginia","Nicholas County,Kentucky",8736,231836
+89,"Putnam County,West Virginia","Ohio County,Kentucky",16920,503389
+90,"Putnam County,West Virginia","Oldham County,Kentucky",12209,371773
+91,"Putnam County,West Virginia","Owen County,Kentucky",11264,327417
+92,"Putnam County,West Virginia","Owsley County,Kentucky",11229,261441
+93,"Putnam County,West Virginia","Pendleton County,Kentucky",10507,266836
+94,"Putnam County,West Virginia","Perry County,Kentucky",9615,249441
+95,"Putnam County,West Virginia","Pike County,Kentucky",8261,201559
+96,"Putnam County,West Virginia","Powell County,Kentucky",8502,233698
+97,"Putnam County,West Virginia","Robertson County,Kentucky",8653,231342
+98,"Putnam County,West Virginia","Rockcastle County,Kentucky",10837,303889
+99,"Putnam County,West Virginia","Rowan County,Kentucky",5388,157619
+100,"Putnam County,West Virginia","Russell County,Kentucky",14402,395175
+101,"Putnam County,West Virginia","Scott County,Kentucky",9239,279751
+102,"Putnam County,West Virginia","Shelby County,Kentucky",11066,331027
+103,"Putnam County,West Virginia","Simpson County,Kentucky",18118,540205
+104,"Putnam County,West Virginia","Spencer County,Kentucky",11596,336875
+105,"Putnam County,West Virginia","Taylor County,Kentucky",13738,387959
+106,"Putnam County,West Virginia","Todd County,Kentucky",19772,556309
+107,"Putnam County,West Virginia","Trigg County,Kentucky",20750,616041
+108,"Putnam County,West Virginia","Trimble County,Kentucky",13283,377813
+109,"Putnam County,West Virginia","Union County,Kentucky",21345,618228
+110,"Putnam County,West Virginia","Warren County,Kentucky",17152,505154
+111,"Putnam County,West Virginia","Washington County,Kentucky",12067,340771
+112,"Putnam County,West Virginia","Wayne County,Kentucky",14578,392248
+113,"Putnam County,West Virginia","Webster County,Kentucky",20256,597412
+114,"Putnam County,West Virginia","Whitley County,Kentucky",13097,383649
+115,"Putnam County,West Virginia","Wolfe County,Kentucky",8234,196553
+116,"Putnam County,West Virginia","Woodford County,Kentucky",9459,282387
+117,"Putnam County,West Virginia","Adams County,Ohio",7780,203916
+118,"Putnam County,West Virginia","Allen County,Ohio",14512,379333
+119,"Putnam County,West Virginia","Ashland County,Ohio",13580,371021
+120,"Putnam County,West Virginia","Ashtabula County,Ohio",17231,520498
+121,"Putnam County,West Virginia","Athens County,Ohio",5015,120041
+122,"Putnam County,West Virginia","Auglaize County,Ohio",13762,396033
+123,"Putnam County,West Virginia","Belmont County,Ohio",10294,309423
+124,"Putnam County,West Virginia","Brown County,Ohio",9204,236776
+125,"Putnam County,West Virginia","Butler County,Ohio",12137,312869
+126,"Putnam County,West Virginia","Carroll County,Ohio",12224,346309
+127,"Putnam County,West Virginia","Champaign County,Ohio",11066,298130
+128,"Putnam County,West Virginia","Clark County,Ohio",9745,257675
+129,"Putnam County,West Virginia","Clermont County,Ohio",9858,261940
+130,"Putnam County,West Virginia","Clinton County,Ohio",9249,245356
+131,"Putnam County,West Virginia","Columbiana County,Ohio",14065,400544
+132,"Putnam County,West Virginia","Coshocton County,Ohio",10859,317426
+133,"Putnam County,West Virginia","Crawford County,Ohio",13194,339479
+134,"Putnam County,West Virginia","Cuyahoga County,Ohio",14260,431713
+135,"Putnam County,West Virginia","Darke County,Ohio",12859,353079
+136,"Putnam County,West Virginia","Defiance County,Ohio",17947,457654
+137,"Putnam County,West Virginia","Delaware County,Ohio",10497,277693
+138,"Putnam County,West Virginia","Fairfield County,Ohio",8375,214742
+139,"Putnam County,West Virginia","Fayette County,Ohio",7813,215820
+140,"Putnam County,West Virginia","Franklin County,Ohio",9014,237620
+141,"Putnam County,West Virginia","Fulton County,Ohio",18284,495048
+142,"Putnam County,West Virginia","Gallia County,Ohio",3126,74931
+143,"Putnam County,West Virginia","Geauga County,Ohio",15331,457430
+144,"Putnam County,West Virginia","Greene County,Ohio",8683,248972
+145,"Putnam County,West Virginia","Guernsey County,Ohio",8409,255344
+146,"Putnam County,West Virginia","Hamilton County,Ohio",11638,323446
+147,"Putnam County,West Virginia","Hancock County,Ohio",14371,380571
+148,"Putnam County,West Virginia","Hardin County,Ohio",13023,335162
+149,"Putnam County,West Virginia","Harrison County,Ohio",11229,328374
+150,"Putnam County,West Virginia","Henry County,Ohio",17084,452193
+151,"Putnam County,West Virginia","Highland County,Ohio",8317,203929
+152,"Putnam County,West Virginia","Hocking County,Ohio",6817,170705
+153,"Putnam County,West Virginia","Holmes County,Ohio",11917,340310
+154,"Putnam County,West Virginia","Huron County,Ohio",14726,369791
+155,"Putnam County,West Virginia","Jackson County,Ohio",4303,114480
+156,"Putnam County,West Virginia","Jefferson County,Ohio",12222,338152
+157,"Putnam County,West Virginia","Knox County,Ohio",12642,287970
+158,"Putnam County,West Virginia","Lawrence County,Ohio",4060,84793
+159,"Putnam County,West Virginia","Licking County,Ohio",10320,241752
+160,"Putnam County,West Virginia","Logan County,Ohio",12043,329440
+161,"Putnam County,West Virginia","Lorain County,Ohio",15484,461536
+162,"Putnam County,West Virginia","Lucas County,Ohio",18006,468070
+163,"Putnam County,West Virginia","Madison County,Ohio",9514,238904
+164,"Putnam County,West Virginia","Mahoning County,Ohio",14561,415349
+165,"Putnam County,West Virginia","Marion County,Ohio",11754,298309
+166,"Putnam County,West Virginia","Medina County,Ohio",13933,417744
+167,"Putnam County,West Virginia","Meigs County,Ohio",3905,92777
+168,"Putnam County,West Virginia","Mercer County,Ohio",14997,422966
+169,"Putnam County,West Virginia","Miami County,Ohio",11348,318472
+170,"Putnam County,West Virginia","Monroe County,Ohio",9345,244536
+171,"Putnam County,West Virginia","Montgomery County,Ohio",10717,296428
+172,"Putnam County,West Virginia","Morgan County,Ohio",7968,187066
+173,"Putnam County,West Virginia","Morrow County,Ohio",11304,300514
+174,"Putnam County,West Virginia","Muskingum County,Ohio",9255,283336
+175,"Putnam County,West Virginia","Noble County,Ohio",7851,227696
+176,"Putnam County,West Virginia","Paulding County,Ohio",17049,455239
+177,"Putnam County,West Virginia","Perry County,Ohio",8233,185462
+178,"Putnam County,West Virginia","Pickaway County,Ohio",7253,195919
+179,"Putnam County,West Virginia","Pike County,Ohio",5749,153787
+180,"Putnam County,West Virginia","Portage County,Ohio",13782,413295
+181,"Putnam County,West Virginia","Preble County,Ohio",12336,325006
+182,"Putnam County,West Virginia","Putnam County,Ohio",15635,411691
+183,"Putnam County,West Virginia","Richland County,Ohio",12334,335752
+184,"Putnam County,West Virginia","Ross County,Ohio",5997,162225
+185,"Putnam County,West Virginia","Sandusky County,Ohio",16127,399266
+186,"Putnam County,West Virginia","Scioto County,Ohio",5865,142066
+187,"Putnam County,West Virginia","Seneca County,Ohio",14745,373151
+188,"Putnam County,West Virginia","Shelby County,Ohio",12386,354757
+189,"Putnam County,West Virginia","Stark County,Ohio",12082,361544
+190,"Putnam County,West Virginia","Summit County,Ohio",12841,387332
+191,"Putnam County,West Virginia","Trumbull County,Ohio",15516,441596
+192,"Putnam County,West Virginia","Tuscarawas County,Ohio",10283,302131
+193,"Putnam County,West Virginia","Union County,Ohio",10547,279671
+194,"Putnam County,West Virginia","Van Wert County,Ohio",15746,422203
+195,"Putnam County,West Virginia","Vinton County,Ohio",6199,139986
+196,"Putnam County,West Virginia","Warren County,Ohio",10055,279415
+197,"Putnam County,West Virginia","Washington County,Ohio",6709,185633
+198,"Putnam County,West Virginia","Wayne County,Ohio",13054,364422
+199,"Putnam County,West Virginia","Williams County,Ohio",19124,481170
+200,"Putnam County,West Virginia","Wood County,Ohio",15769,422179
+201,"Putnam County,West Virginia","Wyandot County,Ohio",13341,344707
+202,"Putnam County,West Virginia","Accomack County,Virginia",28301,808701
+203,"Putnam County,West Virginia","Albemarle County,Virginia",14451,421200
+204,"Putnam County,West Virginia","Alleghany County,Virginia",9120,258223
+205,"Putnam County,West Virginia","Amelia County,Virginia",19152,521318
+206,"Putnam County,West Virginia","Amherst County,Virginia",14449,389189
+207,"Putnam County,West Virginia","Appomattox County,Virginia",16042,427948
+208,"Putnam County,West Virginia","Arlington County,Virginia",20734,617232
+209,"Putnam County,West Virginia","Augusta County,Virginia",13062,359540
+210,"Putnam County,West Virginia","Bath County,Virginia",12132,333533
+211,"Putnam County,West Virginia","Bedford County,Virginia",14709,375314
+212,"Putnam County,West Virginia","Bland County,Virginia",8082,224443
+213,"Putnam County,West Virginia","Botetourt County,Virginia",12274,329523
+214,"Putnam County,West Virginia","Brunswick County,Virginia",21695,570991
+215,"Putnam County,West Virginia","Buchanan County,Virginia",12113,245477
+216,"Putnam County,West Virginia","Buckingham County,Virginia",16325,438883
+217,"Putnam County,West Virginia","Campbell County,Virginia",15966,430420
+218,"Putnam County,West Virginia","Caroline County,Virginia",19790,590046
+219,"Putnam County,West Virginia","Carroll County,Virginia",10328,293880
+220,"Putnam County,West Virginia","Charles City County,Virginia",19891,587080
+221,"Putnam County,West Virginia","Charlotte County,Virginia",17927,481469
+222,"Putnam County,West Virginia","Chesterfield County,Virginia",19027,564864
+223,"Putnam County,West Virginia","Clarke County,Virginia",18631,548258
+224,"Putnam County,West Virginia","Craig County,Virginia",10763,279308
+225,"Putnam County,West Virginia","Culpeper County,Virginia",18248,510417
+226,"Putnam County,West Virginia","Cumberland County,Virginia",17534,466886
+227,"Putnam County,West Virginia","Dickenson County,Virginia",12359,291520
+228,"Putnam County,West Virginia","Dinwiddie County,Virginia",20774,615296
+229,"Putnam County,West Virginia","Essex County,Virginia",21608,614088
+230,"Putnam County,West Virginia","Fairfax County,Virginia",20425,607899
+231,"Putnam County,West Virginia","Fauquier County,Virginia",19069,569510
+232,"Putnam County,West Virginia","Floyd County,Virginia",11948,312845
+233,"Putnam County,West Virginia","Fluvanna County,Virginia",16129,473372
+234,"Putnam County,West Virginia","Franklin County,Virginia",14221,376547
+235,"Putnam County,West Virginia","Frederick County,Virginia",17296,462392
+236,"Putnam County,West Virginia","Giles County,Virginia",8813,236001
+237,"Putnam County,West Virginia","Gloucester County,Virginia",22061,641269
+238,"Putnam County,West Virginia","Goochland County,Virginia",17032,503983
+239,"Putnam County,West Virginia","Grayson County,Virginia",10730,283588
+240,"Putnam County,West Virginia","Greene County,Virginia",16444,456784
+241,"Putnam County,West Virginia","Greensville County,Virginia",22190,664047
+242,"Putnam County,West Virginia","Halifax County,Virginia",18631,491567
+243,"Putnam County,West Virginia","Hanover County,Virginia",18239,545090
+244,"Putnam County,West Virginia","Henrico County,Virginia",18750,558049
+245,"Putnam County,West Virginia","Henry County,Virginia",14201,380601
+246,"Putnam County,West Virginia","Highland County,Virginia",13576,343503
+247,"Putnam County,West Virginia","Isle of Wight County,Virginia",23002,662626
+248,"Putnam County,West Virginia","James City County,Virginia",21127,627851
+249,"Putnam County,West Virginia","King and Queen County,Virginia",20785,603435
+250,"Putnam County,West Virginia","King George County,Virginia",20903,618032
+251,"Putnam County,West Virginia","King William County,Virginia",19472,573358
+252,"Putnam County,West Virginia","Lancaster County,Virginia",23265,656443
+253,"Putnam County,West Virginia","Lee County,Virginia",13660,340036
+254,"Putnam County,West Virginia","Loudoun County,Virginia",20127,584125
+255,"Putnam County,West Virginia","Louisa County,Virginia",16690,487078
+256,"Putnam County,West Virginia","Lunenburg County,Virginia",19699,522753
+257,"Putnam County,West Virginia","Madison County,Virginia",17364,486525
+258,"Putnam County,West Virginia","Mathews County,Virginia",22886,664692
+259,"Putnam County,West Virginia","Mecklenburg County,Virginia",20690,535877
+260,"Putnam County,West Virginia","Middlesex County,Virginia",21663,637469
+261,"Putnam County,West Virginia","Montgomery County,Virginia",9896,264008
+262,"Putnam County,West Virginia","Nelson County,Virginia",14990,400880
+263,"Putnam County,West Virginia","New Kent County,Virginia",20563,601765
+264,"Putnam County,West Virginia","Northampton County,Virginia",25544,744515
+265,"Putnam County,West Virginia","Northumberland County,Virginia",23305,654955
+266,"Putnam County,West Virginia","Nottoway County,Virginia",19192,523133
+267,"Putnam County,West Virginia","Orange County,Virginia",17652,495185
+268,"Putnam County,West Virginia","Page County,Virginia",16298,470315
+269,"Putnam County,West Virginia","Patrick County,Virginia",12433,338916
+270,"Putnam County,West Virginia","Pittsylvania County,Virginia",16517,434809
+271,"Putnam County,West Virginia","Powhatan County,Virginia",18286,529204
+272,"Putnam County,West Virginia","Prince Edward County,Virginia",17807,480468
+273,"Putnam County,West Virginia","Prince George County,Virginia",20537,601880
+274,"Putnam County,West Virginia","Prince William County,Virginia",19169,575613
+275,"Putnam County,West Virginia","Pulaski County,Virginia",9991,260339
+276,"Putnam County,West Virginia","Rappahannock County,Virginia",18128,506797
+277,"Putnam County,West Virginia","Richmond County,Virginia",22005,627599
+278,"Putnam County,West Virginia","Roanoke County,Virginia",11515,306801
+279,"Putnam County,West Virginia","Rockbridge County,Virginia",11453,326579
+280,"Putnam County,West Virginia","Rockingham County,Virginia",15336,442660
+281,"Putnam County,West Virginia","Russell County,Virginia",11890,304623
+282,"Putnam County,West Virginia","Scott County,Virginia",13835,338974
+283,"Putnam County,West Virginia","Shenandoah County,Virginia",15841,472764
+284,"Putnam County,West Virginia","Smyth County,Virginia",10440,289795
+285,"Putnam County,West Virginia","Southampton County,Virginia",22568,660161
+286,"Putnam County,West Virginia","Spotsylvania County,Virginia",18706,528916
+287,"Putnam County,West Virginia","Stafford County,Virginia",20087,553209
+288,"Putnam County,West Virginia","Surry County,Virginia",21870,626713
+289,"Putnam County,West Virginia","Sussex County,Virginia",21232,630404
+290,"Putnam County,West Virginia","Tazewell County,Virginia",8898,243030
+291,"Putnam County,West Virginia","Warren County,Virginia",17743,517357
+292,"Putnam County,West Virginia","Washington County,Virginia",11833,329261
+293,"Putnam County,West Virginia","Westmoreland County,Virginia",21877,634857
+294,"Putnam County,West Virginia","Wise County,Virginia",10624,267419
+295,"Putnam County,West Virginia","Wythe County,Virginia",8687,242660
+296,"Putnam County,West Virginia","York County,Virginia",22414,658626
+297,"Putnam County,West Virginia","Alexandria City County,Virginia",21250,634414
+298,"Putnam County,West Virginia","Bedford City County,Virginia",13873,366745
+299,"Putnam County,West Virginia","Bristol City County,Virginia",12308,354979
+300,"Putnam County,West Virginia","Buena Vista City County,Virginia",11808,340557
+301,"Putnam County,West Virginia","Charlottesville City County,Virginia",14920,436415
+302,"Putnam County,West Virginia","Chesapeake City County,Virginia",23877,711531
+303,"Putnam County,West Virginia","Clifton Forge City County,Virginia",9664,278430
+304,"Putnam County,West Virginia","Colonial Heights City County,Virginia",19586,580757
+305,"Putnam County,West Virginia","Covington City County,Virginia",9189,261809
+306,"Putnam County,West Virginia","Danville City County,Virginia",16358,435057
+307,"Putnam County,West Virginia","Emporia City County,Virginia",21897,650641
+308,"Putnam County,West Virginia","Fairfax City County,Virginia",20301,601361
+309,"Putnam County,West Virginia","Falls Church City County,Virginia",20442,611544
+310,"Putnam County,West Virginia","Franklin City County,Virginia",23115,668016
+311,"Putnam County,West Virginia","Fredericksburg City County,Virginia",19839,538576
+312,"Putnam County,West Virginia","Galax City County,Virginia",10951,299747
+313,"Putnam County,West Virginia","Hampton City County,Virginia",22364,668332
+314,"Putnam County,West Virginia","Harrisonburg City County,Virginia",14396,422557
+315,"Putnam County,West Virginia","Hopewell City County,Virginia",19623,579723
+316,"Putnam County,West Virginia","Lexington City County,Virginia",11442,329048
+317,"Putnam County,West Virginia","Lynchburg City County,Virginia",15025,404163
+318,"Putnam County,West Virginia","Manassas City County,Virginia",19396,580558
+319,"Putnam County,West Virginia","Manassas Park City County,Virginia",19898,586901
+320,"Putnam County,West Virginia","Martinsville City County,Virginia",14729,389395
+321,"Putnam County,West Virginia","Newport News City County,Virginia",21921,654818
+322,"Putnam County,West Virginia","Norfolk City County,Virginia",23671,693748
+323,"Putnam County,West Virginia","Norton City County,Virginia",11253,279231
+324,"Putnam County,West Virginia","Petersburg City County,Virginia",19458,581744
+325,"Putnam County,West Virginia","Poquoson City County,Virginia",22593,665394
+326,"Putnam County,West Virginia","Portsmouth City County,Virginia",23610,702569
+327,"Putnam County,West Virginia","Radford County,Virginia",10303,262048
+328,"Putnam County,West Virginia","Richmond City County,Virginia",18326,545860
+329,"Putnam County,West Virginia","Roanoke City County,Virginia",12117,326906
+330,"Putnam County,West Virginia","Salem City County,Virginia",11529,313456
+331,"Putnam County,West Virginia","South Boston City County,Virginia",18371,489235
+332,"Putnam County,West Virginia","Staunton City County,Virginia",13213,383692
+333,"Putnam County,West Virginia","Suffolk City County,Virginia",23845,677350
+334,"Putnam County,West Virginia","Virginia Beach City County,Virginia",24232,717006
+335,"Putnam County,West Virginia","Waynesboro City County,Virginia",13551,396410
+336,"Putnam County,West Virginia","Williamsburg City County,Virginia",20965,627067
+337,"Putnam County,West Virginia","Winchester City County,Virginia",17775,496394
+338,"Putnam County,West Virginia","Barbour County,West Virginia",9256,257090
+339,"Putnam County,West Virginia","Berkeley County,West Virginia",17189,495249
+340,"Putnam County,West Virginia","Boone County,West Virginia",4435,90707
+341,"Putnam County,West Virginia","Braxton County,West Virginia",5946,148069
+342,"Putnam County,West Virginia","Brooke County,West Virginia",12373,351670
+343,"Putnam County,West Virginia","Cabell County,West Virginia",2376,57998
+344,"Putnam County,West Virginia","Calhoun County,West Virginia",5867,145754
+345,"Putnam County,West Virginia","Clay County,West Virginia",4713,118982
+346,"Putnam County,West Virginia","Doddridge County,West Virginia",8399,238599
+347,"Putnam County,West Virginia","Fayette County,West Virginia",6000,137326
+348,"Putnam County,West Virginia","Gilmer County,West Virginia",7145,170256
+349,"Putnam County,West Virginia","Grant County,West Virginia",13611,358635
+350,"Putnam County,West Virginia","Greenbrier County,West Virginia",9074,215365
+351,"Putnam County,West Virginia","Hampshire County,West Virginia",16443,456853
+352,"Putnam County,West Virginia","Hancock County,West Virginia",13962,386206
+353,"Putnam County,West Virginia","Hardy County,West Virginia",14667,390133
+354,"Putnam County,West Virginia","Harrison County,West Virginia",8489,243461
+355,"Putnam County,West Virginia","Jackson County,West Virginia",3751,100086
+356,"Putnam County,West Virginia","Jefferson County,West Virginia",18655,551247
+357,"Putnam County,West Virginia","Kanawha County,West Virginia",3309,71390
+358,"Putnam County,West Virginia","Lewis County,West Virginia",7119,196931
+359,"Putnam County,West Virginia","Lincoln County,West Virginia",3820,65565
+360,"Putnam County,West Virginia","Logan County,West Virginia",5364,127825
+361,"Putnam County,West Virginia","McDowell County,West Virginia",9671,218703
+362,"Putnam County,West Virginia","Marion County,West Virginia",9635,270628
+363,"Putnam County,West Virginia","Marshall County,West Virginia",11759,287771
+364,"Putnam County,West Virginia","Mason County,West Virginia",1620,39805
+365,"Putnam County,West Virginia","Mercer County,West Virginia",6635,182949
+366,"Putnam County,West Virginia","Mineral County,West Virginia",15305,387456
+367,"Putnam County,West Virginia","Mingo County,West Virginia",5409,132333
+368,"Putnam County,West Virginia","Monongalia County,West Virginia",9845,296096
+369,"Putnam County,West Virginia","Monroe County,West Virginia",9681,227661
+370,"Putnam County,West Virginia","Morgan County,West Virginia",16680,484641
+371,"Putnam County,West Virginia","Nicholas County,West Virginia",6429,178863
+372,"Putnam County,West Virginia","Ohio County,West Virginia",11392,332908
+373,"Putnam County,West Virginia","Pendleton County,West Virginia",13942,361259
+374,"Putnam County,West Virginia","Pleasants County,West Virginia",7234,197937
+375,"Putnam County,West Virginia","Pocahontas County,West Virginia",11758,248401
+376,"Putnam County,West Virginia","Preston County,West Virginia",11991,322827
+377,"Putnam County,West Virginia","Raleigh County,West Virginia",5177,136642
+378,"Putnam County,West Virginia","Randolph County,West Virginia",9620,259386
+379,"Putnam County,West Virginia","Ritchie County,West Virginia",7564,211641
+380,"Putnam County,West Virginia","Roane County,West Virginia",5377,128901
+381,"Putnam County,West Virginia","Summers County,West Virginia",8629,198080
+382,"Putnam County,West Virginia","Taylor County,West Virginia",9527,266200
+383,"Putnam County,West Virginia","Tucker County,West Virginia",10687,289910
+384,"Putnam County,West Virginia","Tyler County,West Virginia",9143,237553
+385,"Putnam County,West Virginia","Upshur County,West Virginia",8684,211628
+386,"Putnam County,West Virginia","Wayne County,West Virginia",3968,90624
+387,"Putnam County,West Virginia","Webster County,West Virginia",8613,205942
+388,"Putnam County,West Virginia","Wetzel County,West Virginia",10355,259459
+389,"Putnam County,West Virginia","Wirt County,West Virginia",6017,157423
+390,"Putnam County,West Virginia","Wood County,West Virginia",5532,159113
+391,"Putnam County,West Virginia","Wyoming County,West Virginia",7121,176584

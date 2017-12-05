@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Mingo County,West Virginia","Adair County,Kentucky",15532,382173
+1,"Mingo County,West Virginia","Allen County,Kentucky",18729,477815
+2,"Mingo County,West Virginia","Anderson County,Kentucky",13172,329838
+3,"Mingo County,West Virginia","Ballard County,Kentucky",26151,719609
+4,"Mingo County,West Virginia","Barren County,Kentucky",17278,441200
+5,"Mingo County,West Virginia","Bath County,Kentucky",9079,229461
+6,"Mingo County,West Virginia","Bell County,Kentucky",10833,243093
+7,"Mingo County,West Virginia","Boone County,Kentucky",14892,350854
+8,"Mingo County,West Virginia","Bourbon County,Kentucky",10993,275878
+9,"Mingo County,West Virginia","Boyd County,Kentucky",5755,123785
+10,"Mingo County,West Virginia","Boyle County,Kentucky",14401,333725
+11,"Mingo County,West Virginia","Bracken County,Kentucky",11404,269961
+12,"Mingo County,West Virginia","Breathitt County,Kentucky",8630,180826
+13,"Mingo County,West Virginia","Breckinridge County,Kentucky",18706,482519
+14,"Mingo County,West Virginia","Bullitt County,Kentucky",15276,403639
+15,"Mingo County,West Virginia","Butler County,Kentucky",19371,504517
+16,"Mingo County,West Virginia","Caldwell County,Kentucky",22262,610462
+17,"Mingo County,West Virginia","Calloway County,Kentucky",25072,695455
+18,"Mingo County,West Virginia","Campbell County,Kentucky",13104,309832
+19,"Mingo County,West Virginia","Carlisle County,Kentucky",26608,734978
+20,"Mingo County,West Virginia","Carroll County,Kentucky",15717,377652
+21,"Mingo County,West Virginia","Carter County,Kentucky",6919,153882
+22,"Mingo County,West Virginia","Casey County,Kentucky",15470,355447
+23,"Mingo County,West Virginia","Christian County,Kentucky",21912,605719
+24,"Mingo County,West Virginia","Clay County,Kentucky",10060,237451
+25,"Mingo County,West Virginia","Clinton County,Kentucky",15939,385538
+26,"Mingo County,West Virginia","Crittenden County,Kentucky",23842,643533
+27,"Mingo County,West Virginia","Cumberland County,Kentucky",16693,403777
+28,"Mingo County,West Virginia","Daviess County,Kentucky",20393,550959
+29,"Mingo County,West Virginia","Edmonson County,Kentucky",18807,485361
+30,"Mingo County,West Virginia","Elliott County,Kentucky",7913,136525
+31,"Mingo County,West Virginia","Estill County,Kentucky",10077,230331
+32,"Mingo County,West Virginia","Fayette County,Kentucky",10979,267331
+33,"Mingo County,West Virginia","Fleming County,Kentucky",9505,232646
+34,"Mingo County,West Virginia","Floyd County,Kentucky",4983,110899
+35,"Mingo County,West Virginia","Franklin County,Kentucky",13017,316247
+36,"Mingo County,West Virginia","Fulton County,Kentucky",27012,755942
+37,"Mingo County,West Virginia","Gallatin County,Kentucky",14715,368311
+38,"Mingo County,West Virginia","Garrard County,Kentucky",13276,294671
+39,"Mingo County,West Virginia","Grant County,Kentucky",13514,342419
+40,"Mingo County,West Virginia","Graves County,Kentucky",25633,707684
+41,"Mingo County,West Virginia","Grayson County,Kentucky",17698,461153
+42,"Mingo County,West Virginia","Green County,Kentucky",17284,424338
+43,"Mingo County,West Virginia","Greenup County,Kentucky",7753,174192
+44,"Mingo County,West Virginia","Hancock County,Kentucky",19501,515412
+45,"Mingo County,West Virginia","Hardin County,Kentucky",16574,423286
+46,"Mingo County,West Virginia","Harlan County,Kentucky",10155,223409
+47,"Mingo County,West Virginia","Harrison County,Kentucky",12487,291740
+48,"Mingo County,West Virginia","Hart County,Kentucky",17373,450914
+49,"Mingo County,West Virginia","Henderson County,Kentucky",22200,603389
+50,"Mingo County,West Virginia","Henry County,Kentucky",14618,359966
+51,"Mingo County,West Virginia","Hickman County,Kentucky",26641,736269
+52,"Mingo County,West Virginia","Hopkins County,Kentucky",21721,584931
+53,"Mingo County,West Virginia","Jackson County,Kentucky",11689,246553
+54,"Mingo County,West Virginia","Jefferson County,Kentucky",14712,375499
+55,"Mingo County,West Virginia","Jessamine County,Kentucky",12448,288795
+56,"Mingo County,West Virginia","Johnson County,Kentucky",4571,91736
+57,"Mingo County,West Virginia","Kenton County,Kentucky",14261,338548
+58,"Mingo County,West Virginia","Knott County,Kentucky",6164,142781
+59,"Mingo County,West Virginia","Knox County,Kentucky",11384,264106
+60,"Mingo County,West Virginia","Larue County,Kentucky",16646,410462
+61,"Mingo County,West Virginia","Laurel County,Kentucky",11661,274247
+62,"Mingo County,West Virginia","Lawrence County,Kentucky",5111,97199
+63,"Mingo County,West Virginia","Lee County,Kentucky",9063,196107
+64,"Mingo County,West Virginia","Leslie County,Kentucky",9244,212455
+65,"Mingo County,West Virginia","Letcher County,Kentucky",6340,143688
+66,"Mingo County,West Virginia","Lewis County,Kentucky",8958,205700
+67,"Mingo County,West Virginia","Lincoln County,Kentucky",13986,311589
+68,"Mingo County,West Virginia","Livingston County,Kentucky",24438,660429
+69,"Mingo County,West Virginia","Logan County,Kentucky",20680,543093
+70,"Mingo County,West Virginia","Lyon County,Kentucky",24571,670820
+71,"Mingo County,West Virginia","McCracken County,Kentucky",24763,687669
+72,"Mingo County,West Virginia","McCreary County,Kentucky",14195,344661
+73,"Mingo County,West Virginia","Madison County,Kentucky",11580,262347
+74,"Mingo County,West Virginia","Magoffin County,Kentucky",5538,112416
+75,"Mingo County,West Virginia","Marion County,Kentucky",15024,372071
+76,"Mingo County,West Virginia","Marshall County,Kentucky",24178,671241
+77,"Mingo County,West Virginia","Martin County,Kentucky",3569,53844
+78,"Mingo County,West Virginia","Mason County,Kentucky",10753,249507
+79,"Mingo County,West Virginia","Meade County,Kentucky",17173,447814
+80,"Mingo County,West Virginia","Menifee County,Kentucky",9206,186615
+81,"Mingo County,West Virginia","Mercer County,Kentucky",13400,327782
+82,"Mingo County,West Virginia","Metcalfe County,Kentucky",16188,412438
+83,"Mingo County,West Virginia","Monroe County,Kentucky",18158,449942
+84,"Mingo County,West Virginia","Montgomery County,Kentucky",9892,248001
+85,"Mingo County,West Virginia","Morgan County,Kentucky",7651,163602
+86,"Mingo County,West Virginia","Muhlenberg County,Kentucky",20581,551406
+87,"Mingo County,West Virginia","Nelson County,Kentucky",14631,371142
+88,"Mingo County,West Virginia","Nicholas County,Kentucky",11570,275885
+89,"Mingo County,West Virginia","Ohio County,Kentucky",19495,518996
+90,"Mingo County,West Virginia","Oldham County,Kentucky",14784,387380
+91,"Mingo County,West Virginia","Owen County,Kentucky",13839,343024
+92,"Mingo County,West Virginia","Owsley County,Kentucky",10210,216084
+93,"Mingo County,West Virginia","Pendleton County,Kentucky",13341,310885
+94,"Mingo County,West Virginia","Perry County,Kentucky",7544,173339
+95,"Mingo County,West Virginia","Pike County,Kentucky",3642,73805
+96,"Mingo County,West Virginia","Powell County,Kentucky",8963,198585
+97,"Mingo County,West Virginia","Robertson County,Kentucky",11488,275391
+98,"Mingo County,West Virginia","Rockcastle County,Kentucky",12472,302296
+99,"Mingo County,West Virginia","Rowan County,Kentucky",8222,201668
+100,"Mingo County,West Virginia","Russell County,Kentucky",15137,366156
+101,"Mingo County,West Virginia","Scott County,Kentucky",11814,295358
+102,"Mingo County,West Virginia","Shelby County,Kentucky",13641,346634
+103,"Mingo County,West Virginia","Simpson County,Kentucky",20269,531966
+104,"Mingo County,West Virginia","Spencer County,Kentucky",14170,352482
+105,"Mingo County,West Virginia","Taylor County,Kentucky",16313,403567
+106,"Mingo County,West Virginia","Todd County,Kentucky",21855,573148
+107,"Mingo County,West Virginia","Trigg County,Kentucky",23325,631648
+108,"Mingo County,West Virginia","Trimble County,Kentucky",15857,393420
+109,"Mingo County,West Virginia","Union County,Kentucky",23920,633836
+110,"Mingo County,West Virginia","Warren County,Kentucky",19304,496915
+111,"Mingo County,West Virginia","Washington County,Kentucky",14641,356379
+112,"Mingo County,West Virginia","Wayne County,Kentucky",15313,363229
+113,"Mingo County,West Virginia","Webster County,Kentucky",22830,613019
+114,"Mingo County,West Virginia","Whitley County,Kentucky",12560,308747
+115,"Mingo County,West Virginia","Wolfe County,Kentucky",7566,164353
+116,"Mingo County,West Virginia","Woodford County,Kentucky",12033,297994
+117,"Mingo County,West Virginia","Adams County,Ohio",11506,245909
+118,"Mingo County,West Virginia","Allen County,Ohio",19547,506394
+119,"Mingo County,West Virginia","Ashland County,Ohio",17627,472143
+120,"Mingo County,West Virginia","Ashtabula County,Ohio",20314,593041
+121,"Mingo County,West Virginia","Athens County,Ohio",9558,248434
+122,"Mingo County,West Virginia","Auglaize County,Ohio",18797,523094
+123,"Mingo County,West Virginia","Belmont County,Ohio",13377,381965
+124,"Mingo County,West Virginia","Brown County,Ohio",12090,278991
+125,"Mingo County,West Virginia","Butler County,Ohio",16477,378288
+126,"Mingo County,West Virginia","Carroll County,Ohio",15307,418851
+127,"Mingo County,West Virginia","Champaign County,Ohio",16101,425192
+128,"Mingo County,West Virginia","Clark County,Ohio",14780,384736
+129,"Mingo County,West Virginia","Clermont County,Ohio",13585,303933
+130,"Mingo County,West Virginia","Clinton County,Ohio",14204,300646
+131,"Mingo County,West Virginia","Columbiana County,Ohio",17149,473087
+132,"Mingo County,West Virginia","Coshocton County,Ohio",13942,389968
+133,"Mingo County,West Virginia","Crawford County,Ohio",18229,466540
+134,"Mingo County,West Virginia","Cuyahoga County,Ohio",17343,504255
+135,"Mingo County,West Virginia","Darke County,Ohio",17895,480141
+136,"Mingo County,West Virginia","Defiance County,Ohio",22983,584715
+137,"Mingo County,West Virginia","Delaware County,Ohio",15388,416040
+138,"Mingo County,West Virginia","Fairfield County,Ohio",12919,343135
+139,"Mingo County,West Virginia","Fayette County,Ohio",12848,342881
+140,"Mingo County,West Virginia","Franklin County,Ohio",13919,372989
+141,"Mingo County,West Virginia","Fulton County,Ohio",23320,622109
+142,"Mingo County,West Virginia","Gallia County,Ohio",8161,201993
+143,"Mingo County,West Virginia","Geauga County,Ohio",18415,529973
+144,"Mingo County,West Virginia","Greene County,Ohio",13718,376034
+145,"Mingo County,West Virginia","Guernsey County,Ohio",11493,327887
+146,"Mingo County,West Virginia","Hamilton County,Ohio",15086,362892
+147,"Mingo County,West Virginia","Hancock County,Ohio",19406,507632
+148,"Mingo County,West Virginia","Hardin County,Ohio",18058,462224
+149,"Mingo County,West Virginia","Harrison County,Ohio",14313,400917
+150,"Mingo County,West Virginia","Henry County,Ohio",22119,579254
+151,"Mingo County,West Virginia","Highland County,Ohio",12472,259992
+152,"Mingo County,West Virginia","Hocking County,Ohio",11361,299098
+153,"Mingo County,West Virginia","Holmes County,Ohio",15001,412852
+154,"Mingo County,West Virginia","Huron County,Ohio",19524,513772
+155,"Mingo County,West Virginia","Jackson County,Ohio",9339,241542
+156,"Mingo County,West Virginia","Jefferson County,Ohio",15306,410695
+157,"Mingo County,West Virginia","Knox County,Ohio",15731,432444
+158,"Mingo County,West Virginia","Lawrence County,Ohio",7639,147422
+159,"Mingo County,West Virginia","Licking County,Ohio",14864,370144
+160,"Mingo County,West Virginia","Logan County,Ohio",17079,456501
+161,"Mingo County,West Virginia","Lorain County,Ohio",18567,534079
+162,"Mingo County,West Virginia","Lucas County,Ohio",23041,595132
+163,"Mingo County,West Virginia","Madison County,Ohio",14549,365966
+164,"Mingo County,West Virginia","Mahoning County,Ohio",17644,487892
+165,"Mingo County,West Virginia","Marion County,Ohio",16789,425370
+166,"Mingo County,West Virginia","Medina County,Ohio",17016,490286
+167,"Mingo County,West Virginia","Meigs County,Ohio",8439,219404
+168,"Mingo County,West Virginia","Mercer County,Ohio",20033,550028
+169,"Mingo County,West Virginia","Miami County,Ohio",16383,445533
+170,"Mingo County,West Virginia","Monroe County,Ohio",12429,317079
+171,"Mingo County,West Virginia","Montgomery County,Ohio",15753,423489
+172,"Mingo County,West Virginia","Morgan County,Ohio",11434,303727
+173,"Mingo County,West Virginia","Morrow County,Ohio",16196,438861
+174,"Mingo County,West Virginia","Muskingum County,Ohio",12339,355879
+175,"Mingo County,West Virginia","Noble County,Ohio",10934,300239
+176,"Mingo County,West Virginia","Paulding County,Ohio",22084,582300
+177,"Mingo County,West Virginia","Perry County,Ohio",12776,313854
+178,"Mingo County,West Virginia","Pickaway County,Ohio",12288,322980
+179,"Mingo County,West Virginia","Pike County,Ohio",9904,209850
+180,"Mingo County,West Virginia","Portage County,Ohio",16865,485837
+181,"Mingo County,West Virginia","Preble County,Ohio",17372,452067
+182,"Mingo County,West Virginia","Putnam County,Ohio",20670,538753
+183,"Mingo County,West Virginia","Richland County,Ohio",17225,474100
+184,"Mingo County,West Virginia","Ross County,Ohio",11033,289286
+185,"Mingo County,West Virginia","Sandusky County,Ohio",21162,526327
+186,"Mingo County,West Virginia","Scioto County,Ohio",8984,186488
+187,"Mingo County,West Virginia","Seneca County,Ohio",19780,500212
+188,"Mingo County,West Virginia","Shelby County,Ohio",17422,481819
+189,"Mingo County,West Virginia","Stark County,Ohio",15166,434086
+190,"Mingo County,West Virginia","Summit County,Ohio",15924,459875
+191,"Mingo County,West Virginia","Trumbull County,Ohio",18599,514139
+192,"Mingo County,West Virginia","Tuscarawas County,Ohio",13367,374674
+193,"Mingo County,West Virginia","Union County,Ohio",15583,406732
+194,"Mingo County,West Virginia","Van Wert County,Ohio",20781,549264
+195,"Mingo County,West Virginia","Vinton County,Ohio",11234,267047
+196,"Mingo County,West Virginia","Warren County,Ohio",15090,406476
+197,"Mingo County,West Virginia","Washington County,Ohio",9793,258175
+198,"Mingo County,West Virginia","Wayne County,Ohio",16137,436965
+199,"Mingo County,West Virginia","Williams County,Ohio",24160,608232
+200,"Mingo County,West Virginia","Wood County,Ohio",20804,549240
+201,"Mingo County,West Virginia","Wyandot County,Ohio",18376,471768
+202,"Mingo County,West Virginia","Accomack County,Virginia",30760,855376
+203,"Mingo County,West Virginia","Albemarle County,Virginia",16909,467876
+204,"Mingo County,West Virginia","Alleghany County,Virginia",11578,304899
+205,"Mingo County,West Virginia","Amelia County,Virginia",21610,567994
+206,"Mingo County,West Virginia","Amherst County,Virginia",16907,435865
+207,"Mingo County,West Virginia","Appomattox County,Virginia",18500,474624
+208,"Mingo County,West Virginia","Arlington County,Virginia",23594,668185
+209,"Mingo County,West Virginia","Augusta County,Virginia",15520,406215
+210,"Mingo County,West Virginia","Bath County,Virginia",14590,380209
+211,"Mingo County,West Virginia","Bedford County,Virginia",17167,421989
+212,"Mingo County,West Virginia","Bland County,Virginia",10540,271118
+213,"Mingo County,West Virginia","Botetourt County,Virginia",14733,376198
+214,"Mingo County,West Virginia","Brunswick County,Virginia",24153,617667
+215,"Mingo County,West Virginia","Buchanan County,Virginia",7494,117723
+216,"Mingo County,West Virginia","Buckingham County,Virginia",18783,485559
+217,"Mingo County,West Virginia","Campbell County,Virginia",18424,477096
+218,"Mingo County,West Virginia","Caroline County,Virginia",22248,636721
+219,"Mingo County,West Virginia","Carroll County,Virginia",12786,340556
+220,"Mingo County,West Virginia","Charles City County,Virginia",22349,633756
+221,"Mingo County,West Virginia","Charlotte County,Virginia",20385,528144
+222,"Mingo County,West Virginia","Chesterfield County,Virginia",21485,611540
+223,"Mingo County,West Virginia","Clarke County,Virginia",21089,594934
+224,"Mingo County,West Virginia","Craig County,Virginia",13221,325984
+225,"Mingo County,West Virginia","Culpeper County,Virginia",20706,557092
+226,"Mingo County,West Virginia","Cumberland County,Virginia",19993,513561
+227,"Mingo County,West Virginia","Dickenson County,Virginia",7740,163767
+228,"Mingo County,West Virginia","Dinwiddie County,Virginia",23232,661971
+229,"Mingo County,West Virginia","Essex County,Virginia",24066,660764
+230,"Mingo County,West Virginia","Fairfax County,Virginia",23217,658461
+231,"Mingo County,West Virginia","Fauquier County,Virginia",21527,616185
+232,"Mingo County,West Virginia","Floyd County,Virginia",14407,359520
+233,"Mingo County,West Virginia","Fluvanna County,Virginia",18587,520047
+234,"Mingo County,West Virginia","Franklin County,Virginia",16680,423223
+235,"Mingo County,West Virginia","Frederick County,Virginia",20380,534935
+236,"Mingo County,West Virginia","Giles County,Virginia",11271,282677
+237,"Mingo County,West Virginia","Gloucester County,Virginia",24520,687944
+238,"Mingo County,West Virginia","Goochland County,Virginia",19491,550658
+239,"Mingo County,West Virginia","Grayson County,Virginia",13188,330263
+240,"Mingo County,West Virginia","Greene County,Virginia",18902,503460
+241,"Mingo County,West Virginia","Greensville County,Virginia",24648,710723
+242,"Mingo County,West Virginia","Halifax County,Virginia",21089,538243
+243,"Mingo County,West Virginia","Hanover County,Virginia",29453,825259
+244,"Mingo County,West Virginia","Henrico County,Virginia",21208,604725
+245,"Mingo County,West Virginia","Henry County,Virginia",16659,427277
+246,"Mingo County,West Virginia","Highland County,Virginia",16035,390179
+247,"Mingo County,West Virginia","Isle of Wight County,Virginia",25461,709302
+248,"Mingo County,West Virginia","James City County,Virginia",23585,674527
+249,"Mingo County,West Virginia","King and Queen County,Virginia",23243,650111
+250,"Mingo County,West Virginia","King George County,Virginia",23362,664708
+251,"Mingo County,West Virginia","King William County,Virginia",21931,620033
+252,"Mingo County,West Virginia","Lancaster County,Virginia",25723,703119
+253,"Mingo County,West Virginia","Lee County,Virginia",9041,212283
+254,"Mingo County,West Virginia","Loudoun County,Virginia",22585,630800
+255,"Mingo County,West Virginia","Louisa County,Virginia",19148,533753
+256,"Mingo County,West Virginia","Lunenburg County,Virginia",22157,569429
+257,"Mingo County,West Virginia","Madison County,Virginia",19822,533200
+258,"Mingo County,West Virginia","Mathews County,Virginia",25344,711368
+259,"Mingo County,West Virginia","Mecklenburg County,Virginia",23148,582553
+260,"Mingo County,West Virginia","Middlesex County,Virginia",24121,684145
+261,"Mingo County,West Virginia","Montgomery County,Virginia",12354,310683
+262,"Mingo County,West Virginia","Nelson County,Virginia",17448,447556
+263,"Mingo County,West Virginia","New Kent County,Virginia",23021,648441
+264,"Mingo County,West Virginia","Northampton County,Virginia",28002,791190
+265,"Mingo County,West Virginia","Northumberland County,Virginia",25763,701631
+266,"Mingo County,West Virginia","Nottoway County,Virginia",21650,569808
+267,"Mingo County,West Virginia","Orange County,Virginia",20111,541861
+268,"Mingo County,West Virginia","Page County,Virginia",18756,516991
+269,"Mingo County,West Virginia","Patrick County,Virginia",14891,385592
+270,"Mingo County,West Virginia","Pittsylvania County,Virginia",18975,481485
+271,"Mingo County,West Virginia","Powhatan County,Virginia",20744,575880
+272,"Mingo County,West Virginia","Prince Edward County,Virginia",20265,527144
+273,"Mingo County,West Virginia","Prince George County,Virginia",22996,648555
+274,"Mingo County,West Virginia","Prince William County,Virginia",21627,622289
+275,"Mingo County,West Virginia","Pulaski County,Virginia",12449,307015
+276,"Mingo County,West Virginia","Rappahannock County,Virginia",20587,553473
+277,"Mingo County,West Virginia","Richmond County,Virginia",24463,674274
+278,"Mingo County,West Virginia","Roanoke County,Virginia",13974,353477
+279,"Mingo County,West Virginia","Rockbridge County,Virginia",13911,373255
+280,"Mingo County,West Virginia","Rockingham County,Virginia",17795,489336
+281,"Mingo County,West Virginia","Russell County,Virginia",9463,176819
+282,"Mingo County,West Virginia","Scott County,Virginia",9216,211220
+283,"Mingo County,West Virginia","Shenandoah County,Virginia",18299,519440
+284,"Mingo County,West Virginia","Smyth County,Virginia",12027,279368
+285,"Mingo County,West Virginia","Southampton County,Virginia",25026,706837
+286,"Mingo County,West Virginia","Spotsylvania County,Virginia",21164,575592
+287,"Mingo County,West Virginia","Stafford County,Virginia",22545,599885
+288,"Mingo County,West Virginia","Surry County,Virginia",24329,673388
+289,"Mingo County,West Virginia","Sussex County,Virginia",23690,677080
+290,"Mingo County,West Virginia","Tazewell County,Virginia",9519,162069
+291,"Mingo County,West Virginia","Warren County,Virginia",20202,564032
+292,"Mingo County,West Virginia","Washington County,Virginia",10138,230484
+293,"Mingo County,West Virginia","Westmoreland County,Virginia",24336,681532
+294,"Mingo County,West Virginia","Wise County,Virginia",6005,139666
+295,"Mingo County,West Virginia","Wythe County,Virginia",11145,289336
+296,"Mingo County,West Virginia","York County,Virginia",24873,705302
+297,"Mingo County,West Virginia","Alexandria City County,Virginia",23796,680832
+298,"Mingo County,West Virginia","Bedford City County,Virginia",16331,413421
+299,"Mingo County,West Virginia","Bristol City County,Virginia",10978,251371
+300,"Mingo County,West Virginia","Buena Vista City County,Virginia",14266,387232
+301,"Mingo County,West Virginia","Charlottesville City County,Virginia",17378,483090
+302,"Mingo County,West Virginia","Chesapeake City County,Virginia",26336,758207
+303,"Mingo County,West Virginia","Clifton Forge City County,Virginia",12122,325105
+304,"Mingo County,West Virginia","Colonial Heights City County,Virginia",22045,627432
+305,"Mingo County,West Virginia","Covington City County,Virginia",11647,308484
+306,"Mingo County,West Virginia","Danville City County,Virginia",18817,481733
+307,"Mingo County,West Virginia","Emporia City County,Virginia",24356,697316
+308,"Mingo County,West Virginia","Fairfax City County,Virginia",22759,648037
+309,"Mingo County,West Virginia","Falls Church City County,Virginia",23091,662509
+310,"Mingo County,West Virginia","Franklin City County,Virginia",25573,714692
+311,"Mingo County,West Virginia","Fredericksburg City County,Virginia",22297,585251
+312,"Mingo County,West Virginia","Galax City County,Virginia",13409,346422
+313,"Mingo County,West Virginia","Hampton City County,Virginia",24823,715008
+314,"Mingo County,West Virginia","Harrisonburg City County,Virginia",16854,469232
+315,"Mingo County,West Virginia","Hopewell City County,Virginia",22081,626398
+316,"Mingo County,West Virginia","Lexington City County,Virginia",13900,375724
+317,"Mingo County,West Virginia","Lynchburg City County,Virginia",17483,450838
+318,"Mingo County,West Virginia","Manassas City County,Virginia",21854,627234
+319,"Mingo County,West Virginia","Manassas Park City County,Virginia",22357,633577
+320,"Mingo County,West Virginia","Martinsville City County,Virginia",17187,436070
+321,"Mingo County,West Virginia","Newport News City County,Virginia",24379,701494
+322,"Mingo County,West Virginia","Norfolk City County,Virginia",26129,740424
+323,"Mingo County,West Virginia","Norton City County,Virginia",6633,151477
+324,"Mingo County,West Virginia","Petersburg City County,Virginia",21916,628420
+325,"Mingo County,West Virginia","Poquoson City County,Virginia",25051,712070
+326,"Mingo County,West Virginia","Portsmouth City County,Virginia",26068,749244
+327,"Mingo County,West Virginia","Radford County,Virginia",12762,308724
+328,"Mingo County,West Virginia","Richmond City County,Virginia",20784,592535
+329,"Mingo County,West Virginia","Roanoke City County,Virginia",14576,373582
+330,"Mingo County,West Virginia","Salem City County,Virginia",13988,360132
+331,"Mingo County,West Virginia","South Boston City County,Virginia",20829,535911
+332,"Mingo County,West Virginia","Staunton City County,Virginia",15671,430367
+333,"Mingo County,West Virginia","Suffolk City County,Virginia",26303,724026
+334,"Mingo County,West Virginia","Virginia Beach City County,Virginia",26690,763682
+335,"Mingo County,West Virginia","Waynesboro City County,Virginia",16009,443086
+336,"Mingo County,West Virginia","Williamsburg City County,Virginia",23424,673743
+337,"Mingo County,West Virginia","Winchester City County,Virginia",20421,578804
+338,"Mingo County,West Virginia","Barbour County,West Virginia",12339,329633
+339,"Mingo County,West Virginia","Berkeley County,West Virginia",20272,567792
+340,"Mingo County,West Virginia","Boone County,West Virginia",3912,81467
+341,"Mingo County,West Virginia","Braxton County,West Virginia",9029,220612
+342,"Mingo County,West Virginia","Brooke County,West Virginia",15456,424213
+343,"Mingo County,West Virginia","Cabell County,West Virginia",5801,123037
+344,"Mingo County,West Virginia","Calhoun County,West Virginia",8950,218296
+345,"Mingo County,West Virginia","Clay County,West Virginia",7796,191525
+346,"Mingo County,West Virginia","Doddridge County,West Virginia",11483,311142
+347,"Mingo County,West Virginia","Fayette County,West Virginia",8458,184002
+348,"Mingo County,West Virginia","Gilmer County,West Virginia",10228,242799
+349,"Mingo County,West Virginia","Grant County,West Virginia",16695,431178
+350,"Mingo County,West Virginia","Greenbrier County,West Virginia",11533,262040
+351,"Mingo County,West Virginia","Hampshire County,West Virginia",19527,529396
+352,"Mingo County,West Virginia","Hancock County,West Virginia",17046,458749
+353,"Mingo County,West Virginia","Hardy County,West Virginia",17750,462675
+354,"Mingo County,West Virginia","Harrison County,West Virginia",11573,316003
+355,"Mingo County,West Virginia","Jackson County,West Virginia",6835,172628
+356,"Mingo County,West Virginia","Jefferson County,West Virginia",21738,623790
+357,"Mingo County,West Virginia","Kanawha County,West Virginia",5804,121371
+358,"Mingo County,West Virginia","Lewis County,West Virginia",10202,269473
+359,"Mingo County,West Virginia","Lincoln County,West Virginia",4646,89205
+360,"Mingo County,West Virginia","Logan County,West Virginia",2017,38102
+361,"Mingo County,West Virginia","McDowell County,West Virginia",6806,120218
+362,"Mingo County,West Virginia","Marion County,West Virginia",12718,343171
+363,"Mingo County,West Virginia","Marshall County,West Virginia",14843,360314
+364,"Mingo County,West Virginia","Mason County,West Virginia",6656,166866
+365,"Mingo County,West Virginia","Mercer County,West Virginia",9056,163050
+366,"Mingo County,West Virginia","Mineral County,West Virginia",18389,459999
+367,"Mingo County,West Virginia","Monongalia County,West Virginia",12929,368639
+368,"Mingo County,West Virginia","Monroe County,West Virginia",12139,274337
+369,"Mingo County,West Virginia","Morgan County,West Virginia",19764,557184
+370,"Mingo County,West Virginia","Nicholas County,West Virginia",9512,251405
+371,"Mingo County,West Virginia","Ohio County,West Virginia",14475,405451
+372,"Mingo County,West Virginia","Pendleton County,West Virginia",17026,433802
+373,"Mingo County,West Virginia","Pleasants County,West Virginia",10317,270480
+374,"Mingo County,West Virginia","Pocahontas County,West Virginia",14612,342253
+375,"Mingo County,West Virginia","Preston County,West Virginia",15075,395370
+376,"Mingo County,West Virginia","Putnam County,West Virginia",5437,132485
+377,"Mingo County,West Virginia","Raleigh County,West Virginia",7076,123596
+378,"Mingo County,West Virginia","Randolph County,West Virginia",12704,331928
+379,"Mingo County,West Virginia","Ritchie County,West Virginia",10648,284184
+380,"Mingo County,West Virginia","Roane County,West Virginia",8460,201444
+381,"Mingo County,West Virginia","Summers County,West Virginia",11087,244755
+382,"Mingo County,West Virginia","Taylor County,West Virginia",12611,338743
+383,"Mingo County,West Virginia","Tucker County,West Virginia",13771,362453
+384,"Mingo County,West Virginia","Tyler County,West Virginia",12226,310095
+385,"Mingo County,West Virginia","Upshur County,West Virginia",11767,284170
+386,"Mingo County,West Virginia","Wayne County,West Virginia",4709,92632
+387,"Mingo County,West Virginia","Webster County,West Virginia",11697,278485
+388,"Mingo County,West Virginia","Wetzel County,West Virginia",13438,332002
+389,"Mingo County,West Virginia","Wirt County,West Virginia",9101,229966
+390,"Mingo County,West Virginia","Wood County,West Virginia",8615,231656
+391,"Mingo County,West Virginia","Wyoming County,West Virginia",5422,98176

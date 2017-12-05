@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Salem City County,Virginia","Adair County,Kentucky",23015,590936
+1,"Salem City County,Virginia","Allen County,Kentucky",24411,710746
+2,"Salem City County,Virginia","Anderson County,Kentucky",21448,616686
+3,"Salem City County,Virginia","Ballard County,Kentucky",31315,946001
+4,"Salem City County,Virginia","Barren County,Kentucky",24200,669691
+5,"Salem City County,Virginia","Bath County,Kentucky",17095,487867
+6,"Salem City County,Virginia","Bell County,Kentucky",15510,392243
+7,"Salem City County,Virginia","Boone County,Kentucky",22908,609260
+8,"Salem City County,Virginia","Bourbon County,Kentucky",19009,534284
+9,"Salem City County,Virginia","Boyd County,Kentucky",13771,382192
+10,"Salem City County,Virginia","Boyle County,Kentucky",22193,565092
+11,"Salem City County,Virginia","Bracken County,Kentucky",19420,528367
+12,"Salem City County,Virginia","Breathitt County,Kentucky",17135,428006
+13,"Salem City County,Virginia","Breckinridge County,Kentucky",26981,769367
+14,"Salem City County,Virginia","Bullitt County,Kentucky",23551,690486
+15,"Salem City County,Virginia","Butler County,Kentucky",26871,780951
+16,"Salem City County,Virginia","Caldwell County,Kentucky",28455,853815
+17,"Salem City County,Virginia","Calloway County,Kentucky",29156,877860
+18,"Salem City County,Virginia","Campbell County,Kentucky",21121,568239
+19,"Salem City County,Virginia","Carlisle County,Kentucky",31772,961369
+20,"Salem City County,Virginia","Carroll County,Kentucky",23993,664500
+21,"Salem City County,Virginia","Carter County,Kentucky",14935,412289
+22,"Salem City County,Virginia","Casey County,Kentucky",22953,564211
+23,"Salem City County,Virginia","Christian County,Kentucky",26049,798840
+24,"Salem City County,Virginia","Clay County,Kentucky",18082,452585
+25,"Salem City County,Virginia","Clinton County,Kentucky",21458,590151
+26,"Salem City County,Virginia","Crittenden County,Kentucky",29719,886575
+27,"Salem City County,Virginia","Cumberland County,Kentucky",22338,610820
+28,"Salem City County,Virginia","Daviess County,Kentucky",28669,837807
+29,"Salem City County,Virginia","Edmonson County,Kentucky",26180,723054
+30,"Salem City County,Virginia","Elliott County,Kentucky",16266,438059
+31,"Salem City County,Virginia","Estill County,Kentucky",20088,550182
+32,"Salem City County,Virginia","Fayette County,Kentucky",19255,554179
+33,"Salem City County,Virginia","Fleming County,Kentucky",17521,491053
+34,"Salem City County,Virginia","Floyd County,Kentucky",15795,405315
+35,"Salem City County,Virginia","Franklin County,Kentucky",21293,603095
+36,"Salem City County,Virginia","Fulton County,Kentucky",32176,982334
+37,"Salem City County,Virginia","Gallatin County,Kentucky",22990,655159
+38,"Salem City County,Virginia","Garrard County,Kentucky",21862,549878
+39,"Salem City County,Virginia","Grant County,Kentucky",21789,629266
+40,"Salem City County,Virginia","Graves County,Kentucky",30797,934076
+41,"Salem City County,Virginia","Grayson County,Kentucky",25974,748001
+42,"Salem City County,Virginia","Green County,Kentucky",24767,633101
+43,"Salem City County,Virginia","Greenup County,Kentucky",15546,423318
+44,"Salem City County,Virginia","Hancock County,Kentucky",27777,802260
+45,"Salem City County,Virginia","Hardin County,Kentucky",24850,710133
+46,"Salem City County,Virginia","Harlan County,Kentucky",14585,368869
+47,"Salem City County,Virginia","Harrison County,Kentucky",20580,567384
+48,"Salem City County,Virginia","Hart County,Kentucky",25649,737762
+49,"Salem City County,Virginia","Henderson County,Kentucky",29807,907973
+50,"Salem City County,Virginia","Henry County,Kentucky",22894,646814
+51,"Salem City County,Virginia","Hickman County,Kentucky",31806,962661
+52,"Salem City County,Virginia","Hopkins County,Kentucky",28576,864092
+53,"Salem City County,Virginia","Jackson County,Kentucky",19954,489004
+54,"Salem City County,Virginia","Jefferson County,Kentucky",22988,662347
+55,"Salem City County,Virginia","Jessamine County,Kentucky",20724,575643
+56,"Salem City County,Virginia","Johnson County,Kentucky",16410,422544
+57,"Salem City County,Virginia","Kenton County,Kentucky",22277,596954
+58,"Salem City County,Virginia","Knott County,Kentucky",14675,370756
+59,"Salem City County,Virginia","Knox County,Kentucky",16840,434235
+60,"Salem City County,Virginia","Larue County,Kentucky",24921,697309
+61,"Salem City County,Virginia","Laurel County,Kentucky",18734,469063
+62,"Salem City County,Virginia","Lawrence County,Kentucky",15694,426512
+63,"Salem City County,Virginia","Lee County,Kentucky",19245,469196
+64,"Salem City County,Virginia","Leslie County,Kentucky",16047,397149
+65,"Salem City County,Virginia","Letcher County,Kentucky",13075,334303
+66,"Salem City County,Virginia","Lewis County,Kentucky",16974,464106
+67,"Salem City County,Virginia","Lincoln County,Kentucky",21423,549459
+68,"Salem City County,Virginia","Livingston County,Kentucky",29646,899940
+69,"Salem City County,Virginia","Logan County,Kentucky",26481,751740
+70,"Salem City County,Virginia","Lyon County,Kentucky",29403,877114
+71,"Salem City County,Virginia","McCracken County,Kentucky",29928,914061
+72,"Salem City County,Virginia","McCreary County,Kentucky",18465,526997
+73,"Salem City County,Virginia","Madison County,Kentucky",20253,565202
+74,"Salem City County,Virginia","Magoffin County,Kentucky",16754,426520
+75,"Salem City County,Virginia","Marion County,Kentucky",23299,658918
+76,"Salem City County,Virginia","Marshall County,Kentucky",29342,897633
+77,"Salem City County,Virginia","Martin County,Kentucky",16808,408235
+78,"Salem City County,Virginia","Mason County,Kentucky",18769,507913
+79,"Salem City County,Virginia","Meade County,Kentucky",25448,734662
+80,"Salem City County,Virginia","Menifee County,Kentucky",18212,499931
+81,"Salem City County,Virginia","Mercer County,Kentucky",21676,614630
+82,"Salem City County,Virginia","Metcalfe County,Kentucky",23671,621201
+83,"Salem City County,Virginia","Monroe County,Kentucky",22898,641240
+84,"Salem City County,Virginia","Montgomery County,Kentucky",17908,506407
+85,"Salem City County,Virginia","Morgan County,Kentucky",17990,475646
+86,"Salem City County,Virginia","Muhlenberg County,Kentucky",28261,834203
+87,"Salem City County,Virginia","Nelson County,Kentucky",22907,657990
+88,"Salem City County,Virginia","Nicholas County,Kentucky",19586,534291
+89,"Salem City County,Virginia","Ohio County,Kentucky",27770,805844
+90,"Salem City County,Virginia","Oldham County,Kentucky",23059,674228
+91,"Salem City County,Virginia","Owen County,Kentucky",22115,629872
+92,"Salem City County,Virginia","Owsley County,Kentucky",19272,465880
+93,"Salem City County,Virginia","Pendleton County,Kentucky",21358,569291
+94,"Salem City County,Virginia","Perry County,Kentucky",15648,391179
+95,"Salem City County,Virginia","Pike County,Kentucky",14170,339829
+96,"Salem City County,Virginia","Powell County,Kentucky",19352,536153
+97,"Salem City County,Virginia","Robertson County,Kentucky",19504,533797
+98,"Salem City County,Virginia","Rockcastle County,Kentucky",19905,511058
+99,"Salem City County,Virginia","Rowan County,Kentucky",16238,460074
+100,"Salem City County,Virginia","Russell County,Kentucky",22619,574920
+101,"Salem City County,Virginia","Scott County,Kentucky",20089,582206
+102,"Salem City County,Virginia","Shelby County,Kentucky",21917,633482
+103,"Salem City County,Virginia","Simpson County,Kentucky",25448,727716
+104,"Salem City County,Virginia","Spencer County,Kentucky",22446,639330
+105,"Salem City County,Virginia","Taylor County,Kentucky",24369,615196
+106,"Salem City County,Virginia","Todd County,Kentucky",26465,791787
+107,"Salem City County,Virginia","Trigg County,Kentucky",26956,816199
+108,"Salem City County,Virginia","Trimble County,Kentucky",24133,680268
+109,"Salem City County,Virginia","Union County,Kentucky",31226,928333
+110,"Salem City County,Virginia","Warren County,Kentucky",25873,750384
+111,"Salem City County,Virginia","Washington County,Kentucky",22917,643226
+112,"Salem City County,Virginia","Wayne County,Kentucky",20969,574128
+113,"Salem City County,Virginia","Webster County,Kentucky",29685,892181
+114,"Salem City County,Virginia","Whitley County,Kentucky",17068,511759
+115,"Salem City County,Virginia","Wolfe County,Kentucky",18628,460090
+116,"Salem City County,Virginia","Woodford County,Kentucky",20309,584841
+117,"Salem City County,Virginia","Adams County,Ohio",18862,510469
+118,"Salem City County,Virginia","Allen County,Ohio",25594,685887
+119,"Salem City County,Virginia","Ashland County,Ohio",23338,639778
+120,"Salem City County,Virginia","Ashtabula County,Ohio",26026,760676
+121,"Salem City County,Virginia","Athens County,Ohio",15270,416069
+122,"Salem City County,Virginia","Auglaize County,Ohio",24844,702587
+123,"Salem City County,Virginia","Belmont County,Ohio",19089,549600
+124,"Salem City County,Virginia","Brown County,Ohio",20106,537397
+125,"Salem City County,Virginia","Butler County,Ohio",23219,619423
+126,"Salem City County,Virginia","Carroll County,Ohio",21018,586486
+127,"Salem City County,Virginia","Champaign County,Ohio",22148,604684
+128,"Salem City County,Virginia","Clark County,Ohio",20827,564228
+129,"Salem City County,Virginia","Clermont County,Ohio",20940,568493
+130,"Salem City County,Virginia","Clinton County,Ohio",20331,551910
+131,"Salem City County,Virginia","Columbiana County,Ohio",22860,640722
+132,"Salem City County,Virginia","Coshocton County,Ohio",19654,557603
+133,"Salem City County,Virginia","Crawford County,Ohio",23946,650938
+134,"Salem City County,Virginia","Cuyahoga County,Ohio",23054,671890
+135,"Salem City County,Virginia","Darke County,Ohio",23941,659633
+136,"Salem City County,Virginia","Defiance County,Ohio",29029,764208
+137,"Salem City County,Virginia","Delaware County,Ohio",21100,583675
+138,"Salem City County,Virginia","Fairfield County,Ohio",18630,510769
+139,"Salem City County,Virginia","Fayette County,Ohio",18895,522374
+140,"Salem City County,Virginia","Franklin County,Ohio",19630,540624
+141,"Salem City County,Virginia","Fulton County,Ohio",29036,806507
+142,"Salem City County,Virginia","Gallia County,Ohio",14208,381485
+143,"Salem City County,Virginia","Geauga County,Ohio",24126,697608
+144,"Salem City County,Virginia","Greene County,Ohio",19765,555526
+145,"Salem City County,Virginia","Guernsey County,Ohio",17204,495522
+146,"Salem City County,Virginia","Hamilton County,Ohio",22720,630000
+147,"Salem City County,Virginia","Hancock County,Ohio",25123,692030
+148,"Salem City County,Virginia","Hardin County,Ohio",24105,641716
+149,"Salem City County,Virginia","Harrison County,Ohio",20024,568552
+150,"Salem City County,Virginia","Henry County,Ohio",27835,763652
+151,"Salem City County,Virginia","Highland County,Ohio",19399,510483
+152,"Salem City County,Virginia","Hocking County,Ohio",17072,466733
+153,"Salem City County,Virginia","Holmes County,Ohio",20712,580487
+154,"Salem City County,Virginia","Huron County,Ohio",25235,681407
+155,"Salem City County,Virginia","Jackson County,Ohio",15385,421034
+156,"Salem City County,Virginia","Jefferson County,Ohio",21017,578330
+157,"Salem City County,Virginia","Knox County,Ohio",21442,600079
+158,"Salem City County,Virginia","Lawrence County,Ohio",14910,387248
+159,"Salem City County,Virginia","Licking County,Ohio",20575,537779
+160,"Salem City County,Virginia","Logan County,Ohio",23125,635993
+161,"Salem City County,Virginia","Lorain County,Ohio",24279,701714
+162,"Salem City County,Virginia","Lucas County,Ohio",28758,779530
+163,"Salem City County,Virginia","Madison County,Ohio",20596,545458
+164,"Salem City County,Virginia","Mahoning County,Ohio",23355,655527
+165,"Salem City County,Virginia","Marion County,Ohio",22506,609768
+166,"Salem City County,Virginia","Medina County,Ohio",22728,657921
+167,"Salem City County,Virginia","Meigs County,Ohio",14150,387039
+168,"Salem City County,Virginia","Mercer County,Ohio",26079,729520
+169,"Salem City County,Virginia","Miami County,Ohio",22430,625025
+170,"Salem City County,Virginia","Monroe County,Ohio",18140,484714
+171,"Salem City County,Virginia","Montgomery County,Ohio",21799,602982
+172,"Salem City County,Virginia","Morgan County,Ohio",17145,471362
+173,"Salem City County,Virginia","Morrow County,Ohio",21907,606496
+174,"Salem City County,Virginia","Muskingum County,Ohio",18050,523514
+175,"Salem City County,Virginia","Noble County,Ohio",16646,467874
+176,"Salem City County,Virginia","Paulding County,Ohio",28131,761793
+177,"Salem City County,Virginia","Perry County,Ohio",18488,481489
+178,"Salem City County,Virginia","Pickaway County,Ohio",18335,502472
+179,"Salem City County,Virginia","Pike County,Ohio",16831,460341
+180,"Salem City County,Virginia","Portage County,Ohio",22576,653472
+181,"Salem City County,Virginia","Preble County,Ohio",23418,631559
+182,"Salem City County,Virginia","Putnam County,Ohio",26717,718245
+183,"Salem City County,Virginia","Richland County,Ohio",22937,641735
+184,"Salem City County,Virginia","Ross County,Ohio",17079,468779
+185,"Salem City County,Virginia","Sandusky County,Ohio",26879,710725
+186,"Salem City County,Virginia","Scioto County,Ohio",16716,444521
+187,"Salem City County,Virginia","Seneca County,Ohio",25496,684610
+188,"Salem City County,Virginia","Shelby County,Ohio",23468,661311
+189,"Salem City County,Virginia","Stark County,Ohio",20877,601721
+190,"Salem City County,Virginia","Summit County,Ohio",21636,627510
+191,"Salem City County,Virginia","Trumbull County,Ohio",24311,681774
+192,"Salem City County,Virginia","Tuscarawas County,Ohio",19078,542309
+193,"Salem City County,Virginia","Union County,Ohio",21629,586224
+194,"Salem City County,Virginia","Van Wert County,Ohio",26828,728757
+195,"Salem City County,Virginia","Vinton County,Ohio",17281,446540
+196,"Salem City County,Virginia","Warren County,Ohio",21137,585969
+197,"Salem City County,Virginia","Washington County,Ohio",15504,425810
+198,"Salem City County,Virginia","Wayne County,Ohio",21849,604600
+199,"Salem City County,Virginia","Williams County,Ohio",30206,787724
+200,"Salem City County,Virginia","Wood County,Ohio",26521,733638
+201,"Salem City County,Virginia","Wyandot County,Ohio",24092,656166
+202,"Salem City County,Virginia","Accomack County,Virginia",20100,564701
+203,"Salem City County,Virginia","Albemarle County,Virginia",6249,177201
+204,"Salem City County,Virginia","Alleghany County,Virginia",4914,110970
+205,"Salem City County,Virginia","Amelia County,Virginia",8821,216056
+206,"Salem City County,Virginia","Amherst County,Virginia",5724,122115
+207,"Salem City County,Virginia","Appomattox County,Virginia",5898,135725
+208,"Salem City County,Virginia","Arlington County,Virginia",12934,377510
+209,"Salem City County,Virginia","Augusta County,Virginia",5671,154894
+210,"Salem City County,Virginia","Bath County,Virginia",5959,127474
+211,"Salem City County,Virginia","Bedford County,Virginia",3631,67035
+212,"Salem City County,Virginia","Bland County,Virginia",4777,131560
+213,"Salem City County,Virginia","Botetourt County,Virginia",2488,51100
+214,"Salem City County,Virginia","Brunswick County,Virginia",11364,265729
+215,"Salem City County,Virginia","Buchanan County,Virginia",10533,266019
+216,"Salem City County,Virginia","Buckingham County,Virginia",7013,159635
+217,"Salem City County,Virginia","Campbell County,Virginia",5047,108270
+218,"Salem City County,Virginia","Caroline County,Virginia",11589,346046
+219,"Salem City County,Virginia","Carroll County,Virginia",4898,136977
+220,"Salem City County,Virginia","Charles City County,Virginia",11689,343081
+221,"Salem City County,Virginia","Charlotte County,Virginia",7596,176206
+222,"Salem City County,Virginia","Chesterfield County,Virginia",10516,254946
+223,"Salem City County,Virginia","Clarke County,Virginia",10429,304259
+224,"Salem City County,Virginia","Craig County,Virginia",2829,50948
+225,"Salem City County,Virginia","Culpeper County,Virginia",10047,266417
+226,"Salem City County,Virginia","Cumberland County,Virginia",8426,196866
+227,"Salem City County,Virginia","Dickenson County,Virginia",11243,284197
+228,"Salem City County,Virginia","Dinwiddie County,Virginia",10594,259117
+229,"Salem City County,Virginia","Essex County,Virginia",13406,370089
+230,"Salem City County,Virginia","Fairfax County,Virginia",12557,367786
+231,"Salem City County,Virginia","Fauquier County,Virginia",10868,325510
+232,"Salem City County,Virginia","Floyd County,Virginia",3425,78524
+233,"Salem City County,Virginia","Fluvanna County,Virginia",7927,229372
+234,"Salem City County,Virginia","Franklin County,Virginia",3144,68268
+235,"Salem City County,Virginia","Frederick County,Virginia",9881,291985
+236,"Salem City County,Virginia","Giles County,Virginia",3565,86676
+237,"Salem City County,Virginia","Gloucester County,Virginia",13860,397269
+238,"Salem City County,Virginia","Goochland County,Virginia",8831,259983
+239,"Salem City County,Virginia","Grayson County,Virginia",6230,153156
+240,"Salem City County,Virginia","Greene County,Virginia",8242,212785
+241,"Salem City County,Virginia","Greensville County,Virginia",13080,308754
+242,"Salem City County,Virginia","Halifax County,Virginia",7868,161946
+243,"Salem City County,Virginia","Hanover County,Virginia",10037,301090
+244,"Salem City County,Virginia","Henrico County,Virginia",10549,314050
+245,"Salem City County,Virginia","Henry County,Virginia",4553,103230
+246,"Salem City County,Virginia","Highland County,Virginia",8091,175266
+247,"Salem City County,Virginia","Isle of Wight County,Virginia",14715,359238
+248,"Salem City County,Virginia","James City County,Virginia",12925,383852
+249,"Salem City County,Virginia","King and Queen County,Virginia",12583,359436
+250,"Salem City County,Virginia","King George County,Virginia",12702,374033
+251,"Salem City County,Virginia","King William County,Virginia",11271,329358
+252,"Salem City County,Virginia","Lancaster County,Virginia",15064,412443
+253,"Salem City County,Virginia","Lee County,Virginia",11738,315851
+254,"Salem City County,Virginia","Loudoun County,Virginia",11925,340125
+255,"Salem City County,Virginia","Louisa County,Virginia",8488,243078
+256,"Salem City County,Virginia","Lunenburg County,Virginia",9368,217490
+257,"Salem City County,Virginia","Madison County,Virginia",9162,242525
+258,"Salem City County,Virginia","Mathews County,Virginia",14685,420693
+259,"Salem City County,Virginia","Mecklenburg County,Virginia",10359,230615
+260,"Salem City County,Virginia","Middlesex County,Virginia",13461,393470
+261,"Salem City County,Virginia","Montgomery County,Virginia",2130,50947
+262,"Salem City County,Virginia","Nelson County,Virginia",6275,152512
+263,"Salem City County,Virginia","New Kent County,Virginia",12361,357766
+264,"Salem City County,Virginia","Northampton County,Virginia",17342,500515
+265,"Salem City County,Virginia","Northumberland County,Virginia",15103,410956
+266,"Salem City County,Virginia","Nottoway County,Virginia",8861,217870
+267,"Salem City County,Virginia","Orange County,Virginia",9451,251186
+268,"Salem City County,Virginia","Page County,Virginia",8096,226311
+269,"Salem City County,Virginia","Patrick County,Virginia",5545,115427
+270,"Salem City County,Virginia","Pittsylvania County,Virginia",5569,118217
+271,"Salem City County,Virginia","Powhatan County,Virginia",9924,231573
+272,"Salem City County,Virginia","Prince Edward County,Virginia",7476,175206
+273,"Salem City County,Virginia","Prince George County,Virginia",12250,298491
+274,"Salem City County,Virginia","Prince William County,Virginia",10967,331614
+275,"Salem City County,Virginia","Pulaski County,Virginia",2857,73580
+276,"Salem City County,Virginia","Rappahannock County,Virginia",9927,262798
+277,"Salem City County,Virginia","Richmond County,Virginia",13803,383599
+278,"Salem City County,Virginia","Roanoke County,Virginia",1001,10399
+279,"Salem City County,Virginia","Rockbridge County,Virginia",3936,95171
+280,"Salem City County,Virginia","Rockingham County,Virginia",7135,198661
+281,"Salem City County,Virginia","Russell County,Virginia",9699,249356
+282,"Salem City County,Virginia","Scott County,Virginia",10311,276579
+283,"Salem City County,Virginia","Shenandoah County,Virginia",7640,228764
+284,"Salem City County,Virginia","Smyth County,Virginia",5893,160301
+285,"Salem City County,Virginia","Southampton County,Virginia",14208,338454
+286,"Salem City County,Virginia","Spotsylvania County,Virginia",10504,284917
+287,"Salem City County,Virginia","Stafford County,Virginia",11886,309210
+288,"Salem City County,Virginia","Surry County,Virginia",13669,382713
+289,"Salem City County,Virginia","Sussex County,Virginia",12603,304248
+290,"Salem City County,Virginia","Tazewell County,Virginia",7354,200377
+291,"Salem City County,Virginia","Warren County,Virginia",9542,273357
+292,"Salem City County,Virginia","Washington County,Virginia",7287,199767
+293,"Salem City County,Virginia","Westmoreland County,Virginia",14141,402519
+294,"Salem City County,Virginia","Wise County,Virginia",11150,290699
+295,"Salem City County,Virginia","Wythe County,Virginia",4148,112286
+296,"Salem City County,Virginia","York County,Virginia",14213,414626
+297,"Salem City County,Virginia","Alexandria City County,Virginia",13137,390156
+298,"Salem City County,Virginia","Bedford City County,Virginia",2796,58466
+299,"Salem City County,Virginia","Bristol City County,Virginia",7762,225484
+300,"Salem City County,Virginia","Buena Vista City County,Virginia",3307,87658
+301,"Salem City County,Virginia","Charlottesville City County,Virginia",6719,192415
+302,"Salem City County,Virginia","Chesapeake City County,Virginia",15676,467532
+303,"Salem City County,Virginia","Clifton Forge City County,Virginia",3575,77292
+304,"Salem City County,Virginia","Colonial Heights City County,Virginia",11385,336757
+305,"Salem City County,Virginia","Covington City County,Virginia",4558,98130
+306,"Salem City County,Virginia","Danville City County,Virginia",6607,138434
+307,"Salem City County,Virginia","Emporia City County,Virginia",12748,295119
+308,"Salem City County,Virginia","Fairfax City County,Virginia",12100,357361
+309,"Salem City County,Virginia","Falls Church City County,Virginia",12432,371834
+310,"Salem City County,Virginia","Franklin City County,Virginia",14835,351589
+311,"Salem City County,Virginia","Fredericksburg City County,Virginia",11637,294576
+312,"Salem City County,Virginia","Galax City County,Virginia",5522,142843
+313,"Salem City County,Virginia","Hampton City County,Virginia",14163,424333
+314,"Salem City County,Virginia","Harrisonburg City County,Virginia",6194,178557
+315,"Salem City County,Virginia","Hopewell City County,Virginia",11422,335723
+316,"Salem City County,Virginia","Lexington City County,Virginia",3221,85986
+317,"Salem City County,Virginia","Lynchburg City County,Virginia",4821,103342
+318,"Salem City County,Virginia","Manassas City County,Virginia",11195,336559
+319,"Salem City County,Virginia","Manassas Park City County,Virginia",11697,342902
+320,"Salem City County,Virginia","Martinsville City County,Virginia",4706,98332
+321,"Salem City County,Virginia","Newport News City County,Virginia",13720,410818
+322,"Salem City County,Virginia","Norfolk City County,Virginia",15469,449748
+323,"Salem City County,Virginia","Norton City County,Virginia",10674,281589
+324,"Salem City County,Virginia","Petersburg City County,Virginia",11253,281095
+325,"Salem City County,Virginia","Poquoson City County,Virginia",14391,421395
+326,"Salem City County,Virginia","Portsmouth City County,Virginia",15408,458569
+327,"Salem City County,Virginia","Radford County,Virginia",2493,60791
+328,"Salem City County,Virginia","Richmond City County,Virginia",10125,301860
+329,"Salem City County,Virginia","Roanoke City County,Virginia",1040,18627
+330,"Salem City County,Virginia","South Boston City County,Virginia",8038,163005
+331,"Salem City County,Virginia","Staunton City County,Virginia",5011,139692
+332,"Salem City County,Virginia","Suffolk City County,Virginia",15557,373962
+333,"Salem City County,Virginia","Virginia Beach City County,Virginia",16030,473007
+334,"Salem City County,Virginia","Waynesboro City County,Virginia",5349,152410
+335,"Salem City County,Virginia","Williamsburg City County,Virginia",12764,383068
+336,"Salem City County,Virginia","Winchester City County,Virginia",9761,288129
+337,"Salem City County,Virginia","Barbour County,West Virginia",15003,313684
+338,"Salem City County,Virginia","Berkeley County,West Virginia",11499,335337
+339,"Salem City County,Virginia","Boone County,West Virginia",11659,264546
+340,"Salem City County,Virginia","Braxton County,West Virginia",13103,263749
+341,"Salem City County,Virginia","Brooke County,West Virginia",20771,504563
+342,"Salem City County,Virginia","Cabell County,West Virginia",13227,360453
+343,"Salem City County,Virginia","Calhoun County,West Virginia",14662,385931
+344,"Salem City County,Virginia","Clay County,West Virginia",11652,281451
+345,"Salem City County,Virginia","Doddridge County,West Virginia",16617,349625
+346,"Salem City County,Virginia","Fayette County,West Virginia",9159,227189
+347,"Salem City County,Virginia","Gilmer County,West Virginia",14671,313429
+348,"Salem City County,Virginia","Grant County,West Virginia",11591,317824
+349,"Salem City County,Virginia","Greenbrier County,West Virginia",8883,160496
+350,"Salem City County,Virginia","Hampshire County,West Virginia",11618,306241
+351,"Salem City County,Virginia","Hancock County,West Virginia",22398,531910
+352,"Salem City County,Virginia","Hardy County,West Virginia",10838,289154
+353,"Salem City County,Virginia","Harrison County,West Virginia",15647,359140
+354,"Salem City County,Virginia","Jackson County,West Virginia",12546,340263
+355,"Salem City County,Virginia","Jefferson County,West Virginia",11549,322743
+356,"Salem City County,Virginia","Kanawha County,West Virginia",10309,262245
+357,"Salem City County,Virginia","Lewis County,West Virginia",14276,312610
+358,"Salem City County,Virginia","Lincoln County,West Virginia",13891,338130
+359,"Salem City County,Virginia","Logan County,West Virginia",13450,295036
+360,"Salem City County,Virginia","McDowell County,West Virginia",9661,207563
+361,"Salem City County,Virginia","Marion County,West Virginia",16792,386307
+362,"Salem City County,Virginia","Marshall County,West Virginia",20554,527949
+363,"Salem City County,Virginia","Mason County,West Virginia",12702,346359
+364,"Salem City County,Virginia","Mercer County,West Virginia",5738,142853
+365,"Salem City County,Virginia","Mineral County,West Virginia",13064,329347
+366,"Salem City County,Virginia","Mingo County,West Virginia",14029,358971
+367,"Salem City County,Virginia","Monongalia County,West Virginia",16767,442083
+368,"Salem City County,Virginia","Monroe County,West Virginia",5974,110947
+369,"Salem City County,Virginia","Morgan County,West Virginia",11744,336463
+370,"Salem City County,Virginia","Nicholas County,West Virginia",10722,213922
+371,"Salem City County,Virginia","Ohio County,West Virginia",20186,573086
+372,"Salem City County,Virginia","Pendleton County,West Virginia",9982,249846
+373,"Salem City County,Virginia","Pleasants County,West Virginia",16028,438115
+374,"Salem City County,Virginia","Pocahontas County,West Virginia",10580,197707
+375,"Salem City County,Virginia","Preston County,West Virginia",15770,396275
+376,"Salem City County,Virginia","Putnam County,West Virginia",11484,311977
+377,"Salem City County,Virginia","Raleigh County,West Virginia",7334,187426
+378,"Salem City County,Virginia","Randolph County,West Virginia",13019,267077
+379,"Salem City County,Virginia","Ritchie County,West Virginia",16359,451819
+380,"Salem City County,Virginia","Roane County,West Virginia",14171,369079
+381,"Salem City County,Virginia","Summers County,West Virginia",6473,140972
+382,"Salem City County,Virginia","Taylor County,West Virginia",16114,414096
+383,"Salem City County,Virginia","Tucker County,West Virginia",14250,379471
+384,"Salem City County,Virginia","Tyler County,West Virginia",17937,477730
+385,"Salem City County,Virginia","Upshur County,West Virginia",15615,302720
+386,"Salem City County,Virginia","Wayne County,West Virginia",14818,393079
+387,"Salem City County,Virginia","Webster County,West Virginia",13474,258410
+388,"Salem City County,Virginia","Wetzel County,West Virginia",18326,410622
+389,"Salem City County,Virginia","Wirt County,West Virginia",14812,397601
+390,"Salem City County,Virginia","Wood County,West Virginia",14327,399291
+391,"Salem City County,Virginia","Wyoming County,West Virginia",9285,227399

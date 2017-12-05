@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Mercer County,West Virginia","Adair County,Kentucky",20768,584481
+1,"Mercer County,West Virginia","Allen County,Kentucky",23152,670516
+2,"Mercer County,West Virginia","Anderson County,Kentucky",16568,487521
+3,"Mercer County,West Virginia","Ballard County,Kentucky",29547,877292
+4,"Mercer County,West Virginia","Barren County,Kentucky",22514,643509
+5,"Mercer County,West Virginia","Bath County,Kentucky",12215,358702
+6,"Mercer County,West Virginia","Bell County,Kentucky",14154,320722
+7,"Mercer County,West Virginia","Boone County,Kentucky",18028,480095
+8,"Mercer County,West Virginia","Bourbon County,Kentucky",14129,405119
+9,"Mercer County,West Virginia","Boyd County,Kentucky",8891,253026
+10,"Mercer County,West Virginia","Boyle County,Kentucky",17797,491407
+11,"Mercer County,West Virginia","Bracken County,Kentucky",14540,399202
+12,"Mercer County,West Virginia","Breathitt County,Kentucky",14844,344542
+13,"Mercer County,West Virginia","Breckinridge County,Kentucky",22101,640202
+14,"Mercer County,West Virginia","Bullitt County,Kentucky",18671,561321
+15,"Mercer County,West Virginia","Butler County,Kentucky",22766,662200
+16,"Mercer County,West Virginia","Caldwell County,Kentucky",25658,768145
+17,"Mercer County,West Virginia","Calloway County,Kentucky",27898,837630
+18,"Mercer County,West Virginia","Campbell County,Kentucky",16241,439073
+19,"Mercer County,West Virginia","Carlisle County,Kentucky",30004,892660
+20,"Mercer County,West Virginia","Carroll County,Kentucky",19113,535335
+21,"Mercer County,West Virginia","Carter County,Kentucky",10056,283123
+22,"Mercer County,West Virginia","Casey County,Kentucky",19292,522912
+23,"Mercer County,West Virginia","Christian County,Kentucky",24791,758610
+24,"Mercer County,West Virginia","Clay County,Kentucky",15792,369120
+25,"Mercer County,West Virginia","Clinton County,Kentucky",20196,549921
+26,"Mercer County,West Virginia","Crittenden County,Kentucky",27238,801215
+27,"Mercer County,West Virginia","Cumberland County,Kentucky",21075,570589
+28,"Mercer County,West Virginia","Daviess County,Kentucky",23789,708642
+29,"Mercer County,West Virginia","Edmonson County,Kentucky",22207,650075
+30,"Mercer County,West Virginia","Elliott County,Kentucky",11386,308894
+31,"Mercer County,West Virginia","Estill County,Kentucky",15208,421017
+32,"Mercer County,West Virginia","Fayette County,Kentucky",14375,425013
+33,"Mercer County,West Virginia","Fleming County,Kentucky",12641,361887
+34,"Mercer County,West Virginia","Floyd County,Kentucky",11842,263014
+35,"Mercer County,West Virginia","Franklin County,Kentucky",16413,473930
+36,"Mercer County,West Virginia","Fulton County,Kentucky",30408,913624
+37,"Mercer County,West Virginia","Gallatin County,Kentucky",18111,525994
+38,"Mercer County,West Virginia","Garrard County,Kentucky",16980,472167
+39,"Mercer County,West Virginia","Grant County,Kentucky",16909,500101
+40,"Mercer County,West Virginia","Graves County,Kentucky",29028,865366
+41,"Mercer County,West Virginia","Grayson County,Kentucky",21094,618836
+42,"Mercer County,West Virginia","Green County,Kentucky",20873,584041
+43,"Mercer County,West Virginia","Greenup County,Kentucky",10667,294153
+44,"Mercer County,West Virginia","Hancock County,Kentucky",22897,673095
+45,"Mercer County,West Virginia","Hardin County,Kentucky",19970,580968
+46,"Mercer County,West Virginia","Harlan County,Kentucky",12756,268347
+47,"Mercer County,West Virginia","Harrison County,Kentucky",15700,438219
+48,"Mercer County,West Virginia","Hart County,Kentucky",20769,608597
+49,"Mercer County,West Virginia","Henderson County,Kentucky",25596,761072
+50,"Mercer County,West Virginia","Henry County,Kentucky",18014,517648
+51,"Mercer County,West Virginia","Hickman County,Kentucky",30037,893952
+52,"Mercer County,West Virginia","Hopkins County,Kentucky",25117,742613
+53,"Mercer County,West Virginia","Jackson County,Kentucky",17664,405539
+54,"Mercer County,West Virginia","Jefferson County,Kentucky",18108,533182
+55,"Mercer County,West Virginia","Jessamine County,Kentucky",15844,446477
+56,"Mercer County,West Virginia","Johnson County,Kentucky",11672,325922
+57,"Mercer County,West Virginia","Kenton County,Kentucky",17397,467789
+58,"Mercer County,West Virginia","Knott County,Kentucky",12384,287291
+59,"Mercer County,West Virginia","Knox County,Kentucky",15654,365530
+60,"Mercer County,West Virginia","Larue County,Kentucky",20041,568144
+61,"Mercer County,West Virginia","Laurel County,Kentucky",17394,405916
+62,"Mercer County,West Virginia","Lawrence County,Kentucky",10814,297346
+63,"Mercer County,West Virginia","Lee County,Kentucky",16053,414754
+64,"Mercer County,West Virginia","Leslie County,Kentucky",14691,325628
+65,"Mercer County,West Virginia","Letcher County,Kentucky",10785,250838
+66,"Mercer County,West Virginia","Lewis County,Kentucky",12094,334941
+67,"Mercer County,West Virginia","Lincoln County,Kentucky",17690,489085
+68,"Mercer County,West Virginia","Livingston County,Kentucky",27834,818112
+69,"Mercer County,West Virginia","Logan County,Kentucky",24507,705438
+70,"Mercer County,West Virginia","Lyon County,Kentucky",27967,828503
+71,"Mercer County,West Virginia","McCracken County,Kentucky",28159,845352
+72,"Mercer County,West Virginia","McCreary County,Kentucky",17202,486767
+73,"Mercer County,West Virginia","Madison County,Kentucky",15373,436037
+74,"Mercer County,West Virginia","Magoffin County,Kentucky",12801,284219
+75,"Mercer County,West Virginia","Marion County,Kentucky",18419,529753
+76,"Mercer County,West Virginia","Marshall County,Kentucky",27574,828923
+77,"Mercer County,West Virginia","Martin County,Kentucky",11875,212473
+78,"Mercer County,West Virginia","Mason County,Kentucky",13889,378748
+79,"Mercer County,West Virginia","Meade County,Kentucky",20569,605497
+80,"Mercer County,West Virginia","Menifee County,Kentucky",13332,370765
+81,"Mercer County,West Virginia","Mercer County,Kentucky",16796,485464
+82,"Mercer County,West Virginia","Metcalfe County,Kentucky",21424,614746
+83,"Mercer County,West Virginia","Monroe County,Kentucky",21636,601010
+84,"Mercer County,West Virginia","Montgomery County,Kentucky",13028,377242
+85,"Mercer County,West Virginia","Morgan County,Kentucky",13110,346481
+86,"Mercer County,West Virginia","Muhlenberg County,Kentucky",23977,709089
+87,"Mercer County,West Virginia","Nelson County,Kentucky",18027,528825
+88,"Mercer County,West Virginia","Nicholas County,Kentucky",14706,405126
+89,"Mercer County,West Virginia","Ohio County,Kentucky",22890,676679
+90,"Mercer County,West Virginia","Oldham County,Kentucky",18179,545063
+91,"Mercer County,West Virginia","Owen County,Kentucky",17235,500707
+92,"Mercer County,West Virginia","Owsley County,Kentucky",16982,382416
+93,"Mercer County,West Virginia","Pendleton County,Kentucky",16478,440126
+94,"Mercer County,West Virginia","Perry County,Kentucky",13358,307715
+95,"Mercer County,West Virginia","Pike County,Kentucky",9905,212758
+96,"Mercer County,West Virginia","Powell County,Kentucky",14472,406988
+97,"Mercer County,West Virginia","Robertson County,Kentucky",14624,404632
+98,"Mercer County,West Virginia","Rockcastle County,Kentucky",16808,477179
+99,"Mercer County,West Virginia","Rowan County,Kentucky",11358,330909
+100,"Mercer County,West Virginia","Russell County,Kentucky",20373,568465
+101,"Mercer County,West Virginia","Scott County,Kentucky",15210,453040
+102,"Mercer County,West Virginia","Shelby County,Kentucky",17037,504316
+103,"Mercer County,West Virginia","Simpson County,Kentucky",24190,687486
+104,"Mercer County,West Virginia","Spencer County,Kentucky",17566,510164
+105,"Mercer County,West Virginia","Taylor County,Kentucky",19709,561249
+106,"Mercer County,West Virginia","Todd County,Kentucky",25206,751557
+107,"Mercer County,West Virginia","Trigg County,Kentucky",25698,775969
+108,"Mercer County,West Virginia","Trimble County,Kentucky",19253,551103
+109,"Mercer County,West Virginia","Union County,Kentucky",27315,791518
+110,"Mercer County,West Virginia","Warren County,Kentucky",23123,678444
+111,"Mercer County,West Virginia","Washington County,Kentucky",18037,514061
+112,"Mercer County,West Virginia","Wayne County,Kentucky",19706,533898
+113,"Mercer County,West Virginia","Webster County,Kentucky",26226,770702
+114,"Mercer County,West Virginia","Whitley County,Kentucky",15806,471529
+115,"Mercer County,West Virginia","Wolfe County,Kentucky",14205,369843
+116,"Mercer County,West Virginia","Woodford County,Kentucky",15429,455676
+117,"Mercer County,West Virginia","Adams County,Ohio",13982,381304
+118,"Mercer County,West Virginia","Allen County,Ohio",20714,556722
+119,"Mercer County,West Virginia","Ashland County,Ohio",18458,510613
+120,"Mercer County,West Virginia","Ashtabula County,Ohio",21146,631511
+121,"Mercer County,West Virginia","Athens County,Ohio",10390,286903
+122,"Mercer County,West Virginia","Auglaize County,Ohio",19964,573421
+123,"Mercer County,West Virginia","Belmont County,Ohio",14209,420435
+124,"Mercer County,West Virginia","Brown County,Ohio",15226,408232
+125,"Mercer County,West Virginia","Butler County,Ohio",18339,490257
+126,"Mercer County,West Virginia","Carroll County,Ohio",16138,457321
+127,"Mercer County,West Virginia","Champaign County,Ohio",17268,475519
+128,"Mercer County,West Virginia","Clark County,Ohio",15947,435063
+129,"Mercer County,West Virginia","Clermont County,Ohio",16060,439328
+130,"Mercer County,West Virginia","Clinton County,Ohio",15451,422745
+131,"Mercer County,West Virginia","Columbiana County,Ohio",17980,511557
+132,"Mercer County,West Virginia","Coshocton County,Ohio",14774,428438
+133,"Mercer County,West Virginia","Crawford County,Ohio",19066,521773
+134,"Mercer County,West Virginia","Cuyahoga County,Ohio",18175,542725
+135,"Mercer County,West Virginia","Darke County,Ohio",19061,530468
+136,"Mercer County,West Virginia","Defiance County,Ohio",24149,635042
+137,"Mercer County,West Virginia","Delaware County,Ohio",16220,454510
+138,"Mercer County,West Virginia","Fairfield County,Ohio",13750,381604
+139,"Mercer County,West Virginia","Fayette County,Ohio",14015,393208
+140,"Mercer County,West Virginia","Franklin County,Ohio",14750,411459
+141,"Mercer County,West Virginia","Fulton County,Ohio",24156,677342
+142,"Mercer County,West Virginia","Gallia County,Ohio",9328,252320
+143,"Mercer County,West Virginia","Geauga County,Ohio",19246,568443
+144,"Mercer County,West Virginia","Greene County,Ohio",14885,426361
+145,"Mercer County,West Virginia","Guernsey County,Ohio",12324,366357
+146,"Mercer County,West Virginia","Hamilton County,Ohio",17840,500835
+147,"Mercer County,West Virginia","Hancock County,Ohio",20243,562865
+148,"Mercer County,West Virginia","Hardin County,Ohio",19225,512551
+149,"Mercer County,West Virginia","Harrison County,Ohio",15144,439387
+150,"Mercer County,West Virginia","Henry County,Ohio",22955,634487
+151,"Mercer County,West Virginia","Highland County,Ohio",14519,381318
+152,"Mercer County,West Virginia","Hocking County,Ohio",12192,337567
+153,"Mercer County,West Virginia","Holmes County,Ohio",15832,451322
+154,"Mercer County,West Virginia","Huron County,Ohio",20355,552242
+155,"Mercer County,West Virginia","Jackson County,Ohio",10506,291869
+156,"Mercer County,West Virginia","Jefferson County,Ohio",16137,449165
+157,"Mercer County,West Virginia","Knox County,Ohio",16562,470914
+158,"Mercer County,West Virginia","Lawrence County,Ohio",10030,258083
+159,"Mercer County,West Virginia","Licking County,Ohio",15695,408614
+160,"Mercer County,West Virginia","Logan County,Ohio",18245,506828
+161,"Mercer County,West Virginia","Lorain County,Ohio",19399,572549
+162,"Mercer County,West Virginia","Lucas County,Ohio",23878,650364
+163,"Mercer County,West Virginia","Madison County,Ohio",15716,416293
+164,"Mercer County,West Virginia","Mahoning County,Ohio",18476,526361
+165,"Mercer County,West Virginia","Marion County,Ohio",17626,480603
+166,"Mercer County,West Virginia","Medina County,Ohio",17848,528756
+167,"Mercer County,West Virginia","Meigs County,Ohio",9271,257874
+168,"Mercer County,West Virginia","Mercer County,Ohio",21200,600355
+169,"Mercer County,West Virginia","Miami County,Ohio",17550,495860
+170,"Mercer County,West Virginia","Monroe County,Ohio",13260,355549
+171,"Mercer County,West Virginia","Montgomery County,Ohio",16919,473816
+172,"Mercer County,West Virginia","Morgan County,Ohio",12265,342196
+173,"Mercer County,West Virginia","Morrow County,Ohio",17027,477331
+174,"Mercer County,West Virginia","Muskingum County,Ohio",13170,394348
+175,"Mercer County,West Virginia","Noble County,Ohio",11766,338709
+176,"Mercer County,West Virginia","Paulding County,Ohio",23251,632627
+177,"Mercer County,West Virginia","Perry County,Ohio",13608,352324
+178,"Mercer County,West Virginia","Pickaway County,Ohio",13455,373307
+179,"Mercer County,West Virginia","Pike County,Ohio",11951,331176
+180,"Mercer County,West Virginia","Portage County,Ohio",17697,524307
+181,"Mercer County,West Virginia","Preble County,Ohio",18538,502394
+182,"Mercer County,West Virginia","Putnam County,Ohio",21837,589080
+183,"Mercer County,West Virginia","Richland County,Ohio",18057,512570
+184,"Mercer County,West Virginia","Ross County,Ohio",12199,339614
+185,"Mercer County,West Virginia","Sandusky County,Ohio",21999,581560
+186,"Mercer County,West Virginia","Scioto County,Ohio",11836,315356
+187,"Mercer County,West Virginia","Seneca County,Ohio",20616,555445
+188,"Mercer County,West Virginia","Shelby County,Ohio",18588,532146
+189,"Mercer County,West Virginia","Stark County,Ohio",15997,472556
+190,"Mercer County,West Virginia","Summit County,Ohio",16756,498344
+191,"Mercer County,West Virginia","Trumbull County,Ohio",19431,552608
+192,"Mercer County,West Virginia","Tuscarawas County,Ohio",14198,413144
+193,"Mercer County,West Virginia","Union County,Ohio",16749,457059
+194,"Mercer County,West Virginia","Van Wert County,Ohio",21948,599591
+195,"Mercer County,West Virginia","Vinton County,Ohio",12401,317374
+196,"Mercer County,West Virginia","Warren County,Ohio",16257,456803
+197,"Mercer County,West Virginia","Washington County,Ohio",10624,296645
+198,"Mercer County,West Virginia","Wayne County,Ohio",16969,475434
+199,"Mercer County,West Virginia","Williams County,Ohio",25327,658559
+200,"Mercer County,West Virginia","Wood County,Ohio",21641,604473
+201,"Mercer County,West Virginia","Wyandot County,Ohio",19213,527001
+202,"Mercer County,West Virginia","Accomack County,Virginia",25369,703256
+203,"Mercer County,West Virginia","Albemarle County,Virginia",11518,315755
+204,"Mercer County,West Virginia","Alleghany County,Virginia",6127,171403
+205,"Mercer County,West Virginia","Amelia County,Virginia",14090,354611
+206,"Mercer County,West Virginia","Amherst County,Virginia",10992,260670
+207,"Mercer County,West Virginia","Appomattox County,Virginia",11167,274280
+208,"Mercer County,West Virginia","Arlington County,Virginia",18203,516065
+209,"Mercer County,West Virginia","Augusta County,Virginia",10069,272720
+210,"Mercer County,West Virginia","Bath County,Virginia",9139,246713
+211,"Mercer County,West Virginia","Bedford County,Virginia",8900,205590
+212,"Mercer County,West Virginia","Bland County,Virginia",2273,54719
+213,"Mercer County,West Virginia","Botetourt County,Virginia",7757,189654
+214,"Mercer County,West Virginia","Brunswick County,Virginia",16633,404284
+215,"Mercer County,West Virginia","Buchanan County,Virginia",6268,138948
+216,"Mercer County,West Virginia","Buckingham County,Virginia",12281,298189
+217,"Mercer County,West Virginia","Campbell County,Virginia",10316,246825
+218,"Mercer County,West Virginia","Caroline County,Virginia",16858,484601
+219,"Mercer County,West Virginia","Carroll County,Virginia",4519,124156
+220,"Mercer County,West Virginia","Charles City County,Virginia",16958,481636
+221,"Mercer County,West Virginia","Charlotte County,Virginia",12865,314761
+222,"Mercer County,West Virginia","Chesterfield County,Virginia",15784,393501
+223,"Mercer County,West Virginia","Clarke County,Virginia",15698,442813
+224,"Mercer County,West Virginia","Craig County,Virginia",4955,109584
+225,"Mercer County,West Virginia","Culpeper County,Virginia",15315,404972
+226,"Mercer County,West Virginia","Cumberland County,Virginia",13695,335421
+227,"Mercer County,West Virginia","Dickenson County,Virginia",8949,179052
+228,"Mercer County,West Virginia","Dinwiddie County,Virginia",15863,397672
+229,"Mercer County,West Virginia","Essex County,Virginia",18675,508643
+230,"Mercer County,West Virginia","Fairfax County,Virginia",17826,506341
+231,"Mercer County,West Virginia","Fauquier County,Virginia",16136,464065
+232,"Mercer County,West Virginia","Floyd County,Virginia",6140,143120
+233,"Mercer County,West Virginia","Fluvanna County,Virginia",13196,367927
+234,"Mercer County,West Virginia","Franklin County,Virginia",8413,206823
+235,"Mercer County,West Virginia","Frederick County,Virginia",15150,430540
+236,"Mercer County,West Virginia","Giles County,Virginia",3004,66277
+237,"Mercer County,West Virginia","Gloucester County,Virginia",19129,535824
+238,"Mercer County,West Virginia","Goochland County,Virginia",14100,398538
+239,"Mercer County,West Virginia","Grayson County,Virginia",4922,113863
+240,"Mercer County,West Virginia","Greene County,Virginia",13511,351340
+241,"Mercer County,West Virginia","Greensville County,Virginia",17916,496744
+242,"Mercer County,West Virginia","Halifax County,Virginia",12822,321843
+243,"Mercer County,West Virginia","Hanover County,Virginia",15306,439645
+244,"Mercer County,West Virginia","Henrico County,Virginia",15817,452605
+245,"Mercer County,West Virginia","Henry County,Virginia",8392,210877
+246,"Mercer County,West Virginia","Highland County,Virginia",10583,256683
+247,"Mercer County,West Virginia","Isle of Wight County,Virginia",19983,497793
+248,"Mercer County,West Virginia","James City County,Virginia",18194,522407
+249,"Mercer County,West Virginia","King and Queen County,Virginia",17852,497991
+250,"Mercer County,West Virginia","King George County,Virginia",17971,512587
+251,"Mercer County,West Virginia","King William County,Virginia",16540,467913
+252,"Mercer County,West Virginia","Lancaster County,Virginia",20332,550998
+253,"Mercer County,West Virginia","Lee County,Virginia",10556,247146
+254,"Mercer County,West Virginia","Loudoun County,Virginia",17194,478680
+255,"Mercer County,West Virginia","Louisa County,Virginia",13757,381633
+256,"Mercer County,West Virginia","Lunenburg County,Virginia",14637,356045
+257,"Mercer County,West Virginia","Madison County,Virginia",14431,381080
+258,"Mercer County,West Virginia","Mathews County,Virginia",19954,559247
+259,"Mercer County,West Virginia","Mecklenburg County,Virginia",14855,373389
+260,"Mercer County,West Virginia","Middlesex County,Virginia",18730,532024
+261,"Mercer County,West Virginia","Montgomery County,Virginia",4087,94284
+262,"Mercer County,West Virginia","Nelson County,Virginia",11544,291067
+263,"Mercer County,West Virginia","New Kent County,Virginia",17630,496321
+264,"Mercer County,West Virginia","Northampton County,Virginia",22611,639070
+265,"Mercer County,West Virginia","Northumberland County,Virginia",20372,549511
+266,"Mercer County,West Virginia","Nottoway County,Virginia",14130,356425
+267,"Mercer County,West Virginia","Orange County,Virginia",14720,389741
+268,"Mercer County,West Virginia","Page County,Virginia",13365,364871
+269,"Mercer County,West Virginia","Patrick County,Virginia",6625,169192
+270,"Mercer County,West Virginia","Pittsylvania County,Virginia",10708,265085
+271,"Mercer County,West Virginia","Powhatan County,Virginia",15193,370128
+272,"Mercer County,West Virginia","Prince Edward County,Virginia",12745,313760
+273,"Mercer County,West Virginia","Prince George County,Virginia",17518,437046
+274,"Mercer County,West Virginia","Prince William County,Virginia",16236,470169
+275,"Mercer County,West Virginia","Pulaski County,Virginia",4182,90615
+276,"Mercer County,West Virginia","Rappahannock County,Virginia",15196,401352
+277,"Mercer County,West Virginia","Richmond County,Virginia",19072,522154
+278,"Mercer County,West Virginia","Roanoke County,Virginia",5707,137077
+279,"Mercer County,West Virginia","Rockbridge County,Virginia",8460,239759
+280,"Mercer County,West Virginia","Rockingham County,Virginia",12404,337216
+281,"Mercer County,West Virginia","Russell County,Virginia",6082,134899
+282,"Mercer County,West Virginia","Scott County,Virginia",8746,203025
+283,"Mercer County,West Virginia","Shenandoah County,Virginia",12908,367319
+284,"Mercer County,West Virginia","Smyth County,Virginia",4631,120071
+285,"Mercer County,West Virginia","Southampton County,Virginia",19477,477008
+286,"Mercer County,West Virginia","Spotsylvania County,Virginia",15773,423472
+287,"Mercer County,West Virginia","Stafford County,Virginia",17154,447765
+288,"Mercer County,West Virginia","Surry County,Virginia",18938,521268
+289,"Mercer County,West Virginia","Sussex County,Virginia",17872,442803
+290,"Mercer County,West Virginia","Tazewell County,Virginia",3089,73306
+291,"Mercer County,West Virginia","Warren County,Virginia",14811,411912
+292,"Mercer County,West Virginia","Washington County,Virginia",6024,159537
+293,"Mercer County,West Virginia","Westmoreland County,Virginia",19410,541073
+294,"Mercer County,West Virginia","Wise County,Virginia",8860,207234
+295,"Mercer County,West Virginia","Wythe County,Virginia",2878,72936
+296,"Mercer County,West Virginia","York County,Virginia",19482,553181
+297,"Mercer County,West Virginia","Alexandria City County,Virginia",18405,528711
+298,"Mercer County,West Virginia","Bedford City County,Virginia",8065,197021
+299,"Mercer County,West Virginia","Bristol City County,Virginia",6499,185254
+300,"Mercer County,West Virginia","Buena Vista City County,Virginia",8576,226213
+301,"Mercer County,West Virginia","Charlottesville City County,Virginia",11988,330970
+302,"Mercer County,West Virginia","Chesapeake City County,Virginia",20945,606087
+303,"Mercer County,West Virginia","Clifton Forge City County,Virginia",6670,191610
+304,"Mercer County,West Virginia","Colonial Heights City County,Virginia",16654,475312
+305,"Mercer County,West Virginia","Covington City County,Virginia",6196,174989
+306,"Mercer County,West Virginia","Danville City County,Virginia",10550,265333
+307,"Mercer County,West Virginia","Emporia City County,Virginia",18017,433673
+308,"Mercer County,West Virginia","Fairfax City County,Virginia",17369,495916
+309,"Mercer County,West Virginia","Falls Church City County,Virginia",17701,510389
+310,"Mercer County,West Virginia","Franklin City County,Virginia",20103,490143
+311,"Mercer County,West Virginia","Fredericksburg City County,Virginia",16906,433131
+312,"Mercer County,West Virginia","Galax City County,Virginia",5143,130022
+313,"Mercer County,West Virginia","Hampton City County,Virginia",19432,562887
+314,"Mercer County,West Virginia","Harrisonburg City County,Virginia",11463,317112
+315,"Mercer County,West Virginia","Hopewell City County,Virginia",16690,474278
+316,"Mercer County,West Virginia","Lexington City County,Virginia",8449,242228
+317,"Mercer County,West Virginia","Lynchburg City County,Virginia",10090,241896
+318,"Mercer County,West Virginia","Manassas City County,Virginia",16464,475113
+319,"Mercer County,West Virginia","Manassas Park City County,Virginia",16966,481456
+320,"Mercer County,West Virginia","Martinsville City County,Virginia",8920,219670
+321,"Mercer County,West Virginia","Newport News City County,Virginia",18989,549373
+322,"Mercer County,West Virginia","Norfolk City County,Virginia",20738,588303
+323,"Mercer County,West Virginia","Norton City County,Virginia",8384,198125
+324,"Mercer County,West Virginia","Petersburg City County,Virginia",16522,419650
+325,"Mercer County,West Virginia","Poquoson City County,Virginia",19660,559950
+326,"Mercer County,West Virginia","Portsmouth City County,Virginia",20677,597124
+327,"Mercer County,West Virginia","Radford County,Virginia",4495,92324
+328,"Mercer County,West Virginia","Richmond City County,Virginia",15394,440415
+329,"Mercer County,West Virginia","Roanoke City County,Virginia",6309,157182
+330,"Mercer County,West Virginia","Salem City County,Virginia",5721,143732
+331,"Mercer County,West Virginia","South Boston City County,Virginia",12562,319511
+332,"Mercer County,West Virginia","Staunton City County,Virginia",10280,278247
+333,"Mercer County,West Virginia","Suffolk City County,Virginia",20826,512517
+334,"Mercer County,West Virginia","Virginia Beach City County,Virginia",21299,611562
+335,"Mercer County,West Virginia","Waynesboro City County,Virginia",10618,290965
+336,"Mercer County,West Virginia","Williamsburg City County,Virginia",18033,521622
+337,"Mercer County,West Virginia","Winchester City County,Virginia",15030,426684
+338,"Mercer County,West Virginia","Barbour County,West Virginia",11416,297870
+339,"Mercer County,West Virginia","Berkeley County,West Virginia",16767,473891
+340,"Mercer County,West Virginia","Boone County,West Virginia",6779,135381
+341,"Mercer County,West Virginia","Braxton County,West Virginia",8107,188849
+342,"Mercer County,West Virginia","Brooke County,West Virginia",15775,429663
+343,"Mercer County,West Virginia","Cabell County,West Virginia",8347,231287
+344,"Mercer County,West Virginia","Calhoun County,West Virginia",9782,256766
+345,"Mercer County,West Virginia","Clay County,West Virginia",6772,152286
+346,"Mercer County,West Virginia","Doddridge County,West Virginia",11621,274726
+347,"Mercer County,West Virginia","Fayette County,West Virginia",4279,98023
+348,"Mercer County,West Virginia","Gilmer County,West Virginia",9675,238529
+349,"Mercer County,West Virginia","Grant County,West Virginia",14940,357054
+350,"Mercer County,West Virginia","Greenbrier County,West Virginia",6081,128545
+351,"Mercer County,West Virginia","Hampshire County,West Virginia",16887,444795
+352,"Mercer County,West Virginia","Hancock County,West Virginia",17401,457010
+353,"Mercer County,West Virginia","Hardy County,West Virginia",16054,364522
+354,"Mercer County,West Virginia","Harrison County,West Virginia",10650,284240
+355,"Mercer County,West Virginia","Jackson County,West Virginia",7666,211098
+356,"Mercer County,West Virginia","Jefferson County,West Virginia",16818,461297
+357,"Mercer County,West Virginia","Kanawha County,West Virginia",5429,133080
+358,"Mercer County,West Virginia","Lewis County,West Virginia",9280,237710
+359,"Mercer County,West Virginia","Lincoln County,West Virginia",9011,208965
+360,"Mercer County,West Virginia","Logan County,West Virginia",8346,146334
+361,"Mercer County,West Virginia","McDowell County,West Virginia",4880,84040
+362,"Mercer County,West Virginia","Marion County,West Virginia",11795,311408
+363,"Mercer County,West Virginia","Marshall County,West Virginia",15674,398784
+364,"Mercer County,West Virginia","Mason County,West Virginia",7822,217194
+365,"Mercer County,West Virginia","Mineral County,West Virginia",17537,402712
+366,"Mercer County,West Virginia","Mingo County,West Virginia",9096,163208
+367,"Mercer County,West Virginia","Monongalia County,West Virginia",12006,336876
+368,"Mercer County,West Virginia","Monroe County,West Virginia",3870,78636
+369,"Mercer County,West Virginia","Morgan County,West Virginia",17045,471450
+370,"Mercer County,West Virginia","Nicholas County,West Virginia",5726,139022
+371,"Mercer County,West Virginia","Ohio County,West Virginia",15306,443920
+372,"Mercer County,West Virginia","Pendleton County,West Virginia",12721,304779
+373,"Mercer County,West Virginia","Pleasants County,West Virginia",11148,308950
+374,"Mercer County,West Virginia","Pocahontas County,West Virginia",9161,208757
+375,"Mercer County,West Virginia","Preston County,West Virginia",14152,363607
+376,"Mercer County,West Virginia","Putnam County,West Virginia",6604,182812
+377,"Mercer County,West Virginia","Raleigh County,West Virginia",2454,58261
+378,"Mercer County,West Virginia","Randolph County,West Virginia",11781,300165
+379,"Mercer County,West Virginia","Ritchie County,West Virginia",11479,322654
+380,"Mercer County,West Virginia","Roane County,West Virginia",9292,239913
+381,"Mercer County,West Virginia","Summers County,West Virginia",3816,58535
+382,"Mercer County,West Virginia","Taylor County,West Virginia",11688,306980
+383,"Mercer County,West Virginia","Tucker County,West Virginia",12848,330690
+384,"Mercer County,West Virginia","Tyler County,West Virginia",13058,348565
+385,"Mercer County,West Virginia","Upshur County,West Virginia",10844,252407
+386,"Mercer County,West Virginia","Wayne County,West Virginia",9938,263914
+387,"Mercer County,West Virginia","Webster County,West Virginia",9069,195973
+388,"Mercer County,West Virginia","Wetzel County,West Virginia",13330,335723
+389,"Mercer County,West Virginia","Wirt County,West Virginia",9932,268436
+390,"Mercer County,West Virginia","Wood County,West Virginia",9447,270125
+391,"Mercer County,West Virginia","Wyoming County,West Virginia",3676,64913

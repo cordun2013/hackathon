@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Marion County,West Virginia","Adair County,Kentucky",23673,671437
+1,"Marion County,West Virginia","Allen County,Kentucky",26292,772085
+2,"Marion County,West Virginia","Anderson County,Kentucky",19473,574477
+3,"Marion County,West Virginia","Ballard County,Kentucky",32452,964248
+4,"Marion County,West Virginia","Barren County,Kentucky",25419,730465
+5,"Marion County,West Virginia","Bath County,Kentucky",15120,445658
+6,"Marion County,West Virginia","Bell County,Kentucky",22676,581474
+7,"Marion County,West Virginia","Boone County,Kentucky",19035,495487
+8,"Marion County,West Virginia","Bourbon County,Kentucky",17034,492075
+9,"Marion County,West Virginia","Boyd County,Kentucky",11796,339982
+10,"Marion County,West Virginia","Boyle County,Kentucky",20702,578363
+11,"Marion County,West Virginia","Bracken County,Kentucky",17445,486158
+12,"Marion County,West Virginia","Breathitt County,Kentucky",18507,486684
+13,"Marion County,West Virginia","Breckinridge County,Kentucky",25006,727158
+14,"Marion County,West Virginia","Bullitt County,Kentucky",21576,648277
+15,"Marion County,West Virginia","Butler County,Kentucky",25671,749156
+16,"Marion County,West Virginia","Caldwell County,Kentucky",28563,855101
+17,"Marion County,West Virginia","Calloway County,Kentucky",31373,940093
+18,"Marion County,West Virginia","Campbell County,Kentucky",18664,484642
+19,"Marion County,West Virginia","Carlisle County,Kentucky",32909,979616
+20,"Marion County,West Virginia","Carroll County,Kentucky",20609,557253
+21,"Marion County,West Virginia","Carter County,Kentucky",12961,370079
+22,"Marion County,West Virginia","Casey County,Kentucky",22197,609868
+23,"Marion County,West Virginia","Christian County,Kentucky",28212,850358
+24,"Marion County,West Virginia","Clay County,Kentucky",21006,573799
+25,"Marion County,West Virginia","Clinton County,Kentucky",24081,674803
+26,"Marion County,West Virginia","Crittenden County,Kentucky",30143,888171
+27,"Marion County,West Virginia","Cumberland County,Kentucky",24835,693042
+28,"Marion County,West Virginia","Daviess County,Kentucky",26694,795598
+29,"Marion County,West Virginia","Edmonson County,Kentucky",25112,737031
+30,"Marion County,West Virginia","Elliott County,Kentucky",14291,395850
+31,"Marion County,West Virginia","Estill County,Kentucky",18113,507973
+32,"Marion County,West Virginia","Fayette County,Kentucky",17280,511969
+33,"Marion County,West Virginia","Fleming County,Kentucky",15546,448843
+34,"Marion County,West Virginia","Floyd County,Kentucky",15929,447247
+35,"Marion County,West Virginia","Franklin County,Kentucky",19318,560886
+36,"Marion County,West Virginia","Fulton County,Kentucky",33313,1000580
+37,"Marion County,West Virginia","Gallatin County,Kentucky",19820,529666
+38,"Marion County,West Virginia","Garrard County,Kentucky",19885,559123
+39,"Marion County,West Virginia","Grant County,Kentucky",19887,530140
+40,"Marion County,West Virginia","Graves County,Kentucky",31933,952322
+41,"Marion County,West Virginia","Grayson County,Kentucky",23999,705792
+42,"Marion County,West Virginia","Green County,Kentucky",23778,670997
+43,"Marion County,West Virginia","Greenup County,Kentucky",13572,381109
+44,"Marion County,West Virginia","Hancock County,Kentucky",25802,760051
+45,"Marion County,West Virginia","Hardin County,Kentucky",22875,667924
+46,"Marion County,West Virginia","Harlan County,Kentucky",21998,561790
+47,"Marion County,West Virginia","Harrison County,Kentucky",18605,525175
+48,"Marion County,West Virginia","Hart County,Kentucky",23674,695553
+49,"Marion County,West Virginia","Henderson County,Kentucky",28501,848028
+50,"Marion County,West Virginia","Henry County,Kentucky",20919,604604
+51,"Marion County,West Virginia","Hickman County,Kentucky",32942,980908
+52,"Marion County,West Virginia","Hopkins County,Kentucky",28022,829569
+53,"Marion County,West Virginia","Jackson County,Kentucky",20786,555982
+54,"Marion County,West Virginia","Jefferson County,Kentucky",21013,620138
+55,"Marion County,West Virginia","Jessamine County,Kentucky",18749,533433
+56,"Marion County,West Virginia","Johnson County,Kentucky",14577,412878
+57,"Marion County,West Virginia","Kenton County,Kentucky",18404,483181
+58,"Marion County,West Virginia","Knott County,Kentucky",17111,479129
+59,"Marion County,West Virginia","Knox County,Kentucky",22289,638015
+60,"Marion County,West Virginia","Larue County,Kentucky",22946,655100
+61,"Marion County,West Virginia","Laurel County,Kentucky",21140,609410
+62,"Marion County,West Virginia","Lawrence County,Kentucky",13719,384302
+63,"Marion County,West Virginia","Lee County,Kentucky",18958,501710
+64,"Marion County,West Virginia","Leslie County,Kentucky",20190,548803
+65,"Marion County,West Virginia","Letcher County,Kentucky",18183,482069
+66,"Marion County,West Virginia","Lewis County,Kentucky",14999,421897
+67,"Marion County,West Virginia","Lincoln County,Kentucky",20595,576041
+68,"Marion County,West Virginia","Livingston County,Kentucky",30739,905068
+69,"Marion County,West Virginia","Logan County,Kentucky",27412,792394
+70,"Marion County,West Virginia","Lyon County,Kentucky",30872,915459
+71,"Marion County,West Virginia","McCracken County,Kentucky",31064,932308
+72,"Marion County,West Virginia","McCreary County,Kentucky",23245,653852
+73,"Marion County,West Virginia","Madison County,Kentucky",18279,522993
+74,"Marion County,West Virginia","Magoffin County,Kentucky",15545,433557
+75,"Marion County,West Virginia","Marion County,Kentucky",21324,616709
+76,"Marion County,West Virginia","Marshall County,Kentucky",30479,915879
+77,"Marion County,West Virginia","Martin County,Kentucky",15205,416647
+78,"Marion County,West Virginia","Mason County,Kentucky",16794,465704
+79,"Marion County,West Virginia","Meade County,Kentucky",23474,692453
+80,"Marion County,West Virginia","Menifee County,Kentucky",16237,457721
+81,"Marion County,West Virginia","Mercer County,Kentucky",19701,572420
+82,"Marion County,West Virginia","Metcalfe County,Kentucky",24329,701702
+83,"Marion County,West Virginia","Monroe County,Kentucky",26299,739206
+84,"Marion County,West Virginia","Montgomery County,Kentucky",15933,464198
+85,"Marion County,West Virginia","Morgan County,Kentucky",16015,433437
+86,"Marion County,West Virginia","Muhlenberg County,Kentucky",26882,796045
+87,"Marion County,West Virginia","Nelson County,Kentucky",20932,615781
+88,"Marion County,West Virginia","Nicholas County,Kentucky",17611,492082
+89,"Marion County,West Virginia","Ohio County,Kentucky",25795,763635
+90,"Marion County,West Virginia","Oldham County,Kentucky",21084,632019
+91,"Marion County,West Virginia","Owen County,Kentucky",20140,587663
+92,"Marion County,West Virginia","Owsley County,Kentucky",20104,521686
+93,"Marion County,West Virginia","Pendleton County,Kentucky",19383,527082
+94,"Marion County,West Virginia","Perry County,Kentucky",18490,509687
+95,"Marion County,West Virginia","Pike County,Kentucky",15485,412186
+96,"Marion County,West Virginia","Powell County,Kentucky",17377,493944
+97,"Marion County,West Virginia","Robertson County,Kentucky",17529,491588
+98,"Marion County,West Virginia","Rockcastle County,Kentucky",19713,564135
+99,"Marion County,West Virginia","Rowan County,Kentucky",14263,417865
+100,"Marion County,West Virginia","Russell County,Kentucky",23278,655421
+101,"Marion County,West Virginia","Scott County,Kentucky",18115,539996
+102,"Marion County,West Virginia","Shelby County,Kentucky",19942,591272
+103,"Marion County,West Virginia","Simpson County,Kentucky",26993,800451
+104,"Marion County,West Virginia","Spencer County,Kentucky",20471,597120
+105,"Marion County,West Virginia","Taylor County,Kentucky",22614,648205
+106,"Marion County,West Virginia","Todd County,Kentucky",28648,816554
+107,"Marion County,West Virginia","Trigg County,Kentucky",29626,876287
+108,"Marion County,West Virginia","Trimble County,Kentucky",21508,580577
+109,"Marion County,West Virginia","Union County,Kentucky",30220,878474
+110,"Marion County,West Virginia","Warren County,Kentucky",26028,765400
+111,"Marion County,West Virginia","Washington County,Kentucky",20942,601017
+112,"Marion County,West Virginia","Wayne County,Kentucky",23454,652494
+113,"Marion County,West Virginia","Webster County,Kentucky",29131,857658
+114,"Marion County,West Virginia","Whitley County,Kentucky",21973,643895
+115,"Marion County,West Virginia","Wolfe County,Kentucky",17110,456799
+116,"Marion County,West Virginia","Woodford County,Kentucky",18334,542632
+117,"Marion County,West Virginia","Adams County,Ohio",14384,379087
+118,"Marion County,West Virginia","Allen County,Ohio",18844,496724
+119,"Marion County,West Virginia","Ashland County,Ohio",14588,400619
+120,"Marion County,West Virginia","Ashtabula County,Ohio",12627,356532
+121,"Marion County,West Virginia","Athens County,Ohio",8781,226597
+122,"Marion County,West Virginia","Auglaize County,Ohio",18457,500418
+123,"Marion County,West Virginia","Belmont County,Ohio",7076,184085
+124,"Marion County,West Virginia","Brown County,Ohio",15809,411947
+125,"Marion County,West Virginia","Butler County,Ohio",18632,492166
+126,"Marion County,West Virginia","Carroll County,Ohio",10021,219944
+127,"Marion County,West Virginia","Champaign County,Ohio",16115,416186
+128,"Marion County,West Virginia","Clark County,Ohio",14992,406757
+129,"Marion County,West Virginia","Clermont County,Ohio",16463,437110
+130,"Marion County,West Virginia","Clinton County,Ohio",15885,420596
+131,"Marion County,West Virginia","Columbiana County,Ohio",9230,208464
+132,"Marion County,West Virginia","Coshocton County,Ohio",11433,309535
+133,"Marion County,West Virginia","Crawford County,Ohio",16497,471813
+134,"Marion County,West Virginia","Cuyahoga County,Ohio",12623,354376
+135,"Marion County,West Virginia","Darke County,Ohio",18568,504659
+136,"Marion County,West Virginia","Defiance County,Ohio",20941,603339
+137,"Marion County,West Virginia","Delaware County,Ohio",14353,408532
+138,"Marion County,West Virginia","Fairfield County,Ohio",11964,316537
+139,"Marion County,West Virginia","Fayette County,Ohio",14449,391060
+140,"Marion County,West Virginia","Franklin County,Ohio",12964,346392
+141,"Marion County,West Virginia","Fulton County,Ohio",19293,560190
+142,"Marion County,West Virginia","Gallia County,Ohio",10663,266473
+143,"Marion County,West Virginia","Geauga County,Ohio",12116,329194
+144,"Marion County,West Virginia","Greene County,Ohio",15319,424212
+145,"Marion County,West Virginia","Guernsey County,Ohio",8979,247594
+146,"Marion County,West Virginia","Hamilton County,Ohio",18133,502744
+147,"Marion County,West Virginia","Hancock County,Ohio",18376,516887
+148,"Marion County,West Virginia","Hardin County,Ohio",17355,452554
+149,"Marion County,West Virginia","Harrison County,Ohio",9037,222799
+150,"Marion County,West Virginia","Henry County,Ohio",19748,549957
+151,"Marion County,West Virginia","Highland County,Ohio",14921,379100
+152,"Marion County,West Virginia","Hocking County,Ohio",10406,272500
+153,"Marion County,West Virginia","Holmes County,Ohio",12492,332419
+154,"Marion County,West Virginia","Huron County,Ohio",15865,430225
+155,"Marion County,West Virginia","Jackson County,Ohio",10908,289651
+156,"Marion County,West Virginia","Jefferson County,Ohio",7977,183435
+157,"Marion County,West Virginia","Knox County,Ohio",13221,352011
+158,"Marion County,West Virginia","Lawrence County,Ohio",12935,345039
+159,"Marion County,West Virginia","Licking County,Ohio",12607,333082
+160,"Marion County,West Virginia","Logan County,Ohio",16375,446831
+161,"Marion County,West Virginia","Lorain County,Ohio",13674,384096
+162,"Marion County,West Virginia","Lucas County,Ohio",18248,513040
+163,"Marion County,West Virginia","Madison County,Ohio",14241,381113
+164,"Marion County,West Virginia","Mahoning County,Ohio",9113,246524
+165,"Marion County,West Virginia","Marion County,Ohio",15759,434625
+166,"Marion County,West Virginia","Medina County,Ohio",13221,367739
+167,"Marion County,West Virginia","Meigs County,Ohio",8746,219174
+168,"Marion County,West Virginia","Mercer County,Ohio",19693,527352
+169,"Marion County,West Virginia","Miami County,Ohio",17079,470090
+170,"Marion County,West Virginia","Monroe County,Ohio",7121,116590
+171,"Marion County,West Virginia","Montgomery County,Ohio",17340,475537
+172,"Marion County,West Virginia","Morgan County,Ohio",9223,228944
+173,"Marion County,West Virginia","Morrow County,Ohio",15182,384973
+174,"Marion County,West Virginia","Muskingum County,Ohio",9825,275585
+175,"Marion County,West Virginia","Noble County,Ohio",8703,226470
+176,"Marion County,West Virginia","Paulding County,Ohio",21381,572630
+177,"Marion County,West Virginia","Perry County,Ohio",11748,274812
+178,"Marion County,West Virginia","Pickaway County,Ohio",12569,325441
+179,"Marion County,West Virginia","Pike County,Ohio",12354,328958
+180,"Marion County,West Virginia","Portage County,Ohio",10968,302537
+181,"Marion County,West Virginia","Preble County,Ohio",18110,498249
+182,"Marion County,West Virginia","Putnam County,Ohio",19967,529083
+183,"Marion County,West Virginia","Richland County,Ohio",15145,422047
+184,"Marion County,West Virginia","Ross County,Ohio",12634,337465
+185,"Marion County,West Virginia","Sandusky County,Ohio",16536,471615
+186,"Marion County,West Virginia","Scioto County,Ohio",12993,345029
+187,"Marion County,West Virginia","Seneca County,Ohio",17266,481287
+188,"Marion County,West Virginia","Shelby County,Ohio",18133,477079
+189,"Marion County,West Virginia","Stark County,Ohio",11745,256411
+190,"Marion County,West Virginia","Summit County,Ohio",11862,331132
+191,"Marion County,West Virginia","Trumbull County,Ohio",10271,283988
+192,"Marion County,West Virginia","Tuscarawas County,Ohio",10546,254082
+193,"Marion County,West Virginia","Union County,Ohio",14879,397062
+194,"Marion County,West Virginia","Van Wert County,Ohio",20078,539594
+195,"Marion County,West Virginia","Vinton County,Ohio",10898,275038
+196,"Marion County,West Virginia","Warren County,Ohio",16549,458712
+197,"Marion County,West Virginia","Washington County,Ohio",7562,184407
+198,"Marion County,West Virginia","Wayne County,Ohio",13628,356531
+199,"Marion County,West Virginia","Williams County,Ohio",20539,591647
+200,"Marion County,West Virginia","Wood County,Ohio",18433,519943
+201,"Marion County,West Virginia","Wyandot County,Ohio",17345,481023
+202,"Marion County,West Virginia","Accomack County,Virginia",24540,658407
+203,"Marion County,West Virginia","Albemarle County,Virginia",16082,363433
+204,"Marion County,West Virginia","Alleghany County,Virginia",12643,314325
+205,"Marion County,West Virginia","Amelia County,Virginia",21136,495252
+206,"Marion County,West Virginia","Amherst County,Virginia",17972,445291
+207,"Marion County,West Virginia","Appomattox County,Virginia",19565,484050
+208,"Marion County,West Virginia","Arlington County,Virginia",13403,375334
+209,"Marion County,West Virginia","Augusta County,Virginia",14338,303589
+210,"Marion County,West Virginia","Bath County,Virginia",13746,285233
+211,"Marion County,West Virginia","Bedford County,Virginia",18630,449311
+212,"Marion County,West Virginia","Bland County,Virginia",13179,353248
+213,"Marion County,West Virginia","Botetourt County,Virginia",15798,385624
+214,"Marion County,West Virginia","Brunswick County,Virginia",22412,643756
+215,"Marion County,West Virginia","Buchanan County,Virginia",17173,437477
+216,"Marion County,West Virginia","Buckingham County,Virginia",19391,428582
+217,"Marion County,West Virginia","Campbell County,Virginia",19489,486522
+218,"Marion County,West Virginia","Caroline County,Virginia",17409,494323
+219,"Marion County,West Virginia","Carroll County,Virginia",15424,422685
+220,"Marion County,West Virginia","Charles City County,Virginia",19879,565806
+221,"Marion County,West Virginia","Charlotte County,Virginia",21450,537570
+222,"Marion County,West Virginia","Chesterfield County,Virginia",19809,558724
+223,"Marion County,West Virginia","Clarke County,Virginia",11516,275970
+224,"Marion County,West Virginia","Craig County,Virginia",15860,408113
+225,"Marion County,West Virginia","Culpeper County,Virginia",14836,375408
+226,"Marion County,West Virginia","Cumberland County,Virginia",20125,453790
+227,"Marion County,West Virginia","Dickenson County,Virginia",19583,502147
+228,"Marion County,West Virginia","Dinwiddie County,Virginia",21049,603723
+229,"Marion County,West Virginia","Essex County,Virginia",18810,518377
+230,"Marion County,West Virginia","Fairfax County,Virginia",13094,366001
+231,"Marion County,West Virginia","Fauquier County,Virginia",13266,342135
+232,"Marion County,West Virginia","Floyd County,Virginia",17045,441650
+233,"Marion County,West Virginia","Fluvanna County,Virginia",17760,415605
+234,"Marion County,West Virginia","Franklin County,Virginia",18798,464734
+235,"Marion County,West Virginia","Frederick County,Virginia",10306,250691
+236,"Marion County,West Virginia","Giles County,Virginia",13909,364806
+237,"Marion County,West Virginia","Gloucester County,Virginia",22049,619995
+238,"Marion County,West Virginia","Goochland County,Virginia",18664,446216
+239,"Marion County,West Virginia","Grayson County,Virginia",15827,412393
+240,"Marion County,West Virginia","Greene County,Virginia",15696,325062
+241,"Marion County,West Virginia","Greensville County,Virginia",22465,652475
+242,"Marion County,West Virginia","Halifax County,Virginia",22810,558228
+243,"Marion County,West Virginia","Hanover County,Virginia",18227,523816
+244,"Marion County,West Virginia","Henrico County,Virginia",19026,546477
+245,"Marion County,West Virginia","Henry County,Virginia",19298,509406
+246,"Marion County,West Virginia","Highland County,Virginia",10885,237390
+247,"Marion County,West Virginia","Isle of Wight County,Virginia",23160,655066
+248,"Marion County,West Virginia","James City County,Virginia",21115,606577
+249,"Marion County,West Virginia","King and Queen County,Virginia",19862,553639
+250,"Marion County,West Virginia","King George County,Virginia",17369,478184
+251,"Marion County,West Virginia","King William County,Virginia",18827,531436
+252,"Marion County,West Virginia","Lancaster County,Virginia",21233,574372
+253,"Marion County,West Virginia","Lee County,Virginia",20884,550663
+254,"Marion County,West Virginia","Loudoun County,Virginia",13012,311836
+255,"Marion County,West Virginia","Louisa County,Virginia",17444,438783
+256,"Marion County,West Virginia","Lunenburg County,Virginia",23010,530188
+257,"Marion County,West Virginia","Madison County,Virginia",15259,363667
+258,"Marion County,West Virginia","Mathews County,Virginia",22944,618759
+259,"Marion County,West Virginia","Mecklenburg County,Virginia",24213,591979
+260,"Marion County,West Virginia","Middlesex County,Virginia",21314,582340
+261,"Marion County,West Virginia","Montgomery County,Virginia",14993,392813
+262,"Marion County,West Virginia","Nelson County,Virginia",16962,381934
+263,"Marion County,West Virginia","New Kent County,Virginia",20551,580491
+264,"Marion County,West Virginia","Northampton County,Virginia",25532,723241
+265,"Marion County,West Virginia","Northumberland County,Virginia",21273,572884
+266,"Marion County,West Virginia","Nottoway County,Virginia",21920,618304
+267,"Marion County,West Virginia","Orange County,Virginia",16177,409907
+268,"Marion County,West Virginia","Page County,Virginia",13956,288116
+269,"Marion County,West Virginia","Patrick County,Virginia",17530,467721
+270,"Marion County,West Virginia","Pittsylvania County,Virginia",21223,514682
+271,"Marion County,West Virginia","Powhatan County,Virginia",19917,471437
+272,"Marion County,West Virginia","Prince Edward County,Virginia",20932,482406
+273,"Marion County,West Virginia","Prince George County,Virginia",20695,594319
+274,"Marion County,West Virginia","Prince William County,Virginia",13366,348239
+275,"Marion County,West Virginia","Pulaski County,Virginia",15088,389144
+276,"Marion County,West Virginia","Rappahannock County,Virginia",13577,327272
+277,"Marion County,West Virginia","Richmond County,Virginia",19973,545527
+278,"Marion County,West Virginia","Roanoke County,Virginia",16612,435606
+279,"Marion County,West Virginia","Rockbridge County,Virginia",14976,382681
+280,"Marion County,West Virginia","Rockingham County,Virginia",12127,256042
+281,"Marion County,West Virginia","Russell County,Virginia",16987,433428
+282,"Marion County,West Virginia","Scott County,Virginia",19651,501555
+283,"Marion County,West Virginia","Shenandoah County,Virginia",12394,245505
+284,"Marion County,West Virginia","Smyth County,Virginia",15536,418600
+285,"Marion County,West Virginia","Southampton County,Virginia",22843,648589
+286,"Marion County,West Virginia","Spotsylvania County,Virginia",16780,462583
+287,"Marion County,West Virginia","Stafford County,Virginia",15068,429288
+288,"Marion County,West Virginia","Surry County,Virginia",21807,616014
+289,"Marion County,West Virginia","Sussex County,Virginia",21507,618831
+290,"Marion County,West Virginia","Tazewell County,Virginia",13994,371835
+291,"Marion County,West Virginia","Warren County,Virginia",12121,298630
+292,"Marion County,West Virginia","Washington County,Virginia",16930,458066
+293,"Marion County,West Virginia","Westmoreland County,Virginia",18337,496985
+294,"Marion County,West Virginia","Wise County,Virginia",17848,478046
+295,"Marion County,West Virginia","Wythe County,Virginia",13784,371465
+296,"Marion County,West Virginia","York County,Virginia",22402,637352
+297,"Marion County,West Virginia","Alexandria City County,Virginia",13919,392515
+298,"Marion County,West Virginia","Bedford City County,Virginia",17662,432458
+299,"Marion County,West Virginia","Bristol City County,Virginia",17405,483784
+300,"Marion County,West Virginia","Buena Vista City County,Virginia",15331,396659
+301,"Marion County,West Virginia","Charlottesville City County,Virginia",16551,378648
+302,"Marion County,West Virginia","Chesapeake City County,Virginia",23865,690257
+303,"Marion County,West Virginia","Clifton Forge City County,Virginia",13187,334531
+304,"Marion County,West Virginia","Colonial Heights City County,Virginia",19862,569184
+305,"Marion County,West Virginia","Covington City County,Virginia",12712,317910
+306,"Marion County,West Virginia","Danville City County,Virginia",21455,563862
+307,"Marion County,West Virginia","Emporia City County,Virginia",22173,639068
+308,"Marion County,West Virginia","Fairfax City County,Virginia",13564,377634
+309,"Marion County,West Virginia","Falls Church City County,Virginia",13112,369646
+310,"Marion County,West Virginia","Franklin City County,Virginia",23391,656443
+311,"Marion County,West Virginia","Fredericksburg City County,Virginia",15881,444878
+312,"Marion County,West Virginia","Galax City County,Virginia",16048,428551
+313,"Marion County,West Virginia","Hampton City County,Virginia",22352,647058
+314,"Marion County,West Virginia","Harrisonburg City County,Virginia",13185,274717
+315,"Marion County,West Virginia","Hopewell City County,Virginia",19626,569221
+316,"Marion County,West Virginia","Lexington City County,Virginia",14965,385150
+317,"Marion County,West Virginia","Lynchburg City County,Virginia",18548,460264
+318,"Marion County,West Virginia","Manassas City County,Virginia",13593,353183
+319,"Marion County,West Virginia","Manassas Park City County,Virginia",14096,359526
+320,"Marion County,West Virginia","Martinsville City County,Virginia",19825,518200
+321,"Marion County,West Virginia","Newport News City County,Virginia",21909,633544
+322,"Marion County,West Virginia","Norfolk City County,Virginia",23659,672474
+323,"Marion County,West Virginia","Norton City County,Virginia",18476,489858
+324,"Marion County,West Virginia","Petersburg City County,Virginia",19734,570171
+325,"Marion County,West Virginia","Poquoson City County,Virginia",22581,644120
+326,"Marion County,West Virginia","Portsmouth City County,Virginia",23598,681295
+327,"Marion County,West Virginia","Radford County,Virginia",15400,390853
+328,"Marion County,West Virginia","Richmond City County,Virginia",18602,534287
+329,"Marion County,West Virginia","Roanoke City County,Virginia",16694,415093
+330,"Marion County,West Virginia","Salem City County,Virginia",16524,413564
+331,"Marion County,West Virginia","South Boston City County,Virginia",22813,557047
+332,"Marion County,West Virginia","Staunton City County,Virginia",14479,304279
+333,"Marion County,West Virginia","Suffolk City County,Virginia",24003,669790
+334,"Marion County,West Virginia","Virginia Beach City County,Virginia",24220,695732
+335,"Marion County,West Virginia","Waynesboro City County,Virginia",15171,332737
+336,"Marion County,West Virginia","Williamsburg City County,Virginia",20953,605793
+337,"Marion County,West Virginia","Winchester City County,Virginia",10444,254495
+338,"Marion County,West Virginia","Barbour County,West Virginia",4011,80301
+339,"Marion County,West Virginia","Berkeley County,West Virginia",9858,253351
+340,"Marion County,West Virginia","Boone County,West Virginia",11659,301334
+341,"Marion County,West Virginia","Braxton County,West Virginia",6218,137956
+342,"Marion County,West Virginia","Brooke County,West Virginia",6283,146985
+343,"Marion County,West Virginia","Cabell County,West Virginia",11252,318243
+344,"Marion County,West Virginia","Calhoun County,West Virginia",7541,172623
+345,"Marion County,West Virginia","Clay County,West Virginia",7904,202980
+346,"Marion County,West Virginia","Doddridge County,West Virginia",4290,91875
+347,"Marion County,West Virginia","Fayette County,West Virginia",8684,222897
+348,"Marion County,West Virginia","Gilmer County,West Virginia",6022,137314
+349,"Marion County,West Virginia","Grant County,West Virginia",8299,148126
+350,"Marion County,West Virginia","Greenbrier County,West Virginia",11885,258457
+351,"Marion County,West Virginia","Hampshire County,West Virginia",9113,214954
+352,"Marion County,West Virginia","Hancock County,West Virginia",7910,174332
+353,"Marion County,West Virginia","Hardy County,West Virginia",9385,180728
+354,"Marion County,West Virginia","Harrison County,West Virginia",2439,33257
+355,"Marion County,West Virginia","Jackson County,West Virginia",8682,226423
+356,"Marion County,West Virginia","Jefferson County,West Virginia",11324,309349
+357,"Marion County,West Virginia","Kanawha County,West Virginia",10134,269503
+358,"Marion County,West Virginia","Lewis County,West Virginia",3923,86944
+359,"Marion County,West Virginia","Lincoln County,West Virginia",11916,295921
+360,"Marion County,West Virginia","Logan County,West Virginia",12588,338452
+361,"Marion County,West Virginia","McDowell County,West Virginia",14768,347508
+362,"Marion County,West Virginia","Marshall County,West Virginia",5925,92244
+363,"Marion County,West Virginia","Mason County,West Virginia",10446,270477
+364,"Marion County,West Virginia","Mercer County,West Virginia",11732,311754
+365,"Marion County,West Virginia","Mineral County,West Virginia",7992,189506
+366,"Marion County,West Virginia","Mingo County,West Virginia",12633,342960
+367,"Marion County,West Virginia","Monongalia County,West Virginia",2515,54198
+368,"Marion County,West Virginia","Monroe County,West Virginia",13493,319525
+369,"Marion County,West Virginia","Morgan County,West Virginia",9350,242743
+370,"Marion County,West Virginia","Nicholas County,West Virginia",7204,187601
+371,"Marion County,West Virginia","Ohio County,West Virginia",6190,155931
+372,"Marion County,West Virginia","Pendleton County,West Virginia",10397,238823
+373,"Marion County,West Virginia","Pleasants County,West Virginia",5525,129643
+374,"Marion County,West Virginia","Pocahontas County,West Virginia",10690,220055
+375,"Marion County,West Virginia","Preston County,West Virginia",4660,80929
+376,"Marion County,West Virginia","Putnam County,West Virginia",9509,269768
+377,"Marion County,West Virginia","Raleigh County,West Virginia",10273,265447
+378,"Marion County,West Virginia","Randolph County,West Virginia",6075,136950
+379,"Marion County,West Virginia","Ritchie County,West Virginia",5436,123945
+380,"Marion County,West Virginia","Roane County,West Virginia",9962,206659
+381,"Marion County,West Virginia","Summers County,West Virginia",13480,295892
+382,"Marion County,West Virginia","Taylor County,West Virginia",2879,40622
+383,"Marion County,West Virginia","Tucker County,West Virginia",6504,107293
+384,"Marion County,West Virginia","Tyler County,West Virginia",6314,111071
+385,"Marion County,West Virginia","Upshur County,West Virginia",5050,111391
+386,"Marion County,West Virginia","Wayne County,West Virginia",12843,350870
+387,"Marion County,West Virginia","Webster County,West Virginia",8425,183778
+388,"Marion County,West Virginia","Wetzel County,West Virginia",3650,56543
+389,"Marion County,West Virginia","Wirt County,West Virginia",7782,169475
+390,"Marion County,West Virginia","Wood County,West Virginia",6306,154906
+391,"Marion County,West Virginia","Wyoming County,West Virginia",12218,305389

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Braxton County,West Virginia","Adair County,Kentucky",20136,550067
+1,"Braxton County,West Virginia","Allen County,Kentucky",22754,650715
+2,"Braxton County,West Virginia","Anderson County,Kentucky",15935,453106
+3,"Braxton County,West Virginia","Ballard County,Kentucky",28914,842878
+4,"Braxton County,West Virginia","Barren County,Kentucky",21881,609095
+5,"Braxton County,West Virginia","Bath County,Kentucky",11583,324288
+6,"Braxton County,West Virginia","Bell County,Kentucky",19138,460103
+7,"Braxton County,West Virginia","Boone County,Kentucky",17396,445681
+8,"Braxton County,West Virginia","Bourbon County,Kentucky",13496,370705
+9,"Braxton County,West Virginia","Boyd County,Kentucky",8258,218612
+10,"Braxton County,West Virginia","Boyle County,Kentucky",17164,456993
+11,"Braxton County,West Virginia","Bracken County,Kentucky",13907,364788
+12,"Braxton County,West Virginia","Breathitt County,Kentucky",14969,365314
+13,"Braxton County,West Virginia","Breckinridge County,Kentucky",21469,605788
+14,"Braxton County,West Virginia","Bullitt County,Kentucky",18039,526907
+15,"Braxton County,West Virginia","Butler County,Kentucky",22134,627786
+16,"Braxton County,West Virginia","Caldwell County,Kentucky",25026,733731
+17,"Braxton County,West Virginia","Calloway County,Kentucky",27836,818723
+18,"Braxton County,West Virginia","Campbell County,Kentucky",15608,404659
+19,"Braxton County,West Virginia","Carlisle County,Kentucky",29371,858246
+20,"Braxton County,West Virginia","Carroll County,Kentucky",18480,500921
+21,"Braxton County,West Virginia","Carter County,Kentucky",9423,248709
+22,"Braxton County,West Virginia","Casey County,Kentucky",18659,488498
+23,"Braxton County,West Virginia","Christian County,Kentucky",24675,728988
+24,"Braxton County,West Virginia","Clay County,Kentucky",17468,452429
+25,"Braxton County,West Virginia","Clinton County,Kentucky",20543,553433
+26,"Braxton County,West Virginia","Crittenden County,Kentucky",26605,766801
+27,"Braxton County,West Virginia","Cumberland County,Kentucky",21297,571672
+28,"Braxton County,West Virginia","Daviess County,Kentucky",23156,674228
+29,"Braxton County,West Virginia","Edmonson County,Kentucky",21574,615660
+30,"Braxton County,West Virginia","Elliott County,Kentucky",10753,274479
+31,"Braxton County,West Virginia","Estill County,Kentucky",14575,386603
+32,"Braxton County,West Virginia","Fayette County,Kentucky",13742,390599
+33,"Braxton County,West Virginia","Fleming County,Kentucky",12009,327473
+34,"Braxton County,West Virginia","Floyd County,Kentucky",12391,325877
+35,"Braxton County,West Virginia","Franklin County,Kentucky",15780,439516
+36,"Braxton County,West Virginia","Fulton County,Kentucky",29775,879210
+37,"Braxton County,West Virginia","Gallatin County,Kentucky",17478,491580
+38,"Braxton County,West Virginia","Garrard County,Kentucky",16347,437753
+39,"Braxton County,West Virginia","Grant County,Kentucky",16277,465687
+40,"Braxton County,West Virginia","Graves County,Kentucky",28396,830952
+41,"Braxton County,West Virginia","Grayson County,Kentucky",20461,584422
+42,"Braxton County,West Virginia","Green County,Kentucky",20240,549627
+43,"Braxton County,West Virginia","Greenup County,Kentucky",10034,259738
+44,"Braxton County,West Virginia","Hancock County,Kentucky",22264,638681
+45,"Braxton County,West Virginia","Hardin County,Kentucky",19337,546554
+46,"Braxton County,West Virginia","Harlan County,Kentucky",18461,440420
+47,"Braxton County,West Virginia","Harrison County,Kentucky",15067,403805
+48,"Braxton County,West Virginia","Hart County,Kentucky",20136,574183
+49,"Braxton County,West Virginia","Henderson County,Kentucky",24963,726658
+50,"Braxton County,West Virginia","Henry County,Kentucky",17381,483234
+51,"Braxton County,West Virginia","Hickman County,Kentucky",29404,859538
+52,"Braxton County,West Virginia","Hopkins County,Kentucky",24484,708199
+53,"Braxton County,West Virginia","Jackson County,Kentucky",17248,434611
+54,"Braxton County,West Virginia","Jefferson County,Kentucky",17475,498768
+55,"Braxton County,West Virginia","Jessamine County,Kentucky",15212,412063
+56,"Braxton County,West Virginia","Johnson County,Kentucky",11040,291508
+57,"Braxton County,West Virginia","Kenton County,Kentucky",16765,433375
+58,"Braxton County,West Virginia","Knott County,Kentucky",13573,357759
+59,"Braxton County,West Virginia","Knox County,Kentucky",18751,516645
+60,"Braxton County,West Virginia","Larue County,Kentucky",19409,533730
+61,"Braxton County,West Virginia","Laurel County,Kentucky",17602,488040
+62,"Braxton County,West Virginia","Lawrence County,Kentucky",10181,262932
+63,"Braxton County,West Virginia","Lee County,Kentucky",15420,380340
+64,"Braxton County,West Virginia","Leslie County,Kentucky",16652,427432
+65,"Braxton County,West Virginia","Letcher County,Kentucky",14645,360699
+66,"Braxton County,West Virginia","Lewis County,Kentucky",11461,300527
+67,"Braxton County,West Virginia","Lincoln County,Kentucky",17057,454671
+68,"Braxton County,West Virginia","Livingston County,Kentucky",27201,783698
+69,"Braxton County,West Virginia","Logan County,Kentucky",23874,671024
+70,"Braxton County,West Virginia","Lyon County,Kentucky",27334,794088
+71,"Braxton County,West Virginia","McCracken County,Kentucky",27526,810938
+72,"Braxton County,West Virginia","McCreary County,Kentucky",19707,532482
+73,"Braxton County,West Virginia","Madison County,Kentucky",14741,401622
+74,"Braxton County,West Virginia","Magoffin County,Kentucky",12007,312187
+75,"Braxton County,West Virginia","Marion County,Kentucky",17787,495339
+76,"Braxton County,West Virginia","Marshall County,Kentucky",26941,794509
+77,"Braxton County,West Virginia","Martin County,Kentucky",11667,295277
+78,"Braxton County,West Virginia","Mason County,Kentucky",13256,344334
+79,"Braxton County,West Virginia","Meade County,Kentucky",19936,571083
+80,"Braxton County,West Virginia","Menifee County,Kentucky",12699,336351
+81,"Braxton County,West Virginia","Mercer County,Kentucky",16163,451050
+82,"Braxton County,West Virginia","Metcalfe County,Kentucky",20792,580332
+83,"Braxton County,West Virginia","Monroe County,Kentucky",22761,617836
+84,"Braxton County,West Virginia","Montgomery County,Kentucky",12396,342828
+85,"Braxton County,West Virginia","Morgan County,Kentucky",12477,312067
+86,"Braxton County,West Virginia","Muhlenberg County,Kentucky",23344,674675
+87,"Braxton County,West Virginia","Nelson County,Kentucky",17394,494411
+88,"Braxton County,West Virginia","Nicholas County,Kentucky",14074,370712
+89,"Braxton County,West Virginia","Ohio County,Kentucky",22258,642265
+90,"Braxton County,West Virginia","Oldham County,Kentucky",17547,510649
+91,"Braxton County,West Virginia","Owen County,Kentucky",16602,466293
+92,"Braxton County,West Virginia","Owsley County,Kentucky",16567,400316
+93,"Braxton County,West Virginia","Pendleton County,Kentucky",15845,405712
+94,"Braxton County,West Virginia","Perry County,Kentucky",14952,388317
+95,"Braxton County,West Virginia","Pike County,Kentucky",11947,290816
+96,"Braxton County,West Virginia","Powell County,Kentucky",13839,372574
+97,"Braxton County,West Virginia","Robertson County,Kentucky",13991,370218
+98,"Braxton County,West Virginia","Rockcastle County,Kentucky",16175,442765
+99,"Braxton County,West Virginia","Rowan County,Kentucky",10725,296495
+100,"Braxton County,West Virginia","Russell County,Kentucky",19740,534051
+101,"Braxton County,West Virginia","Scott County,Kentucky",14577,418626
+102,"Braxton County,West Virginia","Shelby County,Kentucky",16404,469902
+103,"Braxton County,West Virginia","Simpson County,Kentucky",23455,679081
+104,"Braxton County,West Virginia","Spencer County,Kentucky",16933,475750
+105,"Braxton County,West Virginia","Taylor County,Kentucky",19076,526835
+106,"Braxton County,West Virginia","Todd County,Kentucky",25110,695184
+107,"Braxton County,West Virginia","Trigg County,Kentucky",26088,754917
+108,"Braxton County,West Virginia","Trimble County,Kentucky",18620,516689
+109,"Braxton County,West Virginia","Union County,Kentucky",26683,757104
+110,"Braxton County,West Virginia","Warren County,Kentucky",22490,644029
+111,"Braxton County,West Virginia","Washington County,Kentucky",17404,479647
+112,"Braxton County,West Virginia","Wayne County,Kentucky",19916,531124
+113,"Braxton County,West Virginia","Webster County,Kentucky",25593,736288
+114,"Braxton County,West Virginia","Whitley County,Kentucky",18435,522525
+115,"Braxton County,West Virginia","Wolfe County,Kentucky",13572,335429
+116,"Braxton County,West Virginia","Woodford County,Kentucky",14796,421262
+117,"Braxton County,West Virginia","Adams County,Ohio",13349,346890
+118,"Braxton County,West Virginia","Allen County,Ohio",19795,521106
+119,"Braxton County,West Virginia","Ashland County,Ohio",17453,382716
+120,"Braxton County,West Virginia","Ashtabula County,Ohio",16644,466254
+121,"Braxton County,West Virginia","Athens County,Ohio",9554,246218
+122,"Braxton County,West Virginia","Auglaize County,Ohio",19331,539007
+123,"Braxton County,West Virginia","Belmont County,Ohio",11094,293807
+124,"Braxton County,West Virginia","Brown County,Ohio",14593,373818
+125,"Braxton County,West Virginia","Butler County,Ohio",17706,455843
+126,"Braxton County,West Virginia","Carroll County,Ohio",14039,329666
+127,"Braxton County,West Virginia","Champaign County,Ohio",16635,441105
+128,"Braxton County,West Virginia","Clark County,Ohio",15314,400649
+129,"Braxton County,West Virginia","Clermont County,Ohio",15427,404914
+130,"Braxton County,West Virginia","Clinton County,Ohio",14818,388330
+131,"Braxton County,West Virginia","Columbiana County,Ohio",13248,318187
+132,"Braxton County,West Virginia","Coshocton County,Ohio",13768,300541
+133,"Braxton County,West Virginia","Crawford County,Ohio",18230,481087
+134,"Braxton County,West Virginia","Cuyahoga County,Ohio",16640,464098
+135,"Braxton County,West Virginia","Darke County,Ohio",18429,496054
+136,"Braxton County,West Virginia","Defiance County,Ohio",23230,599427
+137,"Braxton County,West Virginia","Delaware County,Ohio",15384,413824
+138,"Braxton County,West Virginia","Fairfield County,Ohio",12915,340918
+139,"Braxton County,West Virginia","Fayette County,Ohio",13382,358794
+140,"Braxton County,West Virginia","Franklin County,Ohio",13915,370773
+141,"Braxton County,West Virginia","Fulton County,Ohio",23311,669912
+142,"Braxton County,West Virginia","Gallia County,Ohio",8695,217906
+143,"Braxton County,West Virginia","Geauga County,Ohio",16134,438917
+144,"Braxton County,West Virginia","Greene County,Ohio",14252,391947
+145,"Braxton County,West Virginia","Guernsey County,Ohio",11319,238460
+146,"Braxton County,West Virginia","Hamilton County,Ohio",17207,466421
+147,"Braxton County,West Virginia","Hancock County,Ohio",19407,522179
+148,"Braxton County,West Virginia","Hardin County,Ohio",18305,476936
+149,"Braxton County,West Virginia","Harrison County,Ohio",13054,332521
+150,"Braxton County,West Virginia","Henry County,Ohio",22120,593801
+151,"Braxton County,West Virginia","Highland County,Ohio",13886,346904
+152,"Braxton County,West Virginia","Hocking County,Ohio",11357,296882
+153,"Braxton County,West Virginia","Holmes County,Ohio",14827,323425
+154,"Braxton County,West Virginia","Huron County,Ohio",19350,424344
+155,"Braxton County,West Virginia","Jackson County,Ohio",9873,257455
+156,"Braxton County,West Virginia","Jefferson County,Ohio",11995,293157
+157,"Braxton County,West Virginia","Knox County,Ohio",15557,343017
+158,"Braxton County,West Virginia","Lawrence County,Ohio",9398,223669
+159,"Braxton County,West Virginia","Licking County,Ohio",14946,323948
+160,"Braxton County,West Virginia","Logan County,Ohio",17326,471213
+161,"Braxton County,West Virginia","Lorain County,Ohio",17692,493818
+162,"Braxton County,West Virginia","Lucas County,Ohio",22266,622762
+163,"Braxton County,West Virginia","Madison County,Ohio",15083,381879
+164,"Braxton County,West Virginia","Mahoning County,Ohio",13131,356246
+165,"Braxton County,West Virginia","Marion County,Ohio",16790,439917
+166,"Braxton County,West Virginia","Medina County,Ohio",16842,400859
+167,"Braxton County,West Virginia","Meigs County,Ohio",8435,217188
+168,"Braxton County,West Virginia","Mercer County,Ohio",20567,565941
+169,"Braxton County,West Virginia","Miami County,Ohio",16917,461446
+170,"Braxton County,West Virginia","Monroe County,Ohio",11123,250106
+171,"Braxton County,West Virginia","Montgomery County,Ohio",16287,439402
+172,"Braxton County,West Virginia","Morgan County,Ohio",11260,214299
+173,"Braxton County,West Virginia","Morrow County,Ohio",16191,436645
+174,"Braxton County,West Virginia","Muskingum County,Ohio",12165,266451
+175,"Braxton County,West Virginia","Noble County,Ohio",10761,210811
+176,"Braxton County,West Virginia","Paulding County,Ohio",22331,597012
+177,"Braxton County,West Virginia","Perry County,Ohio",12772,311638
+178,"Braxton County,West Virginia","Pickaway County,Ohio",12822,338893
+179,"Braxton County,West Virginia","Pike County,Ohio",11319,296762
+180,"Braxton County,West Virginia","Portage County,Ohio",14985,412260
+181,"Braxton County,West Virginia","Preble County,Ohio",17906,467980
+182,"Braxton County,West Virginia","Putnam County,Ohio",20917,553464
+183,"Braxton County,West Virginia","Richland County,Ohio",17221,471884
+184,"Braxton County,West Virginia","Ross County,Ohio",11567,305199
+185,"Braxton County,West Virginia","Sandusky County,Ohio",20553,581337
+186,"Braxton County,West Virginia","Scioto County,Ohio",11203,280942
+187,"Braxton County,West Virginia","Seneca County,Ohio",19781,514759
+188,"Braxton County,West Virginia","Shelby County,Ohio",17956,497732
+189,"Braxton County,West Virginia","Stark County,Ohio",14992,344659
+190,"Braxton County,West Virginia","Summit County,Ohio",15751,370447
+191,"Braxton County,West Virginia","Trumbull County,Ohio",14288,393710
+192,"Braxton County,West Virginia","Tuscarawas County,Ohio",13193,285246
+193,"Braxton County,West Virginia","Union County,Ohio",15830,421444
+194,"Braxton County,West Virginia","Van Wert County,Ohio",21029,563976
+195,"Braxton County,West Virginia","Vinton County,Ohio",11498,280045
+196,"Braxton County,West Virginia","Warren County,Ohio",15624,422389
+197,"Braxton County,West Virginia","Washington County,Ohio",9619,168748
+198,"Braxton County,West Virginia","Wayne County,Ohio",15964,347537
+199,"Braxton County,West Virginia","Williams County,Ohio",24407,622943
+200,"Braxton County,West Virginia","Wood County,Ohio",20805,563787
+201,"Braxton County,West Virginia","Wyandot County,Ohio",18377,486315
+202,"Braxton County,West Virginia","Accomack County,Virginia",28287,743432
+203,"Braxton County,West Virginia","Albemarle County,Virginia",14437,355932
+204,"Braxton County,West Virginia","Alleghany County,Virginia",9106,192955
+205,"Braxton County,West Virginia","Amelia County,Virginia",19137,456050
+206,"Braxton County,West Virginia","Amherst County,Virginia",14434,323921
+207,"Braxton County,West Virginia","Appomattox County,Virginia",16028,362680
+208,"Braxton County,West Virginia","Arlington County,Virginia",17421,485056
+209,"Braxton County,West Virginia","Augusta County,Virginia",13047,294271
+210,"Braxton County,West Virginia","Bath County,Virginia",12117,268265
+211,"Braxton County,West Virginia","Bedford County,Virginia",15092,327941
+212,"Braxton County,West Virginia","Bland County,Virginia",9641,231878
+213,"Braxton County,West Virginia","Botetourt County,Virginia",12260,264254
+214,"Braxton County,West Virginia","Brunswick County,Virginia",21680,505723
+215,"Braxton County,West Virginia","Buchanan County,Virginia",13636,316107
+216,"Braxton County,West Virginia","Buckingham County,Virginia",16310,373615
+217,"Braxton County,West Virginia","Campbell County,Virginia",15951,365152
+218,"Braxton County,West Virginia","Caroline County,Virginia",19776,524777
+219,"Braxton County,West Virginia","Carroll County,Virginia",11887,301315
+220,"Braxton County,West Virginia","Charles City County,Virginia",19876,521812
+221,"Braxton County,West Virginia","Charlotte County,Virginia",17912,416200
+222,"Braxton County,West Virginia","Chesterfield County,Virginia",19012,499596
+223,"Braxton County,West Virginia","Clarke County,Virginia",15464,366411
+224,"Braxton County,West Virginia","Craig County,Virginia",12322,286743
+225,"Braxton County,West Virginia","Culpeper County,Virginia",17472,420936
+226,"Braxton County,West Virginia","Cumberland County,Virginia",17520,401617
+227,"Braxton County,West Virginia","Dickenson County,Virginia",16045,380777
+228,"Braxton County,West Virginia","Dinwiddie County,Virginia",20759,550027
+229,"Braxton County,West Virginia","Essex County,Virginia",21593,548820
+230,"Braxton County,West Virginia","Fairfax County,Virginia",17112,475723
+231,"Braxton County,West Virginia","Fauquier County,Virginia",15902,387662
+232,"Braxton County,West Virginia","Floyd County,Virginia",13507,320280
+233,"Braxton County,West Virginia","Fluvanna County,Virginia",16115,408103
+234,"Braxton County,West Virginia","Franklin County,Virginia",15260,343364
+235,"Braxton County,West Virginia","Frederick County,Virginia",13983,330216
+236,"Braxton County,West Virginia","Giles County,Virginia",10372,243436
+237,"Braxton County,West Virginia","Gloucester County,Virginia",22047,576000
+238,"Braxton County,West Virginia","Goochland County,Virginia",17018,438714
+239,"Braxton County,West Virginia","Grayson County,Virginia",12289,291023
+240,"Braxton County,West Virginia","Greene County,Virginia",16507,333239
+241,"Braxton County,West Virginia","Greensville County,Virginia",22175,598779
+242,"Braxton County,West Virginia","Halifax County,Virginia",19272,436858
+243,"Braxton County,West Virginia","Hanover County,Virginia",18224,479821
+244,"Braxton County,West Virginia","Henrico County,Virginia",18736,492781
+245,"Braxton County,West Virginia","Henry County,Virginia",15760,388036
+246,"Braxton County,West Virginia","Highland County,Virginia",11117,227650
+247,"Braxton County,West Virginia","Isle of Wight County,Virginia",22988,597358
+248,"Braxton County,West Virginia","James City County,Virginia",21112,562583
+249,"Braxton County,West Virginia","King and Queen County,Virginia",20770,538167
+250,"Braxton County,West Virginia","King George County,Virginia",20329,481816
+251,"Braxton County,West Virginia","King William County,Virginia",19458,508089
+252,"Braxton County,West Virginia","Lancaster County,Virginia",23251,591175
+253,"Braxton County,West Virginia","Lee County,Virginia",17346,429293
+254,"Braxton County,West Virginia","Loudoun County,Virginia",16960,402278
+255,"Braxton County,West Virginia","Louisa County,Virginia",16675,421809
+256,"Braxton County,West Virginia","Lunenburg County,Virginia",19684,457484
+257,"Braxton County,West Virginia","Madison County,Virginia",17349,421256
+258,"Braxton County,West Virginia","Mathews County,Virginia",22872,599424
+259,"Braxton County,West Virginia","Mecklenburg County,Virginia",20675,470609
+260,"Braxton County,West Virginia","Middlesex County,Virginia",21648,572201
+261,"Braxton County,West Virginia","Montgomery County,Virginia",11455,271443
+262,"Braxton County,West Virginia","Nelson County,Virginia",14975,335612
+263,"Braxton County,West Virginia","New Kent County,Virginia",20548,536497
+264,"Braxton County,West Virginia","Northampton County,Virginia",25530,679246
+265,"Braxton County,West Virginia","Northumberland County,Virginia",23290,589687
+266,"Braxton County,West Virginia","Nottoway County,Virginia",19177,457864
+267,"Braxton County,West Virginia","Orange County,Virginia",17638,429917
+268,"Braxton County,West Virginia","Page County,Virginia",15924,365339
+269,"Braxton County,West Virginia","Patrick County,Virginia",13992,346351
+270,"Braxton County,West Virginia","Pittsylvania County,Virginia",17685,393312
+271,"Braxton County,West Virginia","Powhatan County,Virginia",18271,463936
+272,"Braxton County,West Virginia","Prince Edward County,Virginia",17792,415200
+273,"Braxton County,West Virginia","Prince George County,Virginia",20523,536611
+274,"Braxton County,West Virginia","Prince William County,Virginia",16002,393766
+275,"Braxton County,West Virginia","Pulaski County,Virginia",11550,267774
+276,"Braxton County,West Virginia","Rappahannock County,Virginia",16213,372800
+277,"Braxton County,West Virginia","Richmond County,Virginia",21990,562330
+278,"Braxton County,West Virginia","Roanoke County,Virginia",13074,314236
+279,"Braxton County,West Virginia","Rockbridge County,Virginia",11439,261311
+280,"Braxton County,West Virginia","Rockingham County,Virginia",13964,288653
+281,"Braxton County,West Virginia","Russell County,Virginia",13449,312058
+282,"Braxton County,West Virginia","Scott County,Virginia",16114,380185
+283,"Braxton County,West Virginia","Shenandoah County,Virginia",14363,322734
+284,"Braxton County,West Virginia","Smyth County,Virginia",11999,297230
+285,"Braxton County,West Virginia","Southampton County,Virginia",22553,594893
+286,"Braxton County,West Virginia","Spotsylvania County,Virginia",18692,463648
+287,"Braxton County,West Virginia","Stafford County,Virginia",18521,451668
+288,"Braxton County,West Virginia","Surry County,Virginia",21856,561444
+289,"Braxton County,West Virginia","Sussex County,Virginia",21217,565136
+290,"Braxton County,West Virginia","Tazewell County,Virginia",10457,250465
+291,"Braxton County,West Virginia","Warren County,Virginia",14542,335463
+292,"Braxton County,West Virginia","Washington County,Virginia",13392,336696
+293,"Braxton County,West Virginia","Westmoreland County,Virginia",21297,500616
+294,"Braxton County,West Virginia","Wise County,Virginia",14310,356676
+295,"Braxton County,West Virginia","Wythe County,Virginia",10246,250095
+296,"Braxton County,West Virginia","York County,Virginia",22400,593357
+297,"Braxton County,West Virginia","Alexandria City County,Virginia",17937,502238
+298,"Braxton County,West Virginia","Bedford City County,Virginia",14124,311088
+299,"Braxton County,West Virginia","Bristol City County,Virginia",13867,362414
+300,"Braxton County,West Virginia","Buena Vista City County,Virginia",11793,275288
+301,"Braxton County,West Virginia","Charlottesville City County,Virginia",14906,371146
+302,"Braxton County,West Virginia","Chesapeake City County,Virginia",23863,646263
+303,"Braxton County,West Virginia","Clifton Forge City County,Virginia",9649,213161
+304,"Braxton County,West Virginia","Colonial Heights City County,Virginia",19572,515488
+305,"Braxton County,West Virginia","Covington City County,Virginia",9175,196540
+306,"Braxton County,West Virginia","Danville City County,Virginia",17917,442492
+307,"Braxton County,West Virginia","Emporia City County,Virginia",21883,585372
+308,"Braxton County,West Virginia","Fairfax City County,Virginia",17134,419514
+309,"Braxton County,West Virginia","Falls Church City County,Virginia",17129,479368
+310,"Braxton County,West Virginia","Franklin City County,Virginia",23101,602748
+311,"Braxton County,West Virginia","Fredericksburg City County,Virginia",18842,448510
+312,"Braxton County,West Virginia","Galax City County,Virginia",12510,307181
+313,"Braxton County,West Virginia","Hampton City County,Virginia",22350,603064
+314,"Braxton County,West Virginia","Harrisonburg City County,Virginia",13802,283814
+315,"Braxton County,West Virginia","Hopewell City County,Virginia",19609,514454
+316,"Braxton County,West Virginia","Lexington City County,Virginia",11427,263780
+317,"Braxton County,West Virginia","Lynchburg City County,Virginia",15011,338894
+318,"Braxton County,West Virginia","Manassas City County,Virginia",16229,398711
+319,"Braxton County,West Virginia","Manassas Park City County,Virginia",16732,405054
+320,"Braxton County,West Virginia","Martinsville City County,Virginia",16288,396830
+321,"Braxton County,West Virginia","Newport News City County,Virginia",21907,589550
+322,"Braxton County,West Virginia","Norfolk City County,Virginia",23656,628480
+323,"Braxton County,West Virginia","Norton City County,Virginia",14939,368488
+324,"Braxton County,West Virginia","Petersburg City County,Virginia",19444,516476
+325,"Braxton County,West Virginia","Poquoson City County,Virginia",22579,600126
+326,"Braxton County,West Virginia","Portsmouth City County,Virginia",23596,637300
+327,"Braxton County,West Virginia","Radford County,Virginia",11862,269483
+328,"Braxton County,West Virginia","Richmond City County,Virginia",18312,480591
+329,"Braxton County,West Virginia","Roanoke City County,Virginia",13156,293723
+330,"Braxton County,West Virginia","Salem City County,Virginia",12986,292194
+331,"Braxton County,West Virginia","South Boston City County,Virginia",19275,435677
+332,"Braxton County,West Virginia","Staunton City County,Virginia",13198,318423
+333,"Braxton County,West Virginia","Suffolk City County,Virginia",23831,612082
+334,"Braxton County,West Virginia","Virginia Beach City County,Virginia",24217,651738
+335,"Braxton County,West Virginia","Waynesboro City County,Virginia",13536,331141
+336,"Braxton County,West Virginia","Williamsburg City County,Virginia",20951,561799
+337,"Braxton County,West Virginia","Winchester City County,Virginia",14462,364217
+338,"Braxton County,West Virginia","Barbour County,West Virginia",5943,124914
+339,"Braxton County,West Virginia","Berkeley County,West Virginia",13876,363073
+340,"Braxton County,West Virginia","Boone County,West Virginia",8121,179964
+341,"Braxton County,West Virginia","Brooke County,West Virginia",10301,256707
+342,"Braxton County,West Virginia","Cabell County,West Virginia",7714,196873
+343,"Braxton County,West Virginia","Calhoun County,West Virginia",4661,69596
+344,"Braxton County,West Virginia","Clay County,West Virginia",4366,81610
+345,"Braxton County,West Virginia","Doddridge County,West Virginia",6147,101770
+346,"Braxton County,West Virginia","Fayette County,West Virginia",5146,101527
+347,"Braxton County,West Virginia","Gilmer County,West Virginia",3695,42524
+348,"Braxton County,West Virginia","Grant County,West Virginia",10298,226459
+349,"Braxton County,West Virginia","Greenbrier County,West Virginia",8347,137087
+350,"Braxton County,West Virginia","Hampshire County,West Virginia",13130,324677
+351,"Braxton County,West Virginia","Hancock County,West Virginia",11928,284054
+352,"Braxton County,West Virginia","Hardy County,West Virginia",11354,257956
+353,"Braxton County,West Virginia","Harrison County,West Virginia",5176,111285
+354,"Braxton County,West Virginia","Jackson County,West Virginia",7052,120479
+355,"Braxton County,West Virginia","Jefferson County,West Virginia",15342,419071
+356,"Braxton County,West Virginia","Kanawha County,West Virginia",6596,148133
+357,"Braxton County,West Virginia","Lewis County,West Virginia",3806,64755
+358,"Braxton County,West Virginia","Lincoln County,West Virginia",8378,174551
+359,"Braxton County,West Virginia","Logan County,West Virginia",9050,217082
+360,"Braxton County,West Virginia","McDowell County,West Virginia",11230,226137
+361,"Braxton County,West Virginia","Marion County,West Virginia",6322,138452
+362,"Braxton County,West Virginia","Marshall County,West Virginia",11288,251151
+363,"Braxton County,West Virginia","Mason County,West Virginia",7190,182780
+364,"Braxton County,West Virginia","Mercer County,West Virginia",8194,190384
+365,"Braxton County,West Virginia","Mineral County,West Virginia",11993,255280
+366,"Braxton County,West Virginia","Mingo County,West Virginia",9095,221590
+367,"Braxton County,West Virginia","Monongalia County,West Virginia",6532,163920
+368,"Braxton County,West Virginia","Monroe County,West Virginia",9955,198155
+369,"Braxton County,West Virginia","Morgan County,West Virginia",13367,352465
+370,"Braxton County,West Virginia","Nicholas County,West Virginia",3666,66231
+371,"Braxton County,West Virginia","Ohio County,West Virginia",10208,265654
+372,"Braxton County,West Virginia","Pendleton County,West Virginia",10629,229083
+373,"Braxton County,West Virginia","Pleasants County,West Virginia",7975,187425
+374,"Braxton County,West Virginia","Pocahontas County,West Virginia",8995,135770
+375,"Braxton County,West Virginia","Preston County,West Virginia",8678,190651
+376,"Braxton County,West Virginia","Putnam County,West Virginia",5971,148398
+377,"Braxton County,West Virginia","Raleigh County,West Virginia",6736,144077
+378,"Braxton County,West Virginia","Randolph County,West Virginia",6307,127210
+379,"Braxton County,West Virginia","Ritchie County,West Virginia",6832,106272
+380,"Braxton County,West Virginia","Roane County,West Virginia",6532,98958
+381,"Braxton County,West Virginia","Summers County,West Virginia",9942,174522
+382,"Braxton County,West Virginia","Taylor County,West Virginia",6214,134024
+383,"Braxton County,West Virginia","Tucker County,West Virginia",7374,157734
+384,"Braxton County,West Virginia","Tyler County,West Virginia",8901,180091
+385,"Braxton County,West Virginia","Upshur County,West Virginia",5277,79309
+386,"Braxton County,West Virginia","Wayne County,West Virginia",9305,229500
+387,"Braxton County,West Virginia","Webster County,West Virginia",5139,74433
+388,"Braxton County,West Virginia","Wetzel County,West Virginia",7856,162767
+389,"Braxton County,West Virginia","Wirt County,West Virginia",6418,106342
+390,"Braxton County,West Virginia","Wood County,West Virginia",8128,139307
+391,"Braxton County,West Virginia","Wyoming County,West Virginia",8687,184050

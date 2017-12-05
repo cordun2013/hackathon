@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Mason County,West Virginia","Adair County,Kentucky",16062,448920
+1,"Mason County,West Virginia","Allen County,Kentucky",18681,549568
+2,"Mason County,West Virginia","Anderson County,Kentucky",11862,351959
+3,"Mason County,West Virginia","Ballard County,Kentucky",24840,741730
+4,"Mason County,West Virginia","Barren County,Kentucky",17808,507947
+5,"Mason County,West Virginia","Bath County,Kentucky",7509,223140
+6,"Mason County,West Virginia","Bell County,Kentucky",16228,401061
+7,"Mason County,West Virginia","Boone County,Kentucky",10809,280493
+8,"Mason County,West Virginia","Bourbon County,Kentucky",9423,269558
+9,"Mason County,West Virginia","Boyd County,Kentucky",4185,117465
+10,"Mason County,West Virginia","Boyle County,Kentucky",13091,355846
+11,"Mason County,West Virginia","Bracken County,Kentucky",9687,234572
+12,"Mason County,West Virginia","Breathitt County,Kentucky",10896,264167
+13,"Mason County,West Virginia","Breckinridge County,Kentucky",17395,504640
+14,"Mason County,West Virginia","Bullitt County,Kentucky",13965,425760
+15,"Mason County,West Virginia","Butler County,Kentucky",18060,526638
+16,"Mason County,West Virginia","Caldwell County,Kentucky",20952,632583
+17,"Mason County,West Virginia","Calloway County,Kentucky",23762,717576
+18,"Mason County,West Virginia","Campbell County,Kentucky",10438,269648
+19,"Mason County,West Virginia","Carlisle County,Kentucky",25297,757099
+20,"Mason County,West Virginia","Carroll County,Kentucky",12383,342258
+21,"Mason County,West Virginia","Carter County,Kentucky",5349,147562
+22,"Mason County,West Virginia","Casey County,Kentucky",14585,387351
+23,"Mason County,West Virginia","Christian County,Kentucky",20601,627840
+24,"Mason County,West Virginia","Clay County,Kentucky",13395,351281
+25,"Mason County,West Virginia","Clinton County,Kentucky",16469,452285
+26,"Mason County,West Virginia","Crittenden County,Kentucky",22532,665654
+27,"Mason County,West Virginia","Cumberland County,Kentucky",17223,470524
+28,"Mason County,West Virginia","Daviess County,Kentucky",19083,573080
+29,"Mason County,West Virginia","Edmonson County,Kentucky",17500,514513
+30,"Mason County,West Virginia","Elliott County,Kentucky",6680,173332
+31,"Mason County,West Virginia","Estill County,Kentucky",10502,285455
+32,"Mason County,West Virginia","Fayette County,Kentucky",9669,289452
+33,"Mason County,West Virginia","Fleming County,Kentucky",7935,226326
+34,"Mason County,West Virginia","Floyd County,Kentucky",8318,224730
+35,"Mason County,West Virginia","Franklin County,Kentucky",11707,338368
+36,"Mason County,West Virginia","Fulton County,Kentucky",25701,778063
+37,"Mason County,West Virginia","Gallatin County,Kentucky",11594,314672
+38,"Mason County,West Virginia","Garrard County,Kentucky",12274,336605
+39,"Mason County,West Virginia","Grant County,Kentucky",11661,315146
+40,"Mason County,West Virginia","Graves County,Kentucky",24322,729805
+41,"Mason County,West Virginia","Grayson County,Kentucky",16387,483274
+42,"Mason County,West Virginia","Green County,Kentucky",16167,448479
+43,"Mason County,West Virginia","Greenup County,Kentucky",5359,124244
+44,"Mason County,West Virginia","Hancock County,Kentucky",18191,537533
+45,"Mason County,West Virginia","Hardin County,Kentucky",15264,445407
+46,"Mason County,West Virginia","Harlan County,Kentucky",15550,381378
+47,"Mason County,West Virginia","Harrison County,Kentucky",10994,302657
+48,"Mason County,West Virginia","Hart County,Kentucky",16063,473035
+49,"Mason County,West Virginia","Henderson County,Kentucky",20890,625510
+50,"Mason County,West Virginia","Henry County,Kentucky",13308,382087
+51,"Mason County,West Virginia","Hickman County,Kentucky",25331,758390
+52,"Mason County,West Virginia","Hopkins County,Kentucky",20411,607052
+53,"Mason County,West Virginia","Jackson County,Kentucky",13174,333464
+54,"Mason County,West Virginia","Jefferson County,Kentucky",13402,397620
+55,"Mason County,West Virginia","Jessamine County,Kentucky",11138,310916
+56,"Mason County,West Virginia","Johnson County,Kentucky",6966,190361
+57,"Mason County,West Virginia","Kenton County,Kentucky",10178,268187
+58,"Mason County,West Virginia","Knott County,Kentucky",9499,256611
+59,"Mason County,West Virginia","Knox County,Kentucky",14677,415498
+60,"Mason County,West Virginia","Larue County,Kentucky",15335,432583
+61,"Mason County,West Virginia","Laurel County,Kentucky",13528,386893
+62,"Mason County,West Virginia","Lawrence County,Kentucky",6108,161785
+63,"Mason County,West Virginia","Lee County,Kentucky",11346,279192
+64,"Mason County,West Virginia","Leslie County,Kentucky",12579,326285
+65,"Mason County,West Virginia","Letcher County,Kentucky",11354,294221
+66,"Mason County,West Virginia","Lewis County,Kentucky",7384,169672
+67,"Mason County,West Virginia","Lincoln County,Kentucky",12984,353524
+68,"Mason County,West Virginia","Livingston County,Kentucky",23127,682550
+69,"Mason County,West Virginia","Logan County,Kentucky",19800,569876
+70,"Mason County,West Virginia","Lyon County,Kentucky",23261,692941
+71,"Mason County,West Virginia","McCracken County,Kentucky",23453,709790
+72,"Mason County,West Virginia","McCreary County,Kentucky",15633,431335
+73,"Mason County,West Virginia","Madison County,Kentucky",10667,300475
+74,"Mason County,West Virginia","Magoffin County,Kentucky",7934,211040
+75,"Mason County,West Virginia","Marion County,Kentucky",13713,394192
+76,"Mason County,West Virginia","Marshall County,Kentucky",22867,693362
+77,"Mason County,West Virginia","Martin County,Kentucky",7594,194130
+78,"Mason County,West Virginia","Mason County,Kentucky",9232,213451
+79,"Mason County,West Virginia","Meade County,Kentucky",15862,469935
+80,"Mason County,West Virginia","Menifee County,Kentucky",8625,235204
+81,"Mason County,West Virginia","Mercer County,Kentucky",12090,349903
+82,"Mason County,West Virginia","Metcalfe County,Kentucky",16718,479185
+83,"Mason County,West Virginia","Monroe County,Kentucky",18688,516689
+84,"Mason County,West Virginia","Montgomery County,Kentucky",8322,241681
+85,"Mason County,West Virginia","Morgan County,Kentucky",8404,210919
+86,"Mason County,West Virginia","Muhlenberg County,Kentucky",19271,573527
+87,"Mason County,West Virginia","Nelson County,Kentucky",13321,393263
+88,"Mason County,West Virginia","Nicholas County,Kentucky",10000,269564
+89,"Mason County,West Virginia","Ohio County,Kentucky",18184,541117
+90,"Mason County,West Virginia","Oldham County,Kentucky",13473,409501
+91,"Mason County,West Virginia","Owen County,Kentucky",12528,365145
+92,"Mason County,West Virginia","Owsley County,Kentucky",12493,299169
+93,"Mason County,West Virginia","Pendleton County,Kentucky",11314,291490
+94,"Mason County,West Virginia","Perry County,Kentucky",10879,287169
+95,"Mason County,West Virginia","Pike County,Kentucky",9470,235854
+96,"Mason County,West Virginia","Powell County,Kentucky",9766,271426
+97,"Mason County,West Virginia","Robertson County,Kentucky",9918,269070
+98,"Mason County,West Virginia","Rockcastle County,Kentucky",12101,341618
+99,"Mason County,West Virginia","Rowan County,Kentucky",6652,195348
+100,"Mason County,West Virginia","Russell County,Kentucky",15667,432904
+101,"Mason County,West Virginia","Scott County,Kentucky",10503,317479
+102,"Mason County,West Virginia","Shelby County,Kentucky",12330,368755
+103,"Mason County,West Virginia","Simpson County,Kentucky",19382,577934
+104,"Mason County,West Virginia","Spencer County,Kentucky",12860,374603
+105,"Mason County,West Virginia","Taylor County,Kentucky",15003,425688
+106,"Mason County,West Virginia","Todd County,Kentucky",21037,594037
+107,"Mason County,West Virginia","Trigg County,Kentucky",22015,653769
+108,"Mason County,West Virginia","Trimble County,Kentucky",13282,365582
+109,"Mason County,West Virginia","Union County,Kentucky",22609,655957
+110,"Mason County,West Virginia","Warren County,Kentucky",18416,542882
+111,"Mason County,West Virginia","Washington County,Kentucky",13331,378500
+112,"Mason County,West Virginia","Wayne County,Kentucky",15843,429976
+113,"Mason County,West Virginia","Webster County,Kentucky",21520,635140
+114,"Mason County,West Virginia","Whitley County,Kentucky",14361,421378
+115,"Mason County,West Virginia","Wolfe County,Kentucky",9498,234281
+116,"Mason County,West Virginia","Woodford County,Kentucky",10723,320115
+117,"Mason County,West Virginia","Adams County,Ohio",6158,164092
+118,"Mason County,West Virginia","Allen County,Ohio",12890,339510
+119,"Mason County,West Virginia","Ashland County,Ohio",11958,331198
+120,"Mason County,West Virginia","Ashtabula County,Ohio",16400,477040
+121,"Mason County,West Virginia","Athens County,Ohio",3393,80218
+122,"Mason County,West Virginia","Auglaize County,Ohio",12140,356209
+123,"Mason County,West Virginia","Belmont County,Ohio",9463,265965
+124,"Mason County,West Virginia","Brown County,Ohio",7583,196952
+125,"Mason County,West Virginia","Butler County,Ohio",10516,273045
+126,"Mason County,West Virginia","Carroll County,Ohio",11393,302851
+127,"Mason County,West Virginia","Champaign County,Ohio",9444,258307
+128,"Mason County,West Virginia","Clark County,Ohio",8123,217851
+129,"Mason County,West Virginia","Clermont County,Ohio",8237,222116
+130,"Mason County,West Virginia","Clinton County,Ohio",7628,205533
+131,"Mason County,West Virginia","Columbiana County,Ohio",13234,357086
+132,"Mason County,West Virginia","Coshocton County,Ohio",10028,273968
+133,"Mason County,West Virginia","Crawford County,Ohio",11573,299655
+134,"Mason County,West Virginia","Cuyahoga County,Ohio",13429,388255
+135,"Mason County,West Virginia","Darke County,Ohio",11238,313256
+136,"Mason County,West Virginia","Defiance County,Ohio",16326,417830
+137,"Mason County,West Virginia","Delaware County,Ohio",8875,237869
+138,"Mason County,West Virginia","Fairfield County,Ohio",6754,174919
+139,"Mason County,West Virginia","Fayette County,Ohio",6191,175996
+140,"Mason County,West Virginia","Franklin County,Ohio",7393,197797
+141,"Mason County,West Virginia","Fulton County,Ohio",16663,455224
+142,"Mason County,West Virginia","Gallia County,Ohio",1505,35108
+143,"Mason County,West Virginia","Geauga County,Ohio",14500,413972
+144,"Mason County,West Virginia","Greene County,Ohio",7062,209149
+145,"Mason County,West Virginia","Guernsey County,Ohio",7578,211887
+146,"Mason County,West Virginia","Hamilton County,Ohio",10017,283623
+147,"Mason County,West Virginia","Hancock County,Ohio",12750,340748
+148,"Mason County,West Virginia","Hardin County,Ohio",11401,295339
+149,"Mason County,West Virginia","Harrison County,Ohio",10398,284917
+150,"Mason County,West Virginia","Henry County,Ohio",15462,412369
+151,"Mason County,West Virginia","Highland County,Ohio",6695,164106
+152,"Mason County,West Virginia","Hocking County,Ohio",5196,130882
+153,"Mason County,West Virginia","Holmes County,Ohio",11086,296852
+154,"Mason County,West Virginia","Huron County,Ohio",13105,329968
+155,"Mason County,West Virginia","Jackson County,Ohio",2682,74657
+156,"Mason County,West Virginia","Jefferson County,Ohio",11391,294694
+157,"Mason County,West Virginia","Knox County,Ohio",11021,248147
+158,"Mason County,West Virginia","Lawrence County,Ohio",4098,74498
+159,"Mason County,West Virginia","Licking County,Ohio",8699,201928
+160,"Mason County,West Virginia","Logan County,Ohio",10422,289616
+161,"Mason County,West Virginia","Lorain County,Ohio",14653,418078
+162,"Mason County,West Virginia","Lucas County,Ohio",16385,428247
+163,"Mason County,West Virginia","Madison County,Ohio",7893,199081
+164,"Mason County,West Virginia","Mahoning County,Ohio",13730,371891
+165,"Mason County,West Virginia","Marion County,Ohio",10133,258486
+166,"Mason County,West Virginia","Medina County,Ohio",12604,356210
+167,"Mason County,West Virginia","Meigs County,Ohio",2283,52954
+168,"Mason County,West Virginia","Mercer County,Ohio",13376,383143
+169,"Mason County,West Virginia","Miami County,Ohio",9727,278648
+170,"Mason County,West Virginia","Monroe County,Ohio",8514,201078
+171,"Mason County,West Virginia","Montgomery County,Ohio",9096,256604
+172,"Mason County,West Virginia","Morgan County,Ohio",6347,147242
+173,"Mason County,West Virginia","Morrow County,Ohio",9683,260690
+174,"Mason County,West Virginia","Muskingum County,Ohio",8061,168381
+175,"Mason County,West Virginia","Noble County,Ohio",7020,184238
+176,"Mason County,West Virginia","Paulding County,Ohio",15427,415415
+177,"Mason County,West Virginia","Perry County,Ohio",6611,145638
+178,"Mason County,West Virginia","Pickaway County,Ohio",5632,156095
+179,"Mason County,West Virginia","Pike County,Ohio",4128,113964
+180,"Mason County,West Virginia","Portage County,Ohio",12951,369837
+181,"Mason County,West Virginia","Preble County,Ohio",10715,285182
+182,"Mason County,West Virginia","Putnam County,Ohio",14013,371868
+183,"Mason County,West Virginia","Richland County,Ohio",10713,295929
+184,"Mason County,West Virginia","Ross County,Ohio",4376,122402
+185,"Mason County,West Virginia","Sandusky County,Ohio",14506,359443
+186,"Mason County,West Virginia","Scioto County,Ohio",4791,104737
+187,"Mason County,West Virginia","Seneca County,Ohio",13123,333327
+188,"Mason County,West Virginia","Shelby County,Ohio",10765,314934
+189,"Mason County,West Virginia","Stark County,Ohio",11251,318086
+190,"Mason County,West Virginia","Summit County,Ohio",12010,343874
+191,"Mason County,West Virginia","Trumbull County,Ohio",14685,398138
+192,"Mason County,West Virginia","Tuscarawas County,Ohio",9452,258673
+193,"Mason County,West Virginia","Union County,Ohio",8926,239847
+194,"Mason County,West Virginia","Van Wert County,Ohio",14125,382379
+195,"Mason County,West Virginia","Vinton County,Ohio",4578,100162
+196,"Mason County,West Virginia","Warren County,Ohio",8433,239591
+197,"Mason County,West Virginia","Washington County,Ohio",5320,124903
+198,"Mason County,West Virginia","Wayne County,Ohio",12223,320964
+199,"Mason County,West Virginia","Williams County,Ohio",17503,441347
+200,"Mason County,West Virginia","Wood County,Ohio",14148,382355
+201,"Mason County,West Virginia","Wyandot County,Ohio",11719,304883
+202,"Mason County,West Virginia","Accomack County,Virginia",29511,842996
+203,"Mason County,West Virginia","Albemarle County,Virginia",15660,455495
+204,"Mason County,West Virginia","Alleghany County,Virginia",10330,292519
+205,"Mason County,West Virginia","Amelia County,Virginia",20361,555614
+206,"Mason County,West Virginia","Amherst County,Virginia",15658,423484
+207,"Mason County,West Virginia","Appomattox County,Virginia",17252,462243
+208,"Mason County,West Virginia","Arlington County,Virginia",21687,617862
+209,"Mason County,West Virginia","Augusta County,Virginia",14271,393835
+210,"Mason County,West Virginia","Bath County,Virginia",13341,367828
+211,"Mason County,West Virginia","Bedford County,Virginia",15918,409609
+212,"Mason County,West Virginia","Bland County,Virginia",9291,258738
+213,"Mason County,West Virginia","Botetourt County,Virginia",13484,363818
+214,"Mason County,West Virginia","Brunswick County,Virginia",22904,605287
+215,"Mason County,West Virginia","Buchanan County,Virginia",13322,279772
+216,"Mason County,West Virginia","Buckingham County,Virginia",17534,473179
+217,"Mason County,West Virginia","Campbell County,Virginia",17175,464715
+218,"Mason County,West Virginia","Caroline County,Virginia",21000,624341
+219,"Mason County,West Virginia","Carroll County,Virginia",11537,328176
+220,"Mason County,West Virginia","Charles City County,Virginia",21100,621376
+221,"Mason County,West Virginia","Charlotte County,Virginia",19136,515764
+222,"Mason County,West Virginia","Chesterfield County,Virginia",20236,599160
+223,"Mason County,West Virginia","Clarke County,Virginia",19800,518498
+224,"Mason County,West Virginia","Craig County,Virginia",11973,313603
+225,"Mason County,West Virginia","Culpeper County,Virginia",19458,544712
+226,"Mason County,West Virginia","Cumberland County,Virginia",18744,501181
+227,"Mason County,West Virginia","Dickenson County,Virginia",13569,325816
+228,"Mason County,West Virginia","Dinwiddie County,Virginia",21983,649591
+229,"Mason County,West Virginia","Essex County,Virginia",22817,648384
+230,"Mason County,West Virginia","Fairfax County,Virginia",21378,608529
+231,"Mason County,West Virginia","Fauquier County,Virginia",20279,603805
+232,"Mason County,West Virginia","Floyd County,Virginia",13158,347140
+233,"Mason County,West Virginia","Fluvanna County,Virginia",17338,507667
+234,"Mason County,West Virginia","Franklin County,Virginia",15431,410843
+235,"Mason County,West Virginia","Frederick County,Virginia",18506,496688
+236,"Mason County,West Virginia","Giles County,Virginia",10022,270296
+237,"Mason County,West Virginia","Gloucester County,Virginia",23271,675564
+238,"Mason County,West Virginia","Goochland County,Virginia",18242,538278
+239,"Mason County,West Virginia","Grayson County,Virginia",11940,317883
+240,"Mason County,West Virginia","Greene County,Virginia",17653,491080
+241,"Mason County,West Virginia","Greensville County,Virginia",23399,698343
+242,"Mason County,West Virginia","Halifax County,Virginia",19840,525862
+243,"Mason County,West Virginia","Hanover County,Virginia",19448,579385
+244,"Mason County,West Virginia","Henrico County,Virginia",19960,592345
+245,"Mason County,West Virginia","Henry County,Virginia",15410,414896
+246,"Mason County,West Virginia","Highland County,Virginia",14786,377798
+247,"Mason County,West Virginia","Isle of Wight County,Virginia",24212,696922
+248,"Mason County,West Virginia","James City County,Virginia",22336,662147
+249,"Mason County,West Virginia","King and Queen County,Virginia",21994,637731
+250,"Mason County,West Virginia","King George County,Virginia",22113,652327
+251,"Mason County,West Virginia","King William County,Virginia",20682,607653
+252,"Mason County,West Virginia","Lancaster County,Virginia",24475,690738
+253,"Mason County,West Virginia","Lee County,Virginia",14869,374332
+254,"Mason County,West Virginia","Loudoun County,Virginia",21296,554365
+255,"Mason County,West Virginia","Louisa County,Virginia",17899,521373
+256,"Mason County,West Virginia","Lunenburg County,Virginia",20908,557048
+257,"Mason County,West Virginia","Madison County,Virginia",18573,520820
+258,"Mason County,West Virginia","Mathews County,Virginia",24096,698987
+259,"Mason County,West Virginia","Mecklenburg County,Virginia",21899,570172
+260,"Mason County,West Virginia","Middlesex County,Virginia",22872,671764
+261,"Mason County,West Virginia","Montgomery County,Virginia",11105,298303
+262,"Mason County,West Virginia","Nelson County,Virginia",16199,435175
+263,"Mason County,West Virginia","New Kent County,Virginia",21772,636061
+264,"Mason County,West Virginia","Northampton County,Virginia",26753,778810
+265,"Mason County,West Virginia","Northumberland County,Virginia",24514,689251
+266,"Mason County,West Virginia","Nottoway County,Virginia",20401,557428
+267,"Mason County,West Virginia","Orange County,Virginia",18862,529481
+268,"Mason County,West Virginia","Page County,Virginia",17507,504611
+269,"Mason County,West Virginia","Patrick County,Virginia",13643,373211
+270,"Mason County,West Virginia","Pittsylvania County,Virginia",17726,469105
+271,"Mason County,West Virginia","Powhatan County,Virginia",19495,563500
+272,"Mason County,West Virginia","Prince Edward County,Virginia",19016,514763
+273,"Mason County,West Virginia","Prince George County,Virginia",21747,636175
+274,"Mason County,West Virginia","Prince William County,Virginia",20378,609909
+275,"Mason County,West Virginia","Pulaski County,Virginia",11200,294634
+276,"Mason County,West Virginia","Rappahannock County,Virginia",19338,541093
+277,"Mason County,West Virginia","Richmond County,Virginia",23214,661894
+278,"Mason County,West Virginia","Roanoke County,Virginia",12725,341097
+279,"Mason County,West Virginia","Rockbridge County,Virginia",12662,360875
+280,"Mason County,West Virginia","Rockingham County,Virginia",16546,476956
+281,"Mason County,West Virginia","Russell County,Virginia",13100,338918
+282,"Mason County,West Virginia","Scott County,Virginia",15045,373269
+283,"Mason County,West Virginia","Shenandoah County,Virginia",17051,507059
+284,"Mason County,West Virginia","Smyth County,Virginia",11649,324090
+285,"Mason County,West Virginia","Southampton County,Virginia",23777,694457
+286,"Mason County,West Virginia","Spotsylvania County,Virginia",19915,563212
+287,"Mason County,West Virginia","Stafford County,Virginia",21297,587505
+288,"Mason County,West Virginia","Surry County,Virginia",23080,661008
+289,"Mason County,West Virginia","Sussex County,Virginia",22441,664699
+290,"Mason County,West Virginia","Tazewell County,Virginia",10107,277326
+291,"Mason County,West Virginia","Warren County,Virginia",18953,551652
+292,"Mason County,West Virginia","Washington County,Virginia",13042,363557
+293,"Mason County,West Virginia","Westmoreland County,Virginia",23087,669152
+294,"Mason County,West Virginia","Wise County,Virginia",11833,301715
+295,"Mason County,West Virginia","Wythe County,Virginia",9896,276955
+296,"Mason County,West Virginia","York County,Virginia",23624,692921
+297,"Mason County,West Virginia","Alexandria City County,Virginia",22203,635044
+298,"Mason County,West Virginia","Bedford City County,Virginia",15083,401041
+299,"Mason County,West Virginia","Bristol City County,Virginia",13517,389274
+300,"Mason County,West Virginia","Buena Vista City County,Virginia",13017,374852
+301,"Mason County,West Virginia","Charlottesville City County,Virginia",16130,470710
+302,"Mason County,West Virginia","Chesapeake City County,Virginia",25087,745827
+303,"Mason County,West Virginia","Clifton Forge City County,Virginia",10873,312725
+304,"Mason County,West Virginia","Colonial Heights City County,Virginia",20796,615052
+305,"Mason County,West Virginia","Covington City County,Virginia",10399,296104
+306,"Mason County,West Virginia","Danville City County,Virginia",17568,469352
+307,"Mason County,West Virginia","Emporia City County,Virginia",23107,684936
+308,"Mason County,West Virginia","Fairfax City County,Virginia",21511,635656
+309,"Mason County,West Virginia","Falls Church City County,Virginia",21396,612174
+310,"Mason County,West Virginia","Franklin City County,Virginia",24325,702311
+311,"Mason County,West Virginia","Fredericksburg City County,Virginia",21048,572871
+312,"Mason County,West Virginia","Galax City County,Virginia",12160,334042
+313,"Mason County,West Virginia","Hampton City County,Virginia",23574,702627
+314,"Mason County,West Virginia","Harrisonburg City County,Virginia",15605,456852
+315,"Mason County,West Virginia","Hopewell City County,Virginia",20833,614018
+316,"Mason County,West Virginia","Lexington City County,Virginia",12651,363343
+317,"Mason County,West Virginia","Lynchburg City County,Virginia",16234,438458
+318,"Mason County,West Virginia","Manassas City County,Virginia",20606,614853
+319,"Mason County,West Virginia","Manassas Park City County,Virginia",21108,621196
+320,"Mason County,West Virginia","Martinsville City County,Virginia",15938,423690
+321,"Mason County,West Virginia","Newport News City County,Virginia",23131,689113
+322,"Mason County,West Virginia","Norfolk City County,Virginia",24880,728043
+323,"Mason County,West Virginia","Norton City County,Virginia",12462,313526
+324,"Mason County,West Virginia","Petersburg City County,Virginia",20668,616040
+325,"Mason County,West Virginia","Poquoson City County,Virginia",23802,699690
+326,"Mason County,West Virginia","Portsmouth City County,Virginia",24819,736864
+327,"Mason County,West Virginia","Radford County,Virginia",11513,296344
+328,"Mason County,West Virginia","Richmond City County,Virginia",19536,580155
+329,"Mason County,West Virginia","Roanoke City County,Virginia",13327,361202
+330,"Mason County,West Virginia","Salem City County,Virginia",12739,347751
+331,"Mason County,West Virginia","South Boston City County,Virginia",19580,523531
+332,"Mason County,West Virginia","Staunton City County,Virginia",14422,417987
+333,"Mason County,West Virginia","Suffolk City County,Virginia",25055,711646
+334,"Mason County,West Virginia","Virginia Beach City County,Virginia",25441,751302
+335,"Mason County,West Virginia","Waynesboro City County,Virginia",14760,430705
+336,"Mason County,West Virginia","Williamsburg City County,Virginia",22175,661362
+337,"Mason County,West Virginia","Winchester City County,Virginia",18728,497024
+338,"Mason County,West Virginia","Barbour County,West Virginia",10465,291385
+339,"Mason County,West Virginia","Berkeley County,West Virginia",18142,495879
+340,"Mason County,West Virginia","Boone County,West Virginia",5644,125002
+341,"Mason County,West Virginia","Braxton County,West Virginia",7155,182365
+342,"Mason County,West Virginia","Brooke County,West Virginia",11542,308213
+343,"Mason County,West Virginia","Cabell County,West Virginia",3641,95726
+344,"Mason County,West Virginia","Calhoun County,West Virginia",6896,140501
+345,"Mason County,West Virginia","Clay County,West Virginia",5922,153277
+346,"Mason County,West Virginia","Doddridge County,West Virginia",7568,195141
+347,"Mason County,West Virginia","Fayette County,West Virginia",7210,171622
+348,"Mason County,West Virginia","Gilmer County,West Virginia",8174,165003
+349,"Mason County,West Virginia","Grant County,West Virginia",14821,392930
+350,"Mason County,West Virginia","Greenbrier County,West Virginia",10284,249660
+351,"Mason County,West Virginia","Hampshire County,West Virginia",17396,457483
+352,"Mason County,West Virginia","Hancock County,West Virginia",13131,342748
+353,"Mason County,West Virginia","Hardy County,West Virginia",15876,424428
+354,"Mason County,West Virginia","Harrison County,West Virginia",8651,228135
+355,"Mason County,West Virginia","Jackson County,West Virginia",3343,71845
+356,"Mason County,West Virginia","Jefferson County,West Virginia",19608,551877
+357,"Mason County,West Virginia","Kanawha County,West Virginia",4518,105685
+358,"Mason County,West Virginia","Lewis County,West Virginia",8328,231226
+359,"Mason County,West Virginia","Lincoln County,West Virginia",5084,103293
+360,"Mason County,West Virginia","Logan County,West Virginia",6573,162121
+361,"Mason County,West Virginia","McDowell County,West Virginia",10881,252998
+362,"Mason County,West Virginia","Marion County,West Virginia",10588,271258
+363,"Mason County,West Virginia","Marshall County,West Virginia",10928,244313
+364,"Mason County,West Virginia","Mercer County,West Virginia",7845,217245
+365,"Mason County,West Virginia","Mineral County,West Virginia",16276,432034
+366,"Mason County,West Virginia","Mingo County,West Virginia",6618,166628
+367,"Mason County,West Virginia","Monongalia County,West Virginia",10798,296727
+368,"Mason County,West Virginia","Monroe County,West Virginia",10890,261956
+369,"Mason County,West Virginia","Morgan County,West Virginia",17634,485271
+370,"Mason County,West Virginia","Nicholas County,West Virginia",7638,213158
+371,"Mason County,West Virginia","Ohio County,West Virginia",10561,289450
+372,"Mason County,West Virginia","Pendleton County,West Virginia",15152,395555
+373,"Mason County,West Virginia","Pleasants County,West Virginia",6403,154479
+374,"Mason County,West Virginia","Pocahontas County,West Virginia",12968,282697
+375,"Mason County,West Virginia","Preston County,West Virginia",12944,323457
+376,"Mason County,West Virginia","Putnam County,West Virginia",1635,40005
+377,"Mason County,West Virginia","Raleigh County,West Virginia",6386,170937
+378,"Mason County,West Virginia","Randolph County,West Virginia",10830,293681
+379,"Mason County,West Virginia","Ritchie County,West Virginia",6733,168183
+380,"Mason County,West Virginia","Roane County,West Virginia",4969,100661
+381,"Mason County,West Virginia","Summers County,West Virginia",9838,232375
+382,"Mason County,West Virginia","Taylor County,West Virginia",10481,266830
+383,"Mason County,West Virginia","Tucker County,West Virginia",11897,324206
+384,"Mason County,West Virginia","Tyler County,West Virginia",8312,194095
+385,"Mason County,West Virginia","Upshur County,West Virginia",9893,245923
+386,"Mason County,West Virginia","Wayne County,West Virginia",5232,128352
+387,"Mason County,West Virginia","Webster County,West Virginia",9823,240238
+388,"Mason County,West Virginia","Wetzel County,West Virginia",9524,216001
+389,"Mason County,West Virginia","Wirt County,West Virginia",5186,113965
+390,"Mason County,West Virginia","Wood County,West Virginia",4701,115655
+391,"Mason County,West Virginia","Wyoming County,West Virginia",8331,210879

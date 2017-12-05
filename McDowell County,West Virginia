@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"McDowell County,West Virginia","Adair County,Kentucky",20217,447897
+1,"McDowell County,West Virginia","Allen County,Kentucky",23414,543539
+2,"McDowell County,West Virginia","Anderson County,Kentucky",18261,415252
+3,"McDowell County,West Virginia","Ballard County,Kentucky",31240,805023
+4,"McDowell County,West Virginia","Barren County,Kentucky",21963,506925
+5,"McDowell County,West Virginia","Bath County,Kentucky",14831,336104
+6,"McDowell County,West Virginia","Bell County,Kentucky",14391,286498
+7,"McDowell County,West Virginia","Boone County,Kentucky",19969,466960
+8,"McDowell County,West Virginia","Bourbon County,Kentucky",16264,348815
+9,"McDowell County,West Virginia","Boyd County,Kentucky",11507,230429
+10,"McDowell County,West Virginia","Boyle County,Kentucky",19445,422055
+11,"McDowell County,West Virginia","Bracken County,Kentucky",17156,376604
+12,"McDowell County,West Virginia","Breathitt County,Kentucky",13715,275890
+13,"McDowell County,West Virginia","Breckinridge County,Kentucky",23795,567933
+14,"McDowell County,West Virginia","Bullitt County,Kentucky",20364,489053
+15,"McDowell County,West Virginia","Butler County,Kentucky",24459,589931
+16,"McDowell County,West Virginia","Caldwell County,Kentucky",27351,695876
+17,"McDowell County,West Virginia","Calloway County,Kentucky",29558,801964
+18,"McDowell County,West Virginia","Campbell County,Kentucky",18856,416476
+19,"McDowell County,West Virginia","Carlisle County,Kentucky",31697,820391
+20,"McDowell County,West Virginia","Carroll County,Kentucky",20806,463066
+21,"McDowell County,West Virginia","Carter County,Kentucky",12671,260526
+22,"McDowell County,West Virginia","Casey County,Kentucky",20155,421172
+23,"McDowell County,West Virginia","Christian County,Kentucky",26452,722943
+24,"McDowell County,West Virginia","Clay County,Kentucky",14745,303175
+25,"McDowell County,West Virginia","Clinton County,Kentucky",20625,451263
+26,"McDowell County,West Virginia","Crittenden County,Kentucky",28931,728947
+27,"McDowell County,West Virginia","Cumberland County,Kentucky",21378,469502
+28,"McDowell County,West Virginia","Daviess County,Kentucky",25482,636373
+29,"McDowell County,West Virginia","Edmonson County,Kentucky",23492,551086
+30,"McDowell County,West Virginia","Elliott County,Kentucky",13665,243168
+31,"McDowell County,West Virginia","Estill County,Kentucky",15166,315745
+32,"McDowell County,West Virginia","Fayette County,Kentucky",16068,352745
+33,"McDowell County,West Virginia","Fleming County,Kentucky",15257,339290
+34,"McDowell County,West Virginia","Floyd County,Kentucky",9668,176624
+35,"McDowell County,West Virginia","Franklin County,Kentucky",18106,401661
+36,"McDowell County,West Virginia","Fulton County,Kentucky",32101,841356
+37,"McDowell County,West Virginia","Gallatin County,Kentucky",19804,453725
+38,"McDowell County,West Virginia","Garrard County,Kentucky",18365,380085
+39,"McDowell County,West Virginia","Grant County,Kentucky",18603,427833
+40,"McDowell County,West Virginia","Graves County,Kentucky",30721,793098
+41,"McDowell County,West Virginia","Grayson County,Kentucky",22787,546567
+42,"McDowell County,West Virginia","Green County,Kentucky",21970,490062
+43,"McDowell County,West Virginia","Greenup County,Kentucky",13505,280835
+44,"McDowell County,West Virginia","Hancock County,Kentucky",24590,600826
+45,"McDowell County,West Virginia","Hardin County,Kentucky",21663,508700
+46,"McDowell County,West Virginia","Harlan County,Kentucky",13178,233880
+47,"McDowell County,West Virginia","Harrison County,Kentucky",17576,377154
+48,"McDowell County,West Virginia","Hart County,Kentucky",22462,536328
+49,"McDowell County,West Virginia","Henderson County,Kentucky",27289,688803
+50,"McDowell County,West Virginia","Henry County,Kentucky",19707,445380
+51,"McDowell County,West Virginia","Hickman County,Kentucky",31730,821683
+52,"McDowell County,West Virginia","Hopkins County,Kentucky",26810,670345
+53,"McDowell County,West Virginia","Jackson County,Kentucky",16617,339594
+54,"McDowell County,West Virginia","Jefferson County,Kentucky",19801,460913
+55,"McDowell County,West Virginia","Jessamine County,Kentucky",17537,374209
+56,"McDowell County,West Virginia","Johnson County,Kentucky",10283,193853
+57,"McDowell County,West Virginia","Kenton County,Kentucky",19856,462676
+58,"McDowell County,West Virginia","Knott County,Kentucky",10850,208506
+59,"McDowell County,West Virginia","Knox County,Kentucky",16069,329830
+60,"McDowell County,West Virginia","Larue County,Kentucky",21735,495875
+61,"McDowell County,West Virginia","Laurel County,Kentucky",16346,339971
+62,"McDowell County,West Virginia","Lawrence County,Kentucky",10863,203843
+63,"McDowell County,West Virginia","Lee County,Kentucky",14152,281521
+64,"McDowell County,West Virginia","Leslie County,Kentucky",13929,278179
+65,"McDowell County,West Virginia","Letcher County,Kentucky",9898,187094
+66,"McDowell County,West Virginia","Lewis County,Kentucky",14710,312343
+67,"McDowell County,West Virginia","Lincoln County,Kentucky",18675,406422
+68,"McDowell County,West Virginia","Livingston County,Kentucky",29527,745843
+69,"McDowell County,West Virginia","Logan County,Kentucky",25365,608817
+70,"McDowell County,West Virginia","Lyon County,Kentucky",29660,756234
+71,"McDowell County,West Virginia","McCracken County,Kentucky",29852,773083
+72,"McDowell County,West Virginia","McCreary County,Kentucky",18880,410385
+73,"McDowell County,West Virginia","Madison County,Kentucky",16669,347761
+74,"McDowell County,West Virginia","Magoffin County,Kentucky",10627,197829
+75,"McDowell County,West Virginia","Marion County,Kentucky",20112,457485
+76,"McDowell County,West Virginia","Marshall County,Kentucky",29267,756655
+77,"McDowell County,West Virginia","Martin County,Kentucky",9321,160488
+78,"McDowell County,West Virginia","Mason County,Kentucky",16505,356150
+79,"McDowell County,West Virginia","Meade County,Kentucky",22262,533228
+80,"McDowell County,West Virginia","Menifee County,Kentucky",14295,272029
+81,"McDowell County,West Virginia","Mercer County,Kentucky",18489,413196
+82,"McDowell County,West Virginia","Metcalfe County,Kentucky",20873,478162
+83,"McDowell County,West Virginia","Monroe County,Kentucky",22843,515666
+84,"McDowell County,West Virginia","Montgomery County,Kentucky",15264,312714
+85,"McDowell County,West Virginia","Morgan County,Kentucky",12740,249016
+86,"McDowell County,West Virginia","Muhlenberg County,Kentucky",25670,636820
+87,"McDowell County,West Virginia","Nelson County,Kentucky",19720,456556
+88,"McDowell County,West Virginia","Nicholas County,Kentucky",17322,382528
+89,"McDowell County,West Virginia","Ohio County,Kentucky",24583,604410
+90,"McDowell County,West Virginia","Oldham County,Kentucky",19873,472794
+91,"McDowell County,West Virginia","Owen County,Kentucky",18928,428438
+92,"McDowell County,West Virginia","Owsley County,Kentucky",15298,301498
+93,"McDowell County,West Virginia","Pendleton County,Kentucky",19094,417528
+94,"McDowell County,West Virginia","Perry County,Kentucky",12229,239063
+95,"McDowell County,West Virginia","Pike County,Kentucky",7843,131533
+96,"McDowell County,West Virginia","Powell County,Kentucky",14052,283999
+97,"McDowell County,West Virginia","Robertson County,Kentucky",17240,382034
+98,"McDowell County,West Virginia","Rockcastle County,Kentucky",17157,368021
+99,"McDowell County,West Virginia","Rowan County,Kentucky",13974,308311
+100,"McDowell County,West Virginia","Russell County,Kentucky",19822,431881
+101,"McDowell County,West Virginia","Scott County,Kentucky",16903,380772
+102,"McDowell County,West Virginia","Shelby County,Kentucky",18730,432048
+103,"McDowell County,West Virginia","Simpson County,Kentucky",24954,597691
+104,"McDowell County,West Virginia","Spencer County,Kentucky",19259,437896
+105,"McDowell County,West Virginia","Taylor County,Kentucky",21571,472157
+106,"McDowell County,West Virginia","Todd County,Kentucky",26540,638873
+107,"McDowell County,West Virginia","Trigg County,Kentucky",27359,740302
+108,"McDowell County,West Virginia","Trimble County,Kentucky",20946,478834
+109,"McDowell County,West Virginia","Union County,Kentucky",29009,719250
+110,"McDowell County,West Virginia","Warren County,Kentucky",23989,562639
+111,"McDowell County,West Virginia","Washington County,Kentucky",19730,441793
+112,"McDowell County,West Virginia","Wayne County,Kentucky",19998,428954
+113,"McDowell County,West Virginia","Webster County,Kentucky",27919,698433
+114,"McDowell County,West Virginia","Whitley County,Kentucky",17245,374471
+115,"McDowell County,West Virginia","Wolfe County,Kentucky",12655,249766
+116,"McDowell County,West Virginia","Woodford County,Kentucky",17122,383408
+117,"McDowell County,West Virginia","Adams County,Ohio",17076,416663
+118,"McDowell County,West Virginia","Allen County,Ohio",23809,592080
+119,"McDowell County,West Virginia","Ashland County,Ohio",21553,545971
+120,"McDowell County,West Virginia","Ashtabula County,Ohio",24241,666869
+121,"McDowell County,West Virginia","Athens County,Ohio",13485,322262
+122,"McDowell County,West Virginia","Auglaize County,Ohio",23059,608780
+123,"McDowell County,West Virginia","Belmont County,Ohio",17304,455794
+124,"McDowell County,West Virginia","Brown County,Ohio",17842,385634
+125,"McDowell County,West Virginia","Butler County,Ohio",21434,525616
+126,"McDowell County,West Virginia","Carroll County,Ohio",19233,492680
+127,"McDowell County,West Virginia","Champaign County,Ohio",20363,510877
+128,"McDowell County,West Virginia","Clark County,Ohio",19042,470422
+129,"McDowell County,West Virginia","Clermont County,Ohio",19155,474687
+130,"McDowell County,West Virginia","Clinton County,Ohio",18546,458103
+131,"McDowell County,West Virginia","Columbiana County,Ohio",21075,546915
+132,"McDowell County,West Virginia","Coshocton County,Ohio",17869,463797
+133,"McDowell County,West Virginia","Crawford County,Ohio",22161,557132
+134,"McDowell County,West Virginia","Cuyahoga County,Ohio",21269,578084
+135,"McDowell County,West Virginia","Darke County,Ohio",22156,565827
+136,"McDowell County,West Virginia","Defiance County,Ohio",27244,670401
+137,"McDowell County,West Virginia","Delaware County,Ohio",19315,489869
+138,"McDowell County,West Virginia","Fairfield County,Ohio",16845,416963
+139,"McDowell County,West Virginia","Fayette County,Ohio",17110,428567
+140,"McDowell County,West Virginia","Franklin County,Ohio",17845,446818
+141,"McDowell County,West Virginia","Fulton County,Ohio",27251,712700
+142,"McDowell County,West Virginia","Gallia County,Ohio",12423,287679
+143,"McDowell County,West Virginia","Geauga County,Ohio",22341,603801
+144,"McDowell County,West Virginia","Greene County,Ohio",17980,461719
+145,"McDowell County,West Virginia","Guernsey County,Ohio",15419,401715
+146,"McDowell County,West Virginia","Hamilton County,Ohio",20838,469536
+147,"McDowell County,West Virginia","Hancock County,Ohio",23338,598224
+148,"McDowell County,West Virginia","Hardin County,Ohio",22320,547910
+149,"McDowell County,West Virginia","Harrison County,Ohio",18239,474745
+150,"McDowell County,West Virginia","Henry County,Ohio",26050,669845
+151,"McDowell County,West Virginia","Highland County,Ohio",17614,416676
+152,"McDowell County,West Virginia","Hocking County,Ohio",15287,372926
+153,"McDowell County,West Virginia","Holmes County,Ohio",18927,486681
+154,"McDowell County,West Virginia","Huron County,Ohio",23450,587600
+155,"McDowell County,West Virginia","Jackson County,Ohio",13600,327228
+156,"McDowell County,West Virginia","Jefferson County,Ohio",19232,484523
+157,"McDowell County,West Virginia","Knox County,Ohio",19657,506272
+158,"McDowell County,West Virginia","Lawrence County,Ohio",13093,242782
+159,"McDowell County,West Virginia","Licking County,Ohio",18790,443972
+160,"McDowell County,West Virginia","Logan County,Ohio",21340,542187
+161,"McDowell County,West Virginia","Lorain County,Ohio",22494,607907
+162,"McDowell County,West Virginia","Lucas County,Ohio",26973,685723
+163,"McDowell County,West Virginia","Madison County,Ohio",18811,451651
+164,"McDowell County,West Virginia","Mahoning County,Ohio",21570,561720
+165,"McDowell County,West Virginia","Marion County,Ohio",20721,515962
+166,"McDowell County,West Virginia","Medina County,Ohio",20943,564115
+167,"McDowell County,West Virginia","Meigs County,Ohio",12365,293232
+168,"McDowell County,West Virginia","Mercer County,Ohio",24294,635714
+169,"McDowell County,West Virginia","Miami County,Ohio",20645,531219
+170,"McDowell County,West Virginia","Monroe County,Ohio",16355,390907
+171,"McDowell County,West Virginia","Montgomery County,Ohio",20014,509175
+172,"McDowell County,West Virginia","Morgan County,Ohio",15360,377555
+173,"McDowell County,West Virginia","Morrow County,Ohio",20122,512690
+174,"McDowell County,West Virginia","Muskingum County,Ohio",16265,429707
+175,"McDowell County,West Virginia","Noble County,Ohio",14861,374067
+176,"McDowell County,West Virginia","Paulding County,Ohio",26346,667986
+177,"McDowell County,West Virginia","Perry County,Ohio",16703,387682
+178,"McDowell County,West Virginia","Pickaway County,Ohio",16550,408666
+179,"McDowell County,West Virginia","Pike County,Ohio",15046,366535
+180,"McDowell County,West Virginia","Portage County,Ohio",20791,559666
+181,"McDowell County,West Virginia","Preble County,Ohio",21633,537753
+182,"McDowell County,West Virginia","Putnam County,Ohio",24932,624439
+183,"McDowell County,West Virginia","Richland County,Ohio",21152,547928
+184,"McDowell County,West Virginia","Ross County,Ohio",15294,374972
+185,"McDowell County,West Virginia","Sandusky County,Ohio",25094,616919
+186,"McDowell County,West Virginia","Scioto County,Ohio",14736,293132
+187,"McDowell County,West Virginia","Seneca County,Ohio",23711,590803
+188,"McDowell County,West Virginia","Shelby County,Ohio",21683,567504
+189,"McDowell County,West Virginia","Stark County,Ohio",19092,507915
+190,"McDowell County,West Virginia","Summit County,Ohio",19851,533703
+191,"McDowell County,West Virginia","Trumbull County,Ohio",22526,587967
+192,"McDowell County,West Virginia","Tuscarawas County,Ohio",17293,448502
+193,"McDowell County,West Virginia","Union County,Ohio",19844,492418
+194,"McDowell County,West Virginia","Van Wert County,Ohio",25043,634950
+195,"McDowell County,West Virginia","Vinton County,Ohio",15496,352733
+196,"McDowell County,West Virginia","Warren County,Ohio",19352,492162
+197,"McDowell County,West Virginia","Washington County,Ohio",13719,332004
+198,"McDowell County,West Virginia","Wayne County,Ohio",20064,510793
+199,"McDowell County,West Virginia","Williams County,Ohio",28421,693917
+200,"McDowell County,West Virginia","Wood County,Ohio",24736,639831
+201,"McDowell County,West Virginia","Wyandot County,Ohio",22307,562359
+202,"McDowell County,West Virginia","Accomack County,Virginia",28715,766518
+203,"McDowell County,West Virginia","Albemarle County,Virginia",14865,379018
+204,"McDowell County,West Virginia","Alleghany County,Virginia",9534,216041
+205,"McDowell County,West Virginia","Amelia County,Virginia",18001,418980
+206,"McDowell County,West Virginia","Amherst County,Virginia",14863,347007
+207,"McDowell County,West Virginia","Appomattox County,Virginia",15078,338649
+208,"McDowell County,West Virginia","Arlington County,Virginia",21549,579327
+209,"McDowell County,West Virginia","Augusta County,Virginia",13476,317357
+210,"McDowell County,West Virginia","Bath County,Virginia",12546,291351
+211,"McDowell County,West Virginia","Bedford County,Virginia",12811,269959
+212,"McDowell County,West Virginia","Bland County,Virginia",5704,102418
+213,"McDowell County,West Virginia","Botetourt County,Virginia",11668,254023
+214,"McDowell County,West Virginia","Brunswick County,Virginia",20151,527024
+215,"McDowell County,West Virginia","Buchanan County,Virginia",4798,66207
+216,"McDowell County,West Virginia","Buckingham County,Virginia",16193,362558
+217,"McDowell County,West Virginia","Campbell County,Virginia",14227,311194
+218,"McDowell County,West Virginia","Caroline County,Virginia",20204,547864
+219,"McDowell County,West Virginia","Carroll County,Virginia",7950,171856
+220,"McDowell County,West Virginia","Charles City County,Virginia",20305,544898
+221,"McDowell County,West Virginia","Charlotte County,Virginia",16776,379130
+222,"McDowell County,West Virginia","Chesterfield County,Virginia",19440,522682
+223,"McDowell County,West Virginia","Clarke County,Virginia",19045,506076
+224,"McDowell County,West Virginia","Craig County,Virginia",8866,173953
+225,"McDowell County,West Virginia","Culpeper County,Virginia",18662,468234
+226,"McDowell County,West Virginia","Cumberland County,Virginia",17606,399790
+227,"McDowell County,West Virginia","Dickenson County,Virginia",7841,113372
+228,"McDowell County,West Virginia","Dinwiddie County,Virginia",19774,462041
+229,"McDowell County,West Virginia","Essex County,Virginia",22022,571906
+230,"McDowell County,West Virginia","Fairfax County,Virginia",21172,569603
+231,"McDowell County,West Virginia","Fauquier County,Virginia",19483,527327
+232,"McDowell County,West Virginia","Floyd County,Virginia",9844,211956
+233,"McDowell County,West Virginia","Fluvanna County,Virginia",16543,431190
+234,"McDowell County,West Virginia","Franklin County,Virginia",12324,271192
+235,"McDowell County,West Virginia","Frederick County,Virginia",18497,493803
+236,"McDowell County,West Virginia","Giles County,Virginia",6915,130646
+237,"McDowell County,West Virginia","Gloucester County,Virginia",22475,599087
+238,"McDowell County,West Virginia","Goochland County,Virginia",17446,461801
+239,"McDowell County,West Virginia","Grayson County,Virginia",8353,161563
+240,"McDowell County,West Virginia","Greene County,Virginia",16857,414602
+241,"McDowell County,West Virginia","Greensville County,Virginia",21347,544443
+242,"McDowell County,West Virginia","Halifax County,Virginia",16253,369543
+243,"McDowell County,West Virginia","Hanover County,Virginia",18653,502907
+244,"McDowell County,West Virginia","Henrico County,Virginia",19164,515867
+245,"McDowell County,West Virginia","Henry County,Virginia",11823,258577
+246,"McDowell County,West Virginia","Highland County,Virginia",13990,301321
+247,"McDowell County,West Virginia","Isle of Wight County,Virginia",23416,620444
+248,"McDowell County,West Virginia","James City County,Virginia",21541,585669
+249,"McDowell County,West Virginia","King and Queen County,Virginia",21199,561253
+250,"McDowell County,West Virginia","King George County,Virginia",21317,575850
+251,"McDowell County,West Virginia","King William County,Virginia",19886,531175
+252,"McDowell County,West Virginia","Lancaster County,Virginia",23679,614261
+253,"McDowell County,West Virginia","Lee County,Virginia",10978,212678
+254,"McDowell County,West Virginia","Loudoun County,Virginia",20540,541943
+255,"McDowell County,West Virginia","Louisa County,Virginia",17103,444896
+256,"McDowell County,West Virginia","Lunenburg County,Virginia",18548,420414
+257,"McDowell County,West Virginia","Madison County,Virginia",17778,444343
+258,"McDowell County,West Virginia","Mathews County,Virginia",23300,622510
+259,"McDowell County,West Virginia","Mecklenburg County,Virginia",18286,421088
+260,"McDowell County,West Virginia","Middlesex County,Virginia",22076,595287
+261,"McDowell County,West Virginia","Montgomery County,Virginia",7998,158653
+262,"McDowell County,West Virginia","Nelson County,Virginia",15404,358698
+263,"McDowell County,West Virginia","New Kent County,Virginia",20977,559583
+264,"McDowell County,West Virginia","Northampton County,Virginia",25958,702333
+265,"McDowell County,West Virginia","Northumberland County,Virginia",23718,612773
+266,"McDowell County,West Virginia","Nottoway County,Virginia",18041,420794
+267,"McDowell County,West Virginia","Orange County,Virginia",18066,453003
+268,"McDowell County,West Virginia","Page County,Virginia",16712,428133
+269,"McDowell County,West Virginia","Patrick County,Virginia",10056,216891
+270,"McDowell County,West Virginia","Pittsylvania County,Virginia",14139,312785
+271,"McDowell County,West Virginia","Powhatan County,Virginia",18700,487022
+272,"McDowell County,West Virginia","Prince Edward County,Virginia",16656,378129
+273,"McDowell County,West Virginia","Prince George County,Virginia",20951,559697
+274,"McDowell County,West Virginia","Prince William County,Virginia",19583,533431
+275,"McDowell County,West Virginia","Pulaski County,Virginia",7695,163276
+276,"McDowell County,West Virginia","Rappahannock County,Virginia",18542,464615
+277,"McDowell County,West Virginia","Richmond County,Virginia",22418,585416
+278,"McDowell County,West Virginia","Roanoke County,Virginia",9618,201446
+279,"McDowell County,West Virginia","Rockbridge County,Virginia",11867,284397
+280,"McDowell County,West Virginia","Rockingham County,Virginia",15750,400478
+281,"McDowell County,West Virginia","Russell County,Virginia",6609,99913
+282,"McDowell County,West Virginia","Scott County,Virginia",9168,168558
+283,"McDowell County,West Virginia","Shenandoah County,Virginia",16255,430582
+284,"McDowell County,West Virginia","Smyth County,Virginia",7015,103738
+285,"McDowell County,West Virginia","Southampton County,Virginia",22982,617979
+286,"McDowell County,West Virginia","Spotsylvania County,Virginia",19120,486734
+287,"McDowell County,West Virginia","Stafford County,Virginia",20501,511027
+288,"McDowell County,West Virginia","Surry County,Virginia",22284,584531
+289,"McDowell County,West Virginia","Sussex County,Virginia",21645,588222
+290,"McDowell County,West Virginia","Tazewell County,Virginia",3522,51495
+291,"McDowell County,West Virginia","Warren County,Virginia",18157,475174
+292,"McDowell County,West Virginia","Washington County,Virginia",7320,128701
+293,"McDowell County,West Virginia","Westmoreland County,Virginia",22291,592675
+294,"McDowell County,West Virginia","Wise County,Virginia",9126,148694
+295,"McDowell County,West Virginia","Wythe County,Virginia",6309,120635
+296,"McDowell County,West Virginia","York County,Virginia",22828,616444
+297,"McDowell County,West Virginia","Alexandria City County,Virginia",21752,591974
+298,"McDowell County,West Virginia","Bedford City County,Virginia",11976,261390
+299,"McDowell County,West Virginia","Bristol City County,Virginia",8160,149588
+300,"McDowell County,West Virginia","Buena Vista City County,Virginia",12221,298375
+301,"McDowell County,West Virginia","Charlottesville City County,Virginia",15334,394233
+302,"McDowell County,West Virginia","Chesapeake City County,Virginia",24291,669349
+303,"McDowell County,West Virginia","Clifton Forge City County,Virginia",10077,236248
+304,"McDowell County,West Virginia","Colonial Heights City County,Virginia",20000,538574
+305,"McDowell County,West Virginia","Covington City County,Virginia",9603,219626
+306,"McDowell County,West Virginia","Danville City County,Virginia",13981,313032
+307,"McDowell County,West Virginia","Emporia City County,Virginia",21504,558632
+308,"McDowell County,West Virginia","Fairfax City County,Virginia",20715,559179
+309,"McDowell County,West Virginia","Falls Church City County,Virginia",21047,573651
+310,"McDowell County,West Virginia","Franklin City County,Virginia",23529,625834
+311,"McDowell County,West Virginia","Fredericksburg City County,Virginia",20253,496394
+312,"McDowell County,West Virginia","Galax City County,Virginia",8573,177722
+313,"McDowell County,West Virginia","Hampton City County,Virginia",22778,626150
+314,"McDowell County,West Virginia","Harrisonburg City County,Virginia",14810,380374
+315,"McDowell County,West Virginia","Hopewell City County,Virginia",20037,537541
+316,"McDowell County,West Virginia","Lexington City County,Virginia",11856,286866
+317,"McDowell County,West Virginia","Lynchburg City County,Virginia",14001,306265
+318,"McDowell County,West Virginia","Manassas City County,Virginia",19810,538376
+319,"McDowell County,West Virginia","Manassas Park City County,Virginia",20312,544719
+320,"McDowell County,West Virginia","Martinsville City County,Virginia",12351,267370
+321,"McDowell County,West Virginia","Newport News City County,Virginia",22335,612636
+322,"McDowell County,West Virginia","Norfolk City County,Virginia",24085,651566
+323,"McDowell County,West Virginia","Norton City County,Virginia",8805,163657
+324,"McDowell County,West Virginia","Petersburg City County,Virginia",19872,539562
+325,"McDowell County,West Virginia","Poquoson City County,Virginia",23007,623212
+326,"McDowell County,West Virginia","Portsmouth City County,Virginia",24024,660387
+327,"McDowell County,West Virginia","Radford County,Virginia",8126,144802
+328,"McDowell County,West Virginia","Richmond City County,Virginia",18740,503677
+329,"McDowell County,West Virginia","Roanoke City County,Virginia",10220,221551
+330,"McDowell County,West Virginia","Salem City County,Virginia",9632,208101
+331,"McDowell County,West Virginia","South Boston City County,Virginia",15993,367211
+332,"McDowell County,West Virginia","Staunton City County,Virginia",13627,341509
+333,"McDowell County,West Virginia","Suffolk City County,Virginia",24259,635168
+334,"McDowell County,West Virginia","Virginia Beach City County,Virginia",24646,674824
+335,"McDowell County,West Virginia","Waynesboro City County,Virginia",13965,354228
+336,"McDowell County,West Virginia","Williamsburg City County,Virginia",21379,584885
+337,"McDowell County,West Virginia","Winchester City County,Virginia",18376,489946
+338,"McDowell County,West Virginia","Barbour County,West Virginia",14511,333228
+339,"McDowell County,West Virginia","Berkeley County,West Virginia",20114,537154
+340,"McDowell County,West Virginia","Boone County,West Virginia",7201,119442
+341,"McDowell County,West Virginia","Braxton County,West Virginia",11202,224208
+342,"McDowell County,West Virginia","Brooke County,West Virginia",18870,465022
+343,"McDowell County,West Virginia","Cabell County,West Virginia",11360,210329
+344,"McDowell County,West Virginia","Calhoun County,West Virginia",12877,292125
+345,"McDowell County,West Virginia","Clay County,West Virginia",9867,187645
+346,"McDowell County,West Virginia","Doddridge County,West Virginia",14715,310084
+347,"McDowell County,West Virginia","Fayette County,West Virginia",7374,133382
+348,"McDowell County,West Virginia","Gilmer County,West Virginia",12770,273887
+349,"McDowell County,West Virginia","Grant County,West Virginia",18347,401692
+350,"McDowell County,West Virginia","Greenbrier County,West Virginia",9488,173183
+351,"McDowell County,West Virginia","Hampshire County,West Virginia",20233,508058
+352,"McDowell County,West Virginia","Hancock County,West Virginia",20496,492369
+353,"McDowell County,West Virginia","Hardy County,West Virginia",19461,409160
+354,"McDowell County,West Virginia","Harrison County,West Virginia",13745,319599
+355,"McDowell County,West Virginia","Jackson County,West Virginia",10761,246457
+356,"McDowell County,West Virginia","Jefferson County,West Virginia",20165,524560
+357,"McDowell County,West Virginia","Kanawha County,West Virginia",8524,168439
+358,"McDowell County,West Virginia","Lewis County,West Virginia",12374,273069
+359,"McDowell County,West Virginia","Lincoln County,West Virginia",9374,174141
+360,"McDowell County,West Virginia","Logan County,West Virginia",6075,110949
+361,"McDowell County,West Virginia","Marion County,West Virginia",14890,346766
+362,"McDowell County,West Virginia","Marshall County,West Virginia",18769,434142
+363,"McDowell County,West Virginia","Mason County,West Virginia",10917,252552
+364,"McDowell County,West Virginia","Mercer County,West Virginia",4948,84076
+365,"McDowell County,West Virginia","Mineral County,West Virginia",20561,463594
+366,"McDowell County,West Virginia","Mingo County,West Virginia",6794,120219
+367,"McDowell County,West Virginia","Monongalia County,West Virginia",15101,372235
+368,"McDowell County,West Virginia","Monroe County,West Virginia",7781,143005
+369,"McDowell County,West Virginia","Morgan County,West Virginia",20391,534712
+370,"McDowell County,West Virginia","Nicholas County,West Virginia",8820,174380
+371,"McDowell County,West Virginia","Ohio County,West Virginia",18401,479279
+372,"McDowell County,West Virginia","Pendleton County,West Virginia",16128,349417
+373,"McDowell County,West Virginia","Pleasants County,West Virginia",14243,344308
+374,"McDowell County,West Virginia","Pocahontas County,West Virginia",12568,253395
+375,"McDowell County,West Virginia","Preston County,West Virginia",17247,398966
+376,"McDowell County,West Virginia","Putnam County,West Virginia",9699,218171
+377,"McDowell County,West Virginia","Raleigh County,West Virginia",4935,84006
+378,"McDowell County,West Virginia","Randolph County,West Virginia",14876,335524
+379,"McDowell County,West Virginia","Ritchie County,West Virginia",14574,358012
+380,"McDowell County,West Virginia","Roane County,West Virginia",12386,275272
+381,"McDowell County,West Virginia","Summers County,West Virginia",7872,138544
+382,"McDowell County,West Virginia","Taylor County,West Virginia",14783,342339
+383,"McDowell County,West Virginia","Tucker County,West Virginia",15943,366048
+384,"McDowell County,West Virginia","Tyler County,West Virginia",16152,383924
+385,"McDowell County,West Virginia","Upshur County,West Virginia",13939,287766
+386,"McDowell County,West Virginia","Wayne County,West Virginia",10462,199275
+387,"McDowell County,West Virginia","Webster County,West Virginia",12164,231332
+388,"McDowell County,West Virginia","Wetzel County,West Virginia",16424,371081
+389,"McDowell County,West Virginia","Wirt County,West Virginia",13027,303794
+390,"McDowell County,West Virginia","Wood County,West Virginia",12542,305484
+391,"McDowell County,West Virginia","Wyoming County,West Virginia",2716,42251

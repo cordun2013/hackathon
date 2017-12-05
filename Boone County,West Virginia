@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Boone County,West Virginia","Adair County,Kentucky",18754,459100
+1,"Boone County,West Virginia","Allen County,Kentucky",21321,594086
+2,"Boone County,West Virginia","Anderson County,Kentucky",14502,396477
+3,"Boone County,West Virginia","Ballard County,Kentucky",27481,786249
+4,"Boone County,West Virginia","Barren County,Kentucky",20500,518128
+5,"Boone County,West Virginia","Bath County,Kentucky",10150,267659
+6,"Boone County,West Virginia","Bell County,Kentucky",14054,320020
+7,"Boone County,West Virginia","Boone County,Kentucky",15962,389052
+8,"Boone County,West Virginia","Bourbon County,Kentucky",12063,314076
+9,"Boone County,West Virginia","Boyd County,Kentucky",6825,161983
+10,"Boone County,West Virginia","Boyle County,Kentucky",15731,400364
+11,"Boone County,West Virginia","Bracken County,Kentucky",12474,308159
+12,"Boone County,West Virginia","Breathitt County,Kentucky",11852,257754
+13,"Boone County,West Virginia","Breckinridge County,Kentucky",20036,549159
+14,"Boone County,West Virginia","Bullitt County,Kentucky",16606,470278
+15,"Boone County,West Virginia","Butler County,Kentucky",20701,571156
+16,"Boone County,West Virginia","Caldwell County,Kentucky",23592,677102
+17,"Boone County,West Virginia","Calloway County,Kentucky",26402,762094
+18,"Boone County,West Virginia","Campbell County,Kentucky",14175,348030
+19,"Boone County,West Virginia","Carlisle County,Kentucky",27938,801617
+20,"Boone County,West Virginia","Carroll County,Kentucky",17047,444292
+21,"Boone County,West Virginia","Carter County,Kentucky",7990,192080
+22,"Boone County,West Virginia","Casey County,Kentucky",17226,431869
+23,"Boone County,West Virginia","Christian County,Kentucky",23241,672359
+24,"Boone County,West Virginia","Clay County,Kentucky",13281,314378
+25,"Boone County,West Virginia","Clinton County,Kentucky",19161,462466
+26,"Boone County,West Virginia","Crittenden County,Kentucky",25172,710172
+27,"Boone County,West Virginia","Cumberland County,Kentucky",19915,480705
+28,"Boone County,West Virginia","Daviess County,Kentucky",21723,617599
+29,"Boone County,West Virginia","Edmonson County,Kentucky",20141,559031
+30,"Boone County,West Virginia","Elliott County,Kentucky",9320,217850
+31,"Boone County,West Virginia","Estill County,Kentucky",13142,329974
+32,"Boone County,West Virginia","Fayette County,Kentucky",12309,333970
+33,"Boone County,West Virginia","Fleming County,Kentucky",10576,270844
+34,"Boone County,West Virginia","Floyd County,Kentucky",8205,187827
+35,"Boone County,West Virginia","Franklin County,Kentucky",14347,382887
+36,"Boone County,West Virginia","Fulton County,Kentucky",28342,822581
+37,"Boone County,West Virginia","Gallatin County,Kentucky",16045,434951
+38,"Boone County,West Virginia","Garrard County,Kentucky",14914,381124
+39,"Boone County,West Virginia","Grant County,Kentucky",14844,409058
+40,"Boone County,West Virginia","Graves County,Kentucky",26963,774323
+41,"Boone County,West Virginia","Grayson County,Kentucky",19028,527792
+42,"Boone County,West Virginia","Green County,Kentucky",18807,492998
+43,"Boone County,West Virginia","Greenup County,Kentucky",8601,203109
+44,"Boone County,West Virginia","Hancock County,Kentucky",20831,582052
+45,"Boone County,West Virginia","Hardin County,Kentucky",17904,489925
+46,"Boone County,West Virginia","Harlan County,Kentucky",13377,300336
+47,"Boone County,West Virginia","Harrison County,Kentucky",13634,347176
+48,"Boone County,West Virginia","Hart County,Kentucky",18703,517554
+49,"Boone County,West Virginia","Henderson County,Kentucky",23530,670029
+50,"Boone County,West Virginia","Henry County,Kentucky",15948,426605
+51,"Boone County,West Virginia","Hickman County,Kentucky",27971,802909
+52,"Boone County,West Virginia","Hopkins County,Kentucky",23051,651570
+53,"Boone County,West Virginia","Jackson County,Kentucky",14911,323480
+54,"Boone County,West Virginia","Jefferson County,Kentucky",16042,442139
+55,"Boone County,West Virginia","Jessamine County,Kentucky",13778,355434
+56,"Boone County,West Virginia","Johnson County,Kentucky",7792,168664
+57,"Boone County,West Virginia","Kenton County,Kentucky",15332,376746
+58,"Boone County,West Virginia","Knott County,Kentucky",9386,219709
+59,"Boone County,West Virginia","Knox County,Kentucky",14606,341033
+60,"Boone County,West Virginia","Larue County,Kentucky",17976,477101
+61,"Boone County,West Virginia","Laurel County,Kentucky",14883,351174
+62,"Boone County,West Virginia","Lawrence County,Kentucky",8332,174127
+63,"Boone County,West Virginia","Lee County,Kentucky",12285,273035
+64,"Boone County,West Virginia","Leslie County,Kentucky",12466,289382
+65,"Boone County,West Virginia","Letcher County,Kentucky",9562,220616
+66,"Boone County,West Virginia","Lewis County,Kentucky",10028,243898
+67,"Boone County,West Virginia","Lincoln County,Kentucky",15624,398042
+68,"Boone County,West Virginia","Livingston County,Kentucky",25768,727069
+69,"Boone County,West Virginia","Logan County,Kentucky",22441,614395
+70,"Boone County,West Virginia","Lyon County,Kentucky",25901,737459
+71,"Boone County,West Virginia","McCracken County,Kentucky",26093,754309
+72,"Boone County,West Virginia","McCreary County,Kentucky",17417,421588
+73,"Boone County,West Virginia","Madison County,Kentucky",13308,344993
+74,"Boone County,West Virginia","Magoffin County,Kentucky",8760,189343
+75,"Boone County,West Virginia","Marion County,Kentucky",16354,438710
+76,"Boone County,West Virginia","Marshall County,Kentucky",25508,737880
+77,"Boone County,West Virginia","Martin County,Kentucky",6791,130772
+78,"Boone County,West Virginia","Mason County,Kentucky",11823,287705
+79,"Boone County,West Virginia","Meade County,Kentucky",18503,514453
+80,"Boone County,West Virginia","Menifee County,Kentucky",11266,279722
+81,"Boone County,West Virginia","Mercer County,Kentucky",14730,394421
+82,"Boone County,West Virginia","Metcalfe County,Kentucky",19410,489365
+83,"Boone County,West Virginia","Monroe County,Kentucky",21380,526869
+84,"Boone County,West Virginia","Montgomery County,Kentucky",10963,286199
+85,"Boone County,West Virginia","Morgan County,Kentucky",10873,240529
+86,"Boone County,West Virginia","Muhlenberg County,Kentucky",21911,618046
+87,"Boone County,West Virginia","Nelson County,Kentucky",15961,437782
+88,"Boone County,West Virginia","Nicholas County,Kentucky",12641,314082
+89,"Boone County,West Virginia","Ohio County,Kentucky",20825,585636
+90,"Boone County,West Virginia","Oldham County,Kentucky",16114,454020
+91,"Boone County,West Virginia","Owen County,Kentucky",15169,409664
+92,"Boone County,West Virginia","Owsley County,Kentucky",13431,293012
+93,"Boone County,West Virginia","Pendleton County,Kentucky",14412,349083
+94,"Boone County,West Virginia","Perry County,Kentucky",10766,250266
+95,"Boone County,West Virginia","Pike County,Kentucky",6863,150733
+96,"Boone County,West Virginia","Powell County,Kentucky",12185,275512
+97,"Boone County,West Virginia","Robertson County,Kentucky",12558,313589
+98,"Boone County,West Virginia","Rockcastle County,Kentucky",14742,386136
+99,"Boone County,West Virginia","Rowan County,Kentucky",9292,239866
+100,"Boone County,West Virginia","Russell County,Kentucky",18359,443084
+101,"Boone County,West Virginia","Scott County,Kentucky",13144,361997
+102,"Boone County,West Virginia","Shelby County,Kentucky",14971,413273
+103,"Boone County,West Virginia","Simpson County,Kentucky",22022,622452
+104,"Boone County,West Virginia","Spencer County,Kentucky",15500,419121
+105,"Boone County,West Virginia","Taylor County,Kentucky",17643,470206
+106,"Boone County,West Virginia","Todd County,Kentucky",23677,638555
+107,"Boone County,West Virginia","Trigg County,Kentucky",24655,698288
+108,"Boone County,West Virginia","Trimble County,Kentucky",17187,460060
+109,"Boone County,West Virginia","Union County,Kentucky",25250,700475
+110,"Boone County,West Virginia","Warren County,Kentucky",21057,587400
+111,"Boone County,West Virginia","Washington County,Kentucky",15971,423018
+112,"Boone County,West Virginia","Wayne County,Kentucky",18535,440157
+113,"Boone County,West Virginia","Webster County,Kentucky",24160,679659
+114,"Boone County,West Virginia","Whitley County,Kentucky",15781,385674
+115,"Boone County,West Virginia","Wolfe County,Kentucky",10788,241280
+116,"Boone County,West Virginia","Woodford County,Kentucky",13363,364633
+117,"Boone County,West Virginia","Adams County,Ohio",11916,290261
+118,"Boone County,West Virginia","Allen County,Ohio",18648,465678
+119,"Boone County,West Virginia","Ashland County,Ohio",16728,431427
+120,"Boone County,West Virginia","Ashtabula County,Ohio",19415,552325
+121,"Boone County,West Virginia","Athens County,Ohio",8659,207718
+122,"Boone County,West Virginia","Auglaize County,Ohio",17898,482378
+123,"Boone County,West Virginia","Belmont County,Ohio",12478,341249
+124,"Boone County,West Virginia","Brown County,Ohio",13160,317189
+125,"Boone County,West Virginia","Butler County,Ohio",16273,399214
+126,"Boone County,West Virginia","Carroll County,Ohio",14408,378135
+127,"Boone County,West Virginia","Champaign County,Ohio",15202,384476
+128,"Boone County,West Virginia","Clark County,Ohio",13881,344020
+129,"Boone County,West Virginia","Clermont County,Ohio",13994,348285
+130,"Boone County,West Virginia","Clinton County,Ohio",13385,331701
+131,"Boone County,West Virginia","Columbiana County,Ohio",16250,432371
+132,"Boone County,West Virginia","Coshocton County,Ohio",13043,349252
+133,"Boone County,West Virginia","Crawford County,Ohio",17330,425824
+134,"Boone County,West Virginia","Cuyahoga County,Ohio",16444,463540
+135,"Boone County,West Virginia","Darke County,Ohio",16996,439425
+136,"Boone County,West Virginia","Defiance County,Ohio",22084,543999
+137,"Boone County,West Virginia","Delaware County,Ohio",14489,375324
+138,"Boone County,West Virginia","Fairfield County,Ohio",12020,302419
+139,"Boone County,West Virginia","Fayette County,Ohio",11949,302165
+140,"Boone County,West Virginia","Franklin County,Ohio",13020,332273
+141,"Boone County,West Virginia","Fulton County,Ohio",22421,581393
+142,"Boone County,West Virginia","Gallia County,Ohio",7262,161277
+143,"Boone County,West Virginia","Geauga County,Ohio",17516,489257
+144,"Boone County,West Virginia","Greene County,Ohio",12819,335318
+145,"Boone County,West Virginia","Guernsey County,Ohio",10594,287171
+146,"Boone County,West Virginia","Hamilton County,Ohio",15774,409792
+147,"Boone County,West Virginia","Hancock County,Ohio",18507,466916
+148,"Boone County,West Virginia","Hardin County,Ohio",17159,421508
+149,"Boone County,West Virginia","Harrison County,Ohio",13414,360201
+150,"Boone County,West Virginia","Henry County,Ohio",21220,538538
+151,"Boone County,West Virginia","Highland County,Ohio",12453,290275
+152,"Boone County,West Virginia","Hocking County,Ohio",10462,258382
+153,"Boone County,West Virginia","Holmes County,Ohio",14102,372136
+154,"Boone County,West Virginia","Huron County,Ohio",18625,473056
+155,"Boone County,West Virginia","Jackson County,Ohio",8440,200826
+156,"Boone County,West Virginia","Jefferson County,Ohio",14407,369979
+157,"Boone County,West Virginia","Knox County,Ohio",14832,391728
+158,"Boone County,West Virginia","Lawrence County,Ohio",7965,167040
+159,"Boone County,West Virginia","Licking County,Ohio",13965,329428
+160,"Boone County,West Virginia","Logan County,Ohio",16180,415785
+161,"Boone County,West Virginia","Lorain County,Ohio",17668,493363
+162,"Boone County,West Virginia","Lucas County,Ohio",22142,554416
+163,"Boone County,West Virginia","Madison County,Ohio",13650,325250
+164,"Boone County,West Virginia","Mahoning County,Ohio",16745,447176
+165,"Boone County,West Virginia","Marion County,Ohio",15890,384654
+166,"Boone County,West Virginia","Medina County,Ohio",16117,449570
+167,"Boone County,West Virginia","Meigs County,Ohio",7540,178688
+168,"Boone County,West Virginia","Mercer County,Ohio",19134,509312
+169,"Boone County,West Virginia","Miami County,Ohio",15484,404817
+170,"Boone County,West Virginia","Monroe County,Ohio",11530,276363
+171,"Boone County,West Virginia","Montgomery County,Ohio",14854,382773
+172,"Boone County,West Virginia","Morgan County,Ohio",10535,263011
+173,"Boone County,West Virginia","Morrow County,Ohio",15297,398145
+174,"Boone County,West Virginia","Muskingum County,Ohio",11440,315163
+175,"Boone County,West Virginia","Noble County,Ohio",10035,259523
+176,"Boone County,West Virginia","Paulding County,Ohio",21185,541584
+177,"Boone County,West Virginia","Perry County,Ohio",11877,273138
+178,"Boone County,West Virginia","Pickaway County,Ohio",11389,282264
+179,"Boone County,West Virginia","Pike County,Ohio",9886,240133
+180,"Boone County,West Virginia","Portage County,Ohio",15966,445121
+181,"Boone County,West Virginia","Preble County,Ohio",16473,411351
+182,"Boone County,West Virginia","Putnam County,Ohio",19771,498037
+183,"Boone County,West Virginia","Richland County,Ohio",16326,433384
+184,"Boone County,West Virginia","Ross County,Ohio",10134,248570
+185,"Boone County,West Virginia","Sandusky County,Ohio",20263,485611
+186,"Boone County,West Virginia","Scioto County,Ohio",9770,224313
+187,"Boone County,West Virginia","Seneca County,Ohio",18881,459496
+188,"Boone County,West Virginia","Shelby County,Ohio",16523,441103
+189,"Boone County,West Virginia","Stark County,Ohio",14267,393370
+190,"Boone County,West Virginia","Summit County,Ohio",15025,419159
+191,"Boone County,West Virginia","Trumbull County,Ohio",17700,473423
+192,"Boone County,West Virginia","Tuscarawas County,Ohio",12468,333958
+193,"Boone County,West Virginia","Union County,Ohio",14684,366016
+194,"Boone County,West Virginia","Van Wert County,Ohio",19882,508548
+195,"Boone County,West Virginia","Vinton County,Ohio",10335,226331
+196,"Boone County,West Virginia","Warren County,Ohio",14191,365760
+197,"Boone County,West Virginia","Washington County,Ohio",8894,217459
+198,"Boone County,West Virginia","Wayne County,Ohio",15238,396249
+199,"Boone County,West Virginia","Williams County,Ohio",23261,567516
+200,"Boone County,West Virginia","Wood County,Ohio",19905,508524
+201,"Boone County,West Virginia","Wyandot County,Ohio",17477,431052
+202,"Boone County,West Virginia","Accomack County,Virginia",28338,763397
+203,"Boone County,West Virginia","Albemarle County,Virginia",14488,375897
+204,"Boone County,West Virginia","Alleghany County,Virginia",9157,212920
+205,"Boone County,West Virginia","Amelia County,Virginia",19189,476015
+206,"Boone County,West Virginia","Amherst County,Virginia",14486,343886
+207,"Boone County,West Virginia","Appomattox County,Virginia",16079,382645
+208,"Boone County,West Virginia","Arlington County,Virginia",21172,576206
+209,"Boone County,West Virginia","Augusta County,Virginia",13099,314237
+210,"Boone County,West Virginia","Bath County,Virginia",12169,288230
+211,"Boone County,West Virginia","Bedford County,Virginia",14746,330011
+212,"Boone County,West Virginia","Bland County,Virginia",8119,179140
+213,"Boone County,West Virginia","Botetourt County,Virginia",12311,284219
+214,"Boone County,West Virginia","Brunswick County,Virginia",21732,525688
+215,"Boone County,West Virginia","Buchanan County,Virginia",10383,164120
+216,"Boone County,West Virginia","Buckingham County,Virginia",16362,393580
+217,"Boone County,West Virginia","Campbell County,Virginia",16003,385117
+218,"Boone County,West Virginia","Caroline County,Virginia",19827,544743
+219,"Boone County,West Virginia","Carroll County,Virginia",10365,248577
+220,"Boone County,West Virginia","Charles City County,Virginia",19928,541777
+221,"Boone County,West Virginia","Charlotte County,Virginia",17964,436166
+222,"Boone County,West Virginia","Chesterfield County,Virginia",19064,519561
+223,"Boone County,West Virginia","Clarke County,Virginia",18668,502955
+224,"Boone County,West Virginia","Craig County,Virginia",10800,234005
+225,"Boone County,West Virginia","Culpeper County,Virginia",18285,465114
+226,"Boone County,West Virginia","Cumberland County,Virginia",17571,421583
+227,"Boone County,West Virginia","Dickenson County,Virginia",10962,240694
+228,"Boone County,West Virginia","Dinwiddie County,Virginia",20811,569993
+229,"Boone County,West Virginia","Essex County,Virginia",21645,568785
+230,"Boone County,West Virginia","Fairfax County,Virginia",20795,566482
+231,"Boone County,West Virginia","Fauquier County,Virginia",19106,524206
+232,"Boone County,West Virginia","Floyd County,Virginia",11985,267541
+233,"Boone County,West Virginia","Fluvanna County,Virginia",16166,428069
+234,"Boone County,West Virginia","Franklin County,Virginia",14258,331244
+235,"Boone County,West Virginia","Frederick County,Virginia",18120,490682
+236,"Boone County,West Virginia","Giles County,Virginia",8850,190698
+237,"Boone County,West Virginia","Gloucester County,Virginia",22098,595966
+238,"Boone County,West Virginia","Goochland County,Virginia",17069,458680
+239,"Boone County,West Virginia","Grayson County,Virginia",10767,238284
+240,"Boone County,West Virginia","Greene County,Virginia",16481,411481
+241,"Boone County,West Virginia","Greensville County,Virginia",22227,618744
+242,"Boone County,West Virginia","Halifax County,Virginia",18668,446264
+243,"Boone County,West Virginia","Hanover County,Virginia",18276,499786
+244,"Boone County,West Virginia","Henrico County,Virginia",18787,512746
+245,"Boone County,West Virginia","Henry County,Virginia",14238,335298
+246,"Boone County,West Virginia","Highland County,Virginia",13613,298200
+247,"Boone County,West Virginia","Isle of Wight County,Virginia",23039,617323
+248,"Boone County,West Virginia","James City County,Virginia",21164,582548
+249,"Boone County,West Virginia","King and Queen County,Virginia",20822,558132
+250,"Boone County,West Virginia","King George County,Virginia",20940,572729
+251,"Boone County,West Virginia","King William County,Virginia",19509,528054
+252,"Boone County,West Virginia","Lancaster County,Virginia",23302,611140
+253,"Boone County,West Virginia","Lee County,Virginia",12262,289210
+254,"Boone County,West Virginia","Loudoun County,Virginia",20163,538822
+255,"Boone County,West Virginia","Louisa County,Virginia",16727,441775
+256,"Boone County,West Virginia","Lunenburg County,Virginia",19736,477450
+257,"Boone County,West Virginia","Madison County,Virginia",17401,441222
+258,"Boone County,West Virginia","Mathews County,Virginia",22923,619389
+259,"Boone County,West Virginia","Mecklenburg County,Virginia",20727,490574
+260,"Boone County,West Virginia","Middlesex County,Virginia",21700,592166
+261,"Boone County,West Virginia","Montgomery County,Virginia",9933,218705
+262,"Boone County,West Virginia","Nelson County,Virginia",15027,355577
+263,"Boone County,West Virginia","New Kent County,Virginia",20600,556462
+264,"Boone County,West Virginia","Northampton County,Virginia",25581,699212
+265,"Boone County,West Virginia","Northumberland County,Virginia",23342,609652
+266,"Boone County,West Virginia","Nottoway County,Virginia",19229,477829
+267,"Boone County,West Virginia","Orange County,Virginia",17689,449882
+268,"Boone County,West Virginia","Page County,Virginia",16334,425007
+269,"Boone County,West Virginia","Patrick County,Virginia",12470,293613
+270,"Boone County,West Virginia","Pittsylvania County,Virginia",16554,389506
+271,"Boone County,West Virginia","Powhatan County,Virginia",18323,483901
+272,"Boone County,West Virginia","Prince Edward County,Virginia",17844,435165
+273,"Boone County,West Virginia","Prince George County,Virginia",20574,556576
+274,"Boone County,West Virginia","Prince William County,Virginia",19206,530310
+275,"Boone County,West Virginia","Pulaski County,Virginia",10028,215036
+276,"Boone County,West Virginia","Rappahannock County,Virginia",18165,461494
+277,"Boone County,West Virginia","Richmond County,Virginia",22042,582295
+278,"Boone County,West Virginia","Roanoke County,Virginia",11552,261498
+279,"Boone County,West Virginia","Rockbridge County,Virginia",11490,281276
+280,"Boone County,West Virginia","Rockingham County,Virginia",15373,397357
+281,"Boone County,West Virginia","Russell County,Virginia",12194,197826
+282,"Boone County,West Virginia","Scott County,Virginia",12438,288147
+283,"Boone County,West Virginia","Shenandoah County,Virginia",15878,427461
+284,"Boone County,West Virginia","Smyth County,Virginia",10477,244492
+285,"Boone County,West Virginia","Southampton County,Virginia",22605,614858
+286,"Boone County,West Virginia","Spotsylvania County,Virginia",18743,483613
+287,"Boone County,West Virginia","Stafford County,Virginia",20124,507906
+288,"Boone County,West Virginia","Surry County,Virginia",21907,581410
+289,"Boone County,West Virginia","Sussex County,Virginia",21269,585101
+290,"Boone County,West Virginia","Tazewell County,Virginia",8934,197727
+291,"Boone County,West Virginia","Warren County,Virginia",17780,472053
+292,"Boone County,West Virginia","Washington County,Virginia",11870,283958
+293,"Boone County,West Virginia","Westmoreland County,Virginia",21914,589554
+294,"Boone County,West Virginia","Wise County,Virginia",9227,216593
+295,"Boone County,West Virginia","Wythe County,Virginia",8724,197357
+296,"Boone County,West Virginia","York County,Virginia",22451,613323
+297,"Boone County,West Virginia","Alexandria City County,Virginia",21375,588853
+298,"Boone County,West Virginia","Bedford City County,Virginia",13910,321442
+299,"Boone County,West Virginia","Bristol City County,Virginia",12345,309675
+300,"Boone County,West Virginia","Buena Vista City County,Virginia",11845,295254
+301,"Boone County,West Virginia","Charlottesville City County,Virginia",14957,391112
+302,"Boone County,West Virginia","Chesapeake City County,Virginia",23914,666228
+303,"Boone County,West Virginia","Clifton Forge City County,Virginia",9701,233127
+304,"Boone County,West Virginia","Colonial Heights City County,Virginia",19623,535453
+305,"Boone County,West Virginia","Covington City County,Virginia",9226,216505
+306,"Boone County,West Virginia","Danville City County,Virginia",16395,389754
+307,"Boone County,West Virginia","Emporia City County,Virginia",21934,605338
+308,"Boone County,West Virginia","Fairfax City County,Virginia",20338,556058
+309,"Boone County,West Virginia","Falls Church City County,Virginia",20670,570530
+310,"Boone County,West Virginia","Franklin City County,Virginia",23152,622713
+311,"Boone County,West Virginia","Fredericksburg City County,Virginia",19876,493273
+312,"Boone County,West Virginia","Galax City County,Virginia",10988,254443
+313,"Boone County,West Virginia","Hampton City County,Virginia",22401,623029
+314,"Boone County,West Virginia","Harrisonburg City County,Virginia",14433,377253
+315,"Boone County,West Virginia","Hopewell City County,Virginia",19660,534420
+316,"Boone County,West Virginia","Lexington City County,Virginia",11479,283745
+317,"Boone County,West Virginia","Lynchburg City County,Virginia",15062,358859
+318,"Boone County,West Virginia","Manassas City County,Virginia",19433,535255
+319,"Boone County,West Virginia","Manassas Park City County,Virginia",19935,541598
+320,"Boone County,West Virginia","Martinsville City County,Virginia",14765,344091
+321,"Boone County,West Virginia","Newport News City County,Virginia",21958,609515
+322,"Boone County,West Virginia","Norfolk City County,Virginia",23708,648445
+323,"Boone County,West Virginia","Norton City County,Virginia",9855,228405
+324,"Boone County,West Virginia","Petersburg City County,Virginia",19495,536441
+325,"Boone County,West Virginia","Poquoson City County,Virginia",22630,620091
+326,"Boone County,West Virginia","Portsmouth City County,Virginia",23647,657266
+327,"Boone County,West Virginia","Radford County,Virginia",10340,216745
+328,"Boone County,West Virginia","Richmond City County,Virginia",18363,500556
+329,"Boone County,West Virginia","Roanoke City County,Virginia",12154,281603
+330,"Boone County,West Virginia","Salem City County,Virginia",11566,268153
+331,"Boone County,West Virginia","South Boston City County,Virginia",18408,443932
+332,"Boone County,West Virginia","Staunton City County,Virginia",13250,338388
+333,"Boone County,West Virginia","Suffolk City County,Virginia",23882,632047
+334,"Boone County,West Virginia","Virginia Beach City County,Virginia",24269,671703
+335,"Boone County,West Virginia","Waynesboro City County,Virginia",13588,351107
+336,"Boone County,West Virginia","Williamsburg City County,Virginia",21002,581764
+337,"Boone County,West Virginia","Winchester City County,Virginia",17999,486825
+338,"Boone County,West Virginia","Barbour County,West Virginia",11440,288917
+339,"Boone County,West Virginia","Berkeley County,West Virginia",19373,527076
+340,"Boone County,West Virginia","Braxton County,West Virginia",8130,179896
+341,"Boone County,West Virginia","Brooke County,West Virginia",14557,383497
+342,"Boone County,West Virginia","Cabell County,West Virginia",6281,140244
+343,"Boone County,West Virginia","Calhoun County,West Virginia",8051,177581
+344,"Boone County,West Virginia","Clay County,West Virginia",6897,150809
+345,"Boone County,West Virginia","Doddridge County,West Virginia",10584,270426
+346,"Boone County,West Virginia","Fayette County,West Virginia",6799,123370
+347,"Boone County,West Virginia","Gilmer County,West Virginia",9329,202083
+348,"Boone County,West Virginia","Grant County,West Virginia",15796,390462
+349,"Boone County,West Virginia","Greenbrier County,West Virginia",9111,170062
+350,"Boone County,West Virginia","Hampshire County,West Virginia",18628,488680
+351,"Boone County,West Virginia","Hancock County,West Virginia",16147,418033
+352,"Boone County,West Virginia","Hardy County,West Virginia",16851,421959
+353,"Boone County,West Virginia","Harrison County,West Virginia",10674,275287
+354,"Boone County,West Virginia","Jackson County,West Virginia",5935,131912
+355,"Boone County,West Virginia","Jefferson County,West Virginia",19788,521439
+356,"Boone County,West Virginia","Kanawha County,West Virginia",4905,80655
+357,"Boone County,West Virginia","Lewis County,West Virginia",9303,228758
+358,"Boone County,West Virginia","Lincoln County,West Virginia",4383,62844
+359,"Boone County,West Virginia","Logan County,West Virginia",3967,76999
+360,"Boone County,West Virginia","McDowell County,West Virginia",6987,119349
+361,"Boone County,West Virginia","Marion County,West Virginia",11819,302455
+362,"Boone County,West Virginia","Marshall County,West Virginia",13944,319598
+363,"Boone County,West Virginia","Mason County,West Virginia",5757,126151
+364,"Boone County,West Virginia","Mercer County,West Virginia",6672,137646
+365,"Boone County,West Virginia","Mineral County,West Virginia",17490,419283
+366,"Boone County,West Virginia","Mingo County,West Virginia",4012,81507
+367,"Boone County,West Virginia","Monongalia County,West Virginia",12030,327923
+368,"Boone County,West Virginia","Monroe County,West Virginia",9718,182358
+369,"Boone County,West Virginia","Morgan County,West Virginia",18865,516468
+370,"Boone County,West Virginia","Nicholas County,West Virginia",8245,164368
+371,"Boone County,West Virginia","Ohio County,West Virginia",13576,364735
+372,"Boone County,West Virginia","Pendleton County,West Virginia",15751,346296
+373,"Boone County,West Virginia","Pleasants County,West Virginia",9418,229764
+374,"Boone County,West Virginia","Pocahontas County,West Virginia",12191,250274
+375,"Boone County,West Virginia","Preston County,West Virginia",14176,354654
+376,"Boone County,West Virginia","Putnam County,West Virginia",4538,91769
+377,"Boone County,West Virginia","Raleigh County,West Virginia",4436,76373
+378,"Boone County,West Virginia","Randolph County,West Virginia",11805,291212
+379,"Boone County,West Virginia","Ritchie County,West Virginia",9749,243468
+380,"Boone County,West Virginia","Roane County,West Virginia",7561,160728
+381,"Boone County,West Virginia","Summers County,West Virginia",8666,152777
+382,"Boone County,West Virginia","Taylor County,West Virginia",11712,298027
+383,"Boone County,West Virginia","Tucker County,West Virginia",12872,321737
+384,"Boone County,West Virginia","Tyler County,West Virginia",11327,269379
+385,"Boone County,West Virginia","Upshur County,West Virginia",10868,243455
+386,"Boone County,West Virginia","Wayne County,West Virginia",6621,110415
+387,"Boone County,West Virginia","Webster County,West Virginia",10798,237769
+388,"Boone County,West Virginia","Wetzel County,West Virginia",12539,291286
+389,"Boone County,West Virginia","Wirt County,West Virginia",8202,189250
+390,"Boone County,West Virginia","Wood County,West Virginia",7716,190940
+391,"Boone County,West Virginia","Wyoming County,West Virginia",4444,77261

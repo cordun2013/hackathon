@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Harrisonburg City County,Virginia","Adair County,Kentucky",28720,761472
+1,"Harrisonburg City County,Virginia","Allen County,Kentucky",30116,881281
+2,"Harrisonburg City County,Virginia","Anderson County,Kentucky",24348,724257
+3,"Harrisonburg City County,Virginia","Ballard County,Kentucky",37021,1116536
+4,"Harrisonburg City County,Virginia","Barren County,Kentucky",29905,840227
+5,"Harrisonburg City County,Virginia","Bath County,Kentucky",19995,595438
+6,"Harrisonburg City County,Virginia","Bell County,Kentucky",21215,562778
+7,"Harrisonburg City County,Virginia","Boone County,Kentucky",25808,716831
+8,"Harrisonburg City County,Virginia","Bourbon County,Kentucky",21909,641855
+9,"Harrisonburg City County,Virginia","Boyd County,Kentucky",16671,489763
+10,"Harrisonburg City County,Virginia","Boyle County,Kentucky",25577,728143
+11,"Harrisonburg City County,Virginia","Bracken County,Kentucky",22320,635938
+12,"Harrisonburg City County,Virginia","Breathitt County,Kentucky",22840,598541
+13,"Harrisonburg City County,Virginia","Breckinridge County,Kentucky",29881,876938
+14,"Harrisonburg City County,Virginia","Bullitt County,Kentucky",26451,798057
+15,"Harrisonburg City County,Virginia","Butler County,Kentucky",30546,898936
+16,"Harrisonburg City County,Virginia","Caldwell County,Kentucky",33438,1004881
+17,"Harrisonburg City County,Virginia","Calloway County,Kentucky",34861,1048396
+18,"Harrisonburg City County,Virginia","Campbell County,Kentucky",24020,675810
+19,"Harrisonburg City County,Virginia","Carlisle County,Kentucky",37478,1131905
+20,"Harrisonburg City County,Virginia","Carroll County,Kentucky",26892,772071
+21,"Harrisonburg City County,Virginia","Carter County,Kentucky",17835,519860
+22,"Harrisonburg City County,Virginia","Casey County,Kentucky",27071,759648
+23,"Harrisonburg City County,Virginia","Christian County,Kentucky",31754,969375
+24,"Harrisonburg City County,Virginia","Clay County,Kentucky",23788,623120
+25,"Harrisonburg City County,Virginia","Clinton County,Kentucky",27163,760686
+26,"Harrisonburg City County,Virginia","Crittenden County,Kentucky",35018,1037952
+27,"Harrisonburg City County,Virginia","Cumberland County,Kentucky",28043,781355
+28,"Harrisonburg City County,Virginia","Daviess County,Kentucky",31569,945378
+29,"Harrisonburg City County,Virginia","Edmonson County,Kentucky",29986,886811
+30,"Harrisonburg City County,Virginia","Elliott County,Kentucky",19166,545630
+31,"Harrisonburg City County,Virginia","Estill County,Kentucky",22988,657753
+32,"Harrisonburg City County,Virginia","Fayette County,Kentucky",22155,661750
+33,"Harrisonburg City County,Virginia","Fleming County,Kentucky",20421,598624
+34,"Harrisonburg City County,Virginia","Floyd County,Kentucky",20804,597028
+35,"Harrisonburg City County,Virginia","Franklin County,Kentucky",24193,710666
+36,"Harrisonburg City County,Virginia","Fulton County,Kentucky",37882,1152869
+37,"Harrisonburg City County,Virginia","Gallatin County,Kentucky",25890,762730
+38,"Harrisonburg City County,Virginia","Garrard County,Kentucky",24760,708903
+39,"Harrisonburg City County,Virginia","Grant County,Kentucky",24689,736837
+40,"Harrisonburg City County,Virginia","Graves County,Kentucky",36502,1104611
+41,"Harrisonburg City County,Virginia","Grayson County,Kentucky",28873,855572
+42,"Harrisonburg City County,Virginia","Green County,Kentucky",28653,820777
+43,"Harrisonburg City County,Virginia","Greenup County,Kentucky",18446,530889
+44,"Harrisonburg City County,Virginia","Hancock County,Kentucky",30677,909831
+45,"Harrisonburg City County,Virginia","Hardin County,Kentucky",27750,817705
+46,"Harrisonburg City County,Virginia","Harlan County,Kentucky",20290,539405
+47,"Harrisonburg City County,Virginia","Harrison County,Kentucky",23480,674955
+48,"Harrisonburg City County,Virginia","Hart County,Kentucky",28549,845333
+49,"Harrisonburg City County,Virginia","Henderson County,Kentucky",33376,997808
+50,"Harrisonburg City County,Virginia","Henry County,Kentucky",25794,754385
+51,"Harrisonburg City County,Virginia","Hickman County,Kentucky",37511,1133196
+52,"Harrisonburg City County,Virginia","Hopkins County,Kentucky",32897,979349
+53,"Harrisonburg City County,Virginia","Jackson County,Kentucky",25660,659539
+54,"Harrisonburg City County,Virginia","Jefferson County,Kentucky",25888,769918
+55,"Harrisonburg City County,Virginia","Jessamine County,Kentucky",23624,683214
+56,"Harrisonburg City County,Virginia","Johnson County,Kentucky",19452,562659
+57,"Harrisonburg City County,Virginia","Kenton County,Kentucky",25177,704525
+58,"Harrisonburg City County,Virginia","Knott County,Kentucky",20380,541291
+59,"Harrisonburg City County,Virginia","Knox County,Kentucky",22545,604770
+60,"Harrisonburg City County,Virginia","Larue County,Kentucky",27821,804880
+61,"Harrisonburg City County,Virginia","Laurel County,Kentucky",24440,639598
+62,"Harrisonburg City County,Virginia","Lawrence County,Kentucky",18594,534083
+63,"Harrisonburg City County,Virginia","Lee County,Kentucky",23832,651490
+64,"Harrisonburg City County,Virginia","Leslie County,Kentucky",21752,567684
+65,"Harrisonburg City County,Virginia","Letcher County,Kentucky",18780,504838
+66,"Harrisonburg City County,Virginia","Lewis County,Kentucky",19874,571677
+67,"Harrisonburg City County,Virginia","Lincoln County,Kentucky",25470,725821
+68,"Harrisonburg City County,Virginia","Livingston County,Kentucky",35352,1070475
+69,"Harrisonburg City County,Virginia","Logan County,Kentucky",32186,922276
+70,"Harrisonburg City County,Virginia","Lyon County,Kentucky",35108,1047649
+71,"Harrisonburg City County,Virginia","McCracken County,Kentucky",35633,1084596
+72,"Harrisonburg City County,Virginia","McCreary County,Kentucky",24170,697532
+73,"Harrisonburg City County,Virginia","Madison County,Kentucky",23153,672773
+74,"Harrisonburg City County,Virginia","Magoffin County,Kentucky",20420,583338
+75,"Harrisonburg City County,Virginia","Marion County,Kentucky",26199,766489
+76,"Harrisonburg City County,Virginia","Marshall County,Kentucky",35047,1068168
+77,"Harrisonburg City County,Virginia","Martin County,Kentucky",19708,515806
+78,"Harrisonburg City County,Virginia","Mason County,Kentucky",21669,615484
+79,"Harrisonburg City County,Virginia","Meade County,Kentucky",28348,842233
+80,"Harrisonburg City County,Virginia","Menifee County,Kentucky",21111,607502
+81,"Harrisonburg City County,Virginia","Mercer County,Kentucky",24575,722201
+82,"Harrisonburg City County,Virginia","Metcalfe County,Kentucky",29376,791736
+83,"Harrisonburg City County,Virginia","Monroe County,Kentucky",28604,811776
+84,"Harrisonburg City County,Virginia","Montgomery County,Kentucky",20808,613978
+85,"Harrisonburg City County,Virginia","Morgan County,Kentucky",20890,583217
+86,"Harrisonburg City County,Virginia","Muhlenberg County,Kentucky",31757,945825
+87,"Harrisonburg City County,Virginia","Nelson County,Kentucky",25807,765561
+88,"Harrisonburg City County,Virginia","Nicholas County,Kentucky",22486,641862
+89,"Harrisonburg City County,Virginia","Ohio County,Kentucky",30670,913415
+90,"Harrisonburg City County,Virginia","Oldham County,Kentucky",25959,781799
+91,"Harrisonburg City County,Virginia","Owen County,Kentucky",25014,737443
+92,"Harrisonburg City County,Virginia","Owsley County,Kentucky",24977,636416
+93,"Harrisonburg City County,Virginia","Pendleton County,Kentucky",24257,676862
+94,"Harrisonburg City County,Virginia","Perry County,Kentucky",21354,561714
+95,"Harrisonburg City County,Virginia","Pike County,Kentucky",19903,481053
+96,"Harrisonburg City County,Virginia","Powell County,Kentucky",22252,643724
+97,"Harrisonburg City County,Virginia","Robertson County,Kentucky",22404,641368
+98,"Harrisonburg City County,Virginia","Rockcastle County,Kentucky",24587,713915
+99,"Harrisonburg City County,Virginia","Rowan County,Kentucky",19138,567645
+100,"Harrisonburg City County,Virginia","Russell County,Kentucky",28325,745455
+101,"Harrisonburg City County,Virginia","Scott County,Kentucky",22989,689777
+102,"Harrisonburg City County,Virginia","Shelby County,Kentucky",24816,741053
+103,"Harrisonburg City County,Virginia","Simpson County,Kentucky",31153,898251
+104,"Harrisonburg City County,Virginia","Spencer County,Kentucky",25346,746901
+105,"Harrisonburg City County,Virginia","Taylor County,Kentucky",27488,797985
+106,"Harrisonburg City County,Virginia","Todd County,Kentucky",32170,962322
+107,"Harrisonburg City County,Virginia","Trigg County,Kentucky",32661,986734
+108,"Harrisonburg City County,Virginia","Trimble County,Kentucky",27033,787839
+109,"Harrisonburg City County,Virginia","Union County,Kentucky",35095,1028254
+110,"Harrisonburg City County,Virginia","Warren County,Kentucky",30902,915180
+111,"Harrisonburg City County,Virginia","Washington County,Kentucky",25817,750797
+112,"Harrisonburg City County,Virginia","Wayne County,Kentucky",26674,744663
+113,"Harrisonburg City County,Virginia","Webster County,Kentucky",34006,1007438
+114,"Harrisonburg City County,Virginia","Whitley County,Kentucky",22774,682295
+115,"Harrisonburg City County,Virginia","Wolfe County,Kentucky",21984,606579
+116,"Harrisonburg City County,Virginia","Woodford County,Kentucky",23209,692413
+117,"Harrisonburg City County,Virginia","Adams County,Ohio",21761,618041
+118,"Harrisonburg City County,Virginia","Allen County,Ohio",28509,711389
+119,"Harrisonburg City County,Virginia","Ashland County,Ohio",23777,659178
+120,"Harrisonburg City County,Virginia","Ashtabula County,Ohio",21815,615090
+121,"Harrisonburg City County,Virginia","Athens County,Ohio",18446,441261
+122,"Harrisonburg City County,Virginia","Auglaize County,Ohio",27743,810158
+123,"Harrisonburg City County,Virginia","Belmont County,Ohio",16688,424653
+124,"Harrisonburg City County,Virginia","Brown County,Ohio",23006,644968
+125,"Harrisonburg City County,Virginia","Butler County,Ohio",26119,726994
+126,"Harrisonburg City County,Virginia","Carroll County,Ohio",19633,460511
+127,"Harrisonburg City County,Virginia","Champaign County,Ohio",25047,712255
+128,"Harrisonburg City County,Virginia","Clark County,Ohio",23726,671800
+129,"Harrisonburg City County,Virginia","Clermont County,Ohio",23840,676064
+130,"Harrisonburg City County,Virginia","Clinton County,Ohio",23231,659481
+131,"Harrisonburg City County,Virginia","Columbiana County,Ohio",18842,449032
+132,"Harrisonburg City County,Virginia","Coshocton County,Ohio",21045,550102
+133,"Harrisonburg City County,Virginia","Crawford County,Ohio",25686,730372
+134,"Harrisonburg City County,Virginia","Cuyahoga County,Ohio",21811,612934
+135,"Harrisonburg City County,Virginia","Darke County,Ohio",26841,767204
+136,"Harrisonburg City County,Virginia","Defiance County,Ohio",30130,861898
+137,"Harrisonburg City County,Virginia","Delaware County,Ohio",24099,604107
+138,"Harrisonburg City County,Virginia","Fairfield County,Ohio",21629,531201
+139,"Harrisonburg City County,Virginia","Fayette County,Ohio",21794,629945
+140,"Harrisonburg City County,Virginia","Franklin County,Ohio",22629,561056
+141,"Harrisonburg City County,Virginia","Fulton County,Ohio",28482,818749
+142,"Harrisonburg City County,Virginia","Gallia County,Ohio",17108,489056
+143,"Harrisonburg City County,Virginia","Geauga County,Ohio",21305,587753
+144,"Harrisonburg City County,Virginia","Greene County,Ohio",22665,663097
+145,"Harrisonburg City County,Virginia","Guernsey County,Ohio",18592,488162
+146,"Harrisonburg City County,Virginia","Hamilton County,Ohio",25620,737571
+147,"Harrisonburg City County,Virginia","Hancock County,Ohio",27716,792453
+148,"Harrisonburg City County,Virginia","Hardin County,Ohio",27020,667218
+149,"Harrisonburg City County,Virginia","Harrison County,Ohio",18649,463367
+150,"Harrisonburg City County,Virginia","Henry County,Ohio",28936,808516
+151,"Harrisonburg City County,Virginia","Highland County,Ohio",22298,618054
+152,"Harrisonburg City County,Virginia","Hocking County,Ohio",20071,487164
+153,"Harrisonburg City County,Virginia","Holmes County,Ohio",22104,572987
+154,"Harrisonburg City County,Virginia","Huron County,Ohio",25054,688784
+155,"Harrisonburg City County,Virginia","Jackson County,Ohio",18285,528605
+156,"Harrisonburg City County,Virginia","Jefferson County,Ohio",17590,424003
+157,"Harrisonburg City County,Virginia","Knox County,Ohio",22834,592578
+158,"Harrisonburg City County,Virginia","Lawrence County,Ohio",17810,494819
+159,"Harrisonburg City County,Virginia","Licking County,Ohio",22219,573650
+160,"Harrisonburg City County,Virginia","Logan County,Ohio",26041,661495
+161,"Harrisonburg City County,Virginia","Lorain County,Ohio",22863,642655
+162,"Harrisonburg City County,Virginia","Lucas County,Ohio",27436,771599
+163,"Harrisonburg City County,Virginia","Madison County,Ohio",23496,653029
+164,"Harrisonburg City County,Virginia","Mahoning County,Ohio",18302,505082
+165,"Harrisonburg City County,Virginia","Marion County,Ohio",25505,630200
+166,"Harrisonburg City County,Virginia","Medina County,Ohio",22409,626298
+167,"Harrisonburg City County,Virginia","Meigs County,Ohio",17050,494610
+168,"Harrisonburg City County,Virginia","Mercer County,Ohio",28979,837091
+169,"Harrisonburg City County,Virginia","Miami County,Ohio",25330,732596
+170,"Harrisonburg City County,Virginia","Monroe County,Ohio",18339,406989
+171,"Harrisonburg City County,Virginia","Montgomery County,Ohio",24699,710553
+172,"Harrisonburg City County,Virginia","Morgan County,Ohio",18889,443608
+173,"Harrisonburg City County,Virginia","Morrow County,Ohio",24906,626928
+174,"Harrisonburg City County,Virginia","Muskingum County,Ohio",19438,516153
+175,"Harrisonburg City County,Virginia","Noble County,Ohio",18369,441135
+176,"Harrisonburg City County,Virginia","Paulding County,Ohio",31046,787294
+177,"Harrisonburg City County,Virginia","Perry County,Ohio",21414,489476
+178,"Harrisonburg City County,Virginia","Pickaway County,Ohio",21235,610043
+179,"Harrisonburg City County,Virginia","Pike County,Ohio",19731,567912
+180,"Harrisonburg City County,Virginia","Portage County,Ohio",20156,561096
+181,"Harrisonburg City County,Virginia","Preble County,Ohio",26318,739130
+182,"Harrisonburg City County,Virginia","Putnam County,Ohio",29632,743747
+183,"Harrisonburg City County,Virginia","Richland County,Ohio",24333,680606
+184,"Harrisonburg City County,Virginia","Ross County,Ohio",19979,576350
+185,"Harrisonburg City County,Virginia","Sandusky County,Ohio",25724,730174
+186,"Harrisonburg City County,Virginia","Scioto County,Ohio",19615,552092
+187,"Harrisonburg City County,Virginia","Seneca County,Ohio",26455,739845
+188,"Harrisonburg City County,Virginia","Shelby County,Ohio",26368,768882
+189,"Harrisonburg City County,Virginia","Stark County,Ohio",20936,557229
+190,"Harrisonburg City County,Virginia","Summit County,Ohio",21050,589691
+191,"Harrisonburg City County,Virginia","Trumbull County,Ohio",19459,542546
+192,"Harrisonburg City County,Virginia","Tuscarawas County,Ohio",20158,494650
+193,"Harrisonburg City County,Virginia","Union County,Ohio",24545,611726
+194,"Harrisonburg City County,Virginia","Van Wert County,Ohio",29744,754258
+195,"Harrisonburg City County,Virginia","Vinton County,Ohio",20181,554111
+196,"Harrisonburg City County,Virginia","Warren County,Ohio",24036,693540
+197,"Harrisonburg City County,Virginia","Washington County,Ohio",17227,399071
+198,"Harrisonburg City County,Virginia","Wayne County,Ohio",23240,597099
+199,"Harrisonburg City County,Virginia","Williams County,Ohio",29727,850205
+200,"Harrisonburg City County,Virginia","Wood County,Ohio",27622,778502
+201,"Harrisonburg City County,Virginia","Wyandot County,Ohio",26686,756589
+202,"Harrisonburg City County,Virginia","Accomack County,Virginia",17288,472904
+203,"Harrisonburg City County,Virginia","Albemarle County,Virginia",3438,85404
+204,"Harrisonburg City County,Virginia","Alleghany County,Virginia",6200,172412
+205,"Harrisonburg City County,Virginia","Amelia County,Virginia",8492,217222
+206,"Harrisonburg City County,Virginia","Amherst County,Virginia",5871,136310
+207,"Harrisonburg City County,Virginia","Appomattox County,Virginia",7086,160939
+208,"Harrisonburg City County,Virginia","Arlington County,Virginia",7403,202615
+209,"Harrisonburg City County,Virginia","Augusta County,Virginia",2876,62657
+210,"Harrisonburg City County,Virginia","Bath County,Virginia",5350,93912
+211,"Harrisonburg City County,Virginia","Bedford County,Virginia",8016,180826
+212,"Harrisonburg City County,Virginia","Bland County,Virginia",10482,302095
+213,"Harrisonburg City County,Virginia","Botetourt County,Virginia",5507,143348
+214,"Harrisonburg City County,Virginia","Brunswick County,Virginia",11123,319533
+215,"Harrisonburg City County,Virginia","Buchanan County,Virginia",16238,436554
+216,"Harrisonburg City County,Virginia","Buckingham County,Virginia",6746,150553
+217,"Harrisonburg City County,Virginia","Campbell County,Virginia",7233,176442
+218,"Harrisonburg City County,Virginia","Caroline County,Virginia",8777,254249
+219,"Harrisonburg City County,Virginia","Carroll County,Virginia",10604,307512
+220,"Harrisonburg City County,Virginia","Charles City County,Virginia",8877,251284
+221,"Harrisonburg City County,Virginia","Charlotte County,Virginia",9068,209438
+222,"Harrisonburg City County,Virginia","Chesterfield County,Virginia",8013,229068
+223,"Harrisonburg City County,Virginia","Clarke County,Virginia",4899,129364
+224,"Harrisonburg City County,Virginia","Craig County,Virginia",8348,199675
+225,"Harrisonburg City County,Virginia","Culpeper County,Virginia",5441,108956
+226,"Harrisonburg City County,Virginia","Cumberland County,Virginia",7480,175761
+227,"Harrisonburg City County,Virginia","Dickenson County,Virginia",16948,454732
+228,"Harrisonburg City County,Virginia","Dinwiddie County,Virginia",9760,279499
+229,"Harrisonburg City County,Virginia","Essex County,Virginia",10579,210332
+230,"Harrisonburg City County,Virginia","Fairfax County,Virginia",7026,192891
+231,"Harrisonburg City County,Virginia","Fauquier County,Virginia",5337,150615
+232,"Harrisonburg City County,Virginia","Floyd County,Virginia",9130,249059
+233,"Harrisonburg City County,Virginia","Fluvanna County,Virginia",5116,137575
+234,"Harrisonburg City County,Virginia","Franklin County,Virginia",8468,227504
+235,"Harrisonburg City County,Virginia","Frederick County,Virginia",4351,117091
+236,"Harrisonburg City County,Virginia","Giles County,Virginia",9271,257211
+237,"Harrisonburg City County,Virginia","Gloucester County,Virginia",11048,305472
+238,"Harrisonburg City County,Virginia","Goochland County,Virginia",6019,168186
+239,"Harrisonburg City County,Virginia","Grayson County,Virginia",11935,323692
+240,"Harrisonburg City County,Virginia","Greene County,Virginia",3073,49032
+241,"Harrisonburg City County,Virginia","Greensville County,Virginia",11176,328251
+242,"Harrisonburg City County,Virginia","Halifax County,Virginia",10554,248149
+243,"Harrisonburg City County,Virginia","Hanover County,Virginia",7225,209293
+244,"Harrisonburg City County,Virginia","Henrico County,Virginia",7737,222253
+245,"Harrisonburg City County,Virginia","Henry County,Virginia",9877,262466
+246,"Harrisonburg City County,Virginia","Highland County,Virginia",5481,91802
+247,"Harrisonburg City County,Virginia","Isle of Wight County,Virginia",11989,326830
+248,"Harrisonburg City County,Virginia","James City County,Virginia",10113,292055
+249,"Harrisonburg City County,Virginia","King and Queen County,Virginia",9771,267639
+250,"Harrisonburg City County,Virginia","King George County,Virginia",9169,177884
+251,"Harrisonburg City County,Virginia","King William County,Virginia",8459,237561
+252,"Harrisonburg City County,Virginia","Lancaster County,Virginia",12252,320647
+253,"Harrisonburg City County,Virginia","Lee County,Virginia",17443,486386
+254,"Harrisonburg City County,Virginia","Loudoun County,Virginia",6395,165230
+255,"Harrisonburg City County,Virginia","Louisa County,Virginia",5676,151281
+256,"Harrisonburg City County,Virginia","Lunenburg County,Virginia",10365,252158
+257,"Harrisonburg City County,Virginia","Madison County,Virginia",4557,85064
+258,"Harrisonburg City County,Virginia","Mathews County,Virginia",11873,328896
+259,"Harrisonburg City County,Virginia","Mecklenburg County,Virginia",11714,276605
+260,"Harrisonburg City County,Virginia","Middlesex County,Virginia",10649,301673
+261,"Harrisonburg City County,Virginia","Montgomery County,Virginia",7835,221482
+262,"Harrisonburg City County,Virginia","Nelson County,Virginia",4317,103905
+263,"Harrisonburg City County,Virginia","New Kent County,Virginia",9549,265969
+264,"Harrisonburg City County,Virginia","Northampton County,Virginia",14531,408718
+265,"Harrisonburg City County,Virginia","Northumberland County,Virginia",12291,319159
+266,"Harrisonburg City County,Virginia","Nottoway County,Virginia",9617,238713
+267,"Harrisonburg City County,Virginia","Orange County,Virginia",5582,101846
+268,"Harrisonburg City County,Virginia","Page County,Virginia",2565,51416
+269,"Harrisonburg City County,Virginia","Patrick County,Virginia",11250,285962
+270,"Harrisonburg City County,Virginia","Pittsylvania County,Virginia",9803,248070
+271,"Harrisonburg City County,Virginia","Powhatan County,Virginia",7272,193408
+272,"Harrisonburg City County,Virginia","Prince Edward County,Virginia",8288,204377
+273,"Harrisonburg City County,Virginia","Prince George County,Virginia",9524,266083
+274,"Harrisonburg City County,Virginia","Prince William County,Virginia",5437,156719
+275,"Harrisonburg City County,Virginia","Pulaski County,Virginia",8562,244115
+276,"Harrisonburg City County,Virginia","Rappahannock County,Virginia",4396,87903
+277,"Harrisonburg City County,Virginia","Richmond County,Virginia",10991,291802
+278,"Harrisonburg City County,Virginia","Roanoke County,Virginia",6826,186421
+279,"Harrisonburg City County,Virginia","Rockbridge County,Virginia",4249,109358
+280,"Harrisonburg City County,Virginia","Rockingham County,Virginia",1121,18203
+281,"Harrisonburg City County,Virginia","Russell County,Virginia",15404,419891
+282,"Harrisonburg City County,Virginia","Scott County,Virginia",16016,447115
+283,"Harrisonburg City County,Virginia","Shenandoah County,Virginia",2109,53870
+284,"Harrisonburg City County,Virginia","Smyth County,Virginia",11599,330836
+285,"Harrisonburg City County,Virginia","Southampton County,Virginia",11554,324365
+286,"Harrisonburg City County,Virginia","Spotsylvania County,Virginia",7254,137245
+287,"Harrisonburg City County,Virginia","Stafford County,Virginia",8017,159870
+288,"Harrisonburg City County,Virginia","Surry County,Virginia",10857,290916
+289,"Harrisonburg City County,Virginia","Sussex County,Virginia",10218,294608
+290,"Harrisonburg City County,Virginia","Tazewell County,Virginia",13059,370913
+291,"Harrisonburg City County,Virginia","Warren County,Virginia",4012,98462
+292,"Harrisonburg City County,Virginia","Washington County,Virginia",12992,370302
+293,"Harrisonburg City County,Virginia","Westmoreland County,Virginia",10720,209373
+294,"Harrisonburg City County,Virginia","Wise County,Virginia",16855,461234
+295,"Harrisonburg City County,Virginia","Wythe County,Virginia",9853,282821
+296,"Harrisonburg City County,Virginia","York County,Virginia",11401,322830
+297,"Harrisonburg City County,Virginia","Alexandria City County,Virginia",7606,215262
+298,"Harrisonburg City County,Virginia","Bedford City County,Virginia",7041,172166
+299,"Harrisonburg City County,Virginia","Bristol City County,Virginia",13467,396020
+300,"Harrisonburg City County,Virginia","Buena Vista City County,Virginia",3907,102623
+301,"Harrisonburg City County,Virginia","Charlottesville City County,Virginia",3907,100618
+302,"Harrisonburg City County,Virginia","Chesapeake City County,Virginia",12864,375735
+303,"Harrisonburg City County,Virginia","Clifton Forge City County,Virginia",5101,141230
+304,"Harrisonburg City County,Virginia","Colonial Heights City County,Virginia",8573,244960
+305,"Harrisonburg City County,Virginia","Covington City County,Virginia",5844,159572
+306,"Harrisonburg City County,Virginia","Danville City County,Virginia",10402,264413
+307,"Harrisonburg City County,Virginia","Emporia City County,Virginia",10884,314844
+308,"Harrisonburg City County,Virginia","Fairfax City County,Virginia",6569,182467
+309,"Harrisonburg City County,Virginia","Falls Church City County,Virginia",6901,196939
+310,"Harrisonburg City County,Virginia","Franklin City County,Virginia",12102,332220
+311,"Harrisonburg City County,Virginia","Fredericksburg City County,Virginia",7769,145236
+312,"Harrisonburg City County,Virginia","Galax City County,Virginia",11227,313378
+313,"Harrisonburg City County,Virginia","Hampton City County,Virginia",11351,332536
+314,"Harrisonburg City County,Virginia","Hopewell City County,Virginia",8610,243926
+315,"Harrisonburg City County,Virginia","Lexington City County,Virginia",3767,99601
+316,"Harrisonburg City County,Virginia","Lynchburg City County,Virginia",6419,156366
+317,"Harrisonburg City County,Virginia","Manassas City County,Virginia",5664,161664
+318,"Harrisonburg City County,Virginia","Manassas Park City County,Virginia",6167,168007
+319,"Harrisonburg City County,Virginia","Martinsville City County,Virginia",10030,257567
+320,"Harrisonburg City County,Virginia","Newport News City County,Virginia",10908,319022
+321,"Harrisonburg City County,Virginia","Norfolk City County,Virginia",12657,357952
+322,"Harrisonburg City County,Virginia","Norton City County,Virginia",16379,452124
+323,"Harrisonburg City County,Virginia","Petersburg City County,Virginia",8445,245948
+324,"Harrisonburg City County,Virginia","Poquoson City County,Virginia",11580,329598
+325,"Harrisonburg City County,Virginia","Portsmouth City County,Virginia",12597,366772
+326,"Harrisonburg City County,Virginia","Radford County,Virginia",8198,231326
+327,"Harrisonburg City County,Virginia","Richmond City County,Virginia",7313,210063
+328,"Harrisonburg City County,Virginia","Roanoke City County,Virginia",6364,177863
+329,"Harrisonburg City County,Virginia","Salem City County,Virginia",6194,176334
+330,"Harrisonburg City County,Virginia","South Boston City County,Virginia",10557,246967
+331,"Harrisonburg City County,Virginia","Staunton City County,Virginia",2128,44858
+332,"Harrisonburg City County,Virginia","Suffolk City County,Virginia",12832,341554
+333,"Harrisonburg City County,Virginia","Virginia Beach City County,Virginia",13218,381210
+334,"Harrisonburg City County,Virginia","Waynesboro City County,Virginia",2526,54708
+335,"Harrisonburg City County,Virginia","Williamsburg City County,Virginia",9952,291271
+336,"Harrisonburg City County,Virginia","Winchester City County,Virginia",4231,113234
+337,"Harrisonburg City County,Virginia","Barbour County,West Virginia",10296,203297
+338,"Harrisonburg City County,Virginia","Berkeley County,West Virginia",5968,160442
+339,"Harrisonburg City County,Virginia","Boone County,West Virginia",14559,372117
+340,"Harrisonburg City County,Virginia","Braxton County,West Virginia",13733,286674
+341,"Harrisonburg City County,Virginia","Brooke County,West Virginia",15896,387553
+342,"Harrisonburg City County,Virginia","Cabell County,West Virginia",16127,468024
+343,"Harrisonburg City County,Virginia","Calhoun County,West Virginia",15056,321341
+344,"Harrisonburg City County,Virginia","Clay County,West Virginia",14292,343576
+345,"Harrisonburg City County,Virginia","Doddridge County,West Virginia",13749,265699
+346,"Harrisonburg City County,Virginia","Fayette County,West Virginia",11681,290315
+347,"Harrisonburg City County,Virginia","Gilmer County,West Virginia",13537,286032
+348,"Harrisonburg City County,Virginia","Grant County,West Virginia",5861,137894
+349,"Harrisonburg City County,Virginia","Greenbrier County,West Virginia",10036,249540
+350,"Harrisonburg City County,Virginia","Hampshire County,West Virginia",5888,126311
+351,"Harrisonburg City County,Virginia","Hancock County,West Virginia",17522,414900
+352,"Harrisonburg City County,Virginia","Hardy County,West Virginia",5108,109224
+353,"Harrisonburg City County,Virginia","Harrison County,West Virginia",12393,268167
+354,"Harrisonburg City County,Virginia","Jackson County,West Virginia",15446,447834
+355,"Harrisonburg City County,Virginia","Jefferson County,West Virginia",6019,147848
+356,"Harrisonburg City County,Virginia","Kanawha County,West Virginia",13209,369816
+357,"Harrisonburg City County,Virginia","Lewis County,West Virginia",11438,235662
+358,"Harrisonburg City County,Virginia","Lincoln County,West Virginia",16791,445701
+359,"Harrisonburg City County,Virginia","Logan County,West Virginia",16349,402607
+360,"Harrisonburg City County,Virginia","McDowell County,West Virginia",14728,377058
+361,"Harrisonburg City County,Virginia","Marion County,West Virginia",13283,274743
+362,"Harrisonburg City County,Virginia","Marshall County,West Virginia",16883,381997
+363,"Harrisonburg City County,Virginia","Mason County,West Virginia",15602,453930
+364,"Harrisonburg City County,Virginia","Mercer County,West Virginia",11443,313388
+365,"Harrisonburg City County,Virginia","Mineral County,West Virginia",7334,149417
+366,"Harrisonburg City County,Virginia","Mingo County,West Virginia",16928,466542
+367,"Harrisonburg City County,Virginia","Monongalia County,West Virginia",11037,262153
+368,"Harrisonburg City County,Virginia","Monroe County,West Virginia",8971,235861
+369,"Harrisonburg City County,Virginia","Morgan County,West Virginia",6214,161568
+370,"Harrisonburg City County,Virginia","Nicholas County,West Virginia",11876,302965
+371,"Harrisonburg City County,Virginia","Ohio County,West Virginia",15802,396499
+372,"Harrisonburg City County,Virginia","Pendleton County,West Virginia",4130,77933
+373,"Harrisonburg City County,Virginia","Pleasants County,West Virginia",15191,344307
+374,"Harrisonburg City County,Virginia","Pocahontas County,West Virginia",8944,153487
+375,"Harrisonburg City County,Virginia","Preston County,West Virginia",10041,216345
+376,"Harrisonburg City County,Virginia","Putnam County,West Virginia",14384,419548
+377,"Harrisonburg City County,Virginia","Raleigh County,West Virginia",10234,294997
+378,"Harrisonburg City County,Virginia","Randolph County,West Virginia",9935,186131
+379,"Harrisonburg City County,Virginia","Ritchie County,West Virginia",15102,338609
+380,"Harrisonburg City County,Virginia","Roane County,West Virginia",17477,355377
+381,"Harrisonburg City County,Virginia","Summers County,West Virginia",10955,274875
+382,"Harrisonburg City County,Virginia","Taylor County,West Virginia",10384,234166
+383,"Harrisonburg City County,Virginia","Tucker County,West Virginia",8521,199541
+384,"Harrisonburg City County,Virginia","Tyler County,West Virginia",16118,336974
+385,"Harrisonburg City County,Virginia","Upshur County,West Virginia",11114,216644
+386,"Harrisonburg City County,Virginia","Wayne County,West Virginia",17718,500650
+387,"Harrisonburg City County,Virginia","Webster County,West Virginia",12363,233139
+388,"Harrisonburg City County,Virginia","Wetzel County,West Virginia",15072,319649
+389,"Harrisonburg City County,Virginia","Wirt County,West Virginia",16497,352907
+390,"Harrisonburg City County,Virginia","Wood County,West Virginia",15971,369570
+391,"Harrisonburg City County,Virginia","Wyoming County,West Virginia",12185,334970

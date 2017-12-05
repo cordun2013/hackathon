@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Norfolk City County,Virginia","Adair County,Kentucky",38068,1035395
+1,"Norfolk City County,Virginia","Allen County,Kentucky",39464,1155205
+2,"Norfolk City County,Virginia","Anderson County,Kentucky",33695,998180
+3,"Norfolk City County,Virginia","Ballard County,Kentucky",46368,1390460
+4,"Norfolk City County,Virginia","Barren County,Kentucky",39253,1114150
+5,"Norfolk City County,Virginia","Bath County,Kentucky",29343,869361
+6,"Norfolk City County,Virginia","Bell County,Kentucky",30563,836701
+7,"Norfolk City County,Virginia","Boone County,Kentucky",35156,990754
+8,"Norfolk City County,Virginia","Bourbon County,Kentucky",31257,915779
+9,"Norfolk City County,Virginia","Boyd County,Kentucky",26018,763686
+10,"Norfolk City County,Virginia","Boyle County,Kentucky",34924,1002067
+11,"Norfolk City County,Virginia","Bracken County,Kentucky",31668,909862
+12,"Norfolk City County,Virginia","Breathitt County,Kentucky",32188,872465
+13,"Norfolk City County,Virginia","Breckinridge County,Kentucky",39229,1150861
+14,"Norfolk City County,Virginia","Bullitt County,Kentucky",35799,1071981
+15,"Norfolk City County,Virginia","Butler County,Kentucky",39894,1172859
+16,"Norfolk City County,Virginia","Caldwell County,Kentucky",42786,1278804
+17,"Norfolk City County,Virginia","Calloway County,Kentucky",44209,1322319
+18,"Norfolk City County,Virginia","Campbell County,Kentucky",33368,949733
+19,"Norfolk City County,Virginia","Carlisle County,Kentucky",46825,1405828
+20,"Norfolk City County,Virginia","Carroll County,Kentucky",36240,1045995
+21,"Norfolk City County,Virginia","Carter County,Kentucky",27183,793783
+22,"Norfolk City County,Virginia","Casey County,Kentucky",36419,1033572
+23,"Norfolk City County,Virginia","Christian County,Kentucky",41102,1243298
+24,"Norfolk City County,Virginia","Clay County,Kentucky",33135,897044
+25,"Norfolk City County,Virginia","Clinton County,Kentucky",36511,1034609
+26,"Norfolk City County,Virginia","Crittenden County,Kentucky",44365,1311875
+27,"Norfolk City County,Virginia","Cumberland County,Kentucky",37391,1055278
+28,"Norfolk City County,Virginia","Daviess County,Kentucky",40917,1219302
+29,"Norfolk City County,Virginia","Edmonson County,Kentucky",39334,1160734
+30,"Norfolk City County,Virginia","Elliott County,Kentucky",28514,819553
+31,"Norfolk City County,Virginia","Estill County,Kentucky",32335,931677
+32,"Norfolk City County,Virginia","Fayette County,Kentucky",31503,935673
+33,"Norfolk City County,Virginia","Fleming County,Kentucky",29769,872547
+34,"Norfolk City County,Virginia","Floyd County,Kentucky",30151,870951
+35,"Norfolk City County,Virginia","Franklin County,Kentucky",33540,984589
+36,"Norfolk City County,Virginia","Fulton County,Kentucky",47229,1426792
+37,"Norfolk City County,Virginia","Gallatin County,Kentucky",35238,1036653
+38,"Norfolk City County,Virginia","Garrard County,Kentucky",34108,982826
+39,"Norfolk City County,Virginia","Grant County,Kentucky",34037,1010761
+40,"Norfolk City County,Virginia","Graves County,Kentucky",45850,1378534
+41,"Norfolk City County,Virginia","Grayson County,Kentucky",38221,1129495
+42,"Norfolk City County,Virginia","Green County,Kentucky",38001,1094700
+43,"Norfolk City County,Virginia","Greenup County,Kentucky",27794,804812
+44,"Norfolk City County,Virginia","Hancock County,Kentucky",40024,1183754
+45,"Norfolk City County,Virginia","Hardin County,Kentucky",37097,1091628
+46,"Norfolk City County,Virginia","Harlan County,Kentucky",29638,813328
+47,"Norfolk City County,Virginia","Harrison County,Kentucky",32827,948878
+48,"Norfolk City County,Virginia","Hart County,Kentucky",37897,1119256
+49,"Norfolk City County,Virginia","Henderson County,Kentucky",42723,1271731
+50,"Norfolk City County,Virginia","Henry County,Kentucky",35142,1028308
+51,"Norfolk City County,Virginia","Hickman County,Kentucky",46859,1407120
+52,"Norfolk City County,Virginia","Hopkins County,Kentucky",42244,1253273
+53,"Norfolk City County,Virginia","Jackson County,Kentucky",35007,933462
+54,"Norfolk City County,Virginia","Jefferson County,Kentucky",35235,1043841
+55,"Norfolk City County,Virginia","Jessamine County,Kentucky",32972,957137
+56,"Norfolk City County,Virginia","Johnson County,Kentucky",28800,836582
+57,"Norfolk City County,Virginia","Kenton County,Kentucky",34525,978448
+58,"Norfolk City County,Virginia","Knott County,Kentucky",29728,815215
+59,"Norfolk City County,Virginia","Knox County,Kentucky",31893,878694
+60,"Norfolk City County,Virginia","Larue County,Kentucky",37169,1078804
+61,"Norfolk City County,Virginia","Laurel County,Kentucky",33787,913521
+62,"Norfolk City County,Virginia","Lawrence County,Kentucky",27941,808006
+63,"Norfolk City County,Virginia","Lee County,Kentucky",33180,925413
+64,"Norfolk City County,Virginia","Leslie County,Kentucky",31100,841607
+65,"Norfolk City County,Virginia","Letcher County,Kentucky",28128,778762
+66,"Norfolk City County,Virginia","Lewis County,Kentucky",29221,845601
+67,"Norfolk City County,Virginia","Lincoln County,Kentucky",34817,999745
+68,"Norfolk City County,Virginia","Livingston County,Kentucky",44699,1344398
+69,"Norfolk City County,Virginia","Logan County,Kentucky",41534,1196199
+70,"Norfolk City County,Virginia","Lyon County,Kentucky",44456,1321573
+71,"Norfolk City County,Virginia","McCracken County,Kentucky",44981,1358519
+72,"Norfolk City County,Virginia","McCreary County,Kentucky",33518,971455
+73,"Norfolk City County,Virginia","Madison County,Kentucky",32501,946696
+74,"Norfolk City County,Virginia","Magoffin County,Kentucky",29767,857261
+75,"Norfolk City County,Virginia","Marion County,Kentucky",35547,1040413
+76,"Norfolk City County,Virginia","Marshall County,Kentucky",44395,1342091
+77,"Norfolk City County,Virginia","Martin County,Kentucky",29055,789730
+78,"Norfolk City County,Virginia","Mason County,Kentucky",31016,889407
+79,"Norfolk City County,Virginia","Meade County,Kentucky",37696,1116156
+80,"Norfolk City County,Virginia","Menifee County,Kentucky",30459,881425
+81,"Norfolk City County,Virginia","Mercer County,Kentucky",33923,996124
+82,"Norfolk City County,Virginia","Metcalfe County,Kentucky",38724,1065660
+83,"Norfolk City County,Virginia","Monroe County,Kentucky",37951,1085699
+84,"Norfolk City County,Virginia","Montgomery County,Kentucky",30156,887902
+85,"Norfolk City County,Virginia","Morgan County,Kentucky",30237,857141
+86,"Norfolk City County,Virginia","Muhlenberg County,Kentucky",41105,1219749
+87,"Norfolk City County,Virginia","Nelson County,Kentucky",35154,1039484
+88,"Norfolk City County,Virginia","Nicholas County,Kentucky",31834,915785
+89,"Norfolk City County,Virginia","Ohio County,Kentucky",40018,1187338
+90,"Norfolk City County,Virginia","Oldham County,Kentucky",35307,1055723
+91,"Norfolk City County,Virginia","Owen County,Kentucky",34362,1011366
+92,"Norfolk City County,Virginia","Owsley County,Kentucky",34325,910339
+93,"Norfolk City County,Virginia","Pendleton County,Kentucky",33605,950786
+94,"Norfolk City County,Virginia","Perry County,Kentucky",30701,835638
+95,"Norfolk City County,Virginia","Pike County,Kentucky",29251,754976
+96,"Norfolk City County,Virginia","Powell County,Kentucky",31599,917648
+97,"Norfolk City County,Virginia","Robertson County,Kentucky",31751,915291
+98,"Norfolk City County,Virginia","Rockcastle County,Kentucky",33935,987839
+99,"Norfolk City County,Virginia","Rowan County,Kentucky",28485,841569
+100,"Norfolk City County,Virginia","Russell County,Kentucky",37672,1019378
+101,"Norfolk City County,Virginia","Scott County,Kentucky",32337,963700
+102,"Norfolk City County,Virginia","Shelby County,Kentucky",34164,1014976
+103,"Norfolk City County,Virginia","Simpson County,Kentucky",40501,1172174
+104,"Norfolk City County,Virginia","Spencer County,Kentucky",34694,1020824
+105,"Norfolk City County,Virginia","Taylor County,Kentucky",36836,1071909
+106,"Norfolk City County,Virginia","Todd County,Kentucky",41518,1236245
+107,"Norfolk City County,Virginia","Trigg County,Kentucky",42009,1260658
+108,"Norfolk City County,Virginia","Trimble County,Kentucky",36380,1061763
+109,"Norfolk City County,Virginia","Union County,Kentucky",44443,1302178
+110,"Norfolk City County,Virginia","Warren County,Kentucky",40250,1189103
+111,"Norfolk City County,Virginia","Washington County,Kentucky",35165,1024721
+112,"Norfolk City County,Virginia","Wayne County,Kentucky",36022,1018586
+113,"Norfolk City County,Virginia","Webster County,Kentucky",43353,1281361
+114,"Norfolk City County,Virginia","Whitley County,Kentucky",32121,956218
+115,"Norfolk City County,Virginia","Wolfe County,Kentucky",31332,880502
+116,"Norfolk City County,Virginia","Woodford County,Kentucky",32557,966336
+117,"Norfolk City County,Virginia","Adams County,Ohio",31109,891964
+118,"Norfolk City County,Virginia","Allen County,Ohio",37841,1067381
+119,"Norfolk City County,Virginia","Ashland County,Ohio",32554,934340
+120,"Norfolk City County,Virginia","Ashtabula County,Ohio",30592,890253
+121,"Norfolk City County,Virginia","Athens County,Ohio",27517,797563
+122,"Norfolk City County,Virginia","Auglaize County,Ohio",37091,1084081
+123,"Norfolk City County,Virginia","Belmont County,Ohio",27163,786548
+124,"Norfolk City County,Virginia","Brown County,Ohio",32353,918891
+125,"Norfolk City County,Virginia","Butler County,Ohio",35466,1000917
+126,"Norfolk City County,Virginia","Carroll County,Ohio",29108,802474
+127,"Norfolk City County,Virginia","Champaign County,Ohio",34395,986178
+128,"Norfolk City County,Virginia","Clark County,Ohio",33074,945723
+129,"Norfolk City County,Virginia","Clermont County,Ohio",33187,949988
+130,"Norfolk City County,Virginia","Clinton County,Ohio",32578,933404
+131,"Norfolk City County,Virginia","Columbiana County,Ohio",27895,784491
+132,"Norfolk City County,Virginia","Coshocton County,Ohio",31520,911998
+133,"Norfolk City County,Virginia","Crawford County,Ohio",34463,1005535
+134,"Norfolk City County,Virginia","Cuyahoga County,Ohio",30588,888097
+135,"Norfolk City County,Virginia","Darke County,Ohio",36189,1041128
+136,"Norfolk City County,Virginia","Defiance County,Ohio",38907,1137060
+137,"Norfolk City County,Virginia","Delaware County,Ohio",33347,965170
+138,"Norfolk City County,Virginia","Fairfield County,Ohio",30878,892264
+139,"Norfolk City County,Virginia","Fayette County,Ohio",31142,903868
+140,"Norfolk City County,Virginia","Franklin County,Ohio",31878,922119
+141,"Norfolk City County,Virginia","Fulton County,Ohio",37259,1093911
+142,"Norfolk City County,Virginia","Gallia County,Ohio",26455,762980
+143,"Norfolk City County,Virginia","Geauga County,Ohio",30082,862915
+144,"Norfolk City County,Virginia","Greene County,Ohio",32012,937020
+145,"Norfolk City County,Virginia","Guernsey County,Ohio",29066,850057
+146,"Norfolk City County,Virginia","Hamilton County,Ohio",34968,1011495
+147,"Norfolk City County,Virginia","Hancock County,Ohio",36493,1067616
+148,"Norfolk City County,Virginia","Hardin County,Ohio",36352,1023211
+149,"Norfolk City County,Virginia","Harrison County,Ohio",28322,804692
+150,"Norfolk City County,Virginia","Henry County,Ohio",37713,1083678
+151,"Norfolk City County,Virginia","Highland County,Ohio",31646,891977
+152,"Norfolk City County,Virginia","Hocking County,Ohio",29320,848227
+153,"Norfolk City County,Virginia","Holmes County,Ohio",32262,886768
+154,"Norfolk City County,Virginia","Huron County,Ohio",33831,963946
+155,"Norfolk City County,Virginia","Jackson County,Ohio",27633,802529
+156,"Norfolk City County,Virginia","Jefferson County,Ohio",27064,765965
+157,"Norfolk City County,Virginia","Knox County,Ohio",33308,954474
+158,"Norfolk City County,Virginia","Lawrence County,Ohio",27158,768742
+159,"Norfolk City County,Virginia","Licking County,Ohio",32694,935545
+160,"Norfolk City County,Virginia","Logan County,Ohio",35373,1017488
+161,"Norfolk City County,Virginia","Lorain County,Ohio",31640,917817
+162,"Norfolk City County,Virginia","Lucas County,Ohio",36213,1046761
+163,"Norfolk City County,Virginia","Madison County,Ohio",32843,926952
+164,"Norfolk City County,Virginia","Mahoning County,Ohio",27079,780245
+165,"Norfolk City County,Virginia","Marion County,Ohio",34753,991263
+166,"Norfolk City County,Virginia","Medina County,Ohio",31186,901460
+167,"Norfolk City County,Virginia","Meigs County,Ohio",26398,768533
+168,"Norfolk City County,Virginia","Mercer County,Ohio",38327,1111015
+169,"Norfolk City County,Virginia","Miami County,Ohio",34677,1006520
+170,"Norfolk City County,Virginia","Monroe County,Ohio",29595,833231
+171,"Norfolk City County,Virginia","Montgomery County,Ohio",34047,984476
+172,"Norfolk City County,Virginia","Morgan County,Ohio",29393,852856
+173,"Norfolk City County,Virginia","Morrow County,Ohio",34155,987991
+174,"Norfolk City County,Virginia","Muskingum County,Ohio",29912,878049
+175,"Norfolk City County,Virginia","Noble County,Ohio",28893,849368
+176,"Norfolk City County,Virginia","Paulding County,Ohio",40112,1173048
+177,"Norfolk City County,Virginia","Perry County,Ohio",30735,862983
+178,"Norfolk City County,Virginia","Pickaway County,Ohio",30582,883967
+179,"Norfolk City County,Virginia","Pike County,Ohio",29079,841836
+180,"Norfolk City County,Virginia","Portage County,Ohio",28933,836258
+181,"Norfolk City County,Virginia","Preble County,Ohio",35666,1013054
+182,"Norfolk City County,Virginia","Putnam County,Ohio",38691,1127422
+183,"Norfolk City County,Virginia","Richland County,Ohio",33110,955769
+184,"Norfolk City County,Virginia","Ross County,Ohio",29327,850273
+185,"Norfolk City County,Virginia","Sandusky County,Ohio",34501,1005336
+186,"Norfolk City County,Virginia","Scioto County,Ohio",28963,826016
+187,"Norfolk City County,Virginia","Seneca County,Ohio",35232,1015008
+188,"Norfolk City County,Virginia","Shelby County,Ohio",35716,1042805
+189,"Norfolk City County,Virginia","Stark County,Ohio",29713,832391
+190,"Norfolk City County,Virginia","Summit County,Ohio",29828,864853
+191,"Norfolk City County,Virginia","Trumbull County,Ohio",28236,817709
+192,"Norfolk City County,Virginia","Tuscarawas County,Ohio",29831,835975
+193,"Norfolk City County,Virginia","Union County,Ohio",33877,967719
+194,"Norfolk City County,Virginia","Van Wert County,Ohio",38802,1137933
+195,"Norfolk City County,Virginia","Vinton County,Ohio",29528,828034
+196,"Norfolk City County,Virginia","Warren County,Ohio",33384,967463
+197,"Norfolk City County,Virginia","Washington County,Ohio",27752,807305
+198,"Norfolk City County,Virginia","Wayne County,Ohio",32292,920271
+199,"Norfolk City County,Virginia","Williams County,Ohio",38504,1125368
+200,"Norfolk City County,Virginia","Wood County,Ohio",36399,1053664
+201,"Norfolk City County,Virginia","Wyandot County,Ohio",35463,1031751
+202,"Norfolk City County,Virginia","Accomack County,Virginia",5785,127828
+203,"Norfolk City County,Virginia","Albemarle County,Virginia",10038,277395
+204,"Norfolk City County,Virginia","Alleghany County,Virginia",15548,446335
+205,"Norfolk City County,Virginia","Amelia County,Virginia",8555,189337
+206,"Norfolk City County,Virginia","Amherst County,Virginia",12831,347141
+207,"Norfolk City County,Virginia","Appomattox County,Virginia",11438,281446
+208,"Norfolk City County,Virginia","Arlington County,Virginia",11081,308738
+209,"Norfolk City County,Virginia","Augusta County,Virginia",12291,340029
+210,"Norfolk City County,Virginia","Bath County,Virginia",15265,405688
+211,"Norfolk City County,Virginia","Bedford County,Virginia",14411,347302
+212,"Norfolk City County,Virginia","Bland County,Virginia",19830,576019
+213,"Norfolk City County,Virginia","Botetourt County,Virginia",14854,417272
+214,"Norfolk City County,Virginia","Brunswick County,Virginia",6174,156016
+215,"Norfolk City County,Virginia","Buchanan County,Virginia",25586,710478
+216,"Norfolk City County,Virginia","Buckingham County,Virginia",10980,270410
+217,"Norfolk City County,Virginia","Campbell County,Virginia",12856,310617
+218,"Norfolk City County,Virginia","Caroline County,Virginia",7822,198002
+219,"Norfolk City County,Virginia","Carroll County,Virginia",18585,513937
+220,"Norfolk City County,Virginia","Charles City County,Virginia",5622,131831
+221,"Norfolk City County,Virginia","Charlotte County,Virginia",10805,254763
+222,"Norfolk City County,Virginia","Chesterfield County,Virginia",7102,165418
+223,"Norfolk City County,Virginia","Clarke County,Virginia",13761,351214
+224,"Norfolk City County,Virginia","Craig County,Virginia",17696,473599
+225,"Norfolk City County,Virginia","Culpeper County,Virginia",11060,281942
+226,"Norfolk City County,Virginia","Cumberland County,Virginia",9413,235362
+227,"Norfolk City County,Virginia","Dickenson County,Virginia",26296,728656
+228,"Norfolk City County,Virginia","Dinwiddie County,Virginia",6715,156163
+229,"Norfolk City County,Virginia","Essex County,Virginia",8002,164924
+230,"Norfolk City County,Virginia","Fairfax County,Virginia",11378,311968
+231,"Norfolk City County,Virginia","Fauquier County,Virginia",11074,291980
+232,"Norfolk City County,Virginia","Floyd County,Virginia",18505,447767
+233,"Norfolk City County,Virginia","Fluvanna County,Virginia",9239,240966
+234,"Norfolk City County,Virginia","Franklin County,Virginia",15860,377249
+235,"Norfolk City County,Virginia","Frederick County,Virginia",14317,384276
+236,"Norfolk City County,Virginia","Giles County,Virginia",18618,531135
+237,"Norfolk City County,Virginia","Gloucester County,Virginia",4542,80865
+238,"Norfolk City County,Virginia","Goochland County,Virginia",7968,210253
+239,"Norfolk City County,Virginia","Grayson County,Virginia",20716,550481
+240,"Norfolk City County,Virginia","Greene County,Virginia",11758,295430
+241,"Norfolk City County,Virginia","Greensville County,Virginia",5676,143680
+242,"Norfolk City County,Virginia","Halifax County,Virginia",10692,265187
+243,"Norfolk City County,Virginia","Hanover County,Virginia",6041,153831
+244,"Norfolk City County,Virginia","Henrico County,Virginia",5642,141220
+245,"Norfolk City County,Virginia","Henry County,Virginia",15051,379138
+246,"Norfolk City County,Virginia","Highland County,Virginia",15493,397768
+247,"Norfolk City County,Virginia","Isle of Wight County,Virginia",2683,52313
+248,"Norfolk City County,Virginia","James City County,Virginia",4287,85252
+249,"Norfolk City County,Virginia","King and Queen County,Virginia",6235,141349
+250,"Norfolk City County,Virginia","King George County,Virginia",8924,234083
+251,"Norfolk City County,Virginia","King William County,Virginia",6592,148201
+252,"Norfolk City County,Virginia","Lancaster County,Virginia",7770,142461
+253,"Norfolk City County,Virginia","Lee County,Virginia",26791,760309
+254,"Norfolk City County,Virginia","Loudoun County,Virginia",13345,365212
+255,"Norfolk City County,Virginia","Louisa County,Virginia",8736,233841
+256,"Norfolk City County,Virginia","Lunenburg County,Virginia",8945,208326
+257,"Norfolk City County,Virginia","Madison County,Virginia",11672,295461
+258,"Norfolk City County,Virginia","Mathews County,Virginia",5703,109265
+259,"Norfolk City County,Virginia","Mecklenburg County,Virginia",8809,214569
+260,"Norfolk City County,Virginia","Middlesex County,Virginia",5849,112562
+261,"Norfolk City County,Virginia","Montgomery County,Virginia",17183,495405
+262,"Norfolk City County,Virginia","Nelson County,Virginia",11277,314735
+263,"Norfolk City County,Virginia","New Kent County,Virginia",5110,108325
+264,"Norfolk City County,Virginia","Northampton County,Virginia",3027,63642
+265,"Norfolk City County,Virginia","Northumberland County,Virginia",8137,154623
+266,"Norfolk City County,Virginia","Nottoway County,Virginia",7650,184689
+267,"Norfolk City County,Virginia","Orange County,Virginia",10349,250367
+268,"Norfolk City County,Virginia","Page County,Virginia",13945,339647
+269,"Norfolk City County,Virginia","Patrick County,Virginia",16634,418046
+270,"Norfolk City County,Virginia","Pittsylvania County,Virginia",13416,335139
+271,"Norfolk City County,Virginia","Powhatan County,Virginia",7995,207860
+272,"Norfolk City County,Virginia","Prince Edward County,Virginia",9914,235111
+273,"Norfolk City County,Virginia","Prince George County,Virginia",4844,107907
+274,"Norfolk City County,Virginia","Prince William County,Virginia",11538,301816
+275,"Norfolk City County,Virginia","Pulaski County,Virginia",17910,518038
+276,"Norfolk City County,Virginia","Rappahannock County,Virginia",12514,319980
+277,"Norfolk City County,Virginia","Richmond County,Virginia",8257,170092
+278,"Norfolk City County,Virginia","Roanoke County,Virginia",16174,460344
+279,"Norfolk City County,Virginia","Rockbridge County,Virginia",13596,383281
+280,"Norfolk City County,Virginia","Rockingham County,Virginia",13650,380175
+281,"Norfolk City County,Virginia","Russell County,Virginia",24752,693815
+282,"Norfolk City County,Virginia","Scott County,Virginia",25364,721038
+283,"Norfolk City County,Virginia","Shenandoah County,Virginia",14154,410278
+284,"Norfolk City County,Virginia","Smyth County,Virginia",20946,604759
+285,"Norfolk City County,Virginia","Southampton County,Virginia",3723,89322
+286,"Norfolk City County,Virginia","Spotsylvania County,Virginia",8821,229048
+287,"Norfolk City County,Virginia","Stafford County,Virginia",8893,246519
+288,"Norfolk City County,Virginia","Surry County,Virginia",4015,78952
+289,"Norfolk City County,Virginia","Sussex County,Virginia",4982,110013
+290,"Norfolk City County,Virginia","Tazewell County,Virginia",22407,644836
+291,"Norfolk City County,Virginia","Warren County,Virginia",13544,353686
+292,"Norfolk City County,Virginia","Washington County,Virginia",22340,644226
+293,"Norfolk City County,Virginia","Westmoreland County,Virginia",9440,190235
+294,"Norfolk City County,Virginia","Wise County,Virginia",26203,735158
+295,"Norfolk City County,Virginia","Wythe County,Virginia",19200,556745
+296,"Norfolk City County,Virginia","York County,Virginia",3369,58476
+297,"Norfolk City County,Virginia","Alexandria City County,Virginia",11053,305787
+298,"Norfolk City County,Virginia","Bedford City County,Virginia",13913,342386
+299,"Norfolk City County,Virginia","Bristol City County,Virginia",22815,669943
+300,"Norfolk City County,Virginia","Buena Vista City County,Virginia",13255,376547
+301,"Norfolk City County,Virginia","Charlottesville City County,Virginia",9589,262802
+302,"Norfolk City County,Virginia","Chesapeake City County,Virginia",688,11160
+303,"Norfolk City County,Virginia","Clifton Forge City County,Virginia",14449,415153
+304,"Norfolk City County,Virginia","Colonial Heights City County,Virginia",5704,126486
+305,"Norfolk City County,Virginia","Covington City County,Virginia",15192,433496
+306,"Norfolk City County,Virginia","Danville City County,Virginia",12507,310112
+307,"Norfolk City County,Virginia","Emporia City County,Virginia",4992,125684
+308,"Norfolk City County,Virginia","Fairfax City County,Virginia",11313,300750
+309,"Norfolk City County,Virginia","Falls Church City County,Virginia",11260,313036
+310,"Norfolk City County,Virginia","Franklin City County,Virginia",3003,69532
+311,"Norfolk City County,Virginia","Fredericksburg City County,Virginia",8692,232454
+312,"Norfolk City County,Virginia","Galax City County,Virginia",19313,524475
+313,"Norfolk City County,Virginia","Hampton City County,Virginia",1825,26930
+314,"Norfolk City County,Virginia","Harrisonburg City County,Virginia",12709,360071
+315,"Norfolk City County,Virginia","Hopewell City County,Virginia",5812,123115
+316,"Norfolk City County,Virginia","Lexington City County,Virginia",13114,373525
+317,"Norfolk City County,Virginia","Lynchburg City County,Virginia",12639,305934
+318,"Norfolk City County,Virginia","Manassas City County,Virginia",11281,299153
+319,"Norfolk City County,Virginia","Manassas Park City County,Virginia",11501,296352
+320,"Norfolk City County,Virginia","Martinsville City County,Virginia",14648,363117
+321,"Norfolk City County,Virginia","Newport News City County,Virginia",2322,42233
+322,"Norfolk City County,Virginia","Norton City County,Virginia",25727,726048
+323,"Norfolk City County,Virginia","Petersburg City County,Virginia",5501,122927
+324,"Norfolk City County,Virginia","Poquoson City County,Virginia",2793,46479
+325,"Norfolk City County,Virginia","Portsmouth City County,Virginia",485,4549
+326,"Norfolk City County,Virginia","Radford County,Virginia",17546,505249
+327,"Norfolk City County,Virginia","Richmond City County,Virginia",5959,149716
+328,"Norfolk City County,Virginia","Roanoke City County,Virginia",15712,451786
+329,"Norfolk City County,Virginia","Salem City County,Virginia",15542,450257
+330,"Norfolk City County,Virginia","South Boston City County,Virginia",10397,262678
+331,"Norfolk City County,Virginia","Staunton City County,Virginia",11597,321751
+332,"Norfolk City County,Virginia","Suffolk City County,Virginia",1650,32068
+333,"Norfolk City County,Virginia","Virginia Beach City County,Virginia",1486,29660
+334,"Norfolk City County,Virginia","Waynesboro City County,Virginia",10874,303749
+335,"Norfolk City County,Virginia","Williamsburg City County,Virginia",3602,74617
+336,"Norfolk City County,Virginia","Winchester City County,Virginia",14138,358023
+337,"Norfolk City County,Virginia","Barbour County,West Virginia",22022,558587
+338,"Norfolk City County,Virginia","Berkeley County,West Virginia",15919,408205
+339,"Norfolk City County,Virginia","Boone County,West Virginia",23907,646041
+340,"Norfolk City County,Virginia","Braxton County,West Virginia",23605,626716
+341,"Norfolk City County,Virginia","Brooke County,West Virginia",26370,749448
+342,"Norfolk City County,Virginia","Cabell County,West Virginia",25474,741947
+343,"Norfolk City County,Virginia","Calhoun County,West Virginia",25376,680666
+344,"Norfolk City County,Virginia","Clay County,West Virginia",23640,617499
+345,"Norfolk City County,Virginia","Doddridge County,West Virginia",25853,600874
+346,"Norfolk City County,Virginia","Fayette County,West Virginia",21028,564238
+347,"Norfolk City County,Virginia","Gilmer County,West Virginia",25173,676395
+348,"Norfolk City County,Virginia","Grant County,West Virginia",17366,461683
+349,"Norfolk City County,Virginia","Greenbrier County,West Virginia",19384,523463
+350,"Norfolk City County,Virginia","Hampshire County,West Virginia",16444,417281
+351,"Norfolk City County,Virginia","Hancock County,West Virginia",27078,757385
+352,"Norfolk City County,Virginia","Hardy County,West Virginia",16614,433012
+353,"Norfolk City County,Virginia","Harrison County,West Virginia",24497,603342
+354,"Norfolk City County,Virginia","Jackson County,West Virginia",24793,721758
+355,"Norfolk City County,Virginia","Jefferson County,West Virginia",14817,396639
+356,"Norfolk City County,Virginia","Kanawha County,West Virginia",22557,643740
+357,"Norfolk City County,Virginia","Lewis County,West Virginia",23542,570837
+358,"Norfolk City County,Virginia","Lincoln County,West Virginia",26139,719625
+359,"Norfolk City County,Virginia","Logan County,West Virginia",25697,676530
+360,"Norfolk City County,Virginia","McDowell County,West Virginia",24076,650981
+361,"Norfolk City County,Virginia","Marion County,West Virginia",23688,672308
+362,"Norfolk City County,Virginia","Marshall County,West Virginia",27357,743892
+363,"Norfolk City County,Virginia","Mason County,West Virginia",24950,727853
+364,"Norfolk City County,Virginia","Mercer County,West Virginia",20791,587311
+365,"Norfolk City County,Virginia","Mineral County,West Virginia",18840,473206
+366,"Norfolk City County,Virginia","Mingo County,West Virginia",26276,740465
+367,"Norfolk City County,Virginia","Monongalia County,West Virginia",21511,624048
+368,"Norfolk City County,Virginia","Monroe County,West Virginia",18318,509785
+369,"Norfolk City County,Virginia","Morgan County,West Virginia",16165,409331
+370,"Norfolk City County,Virginia","Nicholas County,West Virginia",21223,576888
+371,"Norfolk City County,Virginia","Ohio County,West Virginia",26277,758395
+372,"Norfolk City County,Virginia","Pendleton County,West Virginia",16497,431359
+373,"Norfolk City County,Virginia","Pleasants County,West Virginia",27295,679483
+374,"Norfolk City County,Virginia","Pocahontas County,West Virginia",18956,459453
+375,"Norfolk City County,Virginia","Preston County,West Virginia",21546,540134
+376,"Norfolk City County,Virginia","Putnam County,West Virginia",23731,693472
+377,"Norfolk City County,Virginia","Raleigh County,West Virginia",19581,568921
+378,"Norfolk City County,Virginia","Randolph County,West Virginia",20416,491866
+379,"Norfolk City County,Virginia","Ritchie County,West Virginia",27206,673784
+380,"Norfolk City County,Virginia","Roane County,West Virginia",26419,750573
+381,"Norfolk City County,Virginia","Summers County,West Virginia",20303,548798
+382,"Norfolk City County,Virginia","Taylor County,West Virginia",21890,557955
+383,"Norfolk City County,Virginia","Tucker County,West Virginia",20026,523330
+384,"Norfolk City County,Virginia","Tyler County,West Virginia",28222,672149
+385,"Norfolk City County,Virginia","Upshur County,West Virginia",23011,527509
+386,"Norfolk City County,Virginia","Wayne County,West Virginia",27066,774573
+387,"Norfolk City County,Virginia","Webster County,West Virginia",22843,538874
+388,"Norfolk City County,Virginia","Wetzel County,West Virginia",26844,734432
+389,"Norfolk City County,Virginia","Wirt County,West Virginia",27060,779095
+390,"Norfolk City County,Virginia","Wood County,West Virginia",26574,780785
+391,"Norfolk City County,Virginia","Wyoming County,West Virginia",21533,608894

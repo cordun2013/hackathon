@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Upshur County,West Virginia","Adair County,Kentucky",22861,613255
+1,"Upshur County,West Virginia","Allen County,Kentucky",25480,713903
+2,"Upshur County,West Virginia","Anderson County,Kentucky",18661,516294
+3,"Upshur County,West Virginia","Ballard County,Kentucky",31639,906066
+4,"Upshur County,West Virginia","Barren County,Kentucky",24607,672283
+5,"Upshur County,West Virginia","Bath County,Kentucky",14308,387476
+6,"Upshur County,West Virginia","Bell County,Kentucky",21863,523291
+7,"Upshur County,West Virginia","Boone County,Kentucky",20121,508869
+8,"Upshur County,West Virginia","Bourbon County,Kentucky",16222,433893
+9,"Upshur County,West Virginia","Boyd County,Kentucky",10984,281800
+10,"Upshur County,West Virginia","Boyle County,Kentucky",19890,520181
+11,"Upshur County,West Virginia","Bracken County,Kentucky",16633,427976
+12,"Upshur County,West Virginia","Breathitt County,Kentucky",17695,428502
+13,"Upshur County,West Virginia","Breckinridge County,Kentucky",24194,668976
+14,"Upshur County,West Virginia","Bullitt County,Kentucky",20764,590095
+15,"Upshur County,West Virginia","Butler County,Kentucky",24859,690973
+16,"Upshur County,West Virginia","Caldwell County,Kentucky",27751,796919
+17,"Upshur County,West Virginia","Calloway County,Kentucky",30561,881911
+18,"Upshur County,West Virginia","Campbell County,Kentucky",18334,467847
+19,"Upshur County,West Virginia","Carlisle County,Kentucky",32097,921434
+20,"Upshur County,West Virginia","Carroll County,Kentucky",21206,564109
+21,"Upshur County,West Virginia","Carter County,Kentucky",12148,311897
+22,"Upshur County,West Virginia","Casey County,Kentucky",21384,551686
+23,"Upshur County,West Virginia","Christian County,Kentucky",27400,792176
+24,"Upshur County,West Virginia","Clay County,Kentucky",20194,515617
+25,"Upshur County,West Virginia","Clinton County,Kentucky",23268,616621
+26,"Upshur County,West Virginia","Crittenden County,Kentucky",29331,829989
+27,"Upshur County,West Virginia","Cumberland County,Kentucky",24022,634860
+28,"Upshur County,West Virginia","Daviess County,Kentucky",25882,737416
+29,"Upshur County,West Virginia","Edmonson County,Kentucky",24299,678848
+30,"Upshur County,West Virginia","Elliott County,Kentucky",13479,337667
+31,"Upshur County,West Virginia","Estill County,Kentucky",17301,449791
+32,"Upshur County,West Virginia","Fayette County,Kentucky",16468,453787
+33,"Upshur County,West Virginia","Fleming County,Kentucky",14734,390661
+34,"Upshur County,West Virginia","Floyd County,Kentucky",15117,389065
+35,"Upshur County,West Virginia","Franklin County,Kentucky",18506,502704
+36,"Upshur County,West Virginia","Fulton County,Kentucky",32501,942398
+37,"Upshur County,West Virginia","Gallatin County,Kentucky",20203,554768
+38,"Upshur County,West Virginia","Garrard County,Kentucky",19073,500941
+39,"Upshur County,West Virginia","Grant County,Kentucky",19002,528875
+40,"Upshur County,West Virginia","Graves County,Kentucky",31121,894140
+41,"Upshur County,West Virginia","Grayson County,Kentucky",23187,647609
+42,"Upshur County,West Virginia","Green County,Kentucky",22966,612815
+43,"Upshur County,West Virginia","Greenup County,Kentucky",12759,322926
+44,"Upshur County,West Virginia","Hancock County,Kentucky",24990,701869
+45,"Upshur County,West Virginia","Hardin County,Kentucky",22063,609742
+46,"Upshur County,West Virginia","Harlan County,Kentucky",21186,503608
+47,"Upshur County,West Virginia","Harrison County,Kentucky",17793,466993
+48,"Upshur County,West Virginia","Hart County,Kentucky",22862,637371
+49,"Upshur County,West Virginia","Henderson County,Kentucky",27689,789846
+50,"Upshur County,West Virginia","Henry County,Kentucky",20107,546422
+51,"Upshur County,West Virginia","Hickman County,Kentucky",32130,922726
+52,"Upshur County,West Virginia","Hopkins County,Kentucky",27210,771387
+53,"Upshur County,West Virginia","Jackson County,Kentucky",19973,497799
+54,"Upshur County,West Virginia","Jefferson County,Kentucky",20201,561956
+55,"Upshur County,West Virginia","Jessamine County,Kentucky",17937,475251
+56,"Upshur County,West Virginia","Johnson County,Kentucky",13765,354696
+57,"Upshur County,West Virginia","Kenton County,Kentucky",19490,496563
+58,"Upshur County,West Virginia","Knott County,Kentucky",16299,420947
+59,"Upshur County,West Virginia","Knox County,Kentucky",21476,579833
+60,"Upshur County,West Virginia","Larue County,Kentucky",22134,596918
+61,"Upshur County,West Virginia","Laurel County,Kentucky",20327,551228
+62,"Upshur County,West Virginia","Lawrence County,Kentucky",12907,326120
+63,"Upshur County,West Virginia","Lee County,Kentucky",18145,443528
+64,"Upshur County,West Virginia","Leslie County,Kentucky",19378,490620
+65,"Upshur County,West Virginia","Letcher County,Kentucky",17371,423887
+66,"Upshur County,West Virginia","Lewis County,Kentucky",14187,363715
+67,"Upshur County,West Virginia","Lincoln County,Kentucky",19783,517859
+68,"Upshur County,West Virginia","Livingston County,Kentucky",29927,846886
+69,"Upshur County,West Virginia","Logan County,Kentucky",26599,734212
+70,"Upshur County,West Virginia","Lyon County,Kentucky",30060,857276
+71,"Upshur County,West Virginia","McCracken County,Kentucky",30252,874126
+72,"Upshur County,West Virginia","McCreary County,Kentucky",22432,595670
+73,"Upshur County,West Virginia","Madison County,Kentucky",17466,464810
+74,"Upshur County,West Virginia","Magoffin County,Kentucky",14733,375375
+75,"Upshur County,West Virginia","Marion County,Kentucky",20512,558527
+76,"Upshur County,West Virginia","Marshall County,Kentucky",29666,857697
+77,"Upshur County,West Virginia","Martin County,Kentucky",14393,358465
+78,"Upshur County,West Virginia","Mason County,Kentucky",15982,407522
+79,"Upshur County,West Virginia","Meade County,Kentucky",22661,634271
+80,"Upshur County,West Virginia","Menifee County,Kentucky",15424,399539
+81,"Upshur County,West Virginia","Mercer County,Kentucky",18889,514238
+82,"Upshur County,West Virginia","Metcalfe County,Kentucky",23517,643520
+83,"Upshur County,West Virginia","Monroe County,Kentucky",25487,681024
+84,"Upshur County,West Virginia","Montgomery County,Kentucky",15121,406016
+85,"Upshur County,West Virginia","Morgan County,Kentucky",15203,375255
+86,"Upshur County,West Virginia","Muhlenberg County,Kentucky",26070,737863
+87,"Upshur County,West Virginia","Nelson County,Kentucky",20120,557599
+88,"Upshur County,West Virginia","Nicholas County,Kentucky",16799,433899
+89,"Upshur County,West Virginia","Ohio County,Kentucky",24983,705453
+90,"Upshur County,West Virginia","Oldham County,Kentucky",20272,573837
+91,"Upshur County,West Virginia","Owen County,Kentucky",19328,529481
+92,"Upshur County,West Virginia","Owsley County,Kentucky",19292,463504
+93,"Upshur County,West Virginia","Pendleton County,Kentucky",18571,468900
+94,"Upshur County,West Virginia","Perry County,Kentucky",17678,451505
+95,"Upshur County,West Virginia","Pike County,Kentucky",14672,354004
+96,"Upshur County,West Virginia","Powell County,Kentucky",16565,435762
+97,"Upshur County,West Virginia","Robertson County,Kentucky",16717,433406
+98,"Upshur County,West Virginia","Rockcastle County,Kentucky",18900,505953
+99,"Upshur County,West Virginia","Rowan County,Kentucky",13451,359683
+100,"Upshur County,West Virginia","Russell County,Kentucky",22466,597239
+101,"Upshur County,West Virginia","Scott County,Kentucky",17302,481814
+102,"Upshur County,West Virginia","Shelby County,Kentucky",19130,533090
+103,"Upshur County,West Virginia","Simpson County,Kentucky",26181,742269
+104,"Upshur County,West Virginia","Spencer County,Kentucky",19659,538938
+105,"Upshur County,West Virginia","Taylor County,Kentucky",21802,590023
+106,"Upshur County,West Virginia","Todd County,Kentucky",27836,758372
+107,"Upshur County,West Virginia","Trigg County,Kentucky",28814,818105
+108,"Upshur County,West Virginia","Trimble County,Kentucky",21346,579877
+109,"Upshur County,West Virginia","Union County,Kentucky",29408,820292
+110,"Upshur County,West Virginia","Warren County,Kentucky",25216,707217
+111,"Upshur County,West Virginia","Washington County,Kentucky",20130,542835
+112,"Upshur County,West Virginia","Wayne County,Kentucky",22642,594312
+113,"Upshur County,West Virginia","Webster County,Kentucky",28319,799476
+114,"Upshur County,West Virginia","Whitley County,Kentucky",21160,585713
+115,"Upshur County,West Virginia","Wolfe County,Kentucky",16298,398617
+116,"Upshur County,West Virginia","Woodford County,Kentucky",17522,484450
+117,"Upshur County,West Virginia","Adams County,Ohio",15655,409475
+118,"Upshur County,West Virginia","Allen County,Ohio",20114,527113
+119,"Upshur County,West Virginia","Ashland County,Ohio",16666,428763
+120,"Upshur County,West Virginia","Ashtabula County,Ohio",15466,438861
+121,"Upshur County,West Virginia","Athens County,Ohio",10051,256985
+122,"Upshur County,West Virginia","Auglaize County,Ohio",19728,530806
+123,"Upshur County,West Virginia","Belmont County,Ohio",9915,266414
+124,"Upshur County,West Virginia","Brown County,Ohio",17079,442335
+125,"Upshur County,West Virginia","Butler County,Ohio",19902,522554
+126,"Upshur County,West Virginia","Carroll County,Ohio",12860,302272
+127,"Upshur County,West Virginia","Champaign County,Ohio",17385,446574
+128,"Upshur County,West Virginia","Clark County,Ohio",16263,437145
+129,"Upshur County,West Virginia","Clermont County,Ohio",17733,467499
+130,"Upshur County,West Virginia","Clinton County,Ohio",17156,450984
+131,"Upshur County,West Virginia","Columbiana County,Ohio",12069,290793
+132,"Upshur County,West Virginia","Coshocton County,Ohio",12981,346588
+133,"Upshur County,West Virginia","Crawford County,Ohio",18374,491869
+134,"Upshur County,West Virginia","Cuyahoga County,Ohio",15462,436704
+135,"Upshur County,West Virginia","Darke County,Ohio",19839,535047
+136,"Upshur County,West Virginia","Defiance County,Ohio",23550,605433
+137,"Upshur County,West Virginia","Delaware County,Ohio",15704,419831
+138,"Upshur County,West Virginia","Fairfield County,Ohio",13234,346925
+139,"Upshur County,West Virginia","Fayette County,Ohio",15720,421448
+140,"Upshur County,West Virginia","Franklin County,Ohio",14234,376780
+141,"Upshur County,West Virginia","Fulton County,Ohio",22133,642519
+142,"Upshur County,West Virginia","Gallia County,Ohio",11421,281094
+143,"Upshur County,West Virginia","Geauga County,Ohio",14956,411523
+144,"Upshur County,West Virginia","Greene County,Ohio",16590,454600
+145,"Upshur County,West Virginia","Guernsey County,Ohio",10532,284507
+146,"Upshur County,West Virginia","Hamilton County,Ohio",19404,533132
+147,"Upshur County,West Virginia","Hancock County,Ohio",19727,528186
+148,"Upshur County,West Virginia","Hardin County,Ohio",18625,482942
+149,"Upshur County,West Virginia","Harrison County,Ohio",11876,305128
+150,"Upshur County,West Virginia","Henry County,Ohio",22440,599807
+151,"Upshur County,West Virginia","Highland County,Ohio",16192,409488
+152,"Upshur County,West Virginia","Hocking County,Ohio",11676,302888
+153,"Upshur County,West Virginia","Holmes County,Ohio",14040,369472
+154,"Upshur County,West Virginia","Huron County,Ohio",18563,470391
+155,"Upshur County,West Virginia","Jackson County,Ohio",12179,320040
+156,"Upshur County,West Virginia","Jefferson County,Ohio",10816,265764
+157,"Upshur County,West Virginia","Knox County,Ohio",14770,389064
+158,"Upshur County,West Virginia","Lawrence County,Ohio",12123,286857
+159,"Upshur County,West Virginia","Licking County,Ohio",14159,369995
+160,"Upshur County,West Virginia","Logan County,Ohio",17646,477219
+161,"Upshur County,West Virginia","Lorain County,Ohio",16514,466425
+162,"Upshur County,West Virginia","Lucas County,Ohio",21087,595369
+163,"Upshur County,West Virginia","Madison County,Ohio",15512,411501
+164,"Upshur County,West Virginia","Mahoning County,Ohio",11952,328853
+165,"Upshur County,West Virginia","Marion County,Ohio",17110,445924
+166,"Upshur County,West Virginia","Medina County,Ohio",16055,446906
+167,"Upshur County,West Virginia","Meigs County,Ohio",10016,249563
+168,"Upshur County,West Virginia","Mercer County,Ohio",20964,557740
+169,"Upshur County,West Virginia","Miami County,Ohio",18350,500479
+170,"Upshur County,West Virginia","Monroe County,Ohio",9944,222713
+171,"Upshur County,West Virginia","Montgomery County,Ohio",18611,505925
+172,"Upshur County,West Virginia","Morgan County,Ohio",10494,259332
+173,"Upshur County,West Virginia","Morrow County,Ohio",16511,442652
+174,"Upshur County,West Virginia","Muskingum County,Ohio",11378,312498
+175,"Upshur County,West Virginia","Noble County,Ohio",9974,256859
+176,"Upshur County,West Virginia","Paulding County,Ohio",22651,603018
+177,"Upshur County,West Virginia","Perry County,Ohio",13019,305200
+178,"Upshur County,West Virginia","Pickaway County,Ohio",13840,355830
+179,"Upshur County,West Virginia","Pike County,Ohio",13625,359346
+180,"Upshur County,West Virginia","Portage County,Ohio",13807,384866
+181,"Upshur County,West Virginia","Preble County,Ohio",19381,528637
+182,"Upshur County,West Virginia","Putnam County,Ohio",21237,559471
+183,"Upshur County,West Virginia","Richland County,Ohio",17022,442103
+184,"Upshur County,West Virginia","Ross County,Ohio",13904,367853
+185,"Upshur County,West Virginia","Sandusky County,Ohio",19375,553944
+186,"Upshur County,West Virginia","Scioto County,Ohio",13928,344130
+187,"Upshur County,West Virginia","Seneca County,Ohio",20100,520766
+188,"Upshur County,West Virginia","Shelby County,Ohio",19404,507467
+189,"Upshur County,West Virginia","Stark County,Ohio",14205,390706
+190,"Upshur County,West Virginia","Summit County,Ohio",14701,413461
+191,"Upshur County,West Virginia","Trumbull County,Ohio",13110,366317
+192,"Upshur County,West Virginia","Tuscarawas County,Ohio",12406,331293
+193,"Upshur County,West Virginia","Union County,Ohio",16150,427450
+194,"Upshur County,West Virginia","Van Wert County,Ohio",21349,569982
+195,"Upshur County,West Virginia","Vinton County,Ohio",12169,305426
+196,"Upshur County,West Virginia","Warren County,Ohio",17820,489100
+197,"Upshur County,West Virginia","Washington County,Ohio",8832,214795
+198,"Upshur County,West Virginia","Wayne County,Ohio",15176,393584
+199,"Upshur County,West Virginia","Williams County,Ohio",23378,673975
+200,"Upshur County,West Virginia","Wood County,Ohio",21125,569793
+201,"Upshur County,West Virginia","Wyandot County,Ohio",18697,492322
+202,"Upshur County,West Virginia","Accomack County,Virginia",27569,643371
+203,"Upshur County,West Virginia","Albemarle County,Virginia",13719,255870
+204,"Upshur County,West Virginia","Alleghany County,Virginia",11831,256143
+205,"Upshur County,West Virginia","Amelia County,Virginia",18773,387689
+206,"Upshur County,West Virginia","Amherst County,Virginia",16152,306777
+207,"Upshur County,West Virginia","Appomattox County,Virginia",17367,331405
+208,"Upshur County,West Virginia","Arlington County,Virginia",15331,370302
+209,"Upshur County,West Virginia","Augusta County,Virginia",11754,202310
+210,"Upshur County,West Virginia","Bath County,Virginia",11163,183954
+211,"Upshur County,West Virginia","Bedford County,Virginia",17675,337631
+212,"Upshur County,West Virginia","Bland County,Virginia",12367,295066
+213,"Upshur County,West Virginia","Botetourt County,Virginia",14843,273944
+214,"Upshur County,West Virginia","Brunswick County,Virginia",21404,489999
+215,"Upshur County,West Virginia","Buchanan County,Virginia",16361,379295
+216,"Upshur County,West Virginia","Buckingham County,Virginia",17027,321019
+217,"Upshur County,West Virginia","Campbell County,Virginia",17514,346909
+218,"Upshur County,West Virginia","Caroline County,Virginia",17769,428959
+219,"Upshur County,West Virginia","Carroll County,Virginia",14612,364503
+220,"Upshur County,West Virginia","Charles City County,Virginia",19158,421750
+221,"Upshur County,West Virginia","Charlotte County,Virginia",19349,379903
+222,"Upshur County,West Virginia","Chesterfield County,Virginia",18294,399534
+223,"Upshur County,West Virginia","Clarke County,Virginia",12826,297051
+224,"Upshur County,West Virginia","Craig County,Virginia",15048,349931
+225,"Upshur County,West Virginia","Culpeper County,Virginia",14835,351576
+226,"Upshur County,West Virginia","Cumberland County,Virginia",17761,346227
+227,"Upshur County,West Virginia","Dickenson County,Virginia",18771,443965
+228,"Upshur County,West Virginia","Dinwiddie County,Virginia",20041,449966
+229,"Upshur County,West Virginia","Essex County,Virginia",19171,453013
+230,"Upshur County,West Virginia","Fairfax County,Virginia",14954,360578
+231,"Upshur County,West Virginia","Fauquier County,Virginia",13265,318302
+232,"Upshur County,West Virginia","Floyd County,Virginia",16233,383468
+233,"Upshur County,West Virginia","Fluvanna County,Virginia",15397,308042
+234,"Upshur County,West Virginia","Franklin County,Virginia",17844,353054
+235,"Upshur County,West Virginia","Frederick County,Virginia",11346,260856
+236,"Upshur County,West Virginia","Giles County,Virginia",13097,306624
+237,"Upshur County,West Virginia","Gloucester County,Virginia",21329,475939
+238,"Upshur County,West Virginia","Goochland County,Virginia",16300,338653
+239,"Upshur County,West Virginia","Grayson County,Virginia",15015,354211
+240,"Upshur County,West Virginia","Greene County,Virginia",13869,263879
+241,"Upshur County,West Virginia","Greensville County,Virginia",21457,498717
+242,"Upshur County,West Virginia","Halifax County,Virginia",20835,418615
+243,"Upshur County,West Virginia","Hanover County,Virginia",17506,379759
+244,"Upshur County,West Virginia","Henrico County,Virginia",18018,392719
+245,"Upshur County,West Virginia","Henry County,Virginia",18486,451224
+246,"Upshur County,West Virginia","Highland County,Virginia",8301,136111
+247,"Upshur County,West Virginia","Isle of Wight County,Virginia",22270,497296
+248,"Upshur County,West Virginia","James City County,Virginia",20394,462521
+249,"Upshur County,West Virginia","King and Queen County,Virginia",20052,438105
+250,"Upshur County,West Virginia","King George County,Virginia",17692,412455
+251,"Upshur County,West Virginia","King William County,Virginia",18740,408028
+252,"Upshur County,West Virginia","Lancaster County,Virginia",21594,509007
+253,"Upshur County,West Virginia","Lee County,Virginia",20071,492481
+254,"Upshur County,West Virginia","Loudoun County,Virginia",14322,332917
+255,"Upshur County,West Virginia","Louisa County,Virginia",15957,321748
+256,"Upshur County,West Virginia","Lunenburg County,Virginia",20646,422625
+257,"Upshur County,West Virginia","Madison County,Virginia",15353,299911
+258,"Upshur County,West Virginia","Mathews County,Virginia",22154,499362
+259,"Upshur County,West Virginia","Mecklenburg County,Virginia",21995,447071
+260,"Upshur County,West Virginia","Middlesex County,Virginia",20930,472139
+261,"Upshur County,West Virginia","Montgomery County,Virginia",14180,334631
+262,"Upshur County,West Virginia","Nelson County,Virginia",14598,274371
+263,"Upshur County,West Virginia","New Kent County,Virginia",19830,436435
+264,"Upshur County,West Virginia","Northampton County,Virginia",24812,579185
+265,"Upshur County,West Virginia","Northumberland County,Virginia",21634,507520
+266,"Upshur County,West Virginia","Nottoway County,Virginia",19898,409180
+267,"Upshur County,West Virginia","Orange County,Virginia",16378,316693
+268,"Upshur County,West Virginia","Page County,Virginia",13287,295984
+269,"Upshur County,West Virginia","Patrick County,Virginia",16718,409539
+270,"Upshur County,West Virginia","Pittsylvania County,Virginia",20084,418536
+271,"Upshur County,West Virginia","Powhatan County,Virginia",17553,363874
+272,"Upshur County,West Virginia","Prince Edward County,Virginia",18569,374843
+273,"Upshur County,West Virginia","Prince George County,Virginia",19805,436550
+274,"Upshur County,West Virginia","Prince William County,Virginia",13364,324406
+275,"Upshur County,West Virginia","Pulaski County,Virginia",14275,330962
+276,"Upshur County,West Virginia","Rappahannock County,Virginia",13576,303440
+277,"Upshur County,West Virginia","Richmond County,Virginia",20334,480163
+278,"Upshur County,West Virginia","Roanoke County,Virginia",15800,377424
+279,"Upshur County,West Virginia","Rockbridge County,Virginia",13441,247732
+280,"Upshur County,West Virginia","Rockingham County,Virginia",11327,219292
+281,"Upshur County,West Virginia","Russell County,Virginia",16175,375246
+282,"Upshur County,West Virginia","Scott County,Virginia",18839,443373
+283,"Upshur County,West Virginia","Shenandoah County,Virginia",11725,253374
+284,"Upshur County,West Virginia","Smyth County,Virginia",14724,360418
+285,"Upshur County,West Virginia","Southampton County,Virginia",21835,494831
+286,"Upshur County,West Virginia","Spotsylvania County,Virginia",16881,393443
+287,"Upshur County,West Virginia","Stafford County,Virginia",15884,382308
+288,"Upshur County,West Virginia","Surry County,Virginia",21138,461383
+289,"Upshur County,West Virginia","Sussex County,Virginia",20499,465074
+290,"Upshur County,West Virginia","Tazewell County,Virginia",13182,313653
+291,"Upshur County,West Virginia","Warren County,Virginia",11905,266103
+292,"Upshur County,West Virginia","Washington County,Virginia",16118,399884
+293,"Upshur County,West Virginia","Westmoreland County,Virginia",18660,431256
+294,"Upshur County,West Virginia","Wise County,Virginia",17036,419864
+295,"Upshur County,West Virginia","Wythe County,Virginia",12971,313283
+296,"Upshur County,West Virginia","York County,Virginia",21682,493296
+297,"Upshur County,West Virginia","Alexandria City County,Virginia",15534,382949
+298,"Upshur County,West Virginia","Bedford City County,Virginia",16708,320778
+299,"Upshur County,West Virginia","Bristol City County,Virginia",16593,425602
+300,"Upshur County,West Virginia","Buena Vista City County,Virginia",13795,261709
+301,"Upshur County,West Virginia","Charlottesville City County,Virginia",14188,271085
+302,"Upshur County,West Virginia","Chesapeake City County,Virginia",23145,546201
+303,"Upshur County,West Virginia","Clifton Forge City County,Virginia",12375,276349
+304,"Upshur County,West Virginia","Colonial Heights City County,Virginia",18854,415426
+305,"Upshur County,West Virginia","Covington City County,Virginia",11900,259728
+306,"Upshur County,West Virginia","Danville City County,Virginia",20683,434879
+307,"Upshur County,West Virginia","Emporia City County,Virginia",21165,485311
+308,"Upshur County,West Virginia","Fairfax City County,Virginia",14497,350154
+309,"Upshur County,West Virginia","Falls Church City County,Virginia",14829,364626
+310,"Upshur County,West Virginia","Franklin City County,Virginia",22383,502686
+311,"Upshur County,West Virginia","Fredericksburg City County,Virginia",16204,379150
+312,"Upshur County,West Virginia","Galax City County,Virginia",15236,370369
+313,"Upshur County,West Virginia","Hampton City County,Virginia",21632,503002
+314,"Upshur County,West Virginia","Harrisonburg City County,Virginia",11165,214454
+315,"Upshur County,West Virginia","Hopewell City County,Virginia",18891,414393
+316,"Upshur County,West Virginia","Lexington City County,Virginia",13429,250200
+317,"Upshur County,West Virginia","Lynchburg City County,Virginia",16700,326832
+318,"Upshur County,West Virginia","Manassas City County,Virginia",13592,329351
+319,"Upshur County,West Virginia","Manassas Park City County,Virginia",14094,335694
+320,"Upshur County,West Virginia","Martinsville City County,Virginia",19013,460018
+321,"Upshur County,West Virginia","Newport News City County,Virginia",21189,489488
+322,"Upshur County,West Virginia","Norfolk City County,Virginia",22938,528418
+323,"Upshur County,West Virginia","Norton City County,Virginia",17664,431676
+324,"Upshur County,West Virginia","Petersburg City County,Virginia",18726,416414
+325,"Upshur County,West Virginia","Poquoson City County,Virginia",21861,500064
+326,"Upshur County,West Virginia","Portsmouth City County,Virginia",22878,537239
+327,"Upshur County,West Virginia","Radford County,Virginia",14588,332671
+328,"Upshur County,West Virginia","Richmond City County,Virginia",17594,380529
+329,"Upshur County,West Virginia","Roanoke City County,Virginia",15740,303413
+330,"Upshur County,West Virginia","Salem City County,Virginia",15570,301884
+331,"Upshur County,West Virginia","South Boston City County,Virginia",20838,417434
+332,"Upshur County,West Virginia","Staunton City County,Virginia",11895,203000
+333,"Upshur County,West Virginia","Suffolk City County,Virginia",23113,512020
+334,"Upshur County,West Virginia","Virginia Beach City County,Virginia",23499,551676
+335,"Upshur County,West Virginia","Waynesboro City County,Virginia",12849,225981
+336,"Upshur County,West Virginia","Williamsburg City County,Virginia",20233,461737
+337,"Upshur County,West Virginia","Winchester City County,Virginia",11883,269002
+338,"Upshur County,West Virginia","Barbour County,West Virginia",3562,55386
+339,"Upshur County,West Virginia","Berkeley County,West Virginia",12697,335680
+340,"Upshur County,West Virginia","Boone County,West Virginia",10846,243152
+341,"Upshur County,West Virginia","Braxton County,West Virginia",5277,79358
+342,"Upshur County,West Virginia","Brooke County,West Virginia",9123,229314
+343,"Upshur County,West Virginia","Cabell County,West Virginia",10440,260061
+344,"Upshur County,West Virginia","Calhoun County,West Virginia",6661,137065
+345,"Upshur County,West Virginia","Clay County,West Virginia",7092,144798
+346,"Upshur County,West Virginia","Doddridge County,West Virginia",5354,81423
+347,"Upshur County,West Virginia","Fayette County,West Virginia",7871,164715
+348,"Upshur County,West Virginia","Gilmer County,West Virginia",5142,101756
+349,"Upshur County,West Virginia","Grant County,West Virginia",7661,157099
+350,"Upshur County,West Virginia","Greenbrier County,West Virginia",11073,200275
+351,"Upshur County,West Virginia","Hampshire County,West Virginia",10583,218554
+352,"Upshur County,West Virginia","Hancock County,West Virginia",10749,256661
+353,"Upshur County,West Virginia","Hardy County,West Virginia",8716,188596
+354,"Upshur County,West Virginia","Harrison County,West Virginia",3998,83891
+355,"Upshur County,West Virginia","Jackson County,West Virginia",9602,192621
+356,"Upshur County,West Virginia","Jefferson County,West Virginia",13984,304889
+357,"Upshur County,West Virginia","Kanawha County,West Virginia",9322,211321
+358,"Upshur County,West Virginia","Lewis County,West Virginia",3043,51386
+359,"Upshur County,West Virginia","Lincoln County,West Virginia",11104,237739
+360,"Upshur County,West Virginia","Logan County,West Virginia",11776,280270
+361,"Upshur County,West Virginia","McDowell County,West Virginia",13956,289325
+362,"Upshur County,West Virginia","Marion County,West Virginia",5143,111058
+363,"Upshur County,West Virginia","Marshall County,West Virginia",10110,223758
+364,"Upshur County,West Virginia","Mason County,West Virginia",9915,245968
+365,"Upshur County,West Virginia","Mercer County,West Virginia",10920,253572
+366,"Upshur County,West Virginia","Mineral County,West Virginia",9355,185920
+367,"Upshur County,West Virginia","Mingo County,West Virginia",11821,284778
+368,"Upshur County,West Virginia","Monongalia County,West Virginia",5354,136527
+369,"Upshur County,West Virginia","Monroe County,West Virginia",12681,261343
+370,"Upshur County,West Virginia","Morgan County,West Virginia",12189,325071
+371,"Upshur County,West Virginia","Nicholas County,West Virginia",6391,129419
+372,"Upshur County,West Virginia","Ohio County,West Virginia",9029,238260
+373,"Upshur County,West Virginia","Pendleton County,West Virginia",7992,159723
+374,"Upshur County,West Virginia","Pleasants County,West Virginia",6796,160032
+375,"Upshur County,West Virginia","Pocahontas County,West Virginia",7901,97661
+376,"Upshur County,West Virginia","Preston County,West Virginia",6627,124332
+377,"Upshur County,West Virginia","Putnam County,West Virginia",8697,211586
+378,"Upshur County,West Virginia","Raleigh County,West Virginia",9461,207265
+379,"Upshur County,West Virginia","Randolph County,West Virginia",3309,49991
+380,"Upshur County,West Virginia","Ritchie County,West Virginia",6707,154333
+381,"Upshur County,West Virginia","Roane County,West Virginia",9082,171101
+382,"Upshur County,West Virginia","Summers County,West Virginia",12668,237710
+383,"Upshur County,West Virginia","Taylor County,West Virginia",4913,81383
+384,"Upshur County,West Virginia","Tucker County,West Virginia",4737,88374
+385,"Upshur County,West Virginia","Tyler County,West Virginia",7723,152698
+386,"Upshur County,West Virginia","Wayne County,West Virginia",12031,292688
+387,"Upshur County,West Virginia","Webster County,West Virginia",5590,88806
+388,"Upshur County,West Virginia","Wetzel County,West Virginia",6677,135373
+389,"Upshur County,West Virginia","Wirt County,West Virginia",8102,168631
+390,"Upshur County,West Virginia","Wood County,West Virginia",7576,185294
+391,"Upshur County,West Virginia","Wyoming County,West Virginia",11406,247207

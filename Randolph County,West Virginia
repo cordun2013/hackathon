@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Randolph County,West Virginia","Adair County,Kentucky",23776,666265
+1,"Randolph County,West Virginia","Allen County,Kentucky",26395,766913
+2,"Randolph County,West Virginia","Anderson County,Kentucky",19576,569304
+3,"Randolph County,West Virginia","Ballard County,Kentucky",32554,959075
+4,"Randolph County,West Virginia","Barren County,Kentucky",25522,725292
+5,"Randolph County,West Virginia","Bath County,Kentucky",15223,440485
+6,"Randolph County,West Virginia","Bell County,Kentucky",22778,576301
+7,"Randolph County,West Virginia","Boone County,Kentucky",21036,561878
+8,"Randolph County,West Virginia","Bourbon County,Kentucky",17137,486903
+9,"Randolph County,West Virginia","Boyd County,Kentucky",11899,334810
+10,"Randolph County,West Virginia","Boyle County,Kentucky",20805,573191
+11,"Randolph County,West Virginia","Bracken County,Kentucky",17548,480985
+12,"Randolph County,West Virginia","Breathitt County,Kentucky",18610,481512
+13,"Randolph County,West Virginia","Breckinridge County,Kentucky",25109,721985
+14,"Randolph County,West Virginia","Bullitt County,Kentucky",21679,643105
+15,"Randolph County,West Virginia","Butler County,Kentucky",25774,743983
+16,"Randolph County,West Virginia","Caldwell County,Kentucky",28666,849928
+17,"Randolph County,West Virginia","Calloway County,Kentucky",31476,934921
+18,"Randolph County,West Virginia","Campbell County,Kentucky",19249,520857
+19,"Randolph County,West Virginia","Carlisle County,Kentucky",33012,974444
+20,"Randolph County,West Virginia","Carroll County,Kentucky",22120,617119
+21,"Randolph County,West Virginia","Carter County,Kentucky",13063,364907
+22,"Randolph County,West Virginia","Casey County,Kentucky",22299,604696
+23,"Randolph County,West Virginia","Christian County,Kentucky",28315,845185
+24,"Randolph County,West Virginia","Clay County,Kentucky",21109,568626
+25,"Randolph County,West Virginia","Clinton County,Kentucky",24183,669630
+26,"Randolph County,West Virginia","Crittenden County,Kentucky",30246,882999
+27,"Randolph County,West Virginia","Cumberland County,Kentucky",24937,687869
+28,"Randolph County,West Virginia","Daviess County,Kentucky",26797,790426
+29,"Randolph County,West Virginia","Edmonson County,Kentucky",25214,731858
+30,"Randolph County,West Virginia","Elliott County,Kentucky",14394,390677
+31,"Randolph County,West Virginia","Estill County,Kentucky",18216,502801
+32,"Randolph County,West Virginia","Fayette County,Kentucky",17383,506797
+33,"Randolph County,West Virginia","Fleming County,Kentucky",15649,443671
+34,"Randolph County,West Virginia","Floyd County,Kentucky",16032,442075
+35,"Randolph County,West Virginia","Franklin County,Kentucky",19421,555713
+36,"Randolph County,West Virginia","Fulton County,Kentucky",33415,995408
+37,"Randolph County,West Virginia","Gallatin County,Kentucky",21118,607777
+38,"Randolph County,West Virginia","Garrard County,Kentucky",19988,553950
+39,"Randolph County,West Virginia","Grant County,Kentucky",19917,581885
+40,"Randolph County,West Virginia","Graves County,Kentucky",32036,947150
+41,"Randolph County,West Virginia","Grayson County,Kentucky",24101,700619
+42,"Randolph County,West Virginia","Green County,Kentucky",23881,665824
+43,"Randolph County,West Virginia","Greenup County,Kentucky",13674,375936
+44,"Randolph County,West Virginia","Hancock County,Kentucky",25905,754878
+45,"Randolph County,West Virginia","Hardin County,Kentucky",22978,662752
+46,"Randolph County,West Virginia","Harlan County,Kentucky",22101,556617
+47,"Randolph County,West Virginia","Harrison County,Kentucky",18708,520002
+48,"Randolph County,West Virginia","Hart County,Kentucky",23777,690380
+49,"Randolph County,West Virginia","Henderson County,Kentucky",28604,842855
+50,"Randolph County,West Virginia","Henry County,Kentucky",21022,599432
+51,"Randolph County,West Virginia","Hickman County,Kentucky",33045,975735
+52,"Randolph County,West Virginia","Hopkins County,Kentucky",28125,824397
+53,"Randolph County,West Virginia","Jackson County,Kentucky",20888,550809
+54,"Randolph County,West Virginia","Jefferson County,Kentucky",21116,614965
+55,"Randolph County,West Virginia","Jessamine County,Kentucky",18852,528261
+56,"Randolph County,West Virginia","Johnson County,Kentucky",14680,407706
+57,"Randolph County,West Virginia","Kenton County,Kentucky",20405,549572
+58,"Randolph County,West Virginia","Knott County,Kentucky",17213,473957
+59,"Randolph County,West Virginia","Knox County,Kentucky",22391,632843
+60,"Randolph County,West Virginia","Larue County,Kentucky",23049,649928
+61,"Randolph County,West Virginia","Laurel County,Kentucky",21242,604238
+62,"Randolph County,West Virginia","Lawrence County,Kentucky",13822,379130
+63,"Randolph County,West Virginia","Lee County,Kentucky",19060,496537
+64,"Randolph County,West Virginia","Leslie County,Kentucky",20293,543630
+65,"Randolph County,West Virginia","Letcher County,Kentucky",18285,476896
+66,"Randolph County,West Virginia","Lewis County,Kentucky",15102,416725
+67,"Randolph County,West Virginia","Lincoln County,Kentucky",20698,570869
+68,"Randolph County,West Virginia","Livingston County,Kentucky",30842,899895
+69,"Randolph County,West Virginia","Logan County,Kentucky",27514,787221
+70,"Randolph County,West Virginia","Lyon County,Kentucky",30975,910286
+71,"Randolph County,West Virginia","McCracken County,Kentucky",31167,927135
+72,"Randolph County,West Virginia","McCreary County,Kentucky",23347,648680
+73,"Randolph County,West Virginia","Madison County,Kentucky",18381,517820
+74,"Randolph County,West Virginia","Magoffin County,Kentucky",15648,428385
+75,"Randolph County,West Virginia","Marion County,Kentucky",21427,611537
+76,"Randolph County,West Virginia","Marshall County,Kentucky",30581,910707
+77,"Randolph County,West Virginia","Martin County,Kentucky",15308,411475
+78,"Randolph County,West Virginia","Mason County,Kentucky",16897,460531
+79,"Randolph County,West Virginia","Meade County,Kentucky",23576,687280
+80,"Randolph County,West Virginia","Menifee County,Kentucky",16339,452549
+81,"Randolph County,West Virginia","Mercer County,Kentucky",19804,567248
+82,"Randolph County,West Virginia","Metcalfe County,Kentucky",24432,696530
+83,"Randolph County,West Virginia","Monroe County,Kentucky",26402,734034
+84,"Randolph County,West Virginia","Montgomery County,Kentucky",16036,459026
+85,"Randolph County,West Virginia","Morgan County,Kentucky",16118,428265
+86,"Randolph County,West Virginia","Muhlenberg County,Kentucky",26985,790872
+87,"Randolph County,West Virginia","Nelson County,Kentucky",21035,610608
+88,"Randolph County,West Virginia","Nicholas County,Kentucky",17714,486909
+89,"Randolph County,West Virginia","Ohio County,Kentucky",25898,758462
+90,"Randolph County,West Virginia","Oldham County,Kentucky",21187,626847
+91,"Randolph County,West Virginia","Owen County,Kentucky",20242,582490
+92,"Randolph County,West Virginia","Owsley County,Kentucky",20207,516514
+93,"Randolph County,West Virginia","Pendleton County,Kentucky",19486,521910
+94,"Randolph County,West Virginia","Perry County,Kentucky",18593,504514
+95,"Randolph County,West Virginia","Pike County,Kentucky",15587,407014
+96,"Randolph County,West Virginia","Powell County,Kentucky",17480,488771
+97,"Randolph County,West Virginia","Robertson County,Kentucky",17632,486415
+98,"Randolph County,West Virginia","Rockcastle County,Kentucky",19815,558963
+99,"Randolph County,West Virginia","Rowan County,Kentucky",14366,412693
+100,"Randolph County,West Virginia","Russell County,Kentucky",23381,650249
+101,"Randolph County,West Virginia","Scott County,Kentucky",18217,534824
+102,"Randolph County,West Virginia","Shelby County,Kentucky",20044,586100
+103,"Randolph County,West Virginia","Simpson County,Kentucky",27096,795279
+104,"Randolph County,West Virginia","Spencer County,Kentucky",20574,591948
+105,"Randolph County,West Virginia","Taylor County,Kentucky",22717,643033
+106,"Randolph County,West Virginia","Todd County,Kentucky",28751,811382
+107,"Randolph County,West Virginia","Trigg County,Kentucky",29729,871114
+108,"Randolph County,West Virginia","Trimble County,Kentucky",22261,632886
+109,"Randolph County,West Virginia","Union County,Kentucky",30323,873302
+110,"Randolph County,West Virginia","Warren County,Kentucky",26131,760227
+111,"Randolph County,West Virginia","Washington County,Kentucky",21045,595845
+112,"Randolph County,West Virginia","Wayne County,Kentucky",23557,647321
+113,"Randolph County,West Virginia","Webster County,Kentucky",29234,852485
+114,"Randolph County,West Virginia","Whitley County,Kentucky",22075,638723
+115,"Randolph County,West Virginia","Wolfe County,Kentucky",17212,451626
+116,"Randolph County,West Virginia","Woodford County,Kentucky",18437,537460
+117,"Randolph County,West Virginia","Adams County,Ohio",16638,439860
+118,"Randolph County,West Virginia","Allen County,Ohio",21097,557498
+119,"Randolph County,West Virginia","Ashland County,Ohio",17649,459148
+120,"Randolph County,West Virginia","Ashtabula County,Ohio",16449,469246
+121,"Randolph County,West Virginia","Athens County,Ohio",11034,287370
+122,"Randolph County,West Virginia","Auglaize County,Ohio",20711,561192
+123,"Randolph County,West Virginia","Belmont County,Ohio",10898,296799
+124,"Randolph County,West Virginia","Brown County,Ohio",18062,472720
+125,"Randolph County,West Virginia","Butler County,Ohio",20885,552939
+126,"Randolph County,West Virginia","Carroll County,Ohio",13843,332658
+127,"Randolph County,West Virginia","Champaign County,Ohio",18368,476959
+128,"Randolph County,West Virginia","Clark County,Ohio",17246,467530
+129,"Randolph County,West Virginia","Clermont County,Ohio",18716,497884
+130,"Randolph County,West Virginia","Clinton County,Ohio",18139,481370
+131,"Randolph County,West Virginia","Columbiana County,Ohio",13052,321179
+132,"Randolph County,West Virginia","Coshocton County,Ohio",13964,376973
+133,"Randolph County,West Virginia","Crawford County,Ohio",19357,522254
+134,"Randolph County,West Virginia","Cuyahoga County,Ohio",16445,467090
+135,"Randolph County,West Virginia","Darke County,Ohio",20822,565432
+136,"Randolph County,West Virginia","Defiance County,Ohio",24533,635819
+137,"Randolph County,West Virginia","Delaware County,Ohio",16687,450216
+138,"Randolph County,West Virginia","Fairfield County,Ohio",14217,377310
+139,"Randolph County,West Virginia","Fayette County,Ohio",16703,451833
+140,"Randolph County,West Virginia","Franklin County,Ohio",15217,407165
+141,"Randolph County,West Virginia","Fulton County,Ohio",23116,672904
+142,"Randolph County,West Virginia","Gallia County,Ohio",12336,334104
+143,"Randolph County,West Virginia","Geauga County,Ohio",15938,441908
+144,"Randolph County,West Virginia","Greene County,Ohio",17573,484986
+145,"Randolph County,West Virginia","Guernsey County,Ohio",11515,314892
+146,"Randolph County,West Virginia","Hamilton County,Ohio",20386,563517
+147,"Randolph County,West Virginia","Hancock County,Ohio",20710,558571
+148,"Randolph County,West Virginia","Hardin County,Ohio",19608,513327
+149,"Randolph County,West Virginia","Harrison County,Ohio",12859,335513
+150,"Randolph County,West Virginia","Henry County,Ohio",23422,630193
+151,"Randolph County,West Virginia","Highland County,Ohio",17175,439874
+152,"Randolph County,West Virginia","Hocking County,Ohio",12659,333274
+153,"Randolph County,West Virginia","Holmes County,Ohio",15023,399857
+154,"Randolph County,West Virginia","Huron County,Ohio",19546,500777
+155,"Randolph County,West Virginia","Jackson County,Ohio",13162,350425
+156,"Randolph County,West Virginia","Jefferson County,Ohio",11799,296149
+157,"Randolph County,West Virginia","Knox County,Ohio",15753,419449
+158,"Randolph County,West Virginia","Lawrence County,Ohio",13038,339866
+159,"Randolph County,West Virginia","Licking County,Ohio",15142,400380
+160,"Randolph County,West Virginia","Logan County,Ohio",18629,507605
+161,"Randolph County,West Virginia","Lorain County,Ohio",17497,496810
+162,"Randolph County,West Virginia","Lucas County,Ohio",22070,625754
+163,"Randolph County,West Virginia","Madison County,Ohio",16495,441887
+164,"Randolph County,West Virginia","Mahoning County,Ohio",12935,359238
+165,"Randolph County,West Virginia","Marion County,Ohio",18093,476309
+166,"Randolph County,West Virginia","Medina County,Ohio",17038,477291
+167,"Randolph County,West Virginia","Meigs County,Ohio",10999,279948
+168,"Randolph County,West Virginia","Mercer County,Ohio",21946,588125
+169,"Randolph County,West Virginia","Miami County,Ohio",19333,530864
+170,"Randolph County,West Virginia","Monroe County,Ohio",10927,253098
+171,"Randolph County,West Virginia","Montgomery County,Ohio",19594,536311
+172,"Randolph County,West Virginia","Morgan County,Ohio",11477,289717
+173,"Randolph County,West Virginia","Morrow County,Ohio",17494,473037
+174,"Randolph County,West Virginia","Muskingum County,Ohio",12361,342884
+175,"Randolph County,West Virginia","Noble County,Ohio",10956,287244
+176,"Randolph County,West Virginia","Paulding County,Ohio",23634,633404
+177,"Randolph County,West Virginia","Perry County,Ohio",14001,335585
+178,"Randolph County,West Virginia","Pickaway County,Ohio",14823,386215
+179,"Randolph County,West Virginia","Pike County,Ohio",14608,389732
+180,"Randolph County,West Virginia","Portage County,Ohio",14790,415251
+181,"Randolph County,West Virginia","Preble County,Ohio",20364,559022
+182,"Randolph County,West Virginia","Putnam County,Ohio",22220,589856
+183,"Randolph County,West Virginia","Richland County,Ohio",18004,472488
+184,"Randolph County,West Virginia","Ross County,Ohio",14887,398238
+185,"Randolph County,West Virginia","Sandusky County,Ohio",20358,584329
+186,"Randolph County,West Virginia","Scioto County,Ohio",14843,397140
+187,"Randolph County,West Virginia","Seneca County,Ohio",21083,551151
+188,"Randolph County,West Virginia","Shelby County,Ohio",20387,537852
+189,"Randolph County,West Virginia","Stark County,Ohio",15188,421091
+190,"Randolph County,West Virginia","Summit County,Ohio",15684,443846
+191,"Randolph County,West Virginia","Trumbull County,Ohio",14093,396702
+192,"Randolph County,West Virginia","Tuscarawas County,Ohio",13389,361679
+193,"Randolph County,West Virginia","Union County,Ohio",17133,457836
+194,"Randolph County,West Virginia","Van Wert County,Ohio",22331,600368
+195,"Randolph County,West Virginia","Vinton County,Ohio",13152,335811
+196,"Randolph County,West Virginia","Warren County,Ohio",18803,519486
+197,"Randolph County,West Virginia","Washington County,Ohio",9815,245180
+198,"Randolph County,West Virginia","Wayne County,Ohio",16159,423970
+199,"Randolph County,West Virginia","Williams County,Ohio",24361,704361
+200,"Randolph County,West Virginia","Wood County,Ohio",22108,600179
+201,"Randolph County,West Virginia","Wyandot County,Ohio",19679,522707
+202,"Randolph County,West Virginia","Accomack County,Virginia",24982,607728
+203,"Randolph County,West Virginia","Albemarle County,Virginia",11132,220228
+204,"Randolph County,West Virginia","Alleghany County,Virginia",9721,179535
+205,"Randolph County,West Virginia","Amelia County,Virginia",16186,352046
+206,"Randolph County,West Virginia","Amherst County,Virginia",13566,271134
+207,"Randolph County,West Virginia","Appomattox County,Virginia",14780,295763
+208,"Randolph County,West Virginia","Arlington County,Virginia",14298,348738
+209,"Randolph County,West Virginia","Augusta County,Virginia",9168,166668
+210,"Randolph County,West Virginia","Bath County,Virginia",8577,148312
+211,"Randolph County,West Virginia","Bedford County,Virginia",15089,301989
+212,"Randolph County,West Virginia","Bland County,Virginia",13281,348075
+213,"Randolph County,West Virginia","Botetourt County,Virginia",12257,238302
+214,"Randolph County,West Virginia","Brunswick County,Virginia",18817,454356
+215,"Randolph County,West Virginia","Buchanan County,Virginia",17276,432305
+216,"Randolph County,West Virginia","Buckingham County,Virginia",14441,285377
+217,"Randolph County,West Virginia","Campbell County,Virginia",14928,311266
+218,"Randolph County,West Virginia","Caroline County,Virginia",16471,389073
+219,"Randolph County,West Virginia","Carroll County,Virginia",15527,417513
+220,"Randolph County,West Virginia","Charles City County,Virginia",16572,386108
+221,"Randolph County,West Virginia","Charlotte County,Virginia",16762,344261
+222,"Randolph County,West Virginia","Chesterfield County,Virginia",15708,363892
+223,"Randolph County,West Virginia","Clarke County,Virginia",11793,275487
+224,"Randolph County,West Virginia","Craig County,Virginia",13006,249931
+225,"Randolph County,West Virginia","Culpeper County,Virginia",13801,330011
+226,"Randolph County,West Virginia","Cumberland County,Virginia",15175,310584
+227,"Randolph County,West Virginia","Dickenson County,Virginia",19686,496975
+228,"Randolph County,West Virginia","Dinwiddie County,Virginia",17455,414323
+229,"Randolph County,West Virginia","Essex County,Virginia",18289,413116
+230,"Randolph County,West Virginia","Fairfax County,Virginia",13921,339014
+231,"Randolph County,West Virginia","Fauquier County,Virginia",12231,296738
+232,"Randolph County,West Virginia","Floyd County,Virginia",15920,338967
+233,"Randolph County,West Virginia","Fluvanna County,Virginia",12810,272399
+234,"Randolph County,West Virginia","Franklin County,Virginia",15257,317412
+235,"Randolph County,West Virginia","Frederick County,Virginia",10312,239292
+236,"Randolph County,West Virginia","Giles County,Virginia",14152,278497
+237,"Randolph County,West Virginia","Gloucester County,Virginia",18742,440296
+238,"Randolph County,West Virginia","Goochland County,Virginia",13713,303010
+239,"Randolph County,West Virginia","Grayson County,Virginia",15930,407220
+240,"Randolph County,West Virginia","Greene County,Virginia",12754,235579
+241,"Randolph County,West Virginia","Greensville County,Virginia",18871,463075
+242,"Randolph County,West Virginia","Halifax County,Virginia",18248,382973
+243,"Randolph County,West Virginia","Hanover County,Virginia",30078,778509
+244,"Randolph County,West Virginia","Henrico County,Virginia",15431,357077
+245,"Randolph County,West Virginia","Henry County,Virginia",16667,352374
+246,"Randolph County,West Virginia","Highland County,Virginia",5715,100469
+247,"Randolph County,West Virginia","Isle of Wight County,Virginia",19683,461654
+248,"Randolph County,West Virginia","James City County,Virginia",17808,426879
+249,"Randolph County,West Virginia","King and Queen County,Virginia",17466,402463
+250,"Randolph County,West Virginia","King George County,Virginia",16659,390891
+251,"Randolph County,West Virginia","King William County,Virginia",16153,372385
+252,"Randolph County,West Virginia","Lancaster County,Virginia",19946,455470
+253,"Randolph County,West Virginia","Lee County,Virginia",20986,545491
+254,"Randolph County,West Virginia","Loudoun County,Virginia",13289,311353
+255,"Randolph County,West Virginia","Louisa County,Virginia",13371,286105
+256,"Randolph County,West Virginia","Lunenburg County,Virginia",18060,386982
+257,"Randolph County,West Virginia","Madison County,Virginia",14045,285552
+258,"Randolph County,West Virginia","Mathews County,Virginia",19567,463720
+259,"Randolph County,West Virginia","Mecklenburg County,Virginia",19409,411428
+260,"Randolph County,West Virginia","Middlesex County,Virginia",18344,436496
+261,"Randolph County,West Virginia","Montgomery County,Virginia",14624,311390
+262,"Randolph County,West Virginia","Nelson County,Virginia",12012,238728
+263,"Randolph County,West Virginia","New Kent County,Virginia",17244,400793
+264,"Randolph County,West Virginia","Northampton County,Virginia",22225,543542
+265,"Randolph County,West Virginia","Northumberland County,Virginia",19986,453983
+266,"Randolph County,West Virginia","Nottoway County,Virginia",17311,373537
+267,"Randolph County,West Virginia","Orange County,Virginia",14333,294213
+268,"Randolph County,West Virginia","Page County,Virginia",12254,274420
+269,"Randolph County,West Virginia","Patrick County,Virginia",17633,462549
+270,"Randolph County,West Virginia","Pittsylvania County,Virginia",17497,382894
+271,"Randolph County,West Virginia","Powhatan County,Virginia",14967,328232
+272,"Randolph County,West Virginia","Prince Edward County,Virginia",15982,339201
+273,"Randolph County,West Virginia","Prince George County,Virginia",17218,400907
+274,"Randolph County,West Virginia","Prince William County,Virginia",12331,302842
+275,"Randolph County,West Virginia","Pulaski County,Virginia",15330,302835
+276,"Randolph County,West Virginia","Rappahannock County,Virginia",12542,281876
+277,"Randolph County,West Virginia","Richmond County,Virginia",18686,426626
+278,"Randolph County,West Virginia","Roanoke County,Virginia",13615,276329
+279,"Randolph County,West Virginia","Rockbridge County,Virginia",10854,212089
+280,"Randolph County,West Virginia","Rockingham County,Virginia",10212,190992
+281,"Randolph County,West Virginia","Russell County,Virginia",17090,428255
+282,"Randolph County,West Virginia","Scott County,Virginia",19754,496382
+283,"Randolph County,West Virginia","Shenandoah County,Virginia",10692,231810
+284,"Randolph County,West Virginia","Smyth County,Virginia",15639,413427
+285,"Randolph County,West Virginia","Southampton County,Virginia",19249,459189
+286,"Randolph County,West Virginia","Spotsylvania County,Virginia",15387,327944
+287,"Randolph County,West Virginia","Stafford County,Virginia",14851,360744
+288,"Randolph County,West Virginia","Surry County,Virginia",18551,425740
+289,"Randolph County,West Virginia","Sussex County,Virginia",17913,429432
+290,"Randolph County,West Virginia","Tazewell County,Virginia",14097,366663
+291,"Randolph County,West Virginia","Warren County,Virginia",10872,244539
+292,"Randolph County,West Virginia","Washington County,Virginia",17032,452894
+293,"Randolph County,West Virginia","Westmoreland County,Virginia",17627,409692
+294,"Randolph County,West Virginia","Wise County,Virginia",17950,472874
+295,"Randolph County,West Virginia","Wythe County,Virginia",13886,366292
+296,"Randolph County,West Virginia","York County,Virginia",19095,457653
+297,"Randolph County,West Virginia","Alexandria City County,Virginia",14501,361385
+298,"Randolph County,West Virginia","Bedford City County,Virginia",14121,285136
+299,"Randolph County,West Virginia","Bristol City County,Virginia",17507,478611
+300,"Randolph County,West Virginia","Buena Vista City County,Virginia",11209,226067
+301,"Randolph County,West Virginia","Charlottesville City County,Virginia",11601,235442
+302,"Randolph County,West Virginia","Chesapeake City County,Virginia",20559,510559
+303,"Randolph County,West Virginia","Clifton Forge City County,Virginia",9934,194213
+304,"Randolph County,West Virginia","Colonial Heights City County,Virginia",16268,379784
+305,"Randolph County,West Virginia","Covington City County,Virginia",9703,180102
+306,"Randolph County,West Virginia","Danville City County,Virginia",18097,399236
+307,"Randolph County,West Virginia","Emporia City County,Virginia",18578,449668
+308,"Randolph County,West Virginia","Fairfax City County,Virginia",13464,328589
+309,"Randolph County,West Virginia","Falls Church City County,Virginia",13796,343062
+310,"Randolph County,West Virginia","Franklin City County,Virginia",19796,467044
+311,"Randolph County,West Virginia","Fredericksburg City County,Virginia",15171,357586
+312,"Randolph County,West Virginia","Galax City County,Virginia",16150,423379
+313,"Randolph County,West Virginia","Hampton City County,Virginia",19045,467360
+314,"Randolph County,West Virginia","Harrisonburg City County,Virginia",10050,186153
+315,"Randolph County,West Virginia","Hopewell City County,Virginia",16304,378750
+316,"Randolph County,West Virginia","Lexington City County,Virginia",10843,214558
+317,"Randolph County,West Virginia","Lynchburg City County,Virginia",14114,291190
+318,"Randolph County,West Virginia","Manassas City County,Virginia",12559,307787
+319,"Randolph County,West Virginia","Manassas Park City County,Virginia",13061,314130
+320,"Randolph County,West Virginia","Martinsville City County,Virginia",16820,347476
+321,"Randolph County,West Virginia","Newport News City County,Virginia",18602,453845
+322,"Randolph County,West Virginia","Norfolk City County,Virginia",20352,492775
+323,"Randolph County,West Virginia","Norton City County,Virginia",18579,484686
+324,"Randolph County,West Virginia","Petersburg City County,Virginia",16139,380772
+325,"Randolph County,West Virginia","Poquoson City County,Virginia",19274,464422
+326,"Randolph County,West Virginia","Portsmouth City County,Virginia",20291,501596
+327,"Randolph County,West Virginia","Radford County,Virginia",14988,321234
+328,"Randolph County,West Virginia","Richmond City County,Virginia",15007,344887
+329,"Randolph County,West Virginia","Roanoke City County,Virginia",13153,267771
+330,"Randolph County,West Virginia","Salem City County,Virginia",12983,266242
+331,"Randolph County,West Virginia","South Boston City County,Virginia",18252,381791
+332,"Randolph County,West Virginia","Staunton City County,Virginia",9309,167357
+333,"Randolph County,West Virginia","Suffolk City County,Virginia",20526,476378
+334,"Randolph County,West Virginia","Virginia Beach City County,Virginia",20913,516034
+335,"Randolph County,West Virginia","Waynesboro City County,Virginia",10263,190338
+336,"Randolph County,West Virginia","Williamsburg City County,Virginia",17646,426094
+337,"Randolph County,West Virginia","Winchester City County,Virginia",10850,247438
+338,"Randolph County,West Virginia","Barbour County,West Virginia",2884,49407
+339,"Randolph County,West Virginia","Berkeley County,West Virginia",12402,274130
+340,"Randolph County,West Virginia","Boone County,West Virginia",11761,296161
+341,"Randolph County,West Virginia","Braxton County,West Virginia",6321,132783
+342,"Randolph County,West Virginia","Brooke County,West Virginia",10105,259699
+343,"Randolph County,West Virginia","Cabell County,West Virginia",11355,313071
+344,"Randolph County,West Virginia","Calhoun County,West Virginia",7644,167451
+345,"Randolph County,West Virginia","Clay County,West Virginia",8007,197808
+346,"Randolph County,West Virginia","Doddridge County,West Virginia",6337,111808
+347,"Randolph County,West Virginia","Fayette County,West Virginia",8786,217725
+348,"Randolph County,West Virginia","Gilmer County,West Virginia",6125,132141
+349,"Randolph County,West Virginia","Grant County,West Virginia",6628,135535
+350,"Randolph County,West Virginia","Greenbrier County,West Virginia",11736,206016
+351,"Randolph County,West Virginia","Hampshire County,West Virginia",9549,196990
+352,"Randolph County,West Virginia","Hancock County,West Virginia",11732,287046
+353,"Randolph County,West Virginia","Hardy County,West Virginia",7683,167032
+354,"Randolph County,West Virginia","Harrison County,West Virginia",4981,114276
+355,"Randolph County,West Virginia","Jackson County,West Virginia",10585,223007
+356,"Randolph County,West Virginia","Jefferson County,West Virginia",12951,283325
+357,"Randolph County,West Virginia","Kanawha County,West Virginia",10237,264330
+358,"Randolph County,West Virginia","Lewis County,West Virginia",4026,81771
+359,"Randolph County,West Virginia","Lincoln County,West Virginia",12019,290749
+360,"Randolph County,West Virginia","Logan County,West Virginia",12691,333280
+361,"Randolph County,West Virginia","McDowell County,West Virginia",14871,342335
+362,"Randolph County,West Virginia","Marion County,West Virginia",6126,141444
+363,"Randolph County,West Virginia","Marshall County,West Virginia",11093,254143
+364,"Randolph County,West Virginia","Mason County,West Virginia",10830,298977
+365,"Randolph County,West Virginia","Mercer County,West Virginia",11835,306582
+366,"Randolph County,West Virginia","Mineral County,West Virginia",8322,164356
+367,"Randolph County,West Virginia","Mingo County,West Virginia",12736,337788
+368,"Randolph County,West Virginia","Monongalia County,West Virginia",6488,122703
+369,"Randolph County,West Virginia","Monroe County,West Virginia",11182,217002
+370,"Randolph County,West Virginia","Morgan County,West Virginia",11583,267159
+371,"Randolph County,West Virginia","Nicholas County,West Virginia",7306,182429
+372,"Randolph County,West Virginia","Ohio County,West Virginia",10012,268645
+373,"Randolph County,West Virginia","Pendleton County,West Virginia",6877,131423
+374,"Randolph County,West Virginia","Pleasants County,West Virginia",7779,190417
+375,"Randolph County,West Virginia","Pocahontas County,West Virginia",5520,83133
+376,"Randolph County,West Virginia","Preston County,West Virginia",5708,105901
+377,"Randolph County,West Virginia","Putnam County,West Virginia",9612,264596
+378,"Randolph County,West Virginia","Raleigh County,West Virginia",10376,260275
+379,"Randolph County,West Virginia","Ritchie County,West Virginia",7690,184719
+380,"Randolph County,West Virginia","Roane County,West Virginia",10065,201486
+381,"Randolph County,West Virginia","Summers County,West Virginia",12655,231351
+382,"Randolph County,West Virginia","Taylor County,West Virginia",4356,84714
+383,"Randolph County,West Virginia","Tucker County,West Virginia",3704,66810
+384,"Randolph County,West Virginia","Tyler County,West Virginia",8706,183083
+385,"Randolph County,West Virginia","Upshur County,West Virginia",3389,49991
+386,"Randolph County,West Virginia","Wayne County,West Virginia",12946,345697
+387,"Randolph County,West Virginia","Webster County,West Virginia",6096,100954
+388,"Randolph County,West Virginia","Wetzel County,West Virginia",7660,165759
+389,"Randolph County,West Virginia","Wirt County,West Virginia",9085,199016
+390,"Randolph County,West Virginia","Wood County,West Virginia",8559,215679
+391,"Randolph County,West Virginia","Wyoming County,West Virginia",12321,300216

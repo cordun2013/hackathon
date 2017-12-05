@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Preston County,West Virginia","Adair County,Kentucky",26071,724335
+1,"Preston County,West Virginia","Allen County,Kentucky",28690,824983
+2,"Preston County,West Virginia","Anderson County,Kentucky",21871,627374
+3,"Preston County,West Virginia","Ballard County,Kentucky",34850,1017146
+4,"Preston County,West Virginia","Barren County,Kentucky",27817,783363
+5,"Preston County,West Virginia","Bath County,Kentucky",17518,498556
+6,"Preston County,West Virginia","Bell County,Kentucky",25073,634371
+7,"Preston County,West Virginia","Boone County,Kentucky",21076,580669
+8,"Preston County,West Virginia","Bourbon County,Kentucky",19432,544973
+9,"Preston County,West Virginia","Boyd County,Kentucky",14194,392880
+10,"Preston County,West Virginia","Boyle County,Kentucky",23100,631261
+11,"Preston County,West Virginia","Bracken County,Kentucky",19843,539056
+12,"Preston County,West Virginia","Breathitt County,Kentucky",20905,539582
+13,"Preston County,West Virginia","Breckinridge County,Kentucky",27404,780056
+14,"Preston County,West Virginia","Bullitt County,Kentucky",23974,701175
+15,"Preston County,West Virginia","Butler County,Kentucky",28069,802053
+16,"Preston County,West Virginia","Caldwell County,Kentucky",30961,907999
+17,"Preston County,West Virginia","Calloway County,Kentucky",33771,992991
+18,"Preston County,West Virginia","Campbell County,Kentucky",21062,537540
+19,"Preston County,West Virginia","Carlisle County,Kentucky",35307,1032514
+20,"Preston County,West Virginia","Carroll County,Kentucky",22650,642434
+21,"Preston County,West Virginia","Carter County,Kentucky",15358,422977
+22,"Preston County,West Virginia","Casey County,Kentucky",24595,662766
+23,"Preston County,West Virginia","Christian County,Kentucky",30610,903255
+24,"Preston County,West Virginia","Clay County,Kentucky",23404,626696
+25,"Preston County,West Virginia","Clinton County,Kentucky",26479,727701
+26,"Preston County,West Virginia","Crittenden County,Kentucky",32541,941069
+27,"Preston County,West Virginia","Cumberland County,Kentucky",27232,745940
+28,"Preston County,West Virginia","Daviess County,Kentucky",29092,848496
+29,"Preston County,West Virginia","Edmonson County,Kentucky",27509,789928
+30,"Preston County,West Virginia","Elliott County,Kentucky",16689,448747
+31,"Preston County,West Virginia","Estill County,Kentucky",20511,560871
+32,"Preston County,West Virginia","Fayette County,Kentucky",19678,564867
+33,"Preston County,West Virginia","Fleming County,Kentucky",17944,501741
+34,"Preston County,West Virginia","Floyd County,Kentucky",18327,500145
+35,"Preston County,West Virginia","Franklin County,Kentucky",21716,613784
+36,"Preston County,West Virginia","Fulton County,Kentucky",35711,1053478
+37,"Preston County,West Virginia","Gallatin County,Kentucky",21861,614847
+38,"Preston County,West Virginia","Garrard County,Kentucky",22283,612021
+39,"Preston County,West Virginia","Grant County,Kentucky",21928,615321
+40,"Preston County,West Virginia","Graves County,Kentucky",34331,1005220
+41,"Preston County,West Virginia","Grayson County,Kentucky",26397,758689
+42,"Preston County,West Virginia","Green County,Kentucky",26176,723895
+43,"Preston County,West Virginia","Greenup County,Kentucky",15969,434006
+44,"Preston County,West Virginia","Hancock County,Kentucky",28200,812949
+45,"Preston County,West Virginia","Hardin County,Kentucky",25273,720822
+46,"Preston County,West Virginia","Harlan County,Kentucky",24396,614688
+47,"Preston County,West Virginia","Harrison County,Kentucky",21003,578073
+48,"Preston County,West Virginia","Hart County,Kentucky",26072,748450
+49,"Preston County,West Virginia","Henderson County,Kentucky",30899,900926
+50,"Preston County,West Virginia","Henry County,Kentucky",23317,657502
+51,"Preston County,West Virginia","Hickman County,Kentucky",35340,1033806
+52,"Preston County,West Virginia","Hopkins County,Kentucky",30420,882467
+53,"Preston County,West Virginia","Jackson County,Kentucky",23183,608879
+54,"Preston County,West Virginia","Jefferson County,Kentucky",23411,673036
+55,"Preston County,West Virginia","Jessamine County,Kentucky",21147,586331
+56,"Preston County,West Virginia","Johnson County,Kentucky",16975,465776
+57,"Preston County,West Virginia","Kenton County,Kentucky",20802,536079
+58,"Preston County,West Virginia","Knott County,Kentucky",19509,532027
+59,"Preston County,West Virginia","Knox County,Kentucky",24686,690913
+60,"Preston County,West Virginia","Larue County,Kentucky",25344,707998
+61,"Preston County,West Virginia","Laurel County,Kentucky",23538,662308
+62,"Preston County,West Virginia","Lawrence County,Kentucky",16117,437200
+63,"Preston County,West Virginia","Lee County,Kentucky",21355,554608
+64,"Preston County,West Virginia","Leslie County,Kentucky",22588,601700
+65,"Preston County,West Virginia","Letcher County,Kentucky",20581,534967
+66,"Preston County,West Virginia","Lewis County,Kentucky",17397,474795
+67,"Preston County,West Virginia","Lincoln County,Kentucky",22993,628939
+68,"Preston County,West Virginia","Livingston County,Kentucky",33137,957966
+69,"Preston County,West Virginia","Logan County,Kentucky",29810,845292
+70,"Preston County,West Virginia","Lyon County,Kentucky",33270,968356
+71,"Preston County,West Virginia","McCracken County,Kentucky",33462,985205
+72,"Preston County,West Virginia","McCreary County,Kentucky",25642,706750
+73,"Preston County,West Virginia","Madison County,Kentucky",20676,575890
+74,"Preston County,West Virginia","Magoffin County,Kentucky",17943,486455
+75,"Preston County,West Virginia","Marion County,Kentucky",23722,669607
+76,"Preston County,West Virginia","Marshall County,Kentucky",32876,968777
+77,"Preston County,West Virginia","Martin County,Kentucky",17603,469545
+78,"Preston County,West Virginia","Mason County,Kentucky",19192,518602
+79,"Preston County,West Virginia","Meade County,Kentucky",25871,745350
+80,"Preston County,West Virginia","Menifee County,Kentucky",18634,510619
+81,"Preston County,West Virginia","Mercer County,Kentucky",22099,625318
+82,"Preston County,West Virginia","Metcalfe County,Kentucky",26727,754600
+83,"Preston County,West Virginia","Monroe County,Kentucky",28697,792104
+84,"Preston County,West Virginia","Montgomery County,Kentucky",18331,517096
+85,"Preston County,West Virginia","Morgan County,Kentucky",18413,486335
+86,"Preston County,West Virginia","Muhlenberg County,Kentucky",29280,848943
+87,"Preston County,West Virginia","Nelson County,Kentucky",23330,668679
+88,"Preston County,West Virginia","Nicholas County,Kentucky",20009,544979
+89,"Preston County,West Virginia","Ohio County,Kentucky",28193,816532
+90,"Preston County,West Virginia","Oldham County,Kentucky",23482,684917
+91,"Preston County,West Virginia","Owen County,Kentucky",22538,640561
+92,"Preston County,West Virginia","Owsley County,Kentucky",22502,574584
+93,"Preston County,West Virginia","Pendleton County,Kentucky",21781,579980
+94,"Preston County,West Virginia","Perry County,Kentucky",20888,562585
+95,"Preston County,West Virginia","Pike County,Kentucky",17882,465084
+96,"Preston County,West Virginia","Powell County,Kentucky",19775,546842
+97,"Preston County,West Virginia","Robertson County,Kentucky",19927,544485
+98,"Preston County,West Virginia","Rockcastle County,Kentucky",22110,617033
+99,"Preston County,West Virginia","Rowan County,Kentucky",16661,470763
+100,"Preston County,West Virginia","Russell County,Kentucky",25676,708319
+101,"Preston County,West Virginia","Scott County,Kentucky",20512,592894
+102,"Preston County,West Virginia","Shelby County,Kentucky",22340,644170
+103,"Preston County,West Virginia","Simpson County,Kentucky",29391,853349
+104,"Preston County,West Virginia","Spencer County,Kentucky",22869,650018
+105,"Preston County,West Virginia","Taylor County,Kentucky",25012,701103
+106,"Preston County,West Virginia","Todd County,Kentucky",31046,869452
+107,"Preston County,West Virginia","Trigg County,Kentucky",32024,929184
+108,"Preston County,West Virginia","Trimble County,Kentucky",23549,665758
+109,"Preston County,West Virginia","Union County,Kentucky",32618,931372
+110,"Preston County,West Virginia","Warren County,Kentucky",28426,818297
+111,"Preston County,West Virginia","Washington County,Kentucky",23340,653915
+112,"Preston County,West Virginia","Wayne County,Kentucky",25852,705392
+113,"Preston County,West Virginia","Webster County,Kentucky",31529,910556
+114,"Preston County,West Virginia","Whitley County,Kentucky",24371,696793
+115,"Preston County,West Virginia","Wolfe County,Kentucky",19508,509697
+116,"Preston County,West Virginia","Woodford County,Kentucky",20732,595530
+117,"Preston County,West Virginia","Adams County,Ohio",16782,431984
+118,"Preston County,West Virginia","Allen County,Ohio",19989,539623
+119,"Preston County,West Virginia","Ashland County,Ohio",15736,416619
+120,"Preston County,West Virginia","Ashtabula County,Ohio",13774,372531
+121,"Preston County,West Virginia","Athens County,Ohio",11178,279495
+122,"Preston County,West Virginia","Auglaize County,Ohio",19603,543317
+123,"Preston County,West Virginia","Belmont County,Ohio",8224,200084
+124,"Preston County,West Virginia","Brown County,Ohio",18207,464844
+125,"Preston County,West Virginia","Butler County,Ohio",20073,538048
+126,"Preston County,West Virginia","Carroll County,Ohio",11169,235943
+127,"Preston County,West Virginia","Champaign County,Ohio",17346,458212
+128,"Preston County,West Virginia","Clark County,Ohio",16224,448783
+129,"Preston County,West Virginia","Clermont County,Ohio",18861,490008
+130,"Preston County,West Virginia","Clinton County,Ohio",17615,484065
+131,"Preston County,West Virginia","Columbiana County,Ohio",10378,224464
+132,"Preston County,West Virginia","Coshocton County,Ohio",12581,325534
+133,"Preston County,West Virginia","Crawford County,Ohio",17645,487813
+134,"Preston County,West Virginia","Cuyahoga County,Ohio",13770,370375
+135,"Preston County,West Virginia","Darke County,Ohio",19800,546685
+136,"Preston County,West Virginia","Defiance County,Ohio",22089,619339
+137,"Preston County,West Virginia","Delaware County,Ohio",15500,424531
+138,"Preston County,West Virginia","Fairfield County,Ohio",13595,361317
+139,"Preston County,West Virginia","Fayette County,Ohio",16252,446115
+140,"Preston County,West Virginia","Franklin County,Ohio",14196,388418
+141,"Preston County,West Virginia","Fulton County,Ohio",20441,576190
+142,"Preston County,West Virginia","Gallia County,Ohio",13061,319371
+143,"Preston County,West Virginia","Geauga County,Ohio",13264,345194
+144,"Preston County,West Virginia","Greene County,Ohio",17000,474281
+145,"Preston County,West Virginia","Guernsey County,Ohio",10127,263593
+146,"Preston County,West Virginia","Hamilton County,Ohio",19574,548626
+147,"Preston County,West Virginia","Hancock County,Ohio",19523,532886
+148,"Preston County,West Virginia","Hardin County,Ohio",18500,495453
+149,"Preston County,West Virginia","Harrison County,Ohio",10184,238798
+150,"Preston County,West Virginia","Henry County,Ohio",20895,565957
+151,"Preston County,West Virginia","Highland County,Ohio",17319,431998
+152,"Preston County,West Virginia","Hocking County,Ohio",12804,325398
+153,"Preston County,West Virginia","Holmes County,Ohio",13639,348418
+154,"Preston County,West Virginia","Huron County,Ohio",17013,446224
+155,"Preston County,West Virginia","Jackson County,Ohio",13306,342549
+156,"Preston County,West Virginia","Jefferson County,Ohio",9125,199434
+157,"Preston County,West Virginia","Knox County,Ohio",14369,368010
+158,"Preston County,West Virginia","Lawrence County,Ohio",15333,397937
+159,"Preston County,West Virginia","Licking County,Ohio",13755,349081
+160,"Preston County,West Virginia","Logan County,Ohio",17521,489730
+161,"Preston County,West Virginia","Lorain County,Ohio",14822,400095
+162,"Preston County,West Virginia","Lucas County,Ohio",19395,529040
+163,"Preston County,West Virginia","Madison County,Ohio",15473,423139
+164,"Preston County,West Virginia","Mahoning County,Ohio",10261,262523
+165,"Preston County,West Virginia","Marion County,Ohio",16906,450624
+166,"Preston County,West Virginia","Medina County,Ohio",14368,383738
+167,"Preston County,West Virginia","Meigs County,Ohio",11144,272072
+168,"Preston County,West Virginia","Mercer County,Ohio",20839,570251
+169,"Preston County,West Virginia","Miami County,Ohio",18311,512116
+170,"Preston County,West Virginia","Monroe County,Ohio",10656,246767
+171,"Preston County,West Virginia","Montgomery County,Ohio",18572,517563
+172,"Preston County,West Virginia","Morgan County,Ohio",11621,281842
+173,"Preston County,West Virginia","Morrow County,Ohio",16330,400972
+174,"Preston County,West Virginia","Muskingum County,Ohio",10973,291585
+175,"Preston County,West Virginia","Noble County,Ohio",11101,279368
+176,"Preston County,West Virginia","Paulding County,Ohio",22526,615529
+177,"Preston County,West Virginia","Perry County,Ohio",13072,339527
+178,"Preston County,West Virginia","Pickaway County,Ohio",14967,378339
+179,"Preston County,West Virginia","Pike County,Ohio",14752,381856
+180,"Preston County,West Virginia","Portage County,Ohio",12115,318537
+181,"Preston County,West Virginia","Preble County,Ohio",19342,540275
+182,"Preston County,West Virginia","Putnam County,Ohio",21112,571982
+183,"Preston County,West Virginia","Richland County,Ohio",16292,438047
+184,"Preston County,West Virginia","Ross County,Ohio",15032,390363
+185,"Preston County,West Virginia","Sandusky County,Ohio",17683,487614
+186,"Preston County,West Virginia","Scioto County,Ohio",15390,397927
+187,"Preston County,West Virginia","Seneca County,Ohio",18414,497286
+188,"Preston County,West Virginia","Shelby County,Ohio",19279,519977
+189,"Preston County,West Virginia","Stark County,Ohio",12893,272410
+190,"Preston County,West Virginia","Summit County,Ohio",13010,347131
+191,"Preston County,West Virginia","Trumbull County,Ohio",11418,299987
+192,"Preston County,West Virginia","Tuscarawas County,Ohio",11693,270082
+193,"Preston County,West Virginia","Union County,Ohio",16025,439961
+194,"Preston County,West Virginia","Van Wert County,Ohio",21223,582493
+195,"Preston County,West Virginia","Vinton County,Ohio",13296,327936
+196,"Preston County,West Virginia","Warren County,Ohio",17991,504594
+197,"Preston County,West Virginia","Washington County,Ohio",9959,237305
+198,"Preston County,West Virginia","Wayne County,Ohio",14776,372530
+199,"Preston County,West Virginia","Williams County,Ohio",21686,607646
+200,"Preston County,West Virginia","Wood County,Ohio",19581,535943
+201,"Preston County,West Virginia","Wyandot County,Ohio",18493,497022
+202,"Preston County,West Virginia","Accomack County,Virginia",23315,615486
+203,"Preston County,West Virginia","Albemarle County,Virginia",12851,305877
+204,"Preston County,West Virginia","Alleghany County,Virginia",13796,260256
+205,"Preston County,West Virginia","Amelia County,Virginia",17905,437695
+206,"Preston County,West Virginia","Amherst County,Virginia",15285,356783
+207,"Preston County,West Virginia","Appomattox County,Virginia",16499,381412
+208,"Preston County,West Virginia","Arlington County,Virginia",12179,332413
+209,"Preston County,West Virginia","Augusta County,Virginia",12289,283130
+210,"Preston County,West Virginia","Bath County,Virginia",12445,221150
+211,"Preston County,West Virginia","Bedford County,Virginia",17430,401299
+212,"Preston County,West Virginia","Bland County,Virginia",15577,406146
+213,"Preston County,West Virginia","Botetourt County,Virginia",14920,363821
+214,"Preston County,West Virginia","Brunswick County,Virginia",20210,512966
+215,"Preston County,West Virginia","Buchanan County,Virginia",19571,490375
+216,"Preston County,West Virginia","Buckingham County,Virginia",16160,371026
+217,"Preston County,West Virginia","Campbell County,Virginia",16647,396915
+218,"Preston County,West Virginia","Caroline County,Virginia",15207,363534
+219,"Preston County,West Virginia","Carroll County,Virginia",17822,475583
+220,"Preston County,West Virginia","Charles City County,Virginia",17677,435017
+221,"Preston County,West Virginia","Charlotte County,Virginia",18481,429910
+222,"Preston County,West Virginia","Chesterfield County,Virginia",17427,449541
+223,"Preston County,West Virginia","Clarke County,Virginia",10264,231626
+224,"Preston County,West Virginia","Craig County,Virginia",17730,350968
+225,"Preston County,West Virginia","Culpeper County,Virginia",12272,286150
+226,"Preston County,West Virginia","Cumberland County,Virginia",16894,396233
+227,"Preston County,West Virginia","Dickenson County,Virginia",21981,555045
+228,"Preston County,West Virginia","Dinwiddie County,Virginia",18848,472933
+229,"Preston County,West Virginia","Essex County,Virginia",16609,387588
+230,"Preston County,West Virginia","Fairfax County,Virginia",11870,323080
+231,"Preston County,West Virginia","Fauquier County,Virginia",10702,252877
+232,"Preston County,West Virginia","Floyd County,Virginia",18544,469532
+233,"Preston County,West Virginia","Fluvanna County,Virginia",14529,358048
+234,"Preston County,West Virginia","Franklin County,Virginia",17882,447976
+235,"Preston County,West Virginia","Frederick County,Virginia",8783,195431
+236,"Preston County,West Virginia","Giles County,Virginia",16307,417704
+237,"Preston County,West Virginia","Gloucester County,Virginia",19848,489205
+238,"Preston County,West Virginia","Goochland County,Virginia",15433,388659
+239,"Preston County,West Virginia","Grayson County,Virginia",18225,465290
+240,"Preston County,West Virginia","Greene County,Virginia",12465,267505
+241,"Preston County,West Virginia","Greensville County,Virginia",20264,521685
+242,"Preston County,West Virginia","Halifax County,Virginia",19967,468622
+243,"Preston County,West Virginia","Hanover County,Virginia",16025,393026
+244,"Preston County,West Virginia","Henrico County,Virginia",16824,415687
+245,"Preston County,West Virginia","Henry County,Virginia",19291,482938
+246,"Preston County,West Virginia","Highland County,Virginia",9746,177180
+247,"Preston County,West Virginia","Isle of Wight County,Virginia",20959,524276
+248,"Preston County,West Virginia","James City County,Virginia",18913,475788
+249,"Preston County,West Virginia","King and Queen County,Virginia",17661,422849
+250,"Preston County,West Virginia","King George County,Virginia",15130,347030
+251,"Preston County,West Virginia","King William County,Virginia",16626,400646
+252,"Preston County,West Virginia","Lancaster County,Virginia",19032,443582
+253,"Preston County,West Virginia","Lee County,Virginia",23281,603561
+254,"Preston County,West Virginia","Loudoun County,Virginia",11760,267492
+255,"Preston County,West Virginia","Louisa County,Virginia",14880,349525
+256,"Preston County,West Virginia","Lunenburg County,Virginia",19779,472631
+257,"Preston County,West Virginia","Madison County,Virginia",12695,274409
+258,"Preston County,West Virginia","Mathews County,Virginia",20743,487970
+259,"Preston County,West Virginia","Mecklenburg County,Virginia",21128,497077
+260,"Preston County,West Virginia","Middlesex County,Virginia",19113,451551
+261,"Preston County,West Virginia","Montgomery County,Virginia",17248,441955
+262,"Preston County,West Virginia","Nelson County,Virginia",13731,324377
+263,"Preston County,West Virginia","New Kent County,Virginia",18349,449702
+264,"Preston County,West Virginia","Northampton County,Virginia",23330,592451
+265,"Preston County,West Virginia","Northumberland County,Virginia",19072,442094
+266,"Preston County,West Virginia","Nottoway County,Virginia",19030,459186
+267,"Preston County,West Virginia","Orange County,Virginia",13613,320649
+268,"Preston County,West Virginia","Page County,Virginia",10725,230559
+269,"Preston County,West Virginia","Patrick County,Virginia",19928,520619
+270,"Preston County,West Virginia","Pittsylvania County,Virginia",19216,468543
+271,"Preston County,West Virginia","Powhatan County,Virginia",16686,413881
+272,"Preston County,West Virginia","Prince Edward County,Virginia",17701,424850
+273,"Preston County,West Virginia","Prince George County,Virginia",18494,463530
+274,"Preston County,West Virginia","Prince William County,Virginia",10802,258981
+275,"Preston County,West Virginia","Pulaski County,Virginia",17485,442042
+276,"Preston County,West Virginia","Rappahannock County,Virginia",11013,238015
+277,"Preston County,West Virginia","Richmond County,Virginia",17772,414738
+278,"Preston County,West Virginia","Roanoke County,Virginia",16239,406893
+279,"Preston County,West Virginia","Rockbridge County,Virginia",13662,329830
+280,"Preston County,West Virginia","Rockingham County,Virginia",8896,198486
+281,"Preston County,West Virginia","Russell County,Virginia",19385,486326
+282,"Preston County,West Virginia","Scott County,Virginia",22049,554452
+283,"Preston County,West Virginia","Shenandoah County,Virginia",9163,187949
+284,"Preston County,West Virginia","Smyth County,Virginia",17934,471498
+285,"Preston County,West Virginia","Southampton County,Virginia",20642,517799
+286,"Preston County,West Virginia","Spotsylvania County,Virginia",14319,328018
+287,"Preston County,West Virginia","Stafford County,Virginia",13321,316883
+288,"Preston County,West Virginia","Surry County,Virginia",19606,485224
+289,"Preston County,West Virginia","Sussex County,Virginia",19306,488042
+290,"Preston County,West Virginia","Tazewell County,Virginia",16392,424733
+291,"Preston County,West Virginia","Warren County,Virginia",9343,200678
+292,"Preston County,West Virginia","Washington County,Virginia",19328,510964
+293,"Preston County,West Virginia","Westmoreland County,Virginia",16680,378520
+294,"Preston County,West Virginia","Wise County,Virginia",20246,530944
+295,"Preston County,West Virginia","Wythe County,Virginia",16181,424363
+296,"Preston County,West Virginia","York County,Virginia",20201,506562
+297,"Preston County,West Virginia","Alexandria City County,Virginia",12695,349595
+298,"Preston County,West Virginia","Bedford City County,Virginia",16455,392638
+299,"Preston County,West Virginia","Bristol City County,Virginia",19803,536681
+300,"Preston County,West Virginia","Buena Vista City County,Virginia",13321,323096
+301,"Preston County,West Virginia","Charlottesville City County,Virginia",13320,321091
+302,"Preston County,West Virginia","Chesapeake City County,Virginia",21664,559468
+303,"Preston County,West Virginia","Clifton Forge City County,Virginia",14009,274934
+304,"Preston County,West Virginia","Colonial Heights City County,Virginia",17661,438394
+305,"Preston County,West Virginia","Covington City County,Virginia",13778,260824
+306,"Preston County,West Virginia","Danville City County,Virginia",19816,484885
+307,"Preston County,West Virginia","Emporia City County,Virginia",19972,508278
+308,"Preston County,West Virginia","Fairfax City County,Virginia",11935,284728
+309,"Preston County,West Virginia","Falls Church City County,Virginia",11887,326725
+310,"Preston County,West Virginia","Franklin City County,Virginia",21189,525654
+311,"Preston County,West Virginia","Fredericksburg City County,Virginia",13642,313725
+312,"Preston County,West Virginia","Galax City County,Virginia",18446,481449
+313,"Preston County,West Virginia","Hampton City County,Virginia",20151,516268
+314,"Preston County,West Virginia","Harrisonburg City County,Virginia",9954,217161
+315,"Preston County,West Virginia","Hopewell City County,Virginia",17425,438431
+316,"Preston County,West Virginia","Lexington City County,Virginia",13180,320074
+317,"Preston County,West Virginia","Lynchburg City County,Virginia",15833,376839
+318,"Preston County,West Virginia","Manassas City County,Virginia",11030,263926
+319,"Preston County,West Virginia","Manassas Park City County,Virginia",11532,270269
+320,"Preston County,West Virginia","Martinsville City County,Virginia",19444,478040
+321,"Preston County,West Virginia","Newport News City County,Virginia",19708,502754
+322,"Preston County,West Virginia","Norfolk City County,Virginia",21457,541684
+323,"Preston County,West Virginia","Norton City County,Virginia",20874,542756
+324,"Preston County,West Virginia","Petersburg City County,Virginia",17532,439382
+325,"Preston County,West Virginia","Poquoson City County,Virginia",20380,513331
+326,"Preston County,West Virginia","Portsmouth City County,Virginia",21397,550505
+327,"Preston County,West Virginia","Radford County,Virginia",17612,451799
+328,"Preston County,West Virginia","Richmond City County,Virginia",16400,403497
+329,"Preston County,West Virginia","Roanoke City County,Virginia",15778,398335
+330,"Preston County,West Virginia","Salem City County,Virginia",15607,396806
+331,"Preston County,West Virginia","South Boston City County,Virginia",19971,467440
+332,"Preston County,West Virginia","Staunton City County,Virginia",11542,265330
+333,"Preston County,West Virginia","Suffolk City County,Virginia",21802,539000
+334,"Preston County,West Virginia","Virginia Beach City County,Virginia",22018,564943
+335,"Preston County,West Virginia","Waynesboro City County,Virginia",11940,275181
+336,"Preston County,West Virginia","Williamsburg City County,Virginia",18752,475003
+337,"Preston County,West Virginia","Winchester City County,Virginia",9220,211575
+338,"Preston County,West Virginia","Barbour County,West Virginia",3558,66192
+339,"Preston County,West Virginia","Berkeley County,West Virginia",8634,210431
+340,"Preston County,West Virginia","Boone County,West Virginia",14056,354232
+341,"Preston County,West Virginia","Braxton County,West Virginia",8616,190854
+342,"Preston County,West Virginia","Brooke County,West Virginia",7431,162984
+343,"Preston County,West Virginia","Cabell County,West Virginia",13650,371141
+344,"Preston County,West Virginia","Calhoun County,West Virginia",9939,225521
+345,"Preston County,West Virginia","Clay County,West Virginia",10302,255878
+346,"Preston County,West Virginia","Doddridge County,West Virginia",6688,144773
+347,"Preston County,West Virginia","Fayette County,West Virginia",11081,275795
+348,"Preston County,West Virginia","Gilmer County,West Virginia",8420,190212
+349,"Preston County,West Virginia","Grant County,West Virginia",5068,90570
+350,"Preston County,West Virginia","Greenbrier County,West Virginia",14283,311355
+351,"Preston County,West Virginia","Hampshire County,West Virginia",7696,141093
+352,"Preston County,West Virginia","Hancock County,West Virginia",9058,190332
+353,"Preston County,West Virginia","Hardy County,West Virginia",6154,123171
+354,"Preston County,West Virginia","Harrison County,West Virginia",5125,106401
+355,"Preston County,West Virginia","Jackson County,West Virginia",11080,279321
+356,"Preston County,West Virginia","Jefferson County,West Virginia",10100,266429
+357,"Preston County,West Virginia","Kanawha County,West Virginia",12532,322401
+358,"Preston County,West Virginia","Lewis County,West Virginia",6321,139842
+359,"Preston County,West Virginia","Lincoln County,West Virginia",14314,348819
+360,"Preston County,West Virginia","Logan County,West Virginia",14986,391350
+361,"Preston County,West Virginia","McDowell County,West Virginia",17166,400405
+362,"Preston County,West Virginia","Marion County,West Virginia",4611,80314
+363,"Preston County,West Virginia","Marshall County,West Virginia",8418,157428
+364,"Preston County,West Virginia","Mason County,West Virginia",12844,323375
+365,"Preston County,West Virginia","Mercer County,West Virginia",14130,364652
+366,"Preston County,West Virginia","Mineral County,West Virginia",5608,92958
+367,"Preston County,West Virginia","Mingo County,West Virginia",15031,395858
+368,"Preston County,West Virginia","Monongalia County,West Virginia",2597,51834
+369,"Preston County,West Virginia","Monroe County,West Virginia",15905,318039
+370,"Preston County,West Virginia","Morgan County,West Virginia",8125,199822
+371,"Preston County,West Virginia","Nicholas County,West Virginia",9601,240499
+372,"Preston County,West Virginia","Ohio County,West Virginia",7338,171931
+373,"Preston County,West Virginia","Pendleton County,West Virginia",7396,145133
+374,"Preston County,West Virginia","Pleasants County,West Virginia",7923,182541
+375,"Preston County,West Virginia","Pocahontas County,West Virginia",10243,184170
+376,"Preston County,West Virginia","Putnam County,West Virginia",11907,322666
+377,"Preston County,West Virginia","Raleigh County,West Virginia",12671,318345
+378,"Preston County,West Virginia","Randolph County,West Virginia",5627,105888
+379,"Preston County,West Virginia","Ritchie County,West Virginia",7834,176843
+380,"Preston County,West Virginia","Roane County,West Virginia",12360,259557
+381,"Preston County,West Virginia","Summers County,West Virginia",15878,348790
+382,"Preston County,West Virginia","Taylor County,West Virginia",2584,45629
+383,"Preston County,West Virginia","Tucker County,West Virginia",3793,64866
+384,"Preston County,West Virginia","Tyler County,West Virginia",8850,175208
+385,"Preston County,West Virginia","Upshur County,West Virginia",6547,124320
+386,"Preston County,West Virginia","Wayne County,West Virginia",15241,403767
+387,"Preston County,West Virginia","Webster County,West Virginia",10819,201991
+388,"Preston County,West Virginia","Wetzel County,West Virginia",7677,132539
+389,"Preston County,West Virginia","Wirt County,West Virginia",10180,222373
+390,"Preston County,West Virginia","Wood County,West Virginia",8704,207804
+391,"Preston County,West Virginia","Wyoming County,West Virginia",14616,358287

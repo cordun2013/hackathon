@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Marshall County,West Virginia","Adair County,Kentucky",25282,697776
+1,"Marshall County,West Virginia","Allen County,Kentucky",26038,751063
+2,"Marshall County,West Virginia","Anderson County,Kentucky",20264,576921
+3,"Marshall County,West Virginia","Ballard County,Kentucky",32198,943225
+4,"Marshall County,West Virginia","Barren County,Kentucky",25165,719475
+5,"Marshall County,West Virginia","Bath County,Kentucky",17459,463654
+6,"Marshall County,West Virginia","Bell County,Kentucky",25014,599470
+7,"Marshall County,West Virginia","Boone County,Kentucky",15732,427647
+8,"Marshall County,West Virginia","Bourbon County,Kentucky",19137,536189
+9,"Marshall County,West Virginia","Boyd County,Kentucky",14134,357979
+10,"Marshall County,West Virginia","Boyle County,Kentucky",21573,604810
+11,"Marshall County,West Virginia","Bracken County,Kentucky",17120,473182
+12,"Marshall County,West Virginia","Breathitt County,Kentucky",20845,504680
+13,"Marshall County,West Virginia","Breckinridge County,Kentucky",24078,669627
+14,"Marshall County,West Virginia","Bullitt County,Kentucky",20614,590458
+15,"Marshall County,West Virginia","Butler County,Kentucky",25418,728133
+16,"Marshall County,West Virginia","Caldwell County,Kentucky",28310,834078
+17,"Marshall County,West Virginia","Calloway County,Kentucky",31120,919071
+18,"Marshall County,West Virginia","Campbell County,Kentucky",15650,426132
+19,"Marshall County,West Virginia","Carlisle County,Kentucky",32655,958593
+20,"Marshall County,West Virginia","Carroll County,Kentucky",17306,489412
+21,"Marshall County,West Virginia","Carter County,Kentucky",15299,388076
+22,"Marshall County,West Virginia","Casey County,Kentucky",23498,634939
+23,"Marshall County,West Virginia","Christian County,Kentucky",27959,829335
+24,"Marshall County,West Virginia","Clay County,Kentucky",23344,591795
+25,"Marshall County,West Virginia","Clinton County,Kentucky",25737,724485
+26,"Marshall County,West Virginia","Crittenden County,Kentucky",29890,867149
+27,"Marshall County,West Virginia","Cumberland County,Kentucky",26491,742723
+28,"Marshall County,West Virginia","Daviess County,Kentucky",25391,732945
+29,"Marshall County,West Virginia","Edmonson County,Kentucky",24858,716008
+30,"Marshall County,West Virginia","Elliott County,Kentucky",16630,413846
+31,"Marshall County,West Virginia","Estill County,Kentucky",20451,525969
+32,"Marshall County,West Virginia","Fayette County,Kentucky",18512,529445
+33,"Marshall County,West Virginia","Fleming County,Kentucky",17885,466840
+34,"Marshall County,West Virginia","Floyd County,Kentucky",18267,465244
+35,"Marshall County,West Virginia","Franklin County,Kentucky",19746,532795
+36,"Marshall County,West Virginia","Fulton County,Kentucky",33059,979558
+37,"Marshall County,West Virginia","Gallatin County,Kentucky",16518,461826
+38,"Marshall County,West Virginia","Garrard County,Kentucky",21541,608804
+39,"Marshall County,West Virginia","Grant County,Kentucky",16585,462299
+40,"Marshall County,West Virginia","Graves County,Kentucky",31680,931300
+41,"Marshall County,West Virginia","Grayson County,Kentucky",23745,684769
+42,"Marshall County,West Virginia","Green County,Kentucky",24433,690765
+43,"Marshall County,West Virginia","Greenup County,Kentucky",15057,337325
+44,"Marshall County,West Virginia","Hancock County,Kentucky",24276,687463
+45,"Marshall County,West Virginia","Hardin County,Kentucky",22622,646902
+46,"Marshall County,West Virginia","Harlan County,Kentucky",24337,579786
+47,"Marshall County,West Virginia","Harrison County,Kentucky",18021,496362
+48,"Marshall County,West Virginia","Hart County,Kentucky",23421,674530
+49,"Marshall County,West Virginia","Henderson County,Kentucky",26975,775440
+50,"Marshall County,West Virginia","Henry County,Kentucky",18492,517735
+51,"Marshall County,West Virginia","Hickman County,Kentucky",32689,959885
+52,"Marshall County,West Virginia","Hopkins County,Kentucky",27769,808547
+53,"Marshall County,West Virginia","Jackson County,Kentucky",22526,628787
+54,"Marshall County,West Virginia","Jefferson County,Kentucky",19708,559894
+55,"Marshall County,West Virginia","Jessamine County,Kentucky",19773,552757
+56,"Marshall County,West Virginia","Johnson County,Kentucky",16916,430875
+57,"Marshall County,West Virginia","Kenton County,Kentucky",15377,421205
+58,"Marshall County,West Virginia","Knott County,Kentucky",19449,497125
+59,"Marshall County,West Virginia","Knox County,Kentucky",23945,687697
+60,"Marshall County,West Virginia","Larue County,Kentucky",22691,650501
+61,"Marshall County,West Virginia","Laurel County,Kentucky",22796,659092
+62,"Marshall County,West Virginia","Lawrence County,Kentucky",16057,402299
+63,"Marshall County,West Virginia","Lee County,Kentucky",21296,519706
+64,"Marshall County,West Virginia","Leslie County,Kentucky",22528,566799
+65,"Marshall County,West Virginia","Letcher County,Kentucky",20521,500065
+66,"Marshall County,West Virginia","Lewis County,Kentucky",16696,418034
+67,"Marshall County,West Virginia","Lincoln County,Kentucky",22251,625723
+68,"Marshall County,West Virginia","Livingston County,Kentucky",30485,884045
+69,"Marshall County,West Virginia","Logan County,Kentucky",27158,771371
+70,"Marshall County,West Virginia","Lyon County,Kentucky",30619,894436
+71,"Marshall County,West Virginia","McCracken County,Kentucky",30811,911285
+72,"Marshall County,West Virginia","McCreary County,Kentucky",24901,703534
+73,"Marshall County,West Virginia","Madison County,Kentucky",19935,572674
+74,"Marshall County,West Virginia","Magoffin County,Kentucky",17883,451554
+75,"Marshall County,West Virginia","Marion County,Kentucky",22271,629274
+76,"Marshall County,West Virginia","Marshall County,Kentucky",30225,894857
+77,"Marshall County,West Virginia","Martin County,Kentucky",17543,434643
+78,"Marshall County,West Virginia","Mason County,Kentucky",17699,436982
+79,"Marshall County,West Virginia","Meade County,Kentucky",22154,627135
+80,"Marshall County,West Virginia","Menifee County,Kentucky",18575,475718
+81,"Marshall County,West Virginia","Mercer County,Kentucky",20648,584985
+82,"Marshall County,West Virginia","Metcalfe County,Kentucky",25617,739568
+83,"Marshall County,West Virginia","Monroe County,Kentucky",26513,763151
+84,"Marshall County,West Virginia","Montgomery County,Kentucky",18272,482194
+85,"Marshall County,West Virginia","Morgan County,Kentucky",18353,451433
+86,"Marshall County,West Virginia","Muhlenberg County,Kentucky",26629,775022
+87,"Marshall County,West Virginia","Nelson County,Kentucky",21879,628345
+88,"Marshall County,West Virginia","Nicholas County,Kentucky",18885,472804
+89,"Marshall County,West Virginia","Ohio County,Kentucky",25542,742612
+90,"Marshall County,West Virginia","Oldham County,Kentucky",18607,530840
+91,"Marshall County,West Virginia","Owen County,Kentucky",17749,488214
+92,"Marshall County,West Virginia","Owsley County,Kentucky",22443,539683
+93,"Marshall County,West Virginia","Pendleton County,Kentucky",16526,447974
+94,"Marshall County,West Virginia","Perry County,Kentucky",20829,527683
+95,"Marshall County,West Virginia","Pike County,Kentucky",17823,430183
+96,"Marshall County,West Virginia","Powell County,Kentucky",19715,511940
+97,"Marshall County,West Virginia","Robertson County,Kentucky",18449,491967
+98,"Marshall County,West Virginia","Rockcastle County,Kentucky",21369,613817
+99,"Marshall County,West Virginia","Rowan County,Kentucky",16601,435861
+100,"Marshall County,West Virginia","Russell County,Kentucky",24934,705103
+101,"Marshall County,West Virginia","Scott County,Kentucky",17514,496820
+102,"Marshall County,West Virginia","Shelby County,Kentucky",19863,544726
+103,"Marshall County,West Virginia","Simpson County,Kentucky",26740,779429
+104,"Marshall County,West Virginia","Spencer County,Kentucky",20822,589514
+105,"Marshall County,West Virginia","Taylor County,Kentucky",23561,660770
+106,"Marshall County,West Virginia","Todd County,Kentucky",28394,795532
+107,"Marshall County,West Virginia","Trigg County,Kentucky",29372,855264
+108,"Marshall County,West Virginia","Trimble County,Kentucky",18205,512736
+109,"Marshall County,West Virginia","Union County,Kentucky",28694,805887
+110,"Marshall County,West Virginia","Warren County,Kentucky",25774,744377
+111,"Marshall County,West Virginia","Washington County,Kentucky",21889,613582
+112,"Marshall County,West Virginia","Wayne County,Kentucky",25110,702175
+113,"Marshall County,West Virginia","Webster County,Kentucky",28618,812062
+114,"Marshall County,West Virginia","Whitley County,Kentucky",23629,693577
+115,"Marshall County,West Virginia","Wolfe County,Kentucky",19448,474795
+116,"Marshall County,West Virginia","Woodford County,Kentucky",19125,545077
+117,"Marshall County,West Virginia","Adams County,Ohio",14897,383372
+118,"Marshall County,West Virginia","Allen County,Ohio",14646,386601
+119,"Marshall County,West Virginia","Ashland County,Ohio",10921,254687
+120,"Marshall County,West Virginia","Ashtabula County,Ohio",11027,275156
+121,"Marshall County,West Virginia","Athens County,Ohio",9445,201125
+122,"Marshall County,West Virginia","Auglaize County,Ohio",14259,390295
+123,"Marshall County,West Virginia","Belmont County,Ohio",2880,47062
+124,"Marshall County,West Virginia","Brown County,Ohio",15455,394539
+125,"Marshall County,West Virginia","Butler County,Ohio",14729,385026
+126,"Marshall County,West Virginia","Carroll County,Ohio",6324,109560
+127,"Marshall County,West Virginia","Champaign County,Ohio",12003,305190
+128,"Marshall County,West Virginia","Clark County,Ohio",10881,295761
+129,"Marshall County,West Virginia","Clermont County,Ohio",14536,401763
+130,"Marshall County,West Virginia","Clinton County,Ohio",12272,331043
+131,"Marshall County,West Virginia","Columbiana County,Ohio",6616,128983
+132,"Marshall County,West Virginia","Coshocton County,Ohio",7237,172512
+133,"Marshall County,West Virginia","Crawford County,Ohio",12629,317793
+134,"Marshall County,West Virginia","Cuyahoga County,Ohio",10638,286799
+135,"Marshall County,West Virginia","Darke County,Ohio",14457,393663
+136,"Marshall County,West Virginia","Defiance County,Ohio",18081,464922
+137,"Marshall County,West Virginia","Delaware County,Ohio",10157,271509
+138,"Marshall County,West Virginia","Fairfield County,Ohio",8252,208295
+139,"Marshall County,West Virginia","Fayette County,Ohio",10909,293094
+140,"Marshall County,West Virginia","Franklin County,Ohio",8852,235396
+141,"Marshall County,West Virginia","Fulton County,Ohio",17481,492717
+142,"Marshall County,West Virginia","Gallia County,Ohio",11327,241001
+143,"Marshall County,West Virginia","Geauga County,Ohio",10676,247834
+144,"Marshall County,West Virginia","Greene County,Ohio",11657,321259
+145,"Marshall County,West Virginia","Guernsey County,Ohio",4783,110571
+146,"Marshall County,West Virginia","Hamilton County,Ohio",14231,395604
+147,"Marshall County,West Virginia","Hancock County,Ohio",14180,379865
+148,"Marshall County,West Virginia","Hardin County,Ohio",13157,342431
+149,"Marshall County,West Virginia","Harrison County,Ohio",4841,85777
+150,"Marshall County,West Virginia","Henry County,Ohio",16892,451486
+151,"Marshall County,West Virginia","Highland County,Ohio",13343,333340
+152,"Marshall County,West Virginia","Hocking County,Ohio",10024,227919
+153,"Marshall County,West Virginia","Holmes County,Ohio",8296,195396
+154,"Marshall County,West Virginia","Huron County,Ohio",12819,296316
+155,"Marshall County,West Virginia","Jackson County,Ohio",11573,264179
+156,"Marshall County,West Virginia","Jefferson County,Ohio",4651,87075
+157,"Marshall County,West Virginia","Knox County,Ohio",9025,214988
+158,"Marshall County,West Virginia","Lawrence County,Ohio",13921,280391
+159,"Marshall County,West Virginia","Licking County,Ohio",8411,196059
+160,"Marshall County,West Virginia","Logan County,Ohio",12177,336708
+161,"Marshall County,West Virginia","Lorain County,Ohio",11862,316623
+162,"Marshall County,West Virginia","Lucas County,Ohio",16435,445567
+163,"Marshall County,West Virginia","Madison County,Ohio",10129,270117
+164,"Marshall County,West Virginia","Mahoning County,Ohio",7280,157861
+165,"Marshall County,West Virginia","Marion County,Ohio",11563,297603
+166,"Marshall County,West Virginia","Medina County,Ohio",10311,272830
+167,"Marshall County,West Virginia","Meigs County,Ohio",9410,193702
+168,"Marshall County,West Virginia","Mercer County,Ohio",15495,417229
+169,"Marshall County,West Virginia","Miami County,Ohio",12968,359095
+170,"Marshall County,West Virginia","Monroe County,Ohio",4132,63901
+171,"Marshall County,West Virginia","Montgomery County,Ohio",13228,364541
+172,"Marshall County,West Virginia","Morgan County,Ohio",7408,162647
+173,"Marshall County,West Virginia","Morrow County,Ohio",10986,247950
+174,"Marshall County,West Virginia","Muskingum County,Ohio",5629,138563
+175,"Marshall County,West Virginia","Noble County,Ohio",5929,103438
+176,"Marshall County,West Virginia","Paulding County,Ohio",17183,462507
+177,"Marshall County,West Virginia","Perry County,Ohio",7728,186506
+178,"Marshall County,West Virginia","Pickaway County,Ohio",9629,252973
+179,"Marshall County,West Virginia","Pike County,Ohio",12571,327177
+180,"Marshall County,West Virginia","Portage County,Ohio",9398,220232
+181,"Marshall County,West Virginia","Preble County,Ohio",13999,387253
+182,"Marshall County,West Virginia","Putnam County,Ohio",15769,418960
+183,"Marshall County,West Virginia","Richland County,Ohio",11277,268027
+184,"Marshall County,West Virginia","Ross County,Ohio",11315,293647
+185,"Marshall County,West Virginia","Sandusky County,Ohio",14723,404142
+186,"Marshall County,West Virginia","Scioto County,Ohio",13530,350631
+187,"Marshall County,West Virginia","Seneca County,Ohio",14553,372444
+188,"Marshall County,West Virginia","Shelby County,Ohio",13935,366956
+189,"Marshall County,West Virginia","Stark County,Ohio",8461,216630
+190,"Marshall County,West Virginia","Summit County,Ohio",9219,242419
+191,"Marshall County,West Virginia","Trumbull County,Ohio",8671,202612
+192,"Marshall County,West Virginia","Tuscarawas County,Ohio",6350,117060
+193,"Marshall County,West Virginia","Union County,Ohio",10681,286939
+194,"Marshall County,West Virginia","Van Wert County,Ohio",15880,429471
+195,"Marshall County,West Virginia","Vinton County,Ohio",11552,254833
+196,"Marshall County,West Virginia","Warren County,Ohio",12647,351572
+197,"Marshall County,West Virginia","Washington County,Ohio",7287,131194
+198,"Marshall County,West Virginia","Wayne County,Ohio",9432,219509
+199,"Marshall County,West Virginia","Williams County,Ohio",18726,524174
+200,"Marshall County,West Virginia","Wood County,Ohio",15578,421472
+201,"Marshall County,West Virginia","Wyandot County,Ohio",13149,344000
+202,"Marshall County,West Virginia","Accomack County,Virginia",28211,729164
+203,"Marshall County,West Virginia","Albemarle County,Virginia",19688,470224
+204,"Marshall County,West Virginia","Alleghany County,Virginia",17688,427133
+205,"Marshall County,West Virginia","Amelia County,Virginia",24742,602042
+206,"Marshall County,West Virginia","Amherst County,Virginia",22122,521130
+207,"Marshall County,West Virginia","Appomattox County,Virginia",23336,545758
+208,"Marshall County,West Virginia","Arlington County,Virginia",17075,446091
+209,"Marshall County,West Virginia","Augusta County,Virginia",19382,416398
+210,"Marshall County,West Virginia","Bath County,Virginia",18791,398041
+211,"Marshall County,West Virginia","Bedford County,Virginia",23675,562119
+212,"Marshall County,West Virginia","Bland County,Virginia",17246,440552
+213,"Marshall County,West Virginia","Botetourt County,Virginia",20843,498433
+214,"Marshall County,West Virginia","Brunswick County,Virginia",26084,714513
+215,"Marshall County,West Virginia","Buchanan County,Virginia",21240,524781
+216,"Marshall County,West Virginia","Buckingham County,Virginia",22997,535373
+217,"Marshall County,West Virginia","Campbell County,Virginia",23484,561262
+218,"Marshall County,West Virginia","Caroline County,Virginia",21080,565080
+219,"Marshall County,West Virginia","Carroll County,Virginia",19491,509989
+220,"Marshall County,West Virginia","Charles City County,Virginia",23550,636563
+221,"Marshall County,West Virginia","Charlotte County,Virginia",25318,594257
+222,"Marshall County,West Virginia","Chesterfield County,Virginia",23481,629481
+223,"Marshall County,West Virginia","Clarke County,Virginia",15188,346727
+224,"Marshall County,West Virginia","Craig County,Virginia",19927,495417
+225,"Marshall County,West Virginia","Culpeper County,Virginia",18508,446165
+226,"Marshall County,West Virginia","Cumberland County,Virginia",23731,560580
+227,"Marshall County,West Virginia","Dickenson County,Virginia",21921,520144
+228,"Marshall County,West Virginia","Dinwiddie County,Virginia",24721,674480
+229,"Marshall County,West Virginia","Essex County,Virginia",22482,589134
+230,"Marshall County,West Virginia","Fairfax County,Virginia",16766,436758
+231,"Marshall County,West Virginia","Fauquier County,Virginia",16938,412892
+232,"Marshall County,West Virginia","Floyd County,Virginia",21112,528954
+233,"Marshall County,West Virginia","Fluvanna County,Virginia",21366,522395
+234,"Marshall County,West Virginia","Franklin County,Virginia",23385,592656
+235,"Marshall County,West Virginia","Frederick County,Virginia",13978,321448
+236,"Marshall County,West Virginia","Giles County,Virginia",17976,452110
+237,"Marshall County,West Virginia","Gloucester County,Virginia",25721,690752
+238,"Marshall County,West Virginia","Goochland County,Virginia",22270,553006
+239,"Marshall County,West Virginia","Grayson County,Virginia",19894,499697
+240,"Marshall County,West Virginia","Greene County,Virginia",19302,431852
+241,"Marshall County,West Virginia","Greensville County,Virginia",26137,723231
+242,"Marshall County,West Virginia","Halifax County,Virginia",26804,632969
+243,"Marshall County,West Virginia","Hanover County,Virginia",21898,594573
+244,"Marshall County,West Virginia","Henrico County,Virginia",22697,617233
+245,"Marshall County,West Virginia","Henry County,Virginia",23365,596710
+246,"Marshall County,West Virginia","Highland County,Virginia",15929,350199
+247,"Marshall County,West Virginia","Isle of Wight County,Virginia",26832,725823
+248,"Marshall County,West Virginia","James City County,Virginia",24786,677334
+249,"Marshall County,West Virginia","King and Queen County,Virginia",23534,624396
+250,"Marshall County,West Virginia","King George County,Virginia",21041,548941
+251,"Marshall County,West Virginia","King William County,Virginia",22499,602193
+252,"Marshall County,West Virginia","Lancaster County,Virginia",24905,645129
+253,"Marshall County,West Virginia","Lee County,Virginia",23222,568660
+254,"Marshall County,West Virginia","Loudoun County,Virginia",16684,382593
+255,"Marshall County,West Virginia","Louisa County,Virginia",21116,509540
+256,"Marshall County,West Virginia","Lunenburg County,Virginia",26616,636978
+257,"Marshall County,West Virginia","Madison County,Virginia",18931,434424
+258,"Marshall County,West Virginia","Mathews County,Virginia",26616,689516
+259,"Marshall County,West Virginia","Mecklenburg County,Virginia",27810,762785
+260,"Marshall County,West Virginia","Middlesex County,Virginia",24986,653097
+261,"Marshall County,West Virginia","Montgomery County,Virginia",19060,480117
+262,"Marshall County,West Virginia","Nelson County,Virginia",20568,488724
+263,"Marshall County,West Virginia","New Kent County,Virginia",24222,651248
+264,"Marshall County,West Virginia","Northampton County,Virginia",29204,793998
+265,"Marshall County,West Virginia","Northumberland County,Virginia",24945,643641
+266,"Marshall County,West Virginia","Nottoway County,Virginia",25592,689061
+267,"Marshall County,West Virginia","Orange County,Virginia",19849,480664
+268,"Marshall County,West Virginia","Page County,Virginia",17562,394906
+269,"Marshall County,West Virginia","Patrick County,Virginia",21597,555025
+270,"Marshall County,West Virginia","Pittsylvania County,Virginia",25681,650918
+271,"Marshall County,West Virginia","Powhatan County,Virginia",23523,578228
+272,"Marshall County,West Virginia","Prince Edward County,Virginia",24538,589197
+273,"Marshall County,West Virginia","Prince George County,Virginia",24367,665076
+274,"Marshall County,West Virginia","Prince William County,Virginia",17038,418996
+275,"Marshall County,West Virginia","Pulaski County,Virginia",19155,476448
+276,"Marshall County,West Virginia","Rappahannock County,Virginia",17249,398029
+277,"Marshall County,West Virginia","Richmond County,Virginia",23645,616284
+278,"Marshall County,West Virginia","Roanoke County,Virginia",20679,522910
+279,"Marshall County,West Virginia","Rockbridge County,Virginia",20021,495489
+280,"Marshall County,West Virginia","Rockingham County,Virginia",15733,362833
+281,"Marshall County,West Virginia","Russell County,Virginia",21054,520732
+282,"Marshall County,West Virginia","Scott County,Virginia",23397,567597
+283,"Marshall County,West Virginia","Shenandoah County,Virginia",15869,383839
+284,"Marshall County,West Virginia","Smyth County,Virginia",19603,505904
+285,"Marshall County,West Virginia","Southampton County,Virginia",26515,719345
+286,"Marshall County,West Virginia","Spotsylvania County,Virginia",20452,533340
+287,"Marshall County,West Virginia","Stafford County,Virginia",18740,500045
+288,"Marshall County,West Virginia","Surry County,Virginia",25479,686771
+289,"Marshall County,West Virginia","Sussex County,Virginia",25179,689588
+290,"Marshall County,West Virginia","Tazewell County,Virginia",18061,459139
+291,"Marshall County,West Virginia","Warren County,Virginia",15793,369387
+292,"Marshall County,West Virginia","Washington County,Virginia",20997,545370
+293,"Marshall County,West Virginia","Westmoreland County,Virginia",22009,567742
+294,"Marshall County,West Virginia","Wise County,Virginia",20186,496043
+295,"Marshall County,West Virginia","Wythe County,Virginia",17851,458769
+296,"Marshall County,West Virginia","York County,Virginia",26074,708109
+297,"Marshall County,West Virginia","Alexandria City County,Virginia",17591,463272
+298,"Marshall County,West Virginia","Bedford City County,Virginia",22707,545266
+299,"Marshall County,West Virginia","Bristol City County,Virginia",21472,571088
+300,"Marshall County,West Virginia","Buena Vista City County,Virginia",20158,487443
+301,"Marshall County,West Virginia","Charlottesville City County,Virginia",20157,485438
+302,"Marshall County,West Virginia","Chesapeake City County,Virginia",27537,761014
+303,"Marshall County,West Virginia","Clifton Forge City County,Virginia",18232,447340
+304,"Marshall County,West Virginia","Colonial Heights City County,Virginia",23534,639941
+305,"Marshall County,West Virginia","Covington City County,Virginia",17757,430719
+306,"Marshall County,West Virginia","Danville City County,Virginia",25522,651166
+307,"Marshall County,West Virginia","Emporia City County,Virginia",25845,709825
+308,"Marshall County,West Virginia","Fairfax City County,Virginia",17236,448391
+309,"Marshall County,West Virginia","Falls Church City County,Virginia",16783,440403
+310,"Marshall County,West Virginia","Franklin City County,Virginia",27063,727200
+311,"Marshall County,West Virginia","Fredericksburg City County,Virginia",19553,515635
+312,"Marshall County,West Virginia","Galax City County,Virginia",20115,515855
+313,"Marshall County,West Virginia","Hampton City County,Virginia",26024,717815
+314,"Marshall County,West Virginia","Harrisonburg City County,Virginia",16791,381508
+315,"Marshall County,West Virginia","Hopewell City County,Virginia",23298,639978
+316,"Marshall County,West Virginia","Lexington City County,Virginia",20010,497958
+317,"Marshall County,West Virginia","Lynchburg City County,Virginia",22670,541186
+318,"Marshall County,West Virginia","Manassas City County,Virginia",17265,423940
+319,"Marshall County,West Virginia","Manassas Park City County,Virginia",17768,430283
+320,"Marshall County,West Virginia","Martinsville City County,Virginia",23892,605504
+321,"Marshall County,West Virginia","Newport News City County,Virginia",25581,704301
+322,"Marshall County,West Virginia","Norfolk City County,Virginia",27331,743231
+323,"Marshall County,West Virginia","Norton City County,Virginia",20815,507855
+324,"Marshall County,West Virginia","Petersburg City County,Virginia",23406,640928
+325,"Marshall County,West Virginia","Poquoson City County,Virginia",26253,714877
+326,"Marshall County,West Virginia","Portsmouth City County,Virginia",27270,752052
+327,"Marshall County,West Virginia","Radford County,Virginia",19467,478157
+328,"Marshall County,West Virginia","Richmond City County,Virginia",22274,605044
+329,"Marshall County,West Virginia","Roanoke City County,Virginia",21281,543015
+330,"Marshall County,West Virginia","Salem City County,Virginia",20693,529565
+331,"Marshall County,West Virginia","South Boston City County,Virginia",26808,631787
+332,"Marshall County,West Virginia","Staunton City County,Virginia",18379,429677
+333,"Marshall County,West Virginia","Suffolk City County,Virginia",27675,740547
+334,"Marshall County,West Virginia","Virginia Beach City County,Virginia",27891,766489
+335,"Marshall County,West Virginia","Waynesboro City County,Virginia",18777,439528
+336,"Marshall County,West Virginia","Williamsburg City County,Virginia",24625,676550
+337,"Marshall County,West Virginia","Winchester City County,Virginia",14116,325252
+338,"Marshall County,West Virginia","Barbour County,West Virginia",9056,193110
+339,"Marshall County,West Virginia","Berkeley County,West Virginia",13530,324108
+340,"Marshall County,West Virginia","Boone County,West Virginia",13997,319330
+341,"Marshall County,West Virginia","Braxton County,West Virginia",11263,250764
+342,"Marshall County,West Virginia","Brooke County,West Virginia",3937,60740
+343,"Marshall County,West Virginia","Cabell County,West Virginia",13725,294990
+344,"Marshall County,West Virginia","Calhoun County,West Virginia",10352,184450
+345,"Marshall County,West Virginia","Clay County,West Virginia",12949,315788
+346,"Marshall County,West Virginia","Doddridge County,West Virginia",7699,128997
+347,"Marshall County,West Virginia","Fayette County,West Virginia",13728,335705
+348,"Marshall County,West Virginia","Gilmer County,West Virginia",10944,186807
+349,"Marshall County,West Virginia","Grant County,West Virginia",11905,254917
+350,"Marshall County,West Virginia","Greenbrier County,West Virginia",16930,371265
+351,"Marshall County,West Virginia","Hampshire County,West Virginia",12784,285711
+352,"Marshall County,West Virginia","Hancock County,West Virginia",5569,96779
+353,"Marshall County,West Virginia","Hardy County,West Virginia",12991,287518
+354,"Marshall County,West Virginia","Harrison County,West Virginia",7231,109374
+355,"Marshall County,West Virginia","Jackson County,West Virginia",9301,200950
+356,"Marshall County,West Virginia","Jefferson County,West Virginia",14996,380106
+357,"Marshall County,West Virginia","Kanawha County,West Virginia",12472,287499
+358,"Marshall County,West Virginia","Lewis County,West Virginia",8968,199752
+359,"Marshall County,West Virginia","Lincoln County,West Virginia",14255,313917
+360,"Marshall County,West Virginia","Logan County,West Virginia",14926,356449
+361,"Marshall County,West Virginia","McDowell County,West Virginia",18835,434811
+362,"Marshall County,West Virginia","Marion County,West Virginia",5934,93397
+363,"Marshall County,West Virginia","Mason County,West Virginia",11065,245004
+364,"Marshall County,West Virginia","Mercer County,West Virginia",15799,399058
+365,"Marshall County,West Virginia","Mineral County,West Virginia",11664,260263
+366,"Marshall County,West Virginia","Mingo County,West Virginia",14971,360956
+367,"Marshall County,West Virginia","Monongalia County,West Virginia",6186,124955
+368,"Marshall County,West Virginia","Monroe County,West Virginia",18538,432333
+369,"Marshall County,West Virginia","Morgan County,West Virginia",13022,313500
+370,"Marshall County,West Virginia","Nicholas County,West Virginia",12248,300409
+371,"Marshall County,West Virginia","Ohio County,West Virginia",2761,37238
+372,"Marshall County,West Virginia","Pendleton County,West Virginia",14233,309480
+373,"Marshall County,West Virginia","Pleasants County,West Virginia",6089,109154
+374,"Marshall County,West Virginia","Pocahontas County,West Virginia",15734,332863
+375,"Marshall County,West Virginia","Preston County,West Virginia",8423,156740
+376,"Marshall County,West Virginia","Putnam County,West Virginia",11847,287764
+377,"Marshall County,West Virginia","Raleigh County,West Virginia",14340,352751
+378,"Marshall County,West Virginia","Randolph County,West Virginia",11120,249758
+379,"Marshall County,West Virginia","Ritchie County,West Virginia",7461,134377
+380,"Marshall County,West Virginia","Roane County,West Virginia",10927,229765
+381,"Marshall County,West Virginia","Summers County,West Virginia",17793,414189
+382,"Marshall County,West Virginia","Taylor County,West Virginia",7343,144261
+383,"Marshall County,West Virginia","Tucker County,West Virginia",10569,203702
+384,"Marshall County,West Virginia","Tyler County,West Virginia",4832,78432
+385,"Marshall County,West Virginia","Upshur County,West Virginia",10095,224199
+386,"Marshall County,West Virginia","Wayne County,West Virginia",15182,368866
+387,"Marshall County,West Virginia","Webster County,West Virginia",13470,296586
+388,"Marshall County,West Virginia","Wetzel County,West Virginia",4931,81166
+389,"Marshall County,West Virginia","Wirt County,West Virginia",8545,165413
+390,"Marshall County,West Virginia","Wood County,West Virginia",7307,140610
+391,"Marshall County,West Virginia","Wyoming County,West Virginia",16285,392693

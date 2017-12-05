@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Clay County,West Virginia","Adair County,Kentucky",18944,520874
+1,"Clay County,West Virginia","Allen County,Kentucky",21562,621522
+2,"Clay County,West Virginia","Anderson County,Kentucky",14743,423913
+3,"Clay County,West Virginia","Ballard County,Kentucky",27722,813685
+4,"Clay County,West Virginia","Barren County,Kentucky",20689,579902
+5,"Clay County,West Virginia","Bath County,Kentucky",10391,295095
+6,"Clay County,West Virginia","Bell County,Kentucky",17946,430910
+7,"Clay County,West Virginia","Boone County,Kentucky",16203,416488
+8,"Clay County,West Virginia","Bourbon County,Kentucky",12304,341512
+9,"Clay County,West Virginia","Boyd County,Kentucky",7066,189419
+10,"Clay County,West Virginia","Boyle County,Kentucky",15972,427800
+11,"Clay County,West Virginia","Bracken County,Kentucky",12715,335595
+12,"Clay County,West Virginia","Breathitt County,Kentucky",13777,336121
+13,"Clay County,West Virginia","Breckinridge County,Kentucky",20277,576595
+14,"Clay County,West Virginia","Bullitt County,Kentucky",16847,497714
+15,"Clay County,West Virginia","Butler County,Kentucky",20942,598592
+16,"Clay County,West Virginia","Caldwell County,Kentucky",23833,704538
+17,"Clay County,West Virginia","Calloway County,Kentucky",26643,789530
+18,"Clay County,West Virginia","Campbell County,Kentucky",14416,375466
+19,"Clay County,West Virginia","Carlisle County,Kentucky",28179,829053
+20,"Clay County,West Virginia","Carroll County,Kentucky",17288,471728
+21,"Clay County,West Virginia","Carter County,Kentucky",8231,219516
+22,"Clay County,West Virginia","Casey County,Kentucky",17467,459305
+23,"Clay County,West Virginia","Christian County,Kentucky",23482,699794
+24,"Clay County,West Virginia","Clay County,Kentucky",16276,423235
+25,"Clay County,West Virginia","Clinton County,Kentucky",19351,524240
+26,"Clay County,West Virginia","Crittenden County,Kentucky",25413,737608
+27,"Clay County,West Virginia","Cumberland County,Kentucky",20105,542479
+28,"Clay County,West Virginia","Daviess County,Kentucky",21964,645035
+29,"Clay County,West Virginia","Edmonson County,Kentucky",20382,586467
+30,"Clay County,West Virginia","Elliott County,Kentucky",9561,245286
+31,"Clay County,West Virginia","Estill County,Kentucky",13383,357410
+32,"Clay County,West Virginia","Fayette County,Kentucky",12550,361406
+33,"Clay County,West Virginia","Fleming County,Kentucky",10817,298280
+34,"Clay County,West Virginia","Floyd County,Kentucky",11199,296684
+35,"Clay County,West Virginia","Franklin County,Kentucky",14588,410323
+36,"Clay County,West Virginia","Fulton County,Kentucky",28583,850017
+37,"Clay County,West Virginia","Gallatin County,Kentucky",16286,462387
+38,"Clay County,West Virginia","Garrard County,Kentucky",15155,408560
+39,"Clay County,West Virginia","Grant County,Kentucky",15085,436494
+40,"Clay County,West Virginia","Graves County,Kentucky",27204,801759
+41,"Clay County,West Virginia","Grayson County,Kentucky",19269,555228
+42,"Clay County,West Virginia","Green County,Kentucky",19048,520434
+43,"Clay County,West Virginia","Greenup County,Kentucky",8842,230545
+44,"Clay County,West Virginia","Hancock County,Kentucky",21072,609488
+45,"Clay County,West Virginia","Hardin County,Kentucky",18145,517361
+46,"Clay County,West Virginia","Harlan County,Kentucky",17269,411227
+47,"Clay County,West Virginia","Harrison County,Kentucky",13875,374612
+48,"Clay County,West Virginia","Hart County,Kentucky",18944,544990
+49,"Clay County,West Virginia","Henderson County,Kentucky",23771,697465
+50,"Clay County,West Virginia","Henry County,Kentucky",16189,454041
+51,"Clay County,West Virginia","Hickman County,Kentucky",28212,830345
+52,"Clay County,West Virginia","Hopkins County,Kentucky",23292,679006
+53,"Clay County,West Virginia","Jackson County,Kentucky",16056,405418
+54,"Clay County,West Virginia","Jefferson County,Kentucky",16283,469575
+55,"Clay County,West Virginia","Jessamine County,Kentucky",14019,382870
+56,"Clay County,West Virginia","Johnson County,Kentucky",9848,262315
+57,"Clay County,West Virginia","Kenton County,Kentucky",15573,404182
+58,"Clay County,West Virginia","Knott County,Kentucky",12381,328566
+59,"Clay County,West Virginia","Knox County,Kentucky",17559,487452
+60,"Clay County,West Virginia","Larue County,Kentucky",18217,504537
+61,"Clay County,West Virginia","Laurel County,Kentucky",16410,458847
+62,"Clay County,West Virginia","Lawrence County,Kentucky",8989,233739
+63,"Clay County,West Virginia","Lee County,Kentucky",14228,351147
+64,"Clay County,West Virginia","Leslie County,Kentucky",15460,398239
+65,"Clay County,West Virginia","Letcher County,Kentucky",13453,331506
+66,"Clay County,West Virginia","Lewis County,Kentucky",10269,271334
+67,"Clay County,West Virginia","Lincoln County,Kentucky",15865,425478
+68,"Clay County,West Virginia","Livingston County,Kentucky",26009,754505
+69,"Clay County,West Virginia","Logan County,Kentucky",22682,641831
+70,"Clay County,West Virginia","Lyon County,Kentucky",26142,764895
+71,"Clay County,West Virginia","McCracken County,Kentucky",26334,781744
+72,"Clay County,West Virginia","McCreary County,Kentucky",18515,503289
+73,"Clay County,West Virginia","Madison County,Kentucky",13549,372429
+74,"Clay County,West Virginia","Magoffin County,Kentucky",10815,282994
+75,"Clay County,West Virginia","Marion County,Kentucky",16595,466146
+76,"Clay County,West Virginia","Marshall County,Kentucky",25749,765316
+77,"Clay County,West Virginia","Martin County,Kentucky",10475,266084
+78,"Clay County,West Virginia","Mason County,Kentucky",12064,315141
+79,"Clay County,West Virginia","Meade County,Kentucky",18744,541889
+80,"Clay County,West Virginia","Menifee County,Kentucky",11507,307158
+81,"Clay County,West Virginia","Mercer County,Kentucky",14971,421857
+82,"Clay County,West Virginia","Metcalfe County,Kentucky",19600,551139
+83,"Clay County,West Virginia","Monroe County,Kentucky",21569,588643
+84,"Clay County,West Virginia","Montgomery County,Kentucky",11204,313635
+85,"Clay County,West Virginia","Morgan County,Kentucky",11285,282874
+86,"Clay County,West Virginia","Muhlenberg County,Kentucky",22152,645482
+87,"Clay County,West Virginia","Nelson County,Kentucky",16202,465218
+88,"Clay County,West Virginia","Nicholas County,Kentucky",12882,341518
+89,"Clay County,West Virginia","Ohio County,Kentucky",21066,613071
+90,"Clay County,West Virginia","Oldham County,Kentucky",16355,481456
+91,"Clay County,West Virginia","Owen County,Kentucky",15410,437100
+92,"Clay County,West Virginia","Owsley County,Kentucky",15374,371123
+93,"Clay County,West Virginia","Pendleton County,Kentucky",14653,376519
+94,"Clay County,West Virginia","Perry County,Kentucky",13760,359124
+95,"Clay County,West Virginia","Pike County,Kentucky",10755,261623
+96,"Clay County,West Virginia","Powell County,Kentucky",12647,343381
+97,"Clay County,West Virginia","Robertson County,Kentucky",12799,341024
+98,"Clay County,West Virginia","Rockcastle County,Kentucky",14983,413572
+99,"Clay County,West Virginia","Rowan County,Kentucky",9533,267302
+100,"Clay County,West Virginia","Russell County,Kentucky",18548,504858
+101,"Clay County,West Virginia","Scott County,Kentucky",13385,389433
+102,"Clay County,West Virginia","Shelby County,Kentucky",15212,440709
+103,"Clay County,West Virginia","Simpson County,Kentucky",22263,649888
+104,"Clay County,West Virginia","Spencer County,Kentucky",15741,446557
+105,"Clay County,West Virginia","Taylor County,Kentucky",17884,497642
+106,"Clay County,West Virginia","Todd County,Kentucky",23918,665991
+107,"Clay County,West Virginia","Trigg County,Kentucky",24896,725724
+108,"Clay County,West Virginia","Trimble County,Kentucky",17428,487496
+109,"Clay County,West Virginia","Union County,Kentucky",25491,727911
+110,"Clay County,West Virginia","Warren County,Kentucky",21298,614836
+111,"Clay County,West Virginia","Washington County,Kentucky",16212,450454
+112,"Clay County,West Virginia","Wayne County,Kentucky",18724,501931
+113,"Clay County,West Virginia","Webster County,Kentucky",24401,707095
+114,"Clay County,West Virginia","Whitley County,Kentucky",17243,493332
+115,"Clay County,West Virginia","Wolfe County,Kentucky",12380,306236
+116,"Clay County,West Virginia","Woodford County,Kentucky",13604,392069
+117,"Clay County,West Virginia","Adams County,Ohio",12157,317697
+118,"Clay County,West Virginia","Allen County,Ohio",18603,491913
+119,"Clay County,West Virginia","Ashland County,Ohio",16431,440734
+120,"Clay County,West Virginia","Ashtabula County,Ohio",18365,530947
+121,"Clay County,West Virginia","Athens County,Ohio",8362,217024
+122,"Clay County,West Virginia","Auglaize County,Ohio",18139,509814
+123,"Clay County,West Virginia","Belmont County,Ohio",12181,350556
+124,"Clay County,West Virginia","Brown County,Ohio",13401,344625
+125,"Clay County,West Virginia","Butler County,Ohio",16514,426650
+126,"Clay County,West Virginia","Carroll County,Ohio",14111,387442
+127,"Clay County,West Virginia","Champaign County,Ohio",15443,411912
+128,"Clay County,West Virginia","Clark County,Ohio",14122,371456
+129,"Clay County,West Virginia","Clermont County,Ohio",14235,375721
+130,"Clay County,West Virginia","Clinton County,Ohio",13626,359137
+131,"Clay County,West Virginia","Columbiana County,Ohio",14968,382880
+132,"Clay County,West Virginia","Coshocton County,Ohio",12746,358559
+133,"Clay County,West Virginia","Crawford County,Ohio",17038,451894
+134,"Clay County,West Virginia","Cuyahoga County,Ohio",16147,472846
+135,"Clay County,West Virginia","Darke County,Ohio",17237,466861
+136,"Clay County,West Virginia","Defiance County,Ohio",22038,570234
+137,"Clay County,West Virginia","Delaware County,Ohio",14192,384631
+138,"Clay County,West Virginia","Fairfield County,Ohio",11722,311725
+139,"Clay County,West Virginia","Fayette County,Ohio",12190,329601
+140,"Clay County,West Virginia","Franklin County,Ohio",12723,341580
+141,"Clay County,West Virginia","Fulton County,Ohio",22128,607463
+142,"Clay County,West Virginia","Gallia County,Ohio",7503,188713
+143,"Clay County,West Virginia","Geauga County,Ohio",17219,498564
+144,"Clay County,West Virginia","Greene County,Ohio",13060,362754
+145,"Clay County,West Virginia","Guernsey County,Ohio",10296,296478
+146,"Clay County,West Virginia","Hamilton County,Ohio",16015,437228
+147,"Clay County,West Virginia","Hancock County,Ohio",18215,492986
+148,"Clay County,West Virginia","Hardin County,Ohio",17113,447742
+149,"Clay County,West Virginia","Harrison County,Ohio",13116,369508
+150,"Clay County,West Virginia","Henry County,Ohio",20928,564608
+151,"Clay County,West Virginia","Highland County,Ohio",12694,317711
+152,"Clay County,West Virginia","Hocking County,Ohio",10165,267689
+153,"Clay County,West Virginia","Holmes County,Ohio",13805,381443
+154,"Clay County,West Virginia","Huron County,Ohio",18328,482363
+155,"Clay County,West Virginia","Jackson County,Ohio",8681,228262
+156,"Clay County,West Virginia","Jefferson County,Ohio",13715,357850
+157,"Clay County,West Virginia","Knox County,Ohio",14534,401035
+158,"Clay County,West Virginia","Lawrence County,Ohio",8206,194476
+159,"Clay County,West Virginia","Licking County,Ohio",13667,338735
+160,"Clay County,West Virginia","Logan County,Ohio",16134,442020
+161,"Clay County,West Virginia","Lorain County,Ohio",17371,502670
+162,"Clay County,West Virginia","Lucas County,Ohio",21850,580486
+163,"Clay County,West Virginia","Madison County,Ohio",13891,352686
+164,"Clay County,West Virginia","Mahoning County,Ohio",14851,420939
+165,"Clay County,West Virginia","Marion County,Ohio",15598,410724
+166,"Clay County,West Virginia","Medina County,Ohio",15820,458877
+167,"Clay County,West Virginia","Meigs County,Ohio",7243,187995
+168,"Clay County,West Virginia","Mercer County,Ohio",19375,536748
+169,"Clay County,West Virginia","Miami County,Ohio",15725,432253
+170,"Clay County,West Virginia","Monroe County,Ohio",11232,285670
+171,"Clay County,West Virginia","Montgomery County,Ohio",15095,410209
+172,"Clay County,West Virginia","Morgan County,Ohio",10238,272318
+173,"Clay County,West Virginia","Morrow County,Ohio",14999,407452
+174,"Clay County,West Virginia","Muskingum County,Ohio",11142,324470
+175,"Clay County,West Virginia","Noble County,Ohio",9738,268830
+176,"Clay County,West Virginia","Paulding County,Ohio",21139,567819
+177,"Clay County,West Virginia","Perry County,Ohio",11580,282445
+178,"Clay County,West Virginia","Pickaway County,Ohio",11630,309700
+179,"Clay County,West Virginia","Pike County,Ohio",10127,267569
+180,"Clay County,West Virginia","Portage County,Ohio",15669,454428
+181,"Clay County,West Virginia","Preble County,Ohio",16714,438787
+182,"Clay County,West Virginia","Putnam County,Ohio",19725,524271
+183,"Clay County,West Virginia","Richland County,Ohio",16029,442691
+184,"Clay County,West Virginia","Ross County,Ohio",10375,276006
+185,"Clay County,West Virginia","Sandusky County,Ohio",19971,511681
+186,"Clay County,West Virginia","Scioto County,Ohio",10011,251749
+187,"Clay County,West Virginia","Seneca County,Ohio",18589,485566
+188,"Clay County,West Virginia","Shelby County,Ohio",16764,468539
+189,"Clay County,West Virginia","Stark County,Ohio",13970,402677
+190,"Clay County,West Virginia","Summit County,Ohio",14728,428465
+191,"Clay County,West Virginia","Trumbull County,Ohio",16009,458403
+192,"Clay County,West Virginia","Tuscarawas County,Ohio",12170,343265
+193,"Clay County,West Virginia","Union County,Ohio",14638,392251
+194,"Clay County,West Virginia","Van Wert County,Ohio",19837,534783
+195,"Clay County,West Virginia","Vinton County,Ohio",10306,250852
+196,"Clay County,West Virginia","Warren County,Ohio",14432,393196
+197,"Clay County,West Virginia","Washington County,Ohio",8597,226766
+198,"Clay County,West Virginia","Wayne County,Ohio",14941,405555
+199,"Clay County,West Virginia","Williams County,Ohio",23215,593750
+200,"Clay County,West Virginia","Wood County,Ohio",19613,534594
+201,"Clay County,West Virginia","Wyandot County,Ohio",17185,457122
+202,"Clay County,West Virginia","Accomack County,Virginia",28194,732743
+203,"Clay County,West Virginia","Albemarle County,Virginia",14344,345243
+204,"Clay County,West Virginia","Alleghany County,Virginia",9013,182266
+205,"Clay County,West Virginia","Amelia County,Virginia",19044,445361
+206,"Clay County,West Virginia","Amherst County,Virginia",14342,313232
+207,"Clay County,West Virginia","Appomattox County,Virginia",15935,351991
+208,"Clay County,West Virginia","Arlington County,Virginia",19142,549749
+209,"Clay County,West Virginia","Augusta County,Virginia",12954,283582
+210,"Clay County,West Virginia","Bath County,Virginia",12024,257575
+211,"Clay County,West Virginia","Bedford County,Virginia",14862,344757
+212,"Clay County,West Virginia","Bland County,Virginia",8236,193886
+213,"Clay County,West Virginia","Botetourt County,Virginia",12167,253565
+214,"Clay County,West Virginia","Brunswick County,Virginia",21587,495034
+215,"Clay County,West Virginia","Buchanan County,Virginia",12230,278116
+216,"Clay County,West Virginia","Buckingham County,Virginia",16217,362926
+217,"Clay County,West Virginia","Campbell County,Virginia",15858,354463
+218,"Clay County,West Virginia","Caroline County,Virginia",19683,514088
+219,"Clay County,West Virginia","Carroll County,Virginia",10481,263324
+220,"Clay County,West Virginia","Charles City County,Virginia",19783,511123
+221,"Clay County,West Virginia","Charlotte County,Virginia",17819,405511
+222,"Clay County,West Virginia","Chesterfield County,Virginia",18919,488907
+223,"Clay County,West Virginia","Clarke County,Virginia",17184,431104
+224,"Clay County,West Virginia","Craig County,Virginia",10917,248752
+225,"Clay County,West Virginia","Culpeper County,Virginia",18141,434459
+226,"Clay County,West Virginia","Cumberland County,Virginia",17427,390928
+227,"Clay County,West Virginia","Dickenson County,Virginia",14911,318220
+228,"Clay County,West Virginia","Dinwiddie County,Virginia",20666,539338
+229,"Clay County,West Virginia","Essex County,Virginia",21500,538131
+230,"Clay County,West Virginia","Fairfax County,Virginia",18832,540416
+231,"Clay County,West Virginia","Fauquier County,Virginia",17623,452355
+232,"Clay County,West Virginia","Floyd County,Virginia",12102,282288
+233,"Clay County,West Virginia","Fluvanna County,Virginia",16022,397414
+234,"Clay County,West Virginia","Franklin County,Virginia",14375,345991
+235,"Clay County,West Virginia","Frederick County,Virginia",15704,394909
+236,"Clay County,West Virginia","Giles County,Virginia",8966,205444
+237,"Clay County,West Virginia","Gloucester County,Virginia",21954,565311
+238,"Clay County,West Virginia","Goochland County,Virginia",16925,428025
+239,"Clay County,West Virginia","Grayson County,Virginia",10884,253031
+240,"Clay County,West Virginia","Greene County,Virginia",16336,380827
+241,"Clay County,West Virginia","Greensville County,Virginia",22083,588090
+242,"Clay County,West Virginia","Halifax County,Virginia",18785,461011
+243,"Clay County,West Virginia","Hanover County,Virginia",18131,469132
+244,"Clay County,West Virginia","Henrico County,Virginia",18643,482092
+245,"Clay County,West Virginia","Henry County,Virginia",14355,350045
+246,"Clay County,West Virginia","Highland County,Virginia",12465,214191
+247,"Clay County,West Virginia","Isle of Wight County,Virginia",22895,586669
+248,"Clay County,West Virginia","James City County,Virginia",21019,551894
+249,"Clay County,West Virginia","King and Queen County,Virginia",20677,527478
+250,"Clay County,West Virginia","King George County,Virginia",20796,542075
+251,"Clay County,West Virginia","King William County,Virginia",19365,497400
+252,"Clay County,West Virginia","Lancaster County,Virginia",23158,580485
+253,"Clay County,West Virginia","Lee County,Virginia",16154,400100
+254,"Clay County,West Virginia","Loudoun County,Virginia",18680,466971
+255,"Clay County,West Virginia","Louisa County,Virginia",16582,411120
+256,"Clay County,West Virginia","Lunenburg County,Virginia",19592,446795
+257,"Clay County,West Virginia","Madison County,Virginia",17256,410567
+258,"Clay County,West Virginia","Mathews County,Virginia",22779,588735
+259,"Clay County,West Virginia","Mecklenburg County,Virginia",20582,459920
+260,"Clay County,West Virginia","Middlesex County,Virginia",21555,561512
+261,"Clay County,West Virginia","Montgomery County,Virginia",10049,233451
+262,"Clay County,West Virginia","Nelson County,Virginia",14883,324923
+263,"Clay County,West Virginia","New Kent County,Virginia",20455,525808
+264,"Clay County,West Virginia","Northampton County,Virginia",25437,668557
+265,"Clay County,West Virginia","Northumberland County,Virginia",23197,578998
+266,"Clay County,West Virginia","Nottoway County,Virginia",19084,447175
+267,"Clay County,West Virginia","Orange County,Virginia",17545,419228
+268,"Clay County,West Virginia","Page County,Virginia",16190,394353
+269,"Clay County,West Virginia","Patrick County,Virginia",12587,308359
+270,"Clay County,West Virginia","Pittsylvania County,Virginia",16670,404253
+271,"Clay County,West Virginia","Powhatan County,Virginia",18178,453247
+272,"Clay County,West Virginia","Prince Edward County,Virginia",17699,404511
+273,"Clay County,West Virginia","Prince George County,Virginia",20430,525922
+274,"Clay County,West Virginia","Prince William County,Virginia",17722,458459
+275,"Clay County,West Virginia","Pulaski County,Virginia",10144,229783
+276,"Clay County,West Virginia","Rappahannock County,Virginia",18021,430840
+277,"Clay County,West Virginia","Richmond County,Virginia",21897,551641
+278,"Clay County,West Virginia","Roanoke County,Virginia",11669,276245
+279,"Clay County,West Virginia","Rockbridge County,Virginia",11346,250622
+280,"Clay County,West Virginia","Rockingham County,Virginia",15229,366703
+281,"Clay County,West Virginia","Russell County,Virginia",12044,274066
+282,"Clay County,West Virginia","Scott County,Virginia",14708,342193
+283,"Clay County,West Virginia","Shenandoah County,Virginia",15734,396806
+284,"Clay County,West Virginia","Smyth County,Virginia",10593,259238
+285,"Clay County,West Virginia","Southampton County,Virginia",22460,584204
+286,"Clay County,West Virginia","Spotsylvania County,Virginia",18599,452959
+287,"Clay County,West Virginia","Stafford County,Virginia",19980,477252
+288,"Clay County,West Virginia","Surry County,Virginia",21763,550755
+289,"Clay County,West Virginia","Sussex County,Virginia",21124,554447
+290,"Clay County,West Virginia","Tazewell County,Virginia",9051,212474
+291,"Clay County,West Virginia","Warren County,Virginia",16263,400156
+292,"Clay County,West Virginia","Washington County,Virginia",11987,298705
+293,"Clay County,West Virginia","Westmoreland County,Virginia",21770,558899
+294,"Clay County,West Virginia","Wise County,Virginia",13118,327483
+295,"Clay County,West Virginia","Wythe County,Virginia",8840,212103
+296,"Clay County,West Virginia","York County,Virginia",22307,582668
+297,"Clay County,West Virginia","Alexandria City County,Virginia",19657,566931
+298,"Clay County,West Virginia","Bedford City County,Virginia",14031,300399
+299,"Clay County,West Virginia","Bristol City County,Virginia",12462,324422
+300,"Clay County,West Virginia","Buena Vista City County,Virginia",11700,264599
+301,"Clay County,West Virginia","Charlottesville City County,Virginia",14813,360457
+302,"Clay County,West Virginia","Chesapeake City County,Virginia",23770,635574
+303,"Clay County,West Virginia","Clifton Forge City County,Virginia",9556,202472
+304,"Clay County,West Virginia","Colonial Heights City County,Virginia",19479,504799
+305,"Clay County,West Virginia","Covington City County,Virginia",9082,185851
+306,"Clay County,West Virginia","Danville City County,Virginia",16512,404501
+307,"Clay County,West Virginia","Emporia City County,Virginia",21790,574683
+308,"Clay County,West Virginia","Fairfax City County,Virginia",18855,484207
+309,"Clay County,West Virginia","Falls Church City County,Virginia",18850,544061
+310,"Clay County,West Virginia","Franklin City County,Virginia",23008,592059
+311,"Clay County,West Virginia","Fredericksburg City County,Virginia",19732,462618
+312,"Clay County,West Virginia","Galax City County,Virginia",11105,269190
+313,"Clay County,West Virginia","Hampton City County,Virginia",22257,592375
+314,"Clay County,West Virginia","Harrisonburg City County,Virginia",14288,346599
+315,"Clay County,West Virginia","Hopewell City County,Virginia",19516,503765
+316,"Clay County,West Virginia","Lexington City County,Virginia",11334,253091
+317,"Clay County,West Virginia","Lynchburg City County,Virginia",14918,328205
+318,"Clay County,West Virginia","Manassas City County,Virginia",17950,463404
+319,"Clay County,West Virginia","Manassas Park City County,Virginia",18452,469747
+320,"Clay County,West Virginia","Martinsville City County,Virginia",14882,358838
+321,"Clay County,West Virginia","Newport News City County,Virginia",21814,578860
+322,"Clay County,West Virginia","Norfolk City County,Virginia",23564,617790
+323,"Clay County,West Virginia","Norton City County,Virginia",13747,339295
+324,"Clay County,West Virginia","Petersburg City County,Virginia",19351,505787
+325,"Clay County,West Virginia","Poquoson City County,Virginia",22486,589437
+326,"Clay County,West Virginia","Portsmouth City County,Virginia",23503,626611
+327,"Clay County,West Virginia","Radford County,Virginia",10457,231492
+328,"Clay County,West Virginia","Richmond City County,Virginia",18219,469902
+329,"Clay County,West Virginia","Roanoke City County,Virginia",12271,296350
+330,"Clay County,West Virginia","Salem City County,Virginia",11683,282899
+331,"Clay County,West Virginia","South Boston City County,Virginia",18524,458679
+332,"Clay County,West Virginia","Staunton City County,Virginia",13106,307734
+333,"Clay County,West Virginia","Suffolk City County,Virginia",23738,601393
+334,"Clay County,West Virginia","Virginia Beach City County,Virginia",24124,641049
+335,"Clay County,West Virginia","Waynesboro City County,Virginia",13443,320452
+336,"Clay County,West Virginia","Williamsburg City County,Virginia",20858,551110
+337,"Clay County,West Virginia","Winchester City County,Virginia",16182,428910
+338,"Clay County,West Virginia","Barbour County,West Virginia",7663,189607
+339,"Clay County,West Virginia","Berkeley County,West Virginia",15596,427766
+340,"Clay County,West Virginia","Boone County,West Virginia",6929,150771
+341,"Clay County,West Virginia","Braxton County,West Virginia",4353,80586
+342,"Clay County,West Virginia","Brooke County,West Virginia",12021,321400
+343,"Clay County,West Virginia","Cabell County,West Virginia",6522,167680
+344,"Clay County,West Virginia","Calhoun County,West Virginia",4274,78271
+345,"Clay County,West Virginia","Doddridge County,West Virginia",7867,166463
+346,"Clay County,West Virginia","Fayette County,West Virginia",4042,69938
+347,"Clay County,West Virginia","Gilmer County,West Virginia",5552,102773
+348,"Clay County,West Virginia","Grant County,West Virginia",12019,291152
+349,"Clay County,West Virginia","Greenbrier County,West Virginia",8294,131911
+350,"Clay County,West Virginia","Hampshire County,West Virginia",14851,389370
+351,"Clay County,West Virginia","Hancock County,West Virginia",13648,348747
+352,"Clay County,West Virginia","Hardy County,West Virginia",13074,322649
+353,"Clay County,West Virginia","Harrison County,West Virginia",6897,175978
+354,"Clay County,West Virginia","Jackson County,West Virginia",5638,141219
+355,"Clay County,West Virginia","Jefferson County,West Virginia",17062,483764
+356,"Clay County,West Virginia","Kanawha County,West Virginia",3273,54893
+357,"Clay County,West Virginia","Lewis County,West Virginia",5526,129448
+358,"Clay County,West Virginia","Lincoln County,West Virginia",7186,145358
+359,"Clay County,West Virginia","Logan County,West Virginia",7858,187889
+360,"Clay County,West Virginia","McDowell County,West Virginia",9825,188146
+361,"Clay County,West Virginia","Marion County,West Virginia",8042,203145
+362,"Clay County,West Virginia","Marshall County,West Virginia",13009,315844
+363,"Clay County,West Virginia","Mason County,West Virginia",5998,153586
+364,"Clay County,West Virginia","Mercer County,West Virginia",6789,152393
+365,"Clay County,West Virginia","Mineral County,West Virginia",13713,319973
+366,"Clay County,West Virginia","Mingo County,West Virginia",7903,192397
+367,"Clay County,West Virginia","Monongalia County,West Virginia",8253,228613
+368,"Clay County,West Virginia","Monroe County,West Virginia",9862,187466
+369,"Clay County,West Virginia","Morgan County,West Virginia",15088,417158
+370,"Clay County,West Virginia","Nicholas County,West Virginia",4072,55022
+371,"Clay County,West Virginia","Ohio County,West Virginia",11928,330347
+372,"Clay County,West Virginia","Pendleton County,West Virginia",12350,293776
+373,"Clay County,West Virginia","Pleasants County,West Virginia",8812,155394
+374,"Clay County,West Virginia","Pocahontas County,West Virginia",9720,161831
+375,"Clay County,West Virginia","Preston County,West Virginia",10399,255344
+376,"Clay County,West Virginia","Putnam County,West Virginia",4779,119205
+377,"Clay County,West Virginia","Raleigh County,West Virginia",5330,106085
+378,"Clay County,West Virginia","Randolph County,West Virginia",8028,191903
+379,"Clay County,West Virginia","Ritchie County,West Virginia",7205,128646
+380,"Clay County,West Virginia","Roane County,West Virginia",5345,86406
+381,"Clay County,West Virginia","Summers County,West Virginia",8783,167523
+382,"Clay County,West Virginia","Taylor County,West Virginia",7935,198717
+383,"Clay County,West Virginia","Tucker County,West Virginia",9095,222427
+384,"Clay County,West Virginia","Tyler County,West Virginia",10622,244784
+385,"Clay County,West Virginia","Upshur County,West Virginia",7091,144145
+386,"Clay County,West Virginia","Wayne County,West Virginia",8113,200306
+387,"Clay County,West Virginia","Webster County,West Virginia",7021,138459
+388,"Clay County,West Virginia","Wetzel County,West Virginia",9576,227460
+389,"Clay County,West Virginia","Wirt County,West Virginia",6652,116994
+390,"Clay County,West Virginia","Wood County,West Virginia",7419,200246
+391,"Clay County,West Virginia","Wyoming County,West Virginia",7281,146058

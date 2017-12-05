@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Harrison County,West Virginia","Adair County,Kentucky",22566,644244
+1,"Harrison County,West Virginia","Allen County,Kentucky",25184,744892
+2,"Harrison County,West Virginia","Anderson County,Kentucky",18366,547283
+3,"Harrison County,West Virginia","Ballard County,Kentucky",31344,937054
+4,"Harrison County,West Virginia","Barren County,Kentucky",24312,703271
+5,"Harrison County,West Virginia","Bath County,Kentucky",14013,418464
+6,"Harrison County,West Virginia","Bell County,Kentucky",21568,554280
+7,"Harrison County,West Virginia","Boone County,Kentucky",17247,453698
+8,"Harrison County,West Virginia","Bourbon County,Kentucky",15927,464881
+9,"Harrison County,West Virginia","Boyd County,Kentucky",10689,312789
+10,"Harrison County,West Virginia","Boyle County,Kentucky",19595,551169
+11,"Harrison County,West Virginia","Bracken County,Kentucky",16125,407778
+12,"Harrison County,West Virginia","Breathitt County,Kentucky",17400,459490
+13,"Harrison County,West Virginia","Breckinridge County,Kentucky",23899,699964
+14,"Harrison County,West Virginia","Bullitt County,Kentucky",20469,621083
+15,"Harrison County,West Virginia","Butler County,Kentucky",24564,721962
+16,"Harrison County,West Virginia","Caldwell County,Kentucky",27456,827907
+17,"Harrison County,West Virginia","Calloway County,Kentucky",30266,912900
+18,"Harrison County,West Virginia","Campbell County,Kentucky",16877,442853
+19,"Harrison County,West Virginia","Carlisle County,Kentucky",31801,952422
+20,"Harrison County,West Virginia","Carroll County,Kentucky",18821,515464
+21,"Harrison County,West Virginia","Carter County,Kentucky",11853,342886
+22,"Harrison County,West Virginia","Casey County,Kentucky",21089,582674
+23,"Harrison County,West Virginia","Christian County,Kentucky",27105,823164
+24,"Harrison County,West Virginia","Clay County,Kentucky",19898,546605
+25,"Harrison County,West Virginia","Clinton County,Kentucky",22973,647609
+26,"Harrison County,West Virginia","Crittenden County,Kentucky",29036,860978
+27,"Harrison County,West Virginia","Cumberland County,Kentucky",23727,665848
+28,"Harrison County,West Virginia","Daviess County,Kentucky",25587,768404
+29,"Harrison County,West Virginia","Edmonson County,Kentucky",24004,709837
+30,"Harrison County,West Virginia","Elliott County,Kentucky",13184,368656
+31,"Harrison County,West Virginia","Estill County,Kentucky",17005,480779
+32,"Harrison County,West Virginia","Fayette County,Kentucky",16173,484776
+33,"Harrison County,West Virginia","Fleming County,Kentucky",14439,421650
+34,"Harrison County,West Virginia","Floyd County,Kentucky",14822,420054
+35,"Harrison County,West Virginia","Franklin County,Kentucky",18210,533692
+36,"Harrison County,West Virginia","Fulton County,Kentucky",32205,973387
+37,"Harrison County,West Virginia","Gallatin County,Kentucky",18033,487877
+38,"Harrison County,West Virginia","Garrard County,Kentucky",18778,531929
+39,"Harrison County,West Virginia","Grant County,Kentucky",18100,488351
+40,"Harrison County,West Virginia","Graves County,Kentucky",30826,925129
+41,"Harrison County,West Virginia","Grayson County,Kentucky",22891,678598
+42,"Harrison County,West Virginia","Green County,Kentucky",22671,643803
+43,"Harrison County,West Virginia","Greenup County,Kentucky",12464,353915
+44,"Harrison County,West Virginia","Hancock County,Kentucky",24695,732857
+45,"Harrison County,West Virginia","Hardin County,Kentucky",21768,640731
+46,"Harrison County,West Virginia","Harlan County,Kentucky",20891,534596
+47,"Harrison County,West Virginia","Harrison County,Kentucky",17498,497981
+48,"Harrison County,West Virginia","Hart County,Kentucky",22567,668359
+49,"Harrison County,West Virginia","Henderson County,Kentucky",27394,820834
+50,"Harrison County,West Virginia","Henry County,Kentucky",19812,577411
+51,"Harrison County,West Virginia","Hickman County,Kentucky",31835,953714
+52,"Harrison County,West Virginia","Hopkins County,Kentucky",26915,802375
+53,"Harrison County,West Virginia","Jackson County,Kentucky",19678,528788
+54,"Harrison County,West Virginia","Jefferson County,Kentucky",19906,592944
+55,"Harrison County,West Virginia","Jessamine County,Kentucky",17642,506240
+56,"Harrison County,West Virginia","Johnson County,Kentucky",13470,385685
+57,"Harrison County,West Virginia","Kenton County,Kentucky",16617,441392
+58,"Harrison County,West Virginia","Knott County,Kentucky",16003,451935
+59,"Harrison County,West Virginia","Knox County,Kentucky",21181,610822
+60,"Harrison County,West Virginia","Larue County,Kentucky",21839,627906
+61,"Harrison County,West Virginia","Laurel County,Kentucky",20032,582217
+62,"Harrison County,West Virginia","Lawrence County,Kentucky",12612,357109
+63,"Harrison County,West Virginia","Lee County,Kentucky",17850,474516
+64,"Harrison County,West Virginia","Leslie County,Kentucky",19083,521609
+65,"Harrison County,West Virginia","Letcher County,Kentucky",17075,454875
+66,"Harrison County,West Virginia","Lewis County,Kentucky",13892,394703
+67,"Harrison County,West Virginia","Lincoln County,Kentucky",19488,548848
+68,"Harrison County,West Virginia","Livingston County,Kentucky",29631,877874
+69,"Harrison County,West Virginia","Logan County,Kentucky",26304,765200
+70,"Harrison County,West Virginia","Lyon County,Kentucky",29765,888265
+71,"Harrison County,West Virginia","McCracken County,Kentucky",29957,905114
+72,"Harrison County,West Virginia","McCreary County,Kentucky",22137,626658
+73,"Harrison County,West Virginia","Madison County,Kentucky",17171,495799
+74,"Harrison County,West Virginia","Magoffin County,Kentucky",14438,406364
+75,"Harrison County,West Virginia","Marion County,Kentucky",20217,589515
+76,"Harrison County,West Virginia","Marshall County,Kentucky",29371,888686
+77,"Harrison County,West Virginia","Martin County,Kentucky",14097,389453
+78,"Harrison County,West Virginia","Mason County,Kentucky",15670,386656
+79,"Harrison County,West Virginia","Meade County,Kentucky",22366,665259
+80,"Harrison County,West Virginia","Menifee County,Kentucky",15129,430528
+81,"Harrison County,West Virginia","Mercer County,Kentucky",18593,545227
+82,"Harrison County,West Virginia","Metcalfe County,Kentucky",23222,674508
+83,"Harrison County,West Virginia","Monroe County,Kentucky",25192,712013
+84,"Harrison County,West Virginia","Montgomery County,Kentucky",14826,437004
+85,"Harrison County,West Virginia","Morgan County,Kentucky",14908,406243
+86,"Harrison County,West Virginia","Muhlenberg County,Kentucky",25775,768851
+87,"Harrison County,West Virginia","Nelson County,Kentucky",19825,588587
+88,"Harrison County,West Virginia","Nicholas County,Kentucky",16504,464888
+89,"Harrison County,West Virginia","Ohio County,Kentucky",24688,736441
+90,"Harrison County,West Virginia","Oldham County,Kentucky",20122,556892
+91,"Harrison County,West Virginia","Owen County,Kentucky",19032,560469
+92,"Harrison County,West Virginia","Owsley County,Kentucky",18997,494493
+93,"Harrison County,West Virginia","Pendleton County,Kentucky",17753,464695
+94,"Harrison County,West Virginia","Perry County,Kentucky",17383,482493
+95,"Harrison County,West Virginia","Pike County,Kentucky",14377,384993
+96,"Harrison County,West Virginia","Powell County,Kentucky",16270,466750
+97,"Harrison County,West Virginia","Robertson County,Kentucky",16422,464394
+98,"Harrison County,West Virginia","Rockcastle County,Kentucky",18605,536941
+99,"Harrison County,West Virginia","Rowan County,Kentucky",13156,390671
+100,"Harrison County,West Virginia","Russell County,Kentucky",22171,628227
+101,"Harrison County,West Virginia","Scott County,Kentucky",17007,512803
+102,"Harrison County,West Virginia","Shelby County,Kentucky",18834,564079
+103,"Harrison County,West Virginia","Simpson County,Kentucky",25886,773257
+104,"Harrison County,West Virginia","Spencer County,Kentucky",19364,569927
+105,"Harrison County,West Virginia","Taylor County,Kentucky",21506,621012
+106,"Harrison County,West Virginia","Todd County,Kentucky",27540,789361
+107,"Harrison County,West Virginia","Trigg County,Kentucky",28518,849093
+108,"Harrison County,West Virginia","Trimble County,Kentucky",19720,538788
+109,"Harrison County,West Virginia","Union County,Kentucky",29113,851280
+110,"Harrison County,West Virginia","Warren County,Kentucky",24920,738206
+111,"Harrison County,West Virginia","Washington County,Kentucky",19835,573823
+112,"Harrison County,West Virginia","Wayne County,Kentucky",22347,625300
+113,"Harrison County,West Virginia","Webster County,Kentucky",28024,830464
+114,"Harrison County,West Virginia","Whitley County,Kentucky",20865,616702
+115,"Harrison County,West Virginia","Wolfe County,Kentucky",16002,429605
+116,"Harrison County,West Virginia","Woodford County,Kentucky",17227,515439
+117,"Harrison County,West Virginia","Adams County,Ohio",12597,337298
+118,"Harrison County,West Virginia","Allen County,Ohio",17056,454936
+119,"Harrison County,West Virginia","Ashland County,Ohio",13608,356586
+120,"Harrison County,West Virginia","Ashtabula County,Ohio",13190,378687
+121,"Harrison County,West Virginia","Athens County,Ohio",6993,184808
+122,"Harrison County,West Virginia","Auglaize County,Ohio",16669,458629
+123,"Harrison County,West Virginia","Belmont County,Ohio",7640,206240
+124,"Harrison County,West Virginia","Brown County,Ohio",14021,370158
+125,"Harrison County,West Virginia","Butler County,Ohio",16844,450377
+126,"Harrison County,West Virginia","Carroll County,Ohio",10585,242099
+127,"Harrison County,West Virginia","Champaign County,Ohio",14327,374397
+128,"Harrison County,West Virginia","Clark County,Ohio",13205,364968
+129,"Harrison County,West Virginia","Clermont County,Ohio",14675,395322
+130,"Harrison County,West Virginia","Clinton County,Ohio",14098,378807
+131,"Harrison County,West Virginia","Columbiana County,Ohio",9794,230619
+132,"Harrison County,West Virginia","Coshocton County,Ohio",9923,274411
+133,"Harrison County,West Virginia","Crawford County,Ohio",15316,419692
+134,"Harrison County,West Virginia","Cuyahoga County,Ohio",13187,376531
+135,"Harrison County,West Virginia","Darke County,Ohio",16781,462870
+136,"Harrison County,West Virginia","Defiance County,Ohio",20492,533257
+137,"Harrison County,West Virginia","Delaware County,Ohio",12645,347654
+138,"Harrison County,West Virginia","Fairfield County,Ohio",10176,274748
+139,"Harrison County,West Virginia","Fayette County,Ohio",12661,349271
+140,"Harrison County,West Virginia","Franklin County,Ohio",11176,304603
+141,"Harrison County,West Virginia","Fulton County,Ohio",19857,582345
+142,"Harrison County,West Virginia","Gallia County,Ohio",8875,224684
+143,"Harrison County,West Virginia","Geauga County,Ohio",12680,351349
+144,"Harrison County,West Virginia","Greene County,Ohio",13532,382423
+145,"Harrison County,West Virginia","Guernsey County,Ohio",7474,212330
+146,"Harrison County,West Virginia","Hamilton County,Ohio",16345,460955
+147,"Harrison County,West Virginia","Hancock County,Ohio",16668,456009
+148,"Harrison County,West Virginia","Hardin County,Ohio",15567,410765
+149,"Harrison County,West Virginia","Harrison County,Ohio",9600,244954
+150,"Harrison County,West Virginia","Henry County,Ohio",19381,527631
+151,"Harrison County,West Virginia","Highland County,Ohio",13134,337311
+152,"Harrison County,West Virginia","Hocking County,Ohio",8618,230711
+153,"Harrison County,West Virginia","Holmes County,Ohio",10982,297295
+154,"Harrison County,West Virginia","Huron County,Ohio",15505,398215
+155,"Harrison County,West Virginia","Jackson County,Ohio",9121,247863
+156,"Harrison County,West Virginia","Jefferson County,Ohio",8541,205590
+157,"Harrison County,West Virginia","Knox County,Ohio",11711,316887
+158,"Harrison County,West Virginia","Lawrence County,Ohio",11468,264074
+159,"Harrison County,West Virginia","Licking County,Ohio",11101,297818
+160,"Harrison County,West Virginia","Logan County,Ohio",14588,405042
+161,"Harrison County,West Virginia","Lorain County,Ohio",14238,406251
+162,"Harrison County,West Virginia","Lucas County,Ohio",18812,535195
+163,"Harrison County,West Virginia","Madison County,Ohio",12453,339324
+164,"Harrison County,West Virginia","Mahoning County,Ohio",9677,268679
+165,"Harrison County,West Virginia","Marion County,Ohio",14052,373747
+166,"Harrison County,West Virginia","Medina County,Ohio",12997,374729
+167,"Harrison County,West Virginia","Meigs County,Ohio",6958,177386
+168,"Harrison County,West Virginia","Mercer County,Ohio",17905,485563
+169,"Harrison County,West Virginia","Miami County,Ohio",15292,428302
+170,"Harrison County,West Virginia","Monroe County,Ohio",6734,109559
+171,"Harrison County,West Virginia","Montgomery County,Ohio",15553,433748
+172,"Harrison County,West Virginia","Morgan County,Ohio",7435,187155
+173,"Harrison County,West Virginia","Morrow County,Ohio",13453,370475
+174,"Harrison County,West Virginia","Muskingum County,Ohio",8319,240321
+175,"Harrison County,West Virginia","Noble County,Ohio",6915,184682
+176,"Harrison County,West Virginia","Paulding County,Ohio",19593,530842
+177,"Harrison County,West Virginia","Perry County,Ohio",9960,233023
+178,"Harrison County,West Virginia","Pickaway County,Ohio",10781,283653
+179,"Harrison County,West Virginia","Pike County,Ohio",10566,287169
+180,"Harrison County,West Virginia","Portage County,Ohio",11531,324692
+181,"Harrison County,West Virginia","Preble County,Ohio",16323,456460
+182,"Harrison County,West Virginia","Putnam County,Ohio",18179,487294
+183,"Harrison County,West Virginia","Richland County,Ohio",13963,369926
+184,"Harrison County,West Virginia","Ross County,Ohio",10846,295676
+185,"Harrison County,West Virginia","Sandusky County,Ohio",17099,493770
+186,"Harrison County,West Virginia","Scioto County,Ohio",11205,303240
+187,"Harrison County,West Virginia","Seneca County,Ohio",17042,448589
+188,"Harrison County,West Virginia","Shelby County,Ohio",16346,435290
+189,"Harrison County,West Virginia","Stark County,Ohio",11147,318529
+190,"Harrison County,West Virginia","Summit County,Ohio",11905,344317
+191,"Harrison County,West Virginia","Trumbull County,Ohio",10834,306143
+192,"Harrison County,West Virginia","Tuscarawas County,Ohio",9347,259116
+193,"Harrison County,West Virginia","Union County,Ohio",13092,355273
+194,"Harrison County,West Virginia","Van Wert County,Ohio",18290,497805
+195,"Harrison County,West Virginia","Vinton County,Ohio",9111,233249
+196,"Harrison County,West Virginia","Warren County,Ohio",14762,416923
+197,"Harrison County,West Virginia","Washington County,Ohio",5774,142618
+198,"Harrison County,West Virginia","Wayne County,Ohio",12118,321407
+199,"Harrison County,West Virginia","Williams County,Ohio",21103,613802
+200,"Harrison County,West Virginia","Wood County,Ohio",18066,497617
+201,"Harrison County,West Virginia","Wyandot County,Ohio",15638,420145
+202,"Harrison County,West Virginia","Accomack County,Virginia",25103,680562
+203,"Harrison County,West Virginia","Albemarle County,Virginia",15194,329955
+204,"Harrison County,West Virginia","Alleghany County,Virginia",11536,287131
+205,"Harrison County,West Virginia","Amelia County,Virginia",20249,461774
+206,"Harrison County,West Virginia","Amherst County,Virginia",16865,418097
+207,"Harrison County,West Virginia","Appomattox County,Virginia",18458,456856
+208,"Harrison County,West Virginia","Arlington County,Virginia",13967,397489
+209,"Harrison County,West Virginia","Augusta County,Virginia",13230,276396
+210,"Harrison County,West Virginia","Bath County,Virginia",12639,258040
+211,"Harrison County,West Virginia","Bedford County,Virginia",17522,422117
+212,"Harrison County,West Virginia","Bland County,Virginia",12071,326054
+213,"Harrison County,West Virginia","Botetourt County,Virginia",14690,358431
+214,"Harrison County,West Virginia","Brunswick County,Virginia",22880,564084
+215,"Harrison County,West Virginia","Buchanan County,Virginia",16066,410283
+216,"Harrison County,West Virginia","Buckingham County,Virginia",18503,395105
+217,"Harrison County,West Virginia","Campbell County,Virginia",18382,459328
+218,"Harrison County,West Virginia","Caroline County,Virginia",17972,516478
+219,"Harrison County,West Virginia","Carroll County,Virginia",14317,395492
+220,"Harrison County,West Virginia","Charles City County,Virginia",20634,495836
+221,"Harrison County,West Virginia","Charlotte County,Virginia",20343,510377
+222,"Harrison County,West Virginia","Chesterfield County,Virginia",19770,473619
+223,"Harrison County,West Virginia","Clarke County,Virginia",12080,298125
+224,"Harrison County,West Virginia","Craig County,Virginia",14752,380919
+225,"Harrison County,West Virginia","Culpeper County,Virginia",15244,357086
+226,"Harrison County,West Virginia","Cumberland County,Virginia",19237,420312
+227,"Harrison County,West Virginia","Dickenson County,Virginia",18476,474954
+228,"Harrison County,West Virginia","Dinwiddie County,Virginia",21517,524051
+229,"Harrison County,West Virginia","Essex County,Virginia",19374,540532
+230,"Harrison County,West Virginia","Fairfax County,Virginia",13658,388156
+231,"Harrison County,West Virginia","Fauquier County,Virginia",13674,323812
+232,"Harrison County,West Virginia","Floyd County,Virginia",15938,414456
+233,"Harrison County,West Virginia","Fluvanna County,Virginia",16872,382127
+234,"Harrison County,West Virginia","Franklin County,Virginia",17691,437540
+235,"Harrison County,West Virginia","Frederick County,Virginia",10870,272846
+236,"Harrison County,West Virginia","Giles County,Virginia",12802,337612
+237,"Harrison County,West Virginia","Gloucester County,Virginia",22805,550024
+238,"Harrison County,West Virginia","Goochland County,Virginia",17776,412738
+239,"Harrison County,West Virginia","Grayson County,Virginia",14719,385199
+240,"Harrison County,West Virginia","Greene County,Virginia",15167,315786
+241,"Harrison County,West Virginia","Greensville County,Virginia",22933,572803
+242,"Harrison County,West Virginia","Halifax County,Virginia",21702,531035
+243,"Harrison County,West Virginia","Hanover County,Virginia",18982,453845
+244,"Harrison County,West Virginia","Henrico County,Virginia",19494,466805
+245,"Harrison County,West Virginia","Henry County,Virginia",18190,482212
+246,"Harrison County,West Virginia","Highland County,Virginia",9777,210197
+247,"Harrison County,West Virginia","Isle of Wight County,Virginia",23746,571381
+248,"Harrison County,West Virginia","James City County,Virginia",21870,536607
+249,"Harrison County,West Virginia","King and Queen County,Virginia",20426,575794
+250,"Harrison County,West Virginia","King George County,Virginia",17933,500339
+251,"Harrison County,West Virginia","King William County,Virginia",19391,553591
+252,"Harrison County,West Virginia","Lancaster County,Virginia",21797,596527
+253,"Harrison County,West Virginia","Lee County,Virginia",19776,523470
+254,"Harrison County,West Virginia","Loudoun County,Virginia",13576,333991
+255,"Harrison County,West Virginia","Louisa County,Virginia",17433,395833
+256,"Harrison County,West Virginia","Lunenburg County,Virginia",22122,496710
+257,"Harrison County,West Virginia","Madison County,Virginia",15667,345344
+258,"Harrison County,West Virginia","Mathews County,Virginia",23630,573447
+259,"Harrison County,West Virginia","Mecklenburg County,Virginia",23106,564785
+260,"Harrison County,West Virginia","Middlesex County,Virginia",21878,604495
+261,"Harrison County,West Virginia","Montgomery County,Virginia",13885,365619
+262,"Harrison County,West Virginia","Nelson County,Virginia",16074,348456
+263,"Harrison County,West Virginia","New Kent County,Virginia",21306,510521
+264,"Harrison County,West Virginia","Northampton County,Virginia",26287,653270
+265,"Harrison County,West Virginia","Northumberland County,Virginia",21837,595039
+266,"Harrison County,West Virginia","Nottoway County,Virginia",21374,483265
+267,"Harrison County,West Virginia","Orange County,Virginia",16585,391584
+268,"Harrison County,West Virginia","Page County,Virginia",13696,301494
+269,"Harrison County,West Virginia","Patrick County,Virginia",16422,440527
+270,"Harrison County,West Virginia","Pittsylvania County,Virginia",20115,487488
+271,"Harrison County,West Virginia","Powhatan County,Virginia",19029,437960
+272,"Harrison County,West Virginia","Prince Edward County,Virginia",20045,448929
+273,"Harrison County,West Virginia","Prince George County,Virginia",21281,510635
+274,"Harrison County,West Virginia","Prince William County,Virginia",13773,329916
+275,"Harrison County,West Virginia","Pulaski County,Virginia",13980,361950
+276,"Harrison County,West Virginia","Rappahannock County,Virginia",13985,308950
+277,"Harrison County,West Virginia","Richmond County,Virginia",20537,567682
+278,"Harrison County,West Virginia","Roanoke County,Virginia",15505,408413
+279,"Harrison County,West Virginia","Rockbridge County,Virginia",13869,355487
+280,"Harrison County,West Virginia","Rockingham County,Virginia",11868,269421
+281,"Harrison County,West Virginia","Russell County,Virginia",15880,406234
+282,"Harrison County,West Virginia","Scott County,Virginia",18544,474361
+283,"Harrison County,West Virginia","Shenandoah County,Virginia",12134,258884
+284,"Harrison County,West Virginia","Smyth County,Virginia",14429,391406
+285,"Harrison County,West Virginia","Southampton County,Virginia",23311,568917
+286,"Harrison County,West Virginia","Spotsylvania County,Virginia",17290,398953
+287,"Harrison County,West Virginia","Stafford County,Virginia",15632,451443
+288,"Harrison County,West Virginia","Surry County,Virginia",22614,535468
+289,"Harrison County,West Virginia","Sussex County,Virginia",21975,539159
+290,"Harrison County,West Virginia","Tazewell County,Virginia",12887,344642
+291,"Harrison County,West Virginia","Warren County,Virginia",12314,271613
+292,"Harrison County,West Virginia","Washington County,Virginia",15822,430873
+293,"Harrison County,West Virginia","Westmoreland County,Virginia",18901,519140
+294,"Harrison County,West Virginia","Wise County,Virginia",16740,450853
+295,"Harrison County,West Virginia","Wythe County,Virginia",12676,344271
+296,"Harrison County,West Virginia","York County,Virginia",23158,567381
+297,"Harrison County,West Virginia","Alexandria City County,Virginia",14483,414670
+298,"Harrison County,West Virginia","Bedford City County,Virginia",16554,405264
+299,"Harrison County,West Virginia","Bristol City County,Virginia",16297,456590
+300,"Harrison County,West Virginia","Buena Vista City County,Virginia",14224,369465
+301,"Harrison County,West Virginia","Charlottesville City County,Virginia",15664,345170
+302,"Harrison County,West Virginia","Chesapeake City County,Virginia",24621,620287
+303,"Harrison County,West Virginia","Clifton Forge City County,Virginia",12080,307338
+304,"Harrison County,West Virginia","Colonial Heights City County,Virginia",20330,489512
+305,"Harrison County,West Virginia","Covington City County,Virginia",11605,290717
+306,"Harrison County,West Virginia","Danville City County,Virginia",20348,536668
+307,"Harrison County,West Virginia","Emporia City County,Virginia",22641,559396
+308,"Harrison County,West Virginia","Fairfax City County,Virginia",14128,399789
+309,"Harrison County,West Virginia","Falls Church City County,Virginia",13675,391801
+310,"Harrison County,West Virginia","Franklin City County,Virginia",23859,576771
+311,"Harrison County,West Virginia","Fredericksburg City County,Virginia",16445,467033
+312,"Harrison County,West Virginia","Galax City County,Virginia",14940,401358
+313,"Harrison County,West Virginia","Hampton City County,Virginia",23108,577087
+314,"Harrison County,West Virginia","Harrisonburg City County,Virginia",12463,266360
+315,"Harrison County,West Virginia","Hopewell City County,Virginia",20367,488478
+316,"Harrison County,West Virginia","Lexington City County,Virginia",13858,357956
+317,"Harrison County,West Virginia","Lynchburg City County,Virginia",17441,433071
+318,"Harrison County,West Virginia","Manassas City County,Virginia",14001,334861
+319,"Harrison County,West Virginia","Manassas Park City County,Virginia",14503,341204
+320,"Harrison County,West Virginia","Martinsville City County,Virginia",18718,491006
+321,"Harrison County,West Virginia","Newport News City County,Virginia",22665,563573
+322,"Harrison County,West Virginia","Norfolk City County,Virginia",24414,602503
+323,"Harrison County,West Virginia","Norton City County,Virginia",17369,462665
+324,"Harrison County,West Virginia","Petersburg City County,Virginia",20202,490499
+325,"Harrison County,West Virginia","Poquoson City County,Virginia",23336,574150
+326,"Harrison County,West Virginia","Portsmouth City County,Virginia",24353,611324
+327,"Harrison County,West Virginia","Radford County,Virginia",14293,363660
+328,"Harrison County,West Virginia","Richmond City County,Virginia",19070,454615
+329,"Harrison County,West Virginia","Roanoke City County,Virginia",15587,387899
+330,"Harrison County,West Virginia","Salem City County,Virginia",15416,386370
+331,"Harrison County,West Virginia","South Boston City County,Virginia",21705,529853
+332,"Harrison County,West Virginia","Staunton City County,Virginia",13371,277085
+333,"Harrison County,West Virginia","Suffolk City County,Virginia",24589,586105
+334,"Harrison County,West Virginia","Virginia Beach City County,Virginia",24975,625762
+335,"Harrison County,West Virginia","Waynesboro City County,Virginia",14325,300066
+336,"Harrison County,West Virginia","Williamsburg City County,Virginia",21709,535822
+337,"Harrison County,West Virginia","Winchester City County,Virginia",11008,276650
+338,"Harrison County,West Virginia","Barbour County,West Virginia",2903,53108
+339,"Harrison County,West Virginia","Berkeley County,West Virginia",10422,275506
+340,"Harrison County,West Virginia","Boone County,West Virginia",10551,274140
+341,"Harrison County,West Virginia","Braxton County,West Virginia",5111,110762
+342,"Harrison County,West Virginia","Brooke County,West Virginia",6847,169140
+343,"Harrison County,West Virginia","Cabell County,West Virginia",10145,291050
+344,"Harrison County,West Virginia","Calhoun County,West Virginia",6433,145429
+345,"Harrison County,West Virginia","Clay County,West Virginia",6797,175786
+346,"Harrison County,West Virginia","Doddridge County,West Virginia",2502,50086
+347,"Harrison County,West Virginia","Fayette County,West Virginia",7576,195703
+348,"Harrison County,West Virginia","Gilmer County,West Virginia",4914,110120
+349,"Harrison County,West Virginia","Grant County,West Virginia",8180,153961
+350,"Harrison County,West Virginia","Greenbrier County,West Virginia",10777,231263
+351,"Harrison County,West Virginia","Hampshire County,West Virginia",9676,237109
+352,"Harrison County,West Virginia","Hancock County,West Virginia",8474,196487
+353,"Harrison County,West Virginia","Hardy County,West Virginia",9125,194106
+354,"Harrison County,West Virginia","Jackson County,West Virginia",6894,184634
+355,"Harrison County,West Virginia","Jefferson County,West Virginia",11888,331504
+356,"Harrison County,West Virginia","Kanawha County,West Virginia",9027,242309
+357,"Harrison County,West Virginia","Lewis County,West Virginia",2815,59750
+358,"Harrison County,West Virginia","Lincoln County,West Virginia",10809,268727
+359,"Harrison County,West Virginia","Logan County,West Virginia",11480,311259
+360,"Harrison County,West Virginia","McDowell County,West Virginia",13661,320314
+361,"Harrison County,West Virginia","Marion County,West Virginia",2421,34412
+362,"Harrison County,West Virginia","Marshall County,West Virginia",7217,109393
+363,"Harrison County,West Virginia","Mason County,West Virginia",8658,228688
+364,"Harrison County,West Virginia","Mercer County,West Virginia",10625,284561
+365,"Harrison County,West Virginia","Mineral County,West Virginia",8556,211661
+366,"Harrison County,West Virginia","Mingo County,West Virginia",11525,315766
+367,"Harrison County,West Virginia","Monongalia County,West Virginia",3078,76353
+368,"Harrison County,West Virginia","Monroe County,West Virginia",12385,292331
+369,"Harrison County,West Virginia","Morgan County,West Virginia",9914,264898
+370,"Harrison County,West Virginia","Nicholas County,West Virginia",6096,160407
+371,"Harrison County,West Virginia","Ohio County,West Virginia",6754,178086
+372,"Harrison County,West Virginia","Pendleton County,West Virginia",9290,211630
+373,"Harrison County,West Virginia","Pleasants County,West Virginia",3738,87855
+374,"Harrison County,West Virginia","Pocahontas County,West Virginia",9582,192861
+375,"Harrison County,West Virginia","Preston County,West Virginia",5224,103084
+376,"Harrison County,West Virginia","Putnam County,West Virginia",8402,242574
+377,"Harrison County,West Virginia","Raleigh County,West Virginia",9166,238253
+378,"Harrison County,West Virginia","Randolph County,West Virginia",4968,109756
+379,"Harrison County,West Virginia","Ritchie County,West Virginia",3649,82156
+380,"Harrison County,West Virginia","Roane County,West Virginia",8520,213449
+381,"Harrison County,West Virginia","Summers County,West Virginia",12372,268699
+382,"Harrison County,West Virginia","Taylor County,West Virginia",2760,46457
+383,"Harrison County,West Virginia","Tucker County,West Virginia",5469,103836
+384,"Harrison County,West Virginia","Tyler County,West Virginia",4664,80521
+385,"Harrison County,West Virginia","Upshur County,West Virginia",3943,84197
+386,"Harrison County,West Virginia","Wayne County,West Virginia",11736,323676
+387,"Harrison County,West Virginia","Webster County,West Virginia",7318,156584
+388,"Harrison County,West Virginia","Wetzel County,West Virginia",2986,53328
+389,"Harrison County,West Virginia","Wirt County,West Virginia",5995,127687
+390,"Harrison County,West Virginia","Wood County,West Virginia",4518,113117
+391,"Harrison County,West Virginia","Wyoming County,West Virginia",11111,278195

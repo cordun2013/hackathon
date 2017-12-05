@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Tyler County,West Virginia","Adair County,Kentucky",23325,639351
+1,"Tyler County,West Virginia","Allen County,Kentucky",25944,739999
+2,"Tyler County,West Virginia","Anderson County,Kentucky",19125,542390
+3,"Tyler County,West Virginia","Ballard County,Kentucky",32103,932161
+4,"Tyler County,West Virginia","Barren County,Kentucky",25071,698378
+5,"Tyler County,West Virginia","Bath County,Kentucky",14772,413571
+6,"Tyler County,West Virginia","Bell County,Kentucky",22327,549387
+7,"Tyler County,West Virginia","Boone County,Kentucky",17013,419933
+8,"Tyler County,West Virginia","Bourbon County,Kentucky",16686,459989
+9,"Tyler County,West Virginia","Boyd County,Kentucky",11448,307896
+10,"Tyler County,West Virginia","Boyle County,Kentucky",20354,546277
+11,"Tyler County,West Virginia","Bracken County,Kentucky",15891,374012
+12,"Tyler County,West Virginia","Breathitt County,Kentucky",18159,454598
+13,"Tyler County,West Virginia","Breckinridge County,Kentucky",24658,695071
+14,"Tyler County,West Virginia","Bullitt County,Kentucky",21228,616191
+15,"Tyler County,West Virginia","Butler County,Kentucky",25323,717069
+16,"Tyler County,West Virginia","Caldwell County,Kentucky",28215,823014
+17,"Tyler County,West Virginia","Calloway County,Kentucky",31025,908007
+18,"Tyler County,West Virginia","Campbell County,Kentucky",16643,409087
+19,"Tyler County,West Virginia","Carlisle County,Kentucky",32561,947530
+20,"Tyler County,West Virginia","Carroll County,Kentucky",18587,481698
+21,"Tyler County,West Virginia","Carter County,Kentucky",12612,337993
+22,"Tyler County,West Virginia","Casey County,Kentucky",21848,577782
+23,"Tyler County,West Virginia","Christian County,Kentucky",27864,818271
+24,"Tyler County,West Virginia","Clay County,Kentucky",20658,541712
+25,"Tyler County,West Virginia","Clinton County,Kentucky",23732,642717
+26,"Tyler County,West Virginia","Crittenden County,Kentucky",29795,856085
+27,"Tyler County,West Virginia","Cumberland County,Kentucky",24486,660955
+28,"Tyler County,West Virginia","Daviess County,Kentucky",26346,763512
+29,"Tyler County,West Virginia","Edmonson County,Kentucky",24763,704944
+30,"Tyler County,West Virginia","Elliott County,Kentucky",13943,363763
+31,"Tyler County,West Virginia","Estill County,Kentucky",17765,475887
+32,"Tyler County,West Virginia","Fayette County,Kentucky",16932,479883
+33,"Tyler County,West Virginia","Fleming County,Kentucky",15198,416757
+34,"Tyler County,West Virginia","Floyd County,Kentucky",15581,415161
+35,"Tyler County,West Virginia","Franklin County,Kentucky",18970,528799
+36,"Tyler County,West Virginia","Fulton County,Kentucky",32965,968494
+37,"Tyler County,West Virginia","Gallatin County,Kentucky",17798,454111
+38,"Tyler County,West Virginia","Garrard County,Kentucky",19537,527036
+39,"Tyler County,West Virginia","Grant County,Kentucky",17865,454585
+40,"Tyler County,West Virginia","Graves County,Kentucky",31585,920236
+41,"Tyler County,West Virginia","Grayson County,Kentucky",23650,673705
+42,"Tyler County,West Virginia","Green County,Kentucky",23430,638910
+43,"Tyler County,West Virginia","Greenup County,Kentucky",12371,287242
+44,"Tyler County,West Virginia","Hancock County,Kentucky",25454,727964
+45,"Tyler County,West Virginia","Hardin County,Kentucky",22527,635838
+46,"Tyler County,West Virginia","Harlan County,Kentucky",21650,529703
+47,"Tyler County,West Virginia","Harrison County,Kentucky",18333,425917
+48,"Tyler County,West Virginia","Hart County,Kentucky",23326,663466
+49,"Tyler County,West Virginia","Henderson County,Kentucky",28153,815941
+50,"Tyler County,West Virginia","Henry County,Kentucky",19773,510021
+51,"Tyler County,West Virginia","Hickman County,Kentucky",32594,948821
+52,"Tyler County,West Virginia","Hopkins County,Kentucky",27674,797483
+53,"Tyler County,West Virginia","Jackson County,Kentucky",20437,523895
+54,"Tyler County,West Virginia","Jefferson County,Kentucky",20665,588051
+55,"Tyler County,West Virginia","Jessamine County,Kentucky",18401,501347
+56,"Tyler County,West Virginia","Johnson County,Kentucky",14229,380792
+57,"Tyler County,West Virginia","Kenton County,Kentucky",16382,407627
+58,"Tyler County,West Virginia","Knott County,Kentucky",16762,447043
+59,"Tyler County,West Virginia","Knox County,Kentucky",21940,605929
+60,"Tyler County,West Virginia","Larue County,Kentucky",22598,623014
+61,"Tyler County,West Virginia","Laurel County,Kentucky",20791,577324
+62,"Tyler County,West Virginia","Lawrence County,Kentucky",13371,352216
+63,"Tyler County,West Virginia","Lee County,Kentucky",18609,469623
+64,"Tyler County,West Virginia","Leslie County,Kentucky",19842,516716
+65,"Tyler County,West Virginia","Letcher County,Kentucky",17834,449982
+66,"Tyler County,West Virginia","Lewis County,Kentucky",14137,336877
+67,"Tyler County,West Virginia","Lincoln County,Kentucky",20247,543955
+68,"Tyler County,West Virginia","Livingston County,Kentucky",30391,872981
+69,"Tyler County,West Virginia","Logan County,Kentucky",27063,760307
+70,"Tyler County,West Virginia","Lyon County,Kentucky",30524,883372
+71,"Tyler County,West Virginia","McCracken County,Kentucky",30716,900221
+72,"Tyler County,West Virginia","McCreary County,Kentucky",22896,621766
+73,"Tyler County,West Virginia","Madison County,Kentucky",17930,490906
+74,"Tyler County,West Virginia","Magoffin County,Kentucky",15197,401471
+75,"Tyler County,West Virginia","Marion County,Kentucky",20976,584623
+76,"Tyler County,West Virginia","Marshall County,Kentucky",30130,883793
+77,"Tyler County,West Virginia","Martin County,Kentucky",14857,384561
+78,"Tyler County,West Virginia","Mason County,Kentucky",15436,352890
+79,"Tyler County,West Virginia","Meade County,Kentucky",23125,660366
+80,"Tyler County,West Virginia","Menifee County,Kentucky",15888,425635
+81,"Tyler County,West Virginia","Mercer County,Kentucky",19353,540334
+82,"Tyler County,West Virginia","Metcalfe County,Kentucky",23981,669616
+83,"Tyler County,West Virginia","Monroe County,Kentucky",25951,707120
+84,"Tyler County,West Virginia","Montgomery County,Kentucky",15585,432112
+85,"Tyler County,West Virginia","Morgan County,Kentucky",15667,401351
+86,"Tyler County,West Virginia","Muhlenberg County,Kentucky",26534,763959
+87,"Tyler County,West Virginia","Nelson County,Kentucky",20584,583694
+88,"Tyler County,West Virginia","Nicholas County,Kentucky",16625,394332
+89,"Tyler County,West Virginia","Ohio County,Kentucky",25447,731548
+90,"Tyler County,West Virginia","Oldham County,Kentucky",19888,523126
+91,"Tyler County,West Virginia","Owen County,Kentucky",19030,480500
+92,"Tyler County,West Virginia","Owsley County,Kentucky",19756,489600
+93,"Tyler County,West Virginia","Pendleton County,Kentucky",17518,430929
+94,"Tyler County,West Virginia","Perry County,Kentucky",18142,477600
+95,"Tyler County,West Virginia","Pike County,Kentucky",15136,380100
+96,"Tyler County,West Virginia","Powell County,Kentucky",17029,461858
+97,"Tyler County,West Virginia","Robertson County,Kentucky",16545,375305
+98,"Tyler County,West Virginia","Rockcastle County,Kentucky",19364,532049
+99,"Tyler County,West Virginia","Rowan County,Kentucky",13915,385779
+100,"Tyler County,West Virginia","Russell County,Kentucky",22930,623335
+101,"Tyler County,West Virginia","Scott County,Kentucky",17766,507910
+102,"Tyler County,West Virginia","Shelby County,Kentucky",19593,559186
+103,"Tyler County,West Virginia","Simpson County,Kentucky",26645,768365
+104,"Tyler County,West Virginia","Spencer County,Kentucky",20123,565034
+105,"Tyler County,West Virginia","Taylor County,Kentucky",22266,616119
+106,"Tyler County,West Virginia","Todd County,Kentucky",28300,784468
+107,"Tyler County,West Virginia","Trigg County,Kentucky",29278,844200
+108,"Tyler County,West Virginia","Trimble County,Kentucky",19486,505022
+109,"Tyler County,West Virginia","Union County,Kentucky",29872,846388
+110,"Tyler County,West Virginia","Warren County,Kentucky",25680,733313
+111,"Tyler County,West Virginia","Washington County,Kentucky",20594,568931
+112,"Tyler County,West Virginia","Wayne County,Kentucky",23106,620407
+113,"Tyler County,West Virginia","Webster County,Kentucky",28783,825571
+114,"Tyler County,West Virginia","Whitley County,Kentucky",21624,611809
+115,"Tyler County,West Virginia","Wolfe County,Kentucky",16762,424712
+116,"Tyler County,West Virginia","Woodford County,Kentucky",17986,510546
+117,"Tyler County,West Virginia","Adams County,Ohio",12362,303532
+118,"Tyler County,West Virginia","Allen County,Ohio",16384,429759
+119,"Tyler County,West Virginia","Ashland County,Ohio",12656,297985
+120,"Tyler County,West Virginia","Ashtabula County,Ohio",13159,327752
+121,"Tyler County,West Virginia","Athens County,Ohio",6759,151042
+122,"Tyler County,West Virginia","Auglaize County,Ohio",15997,433453
+123,"Tyler County,West Virginia","Belmont County,Ohio",5014,82485
+124,"Tyler County,West Virginia","Brown County,Ohio",13787,336392
+125,"Tyler County,West Virginia","Butler County,Ohio",16467,428184
+126,"Tyler County,West Virginia","Carroll County,Ohio",8629,165768
+127,"Tyler County,West Virginia","Champaign County,Ohio",13741,348348
+128,"Tyler County,West Virginia","Clark County,Ohio",12619,338919
+129,"Tyler County,West Virginia","Clermont County,Ohio",14441,361556
+130,"Tyler County,West Virginia","Clinton County,Ohio",13864,345041
+131,"Tyler County,West Virginia","Columbiana County,Ohio",8748,181580
+132,"Tyler County,West Virginia","Coshocton County,Ohio",8971,215810
+133,"Tyler County,West Virginia","Crawford County,Ohio",14363,361092
+134,"Tyler County,West Virginia","Cuyahoga County,Ohio",12372,330098
+135,"Tyler County,West Virginia","Darke County,Ohio",16195,436821
+136,"Tyler County,West Virginia","Defiance County,Ohio",19819,508080
+137,"Tyler County,West Virginia","Delaware County,Ohio",11894,314668
+138,"Tyler County,West Virginia","Fairfield County,Ohio",9989,251453
+139,"Tyler County,West Virginia","Fayette County,Ohio",12427,315505
+140,"Tyler County,West Virginia","Franklin County,Ohio",10590,278554
+141,"Tyler County,West Virginia","Fulton County,Ohio",19215,536015
+142,"Tyler County,West Virginia","Gallia County,Ohio",8641,190918
+143,"Tyler County,West Virginia","Geauga County,Ohio",12808,300430
+144,"Tyler County,West Virginia","Greene County,Ohio",13298,348658
+145,"Tyler County,West Virginia","Guernsey County,Ohio",6521,153729
+146,"Tyler County,West Virginia","Hamilton County,Ohio",15969,438762
+147,"Tyler County,West Virginia","Hancock County,Ohio",15918,423023
+148,"Tyler County,West Virginia","Hardin County,Ohio",14895,385589
+149,"Tyler County,West Virginia","Harrison County,Ohio",7146,141985
+150,"Tyler County,West Virginia","Henry County,Ohio",18630,494644
+151,"Tyler County,West Virginia","Highland County,Ohio",12900,303545
+152,"Tyler County,West Virginia","Hocking County,Ohio",8384,196945
+153,"Tyler County,West Virginia","Holmes County,Ohio",10030,238695
+154,"Tyler County,West Virginia","Huron County,Ohio",14553,339614
+155,"Tyler County,West Virginia","Jackson County,Ohio",8886,214097
+156,"Tyler County,West Virginia","Jefferson County,Ohio",6784,139671
+157,"Tyler County,West Virginia","Knox County,Ohio",10759,258286
+158,"Tyler County,West Virginia","Lawrence County,Ohio",11234,230308
+159,"Tyler County,West Virginia","Licking County,Ohio",10149,239217
+160,"Tyler County,West Virginia","Logan County,Ohio",13915,379866
+161,"Tyler County,West Virginia","Lorain County,Ohio",13596,359921
+162,"Tyler County,West Virginia","Lucas County,Ohio",18169,488865
+163,"Tyler County,West Virginia","Madison County,Ohio",11867,313275
+164,"Tyler County,West Virginia","Mahoning County,Ohio",9412,210458
+165,"Tyler County,West Virginia","Marion County,Ohio",13301,340761
+166,"Tyler County,West Virginia","Medina County,Ohio",12045,316129
+167,"Tyler County,West Virginia","Meigs County,Ohio",6724,143620
+168,"Tyler County,West Virginia","Mercer County,Ohio",17233,460387
+169,"Tyler County,West Virginia","Miami County,Ohio",14706,402253
+170,"Tyler County,West Virginia","Monroe County,Ohio",3721,54454
+171,"Tyler County,West Virginia","Montgomery County,Ohio",14966,407699
+172,"Tyler County,West Virginia","Morgan County,Ohio",6463,129569
+173,"Tyler County,West Virginia","Morrow County,Ohio",12724,291108
+174,"Tyler County,West Virginia","Muskingum County,Ohio",7367,181721
+175,"Tyler County,West Virginia","Noble County,Ohio",5785,107274
+176,"Tyler County,West Virginia","Paulding County,Ohio",18921,505665
+177,"Tyler County,West Virginia","Perry County,Ohio",8988,175437
+178,"Tyler County,West Virginia","Pickaway County,Ohio",10547,249887
+179,"Tyler County,West Virginia","Pike County,Ohio",10332,253404
+180,"Tyler County,West Virginia","Portage County,Ohio",11530,272828
+181,"Tyler County,West Virginia","Preble County,Ohio",15737,430411
+182,"Tyler County,West Virginia","Putnam County,Ohio",17507,462118
+183,"Tyler County,West Virginia","Richland County,Ohio",13011,311326
+184,"Tyler County,West Virginia","Ross County,Ohio",10612,261910
+185,"Tyler County,West Virginia","Sandusky County,Ohio",16457,447440
+186,"Tyler County,West Virginia","Scioto County,Ohio",10971,269475
+187,"Tyler County,West Virginia","Seneca County,Ohio",16291,415602
+188,"Tyler County,West Virginia","Shelby County,Ohio",15673,410114
+189,"Tyler County,West Virginia","Stark County,Ohio",10195,259929
+190,"Tyler County,West Virginia","Summit County,Ohio",10953,285717
+191,"Tyler County,West Virginia","Trumbull County,Ohio",10803,255208
+192,"Tyler County,West Virginia","Tuscarawas County,Ohio",8395,200516
+193,"Tyler County,West Virginia","Union County,Ohio",12419,330097
+194,"Tyler County,West Virginia","Van Wert County,Ohio",17618,472629
+195,"Tyler County,West Virginia","Vinton County,Ohio",8876,199483
+196,"Tyler County,West Virginia","Warren County,Ohio",14385,394730
+197,"Tyler County,West Virginia","Washington County,Ohio",4766,83492
+198,"Tyler County,West Virginia","Wayne County,Ohio",11166,262807
+199,"Tyler County,West Virginia","Williams County,Ohio",20460,567472
+200,"Tyler County,West Virginia","Wood County,Ohio",17316,464630
+201,"Tyler County,West Virginia","Wyandot County,Ohio",14887,387158
+202,"Tyler County,West Virginia","Accomack County,Virginia",28892,753340
+203,"Tyler County,West Virginia","Albemarle County,Virginia",18941,398677
+204,"Tyler County,West Virginia","Alleghany County,Virginia",15282,355853
+205,"Tyler County,West Virginia","Amelia County,Virginia",23995,530495
+206,"Tyler County,West Virginia","Amherst County,Virginia",20611,486818
+207,"Tyler County,West Virginia","Appomattox County,Virginia",22204,525577
+208,"Tyler County,West Virginia","Arlington County,Virginia",17756,470267
+209,"Tyler County,West Virginia","Augusta County,Virginia",16977,345117
+210,"Tyler County,West Virginia","Bath County,Virginia",16385,326761
+211,"Tyler County,West Virginia","Bedford County,Virginia",21186,541340
+212,"Tyler County,West Virginia","Bland County,Virginia",14559,390469
+213,"Tyler County,West Virginia","Botetourt County,Virginia",18437,427152
+214,"Tyler County,West Virginia","Brunswick County,Virginia",26626,632805
+215,"Tyler County,West Virginia","Buchanan County,Virginia",18554,474698
+216,"Tyler County,West Virginia","Buckingham County,Virginia",22250,463826
+217,"Tyler County,West Virginia","Campbell County,Virginia",22128,528049
+218,"Tyler County,West Virginia","Caroline County,Virginia",21761,589257
+219,"Tyler County,West Virginia","Carroll County,Virginia",16805,459907
+220,"Tyler County,West Virginia","Charles City County,Virginia",24381,564557
+221,"Tyler County,West Virginia","Charlotte County,Virginia",24089,579098
+222,"Tyler County,West Virginia","Chesterfield County,Virginia",23516,542341
+223,"Tyler County,West Virginia","Clarke County,Virginia",15869,370903
+224,"Tyler County,West Virginia","Craig County,Virginia",17240,445334
+225,"Tyler County,West Virginia","Culpeper County,Virginia",18990,425807
+226,"Tyler County,West Virginia","Cumberland County,Virginia",22984,489034
+227,"Tyler County,West Virginia","Dickenson County,Virginia",19235,470061
+228,"Tyler County,West Virginia","Dinwiddie County,Virginia",25264,592772
+229,"Tyler County,West Virginia","Essex County,Virginia",23163,613311
+230,"Tyler County,West Virginia","Fairfax County,Virginia",17447,460935
+231,"Tyler County,West Virginia","Fauquier County,Virginia",17420,392534
+232,"Tyler County,West Virginia","Floyd County,Virginia",18426,478871
+233,"Tyler County,West Virginia","Fluvanna County,Virginia",20619,450848
+234,"Tyler County,West Virginia","Franklin County,Virginia",20699,542573
+235,"Tyler County,West Virginia","Frederick County,Virginia",14658,345625
+236,"Tyler County,West Virginia","Giles County,Virginia",15290,402027
+237,"Tyler County,West Virginia","Gloucester County,Virginia",26551,618745
+238,"Tyler County,West Virginia","Goochland County,Virginia",21522,481459
+239,"Tyler County,West Virginia","Grayson County,Virginia",17207,449614
+240,"Tyler County,West Virginia","Greene County,Virginia",18914,384507
+241,"Tyler County,West Virginia","Greensville County,Virginia",26680,641524
+242,"Tyler County,West Virginia","Halifax County,Virginia",25108,657593
+243,"Tyler County,West Virginia","Hanover County,Virginia",22729,522566
+244,"Tyler County,West Virginia","Henrico County,Virginia",23240,535526
+245,"Tyler County,West Virginia","Henry County,Virginia",20678,546627
+246,"Tyler County,West Virginia","Highland County,Virginia",13524,278918
+247,"Tyler County,West Virginia","Isle of Wight County,Virginia",27492,640103
+248,"Tyler County,West Virginia","James City County,Virginia",25616,605328
+249,"Tyler County,West Virginia","King and Queen County,Virginia",24214,648572
+250,"Tyler County,West Virginia","King George County,Virginia",21721,573118
+251,"Tyler County,West Virginia","King William County,Virginia",23180,626369
+252,"Tyler County,West Virginia","Lancaster County,Virginia",25586,669305
+253,"Tyler County,West Virginia","Lee County,Virginia",20535,518577
+254,"Tyler County,West Virginia","Loudoun County,Virginia",17364,406770
+255,"Tyler County,West Virginia","Louisa County,Virginia",21179,464554
+256,"Tyler County,West Virginia","Lunenburg County,Virginia",25869,565431
+257,"Tyler County,West Virginia","Madison County,Virginia",19413,414066
+258,"Tyler County,West Virginia","Mathews County,Virginia",27376,642169
+259,"Tyler County,West Virginia","Mecklenburg County,Virginia",26852,633506
+260,"Tyler County,West Virginia","Middlesex County,Virginia",25666,677274
+261,"Tyler County,West Virginia","Montgomery County,Virginia",16373,430034
+262,"Tyler County,West Virginia","Nelson County,Virginia",19821,417178
+263,"Tyler County,West Virginia","New Kent County,Virginia",25053,579242
+264,"Tyler County,West Virginia","Northampton County,Virginia",30034,721991
+265,"Tyler County,West Virginia","Northumberland County,Virginia",25625,667818
+266,"Tyler County,West Virginia","Nottoway County,Virginia",25120,551986
+267,"Tyler County,West Virginia","Orange County,Virginia",20331,460306
+268,"Tyler County,West Virginia","Page County,Virginia",17443,370216
+269,"Tyler County,West Virginia","Patrick County,Virginia",18910,504942
+270,"Tyler County,West Virginia","Pittsylvania County,Virginia",22994,600836
+271,"Tyler County,West Virginia","Powhatan County,Virginia",22776,506681
+272,"Tyler County,West Virginia","Prince Edward County,Virginia",23791,517650
+273,"Tyler County,West Virginia","Prince George County,Virginia",25027,579356
+274,"Tyler County,West Virginia","Prince William County,Virginia",17520,398638
+275,"Tyler County,West Virginia","Pulaski County,Virginia",16468,426365
+276,"Tyler County,West Virginia","Rappahannock County,Virginia",17731,377671
+277,"Tyler County,West Virginia","Richmond County,Virginia",24325,640461
+278,"Tyler County,West Virginia","Roanoke County,Virginia",17993,472828
+279,"Tyler County,West Virginia","Rockbridge County,Virginia",17615,424209
+280,"Tyler County,West Virginia","Rockingham County,Virginia",15614,338143
+281,"Tyler County,West Virginia","Russell County,Virginia",18368,470649
+282,"Tyler County,West Virginia","Scott County,Virginia",20711,517514
+283,"Tyler County,West Virginia","Shenandoah County,Virginia",15881,327606
+284,"Tyler County,West Virginia","Smyth County,Virginia",16917,455821
+285,"Tyler County,West Virginia","Southampton County,Virginia",27058,637638
+286,"Tyler County,West Virginia","Spotsylvania County,Virginia",21037,467674
+287,"Tyler County,West Virginia","Stafford County,Virginia",19421,524221
+288,"Tyler County,West Virginia","Surry County,Virginia",26360,604189
+289,"Tyler County,West Virginia","Sussex County,Virginia",25721,607881
+290,"Tyler County,West Virginia","Tazewell County,Virginia",15375,409057
+291,"Tyler County,West Virginia","Warren County,Virginia",16060,340335
+292,"Tyler County,West Virginia","Washington County,Virginia",18310,495288
+293,"Tyler County,West Virginia","Westmoreland County,Virginia",22689,591919
+294,"Tyler County,West Virginia","Wise County,Virginia",17499,445960
+295,"Tyler County,West Virginia","Wythe County,Virginia",15164,408686
+296,"Tyler County,West Virginia","York County,Virginia",26904,636102
+297,"Tyler County,West Virginia","Alexandria City County,Virginia",18272,487449
+298,"Tyler County,West Virginia","Bedford City County,Virginia",20301,473986
+299,"Tyler County,West Virginia","Bristol City County,Virginia",18785,521005
+300,"Tyler County,West Virginia","Buena Vista City County,Virginia",17970,438186
+301,"Tyler County,West Virginia","Charlottesville City County,Virginia",19410,413891
+302,"Tyler County,West Virginia","Chesapeake City County,Virginia",28367,689008
+303,"Tyler County,West Virginia","Clifton Forge City County,Virginia",15826,376059
+304,"Tyler County,West Virginia","Colonial Heights City County,Virginia",24076,558233
+305,"Tyler County,West Virginia","Covington City County,Virginia",15351,359438
+306,"Tyler County,West Virginia","Danville City County,Virginia",22836,601083
+307,"Tyler County,West Virginia","Emporia City County,Virginia",26387,628117
+308,"Tyler County,West Virginia","Fairfax City County,Virginia",17917,472567
+309,"Tyler County,West Virginia","Falls Church City County,Virginia",17464,464579
+310,"Tyler County,West Virginia","Franklin City County,Virginia",27605,645493
+311,"Tyler County,West Virginia","Fredericksburg City County,Virginia",20234,539812
+312,"Tyler County,West Virginia","Galax City County,Virginia",17428,465773
+313,"Tyler County,West Virginia","Hampton City County,Virginia",26854,645809
+314,"Tyler County,West Virginia","Harrisonburg City County,Virginia",16209,335081
+315,"Tyler County,West Virginia","Hopewell City County,Virginia",24113,557199
+316,"Tyler County,West Virginia","Lexington City County,Virginia",17604,426677
+317,"Tyler County,West Virginia","Lynchburg City County,Virginia",21187,501792
+318,"Tyler County,West Virginia","Manassas City County,Virginia",17747,403582
+319,"Tyler County,West Virginia","Manassas Park City County,Virginia",18250,409925
+320,"Tyler County,West Virginia","Martinsville City County,Virginia",21206,555421
+321,"Tyler County,West Virginia","Newport News City County,Virginia",26411,632294
+322,"Tyler County,West Virginia","Norfolk City County,Virginia",28161,671225
+323,"Tyler County,West Virginia","Norton City County,Virginia",18128,457772
+324,"Tyler County,West Virginia","Petersburg City County,Virginia",23948,559221
+325,"Tyler County,West Virginia","Poquoson City County,Virginia",27083,642871
+326,"Tyler County,West Virginia","Portsmouth City County,Virginia",28100,680045
+327,"Tyler County,West Virginia","Radford County,Virginia",16781,428075
+328,"Tyler County,West Virginia","Richmond City County,Virginia",22816,523336
+329,"Tyler County,West Virginia","Roanoke City County,Virginia",18595,492933
+330,"Tyler County,West Virginia","Salem City County,Virginia",18007,479482
+331,"Tyler County,West Virginia","South Boston City County,Virginia",24848,655262
+332,"Tyler County,West Virginia","Staunton City County,Virginia",17118,345807
+333,"Tyler County,West Virginia","Suffolk City County,Virginia",28335,654827
+334,"Tyler County,West Virginia","Virginia Beach City County,Virginia",28722,694483
+335,"Tyler County,West Virginia","Waynesboro City County,Virginia",18072,368787
+336,"Tyler County,West Virginia","Williamsburg City County,Virginia",25455,604544
+337,"Tyler County,West Virginia","Winchester City County,Virginia",14797,349429
+338,"Tyler County,West Virginia","Barbour County,West Virginia",6650,121829
+339,"Tyler County,West Virginia","Berkeley County,West Virginia",14211,348285
+340,"Tyler County,West Virginia","Boone County,West Virginia",11310,269248
+341,"Tyler County,West Virginia","Braxton County,West Virginia",8857,179483
+342,"Tyler County,West Virginia","Brooke County,West Virginia",6379,117356
+343,"Tyler County,West Virginia","Cabell County,West Virginia",11038,244907
+344,"Tyler County,West Virginia","Calhoun County,West Virginia",6991,113989
+345,"Tyler County,West Virginia","Clay County,West Virginia",10543,244508
+346,"Tyler County,West Virginia","Doddridge County,West Virginia",3766,59553
+347,"Tyler County,West Virginia","Fayette County,West Virginia",11323,264425
+348,"Tyler County,West Virginia","Gilmer County,West Virginia",7010,117363
+349,"Tyler County,West Virginia","Grant County,West Virginia",11785,235224
+350,"Tyler County,West Virginia","Greenbrier County,West Virginia",14524,299984
+351,"Tyler County,West Virginia","Hampshire County,West Virginia",13465,309888
+352,"Tyler County,West Virginia","Hancock County,West Virginia",7702,149376
+353,"Tyler County,West Virginia","Hardy County,West Virginia",12872,262828
+354,"Tyler County,West Virginia","Harrison County,West Virginia",4720,80541
+355,"Tyler County,West Virginia","Jackson County,West Virginia",6614,150867
+356,"Tyler County,West Virginia","Jefferson County,West Virginia",15677,404283
+357,"Tyler County,West Virginia","Kanawha County,West Virginia",9786,237416
+358,"Tyler County,West Virginia","Lewis County,West Virginia",6541,94698
+359,"Tyler County,West Virginia","Lincoln County,West Virginia",11568,263835
+360,"Tyler County,West Virginia","Logan County,West Virginia",12240,306366
+361,"Tyler County,West Virginia","McDowell County,West Virginia",16148,384729
+362,"Tyler County,West Virginia","Marion County,West Virginia",6228,112208
+363,"Tyler County,West Virginia","Marshall County,West Virginia",4782,78403
+364,"Tyler County,West Virginia","Mason County,West Virginia",8379,194921
+365,"Tyler County,West Virginia","Mercer County,West Virginia",13113,348976
+366,"Tyler County,West Virginia","Mineral County,West Virginia",12345,284440
+367,"Tyler County,West Virginia","Mingo County,West Virginia",12285,310874
+368,"Tyler County,West Virginia","Monongalia County,West Virginia",6867,149132
+369,"Tyler County,West Virginia","Monroe County,West Virginia",16132,361053
+370,"Tyler County,West Virginia","Morgan County,West Virginia",13702,337676
+371,"Tyler County,West Virginia","Nicholas County,West Virginia",9843,229129
+372,"Tyler County,West Virginia","Ohio County,West Virginia",5383,97086
+373,"Tyler County,West Virginia","Pendleton County,West Virginia",13036,280351
+374,"Tyler County,West Virginia","Pleasants County,West Virginia",3136,55995
+375,"Tyler County,West Virginia","Pocahontas County,West Virginia",13329,261582
+376,"Tyler County,West Virginia","Preston County,West Virginia",9013,175863
+377,"Tyler County,West Virginia","Putnam County,West Virginia",9161,237682
+378,"Tyler County,West Virginia","Raleigh County,West Virginia",11654,302668
+379,"Tyler County,West Virginia","Randolph County,West Virginia",8714,178477
+380,"Tyler County,West Virginia","Ritchie County,West Virginia",4100,63915
+381,"Tyler County,West Virginia","Roane County,West Virginia",8240,179683
+382,"Tyler County,West Virginia","Summers County,West Virginia",15106,364106
+383,"Tyler County,West Virginia","Taylor County,West Virginia",6549,119236
+384,"Tyler County,West Virginia","Tucker County,West Virginia",9215,172557
+385,"Tyler County,West Virginia","Upshur County,West Virginia",7689,152918
+386,"Tyler County,West Virginia","Wayne County,West Virginia",12495,318783
+387,"Tyler County,West Virginia","Webster County,West Virginia",11064,225305
+388,"Tyler County,West Virginia","Wetzel County,West Virginia",2752,28798
+389,"Tyler County,West Virginia","Wirt County,West Virginia",5858,115330
+390,"Tyler County,West Virginia","Wood County,West Virginia",4621,90528
+391,"Tyler County,West Virginia","Wyoming County,West Virginia",13599,342610

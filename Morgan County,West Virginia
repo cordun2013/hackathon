@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Morgan County,West Virginia","Adair County,Kentucky",30831,886509
+1,"Morgan County,West Virginia","Allen County,Kentucky",33450,987157
+2,"Morgan County,West Virginia","Anderson County,Kentucky",26631,789548
+3,"Morgan County,West Virginia","Ballard County,Kentucky",39610,1179319
+4,"Morgan County,West Virginia","Barren County,Kentucky",32577,945536
+5,"Morgan County,West Virginia","Bath County,Kentucky",22279,660729
+6,"Morgan County,West Virginia","Bell County,Kentucky",26551,714648
+7,"Morgan County,West Virginia","Boone County,Kentucky",25698,737312
+8,"Morgan County,West Virginia","Bourbon County,Kentucky",24192,707147
+9,"Morgan County,West Virginia","Boyd County,Kentucky",18954,555054
+10,"Morgan County,West Virginia","Boyle County,Kentucky",27860,793435
+11,"Morgan County,West Virginia","Bracken County,Kentucky",24603,701230
+12,"Morgan County,West Virginia","Breathitt County,Kentucky",25665,701756
+13,"Morgan County,West Virginia","Breckinridge County,Kentucky",32165,942229
+14,"Morgan County,West Virginia","Bullitt County,Kentucky",28734,863349
+15,"Morgan County,West Virginia","Butler County,Kentucky",32829,964227
+16,"Morgan County,West Virginia","Caldwell County,Kentucky",35721,1070172
+17,"Morgan County,West Virginia","Calloway County,Kentucky",38531,1155165
+18,"Morgan County,West Virginia","Campbell County,Kentucky",25616,735797
+19,"Morgan County,West Virginia","Carlisle County,Kentucky",40067,1194688
+20,"Morgan County,West Virginia","Carroll County,Kentucky",27272,799077
+21,"Morgan County,West Virginia","Carter County,Kentucky",20119,585151
+22,"Morgan County,West Virginia","Casey County,Kentucky",29355,824940
+23,"Morgan County,West Virginia","Christian County,Kentucky",35370,1065429
+24,"Morgan County,West Virginia","Clay County,Kentucky",28164,788870
+25,"Morgan County,West Virginia","Clinton County,Kentucky",31239,889875
+26,"Morgan County,West Virginia","Crittenden County,Kentucky",37301,1103243
+27,"Morgan County,West Virginia","Cumberland County,Kentucky",31993,908114
+28,"Morgan County,West Virginia","Daviess County,Kentucky",33852,1010670
+29,"Morgan County,West Virginia","Edmonson County,Kentucky",32270,952102
+30,"Morgan County,West Virginia","Elliott County,Kentucky",21449,610921
+31,"Morgan County,West Virginia","Estill County,Kentucky",25271,723045
+32,"Morgan County,West Virginia","Fayette County,Kentucky",24438,727041
+33,"Morgan County,West Virginia","Fleming County,Kentucky",22704,663915
+34,"Morgan County,West Virginia","Floyd County,Kentucky",23087,662319
+35,"Morgan County,West Virginia","Franklin County,Kentucky",26476,775957
+36,"Morgan County,West Virginia","Fulton County,Kentucky",40471,1215652
+37,"Morgan County,West Virginia","Gallatin County,Kentucky",26483,771490
+38,"Morgan County,West Virginia","Garrard County,Kentucky",27043,774195
+39,"Morgan County,West Virginia","Grant County,Kentucky",26550,771964
+40,"Morgan County,West Virginia","Graves County,Kentucky",39091,1167394
+41,"Morgan County,West Virginia","Grayson County,Kentucky",31157,920863
+42,"Morgan County,West Virginia","Green County,Kentucky",30936,886068
+43,"Morgan County,West Virginia","Greenup County,Kentucky",20730,596180
+44,"Morgan County,West Virginia","Hancock County,Kentucky",32960,975123
+45,"Morgan County,West Virginia","Hardin County,Kentucky",30033,882996
+46,"Morgan County,West Virginia","Harlan County,Kentucky",25626,691274
+47,"Morgan County,West Virginia","Harrison County,Kentucky",25763,740246
+48,"Morgan County,West Virginia","Hart County,Kentucky",30832,910624
+49,"Morgan County,West Virginia","Henderson County,Kentucky",35659,1063099
+50,"Morgan County,West Virginia","Henry County,Kentucky",28077,819676
+51,"Morgan County,West Virginia","Hickman County,Kentucky",40100,1195979
+52,"Morgan County,West Virginia","Hopkins County,Kentucky",35180,1044641
+53,"Morgan County,West Virginia","Jackson County,Kentucky",27944,771053
+54,"Morgan County,West Virginia","Jefferson County,Kentucky",28171,835209
+55,"Morgan County,West Virginia","Jessamine County,Kentucky",25907,748505
+56,"Morgan County,West Virginia","Johnson County,Kentucky",21735,627950
+57,"Morgan County,West Virginia","Kenton County,Kentucky",25343,730870
+58,"Morgan County,West Virginia","Knott County,Kentucky",24269,694201
+59,"Morgan County,West Virginia","Knox County,Kentucky",27876,756640
+60,"Morgan County,West Virginia","Larue County,Kentucky",30105,870172
+61,"Morgan County,West Virginia","Laurel County,Kentucky",28298,824482
+62,"Morgan County,West Virginia","Lawrence County,Kentucky",20877,599374
+63,"Morgan County,West Virginia","Lee County,Kentucky",26116,716781
+64,"Morgan County,West Virginia","Leslie County,Kentucky",27088,719554
+65,"Morgan County,West Virginia","Letcher County,Kentucky",24116,656708
+66,"Morgan County,West Virginia","Lewis County,Kentucky",22157,636969
+67,"Morgan County,West Virginia","Lincoln County,Kentucky",27753,791113
+68,"Morgan County,West Virginia","Livingston County,Kentucky",37897,1120139
+69,"Morgan County,West Virginia","Logan County,Kentucky",34570,1007465
+70,"Morgan County,West Virginia","Lyon County,Kentucky",38030,1130530
+71,"Morgan County,West Virginia","McCracken County,Kentucky",38222,1147379
+72,"Morgan County,West Virginia","McCreary County,Kentucky",29505,849402
+73,"Morgan County,West Virginia","Madison County,Kentucky",25437,738064
+74,"Morgan County,West Virginia","Magoffin County,Kentucky",22703,648629
+75,"Morgan County,West Virginia","Marion County,Kentucky",28482,831781
+76,"Morgan County,West Virginia","Marshall County,Kentucky",37637,1130951
+77,"Morgan County,West Virginia","Martin County,Kentucky",22363,631719
+78,"Morgan County,West Virginia","Mason County,Kentucky",23952,680775
+79,"Morgan County,West Virginia","Meade County,Kentucky",30632,907524
+80,"Morgan County,West Virginia","Menifee County,Kentucky",23395,672793
+81,"Morgan County,West Virginia","Mercer County,Kentucky",26859,787492
+82,"Morgan County,West Virginia","Metcalfe County,Kentucky",31487,916774
+83,"Morgan County,West Virginia","Monroe County,Kentucky",33457,954278
+84,"Morgan County,West Virginia","Montgomery County,Kentucky",23091,679270
+85,"Morgan County,West Virginia","Morgan County,Kentucky",23173,648509
+86,"Morgan County,West Virginia","Muhlenberg County,Kentucky",34040,1011117
+87,"Morgan County,West Virginia","Nelson County,Kentucky",28090,830852
+88,"Morgan County,West Virginia","Nicholas County,Kentucky",24769,707153
+89,"Morgan County,West Virginia","Ohio County,Kentucky",32953,978706
+90,"Morgan County,West Virginia","Oldham County,Kentucky",28243,847091
+91,"Morgan County,West Virginia","Owen County,Kentucky",27298,802735
+92,"Morgan County,West Virginia","Owsley County,Kentucky",27262,736758
+93,"Morgan County,West Virginia","Pendleton County,Kentucky",26541,742154
+94,"Morgan County,West Virginia","Perry County,Kentucky",25648,724758
+95,"Morgan County,West Virginia","Pike County,Kentucky",22643,627258
+96,"Morgan County,West Virginia","Powell County,Kentucky",24535,709016
+97,"Morgan County,West Virginia","Robertson County,Kentucky",24687,706659
+98,"Morgan County,West Virginia","Rockcastle County,Kentucky",26871,779207
+99,"Morgan County,West Virginia","Rowan County,Kentucky",21421,632937
+100,"Morgan County,West Virginia","Russell County,Kentucky",30436,870493
+101,"Morgan County,West Virginia","Scott County,Kentucky",25273,755068
+102,"Morgan County,West Virginia","Shelby County,Kentucky",27100,806344
+103,"Morgan County,West Virginia","Simpson County,Kentucky",34151,1015523
+104,"Morgan County,West Virginia","Spencer County,Kentucky",27629,812192
+105,"Morgan County,West Virginia","Taylor County,Kentucky",29772,863277
+106,"Morgan County,West Virginia","Todd County,Kentucky",35806,1031626
+107,"Morgan County,West Virginia","Trigg County,Kentucky",36784,1091358
+108,"Morgan County,West Virginia","Trimble County,Kentucky",28171,822401
+109,"Morgan County,West Virginia","Union County,Kentucky",37378,1093546
+110,"Morgan County,West Virginia","Warren County,Kentucky",33186,980471
+111,"Morgan County,West Virginia","Washington County,Kentucky",28100,816089
+112,"Morgan County,West Virginia","Wayne County,Kentucky",30612,867565
+113,"Morgan County,West Virginia","Webster County,Kentucky",36289,1072729
+114,"Morgan County,West Virginia","Whitley County,Kentucky",28109,834164
+115,"Morgan County,West Virginia","Wolfe County,Kentucky",24268,671870
+116,"Morgan County,West Virginia","Woodford County,Kentucky",25492,757704
+117,"Morgan County,West Virginia","Adams County,Ohio",21542,594158
+118,"Morgan County,West Virginia","Allen County,Ohio",23689,677830
+119,"Morgan County,West Virginia","Ashland County,Ohio",18237,504519
+120,"Morgan County,West Virginia","Ashtabula County,Ohio",16275,460432
+121,"Morgan County,West Virginia","Athens County,Ohio",15939,441668
+122,"Morgan County,West Virginia","Auglaize County,Ohio",24225,699960
+123,"Morgan County,West Virginia","Belmont County,Ohio",12846,356727
+124,"Morgan County,West Virginia","Brown County,Ohio",22967,627018
+125,"Morgan County,West Virginia","Butler County,Ohio",24695,694691
+126,"Morgan County,West Virginia","Carroll County,Ohio",14792,372653
+127,"Morgan County,West Virginia","Champaign County,Ohio",21969,614855
+128,"Morgan County,West Virginia","Clark County,Ohio",20846,605426
+129,"Morgan County,West Virginia","Clermont County,Ohio",23621,652182
+130,"Morgan County,West Virginia","Clinton County,Ohio",22237,640708
+131,"Morgan County,West Virginia","Columbiana County,Ohio",13578,354670
+132,"Morgan County,West Virginia","Coshocton County,Ohio",17203,482177
+133,"Morgan County,West Virginia","Crawford County,Ohio",20146,575714
+134,"Morgan County,West Virginia","Cuyahoga County,Ohio",16272,458276
+135,"Morgan County,West Virginia","Darke County,Ohio",24422,703328
+136,"Morgan County,West Virginia","Defiance County,Ohio",24590,707239
+137,"Morgan County,West Virginia","Delaware County,Ohio",20122,581174
+138,"Morgan County,West Virginia","Fairfield County,Ohio",18217,517960
+139,"Morgan County,West Virginia","Fayette County,Ohio",20874,602758
+140,"Morgan County,West Virginia","Franklin County,Ohio",18818,545061
+141,"Morgan County,West Virginia","Fulton County,Ohio",22942,664090
+142,"Morgan County,West Virginia","Gallia County,Ohio",17821,481545
+143,"Morgan County,West Virginia","Geauga County,Ohio",15765,433095
+144,"Morgan County,West Virginia","Greene County,Ohio",21622,630924
+145,"Morgan County,West Virginia","Guernsey County,Ohio",14749,420236
+146,"Morgan County,West Virginia","Hamilton County,Ohio",24196,705269
+147,"Morgan County,West Virginia","Hancock County,Ohio",22176,637795
+148,"Morgan County,West Virginia","Hardin County,Ohio",22832,640386
+149,"Morgan County,West Virginia","Harrison County,Ohio",14005,374871
+150,"Morgan County,West Virginia","Henry County,Ohio",23397,653857
+151,"Morgan County,West Virginia","Highland County,Ohio",22080,594172
+152,"Morgan County,West Virginia","Hocking County,Ohio",17564,487572
+153,"Morgan County,West Virginia","Holmes County,Ohio",17945,456947
+154,"Morgan County,West Virginia","Huron County,Ohio",19514,534125
+155,"Morgan County,West Virginia","Jackson County,Ohio",18066,504723
+156,"Morgan County,West Virginia","Jefferson County,Ohio",12748,336144
+157,"Morgan County,West Virginia","Knox County,Ohio",18991,524653
+158,"Morgan County,West Virginia","Lawrence County,Ohio",20094,560110
+159,"Morgan County,West Virginia","Licking County,Ohio",18377,505724
+160,"Morgan County,West Virginia","Logan County,Ohio",22143,646373
+161,"Morgan County,West Virginia","Lorain County,Ohio",17323,487996
+162,"Morgan County,West Virginia","Lucas County,Ohio",21897,616940
+163,"Morgan County,West Virginia","Madison County,Ohio",20095,579782
+164,"Morgan County,West Virginia","Mahoning County,Ohio",12762,350424
+165,"Morgan County,West Virginia","Marion County,Ohio",21174,592697
+166,"Morgan County,West Virginia","Medina County,Ohio",16870,471639
+167,"Morgan County,West Virginia","Meigs County,Ohio",15904,434246
+168,"Morgan County,West Virginia","Mercer County,Ohio",25461,726894
+169,"Morgan County,West Virginia","Miami County,Ohio",22933,668759
+170,"Morgan County,West Virginia","Monroe County,Ohio",15279,403410
+171,"Morgan County,West Virginia","Montgomery County,Ohio",23194,674206
+172,"Morgan County,West Virginia","Morgan County,Ohio",16381,444015
+173,"Morgan County,West Virginia","Morrow County,Ohio",19875,565972
+174,"Morgan County,West Virginia","Muskingum County,Ohio",15595,448228
+175,"Morgan County,West Virginia","Noble County,Ohio",15861,441542
+176,"Morgan County,West Virginia","Paulding County,Ohio",25795,743227
+177,"Morgan County,West Virginia","Perry County,Ohio",17694,496170
+178,"Morgan County,West Virginia","Pickaway County,Ohio",19595,562638
+179,"Morgan County,West Virginia","Pike County,Ohio",19512,544030
+180,"Morgan County,West Virginia","Portage County,Ohio",14616,406438
+181,"Morgan County,West Virginia","Preble County,Ohio",23964,696918
+182,"Morgan County,West Virginia","Putnam County,Ohio",24374,697601
+183,"Morgan County,West Virginia","Richland County,Ohio",18794,525948
+184,"Morgan County,West Virginia","Ross County,Ohio",19792,552537
+185,"Morgan County,West Virginia","Sandusky County,Ohio",20184,575515
+186,"Morgan County,West Virginia","Scioto County,Ohio",20151,560101
+187,"Morgan County,West Virginia","Seneca County,Ohio",20915,585187
+188,"Morgan County,West Virginia","Shelby County,Ohio",23901,676620
+189,"Morgan County,West Virginia","Stark County,Ohio",15396,402570
+190,"Morgan County,West Virginia","Summit County,Ohio",15511,435032
+191,"Morgan County,West Virginia","Trumbull County,Ohio",13919,387888
+192,"Morgan County,West Virginia","Tuscarawas County,Ohio",15514,406154
+193,"Morgan County,West Virginia","Union County,Ohio",20647,596604
+194,"Morgan County,West Virginia","Van Wert County,Ohio",24486,708112
+195,"Morgan County,West Virginia","Vinton County,Ohio",18056,490109
+196,"Morgan County,West Virginia","Warren County,Ohio",22613,661237
+197,"Morgan County,West Virginia","Washington County,Ohio",14720,399478
+198,"Morgan County,West Virginia","Wayne County,Ohio",17975,490450
+199,"Morgan County,West Virginia","Williams County,Ohio",24188,695547
+200,"Morgan County,West Virginia","Wood County,Ohio",22082,623843
+201,"Morgan County,West Virginia","Wyandot County,Ohio",21146,601930
+202,"Morgan County,West Virginia","Accomack County,Virginia",18332,469137
+203,"Morgan County,West Virginia","Albemarle County,Virginia",8769,237274
+204,"Morgan County,West Virginia","Alleghany County,Virginia",11531,324282
+205,"Morgan County,West Virginia","Amelia County,Virginia",13442,341420
+206,"Morgan County,West Virginia","Amherst County,Virginia",11203,288180
+207,"Morgan County,West Virginia","Appomattox County,Virginia",12418,312809
+208,"Morgan County,West Virginia","Arlington County,Virginia",7160,158278
+209,"Morgan County,West Virginia","Augusta County,Virginia",8207,214527
+210,"Morgan County,West Virginia","Bath County,Virginia",10828,251192
+211,"Morgan County,West Virginia","Bedford County,Virginia",13348,332696
+212,"Morgan County,West Virginia","Bland County,Virginia",15818,453965
+213,"Morgan County,West Virginia","Botetourt County,Virginia",10838,295218
+214,"Morgan County,West Virginia","Brunswick County,Virginia",14744,392006
+215,"Morgan County,West Virginia","Buchanan County,Virginia",21574,588424
+216,"Morgan County,West Virginia","Buckingham County,Virginia",12078,302423
+217,"Morgan County,West Virginia","Campbell County,Virginia",12565,328312
+218,"Morgan County,West Virginia","Caroline County,Virginia",9741,242573
+219,"Morgan County,West Virginia","Carroll County,Virginia",15939,459382
+220,"Morgan County,West Virginia","Charles City County,Virginia",12211,314056
+221,"Morgan County,West Virginia","Charlotte County,Virginia",14399,361307
+222,"Morgan County,West Virginia","Chesterfield County,Virginia",12141,306973
+223,"Morgan County,West Virginia","Clarke County,Virginia",3486,65751
+224,"Morgan County,West Virginia","Craig County,Virginia",13680,351545
+225,"Morgan County,West Virginia","Culpeper County,Virginia",6806,165190
+226,"Morgan County,West Virginia","Cumberland County,Virginia",12812,327630
+227,"Morgan County,West Virginia","Dickenson County,Virginia",22284,606602
+228,"Morgan County,West Virginia","Dinwiddie County,Virginia",13382,351972
+229,"Morgan County,West Virginia","Essex County,Virginia",11143,266627
+230,"Morgan County,West Virginia","Fairfax County,Virginia",6583,145150
+231,"Morgan County,West Virginia","Fauquier County,Virginia",5236,131916
+232,"Morgan County,West Virginia","Floyd County,Virginia",14462,400929
+233,"Morgan County,West Virginia","Fluvanna County,Virginia",10447,289445
+234,"Morgan County,West Virginia","Franklin County,Virginia",13800,379373
+235,"Morgan County,West Virginia","Frederick County,Virginia",2276,40473
+236,"Morgan County,West Virginia","Giles County,Virginia",14602,409081
+237,"Morgan County,West Virginia","Gloucester County,Virginia",14382,368244
+238,"Morgan County,West Virginia","Goochland County,Virginia",11229,267844
+239,"Morgan County,West Virginia","Grayson County,Virginia",17271,475561
+240,"Morgan County,West Virginia","Greene County,Virginia",8351,184347
+241,"Morgan County,West Virginia","Greensville County,Virginia",14798,400724
+242,"Morgan County,West Virginia","Halifax County,Virginia",15885,400019
+243,"Morgan County,West Virginia","Hanover County,Virginia",10559,272065
+244,"Morgan County,West Virginia","Henrico County,Virginia",11358,294726
+245,"Morgan County,West Virginia","Henry County,Virginia",15209,414335
+246,"Morgan County,West Virginia","Highland County,Virginia",10581,216606
+247,"Morgan County,West Virginia","Isle of Wight County,Virginia",15493,403316
+248,"Morgan County,West Virginia","James City County,Virginia",13447,354827
+249,"Morgan County,West Virginia","King and Queen County,Virginia",12194,301888
+250,"Morgan County,West Virginia","King George County,Virginia",9663,226069
+251,"Morgan County,West Virginia","King William County,Virginia",11160,279685
+252,"Morgan County,West Virginia","Lancaster County,Virginia",13566,322621
+253,"Morgan County,West Virginia","Lee County,Virginia",22779,638256
+254,"Morgan County,West Virginia","Loudoun County,Virginia",4982,101618
+255,"Morgan County,West Virginia","Louisa County,Virginia",9414,228565
+256,"Morgan County,West Virginia","Lunenburg County,Virginia",15697,404028
+257,"Morgan County,West Virginia","Madison County,Virginia",7229,153448
+258,"Morgan County,West Virginia","Mathews County,Virginia",15277,367009
+259,"Morgan County,West Virginia","Mecklenburg County,Virginia",16471,440277
+260,"Morgan County,West Virginia","Middlesex County,Virginia",13646,330590
+261,"Morgan County,West Virginia","Montgomery County,Virginia",13166,373352
+262,"Morgan County,West Virginia","Nelson County,Virginia",9649,255774
+263,"Morgan County,West Virginia","New Kent County,Virginia",12883,328741
+264,"Morgan County,West Virginia","Northampton County,Virginia",17864,471490
+265,"Morgan County,West Virginia","Northumberland County,Virginia",13605,321134
+266,"Morgan County,West Virginia","Nottoway County,Virginia",14252,366553
+267,"Morgan County,West Virginia","Orange County,Virginia",8147,199688
+268,"Morgan County,West Virginia","Page County,Virginia",5770,122155
+269,"Morgan County,West Virginia","Patrick County,Virginia",16582,437832
+270,"Morgan County,West Virginia","Pittsylvania County,Virginia",15134,399940
+271,"Morgan County,West Virginia","Powhatan County,Virginia",12245,317660
+272,"Morgan County,West Virginia","Prince Edward County,Virginia",13619,356247
+273,"Morgan County,West Virginia","Prince George County,Virginia",13028,342569
+274,"Morgan County,West Virginia","Prince William County,Virginia",5336,138020
+275,"Morgan County,West Virginia","Pulaski County,Virginia",13894,395985
+276,"Morgan County,West Virginia","Rappahannock County,Virginia",5547,117054
+277,"Morgan County,West Virginia","Richmond County,Virginia",12305,293777
+278,"Morgan County,West Virginia","Roanoke County,Virginia",12158,338290
+279,"Morgan County,West Virginia","Rockbridge County,Virginia",9580,261227
+280,"Morgan County,West Virginia","Rockingham County,Virginia",6185,148909
+281,"Morgan County,West Virginia","Russell County,Virginia",20740,571761
+282,"Morgan County,West Virginia","Scott County,Virginia",21352,598984
+283,"Morgan County,West Virginia","Shenandoah County,Virginia",4167,102864
+284,"Morgan County,West Virginia","Smyth County,Virginia",16934,482706
+285,"Morgan County,West Virginia","Southampton County,Virginia",15176,396838
+286,"Morgan County,West Virginia","Spotsylvania County,Virginia",8853,207057
+287,"Morgan County,West Virginia","Stafford County,Virginia",7855,195922
+288,"Morgan County,West Virginia","Surry County,Virginia",14140,364263
+289,"Morgan County,West Virginia","Sussex County,Virginia",13840,367081
+290,"Morgan County,West Virginia","Tazewell County,Virginia",18395,522782
+291,"Morgan County,West Virginia","Warren County,Virginia",4091,88412
+292,"Morgan County,West Virginia","Washington County,Virginia",18328,522172
+293,"Morgan County,West Virginia","Westmoreland County,Virginia",10631,244870
+294,"Morgan County,West Virginia","Wise County,Virginia",22191,613104
+295,"Morgan County,West Virginia","Wythe County,Virginia",15188,434691
+296,"Morgan County,West Virginia","York County,Virginia",14735,385601
+297,"Morgan County,West Virginia","Alexandria City County,Virginia",7495,175583
+298,"Morgan County,West Virginia","Bedford City County,Virginia",12373,324035
+299,"Morgan County,West Virginia","Bristol City County,Virginia",18803,547889
+300,"Morgan County,West Virginia","Buena Vista City County,Virginia",9239,254493
+301,"Morgan County,West Virginia","Charlottesville City County,Virginia",9238,252488
+302,"Morgan County,West Virginia","Chesapeake City County,Virginia",16198,438507
+303,"Morgan County,West Virginia","Clifton Forge City County,Virginia",10433,293100
+304,"Morgan County,West Virginia","Colonial Heights City County,Virginia",12195,317433
+305,"Morgan County,West Virginia","Covington City County,Virginia",11176,311442
+306,"Morgan County,West Virginia","Danville City County,Virginia",15734,416282
+307,"Morgan County,West Virginia","Emporia City County,Virginia",14505,387317
+308,"Morgan County,West Virginia","Fairfax City County,Virginia",6468,163768
+309,"Morgan County,West Virginia","Falls Church City County,Virginia",6658,152602
+310,"Morgan County,West Virginia","Franklin City County,Virginia",15723,404693
+311,"Morgan County,West Virginia","Fredericksburg City County,Virginia",8176,192764
+312,"Morgan County,West Virginia","Galax City County,Virginia",16563,465248
+313,"Morgan County,West Virginia","Hampton City County,Virginia",14685,395308
+314,"Morgan County,West Virginia","Harrisonburg City County,Virginia",5973,154753
+315,"Morgan County,West Virginia","Hopewell City County,Virginia",11958,317470
+316,"Morgan County,West Virginia","Lexington City County,Virginia",9098,251471
+317,"Morgan County,West Virginia","Lynchburg City County,Virginia",11751,308236
+318,"Morgan County,West Virginia","Manassas City County,Virginia",5563,142965
+319,"Morgan County,West Virginia","Manassas Park City County,Virginia",6066,149308
+320,"Morgan County,West Virginia","Martinsville City County,Virginia",15362,409437
+321,"Morgan County,West Virginia","Newport News City County,Virginia",14242,381793
+322,"Morgan County,West Virginia","Norfolk City County,Virginia",15991,420723
+323,"Morgan County,West Virginia","Norton City County,Virginia",21715,603994
+324,"Morgan County,West Virginia","Petersburg City County,Virginia",12066,318421
+325,"Morgan County,West Virginia","Poquoson City County,Virginia",14913,392370
+326,"Morgan County,West Virginia","Portsmouth City County,Virginia",15930,429544
+327,"Morgan County,West Virginia","Radford County,Virginia",13530,383196
+328,"Morgan County,West Virginia","Richmond City County,Virginia",10934,282536
+329,"Morgan County,West Virginia","Roanoke City County,Virginia",11696,329732
+330,"Morgan County,West Virginia","Salem City County,Virginia",11525,328203
+331,"Morgan County,West Virginia","South Boston City County,Virginia",15889,398837
+332,"Morgan County,West Virginia","Staunton City County,Virginia",7460,196727
+333,"Morgan County,West Virginia","Suffolk City County,Virginia",16335,418040
+334,"Morgan County,West Virginia","Virginia Beach City County,Virginia",16552,443982
+335,"Morgan County,West Virginia","Waynesboro City County,Virginia",7858,206578
+336,"Morgan County,West Virginia","Williamsburg City County,Virginia",13286,354042
+337,"Morgan County,West Virginia","Winchester City County,Virginia",2414,44277
+338,"Morgan County,West Virginia","Barbour County,West Virginia",10648,254582
+339,"Morgan County,West Virginia","Berkeley County,West Virginia",2262,35829
+340,"Morgan County,West Virginia","Boone County,West Virginia",18817,516406
+341,"Morgan County,West Virginia","Braxton County,West Virginia",13376,353027
+342,"Morgan County,West Virginia","Brooke County,West Virginia",12053,319627
+343,"Morgan County,West Virginia","Cabell County,West Virginia",18410,533315
+344,"Morgan County,West Virginia","Calhoun County,West Virginia",14699,387695
+345,"Morgan County,West Virginia","Clay County,West Virginia",15062,418052
+346,"Morgan County,West Virginia","Doddridge County,West Virginia",11448,306947
+347,"Morgan County,West Virginia","Fayette County,West Virginia",15842,437969
+348,"Morgan County,West Virginia","Gilmer County,West Virginia",13180,352385
+349,"Morgan County,West Virginia","Grant County,West Virginia",6008,140639
+350,"Morgan County,West Virginia","Greenbrier County,West Virginia",15368,401410
+351,"Morgan County,West Virginia","Hampshire County,West Virginia",2659,53170
+352,"Morgan County,West Virginia","Hancock County,West Virginia",12761,327564
+353,"Morgan County,West Virginia","Hardy County,West Virginia",5255,111968
+354,"Morgan County,West Virginia","Harrison County,West Virginia",9885,268575
+355,"Morgan County,West Virginia","Jackson County,West Virginia",15840,441494
+356,"Morgan County,West Virginia","Jefferson County,West Virginia",4000,62681
+357,"Morgan County,West Virginia","Kanawha County,West Virginia",17292,484574
+358,"Morgan County,West Virginia","Lewis County,West Virginia",11081,302016
+359,"Morgan County,West Virginia","Lincoln County,West Virginia",19074,510993
+360,"Morgan County,West Virginia","Logan County,West Virginia",19746,553524
+361,"Morgan County,West Virginia","McDowell County,West Virginia",20060,528928
+362,"Morgan County,West Virginia","Marion County,West Virginia",9371,242488
+363,"Morgan County,West Virginia","Marshall County,West Virginia",13041,314071
+364,"Morgan County,West Virginia","Mason County,West Virginia",17604,485549
+365,"Morgan County,West Virginia","Mercer County,West Virginia",16775,465258
+366,"Morgan County,West Virginia","Mineral County,West Virginia",5443,97185
+367,"Morgan County,West Virginia","Mingo County,West Virginia",19791,558032
+368,"Morgan County,West Virginia","Monongalia County,West Virginia",7194,194227
+369,"Morgan County,West Virginia","Monroe County,West Virginia",14302,387731
+370,"Morgan County,West Virginia","Nicholas County,West Virginia",14362,402673
+371,"Morgan County,West Virginia","Ohio County,West Virginia",11960,328574
+372,"Morgan County,West Virginia","Pendleton County,West Virginia",7765,163864
+373,"Morgan County,West Virginia","Pleasants County,West Virginia",12683,344715
+374,"Morgan County,West Virginia","Pocahontas County,West Virginia",13030,274317
+375,"Morgan County,West Virginia","Preston County,West Virginia",8191,200267
+376,"Morgan County,West Virginia","Putnam County,West Virginia",16667,484840
+377,"Morgan County,West Virginia","Raleigh County,West Virginia",15565,446867
+378,"Morgan County,West Virginia","Randolph County,West Virginia",11693,263827
+379,"Morgan County,West Virginia","Ritchie County,West Virginia",12594,339017
+380,"Morgan County,West Virginia","Roane County,West Virginia",17120,421730
+381,"Morgan County,West Virginia","Summers County,West Virginia",16287,426745
+382,"Morgan County,West Virginia","Taylor County,West Virginia",9365,243232
+383,"Morgan County,West Virginia","Tucker County,West Virginia",8667,202286
+384,"Morgan County,West Virginia","Tyler County,West Virginia",13610,337381
+385,"Morgan County,West Virginia","Upshur County,West Virginia",12208,326462
+386,"Morgan County,West Virginia","Wayne County,West Virginia",20001,565941
+387,"Morgan County,West Virginia","Webster County,West Virginia",15583,398849
+388,"Morgan County,West Virginia","Wetzel County,West Virginia",12527,304611
+389,"Morgan County,West Virginia","Wirt County,West Virginia",14940,384547
+390,"Morgan County,West Virginia","Wood County,West Virginia",13464,369977
+391,"Morgan County,West Virginia","Wyoming County,West Virginia",17510,486809

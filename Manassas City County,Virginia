@@ -1,0 +1,392 @@
+,origin,destination,seconds,meters
+0,"Manassas City County,Virginia","Adair County,Kentucky",34232,929181
+1,"Manassas City County,Virginia","Allen County,Kentucky",35628,1048991
+2,"Manassas City County,Virginia","Anderson County,Kentucky",29860,891967
+3,"Manassas City County,Virginia","Ballard County,Kentucky",42533,1284246
+4,"Manassas City County,Virginia","Barren County,Kentucky",35418,1007936
+5,"Manassas City County,Virginia","Bath County,Kentucky",25508,763148
+6,"Manassas City County,Virginia","Bell County,Kentucky",26728,730488
+7,"Manassas City County,Virginia","Boone County,Kentucky",30754,839956
+8,"Manassas City County,Virginia","Bourbon County,Kentucky",27421,809565
+9,"Manassas City County,Virginia","Boyd County,Kentucky",22183,657472
+10,"Manassas City County,Virginia","Boyle County,Kentucky",31089,895853
+11,"Manassas City County,Virginia","Bracken County,Kentucky",27832,803648
+12,"Manassas City County,Virginia","Breathitt County,Kentucky",28352,766251
+13,"Manassas City County,Virginia","Breckinridge County,Kentucky",35394,1044648
+14,"Manassas City County,Virginia","Bullitt County,Kentucky",31963,965767
+15,"Manassas City County,Virginia","Butler County,Kentucky",36058,1066646
+16,"Manassas City County,Virginia","Caldwell County,Kentucky",38950,1172591
+17,"Manassas City County,Virginia","Calloway County,Kentucky",40374,1216105
+18,"Manassas City County,Virginia","Campbell County,Kentucky",29533,843519
+19,"Manassas City County,Virginia","Carlisle County,Kentucky",42990,1299614
+20,"Manassas City County,Virginia","Carroll County,Kentucky",32405,939781
+21,"Manassas City County,Virginia","Carter County,Kentucky",23348,687569
+22,"Manassas City County,Virginia","Casey County,Kentucky",32584,927358
+23,"Manassas City County,Virginia","Christian County,Kentucky",37267,1137085
+24,"Manassas City County,Virginia","Clay County,Kentucky",29300,790830
+25,"Manassas City County,Virginia","Clinton County,Kentucky",32676,928396
+26,"Manassas City County,Virginia","Crittenden County,Kentucky",40530,1205661
+27,"Manassas City County,Virginia","Cumberland County,Kentucky",33555,949065
+28,"Manassas City County,Virginia","Daviess County,Kentucky",37081,1113088
+29,"Manassas City County,Virginia","Edmonson County,Kentucky",35499,1054521
+30,"Manassas City County,Virginia","Elliott County,Kentucky",24678,713340
+31,"Manassas City County,Virginia","Estill County,Kentucky",28500,825463
+32,"Manassas City County,Virginia","Fayette County,Kentucky",27667,829459
+33,"Manassas City County,Virginia","Fleming County,Kentucky",25933,766333
+34,"Manassas City County,Virginia","Floyd County,Kentucky",26316,764737
+35,"Manassas City County,Virginia","Franklin County,Kentucky",29705,878376
+36,"Manassas City County,Virginia","Fulton County,Kentucky",43394,1320579
+37,"Manassas City County,Virginia","Gallatin County,Kentucky",31403,930440
+38,"Manassas City County,Virginia","Garrard County,Kentucky",30272,876613
+39,"Manassas City County,Virginia","Grant County,Kentucky",30202,904547
+40,"Manassas City County,Virginia","Graves County,Kentucky",42015,1272321
+41,"Manassas City County,Virginia","Grayson County,Kentucky",34386,1023282
+42,"Manassas City County,Virginia","Green County,Kentucky",34165,988487
+43,"Manassas City County,Virginia","Greenup County,Kentucky",23959,698599
+44,"Manassas City County,Virginia","Hancock County,Kentucky",36189,1077541
+45,"Manassas City County,Virginia","Hardin County,Kentucky",33262,985414
+46,"Manassas City County,Virginia","Harlan County,Kentucky",25803,707114
+47,"Manassas City County,Virginia","Harrison County,Kentucky",28992,842665
+48,"Manassas City County,Virginia","Hart County,Kentucky",34061,1013043
+49,"Manassas City County,Virginia","Henderson County,Kentucky",38888,1165518
+50,"Manassas City County,Virginia","Henry County,Kentucky",31306,922094
+51,"Manassas City County,Virginia","Hickman County,Kentucky",43023,1300906
+52,"Manassas City County,Virginia","Hopkins County,Kentucky",38409,1147059
+53,"Manassas City County,Virginia","Jackson County,Kentucky",31172,827249
+54,"Manassas City County,Virginia","Jefferson County,Kentucky",31400,937628
+55,"Manassas City County,Virginia","Jessamine County,Kentucky",29136,850923
+56,"Manassas City County,Virginia","Johnson County,Kentucky",24965,730368
+57,"Manassas City County,Virginia","Kenton County,Kentucky",30413,767310
+58,"Manassas City County,Virginia","Knott County,Kentucky",25893,709001
+59,"Manassas City County,Virginia","Knox County,Kentucky",28058,772480
+60,"Manassas City County,Virginia","Larue County,Kentucky",33334,972590
+61,"Manassas City County,Virginia","Laurel County,Kentucky",29952,807308
+62,"Manassas City County,Virginia","Lawrence County,Kentucky",24106,701792
+63,"Manassas City County,Virginia","Lee County,Kentucky",29345,819200
+64,"Manassas City County,Virginia","Leslie County,Kentucky",27265,735394
+65,"Manassas City County,Virginia","Letcher County,Kentucky",24293,672548
+66,"Manassas City County,Virginia","Lewis County,Kentucky",25386,739387
+67,"Manassas City County,Virginia","Lincoln County,Kentucky",30982,893531
+68,"Manassas City County,Virginia","Livingston County,Kentucky",40864,1238185
+69,"Manassas City County,Virginia","Logan County,Kentucky",37699,1089985
+70,"Manassas City County,Virginia","Lyon County,Kentucky",40621,1215359
+71,"Manassas City County,Virginia","McCracken County,Kentucky",41145,1252306
+72,"Manassas City County,Virginia","McCreary County,Kentucky",29682,865242
+73,"Manassas City County,Virginia","Madison County,Kentucky",28666,840483
+74,"Manassas City County,Virginia","Magoffin County,Kentucky",25932,751047
+75,"Manassas City County,Virginia","Marion County,Kentucky",31711,934199
+76,"Manassas City County,Virginia","Marshall County,Kentucky",40560,1235878
+77,"Manassas City County,Virginia","Martin County,Kentucky",25220,683516
+78,"Manassas City County,Virginia","Mason County,Kentucky",27181,783194
+79,"Manassas City County,Virginia","Meade County,Kentucky",33861,1009943
+80,"Manassas City County,Virginia","Menifee County,Kentucky",26624,775211
+81,"Manassas City County,Virginia","Mercer County,Kentucky",30088,889910
+82,"Manassas City County,Virginia","Metcalfe County,Kentucky",34889,959446
+83,"Manassas City County,Virginia","Monroe County,Kentucky",34116,979485
+84,"Manassas City County,Virginia","Montgomery County,Kentucky",26321,781688
+85,"Manassas City County,Virginia","Morgan County,Kentucky",26402,750927
+86,"Manassas City County,Virginia","Muhlenberg County,Kentucky",37269,1113535
+87,"Manassas City County,Virginia","Nelson County,Kentucky",31319,933271
+88,"Manassas City County,Virginia","Nicholas County,Kentucky",27999,809572
+89,"Manassas City County,Virginia","Ohio County,Kentucky",36182,1081125
+90,"Manassas City County,Virginia","Oldham County,Kentucky",31472,949509
+91,"Manassas City County,Virginia","Owen County,Kentucky",30527,905153
+92,"Manassas City County,Virginia","Owsley County,Kentucky",30490,804125
+93,"Manassas City County,Virginia","Pendleton County,Kentucky",29770,844572
+94,"Manassas City County,Virginia","Perry County,Kentucky",26866,729424
+95,"Manassas City County,Virginia","Pike County,Kentucky",25416,648762
+96,"Manassas City County,Virginia","Powell County,Kentucky",27764,811434
+97,"Manassas City County,Virginia","Robertson County,Kentucky",27916,809078
+98,"Manassas City County,Virginia","Rockcastle County,Kentucky",30100,881625
+99,"Manassas City County,Virginia","Rowan County,Kentucky",24650,735355
+100,"Manassas City County,Virginia","Russell County,Kentucky",33837,913165
+101,"Manassas City County,Virginia","Scott County,Kentucky",28502,857486
+102,"Manassas City County,Virginia","Shelby County,Kentucky",30329,908762
+103,"Manassas City County,Virginia","Simpson County,Kentucky",36666,1065961
+104,"Manassas City County,Virginia","Spencer County,Kentucky",30858,914610
+105,"Manassas City County,Virginia","Taylor County,Kentucky",33001,965695
+106,"Manassas City County,Virginia","Todd County,Kentucky",37682,1130032
+107,"Manassas City County,Virginia","Trigg County,Kentucky",38174,1154444
+108,"Manassas City County,Virginia","Trimble County,Kentucky",32545,955549
+109,"Manassas City County,Virginia","Union County,Kentucky",40608,1195964
+110,"Manassas City County,Virginia","Warren County,Kentucky",36415,1082890
+111,"Manassas City County,Virginia","Washington County,Kentucky",31329,918507
+112,"Manassas City County,Virginia","Wayne County,Kentucky",32186,912373
+113,"Manassas City County,Virginia","Webster County,Kentucky",39518,1175148
+114,"Manassas City County,Virginia","Whitley County,Kentucky",28286,850004
+115,"Manassas City County,Virginia","Wolfe County,Kentucky",27497,774289
+116,"Manassas City County,Virginia","Woodford County,Kentucky",28721,860122
+117,"Manassas City County,Virginia","Adams County,Ohio",26393,663215
+118,"Manassas City County,Virginia","Allen County,Ohio",28944,832479
+119,"Manassas City County,Virginia","Ashland County,Ohio",23493,659169
+120,"Manassas City County,Virginia","Ashtabula County,Ohio",21531,615081
+121,"Manassas City County,Virginia","Athens County,Ohio",20789,510725
+122,"Manassas City County,Virginia","Auglaize County,Ohio",29281,802605
+123,"Manassas City County,Virginia","Belmont County,Ohio",17902,459372
+124,"Manassas City County,Virginia","Brown County,Ohio",27817,696075
+125,"Manassas City County,Virginia","Butler County,Ohio",29751,797336
+126,"Manassas City County,Virginia","Carroll County,Ohio",20047,527302
+127,"Manassas City County,Virginia","Champaign County,Ohio",27025,717499
+128,"Manassas City County,Virginia","Clark County,Ohio",25902,708070
+129,"Manassas City County,Virginia","Clermont County,Ohio",28471,721239
+130,"Manassas City County,Virginia","Clinton County,Ohio",27293,743352
+131,"Manassas City County,Virginia","Columbiana County,Ohio",18834,509319
+132,"Manassas City County,Virginia","Coshocton County,Ohio",22259,584822
+133,"Manassas City County,Virginia","Crawford County,Ohio",25401,730363
+134,"Manassas City County,Virginia","Cuyahoga County,Ohio",21527,612925
+135,"Manassas City County,Virginia","Darke County,Ohio",29479,805972
+136,"Manassas City County,Virginia","Defiance County,Ohio",29846,861889
+137,"Manassas City County,Virginia","Delaware County,Ohio",25178,683819
+138,"Manassas City County,Virginia","Fairfield County,Ohio",23273,620605
+139,"Manassas City County,Virginia","Fayette County,Ohio",25930,705403
+140,"Manassas City County,Virginia","Franklin County,Ohio",23874,647705
+141,"Manassas City County,Virginia","Fulton County,Ohio",28198,818740
+142,"Manassas City County,Virginia","Gallia County,Ohio",22671,550602
+143,"Manassas City County,Virginia","Geauga County,Ohio",21021,587744
+144,"Manassas City County,Virginia","Greene County,Ohio",26678,733568
+145,"Manassas City County,Virginia","Guernsey County,Ohio",19805,522881
+146,"Manassas City County,Virginia","Hamilton County,Ohio",29252,807913
+147,"Manassas City County,Virginia","Hancock County,Ohio",27432,792444
+148,"Manassas City County,Virginia","Hardin County,Ohio",28087,795035
+149,"Manassas City County,Virginia","Harrison County,Ohio",19261,529520
+150,"Manassas City County,Virginia","Henry County,Ohio",28652,808507
+151,"Manassas City County,Virginia","Highland County,Ohio",26930,663229
+152,"Manassas City County,Virginia","Hocking County,Ohio",22414,556629
+153,"Manassas City County,Virginia","Holmes County,Ohio",23200,611597
+154,"Manassas City County,Virginia","Huron County,Ohio",24769,688774
+155,"Manassas City County,Virginia","Jackson County,Ohio",22917,573780
+156,"Manassas City County,Virginia","Jefferson County,Ohio",18003,490793
+157,"Manassas City County,Virginia","Knox County,Ohio",24047,627297
+158,"Manassas City County,Virginia","Lawrence County,Ohio",23323,662529
+159,"Manassas City County,Virginia","Licking County,Ohio",23433,608369
+160,"Manassas City County,Virginia","Logan County,Ohio",27199,749017
+161,"Manassas City County,Virginia","Lorain County,Ohio",22579,642646
+162,"Manassas City County,Virginia","Lucas County,Ohio",27152,771590
+163,"Manassas City County,Virginia","Madison County,Ohio",25151,682427
+164,"Manassas City County,Virginia","Mahoning County,Ohio",18017,505073
+165,"Manassas City County,Virginia","Marion County,Ohio",26430,747347
+166,"Manassas City County,Virginia","Medina County,Ohio",22125,626289
+167,"Manassas City County,Virginia","Meigs County,Ohio",20754,503303
+168,"Manassas City County,Virginia","Mercer County,Ohio",30517,829538
+169,"Manassas City County,Virginia","Miami County,Ohio",27990,771404
+170,"Manassas City County,Virginia","Monroe County,Ohio",20335,506055
+171,"Manassas City County,Virginia","Montgomery County,Ohio",28250,776851
+172,"Manassas City County,Virginia","Morgan County,Ohio",21232,513072
+173,"Manassas City County,Virginia","Morrow County,Ohio",25130,720622
+174,"Manassas City County,Virginia","Muskingum County,Ohio",20651,550872
+175,"Manassas City County,Virginia","Noble County,Ohio",20712,510599
+176,"Manassas City County,Virginia","Paulding County,Ohio",31051,897876
+177,"Manassas City County,Virginia","Perry County,Ohio",22750,598815
+178,"Manassas City County,Virginia","Pickaway County,Ohio",24578,609570
+179,"Manassas City County,Virginia","Pike County,Ohio",24363,613087
+180,"Manassas City County,Virginia","Portage County,Ohio",19872,561087
+181,"Manassas City County,Virginia","Preble County,Ohio",29021,799562
+182,"Manassas City County,Virginia","Putnam County,Ohio",29630,852250
+183,"Manassas City County,Virginia","Richland County,Ohio",24049,680597
+184,"Manassas City County,Virginia","Ross County,Ohio",24642,621594
+185,"Manassas City County,Virginia","Sandusky County,Ohio",25440,730164
+186,"Manassas City County,Virginia","Scioto County,Ohio",25001,629158
+187,"Manassas City County,Virginia","Seneca County,Ohio",26171,739836
+188,"Manassas City County,Virginia","Shelby County,Ohio",28957,779265
+189,"Manassas City County,Virginia","Stark County,Ohio",20652,557220
+190,"Manassas City County,Virginia","Summit County,Ohio",20766,589681
+191,"Manassas City County,Virginia","Trumbull County,Ohio",19175,542537
+192,"Manassas City County,Virginia","Tuscarawas County,Ohio",20770,560803
+193,"Manassas City County,Virginia","Union County,Ohio",25703,699248
+194,"Manassas City County,Virginia","Van Wert County,Ohio",29741,862761
+195,"Manassas City County,Virginia","Vinton County,Ohio",22907,559166
+196,"Manassas City County,Virginia","Warren County,Ohio",27669,763882
+197,"Manassas City County,Virginia","Washington County,Ohio",19570,468535
+198,"Manassas City County,Virginia","Wayne County,Ohio",23231,645099
+199,"Manassas City County,Virginia","Williams County,Ohio",29443,850196
+200,"Manassas City County,Virginia","Wood County,Ohio",27337,778493
+201,"Manassas City County,Virginia","Wyandot County,Ohio",26402,756580
+202,"Manassas City County,Virginia","Accomack County,Virginia",15060,360535
+203,"Manassas City County,Virginia","Albemarle County,Virginia",6771,139018
+204,"Manassas City County,Virginia","Alleghany County,Virginia",11712,340122
+205,"Manassas City County,Virginia","Amelia County,Virginia",8414,212132
+206,"Manassas City County,Virginia","Amherst County,Virginia",9782,215146
+207,"Manassas City County,Virginia","Appomattox County,Virginia",10996,239774
+208,"Manassas City County,Virginia","Arlington County,Virginia",2686,43505
+209,"Manassas City County,Virginia","Augusta County,Virginia",8388,230367
+210,"Manassas City County,Virginia","Bath County,Virginia",11009,267032
+211,"Manassas City County,Virginia","Bedford County,Virginia",12265,278549
+212,"Manassas City County,Virginia","Bland County,Virginia",15994,469805
+213,"Manassas City County,Virginia","Botetourt County,Virginia",11019,311058
+214,"Manassas City County,Virginia","Brunswick County,Virginia",9717,262717
+215,"Manassas City County,Virginia","Buchanan County,Virginia",21751,604264
+216,"Manassas City County,Virginia","Buckingham County,Virginia",9791,198118
+217,"Manassas City County,Virginia","Campbell County,Virginia",11144,255278
+218,"Manassas City County,Virginia","Caroline County,Virginia",4714,113285
+219,"Manassas City County,Virginia","Carroll County,Virginia",16116,475222
+220,"Manassas City County,Virginia","Charles City County,Virginia",7184,184768
+221,"Manassas City County,Virginia","Charlotte County,Virginia",11280,286728
+222,"Manassas City County,Virginia","Chesterfield County,Virginia",7114,177685
+223,"Manassas City County,Virginia","Clarke County,Virginia",3856,80532
+224,"Manassas City County,Virginia","Craig County,Virginia",13860,367385
+225,"Manassas City County,Virginia","Culpeper County,Virginia",3131,57271
+226,"Manassas City County,Virginia","Cumberland County,Virginia",8753,227956
+227,"Manassas City County,Virginia","Dickenson County,Virginia",22461,622442
+228,"Manassas City County,Virginia","Dinwiddie County,Virginia",8354,222684
+229,"Manassas City County,Virginia","Essex County,Virginia",6115,137339
+230,"Manassas City County,Virginia","Fairfax County,Virginia",2309,33780
+231,"Manassas City County,Virginia","Fauquier County,Virginia",2001,33065
+232,"Manassas City County,Virginia","Floyd County,Virginia",14643,416769
+233,"Manassas City County,Virginia","Fluvanna County,Virginia",6878,138217
+234,"Manassas City County,Virginia","Franklin County,Virginia",13981,395213
+235,"Manassas City County,Virginia","Frederick County,Virginia",4412,113594
+236,"Manassas City County,Virginia","Giles County,Virginia",14783,424921
+237,"Manassas City County,Virginia","Gloucester County,Virginia",9354,238956
+238,"Manassas City County,Virginia","Goochland County,Virginia",7191,190764
+239,"Manassas City County,Virginia","Grayson County,Virginia",17448,491401
+240,"Manassas City County,Virginia","Greene County,Virginia",5930,120401
+241,"Manassas City County,Virginia","Greensville County,Virginia",9771,271436
+242,"Manassas City County,Virginia","Halifax County,Virginia",12913,329872
+243,"Manassas City County,Virginia","Hanover County,Virginia",5532,142777
+244,"Manassas City County,Virginia","Henrico County,Virginia",6331,165438
+245,"Manassas City County,Virginia","Henry County,Virginia",15390,430175
+246,"Manassas City County,Virginia","Highland County,Virginia",11140,264921
+247,"Manassas City County,Virginia","Isle of Wight County,Virginia",10465,274027
+248,"Manassas City County,Virginia","James City County,Virginia",8420,225539
+249,"Manassas City County,Virginia","King and Queen County,Virginia",7167,172600
+250,"Manassas City County,Virginia","King George County,Virginia",4674,97145
+251,"Manassas City County,Virginia","King William County,Virginia",6133,150397
+252,"Manassas City County,Virginia","Lancaster County,Virginia",8539,193333
+253,"Manassas City County,Virginia","Lee County,Virginia",22955,654096
+254,"Manassas City County,Virginia","Loudoun County,Virginia",2962,50294
+255,"Manassas City County,Virginia","Louisa County,Virginia",5668,116334
+256,"Manassas City County,Virginia","Lunenburg County,Virginia",10830,270576
+257,"Manassas City County,Virginia","Madison County,Virginia",4303,88725
+258,"Manassas City County,Virginia","Mathews County,Virginia",10249,237721
+259,"Manassas City County,Virginia","Mecklenburg County,Virginia",11443,310989
+260,"Manassas City County,Virginia","Middlesex County,Virginia",8619,201302
+261,"Manassas City County,Virginia","Montgomery County,Virginia",13347,389192
+262,"Manassas City County,Virginia","Nelson County,Virginia",8228,182740
+263,"Manassas City County,Virginia","New Kent County,Virginia",7856,199453
+264,"Manassas City County,Virginia","Northampton County,Virginia",12837,342202
+265,"Manassas City County,Virginia","Northumberland County,Virginia",8578,191845
+266,"Manassas City County,Virginia","Nottoway County,Virginia",9225,237265
+267,"Manassas City County,Virginia","Orange County,Virginia",4401,87457
+268,"Manassas City County,Virginia","Page County,Virginia",4998,109133
+269,"Manassas City County,Virginia","Patrick County,Virginia",16763,453672
+270,"Manassas City County,Virginia","Pittsylvania County,Virginia",13713,326905
+271,"Manassas City County,Virginia","Powhatan County,Virginia",7217,188371
+272,"Manassas City County,Virginia","Prince Edward County,Virginia",10158,259845
+273,"Manassas City County,Virginia","Prince George County,Virginia",8000,213281
+274,"Manassas City County,Virginia","Prince William County,Virginia",1063,14789
+275,"Manassas City County,Virginia","Pulaski County,Virginia",14075,411825
+276,"Manassas City County,Virginia","Rappahannock County,Virginia",3908,73892
+277,"Manassas City County,Virginia","Richmond County,Virginia",7278,164489
+278,"Manassas City County,Virginia","Roanoke County,Virginia",12338,354130
+279,"Manassas City County,Virginia","Rockbridge County,Virginia",9761,277067
+280,"Manassas City County,Virginia","Rockingham County,Virginia",6365,164749
+281,"Manassas City County,Virginia","Russell County,Virginia",20917,587601
+282,"Manassas City County,Virginia","Scott County,Virginia",21529,614824
+283,"Manassas City County,Virginia","Shenandoah County,Virginia",4348,118704
+284,"Manassas City County,Virginia","Smyth County,Virginia",17111,498546
+285,"Manassas City County,Virginia","Southampton County,Virginia",10149,267550
+286,"Manassas City County,Virginia","Spotsylvania County,Virginia",4086,81544
+287,"Manassas City County,Virginia","Stafford County,Virginia",2373,48249
+288,"Manassas City County,Virginia","Surry County,Virginia",9112,234975
+289,"Manassas City County,Virginia","Sussex County,Virginia",8812,237793
+290,"Manassas City County,Virginia","Tazewell County,Virginia",18572,538622
+291,"Manassas City County,Virginia","Warren County,Virginia",3639,83005
+292,"Manassas City County,Virginia","Washington County,Virginia",18504,538012
+293,"Manassas City County,Virginia","Westmoreland County,Virginia",6225,128635
+294,"Manassas City County,Virginia","Wise County,Virginia",22368,628944
+295,"Manassas City County,Virginia","Wythe County,Virginia",15365,450531
+296,"Manassas City County,Virginia","York County,Virginia",9707,256313
+297,"Manassas City County,Virginia","Alexandria City County,Virginia",2888,56151
+298,"Manassas City County,Virginia","Bedford City County,Virginia",11767,273633
+299,"Manassas City County,Virginia","Bristol City County,Virginia",18979,563729
+300,"Manassas City County,Virginia","Buena Vista City County,Virginia",9420,270333
+301,"Manassas City County,Virginia","Charlottesville City County,Virginia",6628,132380
+302,"Manassas City County,Virginia","Chesapeake City County,Virginia",11171,309219
+303,"Manassas City County,Virginia","Clifton Forge City County,Virginia",10614,308940
+304,"Manassas City County,Virginia","Colonial Heights City County,Virginia",7167,188145
+305,"Manassas City County,Virginia","Covington City County,Virginia",11357,327282
+306,"Manassas City County,Virginia","Danville City County,Virginia",14313,343248
+307,"Manassas City County,Virginia","Emporia City County,Virginia",9478,258029
+308,"Manassas City County,Virginia","Fairfax City County,Virginia",1851,23356
+309,"Manassas City County,Virginia","Falls Church City County,Virginia",2183,37829
+310,"Manassas City County,Virginia","Franklin City County,Virginia",10696,275405
+311,"Manassas City County,Virginia","Fredericksburg City County,Virginia",3187,63840
+312,"Manassas City County,Virginia","Galax City County,Virginia",16740,481088
+313,"Manassas City County,Virginia","Hampton City County,Virginia",9658,266019
+314,"Manassas City County,Virginia","Harrisonburg City County,Virginia",6154,170593
+315,"Manassas City County,Virginia","Hopewell City County,Virginia",6931,188182
+316,"Manassas City County,Virginia","Lexington City County,Virginia",9279,267311
+317,"Manassas City County,Virginia","Manassas Park City County,Virginia",641,5888
+318,"Manassas City County,Virginia","Martinsville City County,Virginia",15341,359014
+319,"Manassas City County,Virginia","Newport News City County,Virginia",9214,252505
+320,"Manassas City County,Virginia","Norfolk City County,Virginia",10964,291435
+321,"Manassas City County,Virginia","Norton City County,Virginia",21892,619834
+322,"Manassas City County,Virginia","Petersburg City County,Virginia",7039,189133
+323,"Manassas City County,Virginia","Poquoson City County,Virginia",9886,263082
+324,"Manassas City County,Virginia","Portsmouth City County,Virginia",10903,300256
+325,"Manassas City County,Virginia","Radford County,Virginia",13711,399036
+326,"Manassas City County,Virginia","Richmond City County,Virginia",5907,153248
+327,"Manassas City County,Virginia","Roanoke City County,Virginia",11877,345572
+328,"Manassas City County,Virginia","Salem City County,Virginia",11706,344043
+329,"Manassas City County,Virginia","South Boston City County,Virginia",12607,327123
+330,"Manassas City County,Virginia","Staunton City County,Virginia",7641,212567
+331,"Manassas City County,Virginia","Suffolk City County,Virginia",11308,288751
+332,"Manassas City County,Virginia","Virginia Beach City County,Virginia",11525,314694
+333,"Manassas City County,Virginia","Waynesboro City County,Virginia",7864,172207
+334,"Manassas City County,Virginia","Williamsburg City County,Virginia",8258,224754
+335,"Manassas City County,Virginia","Winchester City County,Virginia",4233,87342
+336,"Manassas City County,Virginia","Barbour County,West Virginia",12117,287905
+337,"Manassas City County,Virginia","Berkeley County,West Virginia",6014,137524
+338,"Manassas City County,Virginia","Boone County,West Virginia",20071,539827
+339,"Manassas City County,Virginia","Braxton County,West Virginia",16814,405797
+340,"Manassas City County,Virginia","Brooke County,West Virginia",17109,422272
+341,"Manassas City County,Virginia","Cabell County,West Virginia",21639,635733
+342,"Manassas City County,Virginia","Calhoun County,West Virginia",18136,440464
+343,"Manassas City County,Virginia","Clay County,West Virginia",18500,470821
+344,"Manassas City County,Virginia","Doddridge County,West Virginia",16299,376004
+345,"Manassas City County,Virginia","Fayette County,West Virginia",17193,458025
+346,"Manassas City County,Virginia","Gilmer County,West Virginia",16617,405155
+347,"Manassas City County,Virginia","Grant County,West Virginia",7461,191001
+348,"Manassas City County,Virginia","Greenbrier County,West Virginia",15549,417250
+349,"Manassas City County,Virginia","Hampshire County,West Virginia",6538,146600
+350,"Manassas City County,Virginia","Hancock County,West Virginia",18017,482213
+351,"Manassas City County,Virginia","Hardy County,West Virginia",6709,162331
+352,"Manassas City County,Virginia","Harrison County,West Virginia",14736,337631
+353,"Manassas City County,Virginia","Jackson County,West Virginia",20690,510551
+354,"Manassas City County,Virginia","Jefferson County,West Virginia",4675,91471
+355,"Manassas City County,Virginia","Kanawha County,West Virginia",18721,537526
+356,"Manassas City County,Virginia","Lewis County,West Virginia",14518,354785
+357,"Manassas City County,Virginia","Lincoln County,West Virginia",22303,613411
+358,"Manassas City County,Virginia","Logan County,West Virginia",21862,570317
+359,"Manassas City County,Virginia","McDowell County,West Virginia",20241,544768
+360,"Manassas City County,Virginia","Marion County,West Virginia",14427,345132
+361,"Manassas City County,Virginia","Marshall County,West Virginia",18097,416716
+362,"Manassas City County,Virginia","Mason County,West Virginia",21115,621640
+363,"Manassas City County,Virginia","Mercer County,West Virginia",16956,481098
+364,"Manassas City County,Virginia","Mineral County,West Virginia",8935,202525
+365,"Manassas City County,Virginia","Mingo County,West Virginia",22441,634251
+366,"Manassas City County,Virginia","Monongalia County,West Virginia",12250,296872
+367,"Manassas City County,Virginia","Monroe County,West Virginia",14483,403571
+368,"Manassas City County,Virginia","Morgan County,West Virginia",6260,138650
+369,"Manassas City County,Virginia","Nicholas County,West Virginia",17388,470675
+370,"Manassas City County,Virginia","Ohio County,West Virginia",17016,431218
+371,"Manassas City County,Virginia","Pendleton County,West Virginia",9218,214227
+372,"Manassas City County,Virginia","Pleasants County,West Virginia",17534,413772
+373,"Manassas City County,Virginia","Pocahontas County,West Virginia",14483,324679
+374,"Manassas City County,Virginia","Preston County,West Virginia",11641,269452
+375,"Manassas City County,Virginia","Putnam County,West Virginia",19896,587258
+376,"Manassas City County,Virginia","Raleigh County,West Virginia",15746,462707
+377,"Manassas City County,Virginia","Randolph County,West Virginia",13146,314190
+378,"Manassas City County,Virginia","Ritchie County,West Virginia",17445,408074
+379,"Manassas City County,Virginia","Roane County,West Virginia",20557,474500
+380,"Manassas City County,Virginia","Summers County,West Virginia",16467,442585
+381,"Manassas City County,Virginia","Taylor County,West Virginia",11984,287274
+382,"Manassas City County,Virginia","Tucker County,West Virginia",10121,252649
+383,"Manassas City County,Virginia","Tyler County,West Virginia",18461,406438
+384,"Manassas City County,Virginia","Upshur County,West Virginia",14194,335767
+385,"Manassas City County,Virginia","Wayne County,West Virginia",23230,668360
+386,"Manassas City County,Virginia","Webster County,West Virginia",17292,388241
+387,"Manassas City County,Virginia","Wetzel County,West Virginia",17394,384558
+388,"Manassas City County,Virginia","Wirt County,West Virginia",19577,472029
+389,"Manassas City County,Virginia","Wood County,West Virginia",18314,439034
+390,"Manassas City County,Virginia","Wyoming County,West Virginia",17697,502680

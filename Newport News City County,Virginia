@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Newport News City County,Virginia","Adair County,Kentucky",36296,996987
+1,"Newport News City County,Virginia","Allen County,Kentucky",37691,1116797
+2,"Newport News City County,Virginia","Anderson County,Kentucky",31923,959772
+3,"Newport News City County,Virginia","Ballard County,Kentucky",44596,1352052
+4,"Newport News City County,Virginia","Barren County,Kentucky",37481,1075742
+5,"Newport News City County,Virginia","Bath County,Kentucky",27571,830953
+6,"Newport News City County,Virginia","Bell County,Kentucky",28791,798293
+7,"Newport News City County,Virginia","Boone County,Kentucky",33383,952347
+8,"Newport News City County,Virginia","Bourbon County,Kentucky",29484,877371
+9,"Newport News City County,Virginia","Boyd County,Kentucky",24246,725278
+10,"Newport News City County,Virginia","Boyle County,Kentucky",33152,963659
+11,"Newport News City County,Virginia","Bracken County,Kentucky",29895,871454
+12,"Newport News City County,Virginia","Breathitt County,Kentucky",30415,834057
+13,"Newport News City County,Virginia","Breckinridge County,Kentucky",37457,1112453
+14,"Newport News City County,Virginia","Bullitt County,Kentucky",34026,1033573
+15,"Newport News City County,Virginia","Butler County,Kentucky",38122,1134451
+16,"Newport News City County,Virginia","Caldwell County,Kentucky",41013,1240397
+17,"Newport News City County,Virginia","Calloway County,Kentucky",42437,1283911
+18,"Newport News City County,Virginia","Campbell County,Kentucky",31596,911325
+19,"Newport News City County,Virginia","Carlisle County,Kentucky",45053,1367420
+20,"Newport News City County,Virginia","Carroll County,Kentucky",34468,1007587
+21,"Newport News City County,Virginia","Carter County,Kentucky",25411,755375
+22,"Newport News City County,Virginia","Casey County,Kentucky",34647,995164
+23,"Newport News City County,Virginia","Christian County,Kentucky",39330,1204891
+24,"Newport News City County,Virginia","Clay County,Kentucky",31363,858636
+25,"Newport News City County,Virginia","Clinton County,Kentucky",34739,996202
+26,"Newport News City County,Virginia","Crittenden County,Kentucky",42593,1273467
+27,"Newport News City County,Virginia","Cumberland County,Kentucky",35618,1016870
+28,"Newport News City County,Virginia","Daviess County,Kentucky",39144,1180894
+29,"Newport News City County,Virginia","Edmonson County,Kentucky",37562,1122326
+30,"Newport News City County,Virginia","Elliott County,Kentucky",26741,781145
+31,"Newport News City County,Virginia","Estill County,Kentucky",30563,893269
+32,"Newport News City County,Virginia","Fayette County,Kentucky",29730,897265
+33,"Newport News City County,Virginia","Fleming County,Kentucky",27997,834139
+34,"Newport News City County,Virginia","Floyd County,Kentucky",28379,832543
+35,"Newport News City County,Virginia","Franklin County,Kentucky",31768,946181
+36,"Newport News City County,Virginia","Fulton County,Kentucky",45457,1388384
+37,"Newport News City County,Virginia","Gallatin County,Kentucky",33466,998245
+38,"Newport News City County,Virginia","Garrard County,Kentucky",32335,944419
+39,"Newport News City County,Virginia","Grant County,Kentucky",32265,972353
+40,"Newport News City County,Virginia","Graves County,Kentucky",44078,1340126
+41,"Newport News City County,Virginia","Grayson County,Kentucky",36449,1091087
+42,"Newport News City County,Virginia","Green County,Kentucky",36228,1056292
+43,"Newport News City County,Virginia","Greenup County,Kentucky",26022,766404
+44,"Newport News City County,Virginia","Hancock County,Kentucky",38252,1145347
+45,"Newport News City County,Virginia","Hardin County,Kentucky",35325,1053220
+46,"Newport News City County,Virginia","Harlan County,Kentucky",27866,774920
+47,"Newport News City County,Virginia","Harrison County,Kentucky",31055,910470
+48,"Newport News City County,Virginia","Hart County,Kentucky",36124,1080848
+49,"Newport News City County,Virginia","Henderson County,Kentucky",40951,1233323
+50,"Newport News City County,Virginia","Henry County,Kentucky",33369,989900
+51,"Newport News City County,Virginia","Hickman County,Kentucky",45086,1368712
+52,"Newport News City County,Virginia","Hopkins County,Kentucky",40472,1214865
+53,"Newport News City County,Virginia","Jackson County,Kentucky",33235,895054
+54,"Newport News City County,Virginia","Jefferson County,Kentucky",33463,1005433
+55,"Newport News City County,Virginia","Jessamine County,Kentucky",31199,918729
+56,"Newport News City County,Virginia","Johnson County,Kentucky",27028,798174
+57,"Newport News City County,Virginia","Kenton County,Kentucky",32753,940041
+58,"Newport News City County,Virginia","Knott County,Kentucky",27956,776807
+59,"Newport News City County,Virginia","Knox County,Kentucky",30121,840286
+60,"Newport News City County,Virginia","Larue County,Kentucky",35397,1040396
+61,"Newport News City County,Virginia","Laurel County,Kentucky",32015,875113
+62,"Newport News City County,Virginia","Lawrence County,Kentucky",26169,769598
+63,"Newport News City County,Virginia","Lee County,Kentucky",31408,887005
+64,"Newport News City County,Virginia","Leslie County,Kentucky",29328,803199
+65,"Newport News City County,Virginia","Letcher County,Kentucky",26356,740354
+66,"Newport News City County,Virginia","Lewis County,Kentucky",27449,807193
+67,"Newport News City County,Virginia","Lincoln County,Kentucky",33045,961337
+68,"Newport News City County,Virginia","Livingston County,Kentucky",42927,1305990
+69,"Newport News City County,Virginia","Logan County,Kentucky",39762,1157791
+70,"Newport News City County,Virginia","Lyon County,Kentucky",42684,1283165
+71,"Newport News City County,Virginia","McCracken County,Kentucky",43208,1320112
+72,"Newport News City County,Virginia","McCreary County,Kentucky",31745,933047
+73,"Newport News City County,Virginia","Madison County,Kentucky",30729,908288
+74,"Newport News City County,Virginia","Magoffin County,Kentucky",27995,818853
+75,"Newport News City County,Virginia","Marion County,Kentucky",33774,1002005
+76,"Newport News City County,Virginia","Marshall County,Kentucky",42623,1303683
+77,"Newport News City County,Virginia","Martin County,Kentucky",27283,751322
+78,"Newport News City County,Virginia","Mason County,Kentucky",29244,850999
+79,"Newport News City County,Virginia","Meade County,Kentucky",35924,1077748
+80,"Newport News City County,Virginia","Menifee County,Kentucky",28687,843017
+81,"Newport News City County,Virginia","Mercer County,Kentucky",32151,957716
+82,"Newport News City County,Virginia","Metcalfe County,Kentucky",36952,1027252
+83,"Newport News City County,Virginia","Monroe County,Kentucky",36179,1047291
+84,"Newport News City County,Virginia","Montgomery County,Kentucky",28384,849494
+85,"Newport News City County,Virginia","Morgan County,Kentucky",28465,818733
+86,"Newport News City County,Virginia","Muhlenberg County,Kentucky",39332,1181341
+87,"Newport News City County,Virginia","Nelson County,Kentucky",33382,1001076
+88,"Newport News City County,Virginia","Nicholas County,Kentucky",30062,877377
+89,"Newport News City County,Virginia","Ohio County,Kentucky",38246,1148930
+90,"Newport News City County,Virginia","Oldham County,Kentucky",33535,1017315
+91,"Newport News City County,Virginia","Owen County,Kentucky",32590,972959
+92,"Newport News City County,Virginia","Owsley County,Kentucky",32553,871931
+93,"Newport News City County,Virginia","Pendleton County,Kentucky",31833,912378
+94,"Newport News City County,Virginia","Perry County,Kentucky",28929,797230
+95,"Newport News City County,Virginia","Pike County,Kentucky",27479,716568
+96,"Newport News City County,Virginia","Powell County,Kentucky",29827,879240
+97,"Newport News City County,Virginia","Robertson County,Kentucky",29979,876883
+98,"Newport News City County,Virginia","Rockcastle County,Kentucky",32163,949431
+99,"Newport News City County,Virginia","Rowan County,Kentucky",26713,803161
+100,"Newport News City County,Virginia","Russell County,Kentucky",35900,980971
+101,"Newport News City County,Virginia","Scott County,Kentucky",30565,925292
+102,"Newport News City County,Virginia","Shelby County,Kentucky",32392,976568
+103,"Newport News City County,Virginia","Simpson County,Kentucky",38729,1133767
+104,"Newport News City County,Virginia","Spencer County,Kentucky",32921,982416
+105,"Newport News City County,Virginia","Taylor County,Kentucky",35064,1033501
+106,"Newport News City County,Virginia","Todd County,Kentucky",39745,1197837
+107,"Newport News City County,Virginia","Trigg County,Kentucky",40237,1222250
+108,"Newport News City County,Virginia","Trimble County,Kentucky",34608,1023355
+109,"Newport News City County,Virginia","Union County,Kentucky",42671,1263770
+110,"Newport News City County,Virginia","Warren County,Kentucky",38478,1150695
+111,"Newport News City County,Virginia","Washington County,Kentucky",33392,986313
+112,"Newport News City County,Virginia","Wayne County,Kentucky",34249,980178
+113,"Newport News City County,Virginia","Webster County,Kentucky",41581,1242953
+114,"Newport News City County,Virginia","Whitley County,Kentucky",30349,917810
+115,"Newport News City County,Virginia","Wolfe County,Kentucky",29560,842095
+116,"Newport News City County,Virginia","Woodford County,Kentucky",30784,927928
+117,"Newport News City County,Virginia","Adams County,Ohio",29337,853556
+118,"Newport News City County,Virginia","Allen County,Ohio",36069,1028973
+119,"Newport News City County,Virginia","Ashland County,Ohio",30782,895932
+120,"Newport News City County,Virginia","Ashtabula County,Ohio",28820,851845
+121,"Newport News City County,Virginia","Athens County,Ohio",25745,759155
+122,"Newport News City County,Virginia","Auglaize County,Ohio",35319,1045673
+123,"Newport News City County,Virginia","Belmont County,Ohio",25390,748140
+124,"Newport News City County,Virginia","Brown County,Ohio",30581,880483
+125,"Newport News City County,Virginia","Butler County,Ohio",33694,962509
+126,"Newport News City County,Virginia","Carroll County,Ohio",27336,764066
+127,"Newport News City County,Virginia","Champaign County,Ohio",32623,947770
+128,"Newport News City County,Virginia","Clark County,Ohio",31302,907315
+129,"Newport News City County,Virginia","Clermont County,Ohio",31415,911580
+130,"Newport News City County,Virginia","Clinton County,Ohio",30806,894996
+131,"Newport News City County,Virginia","Columbiana County,Ohio",26123,746083
+132,"Newport News City County,Virginia","Coshocton County,Ohio",29747,873590
+133,"Newport News City County,Virginia","Crawford County,Ohio",32690,967127
+134,"Newport News City County,Virginia","Cuyahoga County,Ohio",28816,849689
+135,"Newport News City County,Virginia","Darke County,Ohio",34417,1002720
+136,"Newport News City County,Virginia","Defiance County,Ohio",37135,1098652
+137,"Newport News City County,Virginia","Delaware County,Ohio",31575,926762
+138,"Newport News City County,Virginia","Fairfield County,Ohio",29105,853856
+139,"Newport News City County,Virginia","Fayette County,Ohio",29370,865460
+140,"Newport News City County,Virginia","Franklin County,Ohio",30105,883711
+141,"Newport News City County,Virginia","Fulton County,Ohio",35487,1055503
+142,"Newport News City County,Virginia","Gallia County,Ohio",24683,724572
+143,"Newport News City County,Virginia","Geauga County,Ohio",28310,824508
+144,"Newport News City County,Virginia","Greene County,Ohio",30240,898612
+145,"Newport News City County,Virginia","Guernsey County,Ohio",27294,811649
+146,"Newport News City County,Virginia","Hamilton County,Ohio",33195,973087
+147,"Newport News City County,Virginia","Hancock County,Ohio",34721,1029208
+148,"Newport News City County,Virginia","Hardin County,Ohio",34580,984803
+149,"Newport News City County,Virginia","Harrison County,Ohio",26550,766284
+150,"Newport News City County,Virginia","Henry County,Ohio",35941,1045270
+151,"Newport News City County,Virginia","Highland County,Ohio",29874,853569
+152,"Newport News City County,Virginia","Hocking County,Ohio",27547,809819
+153,"Newport News City County,Virginia","Holmes County,Ohio",30490,848360
+154,"Newport News City County,Virginia","Huron County,Ohio",32058,925538
+155,"Newport News City County,Virginia","Jackson County,Ohio",25861,764121
+156,"Newport News City County,Virginia","Jefferson County,Ohio",25292,727557
+157,"Newport News City County,Virginia","Knox County,Ohio",31536,916066
+158,"Newport News City County,Virginia","Lawrence County,Ohio",25386,730334
+159,"Newport News City County,Virginia","Licking County,Ohio",30921,897137
+160,"Newport News City County,Virginia","Logan County,Ohio",33601,979080
+161,"Newport News City County,Virginia","Lorain County,Ohio",29868,879409
+162,"Newport News City County,Virginia","Lucas County,Ohio",34441,1008353
+163,"Newport News City County,Virginia","Madison County,Ohio",31071,888545
+164,"Newport News City County,Virginia","Mahoning County,Ohio",25306,741837
+165,"Newport News City County,Virginia","Marion County,Ohio",32981,952855
+166,"Newport News City County,Virginia","Medina County,Ohio",29414,863052
+167,"Newport News City County,Virginia","Meigs County,Ohio",24626,730126
+168,"Newport News City County,Virginia","Mercer County,Ohio",36555,1072607
+169,"Newport News City County,Virginia","Miami County,Ohio",32905,968112
+170,"Newport News City County,Virginia","Monroe County,Ohio",27823,794823
+171,"Newport News City County,Virginia","Montgomery County,Ohio",32274,946068
+172,"Newport News City County,Virginia","Morgan County,Ohio",27621,814448
+173,"Newport News City County,Virginia","Morrow County,Ohio",32382,949583
+174,"Newport News City County,Virginia","Muskingum County,Ohio",28140,839641
+175,"Newport News City County,Virginia","Noble County,Ohio",27121,810960
+176,"Newport News City County,Virginia","Paulding County,Ohio",38340,1134640
+177,"Newport News City County,Virginia","Perry County,Ohio",28963,824575
+178,"Newport News City County,Virginia","Pickaway County,Ohio",28810,845559
+179,"Newport News City County,Virginia","Pike County,Ohio",27307,803428
+180,"Newport News City County,Virginia","Portage County,Ohio",27161,797850
+181,"Newport News City County,Virginia","Preble County,Ohio",33894,974646
+182,"Newport News City County,Virginia","Putnam County,Ohio",36919,1089014
+183,"Newport News City County,Virginia","Richland County,Ohio",31338,917361
+184,"Newport News City County,Virginia","Ross County,Ohio",27555,811865
+185,"Newport News City County,Virginia","Sandusky County,Ohio",32729,966928
+186,"Newport News City County,Virginia","Scioto County,Ohio",27191,787608
+187,"Newport News City County,Virginia","Seneca County,Ohio",33460,976600
+188,"Newport News City County,Virginia","Shelby County,Ohio",33943,1004398
+189,"Newport News City County,Virginia","Stark County,Ohio",27941,793983
+190,"Newport News City County,Virginia","Summit County,Ohio",28055,826445
+191,"Newport News City County,Virginia","Trumbull County,Ohio",26464,779301
+192,"Newport News City County,Virginia","Tuscarawas County,Ohio",28059,797567
+193,"Newport News City County,Virginia","Union County,Ohio",32105,929311
+194,"Newport News City County,Virginia","Van Wert County,Ohio",37030,1099525
+195,"Newport News City County,Virginia","Vinton County,Ohio",27756,789626
+196,"Newport News City County,Virginia","Warren County,Ohio",31612,929055
+197,"Newport News City County,Virginia","Washington County,Ohio",25980,768897
+198,"Newport News City County,Virginia","Wayne County,Ohio",30520,881863
+199,"Newport News City County,Virginia","Williams County,Ohio",36732,1086960
+200,"Newport News City County,Virginia","Wood County,Ohio",34626,1015256
+201,"Newport News City County,Virginia","Wyandot County,Ohio",33691,993343
+202,"Newport News City County,Virginia","Accomack County,Virginia",6897,155698
+203,"Newport News City County,Virginia","Albemarle County,Virginia",8265,238987
+204,"Newport News City County,Virginia","Alleghany County,Virginia",13775,407927
+205,"Newport News City County,Virginia","Amelia County,Virginia",7062,182300
+206,"Newport News City County,Virginia","Amherst County,Virginia",11059,308733
+207,"Newport News City County,Virginia","Appomattox County,Virginia",10366,260025
+208,"Newport News City County,Virginia","Arlington County,Virginia",9309,270330
+209,"Newport News City County,Virginia","Augusta County,Virginia",10519,301621
+210,"Newport News City County,Virginia","Bath County,Virginia",13493,367280
+211,"Newport News City County,Virginia","Bedford County,Virginia",13297,338541
+212,"Newport News City County,Virginia","Bland County,Virginia",18057,537611
+213,"Newport News City County,Virginia","Botetourt County,Virginia",13082,378864
+214,"Newport News City County,Virginia","Brunswick County,Virginia",7105,181550
+215,"Newport News City County,Virginia","Buchanan County,Virginia",23814,672070
+216,"Newport News City County,Virginia","Buckingham County,Virginia",9208,232002
+217,"Newport News City County,Virginia","Campbell County,Virginia",11742,301857
+218,"Newport News City County,Virginia","Caroline County,Virginia",6049,159594
+219,"Newport News City County,Virginia","Carroll County,Virginia",18179,543027
+220,"Newport News City County,Virginia","Charles City County,Virginia",3849,93423
+221,"Newport News City County,Virginia","Charlotte County,Virginia",9927,256895
+222,"Newport News City County,Virginia","Chesterfield County,Virginia",5522,145062
+223,"Newport News City County,Virginia","Clarke County,Virginia",11989,312806
+224,"Newport News City County,Virginia","Craig County,Virginia",15923,435191
+225,"Newport News City County,Virginia","Culpeper County,Virginia",9288,243534
+226,"Newport News City County,Virginia","Cumberland County,Virginia",7641,196955
+227,"Newport News City County,Virginia","Dickenson County,Virginia",24524,690248
+228,"Newport News City County,Virginia","Dinwiddie County,Virginia",6387,172610
+229,"Newport News City County,Virginia","Essex County,Virginia",6227,127423
+230,"Newport News City County,Virginia","Fairfax County,Virginia",9606,273560
+231,"Newport News City County,Virginia","Fauquier County,Virginia",9302,253572
+232,"Newport News City County,Virginia","Floyd County,Virginia",16706,484575
+233,"Newport News City County,Virginia","Fluvanna County,Virginia",7467,202558
+234,"Newport News City County,Virginia","Franklin County,Virginia",15596,380241
+235,"Newport News City County,Virginia","Frederick County,Virginia",12545,345868
+236,"Newport News City County,Virginia","Giles County,Virginia",16846,492727
+237,"Newport News City County,Virginia","Gloucester County,Virginia",2767,43364
+238,"Newport News City County,Virginia","Goochland County,Virginia",6196,171845
+239,"Newport News City County,Virginia","Grayson County,Virginia",19511,559207
+240,"Newport News City County,Virginia","Greene County,Virginia",9986,257022
+241,"Newport News City County,Virginia","Greensville County,Virginia",6607,169215
+242,"Newport News City County,Virginia","Halifax County,Virginia",11359,311533
+243,"Newport News City County,Virginia","Hanover County,Virginia",4269,115423
+244,"Newport News City County,Virginia","Henrico County,Virginia",3870,102812
+245,"Newport News City County,Virginia","Henry County,Virginia",15718,425484
+246,"Newport News City County,Virginia","Highland County,Virginia",13721,359360
+247,"Newport News City County,Virginia","Isle of Wight County,Virginia",2309,39499
+248,"Newport News City County,Virginia","James City County,Virginia",2515,46844
+249,"Newport News City County,Virginia","King and Queen County,Virginia",4463,102941
+250,"Newport News City County,Virginia","King George County,Virginia",7151,195676
+251,"Newport News City County,Virginia","King William County,Virginia",4820,109793
+252,"Newport News City County,Virginia","Lancaster County,Virginia",5994,104960
+253,"Newport News City County,Virginia","Lee County,Virginia",25018,721901
+254,"Newport News City County,Virginia","Loudoun County,Virginia",11572,326805
+255,"Newport News City County,Virginia","Louisa County,Virginia",6964,195433
+256,"Newport News City County,Virginia","Lunenburg County,Virginia",9211,232060
+257,"Newport News City County,Virginia","Madison County,Virginia",9900,257053
+258,"Newport News City County,Virginia","Mathews County,Virginia",3928,71764
+259,"Newport News City County,Virginia","Mecklenburg County,Virginia",9476,260915
+260,"Newport News City County,Virginia","Middlesex County,Virginia",4073,75060
+261,"Newport News City County,Virginia","Montgomery County,Virginia",15410,456997
+262,"Newport News City County,Virginia","Nelson County,Virginia",9505,276327
+263,"Newport News City County,Virginia","New Kent County,Virginia",3338,69917
+264,"Newport News City County,Virginia","Northampton County,Virginia",4140,91512
+265,"Newport News City County,Virginia","Northumberland County,Virginia",6362,117122
+266,"Newport News City County,Virginia","Nottoway County,Virginia",7323,201136
+267,"Newport News City County,Virginia","Orange County,Virginia",8577,211959
+268,"Newport News City County,Virginia","Page County,Virginia",12173,301239
+269,"Newport News City County,Virginia","Patrick County,Virginia",17301,464392
+270,"Newport News City County,Virginia","Pittsylvania County,Virginia",14127,360322
+271,"Newport News City County,Virginia","Powhatan County,Virginia",6223,169452
+272,"Newport News City County,Virginia","Prince Edward County,Virginia",8806,230013
+273,"Newport News City County,Virginia","Prince George County,Virginia",5199,102045
+274,"Newport News City County,Virginia","Prince William County,Virginia",9766,263408
+275,"Newport News City County,Virginia","Pulaski County,Virginia",16138,479631
+276,"Newport News City County,Virginia","Rappahannock County,Virginia",10742,281572
+277,"Newport News City County,Virginia","Richmond County,Virginia",6482,132591
+278,"Newport News City County,Virginia","Roanoke County,Virginia",14401,421936
+279,"Newport News City County,Virginia","Rockbridge County,Virginia",11824,344873
+280,"Newport News City County,Virginia","Rockingham County,Virginia",11877,341767
+281,"Newport News City County,Virginia","Russell County,Virginia",22980,655407
+282,"Newport News City County,Virginia","Scott County,Virginia",23592,682630
+283,"Newport News City County,Virginia","Shenandoah County,Virginia",12382,371870
+284,"Newport News City County,Virginia","Smyth County,Virginia",19174,566351
+285,"Newport News City County,Virginia","Southampton County,Virginia",4654,114856
+286,"Newport News City County,Virginia","Spotsylvania County,Virginia",7048,190640
+287,"Newport News City County,Virginia","Stafford County,Virginia",7120,208111
+288,"Newport News City County,Virginia","Surry County,Virginia",3642,66138
+289,"Newport News City County,Virginia","Sussex County,Virginia",5336,104150
+290,"Newport News City County,Virginia","Tazewell County,Virginia",20635,606428
+291,"Newport News City County,Virginia","Warren County,Virginia",11772,315278
+292,"Newport News City County,Virginia","Washington County,Virginia",20568,605818
+293,"Newport News City County,Virginia","Westmoreland County,Virginia",7664,152734
+294,"Newport News City County,Virginia","Wise County,Virginia",24431,696750
+295,"Newport News City County,Virginia","Wythe County,Virginia",17428,518337
+296,"Newport News City County,Virginia","York County,Virginia",1593,20975
+297,"Newport News City County,Virginia","Alexandria City County,Virginia",9280,267379
+298,"Newport News City County,Virginia","Bedford City County,Virginia",12798,333625
+299,"Newport News City County,Virginia","Bristol City County,Virginia",21043,631535
+300,"Newport News City County,Virginia","Buena Vista City County,Virginia",11483,338139
+301,"Newport News City County,Virginia","Charlottesville City County,Virginia",7816,224394
+302,"Newport News City County,Virginia","Chesapeake City County,Virginia",2473,58528
+303,"Newport News City County,Virginia","Clifton Forge City County,Virginia",12677,376746
+304,"Newport News City County,Virginia","Colonial Heights City County,Virginia",5200,138071
+305,"Newport News City County,Virginia","Covington City County,Virginia",13420,395088
+306,"Newport News City County,Virginia","Danville City County,Virginia",13175,356459
+307,"Newport News City County,Virginia","Emporia City County,Virginia",5923,151218
+308,"Newport News City County,Virginia","Fairfax City County,Virginia",9540,262342
+309,"Newport News City County,Virginia","Falls Church City County,Virginia",9488,274628
+310,"Newport News City County,Virginia","Franklin City County,Virginia",3934,95066
+311,"Newport News City County,Virginia","Fredericksburg City County,Virginia",6919,194047
+312,"Newport News City County,Virginia","Galax City County,Virginia",18803,548894
+313,"Newport News City County,Virginia","Hampton City County,Virginia",960,15329
+314,"Newport News City County,Virginia","Harrisonburg City County,Virginia",10937,321663
+315,"Newport News City County,Virginia","Hopewell City County,Virginia",4535,123574
+316,"Newport News City County,Virginia","Lexington City County,Virginia",11342,335117
+317,"Newport News City County,Virginia","Lynchburg City County,Virginia",11525,297174
+318,"Newport News City County,Virginia","Manassas City County,Virginia",9509,260745
+319,"Newport News City County,Virginia","Manassas Park City County,Virginia",9729,257945
+320,"Newport News City County,Virginia","Martinsville City County,Virginia",15315,409463
+321,"Newport News City County,Virginia","Norfolk City County,Virginia",2267,40745
+322,"Newport News City County,Virginia","Norton City County,Virginia",23955,687640
+323,"Newport News City County,Virginia","Petersburg City County,Virginia",5137,134534
+324,"Newport News City County,Virginia","Poquoson City County,Virginia",1282,15924
+325,"Newport News City County,Virginia","Portsmouth City County,Virginia",2206,49566
+326,"Newport News City County,Virginia","Radford County,Virginia",15774,466841
+327,"Newport News City County,Virginia","Richmond City County,Virginia",4186,111309
+328,"Newport News City County,Virginia","Roanoke City County,Virginia",13940,413378
+329,"Newport News City County,Virginia","Salem City County,Virginia",13769,411849
+330,"Newport News City County,Virginia","South Boston City County,Virginia",11064,309024
+331,"Newport News City County,Virginia","Staunton City County,Virginia",9825,283344
+332,"Newport News City County,Virginia","Suffolk City County,Virginia",2581,57603
+333,"Newport News City County,Virginia","Virginia Beach City County,Virginia",2828,64003
+334,"Newport News City County,Virginia","Waynesboro City County,Virginia",9101,265341
+335,"Newport News City County,Virginia","Williamsburg City County,Virginia",1829,36209
+336,"Newport News City County,Virginia","Winchester City County,Virginia",12366,319616
+337,"Newport News City County,Virginia","Barbour County,West Virginia",20250,520179
+338,"Newport News City County,Virginia","Berkeley County,West Virginia",14147,369797
+339,"Newport News City County,Virginia","Boone County,West Virginia",22134,607633
+340,"Newport News City County,Virginia","Braxton County,West Virginia",21832,588308
+341,"Newport News City County,Virginia","Brooke County,West Virginia",24598,711040
+342,"Newport News City County,Virginia","Cabell County,West Virginia",23702,703539
+343,"Newport News City County,Virginia","Calhoun County,West Virginia",23603,642258
+344,"Newport News City County,Virginia","Clay County,West Virginia",21867,579091
+345,"Newport News City County,Virginia","Doddridge County,West Virginia",24081,562466
+346,"Newport News City County,Virginia","Fayette County,West Virginia",19256,525830
+347,"Newport News City County,Virginia","Gilmer County,West Virginia",23400,637988
+348,"Newport News City County,Virginia","Grant County,West Virginia",15594,423275
+349,"Newport News City County,Virginia","Greenbrier County,West Virginia",17612,485055
+350,"Newport News City County,Virginia","Hampshire County,West Virginia",14671,378873
+351,"Newport News City County,Virginia","Hancock County,West Virginia",25306,718977
+352,"Newport News City County,Virginia","Hardy County,West Virginia",14842,394605
+353,"Newport News City County,Virginia","Harrison County,West Virginia",22725,564934
+354,"Newport News City County,Virginia","Jackson County,West Virginia",23021,683350
+355,"Newport News City County,Virginia","Jefferson County,West Virginia",13045,358231
+356,"Newport News City County,Virginia","Kanawha County,West Virginia",20784,605332
+357,"Newport News City County,Virginia","Lewis County,West Virginia",21770,532429
+358,"Newport News City County,Virginia","Lincoln County,West Virginia",24366,681217
+359,"Newport News City County,Virginia","Logan County,West Virginia",23925,638122
+360,"Newport News City County,Virginia","McDowell County,West Virginia",22304,612573
+361,"Newport News City County,Virginia","Marion County,West Virginia",21916,633900
+362,"Newport News City County,Virginia","Marshall County,West Virginia",25585,705484
+363,"Newport News City County,Virginia","Mason County,West Virginia",23178,689445
+364,"Newport News City County,Virginia","Mercer County,West Virginia",19019,548903
+365,"Newport News City County,Virginia","Mineral County,West Virginia",17068,434798
+366,"Newport News City County,Virginia","Mingo County,West Virginia",24504,702057
+367,"Newport News City County,Virginia","Monongalia County,West Virginia",19739,585640
+368,"Newport News City County,Virginia","Monroe County,West Virginia",16546,471377
+369,"Newport News City County,Virginia","Morgan County,West Virginia",14393,370923
+370,"Newport News City County,Virginia","Nicholas County,West Virginia",19451,538480
+371,"Newport News City County,Virginia","Ohio County,West Virginia",24504,719987
+372,"Newport News City County,Virginia","Pendleton County,West Virginia",14725,392951
+373,"Newport News City County,Virginia","Pleasants County,West Virginia",25523,641075
+374,"Newport News City County,Virginia","Pocahontas County,West Virginia",17184,421045
+375,"Newport News City County,Virginia","Preston County,West Virginia",19774,501726
+376,"Newport News City County,Virginia","Putnam County,West Virginia",21959,655064
+377,"Newport News City County,Virginia","Raleigh County,West Virginia",17809,530513
+378,"Newport News City County,Virginia","Randolph County,West Virginia",18644,453458
+379,"Newport News City County,Virginia","Ritchie County,West Virginia",25434,635377
+380,"Newport News City County,Virginia","Roane County,West Virginia",24647,712165
+381,"Newport News City County,Virginia","Summers County,West Virginia",18530,510390
+382,"Newport News City County,Virginia","Taylor County,West Virginia",20117,519547
+383,"Newport News City County,Virginia","Tucker County,West Virginia",18254,484922
+384,"Newport News City County,Virginia","Tyler County,West Virginia",26450,633741
+385,"Newport News City County,Virginia","Upshur County,West Virginia",21239,489101
+386,"Newport News City County,Virginia","Wayne County,West Virginia",25293,736165
+387,"Newport News City County,Virginia","Webster County,West Virginia",21071,500466
+388,"Newport News City County,Virginia","Wetzel County,West Virginia",25072,696024
+389,"Newport News City County,Virginia","Wirt County,West Virginia",25288,740687
+390,"Newport News City County,Virginia","Wood County,West Virginia",24802,742377
+391,"Newport News City County,Virginia","Wyoming County,West Virginia",19760,570486

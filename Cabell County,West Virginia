@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Cabell County,West Virginia","Adair County,Kentucky",13897,377937
+1,"Cabell County,West Virginia","Allen County,Kentucky",16515,478585
+2,"Cabell County,West Virginia","Anderson County,Kentucky",9697,280976
+3,"Cabell County,West Virginia","Ballard County,Kentucky",22675,670747
+4,"Cabell County,West Virginia","Barren County,Kentucky",15643,436964
+5,"Cabell County,West Virginia","Bath County,Kentucky",5344,152157
+6,"Cabell County,West Virginia","Bell County,Kentucky",14062,330078
+7,"Cabell County,West Virginia","Boone County,Kentucky",11157,273550
+8,"Cabell County,West Virginia","Bourbon County,Kentucky",7258,198574
+9,"Cabell County,West Virginia","Boyd County,Kentucky",2020,46482
+10,"Cabell County,West Virginia","Boyle County,Kentucky",10926,284862
+11,"Cabell County,West Virginia","Bracken County,Kentucky",7669,192657
+12,"Cabell County,West Virginia","Breathitt County,Kentucky",8731,193183
+13,"Cabell County,West Virginia","Breckinridge County,Kentucky",15230,433657
+14,"Cabell County,West Virginia","Bullitt County,Kentucky",11800,354776
+15,"Cabell County,West Virginia","Butler County,Kentucky",15895,455655
+16,"Cabell County,West Virginia","Caldwell County,Kentucky",18787,561600
+17,"Cabell County,West Virginia","Calloway County,Kentucky",21597,646593
+18,"Cabell County,West Virginia","Campbell County,Kentucky",9369,232529
+19,"Cabell County,West Virginia","Carlisle County,Kentucky",23132,686115
+20,"Cabell County,West Virginia","Carroll County,Kentucky",12241,328790
+21,"Cabell County,West Virginia","Carter County,Kentucky",3184,76579
+22,"Cabell County,West Virginia","Casey County,Kentucky",12420,316367
+23,"Cabell County,West Virginia","Christian County,Kentucky",18436,556857
+24,"Cabell County,West Virginia","Clay County,Kentucky",11229,280298
+25,"Cabell County,West Virginia","Clinton County,Kentucky",14304,381302
+26,"Cabell County,West Virginia","Crittenden County,Kentucky",20367,594671
+27,"Cabell County,West Virginia","Cumberland County,Kentucky",15058,399541
+28,"Cabell County,West Virginia","Daviess County,Kentucky",16918,502097
+29,"Cabell County,West Virginia","Edmonson County,Kentucky",15335,443530
+30,"Cabell County,West Virginia","Elliott County,Kentucky",4515,102349
+31,"Cabell County,West Virginia","Estill County,Kentucky",8336,214472
+32,"Cabell County,West Virginia","Fayette County,Kentucky",7504,218469
+33,"Cabell County,West Virginia","Fleming County,Kentucky",5770,155343
+34,"Cabell County,West Virginia","Floyd County,Kentucky",6153,153747
+35,"Cabell County,West Virginia","Franklin County,Kentucky",9542,267385
+36,"Cabell County,West Virginia","Fulton County,Kentucky",23536,707079
+37,"Cabell County,West Virginia","Gallatin County,Kentucky",11239,319449
+38,"Cabell County,West Virginia","Garrard County,Kentucky",10109,265622
+39,"Cabell County,West Virginia","Grant County,Kentucky",10038,293556
+40,"Cabell County,West Virginia","Graves County,Kentucky",22157,658822
+41,"Cabell County,West Virginia","Grayson County,Kentucky",14222,412291
+42,"Cabell County,West Virginia","Green County,Kentucky",14002,377496
+43,"Cabell County,West Virginia","Greenup County,Kentucky",3795,87608
+44,"Cabell County,West Virginia","Hancock County,Kentucky",16026,466550
+45,"Cabell County,West Virginia","Hardin County,Kentucky",13099,374423
+46,"Cabell County,West Virginia","Harlan County,Kentucky",13385,310394
+47,"Cabell County,West Virginia","Harrison County,Kentucky",8829,231674
+48,"Cabell County,West Virginia","Hart County,Kentucky",13898,402052
+49,"Cabell County,West Virginia","Henderson County,Kentucky",18725,554527
+50,"Cabell County,West Virginia","Henry County,Kentucky",11143,311104
+51,"Cabell County,West Virginia","Hickman County,Kentucky",23166,687407
+52,"Cabell County,West Virginia","Hopkins County,Kentucky",18246,536068
+53,"Cabell County,West Virginia","Jackson County,Kentucky",11009,262481
+54,"Cabell County,West Virginia","Jefferson County,Kentucky",11237,326637
+55,"Cabell County,West Virginia","Jessamine County,Kentucky",8973,239933
+56,"Cabell County,West Virginia","Johnson County,Kentucky",4801,119378
+57,"Cabell County,West Virginia","Kenton County,Kentucky",10526,261244
+58,"Cabell County,West Virginia","Knott County,Kentucky",7334,185628
+59,"Cabell County,West Virginia","Knox County,Kentucky",12512,344515
+60,"Cabell County,West Virginia","Larue County,Kentucky",13170,361599
+61,"Cabell County,West Virginia","Laurel County,Kentucky",11363,315910
+62,"Cabell County,West Virginia","Lawrence County,Kentucky",3943,90802
+63,"Cabell County,West Virginia","Lee County,Kentucky",9181,208209
+64,"Cabell County,West Virginia","Leslie County,Kentucky",10414,255302
+65,"Cabell County,West Virginia","Letcher County,Kentucky",9189,223238
+66,"Cabell County,West Virginia","Lewis County,Kentucky",5223,128396
+67,"Cabell County,West Virginia","Lincoln County,Kentucky",10819,282540
+68,"Cabell County,West Virginia","Livingston County,Kentucky",20962,611567
+69,"Cabell County,West Virginia","Logan County,Kentucky",17635,498893
+70,"Cabell County,West Virginia","Lyon County,Kentucky",21096,621958
+71,"Cabell County,West Virginia","McCracken County,Kentucky",21288,638807
+72,"Cabell County,West Virginia","McCreary County,Kentucky",13468,360351
+73,"Cabell County,West Virginia","Madison County,Kentucky",8502,229492
+74,"Cabell County,West Virginia","Magoffin County,Kentucky",5769,140057
+75,"Cabell County,West Virginia","Marion County,Kentucky",11548,323208
+76,"Cabell County,West Virginia","Marshall County,Kentucky",20702,622379
+77,"Cabell County,West Virginia","Martin County,Kentucky",5428,123146
+78,"Cabell County,West Virginia","Mason County,Kentucky",7018,172203
+79,"Cabell County,West Virginia","Meade County,Kentucky",13697,398952
+80,"Cabell County,West Virginia","Menifee County,Kentucky",6460,164221
+81,"Cabell County,West Virginia","Mercer County,Kentucky",9924,278920
+82,"Cabell County,West Virginia","Metcalfe County,Kentucky",14553,408201
+83,"Cabell County,West Virginia","Monroe County,Kentucky",16523,445706
+84,"Cabell County,West Virginia","Montgomery County,Kentucky",6157,170697
+85,"Cabell County,West Virginia","Morgan County,Kentucky",6239,139936
+86,"Cabell County,West Virginia","Muhlenberg County,Kentucky",17106,502544
+87,"Cabell County,West Virginia","Nelson County,Kentucky",11156,322280
+88,"Cabell County,West Virginia","Nicholas County,Kentucky",7835,198581
+89,"Cabell County,West Virginia","Ohio County,Kentucky",16019,470134
+90,"Cabell County,West Virginia","Oldham County,Kentucky",11308,338518
+91,"Cabell County,West Virginia","Owen County,Kentucky",10363,294162
+92,"Cabell County,West Virginia","Owsley County,Kentucky",10328,228186
+93,"Cabell County,West Virginia","Pendleton County,Kentucky",9606,233581
+94,"Cabell County,West Virginia","Perry County,Kentucky",8714,216186
+95,"Cabell County,West Virginia","Pike County,Kentucky",7832,184071
+96,"Cabell County,West Virginia","Powell County,Kentucky",7601,200443
+97,"Cabell County,West Virginia","Robertson County,Kentucky",7753,198087
+98,"Cabell County,West Virginia","Rockcastle County,Kentucky",9936,270634
+99,"Cabell County,West Virginia","Rowan County,Kentucky",4487,124364
+100,"Cabell County,West Virginia","Russell County,Kentucky",13502,361920
+101,"Cabell County,West Virginia","Scott County,Kentucky",8338,246496
+102,"Cabell County,West Virginia","Shelby County,Kentucky",10165,297772
+103,"Cabell County,West Virginia","Simpson County,Kentucky",17217,506950
+104,"Cabell County,West Virginia","Spencer County,Kentucky",10695,303620
+105,"Cabell County,West Virginia","Taylor County,Kentucky",12837,354704
+106,"Cabell County,West Virginia","Todd County,Kentucky",18871,523054
+107,"Cabell County,West Virginia","Trigg County,Kentucky",19850,582786
+108,"Cabell County,West Virginia","Trimble County,Kentucky",12382,344558
+109,"Cabell County,West Virginia","Union County,Kentucky",20444,584973
+110,"Cabell County,West Virginia","Warren County,Kentucky",16251,471899
+111,"Cabell County,West Virginia","Washington County,Kentucky",11166,307516
+112,"Cabell County,West Virginia","Wayne County,Kentucky",13678,358993
+113,"Cabell County,West Virginia","Webster County,Kentucky",19355,564157
+114,"Cabell County,West Virginia","Whitley County,Kentucky",12196,350394
+115,"Cabell County,West Virginia","Wolfe County,Kentucky",7333,163298
+116,"Cabell County,West Virginia","Woodford County,Kentucky",8558,249131
+117,"Cabell County,West Virginia","Adams County,Ohio",7486,168233
+118,"Cabell County,West Virginia","Allen County,Ohio",14961,381131
+119,"Cabell County,West Virginia","Ashland County,Ohio",14029,372819
+120,"Cabell County,West Virginia","Ashtabula County,Ohio",18427,518258
+121,"Cabell County,West Virginia","Athens County,Ohio",5464,121839
+122,"Cabell County,West Virginia","Auglaize County,Ohio",14211,397831
+123,"Cabell County,West Virginia","Belmont County,Ohio",11490,307182
+124,"Cabell County,West Virginia","Brown County,Ohio",8355,201687
+125,"Cabell County,West Virginia","Butler County,Ohio",12457,300611
+126,"Cabell County,West Virginia","Carroll County,Ohio",13419,344068
+127,"Cabell County,West Virginia","Champaign County,Ohio",11514,299928
+128,"Cabell County,West Virginia","Clark County,Ohio",10194,259473
+129,"Cabell County,West Virginia","Clermont County,Ohio",9565,226257
+130,"Cabell County,West Virginia","Clinton County,Ohio",9698,247154
+131,"Cabell County,West Virginia","Columbiana County,Ohio",15261,398303
+132,"Cabell County,West Virginia","Coshocton County,Ohio",12054,315185
+133,"Cabell County,West Virginia","Crawford County,Ohio",13643,341277
+134,"Cabell County,West Virginia","Cuyahoga County,Ohio",15455,429472
+135,"Cabell County,West Virginia","Darke County,Ohio",13308,354878
+136,"Cabell County,West Virginia","Defiance County,Ohio",18396,459452
+137,"Cabell County,West Virginia","Delaware County,Ohio",10946,279491
+138,"Cabell County,West Virginia","Fairfield County,Ohio",8824,216540
+139,"Cabell County,West Virginia","Fayette County,Ohio",8262,217618
+140,"Cabell County,West Virginia","Franklin County,Ohio",9463,239418
+141,"Cabell County,West Virginia","Fulton County,Ohio",18733,496846
+142,"Cabell County,West Virginia","Gallia County,Ohio",3575,76729
+143,"Cabell County,West Virginia","Geauga County,Ohio",16527,455189
+144,"Cabell County,West Virginia","Greene County,Ohio",9132,250770
+145,"Cabell County,West Virginia","Guernsey County,Ohio",9605,253104
+146,"Cabell County,West Virginia","Hamilton County,Ohio",11351,285589
+147,"Cabell County,West Virginia","Hancock County,Ohio",14820,382369
+148,"Cabell County,West Virginia","Hardin County,Ohio",13471,336961
+149,"Cabell County,West Virginia","Harrison County,Ohio",12425,326134
+150,"Cabell County,West Virginia","Henry County,Ohio",17533,453991
+151,"Cabell County,West Virginia","Highland County,Ohio",8452,182315
+152,"Cabell County,West Virginia","Hocking County,Ohio",7266,172503
+153,"Cabell County,West Virginia","Holmes County,Ohio",13113,338069
+154,"Cabell County,West Virginia","Huron County,Ohio",15175,371589
+155,"Cabell County,West Virginia","Jackson County,Ohio",4752,116279
+156,"Cabell County,West Virginia","Jefferson County,Ohio",13418,335912
+157,"Cabell County,West Virginia","Knox County,Ohio",13091,289768
+158,"Cabell County,West Virginia","Lawrence County,Ohio",3158,49706
+159,"Cabell County,West Virginia","Licking County,Ohio",10769,243550
+160,"Cabell County,West Virginia","Logan County,Ohio",12492,331238
+161,"Cabell County,West Virginia","Lorain County,Ohio",16680,459296
+162,"Cabell County,West Virginia","Lucas County,Ohio",18455,469868
+163,"Cabell County,West Virginia","Madison County,Ohio",9963,240702
+164,"Cabell County,West Virginia","Mahoning County,Ohio",15756,413108
+165,"Cabell County,West Virginia","Marion County,Ohio",12203,300107
+166,"Cabell County,West Virginia","Medina County,Ohio",14674,397832
+167,"Cabell County,West Virginia","Meigs County,Ohio",4354,94575
+168,"Cabell County,West Virginia","Mercer County,Ohio",15446,424765
+169,"Cabell County,West Virginia","Miami County,Ohio",11797,320270
+170,"Cabell County,West Virginia","Monroe County,Ohio",10541,242295
+171,"Cabell County,West Virginia","Montgomery County,Ohio",11166,298226
+172,"Cabell County,West Virginia","Morgan County,Ohio",8417,188864
+173,"Cabell County,West Virginia","Morrow County,Ohio",11753,302312
+174,"Cabell County,West Virginia","Muskingum County,Ohio",10131,210002
+175,"Cabell County,West Virginia","Noble County,Ohio",9047,225456
+176,"Cabell County,West Virginia","Paulding County,Ohio",17497,457037
+177,"Cabell County,West Virginia","Perry County,Ohio",8681,187260
+178,"Cabell County,West Virginia","Pickaway County,Ohio",7702,197717
+179,"Cabell County,West Virginia","Pike County,Ohio",5884,132173
+180,"Cabell County,West Virginia","Portage County,Ohio",14977,411054
+181,"Cabell County,West Virginia","Preble County,Ohio",12785,326804
+182,"Cabell County,West Virginia","Putnam County,Ohio",16083,413489
+183,"Cabell County,West Virginia","Richland County,Ohio",12783,337550
+184,"Cabell County,West Virginia","Ross County,Ohio",6446,164023
+185,"Cabell County,West Virginia","Sandusky County,Ohio",16576,401064
+186,"Cabell County,West Virginia","Scioto County,Ohio",4964,108811
+187,"Cabell County,West Virginia","Seneca County,Ohio",15193,374949
+188,"Cabell County,West Virginia","Shelby County,Ohio",12835,356555
+189,"Cabell County,West Virginia","Stark County,Ohio",13278,359303
+190,"Cabell County,West Virginia","Summit County,Ohio",14037,385091
+191,"Cabell County,West Virginia","Trumbull County,Ohio",16711,439355
+192,"Cabell County,West Virginia","Tuscarawas County,Ohio",11479,299890
+193,"Cabell County,West Virginia","Union County,Ohio",10996,281469
+194,"Cabell County,West Virginia","Van Wert County,Ohio",16195,424001
+195,"Cabell County,West Virginia","Vinton County,Ohio",6648,141784
+196,"Cabell County,West Virginia","Warren County,Ohio",10504,281213
+197,"Cabell County,West Virginia","Washington County,Ohio",7390,166524
+198,"Cabell County,West Virginia","Wayne County,Ohio",14250,362181
+199,"Cabell County,West Virginia","Williams County,Ohio",19573,482968
+200,"Cabell County,West Virginia","Wood County,Ohio",16218,423977
+201,"Cabell County,West Virginia","Wyandot County,Ohio",13790,346505
+202,"Cabell County,West Virginia","Accomack County,Virginia",29629,843743
+203,"Cabell County,West Virginia","Albemarle County,Virginia",15779,456243
+204,"Cabell County,West Virginia","Alleghany County,Virginia",10448,293266
+205,"Cabell County,West Virginia","Amelia County,Virginia",20479,556361
+206,"Cabell County,West Virginia","Amherst County,Virginia",15777,424232
+207,"Cabell County,West Virginia","Appomattox County,Virginia",17370,462991
+208,"Cabell County,West Virginia","Arlington County,Virginia",22062,652275
+209,"Cabell County,West Virginia","Augusta County,Virginia",14389,394582
+210,"Cabell County,West Virginia","Bath County,Virginia",13460,368575
+211,"Cabell County,West Virginia","Bedford County,Virginia",16036,410356
+212,"Cabell County,West Virginia","Bland County,Virginia",9410,259485
+213,"Cabell County,West Virginia","Botetourt County,Virginia",13602,364565
+214,"Cabell County,West Virginia","Brunswick County,Virginia",23022,606034
+215,"Cabell County,West Virginia","Buchanan County,Virginia",11884,263577
+216,"Cabell County,West Virginia","Buckingham County,Virginia",17652,473926
+217,"Cabell County,West Virginia","Campbell County,Virginia",17293,465463
+218,"Cabell County,West Virginia","Caroline County,Virginia",21118,625088
+219,"Cabell County,West Virginia","Carroll County,Virginia",11655,328923
+220,"Cabell County,West Virginia","Charles City County,Virginia",21218,622123
+221,"Cabell County,West Virginia","Charlotte County,Virginia",19254,516511
+222,"Cabell County,West Virginia","Chesterfield County,Virginia",20354,599907
+223,"Cabell County,West Virginia","Clarke County,Virginia",19958,583301
+224,"Cabell County,West Virginia","Craig County,Virginia",12091,314351
+225,"Cabell County,West Virginia","Culpeper County,Virginia",19576,545459
+226,"Cabell County,West Virginia","Cumberland County,Virginia",18862,501928
+227,"Cabell County,West Virginia","Dickenson County,Virginia",11692,269074
+228,"Cabell County,West Virginia","Dinwiddie County,Virginia",22101,650338
+229,"Cabell County,West Virginia","Essex County,Virginia",22935,649131
+230,"Cabell County,West Virginia","Fairfax County,Virginia",21753,642942
+231,"Cabell County,West Virginia","Fauquier County,Virginia",20397,604552
+232,"Cabell County,West Virginia","Floyd County,Virginia",13276,347887
+233,"Cabell County,West Virginia","Fluvanna County,Virginia",17457,508414
+234,"Cabell County,West Virginia","Franklin County,Virginia",15549,411590
+235,"Cabell County,West Virginia","Frederick County,Virginia",18624,497435
+236,"Cabell County,West Virginia","Giles County,Virginia",10140,271044
+237,"Cabell County,West Virginia","Gloucester County,Virginia",23389,676311
+238,"Cabell County,West Virginia","Goochland County,Virginia",18360,539025
+239,"Cabell County,West Virginia","Grayson County,Virginia",12058,318630
+240,"Cabell County,West Virginia","Greene County,Virginia",17771,491827
+241,"Cabell County,West Virginia","Greensville County,Virginia",23518,699090
+242,"Cabell County,West Virginia","Halifax County,Virginia",19959,526610
+243,"Cabell County,West Virginia","Hanover County,Virginia",19567,580132
+244,"Cabell County,West Virginia","Henrico County,Virginia",20078,593092
+245,"Cabell County,West Virginia","Henry County,Virginia",15529,415644
+246,"Cabell County,West Virginia","Highland County,Virginia",14904,378546
+247,"Cabell County,West Virginia","Isle of Wight County,Virginia",24330,697669
+248,"Cabell County,West Virginia","James City County,Virginia",22454,662894
+249,"Cabell County,West Virginia","King and Queen County,Virginia",22112,638478
+250,"Cabell County,West Virginia","King George County,Virginia",22231,653075
+251,"Cabell County,West Virginia","King William County,Virginia",20800,608400
+252,"Cabell County,West Virginia","Lancaster County,Virginia",24593,691485
+253,"Cabell County,West Virginia","Lee County,Virginia",12993,317590
+254,"Cabell County,West Virginia","Loudoun County,Virginia",21454,619167
+255,"Cabell County,West Virginia","Louisa County,Virginia",18017,522120
+256,"Cabell County,West Virginia","Lunenburg County,Virginia",21027,557795
+257,"Cabell County,West Virginia","Madison County,Virginia",18691,521567
+258,"Cabell County,West Virginia","Mathews County,Virginia",24214,699735
+259,"Cabell County,West Virginia","Mecklenburg County,Virginia",22018,570920
+260,"Cabell County,West Virginia","Middlesex County,Virginia",22990,672512
+261,"Cabell County,West Virginia","Montgomery County,Virginia",11224,299050
+262,"Cabell County,West Virginia","Nelson County,Virginia",16318,435923
+263,"Cabell County,West Virginia","New Kent County,Virginia",21890,636808
+264,"Cabell County,West Virginia","Northampton County,Virginia",26872,779557
+265,"Cabell County,West Virginia","Northumberland County,Virginia",24632,689998
+266,"Cabell County,West Virginia","Nottoway County,Virginia",20520,558175
+267,"Cabell County,West Virginia","Orange County,Virginia",18980,530228
+268,"Cabell County,West Virginia","Page County,Virginia",17625,505353
+269,"Cabell County,West Virginia","Patrick County,Virginia",13761,373959
+270,"Cabell County,West Virginia","Pittsylvania County,Virginia",17845,469852
+271,"Cabell County,West Virginia","Powhatan County,Virginia",19613,564247
+272,"Cabell County,West Virginia","Prince Edward County,Virginia",19134,515511
+273,"Cabell County,West Virginia","Prince George County,Virginia",21865,636922
+274,"Cabell County,West Virginia","Prince William County,Virginia",20497,610656
+275,"Cabell County,West Virginia","Pulaski County,Virginia",11318,295382
+276,"Cabell County,West Virginia","Rappahannock County,Virginia",19456,541840
+277,"Cabell County,West Virginia","Richmond County,Virginia",23332,662641
+278,"Cabell County,West Virginia","Roanoke County,Virginia",12843,341844
+279,"Cabell County,West Virginia","Rockbridge County,Virginia",12781,361622
+280,"Cabell County,West Virginia","Rockingham County,Virginia",16664,477703
+281,"Cabell County,West Virginia","Russell County,Virginia",13218,339665
+282,"Cabell County,West Virginia","Scott County,Virginia",13168,316527
+283,"Cabell County,West Virginia","Shenandoah County,Virginia",17169,507806
+284,"Cabell County,West Virginia","Smyth County,Virginia",11767,324837
+285,"Cabell County,West Virginia","Southampton County,Virginia",23895,695204
+286,"Cabell County,West Virginia","Spotsylvania County,Virginia",20034,563959
+287,"Cabell County,West Virginia","Stafford County,Virginia",21415,588252
+288,"Cabell County,West Virginia","Surry County,Virginia",23198,661755
+289,"Cabell County,West Virginia","Sussex County,Virginia",22559,665447
+290,"Cabell County,West Virginia","Tazewell County,Virginia",10225,278073
+291,"Cabell County,West Virginia","Warren County,Virginia",19071,552399
+292,"Cabell County,West Virginia","Washington County,Virginia",13161,364304
+293,"Cabell County,West Virginia","Westmoreland County,Virginia",23205,669899
+294,"Cabell County,West Virginia","Wise County,Virginia",9957,244973
+295,"Cabell County,West Virginia","Wythe County,Virginia",10014,277702
+296,"Cabell County,West Virginia","York County,Virginia",23742,693668
+297,"Cabell County,West Virginia","Alexandria City County,Virginia",22577,669456
+298,"Cabell County,West Virginia","Bedford City County,Virginia",15201,401788
+299,"Cabell County,West Virginia","Bristol City County,Virginia",13636,390021
+300,"Cabell County,West Virginia","Buena Vista City County,Virginia",13135,375599
+301,"Cabell County,West Virginia","Charlottesville City County,Virginia",16248,471457
+302,"Cabell County,West Virginia","Chesapeake City County,Virginia",25205,746574
+303,"Cabell County,West Virginia","Clifton Forge City County,Virginia",10991,313472
+304,"Cabell County,West Virginia","Colonial Heights City County,Virginia",20914,615799
+305,"Cabell County,West Virginia","Covington City County,Virginia",10517,296851
+306,"Cabell County,West Virginia","Danville City County,Virginia",17686,470100
+307,"Cabell County,West Virginia","Emporia City County,Virginia",23225,685683
+308,"Cabell County,West Virginia","Fairfax City County,Virginia",21629,636403
+309,"Cabell County,West Virginia","Falls Church City County,Virginia",21770,646587
+310,"Cabell County,West Virginia","Franklin City County,Virginia",24443,703059
+311,"Cabell County,West Virginia","Fredericksburg City County,Virginia",21167,573618
+312,"Cabell County,West Virginia","Galax City County,Virginia",12279,334789
+313,"Cabell County,West Virginia","Hampton City County,Virginia",23692,703375
+314,"Cabell County,West Virginia","Harrisonburg City County,Virginia",15723,457599
+315,"Cabell County,West Virginia","Hopewell City County,Virginia",20951,614765
+316,"Cabell County,West Virginia","Lexington City County,Virginia",12769,364091
+317,"Cabell County,West Virginia","Lynchburg City County,Virginia",16353,439205
+318,"Cabell County,West Virginia","Manassas City County,Virginia",20724,615601
+319,"Cabell County,West Virginia","Manassas Park City County,Virginia",21226,621944
+320,"Cabell County,West Virginia","Martinsville City County,Virginia",16056,424437
+321,"Cabell County,West Virginia","Newport News City County,Virginia",23249,689860
+322,"Cabell County,West Virginia","Norfolk City County,Virginia",24999,728790
+323,"Cabell County,West Virginia","Norton City County,Virginia",10586,256784
+324,"Cabell County,West Virginia","Petersburg City County,Virginia",20786,616787
+325,"Cabell County,West Virginia","Poquoson City County,Virginia",23921,700437
+326,"Cabell County,West Virginia","Portsmouth City County,Virginia",24938,737611
+327,"Cabell County,West Virginia","Radford County,Virginia",11631,297091
+328,"Cabell County,West Virginia","Richmond City County,Virginia",19654,580902
+329,"Cabell County,West Virginia","Roanoke City County,Virginia",13445,361949
+330,"Cabell County,West Virginia","Salem City County,Virginia",12857,348499
+331,"Cabell County,West Virginia","South Boston City County,Virginia",19698,524278
+332,"Cabell County,West Virginia","Staunton City County,Virginia",14541,418734
+333,"Cabell County,West Virginia","Suffolk City County,Virginia",25173,712393
+334,"Cabell County,West Virginia","Virginia Beach City County,Virginia",25559,752049
+335,"Cabell County,West Virginia","Waynesboro City County,Virginia",14878,431452
+336,"Cabell County,West Virginia","Williamsburg City County,Virginia",22293,662109
+337,"Cabell County,West Virginia","Winchester City County,Virginia",19103,531436
+338,"Cabell County,West Virginia","Barbour County,West Virginia",10583,292132
+339,"Cabell County,West Virginia","Berkeley County,West Virginia",18516,530292
+340,"Cabell County,West Virginia","Boone County,West Virginia",5762,125749
+341,"Cabell County,West Virginia","Braxton County,West Virginia",7274,183112
+342,"Cabell County,West Virginia","Brooke County,West Virginia",13268,343693
+343,"Cabell County,West Virginia","Calhoun County,West Virginia",7195,180796
+344,"Cabell County,West Virginia","Clay County,West Virginia",6040,154025
+345,"Cabell County,West Virginia","Doddridge County,West Virginia",9595,236359
+346,"Cabell County,West Virginia","Fayette County,West Virginia",7328,172369
+347,"Cabell County,West Virginia","Gilmer County,West Virginia",8472,205298
+348,"Cabell County,West Virginia","Grant County,West Virginia",14939,393678
+349,"Cabell County,West Virginia","Greenbrier County,West Virginia",10402,250407
+350,"Cabell County,West Virginia","Hampshire County,West Virginia",17771,491895
+351,"Cabell County,West Virginia","Hancock County,West Virginia",15158,383965
+352,"Cabell County,West Virginia","Hardy County,West Virginia",15994,425175
+353,"Cabell County,West Virginia","Harrison County,West Virginia",9817,278503
+354,"Cabell County,West Virginia","Jackson County,West Virginia",5079,135128
+355,"Cabell County,West Virginia","Jefferson County,West Virginia",19982,586290
+356,"Cabell County,West Virginia","Kanawha County,West Virginia",4636,106433
+357,"Cabell County,West Virginia","Lewis County,West Virginia",8446,231973
+358,"Cabell County,West Virginia","Lincoln County,West Virginia",3850,58319
+359,"Cabell County,West Virginia","Logan County,West Virginia",6462,118162
+360,"Cabell County,West Virginia","McDowell County,West Virginia",10999,253745
+361,"Cabell County,West Virginia","Marion County,West Virginia",10962,305671
+362,"Cabell County,West Virginia","Marshall County,West Virginia",12955,285531
+363,"Cabell County,West Virginia","Mason County,West Virginia",3188,73816
+364,"Cabell County,West Virginia","Mercer County,West Virginia",7963,217992
+365,"Cabell County,West Virginia","Mineral County,West Virginia",16633,422499
+366,"Cabell County,West Virginia","Mingo County,West Virginia",6507,122670
+367,"Cabell County,West Virginia","Monongalia County,West Virginia",11173,331139
+368,"Cabell County,West Virginia","Monroe County,West Virginia",11008,262703
+369,"Cabell County,West Virginia","Morgan County,West Virginia",18008,519684
+370,"Cabell County,West Virginia","Nicholas County,West Virginia",7757,213905
+371,"Cabell County,West Virginia","Ohio County,West Virginia",12587,330667
+372,"Cabell County,West Virginia","Pendleton County,West Virginia",15270,396302
+373,"Cabell County,West Virginia","Pleasants County,West Virginia",8429,195697
+374,"Cabell County,West Virginia","Pocahontas County,West Virginia",13086,283444
+375,"Cabell County,West Virginia","Preston County,West Virginia",13319,357870
+376,"Cabell County,West Virginia","Putnam County,West Virginia",2017,45035
+377,"Cabell County,West Virginia","Raleigh County,West Virginia",6504,171685
+378,"Cabell County,West Virginia","Randolph County,West Virginia",10948,294428
+379,"Cabell County,West Virginia","Ritchie County,West Virginia",8760,209401
+380,"Cabell County,West Virginia","Roane County,West Virginia",6704,163943
+381,"Cabell County,West Virginia","Summers County,West Virginia",9957,233122
+382,"Cabell County,West Virginia","Taylor County,West Virginia",10855,301243
+383,"Cabell County,West Virginia","Tucker County,West Virginia",12015,324953
+384,"Cabell County,West Virginia","Tyler County,West Virginia",10338,235312
+385,"Cabell County,West Virginia","Upshur County,West Virginia",10011,246670
+386,"Cabell County,West Virginia","Wayne County,West Virginia",3067,57369
+387,"Cabell County,West Virginia","Webster County,West Virginia",9941,240985
+388,"Cabell County,West Virginia","Wetzel County,West Virginia",11551,257218
+389,"Cabell County,West Virginia","Wirt County,West Virginia",7213,155183
+390,"Cabell County,West Virginia","Wood County,West Virginia",6728,156872
+391,"Cabell County,West Virginia","Wyoming County,West Virginia",8455,211658

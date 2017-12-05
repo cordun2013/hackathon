@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Lewis County,West Virginia","Adair County,Kentucky",21261,597797
+1,"Lewis County,West Virginia","Allen County,Kentucky",23879,698445
+2,"Lewis County,West Virginia","Anderson County,Kentucky",17060,500836
+3,"Lewis County,West Virginia","Ballard County,Kentucky",30039,890607
+4,"Lewis County,West Virginia","Barren County,Kentucky",23006,656824
+5,"Lewis County,West Virginia","Bath County,Kentucky",12708,372017
+6,"Lewis County,West Virginia","Bell County,Kentucky",20263,507833
+7,"Lewis County,West Virginia","Boone County,Kentucky",18521,493410
+8,"Lewis County,West Virginia","Bourbon County,Kentucky",14622,418435
+9,"Lewis County,West Virginia","Boyd County,Kentucky",9383,266342
+10,"Lewis County,West Virginia","Boyle County,Kentucky",18289,504723
+11,"Lewis County,West Virginia","Bracken County,Kentucky",15033,412517
+12,"Lewis County,West Virginia","Breathitt County,Kentucky",16095,413044
+13,"Lewis County,West Virginia","Breckinridge County,Kentucky",22594,653517
+14,"Lewis County,West Virginia","Bullitt County,Kentucky",19164,574637
+15,"Lewis County,West Virginia","Butler County,Kentucky",23259,675515
+16,"Lewis County,West Virginia","Caldwell County,Kentucky",26151,781460
+17,"Lewis County,West Virginia","Calloway County,Kentucky",28961,866453
+18,"Lewis County,West Virginia","Campbell County,Kentucky",16733,452389
+19,"Lewis County,West Virginia","Carlisle County,Kentucky",30496,905976
+20,"Lewis County,West Virginia","Carroll County,Kentucky",19605,548650
+21,"Lewis County,West Virginia","Carter County,Kentucky",10548,296439
+22,"Lewis County,West Virginia","Casey County,Kentucky",19784,536228
+23,"Lewis County,West Virginia","Christian County,Kentucky",25800,776717
+24,"Lewis County,West Virginia","Clay County,Kentucky",18593,500158
+25,"Lewis County,West Virginia","Clinton County,Kentucky",21668,601162
+26,"Lewis County,West Virginia","Crittenden County,Kentucky",27731,814531
+27,"Lewis County,West Virginia","Cumberland County,Kentucky",22422,619401
+28,"Lewis County,West Virginia","Daviess County,Kentucky",24282,721957
+29,"Lewis County,West Virginia","Edmonson County,Kentucky",22699,663390
+30,"Lewis County,West Virginia","Elliott County,Kentucky",11879,322209
+31,"Lewis County,West Virginia","Estill County,Kentucky",15700,434332
+32,"Lewis County,West Virginia","Fayette County,Kentucky",14868,438329
+33,"Lewis County,West Virginia","Fleming County,Kentucky",13134,375203
+34,"Lewis County,West Virginia","Floyd County,Kentucky",13516,373607
+35,"Lewis County,West Virginia","Franklin County,Kentucky",16905,487245
+36,"Lewis County,West Virginia","Fulton County,Kentucky",30900,926940
+37,"Lewis County,West Virginia","Gallatin County,Kentucky",18603,539309
+38,"Lewis County,West Virginia","Garrard County,Kentucky",17473,485482
+39,"Lewis County,West Virginia","Grant County,Kentucky",17402,513417
+40,"Lewis County,West Virginia","Graves County,Kentucky",29521,878682
+41,"Lewis County,West Virginia","Grayson County,Kentucky",21586,632151
+42,"Lewis County,West Virginia","Green County,Kentucky",21366,597356
+43,"Lewis County,West Virginia","Greenup County,Kentucky",11159,307468
+44,"Lewis County,West Virginia","Hancock County,Kentucky",23390,686410
+45,"Lewis County,West Virginia","Hardin County,Kentucky",20462,594284
+46,"Lewis County,West Virginia","Harlan County,Kentucky",19586,488149
+47,"Lewis County,West Virginia","Harrison County,Kentucky",16192,451534
+48,"Lewis County,West Virginia","Hart County,Kentucky",21262,621912
+49,"Lewis County,West Virginia","Henderson County,Kentucky",26088,774387
+50,"Lewis County,West Virginia","Henry County,Kentucky",18507,530964
+51,"Lewis County,West Virginia","Hickman County,Kentucky",30529,907267
+52,"Lewis County,West Virginia","Hopkins County,Kentucky",25609,755929
+53,"Lewis County,West Virginia","Jackson County,Kentucky",18373,482341
+54,"Lewis County,West Virginia","Jefferson County,Kentucky",18600,546497
+55,"Lewis County,West Virginia","Jessamine County,Kentucky",16337,459793
+56,"Lewis County,West Virginia","Johnson County,Kentucky",12165,339238
+57,"Lewis County,West Virginia","Kenton County,Kentucky",17890,481104
+58,"Lewis County,West Virginia","Knott County,Kentucky",14698,405488
+59,"Lewis County,West Virginia","Knox County,Kentucky",19876,564375
+60,"Lewis County,West Virginia","Larue County,Kentucky",20534,581460
+61,"Lewis County,West Virginia","Laurel County,Kentucky",18727,535770
+62,"Lewis County,West Virginia","Lawrence County,Kentucky",11307,310662
+63,"Lewis County,West Virginia","Lee County,Kentucky",16545,428069
+64,"Lewis County,West Virginia","Leslie County,Kentucky",17778,475162
+65,"Lewis County,West Virginia","Letcher County,Kentucky",15770,408428
+66,"Lewis County,West Virginia","Lewis County,Kentucky",12586,348256
+67,"Lewis County,West Virginia","Lincoln County,Kentucky",18183,502401
+68,"Lewis County,West Virginia","Livingston County,Kentucky",28326,831427
+69,"Lewis County,West Virginia","Logan County,Kentucky",24999,718753
+70,"Lewis County,West Virginia","Lyon County,Kentucky",28460,841818
+71,"Lewis County,West Virginia","McCracken County,Kentucky",28651,858667
+72,"Lewis County,West Virginia","McCreary County,Kentucky",20832,580212
+73,"Lewis County,West Virginia","Madison County,Kentucky",15866,449352
+74,"Lewis County,West Virginia","Magoffin County,Kentucky",13132,359917
+75,"Lewis County,West Virginia","Marion County,Kentucky",18912,543069
+76,"Lewis County,West Virginia","Marshall County,Kentucky",28066,842239
+77,"Lewis County,West Virginia","Martin County,Kentucky",12792,343007
+78,"Lewis County,West Virginia","Mason County,Kentucky",14381,392063
+79,"Lewis County,West Virginia","Meade County,Kentucky",21061,618812
+80,"Lewis County,West Virginia","Menifee County,Kentucky",13824,384081
+81,"Lewis County,West Virginia","Mercer County,Kentucky",17288,498780
+82,"Lewis County,West Virginia","Metcalfe County,Kentucky",21917,628062
+83,"Lewis County,West Virginia","Monroe County,Kentucky",23887,665566
+84,"Lewis County,West Virginia","Montgomery County,Kentucky",13521,390558
+85,"Lewis County,West Virginia","Morgan County,Kentucky",13602,359796
+86,"Lewis County,West Virginia","Muhlenberg County,Kentucky",24470,722404
+87,"Lewis County,West Virginia","Nelson County,Kentucky",18519,542140
+88,"Lewis County,West Virginia","Nicholas County,Kentucky",15199,418441
+89,"Lewis County,West Virginia","Ohio County,Kentucky",23383,689994
+90,"Lewis County,West Virginia","Oldham County,Kentucky",18672,558378
+91,"Lewis County,West Virginia","Owen County,Kentucky",17727,514022
+92,"Lewis County,West Virginia","Owsley County,Kentucky",17692,448046
+93,"Lewis County,West Virginia","Pendleton County,Kentucky",16970,453441
+94,"Lewis County,West Virginia","Perry County,Kentucky",16078,436046
+95,"Lewis County,West Virginia","Pike County,Kentucky",13072,338546
+96,"Lewis County,West Virginia","Powell County,Kentucky",14965,420303
+97,"Lewis County,West Virginia","Robertson County,Kentucky",15116,417947
+98,"Lewis County,West Virginia","Rockcastle County,Kentucky",17300,490494
+99,"Lewis County,West Virginia","Rowan County,Kentucky",11850,344225
+100,"Lewis County,West Virginia","Russell County,Kentucky",20865,581780
+101,"Lewis County,West Virginia","Scott County,Kentucky",15702,466356
+102,"Lewis County,West Virginia","Shelby County,Kentucky",17529,517632
+103,"Lewis County,West Virginia","Simpson County,Kentucky",24581,726811
+104,"Lewis County,West Virginia","Spencer County,Kentucky",18059,523480
+105,"Lewis County,West Virginia","Taylor County,Kentucky",20201,574565
+106,"Lewis County,West Virginia","Todd County,Kentucky",26235,742914
+107,"Lewis County,West Virginia","Trigg County,Kentucky",27213,802646
+108,"Lewis County,West Virginia","Trimble County,Kentucky",19745,564418
+109,"Lewis County,West Virginia","Union County,Kentucky",27808,804834
+110,"Lewis County,West Virginia","Warren County,Kentucky",23615,691759
+111,"Lewis County,West Virginia","Washington County,Kentucky",18530,527377
+112,"Lewis County,West Virginia","Wayne County,Kentucky",21041,578853
+113,"Lewis County,West Virginia","Webster County,Kentucky",26719,784017
+114,"Lewis County,West Virginia","Whitley County,Kentucky",19560,570255
+115,"Lewis County,West Virginia","Wolfe County,Kentucky",14697,383158
+116,"Lewis County,West Virginia","Woodford County,Kentucky",15922,468992
+117,"Lewis County,West Virginia","Adams County,Ohio",14355,339375
+118,"Lewis County,West Virginia","Allen County,Ohio",18814,457013
+119,"Lewis County,West Virginia","Ashland County,Ohio",15366,358664
+120,"Lewis County,West Virginia","Ashtabula County,Ohio",14340,415488
+121,"Lewis County,West Virginia","Athens County,Ohio",8751,186886
+122,"Lewis County,West Virginia","Auglaize County,Ohio",18428,460707
+123,"Lewis County,West Virginia","Belmont County,Ohio",8790,243041
+124,"Lewis County,West Virginia","Brown County,Ohio",15779,372236
+125,"Lewis County,West Virginia","Butler County,Ohio",18602,452455
+126,"Lewis County,West Virginia","Carroll County,Ohio",11735,278900
+127,"Lewis County,West Virginia","Champaign County,Ohio",16085,376475
+128,"Lewis County,West Virginia","Clark County,Ohio",14963,367046
+129,"Lewis County,West Virginia","Clermont County,Ohio",16433,397399
+130,"Lewis County,West Virginia","Clinton County,Ohio",15856,380885
+131,"Lewis County,West Virginia","Columbiana County,Ohio",10944,267421
+132,"Lewis County,West Virginia","Coshocton County,Ohio",11681,276489
+133,"Lewis County,West Virginia","Crawford County,Ohio",17074,421770
+134,"Lewis County,West Virginia","Cuyahoga County,Ohio",14337,413332
+135,"Lewis County,West Virginia","Darke County,Ohio",18539,464947
+136,"Lewis County,West Virginia","Defiance County,Ohio",22250,535334
+137,"Lewis County,West Virginia","Delaware County,Ohio",14404,349732
+138,"Lewis County,West Virginia","Fairfield County,Ohio",11934,276826
+139,"Lewis County,West Virginia","Fayette County,Ohio",14420,351349
+140,"Lewis County,West Virginia","Franklin County,Ohio",12934,306681
+141,"Lewis County,West Virginia","Fulton County,Ohio",21007,619146
+142,"Lewis County,West Virginia","Gallia County,Ohio",9820,265635
+143,"Lewis County,West Virginia","Geauga County,Ohio",13830,388151
+144,"Lewis County,West Virginia","Greene County,Ohio",15290,384501
+145,"Lewis County,West Virginia","Guernsey County,Ohio",9232,214408
+146,"Lewis County,West Virginia","Hamilton County,Ohio",18104,463033
+147,"Lewis County,West Virginia","Hancock County,Ohio",18427,458087
+148,"Lewis County,West Virginia","Hardin County,Ohio",17325,412843
+149,"Lewis County,West Virginia","Harrison County,Ohio",10750,281755
+150,"Lewis County,West Virginia","Henry County,Ohio",21140,529708
+151,"Lewis County,West Virginia","Highland County,Ohio",14892,339389
+152,"Lewis County,West Virginia","Hocking County,Ohio",10376,232789
+153,"Lewis County,West Virginia","Holmes County,Ohio",12740,299373
+154,"Lewis County,West Virginia","Huron County,Ohio",17263,400292
+155,"Lewis County,West Virginia","Jackson County,Ohio",10879,249940
+156,"Lewis County,West Virginia","Jefferson County,Ohio",9691,242391
+157,"Lewis County,West Virginia","Knox County,Ohio",13470,318964
+158,"Lewis County,West Virginia","Lawrence County,Ohio",10523,271398
+159,"Lewis County,West Virginia","Licking County,Ohio",12859,299896
+160,"Lewis County,West Virginia","Logan County,Ohio",16346,407120
+161,"Lewis County,West Virginia","Lorain County,Ohio",15388,443052
+162,"Lewis County,West Virginia","Lucas County,Ohio",19962,571996
+163,"Lewis County,West Virginia","Madison County,Ohio",14212,341402
+164,"Lewis County,West Virginia","Mahoning County,Ohio",10827,305480
+165,"Lewis County,West Virginia","Marion County,Ohio",15810,375825
+166,"Lewis County,West Virginia","Medina County,Ohio",14755,376807
+167,"Lewis County,West Virginia","Meigs County,Ohio",8716,179463
+168,"Lewis County,West Virginia","Mercer County,Ohio",19664,487641
+169,"Lewis County,West Virginia","Miami County,Ohio",17050,430379
+170,"Lewis County,West Virginia","Monroe County,Ohio",8644,152613
+171,"Lewis County,West Virginia","Montgomery County,Ohio",17311,435826
+172,"Lewis County,West Virginia","Morgan County,Ohio",9194,189233
+173,"Lewis County,West Virginia","Morrow County,Ohio",15211,372552
+174,"Lewis County,West Virginia","Muskingum County,Ohio",10078,242399
+175,"Lewis County,West Virginia","Noble County,Ohio",8674,186759
+176,"Lewis County,West Virginia","Paulding County,Ohio",21351,532919
+177,"Lewis County,West Virginia","Perry County,Ohio",11719,235101
+178,"Lewis County,West Virginia","Pickaway County,Ohio",12540,285730
+179,"Lewis County,West Virginia","Pike County,Ohio",12325,289247
+180,"Lewis County,West Virginia","Portage County,Ohio",12681,361494
+181,"Lewis County,West Virginia","Preble County,Ohio",18081,458538
+182,"Lewis County,West Virginia","Putnam County,Ohio",19937,489372
+183,"Lewis County,West Virginia","Richland County,Ohio",15722,372004
+184,"Lewis County,West Virginia","Ross County,Ohio",12604,297754
+185,"Lewis County,West Virginia","Sandusky County,Ohio",18249,530571
+186,"Lewis County,West Virginia","Scioto County,Ohio",12328,328672
+187,"Lewis County,West Virginia","Seneca County,Ohio",18800,450666
+188,"Lewis County,West Virginia","Shelby County,Ohio",18104,437368
+189,"Lewis County,West Virginia","Stark County,Ohio",12905,320607
+190,"Lewis County,West Virginia","Summit County,Ohio",13664,346395
+191,"Lewis County,West Virginia","Trumbull County,Ohio",11985,342944
+192,"Lewis County,West Virginia","Tuscarawas County,Ohio",11106,261194
+193,"Lewis County,West Virginia","Union County,Ohio",14850,357351
+194,"Lewis County,West Virginia","Van Wert County,Ohio",20048,499883
+195,"Lewis County,West Virginia","Vinton County,Ohio",10869,235327
+196,"Lewis County,West Virginia","Warren County,Ohio",16520,419001
+197,"Lewis County,West Virginia","Washington County,Ohio",7532,144696
+198,"Lewis County,West Virginia","Wayne County,Ohio",13876,323485
+199,"Lewis County,West Virginia","Williams County,Ohio",22253,650603
+200,"Lewis County,West Virginia","Wood County,Ohio",19825,499694
+201,"Lewis County,West Virginia","Wyandot County,Ohio",17397,422222
+202,"Lewis County,West Virginia","Accomack County,Virginia",26253,717363
+203,"Lewis County,West Virginia","Albemarle County,Virginia",14230,296643
+204,"Lewis County,West Virginia","Alleghany County,Virginia",10231,240684
+205,"Lewis County,West Virginia","Amelia County,Virginia",19284,428462
+206,"Lewis County,West Virginia","Amherst County,Virginia",15560,371650
+207,"Lewis County,West Virginia","Appomattox County,Virginia",17153,410409
+208,"Lewis County,West Virginia","Arlington County,Virginia",15117,434290
+209,"Lewis County,West Virginia","Augusta County,Virginia",12266,243083
+210,"Lewis County,West Virginia","Bath County,Virginia",11675,224727
+211,"Lewis County,West Virginia","Bedford County,Virginia",16217,375671
+212,"Lewis County,West Virginia","Bland County,Virginia",10766,279607
+213,"Lewis County,West Virginia","Botetourt County,Virginia",13385,311984
+214,"Lewis County,West Virginia","Brunswick County,Virginia",21915,530772
+215,"Lewis County,West Virginia","Buchanan County,Virginia",14761,363837
+216,"Lewis County,West Virginia","Buckingham County,Virginia",17539,361792
+217,"Lewis County,West Virginia","Campbell County,Virginia",17076,412881
+218,"Lewis County,West Virginia","Caroline County,Virginia",18103,447553
+219,"Lewis County,West Virginia","Carroll County,Virginia",13012,349045
+220,"Lewis County,West Virginia","Charles City County,Virginia",19670,462523
+221,"Lewis County,West Virginia","Charlotte County,Virginia",19038,463930
+222,"Lewis County,West Virginia","Chesterfield County,Virginia",18806,440307
+223,"Lewis County,West Virginia","Clarke County,Virginia",13160,315645
+224,"Lewis County,West Virginia","Craig County,Virginia",13447,334473
+225,"Lewis County,West Virginia","Culpeper County,Virginia",15168,370170
+226,"Lewis County,West Virginia","Cumberland County,Virginia",18273,387000
+227,"Lewis County,West Virginia","Dickenson County,Virginia",17170,428507
+228,"Lewis County,West Virginia","Dinwiddie County,Virginia",20553,490739
+229,"Lewis County,West Virginia","Essex County,Virginia",19505,471607
+230,"Lewis County,West Virginia","Fairfax County,Virginia",14808,424957
+231,"Lewis County,West Virginia","Fauquier County,Virginia",13598,336896
+232,"Lewis County,West Virginia","Floyd County,Virginia",14632,368009
+233,"Lewis County,West Virginia","Fluvanna County,Virginia",15908,348815
+234,"Lewis County,West Virginia","Franklin County,Virginia",16386,391093
+235,"Lewis County,West Virginia","Frederick County,Virginia",11679,279450
+236,"Lewis County,West Virginia","Giles County,Virginia",11497,291165
+237,"Lewis County,West Virginia","Gloucester County,Virginia",21841,516712
+238,"Lewis County,West Virginia","Goochland County,Virginia",16812,379426
+239,"Lewis County,West Virginia","Grayson County,Virginia",13414,338752
+240,"Lewis County,West Virginia","Greene County,Virginia",14203,282474
+241,"Lewis County,West Virginia","Greensville County,Virginia",21969,539490
+242,"Lewis County,West Virginia","Halifax County,Virginia",20397,484588
+243,"Lewis County,West Virginia","Hanover County,Virginia",18018,420533
+244,"Lewis County,West Virginia","Henrico County,Virginia",18529,433492
+245,"Lewis County,West Virginia","Henry County,Virginia",16885,435766
+246,"Lewis County,West Virginia","Highland County,Virginia",8813,176884
+247,"Lewis County,West Virginia","Isle of Wight County,Virginia",22782,538069
+248,"Lewis County,West Virginia","James City County,Virginia",20906,503294
+249,"Lewis County,West Virginia","King and Queen County,Virginia",20564,478878
+250,"Lewis County,West Virginia","King George County,Virginia",18026,431050
+251,"Lewis County,West Virginia","King William County,Virginia",19252,448801
+252,"Lewis County,West Virginia","Lancaster County,Virginia",21928,527601
+253,"Lewis County,West Virginia","Lee County,Virginia",18471,477023
+254,"Lewis County,West Virginia","Loudoun County,Virginia",14656,351512
+255,"Lewis County,West Virginia","Louisa County,Virginia",16469,362521
+256,"Lewis County,West Virginia","Lunenburg County,Virginia",20810,505214
+257,"Lewis County,West Virginia","Madison County,Virginia",15687,318505
+258,"Lewis County,West Virginia","Mathews County,Virginia",22665,540135
+259,"Lewis County,West Virginia","Mecklenburg County,Virginia",21801,518338
+260,"Lewis County,West Virginia","Middlesex County,Virginia",21442,512912
+261,"Lewis County,West Virginia","Montgomery County,Virginia",12580,319172
+262,"Lewis County,West Virginia","Nelson County,Virginia",15110,315144
+263,"Lewis County,West Virginia","New Kent County,Virginia",20342,477208
+264,"Lewis County,West Virginia","Northampton County,Virginia",25323,619958
+265,"Lewis County,West Virginia","Northumberland County,Virginia",21968,526114
+266,"Lewis County,West Virginia","Nottoway County,Virginia",20409,449953
+267,"Lewis County,West Virginia","Orange County,Virginia",16712,335287
+268,"Lewis County,West Virginia","Page County,Virginia",13621,314578
+269,"Lewis County,West Virginia","Patrick County,Virginia",15117,394080
+270,"Lewis County,West Virginia","Pittsylvania County,Virginia",18810,441042
+271,"Lewis County,West Virginia","Powhatan County,Virginia",18065,404647
+272,"Lewis County,West Virginia","Prince Edward County,Virginia",19080,415616
+273,"Lewis County,West Virginia","Prince George County,Virginia",20317,477323
+274,"Lewis County,West Virginia","Prince William County,Virginia",13698,343000
+275,"Lewis County,West Virginia","Pulaski County,Virginia",12675,315504
+276,"Lewis County,West Virginia","Rappahannock County,Virginia",13909,322034
+277,"Lewis County,West Virginia","Richmond County,Virginia",20668,498757
+278,"Lewis County,West Virginia","Roanoke County,Virginia",14200,361966
+279,"Lewis County,West Virginia","Rockbridge County,Virginia",12564,309041
+280,"Lewis County,West Virginia","Rockingham County,Virginia",11660,237887
+281,"Lewis County,West Virginia","Russell County,Virginia",14575,359787
+282,"Lewis County,West Virginia","Scott County,Virginia",17239,427914
+283,"Lewis County,West Virginia","Shenandoah County,Virginia",12059,271968
+284,"Lewis County,West Virginia","Smyth County,Virginia",13124,344959
+285,"Lewis County,West Virginia","Southampton County,Virginia",22347,535604
+286,"Lewis County,West Virginia","Spotsylvania County,Virginia",17215,412037
+287,"Lewis County,West Virginia","Stafford County,Virginia",16218,400902
+288,"Lewis County,West Virginia","Surry County,Virginia",21650,502156
+289,"Lewis County,West Virginia","Sussex County,Virginia",21011,505847
+290,"Lewis County,West Virginia","Tazewell County,Virginia",11582,298195
+291,"Lewis County,West Virginia","Warren County,Virginia",12239,284697
+292,"Lewis County,West Virginia","Washington County,Virginia",14517,384426
+293,"Lewis County,West Virginia","Westmoreland County,Virginia",18994,449850
+294,"Lewis County,West Virginia","Wise County,Virginia",15435,404406
+295,"Lewis County,West Virginia","Wythe County,Virginia",11371,297824
+296,"Lewis County,West Virginia","York County,Virginia",22194,534069
+297,"Lewis County,West Virginia","Alexandria City County,Virginia",15633,451472
+298,"Lewis County,West Virginia","Bedford City County,Virginia",15249,358818
+299,"Lewis County,West Virginia","Bristol City County,Virginia",14992,410143
+300,"Lewis County,West Virginia","Buena Vista City County,Virginia",12918,323018
+301,"Lewis County,West Virginia","Charlottesville City County,Virginia",14699,311858
+302,"Lewis County,West Virginia","Chesapeake City County,Virginia",23657,586974
+303,"Lewis County,West Virginia","Clifton Forge City County,Virginia",10774,260891
+304,"Lewis County,West Virginia","Colonial Heights City County,Virginia",19366,456199
+305,"Lewis County,West Virginia","Covington City County,Virginia",10300,244270
+306,"Lewis County,West Virginia","Danville City County,Virginia",19043,490222
+307,"Lewis County,West Virginia","Emporia City County,Virginia",21677,526084
+308,"Lewis County,West Virginia","Fairfax City County,Virginia",14831,368748
+309,"Lewis County,West Virginia","Falls Church City County,Virginia",14826,428602
+310,"Lewis County,West Virginia","Franklin City County,Virginia",22894,543459
+311,"Lewis County,West Virginia","Fredericksburg City County,Virginia",16538,397744
+312,"Lewis County,West Virginia","Galax City County,Virginia",13635,354911
+313,"Lewis County,West Virginia","Hampton City County,Virginia",22144,543775
+314,"Lewis County,West Virginia","Harrisonburg City County,Virginia",11499,233048
+315,"Lewis County,West Virginia","Hopewell City County,Virginia",19402,455166
+316,"Lewis County,West Virginia","Lexington City County,Virginia",12553,311509
+317,"Lewis County,West Virginia","Lynchburg City County,Virginia",16136,386624
+318,"Lewis County,West Virginia","Manassas City County,Virginia",13926,347945
+319,"Lewis County,West Virginia","Manassas Park City County,Virginia",14428,354288
+320,"Lewis County,West Virginia","Martinsville City County,Virginia",17413,444559
+321,"Lewis County,West Virginia","Newport News City County,Virginia",21700,530261
+322,"Lewis County,West Virginia","Norfolk City County,Virginia",23450,569191
+323,"Lewis County,West Virginia","Norton City County,Virginia",16064,416218
+324,"Lewis County,West Virginia","Petersburg City County,Virginia",19237,457187
+325,"Lewis County,West Virginia","Poquoson City County,Virginia",22372,540837
+326,"Lewis County,West Virginia","Portsmouth City County,Virginia",23389,578012
+327,"Lewis County,West Virginia","Radford County,Virginia",12987,317213
+328,"Lewis County,West Virginia","Richmond City County,Virginia",18105,421302
+329,"Lewis County,West Virginia","Roanoke City County,Virginia",14282,341452
+330,"Lewis County,West Virginia","Salem City County,Virginia",14111,339923
+331,"Lewis County,West Virginia","South Boston City County,Virginia",20400,483406
+332,"Lewis County,West Virginia","Staunton City County,Virginia",12407,243773
+333,"Lewis County,West Virginia","Suffolk City County,Virginia",23624,552793
+334,"Lewis County,West Virginia","Virginia Beach City County,Virginia",24011,592449
+335,"Lewis County,West Virginia","Waynesboro City County,Virginia",13361,266754
+336,"Lewis County,West Virginia","Williamsburg City County,Virginia",20745,502510
+337,"Lewis County,West Virginia","Winchester City County,Virginia",12158,313451
+338,"Lewis County,West Virginia","Barbour County,West Virginia",3639,74148
+339,"Lewis County,West Virginia","Berkeley County,West Virginia",11572,312307
+340,"Lewis County,West Virginia","Boone County,West Virginia",9246,227693
+341,"Lewis County,West Virginia","Braxton County,West Virginia",3806,64315
+342,"Lewis County,West Virginia","Brooke County,West Virginia",7997,205941
+343,"Lewis County,West Virginia","Cabell County,West Virginia",8839,244603
+344,"Lewis County,West Virginia","Calhoun County,West Virginia",4583,83340
+345,"Lewis County,West Virginia","Clay County,West Virginia",5492,129339
+346,"Lewis County,West Virginia","Doddridge County,West Virginia",3026,37126
+347,"Lewis County,West Virginia","Fayette County,West Virginia",6271,149257
+348,"Lewis County,West Virginia","Gilmer County,West Virginia",3064,48031
+349,"Lewis County,West Virginia","Grant County,West Virginia",7995,175693
+350,"Lewis County,West Virginia","Greenbrier County,West Virginia",9472,184816
+351,"Lewis County,West Virginia","Hampshire County,West Virginia",10826,273911
+352,"Lewis County,West Virginia","Hancock County,West Virginia",9624,233288
+353,"Lewis County,West Virginia","Hardy County,West Virginia",9050,207190
+354,"Lewis County,West Virginia","Harrison County,West Virginia",2873,60519
+355,"Lewis County,West Virginia","Jackson County,West Virginia",7524,138896
+356,"Lewis County,West Virginia","Jefferson County,West Virginia",13038,368305
+357,"Lewis County,West Virginia","Kanawha County,West Virginia",7721,195862
+358,"Lewis County,West Virginia","Lincoln County,West Virginia",9504,222281
+359,"Lewis County,West Virginia","Logan County,West Virginia",10175,264812
+360,"Lewis County,West Virginia","McDowell County,West Virginia",12355,273867
+361,"Lewis County,West Virginia","Marion County,West Virginia",4018,87686
+362,"Lewis County,West Virginia","Marshall County,West Virginia",8985,200385
+363,"Lewis County,West Virginia","Mason County,West Virginia",8315,230509
+364,"Lewis County,West Virginia","Mercer County,West Virginia",9320,238114
+365,"Lewis County,West Virginia","Mineral County,West Virginia",9689,204514
+366,"Lewis County,West Virginia","Mingo County,West Virginia",10220,269320
+367,"Lewis County,West Virginia","Monongalia County,West Virginia",4228,113154
+368,"Lewis County,West Virginia","Monroe County,West Virginia",11080,245884
+369,"Lewis County,West Virginia","Morgan County,West Virginia",11064,301699
+370,"Lewis County,West Virginia","Nicholas County,West Virginia",4791,113961
+371,"Lewis County,West Virginia","Ohio County,West Virginia",7904,214888
+372,"Lewis County,West Virginia","Pendleton County,West Virginia",8326,178317
+373,"Lewis County,West Virginia","Pleasants County,West Virginia",5496,89932
+374,"Lewis County,West Virginia","Pocahontas County,West Virginia",8618,159549
+375,"Lewis County,West Virginia","Preston County,West Virginia",6374,139885
+376,"Lewis County,West Virginia","Putnam County,West Virginia",7097,196128
+377,"Lewis County,West Virginia","Raleigh County,West Virginia",7861,191806
+378,"Lewis County,West Virginia","Randolph County,West Virginia",4004,76444
+379,"Lewis County,West Virginia","Ritchie County,West Virginia",4898,78474
+380,"Lewis County,West Virginia","Roane County,West Virginia",7004,117376
+381,"Lewis County,West Virginia","Summers County,West Virginia",11067,222252
+382,"Lewis County,West Virginia","Taylor County,West Virginia",3911,83258
+383,"Lewis County,West Virginia","Tucker County,West Virginia",5070,106968
+384,"Lewis County,West Virginia","Tyler County,West Virginia",6482,94698
+385,"Lewis County,West Virginia","Upshur County,West Virginia",2979,50885
+386,"Lewis County,West Virginia","Wayne County,West Virginia",10431,277229
+387,"Lewis County,West Virginia","Webster County,West Virginia",6013,110137
+388,"Lewis County,West Virginia","Wetzel County,West Virginia",5552,112001
+389,"Lewis County,West Virginia","Wirt County,West Virginia",5931,103268
+390,"Lewis County,West Virginia","Wood County,West Virginia",6276,115195
+391,"Lewis County,West Virginia","Wyoming County,West Virginia",9806,231748

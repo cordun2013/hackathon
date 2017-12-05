@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Ritchie County,West Virginia","Adair County,Kentucky",21699,613218
+1,"Ritchie County,West Virginia","Allen County,Kentucky",24318,713866
+2,"Ritchie County,West Virginia","Anderson County,Kentucky",17499,516257
+3,"Ritchie County,West Virginia","Ballard County,Kentucky",30478,906028
+4,"Ritchie County,West Virginia","Barren County,Kentucky",23445,672245
+5,"Ritchie County,West Virginia","Bath County,Kentucky",13146,387438
+6,"Ritchie County,West Virginia","Bell County,Kentucky",20702,523254
+7,"Ritchie County,West Virginia","Boone County,Kentucky",15342,393798
+8,"Ritchie County,West Virginia","Bourbon County,Kentucky",15060,433855
+9,"Ritchie County,West Virginia","Boyd County,Kentucky",9822,281763
+10,"Ritchie County,West Virginia","Boyle County,Kentucky",18728,520143
+11,"Ritchie County,West Virginia","Bracken County,Kentucky",14220,347878
+12,"Ritchie County,West Virginia","Breathitt County,Kentucky",16533,428464
+13,"Ritchie County,West Virginia","Breckinridge County,Kentucky",23032,668938
+14,"Ritchie County,West Virginia","Bullitt County,Kentucky",19602,590057
+15,"Ritchie County,West Virginia","Butler County,Kentucky",23697,690936
+16,"Ritchie County,West Virginia","Caldwell County,Kentucky",26589,796881
+17,"Ritchie County,West Virginia","Calloway County,Kentucky",29399,881874
+18,"Ritchie County,West Virginia","Campbell County,Kentucky",14971,382953
+19,"Ritchie County,West Virginia","Carlisle County,Kentucky",30935,921396
+20,"Ritchie County,West Virginia","Carroll County,Kentucky",16916,455564
+21,"Ritchie County,West Virginia","Carter County,Kentucky",10987,311860
+22,"Ritchie County,West Virginia","Casey County,Kentucky",20223,551648
+23,"Ritchie County,West Virginia","Christian County,Kentucky",26238,792138
+24,"Ritchie County,West Virginia","Clay County,Kentucky",19032,515579
+25,"Ritchie County,West Virginia","Clinton County,Kentucky",22107,616583
+26,"Ritchie County,West Virginia","Crittenden County,Kentucky",28169,829952
+27,"Ritchie County,West Virginia","Cumberland County,Kentucky",22861,634822
+28,"Ritchie County,West Virginia","Daviess County,Kentucky",24720,737378
+29,"Ritchie County,West Virginia","Edmonson County,Kentucky",23138,678811
+30,"Ritchie County,West Virginia","Elliott County,Kentucky",12317,337630
+31,"Ritchie County,West Virginia","Estill County,Kentucky",16139,449753
+32,"Ritchie County,West Virginia","Fayette County,Kentucky",15306,453750
+33,"Ritchie County,West Virginia","Fleming County,Kentucky",13572,390624
+34,"Ritchie County,West Virginia","Floyd County,Kentucky",13955,389028
+35,"Ritchie County,West Virginia","Franklin County,Kentucky",17344,502666
+36,"Ritchie County,West Virginia","Fulton County,Kentucky",31339,942361
+37,"Ritchie County,West Virginia","Gallatin County,Kentucky",16127,427977
+38,"Ritchie County,West Virginia","Garrard County,Kentucky",17911,500903
+39,"Ritchie County,West Virginia","Grant County,Kentucky",16194,428451
+40,"Ritchie County,West Virginia","Graves County,Kentucky",29959,894103
+41,"Ritchie County,West Virginia","Grayson County,Kentucky",22025,647572
+42,"Ritchie County,West Virginia","Green County,Kentucky",21804,612777
+43,"Ritchie County,West Virginia","Greenup County,Kentucky",10700,261108
+44,"Ritchie County,West Virginia","Hancock County,Kentucky",23885,653615
+45,"Ritchie County,West Virginia","Hardin County,Kentucky",20901,609705
+46,"Ritchie County,West Virginia","Harlan County,Kentucky",20024,503570
+47,"Ritchie County,West Virginia","Harrison County,Kentucky",16662,399783
+48,"Ritchie County,West Virginia","Hart County,Kentucky",21700,637333
+49,"Ritchie County,West Virginia","Henderson County,Kentucky",26584,741592
+50,"Ritchie County,West Virginia","Henry County,Kentucky",18102,483887
+51,"Ritchie County,West Virginia","Hickman County,Kentucky",30968,922688
+52,"Ritchie County,West Virginia","Hopkins County,Kentucky",26048,771349
+53,"Ritchie County,West Virginia","Jackson County,Kentucky",18812,497762
+54,"Ritchie County,West Virginia","Jefferson County,Kentucky",19039,561918
+55,"Ritchie County,West Virginia","Jessamine County,Kentucky",16775,475214
+56,"Ritchie County,West Virginia","Johnson County,Kentucky",12603,354659
+57,"Ritchie County,West Virginia","Kenton County,Kentucky",14711,381492
+58,"Ritchie County,West Virginia","Knott County,Kentucky",15137,420909
+59,"Ritchie County,West Virginia","Knox County,Kentucky",20315,579796
+60,"Ritchie County,West Virginia","Larue County,Kentucky",20972,596880
+61,"Ritchie County,West Virginia","Laurel County,Kentucky",19166,551191
+62,"Ritchie County,West Virginia","Lawrence County,Kentucky",11745,326083
+63,"Ritchie County,West Virginia","Lee County,Kentucky",16984,443490
+64,"Ritchie County,West Virginia","Leslie County,Kentucky",18216,490583
+65,"Ritchie County,West Virginia","Letcher County,Kentucky",16209,423849
+66,"Ritchie County,West Virginia","Lewis County,Kentucky",12466,310743
+67,"Ritchie County,West Virginia","Lincoln County,Kentucky",18621,517822
+68,"Ritchie County,West Virginia","Livingston County,Kentucky",28765,846848
+69,"Ritchie County,West Virginia","Logan County,Kentucky",25438,734174
+70,"Ritchie County,West Virginia","Lyon County,Kentucky",28898,857239
+71,"Ritchie County,West Virginia","McCracken County,Kentucky",29090,874088
+72,"Ritchie County,West Virginia","McCreary County,Kentucky",21271,595632
+73,"Ritchie County,West Virginia","Madison County,Kentucky",16305,464773
+74,"Ritchie County,West Virginia","Magoffin County,Kentucky",13571,375338
+75,"Ritchie County,West Virginia","Marion County,Kentucky",19350,558489
+76,"Ritchie County,West Virginia","Marshall County,Kentucky",28505,857660
+77,"Ritchie County,West Virginia","Martin County,Kentucky",13231,358427
+78,"Ritchie County,West Virginia","Mason County,Kentucky",13765,326756
+79,"Ritchie County,West Virginia","Meade County,Kentucky",21500,634233
+80,"Ritchie County,West Virginia","Menifee County,Kentucky",14263,399502
+81,"Ritchie County,West Virginia","Mercer County,Kentucky",17727,514201
+82,"Ritchie County,West Virginia","Metcalfe County,Kentucky",22355,643482
+83,"Ritchie County,West Virginia","Monroe County,Kentucky",24325,680987
+84,"Ritchie County,West Virginia","Montgomery County,Kentucky",13959,405978
+85,"Ritchie County,West Virginia","Morgan County,Kentucky",14041,375217
+86,"Ritchie County,West Virginia","Muhlenberg County,Kentucky",24908,737825
+87,"Ritchie County,West Virginia","Nelson County,Kentucky",18958,557561
+88,"Ritchie County,West Virginia","Nicholas County,Kentucky",14954,368198
+89,"Ritchie County,West Virginia","Ohio County,Kentucky",23821,705415
+90,"Ritchie County,West Virginia","Oldham County,Kentucky",18217,496992
+91,"Ritchie County,West Virginia","Owen County,Kentucky",17359,454366
+92,"Ritchie County,West Virginia","Owsley County,Kentucky",18130,463467
+93,"Ritchie County,West Virginia","Pendleton County,Kentucky",15847,404795
+94,"Ritchie County,West Virginia","Perry County,Kentucky",16516,451467
+95,"Ritchie County,West Virginia","Pike County,Kentucky",13511,353967
+96,"Ritchie County,West Virginia","Powell County,Kentucky",15403,435724
+97,"Ritchie County,West Virginia","Robertson County,Kentucky",14874,349171
+98,"Ritchie County,West Virginia","Rockcastle County,Kentucky",17739,505915
+99,"Ritchie County,West Virginia","Rowan County,Kentucky",12289,359645
+100,"Ritchie County,West Virginia","Russell County,Kentucky",21304,597201
+101,"Ritchie County,West Virginia","Scott County,Kentucky",16141,481777
+102,"Ritchie County,West Virginia","Shelby County,Kentucky",17968,533053
+103,"Ritchie County,West Virginia","Simpson County,Kentucky",25019,742232
+104,"Ritchie County,West Virginia","Spencer County,Kentucky",18497,538901
+105,"Ritchie County,West Virginia","Taylor County,Kentucky",20640,589986
+106,"Ritchie County,West Virginia","Todd County,Kentucky",26674,758335
+107,"Ritchie County,West Virginia","Trigg County,Kentucky",27652,818067
+108,"Ritchie County,West Virginia","Trimble County,Kentucky",17815,478888
+109,"Ritchie County,West Virginia","Union County,Kentucky",28304,772038
+110,"Ritchie County,West Virginia","Warren County,Kentucky",24054,707180
+111,"Ritchie County,West Virginia","Washington County,Kentucky",18968,542797
+112,"Ritchie County,West Virginia","Wayne County,Kentucky",21480,594274
+113,"Ritchie County,West Virginia","Webster County,Kentucky",27157,799438
+114,"Ritchie County,West Virginia","Whitley County,Kentucky",19999,585676
+115,"Ritchie County,West Virginia","Wolfe County,Kentucky",15136,398579
+116,"Ritchie County,West Virginia","Woodford County,Kentucky",16360,484413
+117,"Ritchie County,West Virginia","Adams County,Ohio",10691,277398
+118,"Ritchie County,West Virginia","Allen County,Ohio",15151,395036
+119,"Ritchie County,West Virginia","Ashland County,Ohio",11702,296686
+120,"Ritchie County,West Virginia","Ashtabula County,Ohio",14390,417584
+121,"Ritchie County,West Virginia","Athens County,Ohio",5087,124908
+122,"Ritchie County,West Virginia","Auglaize County,Ohio",14764,398729
+123,"Ritchie County,West Virginia","Belmont County,Ohio",7425,135593
+124,"Ritchie County,West Virginia","Brown County,Ohio",12116,310258
+125,"Ritchie County,West Virginia","Butler County,Ohio",14938,390477
+126,"Ritchie County,West Virginia","Carroll County,Ohio",9383,243394
+127,"Ritchie County,West Virginia","Champaign County,Ohio",12421,314497
+128,"Ritchie County,West Virginia","Clark County,Ohio",11299,305068
+129,"Ritchie County,West Virginia","Clermont County,Ohio",12770,335422
+130,"Ritchie County,West Virginia","Clinton County,Ohio",12192,318907
+131,"Ritchie County,West Virginia","Columbiana County,Ohio",11159,234688
+132,"Ritchie County,West Virginia","Coshocton County,Ohio",8018,214511
+133,"Ritchie County,West Virginia","Crawford County,Ohio",13410,359792
+134,"Ritchie County,West Virginia","Cuyahoga County,Ohio",11419,328798
+135,"Ritchie County,West Virginia","Darke County,Ohio",14875,402970
+136,"Ritchie County,West Virginia","Defiance County,Ohio",18586,473356
+137,"Ritchie County,West Virginia","Delaware County,Ohio",10740,287754
+138,"Ritchie County,West Virginia","Fairfield County,Ohio",8271,214848
+139,"Ritchie County,West Virginia","Fayette County,Ohio",10756,289371
+140,"Ritchie County,West Virginia","Franklin County,Ohio",9271,244703
+141,"Ritchie County,West Virginia","Fulton County,Ohio",18262,534716
+142,"Ritchie County,West Virginia","Gallia County,Ohio",6970,164784
+143,"Ritchie County,West Virginia","Geauga County,Ohio",12490,354515
+144,"Ritchie County,West Virginia","Greene County,Ohio",11626,322523
+145,"Ritchie County,West Virginia","Guernsey County,Ohio",5568,152430
+146,"Ritchie County,West Virginia","Hamilton County,Ohio",14440,401055
+147,"Ritchie County,West Virginia","Hancock County,Ohio",14763,396109
+148,"Ritchie County,West Virginia","Hardin County,Ohio",13662,350865
+149,"Ritchie County,West Virginia","Harrison County,Ohio",8388,225460
+150,"Ritchie County,West Virginia","Henry County,Ohio",17476,467730
+151,"Ritchie County,West Virginia","Highland County,Ohio",11228,277411
+152,"Ritchie County,West Virginia","Hocking County,Ohio",6713,170811
+153,"Ritchie County,West Virginia","Holmes County,Ohio",9076,237395
+154,"Ritchie County,West Virginia","Huron County,Ohio",13599,338314
+155,"Ritchie County,West Virginia","Jackson County,Ohio",7215,187962
+156,"Ritchie County,West Virginia","Jefferson County,Ohio",9195,192780
+157,"Ritchie County,West Virginia","Knox County,Ohio",9806,256987
+158,"Ritchie County,West Virginia","Lawrence County,Ohio",9563,204174
+159,"Ritchie County,West Virginia","Licking County,Ohio",9196,237918
+160,"Ritchie County,West Virginia","Logan County,Ohio",12682,345142
+161,"Ritchie County,West Virginia","Lorain County,Ohio",12643,358622
+162,"Ritchie County,West Virginia","Lucas County,Ohio",17216,487566
+163,"Ritchie County,West Virginia","Madison County,Ohio",10548,279424
+164,"Ritchie County,West Virginia","Mahoning County,Ohio",11720,312434
+165,"Ritchie County,West Virginia","Marion County,Ohio",12146,313847
+166,"Ritchie County,West Virginia","Medina County,Ohio",11092,314829
+167,"Ritchie County,West Virginia","Meigs County,Ohio",5053,117485
+168,"Ritchie County,West Virginia","Mercer County,Ohio",16000,425663
+169,"Ritchie County,West Virginia","Miami County,Ohio",13386,368402
+170,"Ritchie County,West Virginia","Monroe County,Ohio",4943,90631
+171,"Ritchie County,West Virginia","Montgomery County,Ohio",13647,373848
+172,"Ritchie County,West Virginia","Morgan County,Ohio",5530,127255
+173,"Ritchie County,West Virginia","Morrow County,Ohio",11548,310575
+174,"Ritchie County,West Virginia","Muskingum County,Ohio",6414,180421
+175,"Ritchie County,West Virginia","Noble County,Ohio",5010,124782
+176,"Ritchie County,West Virginia","Paulding County,Ohio",17688,470941
+177,"Ritchie County,West Virginia","Perry County,Ohio",8055,173123
+178,"Ritchie County,West Virginia","Pickaway County,Ohio",8876,223752
+179,"Ritchie County,West Virginia","Pike County,Ohio",8661,227269
+180,"Ritchie County,West Virginia","Portage County,Ohio",10941,310380
+181,"Ritchie County,West Virginia","Preble County,Ohio",14417,396560
+182,"Ritchie County,West Virginia","Putnam County,Ohio",16274,427394
+183,"Ritchie County,West Virginia","Richland County,Ohio",12058,310026
+184,"Ritchie County,West Virginia","Ross County,Ohio",8941,235776
+185,"Ritchie County,West Virginia","Sandusky County,Ohio",15504,446140
+186,"Ritchie County,West Virginia","Scioto County,Ohio",9299,243340
+187,"Ritchie County,West Virginia","Seneca County,Ohio",15137,388688
+188,"Ritchie County,West Virginia","Shelby County,Ohio",14440,375390
+189,"Ritchie County,West Virginia","Stark County,Ohio",9241,258629
+190,"Ritchie County,West Virginia","Summit County,Ohio",10000,284417
+191,"Ritchie County,West Virginia","Trumbull County,Ohio",12675,338681
+192,"Ritchie County,West Virginia","Tuscarawas County,Ohio",7442,199216
+193,"Ritchie County,West Virginia","Union County,Ohio",11186,295373
+194,"Ritchie County,West Virginia","Van Wert County,Ohio",16385,437905
+195,"Ritchie County,West Virginia","Vinton County,Ohio",7205,173349
+196,"Ritchie County,West Virginia","Warren County,Ohio",12856,357023
+197,"Ritchie County,West Virginia","Washington County,Ohio",3868,82718
+198,"Ritchie County,West Virginia","Wayne County,Ohio",10213,261507
+199,"Ritchie County,West Virginia","Williams County,Ohio",19507,566172
+200,"Ritchie County,West Virginia","Wood County,Ohio",16161,437716
+201,"Ritchie County,West Virginia","Wyandot County,Ohio",13733,360244
+202,"Ritchie County,West Virginia","Accomack County,Virginia",27804,754727
+203,"Ritchie County,West Virginia","Albemarle County,Virginia",17853,400063
+204,"Ritchie County,West Virginia","Alleghany County,Virginia",13326,288608
+205,"Ritchie County,West Virginia","Amelia County,Virginia",22907,531881
+206,"Ritchie County,West Virginia","Amherst County,Virginia",18655,419573
+207,"Ritchie County,West Virginia","Appomattox County,Virginia",20248,458332
+208,"Ritchie County,West Virginia","Arlington County,Virginia",16668,471653
+209,"Ritchie County,West Virginia","Augusta County,Virginia",15889,346503
+210,"Ritchie County,West Virginia","Bath County,Virginia",15297,328147
+211,"Ritchie County,West Virginia","Bedford County,Virginia",19312,423594
+212,"Ritchie County,West Virginia","Bland County,Virginia",12933,364336
+213,"Ritchie County,West Virginia","Botetourt County,Virginia",16480,359907
+214,"Ritchie County,West Virginia","Brunswick County,Virginia",25538,634192
+215,"Ritchie County,West Virginia","Buchanan County,Virginia",16928,448565
+216,"Ritchie County,West Virginia","Buckingham County,Virginia",20531,469268
+217,"Ritchie County,West Virginia","Campbell County,Virginia",20172,460804
+218,"Ritchie County,West Virginia","Caroline County,Virginia",20673,590643
+219,"Ritchie County,West Virginia","Carroll County,Virginia",15179,433773
+220,"Ritchie County,West Virginia","Charles City County,Virginia",23293,565943
+221,"Ritchie County,West Virginia","Charlotte County,Virginia",22133,511853
+222,"Ritchie County,West Virginia","Chesterfield County,Virginia",22428,543727
+223,"Ritchie County,West Virginia","Clarke County,Virginia",14781,372289
+224,"Ritchie County,West Virginia","Craig County,Virginia",15615,419201
+225,"Ritchie County,West Virginia","Culpeper County,Virginia",17902,427193
+226,"Ritchie County,West Virginia","Cumberland County,Virginia",21741,497270
+227,"Ritchie County,West Virginia","Dickenson County,Virginia",17609,443928
+228,"Ritchie County,West Virginia","Dinwiddie County,Virginia",24176,594158
+229,"Ritchie County,West Virginia","Essex County,Virginia",22075,614697
+230,"Ritchie County,West Virginia","Fairfax County,Virginia",16359,462321
+231,"Ritchie County,West Virginia","Fauquier County,Virginia",16332,393920
+232,"Ritchie County,West Virginia","Floyd County,Virginia",16800,452738
+233,"Ritchie County,West Virginia","Fluvanna County,Virginia",19531,452234
+234,"Ritchie County,West Virginia","Franklin County,Virginia",19073,516440
+235,"Ritchie County,West Virginia","Frederick County,Virginia",13570,347011
+236,"Ritchie County,West Virginia","Giles County,Virginia",13664,375894
+237,"Ritchie County,West Virginia","Gloucester County,Virginia",25463,620131
+238,"Ritchie County,West Virginia","Goochland County,Virginia",20434,482845
+239,"Ritchie County,West Virginia","Grayson County,Virginia",15582,423481
+240,"Ritchie County,West Virginia","Greene County,Virginia",17826,385893
+241,"Ritchie County,West Virginia","Greensville County,Virginia",25592,642910
+242,"Ritchie County,West Virginia","Halifax County,Virginia",23492,532511
+243,"Ritchie County,West Virginia","Hanover County,Virginia",31846,918476
+244,"Ritchie County,West Virginia","Henrico County,Virginia",22152,536912
+245,"Ritchie County,West Virginia","Henry County,Virginia",19052,520494
+246,"Ritchie County,West Virginia","Highland County,Virginia",12436,280304
+247,"Ritchie County,West Virginia","Isle of Wight County,Virginia",26404,641489
+248,"Ritchie County,West Virginia","James City County,Virginia",24529,606714
+249,"Ritchie County,West Virginia","King and Queen County,Virginia",23126,649958
+250,"Ritchie County,West Virginia","King George County,Virginia",20633,574504
+251,"Ritchie County,West Virginia","King William County,Virginia",22092,627756
+252,"Ritchie County,West Virginia","Lancaster County,Virginia",24498,670691
+253,"Ritchie County,West Virginia","Lee County,Virginia",18910,492444
+254,"Ritchie County,West Virginia","Loudoun County,Virginia",16277,408156
+255,"Ritchie County,West Virginia","Louisa County,Virginia",20091,465940
+256,"Ritchie County,West Virginia","Lunenburg County,Virginia",23905,553137
+257,"Ritchie County,West Virginia","Madison County,Virginia",18325,415452
+258,"Ritchie County,West Virginia","Mathews County,Virginia",26288,643555
+259,"Ritchie County,West Virginia","Mecklenburg County,Virginia",24896,566261
+260,"Ritchie County,West Virginia","Middlesex County,Virginia",24578,678660
+261,"Ritchie County,West Virginia","Montgomery County,Virginia",14747,403901
+262,"Ritchie County,West Virginia","Nelson County,Virginia",18733,418564
+263,"Ritchie County,West Virginia","New Kent County,Virginia",23965,580628
+264,"Ritchie County,West Virginia","Northampton County,Virginia",28946,723377
+265,"Ritchie County,West Virginia","Northumberland County,Virginia",24537,669204
+266,"Ritchie County,West Virginia","Nottoway County,Virginia",23398,553517
+267,"Ritchie County,West Virginia","Orange County,Virginia",19243,461692
+268,"Ritchie County,West Virginia","Page County,Virginia",16355,371602
+269,"Ritchie County,West Virginia","Patrick County,Virginia",17285,478809
+270,"Ritchie County,West Virginia","Pittsylvania County,Virginia",21368,574702
+271,"Ritchie County,West Virginia","Powhatan County,Virginia",21688,508067
+272,"Ritchie County,West Virginia","Prince Edward County,Virginia",22013,510852
+273,"Ritchie County,West Virginia","Prince George County,Virginia",23939,580742
+274,"Ritchie County,West Virginia","Prince William County,Virginia",16432,400024
+275,"Ritchie County,West Virginia","Pulaski County,Virginia",14842,400232
+276,"Ritchie County,West Virginia","Rappahannock County,Virginia",16643,379057
+277,"Ritchie County,West Virginia","Richmond County,Virginia",23237,641847
+278,"Ritchie County,West Virginia","Roanoke County,Virginia",16367,446694
+279,"Ritchie County,West Virginia","Rockbridge County,Virginia",15659,356964
+280,"Ritchie County,West Virginia","Rockingham County,Virginia",14526,339529
+281,"Ritchie County,West Virginia","Russell County,Virginia",16742,444516
+282,"Ritchie County,West Virginia","Scott County,Virginia",19085,491381
+283,"Ritchie County,West Virginia","Shenandoah County,Virginia",14793,328992
+284,"Ritchie County,West Virginia","Smyth County,Virginia",15291,429688
+285,"Ritchie County,West Virginia","Southampton County,Virginia",25970,639024
+286,"Ritchie County,West Virginia","Spotsylvania County,Virginia",19949,469060
+287,"Ritchie County,West Virginia","Stafford County,Virginia",18333,525608
+288,"Ritchie County,West Virginia","Surry County,Virginia",25272,605575
+289,"Ritchie County,West Virginia","Sussex County,Virginia",24633,609267
+290,"Ritchie County,West Virginia","Tazewell County,Virginia",13749,382923
+291,"Ritchie County,West Virginia","Warren County,Virginia",14972,341721
+292,"Ritchie County,West Virginia","Washington County,Virginia",16684,469154
+293,"Ritchie County,West Virginia","Westmoreland County,Virginia",21601,593305
+294,"Ritchie County,West Virginia","Wise County,Virginia",15874,419827
+295,"Ritchie County,West Virginia","Wythe County,Virginia",13538,382553
+296,"Ritchie County,West Virginia","York County,Virginia",25816,637489
+297,"Ritchie County,West Virginia","Alexandria City County,Virginia",17184,488835
+298,"Ritchie County,West Virginia","Bedford City County,Virginia",18345,406741
+299,"Ritchie County,West Virginia","Bristol City County,Virginia",17159,494872
+300,"Ritchie County,West Virginia","Buena Vista City County,Virginia",16014,370941
+301,"Ritchie County,West Virginia","Charlottesville City County,Virginia",18322,415277
+302,"Ritchie County,West Virginia","Chesapeake City County,Virginia",27279,690394
+303,"Ritchie County,West Virginia","Clifton Forge City County,Virginia",13870,308814
+304,"Ritchie County,West Virginia","Colonial Heights City County,Virginia",22988,559619
+305,"Ritchie County,West Virginia","Covington City County,Virginia",13395,292193
+306,"Ritchie County,West Virginia","Danville City County,Virginia",21210,574950
+307,"Ritchie County,West Virginia","Emporia City County,Virginia",25299,629503
+308,"Ritchie County,West Virginia","Fairfax City County,Virginia",16829,473954
+309,"Ritchie County,West Virginia","Falls Church City County,Virginia",16376,465965
+310,"Ritchie County,West Virginia","Franklin City County,Virginia",26517,646879
+311,"Ritchie County,West Virginia","Fredericksburg City County,Virginia",19146,541198
+312,"Ritchie County,West Virginia","Galax City County,Virginia",15802,439639
+313,"Ritchie County,West Virginia","Hampton City County,Virginia",25766,647195
+314,"Ritchie County,West Virginia","Harrisonburg City County,Virginia",15121,336468
+315,"Ritchie County,West Virginia","Hopewell City County,Virginia",23025,558585
+316,"Ritchie County,West Virginia","Lexington City County,Virginia",15648,359432
+317,"Ritchie County,West Virginia","Lynchburg City County,Virginia",19231,434547
+318,"Ritchie County,West Virginia","Manassas City County,Virginia",16659,404968
+319,"Ritchie County,West Virginia","Manassas Park City County,Virginia",17162,411311
+320,"Ritchie County,West Virginia","Martinsville City County,Virginia",19580,529288
+321,"Ritchie County,West Virginia","Newport News City County,Virginia",25323,633681
+322,"Ritchie County,West Virginia","Norfolk City County,Virginia",27073,672611
+323,"Ritchie County,West Virginia","Norton City County,Virginia",16502,431639
+324,"Ritchie County,West Virginia","Petersburg City County,Virginia",22860,560607
+325,"Ritchie County,West Virginia","Poquoson City County,Virginia",25995,644257
+326,"Ritchie County,West Virginia","Portsmouth City County,Virginia",27012,681431
+327,"Ritchie County,West Virginia","Radford County,Virginia",15155,401941
+328,"Ritchie County,West Virginia","Richmond City County,Virginia",21728,524722
+329,"Ritchie County,West Virginia","Roanoke City County,Virginia",16969,466799
+330,"Ritchie County,West Virginia","Salem City County,Virginia",16381,453349
+331,"Ritchie County,West Virginia","South Boston City County,Virginia",23222,629128
+332,"Ritchie County,West Virginia","Staunton City County,Virginia",16030,347193
+333,"Ritchie County,West Virginia","Suffolk City County,Virginia",27247,656213
+334,"Ritchie County,West Virginia","Virginia Beach City County,Virginia",27634,695869
+335,"Ritchie County,West Virginia","Waynesboro City County,Virginia",16984,370173
+336,"Ritchie County,West Virginia","Williamsburg City County,Virginia",24367,605930
+337,"Ritchie County,West Virginia","Winchester City County,Virginia",13709,350815
+338,"Ritchie County,West Virginia","Barbour County,West Virginia",5562,123215
+339,"Ritchie County,West Virginia","Berkeley County,West Virginia",13123,349671
+340,"Ritchie County,West Virginia","Boone County,West Virginia",9685,243114
+341,"Ritchie County,West Virginia","Braxton County,West Virginia",6939,106291
+342,"Ritchie County,West Virginia","Brooke County,West Virginia",8771,172746
+343,"Ritchie County,West Virginia","Cabell County,West Virginia",9413,218774
+344,"Ritchie County,West Virginia","Calhoun County,West Virginia",3165,51275
+345,"Ritchie County,West Virginia","Clay County,West Virginia",7257,128999
+346,"Ritchie County,West Virginia","Doddridge County,West Virginia",2549,48933
+347,"Ritchie County,West Virginia","Fayette County,West Virginia",9366,197180
+348,"Ritchie County,West Virginia","Gilmer County,West Virginia",3815,59734
+349,"Ritchie County,West Virginia","Grant County,West Virginia",10697,236610
+350,"Ritchie County,West Virginia","Greenbrier County,West Virginia",12568,232739
+351,"Ritchie County,West Virginia","Hampshire County,West Virginia",12377,311274
+352,"Ritchie County,West Virginia","Hancock County,West Virginia",10113,202484
+353,"Ritchie County,West Virginia","Hardy County,West Virginia",11784,264214
+354,"Ritchie County,West Virginia","Harrison County,West Virginia",3632,81927
+355,"Ritchie County,West Virginia","Jackson County,West Virginia",4989,124734
+356,"Ritchie County,West Virginia","Jefferson County,West Virginia",14589,405669
+357,"Ritchie County,West Virginia","Kanawha County,West Virginia",8160,211283
+358,"Ritchie County,West Virginia","Lewis County,West Virginia",4964,78474
+359,"Ritchie County,West Virginia","Lincoln County,West Virginia",9942,237701
+360,"Ritchie County,West Virginia","Logan County,West Virginia",10614,280233
+361,"Ritchie County,West Virginia","McDowell County,West Virginia",14523,358595
+362,"Ritchie County,West Virginia","Marion County,West Virginia",5569,125049
+363,"Ritchie County,West Virginia","Marshall County,West Virginia",7357,133866
+364,"Ritchie County,West Virginia","Mason County,West Virginia",6753,168788
+365,"Ritchie County,West Virginia","Mercer County,West Virginia",11487,322842
+366,"Ritchie County,West Virginia","Mineral County,West Virginia",11257,285826
+367,"Ritchie County,West Virginia","Mingo County,West Virginia",10659,284740
+368,"Ritchie County,West Virginia","Monongalia County,West Virginia",5779,150518
+369,"Ritchie County,West Virginia","Monroe County,West Virginia",14176,293808
+370,"Ritchie County,West Virginia","Morgan County,West Virginia",12614,339062
+371,"Ritchie County,West Virginia","Nicholas County,West Virginia",7886,161884
+372,"Ritchie County,West Virginia","Ohio County,West Virginia",7750,155645
+373,"Ritchie County,West Virginia","Pendleton County,West Virginia",11948,281737
+374,"Ritchie County,West Virginia","Pleasants County,West Virginia",1795,27950
+375,"Ritchie County,West Virginia","Pocahontas County,West Virginia",12241,262968
+376,"Ritchie County,West Virginia","Preston County,West Virginia",7925,177249
+377,"Ritchie County,West Virginia","Putnam County,West Virginia",7535,211548
+378,"Ritchie County,West Virginia","Raleigh County,West Virginia",10028,276535
+379,"Ritchie County,West Virginia","Randolph County,West Virginia",7626,179863
+380,"Ritchie County,West Virginia","Roane County,West Virginia",6059,98163
+381,"Ritchie County,West Virginia","Summers County,West Virginia",13480,337973
+382,"Ritchie County,West Virginia","Taylor County,West Virginia",5461,120622
+383,"Ritchie County,West Virginia","Tucker County,West Virginia",8127,173943
+384,"Ritchie County,West Virginia","Tyler County,West Virginia",3964,63745
+385,"Ritchie County,West Virginia","Upshur County,West Virginia",6601,154305
+386,"Ritchie County,West Virginia","Wayne County,West Virginia",10869,292650
+387,"Ritchie County,West Virginia","Webster County,West Virginia",9108,158060
+388,"Ritchie County,West Virginia","Wetzel County,West Virginia",5372,75458
+389,"Ritchie County,West Virginia","Wirt County,West Virginia",3139,54964
+390,"Ritchie County,West Virginia","Wood County,West Virginia",2613,53217
+391,"Ritchie County,West Virginia","Wyoming County,West Virginia",11973,316477

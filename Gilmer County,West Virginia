@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Gilmer County,West Virginia","Adair County,Kentucky",21378,571595
+1,"Gilmer County,West Virginia","Allen County,Kentucky",23997,672243
+2,"Gilmer County,West Virginia","Anderson County,Kentucky",17178,474634
+3,"Gilmer County,West Virginia","Ballard County,Kentucky",30156,864405
+4,"Gilmer County,West Virginia","Barren County,Kentucky",23124,630622
+5,"Gilmer County,West Virginia","Bath County,Kentucky",12825,345815
+6,"Gilmer County,West Virginia","Bell County,Kentucky",20380,481631
+7,"Gilmer County,West Virginia","Boone County,Kentucky",17897,412719
+8,"Gilmer County,West Virginia","Bourbon County,Kentucky",14739,392233
+9,"Gilmer County,West Virginia","Boyd County,Kentucky",9501,240140
+10,"Gilmer County,West Virginia","Boyle County,Kentucky",18407,478521
+11,"Gilmer County,West Virginia","Bracken County,Kentucky",15150,386315
+12,"Gilmer County,West Virginia","Breathitt County,Kentucky",16212,386842
+13,"Gilmer County,West Virginia","Breckinridge County,Kentucky",22711,627315
+14,"Gilmer County,West Virginia","Bullitt County,Kentucky",19281,548435
+15,"Gilmer County,West Virginia","Butler County,Kentucky",23376,649313
+16,"Gilmer County,West Virginia","Caldwell County,Kentucky",26268,755258
+17,"Gilmer County,West Virginia","Calloway County,Kentucky",29078,840251
+18,"Gilmer County,West Virginia","Campbell County,Kentucky",16851,426187
+19,"Gilmer County,West Virginia","Carlisle County,Kentucky",30614,879774
+20,"Gilmer County,West Virginia","Carroll County,Kentucky",19471,474484
+21,"Gilmer County,West Virginia","Carter County,Kentucky",10665,270237
+22,"Gilmer County,West Virginia","Casey County,Kentucky",19901,510026
+23,"Gilmer County,West Virginia","Christian County,Kentucky",25917,750515
+24,"Gilmer County,West Virginia","Clay County,Kentucky",18711,473956
+25,"Gilmer County,West Virginia","Clinton County,Kentucky",21785,574960
+26,"Gilmer County,West Virginia","Crittenden County,Kentucky",27848,788329
+27,"Gilmer County,West Virginia","Cumberland County,Kentucky",22539,593199
+28,"Gilmer County,West Virginia","Daviess County,Kentucky",24399,695756
+29,"Gilmer County,West Virginia","Edmonson County,Kentucky",22816,637188
+30,"Gilmer County,West Virginia","Elliott County,Kentucky",11996,296007
+31,"Gilmer County,West Virginia","Estill County,Kentucky",15818,408131
+32,"Gilmer County,West Virginia","Fayette County,Kentucky",14985,412127
+33,"Gilmer County,West Virginia","Fleming County,Kentucky",13251,349001
+34,"Gilmer County,West Virginia","Floyd County,Kentucky",13634,347405
+35,"Gilmer County,West Virginia","Franklin County,Kentucky",17023,461043
+36,"Gilmer County,West Virginia","Fulton County,Kentucky",31018,900738
+37,"Gilmer County,West Virginia","Gallatin County,Kentucky",18682,446898
+38,"Gilmer County,West Virginia","Garrard County,Kentucky",17590,459280
+39,"Gilmer County,West Virginia","Grant County,Kentucky",17519,487215
+40,"Gilmer County,West Virginia","Graves County,Kentucky",29638,852480
+41,"Gilmer County,West Virginia","Grayson County,Kentucky",21704,605949
+42,"Gilmer County,West Virginia","Green County,Kentucky",21483,571154
+43,"Gilmer County,West Virginia","Greenup County,Kentucky",11276,281266
+44,"Gilmer County,West Virginia","Hancock County,Kentucky",23507,660208
+45,"Gilmer County,West Virginia","Hardin County,Kentucky",20580,568082
+46,"Gilmer County,West Virginia","Harlan County,Kentucky",19703,461947
+47,"Gilmer County,West Virginia","Harrison County,Kentucky",16310,425332
+48,"Gilmer County,West Virginia","Hart County,Kentucky",21379,595710
+49,"Gilmer County,West Virginia","Henderson County,Kentucky",26206,748185
+50,"Gilmer County,West Virginia","Henry County,Kentucky",18624,504762
+51,"Gilmer County,West Virginia","Hickman County,Kentucky",30647,881065
+52,"Gilmer County,West Virginia","Hopkins County,Kentucky",25727,729727
+53,"Gilmer County,West Virginia","Jackson County,Kentucky",18490,456139
+54,"Gilmer County,West Virginia","Jefferson County,Kentucky",18718,520295
+55,"Gilmer County,West Virginia","Jessamine County,Kentucky",16454,433591
+56,"Gilmer County,West Virginia","Johnson County,Kentucky",12282,313036
+57,"Gilmer County,West Virginia","Kenton County,Kentucky",17266,400413
+58,"Gilmer County,West Virginia","Knott County,Kentucky",14816,379287
+59,"Gilmer County,West Virginia","Knox County,Kentucky",19993,538173
+60,"Gilmer County,West Virginia","Larue County,Kentucky",20651,555258
+61,"Gilmer County,West Virginia","Laurel County,Kentucky",18844,509568
+62,"Gilmer County,West Virginia","Lawrence County,Kentucky",11424,284460
+63,"Gilmer County,West Virginia","Lee County,Kentucky",16662,401867
+64,"Gilmer County,West Virginia","Leslie County,Kentucky",17895,448960
+65,"Gilmer County,West Virginia","Letcher County,Kentucky",15888,382226
+66,"Gilmer County,West Virginia","Lewis County,Kentucky",12704,322055
+67,"Gilmer County,West Virginia","Lincoln County,Kentucky",18300,476199
+68,"Gilmer County,West Virginia","Livingston County,Kentucky",28444,805225
+69,"Gilmer County,West Virginia","Logan County,Kentucky",25116,692551
+70,"Gilmer County,West Virginia","Lyon County,Kentucky",28577,815616
+71,"Gilmer County,West Virginia","McCracken County,Kentucky",28769,832465
+72,"Gilmer County,West Virginia","McCreary County,Kentucky",20949,554010
+73,"Gilmer County,West Virginia","Madison County,Kentucky",15983,423150
+74,"Gilmer County,West Virginia","Magoffin County,Kentucky",13250,333715
+75,"Gilmer County,West Virginia","Marion County,Kentucky",19029,516867
+76,"Gilmer County,West Virginia","Marshall County,Kentucky",28183,816037
+77,"Gilmer County,West Virginia","Martin County,Kentucky",12910,316805
+78,"Gilmer County,West Virginia","Mason County,Kentucky",14499,365861
+79,"Gilmer County,West Virginia","Meade County,Kentucky",21178,592610
+80,"Gilmer County,West Virginia","Menifee County,Kentucky",13941,357879
+81,"Gilmer County,West Virginia","Mercer County,Kentucky",17406,472578
+82,"Gilmer County,West Virginia","Metcalfe County,Kentucky",22034,601860
+83,"Gilmer County,West Virginia","Monroe County,Kentucky",24004,639364
+84,"Gilmer County,West Virginia","Montgomery County,Kentucky",13638,364356
+85,"Gilmer County,West Virginia","Morgan County,Kentucky",13720,333595
+86,"Gilmer County,West Virginia","Muhlenberg County,Kentucky",24587,696202
+87,"Gilmer County,West Virginia","Nelson County,Kentucky",18637,515938
+88,"Gilmer County,West Virginia","Nicholas County,Kentucky",15316,392239
+89,"Gilmer County,West Virginia","Ohio County,Kentucky",23500,663792
+90,"Gilmer County,West Virginia","Oldham County,Kentucky",18789,532177
+91,"Gilmer County,West Virginia","Owen County,Kentucky",17845,487820
+92,"Gilmer County,West Virginia","Owsley County,Kentucky",17809,421844
+93,"Gilmer County,West Virginia","Pendleton County,Kentucky",17088,427240
+94,"Gilmer County,West Virginia","Perry County,Kentucky",16195,409844
+95,"Gilmer County,West Virginia","Pike County,Kentucky",13189,312344
+96,"Gilmer County,West Virginia","Powell County,Kentucky",15082,394101
+97,"Gilmer County,West Virginia","Robertson County,Kentucky",15234,391745
+98,"Gilmer County,West Virginia","Rockcastle County,Kentucky",17417,464293
+99,"Gilmer County,West Virginia","Rowan County,Kentucky",11968,318023
+100,"Gilmer County,West Virginia","Russell County,Kentucky",20983,555579
+101,"Gilmer County,West Virginia","Scott County,Kentucky",15819,440154
+102,"Gilmer County,West Virginia","Shelby County,Kentucky",17647,491430
+103,"Gilmer County,West Virginia","Simpson County,Kentucky",24698,700609
+104,"Gilmer County,West Virginia","Spencer County,Kentucky",18176,497278
+105,"Gilmer County,West Virginia","Taylor County,Kentucky",20319,548363
+106,"Gilmer County,West Virginia","Todd County,Kentucky",26353,716712
+107,"Gilmer County,West Virginia","Trigg County,Kentucky",27331,776444
+108,"Gilmer County,West Virginia","Trimble County,Kentucky",19863,538216
+109,"Gilmer County,West Virginia","Union County,Kentucky",27925,778632
+110,"Gilmer County,West Virginia","Warren County,Kentucky",23733,665557
+111,"Gilmer County,West Virginia","Washington County,Kentucky",18647,501175
+112,"Gilmer County,West Virginia","Wayne County,Kentucky",21159,552651
+113,"Gilmer County,West Virginia","Webster County,Kentucky",26836,757815
+114,"Gilmer County,West Virginia","Whitley County,Kentucky",19677,544053
+115,"Gilmer County,West Virginia","Wolfe County,Kentucky",14815,356956
+116,"Gilmer County,West Virginia","Woodford County,Kentucky",16039,442790
+117,"Gilmer County,West Virginia","Adams County,Ohio",13246,296318
+118,"Gilmer County,West Virginia","Allen County,Ohio",18270,437230
+119,"Gilmer County,West Virginia","Ashland County,Ohio",14895,342542
+120,"Gilmer County,West Virginia","Ashtabula County,Ohio",16451,465843
+121,"Gilmer County,West Virginia","Athens County,Ohio",8207,167102
+122,"Gilmer County,West Virginia","Auglaize County,Ohio",17883,440923
+123,"Gilmer County,West Virginia","Belmont County,Ohio",10646,252364
+124,"Gilmer County,West Virginia","Brown County,Ohio",14671,329178
+125,"Gilmer County,West Virginia","Butler County,Ohio",17603,405271
+126,"Gilmer County,West Virginia","Carroll County,Ohio",12576,289250
+127,"Gilmer County,West Virginia","Champaign County,Ohio",15541,356691
+128,"Gilmer County,West Virginia","Clark County,Ohio",14419,347262
+129,"Gilmer County,West Virginia","Clermont County,Ohio",15325,354342
+130,"Gilmer County,West Virginia","Clinton County,Ohio",14716,337758
+131,"Gilmer County,West Virginia","Columbiana County,Ohio",13055,317775
+132,"Gilmer County,West Virginia","Coshocton County,Ohio",11211,260367
+133,"Gilmer County,West Virginia","Crawford County,Ohio",16603,405648
+134,"Gilmer County,West Virginia","Cuyahoga County,Ohio",14612,374654
+135,"Gilmer County,West Virginia","Darke County,Ohio",17995,445164
+136,"Gilmer County,West Virginia","Defiance County,Ohio",21706,515551
+137,"Gilmer County,West Virginia","Delaware County,Ohio",13859,329948
+138,"Gilmer County,West Virginia","Fairfield County,Ohio",11390,257042
+139,"Gilmer County,West Virginia","Fayette County,Ohio",13279,308222
+140,"Gilmer County,West Virginia","Franklin County,Ohio",12390,286897
+141,"Gilmer County,West Virginia","Fulton County,Ohio",21455,580572
+142,"Gilmer County,West Virginia","Gallia County,Ohio",8593,167334
+143,"Gilmer County,West Virginia","Geauga County,Ohio",15683,400372
+144,"Gilmer County,West Virginia","Greene County,Ohio",14150,341375
+145,"Gilmer County,West Virginia","Guernsey County,Ohio",8761,198286
+146,"Gilmer County,West Virginia","Hamilton County,Ohio",17105,415849
+147,"Gilmer County,West Virginia","Hancock County,Ohio",17882,438303
+148,"Gilmer County,West Virginia","Hardin County,Ohio",16781,393059
+149,"Gilmer County,West Virginia","Harrison County,Ohio",11581,271316
+150,"Gilmer County,West Virginia","Henry County,Ohio",20595,509925
+151,"Gilmer County,West Virginia","Highland County,Ohio",13783,296332
+152,"Gilmer County,West Virginia","Hocking County,Ohio",9832,213005
+153,"Gilmer County,West Virginia","Holmes County,Ohio",12270,283251
+154,"Gilmer County,West Virginia","Huron County,Ohio",16793,384171
+155,"Gilmer County,West Virginia","Jackson County,Ohio",9770,206883
+156,"Gilmer County,West Virginia","Jefferson County,Ohio",11802,292746
+157,"Gilmer County,West Virginia","Knox County,Ohio",12999,302843
+158,"Gilmer County,West Virginia","Lawrence County,Ohio",10640,245196
+159,"Gilmer County,West Virginia","Licking County,Ohio",12389,283774
+160,"Gilmer County,West Virginia","Logan County,Ohio",15802,387336
+161,"Gilmer County,West Virginia","Lorain County,Ohio",15836,404478
+162,"Gilmer County,West Virginia","Lucas County,Ohio",20409,533422
+163,"Gilmer County,West Virginia","Madison County,Ohio",13667,321618
+164,"Gilmer County,West Virginia","Mahoning County,Ohio",12937,355835
+165,"Gilmer County,West Virginia","Marion County,Ohio",15265,356041
+166,"Gilmer County,West Virginia","Medina County,Ohio",14285,360685
+167,"Gilmer County,West Virginia","Meigs County,Ohio",7595,152626
+168,"Gilmer County,West Virginia","Mercer County,Ohio",19119,467857
+169,"Gilmer County,West Virginia","Miami County,Ohio",16506,410596
+170,"Gilmer County,West Virginia","Monroe County,Ohio",8539,149163
+171,"Gilmer County,West Virginia","Montgomery County,Ohio",16184,388830
+172,"Gilmer County,West Virginia","Morgan County,Ohio",8649,169449
+173,"Gilmer County,West Virginia","Morrow County,Ohio",14667,352769
+174,"Gilmer County,West Virginia","Muskingum County,Ohio",9607,226278
+175,"Gilmer County,West Virginia","Noble County,Ohio",8203,170638
+176,"Gilmer County,West Virginia","Paulding County,Ohio",20807,513136
+177,"Gilmer County,West Virginia","Perry County,Ohio",11174,215317
+178,"Gilmer County,West Virginia","Pickaway County,Ohio",11995,265947
+179,"Gilmer County,West Virginia","Pike County,Ohio",11216,246190
+180,"Gilmer County,West Virginia","Portage County,Ohio",14134,356236
+181,"Gilmer County,West Virginia","Preble County,Ohio",17537,438754
+182,"Gilmer County,West Virginia","Putnam County,Ohio",19393,469588
+183,"Gilmer County,West Virginia","Richland County,Ohio",15251,355882
+184,"Gilmer County,West Virginia","Ross County,Ohio",11464,254627
+185,"Gilmer County,West Virginia","Sandusky County,Ohio",18697,491997
+186,"Gilmer County,West Virginia","Scioto County,Ohio",11879,236963
+187,"Gilmer County,West Virginia","Seneca County,Ohio",18256,430883
+188,"Gilmer County,West Virginia","Shelby County,Ohio",17560,417584
+189,"Gilmer County,West Virginia","Stark County,Ohio",12435,304485
+190,"Gilmer County,West Virginia","Summit County,Ohio",13193,330274
+191,"Gilmer County,West Virginia","Trumbull County,Ohio",14095,393299
+192,"Gilmer County,West Virginia","Tuscarawas County,Ohio",10635,245073
+193,"Gilmer County,West Virginia","Union County,Ohio",14306,337567
+194,"Gilmer County,West Virginia","Van Wert County,Ohio",19504,480099
+195,"Gilmer County,West Virginia","Vinton County,Ohio",10325,215543
+196,"Gilmer County,West Virginia","Warren County,Ohio",15521,371817
+197,"Gilmer County,West Virginia","Washington County,Ohio",7062,128574
+198,"Gilmer County,West Virginia","Wayne County,Ohio",13406,307364
+199,"Gilmer County,West Virginia","Williams County,Ohio",22700,612028
+200,"Gilmer County,West Virginia","Wood County,Ohio",19280,479911
+201,"Gilmer County,West Virginia","Wyandot County,Ohio",16852,402439
+202,"Gilmer County,West Virginia","Accomack County,Virginia",28364,767718
+203,"Gilmer County,West Virginia","Albemarle County,Virginia",15936,404939
+204,"Gilmer County,West Virginia","Alleghany County,Virginia",10605,241962
+205,"Gilmer County,West Virginia","Amelia County,Virginia",20637,505057
+206,"Gilmer County,West Virginia","Amherst County,Virginia",15934,372927
+207,"Gilmer County,West Virginia","Appomattox County,Virginia",17527,411686
+208,"Gilmer County,West Virginia","Arlington County,Virginia",17228,484645
+209,"Gilmer County,West Virginia","Augusta County,Virginia",14376,293438
+210,"Gilmer County,West Virginia","Bath County,Virginia",13785,275082
+211,"Gilmer County,West Virginia","Bedford County,Virginia",16591,376948
+212,"Gilmer County,West Virginia","Bland County,Virginia",11140,280884
+213,"Gilmer County,West Virginia","Botetourt County,Virginia",13759,313261
+214,"Gilmer County,West Virginia","Brunswick County,Virginia",23180,554730
+215,"Gilmer County,West Virginia","Buchanan County,Virginia",15135,365114
+216,"Gilmer County,West Virginia","Buckingham County,Virginia",17810,422622
+217,"Gilmer County,West Virginia","Campbell County,Virginia",17451,414158
+218,"Gilmer County,West Virginia","Caroline County,Virginia",20214,497908
+219,"Gilmer County,West Virginia","Carroll County,Virginia",13386,350322
+220,"Gilmer County,West Virginia","Charles City County,Virginia",21376,570819
+221,"Gilmer County,West Virginia","Charlotte County,Virginia",19412,465207
+222,"Gilmer County,West Virginia","Chesterfield County,Virginia",20512,548603
+223,"Gilmer County,West Virginia","Clarke County,Virginia",15271,366000
+224,"Gilmer County,West Virginia","Craig County,Virginia",13822,335750
+225,"Gilmer County,West Virginia","Culpeper County,Virginia",17279,420524
+226,"Gilmer County,West Virginia","Cumberland County,Virginia",19020,450624
+227,"Gilmer County,West Virginia","Dickenson County,Virginia",17288,402305
+228,"Gilmer County,West Virginia","Dinwiddie County,Virginia",22259,599034
+229,"Gilmer County,West Virginia","Essex County,Virginia",21615,521962
+230,"Gilmer County,West Virginia","Fairfax County,Virginia",16919,475312
+231,"Gilmer County,West Virginia","Fauquier County,Virginia",15709,387251
+232,"Gilmer County,West Virginia","Floyd County,Virginia",15007,369286
+233,"Gilmer County,West Virginia","Fluvanna County,Virginia",17614,457110
+234,"Gilmer County,West Virginia","Franklin County,Virginia",16760,392371
+235,"Gilmer County,West Virginia","Frederick County,Virginia",13790,329805
+236,"Gilmer County,West Virginia","Giles County,Virginia",11871,292443
+237,"Gilmer County,West Virginia","Gloucester County,Virginia",23546,625007
+238,"Gilmer County,West Virginia","Goochland County,Virginia",18518,487721
+239,"Gilmer County,West Virginia","Grayson County,Virginia",13789,340029
+240,"Gilmer County,West Virginia","Greene County,Virginia",16314,332828
+241,"Gilmer County,West Virginia","Greensville County,Virginia",23675,647786
+242,"Gilmer County,West Virginia","Halifax County,Virginia",20771,485865
+243,"Gilmer County,West Virginia","Hanover County,Virginia",19724,528828
+244,"Gilmer County,West Virginia","Henrico County,Virginia",20235,541788
+245,"Gilmer County,West Virginia","Henry County,Virginia",17259,437043
+246,"Gilmer County,West Virginia","Highland County,Virginia",10924,227239
+247,"Gilmer County,West Virginia","Isle of Wight County,Virginia",24487,646365
+248,"Gilmer County,West Virginia","James City County,Virginia",22612,611590
+249,"Gilmer County,West Virginia","King and Queen County,Virginia",22270,587174
+250,"Gilmer County,West Virginia","King George County,Virginia",20136,481404
+251,"Gilmer County,West Virginia","King William County,Virginia",20957,557096
+252,"Gilmer County,West Virginia","Lancaster County,Virginia",24039,577956
+253,"Gilmer County,West Virginia","Lee County,Virginia",18588,450821
+254,"Gilmer County,West Virginia","Loudoun County,Virginia",16766,401866
+255,"Gilmer County,West Virginia","Louisa County,Virginia",18175,470816
+256,"Gilmer County,West Virginia","Lunenburg County,Virginia",21184,506491
+257,"Gilmer County,West Virginia","Madison County,Virginia",17798,368859
+258,"Gilmer County,West Virginia","Mathews County,Virginia",24371,648431
+259,"Gilmer County,West Virginia","Mecklenburg County,Virginia",22175,519615
+260,"Gilmer County,West Virginia","Middlesex County,Virginia",23148,621207
+261,"Gilmer County,West Virginia","Montgomery County,Virginia",12954,320449
+262,"Gilmer County,West Virginia","Nelson County,Virginia",16475,384618
+263,"Gilmer County,West Virginia","New Kent County,Virginia",22048,585504
+264,"Gilmer County,West Virginia","Northampton County,Virginia",27029,728253
+265,"Gilmer County,West Virginia","Northumberland County,Virginia",24078,576468
+266,"Gilmer County,West Virginia","Nottoway County,Virginia",20677,506871
+267,"Gilmer County,West Virginia","Orange County,Virginia",18823,385642
+268,"Gilmer County,West Virginia","Page County,Virginia",15731,364928
+269,"Gilmer County,West Virginia","Patrick County,Virginia",15492,395358
+270,"Gilmer County,West Virginia","Pittsylvania County,Virginia",19184,442319
+271,"Gilmer County,West Virginia","Powhatan County,Virginia",19771,512943
+272,"Gilmer County,West Virginia","Prince Edward County,Virginia",19292,464206
+273,"Gilmer County,West Virginia","Prince George County,Virginia",22022,585618
+274,"Gilmer County,West Virginia","Prince William County,Virginia",15809,393355
+275,"Gilmer County,West Virginia","Pulaski County,Virginia",13049,316781
+276,"Gilmer County,West Virginia","Rappahannock County,Virginia",16020,372389
+277,"Gilmer County,West Virginia","Richmond County,Virginia",22778,549112
+278,"Gilmer County,West Virginia","Roanoke County,Virginia",14574,363243
+279,"Gilmer County,West Virginia","Rockbridge County,Virginia",12938,310318
+280,"Gilmer County,West Virginia","Rockingham County,Virginia",13771,288241
+281,"Gilmer County,West Virginia","Russell County,Virginia",14949,361065
+282,"Gilmer County,West Virginia","Scott County,Virginia",17613,429191
+283,"Gilmer County,West Virginia","Shenandoah County,Virginia",14169,322323
+284,"Gilmer County,West Virginia","Smyth County,Virginia",13498,346236
+285,"Gilmer County,West Virginia","Southampton County,Virginia",24053,643900
+286,"Gilmer County,West Virginia","Spotsylvania County,Virginia",19326,462392
+287,"Gilmer County,West Virginia","Stafford County,Virginia",18328,451257
+288,"Gilmer County,West Virginia","Surry County,Virginia",23355,610451
+289,"Gilmer County,West Virginia","Sussex County,Virginia",22717,614142
+290,"Gilmer County,West Virginia","Tazewell County,Virginia",11956,299472
+291,"Gilmer County,West Virginia","Warren County,Virginia",14349,335052
+292,"Gilmer County,West Virginia","Washington County,Virginia",14891,385703
+293,"Gilmer County,West Virginia","Westmoreland County,Virginia",21104,500205
+294,"Gilmer County,West Virginia","Wise County,Virginia",15553,378204
+295,"Gilmer County,West Virginia","Wythe County,Virginia",11745,299102
+296,"Gilmer County,West Virginia","York County,Virginia",23899,642364
+297,"Gilmer County,West Virginia","Alexandria City County,Virginia",17743,501826
+298,"Gilmer County,West Virginia","Bedford City County,Virginia",15623,360095
+299,"Gilmer County,West Virginia","Bristol City County,Virginia",15366,411420
+300,"Gilmer County,West Virginia","Buena Vista City County,Virginia",13293,324295
+301,"Gilmer County,West Virginia","Charlottesville City County,Virginia",16405,420153
+302,"Gilmer County,West Virginia","Chesapeake City County,Virginia",25363,695270
+303,"Gilmer County,West Virginia","Clifton Forge City County,Virginia",11149,262168
+304,"Gilmer County,West Virginia","Colonial Heights City County,Virginia",21072,564495
+305,"Gilmer County,West Virginia","Covington City County,Virginia",10674,245547
+306,"Gilmer County,West Virginia","Danville City County,Virginia",19417,491499
+307,"Gilmer County,West Virginia","Emporia City County,Virginia",23382,634379
+308,"Gilmer County,West Virginia","Fairfax City County,Virginia",16941,419102
+309,"Gilmer County,West Virginia","Falls Church City County,Virginia",16936,478957
+310,"Gilmer County,West Virginia","Franklin City County,Virginia",24600,651754
+311,"Gilmer County,West Virginia","Fredericksburg City County,Virginia",18649,448099
+312,"Gilmer County,West Virginia","Galax City County,Virginia",14009,356188
+313,"Gilmer County,West Virginia","Hampton City County,Virginia",23850,652070
+314,"Gilmer County,West Virginia","Harrisonburg City County,Virginia",13609,283402
+315,"Gilmer County,West Virginia","Hopewell City County,Virginia",21108,563461
+316,"Gilmer County,West Virginia","Lexington City County,Virginia",12927,312786
+317,"Gilmer County,West Virginia","Lynchburg City County,Virginia",16510,387901
+318,"Gilmer County,West Virginia","Manassas City County,Virginia",16036,398300
+319,"Gilmer County,West Virginia","Manassas Park City County,Virginia",16538,404643
+320,"Gilmer County,West Virginia","Martinsville City County,Virginia",17787,445836
+321,"Gilmer County,West Virginia","Newport News City County,Virginia",23406,638556
+322,"Gilmer County,West Virginia","Norfolk City County,Virginia",25156,677486
+323,"Gilmer County,West Virginia","Norton City County,Virginia",16181,390016
+324,"Gilmer County,West Virginia","Petersburg City County,Virginia",20943,565483
+325,"Gilmer County,West Virginia","Poquoson City County,Virginia",24078,649133
+326,"Gilmer County,West Virginia","Portsmouth City County,Virginia",25095,686307
+327,"Gilmer County,West Virginia","Radford County,Virginia",13362,318490
+328,"Gilmer County,West Virginia","Richmond City County,Virginia",19811,529598
+329,"Gilmer County,West Virginia","Roanoke City County,Virginia",14656,342730
+330,"Gilmer County,West Virginia","Salem City County,Virginia",14486,341201
+331,"Gilmer County,West Virginia","South Boston City County,Virginia",20775,484683
+332,"Gilmer County,West Virginia","Staunton City County,Virginia",14518,294127
+333,"Gilmer County,West Virginia","Suffolk City County,Virginia",25330,661089
+334,"Gilmer County,West Virginia","Virginia Beach City County,Virginia",25717,700745
+335,"Gilmer County,West Virginia","Waynesboro City County,Virginia",15036,380148
+336,"Gilmer County,West Virginia","Williamsburg City County,Virginia",22450,610805
+337,"Gilmer County,West Virginia","Winchester City County,Virginia",14269,363806
+338,"Gilmer County,West Virginia","Barbour County,West Virginia",5749,124503
+339,"Gilmer County,West Virginia","Berkeley County,West Virginia",13683,362662
+340,"Gilmer County,West Virginia","Boone County,West Virginia",9363,201491
+341,"Gilmer County,West Virginia","Braxton County,West Virginia",3810,42524
+342,"Gilmer County,West Virginia","Brooke County,West Virginia",10108,256296
+343,"Gilmer County,West Virginia","Cabell County,West Virginia",8957,218401
+344,"Gilmer County,West Virginia","Calhoun County,West Virginia",2540,42940
+345,"Gilmer County,West Virginia","Clay County,West Virginia",5609,103138
+346,"Gilmer County,West Virginia","Doddridge County,West Virginia",3595,61029
+347,"Gilmer County,West Virginia","Fayette County,West Virginia",6645,150534
+348,"Gilmer County,West Virginia","Grant County,West Virginia",10105,226048
+349,"Gilmer County,West Virginia","Greenbrier County,West Virginia",9846,186094
+350,"Gilmer County,West Virginia","Hampshire County,West Virginia",12937,324265
+351,"Gilmer County,West Virginia","Hancock County,West Virginia",11734,283643
+352,"Gilmer County,West Virginia","Hardy County,West Virginia",11160,257545
+353,"Gilmer County,West Virginia","Harrison County,West Virginia",4983,110873
+354,"Gilmer County,West Virginia","Jackson County,West Virginia",4931,93822
+355,"Gilmer County,West Virginia","Jefferson County,West Virginia",15148,418660
+356,"Gilmer County,West Virginia","Kanawha County,West Virginia",7839,169660
+357,"Gilmer County,West Virginia","Lewis County,West Virginia",2972,48031
+358,"Gilmer County,West Virginia","Lincoln County,West Virginia",9621,196079
+359,"Gilmer County,West Virginia","Logan County,West Virginia",10293,238610
+360,"Gilmer County,West Virginia","McDowell County,West Virginia",12730,275144
+361,"Gilmer County,West Virginia","Marion County,West Virginia",6128,138041
+362,"Gilmer County,West Virginia","Marshall County,West Virginia",10813,186770
+363,"Gilmer County,West Virginia","Mason County,West Virginia",8259,165496
+364,"Gilmer County,West Virginia","Mercer County,West Virginia",9694,239391
+365,"Gilmer County,West Virginia","Mineral County,West Virginia",11799,254869
+366,"Gilmer County,West Virginia","Mingo County,West Virginia",10338,243118
+367,"Gilmer County,West Virginia","Monongalia County,West Virginia",6339,163509
+368,"Gilmer County,West Virginia","Monroe County,West Virginia",11455,247162
+369,"Gilmer County,West Virginia","Morgan County,West Virginia",13174,352054
+370,"Gilmer County,West Virginia","Nicholas County,West Virginia",5165,115238
+371,"Gilmer County,West Virginia","Ohio County,West Virginia",10014,265242
+372,"Gilmer County,West Virginia","Pendleton County,West Virginia",10436,228672
+373,"Gilmer County,West Virginia","Pleasants County,West Virginia",5391,86482
+374,"Gilmer County,West Virginia","Pocahontas County,West Virginia",10495,184777
+375,"Gilmer County,West Virginia","Preston County,West Virginia",8485,190240
+376,"Gilmer County,West Virginia","Putnam County,West Virginia",7214,169926
+377,"Gilmer County,West Virginia","Raleigh County,West Virginia",8235,193084
+378,"Gilmer County,West Virginia","Randolph County,West Virginia",6114,126798
+379,"Gilmer County,West Virginia","Ritchie County,West Virginia",3784,59734
+380,"Gilmer County,West Virginia","Roane County,West Virginia",4411,72302
+381,"Gilmer County,West Virginia","Summers County,West Virginia",11441,223529
+382,"Gilmer County,West Virginia","Taylor County,West Virginia",6021,133613
+383,"Gilmer County,West Virginia","Tucker County,West Virginia",7181,157323
+384,"Gilmer County,West Virginia","Tyler County,West Virginia",6892,117363
+385,"Gilmer County,West Virginia","Upshur County,West Virginia",5089,101239
+386,"Gilmer County,West Virginia","Wayne County,West Virginia",10548,251027
+387,"Gilmer County,West Virginia","Webster County,West Virginia",6387,111414
+388,"Gilmer County,West Virginia","Wetzel County,West Virginia",7663,162356
+389,"Gilmer County,West Virginia","Wirt County,West Virginia",4068,79962
+390,"Gilmer County,West Virginia","Wood County,West Virginia",5381,94453
+391,"Gilmer County,West Virginia","Wyoming County,West Virginia",10186,233057

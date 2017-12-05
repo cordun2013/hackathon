@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wood County,West Virginia","Adair County,Kentucky",19644,560796
+1,"Wood County,West Virginia","Allen County,Kentucky",22262,661444
+2,"Wood County,West Virginia","Anderson County,Kentucky",15444,463836
+3,"Wood County,West Virginia","Ballard County,Kentucky",28422,853607
+4,"Wood County,West Virginia","Barren County,Kentucky",21389,619824
+5,"Wood County,West Virginia","Bath County,Kentucky",11091,335017
+6,"Wood County,West Virginia","Bell County,Kentucky",18646,470832
+7,"Wood County,West Virginia","Boone County,Kentucky",13470,345295
+8,"Wood County,West Virginia","Bourbon County,Kentucky",13005,381434
+9,"Wood County,West Virginia","Boyd County,Kentucky",7767,229341
+10,"Wood County,West Virginia","Boyle County,Kentucky",16673,467722
+11,"Wood County,West Virginia","Bracken County,Kentucky",12348,299374
+12,"Wood County,West Virginia","Breathitt County,Kentucky",14478,376043
+13,"Wood County,West Virginia","Breckinridge County,Kentucky",20977,616517
+14,"Wood County,West Virginia","Bullitt County,Kentucky",17547,537636
+15,"Wood County,West Virginia","Butler County,Kentucky",21642,638515
+16,"Wood County,West Virginia","Caldwell County,Kentucky",24534,744460
+17,"Wood County,West Virginia","Calloway County,Kentucky",27344,829452
+18,"Wood County,West Virginia","Campbell County,Kentucky",13099,334449
+19,"Wood County,West Virginia","Carlisle County,Kentucky",28879,868975
+20,"Wood County,West Virginia","Carroll County,Kentucky",15044,407060
+21,"Wood County,West Virginia","Carter County,Kentucky",8931,259438
+22,"Wood County,West Virginia","Casey County,Kentucky",18167,499227
+23,"Wood County,West Virginia","Christian County,Kentucky",24183,739717
+24,"Wood County,West Virginia","Clay County,Kentucky",16976,463158
+25,"Wood County,West Virginia","Clinton County,Kentucky",20051,564162
+26,"Wood County,West Virginia","Crittenden County,Kentucky",26114,777530
+27,"Wood County,West Virginia","Cumberland County,Kentucky",20805,582401
+28,"Wood County,West Virginia","Daviess County,Kentucky",22665,684957
+29,"Wood County,West Virginia","Edmonson County,Kentucky",21082,626389
+30,"Wood County,West Virginia","Elliott County,Kentucky",10262,285208
+31,"Wood County,West Virginia","Estill County,Kentucky",14083,397332
+32,"Wood County,West Virginia","Fayette County,Kentucky",13251,401328
+33,"Wood County,West Virginia","Fleming County,Kentucky",11517,338202
+34,"Wood County,West Virginia","Floyd County,Kentucky",11899,336606
+35,"Wood County,West Virginia","Franklin County,Kentucky",15288,450245
+36,"Wood County,West Virginia","Fulton County,Kentucky",29283,889939
+37,"Wood County,West Virginia","Gallatin County,Kentucky",14255,379473
+38,"Wood County,West Virginia","Garrard County,Kentucky",15856,448482
+39,"Wood County,West Virginia","Grant County,Kentucky",14322,379947
+40,"Wood County,West Virginia","Graves County,Kentucky",27904,841681
+41,"Wood County,West Virginia","Grayson County,Kentucky",19969,595151
+42,"Wood County,West Virginia","Green County,Kentucky",19749,560356
+43,"Wood County,West Virginia","Greenup County,Kentucky",8828,212604
+44,"Wood County,West Virginia","Hancock County,Kentucky",21773,649410
+45,"Wood County,West Virginia","Hardin County,Kentucky",18845,557283
+46,"Wood County,West Virginia","Harlan County,Kentucky",17969,451149
+47,"Wood County,West Virginia","Harrison County,Kentucky",14790,351279
+48,"Wood County,West Virginia","Hart County,Kentucky",19645,584912
+49,"Wood County,West Virginia","Henderson County,Kentucky",24471,737387
+50,"Wood County,West Virginia","Henry County,Kentucky",16230,435383
+51,"Wood County,West Virginia","Hickman County,Kentucky",28913,870267
+52,"Wood County,West Virginia","Hopkins County,Kentucky",23992,718928
+53,"Wood County,West Virginia","Jackson County,Kentucky",16756,445341
+54,"Wood County,West Virginia","Jefferson County,Kentucky",16983,509497
+55,"Wood County,West Virginia","Jessamine County,Kentucky",14720,422792
+56,"Wood County,West Virginia","Johnson County,Kentucky",10548,302237
+57,"Wood County,West Virginia","Kenton County,Kentucky",12839,332988
+58,"Wood County,West Virginia","Knott County,Kentucky",13081,368488
+59,"Wood County,West Virginia","Knox County,Kentucky",18259,527374
+60,"Wood County,West Virginia","Larue County,Kentucky",18917,544459
+61,"Wood County,West Virginia","Laurel County,Kentucky",17110,498769
+62,"Wood County,West Virginia","Lawrence County,Kentucky",9690,273661
+63,"Wood County,West Virginia","Lee County,Kentucky",14928,391069
+64,"Wood County,West Virginia","Leslie County,Kentucky",16161,438162
+65,"Wood County,West Virginia","Letcher County,Kentucky",14153,371428
+66,"Wood County,West Virginia","Lewis County,Kentucky",10594,262239
+67,"Wood County,West Virginia","Lincoln County,Kentucky",16566,465400
+68,"Wood County,West Virginia","Livingston County,Kentucky",26709,794427
+69,"Wood County,West Virginia","Logan County,Kentucky",23382,681753
+70,"Wood County,West Virginia","Lyon County,Kentucky",26843,804817
+71,"Wood County,West Virginia","McCracken County,Kentucky",27034,821667
+72,"Wood County,West Virginia","McCreary County,Kentucky",19215,543211
+73,"Wood County,West Virginia","Madison County,Kentucky",14249,412351
+74,"Wood County,West Virginia","Magoffin County,Kentucky",11516,322916
+75,"Wood County,West Virginia","Marion County,Kentucky",17295,506068
+76,"Wood County,West Virginia","Marshall County,Kentucky",26449,805238
+77,"Wood County,West Virginia","Martin County,Kentucky",11175,306006
+78,"Wood County,West Virginia","Mason County,Kentucky",11893,278252
+79,"Wood County,West Virginia","Meade County,Kentucky",19444,581812
+80,"Wood County,West Virginia","Menifee County,Kentucky",12207,347080
+81,"Wood County,West Virginia","Mercer County,Kentucky",15671,461779
+82,"Wood County,West Virginia","Metcalfe County,Kentucky",20300,591061
+83,"Wood County,West Virginia","Monroe County,Kentucky",22270,628565
+84,"Wood County,West Virginia","Montgomery County,Kentucky",11904,353557
+85,"Wood County,West Virginia","Morgan County,Kentucky",11985,322796
+86,"Wood County,West Virginia","Muhlenberg County,Kentucky",22853,685404
+87,"Wood County,West Virginia","Nelson County,Kentucky",16903,505140
+88,"Wood County,West Virginia","Nicholas County,Kentucky",13082,319694
+89,"Wood County,West Virginia","Ohio County,Kentucky",21766,652994
+90,"Wood County,West Virginia","Oldham County,Kentucky",16345,448488
+91,"Wood County,West Virginia","Owen County,Kentucky",15487,405862
+92,"Wood County,West Virginia","Owsley County,Kentucky",16075,411045
+93,"Wood County,West Virginia","Pendleton County,Kentucky",13975,356291
+94,"Wood County,West Virginia","Perry County,Kentucky",14461,399046
+95,"Wood County,West Virginia","Pike County,Kentucky",11455,301545
+96,"Wood County,West Virginia","Powell County,Kentucky",13348,383303
+97,"Wood County,West Virginia","Robertson County,Kentucky",13002,300667
+98,"Wood County,West Virginia","Rockcastle County,Kentucky",15683,453494
+99,"Wood County,West Virginia","Rowan County,Kentucky",10234,307224
+100,"Wood County,West Virginia","Russell County,Kentucky",19248,544780
+101,"Wood County,West Virginia","Scott County,Kentucky",14085,429355
+102,"Wood County,West Virginia","Shelby County,Kentucky",15912,480631
+103,"Wood County,West Virginia","Simpson County,Kentucky",22964,689810
+104,"Wood County,West Virginia","Spencer County,Kentucky",16442,486479
+105,"Wood County,West Virginia","Taylor County,Kentucky",18584,537564
+106,"Wood County,West Virginia","Todd County,Kentucky",24618,705913
+107,"Wood County,West Virginia","Trigg County,Kentucky",25596,765646
+108,"Wood County,West Virginia","Trimble County,Kentucky",15943,430384
+109,"Wood County,West Virginia","Union County,Kentucky",26191,767833
+110,"Wood County,West Virginia","Warren County,Kentucky",21998,654758
+111,"Wood County,West Virginia","Washington County,Kentucky",16913,490376
+112,"Wood County,West Virginia","Wayne County,Kentucky",19424,541853
+113,"Wood County,West Virginia","Webster County,Kentucky",25102,747017
+114,"Wood County,West Virginia","Whitley County,Kentucky",17943,533254
+115,"Wood County,West Virginia","Wolfe County,Kentucky",13080,346158
+116,"Wood County,West Virginia","Woodford County,Kentucky",14305,431991
+117,"Wood County,West Virginia","Adams County,Ohio",8819,228894
+118,"Wood County,West Virginia","Allen County,Ohio",13279,346532
+119,"Wood County,West Virginia","Ashland County,Ohio",9904,251844
+120,"Wood County,West Virginia","Ashtabula County,Ohio",12592,372742
+121,"Wood County,West Virginia","Athens County,Ohio",3215,76404
+122,"Wood County,West Virginia","Auglaize County,Ohio",12892,350226
+123,"Wood County,West Virginia","Belmont County,Ohio",5655,161666
+124,"Wood County,West Virginia","Brown County,Ohio",10244,261754
+125,"Wood County,West Virginia","Butler County,Ohio",13067,341973
+126,"Wood County,West Virginia","Carroll County,Ohio",7584,198552
+127,"Wood County,West Virginia","Champaign County,Ohio",10550,265993
+128,"Wood County,West Virginia","Clark County,Ohio",9427,256564
+129,"Wood County,West Virginia","Clermont County,Ohio",10898,286918
+130,"Wood County,West Virginia","Clinton County,Ohio",10320,270403
+131,"Wood County,West Virginia","Columbiana County,Ohio",9426,252788
+132,"Wood County,West Virginia","Coshocton County,Ohio",6220,169669
+133,"Wood County,West Virginia","Crawford County,Ohio",11612,314950
+134,"Wood County,West Virginia","Cuyahoga County,Ohio",9620,283956
+135,"Wood County,West Virginia","Darke County,Ohio",13003,354466
+136,"Wood County,West Virginia","Defiance County,Ohio",16714,424853
+137,"Wood County,West Virginia","Delaware County,Ohio",8868,239250
+138,"Wood County,West Virginia","Fairfield County,Ohio",6399,166344
+139,"Wood County,West Virginia","Fayette County,Ohio",8884,240867
+140,"Wood County,West Virginia","Franklin County,Ohio",7399,196199
+141,"Wood County,West Virginia","Fulton County,Ohio",16464,489874
+142,"Wood County,West Virginia","Gallia County,Ohio",5032,118205
+143,"Wood County,West Virginia","Geauga County,Ohio",10692,309674
+144,"Wood County,West Virginia","Greene County,Ohio",9754,274019
+145,"Wood County,West Virginia","Guernsey County,Ohio",3770,107588
+146,"Wood County,West Virginia","Hamilton County,Ohio",12568,352551
+147,"Wood County,West Virginia","Hancock County,Ohio",12891,347605
+148,"Wood County,West Virginia","Hardin County,Ohio",11790,302361
+149,"Wood County,West Virginia","Harrison County,Ohio",6590,180618
+150,"Wood County,West Virginia","Henry County,Ohio",15604,419227
+151,"Wood County,West Virginia","Highland County,Ohio",9356,228907
+152,"Wood County,West Virginia","Hocking County,Ohio",4841,122307
+153,"Wood County,West Virginia","Holmes County,Ohio",7278,192553
+154,"Wood County,West Virginia","Huron County,Ohio",11801,293473
+155,"Wood County,West Virginia","Jackson County,Ohio",5343,139459
+156,"Wood County,West Virginia","Jefferson County,Ohio",7583,190396
+157,"Wood County,West Virginia","Knox County,Ohio",8008,212145
+158,"Wood County,West Virginia","Lawrence County,Ohio",7625,157595
+159,"Wood County,West Virginia","Licking County,Ohio",7398,193076
+160,"Wood County,West Virginia","Logan County,Ohio",10810,296638
+161,"Wood County,West Virginia","Lorain County,Ohio",10845,313780
+162,"Wood County,West Virginia","Lucas County,Ohio",15418,442724
+163,"Wood County,West Virginia","Madison County,Ohio",8676,230920
+164,"Wood County,West Virginia","Mahoning County,Ohio",9921,267593
+165,"Wood County,West Virginia","Marion County,Ohio",10274,265343
+166,"Wood County,West Virginia","Medina County,Ohio",9294,269987
+167,"Wood County,West Virginia","Meigs County,Ohio",3181,68982
+168,"Wood County,West Virginia","Mercer County,Ohio",14128,377159
+169,"Wood County,West Virginia","Miami County,Ohio",11514,319898
+170,"Wood County,West Virginia","Monroe County,Ohio",4706,96780
+171,"Wood County,West Virginia","Montgomery County,Ohio",11775,325344
+172,"Wood County,West Virginia","Morgan County,Ohio",3658,78751
+173,"Wood County,West Virginia","Morrow County,Ohio",9676,262071
+174,"Wood County,West Virginia","Muskingum County,Ohio",4616,135580
+175,"Wood County,West Virginia","Noble County,Ohio",3212,79940
+176,"Wood County,West Virginia","Paulding County,Ohio",15816,422438
+177,"Wood County,West Virginia","Perry County,Ohio",6183,124619
+178,"Wood County,West Virginia","Pickaway County,Ohio",7004,175249
+179,"Wood County,West Virginia","Pike County,Ohio",6789,178765
+180,"Wood County,West Virginia","Portage County,Ohio",9142,265538
+181,"Wood County,West Virginia","Preble County,Ohio",12545,348056
+182,"Wood County,West Virginia","Putnam County,Ohio",14402,378890
+183,"Wood County,West Virginia","Richland County,Ohio",10260,265184
+184,"Wood County,West Virginia","Ross County,Ohio",7069,187272
+185,"Wood County,West Virginia","Sandusky County,Ohio",13706,401299
+186,"Wood County,West Virginia","Scioto County,Ohio",7427,194836
+187,"Wood County,West Virginia","Seneca County,Ohio",13265,340185
+188,"Wood County,West Virginia","Shelby County,Ohio",12568,326886
+189,"Wood County,West Virginia","Stark County,Ohio",7443,213787
+190,"Wood County,West Virginia","Summit County,Ohio",8202,239576
+191,"Wood County,West Virginia","Trumbull County,Ohio",10877,293840
+192,"Wood County,West Virginia","Tuscarawas County,Ohio",5644,154375
+193,"Wood County,West Virginia","Union County,Ohio",9314,246869
+194,"Wood County,West Virginia","Van Wert County,Ohio",14513,389401
+195,"Wood County,West Virginia","Vinton County,Ohio",5333,124845
+196,"Wood County,West Virginia","Warren County,Ohio",10984,308519
+197,"Wood County,West Virginia","Washington County,Ohio",2070,37876
+198,"Wood County,West Virginia","Wayne County,Ohio",8415,216666
+199,"Wood County,West Virginia","Williams County,Ohio",17709,521331
+200,"Wood County,West Virginia","Wood County,Ohio",14289,389213
+201,"Wood County,West Virginia","Wyandot County,Ohio",11861,311741
+202,"Wood County,West Virginia","Accomack County,Virginia",28652,785844
+203,"Wood County,West Virginia","Albemarle County,Virginia",17247,508672
+204,"Wood County,West Virginia","Alleghany County,Virginia",11916,345695
+205,"Wood County,West Virginia","Amelia County,Virginia",21948,608790
+206,"Wood County,West Virginia","Amherst County,Virginia",17245,476661
+207,"Wood County,West Virginia","Appomattox County,Virginia",18838,515420
+208,"Wood County,West Virginia","Arlington County,Virginia",17515,502771
+209,"Wood County,West Virginia","Augusta County,Virginia",15858,447011
+210,"Wood County,West Virginia","Bath County,Virginia",14928,421005
+211,"Wood County,West Virginia","Bedford County,Virginia",17505,462785
+212,"Wood County,West Virginia","Bland County,Virginia",10878,311914
+213,"Wood County,West Virginia","Botetourt County,Virginia",15070,416994
+214,"Wood County,West Virginia","Brunswick County,Virginia",24491,658463
+215,"Wood County,West Virginia","Buchanan County,Virginia",14873,396144
+216,"Wood County,West Virginia","Buckingham County,Virginia",19121,526355
+217,"Wood County,West Virginia","Campbell County,Virginia",18762,517892
+218,"Wood County,West Virginia","Caroline County,Virginia",21521,621760
+219,"Wood County,West Virginia","Carroll County,Virginia",13123,381352
+220,"Wood County,West Virginia","Charles City County,Virginia",22687,674552
+221,"Wood County,West Virginia","Charlotte County,Virginia",20723,568940
+222,"Wood County,West Virginia","Chesterfield County,Virginia",21823,652336
+223,"Wood County,West Virginia","Clarke County,Virginia",15628,403407
+224,"Wood County,West Virginia","Craig County,Virginia",13559,366780
+225,"Wood County,West Virginia","Culpeper County,Virginia",18749,458311
+226,"Wood County,West Virginia","Cumberland County,Virginia",20330,554357
+227,"Wood County,West Virginia","Dickenson County,Virginia",15554,391506
+228,"Wood County,West Virginia","Dinwiddie County,Virginia",23570,702767
+229,"Wood County,West Virginia","Essex County,Virginia",22922,645815
+230,"Wood County,West Virginia","Fairfax County,Virginia",17206,493438
+231,"Wood County,West Virginia","Fauquier County,Virginia",17179,425037
+232,"Wood County,West Virginia","Floyd County,Virginia",14744,400316
+233,"Wood County,West Virginia","Fluvanna County,Virginia",18925,560843
+234,"Wood County,West Virginia","Franklin County,Virginia",17017,464019
+235,"Wood County,West Virginia","Frederick County,Virginia",14418,378128
+236,"Wood County,West Virginia","Giles County,Virginia",11609,323473
+237,"Wood County,West Virginia","Gloucester County,Virginia",24857,728740
+238,"Wood County,West Virginia","Goochland County,Virginia",19828,591454
+239,"Wood County,West Virginia","Grayson County,Virginia",13526,371059
+240,"Wood County,West Virginia","Greene County,Virginia",18673,417011
+241,"Wood County,West Virginia","Greensville County,Virginia",24986,751519
+242,"Wood County,West Virginia","Halifax County,Virginia",21427,579039
+243,"Wood County,West Virginia","Hanover County,Virginia",21035,632561
+244,"Wood County,West Virginia","Henrico County,Virginia",21546,645521
+245,"Wood County,West Virginia","Henry County,Virginia",16997,468073
+246,"Wood County,West Virginia","Highland County,Virginia",13283,311422
+247,"Wood County,West Virginia","Isle of Wight County,Virginia",25798,750098
+248,"Wood County,West Virginia","James City County,Virginia",23923,715323
+249,"Wood County,West Virginia","King and Queen County,Virginia",23581,690907
+250,"Wood County,West Virginia","King George County,Virginia",21481,605621
+251,"Wood County,West Virginia","King William County,Virginia",22268,660829
+252,"Wood County,West Virginia","Lancaster County,Virginia",25345,701809
+253,"Wood County,West Virginia","Lee County,Virginia",16854,440022
+254,"Wood County,West Virginia","Loudoun County,Virginia",17124,439273
+255,"Wood County,West Virginia","Louisa County,Virginia",19486,574549
+256,"Wood County,West Virginia","Lunenburg County,Virginia",22495,610224
+257,"Wood County,West Virginia","Madison County,Virginia",19172,446569
+258,"Wood County,West Virginia","Mathews County,Virginia",25682,752164
+259,"Wood County,West Virginia","Mecklenburg County,Virginia",23486,623349
+260,"Wood County,West Virginia","Middlesex County,Virginia",24459,724941
+261,"Wood County,West Virginia","Montgomery County,Virginia",12692,351479
+262,"Wood County,West Virginia","Nelson County,Virginia",17786,488352
+263,"Wood County,West Virginia","New Kent County,Virginia",23359,689237
+264,"Wood County,West Virginia","Northampton County,Virginia",28340,831986
+265,"Wood County,West Virginia","Northumberland County,Virginia",25385,700321
+266,"Wood County,West Virginia","Nottoway County,Virginia",21988,610604
+267,"Wood County,West Virginia","Orange County,Virginia",20090,492809
+268,"Wood County,West Virginia","Page County,Virginia",17202,402719
+269,"Wood County,West Virginia","Patrick County,Virginia",15229,426388
+270,"Wood County,West Virginia","Pittsylvania County,Virginia",19313,522281
+271,"Wood County,West Virginia","Powhatan County,Virginia",21082,616676
+272,"Wood County,West Virginia","Prince Edward County,Virginia",20603,567940
+273,"Wood County,West Virginia","Prince George County,Virginia",23333,689351
+274,"Wood County,West Virginia","Prince William County,Virginia",17279,431141
+275,"Wood County,West Virginia","Pulaski County,Virginia",12787,347811
+276,"Wood County,West Virginia","Rappahannock County,Virginia",17490,410175
+277,"Wood County,West Virginia","Richmond County,Virginia",24085,672965
+278,"Wood County,West Virginia","Roanoke County,Virginia",14311,394273
+279,"Wood County,West Virginia","Rockbridge County,Virginia",14249,414051
+280,"Wood County,West Virginia","Rockingham County,Virginia",15373,370646
+281,"Wood County,West Virginia","Russell County,Virginia",14686,392095
+282,"Wood County,West Virginia","Scott County,Virginia",17030,438960
+283,"Wood County,West Virginia","Shenandoah County,Virginia",15640,360109
+284,"Wood County,West Virginia","Smyth County,Virginia",13236,377266
+285,"Wood County,West Virginia","Southampton County,Virginia",25364,747633
+286,"Wood County,West Virginia","Spotsylvania County,Virginia",20796,500178
+287,"Wood County,West Virginia","Stafford County,Virginia",19180,556725
+288,"Wood County,West Virginia","Surry County,Virginia",24666,714184
+289,"Wood County,West Virginia","Sussex County,Virginia",24028,717876
+290,"Wood County,West Virginia","Tazewell County,Virginia",11693,330502
+291,"Wood County,West Virginia","Warren County,Virginia",15820,372838
+292,"Wood County,West Virginia","Washington County,Virginia",14629,416733
+293,"Wood County,West Virginia","Westmoreland County,Virginia",22449,624422
+294,"Wood County,West Virginia","Wise County,Virginia",13818,367405
+295,"Wood County,West Virginia","Wythe County,Virginia",11483,330131
+296,"Wood County,West Virginia","York County,Virginia",25210,746097
+297,"Wood County,West Virginia","Alexandria City County,Virginia",18031,519953
+298,"Wood County,West Virginia","Bedford City County,Virginia",16669,454217
+299,"Wood County,West Virginia","Bristol City County,Virginia",15104,442450
+300,"Wood County,West Virginia","Buena Vista City County,Virginia",14603,428028
+301,"Wood County,West Virginia","Charlottesville City County,Virginia",17716,523886
+302,"Wood County,West Virginia","Chesapeake City County,Virginia",26673,799003
+303,"Wood County,West Virginia","Clifton Forge City County,Virginia",12460,365901
+304,"Wood County,West Virginia","Colonial Heights City County,Virginia",22382,668228
+305,"Wood County,West Virginia","Covington City County,Virginia",11985,349280
+306,"Wood County,West Virginia","Danville City County,Virginia",19154,522529
+307,"Wood County,West Virginia","Emporia City County,Virginia",24693,738112
+308,"Wood County,West Virginia","Fairfax City County,Virginia",17676,505071
+309,"Wood County,West Virginia","Falls Church City County,Virginia",17224,497083
+310,"Wood County,West Virginia","Franklin City County,Virginia",25911,755488
+311,"Wood County,West Virginia","Fredericksburg City County,Virginia",19993,572316
+312,"Wood County,West Virginia","Galax City County,Virginia",13747,387218
+313,"Wood County,West Virginia","Hampton City County,Virginia",25160,755804
+314,"Wood County,West Virginia","Harrisonburg City County,Virginia",15969,367585
+315,"Wood County,West Virginia","Hopewell City County,Virginia",22419,667194
+316,"Wood County,West Virginia","Lexington City County,Virginia",14238,416520
+317,"Wood County,West Virginia","Lynchburg City County,Virginia",17821,491634
+318,"Wood County,West Virginia","Manassas City County,Virginia",17507,436086
+319,"Wood County,West Virginia","Manassas Park City County,Virginia",18009,442429
+320,"Wood County,West Virginia","Martinsville City County,Virginia",17524,476866
+321,"Wood County,West Virginia","Newport News City County,Virginia",24717,742290
+322,"Wood County,West Virginia","Norfolk City County,Virginia",26467,781220
+323,"Wood County,West Virginia","Norton City County,Virginia",14447,379217
+324,"Wood County,West Virginia","Petersburg City County,Virginia",22254,669216
+325,"Wood County,West Virginia","Poquoson City County,Virginia",25389,752866
+326,"Wood County,West Virginia","Portsmouth City County,Virginia",26406,790040
+327,"Wood County,West Virginia","Radford County,Virginia",13099,349520
+328,"Wood County,West Virginia","Richmond City County,Virginia",21122,633331
+329,"Wood County,West Virginia","Roanoke City County,Virginia",14913,414378
+330,"Wood County,West Virginia","Salem City County,Virginia",14325,400928
+331,"Wood County,West Virginia","South Boston City County,Virginia",21166,576707
+332,"Wood County,West Virginia","Staunton City County,Virginia",16009,471163
+333,"Wood County,West Virginia","Suffolk City County,Virginia",26641,764822
+334,"Wood County,West Virginia","Virginia Beach City County,Virginia",27028,804478
+335,"Wood County,West Virginia","Waynesboro City County,Virginia",16347,483881
+336,"Wood County,West Virginia","Williamsburg City County,Virginia",23761,714539
+337,"Wood County,West Virginia","Winchester City County,Virginia",14556,381932
+338,"Wood County,West Virginia","Barbour County,West Virginia",6409,154333
+339,"Wood County,West Virginia","Berkeley County,West Virginia",13970,380788
+340,"Wood County,West Virginia","Boone County,West Virginia",7629,190693
+341,"Wood County,West Virginia","Braxton County,West Virginia",8168,139292
+342,"Wood County,West Virginia","Brooke County,West Virginia",7734,203914
+343,"Wood County,West Virginia","Cabell County,West Virginia",7357,166353
+344,"Wood County,West Virginia","Calhoun County,West Virginia",4394,84277
+345,"Wood County,West Virginia","Clay County,West Virginia",7299,200122
+346,"Wood County,West Virginia","Doddridge County,West Virginia",3396,80050
+347,"Wood County,West Virginia","Fayette County,West Virginia",8796,224798
+348,"Wood County,West Virginia","Gilmer County,West Virginia",5316,94453
+349,"Wood County,West Virginia","Grant County,West Virginia",11544,267728
+350,"Wood County,West Virginia","Greenbrier County,West Virginia",11870,302836
+351,"Wood County,West Virginia","Hampshire County,West Virginia",13224,342392
+352,"Wood County,West Virginia","Hancock County,West Virginia",9323,238450
+353,"Wood County,West Virginia","Hardy County,West Virginia",12631,295331
+354,"Wood County,West Virginia","Harrison County,West Virginia",4479,113044
+355,"Wood County,West Virginia","Jackson County,West Virginia",2933,72313
+356,"Wood County,West Virginia","Jefferson County,West Virginia",15436,436786
+357,"Wood County,West Virginia","Kanawha County,West Virginia",6105,158862
+358,"Wood County,West Virginia","Lewis County,West Virginia",6172,115195
+359,"Wood County,West Virginia","Lincoln County,West Virginia",7887,185280
+360,"Wood County,West Virginia","Logan County,West Virginia",8558,227811
+361,"Wood County,West Virginia","McDowell County,West Virginia",12467,306174
+362,"Wood County,West Virginia","Marion County,West Virginia",6416,156167
+363,"Wood County,West Virginia","Marshall County,West Virginia",7120,140015
+364,"Wood County,West Virginia","Mason County,West Virginia",4697,116367
+365,"Wood County,West Virginia","Mercer County,West Virginia",9431,270421
+366,"Wood County,West Virginia","Mineral County,West Virginia",12104,316943
+367,"Wood County,West Virginia","Mingo County,West Virginia",8603,232319
+368,"Wood County,West Virginia","Monongalia County,West Virginia",6626,181635
+369,"Wood County,West Virginia","Monroe County,West Virginia",12477,315132
+370,"Wood County,West Virginia","Morgan County,West Virginia",13462,370180
+371,"Wood County,West Virginia","Nicholas County,West Virginia",9016,260003
+372,"Wood County,West Virginia","Ohio County,West Virginia",6752,185152
+373,"Wood County,West Virginia","Pendleton County,West Virginia",12796,312855
+374,"Wood County,West Virginia","Pleasants County,West Virginia",2594,50181
+375,"Wood County,West Virginia","Pocahontas County,West Virginia",13088,294086
+376,"Wood County,West Virginia","Preston County,West Virginia",8772,208366
+377,"Wood County,West Virginia","Putnam County,West Virginia",5480,159127
+378,"Wood County,West Virginia","Raleigh County,West Virginia",7972,224114
+379,"Wood County,West Virginia","Randolph County,West Virginia",8474,210981
+380,"Wood County,West Virginia","Ritchie County,West Virginia",2561,53092
+381,"Wood County,West Virginia","Roane County,West Virginia",4559,101128
+382,"Wood County,West Virginia","Summers County,West Virginia",11425,285551
+383,"Wood County,West Virginia","Taylor County,West Virginia",6309,151739
+384,"Wood County,West Virginia","Tucker County,West Virginia",8975,205061
+385,"Wood County,West Virginia","Tyler County,West Virginia",4503,89796
+386,"Wood County,West Virginia","Upshur County,West Virginia",7449,185422
+387,"Wood County,West Virginia","Wayne County,West Virginia",8814,240229
+388,"Wood County,West Virginia","Webster County,West Virginia",10609,192779
+389,"Wood County,West Virginia","Wetzel County,West Virginia",5716,111703
+390,"Wood County,West Virginia","Wirt County,West Virginia",1850,33386
+391,"Wood County,West Virginia","Wyoming County,West Virginia",9917,264055

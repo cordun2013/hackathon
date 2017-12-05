@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Barbour County,West Virginia","Adair County,Kentucky",23375,658718
+1,"Barbour County,West Virginia","Allen County,Kentucky",25994,759365
+2,"Barbour County,West Virginia","Anderson County,Kentucky",19175,561757
+3,"Barbour County,West Virginia","Ballard County,Kentucky",32153,951528
+4,"Barbour County,West Virginia","Barren County,Kentucky",25121,717745
+5,"Barbour County,West Virginia","Bath County,Kentucky",14822,432938
+6,"Barbour County,West Virginia","Bell County,Kentucky",22377,568754
+7,"Barbour County,West Virginia","Boone County,Kentucky",19199,495622
+8,"Barbour County,West Virginia","Bourbon County,Kentucky",16736,479355
+9,"Barbour County,West Virginia","Boyd County,Kentucky",11498,327262
+10,"Barbour County,West Virginia","Boyle County,Kentucky",20404,565643
+11,"Barbour County,West Virginia","Bracken County,Kentucky",17147,473438
+12,"Barbour County,West Virginia","Breathitt County,Kentucky",18209,473964
+13,"Barbour County,West Virginia","Breckinridge County,Kentucky",24708,714438
+14,"Barbour County,West Virginia","Bullitt County,Kentucky",21278,635557
+15,"Barbour County,West Virginia","Butler County,Kentucky",25373,736436
+16,"Barbour County,West Virginia","Caldwell County,Kentucky",28265,842381
+17,"Barbour County,West Virginia","Calloway County,Kentucky",31075,927374
+18,"Barbour County,West Virginia","Campbell County,Kentucky",18848,513310
+19,"Barbour County,West Virginia","Carlisle County,Kentucky",32611,966896
+20,"Barbour County,West Virginia","Carroll County,Kentucky",20773,557387
+21,"Barbour County,West Virginia","Carter County,Kentucky",12662,357360
+22,"Barbour County,West Virginia","Casey County,Kentucky",21898,597148
+23,"Barbour County,West Virginia","Christian County,Kentucky",27914,837638
+24,"Barbour County,West Virginia","Clay County,Kentucky",20708,561079
+25,"Barbour County,West Virginia","Clinton County,Kentucky",23782,662083
+26,"Barbour County,West Virginia","Crittenden County,Kentucky",29845,875451
+27,"Barbour County,West Virginia","Cumberland County,Kentucky",24536,680322
+28,"Barbour County,West Virginia","Daviess County,Kentucky",26396,782878
+29,"Barbour County,West Virginia","Edmonson County,Kentucky",24813,724311
+30,"Barbour County,West Virginia","Elliott County,Kentucky",13993,383130
+31,"Barbour County,West Virginia","Estill County,Kentucky",17815,495253
+32,"Barbour County,West Virginia","Fayette County,Kentucky",16982,499250
+33,"Barbour County,West Virginia","Fleming County,Kentucky",15248,436123
+34,"Barbour County,West Virginia","Floyd County,Kentucky",15631,434527
+35,"Barbour County,West Virginia","Franklin County,Kentucky",19020,548166
+36,"Barbour County,West Virginia","Fulton County,Kentucky",33015,987860
+37,"Barbour County,West Virginia","Gallatin County,Kentucky",19985,529800
+38,"Barbour County,West Virginia","Garrard County,Kentucky",19587,546403
+39,"Barbour County,West Virginia","Grant County,Kentucky",19516,574337
+40,"Barbour County,West Virginia","Graves County,Kentucky",31635,939602
+41,"Barbour County,West Virginia","Grayson County,Kentucky",23700,693072
+42,"Barbour County,West Virginia","Green County,Kentucky",23480,658277
+43,"Barbour County,West Virginia","Greenup County,Kentucky",13273,368389
+44,"Barbour County,West Virginia","Hancock County,Kentucky",25504,747331
+45,"Barbour County,West Virginia","Hardin County,Kentucky",22577,655204
+46,"Barbour County,West Virginia","Harlan County,Kentucky",21700,549070
+47,"Barbour County,West Virginia","Harrison County,Kentucky",18307,512455
+48,"Barbour County,West Virginia","Hart County,Kentucky",23376,682833
+49,"Barbour County,West Virginia","Henderson County,Kentucky",28203,835308
+50,"Barbour County,West Virginia","Henry County,Kentucky",20621,591884
+51,"Barbour County,West Virginia","Hickman County,Kentucky",32644,968188
+52,"Barbour County,West Virginia","Hopkins County,Kentucky",27724,816849
+53,"Barbour County,West Virginia","Jackson County,Kentucky",20487,543262
+54,"Barbour County,West Virginia","Jefferson County,Kentucky",20715,607418
+55,"Barbour County,West Virginia","Jessamine County,Kentucky",18451,520713
+56,"Barbour County,West Virginia","Johnson County,Kentucky",14279,400158
+57,"Barbour County,West Virginia","Kenton County,Kentucky",18569,483316
+58,"Barbour County,West Virginia","Knott County,Kentucky",16813,466409
+59,"Barbour County,West Virginia","Knox County,Kentucky",21990,625296
+60,"Barbour County,West Virginia","Larue County,Kentucky",22648,642380
+61,"Barbour County,West Virginia","Laurel County,Kentucky",20841,596690
+62,"Barbour County,West Virginia","Lawrence County,Kentucky",13421,371582
+63,"Barbour County,West Virginia","Lee County,Kentucky",18659,488990
+64,"Barbour County,West Virginia","Leslie County,Kentucky",19892,536083
+65,"Barbour County,West Virginia","Letcher County,Kentucky",17884,469349
+66,"Barbour County,West Virginia","Lewis County,Kentucky",14701,409177
+67,"Barbour County,West Virginia","Lincoln County,Kentucky",20297,563321
+68,"Barbour County,West Virginia","Livingston County,Kentucky",30441,892348
+69,"Barbour County,West Virginia","Logan County,Kentucky",27113,779674
+70,"Barbour County,West Virginia","Lyon County,Kentucky",30574,902739
+71,"Barbour County,West Virginia","McCracken County,Kentucky",30766,919588
+72,"Barbour County,West Virginia","McCreary County,Kentucky",22946,641132
+73,"Barbour County,West Virginia","Madison County,Kentucky",17980,510273
+74,"Barbour County,West Virginia","Magoffin County,Kentucky",15247,420837
+75,"Barbour County,West Virginia","Marion County,Kentucky",21026,603989
+76,"Barbour County,West Virginia","Marshall County,Kentucky",30180,903160
+77,"Barbour County,West Virginia","Martin County,Kentucky",14907,403927
+78,"Barbour County,West Virginia","Mason County,Kentucky",16496,452984
+79,"Barbour County,West Virginia","Meade County,Kentucky",23175,679733
+80,"Barbour County,West Virginia","Menifee County,Kentucky",15938,445001
+81,"Barbour County,West Virginia","Mercer County,Kentucky",19403,559700
+82,"Barbour County,West Virginia","Metcalfe County,Kentucky",24031,688982
+83,"Barbour County,West Virginia","Monroe County,Kentucky",26001,726486
+84,"Barbour County,West Virginia","Montgomery County,Kentucky",15635,451478
+85,"Barbour County,West Virginia","Morgan County,Kentucky",15717,420717
+86,"Barbour County,West Virginia","Muhlenberg County,Kentucky",26584,783325
+87,"Barbour County,West Virginia","Nelson County,Kentucky",20634,603061
+88,"Barbour County,West Virginia","Nicholas County,Kentucky",17313,479362
+89,"Barbour County,West Virginia","Ohio County,Kentucky",25497,750915
+90,"Barbour County,West Virginia","Oldham County,Kentucky",20786,619299
+91,"Barbour County,West Virginia","Owen County,Kentucky",19842,574943
+92,"Barbour County,West Virginia","Owsley County,Kentucky",19806,508967
+93,"Barbour County,West Virginia","Pendleton County,Kentucky",19085,514362
+94,"Barbour County,West Virginia","Perry County,Kentucky",18192,496967
+95,"Barbour County,West Virginia","Pike County,Kentucky",15186,399466
+96,"Barbour County,West Virginia","Powell County,Kentucky",17079,481224
+97,"Barbour County,West Virginia","Robertson County,Kentucky",17231,478868
+98,"Barbour County,West Virginia","Rockcastle County,Kentucky",19414,551415
+99,"Barbour County,West Virginia","Rowan County,Kentucky",13965,405145
+100,"Barbour County,West Virginia","Russell County,Kentucky",22980,642701
+101,"Barbour County,West Virginia","Scott County,Kentucky",17816,527276
+102,"Barbour County,West Virginia","Shelby County,Kentucky",19643,578553
+103,"Barbour County,West Virginia","Simpson County,Kentucky",26695,787731
+104,"Barbour County,West Virginia","Spencer County,Kentucky",20173,584401
+105,"Barbour County,West Virginia","Taylor County,Kentucky",22316,635485
+106,"Barbour County,West Virginia","Todd County,Kentucky",28350,803834
+107,"Barbour County,West Virginia","Trigg County,Kentucky",29328,863567
+108,"Barbour County,West Virginia","Trimble County,Kentucky",21672,580711
+109,"Barbour County,West Virginia","Union County,Kentucky",29922,865754
+110,"Barbour County,West Virginia","Warren County,Kentucky",25730,752680
+111,"Barbour County,West Virginia","Washington County,Kentucky",20644,588297
+112,"Barbour County,West Virginia","Wayne County,Kentucky",23156,639774
+113,"Barbour County,West Virginia","Webster County,Kentucky",28833,844938
+114,"Barbour County,West Virginia","Whitley County,Kentucky",21674,631175
+115,"Barbour County,West Virginia","Wolfe County,Kentucky",16812,444079
+116,"Barbour County,West Virginia","Woodford County,Kentucky",18036,529912
+117,"Barbour County,West Virginia","Adams County,Ohio",14549,379221
+118,"Barbour County,West Virginia","Allen County,Ohio",19008,496859
+119,"Barbour County,West Virginia","Ashland County,Ohio",15560,398509
+120,"Barbour County,West Virginia","Ashtabula County,Ohio",14359,408607
+121,"Barbour County,West Virginia","Athens County,Ohio",8945,226731
+122,"Barbour County,West Virginia","Auglaize County,Ohio",18621,500553
+123,"Barbour County,West Virginia","Belmont County,Ohio",8809,236160
+124,"Barbour County,West Virginia","Brown County,Ohio",15973,412081
+125,"Barbour County,West Virginia","Butler County,Ohio",18796,492300
+126,"Barbour County,West Virginia","Carroll County,Ohio",11754,272018
+127,"Barbour County,West Virginia","Champaign County,Ohio",16279,416320
+128,"Barbour County,West Virginia","Clark County,Ohio",15157,406891
+129,"Barbour County,West Virginia","Clermont County,Ohio",16627,437245
+130,"Barbour County,West Virginia","Clinton County,Ohio",16050,420730
+131,"Barbour County,West Virginia","Columbiana County,Ohio",10963,260539
+132,"Barbour County,West Virginia","Coshocton County,Ohio",11875,316334
+133,"Barbour County,West Virginia","Crawford County,Ohio",17268,461615
+134,"Barbour County,West Virginia","Cuyahoga County,Ohio",14356,406451
+135,"Barbour County,West Virginia","Darke County,Ohio",18733,504793
+136,"Barbour County,West Virginia","Defiance County,Ohio",22444,575180
+137,"Barbour County,West Virginia","Delaware County,Ohio",14597,389577
+138,"Barbour County,West Virginia","Fairfield County,Ohio",12128,316671
+139,"Barbour County,West Virginia","Fayette County,Ohio",14613,391194
+140,"Barbour County,West Virginia","Franklin County,Ohio",13128,346526
+141,"Barbour County,West Virginia","Fulton County,Ohio",21026,612265
+142,"Barbour County,West Virginia","Gallia County,Ohio",10827,266607
+143,"Barbour County,West Virginia","Geauga County,Ohio",13849,381269
+144,"Barbour County,West Virginia","Greene County,Ohio",15484,424347
+145,"Barbour County,West Virginia","Guernsey County,Ohio",9426,254253
+146,"Barbour County,West Virginia","Hamilton County,Ohio",18297,502878
+147,"Barbour County,West Virginia","Hancock County,Ohio",18620,497932
+148,"Barbour County,West Virginia","Hardin County,Ohio",17519,452688
+149,"Barbour County,West Virginia","Harrison County,Ohio",10769,274874
+150,"Barbour County,West Virginia","Henry County,Ohio",21333,569554
+151,"Barbour County,West Virginia","Highland County,Ohio",15086,379234
+152,"Barbour County,West Virginia","Hocking County,Ohio",10570,272634
+153,"Barbour County,West Virginia","Holmes County,Ohio",12934,339218
+154,"Barbour County,West Virginia","Huron County,Ohio",17457,440138
+155,"Barbour County,West Virginia","Jackson County,Ohio",11073,289786
+156,"Barbour County,West Virginia","Jefferson County,Ohio",9710,235510
+157,"Barbour County,West Virginia","Knox County,Ohio",13663,358810
+158,"Barbour County,West Virginia","Lawrence County,Ohio",12637,332319
+159,"Barbour County,West Virginia","Licking County,Ohio",13053,339741
+160,"Barbour County,West Virginia","Logan County,Ohio",16540,446965
+161,"Barbour County,West Virginia","Lorain County,Ohio",15407,436171
+162,"Barbour County,West Virginia","Lucas County,Ohio",19981,565115
+163,"Barbour County,West Virginia","Madison County,Ohio",14406,381247
+164,"Barbour County,West Virginia","Mahoning County,Ohio",10846,298599
+165,"Barbour County,West Virginia","Marion County,Ohio",16004,415670
+166,"Barbour County,West Virginia","Medina County,Ohio",14949,416652
+167,"Barbour County,West Virginia","Meigs County,Ohio",8910,219309
+168,"Barbour County,West Virginia","Mercer County,Ohio",19857,527486
+169,"Barbour County,West Virginia","Miami County,Ohio",17244,470225
+170,"Barbour County,West Virginia","Monroe County,Ohio",8838,192459
+171,"Barbour County,West Virginia","Montgomery County,Ohio",17505,475671
+172,"Barbour County,West Virginia","Morgan County,Ohio",9387,229078
+173,"Barbour County,West Virginia","Morrow County,Ohio",15405,412398
+174,"Barbour County,West Virginia","Muskingum County,Ohio",10271,282244
+175,"Barbour County,West Virginia","Noble County,Ohio",8867,226605
+176,"Barbour County,West Virginia","Paulding County,Ohio",21545,572765
+177,"Barbour County,West Virginia","Perry County,Ohio",11912,274946
+178,"Barbour County,West Virginia","Pickaway County,Ohio",12733,325576
+179,"Barbour County,West Virginia","Pike County,Ohio",12518,329093
+180,"Barbour County,West Virginia","Portage County,Ohio",12700,354612
+181,"Barbour County,West Virginia","Preble County,Ohio",18275,498383
+182,"Barbour County,West Virginia","Putnam County,Ohio",20131,529217
+183,"Barbour County,West Virginia","Richland County,Ohio",15915,411849
+184,"Barbour County,West Virginia","Ross County,Ohio",12798,337599
+185,"Barbour County,West Virginia","Sandusky County,Ohio",18268,523690
+186,"Barbour County,West Virginia","Scioto County,Ohio",13157,345164
+187,"Barbour County,West Virginia","Seneca County,Ohio",18994,490512
+188,"Barbour County,West Virginia","Shelby County,Ohio",18298,477213
+189,"Barbour County,West Virginia","Stark County,Ohio",13099,360452
+190,"Barbour County,West Virginia","Summit County,Ohio",13595,383207
+191,"Barbour County,West Virginia","Trumbull County,Ohio",12003,336063
+192,"Barbour County,West Virginia","Tuscarawas County,Ohio",11299,301040
+193,"Barbour County,West Virginia","Union County,Ohio",15044,397196
+194,"Barbour County,West Virginia","Van Wert County,Ohio",20242,539729
+195,"Barbour County,West Virginia","Vinton County,Ohio",11063,275172
+196,"Barbour County,West Virginia","Warren County,Ohio",16714,458846
+197,"Barbour County,West Virginia","Washington County,Ohio",7726,184541
+198,"Barbour County,West Virginia","Wayne County,Ohio",14070,363330
+199,"Barbour County,West Virginia","Williams County,Ohio",22272,643722
+200,"Barbour County,West Virginia","Wood County,Ohio",20018,539540
+201,"Barbour County,West Virginia","Wyandot County,Ohio",17590,462068
+202,"Barbour County,West Virginia","Accomack County,Virginia",25574,639494
+203,"Barbour County,West Virginia","Albemarle County,Virginia",13208,264771
+204,"Barbour County,West Virginia","Alleghany County,Virginia",11798,224078
+205,"Barbour County,West Virginia","Amelia County,Virginia",18263,396590
+206,"Barbour County,West Virginia","Amherst County,Virginia",15642,315678
+207,"Barbour County,West Virginia","Appomattox County,Virginia",16857,340306
+208,"Barbour County,West Virginia","Arlington County,Virginia",13200,322464
+209,"Barbour County,West Virginia","Augusta County,Virginia",11244,211212
+210,"Barbour County,West Virginia","Bath County,Virginia",10653,192856
+211,"Barbour County,West Virginia","Bedford County,Virginia",17165,346533
+212,"Barbour County,West Virginia","Bland County,Virginia",12880,340528
+213,"Barbour County,West Virginia","Botetourt County,Virginia",14333,282846
+214,"Barbour County,West Virginia","Brunswick County,Virginia",20894,498900
+215,"Barbour County,West Virginia","Buchanan County,Virginia",16875,424757
+216,"Barbour County,West Virginia","Buckingham County,Virginia",16517,329921
+217,"Barbour County,West Virginia","Campbell County,Virginia",17004,355810
+218,"Barbour County,West Virginia","Caroline County,Virginia",15638,381120
+219,"Barbour County,West Virginia","Carroll County,Virginia",15126,409965
+220,"Barbour County,West Virginia","Charles City County,Virginia",18108,452603
+221,"Barbour County,West Virginia","Charlotte County,Virginia",18839,388806
+222,"Barbour County,West Virginia","Chesterfield County,Virginia",17784,408435
+223,"Barbour County,West Virginia","Clarke County,Virginia",10695,249212
+224,"Barbour County,West Virginia","Craig County,Virginia",15083,294475
+225,"Barbour County,West Virginia","Culpeper County,Virginia",12703,303737
+226,"Barbour County,West Virginia","Cumberland County,Virginia",17251,355128
+227,"Barbour County,West Virginia","Dickenson County,Virginia",19285,489428
+228,"Barbour County,West Virginia","Dinwiddie County,Virginia",19531,458867
+229,"Barbour County,West Virginia","Essex County,Virginia",17040,405174
+230,"Barbour County,West Virginia","Fairfax County,Virginia",12823,312740
+231,"Barbour County,West Virginia","Fauquier County,Virginia",11133,270464
+232,"Barbour County,West Virginia","Floyd County,Virginia",16747,428930
+233,"Barbour County,West Virginia","Fluvanna County,Virginia",14886,316943
+234,"Barbour County,West Virginia","Franklin County,Virginia",17334,361955
+235,"Barbour County,West Virginia","Frederick County,Virginia",9214,213018
+236,"Barbour County,West Virginia","Giles County,Virginia",13611,352086
+237,"Barbour County,West Virginia","Gloucester County,Virginia",20279,506792
+238,"Barbour County,West Virginia","Goochland County,Virginia",15790,347554
+239,"Barbour County,West Virginia","Grayson County,Virginia",15529,399673
+240,"Barbour County,West Virginia","Greene County,Virginia",13181,250602
+241,"Barbour County,West Virginia","Greensville County,Virginia",20947,507619
+242,"Barbour County,West Virginia","Halifax County,Virginia",20325,427517
+243,"Barbour County,West Virginia","Hanover County,Virginia",16456,410612
+244,"Barbour County,West Virginia","Henrico County,Virginia",17507,401621
+245,"Barbour County,West Virginia","Henry County,Virginia",18743,396917
+246,"Barbour County,West Virginia","Highland County,Virginia",7791,145013
+247,"Barbour County,West Virginia","Isle of Wight County,Virginia",21760,506197
+248,"Barbour County,West Virginia","James City County,Virginia",19344,493374
+249,"Barbour County,West Virginia","King and Queen County,Virginia",18092,440436
+250,"Barbour County,West Virginia","King George County,Virginia",15561,364617
+251,"Barbour County,West Virginia","King William County,Virginia",17057,418233
+252,"Barbour County,West Virginia","Lancaster County,Virginia",19463,461169
+253,"Barbour County,West Virginia","Lee County,Virginia",20585,537944
+254,"Barbour County,West Virginia","Loudoun County,Virginia",12191,285079
+255,"Barbour County,West Virginia","Louisa County,Virginia",15447,330649
+256,"Barbour County,West Virginia","Lunenburg County,Virginia",20136,431526
+257,"Barbour County,West Virginia","Madison County,Virginia",13126,291996
+258,"Barbour County,West Virginia","Mathews County,Virginia",21174,505556
+259,"Barbour County,West Virginia","Mecklenburg County,Virginia",21485,455972
+260,"Barbour County,West Virginia","Middlesex County,Virginia",19544,469137
+261,"Barbour County,West Virginia","Montgomery County,Virginia",14694,380093
+262,"Barbour County,West Virginia","Nelson County,Virginia",14088,283272
+263,"Barbour County,West Virginia","New Kent County,Virginia",18780,467288
+264,"Barbour County,West Virginia","Northampton County,Virginia",23762,610038
+265,"Barbour County,West Virginia","Northumberland County,Virginia",19503,459681
+266,"Barbour County,West Virginia","Nottoway County,Virginia",19388,418081
+267,"Barbour County,West Virginia","Orange County,Virginia",14044,338235
+268,"Barbour County,West Virginia","Page County,Virginia",11155,248140
+269,"Barbour County,West Virginia","Patrick County,Virginia",17232,455001
+270,"Barbour County,West Virginia","Pittsylvania County,Virginia",19574,427437
+271,"Barbour County,West Virginia","Powhatan County,Virginia",17043,372776
+272,"Barbour County,West Virginia","Prince Edward County,Virginia",18059,383745
+273,"Barbour County,West Virginia","Prince George County,Virginia",19295,445451
+274,"Barbour County,West Virginia","Prince William County,Virginia",11233,276567
+275,"Barbour County,West Virginia","Pulaski County,Virginia",14789,376424
+276,"Barbour County,West Virginia","Rappahannock County,Virginia",11444,255601
+277,"Barbour County,West Virginia","Richmond County,Virginia",18203,432324
+278,"Barbour County,West Virginia","Roanoke County,Virginia",15692,320872
+279,"Barbour County,West Virginia","Rockbridge County,Virginia",12930,256633
+280,"Barbour County,West Virginia","Rockingham County,Virginia",9327,216072
+281,"Barbour County,West Virginia","Russell County,Virginia",16689,420708
+282,"Barbour County,West Virginia","Scott County,Virginia",19353,488835
+283,"Barbour County,West Virginia","Shenandoah County,Virginia",9594,205535
+284,"Barbour County,West Virginia","Smyth County,Virginia",15238,405880
+285,"Barbour County,West Virginia","Southampton County,Virginia",21325,503733
+286,"Barbour County,West Virginia","Spotsylvania County,Virginia",14750,345604
+287,"Barbour County,West Virginia","Stafford County,Virginia",13753,334470
+288,"Barbour County,West Virginia","Surry County,Virginia",20037,502811
+289,"Barbour County,West Virginia","Sussex County,Virginia",19989,473975
+290,"Barbour County,West Virginia","Tazewell County,Virginia",13696,359115
+291,"Barbour County,West Virginia","Warren County,Virginia",9774,218264
+292,"Barbour County,West Virginia","Washington County,Virginia",16631,445346
+293,"Barbour County,West Virginia","Westmoreland County,Virginia",16529,383418
+294,"Barbour County,West Virginia","Wise County,Virginia",17550,465327
+295,"Barbour County,West Virginia","Wythe County,Virginia",13485,358745
+296,"Barbour County,West Virginia","York County,Virginia",20632,524149
+297,"Barbour County,West Virginia","Alexandria City County,Virginia",13403,335110
+298,"Barbour County,West Virginia","Bedford City County,Virginia",16197,329680
+299,"Barbour County,West Virginia","Bristol City County,Virginia",17106,471064
+300,"Barbour County,West Virginia","Buena Vista City County,Virginia",13285,270610
+301,"Barbour County,West Virginia","Charlottesville City County,Virginia",13678,279986
+302,"Barbour County,West Virginia","Chesapeake City County,Virginia",22095,577054
+303,"Barbour County,West Virginia","Clifton Forge City County,Virginia",12011,238757
+304,"Barbour County,West Virginia","Colonial Heights City County,Virginia",18344,424328
+305,"Barbour County,West Virginia","Covington City County,Virginia",11780,224646
+306,"Barbour County,West Virginia","Danville City County,Virginia",20173,443780
+307,"Barbour County,West Virginia","Emporia City County,Virginia",20655,494212
+308,"Barbour County,West Virginia","Fairfax City County,Virginia",12366,302315
+309,"Barbour County,West Virginia","Falls Church City County,Virginia",12698,316788
+310,"Barbour County,West Virginia","Franklin City County,Virginia",21873,511587
+311,"Barbour County,West Virginia","Fredericksburg City County,Virginia",14073,331311
+312,"Barbour County,West Virginia","Galax City County,Virginia",15750,415832
+313,"Barbour County,West Virginia","Hampton City County,Virginia",20582,533855
+314,"Barbour County,West Virginia","Harrisonburg City County,Virginia",10477,201176
+315,"Barbour County,West Virginia","Hopewell City County,Virginia",17856,456018
+316,"Barbour County,West Virginia","Lexington City County,Virginia",12919,259102
+317,"Barbour County,West Virginia","Lynchburg City County,Virginia",16190,335734
+318,"Barbour County,West Virginia","Manassas City County,Virginia",11461,281512
+319,"Barbour County,West Virginia","Manassas Park City County,Virginia",11963,287855
+320,"Barbour County,West Virginia","Martinsville City County,Virginia",18896,392019
+321,"Barbour County,West Virginia","Newport News City County,Virginia",20139,520341
+322,"Barbour County,West Virginia","Norfolk City County,Virginia",21888,559271
+323,"Barbour County,West Virginia","Norton City County,Virginia",18178,477138
+324,"Barbour County,West Virginia","Petersburg City County,Virginia",18216,425315
+325,"Barbour County,West Virginia","Poquoson City County,Virginia",20811,530917
+326,"Barbour County,West Virginia","Portsmouth City County,Virginia",21828,568092
+327,"Barbour County,West Virginia","Radford County,Virginia",15102,378133
+328,"Barbour County,West Virginia","Richmond City County,Virginia",17084,389431
+329,"Barbour County,West Virginia","Roanoke City County,Virginia",15230,312315
+330,"Barbour County,West Virginia","Salem City County,Virginia",15059,310785
+331,"Barbour County,West Virginia","South Boston City County,Virginia",20328,426335
+332,"Barbour County,West Virginia","Staunton City County,Virginia",11385,211901
+333,"Barbour County,West Virginia","Suffolk City County,Virginia",22603,520921
+334,"Barbour County,West Virginia","Virginia Beach City County,Virginia",22449,582529
+335,"Barbour County,West Virginia","Waynesboro City County,Virginia",12339,234882
+336,"Barbour County,West Virginia","Williamsburg City County,Virginia",19183,492590
+337,"Barbour County,West Virginia","Winchester City County,Virginia",9752,221164
+338,"Barbour County,West Virginia","Berkeley County,West Virginia",11141,264746
+339,"Barbour County,West Virginia","Boone County,West Virginia",11360,288614
+340,"Barbour County,West Virginia","Braxton County,West Virginia",5920,125236
+341,"Barbour County,West Virginia","Brooke County,West Virginia",8016,199060
+342,"Barbour County,West Virginia","Cabell County,West Virginia",10954,305523
+343,"Barbour County,West Virginia","Calhoun County,West Virginia",7243,159903
+344,"Barbour County,West Virginia","Clay County,West Virginia",7606,190260
+345,"Barbour County,West Virginia","Doddridge County,West Virginia",4454,92009
+346,"Barbour County,West Virginia","Fayette County,West Virginia",8385,210177
+347,"Barbour County,West Virginia","Gilmer County,West Virginia",5724,124594
+348,"Barbour County,West Virginia","Grant County,West Virginia",5498,113154
+349,"Barbour County,West Virginia","Greenbrier County,West Virginia",11587,245737
+350,"Barbour County,West Virginia","Hampshire County,West Virginia",8451,170716
+351,"Barbour County,West Virginia","Hancock County,West Virginia",9643,226407
+352,"Barbour County,West Virginia","Hardy County,West Virginia",6585,140758
+353,"Barbour County,West Virginia","Harrison County,West Virginia",2892,53637
+354,"Barbour County,West Virginia","Jackson County,West Virginia",8846,226557
+355,"Barbour County,West Virginia","Jefferson County,West Virginia",11853,257050
+356,"Barbour County,West Virginia","Kanawha County,West Virginia",9836,256783
+357,"Barbour County,West Virginia","Lewis County,West Virginia",3625,74224
+358,"Barbour County,West Virginia","Lincoln County,West Virginia",11618,283201
+359,"Barbour County,West Virginia","Logan County,West Virginia",12290,325733
+360,"Barbour County,West Virginia","McDowell County,West Virginia",14470,334788
+361,"Barbour County,West Virginia","Marion County,West Virginia",4037,80805
+362,"Barbour County,West Virginia","Marshall County,West Virginia",9004,193504
+363,"Barbour County,West Virginia","Mason County,West Virginia",10429,291430
+364,"Barbour County,West Virginia","Mercer County,West Virginia",11434,299034
+365,"Barbour County,West Virginia","Mineral County,West Virginia",7224,138081
+366,"Barbour County,West Virginia","Mingo County,West Virginia",12335,330240
+367,"Barbour County,West Virginia","Monongalia County,West Virginia",4384,82994
+368,"Barbour County,West Virginia","Monroe County,West Virginia",13258,261546
+369,"Barbour County,West Virginia","Morgan County,West Virginia",10484,240884
+370,"Barbour County,West Virginia","Nicholas County,West Virginia",6905,174881
+371,"Barbour County,West Virginia","Ohio County,West Virginia",7923,208006
+372,"Barbour County,West Virginia","Pendleton County,West Virginia",7304,146446
+373,"Barbour County,West Virginia","Pleasants County,West Virginia",5690,129778
+374,"Barbour County,West Virginia","Pocahontas County,West Virginia",7596,127677
+375,"Barbour County,West Virginia","Preston County,West Virginia",3605,66192
+376,"Barbour County,West Virginia","Putnam County,West Virginia",9211,257048
+377,"Barbour County,West Virginia","Raleigh County,West Virginia",9975,252727
+378,"Barbour County,West Virginia","Randolph County,West Virginia",2980,49395
+379,"Barbour County,West Virginia","Ritchie County,West Virginia",5601,124079
+380,"Barbour County,West Virginia","Roane County,West Virginia",9664,193939
+381,"Barbour County,West Virginia","Summers County,West Virginia",13181,283172
+382,"Barbour County,West Virginia","Taylor County,West Virginia",2253,45005
+383,"Barbour County,West Virginia","Tucker County,West Virginia",2929,50487
+384,"Barbour County,West Virginia","Tyler County,West Virginia",6616,122444
+385,"Barbour County,West Virginia","Upshur County,West Virginia",3627,55396
+386,"Barbour County,West Virginia","Wayne County,West Virginia",12545,338150
+387,"Barbour County,West Virginia","Webster County,West Virginia",7848,129444
+388,"Barbour County,West Virginia","Wetzel County,West Virginia",5571,105120
+389,"Barbour County,West Virginia","Wirt County,West Virginia",7947,169610
+390,"Barbour County,West Virginia","Wood County,West Virginia",6470,155040
+391,"Barbour County,West Virginia","Wyoming County,West Virginia",11926,292700

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Bristol City County,Virginia","Adair County,Kentucky",15874,368047
+1,"Bristol City County,Virginia","Allen County,Kentucky",17276,488387
+2,"Bristol City County,Virginia","Anderson County,Kentucky",17275,395298
+3,"Bristol City County,Virginia","Ballard County,Kentucky",24180,723642
+4,"Bristol City County,Virginia","Barren County,Kentucky",17065,447332
+5,"Bristol City County,Virginia","Bath County,Kentucky",15499,343977
+6,"Bristol City County,Virginia","Bell County,Kentucky",8369,169354
+7,"Bristol City County,Virginia","Boone County,Kentucky",19051,483289
+8,"Bristol City County,Virginia","Bourbon County,Kentucky",16237,380579
+9,"Bristol City County,Virginia","Boyd County,Kentucky",14009,333007
+10,"Bristol City County,Virginia","Boyle County,Kentucky",15051,342203
+11,"Bristol City County,Virginia","Bracken County,Kentucky",19303,427261
+12,"Bristol City County,Virginia","Breathitt County,Kentucky",11383,251226
+13,"Bristol City County,Virginia","Breckinridge County,Kentucky",22293,517608
+14,"Bristol City County,Virginia","Bullitt County,Kentucky",19338,442093
+15,"Bristol City County,Virginia","Butler County,Kentucky",19736,558592
+16,"Bristol City County,Virginia","Caldwell County,Kentucky",21320,631456
+17,"Bristol City County,Virginia","Calloway County,Kentucky",22021,655501
+18,"Bristol City County,Virginia","Campbell County,Kentucky",19582,480103
+19,"Bristol City County,Virginia","Carlisle County,Kentucky",24637,739010
+20,"Bristol City County,Virginia","Carroll County,Kentucky",19887,479396
+21,"Bristol City County,Virginia","Carter County,Kentucky",14802,321721
+22,"Bristol City County,Virginia","Casey County,Kentucky",15811,341321
+23,"Bristol City County,Virginia","Christian County,Kentucky",18914,576481
+24,"Bristol City County,Virginia","Clay County,Kentucky",11374,240654
+25,"Bristol City County,Virginia","Clinton County,Kentucky",14323,367792
+26,"Bristol City County,Virginia","Crittenden County,Kentucky",22584,664216
+27,"Bristol City County,Virginia","Cumberland County,Kentucky",15203,388460
+28,"Bristol City County,Virginia","Daviess County,Kentucky",22170,632385
+29,"Bristol City County,Virginia","Edmonson County,Kentucky",19148,471235
+30,"Bristol City County,Virginia","Elliott County,Kentucky",14411,308101
+31,"Bristol City County,Virginia","Estill County,Kentucky",15139,347509
+32,"Bristol City County,Virginia","Fayette County,Kentucky",15150,369074
+33,"Bristol City County,Virginia","Fleming County,Kentucky",16520,365241
+34,"Bristol City County,Virginia","Floyd County,Kentucky",10043,228535
+35,"Bristol City County,Virginia","Franklin County,Kentucky",17187,417990
+36,"Bristol City County,Virginia","Fulton County,Kentucky",25041,759974
+37,"Bristol City County,Virginia","Gallatin County,Kentucky",18885,470054
+38,"Bristol City County,Virginia","Garrard County,Kentucky",14720,326989
+39,"Bristol City County,Virginia","Grant County,Kentucky",17684,444162
+40,"Bristol City County,Virginia","Graves County,Kentucky",23662,711716
+41,"Bristol City County,Virginia","Grayson County,Kentucky",21034,503828
+42,"Bristol City County,Virginia","Green County,Kentucky",17626,410212
+43,"Bristol City County,Virginia","Greenup County,Kentucky",16007,383414
+44,"Bristol City County,Virginia","Hancock County,Kentucky",23180,645117
+45,"Bristol City County,Virginia","Hardin County,Kentucky",19910,465960
+46,"Bristol City County,Virginia","Harlan County,Kentucky",7444,145980
+47,"Bristol City County,Virginia","Harrison County,Kentucky",17200,423624
+48,"Bristol City County,Virginia","Hart County,Kentucky",18976,456489
+49,"Bristol City County,Virginia","Henderson County,Kentucky",22672,685614
+50,"Bristol City County,Virginia","Henry County,Kentucky",18789,461709
+51,"Bristol City County,Virginia","Hickman County,Kentucky",24671,740302
+52,"Bristol City County,Virginia","Hopkins County,Kentucky",21441,641733
+53,"Bristol City County,Virginia","Jackson County,Kentucky",13000,283338
+54,"Bristol City County,Virginia","Jefferson County,Kentucky",18882,477242
+55,"Bristol City County,Virginia","Jessamine County,Kentucky",15717,371713
+56,"Bristol City County,Virginia","Johnson County,Kentucky",10658,245764
+57,"Bristol City County,Virginia","Kenton County,Kentucky",18937,479005
+58,"Bristol City County,Virginia","Knott County,Kentucky",8923,193976
+59,"Bristol City County,Virginia","Knox County,Kentucky",9699,211346
+60,"Bristol City County,Virginia","Larue County,Kentucky",19108,442185
+61,"Bristol City County,Virginia","Laurel County,Kentucky",11593,246173
+62,"Bristol City County,Virginia","Lawrence County,Kentucky",12433,279452
+63,"Bristol City County,Virginia","Lee County,Kentucky",13493,292416
+64,"Bristol City County,Virginia","Leslie County,Kentucky",8906,174259
+65,"Bristol City County,Virginia","Letcher County,Kentucky",7323,157523
+66,"Bristol City County,Virginia","Lewis County,Kentucky",17147,376408
+67,"Bristol City County,Virginia","Lincoln County,Kentucky",14282,326570
+68,"Bristol City County,Virginia","Livingston County,Kentucky",22511,677580
+69,"Bristol City County,Virginia","Logan County,Kentucky",19346,529381
+70,"Bristol City County,Virginia","Lyon County,Kentucky",22268,654755
+71,"Bristol City County,Virginia","McCracken County,Kentucky",22793,691702
+72,"Bristol City County,Virginia","McCreary County,Kentucky",11330,304638
+73,"Bristol City County,Virginia","Madison County,Kentucky",13739,324419
+74,"Bristol City County,Virginia","Magoffin County,Kentucky",11002,249740
+75,"Bristol City County,Virginia","Marion County,Kentucky",16749,380808
+76,"Bristol City County,Virginia","Marshall County,Kentucky",22207,675274
+77,"Bristol City County,Virginia","Martin County,Kentucky",12187,271766
+78,"Bristol City County,Virginia","Mason County,Kentucky",18652,406806
+79,"Bristol City County,Virginia","Meade County,Kentucky",21343,549557
+80,"Bristol City County,Virginia","Menifee County,Kentucky",14671,323940
+81,"Bristol City County,Virginia","Mercer County,Kentucky",16051,367134
+82,"Bristol City County,Virginia","Metcalfe County,Kentucky",16530,398312
+83,"Bristol City County,Virginia","Monroe County,Kentucky",15763,418881
+84,"Bristol City County,Virginia","Montgomery County,Kentucky",15237,344477
+85,"Bristol City County,Virginia","Morgan County,Kentucky",13115,300927
+86,"Bristol City County,Virginia","Muhlenberg County,Kentucky",21126,611844
+87,"Bristol City County,Virginia","Nelson County,Kentucky",17968,413817
+88,"Bristol City County,Virginia","Nicholas County,Kentucky",17508,422371
+89,"Bristol City County,Virginia","Ohio County,Kentucky",21271,600422
+90,"Bristol City County,Virginia","Oldham County,Kentucky",18954,489124
+91,"Bristol City County,Virginia","Owen County,Kentucky",18009,444767
+92,"Bristol City County,Virginia","Owsley County,Kentucky",13397,258780
+93,"Bristol City County,Virginia","Pendleton County,Kentucky",18760,460751
+94,"Bristol City County,Virginia","Perry County,Kentucky",9897,214399
+95,"Bristol City County,Virginia","Pike County,Kentucky",8512,187917
+96,"Bristol City County,Virginia","Powell County,Kentucky",14025,315762
+97,"Bristol City County,Virginia","Robertson County,Kentucky",18279,443497
+98,"Bristol City County,Virginia","Rockcastle County,Kentucky",12764,288169
+99,"Bristol City County,Virginia","Rowan County,Kentucky",14939,329700
+100,"Bristol City County,Virginia","Russell County,Kentucky",15478,352031
+101,"Bristol City County,Virginia","Scott County,Kentucky",15984,397101
+102,"Bristol City County,Virginia","Shelby County,Kentucky",17811,448377
+103,"Bristol City County,Virginia","Simpson County,Kentucky",18313,505357
+104,"Bristol City County,Virginia","Spencer County,Kentucky",18341,454225
+105,"Bristol City County,Virginia","Taylor County,Kentucky",17228,392307
+106,"Bristol City County,Virginia","Todd County,Kentucky",19330,569428
+107,"Bristol City County,Virginia","Trigg County,Kentucky",19821,593840
+108,"Bristol City County,Virginia","Trimble County,Kentucky",20028,495164
+109,"Bristol City County,Virginia","Union County,Kentucky",24091,705974
+110,"Bristol City County,Virginia","Warren County,Kentucky",18738,528024
+111,"Bristol City County,Virginia","Washington County,Kentucky",17038,388667
+112,"Bristol City County,Virginia","Wayne County,Kentucky",13834,351768
+113,"Bristol City County,Virginia","Webster County,Kentucky",22550,669822
+114,"Bristol City County,Virginia","Whitley County,Kentucky",9933,289400
+115,"Bristol City County,Virginia","Wolfe County,Kentucky",12876,283310
+116,"Bristol City County,Virginia","Woodford County,Kentucky",16204,399737
+117,"Bristol City County,Virginia","Adams County,Ohio",19855,459763
+118,"Bristol City County,Virginia","Allen County,Ohio",26357,704899
+119,"Bristol City County,Virginia","Ashland County,Ohio",24231,683670
+120,"Bristol City County,Virginia","Ashtabula County,Ohio",26919,804568
+121,"Bristol City County,Virginia","Athens County,Ohio",16163,459960
+122,"Bristol City County,Virginia","Auglaize County,Ohio",25613,692163
+123,"Bristol City County,Virginia","Belmont County,Ohio",19982,593492
+124,"Bristol City County,Virginia","Brown County,Ohio",19988,436291
+125,"Bristol City County,Virginia","Butler County,Ohio",21434,554773
+126,"Bristol City County,Virginia","Carroll County,Ohio",21912,630378
+127,"Bristol City County,Virginia","Champaign County,Ohio",23041,648576
+128,"Bristol City County,Virginia","Clark County,Ohio",21720,608120
+129,"Bristol City County,Virginia","Clermont County,Ohio",20185,525951
+130,"Bristol City County,Virginia","Clinton County,Ohio",21224,595801
+131,"Bristol City County,Virginia","Columbiana County,Ohio",23753,684613
+132,"Bristol City County,Virginia","Coshocton County,Ohio",20547,601495
+133,"Bristol City County,Virginia","Crawford County,Ohio",24839,694830
+134,"Bristol City County,Virginia","Cuyahoga County,Ohio",23948,715782
+135,"Bristol City County,Virginia","Darke County,Ohio",24710,649210
+136,"Bristol City County,Virginia","Defiance County,Ohio",29844,783329
+137,"Bristol City County,Virginia","Delaware County,Ohio",21993,627567
+138,"Bristol City County,Virginia","Fairfield County,Ohio",19523,554661
+139,"Bristol City County,Virginia","Fayette County,Ohio",19788,566265
+140,"Bristol City County,Virginia","Franklin County,Ohio",20523,584516
+141,"Bristol City County,Virginia","Fulton County,Ohio",29929,850399
+142,"Bristol City County,Virginia","Gallia County,Ohio",15101,425377
+143,"Bristol City County,Virginia","Geauga County,Ohio",25019,741499
+144,"Bristol City County,Virginia","Greene County,Ohio",20658,599418
+145,"Bristol City County,Virginia","Guernsey County,Ohio",18097,539414
+146,"Bristol City County,Virginia","Hamilton County,Ohio",20089,519257
+147,"Bristol City County,Virginia","Hancock County,Ohio",26016,735922
+148,"Bristol City County,Virginia","Hardin County,Ohio",24998,685608
+149,"Bristol City County,Virginia","Harrison County,Ohio",20917,612444
+150,"Bristol City County,Virginia","Henry County,Ohio",28729,807544
+151,"Bristol City County,Virginia","Highland County,Ohio",20292,554375
+152,"Bristol City County,Virginia","Hocking County,Ohio",17965,510624
+153,"Bristol City County,Virginia","Holmes County,Ohio",21606,624379
+154,"Bristol City County,Virginia","Huron County,Ohio",26128,725299
+155,"Bristol City County,Virginia","Jackson County,Ohio",16279,464926
+156,"Bristol City County,Virginia","Jefferson County,Ohio",21910,622222
+157,"Bristol City County,Virginia","Knox County,Ohio",22335,643971
+158,"Bristol City County,Virginia","Lawrence County,Ohio",15804,431140
+159,"Bristol City County,Virginia","Licking County,Ohio",21468,581671
+160,"Bristol City County,Virginia","Logan County,Ohio",24019,679885
+161,"Bristol City County,Virginia","Lorain County,Ohio",25172,745606
+162,"Bristol City County,Virginia","Lucas County,Ohio",29651,823421
+163,"Bristol City County,Virginia","Madison County,Ohio",21489,589350
+164,"Bristol City County,Virginia","Mahoning County,Ohio",24249,699418
+165,"Bristol City County,Virginia","Marion County,Ohio",23399,653660
+166,"Bristol City County,Virginia","Medina County,Ohio",23621,701813
+167,"Bristol City County,Virginia","Meigs County,Ohio",15044,430931
+168,"Bristol City County,Virginia","Mercer County,Ohio",26849,719097
+169,"Bristol City County,Virginia","Miami County,Ohio",23199,614602
+170,"Bristol City County,Virginia","Monroe County,Ohio",19033,528605
+171,"Bristol City County,Virginia","Montgomery County,Ohio",22582,592342
+172,"Bristol City County,Virginia","Morgan County,Ohio",18039,515253
+173,"Bristol City County,Virginia","Morrow County,Ohio",22800,650388
+174,"Bristol City County,Virginia","Muskingum County,Ohio",18943,567405
+175,"Bristol City County,Virginia","Noble County,Ohio",17539,511766
+176,"Bristol City County,Virginia","Paulding County,Ohio",28888,767877
+177,"Bristol City County,Virginia","Perry County,Ohio",19381,525381
+178,"Bristol City County,Virginia","Pickaway County,Ohio",19228,546364
+179,"Bristol City County,Virginia","Pike County,Ohio",17725,504233
+180,"Bristol City County,Virginia","Portage County,Ohio",23470,697364
+181,"Bristol City County,Virginia","Preble County,Ohio",23479,599172
+182,"Bristol City County,Virginia","Putnam County,Ohio",27531,737366
+183,"Bristol City County,Virginia","Richland County,Ohio",23830,685626
+184,"Bristol City County,Virginia","Ross County,Ohio",17972,512670
+185,"Bristol City County,Virginia","Sandusky County,Ohio",27772,754617
+186,"Bristol City County,Virginia","Scioto County,Ohio",17333,400342
+187,"Bristol City County,Virginia","Seneca County,Ohio",26389,728502
+188,"Bristol City County,Virginia","Shelby County,Ohio",24237,650888
+189,"Bristol City County,Virginia","Stark County,Ohio",21771,645613
+190,"Bristol City County,Virginia","Summit County,Ohio",22529,671401
+191,"Bristol City County,Virginia","Trumbull County,Ohio",25204,725665
+192,"Bristol City County,Virginia","Tuscarawas County,Ohio",19971,586200
+193,"Bristol City County,Virginia","Union County,Ohio",22523,630116
+194,"Bristol City County,Virginia","Van Wert County,Ohio",27522,737422
+195,"Bristol City County,Virginia","Vinton County,Ohio",18174,490431
+196,"Bristol City County,Virginia","Warren County,Ohio",20968,545514
+197,"Bristol City County,Virginia","Washington County,Ohio",16398,469702
+198,"Bristol City County,Virginia","Wayne County,Ohio",22742,648491
+199,"Bristol City County,Virginia","Williams County,Ohio",31021,806845
+200,"Bristol City County,Virginia","Wood County,Ohio",27414,777530
+201,"Bristol City County,Virginia","Wyandot County,Ohio",24986,700058
+202,"Bristol City County,Virginia","Accomack County,Virginia",27383,784530
+203,"Bristol City County,Virginia","Albemarle County,Virginia",13532,397030
+204,"Bristol City County,Virginia","Alleghany County,Virginia",11900,344460
+205,"Bristol City County,Virginia","Amelia County,Virginia",16104,435885
+206,"Bristol City County,Virginia","Amherst County,Virginia",13006,341944
+207,"Bristol City County,Virginia","Appomattox County,Virginia",13181,355554
+208,"Bristol City County,Virginia","Arlington County,Virginia",20217,597339
+209,"Bristol City County,Virginia","Augusta County,Virginia",12954,374723
+210,"Bristol City County,Virginia","Bath County,Virginia",13242,347303
+211,"Bristol City County,Virginia","Bedford County,Virginia",10914,286864
+212,"Bristol City County,Virginia","Bland County,Virginia",4930,136466
+213,"Bristol City County,Virginia","Botetourt County,Virginia",9771,270929
+214,"Bristol City County,Virginia","Brunswick County,Virginia",18075,522979
+215,"Bristol City County,Virginia","Buchanan County,Virginia",6291,119853
+216,"Bristol City County,Virginia","Buckingham County,Virginia",14295,379464
+217,"Bristol City County,Virginia","Campbell County,Virginia",12330,328099
+218,"Bristol City County,Virginia","Caroline County,Virginia",18871,565876
+219,"Bristol City County,Virginia","Carroll County,Virginia",5874,167811
+220,"Bristol City County,Virginia","Charles City County,Virginia",18972,562910
+221,"Bristol City County,Virginia","Charlotte County,Virginia",14879,396036
+222,"Bristol City County,Virginia","Chesterfield County,Virginia",17798,474775
+223,"Bristol City County,Virginia","Clarke County,Virginia",17712,524088
+224,"Bristol City County,Virginia","Craig County,Virginia",9170,248497
+225,"Bristol City County,Virginia","Culpeper County,Virginia",17329,486246
+226,"Bristol City County,Virginia","Cumberland County,Virginia",15709,416695
+227,"Bristol City County,Virginia","Dickenson County,Virginia",5403,105430
+228,"Bristol City County,Virginia","Dinwiddie County,Virginia",17877,478946
+229,"Bristol City County,Virginia","Essex County,Virginia",20689,589918
+230,"Bristol City County,Virginia","Fairfax County,Virginia",19840,587615
+231,"Bristol City County,Virginia","Fauquier County,Virginia",18150,545339
+232,"Bristol City County,Virginia","Floyd County,Virginia",7766,207911
+233,"Bristol City County,Virginia","Fluvanna County,Virginia",15210,449202
+234,"Bristol City County,Virginia","Franklin County,Virginia",10427,288098
+235,"Bristol City County,Virginia","Frederick County,Virginia",17164,511815
+236,"Bristol City County,Virginia","Giles County,Virginia",7711,194540
+237,"Bristol City County,Virginia","Gloucester County,Virginia",21143,617098
+238,"Bristol City County,Virginia","Goochland County,Virginia",16114,479813
+239,"Bristol City County,Virginia","Grayson County,Virginia",5607,130978
+240,"Bristol City County,Virginia","Greene County,Virginia",15525,432614
+241,"Bristol City County,Virginia","Greensville County,Virginia",19271,540398
+242,"Bristol City County,Virginia","Halifax County,Virginia",14178,365498
+243,"Bristol City County,Virginia","Hanover County,Virginia",17320,520919
+244,"Bristol City County,Virginia","Henrico County,Virginia",17831,533879
+245,"Bristol City County,Virginia","Henry County,Virginia",9748,254532
+246,"Bristol City County,Virginia","Highland County,Virginia",15374,395095
+247,"Bristol City County,Virginia","Isle of Wight County,Virginia",21997,579067
+248,"Bristol City County,Virginia","James City County,Virginia",20208,603681
+249,"Bristol City County,Virginia","King and Queen County,Virginia",19866,579265
+250,"Bristol City County,Virginia","King George County,Virginia",19985,593862
+251,"Bristol City County,Virginia","King William County,Virginia",18554,549187
+252,"Bristol City County,Virginia","Lancaster County,Virginia",22346,632273
+253,"Bristol City County,Virginia","Lee County,Virginia",4596,92961
+254,"Bristol City County,Virginia","Loudoun County,Virginia",19208,559954
+255,"Bristol City County,Virginia","Louisa County,Virginia",15771,462907
+256,"Bristol City County,Virginia","Lunenburg County,Virginia",16651,437320
+257,"Bristol City County,Virginia","Madison County,Virginia",16445,462354
+258,"Bristol City County,Virginia","Mathews County,Virginia",21967,640522
+259,"Bristol City County,Virginia","Mecklenburg County,Virginia",16210,417043
+260,"Bristol City County,Virginia","Middlesex County,Virginia",20744,613299
+261,"Bristol City County,Virginia","Montgomery County,Virginia",6940,198416
+262,"Bristol City County,Virginia","Nelson County,Virginia",13557,372341
+263,"Bristol City County,Virginia","New Kent County,Virginia",19644,577595
+264,"Bristol City County,Virginia","Northampton County,Virginia",24625,720345
+265,"Bristol City County,Virginia","Northumberland County,Virginia",22386,630785
+266,"Bristol City County,Virginia","Nottoway County,Virginia",16144,437699
+267,"Bristol City County,Virginia","Orange County,Virginia",16734,471015
+268,"Bristol City County,Virginia","Page County,Virginia",15379,446140
+269,"Bristol City County,Virginia","Patrick County,Virginia",7980,212846
+270,"Bristol City County,Virginia","Pittsylvania County,Virginia",12063,308740
+271,"Bristol City County,Virginia","Powhatan County,Virginia",17207,451402
+272,"Bristol City County,Virginia","Prince Edward County,Virginia",14759,395035
+273,"Bristol City County,Virginia","Prince George County,Virginia",19532,518320
+274,"Bristol City County,Virginia","Prince William County,Virginia",18250,551443
+275,"Bristol City County,Virginia","Pulaski County,Virginia",5617,159231
+276,"Bristol City County,Virginia","Rappahannock County,Virginia",17210,482627
+277,"Bristol City County,Virginia","Richmond County,Virginia",21086,603428
+278,"Bristol City County,Virginia","Roanoke County,Virginia",7721,218352
+279,"Bristol City County,Virginia","Rockbridge County,Virginia",11218,315000
+280,"Bristol City County,Virginia","Rockingham County,Virginia",14418,418490
+281,"Bristol City County,Virginia","Russell County,Virginia",3859,70589
+282,"Bristol City County,Virginia","Scott County,Virginia",3170,53690
+283,"Bristol City County,Virginia","Shenandoah County,Virginia",14922,448594
+284,"Bristol City County,Virginia","Smyth County,Virginia",2886,70681
+285,"Bristol City County,Virginia","Southampton County,Virginia",20887,597922
+286,"Bristol City County,Virginia","Spotsylvania County,Virginia",17787,504746
+287,"Bristol City County,Virginia","Stafford County,Virginia",19168,529039
+288,"Bristol City County,Virginia","Surry County,Virginia",20952,602543
+289,"Bristol City County,Virginia","Sussex County,Virginia",19886,524077
+290,"Bristol City County,Virginia","Tazewell County,Virginia",4950,111751
+291,"Bristol City County,Virginia","Warren County,Virginia",16825,493186
+292,"Bristol City County,Virginia","Washington County,Virginia",1997,34766
+293,"Bristol City County,Virginia","Westmoreland County,Virginia",20959,610687
+294,"Bristol City County,Virginia","Wise County,Virginia",5398,113919
+295,"Bristol City County,Virginia","Wythe County,Virginia",4100,113140
+296,"Bristol City County,Virginia","York County,Virginia",21496,634456
+297,"Bristol City County,Virginia","Alexandria City County,Virginia",20419,609986
+298,"Bristol City County,Virginia","Bedford City County,Virginia",10079,278296
+299,"Bristol City County,Virginia","Buena Vista City County,Virginia",10590,307487
+300,"Bristol City County,Virginia","Charlottesville City County,Virginia",14001,412245
+301,"Bristol City County,Virginia","Chesapeake City County,Virginia",22959,687361
+302,"Bristol City County,Virginia","Clifton Forge City County,Virginia",10857,297121
+303,"Bristol City County,Virginia","Colonial Heights City County,Virginia",18668,556586
+304,"Bristol City County,Virginia","Covington City County,Virginia",11841,317959
+305,"Bristol City County,Virginia","Danville City County,Virginia",11905,308988
+306,"Bristol City County,Virginia","Emporia City County,Virginia",19428,554587
+307,"Bristol City County,Virginia","Fairfax City County,Virginia",19382,577191
+308,"Bristol City County,Virginia","Falls Church City County,Virginia",19714,591663
+309,"Bristol City County,Virginia","Franklin City County,Virginia",21514,611057
+310,"Bristol City County,Virginia","Fredericksburg City County,Virginia",18920,514406
+311,"Bristol City County,Virginia","Galax City County,Virginia",6498,173677
+312,"Bristol City County,Virginia","Hampton City County,Virginia",21446,644162
+313,"Bristol City County,Virginia","Harrisonburg City County,Virginia",13477,398386
+314,"Bristol City County,Virginia","Hopewell City County,Virginia",18704,555552
+315,"Bristol City County,Virginia","Lexington City County,Virginia",10504,305815
+316,"Bristol City County,Virginia","Lynchburg City County,Virginia",12104,323171
+317,"Bristol City County,Virginia","Manassas City County,Virginia",18477,556388
+318,"Bristol City County,Virginia","Manassas Park City County,Virginia",18980,562731
+319,"Bristol City County,Virginia","Martinsville City County,Virginia",10275,263325
+320,"Bristol City County,Virginia","Newport News City County,Virginia",21002,630648
+321,"Bristol City County,Virginia","Norfolk City County,Virginia",22752,669578
+322,"Bristol City County,Virginia","Norton City County,Virginia",4818,101830
+323,"Bristol City County,Virginia","Petersburg City County,Virginia",18535,500924
+324,"Bristol City County,Virginia","Poquoson City County,Virginia",21674,641224
+325,"Bristol City County,Virginia","Portsmouth City County,Virginia",22691,678399
+326,"Bristol City County,Virginia","Radford County,Virginia",6127,173179
+327,"Bristol City County,Virginia","Richmond City County,Virginia",17407,521689
+328,"Bristol City County,Virginia","Roanoke City County,Virginia",8323,238457
+329,"Bristol City County,Virginia","Salem City County,Virginia",7735,225006
+330,"Bristol City County,Virginia","South Boston City County,Virginia",13917,363166
+331,"Bristol City County,Virginia","Staunton City County,Virginia",12294,359521
+332,"Bristol City County,Virginia","Suffolk City County,Virginia",22830,644359
+333,"Bristol City County,Virginia","Virginia Beach City County,Virginia",23313,692836
+334,"Bristol City County,Virginia","Waynesboro City County,Virginia",12632,372240
+335,"Bristol City County,Virginia","Williamsburg City County,Virginia",20047,602897
+336,"Bristol City County,Virginia","Winchester City County,Virginia",17044,507958
+337,"Bristol City County,Virginia","Barbour County,West Virginia",17190,470927
+338,"Bristol City County,Virginia","Berkeley County,West Virginia",18781,555166
+339,"Bristol City County,Virginia","Boone County,West Virginia",12552,308438
+340,"Bristol City County,Virginia","Braxton County,West Virginia",13880,361906
+341,"Bristol City County,Virginia","Brooke County,West Virginia",21548,602720
+342,"Bristol City County,Virginia","Cabell County,West Virginia",14120,404344
+343,"Bristol City County,Virginia","Calhoun County,West Virginia",15555,429823
+344,"Bristol City County,Virginia","Clay County,West Virginia",12545,325343
+345,"Bristol City County,Virginia","Doddridge County,West Virginia",17394,447783
+346,"Bristol City County,Virginia","Fayette County,West Virginia",10052,271080
+347,"Bristol City County,Virginia","Gilmer County,West Virginia",15448,411586
+348,"Bristol City County,Virginia","Grant County,West Virginia",18873,537653
+349,"Bristol City County,Virginia","Greenbrier County,West Virginia",11854,301602
+350,"Bristol City County,Virginia","Hampshire County,West Virginia",18901,526070
+351,"Bristol City County,Virginia","Hancock County,West Virginia",23174,630067
+352,"Bristol City County,Virginia","Hardy County,West Virginia",18121,508983
+353,"Bristol City County,Virginia","Harrison County,West Virginia",16423,457297
+354,"Bristol City County,Virginia","Jackson County,West Virginia",13439,384155
+355,"Bristol City County,Virginia","Jefferson County,West Virginia",18832,542572
+356,"Bristol City County,Virginia","Kanawha County,West Virginia",11202,306137
+357,"Bristol City County,Virginia","Lewis County,West Virginia",15053,410767
+358,"Bristol City County,Virginia","Lincoln County,West Virginia",14998,337684
+359,"Bristol City County,Virginia","Logan County,West Virginia",12370,286581
+360,"Bristol City County,Virginia","McDowell County,West Virginia",8264,149860
+361,"Bristol City County,Virginia","Marion County,West Virginia",17569,484465
+362,"Bristol City County,Virginia","Marshall County,West Virginia",21447,571841
+363,"Bristol City County,Virginia","Mason County,West Virginia",13596,390251
+364,"Bristol City County,Virginia","Mercer County,West Virginia",6631,186744
+365,"Bristol City County,Virginia","Mineral County,West Virginia",20347,549176
+366,"Bristol City County,Virginia","Mingo County,West Virginia",11054,253034
+367,"Bristol City County,Virginia","Monongalia County,West Virginia",17779,509933
+368,"Bristol City County,Virginia","Monroe County,West Virginia",9095,236144
+369,"Bristol City County,Virginia","Morgan County,West Virginia",19027,556292
+370,"Bristol City County,Virginia","Nicholas County,West Virginia",11499,312079
+371,"Bristol City County,Virginia","Ohio County,West Virginia",21080,616977
+372,"Bristol City County,Virginia","Pendleton County,West Virginia",17265,469675
+373,"Bristol City County,Virginia","Pleasants County,West Virginia",16922,482007
+374,"Bristol City County,Virginia","Pocahontas County,West Virginia",14934,381814
+375,"Bristol City County,Virginia","Preston County,West Virginia",19925,536664
+376,"Bristol City County,Virginia","Putnam County,West Virginia",12377,355869
+377,"Bristol City County,Virginia","Raleigh County,West Virginia",8227,231318
+378,"Bristol City County,Virginia","Randolph County,West Virginia",17554,473222
+379,"Bristol City County,Virginia","Ritchie County,West Virginia",17252,495711
+380,"Bristol City County,Virginia","Roane County,West Virginia",15065,412970
+381,"Bristol City County,Virginia","Summers County,West Virginia",9187,231683
+382,"Bristol City County,Virginia","Taylor County,West Virginia",17461,480037
+383,"Bristol City County,Virginia","Tucker County,West Virginia",18621,503747
+384,"Bristol City County,Virginia","Tyler County,West Virginia",18831,521622
+385,"Bristol City County,Virginia","Upshur County,West Virginia",16618,425464
+386,"Bristol City County,Virginia","Wayne County,West Virginia",13599,308481
+387,"Bristol City County,Virginia","Webster County,West Virginia",14843,369030
+388,"Bristol City County,Virginia","Wetzel County,West Virginia",19103,508780
+389,"Bristol City County,Virginia","Wirt County,West Virginia",15706,441493
+390,"Bristol City County,Virginia","Wood County,West Virginia",15220,443182
+391,"Bristol City County,Virginia","Wyoming County,West Virginia",10025,194118

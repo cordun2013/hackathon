@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Portsmouth City County,Virginia","Adair County,Kentucky",37881,1042471
+1,"Portsmouth City County,Virginia","Allen County,Kentucky",39277,1162281
+2,"Portsmouth City County,Virginia","Anderson County,Kentucky",33509,1005256
+3,"Portsmouth City County,Virginia","Ballard County,Kentucky",46182,1397536
+4,"Portsmouth City County,Virginia","Barren County,Kentucky",39067,1121226
+5,"Portsmouth City County,Virginia","Bath County,Kentucky",29156,876438
+6,"Portsmouth City County,Virginia","Bell County,Kentucky",30376,843778
+7,"Portsmouth City County,Virginia","Boone County,Kentucky",34969,997831
+8,"Portsmouth City County,Virginia","Bourbon County,Kentucky",31070,922855
+9,"Portsmouth City County,Virginia","Boyd County,Kentucky",25832,770762
+10,"Portsmouth City County,Virginia","Boyle County,Kentucky",34738,1009143
+11,"Portsmouth City County,Virginia","Bracken County,Kentucky",31481,916938
+12,"Portsmouth City County,Virginia","Breathitt County,Kentucky",32001,879541
+13,"Portsmouth City County,Virginia","Breckinridge County,Kentucky",39042,1157938
+14,"Portsmouth City County,Virginia","Bullitt County,Kentucky",35612,1079057
+15,"Portsmouth City County,Virginia","Butler County,Kentucky",39707,1179936
+16,"Portsmouth City County,Virginia","Caldwell County,Kentucky",42599,1285881
+17,"Portsmouth City County,Virginia","Calloway County,Kentucky",44022,1329395
+18,"Portsmouth City County,Virginia","Campbell County,Kentucky",33182,956809
+19,"Portsmouth City County,Virginia","Carlisle County,Kentucky",46639,1412904
+20,"Portsmouth City County,Virginia","Carroll County,Kentucky",36053,1053071
+21,"Portsmouth City County,Virginia","Carter County,Kentucky",26996,800859
+22,"Portsmouth City County,Virginia","Casey County,Kentucky",36232,1040648
+23,"Portsmouth City County,Virginia","Christian County,Kentucky",40915,1250375
+24,"Portsmouth City County,Virginia","Clay County,Kentucky",32949,904120
+25,"Portsmouth City County,Virginia","Clinton County,Kentucky",36324,1041686
+26,"Portsmouth City County,Virginia","Crittenden County,Kentucky",44179,1318951
+27,"Portsmouth City County,Virginia","Cumberland County,Kentucky",37204,1062354
+28,"Portsmouth City County,Virginia","Daviess County,Kentucky",40730,1226378
+29,"Portsmouth City County,Virginia","Edmonson County,Kentucky",39147,1167810
+30,"Portsmouth City County,Virginia","Elliott County,Kentucky",28327,826629
+31,"Portsmouth City County,Virginia","Estill County,Kentucky",32149,938753
+32,"Portsmouth City County,Virginia","Fayette County,Kentucky",31316,942749
+33,"Portsmouth City County,Virginia","Fleming County,Kentucky",29582,879623
+34,"Portsmouth City County,Virginia","Floyd County,Kentucky",29965,878027
+35,"Portsmouth City County,Virginia","Franklin County,Kentucky",33354,991666
+36,"Portsmouth City County,Virginia","Fulton County,Kentucky",47043,1433868
+37,"Portsmouth City County,Virginia","Gallatin County,Kentucky",35051,1043730
+38,"Portsmouth City County,Virginia","Garrard County,Kentucky",33921,989903
+39,"Portsmouth City County,Virginia","Grant County,Kentucky",33850,1017837
+40,"Portsmouth City County,Virginia","Graves County,Kentucky",45663,1385611
+41,"Portsmouth City County,Virginia","Grayson County,Kentucky",38034,1136572
+42,"Portsmouth City County,Virginia","Green County,Kentucky",37814,1101777
+43,"Portsmouth City County,Virginia","Greenup County,Kentucky",27607,811888
+44,"Portsmouth City County,Virginia","Hancock County,Kentucky",39838,1190831
+45,"Portsmouth City County,Virginia","Hardin County,Kentucky",36911,1098704
+46,"Portsmouth City County,Virginia","Harlan County,Kentucky",29451,820404
+47,"Portsmouth City County,Virginia","Harrison County,Kentucky",32641,955955
+48,"Portsmouth City County,Virginia","Hart County,Kentucky",37710,1126333
+49,"Portsmouth City County,Virginia","Henderson County,Kentucky",42537,1278808
+50,"Portsmouth City County,Virginia","Henry County,Kentucky",34955,1035384
+51,"Portsmouth City County,Virginia","Hickman County,Kentucky",46672,1414196
+52,"Portsmouth City County,Virginia","Hopkins County,Kentucky",42058,1260349
+53,"Portsmouth City County,Virginia","Jackson County,Kentucky",34821,940539
+54,"Portsmouth City County,Virginia","Jefferson County,Kentucky",35049,1050918
+55,"Portsmouth City County,Virginia","Jessamine County,Kentucky",32785,964213
+56,"Portsmouth City County,Virginia","Johnson County,Kentucky",28613,843658
+57,"Portsmouth City County,Virginia","Kenton County,Kentucky",34338,985525
+58,"Portsmouth City County,Virginia","Knott County,Kentucky",29541,822291
+59,"Portsmouth City County,Virginia","Knox County,Kentucky",31707,885770
+60,"Portsmouth City County,Virginia","Larue County,Kentucky",36982,1085880
+61,"Portsmouth City County,Virginia","Laurel County,Kentucky",33601,920598
+62,"Portsmouth City County,Virginia","Lawrence County,Kentucky",27755,815082
+63,"Portsmouth City County,Virginia","Lee County,Kentucky",32993,932490
+64,"Portsmouth City County,Virginia","Leslie County,Kentucky",30913,848684
+65,"Portsmouth City County,Virginia","Letcher County,Kentucky",27942,785838
+66,"Portsmouth City County,Virginia","Lewis County,Kentucky",29035,852677
+67,"Portsmouth City County,Virginia","Lincoln County,Kentucky",34631,1006821
+68,"Portsmouth City County,Virginia","Livingston County,Kentucky",44513,1351475
+69,"Portsmouth City County,Virginia","Logan County,Kentucky",41347,1203275
+70,"Portsmouth City County,Virginia","Lyon County,Kentucky",44269,1328649
+71,"Portsmouth City County,Virginia","McCracken County,Kentucky",44794,1365596
+72,"Portsmouth City County,Virginia","McCreary County,Kentucky",33331,978532
+73,"Portsmouth City County,Virginia","Madison County,Kentucky",32314,953772
+74,"Portsmouth City County,Virginia","Magoffin County,Kentucky",29581,864337
+75,"Portsmouth City County,Virginia","Marion County,Kentucky",35360,1047489
+76,"Portsmouth City County,Virginia","Marshall County,Kentucky",44208,1349168
+77,"Portsmouth City County,Virginia","Martin County,Kentucky",28869,796806
+78,"Portsmouth City County,Virginia","Mason County,Kentucky",30830,896484
+79,"Portsmouth City County,Virginia","Meade County,Kentucky",37509,1123233
+80,"Portsmouth City County,Virginia","Menifee County,Kentucky",30272,888501
+81,"Portsmouth City County,Virginia","Mercer County,Kentucky",33737,1003200
+82,"Portsmouth City County,Virginia","Metcalfe County,Kentucky",38537,1072736
+83,"Portsmouth City County,Virginia","Monroe County,Kentucky",37765,1092775
+84,"Portsmouth City County,Virginia","Montgomery County,Kentucky",29969,894978
+85,"Portsmouth City County,Virginia","Morgan County,Kentucky",30051,864217
+86,"Portsmouth City County,Virginia","Muhlenberg County,Kentucky",40918,1226825
+87,"Portsmouth City County,Virginia","Nelson County,Kentucky",34968,1046561
+88,"Portsmouth City County,Virginia","Nicholas County,Kentucky",31647,922862
+89,"Portsmouth City County,Virginia","Ohio County,Kentucky",39831,1194415
+90,"Portsmouth City County,Virginia","Oldham County,Kentucky",35120,1062799
+91,"Portsmouth City County,Virginia","Owen County,Kentucky",34175,1018443
+92,"Portsmouth City County,Virginia","Owsley County,Kentucky",34138,917415
+93,"Portsmouth City County,Virginia","Pendleton County,Kentucky",33419,957862
+94,"Portsmouth City County,Virginia","Perry County,Kentucky",30515,842714
+95,"Portsmouth City County,Virginia","Pike County,Kentucky",29065,762052
+96,"Portsmouth City County,Virginia","Powell County,Kentucky",31413,924724
+97,"Portsmouth City County,Virginia","Robertson County,Kentucky",31565,922368
+98,"Portsmouth City County,Virginia","Rockcastle County,Kentucky",33748,994915
+99,"Portsmouth City County,Virginia","Rowan County,Kentucky",28299,848645
+100,"Portsmouth City County,Virginia","Russell County,Kentucky",37486,1026455
+101,"Portsmouth City County,Virginia","Scott County,Kentucky",32150,970776
+102,"Portsmouth City County,Virginia","Shelby County,Kentucky",33977,1022052
+103,"Portsmouth City County,Virginia","Simpson County,Kentucky",40314,1179251
+104,"Portsmouth City County,Virginia","Spencer County,Kentucky",34507,1027900
+105,"Portsmouth City County,Virginia","Taylor County,Kentucky",36650,1078985
+106,"Portsmouth City County,Virginia","Todd County,Kentucky",41331,1243322
+107,"Portsmouth City County,Virginia","Trigg County,Kentucky",41822,1267734
+108,"Portsmouth City County,Virginia","Trimble County,Kentucky",36194,1068839
+109,"Portsmouth City County,Virginia","Union County,Kentucky",44256,1309254
+110,"Portsmouth City County,Virginia","Warren County,Kentucky",40064,1196179
+111,"Portsmouth City County,Virginia","Washington County,Kentucky",34978,1031797
+112,"Portsmouth City County,Virginia","Wayne County,Kentucky",35835,1025663
+113,"Portsmouth City County,Virginia","Webster County,Kentucky",43167,1288438
+114,"Portsmouth City County,Virginia","Whitley County,Kentucky",31935,963294
+115,"Portsmouth City County,Virginia","Wolfe County,Kentucky",31145,887579
+116,"Portsmouth City County,Virginia","Woodford County,Kentucky",32370,973412
+117,"Portsmouth City County,Virginia","Adams County,Ohio",30922,899040
+118,"Portsmouth City County,Virginia","Allen County,Ohio",37655,1074457
+119,"Portsmouth City County,Virginia","Ashland County,Ohio",32367,941417
+120,"Portsmouth City County,Virginia","Ashtabula County,Ohio",30406,897329
+121,"Portsmouth City County,Virginia","Athens County,Ohio",27331,804639
+122,"Portsmouth City County,Virginia","Auglaize County,Ohio",36904,1091157
+123,"Portsmouth City County,Virginia","Belmont County,Ohio",26976,793624
+124,"Portsmouth City County,Virginia","Brown County,Ohio",32167,925968
+125,"Portsmouth City County,Virginia","Butler County,Ohio",35280,1007993
+126,"Portsmouth City County,Virginia","Carroll County,Ohio",28922,809550
+127,"Portsmouth City County,Virginia","Champaign County,Ohio",34208,993255
+128,"Portsmouth City County,Virginia","Clark County,Ohio",32888,952799
+129,"Portsmouth City County,Virginia","Clermont County,Ohio",33001,957064
+130,"Portsmouth City County,Virginia","Clinton County,Ohio",32392,940481
+131,"Portsmouth City County,Virginia","Columbiana County,Ohio",27708,791567
+132,"Portsmouth City County,Virginia","Coshocton County,Ohio",31333,919074
+133,"Portsmouth City County,Virginia","Crawford County,Ohio",34276,1012611
+134,"Portsmouth City County,Virginia","Cuyahoga County,Ohio",30402,895173
+135,"Portsmouth City County,Virginia","Darke County,Ohio",36002,1048204
+136,"Portsmouth City County,Virginia","Defiance County,Ohio",38720,1144137
+137,"Portsmouth City County,Virginia","Delaware County,Ohio",33160,972246
+138,"Portsmouth City County,Virginia","Fairfield County,Ohio",30691,899340
+139,"Portsmouth City County,Virginia","Fayette County,Ohio",30955,910944
+140,"Portsmouth City County,Virginia","Franklin County,Ohio",31691,929195
+141,"Portsmouth City County,Virginia","Fulton County,Ohio",37073,1100988
+142,"Portsmouth City County,Virginia","Gallia County,Ohio",26269,770056
+143,"Portsmouth City County,Virginia","Geauga County,Ohio",29895,869992
+144,"Portsmouth City County,Virginia","Greene County,Ohio",31826,944097
+145,"Portsmouth City County,Virginia","Guernsey County,Ohio",28879,857133
+146,"Portsmouth City County,Virginia","Hamilton County,Ohio",34781,1018571
+147,"Portsmouth City County,Virginia","Hancock County,Ohio",36306,1074692
+148,"Portsmouth City County,Virginia","Hardin County,Ohio",36165,1030287
+149,"Portsmouth City County,Virginia","Harrison County,Ohio",28135,811768
+150,"Portsmouth City County,Virginia","Henry County,Ohio",37527,1090755
+151,"Portsmouth City County,Virginia","Highland County,Ohio",31460,899054
+152,"Portsmouth City County,Virginia","Hocking County,Ohio",29133,855303
+153,"Portsmouth City County,Virginia","Holmes County,Ohio",32075,893844
+154,"Portsmouth City County,Virginia","Huron County,Ohio",33644,971022
+155,"Portsmouth City County,Virginia","Jackson County,Ohio",27446,809605
+156,"Portsmouth City County,Virginia","Jefferson County,Ohio",26878,773041
+157,"Portsmouth City County,Virginia","Knox County,Ohio",33121,961550
+158,"Portsmouth City County,Virginia","Lawrence County,Ohio",26971,775819
+159,"Portsmouth City County,Virginia","Licking County,Ohio",32507,942622
+160,"Portsmouth City County,Virginia","Logan County,Ohio",35186,1024564
+161,"Portsmouth City County,Virginia","Lorain County,Ohio",31454,924893
+162,"Portsmouth City County,Virginia","Lucas County,Ohio",36027,1053838
+163,"Portsmouth City County,Virginia","Madison County,Ohio",32657,934029
+164,"Portsmouth City County,Virginia","Mahoning County,Ohio",26892,787321
+165,"Portsmouth City County,Virginia","Marion County,Ohio",34566,998339
+166,"Portsmouth City County,Virginia","Medina County,Ohio",31000,908536
+167,"Portsmouth City County,Virginia","Meigs County,Ohio",26211,775610
+168,"Portsmouth City County,Virginia","Mercer County,Ohio",38140,1118091
+169,"Portsmouth City County,Virginia","Miami County,Ohio",34491,1013596
+170,"Portsmouth City County,Virginia","Monroe County,Ohio",29409,840308
+171,"Portsmouth City County,Virginia","Montgomery County,Ohio",33860,991552
+172,"Portsmouth City County,Virginia","Morgan County,Ohio",29206,859932
+173,"Portsmouth City County,Virginia","Morrow County,Ohio",33968,995067
+174,"Portsmouth City County,Virginia","Muskingum County,Ohio",29725,885125
+175,"Portsmouth City County,Virginia","Noble County,Ohio",28707,856445
+176,"Portsmouth City County,Virginia","Paulding County,Ohio",39925,1180124
+177,"Portsmouth City County,Virginia","Perry County,Ohio",30548,870060
+178,"Portsmouth City County,Virginia","Pickaway County,Ohio",30396,891043
+179,"Portsmouth City County,Virginia","Pike County,Ohio",28892,848912
+180,"Portsmouth City County,Virginia","Portage County,Ohio",28747,843335
+181,"Portsmouth City County,Virginia","Preble County,Ohio",35479,1020130
+182,"Portsmouth City County,Virginia","Putnam County,Ohio",38505,1134498
+183,"Portsmouth City County,Virginia","Richland County,Ohio",32924,962845
+184,"Portsmouth City County,Virginia","Ross County,Ohio",29140,857349
+185,"Portsmouth City County,Virginia","Sandusky County,Ohio",34315,1012412
+186,"Portsmouth City County,Virginia","Scioto County,Ohio",28776,833092
+187,"Portsmouth City County,Virginia","Seneca County,Ohio",35045,1022084
+188,"Portsmouth City County,Virginia","Shelby County,Ohio",35529,1049882
+189,"Portsmouth City County,Virginia","Stark County,Ohio",29526,839468
+190,"Portsmouth City County,Virginia","Summit County,Ohio",29641,871929
+191,"Portsmouth City County,Virginia","Trumbull County,Ohio",28050,824785
+192,"Portsmouth City County,Virginia","Tuscarawas County,Ohio",29644,843051
+193,"Portsmouth City County,Virginia","Union County,Ohio",33690,974795
+194,"Portsmouth City County,Virginia","Van Wert County,Ohio",38616,1145009
+195,"Portsmouth City County,Virginia","Vinton County,Ohio",29342,835110
+196,"Portsmouth City County,Virginia","Warren County,Ohio",33197,974539
+197,"Portsmouth City County,Virginia","Washington County,Ohio",27565,814381
+198,"Portsmouth City County,Virginia","Wayne County,Ohio",32105,927347
+199,"Portsmouth City County,Virginia","Williams County,Ohio",38318,1132444
+200,"Portsmouth City County,Virginia","Wood County,Ohio",36212,1060741
+201,"Portsmouth City County,Virginia","Wyandot County,Ohio",35276,1038828
+202,"Portsmouth City County,Virginia","Accomack County,Virginia",5942,130814
+203,"Portsmouth City County,Virginia","Albemarle County,Virginia",9851,284471
+204,"Portsmouth City County,Virginia","Alleghany County,Virginia",15361,453412
+205,"Portsmouth City County,Virginia","Amelia County,Virginia",8429,186699
+206,"Portsmouth City County,Virginia","Amherst County,Virginia",12644,354217
+207,"Portsmouth City County,Virginia","Appomattox County,Virginia",11312,278808
+208,"Portsmouth City County,Virginia","Arlington County,Virginia",10895,315814
+209,"Portsmouth City County,Virginia","Augusta County,Virginia",12104,347105
+210,"Portsmouth City County,Virginia","Bath County,Virginia",15079,412765
+211,"Portsmouth City County,Virginia","Bedford County,Virginia",14285,344664
+212,"Portsmouth City County,Virginia","Bland County,Virginia",19643,583095
+213,"Portsmouth City County,Virginia","Botetourt County,Virginia",14668,424348
+214,"Portsmouth City County,Virginia","Brunswick County,Virginia",6048,153378
+215,"Portsmouth City County,Virginia","Buchanan County,Virginia",25400,717554
+216,"Portsmouth City County,Virginia","Buckingham County,Virginia",10794,277486
+217,"Portsmouth City County,Virginia","Campbell County,Virginia",12730,307979
+218,"Portsmouth City County,Virginia","Caroline County,Virginia",7635,205078
+219,"Portsmouth City County,Virginia","Carroll County,Virginia",18459,511300
+220,"Portsmouth City County,Virginia","Charles City County,Virginia",5435,138907
+221,"Portsmouth City County,Virginia","Charlotte County,Virginia",10679,252125
+222,"Portsmouth City County,Virginia","Chesterfield County,Virginia",6975,162780
+223,"Portsmouth City County,Virginia","Clarke County,Virginia",13575,358290
+224,"Portsmouth City County,Virginia","Craig County,Virginia",17509,480675
+225,"Portsmouth City County,Virginia","Culpeper County,Virginia",10874,289019
+226,"Portsmouth City County,Virginia","Cumberland County,Virginia",9227,242439
+227,"Portsmouth City County,Virginia","Dickenson County,Virginia",26109,735732
+228,"Portsmouth City County,Virginia","Dinwiddie County,Virginia",6588,153525
+229,"Portsmouth City County,Virginia","Essex County,Virginia",7815,172000
+230,"Portsmouth City County,Virginia","Fairfax County,Virginia",11192,319044
+231,"Portsmouth City County,Virginia","Fauquier County,Virginia",10888,299057
+232,"Portsmouth City County,Virginia","Floyd County,Virginia",18379,445129
+233,"Portsmouth City County,Virginia","Fluvanna County,Virginia",9052,248042
+234,"Portsmouth City County,Virginia","Franklin County,Virginia",15734,374612
+235,"Portsmouth City County,Virginia","Frederick County,Virginia",14130,391352
+236,"Portsmouth City County,Virginia","Giles County,Virginia",18432,538211
+237,"Portsmouth City County,Virginia","Gloucester County,Virginia",4356,87941
+238,"Portsmouth City County,Virginia","Goochland County,Virginia",7782,217329
+239,"Portsmouth City County,Virginia","Grayson County,Virginia",20590,547844
+240,"Portsmouth City County,Virginia","Greene County,Virginia",11571,302506
+241,"Portsmouth City County,Virginia","Greensville County,Virginia",5550,141043
+242,"Portsmouth City County,Virginia","Halifax County,Virginia",10566,262549
+243,"Portsmouth City County,Virginia","Hanover County,Virginia",5854,160907
+244,"Portsmouth City County,Virginia","Henrico County,Virginia",5455,148296
+245,"Portsmouth City County,Virginia","Henry County,Virginia",14925,376501
+246,"Portsmouth City County,Virginia","Highland County,Virginia",15307,404844
+247,"Portsmouth City County,Virginia","Isle of Wight County,Virginia",2556,49676
+248,"Portsmouth City County,Virginia","James City County,Virginia",4101,92328
+249,"Portsmouth City County,Virginia","King and Queen County,Virginia",6049,148426
+250,"Portsmouth City County,Virginia","King George County,Virginia",8737,241160
+251,"Portsmouth City County,Virginia","King William County,Virginia",6405,155278
+252,"Portsmouth City County,Virginia","Lancaster County,Virginia",7583,149537
+253,"Portsmouth City County,Virginia","Lee County,Virginia",26604,767386
+254,"Portsmouth City County,Virginia","Loudoun County,Virginia",13158,372289
+255,"Portsmouth City County,Virginia","Louisa County,Virginia",8549,240917
+256,"Portsmouth City County,Virginia","Lunenburg County,Virginia",8819,205688
+257,"Portsmouth City County,Virginia","Madison County,Virginia",11485,302538
+258,"Portsmouth City County,Virginia","Mathews County,Virginia",5516,116341
+259,"Portsmouth City County,Virginia","Mecklenburg County,Virginia",8682,211931
+260,"Portsmouth City County,Virginia","Middlesex County,Virginia",5662,119638
+261,"Portsmouth City County,Virginia","Montgomery County,Virginia",16996,502482
+262,"Portsmouth City County,Virginia","Nelson County,Virginia",11090,321812
+263,"Portsmouth City County,Virginia","New Kent County,Virginia",4923,115402
+264,"Portsmouth City County,Virginia","Northampton County,Virginia",3184,66628
+265,"Portsmouth City County,Virginia","Northumberland County,Virginia",7951,161700
+266,"Portsmouth City County,Virginia","Nottoway County,Virginia",7524,182051
+267,"Portsmouth City County,Virginia","Orange County,Virginia",10162,257444
+268,"Portsmouth City County,Virginia","Page County,Virginia",13759,346723
+269,"Portsmouth City County,Virginia","Patrick County,Virginia",16508,415408
+270,"Portsmouth City County,Virginia","Pittsylvania County,Virginia",13290,332502
+271,"Portsmouth City County,Virginia","Powhatan County,Virginia",7808,214937
+272,"Portsmouth City County,Virginia","Prince Edward County,Virginia",9788,232473
+273,"Portsmouth City County,Virginia","Prince George County,Virginia",4718,105270
+274,"Portsmouth City County,Virginia","Prince William County,Virginia",11351,308892
+275,"Portsmouth City County,Virginia","Pulaski County,Virginia",17723,525115
+276,"Portsmouth City County,Virginia","Rappahannock County,Virginia",12327,327056
+277,"Portsmouth City County,Virginia","Richmond County,Virginia",8071,177168
+278,"Portsmouth City County,Virginia","Roanoke County,Virginia",15987,467420
+279,"Portsmouth City County,Virginia","Rockbridge County,Virginia",13410,390357
+280,"Portsmouth City County,Virginia","Rockingham County,Virginia",13463,387251
+281,"Portsmouth City County,Virginia","Russell County,Virginia",24565,700891
+282,"Portsmouth City County,Virginia","Scott County,Virginia",25177,728114
+283,"Portsmouth City County,Virginia","Shenandoah County,Virginia",13968,417354
+284,"Portsmouth City County,Virginia","Smyth County,Virginia",20760,611836
+285,"Portsmouth City County,Virginia","Southampton County,Virginia",3597,86684
+286,"Portsmouth City County,Virginia","Spotsylvania County,Virginia",8634,236124
+287,"Portsmouth City County,Virginia","Stafford County,Virginia",8706,253595
+288,"Portsmouth City County,Virginia","Surry County,Virginia",3889,76315
+289,"Portsmouth City County,Virginia","Sussex County,Virginia",4855,107375
+290,"Portsmouth City County,Virginia","Tazewell County,Virginia",22220,651912
+291,"Portsmouth City County,Virginia","Warren County,Virginia",13358,360763
+292,"Portsmouth City County,Virginia","Washington County,Virginia",22153,651302
+293,"Portsmouth City County,Virginia","Westmoreland County,Virginia",9805,212270
+294,"Portsmouth City County,Virginia","Wise County,Virginia",26016,742234
+295,"Portsmouth City County,Virginia","Wythe County,Virginia",19014,563821
+296,"Portsmouth City County,Virginia","York County,Virginia",3182,65552
+297,"Portsmouth City County,Virginia","Alexandria City County,Virginia",10866,312863
+298,"Portsmouth City County,Virginia","Bedford City County,Virginia",13787,339748
+299,"Portsmouth City County,Virginia","Bristol City County,Virginia",22628,677019
+300,"Portsmouth City County,Virginia","Buena Vista City County,Virginia",13069,383623
+301,"Portsmouth City County,Virginia","Charlottesville City County,Virginia",9402,269878
+302,"Portsmouth City County,Virginia","Chesapeake City County,Virginia",814,12594
+303,"Portsmouth City County,Virginia","Clifton Forge City County,Virginia",14263,422230
+304,"Portsmouth City County,Virginia","Colonial Heights City County,Virginia",5578,123849
+305,"Portsmouth City County,Virginia","Covington City County,Virginia",15005,440572
+306,"Portsmouth City County,Virginia","Danville City County,Virginia",12381,307475
+307,"Portsmouth City County,Virginia","Emporia City County,Virginia",4866,123047
+308,"Portsmouth City County,Virginia","Fairfax City County,Virginia",11126,307826
+309,"Portsmouth City County,Virginia","Falls Church City County,Virginia",11073,320112
+310,"Portsmouth City County,Virginia","Franklin City County,Virginia",2877,66894
+311,"Portsmouth City County,Virginia","Fredericksburg City County,Virginia",8505,239531
+312,"Portsmouth City County,Virginia","Galax City County,Virginia",19186,521838
+313,"Portsmouth City County,Virginia","Hampton City County,Virginia",1854,40741
+314,"Portsmouth City County,Virginia","Harrisonburg City County,Virginia",12522,367147
+315,"Portsmouth City County,Virginia","Hopewell City County,Virginia",5686,120478
+316,"Portsmouth City County,Virginia","Lexington City County,Virginia",12928,380601
+317,"Portsmouth City County,Virginia","Lynchburg City County,Virginia",12513,303296
+318,"Portsmouth City County,Virginia","Manassas City County,Virginia",11094,306229
+319,"Portsmouth City County,Virginia","Manassas Park City County,Virginia",11315,303429
+320,"Portsmouth City County,Virginia","Martinsville City County,Virginia",14522,360480
+321,"Portsmouth City County,Virginia","Newport News City County,Virginia",2135,49310
+322,"Portsmouth City County,Virginia","Norfolk City County,Virginia",529,4851
+323,"Portsmouth City County,Virginia","Norton City County,Virginia",25540,733124
+324,"Portsmouth City County,Virginia","Petersburg City County,Virginia",5375,120289
+325,"Portsmouth City County,Virginia","Poquoson City County,Virginia",2606,53555
+326,"Portsmouth City County,Virginia","Radford County,Virginia",17359,512326
+327,"Portsmouth City County,Virginia","Richmond City County,Virginia",5772,156793
+328,"Portsmouth City County,Virginia","Roanoke City County,Virginia",15525,458862
+329,"Portsmouth City County,Virginia","Salem City County,Virginia",15355,457333
+330,"Portsmouth City County,Virginia","South Boston City County,Virginia",10270,260041
+331,"Portsmouth City County,Virginia","Staunton City County,Virginia",11411,328828
+332,"Portsmouth City County,Virginia","Suffolk City County,Virginia",1524,29431
+333,"Portsmouth City County,Virginia","Virginia Beach City County,Virginia",1644,32646
+334,"Portsmouth City County,Virginia","Waynesboro City County,Virginia",10687,310826
+335,"Portsmouth City County,Virginia","Williamsburg City County,Virginia",3415,81693
+336,"Portsmouth City County,Virginia","Winchester City County,Virginia",13952,365100
+337,"Portsmouth City County,Virginia","Barbour County,West Virginia",21836,565663
+338,"Portsmouth City County,Virginia","Berkeley County,West Virginia",15733,415281
+339,"Portsmouth City County,Virginia","Boone County,West Virginia",23720,653117
+340,"Portsmouth City County,Virginia","Braxton County,West Virginia",23418,633792
+341,"Portsmouth City County,Virginia","Brooke County,West Virginia",26183,756525
+342,"Portsmouth City County,Virginia","Cabell County,West Virginia",25288,749023
+343,"Portsmouth City County,Virginia","Calhoun County,West Virginia",25189,687743
+344,"Portsmouth City County,Virginia","Clay County,West Virginia",23453,624576
+345,"Portsmouth City County,Virginia","Doddridge County,West Virginia",25667,607950
+346,"Portsmouth City County,Virginia","Fayette County,West Virginia",20842,571315
+347,"Portsmouth City County,Virginia","Gilmer County,West Virginia",24986,683472
+348,"Portsmouth City County,Virginia","Grant County,West Virginia",17180,468759
+349,"Portsmouth City County,Virginia","Greenbrier County,West Virginia",19197,530540
+350,"Portsmouth City County,Virginia","Hampshire County,West Virginia",16257,424358
+351,"Portsmouth City County,Virginia","Hancock County,West Virginia",26891,764461
+352,"Portsmouth City County,Virginia","Hardy County,West Virginia",16427,440089
+353,"Portsmouth City County,Virginia","Harrison County,West Virginia",24310,610419
+354,"Portsmouth City County,Virginia","Jackson County,West Virginia",24607,728834
+355,"Portsmouth City County,Virginia","Jefferson County,West Virginia",14631,403716
+356,"Portsmouth City County,Virginia","Kanawha County,West Virginia",22370,650816
+357,"Portsmouth City County,Virginia","Lewis County,West Virginia",23355,577914
+358,"Portsmouth City County,Virginia","Lincoln County,West Virginia",25952,726701
+359,"Portsmouth City County,Virginia","Logan County,West Virginia",25511,683607
+360,"Portsmouth City County,Virginia","McDowell County,West Virginia",23889,658058
+361,"Portsmouth City County,Virginia","Marion County,West Virginia",23501,679385
+362,"Portsmouth City County,Virginia","Marshall County,West Virginia",27171,750969
+363,"Portsmouth City County,Virginia","Mason County,West Virginia",24763,734930
+364,"Portsmouth City County,Virginia","Mercer County,West Virginia",20604,594388
+365,"Portsmouth City County,Virginia","Mineral County,West Virginia",18654,480283
+366,"Portsmouth City County,Virginia","Mingo County,West Virginia",26089,747541
+367,"Portsmouth City County,Virginia","Monongalia County,West Virginia",21325,631124
+368,"Portsmouth City County,Virginia","Monroe County,West Virginia",18132,516861
+369,"Portsmouth City County,Virginia","Morgan County,West Virginia",15978,416408
+370,"Portsmouth City County,Virginia","Nicholas County,West Virginia",21037,583965
+371,"Portsmouth City County,Virginia","Ohio County,West Virginia",26090,765471
+372,"Portsmouth City County,Virginia","Pendleton County,West Virginia",16310,438436
+373,"Portsmouth City County,Virginia","Pleasants County,West Virginia",27109,686559
+374,"Portsmouth City County,Virginia","Pocahontas County,West Virginia",18770,466530
+375,"Portsmouth City County,Virginia","Preston County,West Virginia",21360,547210
+376,"Portsmouth City County,Virginia","Putnam County,West Virginia",23545,700548
+377,"Portsmouth City County,Virginia","Raleigh County,West Virginia",19395,575997
+378,"Portsmouth City County,Virginia","Randolph County,West Virginia",20229,498942
+379,"Portsmouth City County,Virginia","Ritchie County,West Virginia",27019,680861
+380,"Portsmouth City County,Virginia","Roane County,West Virginia",26232,757649
+381,"Portsmouth City County,Virginia","Summers County,West Virginia",20116,555875
+382,"Portsmouth City County,Virginia","Taylor County,West Virginia",21703,565032
+383,"Portsmouth City County,Virginia","Tucker County,West Virginia",19840,530407
+384,"Portsmouth City County,Virginia","Tyler County,West Virginia",28035,679225
+385,"Portsmouth City County,Virginia","Upshur County,West Virginia",22825,534585
+386,"Portsmouth City County,Virginia","Wayne County,West Virginia",26879,781650
+387,"Portsmouth City County,Virginia","Webster County,West Virginia",22657,545951
+388,"Portsmouth City County,Virginia","Wetzel County,West Virginia",26657,741509
+389,"Portsmouth City County,Virginia","Wirt County,West Virginia",26873,786172
+390,"Portsmouth City County,Virginia","Wood County,West Virginia",26388,787861
+391,"Portsmouth City County,Virginia","Wyoming County,West Virginia",21346,615970

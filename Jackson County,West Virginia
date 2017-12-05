@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Jackson County,West Virginia","Adair County,Kentucky",17976,501491
+1,"Jackson County,West Virginia","Allen County,Kentucky",20594,602139
+2,"Jackson County,West Virginia","Anderson County,Kentucky",13775,404530
+3,"Jackson County,West Virginia","Ballard County,Kentucky",26754,794301
+4,"Jackson County,West Virginia","Barren County,Kentucky",19721,560518
+5,"Jackson County,West Virginia","Bath County,Kentucky",9423,275711
+6,"Jackson County,West Virginia","Bell County,Kentucky",16978,411527
+7,"Jackson County,West Virginia","Boone County,Kentucky",13023,319561
+8,"Jackson County,West Virginia","Bourbon County,Kentucky",11337,322129
+9,"Jackson County,West Virginia","Boyd County,Kentucky",6098,170036
+10,"Jackson County,West Virginia","Boyle County,Kentucky",15004,408416
+11,"Jackson County,West Virginia","Bracken County,Kentucky",11747,316211
+12,"Jackson County,West Virginia","Breathitt County,Kentucky",12809,316738
+13,"Jackson County,West Virginia","Breckinridge County,Kentucky",19309,557211
+14,"Jackson County,West Virginia","Bullitt County,Kentucky",15879,478331
+15,"Jackson County,West Virginia","Butler County,Kentucky",19974,579209
+16,"Jackson County,West Virginia","Caldwell County,Kentucky",22866,685154
+17,"Jackson County,West Virginia","Calloway County,Kentucky",25676,770147
+18,"Jackson County,West Virginia","Campbell County,Kentucky",12652,308716
+19,"Jackson County,West Virginia","Carlisle County,Kentucky",27211,809669
+20,"Jackson County,West Virginia","Carroll County,Kentucky",14597,381327
+21,"Jackson County,West Virginia","Carter County,Kentucky",7263,200133
+22,"Jackson County,West Virginia","Casey County,Kentucky",16499,439921
+23,"Jackson County,West Virginia","Christian County,Kentucky",22515,680411
+24,"Jackson County,West Virginia","Clay County,Kentucky",15308,403852
+25,"Jackson County,West Virginia","Clinton County,Kentucky",18383,504856
+26,"Jackson County,West Virginia","Crittenden County,Kentucky",24445,718225
+27,"Jackson County,West Virginia","Cumberland County,Kentucky",19137,523095
+28,"Jackson County,West Virginia","Daviess County,Kentucky",20997,625651
+29,"Jackson County,West Virginia","Edmonson County,Kentucky",19414,567084
+30,"Jackson County,West Virginia","Elliott County,Kentucky",8594,225903
+31,"Jackson County,West Virginia","Estill County,Kentucky",12415,338026
+32,"Jackson County,West Virginia","Fayette County,Kentucky",11583,342023
+33,"Jackson County,West Virginia","Fleming County,Kentucky",9849,278897
+34,"Jackson County,West Virginia","Floyd County,Kentucky",10231,277301
+35,"Jackson County,West Virginia","Franklin County,Kentucky",13620,390939
+36,"Jackson County,West Virginia","Fulton County,Kentucky",27615,830634
+37,"Jackson County,West Virginia","Gallatin County,Kentucky",13808,353740
+38,"Jackson County,West Virginia","Garrard County,Kentucky",14187,389176
+39,"Jackson County,West Virginia","Grant County,Kentucky",13875,354214
+40,"Jackson County,West Virginia","Graves County,Kentucky",26236,782376
+41,"Jackson County,West Virginia","Grayson County,Kentucky",18301,535845
+42,"Jackson County,West Virginia","Green County,Kentucky",18081,501050
+43,"Jackson County,West Virginia","Greenup County,Kentucky",7573,163312
+44,"Jackson County,West Virginia","Hancock County,Kentucky",20104,590104
+45,"Jackson County,West Virginia","Hardin County,Kentucky",17177,497978
+46,"Jackson County,West Virginia","Harlan County,Kentucky",16301,391843
+47,"Jackson County,West Virginia","Harrison County,Kentucky",12907,355228
+48,"Jackson County,West Virginia","Hart County,Kentucky",17977,525606
+49,"Jackson County,West Virginia","Henderson County,Kentucky",22803,678081
+50,"Jackson County,West Virginia","Henry County,Kentucky",15222,434658
+51,"Jackson County,West Virginia","Hickman County,Kentucky",27244,810961
+52,"Jackson County,West Virginia","Hopkins County,Kentucky",22324,659623
+53,"Jackson County,West Virginia","Jackson County,Kentucky",15088,386035
+54,"Jackson County,West Virginia","Jefferson County,Kentucky",15315,450191
+55,"Jackson County,West Virginia","Jessamine County,Kentucky",13052,363487
+56,"Jackson County,West Virginia","Johnson County,Kentucky",8880,242932
+57,"Jackson County,West Virginia","Kenton County,Kentucky",12392,307255
+58,"Jackson County,West Virginia","Knott County,Kentucky",11413,309182
+59,"Jackson County,West Virginia","Knox County,Kentucky",16591,468069
+60,"Jackson County,West Virginia","Larue County,Kentucky",17249,485154
+61,"Jackson County,West Virginia","Laurel County,Kentucky",15442,439464
+62,"Jackson County,West Virginia","Lawrence County,Kentucky",8021,214356
+63,"Jackson County,West Virginia","Lee County,Kentucky",13260,331763
+64,"Jackson County,West Virginia","Leslie County,Kentucky",14492,378856
+65,"Jackson County,West Virginia","Letcher County,Kentucky",12485,312122
+66,"Jackson County,West Virginia","Lewis County,Kentucky",9301,251950
+67,"Jackson County,West Virginia","Lincoln County,Kentucky",14897,406095
+68,"Jackson County,West Virginia","Livingston County,Kentucky",25041,735121
+69,"Jackson County,West Virginia","Logan County,Kentucky",21714,622447
+70,"Jackson County,West Virginia","Lyon County,Kentucky",25175,745512
+71,"Jackson County,West Virginia","McCracken County,Kentucky",25366,762361
+72,"Jackson County,West Virginia","McCreary County,Kentucky",17547,483906
+73,"Jackson County,West Virginia","Madison County,Kentucky",12581,353046
+74,"Jackson County,West Virginia","Magoffin County,Kentucky",9847,263611
+75,"Jackson County,West Virginia","Marion County,Kentucky",15627,446763
+76,"Jackson County,West Virginia","Marshall County,Kentucky",24781,745933
+77,"Jackson County,West Virginia","Martin County,Kentucky",9507,246700
+78,"Jackson County,West Virginia","Mason County,Kentucky",11096,295757
+79,"Jackson County,West Virginia","Meade County,Kentucky",17776,522506
+80,"Jackson County,West Virginia","Menifee County,Kentucky",10539,287775
+81,"Jackson County,West Virginia","Mercer County,Kentucky",14003,402474
+82,"Jackson County,West Virginia","Metcalfe County,Kentucky",18632,531756
+83,"Jackson County,West Virginia","Monroe County,Kentucky",20602,569260
+84,"Jackson County,West Virginia","Montgomery County,Kentucky",10236,294251
+85,"Jackson County,West Virginia","Morgan County,Kentucky",10317,263490
+86,"Jackson County,West Virginia","Muhlenberg County,Kentucky",21185,626098
+87,"Jackson County,West Virginia","Nelson County,Kentucky",15234,445834
+88,"Jackson County,West Virginia","Nicholas County,Kentucky",11914,322135
+89,"Jackson County,West Virginia","Ohio County,Kentucky",20098,593688
+90,"Jackson County,West Virginia","Oldham County,Kentucky",15387,462072
+91,"Jackson County,West Virginia","Owen County,Kentucky",14442,417716
+92,"Jackson County,West Virginia","Owsley County,Kentucky",14407,351740
+93,"Jackson County,West Virginia","Pendleton County,Kentucky",13528,330558
+94,"Jackson County,West Virginia","Perry County,Kentucky",12793,339740
+95,"Jackson County,West Virginia","Pike County,Kentucky",9787,242240
+96,"Jackson County,West Virginia","Powell County,Kentucky",11679,323997
+97,"Jackson County,West Virginia","Robertson County,Kentucky",11831,321641
+98,"Jackson County,West Virginia","Rockcastle County,Kentucky",14015,394188
+99,"Jackson County,West Virginia","Rowan County,Kentucky",8565,247918
+100,"Jackson County,West Virginia","Russell County,Kentucky",17580,485474
+101,"Jackson County,West Virginia","Scott County,Kentucky",12417,370050
+102,"Jackson County,West Virginia","Shelby County,Kentucky",14244,421326
+103,"Jackson County,West Virginia","Simpson County,Kentucky",21296,630505
+104,"Jackson County,West Virginia","Spencer County,Kentucky",14773,427174
+105,"Jackson County,West Virginia","Taylor County,Kentucky",16916,478259
+106,"Jackson County,West Virginia","Todd County,Kentucky",22950,646608
+107,"Jackson County,West Virginia","Trigg County,Kentucky",23928,706340
+108,"Jackson County,West Virginia","Trimble County,Kentucky",15496,404651
+109,"Jackson County,West Virginia","Union County,Kentucky",24523,708528
+110,"Jackson County,West Virginia","Warren County,Kentucky",20330,595453
+111,"Jackson County,West Virginia","Washington County,Kentucky",15244,431071
+112,"Jackson County,West Virginia","Wayne County,Kentucky",17756,482547
+113,"Jackson County,West Virginia","Webster County,Kentucky",23433,687711
+114,"Jackson County,West Virginia","Whitley County,Kentucky",16275,473949
+115,"Jackson County,West Virginia","Wolfe County,Kentucky",11412,286852
+116,"Jackson County,West Virginia","Woodford County,Kentucky",12637,372686
+117,"Jackson County,West Virginia","Adams County,Ohio",8372,203161
+118,"Jackson County,West Virginia","Allen County,Ohio",14081,363387
+119,"Jackson County,West Virginia","Ashland County,Ohio",11909,312208
+120,"Jackson County,West Virginia","Ashtabula County,Ohio",14596,433106
+121,"Jackson County,West Virginia","Athens County,Ohio",3840,88498
+122,"Jackson County,West Virginia","Auglaize County,Ohio",13694,367081
+123,"Jackson County,West Virginia","Belmont County,Ohio",7659,222030
+124,"Jackson County,West Virginia","Brown County,Ohio",9797,236021
+125,"Jackson County,West Virginia","Butler County,Ohio",12730,312114
+126,"Jackson County,West Virginia","Carroll County,Ohio",9589,258916
+127,"Jackson County,West Virginia","Champaign County,Ohio",11351,282848
+128,"Jackson County,West Virginia","Clark County,Ohio",10337,256920
+129,"Jackson County,West Virginia","Clermont County,Ohio",10451,261185
+130,"Jackson County,West Virginia","Clinton County,Ohio",9842,244601
+131,"Jackson County,West Virginia","Columbiana County,Ohio",11431,313151
+132,"Jackson County,West Virginia","Coshocton County,Ohio",8224,230033
+133,"Jackson County,West Virginia","Crawford County,Ohio",12516,323368
+134,"Jackson County,West Virginia","Cuyahoga County,Ohio",11625,344320
+135,"Jackson County,West Virginia","Darke County,Ohio",13452,352324
+136,"Jackson County,West Virginia","Defiance County,Ohio",17516,441708
+137,"Jackson County,West Virginia","Delaware County,Ohio",9670,256105
+138,"Jackson County,West Virginia","Fairfield County,Ohio",7201,183199
+139,"Jackson County,West Virginia","Fayette County,Ohio",8405,215065
+140,"Jackson County,West Virginia","Franklin County,Ohio",8201,213054
+141,"Jackson County,West Virginia","Fulton County,Ohio",17607,478937
+142,"Jackson County,West Virginia","Gallia County,Ohio",3719,74176
+143,"Jackson County,West Virginia","Geauga County,Ohio",12697,370037
+144,"Jackson County,West Virginia","Greene County,Ohio",9276,248217
+145,"Jackson County,West Virginia","Guernsey County,Ohio",5775,167952
+146,"Jackson County,West Virginia","Hamilton County,Ohio",12231,322691
+147,"Jackson County,West Virginia","Hancock County,Ohio",13693,364460
+148,"Jackson County,West Virginia","Hardin County,Ohio",12592,319216
+149,"Jackson County,West Virginia","Harrison County,Ohio",8594,240982
+150,"Jackson County,West Virginia","Henry County,Ohio",16406,436082
+151,"Jackson County,West Virginia","Highland County,Ohio",8910,203174
+152,"Jackson County,West Virginia","Hocking County,Ohio",5643,139162
+153,"Jackson County,West Virginia","Holmes County,Ohio",9283,252917
+154,"Jackson County,West Virginia","Huron County,Ohio",13806,353836
+155,"Jackson County,West Virginia","Jackson County,Ohio",4896,113725
+156,"Jackson County,West Virginia","Jefferson County,Ohio",9588,250760
+157,"Jackson County,West Virginia","Knox County,Ohio",10012,272509
+158,"Jackson County,West Virginia","Lawrence County,Ohio",6312,113566
+159,"Jackson County,West Virginia","Licking County,Ohio",9146,210209
+160,"Jackson County,West Virginia","Logan County,Ohio",11612,313493
+161,"Jackson County,West Virginia","Lorain County,Ohio",12849,374144
+162,"Jackson County,West Virginia","Lucas County,Ohio",17328,451959
+163,"Jackson County,West Virginia","Madison County,Ohio",9478,247775
+164,"Jackson County,West Virginia","Mahoning County,Ohio",11926,327956
+165,"Jackson County,West Virginia","Marion County,Ohio",11076,282198
+166,"Jackson County,West Virginia","Medina County,Ohio",11298,330351
+167,"Jackson County,West Virginia","Meigs County,Ohio",2721,59469
+168,"Jackson County,West Virginia","Mercer County,Ohio",14930,394014
+169,"Jackson County,West Virginia","Miami County,Ohio",11941,317717
+170,"Jackson County,West Virginia","Monroe County,Ohio",6711,157143
+171,"Jackson County,West Virginia","Montgomery County,Ohio",11310,295673
+172,"Jackson County,West Virginia","Morgan County,Ohio",5716,143791
+173,"Jackson County,West Virginia","Morrow County,Ohio",10478,278926
+174,"Jackson County,West Virginia","Muskingum County,Ohio",6620,195943
+175,"Jackson County,West Virginia","Noble County,Ohio",5216,140304
+176,"Jackson County,West Virginia","Paulding County,Ohio",16618,439293
+177,"Jackson County,West Virginia","Perry County,Ohio",7058,153919
+178,"Jackson County,West Virginia","Pickaway County,Ohio",7846,195164
+179,"Jackson County,West Virginia","Pike County,Ohio",6342,153032
+180,"Jackson County,West Virginia","Portage County,Ohio",11147,325902
+181,"Jackson County,West Virginia","Preble County,Ohio",12929,324251
+182,"Jackson County,West Virginia","Putnam County,Ohio",15204,395745
+183,"Jackson County,West Virginia","Richland County,Ohio",11507,314164
+184,"Jackson County,West Virginia","Ross County,Ohio",6590,161470
+185,"Jackson County,West Virginia","Sandusky County,Ohio",15449,383155
+186,"Jackson County,West Virginia","Scioto County,Ohio",7005,143805
+187,"Jackson County,West Virginia","Seneca County,Ohio",14067,357040
+188,"Jackson County,West Virginia","Shelby County,Ohio",12979,354002
+189,"Jackson County,West Virginia","Stark County,Ohio",9448,274151
+190,"Jackson County,West Virginia","Summit County,Ohio",10206,299939
+191,"Jackson County,West Virginia","Trumbull County,Ohio",12881,354203
+192,"Jackson County,West Virginia","Tuscarawas County,Ohio",7648,214738
+193,"Jackson County,West Virginia","Union County,Ohio",10116,263724
+194,"Jackson County,West Virginia","Van Wert County,Ohio",15315,406256
+195,"Jackson County,West Virginia","Vinton County,Ohio",5784,122326
+196,"Jackson County,West Virginia","Warren County,Ohio",10647,278660
+197,"Jackson County,West Virginia","Washington County,Ohio",4075,98240
+198,"Jackson County,West Virginia","Wayne County,Ohio",10419,277029
+199,"Jackson County,West Virginia","Williams County,Ohio",18693,465224
+200,"Jackson County,West Virginia","Wood County,Ohio",15091,406068
+201,"Jackson County,West Virginia","Wyandot County,Ohio",12663,328596
+202,"Jackson County,West Virginia","Accomack County,Virginia",29429,836867
+203,"Jackson County,West Virginia","Albemarle County,Virginia",15579,449366
+204,"Jackson County,West Virginia","Alleghany County,Virginia",10248,286389
+205,"Jackson County,West Virginia","Amelia County,Virginia",20279,549484
+206,"Jackson County,West Virginia","Amherst County,Virginia",15577,417355
+207,"Jackson County,West Virginia","Appomattox County,Virginia",17170,456114
+208,"Jackson County,West Virginia","Arlington County,Virginia",19884,573927
+209,"Jackson County,West Virginia","Augusta County,Virginia",14190,387706
+210,"Jackson County,West Virginia","Bath County,Virginia",13260,361699
+211,"Jackson County,West Virginia","Bedford County,Virginia",15837,403480
+212,"Jackson County,West Virginia","Bland County,Virginia",9210,252609
+213,"Jackson County,West Virginia","Botetourt County,Virginia",13402,357689
+214,"Jackson County,West Virginia","Brunswick County,Virginia",22822,599157
+215,"Jackson County,West Virginia","Buchanan County,Virginia",13204,336838
+216,"Jackson County,West Virginia","Buckingham County,Virginia",17452,467050
+217,"Jackson County,West Virginia","Campbell County,Virginia",17093,458586
+218,"Jackson County,West Virginia","Caroline County,Virginia",20918,618212
+219,"Jackson County,West Virginia","Carroll County,Virginia",11455,322046
+220,"Jackson County,West Virginia","Charles City County,Virginia",21018,615247
+221,"Jackson County,West Virginia","Charlotte County,Virginia",19055,509635
+222,"Jackson County,West Virginia","Chesterfield County,Virginia",20154,593030
+223,"Jackson County,West Virginia","Clarke County,Virginia",17996,474563
+224,"Jackson County,West Virginia","Craig County,Virginia",11891,307474
+225,"Jackson County,West Virginia","Culpeper County,Virginia",19376,538583
+226,"Jackson County,West Virginia","Cumberland County,Virginia",18662,495052
+227,"Jackson County,West Virginia","Dickenson County,Virginia",13885,332201
+228,"Jackson County,West Virginia","Dinwiddie County,Virginia",21901,643462
+229,"Jackson County,West Virginia","Essex County,Virginia",22735,642254
+230,"Jackson County,West Virginia","Fairfax County,Virginia",19575,564595
+231,"Jackson County,West Virginia","Fauquier County,Virginia",19548,496194
+232,"Jackson County,West Virginia","Floyd County,Virginia",13076,341011
+233,"Jackson County,West Virginia","Fluvanna County,Virginia",17257,501538
+234,"Jackson County,West Virginia","Franklin County,Virginia",15349,404713
+235,"Jackson County,West Virginia","Frederick County,Virginia",16786,449285
+236,"Jackson County,West Virginia","Giles County,Virginia",9940,264167
+237,"Jackson County,West Virginia","Gloucester County,Virginia",23189,669435
+238,"Jackson County,West Virginia","Goochland County,Virginia",18160,532149
+239,"Jackson County,West Virginia","Grayson County,Virginia",11858,311754
+240,"Jackson County,West Virginia","Greene County,Virginia",17571,484951
+241,"Jackson County,West Virginia","Greensville County,Virginia",23318,692213
+242,"Jackson County,West Virginia","Halifax County,Virginia",19759,519733
+243,"Jackson County,West Virginia","Hanover County,Virginia",19367,573256
+244,"Jackson County,West Virginia","Henrico County,Virginia",19878,586215
+245,"Jackson County,West Virginia","Henry County,Virginia",15329,408767
+246,"Jackson County,West Virginia","Highland County,Virginia",14704,371669
+247,"Jackson County,West Virginia","Isle of Wight County,Virginia",24130,690792
+248,"Jackson County,West Virginia","James City County,Virginia",22254,656017
+249,"Jackson County,West Virginia","King and Queen County,Virginia",21912,631601
+250,"Jackson County,West Virginia","King George County,Virginia",22031,646198
+251,"Jackson County,West Virginia","King William County,Virginia",20600,601524
+252,"Jackson County,West Virginia","Lancaster County,Virginia",24393,684609
+253,"Jackson County,West Virginia","Lee County,Virginia",15186,380717
+254,"Jackson County,West Virginia","Loudoun County,Virginia",19492,510430
+255,"Jackson County,West Virginia","Louisa County,Virginia",17817,515244
+256,"Jackson County,West Virginia","Lunenburg County,Virginia",20827,550919
+257,"Jackson County,West Virginia","Madison County,Virginia",18491,514691
+258,"Jackson County,West Virginia","Mathews County,Virginia",24014,692858
+259,"Jackson County,West Virginia","Mecklenburg County,Virginia",21818,564043
+260,"Jackson County,West Virginia","Middlesex County,Virginia",22790,665635
+261,"Jackson County,West Virginia","Montgomery County,Virginia",11024,292174
+262,"Jackson County,West Virginia","Nelson County,Virginia",16118,429046
+263,"Jackson County,West Virginia","New Kent County,Virginia",21691,629931
+264,"Jackson County,West Virginia","Northampton County,Virginia",26672,772681
+265,"Jackson County,West Virginia","Northumberland County,Virginia",24432,683121
+266,"Jackson County,West Virginia","Nottoway County,Virginia",20320,551299
+267,"Jackson County,West Virginia","Orange County,Virginia",18780,523351
+268,"Jackson County,West Virginia","Page County,Virginia",17426,498482
+269,"Jackson County,West Virginia","Patrick County,Virginia",13561,367082
+270,"Jackson County,West Virginia","Pittsylvania County,Virginia",17645,462975
+271,"Jackson County,West Virginia","Powhatan County,Virginia",19414,557370
+272,"Jackson County,West Virginia","Prince Edward County,Virginia",18934,508634
+273,"Jackson County,West Virginia","Prince George County,Virginia",21665,630046
+274,"Jackson County,West Virginia","Prince William County,Virginia",19648,502298
+275,"Jackson County,West Virginia","Pulaski County,Virginia",11119,288505
+276,"Jackson County,West Virginia","Rappahannock County,Virginia",19256,534963
+277,"Jackson County,West Virginia","Richmond County,Virginia",23132,655765
+278,"Jackson County,West Virginia","Roanoke County,Virginia",12643,334968
+279,"Jackson County,West Virginia","Rockbridge County,Virginia",12581,354746
+280,"Jackson County,West Virginia","Rockingham County,Virginia",16464,470827
+281,"Jackson County,West Virginia","Russell County,Virginia",13018,332789
+282,"Jackson County,West Virginia","Scott County,Virginia",15361,379654
+283,"Jackson County,West Virginia","Shenandoah County,Virginia",16969,500930
+284,"Jackson County,West Virginia","Smyth County,Virginia",11567,317961
+285,"Jackson County,West Virginia","Southampton County,Virginia",23696,688327
+286,"Jackson County,West Virginia","Spotsylvania County,Virginia",19834,557082
+287,"Jackson County,West Virginia","Stafford County,Virginia",21215,581375
+288,"Jackson County,West Virginia","Surry County,Virginia",22998,654879
+289,"Jackson County,West Virginia","Sussex County,Virginia",22359,658570
+290,"Jackson County,West Virginia","Tazewell County,Virginia",10025,271196
+291,"Jackson County,West Virginia","Warren County,Virginia",18188,443995
+292,"Jackson County,West Virginia","Washington County,Virginia",12961,357427
+293,"Jackson County,West Virginia","Westmoreland County,Virginia",23005,663023
+294,"Jackson County,West Virginia","Wise County,Virginia",12150,308100
+295,"Jackson County,West Virginia","Wythe County,Virginia",9815,270826
+296,"Jackson County,West Virginia","York County,Virginia",23542,686792
+297,"Jackson County,West Virginia","Alexandria City County,Virginia",20399,591109
+298,"Jackson County,West Virginia","Bedford City County,Virginia",15001,394911
+299,"Jackson County,West Virginia","Bristol City County,Virginia",13436,383145
+300,"Jackson County,West Virginia","Buena Vista City County,Virginia",12935,368723
+301,"Jackson County,West Virginia","Charlottesville City County,Virginia",16048,464581
+302,"Jackson County,West Virginia","Chesapeake City County,Virginia",25005,739697
+303,"Jackson County,West Virginia","Clifton Forge City County,Virginia",10791,306596
+304,"Jackson County,West Virginia","Colonial Heights City County,Virginia",20714,608923
+305,"Jackson County,West Virginia","Covington City County,Virginia",10317,289975
+306,"Jackson County,West Virginia","Danville City County,Virginia",17486,463223
+307,"Jackson County,West Virginia","Emporia City County,Virginia",23025,678807
+308,"Jackson County,West Virginia","Fairfax City County,Virginia",20045,576227
+309,"Jackson County,West Virginia","Falls Church City County,Virginia",19592,568239
+310,"Jackson County,West Virginia","Franklin City County,Virginia",24243,696182
+311,"Jackson County,West Virginia","Fredericksburg City County,Virginia",20967,566742
+312,"Jackson County,West Virginia","Galax City County,Virginia",12079,327913
+313,"Jackson County,West Virginia","Hampton City County,Virginia",23492,696498
+314,"Jackson County,West Virginia","Harrisonburg City County,Virginia",15523,450723
+315,"Jackson County,West Virginia","Hopewell City County,Virginia",20751,607889
+316,"Jackson County,West Virginia","Lexington City County,Virginia",12570,357214
+317,"Jackson County,West Virginia","Lynchburg City County,Virginia",16153,432329
+318,"Jackson County,West Virginia","Manassas City County,Virginia",19875,507242
+319,"Jackson County,West Virginia","Manassas Park City County,Virginia",20377,513585
+320,"Jackson County,West Virginia","Martinsville City County,Virginia",15856,417561
+321,"Jackson County,West Virginia","Newport News City County,Virginia",23049,682984
+322,"Jackson County,West Virginia","Norfolk City County,Virginia",24799,721914
+323,"Jackson County,West Virginia","Norton City County,Virginia",12779,319912
+324,"Jackson County,West Virginia","Petersburg City County,Virginia",20586,609910
+325,"Jackson County,West Virginia","Poquoson City County,Virginia",23721,693561
+326,"Jackson County,West Virginia","Portsmouth City County,Virginia",24738,730735
+327,"Jackson County,West Virginia","Radford County,Virginia",11431,290215
+328,"Jackson County,West Virginia","Richmond City County,Virginia",19454,574026
+329,"Jackson County,West Virginia","Roanoke City County,Virginia",13245,355072
+330,"Jackson County,West Virginia","Salem City County,Virginia",12657,341622
+331,"Jackson County,West Virginia","South Boston City County,Virginia",19498,517402
+332,"Jackson County,West Virginia","Staunton City County,Virginia",14341,411858
+333,"Jackson County,West Virginia","Suffolk City County,Virginia",24973,705516
+334,"Jackson County,West Virginia","Virginia Beach City County,Virginia",25359,745172
+335,"Jackson County,West Virginia","Waynesboro City County,Virginia",14679,424576
+336,"Jackson County,West Virginia","Williamsburg City County,Virginia",22093,655233
+337,"Jackson County,West Virginia","Winchester City County,Virginia",16925,453089
+338,"Jackson County,West Virginia","Barbour County,West Virginia",8778,225489
+339,"Jackson County,West Virginia","Berkeley County,West Virginia",16338,451945
+340,"Jackson County,West Virginia","Boone County,West Virginia",5961,131387
+341,"Jackson County,West Virginia","Braxton County,West Virginia",7078,120479
+342,"Jackson County,West Virginia","Brooke County,West Virginia",9738,264278
+343,"Jackson County,West Virginia","Cabell County,West Virginia",5554,148297
+344,"Jackson County,West Virginia","Calhoun County,West Virginia",3608,69320
+345,"Jackson County,West Virginia","Clay County,West Virginia",5809,107859
+346,"Jackson County,West Virginia","Doddridge County,West Virginia",5765,151207
+347,"Jackson County,West Virginia","Fayette County,West Virginia",7128,165493
+348,"Jackson County,West Virginia","Gilmer County,West Virginia",4886,93822
+349,"Jackson County,West Virginia","Grant County,West Virginia",13912,338884
+350,"Jackson County,West Virginia","Greenbrier County,West Virginia",10202,243531
+351,"Jackson County,West Virginia","Hampshire County,West Virginia",15593,413548
+352,"Jackson County,West Virginia","Hancock County,West Virginia",11328,298813
+353,"Jackson County,West Virginia","Hardy County,West Virginia",14999,366488
+354,"Jackson County,West Virginia","Harrison County,West Virginia",6847,184201
+355,"Jackson County,West Virginia","Jefferson County,West Virginia",17804,507943
+356,"Jackson County,West Virginia","Kanawha County,West Virginia",4436,99556
+357,"Jackson County,West Virginia","Lewis County,West Virginia",7476,138896
+358,"Jackson County,West Virginia","Lincoln County,West Virginia",6219,125974
+359,"Jackson County,West Virginia","Logan County,West Virginia",6890,168506
+360,"Jackson County,West Virginia","McDowell County,West Virginia",10799,246869
+361,"Jackson County,West Virginia","Marion County,West Virginia",8784,227323
+362,"Jackson County,West Virginia","Marshall County,West Virginia",9125,200379
+363,"Jackson County,West Virginia","Mason County,West Virginia",3385,72338
+364,"Jackson County,West Virginia","Mercer County,West Virginia",7763,211115
+365,"Jackson County,West Virginia","Mineral County,West Virginia",14472,388100
+366,"Jackson County,West Virginia","Mingo County,West Virginia",6935,173014
+367,"Jackson County,West Virginia","Monongalia County,West Virginia",8995,252792
+368,"Jackson County,West Virginia","Monroe County,West Virginia",10809,255827
+369,"Jackson County,West Virginia","Morgan County,West Virginia",15830,441336
+370,"Jackson County,West Virginia","Nicholas County,West Virginia",7485,164082
+371,"Jackson County,West Virginia","Ohio County,West Virginia",8757,245515
+372,"Jackson County,West Virginia","Pendleton County,West Virginia",14941,319537
+373,"Jackson County,West Virginia","Pleasants County,West Virginia",4599,110545
+374,"Jackson County,West Virginia","Pocahontas County,West Virginia",12814,233621
+375,"Jackson County,West Virginia","Preston County,West Virginia",11141,279523
+376,"Jackson County,West Virginia","Putnam County,West Virginia",3811,99821
+377,"Jackson County,West Virginia","Raleigh County,West Virginia",6304,164808
+378,"Jackson County,West Virginia","Randolph County,West Virginia",10619,217664
+379,"Jackson County,West Virginia","Ritchie County,West Virginia",4930,124249
+380,"Jackson County,West Virginia","Roane County,West Virginia",1681,29480
+381,"Jackson County,West Virginia","Summers County,West Virginia",9757,226246
+382,"Jackson County,West Virginia","Taylor County,West Virginia",8677,222896
+383,"Jackson County,West Virginia","Tucker County,West Virginia",11343,276217
+384,"Jackson County,West Virginia","Tyler County,West Virginia",6508,150160
+385,"Jackson County,West Virginia","Upshur County,West Virginia",9594,192105
+386,"Jackson County,West Virginia","Wayne County,West Virginia",7146,180923
+387,"Jackson County,West Virginia","Webster County,West Virginia",9669,191162
+388,"Jackson County,West Virginia","Wetzel County,West Virginia",7720,172066
+389,"Jackson County,West Virginia","Wirt County,West Virginia",3020,55583
+390,"Jackson County,West Virginia","Wood County,West Virginia",2897,71720
+391,"Jackson County,West Virginia","Wyoming County,West Virginia",8249,204750

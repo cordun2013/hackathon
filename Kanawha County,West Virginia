@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Kanawha County,West Virginia","Adair County,Kentucky",17478,475927
+1,"Kanawha County,West Virginia","Allen County,Kentucky",20097,576575
+2,"Kanawha County,West Virginia","Anderson County,Kentucky",13278,378966
+3,"Kanawha County,West Virginia","Ballard County,Kentucky",26257,768737
+4,"Kanawha County,West Virginia","Barren County,Kentucky",19224,534954
+5,"Kanawha County,West Virginia","Bath County,Kentucky",8926,250147
+6,"Kanawha County,West Virginia","Bell County,Kentucky",15901,359764
+7,"Kanawha County,West Virginia","Boone County,Kentucky",14738,371540
+8,"Kanawha County,West Virginia","Bourbon County,Kentucky",10839,296564
+9,"Kanawha County,West Virginia","Boyd County,Kentucky",5601,144471
+10,"Kanawha County,West Virginia","Boyle County,Kentucky",14507,382852
+11,"Kanawha County,West Virginia","Bracken County,Kentucky",11250,290647
+12,"Kanawha County,West Virginia","Breathitt County,Kentucky",12312,291173
+13,"Kanawha County,West Virginia","Breckinridge County,Kentucky",18812,531647
+14,"Kanawha County,West Virginia","Bullitt County,Kentucky",15381,452766
+15,"Kanawha County,West Virginia","Butler County,Kentucky",19476,553645
+16,"Kanawha County,West Virginia","Caldwell County,Kentucky",22368,659590
+17,"Kanawha County,West Virginia","Calloway County,Kentucky",25178,744583
+18,"Kanawha County,West Virginia","Campbell County,Kentucky",12951,330519
+19,"Kanawha County,West Virginia","Carlisle County,Kentucky",26714,784105
+20,"Kanawha County,West Virginia","Carroll County,Kentucky",15823,426780
+21,"Kanawha County,West Virginia","Carter County,Kentucky",6766,174569
+22,"Kanawha County,West Virginia","Casey County,Kentucky",16002,414357
+23,"Kanawha County,West Virginia","Christian County,Kentucky",22017,654847
+24,"Kanawha County,West Virginia","Clay County,Kentucky",14811,378288
+25,"Kanawha County,West Virginia","Clinton County,Kentucky",17886,479292
+26,"Kanawha County,West Virginia","Crittenden County,Kentucky",23948,692660
+27,"Kanawha County,West Virginia","Cumberland County,Kentucky",18640,497531
+28,"Kanawha County,West Virginia","Daviess County,Kentucky",20499,600087
+29,"Kanawha County,West Virginia","Edmonson County,Kentucky",18917,541520
+30,"Kanawha County,West Virginia","Elliott County,Kentucky",8096,200339
+31,"Kanawha County,West Virginia","Estill County,Kentucky",11918,312462
+32,"Kanawha County,West Virginia","Fayette County,Kentucky",11085,316459
+33,"Kanawha County,West Virginia","Fleming County,Kentucky",9351,253333
+34,"Kanawha County,West Virginia","Floyd County,Kentucky",9734,251736
+35,"Kanawha County,West Virginia","Franklin County,Kentucky",13123,365375
+36,"Kanawha County,West Virginia","Fulton County,Kentucky",27118,805069
+37,"Kanawha County,West Virginia","Gallatin County,Kentucky",14821,417439
+38,"Kanawha County,West Virginia","Garrard County,Kentucky",13690,363612
+39,"Kanawha County,West Virginia","Grant County,Kentucky",13620,391546
+40,"Kanawha County,West Virginia","Graves County,Kentucky",25738,756812
+41,"Kanawha County,West Virginia","Grayson County,Kentucky",17804,510281
+42,"Kanawha County,West Virginia","Green County,Kentucky",17583,475486
+43,"Kanawha County,West Virginia","Greenup County,Kentucky",7377,185598
+44,"Kanawha County,West Virginia","Hancock County,Kentucky",19607,564540
+45,"Kanawha County,West Virginia","Hardin County,Kentucky",16680,472413
+46,"Kanawha County,West Virginia","Harlan County,Kentucky",15224,340080
+47,"Kanawha County,West Virginia","Harrison County,Kentucky",12410,329664
+48,"Kanawha County,West Virginia","Hart County,Kentucky",17479,500042
+49,"Kanawha County,West Virginia","Henderson County,Kentucky",22306,652517
+50,"Kanawha County,West Virginia","Henry County,Kentucky",14724,409094
+51,"Kanawha County,West Virginia","Hickman County,Kentucky",26747,785397
+52,"Kanawha County,West Virginia","Hopkins County,Kentucky",21827,634058
+53,"Kanawha County,West Virginia","Jackson County,Kentucky",14591,360471
+54,"Kanawha County,West Virginia","Jefferson County,Kentucky",14818,424627
+55,"Kanawha County,West Virginia","Jessamine County,Kentucky",12554,337922
+56,"Kanawha County,West Virginia","Johnson County,Kentucky",8382,217368
+57,"Kanawha County,West Virginia","Kenton County,Kentucky",14108,359234
+58,"Kanawha County,West Virginia","Knott County,Kentucky",10916,283618
+59,"Kanawha County,West Virginia","Knox County,Kentucky",16094,442505
+60,"Kanawha County,West Virginia","Larue County,Kentucky",16752,459589
+61,"Kanawha County,West Virginia","Laurel County,Kentucky",14945,413899
+62,"Kanawha County,West Virginia","Lawrence County,Kentucky",7524,188791
+63,"Kanawha County,West Virginia","Lee County,Kentucky",12763,306199
+64,"Kanawha County,West Virginia","Leslie County,Kentucky",13995,353292
+65,"Kanawha County,West Virginia","Letcher County,Kentucky",11409,260359
+66,"Kanawha County,West Virginia","Lewis County,Kentucky",8804,226386
+67,"Kanawha County,West Virginia","Lincoln County,Kentucky",14400,380530
+68,"Kanawha County,West Virginia","Livingston County,Kentucky",24544,709557
+69,"Kanawha County,West Virginia","Logan County,Kentucky",21217,596883
+70,"Kanawha County,West Virginia","Lyon County,Kentucky",24677,719948
+71,"Kanawha County,West Virginia","McCracken County,Kentucky",24869,736797
+72,"Kanawha County,West Virginia","McCreary County,Kentucky",17050,458341
+73,"Kanawha County,West Virginia","Madison County,Kentucky",12084,327482
+74,"Kanawha County,West Virginia","Magoffin County,Kentucky",9350,238047
+75,"Kanawha County,West Virginia","Marion County,Kentucky",15129,421198
+76,"Kanawha County,West Virginia","Marshall County,Kentucky",24284,720369
+77,"Kanawha County,West Virginia","Martin County,Kentucky",8638,170515
+78,"Kanawha County,West Virginia","Mason County,Kentucky",10599,270193
+79,"Kanawha County,West Virginia","Meade County,Kentucky",17279,496942
+80,"Kanawha County,West Virginia","Menifee County,Kentucky",10042,262210
+81,"Kanawha County,West Virginia","Mercer County,Kentucky",13506,376910
+82,"Kanawha County,West Virginia","Metcalfe County,Kentucky",18134,506191
+83,"Kanawha County,West Virginia","Monroe County,Kentucky",20104,543696
+84,"Kanawha County,West Virginia","Montgomery County,Kentucky",9738,268687
+85,"Kanawha County,West Virginia","Morgan County,Kentucky",9820,237926
+86,"Kanawha County,West Virginia","Muhlenberg County,Kentucky",20687,600534
+87,"Kanawha County,West Virginia","Nelson County,Kentucky",14737,420270
+88,"Kanawha County,West Virginia","Nicholas County,Kentucky",11416,296571
+89,"Kanawha County,West Virginia","Ohio County,Kentucky",19600,568124
+90,"Kanawha County,West Virginia","Oldham County,Kentucky",14890,436508
+91,"Kanawha County,West Virginia","Owen County,Kentucky",13945,392152
+92,"Kanawha County,West Virginia","Owsley County,Kentucky",13909,326176
+93,"Kanawha County,West Virginia","Pendleton County,Kentucky",13188,331571
+94,"Kanawha County,West Virginia","Perry County,Kentucky",12295,314176
+95,"Kanawha County,West Virginia","Pike County,Kentucky",8710,190477
+96,"Kanawha County,West Virginia","Powell County,Kentucky",11182,298433
+97,"Kanawha County,West Virginia","Robertson County,Kentucky",11334,296077
+98,"Kanawha County,West Virginia","Rockcastle County,Kentucky",13518,368624
+99,"Kanawha County,West Virginia","Rowan County,Kentucky",8068,222354
+100,"Kanawha County,West Virginia","Russell County,Kentucky",17083,459910
+101,"Kanawha County,West Virginia","Scott County,Kentucky",11920,344485
+102,"Kanawha County,West Virginia","Shelby County,Kentucky",13747,395762
+103,"Kanawha County,West Virginia","Simpson County,Kentucky",20798,604940
+104,"Kanawha County,West Virginia","Spencer County,Kentucky",14276,401610
+105,"Kanawha County,West Virginia","Taylor County,Kentucky",16419,452694
+106,"Kanawha County,West Virginia","Todd County,Kentucky",22453,621044
+107,"Kanawha County,West Virginia","Trigg County,Kentucky",23431,680776
+108,"Kanawha County,West Virginia","Trimble County,Kentucky",15963,442548
+109,"Kanawha County,West Virginia","Union County,Kentucky",24025,682963
+110,"Kanawha County,West Virginia","Warren County,Kentucky",19833,569889
+111,"Kanawha County,West Virginia","Washington County,Kentucky",14747,405506
+112,"Kanawha County,West Virginia","Wayne County,Kentucky",17259,456983
+113,"Kanawha County,West Virginia","Webster County,Kentucky",22936,662147
+114,"Kanawha County,West Virginia","Whitley County,Kentucky",15778,448384
+115,"Kanawha County,West Virginia","Wolfe County,Kentucky",10915,261288
+116,"Kanawha County,West Virginia","Woodford County,Kentucky",12139,347121
+117,"Kanawha County,West Virginia","Adams County,Ohio",10692,272749
+118,"Kanawha County,West Virginia","Allen County,Ohio",17424,448167
+119,"Kanawha County,West Virginia","Ashland County,Ohio",15168,402058
+120,"Kanawha County,West Virginia","Ashtabula County,Ohio",17856,522956
+121,"Kanawha County,West Virginia","Athens County,Ohio",7100,178348
+122,"Kanawha County,West Virginia","Auglaize County,Ohio",16674,464867
+123,"Kanawha County,West Virginia","Belmont County,Ohio",10919,311880
+124,"Kanawha County,West Virginia","Brown County,Ohio",11936,299677
+125,"Kanawha County,West Virginia","Butler County,Ohio",15049,381703
+126,"Kanawha County,West Virginia","Carroll County,Ohio",12849,348766
+127,"Kanawha County,West Virginia","Champaign County,Ohio",13978,366964
+128,"Kanawha County,West Virginia","Clark County,Ohio",12657,326508
+129,"Kanawha County,West Virginia","Clermont County,Ohio",12770,330773
+130,"Kanawha County,West Virginia","Clinton County,Ohio",12161,314190
+131,"Kanawha County,West Virginia","Columbiana County,Ohio",14690,403002
+132,"Kanawha County,West Virginia","Coshocton County,Ohio",11484,319883
+133,"Kanawha County,West Virginia","Crawford County,Ohio",15776,413218
+134,"Kanawha County,West Virginia","Cuyahoga County,Ohio",14885,434170
+135,"Kanawha County,West Virginia","Darke County,Ohio",15771,421913
+136,"Kanawha County,West Virginia","Defiance County,Ohio",20860,526488
+137,"Kanawha County,West Virginia","Delaware County,Ohio",12930,345955
+138,"Kanawha County,West Virginia","Fairfield County,Ohio",10460,273049
+139,"Kanawha County,West Virginia","Fayette County,Ohio",10725,284654
+140,"Kanawha County,West Virginia","Franklin County,Ohio",11460,302904
+141,"Kanawha County,West Virginia","Fulton County,Ohio",20866,568787
+142,"Kanawha County,West Virginia","Gallia County,Ohio",6038,143765
+143,"Kanawha County,West Virginia","Geauga County,Ohio",15956,459888
+144,"Kanawha County,West Virginia","Greene County,Ohio",11595,317806
+145,"Kanawha County,West Virginia","Guernsey County,Ohio",9034,257802
+146,"Kanawha County,West Virginia","Hamilton County,Ohio",14550,392280
+147,"Kanawha County,West Virginia","Hancock County,Ohio",16953,454310
+148,"Kanawha County,West Virginia","Hardin County,Ohio",15935,403996
+149,"Kanawha County,West Virginia","Harrison County,Ohio",11854,330832
+150,"Kanawha County,West Virginia","Henry County,Ohio",19666,525932
+151,"Kanawha County,West Virginia","Highland County,Ohio",11229,272763
+152,"Kanawha County,West Virginia","Hocking County,Ohio",8902,229013
+153,"Kanawha County,West Virginia","Holmes County,Ohio",12542,342767
+154,"Kanawha County,West Virginia","Huron County,Ohio",17065,443687
+155,"Kanawha County,West Virginia","Jackson County,Ohio",7216,183314
+156,"Kanawha County,West Virginia","Jefferson County,Ohio",12847,340610
+157,"Kanawha County,West Virginia","Knox County,Ohio",13272,362359
+158,"Kanawha County,West Virginia","Lawrence County,Ohio",6741,149528
+159,"Kanawha County,West Virginia","Licking County,Ohio",12405,300059
+160,"Kanawha County,West Virginia","Logan County,Ohio",14956,398273
+161,"Kanawha County,West Virginia","Lorain County,Ohio",16109,463994
+162,"Kanawha County,West Virginia","Lucas County,Ohio",20588,541810
+163,"Kanawha County,West Virginia","Madison County,Ohio",12426,307738
+164,"Kanawha County,West Virginia","Mahoning County,Ohio",15186,417806
+165,"Kanawha County,West Virginia","Marion County,Ohio",14336,372048
+166,"Kanawha County,West Virginia","Medina County,Ohio",14558,420201
+167,"Kanawha County,West Virginia","Meigs County,Ohio",5981,149319
+168,"Kanawha County,West Virginia","Mercer County,Ohio",17910,491800
+169,"Kanawha County,West Virginia","Miami County,Ohio",14260,387305
+170,"Kanawha County,West Virginia","Monroe County,Ohio",9970,246994
+171,"Kanawha County,West Virginia","Montgomery County,Ohio",13629,365262
+172,"Kanawha County,West Virginia","Morgan County,Ohio",8976,233642
+173,"Kanawha County,West Virginia","Morrow County,Ohio",13737,368776
+174,"Kanawha County,West Virginia","Muskingum County,Ohio",9880,285794
+175,"Kanawha County,West Virginia","Noble County,Ohio",8476,230154
+176,"Kanawha County,West Virginia","Paulding County,Ohio",19961,524073
+177,"Kanawha County,West Virginia","Perry County,Ohio",10318,243769
+178,"Kanawha County,West Virginia","Pickaway County,Ohio",10165,264752
+179,"Kanawha County,West Virginia","Pike County,Ohio",8662,222621
+180,"Kanawha County,West Virginia","Portage County,Ohio",14407,415752
+181,"Kanawha County,West Virginia","Preble County,Ohio",15248,393839
+182,"Kanawha County,West Virginia","Putnam County,Ohio",18547,480525
+183,"Kanawha County,West Virginia","Richland County,Ohio",14767,404015
+184,"Kanawha County,West Virginia","Ross County,Ohio",8909,231059
+185,"Kanawha County,West Virginia","Sandusky County,Ohio",18709,473005
+186,"Kanawha County,West Virginia","Scioto County,Ohio",8546,206801
+187,"Kanawha County,West Virginia","Seneca County,Ohio",17326,446890
+188,"Kanawha County,West Virginia","Shelby County,Ohio",15298,423591
+189,"Kanawha County,West Virginia","Stark County,Ohio",12707,364001
+190,"Kanawha County,West Virginia","Summit County,Ohio",13466,389790
+191,"Kanawha County,West Virginia","Trumbull County,Ohio",16141,444054
+192,"Kanawha County,West Virginia","Tuscarawas County,Ohio",10908,304589
+193,"Kanawha County,West Virginia","Union County,Ohio",13460,348504
+194,"Kanawha County,West Virginia","Van Wert County,Ohio",18658,491036
+195,"Kanawha County,West Virginia","Vinton County,Ohio",9111,208819
+196,"Kanawha County,West Virginia","Warren County,Ohio",12967,348249
+197,"Kanawha County,West Virginia","Washington County,Ohio",7334,188090
+198,"Kanawha County,West Virginia","Wayne County,Ohio",13679,366880
+199,"Kanawha County,West Virginia","Williams County,Ohio",22037,550004
+200,"Kanawha County,West Virginia","Wood County,Ohio",18351,495918
+201,"Kanawha County,West Virginia","Wyandot County,Ohio",15923,418446
+202,"Kanawha County,West Virginia","Accomack County,Virginia",27139,759258
+203,"Kanawha County,West Virginia","Albemarle County,Virginia",13289,371758
+204,"Kanawha County,West Virginia","Alleghany County,Virginia",7958,208781
+205,"Kanawha County,West Virginia","Amelia County,Virginia",17990,471876
+206,"Kanawha County,West Virginia","Amherst County,Virginia",13287,339747
+207,"Kanawha County,West Virginia","Appomattox County,Virginia",14880,378506
+208,"Kanawha County,West Virginia","Arlington County,Virginia",19973,572067
+209,"Kanawha County,West Virginia","Augusta County,Virginia",11900,310097
+210,"Kanawha County,West Virginia","Bath County,Virginia",10970,284091
+211,"Kanawha County,West Virginia","Bedford County,Virginia",13547,325872
+212,"Kanawha County,West Virginia","Bland County,Virginia",6920,175001
+213,"Kanawha County,West Virginia","Botetourt County,Virginia",11112,280080
+214,"Kanawha County,West Virginia","Brunswick County,Virginia",20533,521549
+215,"Kanawha County,West Virginia","Buchanan County,Virginia",10915,259230
+216,"Kanawha County,West Virginia","Buckingham County,Virginia",15163,389441
+217,"Kanawha County,West Virginia","Campbell County,Virginia",14804,380978
+218,"Kanawha County,West Virginia","Caroline County,Virginia",18628,540604
+219,"Kanawha County,West Virginia","Carroll County,Virginia",9166,244438
+220,"Kanawha County,West Virginia","Charles City County,Virginia",18729,537638
+221,"Kanawha County,West Virginia","Charlotte County,Virginia",16765,432027
+222,"Kanawha County,West Virginia","Chesterfield County,Virginia",17865,515422
+223,"Kanawha County,West Virginia","Clarke County,Virginia",17469,498816
+224,"Kanawha County,West Virginia","Craig County,Virginia",9601,229866
+225,"Kanawha County,West Virginia","Culpeper County,Virginia",17086,460974
+226,"Kanawha County,West Virginia","Cumberland County,Virginia",16373,417444
+227,"Kanawha County,West Virginia","Dickenson County,Virginia",12809,280438
+228,"Kanawha County,West Virginia","Dinwiddie County,Virginia",19612,565854
+229,"Kanawha County,West Virginia","Essex County,Virginia",20446,564646
+230,"Kanawha County,West Virginia","Fairfax County,Virginia",19596,562343
+231,"Kanawha County,West Virginia","Fauquier County,Virginia",17907,520067
+232,"Kanawha County,West Virginia","Floyd County,Virginia",10786,263402
+233,"Kanawha County,West Virginia","Fluvanna County,Virginia",14967,423930
+234,"Kanawha County,West Virginia","Franklin County,Virginia",13060,327105
+235,"Kanawha County,West Virginia","Frederick County,Virginia",16921,486543
+236,"Kanawha County,West Virginia","Giles County,Virginia",7651,186559
+237,"Kanawha County,West Virginia","Gloucester County,Virginia",20899,591827
+238,"Kanawha County,West Virginia","Goochland County,Virginia",15870,454541
+239,"Kanawha County,West Virginia","Grayson County,Virginia",9568,234145
+240,"Kanawha County,West Virginia","Greene County,Virginia",15282,407342
+241,"Kanawha County,West Virginia","Greensville County,Virginia",21028,614605
+242,"Kanawha County,West Virginia","Halifax County,Virginia",17469,442125
+243,"Kanawha County,West Virginia","Hanover County,Virginia",17077,495647
+244,"Kanawha County,West Virginia","Henrico County,Virginia",17588,508607
+245,"Kanawha County,West Virginia","Henry County,Virginia",13039,331159
+246,"Kanawha County,West Virginia","Highland County,Virginia",12414,294061
+247,"Kanawha County,West Virginia","Isle of Wight County,Virginia",21840,613184
+248,"Kanawha County,West Virginia","James City County,Virginia",19965,578409
+249,"Kanawha County,West Virginia","King and Queen County,Virginia",19623,553993
+250,"Kanawha County,West Virginia","King George County,Virginia",19741,568590
+251,"Kanawha County,West Virginia","King William County,Virginia",18310,523915
+252,"Kanawha County,West Virginia","Lancaster County,Virginia",22103,607001
+253,"Kanawha County,West Virginia","Lee County,Virginia",14109,328954
+254,"Kanawha County,West Virginia","Loudoun County,Virginia",18965,534683
+255,"Kanawha County,West Virginia","Louisa County,Virginia",15528,437636
+256,"Kanawha County,West Virginia","Lunenburg County,Virginia",18537,473311
+257,"Kanawha County,West Virginia","Madison County,Virginia",16202,437083
+258,"Kanawha County,West Virginia","Mathews County,Virginia",21724,615250
+259,"Kanawha County,West Virginia","Mecklenburg County,Virginia",19528,486435
+260,"Kanawha County,West Virginia","Middlesex County,Virginia",20501,588027
+261,"Kanawha County,West Virginia","Montgomery County,Virginia",8734,214566
+262,"Kanawha County,West Virginia","Nelson County,Virginia",13828,351438
+263,"Kanawha County,West Virginia","New Kent County,Virginia",19401,552323
+264,"Kanawha County,West Virginia","Northampton County,Virginia",24382,695073
+265,"Kanawha County,West Virginia","Northumberland County,Virginia",22143,605513
+266,"Kanawha County,West Virginia","Nottoway County,Virginia",18030,473690
+267,"Kanawha County,West Virginia","Orange County,Virginia",16490,445743
+268,"Kanawha County,West Virginia","Page County,Virginia",15136,420873
+269,"Kanawha County,West Virginia","Patrick County,Virginia",11271,289474
+270,"Kanawha County,West Virginia","Pittsylvania County,Virginia",15355,385367
+271,"Kanawha County,West Virginia","Powhatan County,Virginia",17124,479762
+272,"Kanawha County,West Virginia","Prince Edward County,Virginia",16645,431026
+273,"Kanawha County,West Virginia","Prince George County,Virginia",19375,552437
+274,"Kanawha County,West Virginia","Prince William County,Virginia",18007,526171
+275,"Kanawha County,West Virginia","Pulaski County,Virginia",8829,210897
+276,"Kanawha County,West Virginia","Rappahannock County,Virginia",16966,457355
+277,"Kanawha County,West Virginia","Richmond County,Virginia",20843,578156
+278,"Kanawha County,West Virginia","Roanoke County,Virginia",10353,257359
+279,"Kanawha County,West Virginia","Rockbridge County,Virginia",10291,277137
+280,"Kanawha County,West Virginia","Rockingham County,Virginia",14175,393218
+281,"Kanawha County,West Virginia","Russell County,Virginia",10729,255181
+282,"Kanawha County,West Virginia","Scott County,Virginia",13393,323308
+283,"Kanawha County,West Virginia","Shenandoah County,Virginia",14679,423322
+284,"Kanawha County,West Virginia","Smyth County,Virginia",9278,240353
+285,"Kanawha County,West Virginia","Southampton County,Virginia",21406,610719
+286,"Kanawha County,West Virginia","Spotsylvania County,Virginia",17544,479474
+287,"Kanawha County,West Virginia","Stafford County,Virginia",18925,503767
+288,"Kanawha County,West Virginia","Surry County,Virginia",20708,577271
+289,"Kanawha County,West Virginia","Sussex County,Virginia",20070,580962
+290,"Kanawha County,West Virginia","Tazewell County,Virginia",7736,193588
+291,"Kanawha County,West Virginia","Warren County,Virginia",16581,467914
+292,"Kanawha County,West Virginia","Washington County,Virginia",10671,279819
+293,"Kanawha County,West Virginia","Westmoreland County,Virginia",20716,585415
+294,"Kanawha County,West Virginia","Wise County,Virginia",11074,256337
+295,"Kanawha County,West Virginia","Wythe County,Virginia",7525,193218
+296,"Kanawha County,West Virginia","York County,Virginia",21252,609184
+297,"Kanawha County,West Virginia","Alexandria City County,Virginia",20176,584714
+298,"Kanawha County,West Virginia","Bedford City County,Virginia",12711,317303
+299,"Kanawha County,West Virginia","Bristol City County,Virginia",11146,305536
+300,"Kanawha County,West Virginia","Buena Vista City County,Virginia",10646,291115
+301,"Kanawha County,West Virginia","Charlottesville City County,Virginia",13758,386973
+302,"Kanawha County,West Virginia","Chesapeake City County,Virginia",22716,662089
+303,"Kanawha County,West Virginia","Clifton Forge City County,Virginia",8502,228988
+304,"Kanawha County,West Virginia","Colonial Heights City County,Virginia",18425,531314
+305,"Kanawha County,West Virginia","Covington City County,Virginia",8027,212366
+306,"Kanawha County,West Virginia","Danville City County,Virginia",15197,385615
+307,"Kanawha County,West Virginia","Emporia City County,Virginia",20735,601199
+308,"Kanawha County,West Virginia","Fairfax City County,Virginia",19139,551919
+309,"Kanawha County,West Virginia","Falls Church City County,Virginia",19471,566391
+310,"Kanawha County,West Virginia","Franklin City County,Virginia",21953,618574
+311,"Kanawha County,West Virginia","Fredericksburg City County,Virginia",18677,489134
+312,"Kanawha County,West Virginia","Galax City County,Virginia",9789,250304
+313,"Kanawha County,West Virginia","Hampton City County,Virginia",21203,618890
+314,"Kanawha County,West Virginia","Harrisonburg City County,Virginia",13234,373114
+315,"Kanawha County,West Virginia","Hopewell City County,Virginia",18461,530281
+316,"Kanawha County,West Virginia","Lexington City County,Virginia",10280,279606
+317,"Kanawha County,West Virginia","Lynchburg City County,Virginia",13863,354720
+318,"Kanawha County,West Virginia","Manassas City County,Virginia",18234,531116
+319,"Kanawha County,West Virginia","Manassas Park City County,Virginia",18737,537459
+320,"Kanawha County,West Virginia","Martinsville City County,Virginia",13567,339952
+321,"Kanawha County,West Virginia","Newport News City County,Virginia",20759,605376
+322,"Kanawha County,West Virginia","Norfolk City County,Virginia",22509,644306
+323,"Kanawha County,West Virginia","Norton City County,Virginia",11702,268149
+324,"Kanawha County,West Virginia","Petersburg City County,Virginia",18296,532302
+325,"Kanawha County,West Virginia","Poquoson City County,Virginia",21431,615952
+326,"Kanawha County,West Virginia","Portsmouth City County,Virginia",22448,653127
+327,"Kanawha County,West Virginia","Radford County,Virginia",9141,212606
+328,"Kanawha County,West Virginia","Richmond City County,Virginia",17164,496417
+329,"Kanawha County,West Virginia","Roanoke City County,Virginia",10956,277464
+330,"Kanawha County,West Virginia","Salem City County,Virginia",10367,264014
+331,"Kanawha County,West Virginia","South Boston City County,Virginia",17209,439793
+332,"Kanawha County,West Virginia","Staunton City County,Virginia",12051,334249
+333,"Kanawha County,West Virginia","Suffolk City County,Virginia",22683,627908
+334,"Kanawha County,West Virginia","Virginia Beach City County,Virginia",23070,667564
+335,"Kanawha County,West Virginia","Waynesboro City County,Virginia",12389,346968
+336,"Kanawha County,West Virginia","Williamsburg City County,Virginia",19803,577625
+337,"Kanawha County,West Virginia","Winchester City County,Virginia",16800,482686
+338,"Kanawha County,West Virginia","Barbour County,West Virginia",9881,259548
+339,"Kanawha County,West Virginia","Berkeley County,West Virginia",17814,497707
+340,"Kanawha County,West Virginia","Boone County,West Virginia",4884,79624
+341,"Kanawha County,West Virginia","Braxton County,West Virginia",6571,150527
+342,"Kanawha County,West Virginia","Brooke County,West Virginia",12998,354128
+343,"Kanawha County,West Virginia","Cabell County,West Virginia",5057,122732
+344,"Kanawha County,West Virginia","Calhoun County,West Virginia",6492,148211
+345,"Kanawha County,West Virginia","Clay County,West Virginia",3388,54893
+346,"Kanawha County,West Virginia","Doddridge County,West Virginia",9024,241057
+347,"Kanawha County,West Virginia","Fayette County,West Virginia",4150,63902
+348,"Kanawha County,West Virginia","Gilmer County,West Virginia",7770,172713
+349,"Kanawha County,West Virginia","Grant County,West Virginia",14236,361093
+350,"Kanawha County,West Virginia","Greenbrier County,West Virginia",7912,165923
+351,"Kanawha County,West Virginia","Hampshire County,West Virginia",17068,459310
+352,"Kanawha County,West Virginia","Hancock County,West Virginia",14587,388664
+353,"Kanawha County,West Virginia","Hardy County,West Virginia",15292,392590
+354,"Kanawha County,West Virginia","Harrison County,West Virginia",9114,245918
+355,"Kanawha County,West Virginia","Jackson County,West Virginia",4376,102543
+356,"Kanawha County,West Virginia","Jefferson County,West Virginia",18589,517300
+357,"Kanawha County,West Virginia","Lewis County,West Virginia",7744,199388
+358,"Kanawha County,West Virginia","Lincoln County,West Virginia",5721,100410
+359,"Kanawha County,West Virginia","Logan County,West Virginia",5814,116743
+360,"Kanawha County,West Virginia","McDowell County,West Virginia",8509,169260
+361,"Kanawha County,West Virginia","Marion County,West Virginia",10260,273086
+362,"Kanawha County,West Virginia","Marshall County,West Virginia",12384,290229
+363,"Kanawha County,West Virginia","Mason County,West Virginia",4533,108639
+364,"Kanawha County,West Virginia","Mercer County,West Virginia",5474,133507
+365,"Kanawha County,West Virginia","Mineral County,West Virginia",15931,389914
+366,"Kanawha County,West Virginia","Mingo County,West Virginia",5859,121251
+367,"Kanawha County,West Virginia","Monongalia County,West Virginia",10470,298554
+368,"Kanawha County,West Virginia","Monroe County,West Virginia",8519,178219
+369,"Kanawha County,West Virginia","Morgan County,West Virginia",17305,487099
+370,"Kanawha County,West Virginia","Nicholas County,West Virginia",5160,80796
+371,"Kanawha County,West Virginia","Ohio County,West Virginia",12017,335365
+372,"Kanawha County,West Virginia","Pendleton County,West Virginia",14552,342157
+373,"Kanawha County,West Virginia","Pleasants County,West Virginia",7859,200395
+374,"Kanawha County,West Virginia","Pocahontas County,West Virginia",10643,185793
+375,"Kanawha County,West Virginia","Preston County,West Virginia",12616,325285
+376,"Kanawha County,West Virginia","Putnam County,West Virginia",3314,74257
+377,"Kanawha County,West Virginia","Raleigh County,West Virginia",4015,87200
+378,"Kanawha County,West Virginia","Randolph County,West Virginia",10245,261843
+379,"Kanawha County,West Virginia","Ritchie County,West Virginia",8189,214099
+380,"Kanawha County,West Virginia","Roane County,West Virginia",6002,131358
+381,"Kanawha County,West Virginia","Summers County,West Virginia",7467,148638
+382,"Kanawha County,West Virginia","Taylor County,West Virginia",10152,268658
+383,"Kanawha County,West Virginia","Tucker County,West Virginia",11312,292368
+384,"Kanawha County,West Virginia","Tyler County,West Virginia",9768,240010
+385,"Kanawha County,West Virginia","Upshur County,West Virginia",9309,214085
+386,"Kanawha County,West Virginia","Wayne County,West Virginia",6648,155359
+387,"Kanawha County,West Virginia","Webster County,West Virginia",8504,137748
+388,"Kanawha County,West Virginia","Wetzel County,West Virginia",10980,261917
+389,"Kanawha County,West Virginia","Wirt County,West Virginia",6642,159881
+390,"Kanawha County,West Virginia","Wood County,West Virginia",6157,161571
+391,"Kanawha County,West Virginia","Wyoming County,West Virginia",5959,127142

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Tucker County,West Virginia","Adair County,Kentucky",24850,691893
+1,"Tucker County,West Virginia","Allen County,Kentucky",27468,792541
+2,"Tucker County,West Virginia","Anderson County,Kentucky",20649,594932
+3,"Tucker County,West Virginia","Ballard County,Kentucky",33628,984704
+4,"Tucker County,West Virginia","Barren County,Kentucky",26595,750921
+5,"Tucker County,West Virginia","Bath County,Kentucky",16297,466114
+6,"Tucker County,West Virginia","Bell County,Kentucky",23852,601929
+7,"Tucker County,West Virginia","Boone County,Kentucky",21792,546350
+8,"Tucker County,West Virginia","Bourbon County,Kentucky",18211,512531
+9,"Tucker County,West Virginia","Boyd County,Kentucky",12972,360438
+10,"Tucker County,West Virginia","Boyle County,Kentucky",21878,598819
+11,"Tucker County,West Virginia","Bracken County,Kentucky",18622,506614
+12,"Tucker County,West Virginia","Breathitt County,Kentucky",19684,507140
+13,"Tucker County,West Virginia","Breckinridge County,Kentucky",26183,747614
+14,"Tucker County,West Virginia","Bullitt County,Kentucky",22753,668733
+15,"Tucker County,West Virginia","Butler County,Kentucky",26848,769611
+16,"Tucker County,West Virginia","Caldwell County,Kentucky",29740,875557
+17,"Tucker County,West Virginia","Calloway County,Kentucky",32550,960549
+18,"Tucker County,West Virginia","Campbell County,Kentucky",20322,546485
+19,"Tucker County,West Virginia","Carlisle County,Kentucky",34085,1000072
+20,"Tucker County,West Virginia","Carroll County,Kentucky",23194,642747
+21,"Tucker County,West Virginia","Carter County,Kentucky",14137,390535
+22,"Tucker County,West Virginia","Casey County,Kentucky",23373,630324
+23,"Tucker County,West Virginia","Christian County,Kentucky",29389,870813
+24,"Tucker County,West Virginia","Clay County,Kentucky",22182,594255
+25,"Tucker County,West Virginia","Clinton County,Kentucky",25257,695259
+26,"Tucker County,West Virginia","Crittenden County,Kentucky",31319,908627
+27,"Tucker County,West Virginia","Cumberland County,Kentucky",26011,713498
+28,"Tucker County,West Virginia","Daviess County,Kentucky",27871,816054
+29,"Tucker County,West Virginia","Edmonson County,Kentucky",26288,757486
+30,"Tucker County,West Virginia","Elliott County,Kentucky",15468,416305
+31,"Tucker County,West Virginia","Estill County,Kentucky",19289,528429
+32,"Tucker County,West Virginia","Fayette County,Kentucky",18457,532425
+33,"Tucker County,West Virginia","Fleming County,Kentucky",16723,469299
+34,"Tucker County,West Virginia","Floyd County,Kentucky",17105,467703
+35,"Tucker County,West Virginia","Franklin County,Kentucky",20494,581342
+36,"Tucker County,West Virginia","Fulton County,Kentucky",34489,1021036
+37,"Tucker County,West Virginia","Gallatin County,Kentucky",22192,633406
+38,"Tucker County,West Virginia","Garrard County,Kentucky",21062,579579
+39,"Tucker County,West Virginia","Grant County,Kentucky",20991,607513
+40,"Tucker County,West Virginia","Graves County,Kentucky",33110,972778
+41,"Tucker County,West Virginia","Grayson County,Kentucky",25175,726247
+42,"Tucker County,West Virginia","Green County,Kentucky",24955,691453
+43,"Tucker County,West Virginia","Greenup County,Kentucky",14748,401564
+44,"Tucker County,West Virginia","Hancock County,Kentucky",26978,780507
+45,"Tucker County,West Virginia","Hardin County,Kentucky",24051,688380
+46,"Tucker County,West Virginia","Harlan County,Kentucky",23175,582246
+47,"Tucker County,West Virginia","Harrison County,Kentucky",19781,545631
+48,"Tucker County,West Virginia","Hart County,Kentucky",24851,716009
+49,"Tucker County,West Virginia","Henderson County,Kentucky",29677,868484
+50,"Tucker County,West Virginia","Henry County,Kentucky",22096,625060
+51,"Tucker County,West Virginia","Hickman County,Kentucky",34118,1001364
+52,"Tucker County,West Virginia","Hopkins County,Kentucky",29198,850025
+53,"Tucker County,West Virginia","Jackson County,Kentucky",21962,576437
+54,"Tucker County,West Virginia","Jefferson County,Kentucky",22189,640594
+55,"Tucker County,West Virginia","Jessamine County,Kentucky",19926,553889
+56,"Tucker County,West Virginia","Johnson County,Kentucky",15754,433334
+57,"Tucker County,West Virginia","Kenton County,Kentucky",21161,534044
+58,"Tucker County,West Virginia","Knott County,Kentucky",18287,499585
+59,"Tucker County,West Virginia","Knox County,Kentucky",23465,658471
+60,"Tucker County,West Virginia","Larue County,Kentucky",24123,675556
+61,"Tucker County,West Virginia","Laurel County,Kentucky",22316,629866
+62,"Tucker County,West Virginia","Lawrence County,Kentucky",14895,404758
+63,"Tucker County,West Virginia","Lee County,Kentucky",20134,522166
+64,"Tucker County,West Virginia","Leslie County,Kentucky",21367,569258
+65,"Tucker County,West Virginia","Letcher County,Kentucky",19359,502525
+66,"Tucker County,West Virginia","Lewis County,Kentucky",16175,442353
+67,"Tucker County,West Virginia","Lincoln County,Kentucky",21771,596497
+68,"Tucker County,West Virginia","Livingston County,Kentucky",31915,925524
+69,"Tucker County,West Virginia","Logan County,Kentucky",28588,812850
+70,"Tucker County,West Virginia","Lyon County,Kentucky",32049,935914
+71,"Tucker County,West Virginia","McCracken County,Kentucky",32240,952764
+72,"Tucker County,West Virginia","McCreary County,Kentucky",24421,674308
+73,"Tucker County,West Virginia","Madison County,Kentucky",19455,543448
+74,"Tucker County,West Virginia","Magoffin County,Kentucky",16721,454013
+75,"Tucker County,West Virginia","Marion County,Kentucky",22501,637165
+76,"Tucker County,West Virginia","Marshall County,Kentucky",31655,936335
+77,"Tucker County,West Virginia","Martin County,Kentucky",16381,437103
+78,"Tucker County,West Virginia","Mason County,Kentucky",17970,486160
+79,"Tucker County,West Virginia","Meade County,Kentucky",24650,712908
+80,"Tucker County,West Virginia","Menifee County,Kentucky",17413,478177
+81,"Tucker County,West Virginia","Mercer County,Kentucky",20877,592876
+82,"Tucker County,West Virginia","Metcalfe County,Kentucky",25506,722158
+83,"Tucker County,West Virginia","Monroe County,Kentucky",27476,759662
+84,"Tucker County,West Virginia","Montgomery County,Kentucky",17110,484654
+85,"Tucker County,West Virginia","Morgan County,Kentucky",17191,453893
+86,"Tucker County,West Virginia","Muhlenberg County,Kentucky",28059,816501
+87,"Tucker County,West Virginia","Nelson County,Kentucky",22108,636237
+88,"Tucker County,West Virginia","Nicholas County,Kentucky",18788,512537
+89,"Tucker County,West Virginia","Ohio County,Kentucky",26972,784090
+90,"Tucker County,West Virginia","Oldham County,Kentucky",22261,652475
+91,"Tucker County,West Virginia","Owen County,Kentucky",21316,608119
+92,"Tucker County,West Virginia","Owsley County,Kentucky",21281,542142
+93,"Tucker County,West Virginia","Pendleton County,Kentucky",20559,547538
+94,"Tucker County,West Virginia","Perry County,Kentucky",19667,530143
+95,"Tucker County,West Virginia","Pike County,Kentucky",16661,432642
+96,"Tucker County,West Virginia","Powell County,Kentucky",18553,514400
+97,"Tucker County,West Virginia","Robertson County,Kentucky",18705,512044
+98,"Tucker County,West Virginia","Rockcastle County,Kentucky",20889,584591
+99,"Tucker County,West Virginia","Rowan County,Kentucky",15439,438321
+100,"Tucker County,West Virginia","Russell County,Kentucky",24454,675877
+101,"Tucker County,West Virginia","Scott County,Kentucky",19291,560452
+102,"Tucker County,West Virginia","Shelby County,Kentucky",21118,611728
+103,"Tucker County,West Virginia","Simpson County,Kentucky",28170,820907
+104,"Tucker County,West Virginia","Spencer County,Kentucky",21647,617576
+105,"Tucker County,West Virginia","Taylor County,Kentucky",23790,668661
+106,"Tucker County,West Virginia","Todd County,Kentucky",29824,837010
+107,"Tucker County,West Virginia","Trigg County,Kentucky",30802,896743
+108,"Tucker County,West Virginia","Trimble County,Kentucky",23334,658515
+109,"Tucker County,West Virginia","Union County,Kentucky",31397,898930
+110,"Tucker County,West Virginia","Warren County,Kentucky",27204,785855
+111,"Tucker County,West Virginia","Washington County,Kentucky",22118,621473
+112,"Tucker County,West Virginia","Wayne County,Kentucky",24630,672950
+113,"Tucker County,West Virginia","Webster County,Kentucky",30307,878114
+114,"Tucker County,West Virginia","Whitley County,Kentucky",23149,664351
+115,"Tucker County,West Virginia","Wolfe County,Kentucky",18286,477255
+116,"Tucker County,West Virginia","Woodford County,Kentucky",19511,563088
+117,"Tucker County,West Virginia","Adams County,Ohio",17141,429949
+118,"Tucker County,West Virginia","Allen County,Ohio",21600,547587
+119,"Tucker County,West Virginia","Ashland County,Ohio",17892,463580
+120,"Tucker County,West Virginia","Ashtabula County,Ohio",15931,419493
+121,"Tucker County,West Virginia","Athens County,Ohio",11537,277459
+122,"Tucker County,West Virginia","Auglaize County,Ohio",21214,551281
+123,"Tucker County,West Virginia","Belmont County,Ohio",10380,247046
+124,"Tucker County,West Virginia","Brown County,Ohio",18565,462809
+125,"Tucker County,West Virginia","Butler County,Ohio",21388,543028
+126,"Tucker County,West Virginia","Carroll County,Ohio",13325,282904
+127,"Tucker County,West Virginia","Champaign County,Ohio",18871,467048
+128,"Tucker County,West Virginia","Clark County,Ohio",17749,457619
+129,"Tucker County,West Virginia","Clermont County,Ohio",19219,487973
+130,"Tucker County,West Virginia","Clinton County,Ohio",18642,471458
+131,"Tucker County,West Virginia","Columbiana County,Ohio",12534,271425
+132,"Tucker County,West Virginia","Coshocton County,Ohio",14467,367062
+133,"Tucker County,West Virginia","Crawford County,Ohio",19801,534774
+134,"Tucker County,West Virginia","Cuyahoga County,Ohio",15927,417337
+135,"Tucker County,West Virginia","Darke County,Ohio",21325,555521
+136,"Tucker County,West Virginia","Defiance County,Ohio",24245,666300
+137,"Tucker County,West Virginia","Delaware County,Ohio",17190,440305
+138,"Tucker County,West Virginia","Fairfield County,Ohio",14720,367399
+139,"Tucker County,West Virginia","Fayette County,Ohio",17206,441922
+140,"Tucker County,West Virginia","Franklin County,Ohio",15720,397254
+141,"Tucker County,West Virginia","Fulton County,Ohio",22598,623151
+142,"Tucker County,West Virginia","Gallia County,Ohio",13409,359732
+143,"Tucker County,West Virginia","Geauga County,Ohio",15420,392155
+144,"Tucker County,West Virginia","Greene County,Ohio",18076,475075
+145,"Tucker County,West Virginia","Guernsey County,Ohio",12018,304981
+146,"Tucker County,West Virginia","Hamilton County,Ohio",20889,553606
+147,"Tucker County,West Virginia","Hancock County,Ohio",21213,548660
+148,"Tucker County,West Virginia","Hardin County,Ohio",20111,503416
+149,"Tucker County,West Virginia","Harrison County,Ohio",12341,285760
+150,"Tucker County,West Virginia","Henry County,Ohio",23052,612918
+151,"Tucker County,West Virginia","Highland County,Ohio",17678,429962
+152,"Tucker County,West Virginia","Hocking County,Ohio",13162,323362
+153,"Tucker County,West Virginia","Holmes County,Ohio",15526,389946
+154,"Tucker County,West Virginia","Huron County,Ohio",19169,493186
+155,"Tucker County,West Virginia","Jackson County,Ohio",13665,340514
+156,"Tucker County,West Virginia","Jefferson County,Ohio",11281,246396
+157,"Tucker County,West Virginia","Knox County,Ohio",16256,409538
+158,"Tucker County,West Virginia","Lawrence County,Ohio",14112,365495
+159,"Tucker County,West Virginia","Licking County,Ohio",15645,390469
+160,"Tucker County,West Virginia","Logan County,Ohio",19132,497693
+161,"Tucker County,West Virginia","Lorain County,Ohio",16978,447057
+162,"Tucker County,West Virginia","Lucas County,Ohio",21552,576001
+163,"Tucker County,West Virginia","Madison County,Ohio",16998,431975
+164,"Tucker County,West Virginia","Mahoning County,Ohio",12417,309485
+165,"Tucker County,West Virginia","Marion County,Ohio",18596,466398
+166,"Tucker County,West Virginia","Medina County,Ohio",16525,430700
+167,"Tucker County,West Virginia","Meigs County,Ohio",11502,270037
+168,"Tucker County,West Virginia","Mercer County,Ohio",22449,578214
+169,"Tucker County,West Virginia","Miami County,Ohio",19836,520953
+170,"Tucker County,West Virginia","Monroe County,Ohio",11430,243187
+171,"Tucker County,West Virginia","Montgomery County,Ohio",20097,526399
+172,"Tucker County,West Virginia","Morgan County,Ohio",11980,279806
+173,"Tucker County,West Virginia","Morrow County,Ohio",17997,463126
+174,"Tucker County,West Virginia","Muskingum County,Ohio",12864,332972
+175,"Tucker County,West Virginia","Noble County,Ohio",11460,277333
+176,"Tucker County,West Virginia","Paulding County,Ohio",24137,623493
+177,"Tucker County,West Virginia","Perry County,Ohio",14505,325674
+178,"Tucker County,West Virginia","Pickaway County,Ohio",15326,376304
+179,"Tucker County,West Virginia","Pike County,Ohio",15111,379820
+180,"Tucker County,West Virginia","Portage County,Ohio",14272,365498
+181,"Tucker County,West Virginia","Preble County,Ohio",20867,549111
+182,"Tucker County,West Virginia","Putnam County,Ohio",22723,579945
+183,"Tucker County,West Virginia","Richland County,Ohio",18449,485008
+184,"Tucker County,West Virginia","Ross County,Ohio",15390,388327
+185,"Tucker County,West Virginia","Sandusky County,Ohio",19840,534576
+186,"Tucker County,West Virginia","Scioto County,Ohio",15749,395891
+187,"Tucker County,West Virginia","Seneca County,Ohio",20570,544248
+188,"Tucker County,West Virginia","Shelby County,Ohio",20890,527941
+189,"Tucker County,West Virginia","Stark County,Ohio",15049,319372
+190,"Tucker County,West Virginia","Summit County,Ohio",15166,394093
+191,"Tucker County,West Virginia","Trumbull County,Ohio",13575,346949
+192,"Tucker County,West Virginia","Tuscarawas County,Ohio",13850,317043
+193,"Tucker County,West Virginia","Union County,Ohio",17636,447924
+194,"Tucker County,West Virginia","Van Wert County,Ohio",22834,590457
+195,"Tucker County,West Virginia","Vinton County,Ohio",13655,325900
+196,"Tucker County,West Virginia","Warren County,Ohio",19306,509574
+197,"Tucker County,West Virginia","Washington County,Ohio",10318,235269
+198,"Tucker County,West Virginia","Wayne County,Ohio",16662,414058
+199,"Tucker County,West Virginia","Williams County,Ohio",23843,654608
+200,"Tucker County,West Virginia","Wood County,Ohio",21737,582904
+201,"Tucker County,West Virginia","Wyandot County,Ohio",20183,512796
+202,"Tucker County,West Virginia","Accomack County,Virginia",23682,604236
+203,"Tucker County,West Virginia","Albemarle County,Virginia",11390,288204
+204,"Tucker County,West Virginia","Alleghany County,Virginia",11414,206064
+205,"Tucker County,West Virginia","Amelia County,Virginia",16444,420023
+206,"Tucker County,West Virginia","Amherst County,Virginia",13824,339111
+207,"Tucker County,West Virginia","Appomattox County,Virginia",15038,363739
+208,"Tucker County,West Virginia","Arlington County,Virginia",11308,287205
+209,"Tucker County,West Virginia","Augusta County,Virginia",10654,185314
+210,"Tucker County,West Virginia","Bath County,Virginia",10063,166958
+211,"Tucker County,West Virginia","Bedford County,Virginia",15969,383627
+212,"Tucker County,West Virginia","Bland County,Virginia",14355,373704
+213,"Tucker County,West Virginia","Botetourt County,Virginia",13459,346149
+214,"Tucker County,West Virginia","Brunswick County,Virginia",18749,495294
+215,"Tucker County,West Virginia","Buchanan County,Virginia",18350,457933
+216,"Tucker County,West Virginia","Buckingham County,Virginia",14699,353354
+217,"Tucker County,West Virginia","Campbell County,Virginia",15186,379243
+218,"Tucker County,West Virginia","Caroline County,Virginia",13746,345862
+219,"Tucker County,West Virginia","Carroll County,Virginia",16601,443141
+220,"Tucker County,West Virginia","Charles City County,Virginia",16216,417345
+221,"Tucker County,West Virginia","Charlotte County,Virginia",17020,412238
+222,"Tucker County,West Virginia","Chesterfield County,Virginia",15966,431868
+223,"Tucker County,West Virginia","Clarke County,Virginia",8803,213953
+224,"Tucker County,West Virginia","Craig County,Virginia",15169,295248
+225,"Tucker County,West Virginia","Culpeper County,Virginia",10811,268478
+226,"Tucker County,West Virginia","Cumberland County,Virginia",15433,378561
+227,"Tucker County,West Virginia","Dickenson County,Virginia",20759,522603
+228,"Tucker County,West Virginia","Dinwiddie County,Virginia",17387,455261
+229,"Tucker County,West Virginia","Essex County,Virginia",15148,369916
+230,"Tucker County,West Virginia","Fairfax County,Virginia",10931,277481
+231,"Tucker County,West Virginia","Fauquier County,Virginia",9241,235205
+232,"Tucker County,West Virginia","Floyd County,Virginia",17083,451860
+233,"Tucker County,West Virginia","Fluvanna County,Virginia",13068,340376
+234,"Tucker County,West Virginia","Franklin County,Virginia",16421,430304
+235,"Tucker County,West Virginia","Frederick County,Virginia",7322,177759
+236,"Tucker County,West Virginia","Giles County,Virginia",15086,385262
+237,"Tucker County,West Virginia","Gloucester County,Virginia",18387,471533
+238,"Tucker County,West Virginia","Goochland County,Virginia",13972,370987
+239,"Tucker County,West Virginia","Grayson County,Virginia",17003,432849
+240,"Tucker County,West Virginia","Greene County,Virginia",11004,249833
+241,"Tucker County,West Virginia","Greensville County,Virginia",18803,504013
+242,"Tucker County,West Virginia","Halifax County,Virginia",18506,450950
+243,"Tucker County,West Virginia","Hanover County,Virginia",14564,375354
+244,"Tucker County,West Virginia","Henrico County,Virginia",15363,398015
+245,"Tucker County,West Virginia","Henry County,Virginia",17830,465266
+246,"Tucker County,West Virginia","Highland County,Virginia",7364,122988
+247,"Tucker County,West Virginia","Isle of Wight County,Virginia",19498,506604
+248,"Tucker County,West Virginia","James City County,Virginia",17452,458116
+249,"Tucker County,West Virginia","King and Queen County,Virginia",16200,405177
+250,"Tucker County,West Virginia","King George County,Virginia",13669,329358
+251,"Tucker County,West Virginia","King William County,Virginia",15165,382974
+252,"Tucker County,West Virginia","Lancaster County,Virginia",17571,425910
+253,"Tucker County,West Virginia","Lee County,Virginia",22060,571119
+254,"Tucker County,West Virginia","Loudoun County,Virginia",10299,249820
+255,"Tucker County,West Virginia","Louisa County,Virginia",13419,331853
+256,"Tucker County,West Virginia","Lunenburg County,Virginia",18318,454959
+257,"Tucker County,West Virginia","Madison County,Virginia",11234,256737
+258,"Tucker County,West Virginia","Mathews County,Virginia",19282,470298
+259,"Tucker County,West Virginia","Mecklenburg County,Virginia",19667,479405
+260,"Tucker County,West Virginia","Middlesex County,Virginia",17652,433879
+261,"Tucker County,West Virginia","Montgomery County,Virginia",15787,424282
+262,"Tucker County,West Virginia","Nelson County,Virginia",12270,306705
+263,"Tucker County,West Virginia","New Kent County,Virginia",16888,432029
+264,"Tucker County,West Virginia","Northampton County,Virginia",21870,574779
+265,"Tucker County,West Virginia","Northumberland County,Virginia",17611,424422
+266,"Tucker County,West Virginia","Nottoway County,Virginia",17569,441514
+267,"Tucker County,West Virginia","Orange County,Virginia",12152,302977
+268,"Tucker County,West Virginia","Page County,Virginia",9264,212887
+269,"Tucker County,West Virginia","Patrick County,Virginia",18706,488177
+270,"Tucker County,West Virginia","Pittsylvania County,Virginia",17755,450870
+271,"Tucker County,West Virginia","Powhatan County,Virginia",15225,396209
+272,"Tucker County,West Virginia","Prince Edward County,Virginia",16240,407178
+273,"Tucker County,West Virginia","Prince George County,Virginia",17033,445858
+274,"Tucker County,West Virginia","Prince William County,Virginia",9341,241309
+275,"Tucker County,West Virginia","Pulaski County,Virginia",16264,409600
+276,"Tucker County,West Virginia","Rappahannock County,Virginia",9552,220343
+277,"Tucker County,West Virginia","Richmond County,Virginia",16311,397066
+278,"Tucker County,West Virginia","Roanoke County,Virginia",14778,389221
+279,"Tucker County,West Virginia","Rockbridge County,Virginia",12201,312158
+280,"Tucker County,West Virginia","Rockingham County,Virginia",7435,180814
+281,"Tucker County,West Virginia","Russell County,Virginia",18164,453884
+282,"Tucker County,West Virginia","Scott County,Virginia",20828,522011
+283,"Tucker County,West Virginia","Shenandoah County,Virginia",7702,170277
+284,"Tucker County,West Virginia","Smyth County,Virginia",16713,439056
+285,"Tucker County,West Virginia","Southampton County,Virginia",19181,500127
+286,"Tucker County,West Virginia","Spotsylvania County,Virginia",12858,310346
+287,"Tucker County,West Virginia","Stafford County,Virginia",11861,299211
+288,"Tucker County,West Virginia","Surry County,Virginia",18145,467552
+289,"Tucker County,West Virginia","Sussex County,Virginia",17845,470370
+290,"Tucker County,West Virginia","Tazewell County,Virginia",15171,392291
+291,"Tucker County,West Virginia","Warren County,Virginia",7882,183006
+292,"Tucker County,West Virginia","Washington County,Virginia",18106,478522
+293,"Tucker County,West Virginia","Westmoreland County,Virginia",14637,348159
+294,"Tucker County,West Virginia","Wise County,Virginia",19024,498502
+295,"Tucker County,West Virginia","Wythe County,Virginia",14960,391921
+296,"Tucker County,West Virginia","York County,Virginia",18740,488890
+297,"Tucker County,West Virginia","Alexandria City County,Virginia",11511,299851
+298,"Tucker County,West Virginia","Bedford City County,Virginia",14994,374966
+299,"Tucker County,West Virginia","Bristol City County,Virginia",18581,504239
+300,"Tucker County,West Virginia","Buena Vista City County,Virginia",11860,305424
+301,"Tucker County,West Virginia","Charlottesville City County,Virginia",11859,303419
+302,"Tucker County,West Virginia","Chesapeake City County,Virginia",20203,541796
+303,"Tucker County,West Virginia","Clifton Forge City County,Virginia",11627,220742
+304,"Tucker County,West Virginia","Colonial Heights City County,Virginia",16200,420722
+305,"Tucker County,West Virginia","Covington City County,Virginia",11396,206632
+306,"Tucker County,West Virginia","Danville City County,Virginia",18355,467213
+307,"Tucker County,West Virginia","Emporia City County,Virginia",18511,490606
+308,"Tucker County,West Virginia","Fairfax City County,Virginia",10474,267056
+309,"Tucker County,West Virginia","Falls Church City County,Virginia",10806,281529
+310,"Tucker County,West Virginia","Franklin City County,Virginia",19728,507982
+311,"Tucker County,West Virginia","Fredericksburg City County,Virginia",12181,296053
+312,"Tucker County,West Virginia","Galax City County,Virginia",17224,449007
+313,"Tucker County,West Virginia","Hampton City County,Virginia",18690,498596
+314,"Tucker County,West Virginia","Harrisonburg City County,Virginia",8493,199489
+315,"Tucker County,West Virginia","Hopewell City County,Virginia",15964,420759
+316,"Tucker County,West Virginia","Lexington City County,Virginia",11719,302402
+317,"Tucker County,West Virginia","Lynchburg City County,Virginia",14372,359167
+318,"Tucker County,West Virginia","Manassas City County,Virginia",9569,246253
+319,"Tucker County,West Virginia","Manassas Park City County,Virginia",10071,252597
+320,"Tucker County,West Virginia","Martinsville City County,Virginia",17983,460368
+321,"Tucker County,West Virginia","Newport News City County,Virginia",18247,485082
+322,"Tucker County,West Virginia","Norfolk City County,Virginia",19996,524012
+323,"Tucker County,West Virginia","Norton City County,Virginia",19653,510314
+324,"Tucker County,West Virginia","Petersburg City County,Virginia",16071,421710
+325,"Tucker County,West Virginia","Poquoson City County,Virginia",18919,495659
+326,"Tucker County,West Virginia","Portsmouth City County,Virginia",19936,532833
+327,"Tucker County,West Virginia","Radford County,Virginia",16151,434126
+328,"Tucker County,West Virginia","Richmond City County,Virginia",14939,385825
+329,"Tucker County,West Virginia","Roanoke City County,Virginia",14317,380663
+330,"Tucker County,West Virginia","Salem City County,Virginia",14146,379134
+331,"Tucker County,West Virginia","South Boston City County,Virginia",18510,449768
+332,"Tucker County,West Virginia","Staunton City County,Virginia",10081,247658
+333,"Tucker County,West Virginia","Suffolk City County,Virginia",20341,521328
+334,"Tucker County,West Virginia","Virginia Beach City County,Virginia",20557,547271
+335,"Tucker County,West Virginia","Waynesboro City County,Virginia",10479,257509
+336,"Tucker County,West Virginia","Williamsburg City County,Virginia",17291,457331
+337,"Tucker County,West Virginia","Winchester City County,Virginia",7860,185905
+338,"Tucker County,West Virginia","Barbour County,West Virginia",2969,50487
+339,"Tucker County,West Virginia","Berkeley County,West Virginia",9412,212597
+340,"Tucker County,West Virginia","Boone County,West Virginia",12835,321790
+341,"Tucker County,West Virginia","Braxton County,West Virginia",7394,158412
+342,"Tucker County,West Virginia","Brooke County,West Virginia",9587,209946
+343,"Tucker County,West Virginia","Cabell County,West Virginia",12428,338699
+344,"Tucker County,West Virginia","Calhoun County,West Virginia",8717,193079
+345,"Tucker County,West Virginia","Clay County,West Virginia",9081,223436
+346,"Tucker County,West Virginia","Doddridge County,West Virginia",7047,142737
+347,"Tucker County,West Virginia","Fayette County,West Virginia",9860,243353
+348,"Tucker County,West Virginia","Gilmer County,West Virginia",7198,157770
+349,"Tucker County,West Virginia","Grant County,West Virginia",3606,77895
+350,"Tucker County,West Virginia","Greenbrier County,West Virginia",13061,278913
+351,"Tucker County,West Virginia","Hampshire County,West Virginia",6559,135457
+352,"Tucker County,West Virginia","Hancock County,West Virginia",11214,237293
+353,"Tucker County,West Virginia","Hardy County,West Virginia",4693,105499
+354,"Tucker County,West Virginia","Harrison County,West Virginia",5484,104365
+355,"Tucker County,West Virginia","Jackson County,West Virginia",11658,248635
+356,"Tucker County,West Virginia","Jefferson County,West Virginia",9961,221792
+357,"Tucker County,West Virginia","Kanawha County,West Virginia",11310,289959
+358,"Tucker County,West Virginia","Lewis County,West Virginia",5099,107400
+359,"Tucker County,West Virginia","Lincoln County,West Virginia",13093,316377
+360,"Tucker County,West Virginia","Logan County,West Virginia",13764,358908
+361,"Tucker County,West Virginia","McDowell County,West Virginia",15944,367963
+362,"Tucker County,West Virginia","Marion County,West Virginia",6515,107248
+363,"Tucker County,West Virginia","Marshall County,West Virginia",10575,204390
+364,"Tucker County,West Virginia","Mason County,West Virginia",11904,324606
+365,"Tucker County,West Virginia","Mercer County,West Virginia",12909,332210
+366,"Tucker County,West Virginia","Mineral County,West Virginia",5332,102823
+367,"Tucker County,West Virginia","Mingo County,West Virginia",13809,363416
+368,"Tucker County,West Virginia","Monongalia County,West Virginia",5417,107856
+369,"Tucker County,West Virginia","Monroe County,West Virginia",13345,262319
+370,"Tucker County,West Virginia","Morgan County,West Virginia",8592,205625
+371,"Tucker County,West Virginia","Nicholas County,West Virginia",8380,208057
+372,"Tucker County,West Virginia","Ohio County,West Virginia",9494,218892
+373,"Tucker County,West Virginia","Pendleton County,West Virginia",5935,127460
+374,"Tucker County,West Virginia","Pleasants County,West Virginia",8282,180506
+375,"Tucker County,West Virginia","Pocahontas County,West Virginia",7682,128450
+376,"Tucker County,West Virginia","Preston County,West Virginia",3775,64866
+377,"Tucker County,West Virginia","Putnam County,West Virginia",10685,290224
+378,"Tucker County,West Virginia","Raleigh County,West Virginia",11450,285903
+379,"Tucker County,West Virginia","Randolph County,West Virginia",3727,66805
+380,"Tucker County,West Virginia","Ritchie County,West Virginia",8193,174807
+381,"Tucker County,West Virginia","Roane County,West Virginia",11138,227115
+382,"Tucker County,West Virginia","Summers County,West Virginia",14817,276668
+383,"Tucker County,West Virginia","Taylor County,West Virginia",3617,66672
+384,"Tucker County,West Virginia","Tyler County,West Virginia",9209,173172
+385,"Tucker County,West Virginia","Upshur County,West Virginia",4775,88382
+386,"Tucker County,West Virginia","Wayne County,West Virginia",14020,371326
+387,"Tucker County,West Virginia","Webster County,West Virginia",8259,146271
+388,"Tucker County,West Virginia","Wetzel County,West Virginia",8163,155848
+389,"Tucker County,West Virginia","Wirt County,West Virginia",10158,224644
+390,"Tucker County,West Virginia","Wood County,West Virginia",9062,205768
+391,"Tucker County,West Virginia","Wyoming County,West Virginia",13394,325845

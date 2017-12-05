@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Webster County,West Virginia","Adair County,Kentucky",22769,606794
+1,"Webster County,West Virginia","Allen County,Kentucky",25388,707442
+2,"Webster County,West Virginia","Anderson County,Kentucky",18569,509833
+3,"Webster County,West Virginia","Ballard County,Kentucky",31547,899604
+4,"Webster County,West Virginia","Barren County,Kentucky",24515,665822
+5,"Webster County,West Virginia","Bath County,Kentucky",14216,381015
+6,"Webster County,West Virginia","Bell County,Kentucky",21771,516830
+7,"Webster County,West Virginia","Boone County,Kentucky",20029,502408
+8,"Webster County,West Virginia","Bourbon County,Kentucky",16130,427432
+9,"Webster County,West Virginia","Boyd County,Kentucky",10892,275339
+10,"Webster County,West Virginia","Boyle County,Kentucky",19798,513720
+11,"Webster County,West Virginia","Bracken County,Kentucky",16541,421515
+12,"Webster County,West Virginia","Breathitt County,Kentucky",17603,422041
+13,"Webster County,West Virginia","Breckinridge County,Kentucky",24102,662514
+14,"Webster County,West Virginia","Bullitt County,Kentucky",20672,583634
+15,"Webster County,West Virginia","Butler County,Kentucky",24767,684512
+16,"Webster County,West Virginia","Caldwell County,Kentucky",27659,790458
+17,"Webster County,West Virginia","Calloway County,Kentucky",30469,875450
+18,"Webster County,West Virginia","Campbell County,Kentucky",18242,461386
+19,"Webster County,West Virginia","Carlisle County,Kentucky",32005,914973
+20,"Webster County,West Virginia","Carroll County,Kentucky",21113,557648
+21,"Webster County,West Virginia","Carter County,Kentucky",12056,305436
+22,"Webster County,West Virginia","Casey County,Kentucky",21292,545225
+23,"Webster County,West Virginia","Christian County,Kentucky",27308,785714
+24,"Webster County,West Virginia","Clay County,Kentucky",20102,509155
+25,"Webster County,West Virginia","Clinton County,Kentucky",23176,610160
+26,"Webster County,West Virginia","Crittenden County,Kentucky",29239,823528
+27,"Webster County,West Virginia","Cumberland County,Kentucky",23930,628399
+28,"Webster County,West Virginia","Daviess County,Kentucky",25790,730955
+29,"Webster County,West Virginia","Edmonson County,Kentucky",24207,672387
+30,"Webster County,West Virginia","Elliott County,Kentucky",13387,331206
+31,"Webster County,West Virginia","Estill County,Kentucky",17209,443330
+32,"Webster County,West Virginia","Fayette County,Kentucky",16376,447326
+33,"Webster County,West Virginia","Fleming County,Kentucky",14642,384200
+34,"Webster County,West Virginia","Floyd County,Kentucky",15025,382604
+35,"Webster County,West Virginia","Franklin County,Kentucky",18414,496242
+36,"Webster County,West Virginia","Fulton County,Kentucky",32408,935937
+37,"Webster County,West Virginia","Gallatin County,Kentucky",20111,548306
+38,"Webster County,West Virginia","Garrard County,Kentucky",18981,494480
+39,"Webster County,West Virginia","Grant County,Kentucky",18910,522414
+40,"Webster County,West Virginia","Graves County,Kentucky",31029,887679
+41,"Webster County,West Virginia","Grayson County,Kentucky",23094,641148
+42,"Webster County,West Virginia","Green County,Kentucky",22874,606353
+43,"Webster County,West Virginia","Greenup County,Kentucky",12667,316465
+44,"Webster County,West Virginia","Hancock County,Kentucky",24898,695408
+45,"Webster County,West Virginia","Hardin County,Kentucky",21971,603281
+46,"Webster County,West Virginia","Harlan County,Kentucky",20951,451145
+47,"Webster County,West Virginia","Harrison County,Kentucky",17701,460531
+48,"Webster County,West Virginia","Hart County,Kentucky",22770,630909
+49,"Webster County,West Virginia","Henderson County,Kentucky",27597,783384
+50,"Webster County,West Virginia","Henry County,Kentucky",20015,539961
+51,"Webster County,West Virginia","Hickman County,Kentucky",32038,916265
+52,"Webster County,West Virginia","Hopkins County,Kentucky",27118,764926
+53,"Webster County,West Virginia","Jackson County,Kentucky",19881,491338
+54,"Webster County,West Virginia","Jefferson County,Kentucky",20109,555494
+55,"Webster County,West Virginia","Jessamine County,Kentucky",17845,468790
+56,"Webster County,West Virginia","Johnson County,Kentucky",13673,348235
+57,"Webster County,West Virginia","Kenton County,Kentucky",19398,490102
+58,"Webster County,West Virginia","Knott County,Kentucky",16206,414486
+59,"Webster County,West Virginia","Knox County,Kentucky",21384,573372
+60,"Webster County,West Virginia","Larue County,Kentucky",22042,590457
+61,"Webster County,West Virginia","Laurel County,Kentucky",20235,544767
+62,"Webster County,West Virginia","Lawrence County,Kentucky",12815,319659
+63,"Webster County,West Virginia","Lee County,Kentucky",18053,437066
+64,"Webster County,West Virginia","Leslie County,Kentucky",19286,484159
+65,"Webster County,West Virginia","Letcher County,Kentucky",17278,417426
+66,"Webster County,West Virginia","Lewis County,Kentucky",14095,357254
+67,"Webster County,West Virginia","Lincoln County,Kentucky",19691,511398
+68,"Webster County,West Virginia","Livingston County,Kentucky",29835,840425
+69,"Webster County,West Virginia","Logan County,Kentucky",26507,727751
+70,"Webster County,West Virginia","Lyon County,Kentucky",29968,850815
+71,"Webster County,West Virginia","McCracken County,Kentucky",30160,867664
+72,"Webster County,West Virginia","McCreary County,Kentucky",22340,589209
+73,"Webster County,West Virginia","Madison County,Kentucky",17374,458349
+74,"Webster County,West Virginia","Magoffin County,Kentucky",14641,368914
+75,"Webster County,West Virginia","Marion County,Kentucky",20420,552066
+76,"Webster County,West Virginia","Marshall County,Kentucky",29574,851236
+77,"Webster County,West Virginia","Martin County,Kentucky",14301,352004
+78,"Webster County,West Virginia","Mason County,Kentucky",15890,401060
+79,"Webster County,West Virginia","Meade County,Kentucky",22569,627809
+80,"Webster County,West Virginia","Menifee County,Kentucky",15332,393078
+81,"Webster County,West Virginia","Mercer County,Kentucky",18797,507777
+82,"Webster County,West Virginia","Metcalfe County,Kentucky",23425,637059
+83,"Webster County,West Virginia","Monroe County,Kentucky",25395,674563
+84,"Webster County,West Virginia","Montgomery County,Kentucky",15029,399555
+85,"Webster County,West Virginia","Morgan County,Kentucky",15111,368794
+86,"Webster County,West Virginia","Muhlenberg County,Kentucky",25978,731402
+87,"Webster County,West Virginia","Nelson County,Kentucky",20028,551138
+88,"Webster County,West Virginia","Nicholas County,Kentucky",16707,427438
+89,"Webster County,West Virginia","Ohio County,Kentucky",24891,698991
+90,"Webster County,West Virginia","Oldham County,Kentucky",20180,567376
+91,"Webster County,West Virginia","Owen County,Kentucky",19235,523020
+92,"Webster County,West Virginia","Owsley County,Kentucky",19200,457043
+93,"Webster County,West Virginia","Pendleton County,Kentucky",18479,462439
+94,"Webster County,West Virginia","Perry County,Kentucky",17586,445043
+95,"Webster County,West Virginia","Pike County,Kentucky",14580,347543
+96,"Webster County,West Virginia","Powell County,Kentucky",16473,429301
+97,"Webster County,West Virginia","Robertson County,Kentucky",16625,426944
+98,"Webster County,West Virginia","Rockcastle County,Kentucky",18808,499492
+99,"Webster County,West Virginia","Rowan County,Kentucky",13359,353222
+100,"Webster County,West Virginia","Russell County,Kentucky",22374,590778
+101,"Webster County,West Virginia","Scott County,Kentucky",17210,475353
+102,"Webster County,West Virginia","Shelby County,Kentucky",19037,526629
+103,"Webster County,West Virginia","Simpson County,Kentucky",26089,735808
+104,"Webster County,West Virginia","Spencer County,Kentucky",19567,532477
+105,"Webster County,West Virginia","Taylor County,Kentucky",21710,583562
+106,"Webster County,West Virginia","Todd County,Kentucky",27744,751911
+107,"Webster County,West Virginia","Trigg County,Kentucky",28722,811643
+108,"Webster County,West Virginia","Trimble County,Kentucky",21254,573416
+109,"Webster County,West Virginia","Union County,Kentucky",29316,813831
+110,"Webster County,West Virginia","Warren County,Kentucky",25124,700756
+111,"Webster County,West Virginia","Washington County,Kentucky",20038,536374
+112,"Webster County,West Virginia","Wayne County,Kentucky",22550,587850
+113,"Webster County,West Virginia","Webster County,Kentucky",28227,793015
+114,"Webster County,West Virginia","Whitley County,Kentucky",21068,579252
+115,"Webster County,West Virginia","Wolfe County,Kentucky",16205,392156
+116,"Webster County,West Virginia","Woodford County,Kentucky",17430,477989
+117,"Webster County,West Virginia","Adams County,Ohio",15982,403617
+118,"Webster County,West Virginia","Allen County,Ohio",22428,577833
+119,"Webster County,West Virginia","Ashland County,Ohio",20187,440529
+120,"Webster County,West Virginia","Ashtabula County,Ohio",18842,511755
+121,"Webster County,West Virginia","Athens County,Ohio",12188,302944
+122,"Webster County,West Virginia","Auglaize County,Ohio",21964,595734
+123,"Webster County,West Virginia","Belmont County,Ohio",13292,339308
+124,"Webster County,West Virginia","Brown County,Ohio",17227,430544
+125,"Webster County,West Virginia","Butler County,Ohio",20340,512570
+126,"Webster County,West Virginia","Carroll County,Ohio",16237,375167
+127,"Webster County,West Virginia","Champaign County,Ohio",19268,497831
+128,"Webster County,West Virginia","Clark County,Ohio",17948,457376
+129,"Webster County,West Virginia","Clermont County,Ohio",18061,461641
+130,"Webster County,West Virginia","Clinton County,Ohio",17452,445057
+131,"Webster County,West Virginia","Columbiana County,Ohio",15446,363688
+132,"Webster County,West Virginia","Coshocton County,Ohio",16502,358354
+133,"Webster County,West Virginia","Crawford County,Ohio",20863,537814
+134,"Webster County,West Virginia","Cuyahoga County,Ohio",18838,509599
+135,"Webster County,West Virginia","Darke County,Ohio",21062,552781
+136,"Webster County,West Virginia","Defiance County,Ohio",25864,656154
+137,"Webster County,West Virginia","Delaware County,Ohio",18017,470551
+138,"Webster County,West Virginia","Fairfield County,Ohio",15548,397645
+139,"Webster County,West Virginia","Fayette County,Ohio",16015,415521
+140,"Webster County,West Virginia","Franklin County,Ohio",16548,427500
+141,"Webster County,West Virginia","Fulton County,Ohio",25509,715414
+142,"Webster County,West Virginia","Gallia County,Ohio",11329,274633
+143,"Webster County,West Virginia","Geauga County,Ohio",18332,484418
+144,"Webster County,West Virginia","Greene County,Ohio",16886,448674
+145,"Webster County,West Virginia","Guernsey County,Ohio",14052,296273
+146,"Webster County,West Virginia","Hamilton County,Ohio",19841,523148
+147,"Webster County,West Virginia","Hancock County,Ohio",22041,578906
+148,"Webster County,West Virginia","Hardin County,Ohio",20939,533662
+149,"Webster County,West Virginia","Harrison County,Ohio",15252,378023
+150,"Webster County,West Virginia","Henry County,Ohio",24753,650528
+151,"Webster County,West Virginia","Highland County,Ohio",16520,403631
+152,"Webster County,West Virginia","Hocking County,Ohio",13990,353608
+153,"Webster County,West Virginia","Holmes County,Ohio",17561,381238
+154,"Webster County,West Virginia","Huron County,Ohio",22084,482157
+155,"Webster County,West Virginia","Jackson County,Ohio",12506,314182
+156,"Webster County,West Virginia","Jefferson County,Ohio",14193,338658
+157,"Webster County,West Virginia","Knox County,Ohio",18290,400830
+158,"Webster County,West Virginia","Lawrence County,Ohio",12031,280396
+159,"Webster County,West Virginia","Licking County,Ohio",17493,424655
+160,"Webster County,West Virginia","Logan County,Ohio",19960,527939
+161,"Webster County,West Virginia","Lorain County,Ohio",19890,539320
+162,"Webster County,West Virginia","Lucas County,Ohio",24464,668264
+163,"Webster County,West Virginia","Madison County,Ohio",17717,438606
+164,"Webster County,West Virginia","Mahoning County,Ohio",15329,401747
+165,"Webster County,West Virginia","Marion County,Ohio",19424,496644
+166,"Webster County,West Virginia","Medina County,Ohio",19576,458672
+167,"Webster County,West Virginia","Meigs County,Ohio",11068,273915
+168,"Webster County,West Virginia","Mercer County,Ohio",23200,622668
+169,"Webster County,West Virginia","Miami County,Ohio",19551,518173
+170,"Webster County,West Virginia","Monroe County,Ohio",13321,295607
+171,"Webster County,West Virginia","Montgomery County,Ohio",18920,496129
+172,"Webster County,West Virginia","Morgan County,Ohio",13941,267435
+173,"Webster County,West Virginia","Morrow County,Ohio",18825,493372
+174,"Webster County,West Virginia","Muskingum County,Ohio",14898,324264
+175,"Webster County,West Virginia","Noble County,Ohio",13494,268624
+176,"Webster County,West Virginia","Paulding County,Ohio",24965,653739
+177,"Webster County,West Virginia","Perry County,Ohio",15405,368365
+178,"Webster County,West Virginia","Pickaway County,Ohio",15456,395620
+179,"Webster County,West Virginia","Pike County,Ohio",13952,353489
+180,"Webster County,West Virginia","Portage County,Ohio",17183,457761
+181,"Webster County,West Virginia","Preble County,Ohio",20539,524707
+182,"Webster County,West Virginia","Putnam County,Ohio",23551,610191
+183,"Webster County,West Virginia","Richland County,Ohio",19855,528610
+184,"Webster County,West Virginia","Ross County,Ohio",14200,361926
+185,"Webster County,West Virginia","Sandusky County,Ohio",22751,626838
+186,"Webster County,West Virginia","Scioto County,Ohio",13836,337669
+187,"Webster County,West Virginia","Seneca County,Ohio",22414,571486
+188,"Webster County,West Virginia","Shelby County,Ohio",20589,554459
+189,"Webster County,West Virginia","Stark County,Ohio",17726,402472
+190,"Webster County,West Virginia","Summit County,Ohio",18078,486355
+191,"Webster County,West Virginia","Trumbull County,Ohio",16486,439211
+192,"Webster County,West Virginia","Tuscarawas County,Ohio",15926,343059
+193,"Webster County,West Virginia","Union County,Ohio",18464,478170
+194,"Webster County,West Virginia","Van Wert County,Ohio",23662,620703
+195,"Webster County,West Virginia","Vinton County,Ohio",14132,336772
+196,"Webster County,West Virginia","Warren County,Ohio",18257,479116
+197,"Webster County,West Virginia","Washington County,Ohio",12353,226561
+198,"Webster County,West Virginia","Wayne County,Ohio",18697,405350
+199,"Webster County,West Virginia","Williams County,Ohio",26754,746870
+200,"Webster County,West Virginia","Wood County,Ohio",23439,620514
+201,"Webster County,West Virginia","Wyandot County,Ohio",21010,543042
+202,"Webster County,West Virginia","Accomack County,Virginia",27439,658639
+203,"Webster County,West Virginia","Albemarle County,Virginia",13588,271139
+204,"Webster County,West Virginia","Alleghany County,Virginia",9296,186098
+205,"Webster County,West Virginia","Amelia County,Virginia",18642,402957
+206,"Webster County,West Virginia","Amherst County,Virginia",14625,317064
+207,"Webster County,West Virginia","Appomattox County,Virginia",16218,355823
+208,"Webster County,West Virginia","Arlington County,Virginia",18482,432980
+209,"Webster County,West Virginia","Augusta County,Virginia",11624,217579
+210,"Webster County,West Virginia","Bath County,Virginia",10614,187308
+211,"Webster County,West Virginia","Bedford County,Virginia",15283,321084
+212,"Webster County,West Virginia","Bland County,Virginia",10469,237516
+213,"Webster County,West Virginia","Botetourt County,Virginia",12451,257398
+214,"Webster County,West Virginia","Brunswick County,Virginia",21273,505267
+215,"Webster County,West Virginia","Buchanan County,Virginia",14463,321745
+216,"Webster County,West Virginia","Buckingham County,Virginia",16501,366758
+217,"Webster County,West Virginia","Campbell County,Virginia",16142,358295
+218,"Webster County,West Virginia","Caroline County,Virginia",18927,439984
+219,"Webster County,West Virginia","Carroll County,Virginia",12714,306953
+220,"Webster County,West Virginia","Charles City County,Virginia",19028,437019
+221,"Webster County,West Virginia","Charlotte County,Virginia",18103,409344
+222,"Webster County,West Virginia","Chesterfield County,Virginia",18164,414803
+223,"Webster County,West Virginia","Clarke County,Virginia",15977,359729
+224,"Webster County,West Virginia","Craig County,Virginia",12617,239006
+225,"Webster County,West Virginia","Culpeper County,Virginia",17385,360355
+226,"Webster County,West Virginia","Cumberland County,Virginia",17631,361495
+227,"Webster County,West Virginia","Dickenson County,Virginia",17144,361850
+228,"Webster County,West Virginia","Dinwiddie County,Virginia",19911,465234
+229,"Webster County,West Virginia","Essex County,Virginia",20745,464027
+230,"Webster County,West Virginia","Fairfax County,Virginia",18105,423256
+231,"Webster County,West Virginia","Fauquier County,Virginia",16415,380980
+232,"Webster County,West Virginia","Floyd County,Virginia",14335,325918
+233,"Webster County,West Virginia","Fluvanna County,Virginia",15266,323310
+234,"Webster County,West Virginia","Franklin County,Virginia",15451,336507
+235,"Webster County,West Virginia","Frederick County,Virginia",14496,323534
+236,"Webster County,West Virginia","Giles County,Virginia",11200,249074
+237,"Webster County,West Virginia","Gloucester County,Virginia",21199,491207
+238,"Webster County,West Virginia","Goochland County,Virginia",16170,353921
+239,"Webster County,West Virginia","Grayson County,Virginia",13117,296661
+240,"Webster County,West Virginia","Greene County,Virginia",15211,286490
+241,"Webster County,West Virginia","Greensville County,Virginia",21327,513986
+242,"Webster County,West Virginia","Halifax County,Virginia",19463,430002
+243,"Webster County,West Virginia","Hanover County,Virginia",17376,395028
+244,"Webster County,West Virginia","Henrico County,Virginia",17887,407988
+245,"Webster County,West Virginia","Henry County,Virginia",16588,393674
+246,"Webster County,West Virginia","Highland County,Virginia",8171,151380
+247,"Webster County,West Virginia","Isle of Wight County,Virginia",22140,512565
+248,"Webster County,West Virginia","James City County,Virginia",20264,477790
+249,"Webster County,West Virginia","King and Queen County,Virginia",19922,453374
+250,"Webster County,West Virginia","King George County,Virginia",20041,467970
+251,"Webster County,West Virginia","King William County,Virginia",18610,423296
+252,"Webster County,West Virginia","Lancaster County,Virginia",22402,506381
+253,"Webster County,West Virginia","Lee County,Virginia",18751,429943
+254,"Webster County,West Virginia","Loudoun County,Virginia",17473,395595
+255,"Webster County,West Virginia","Louisa County,Virginia",15827,337016
+256,"Webster County,West Virginia","Lunenburg County,Virginia",19875,450628
+257,"Webster County,West Virginia","Madison County,Virginia",16501,336463
+258,"Webster County,West Virginia","Mathews County,Virginia",22023,514631
+259,"Webster County,West Virginia","Mecklenburg County,Virginia",20866,463752
+260,"Webster County,West Virginia","Middlesex County,Virginia",20800,487407
+261,"Webster County,West Virginia","Montgomery County,Virginia",12283,277081
+262,"Webster County,West Virginia","Nelson County,Virginia",14468,289639
+263,"Webster County,West Virginia","New Kent County,Virginia",19700,451704
+264,"Webster County,West Virginia","Northampton County,Virginia",24681,594453
+265,"Webster County,West Virginia","Northumberland County,Virginia",22442,504894
+266,"Webster County,West Virginia","Nottoway County,Virginia",19368,451008
+267,"Webster County,West Virginia","Orange County,Virginia",16789,345124
+268,"Webster County,West Virginia","Page County,Virginia",14916,293948
+269,"Webster County,West Virginia","Patrick County,Virginia",14820,351989
+270,"Webster County,West Virginia","Pittsylvania County,Virginia",17876,386456
+271,"Webster County,West Virginia","Powhatan County,Virginia",17423,379143
+272,"Webster County,West Virginia","Prince Edward County,Virginia",17983,408343
+273,"Webster County,West Virginia","Prince George County,Virginia",19675,451818
+274,"Webster County,West Virginia","Prince William County,Virginia",16515,387084
+275,"Webster County,West Virginia","Pulaski County,Virginia",12378,273412
+276,"Webster County,West Virginia","Rappahannock County,Virginia",16746,330430
+277,"Webster County,West Virginia","Richmond County,Virginia",21142,477537
+278,"Webster County,West Virginia","Roanoke County,Virginia",13809,295424
+279,"Webster County,West Virginia","Rockbridge County,Virginia",11629,254454
+280,"Webster County,West Virginia","Rockingham County,Virginia",12668,241903
+281,"Webster County,West Virginia","Russell County,Virginia",14277,317696
+282,"Webster County,West Virginia","Scott County,Virginia",16941,385823
+283,"Webster County,West Virginia","Shenandoah County,Virginia",14459,296397
+284,"Webster County,West Virginia","Smyth County,Virginia",12826,302868
+285,"Webster County,West Virginia","Southampton County,Virginia",21705,510100
+286,"Webster County,West Virginia","Spotsylvania County,Virginia",17843,378855
+287,"Webster County,West Virginia","Stafford County,Virginia",19035,444986
+288,"Webster County,West Virginia","Surry County,Virginia",21007,476651
+289,"Webster County,West Virginia","Sussex County,Virginia",20369,480343
+290,"Webster County,West Virginia","Tazewell County,Virginia",11284,256103
+291,"Webster County,West Virginia","Warren County,Virginia",15056,328781
+292,"Webster County,West Virginia","Washington County,Virginia",14220,342334
+293,"Webster County,West Virginia","Westmoreland County,Virginia",21015,484795
+294,"Webster County,West Virginia","Wise County,Virginia",16943,413403
+295,"Webster County,West Virginia","Wythe County,Virginia",11074,255733
+296,"Webster County,West Virginia","York County,Virginia",21552,508564
+297,"Webster County,West Virginia","Alexandria City County,Virginia",18685,445626
+298,"Webster County,West Virginia","Bedford City County,Virginia",14315,304231
+299,"Webster County,West Virginia","Bristol City County,Virginia",14695,368052
+300,"Webster County,West Virginia","Buena Vista City County,Virginia",11984,268432
+301,"Webster County,West Virginia","Charlottesville City County,Virginia",14057,286353
+302,"Webster County,West Virginia","Chesapeake City County,Virginia",23015,561470
+303,"Webster County,West Virginia","Clifton Forge City County,Virginia",9840,206305
+304,"Webster County,West Virginia","Colonial Heights City County,Virginia",18724,430695
+305,"Webster County,West Virginia","Covington City County,Virginia",9365,189684
+306,"Webster County,West Virginia","Danville City County,Virginia",18745,448130
+307,"Webster County,West Virginia","Emporia City County,Virginia",21035,500579
+308,"Webster County,West Virginia","Fairfax City County,Virginia",17648,412831
+309,"Webster County,West Virginia","Falls Church City County,Virginia",17980,427304
+310,"Webster County,West Virginia","Franklin City County,Virginia",22252,517955
+311,"Webster County,West Virginia","Fredericksburg City County,Virginia",18976,388514
+312,"Webster County,West Virginia","Galax City County,Virginia",13338,312819
+313,"Webster County,West Virginia","Hampton City County,Virginia",21502,518271
+314,"Webster County,West Virginia","Harrisonburg City County,Virginia",12506,237064
+315,"Webster County,West Virginia","Hopewell City County,Virginia",18760,429661
+316,"Webster County,West Virginia","Lexington City County,Virginia",11618,256923
+317,"Webster County,West Virginia","Lynchburg City County,Virginia",15201,332038
+318,"Webster County,West Virginia","Manassas City County,Virginia",16743,392029
+319,"Webster County,West Virginia","Manassas Park City County,Virginia",17245,398372
+320,"Webster County,West Virginia","Martinsville City County,Virginia",17013,366571
+321,"Webster County,West Virginia","Newport News City County,Virginia",21058,504756
+322,"Webster County,West Virginia","Norfolk City County,Virginia",22808,543686
+323,"Webster County,West Virginia","Norton City County,Virginia",16579,380922
+324,"Webster County,West Virginia","Petersburg City County,Virginia",18595,431683
+325,"Webster County,West Virginia","Poquoson City County,Virginia",21730,515333
+326,"Webster County,West Virginia","Portsmouth City County,Virginia",22747,552507
+327,"Webster County,West Virginia","Radford County,Virginia",12690,275121
+328,"Webster County,West Virginia","Richmond City County,Virginia",17463,395798
+329,"Webster County,West Virginia","Roanoke City County,Virginia",13347,286866
+330,"Webster County,West Virginia","Salem City County,Virginia",13177,285337
+331,"Webster County,West Virginia","South Boston City County,Virginia",19466,428820
+332,"Webster County,West Virginia","Staunton City County,Virginia",11765,218268
+333,"Webster County,West Virginia","Suffolk City County,Virginia",22982,527289
+334,"Webster County,West Virginia","Virginia Beach City County,Virginia",23369,566945
+335,"Webster County,West Virginia","Waynesboro City County,Virginia",12719,241249
+336,"Webster County,West Virginia","Williamsburg City County,Virginia",20103,477005
+337,"Webster County,West Virginia","Winchester City County,Virginia",15034,331680
+338,"Webster County,West Virginia","Barbour County,West Virginia",7802,129113
+339,"Webster County,West Virginia","Berkeley County,West Virginia",16074,408575
+340,"Webster County,West Virginia","Boone County,West Virginia",10754,236691
+341,"Webster County,West Virginia","Braxton County,West Virginia",5161,72922
+342,"Webster County,West Virginia","Brooke County,West Virginia",12499,302209
+343,"Webster County,West Virginia","Cabell County,West Virginia",10348,253600
+344,"Webster County,West Virginia","Calhoun County,West Virginia",7485,144753
+345,"Webster County,West Virginia","Clay County,West Virginia",7133,109442
+346,"Webster County,West Virginia","Doddridge County,West Virginia",8345,147271
+347,"Webster County,West Virginia","Fayette County,West Virginia",5974,107165
+348,"Webster County,West Virginia","Gilmer County,West Virginia",6399,111075
+349,"Webster County,West Virginia","Grant County,West Virginia",10350,207700
+350,"Webster County,West Virginia","Greenbrier County,West Virginia",8538,130230
+351,"Webster County,West Virginia","Hampshire County,West Virginia",13733,281232
+352,"Webster County,West Virginia","Hancock County,West Virginia",14126,329556
+353,"Webster County,West Virginia","Hardy County,West Virginia",11630,222029
+354,"Webster County,West Virginia","Harrison County,West Virginia",7374,156786
+355,"Webster County,West Virginia","Jackson County,West Virginia",9599,190027
+356,"Webster County,West Virginia","Jefferson County,West Virginia",17135,367567
+357,"Webster County,West Virginia","Kanawha County,West Virginia",8359,138087
+358,"Webster County,West Virginia","Lewis County,West Virginia",6004,110256
+359,"Webster County,West Virginia","Lincoln County,West Virginia",11012,231278
+360,"Webster County,West Virginia","Logan County,West Virginia",11684,273809
+361,"Webster County,West Virginia","McDowell County,West Virginia",12058,231775
+362,"Webster County,West Virginia","Marion County,West Virginia",8520,183953
+363,"Webster County,West Virginia","Marshall County,West Virginia",13486,296653
+364,"Webster County,West Virginia","Mason County,West Virginia",9823,239506
+365,"Webster County,West Virginia","Mercer County,West Virginia",9022,196022
+366,"Webster County,West Virginia","Mineral County,West Virginia",12506,248598
+367,"Webster County,West Virginia","Mingo County,West Virginia",11729,278317
+368,"Webster County,West Virginia","Monongalia County,West Virginia",8730,209422
+369,"Webster County,West Virginia","Monroe County,West Virginia",10146,191298
+370,"Webster County,West Virginia","Morgan County,West Virginia",15565,397966
+371,"Webster County,West Virginia","Nicholas County,West Virginia",4021,64054
+372,"Webster County,West Virginia","Ohio County,West Virginia",12406,311155
+373,"Webster County,West Virginia","Pendleton County,West Virginia",9333,182334
+374,"Webster County,West Virginia","Pleasants County,West Virginia",10173,232926
+375,"Webster County,West Virginia","Pocahontas County,West Virginia",6077,91416
+376,"Webster County,West Virginia","Preston County,West Virginia",10926,204055
+377,"Webster County,West Virginia","Putnam County,West Virginia",8605,205125
+378,"Webster County,West Virginia","Raleigh County,West Virginia",7563,149715
+379,"Webster County,West Virginia","Randolph County,West Virginia",6117,100954
+380,"Webster County,West Virginia","Ritchie County,West Virginia",9075,157720
+381,"Webster County,West Virginia","Roane County,West Virginia",9079,168507
+382,"Webster County,West Virginia","Summers County,West Virginia",10619,182005
+383,"Webster County,West Virginia","Taylor County,West Virginia",8412,179526
+384,"Webster County,West Virginia","Tucker County,West Virginia",8248,146178
+385,"Webster County,West Virginia","Tyler County,West Virginia",11099,225593
+386,"Webster County,West Virginia","Upshur County,West Virginia",5580,88344
+387,"Webster County,West Virginia","Wayne County,West Virginia",11939,286226
+388,"Webster County,West Virginia","Wetzel County,West Virginia",10054,208268
+389,"Webster County,West Virginia","Wirt County,West Virginia",9359,177949
+390,"Webster County,West Virginia","Wood County,West Virginia",10672,192439
+391,"Webster County,West Virginia","Wyoming County,West Virginia",9508,189657

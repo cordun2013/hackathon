@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Hampshire County,West Virginia","Adair County,Kentucky",30618,858597
+1,"Hampshire County,West Virginia","Allen County,Kentucky",33237,959245
+2,"Hampshire County,West Virginia","Anderson County,Kentucky",26418,761636
+3,"Hampshire County,West Virginia","Ballard County,Kentucky",39397,1151407
+4,"Hampshire County,West Virginia","Barren County,Kentucky",32364,917625
+5,"Hampshire County,West Virginia","Bath County,Kentucky",22065,632817
+6,"Hampshire County,West Virginia","Bell County,Kentucky",26570,692494
+7,"Hampshire County,West Virginia","Boone County,Kentucky",25485,709400
+8,"Hampshire County,West Virginia","Bourbon County,Kentucky",23979,679235
+9,"Hampshire County,West Virginia","Boyd County,Kentucky",18741,527142
+10,"Hampshire County,West Virginia","Boyle County,Kentucky",27647,765523
+11,"Hampshire County,West Virginia","Bracken County,Kentucky",24390,673318
+12,"Hampshire County,West Virginia","Breathitt County,Kentucky",25452,673844
+13,"Hampshire County,West Virginia","Breckinridge County,Kentucky",31951,914317
+14,"Hampshire County,West Virginia","Bullitt County,Kentucky",28521,835437
+15,"Hampshire County,West Virginia","Butler County,Kentucky",32616,936315
+16,"Hampshire County,West Virginia","Caldwell County,Kentucky",35508,1042261
+17,"Hampshire County,West Virginia","Calloway County,Kentucky",38318,1127253
+18,"Hampshire County,West Virginia","Campbell County,Kentucky",25403,707885
+19,"Hampshire County,West Virginia","Carlisle County,Kentucky",39854,1166776
+20,"Hampshire County,West Virginia","Carroll County,Kentucky",27059,771165
+21,"Hampshire County,West Virginia","Carter County,Kentucky",19905,557239
+22,"Hampshire County,West Virginia","Casey County,Kentucky",29142,797028
+23,"Hampshire County,West Virginia","Christian County,Kentucky",35157,1037517
+24,"Hampshire County,West Virginia","Clay County,Kentucky",27951,760958
+25,"Hampshire County,West Virginia","Clinton County,Kentucky",31026,861963
+26,"Hampshire County,West Virginia","Crittenden County,Kentucky",37088,1075331
+27,"Hampshire County,West Virginia","Cumberland County,Kentucky",31780,880202
+28,"Hampshire County,West Virginia","Daviess County,Kentucky",33639,982758
+29,"Hampshire County,West Virginia","Edmonson County,Kentucky",32056,924190
+30,"Hampshire County,West Virginia","Elliott County,Kentucky",21236,583009
+31,"Hampshire County,West Virginia","Estill County,Kentucky",25058,695133
+32,"Hampshire County,West Virginia","Fayette County,Kentucky",24225,699129
+33,"Hampshire County,West Virginia","Fleming County,Kentucky",22491,636003
+34,"Hampshire County,West Virginia","Floyd County,Kentucky",22874,634407
+35,"Hampshire County,West Virginia","Franklin County,Kentucky",26263,748045
+36,"Hampshire County,West Virginia","Fulton County,Kentucky",40258,1187740
+37,"Hampshire County,West Virginia","Gallatin County,Kentucky",26270,743578
+38,"Hampshire County,West Virginia","Garrard County,Kentucky",26830,746283
+39,"Hampshire County,West Virginia","Grant County,Kentucky",26337,744052
+40,"Hampshire County,West Virginia","Graves County,Kentucky",38878,1139482
+41,"Hampshire County,West Virginia","Grayson County,Kentucky",30944,892951
+42,"Hampshire County,West Virginia","Green County,Kentucky",30723,858156
+43,"Hampshire County,West Virginia","Greenup County,Kentucky",20516,568268
+44,"Hampshire County,West Virginia","Hancock County,Kentucky",32747,947211
+45,"Hampshire County,West Virginia","Hardin County,Kentucky",29820,855084
+46,"Hampshire County,West Virginia","Harlan County,Kentucky",25645,669120
+47,"Hampshire County,West Virginia","Harrison County,Kentucky",25550,712334
+48,"Hampshire County,West Virginia","Hart County,Kentucky",30619,882712
+49,"Hampshire County,West Virginia","Henderson County,Kentucky",35446,1035187
+50,"Hampshire County,West Virginia","Henry County,Kentucky",27864,791764
+51,"Hampshire County,West Virginia","Hickman County,Kentucky",39887,1168068
+52,"Hampshire County,West Virginia","Hopkins County,Kentucky",34967,1016729
+53,"Hampshire County,West Virginia","Jackson County,Kentucky",27730,743141
+54,"Hampshire County,West Virginia","Jefferson County,Kentucky",27958,807297
+55,"Hampshire County,West Virginia","Jessamine County,Kentucky",25694,720593
+56,"Hampshire County,West Virginia","Johnson County,Kentucky",21522,600038
+57,"Hampshire County,West Virginia","Kenton County,Kentucky",25130,702958
+58,"Hampshire County,West Virginia","Knott County,Kentucky",24056,666289
+59,"Hampshire County,West Virginia","Knox County,Kentucky",27900,734486
+60,"Hampshire County,West Virginia","Larue County,Kentucky",29891,842260
+61,"Hampshire County,West Virginia","Laurel County,Kentucky",28085,796570
+62,"Hampshire County,West Virginia","Lawrence County,Kentucky",20664,571462
+63,"Hampshire County,West Virginia","Lee County,Kentucky",25903,688869
+64,"Hampshire County,West Virginia","Leslie County,Kentucky",27107,697400
+65,"Hampshire County,West Virginia","Letcher County,Kentucky",24135,634554
+66,"Hampshire County,West Virginia","Lewis County,Kentucky",21944,609057
+67,"Hampshire County,West Virginia","Lincoln County,Kentucky",27540,763201
+68,"Hampshire County,West Virginia","Livingston County,Kentucky",37684,1092228
+69,"Hampshire County,West Virginia","Logan County,Kentucky",34357,979554
+70,"Hampshire County,West Virginia","Lyon County,Kentucky",37817,1102618
+71,"Hampshire County,West Virginia","McCracken County,Kentucky",38009,1119467
+72,"Hampshire County,West Virginia","McCreary County,Kentucky",29524,827248
+73,"Hampshire County,West Virginia","Madison County,Kentucky",25223,710152
+74,"Hampshire County,West Virginia","Magoffin County,Kentucky",22490,620717
+75,"Hampshire County,West Virginia","Marion County,Kentucky",28269,803869
+76,"Hampshire County,West Virginia","Marshall County,Kentucky",37423,1103039
+77,"Hampshire County,West Virginia","Martin County,Kentucky",22150,603807
+78,"Hampshire County,West Virginia","Mason County,Kentucky",23739,652863
+79,"Hampshire County,West Virginia","Meade County,Kentucky",30418,879612
+80,"Hampshire County,West Virginia","Menifee County,Kentucky",23182,644881
+81,"Hampshire County,West Virginia","Mercer County,Kentucky",26646,759580
+82,"Hampshire County,West Virginia","Metcalfe County,Kentucky",31274,888862
+83,"Hampshire County,West Virginia","Monroe County,Kentucky",33244,926366
+84,"Hampshire County,West Virginia","Montgomery County,Kentucky",22878,651358
+85,"Hampshire County,West Virginia","Morgan County,Kentucky",22960,620597
+86,"Hampshire County,West Virginia","Muhlenberg County,Kentucky",33827,983205
+87,"Hampshire County,West Virginia","Nelson County,Kentucky",27877,802941
+88,"Hampshire County,West Virginia","Nicholas County,Kentucky",24556,679241
+89,"Hampshire County,West Virginia","Ohio County,Kentucky",32740,950794
+90,"Hampshire County,West Virginia","Oldham County,Kentucky",28029,819179
+91,"Hampshire County,West Virginia","Owen County,Kentucky",27085,774823
+92,"Hampshire County,West Virginia","Owsley County,Kentucky",27049,708846
+93,"Hampshire County,West Virginia","Pendleton County,Kentucky",26328,714242
+94,"Hampshire County,West Virginia","Perry County,Kentucky",25435,696846
+95,"Hampshire County,West Virginia","Pike County,Kentucky",22429,599346
+96,"Hampshire County,West Virginia","Powell County,Kentucky",24322,681104
+97,"Hampshire County,West Virginia","Robertson County,Kentucky",24474,678747
+98,"Hampshire County,West Virginia","Rockcastle County,Kentucky",26657,751295
+99,"Hampshire County,West Virginia","Rowan County,Kentucky",21208,605025
+100,"Hampshire County,West Virginia","Russell County,Kentucky",30223,842581
+101,"Hampshire County,West Virginia","Scott County,Kentucky",25060,727156
+102,"Hampshire County,West Virginia","Shelby County,Kentucky",26887,778432
+103,"Hampshire County,West Virginia","Simpson County,Kentucky",33938,987611
+104,"Hampshire County,West Virginia","Spencer County,Kentucky",27416,784280
+105,"Hampshire County,West Virginia","Taylor County,Kentucky",29559,835365
+106,"Hampshire County,West Virginia","Todd County,Kentucky",35593,1003714
+107,"Hampshire County,West Virginia","Trigg County,Kentucky",36571,1063446
+108,"Hampshire County,West Virginia","Trimble County,Kentucky",27958,794489
+109,"Hampshire County,West Virginia","Union County,Kentucky",37165,1065634
+110,"Hampshire County,West Virginia","Warren County,Kentucky",32973,952559
+111,"Hampshire County,West Virginia","Washington County,Kentucky",27887,788177
+112,"Hampshire County,West Virginia","Wayne County,Kentucky",30399,839653
+113,"Hampshire County,West Virginia","Webster County,Kentucky",36076,1044818
+114,"Hampshire County,West Virginia","Whitley County,Kentucky",28128,812010
+115,"Hampshire County,West Virginia","Wolfe County,Kentucky",24055,643959
+116,"Hampshire County,West Virginia","Woodford County,Kentucky",25279,729792
+117,"Hampshire County,West Virginia","Adams County,Ohio",21329,566246
+118,"Hampshire County,West Virginia","Allen County,Ohio",24308,647861
+119,"Hampshire County,West Virginia","Ashland County,Ohio",18857,474550
+120,"Hampshire County,West Virginia","Ashtabula County,Ohio",16895,430463
+121,"Hampshire County,West Virginia","Athens County,Ohio",15725,413756
+122,"Hampshire County,West Virginia","Auglaize County,Ohio",24012,672048
+123,"Hampshire County,West Virginia","Belmont County,Ohio",12633,328815
+124,"Hampshire County,West Virginia","Brown County,Ohio",22754,599106
+125,"Hampshire County,West Virginia","Butler County,Ohio",24482,666779
+126,"Hampshire County,West Virginia","Carroll County,Ohio",15411,342683
+127,"Hampshire County,West Virginia","Champaign County,Ohio",21756,586943
+128,"Hampshire County,West Virginia","Clark County,Ohio",20633,577514
+129,"Hampshire County,West Virginia","Clermont County,Ohio",23408,624270
+130,"Hampshire County,West Virginia","Clinton County,Ohio",22024,612796
+131,"Hampshire County,West Virginia","Columbiana County,Ohio",14198,324700
+132,"Hampshire County,West Virginia","Coshocton County,Ohio",16990,454265
+133,"Hampshire County,West Virginia","Crawford County,Ohio",20766,545744
+134,"Hampshire County,West Virginia","Cuyahoga County,Ohio",16891,428306
+135,"Hampshire County,West Virginia","Darke County,Ohio",24209,675416
+136,"Hampshire County,West Virginia","Defiance County,Ohio",25210,677270
+137,"Hampshire County,West Virginia","Delaware County,Ohio",19909,553262
+138,"Hampshire County,West Virginia","Fairfield County,Ohio",18004,490048
+139,"Hampshire County,West Virginia","Fayette County,Ohio",20661,574846
+140,"Hampshire County,West Virginia","Franklin County,Ohio",18605,517149
+141,"Hampshire County,West Virginia","Fulton County,Ohio",23562,634121
+142,"Hampshire County,West Virginia","Gallia County,Ohio",17608,453633
+143,"Hampshire County,West Virginia","Geauga County,Ohio",16385,403125
+144,"Hampshire County,West Virginia","Greene County,Ohio",21409,603012
+145,"Hampshire County,West Virginia","Guernsey County,Ohio",14536,392324
+146,"Hampshire County,West Virginia","Hamilton County,Ohio",23983,677357
+147,"Hampshire County,West Virginia","Hancock County,Ohio",22796,607825
+148,"Hampshire County,West Virginia","Hardin County,Ohio",22909,624184
+149,"Hampshire County,West Virginia","Harrison County,Ohio",14625,344901
+150,"Hampshire County,West Virginia","Henry County,Ohio",24016,623888
+151,"Hampshire County,West Virginia","Highland County,Ohio",21866,566260
+152,"Hampshire County,West Virginia","Hocking County,Ohio",17351,459660
+153,"Hampshire County,West Virginia","Holmes County,Ohio",18048,477149
+154,"Hampshire County,West Virginia","Huron County,Ohio",20134,504156
+155,"Hampshire County,West Virginia","Jackson County,Ohio",17853,476811
+156,"Hampshire County,West Virginia","Jefferson County,Ohio",13367,306175
+157,"Hampshire County,West Virginia","Knox County,Ohio",18778,496741
+158,"Hampshire County,West Virginia","Lawrence County,Ohio",19880,532198
+159,"Hampshire County,West Virginia","Licking County,Ohio",18164,477812
+160,"Hampshire County,West Virginia","Logan County,Ohio",21930,618461
+161,"Hampshire County,West Virginia","Lorain County,Ohio",17943,458027
+162,"Hampshire County,West Virginia","Lucas County,Ohio",22516,586971
+163,"Hampshire County,West Virginia","Madison County,Ohio",19882,551870
+164,"Hampshire County,West Virginia","Mahoning County,Ohio",13382,320455
+165,"Hampshire County,West Virginia","Marion County,Ohio",21315,579355
+166,"Hampshire County,West Virginia","Medina County,Ohio",17489,441670
+167,"Hampshire County,West Virginia","Meigs County,Ohio",15691,406334
+168,"Hampshire County,West Virginia","Mercer County,Ohio",25248,698982
+169,"Hampshire County,West Virginia","Miami County,Ohio",22720,640848
+170,"Hampshire County,West Virginia","Monroe County,Ohio",15065,375498
+171,"Hampshire County,West Virginia","Montgomery County,Ohio",22981,646294
+172,"Hampshire County,West Virginia","Morgan County,Ohio",16168,416103
+173,"Hampshire County,West Virginia","Morrow County,Ohio",20495,536003
+174,"Hampshire County,West Virginia","Muskingum County,Ohio",15382,420316
+175,"Hampshire County,West Virginia","Noble County,Ohio",15648,413630
+176,"Hampshire County,West Virginia","Paulding County,Ohio",26415,713258
+177,"Hampshire County,West Virginia","Perry County,Ohio",17481,468258
+178,"Hampshire County,West Virginia","Pickaway County,Ohio",19382,534726
+179,"Hampshire County,West Virginia","Pike County,Ohio",19299,516118
+180,"Hampshire County,West Virginia","Portage County,Ohio",15236,376468
+181,"Hampshire County,West Virginia","Preble County,Ohio",23751,669006
+182,"Hampshire County,West Virginia","Putnam County,Ohio",24994,667631
+183,"Hampshire County,West Virginia","Richland County,Ohio",19413,495978
+184,"Hampshire County,West Virginia","Ross County,Ohio",19579,524625
+185,"Hampshire County,West Virginia","Sandusky County,Ohio",20804,545546
+186,"Hampshire County,West Virginia","Scioto County,Ohio",19937,532189
+187,"Hampshire County,West Virginia","Seneca County,Ohio",21535,555218
+188,"Hampshire County,West Virginia","Shelby County,Ohio",23688,648708
+189,"Hampshire County,West Virginia","Stark County,Ohio",16016,372601
+190,"Hampshire County,West Virginia","Summit County,Ohio",16131,405063
+191,"Hampshire County,West Virginia","Trumbull County,Ohio",14539,357919
+192,"Hampshire County,West Virginia","Tuscarawas County,Ohio",16134,376185
+193,"Hampshire County,West Virginia","Union County,Ohio",20434,568692
+194,"Hampshire County,West Virginia","Van Wert County,Ohio",25105,678143
+195,"Hampshire County,West Virginia","Vinton County,Ohio",17843,462198
+196,"Hampshire County,West Virginia","Warren County,Ohio",22400,633325
+197,"Hampshire County,West Virginia","Washington County,Ohio",14506,371567
+198,"Hampshire County,West Virginia","Wayne County,Ohio",18595,460481
+199,"Hampshire County,West Virginia","Williams County,Ohio",24807,665577
+200,"Hampshire County,West Virginia","Wood County,Ohio",22702,593874
+201,"Hampshire County,West Virginia","Wyandot County,Ohio",21766,571961
+202,"Hampshire County,West Virginia","Accomack County,Virginia",19552,480585
+203,"Hampshire County,West Virginia","Albemarle County,Virginia",8792,215120
+204,"Hampshire County,West Virginia","Alleghany County,Virginia",11554,302128
+205,"Hampshire County,West Virginia","Amelia County,Virginia",13660,352691
+206,"Hampshire County,West Virginia","Amherst County,Virginia",11226,266026
+207,"Hampshire County,West Virginia","Appomattox County,Virginia",12440,290655
+208,"Hampshire County,West Virginia","Arlington County,Virginia",7378,169548
+209,"Hampshire County,West Virginia","Augusta County,Virginia",8230,192373
+210,"Hampshire County,West Virginia","Bath County,Virginia",10715,216420
+211,"Hampshire County,West Virginia","Bedford County,Virginia",13370,310542
+212,"Hampshire County,West Virginia","Bland County,Virginia",15836,431811
+213,"Hampshire County,West Virginia","Botetourt County,Virginia",10861,273064
+214,"Hampshire County,West Virginia","Brunswick County,Virginia",14963,403276
+215,"Hampshire County,West Virginia","Buchanan County,Virginia",21593,566270
+216,"Hampshire County,West Virginia","Buckingham County,Virginia",12101,280269
+217,"Hampshire County,West Virginia","Campbell County,Virginia",12588,306158
+218,"Hampshire County,West Virginia","Caroline County,Virginia",9960,253844
+219,"Hampshire County,West Virginia","Carroll County,Virginia",15958,437228
+220,"Hampshire County,West Virginia","Charles City County,Virginia",12429,325327
+221,"Hampshire County,West Virginia","Charlotte County,Virginia",14422,339154
+222,"Hampshire County,West Virginia","Chesterfield County,Virginia",12360,318244
+223,"Hampshire County,West Virginia","Clarke County,Virginia",3704,77022
+224,"Hampshire County,West Virginia","Craig County,Virginia",13702,329391
+225,"Hampshire County,West Virginia","Culpeper County,Virginia",7025,176460
+226,"Hampshire County,West Virginia","Cumberland County,Virginia",12835,305476
+227,"Hampshire County,West Virginia","Dickenson County,Virginia",22303,584448
+228,"Hampshire County,West Virginia","Dinwiddie County,Virginia",13600,363243
+229,"Hampshire County,West Virginia","Essex County,Virginia",11361,277898
+230,"Hampshire County,West Virginia","Fairfax County,Virginia",6802,156421
+231,"Hampshire County,West Virginia","Fauquier County,Virginia",5455,143187
+232,"Hampshire County,West Virginia","Floyd County,Virginia",14485,378775
+233,"Hampshire County,West Virginia","Fluvanna County,Virginia",10470,267291
+234,"Hampshire County,West Virginia","Franklin County,Virginia",13823,357219
+235,"Hampshire County,West Virginia","Frederick County,Virginia",2374,48272
+236,"Hampshire County,West Virginia","Giles County,Virginia",14625,386927
+237,"Hampshire County,West Virginia","Gloucester County,Virginia",14600,379515
+238,"Hampshire County,West Virginia","Goochland County,Virginia",11373,297902
+239,"Hampshire County,West Virginia","Grayson County,Virginia",17290,453407
+240,"Hampshire County,West Virginia","Greene County,Virginia",8406,176748
+241,"Hampshire County,West Virginia","Greensville County,Virginia",15016,411995
+242,"Hampshire County,West Virginia","Halifax County,Virginia",15908,377865
+243,"Hampshire County,West Virginia","Hanover County,Virginia",10778,283336
+244,"Hampshire County,West Virginia","Henrico County,Virginia",11577,305997
+245,"Hampshire County,West Virginia","Henry County,Virginia",15232,392181
+246,"Hampshire County,West Virginia","Highland County,Virginia",8612,162172
+247,"Hampshire County,West Virginia","Isle of Wight County,Virginia",15711,414586
+248,"Hampshire County,West Virginia","James City County,Virginia",13665,366098
+249,"Hampshire County,West Virginia","King and Queen County,Virginia",12413,313159
+250,"Hampshire County,West Virginia","King George County,Virginia",9882,237340
+251,"Hampshire County,West Virginia","King William County,Virginia",11378,290956
+252,"Hampshire County,West Virginia","Lancaster County,Virginia",13784,333892
+253,"Hampshire County,West Virginia","Lee County,Virginia",22797,616102
+254,"Hampshire County,West Virginia","Loudoun County,Virginia",5200,112889
+255,"Hampshire County,West Virginia","Louisa County,Virginia",9632,239835
+256,"Hampshire County,West Virginia","Lunenburg County,Virginia",15720,381874
+257,"Hampshire County,West Virginia","Madison County,Virginia",7448,164719
+258,"Hampshire County,West Virginia","Mathews County,Virginia",15495,378280
+259,"Hampshire County,West Virginia","Mecklenburg County,Virginia",16689,451548
+260,"Hampshire County,West Virginia","Middlesex County,Virginia",13865,341861
+261,"Hampshire County,West Virginia","Montgomery County,Virginia",13189,351198
+262,"Hampshire County,West Virginia","Nelson County,Virginia",9672,233620
+263,"Hampshire County,West Virginia","New Kent County,Virginia",13102,340012
+264,"Hampshire County,West Virginia","Northampton County,Virginia",18083,482761
+265,"Hampshire County,West Virginia","Northumberland County,Virginia",13824,332404
+266,"Hampshire County,West Virginia","Nottoway County,Virginia",14471,377824
+267,"Hampshire County,West Virginia","Orange County,Virginia",8366,210959
+268,"Hampshire County,West Virginia","Page County,Virginia",5988,133421
+269,"Hampshire County,West Virginia","Patrick County,Virginia",16604,415678
+270,"Hampshire County,West Virginia","Pittsylvania County,Virginia",15157,377786
+271,"Hampshire County,West Virginia","Powhatan County,Virginia",12627,323124
+272,"Hampshire County,West Virginia","Prince Edward County,Virginia",13642,334093
+273,"Hampshire County,West Virginia","Prince George County,Virginia",13246,353840
+274,"Hampshire County,West Virginia","Prince William County,Virginia",5554,149291
+275,"Hampshire County,West Virginia","Pulaski County,Virginia",13917,373831
+276,"Hampshire County,West Virginia","Rappahannock County,Virginia",5766,128325
+277,"Hampshire County,West Virginia","Richmond County,Virginia",12524,305048
+278,"Hampshire County,West Virginia","Roanoke County,Virginia",12180,316136
+279,"Hampshire County,West Virginia","Rockbridge County,Virginia",9603,239074
+280,"Hampshire County,West Virginia","Rockingham County,Virginia",4837,107729
+281,"Hampshire County,West Virginia","Russell County,Virginia",20759,549607
+282,"Hampshire County,West Virginia","Scott County,Virginia",21370,576830
+283,"Hampshire County,West Virginia","Shenandoah County,Virginia",4385,114134
+284,"Hampshire County,West Virginia","Smyth County,Virginia",16953,460552
+285,"Hampshire County,West Virginia","Southampton County,Virginia",15394,408109
+286,"Hampshire County,West Virginia","Spotsylvania County,Virginia",9071,218328
+287,"Hampshire County,West Virginia","Stafford County,Virginia",8074,207193
+288,"Hampshire County,West Virginia","Surry County,Virginia",14358,375534
+289,"Hampshire County,West Virginia","Sussex County,Virginia",14058,378352
+290,"Hampshire County,West Virginia","Tazewell County,Virginia",18414,500628
+291,"Hampshire County,West Virginia","Warren County,Virginia",4309,99682
+292,"Hampshire County,West Virginia","Washington County,Virginia",18346,500018
+293,"Hampshire County,West Virginia","Westmoreland County,Virginia",10850,256141
+294,"Hampshire County,West Virginia","Wise County,Virginia",22210,590950
+295,"Hampshire County,West Virginia","Wythe County,Virginia",15207,412537
+296,"Hampshire County,West Virginia","York County,Virginia",14953,396872
+297,"Hampshire County,West Virginia","Alexandria City County,Virginia",7713,186854
+298,"Hampshire County,West Virginia","Bedford City County,Virginia",12396,301881
+299,"Hampshire County,West Virginia","Bristol City County,Virginia",18821,525735
+300,"Hampshire County,West Virginia","Buena Vista City County,Virginia",9262,232339
+301,"Hampshire County,West Virginia","Charlottesville City County,Virginia",9261,230334
+302,"Hampshire County,West Virginia","Chesapeake City County,Virginia",16416,449778
+303,"Hampshire County,West Virginia","Clifton Forge City County,Virginia",10456,270946
+304,"Hampshire County,West Virginia","Colonial Heights City County,Virginia",12413,328704
+305,"Hampshire County,West Virginia","Covington City County,Virginia",11199,289288
+306,"Hampshire County,West Virginia","Danville City County,Virginia",15757,394128
+307,"Hampshire County,West Virginia","Emporia City County,Virginia",14724,398588
+308,"Hampshire County,West Virginia","Fairfax City County,Virginia",6687,175038
+309,"Hampshire County,West Virginia","Falls Church City County,Virginia",6876,163872
+310,"Hampshire County,West Virginia","Franklin City County,Virginia",15942,415964
+311,"Hampshire County,West Virginia","Fredericksburg City County,Virginia",8394,204035
+312,"Hampshire County,West Virginia","Galax City County,Virginia",16581,443094
+313,"Hampshire County,West Virginia","Hampton City County,Virginia",14903,406578
+314,"Hampshire County,West Virginia","Harrisonburg City County,Virginia",5895,126404
+315,"Hampshire County,West Virginia","Hopewell City County,Virginia",12177,328741
+316,"Hampshire County,West Virginia","Lexington City County,Virginia",9121,229317
+317,"Hampshire County,West Virginia","Lynchburg City County,Virginia",11774,286082
+318,"Hampshire County,West Virginia","Manassas City County,Virginia",5782,154236
+319,"Hampshire County,West Virginia","Manassas Park City County,Virginia",6284,160579
+320,"Hampshire County,West Virginia","Martinsville City County,Virginia",15385,387283
+321,"Hampshire County,West Virginia","Newport News City County,Virginia",14460,393064
+322,"Hampshire County,West Virginia","Norfolk City County,Virginia",16210,431994
+323,"Hampshire County,West Virginia","Norton City County,Virginia",21734,581840
+324,"Hampshire County,West Virginia","Petersburg City County,Virginia",12285,329692
+325,"Hampshire County,West Virginia","Poquoson City County,Virginia",15132,403641
+326,"Hampshire County,West Virginia","Portsmouth City County,Virginia",16149,440815
+327,"Hampshire County,West Virginia","Radford County,Virginia",13553,361042
+328,"Hampshire County,West Virginia","Richmond City County,Virginia",11153,293807
+329,"Hampshire County,West Virginia","Roanoke City County,Virginia",11719,307578
+330,"Hampshire County,West Virginia","Salem City County,Virginia",11548,306049
+331,"Hampshire County,West Virginia","South Boston City County,Virginia",15912,376683
+332,"Hampshire County,West Virginia","Staunton City County,Virginia",7483,174573
+333,"Hampshire County,West Virginia","Suffolk City County,Virginia",16554,429310
+334,"Hampshire County,West Virginia","Virginia Beach City County,Virginia",16770,455253
+335,"Hampshire County,West Virginia","Waynesboro City County,Virginia",7880,184424
+336,"Hampshire County,West Virginia","Williamsburg City County,Virginia",13504,365313
+337,"Hampshire County,West Virginia","Winchester City County,Virginia",2633,55547
+338,"Hampshire County,West Virginia","Barbour County,West Virginia",8599,170704
+339,"Hampshire County,West Virginia","Berkeley County,West Virginia",3611,71977
+340,"Hampshire County,West Virginia","Boone County,West Virginia",18603,488494
+341,"Hampshire County,West Virginia","Braxton County,West Virginia",13163,325115
+342,"Hampshire County,West Virginia","Brooke County,West Virginia",11840,291715
+343,"Hampshire County,West Virginia","Cabell County,West Virginia",18197,505403
+344,"Hampshire County,West Virginia","Calhoun County,West Virginia",14486,359783
+345,"Hampshire County,West Virginia","Clay County,West Virginia",14849,390140
+346,"Hampshire County,West Virginia","Doddridge County,West Virginia",11235,279035
+347,"Hampshire County,West Virginia","Fayette County,West Virginia",15629,410057
+348,"Hampshire County,West Virginia","Gilmer County,West Virginia",12967,324474
+349,"Hampshire County,West Virginia","Grant County,West Virginia",4038,86205
+350,"Hampshire County,West Virginia","Greenbrier County,West Virginia",15391,379256
+351,"Hampshire County,West Virginia","Hancock County,West Virginia",13381,297595
+352,"Hampshire County,West Virginia","Hardy County,West Virginia",3286,57534
+353,"Hampshire County,West Virginia","Harrison County,West Virginia",9672,240663
+354,"Hampshire County,West Virginia","Jackson County,West Virginia",15627,413583
+355,"Hampshire County,West Virginia","Jefferson County,West Virginia",4685,88193
+356,"Hampshire County,West Virginia","Kanawha County,West Virginia",17079,456662
+357,"Hampshire County,West Virginia","Lewis County,West Virginia",10868,274104
+358,"Hampshire County,West Virginia","Lincoln County,West Virginia",18861,483081
+359,"Hampshire County,West Virginia","Logan County,West Virginia",19533,525612
+360,"Hampshire County,West Virginia","McDowell County,West Virginia",20083,506774
+361,"Hampshire County,West Virginia","Marion County,West Virginia",9158,214576
+362,"Hampshire County,West Virginia","Marshall County,West Virginia",12827,286160
+363,"Hampshire County,West Virginia","Mason County,West Virginia",17391,457637
+364,"Hampshire County,West Virginia","Mercer County,West Virginia",16798,443104
+365,"Hampshire County,West Virginia","Mineral County,West Virginia",3057,43530
+366,"Hampshire County,West Virginia","Mingo County,West Virginia",19578,530120
+367,"Hampshire County,West Virginia","Monongalia County,West Virginia",6981,166315
+368,"Hampshire County,West Virginia","Monroe County,West Virginia",14325,365577
+369,"Hampshire County,West Virginia","Morgan County,West Virginia",2609,56543
+370,"Hampshire County,West Virginia","Nicholas County,West Virginia",14149,374761
+371,"Hampshire County,West Virginia","Ohio County,West Virginia",11747,300662
+372,"Hampshire County,West Virginia","Pendleton County,West Virginia",5795,109430
+373,"Hampshire County,West Virginia","Pleasants County,West Virginia",12470,316803
+374,"Hampshire County,West Virginia","Pocahontas County,West Virginia",11043,215761
+375,"Hampshire County,West Virginia","Preston County,West Virginia",7772,140202
+376,"Hampshire County,West Virginia","Putnam County,West Virginia",16454,456928
+377,"Hampshire County,West Virginia","Raleigh County,West Virginia",15588,424713
+378,"Hampshire County,West Virginia","Randolph County,West Virginia",9628,196988
+379,"Hampshire County,West Virginia","Ritchie County,West Virginia",12381,311105
+380,"Hampshire County,West Virginia","Roane County,West Virginia",16907,393818
+381,"Hampshire County,West Virginia","Summers County,West Virginia",16309,404591
+382,"Hampshire County,West Virginia","Taylor County,West Virginia",8115,158023
+383,"Hampshire County,West Virginia","Tucker County,West Virginia",6603,135447
+384,"Hampshire County,West Virginia","Tyler County,West Virginia",13397,309470
+385,"Hampshire County,West Virginia","Upshur County,West Virginia",10676,218565
+386,"Hampshire County,West Virginia","Wayne County,West Virginia",19788,538029
+387,"Hampshire County,West Virginia","Webster County,West Virginia",13852,279323
+388,"Hampshire County,West Virginia","Wetzel County,West Virginia",12314,276700
+389,"Hampshire County,West Virginia","Wirt County,West Virginia",14727,356635
+390,"Hampshire County,West Virginia","Wood County,West Virginia",13251,342066
+391,"Hampshire County,West Virginia","Wyoming County,West Virginia",17539,464686

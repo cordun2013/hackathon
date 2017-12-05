@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Pocahontas County,West Virginia","Adair County,Kentucky",25945,651226
+1,"Pocahontas County,West Virginia","Allen County,Kentucky",28564,751874
+2,"Pocahontas County,West Virginia","Anderson County,Kentucky",21745,554265
+3,"Pocahontas County,West Virginia","Ballard County,Kentucky",34724,944036
+4,"Pocahontas County,West Virginia","Barren County,Kentucky",27691,710253
+5,"Pocahontas County,West Virginia","Bath County,Kentucky",17393,425446
+6,"Pocahontas County,West Virginia","Bell County,Kentucky",22391,516104
+7,"Pocahontas County,West Virginia","Boone County,Kentucky",23205,546839
+8,"Pocahontas County,West Virginia","Bourbon County,Kentucky",19306,471863
+9,"Pocahontas County,West Virginia","Boyd County,Kentucky",14068,319770
+10,"Pocahontas County,West Virginia","Boyle County,Kentucky",22974,558151
+11,"Pocahontas County,West Virginia","Bracken County,Kentucky",19717,465946
+12,"Pocahontas County,West Virginia","Breathitt County,Kentucky",20779,466472
+13,"Pocahontas County,West Virginia","Breckinridge County,Kentucky",27279,706946
+14,"Pocahontas County,West Virginia","Bullitt County,Kentucky",23848,628065
+15,"Pocahontas County,West Virginia","Butler County,Kentucky",27943,728944
+16,"Pocahontas County,West Virginia","Caldwell County,Kentucky",30835,834889
+17,"Pocahontas County,West Virginia","Calloway County,Kentucky",33645,919882
+18,"Pocahontas County,West Virginia","Campbell County,Kentucky",21418,505818
+19,"Pocahontas County,West Virginia","Carlisle County,Kentucky",35181,959404
+20,"Pocahontas County,West Virginia","Carroll County,Kentucky",24290,602079
+21,"Pocahontas County,West Virginia","Carter County,Kentucky",15233,349868
+22,"Pocahontas County,West Virginia","Casey County,Kentucky",24469,589656
+23,"Pocahontas County,West Virginia","Christian County,Kentucky",30484,830146
+24,"Pocahontas County,West Virginia","Clay County,Kentucky",23278,553587
+25,"Pocahontas County,West Virginia","Clinton County,Kentucky",26353,654591
+26,"Pocahontas County,West Virginia","Crittenden County,Kentucky",32415,867959
+27,"Pocahontas County,West Virginia","Cumberland County,Kentucky",27107,672830
+28,"Pocahontas County,West Virginia","Daviess County,Kentucky",28966,775386
+29,"Pocahontas County,West Virginia","Edmonson County,Kentucky",27384,716819
+30,"Pocahontas County,West Virginia","Elliott County,Kentucky",16563,375638
+31,"Pocahontas County,West Virginia","Estill County,Kentucky",20385,487761
+32,"Pocahontas County,West Virginia","Fayette County,Kentucky",19552,491758
+33,"Pocahontas County,West Virginia","Fleming County,Kentucky",17818,428632
+34,"Pocahontas County,West Virginia","Floyd County,Kentucky",18201,427035
+35,"Pocahontas County,West Virginia","Franklin County,Kentucky",21590,540674
+36,"Pocahontas County,West Virginia","Fulton County,Kentucky",35585,980368
+37,"Pocahontas County,West Virginia","Gallatin County,Kentucky",23288,592738
+38,"Pocahontas County,West Virginia","Garrard County,Kentucky",22157,538911
+39,"Pocahontas County,West Virginia","Grant County,Kentucky",22087,566845
+40,"Pocahontas County,West Virginia","Graves County,Kentucky",34205,932110
+41,"Pocahontas County,West Virginia","Grayson County,Kentucky",26271,685580
+42,"Pocahontas County,West Virginia","Green County,Kentucky",26050,650785
+43,"Pocahontas County,West Virginia","Greenup County,Kentucky",15844,360897
+44,"Pocahontas County,West Virginia","Hancock County,Kentucky",28074,739839
+45,"Pocahontas County,West Virginia","Hardin County,Kentucky",25147,647712
+46,"Pocahontas County,West Virginia","Harlan County,Kentucky",20993,463730
+47,"Pocahontas County,West Virginia","Harrison County,Kentucky",20877,504963
+48,"Pocahontas County,West Virginia","Hart County,Kentucky",25946,675341
+49,"Pocahontas County,West Virginia","Henderson County,Kentucky",30773,827816
+50,"Pocahontas County,West Virginia","Henry County,Kentucky",23191,584393
+51,"Pocahontas County,West Virginia","Hickman County,Kentucky",35214,960696
+52,"Pocahontas County,West Virginia","Hopkins County,Kentucky",30294,809357
+53,"Pocahontas County,West Virginia","Jackson County,Kentucky",23058,535770
+54,"Pocahontas County,West Virginia","Jefferson County,Kentucky",23285,599926
+55,"Pocahontas County,West Virginia","Jessamine County,Kentucky",21021,513221
+56,"Pocahontas County,West Virginia","Johnson County,Kentucky",16849,392667
+57,"Pocahontas County,West Virginia","Kenton County,Kentucky",22575,534533
+58,"Pocahontas County,West Virginia","Knott County,Kentucky",19383,458917
+59,"Pocahontas County,West Virginia","Knox County,Kentucky",23890,560912
+60,"Pocahontas County,West Virginia","Larue County,Kentucky",25219,634888
+61,"Pocahontas County,West Virginia","Laurel County,Kentucky",23412,589198
+62,"Pocahontas County,West Virginia","Lawrence County,Kentucky",15991,364090
+63,"Pocahontas County,West Virginia","Lee County,Kentucky",21230,481498
+64,"Pocahontas County,West Virginia","Leslie County,Kentucky",22462,528591
+65,"Pocahontas County,West Virginia","Letcher County,Kentucky",19022,446220
+66,"Pocahontas County,West Virginia","Lewis County,Kentucky",17271,401685
+67,"Pocahontas County,West Virginia","Lincoln County,Kentucky",22867,555829
+68,"Pocahontas County,West Virginia","Livingston County,Kentucky",33011,884856
+69,"Pocahontas County,West Virginia","Logan County,Kentucky",29684,772182
+70,"Pocahontas County,West Virginia","Lyon County,Kentucky",33144,895247
+71,"Pocahontas County,West Virginia","McCracken County,Kentucky",33336,912096
+72,"Pocahontas County,West Virginia","McCreary County,Kentucky",25439,682149
+73,"Pocahontas County,West Virginia","Madison County,Kentucky",20551,502781
+74,"Pocahontas County,West Virginia","Magoffin County,Kentucky",17817,413346
+75,"Pocahontas County,West Virginia","Marion County,Kentucky",23596,596497
+76,"Pocahontas County,West Virginia","Marshall County,Kentucky",32751,895668
+77,"Pocahontas County,West Virginia","Martin County,Kentucky",17349,391366
+78,"Pocahontas County,West Virginia","Mason County,Kentucky",19066,445492
+79,"Pocahontas County,West Virginia","Meade County,Kentucky",25746,672241
+80,"Pocahontas County,West Virginia","Menifee County,Kentucky",18509,437509
+81,"Pocahontas County,West Virginia","Mercer County,Kentucky",21973,552209
+82,"Pocahontas County,West Virginia","Metcalfe County,Kentucky",26601,681490
+83,"Pocahontas County,West Virginia","Monroe County,Kentucky",28571,718995
+84,"Pocahontas County,West Virginia","Montgomery County,Kentucky",18205,443986
+85,"Pocahontas County,West Virginia","Morgan County,Kentucky",18287,413225
+86,"Pocahontas County,West Virginia","Muhlenberg County,Kentucky",29154,775833
+87,"Pocahontas County,West Virginia","Nelson County,Kentucky",23204,595569
+88,"Pocahontas County,West Virginia","Nicholas County,Kentucky",19883,471870
+89,"Pocahontas County,West Virginia","Ohio County,Kentucky",28067,743423
+90,"Pocahontas County,West Virginia","Oldham County,Kentucky",23357,611807
+91,"Pocahontas County,West Virginia","Owen County,Kentucky",22412,567451
+92,"Pocahontas County,West Virginia","Owsley County,Kentucky",22376,501475
+93,"Pocahontas County,West Virginia","Pendleton County,Kentucky",21655,506870
+94,"Pocahontas County,West Virginia","Perry County,Kentucky",20762,489475
+95,"Pocahontas County,West Virginia","Pike County,Kentucky",17545,356612
+96,"Pocahontas County,West Virginia","Powell County,Kentucky",19649,473732
+97,"Pocahontas County,West Virginia","Robertson County,Kentucky",19801,471376
+98,"Pocahontas County,West Virginia","Rockcastle County,Kentucky",21985,543923
+99,"Pocahontas County,West Virginia","Rowan County,Kentucky",16535,397653
+100,"Pocahontas County,West Virginia","Russell County,Kentucky",25550,635209
+101,"Pocahontas County,West Virginia","Scott County,Kentucky",20387,519784
+102,"Pocahontas County,West Virginia","Shelby County,Kentucky",22214,571061
+103,"Pocahontas County,West Virginia","Simpson County,Kentucky",29265,780239
+104,"Pocahontas County,West Virginia","Spencer County,Kentucky",22743,576909
+105,"Pocahontas County,West Virginia","Taylor County,Kentucky",24886,627993
+106,"Pocahontas County,West Virginia","Todd County,Kentucky",30920,796343
+107,"Pocahontas County,West Virginia","Trigg County,Kentucky",31898,856075
+108,"Pocahontas County,West Virginia","Trimble County,Kentucky",24430,617847
+109,"Pocahontas County,West Virginia","Union County,Kentucky",32492,858262
+110,"Pocahontas County,West Virginia","Warren County,Kentucky",28300,745188
+111,"Pocahontas County,West Virginia","Washington County,Kentucky",23214,580805
+112,"Pocahontas County,West Virginia","Wayne County,Kentucky",25726,632282
+113,"Pocahontas County,West Virginia","Webster County,Kentucky",31403,837446
+114,"Pocahontas County,West Virginia","Whitley County,Kentucky",24043,666911
+115,"Pocahontas County,West Virginia","Wolfe County,Kentucky",19382,436587
+116,"Pocahontas County,West Virginia","Woodford County,Kentucky",20606,522420
+117,"Pocahontas County,West Virginia","Adams County,Ohio",19159,448048
+118,"Pocahontas County,West Virginia","Allen County,Ohio",25604,622264
+119,"Pocahontas County,West Virginia","Ashland County,Ohio",22269,539481
+120,"Pocahontas County,West Virginia","Ashtabula County,Ohio",21068,549579
+121,"Pocahontas County,West Virginia","Athens County,Ohio",15364,347376
+122,"Pocahontas County,West Virginia","Auglaize County,Ohio",25141,640166
+123,"Pocahontas County,West Virginia","Belmont County,Ohio",15518,377132
+124,"Pocahontas County,West Virginia","Brown County,Ohio",20403,474976
+125,"Pocahontas County,West Virginia","Butler County,Ohio",23516,557002
+126,"Pocahontas County,West Virginia","Carroll County,Ohio",18463,412990
+127,"Pocahontas County,West Virginia","Champaign County,Ohio",22445,542263
+128,"Pocahontas County,West Virginia","Clark County,Ohio",21124,501807
+129,"Pocahontas County,West Virginia","Clermont County,Ohio",21237,506072
+130,"Pocahontas County,West Virginia","Clinton County,Ohio",20628,489489
+131,"Pocahontas County,West Virginia","Columbiana County,Ohio",17672,401511
+132,"Pocahontas County,West Virginia","Coshocton County,Ohio",18584,457306
+133,"Pocahontas County,West Virginia","Crawford County,Ohio",24040,582245
+134,"Pocahontas County,West Virginia","Cuyahoga County,Ohio",21065,547422
+135,"Pocahontas County,West Virginia","Darke County,Ohio",24238,597212
+136,"Pocahontas County,West Virginia","Defiance County,Ohio",29040,700585
+137,"Pocahontas County,West Virginia","Delaware County,Ohio",21194,514983
+138,"Pocahontas County,West Virginia","Fairfield County,Ohio",18724,442077
+139,"Pocahontas County,West Virginia","Fayette County,Ohio",19192,459953
+140,"Pocahontas County,West Virginia","Franklin County,Ohio",19725,471932
+141,"Pocahontas County,West Virginia","Fulton County,Ohio",27735,753237
+142,"Pocahontas County,West Virginia","Gallia County,Ohio",14505,319064
+143,"Pocahontas County,West Virginia","Geauga County,Ohio",20558,522241
+144,"Pocahontas County,West Virginia","Greene County,Ohio",20062,493105
+145,"Pocahontas County,West Virginia","Guernsey County,Ohio",16135,395225
+146,"Pocahontas County,West Virginia","Hamilton County,Ohio",23017,567579
+147,"Pocahontas County,West Virginia","Hancock County,Ohio",25217,623338
+148,"Pocahontas County,West Virginia","Hardin County,Ohio",24115,578094
+149,"Pocahontas County,West Virginia","Harrison County,Ohio",17478,415846
+150,"Pocahontas County,West Virginia","Henry County,Ohio",27930,694959
+151,"Pocahontas County,West Virginia","Highland County,Ohio",19696,448062
+152,"Pocahontas County,West Virginia","Hocking County,Ohio",17166,398040
+153,"Pocahontas County,West Virginia","Holmes County,Ohio",19643,480190
+154,"Pocahontas County,West Virginia","Huron County,Ohio",24166,581110
+155,"Pocahontas County,West Virginia","Jackson County,Ohio",15683,358613
+156,"Pocahontas County,West Virginia","Jefferson County,Ohio",16419,376482
+157,"Pocahontas County,West Virginia","Knox County,Ohio",20372,499782
+158,"Pocahontas County,West Virginia","Lawrence County,Ohio",15207,324827
+159,"Pocahontas County,West Virginia","Licking County,Ohio",19762,480713
+160,"Pocahontas County,West Virginia","Logan County,Ohio",23136,572371
+161,"Pocahontas County,West Virginia","Lorain County,Ohio",22116,577143
+162,"Pocahontas County,West Virginia","Lucas County,Ohio",26690,706087
+163,"Pocahontas County,West Virginia","Madison County,Ohio",20893,483037
+164,"Pocahontas County,West Virginia","Mahoning County,Ohio",17555,439571
+165,"Pocahontas County,West Virginia","Marion County,Ohio",22600,541076
+166,"Pocahontas County,West Virginia","Medina County,Ohio",21658,557624
+167,"Pocahontas County,West Virginia","Meigs County,Ohio",14245,318346
+168,"Pocahontas County,West Virginia","Mercer County,Ohio",26377,667099
+169,"Pocahontas County,West Virginia","Miami County,Ohio",22727,562604
+170,"Pocahontas County,West Virginia","Monroe County,Ohio",15547,333431
+171,"Pocahontas County,West Virginia","Montgomery County,Ohio",22096,540561
+172,"Pocahontas County,West Virginia","Morgan County,Ohio",16096,370050
+173,"Pocahontas County,West Virginia","Morrow County,Ohio",22001,537803
+174,"Pocahontas County,West Virginia","Muskingum County,Ohio",16980,423216
+175,"Pocahontas County,West Virginia","Noble County,Ohio",15576,367577
+176,"Pocahontas County,West Virginia","Paulding County,Ohio",28141,698170
+177,"Pocahontas County,West Virginia","Perry County,Ohio",18582,412796
+178,"Pocahontas County,West Virginia","Pickaway County,Ohio",18632,440051
+179,"Pocahontas County,West Virginia","Pike County,Ohio",17128,397920
+180,"Pocahontas County,West Virginia","Portage County,Ohio",19409,495584
+181,"Pocahontas County,West Virginia","Preble County,Ohio",23715,569138
+182,"Pocahontas County,West Virginia","Putnam County,Ohio",26727,654623
+183,"Pocahontas County,West Virginia","Richland County,Ohio",22624,552821
+184,"Pocahontas County,West Virginia","Ross County,Ohio",17376,406358
+185,"Pocahontas County,West Virginia","Sandusky County,Ohio",24977,664662
+186,"Pocahontas County,West Virginia","Scioto County,Ohio",17013,382100
+187,"Pocahontas County,West Virginia","Seneca County,Ohio",25590,615917
+188,"Pocahontas County,West Virginia","Shelby County,Ohio",23765,598890
+189,"Pocahontas County,West Virginia","Stark County,Ohio",19808,501424
+190,"Pocahontas County,West Virginia","Summit County,Ohio",20304,524179
+191,"Pocahontas County,West Virginia","Trumbull County,Ohio",18712,477035
+192,"Pocahontas County,West Virginia","Tuscarawas County,Ohio",18008,442012
+193,"Pocahontas County,West Virginia","Union County,Ohio",21640,522602
+194,"Pocahontas County,West Virginia","Van Wert County,Ohio",26839,665134
+195,"Pocahontas County,West Virginia","Vinton County,Ohio",17308,381203
+196,"Pocahontas County,West Virginia","Warren County,Ohio",21434,523548
+197,"Pocahontas County,West Virginia","Washington County,Ohio",14435,325513
+198,"Pocahontas County,West Virginia","Wayne County,Ohio",20779,504302
+199,"Pocahontas County,West Virginia","Williams County,Ohio",28981,784694
+200,"Pocahontas County,West Virginia","Wood County,Ohio",26615,664945
+201,"Pocahontas County,West Virginia","Wyandot County,Ohio",24187,587473
+202,"Pocahontas County,West Virginia","Accomack County,Virginia",23573,575315
+203,"Pocahontas County,West Virginia","Albemarle County,Virginia",9723,187815
+204,"Pocahontas County,West Virginia","Alleghany County,Virginia",6414,125332
+205,"Pocahontas County,West Virginia","Amelia County,Virginia",14777,319633
+206,"Pocahontas County,West Virginia","Amherst County,Virginia",11254,213526
+207,"Pocahontas County,West Virginia","Appomattox County,Virginia",12847,252285
+208,"Pocahontas County,West Virginia","Arlington County,Virginia",15720,358755
+209,"Pocahontas County,West Virginia","Augusta County,Virginia",7758,134255
+210,"Pocahontas County,West Virginia","Bath County,Virginia",5901,98546
+211,"Pocahontas County,West Virginia","Bedford County,Virginia",12401,260318
+212,"Pocahontas County,West Virginia","Bland County,Virginia",10510,250101
+213,"Pocahontas County,West Virginia","Botetourt County,Virginia",9569,196631
+214,"Pocahontas County,West Virginia","Brunswick County,Virginia",17408,421943
+215,"Pocahontas County,West Virginia","Buchanan County,Virginia",14505,334330
+216,"Pocahontas County,West Virginia","Buckingham County,Virginia",13032,252964
+217,"Pocahontas County,West Virginia","Campbell County,Virginia",12770,254757
+218,"Pocahontas County,West Virginia","Caroline County,Virginia",15062,356660
+219,"Pocahontas County,West Virginia","Carroll County,Virginia",12756,319538
+220,"Pocahontas County,West Virginia","Charles City County,Virginia",15162,353695
+221,"Pocahontas County,West Virginia","Charlotte County,Virginia",14732,305806
+222,"Pocahontas County,West Virginia","Chesterfield County,Virginia",14298,331479
+223,"Pocahontas County,West Virginia","Clarke County,Virginia",13215,285503
+224,"Pocahontas County,West Virginia","Craig County,Virginia",9735,178240
+225,"Pocahontas County,West Virginia","Culpeper County,Virginia",13520,277031
+226,"Pocahontas County,West Virginia","Cumberland County,Virginia",13766,278172
+227,"Pocahontas County,West Virginia","Dickenson County,Virginia",17185,374434
+228,"Pocahontas County,West Virginia","Dinwiddie County,Virginia",16045,381910
+229,"Pocahontas County,West Virginia","Essex County,Virginia",16879,380703
+230,"Pocahontas County,West Virginia","Fairfax County,Virginia",15342,349031
+231,"Pocahontas County,West Virginia","Fauquier County,Virginia",13653,306755
+232,"Pocahontas County,West Virginia","Floyd County,Virginia",13346,262790
+233,"Pocahontas County,West Virginia","Fluvanna County,Virginia",11401,239986
+234,"Pocahontas County,West Virginia","Franklin County,Virginia",12569,275741
+235,"Pocahontas County,West Virginia","Frederick County,Virginia",11734,249309
+236,"Pocahontas County,West Virginia","Giles County,Virginia",10211,185947
+237,"Pocahontas County,West Virginia","Gloucester County,Virginia",17333,407883
+238,"Pocahontas County,West Virginia","Goochland County,Virginia",12304,270597
+239,"Pocahontas County,West Virginia","Grayson County,Virginia",13158,309246
+240,"Pocahontas County,West Virginia","Greene County,Virginia",11307,201899
+241,"Pocahontas County,West Virginia","Greensville County,Virginia",17462,430662
+242,"Pocahontas County,West Virginia","Halifax County,Virginia",16091,326464
+243,"Pocahontas County,West Virginia","Hanover County,Virginia",13511,311704
+244,"Pocahontas County,West Virginia","Henrico County,Virginia",14022,324664
+245,"Pocahontas County,West Virginia","Henry County,Virginia",13978,310703
+246,"Pocahontas County,West Virginia","Highland County,Virginia",4248,66331
+247,"Pocahontas County,West Virginia","Isle of Wight County,Virginia",18274,429241
+248,"Pocahontas County,West Virginia","James City County,Virginia",16398,394466
+249,"Pocahontas County,West Virginia","King and Queen County,Virginia",16056,370050
+250,"Pocahontas County,West Virginia","King George County,Virginia",16175,384647
+251,"Pocahontas County,West Virginia","King William County,Virginia",14744,339972
+252,"Pocahontas County,West Virginia","Lancaster County,Virginia",18537,423058
+253,"Pocahontas County,West Virginia","Lee County,Virginia",18793,442528
+254,"Pocahontas County,West Virginia","Loudoun County,Virginia",14711,321370
+255,"Pocahontas County,West Virginia","Louisa County,Virginia",11961,253692
+256,"Pocahontas County,West Virginia","Lunenburg County,Virginia",16504,347090
+257,"Pocahontas County,West Virginia","Madison County,Virginia",12635,253139
+258,"Pocahontas County,West Virginia","Mathews County,Virginia",18158,431307
+259,"Pocahontas County,West Virginia","Mecklenburg County,Virginia",17495,360214
+260,"Pocahontas County,West Virginia","Middlesex County,Virginia",16934,404084
+261,"Pocahontas County,West Virginia","Montgomery County,Virginia",11294,213953
+262,"Pocahontas County,West Virginia","Nelson County,Virginia",10602,206316
+263,"Pocahontas County,West Virginia","New Kent County,Virginia",15834,368380
+264,"Pocahontas County,West Virginia","Northampton County,Virginia",20816,511129
+265,"Pocahontas County,West Virginia","Northumberland County,Virginia",18576,421570
+266,"Pocahontas County,West Virginia","Nottoway County,Virginia",15902,341124
+267,"Pocahontas County,West Virginia","Orange County,Virginia",12924,261800
+268,"Pocahontas County,West Virginia","Page County,Virginia",11050,210625
+269,"Pocahontas County,West Virginia","Patrick County,Virginia",14861,364574
+270,"Pocahontas County,West Virginia","Pittsylvania County,Virginia",14993,325689
+271,"Pocahontas County,West Virginia","Powhatan County,Virginia",13557,295819
+272,"Pocahontas County,West Virginia","Prince Edward County,Virginia",14573,306788
+273,"Pocahontas County,West Virginia","Prince George County,Virginia",15809,368494
+274,"Pocahontas County,West Virginia","Prince William County,Virginia",13753,312859
+275,"Pocahontas County,West Virginia","Pulaski County,Virginia",11389,210285
+276,"Pocahontas County,West Virginia","Rappahannock County,Virginia",12881,247106
+277,"Pocahontas County,West Virginia","Richmond County,Virginia",17276,394213
+278,"Pocahontas County,West Virginia","Roanoke County,Virginia",10927,234658
+279,"Pocahontas County,West Virginia","Rockbridge County,Virginia",8258,150917
+280,"Pocahontas County,West Virginia","Rockingham County,Virginia",9496,172148
+281,"Pocahontas County,West Virginia","Russell County,Virginia",14319,330281
+282,"Pocahontas County,West Virginia","Scott County,Virginia",16983,398408
+283,"Pocahontas County,West Virginia","Shenandoah County,Virginia",10593,213073
+284,"Pocahontas County,West Virginia","Smyth County,Virginia",12868,315453
+285,"Pocahontas County,West Virginia","Southampton County,Virginia",17840,426776
+286,"Pocahontas County,West Virginia","Spotsylvania County,Virginia",13978,295531
+287,"Pocahontas County,West Virginia","Stafford County,Virginia",15359,319824
+288,"Pocahontas County,West Virginia","Surry County,Virginia",17142,393327
+289,"Pocahontas County,West Virginia","Sussex County,Virginia",16503,397019
+290,"Pocahontas County,West Virginia","Tazewell County,Virginia",11326,268688
+291,"Pocahontas County,West Virginia","Warren County,Virginia",12294,254556
+292,"Pocahontas County,West Virginia","Washington County,Virginia",14261,354919
+293,"Pocahontas County,West Virginia","Westmoreland County,Virginia",17149,401471
+294,"Pocahontas County,West Virginia","Wise County,Virginia",17096,402617
+295,"Pocahontas County,West Virginia","Wythe County,Virginia",11115,268318
+296,"Pocahontas County,West Virginia","York County,Virginia",17686,425240
+297,"Pocahontas County,West Virginia","Alexandria City County,Virginia",15922,371401
+298,"Pocahontas County,West Virginia","Bedford City County,Virginia",11433,243465
+299,"Pocahontas County,West Virginia","Bristol City County,Virginia",14736,380637
+300,"Pocahontas County,West Virginia","Buena Vista City County,Virginia",8612,164894
+301,"Pocahontas County,West Virginia","Charlottesville City County,Virginia",10192,203029
+302,"Pocahontas County,West Virginia","Chesapeake City County,Virginia",19149,478146
+303,"Pocahontas County,West Virginia","Clifton Forge City County,Virginia",6958,145538
+304,"Pocahontas County,West Virginia","Colonial Heights City County,Virginia",14858,347371
+305,"Pocahontas County,West Virginia","Covington City County,Virginia",6483,128917
+306,"Pocahontas County,West Virginia","Danville City County,Virginia",16032,345906
+307,"Pocahontas County,West Virginia","Emporia City County,Virginia",17169,417255
+308,"Pocahontas County,West Virginia","Fairfax City County,Virginia",14885,338606
+309,"Pocahontas County,West Virginia","Falls Church City County,Virginia",15217,353079
+310,"Pocahontas County,West Virginia","Franklin City County,Virginia",18387,434631
+311,"Pocahontas County,West Virginia","Fredericksburg City County,Virginia",15111,305190
+312,"Pocahontas County,West Virginia","Galax City County,Virginia",13379,325404
+313,"Pocahontas County,West Virginia","Hampton City County,Virginia",17636,434947
+314,"Pocahontas County,West Virginia","Harrisonburg City County,Virginia",9028,153489
+315,"Pocahontas County,West Virginia","Hopewell City County,Virginia",14895,346337
+316,"Pocahontas County,West Virginia","Lexington City County,Virginia",8247,153385
+317,"Pocahontas County,West Virginia","Lynchburg City County,Virginia",11830,228500
+318,"Pocahontas County,West Virginia","Manassas City County,Virginia",13980,317803
+319,"Pocahontas County,West Virginia","Manassas Park City County,Virginia",14483,324146
+320,"Pocahontas County,West Virginia","Martinsville City County,Virginia",14131,305805
+321,"Pocahontas County,West Virginia","Newport News City County,Virginia",17193,421432
+322,"Pocahontas County,West Virginia","Norfolk City County,Virginia",18943,460363
+323,"Pocahontas County,West Virginia","Norton City County,Virginia",16620,393507
+324,"Pocahontas County,West Virginia","Petersburg City County,Virginia",14730,348359
+325,"Pocahontas County,West Virginia","Poquoson City County,Virginia",17865,432009
+326,"Pocahontas County,West Virginia","Portsmouth City County,Virginia",18882,469183
+327,"Pocahontas County,West Virginia","Radford County,Virginia",11701,211994
+328,"Pocahontas County,West Virginia","Richmond City County,Virginia",13598,312474
+329,"Pocahontas County,West Virginia","Roanoke City County,Virginia",10465,226100
+330,"Pocahontas County,West Virginia","Salem City County,Virginia",10295,224571
+331,"Pocahontas County,West Virginia","South Boston City County,Virginia",16094,325282
+332,"Pocahontas County,West Virginia","Staunton City County,Virginia",7900,134945
+333,"Pocahontas County,West Virginia","Suffolk City County,Virginia",19117,443965
+334,"Pocahontas County,West Virginia","Virginia Beach City County,Virginia",19503,483621
+335,"Pocahontas County,West Virginia","Waynesboro City County,Virginia",8853,157925
+336,"Pocahontas County,West Virginia","Williamsburg City County,Virginia",16237,393682
+337,"Pocahontas County,West Virginia","Winchester City County,Virginia",12272,257455
+338,"Pocahontas County,West Virginia","Barbour County,West Virginia",7504,129739
+339,"Pocahontas County,West Virginia","Berkeley County,West Virginia",13824,284147
+340,"Pocahontas County,West Virginia","Boone County,West Virginia",12201,247677
+341,"Pocahontas County,West Virginia","Braxton County,West Virginia",8890,135234
+342,"Pocahontas County,West Virginia","Brooke County,West Virginia",14725,340032
+343,"Pocahontas County,West Virginia","Cabell County,West Virginia",13524,298031
+344,"Pocahontas County,West Virginia","Calhoun County,West Virginia",10661,189185
+345,"Pocahontas County,West Virginia","Clay County,West Virginia",9539,161979
+346,"Pocahontas County,West Virginia","Doddridge County,West Virginia",10957,192141
+347,"Pocahontas County,West Virginia","Fayette County,West Virginia",7931,152875
+348,"Pocahontas County,West Virginia","Gilmer County,West Virginia",10458,184914
+349,"Pocahontas County,West Virginia","Grant County,West Virginia",7544,142955
+350,"Pocahontas County,West Virginia","Greenbrier County,West Virginia",7678,125099
+351,"Pocahontas County,West Virginia","Hampshire County,West Virginia",11068,215769
+352,"Pocahontas County,West Virginia","Hancock County,West Virginia",16352,367379
+353,"Pocahontas County,West Virginia","Hardy County,West Virginia",8824,157285
+354,"Pocahontas County,West Virginia","Harrison County,West Virginia",9601,194609
+355,"Pocahontas County,West Virginia","Jackson County,West Virginia",12776,234458
+356,"Pocahontas County,West Virginia","Jefferson County,West Virginia",14372,293341
+357,"Pocahontas County,West Virginia","Kanawha County,West Virginia",10342,184658
+358,"Pocahontas County,West Virginia","Lewis County,West Virginia",8645,162104
+359,"Pocahontas County,West Virginia","Lincoln County,West Virginia",14188,275709
+360,"Pocahontas County,West Virginia","Logan County,West Virginia",13991,278166
+361,"Pocahontas County,West Virginia","McDowell County,West Virginia",12370,252617
+362,"Pocahontas County,West Virginia","Marion County,West Virginia",10746,221777
+363,"Pocahontas County,West Virginia","Marshall County,West Virginia",15713,334476
+364,"Pocahontas County,West Virginia","Mason County,West Virginia",13000,283938
+365,"Pocahontas County,West Virginia","Mercer County,West Virginia",9064,208607
+366,"Pocahontas County,West Virginia","Mineral County,West Virginia",10140,188614
+367,"Pocahontas County,West Virginia","Mingo County,West Virginia",14570,342101
+368,"Pocahontas County,West Virginia","Monongalia County,West Virginia",11107,203036
+369,"Pocahontas County,West Virginia","Monroe County,West Virginia",7241,124452
+370,"Pocahontas County,West Virginia","Morgan County,West Virginia",13004,277175
+371,"Pocahontas County,West Virginia","Nicholas County,West Virginia",6427,116592
+372,"Pocahontas County,West Virginia","Ohio County,West Virginia",14632,348978
+373,"Pocahontas County,West Virginia","Pendleton County,West Virginia",6202,110477
+374,"Pocahontas County,West Virginia","Pleasants County,West Virginia",12399,270750
+375,"Pocahontas County,West Virginia","Preston County,West Virginia",10328,186234
+376,"Pocahontas County,West Virginia","Putnam County,West Virginia",11781,249556
+377,"Pocahontas County,West Virginia","Raleigh County,West Virginia",7875,170557
+378,"Pocahontas County,West Virginia","Randolph County,West Virginia",5519,83133
+379,"Pocahontas County,West Virginia","Ritchie County,West Virginia",12310,265051
+380,"Pocahontas County,West Virginia","Roane County,West Virginia",12255,212938
+381,"Pocahontas County,West Virginia","Summers County,West Virginia",8597,150434
+382,"Pocahontas County,West Virginia","Taylor County,West Virginia",8976,165047
+383,"Pocahontas County,West Virginia","Tucker County,West Virginia",7650,128357
+384,"Pocahontas County,West Virginia","Tyler County,West Virginia",13325,263416
+385,"Pocahontas County,West Virginia","Upshur County,West Virginia",7873,97661
+386,"Pocahontas County,West Virginia","Wayne County,West Virginia",15115,330658
+387,"Pocahontas County,West Virginia","Webster County,West Virginia",6097,91416
+388,"Pocahontas County,West Virginia","Wetzel County,West Virginia",12280,246092
+389,"Pocahontas County,West Virginia","Wirt County,West Virginia",13177,239629
+390,"Pocahontas County,West Virginia","Wood County,West Virginia",13179,296012
+391,"Pocahontas County,West Virginia","Wyoming County,West Virginia",9820,210498

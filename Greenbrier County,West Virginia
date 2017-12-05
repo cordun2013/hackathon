@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Greenbrier County,West Virginia","Adair County,Kentucky",23121,616409
+1,"Greenbrier County,West Virginia","Allen County,Kentucky",25740,717057
+2,"Greenbrier County,West Virginia","Anderson County,Kentucky",18921,519448
+3,"Greenbrier County,West Virginia","Ballard County,Kentucky",31899,909219
+4,"Greenbrier County,West Virginia","Barren County,Kentucky",24867,675436
+5,"Greenbrier County,West Virginia","Bath County,Kentucky",14568,390629
+6,"Greenbrier County,West Virginia","Bell County,Kentucky",19322,435735
+7,"Greenbrier County,West Virginia","Boone County,Kentucky",20381,512022
+8,"Greenbrier County,West Virginia","Bourbon County,Kentucky",16482,437046
+9,"Greenbrier County,West Virginia","Boyd County,Kentucky",11244,284953
+10,"Greenbrier County,West Virginia","Boyle County,Kentucky",20150,523334
+11,"Greenbrier County,West Virginia","Bracken County,Kentucky",16893,431129
+12,"Greenbrier County,West Virginia","Breathitt County,Kentucky",17955,431655
+13,"Greenbrier County,West Virginia","Breckinridge County,Kentucky",24454,672129
+14,"Greenbrier County,West Virginia","Bullitt County,Kentucky",21024,593248
+15,"Greenbrier County,West Virginia","Butler County,Kentucky",25119,694127
+16,"Greenbrier County,West Virginia","Caldwell County,Kentucky",28011,800072
+17,"Greenbrier County,West Virginia","Calloway County,Kentucky",30821,885065
+18,"Greenbrier County,West Virginia","Campbell County,Kentucky",18593,471001
+19,"Greenbrier County,West Virginia","Carlisle County,Kentucky",32356,924587
+20,"Greenbrier County,West Virginia","Carroll County,Kentucky",21465,567262
+21,"Greenbrier County,West Virginia","Carter County,Kentucky",12408,315051
+22,"Greenbrier County,West Virginia","Casey County,Kentucky",21644,554839
+23,"Greenbrier County,West Virginia","Christian County,Kentucky",27660,795329
+24,"Greenbrier County,West Virginia","Clay County,Kentucky",20454,518770
+25,"Greenbrier County,West Virginia","Clinton County,Kentucky",23528,619774
+26,"Greenbrier County,West Virginia","Crittenden County,Kentucky",29591,833142
+27,"Greenbrier County,West Virginia","Cumberland County,Kentucky",24282,638013
+28,"Greenbrier County,West Virginia","Daviess County,Kentucky",26142,740569
+29,"Greenbrier County,West Virginia","Edmonson County,Kentucky",24559,682002
+30,"Greenbrier County,West Virginia","Elliott County,Kentucky",13739,340821
+31,"Greenbrier County,West Virginia","Estill County,Kentucky",17561,452944
+32,"Greenbrier County,West Virginia","Fayette County,Kentucky",16728,456941
+33,"Greenbrier County,West Virginia","Fleming County,Kentucky",14994,393815
+34,"Greenbrier County,West Virginia","Floyd County,Kentucky",15377,392218
+35,"Greenbrier County,West Virginia","Franklin County,Kentucky",18766,505857
+36,"Greenbrier County,West Virginia","Fulton County,Kentucky",32760,945551
+37,"Greenbrier County,West Virginia","Gallatin County,Kentucky",20463,557921
+38,"Greenbrier County,West Virginia","Garrard County,Kentucky",19333,504094
+39,"Greenbrier County,West Virginia","Grant County,Kentucky",19262,532028
+40,"Greenbrier County,West Virginia","Graves County,Kentucky",31381,897293
+41,"Greenbrier County,West Virginia","Grayson County,Kentucky",23446,650763
+42,"Greenbrier County,West Virginia","Green County,Kentucky",23226,615968
+43,"Greenbrier County,West Virginia","Greenup County,Kentucky",13019,326080
+44,"Greenbrier County,West Virginia","Hancock County,Kentucky",25250,705022
+45,"Greenbrier County,West Virginia","Hardin County,Kentucky",22323,612895
+46,"Greenbrier County,West Virginia","Harlan County,Kentucky",17924,383361
+47,"Greenbrier County,West Virginia","Harrison County,Kentucky",18053,470146
+48,"Greenbrier County,West Virginia","Hart County,Kentucky",23122,640524
+49,"Greenbrier County,West Virginia","Henderson County,Kentucky",27949,792999
+50,"Greenbrier County,West Virginia","Henry County,Kentucky",20367,549576
+51,"Greenbrier County,West Virginia","Hickman County,Kentucky",32390,925879
+52,"Greenbrier County,West Virginia","Hopkins County,Kentucky",27470,774540
+53,"Greenbrier County,West Virginia","Jackson County,Kentucky",20233,500953
+54,"Greenbrier County,West Virginia","Jefferson County,Kentucky",20461,565109
+55,"Greenbrier County,West Virginia","Jessamine County,Kentucky",18197,478404
+56,"Greenbrier County,West Virginia","Johnson County,Kentucky",14025,357849
+57,"Greenbrier County,West Virginia","Kenton County,Kentucky",19750,499716
+58,"Greenbrier County,West Virginia","Knott County,Kentucky",16558,424100
+59,"Greenbrier County,West Virginia","Knox County,Kentucky",20827,480544
+60,"Greenbrier County,West Virginia","Larue County,Kentucky",22394,600071
+61,"Greenbrier County,West Virginia","Laurel County,Kentucky",20587,554381
+62,"Greenbrier County,West Virginia","Lawrence County,Kentucky",13167,329273
+63,"Greenbrier County,West Virginia","Lee County,Kentucky",18405,446681
+64,"Greenbrier County,West Virginia","Leslie County,Kentucky",19638,493774
+65,"Greenbrier County,West Virginia","Letcher County,Kentucky",15953,365852
+66,"Greenbrier County,West Virginia","Lewis County,Kentucky",14447,366868
+67,"Greenbrier County,West Virginia","Lincoln County,Kentucky",20043,521012
+68,"Greenbrier County,West Virginia","Livingston County,Kentucky",30186,850039
+69,"Greenbrier County,West Virginia","Logan County,Kentucky",26859,737365
+70,"Greenbrier County,West Virginia","Lyon County,Kentucky",30320,860430
+71,"Greenbrier County,West Virginia","McCracken County,Kentucky",30512,877279
+72,"Greenbrier County,West Virginia","McCreary County,Kentucky",22370,601780
+73,"Greenbrier County,West Virginia","Madison County,Kentucky",17726,467964
+74,"Greenbrier County,West Virginia","Magoffin County,Kentucky",14993,378529
+75,"Greenbrier County,West Virginia","Marion County,Kentucky",20772,561680
+76,"Greenbrier County,West Virginia","Marshall County,Kentucky",29926,860851
+77,"Greenbrier County,West Virginia","Martin County,Kentucky",14281,310997
+78,"Greenbrier County,West Virginia","Mason County,Kentucky",16242,410675
+79,"Greenbrier County,West Virginia","Meade County,Kentucky",22921,637424
+80,"Greenbrier County,West Virginia","Menifee County,Kentucky",15684,402692
+81,"Greenbrier County,West Virginia","Mercer County,Kentucky",19149,517392
+82,"Greenbrier County,West Virginia","Metcalfe County,Kentucky",23777,646673
+83,"Greenbrier County,West Virginia","Monroe County,Kentucky",25747,684178
+84,"Greenbrier County,West Virginia","Montgomery County,Kentucky",15381,409169
+85,"Greenbrier County,West Virginia","Morgan County,Kentucky",15463,378408
+86,"Greenbrier County,West Virginia","Muhlenberg County,Kentucky",26330,741016
+87,"Greenbrier County,West Virginia","Nelson County,Kentucky",20380,560752
+88,"Greenbrier County,West Virginia","Nicholas County,Kentucky",17059,437053
+89,"Greenbrier County,West Virginia","Ohio County,Kentucky",25243,708606
+90,"Greenbrier County,West Virginia","Oldham County,Kentucky",20532,576990
+91,"Greenbrier County,West Virginia","Owen County,Kentucky",19587,532634
+92,"Greenbrier County,West Virginia","Owsley County,Kentucky",19552,466658
+93,"Greenbrier County,West Virginia","Pendleton County,Kentucky",18831,472053
+94,"Greenbrier County,West Virginia","Perry County,Kentucky",17938,454658
+95,"Greenbrier County,West Virginia","Pike County,Kentucky",14476,276244
+96,"Greenbrier County,West Virginia","Powell County,Kentucky",16825,438915
+97,"Greenbrier County,West Virginia","Robertson County,Kentucky",16977,436559
+98,"Greenbrier County,West Virginia","Rockcastle County,Kentucky",19160,509106
+99,"Greenbrier County,West Virginia","Rowan County,Kentucky",13711,362836
+100,"Greenbrier County,West Virginia","Russell County,Kentucky",22726,600392
+101,"Greenbrier County,West Virginia","Scott County,Kentucky",17562,484967
+102,"Greenbrier County,West Virginia","Shelby County,Kentucky",19389,536244
+103,"Greenbrier County,West Virginia","Simpson County,Kentucky",26441,745422
+104,"Greenbrier County,West Virginia","Spencer County,Kentucky",19919,542092
+105,"Greenbrier County,West Virginia","Taylor County,Kentucky",22062,593176
+106,"Greenbrier County,West Virginia","Todd County,Kentucky",28095,761526
+107,"Greenbrier County,West Virginia","Trigg County,Kentucky",29074,821258
+108,"Greenbrier County,West Virginia","Trimble County,Kentucky",21606,583030
+109,"Greenbrier County,West Virginia","Union County,Kentucky",29668,823445
+110,"Greenbrier County,West Virginia","Warren County,Kentucky",25475,710371
+111,"Greenbrier County,West Virginia","Washington County,Kentucky",20390,545988
+112,"Greenbrier County,West Virginia","Wayne County,Kentucky",22902,597465
+113,"Greenbrier County,West Virginia","Webster County,Kentucky",28579,802629
+114,"Greenbrier County,West Virginia","Whitley County,Kentucky",20974,586543
+115,"Greenbrier County,West Virginia","Wolfe County,Kentucky",16557,401770
+116,"Greenbrier County,West Virginia","Woodford County,Kentucky",17782,487603
+117,"Greenbrier County,West Virginia","Adams County,Ohio",16334,413231
+118,"Greenbrier County,West Virginia","Allen County,Ohio",23067,588649
+119,"Greenbrier County,West Virginia","Ashland County,Ohio",20811,542540
+120,"Greenbrier County,West Virginia","Ashtabula County,Ohio",22134,585914
+121,"Greenbrier County,West Virginia","Athens County,Ohio",12743,318830
+122,"Greenbrier County,West Virginia","Auglaize County,Ohio",22316,605349
+123,"Greenbrier County,West Virginia","Belmont County,Ohio",16584,413467
+124,"Greenbrier County,West Virginia","Brown County,Ohio",17579,440159
+125,"Greenbrier County,West Virginia","Butler County,Ohio",20692,522184
+126,"Greenbrier County,West Virginia","Carroll County,Ohio",18491,489248
+127,"Greenbrier County,West Virginia","Champaign County,Ohio",19620,507446
+128,"Greenbrier County,West Virginia","Clark County,Ohio",18299,466990
+129,"Greenbrier County,West Virginia","Clermont County,Ohio",18413,471255
+130,"Greenbrier County,West Virginia","Clinton County,Ohio",17804,454672
+131,"Greenbrier County,West Virginia","Columbiana County,Ohio",18738,437846
+132,"Greenbrier County,West Virginia","Coshocton County,Ohio",17126,460365
+133,"Greenbrier County,West Virginia","Crawford County,Ohio",21418,553700
+134,"Greenbrier County,West Virginia","Cuyahoga County,Ohio",20527,574652
+135,"Greenbrier County,West Virginia","Darke County,Ohio",21414,562395
+136,"Greenbrier County,West Virginia","Defiance County,Ohio",26502,666970
+137,"Greenbrier County,West Virginia","Delaware County,Ohio",18572,486437
+138,"Greenbrier County,West Virginia","Fairfield County,Ohio",16103,413531
+139,"Greenbrier County,West Virginia","Fayette County,Ohio",16367,425136
+140,"Greenbrier County,West Virginia","Franklin County,Ohio",17103,443386
+141,"Greenbrier County,West Virginia","Fulton County,Ohio",26509,709269
+142,"Greenbrier County,West Virginia","Gallia County,Ohio",11681,284247
+143,"Greenbrier County,West Virginia","Geauga County,Ohio",21624,558576
+144,"Greenbrier County,West Virginia","Greene County,Ohio",17238,458288
+145,"Greenbrier County,West Virginia","Guernsey County,Ohio",14677,398284
+146,"Greenbrier County,West Virginia","Hamilton County,Ohio",20193,532762
+147,"Greenbrier County,West Virginia","Hancock County,Ohio",22595,594792
+148,"Greenbrier County,West Virginia","Hardin County,Ohio",21577,544478
+149,"Greenbrier County,West Virginia","Harrison County,Ohio",17497,471314
+150,"Greenbrier County,West Virginia","Henry County,Ohio",25308,666414
+151,"Greenbrier County,West Virginia","Highland County,Ohio",16871,413245
+152,"Greenbrier County,West Virginia","Hocking County,Ohio",14545,369495
+153,"Greenbrier County,West Virginia","Holmes County,Ohio",18185,483249
+154,"Greenbrier County,West Virginia","Huron County,Ohio",22708,584169
+155,"Greenbrier County,West Virginia","Jackson County,Ohio",12858,323796
+156,"Greenbrier County,West Virginia","Jefferson County,Ohio",17485,412817
+157,"Greenbrier County,West Virginia","Knox County,Ohio",18915,502841
+158,"Greenbrier County,West Virginia","Lawrence County,Ohio",12383,290010
+159,"Greenbrier County,West Virginia","Licking County,Ohio",18048,440541
+160,"Greenbrier County,West Virginia","Logan County,Ohio",20598,538755
+161,"Greenbrier County,West Virginia","Lorain County,Ohio",21752,604476
+162,"Greenbrier County,West Virginia","Lucas County,Ohio",26231,682292
+163,"Greenbrier County,West Virginia","Madison County,Ohio",18069,448220
+164,"Greenbrier County,West Virginia","Mahoning County,Ohio",18621,475906
+165,"Greenbrier County,West Virginia","Marion County,Ohio",19978,512530
+166,"Greenbrier County,West Virginia","Medina County,Ohio",20200,560683
+167,"Greenbrier County,West Virginia","Meigs County,Ohio",11623,289801
+168,"Greenbrier County,West Virginia","Mercer County,Ohio",23552,632282
+169,"Greenbrier County,West Virginia","Miami County,Ohio",19903,527787
+170,"Greenbrier County,West Virginia","Monroe County,Ohio",15613,387476
+171,"Greenbrier County,West Virginia","Montgomery County,Ohio",19272,505744
+172,"Greenbrier County,West Virginia","Morgan County,Ohio",14618,374124
+173,"Greenbrier County,West Virginia","Morrow County,Ohio",19380,509258
+174,"Greenbrier County,West Virginia","Muskingum County,Ohio",15523,426276
+175,"Greenbrier County,West Virginia","Noble County,Ohio",14119,370636
+176,"Greenbrier County,West Virginia","Paulding County,Ohio",25603,664555
+177,"Greenbrier County,West Virginia","Perry County,Ohio",15960,384251
+178,"Greenbrier County,West Virginia","Pickaway County,Ohio",15808,405234
+179,"Greenbrier County,West Virginia","Pike County,Ohio",14304,363103
+180,"Greenbrier County,West Virginia","Portage County,Ohio",20049,556234
+181,"Greenbrier County,West Virginia","Preble County,Ohio",20891,534321
+182,"Greenbrier County,West Virginia","Putnam County,Ohio",24189,621007
+183,"Greenbrier County,West Virginia","Richland County,Ohio",20410,544497
+184,"Greenbrier County,West Virginia","Ross County,Ohio",14552,371541
+185,"Greenbrier County,West Virginia","Sandusky County,Ohio",24352,613487
+186,"Greenbrier County,West Virginia","Scioto County,Ohio",14188,347283
+187,"Greenbrier County,West Virginia","Seneca County,Ohio",22969,587372
+188,"Greenbrier County,West Virginia","Shelby County,Ohio",20941,564073
+189,"Greenbrier County,West Virginia","Stark County,Ohio",18350,504483
+190,"Greenbrier County,West Virginia","Summit County,Ohio",19109,530271
+191,"Greenbrier County,West Virginia","Trumbull County,Ohio",19778,513370
+192,"Greenbrier County,West Virginia","Tuscarawas County,Ohio",16551,445071
+193,"Greenbrier County,West Virginia","Union County,Ohio",19102,488986
+194,"Greenbrier County,West Virginia","Van Wert County,Ohio",24301,631518
+195,"Greenbrier County,West Virginia","Vinton County,Ohio",14754,349301
+196,"Greenbrier County,West Virginia","Warren County,Ohio",18609,488731
+197,"Greenbrier County,West Virginia","Washington County,Ohio",12977,328572
+198,"Greenbrier County,West Virginia","Wayne County,Ohio",19321,507361
+199,"Greenbrier County,West Virginia","Williams County,Ohio",27679,690486
+200,"Greenbrier County,West Virginia","Wood County,Ohio",23993,636400
+201,"Greenbrier County,West Virginia","Wyandot County,Ohio",21565,558928
+202,"Greenbrier County,West Virginia","Accomack County,Virginia",23883,638646
+203,"Greenbrier County,West Virginia","Albemarle County,Virginia",10032,251146
+204,"Greenbrier County,West Virginia","Alleghany County,Virginia",4701,88169
+205,"Greenbrier County,West Virginia","Amelia County,Virginia",14733,351264
+206,"Greenbrier County,West Virginia","Amherst County,Virginia",10030,219135
+207,"Greenbrier County,West Virginia","Appomattox County,Virginia",11623,257894
+208,"Greenbrier County,West Virginia","Arlington County,Virginia",16717,451455
+209,"Greenbrier County,West Virginia","Augusta County,Virginia",8643,189485
+210,"Greenbrier County,West Virginia","Bath County,Virginia",7713,163478
+211,"Greenbrier County,West Virginia","Bedford County,Virginia",10688,223155
+212,"Greenbrier County,West Virginia","Bland County,Virginia",7442,169732
+213,"Greenbrier County,West Virginia","Botetourt County,Virginia",7856,159468
+214,"Greenbrier County,West Virginia","Brunswick County,Virginia",17276,400937
+215,"Greenbrier County,West Virginia","Buchanan County,Virginia",11436,253962
+216,"Greenbrier County,West Virginia","Buckingham County,Virginia",11906,268829
+217,"Greenbrier County,West Virginia","Campbell County,Virginia",11547,260366
+218,"Greenbrier County,West Virginia","Caroline County,Virginia",15371,419991
+219,"Greenbrier County,West Virginia","Carroll County,Virginia",9687,239170
+220,"Greenbrier County,West Virginia","Charles City County,Virginia",15472,417026
+221,"Greenbrier County,West Virginia","Charlotte County,Virginia",13508,311414
+222,"Greenbrier County,West Virginia","Chesterfield County,Virginia",14608,394810
+223,"Greenbrier County,West Virginia","Clarke County,Virginia",14212,378204
+224,"Greenbrier County,West Virginia","Craig County,Virginia",8022,141077
+225,"Greenbrier County,West Virginia","Culpeper County,Virginia",13829,340362
+226,"Greenbrier County,West Virginia","Cumberland County,Virginia",13116,296831
+227,"Greenbrier County,West Virginia","Dickenson County,Virginia",14117,294066
+228,"Greenbrier County,West Virginia","Dinwiddie County,Virginia",16355,445241
+229,"Greenbrier County,West Virginia","Essex County,Virginia",17189,444034
+230,"Greenbrier County,West Virginia","Fairfax County,Virginia",16339,441731
+231,"Greenbrier County,West Virginia","Fauquier County,Virginia",14650,399455
+232,"Greenbrier County,West Virginia","Floyd County,Virginia",11199,216797
+233,"Greenbrier County,West Virginia","Fluvanna County,Virginia",11710,303317
+234,"Greenbrier County,West Virginia","Franklin County,Virginia",10856,238578
+235,"Greenbrier County,West Virginia","Frederick County,Virginia",13664,365930
+236,"Greenbrier County,West Virginia","Giles County,Virginia",8064,139953
+237,"Greenbrier County,West Virginia","Gloucester County,Virginia",17643,471214
+238,"Greenbrier County,West Virginia","Goochland County,Virginia",12614,333928
+239,"Greenbrier County,West Virginia","Grayson County,Virginia",10090,228877
+240,"Greenbrier County,West Virginia","Greene County,Virginia",12025,286730
+241,"Greenbrier County,West Virginia","Greensville County,Virginia",17771,493993
+242,"Greenbrier County,West Virginia","Halifax County,Virginia",14867,332072
+243,"Greenbrier County,West Virginia","Hanover County,Virginia",13820,375035
+244,"Greenbrier County,West Virginia","Henrico County,Virginia",14331,387995
+245,"Greenbrier County,West Virginia","Henry County,Virginia",12265,273540
+246,"Greenbrier County,West Virginia","Highland County,Virginia",9157,173449
+247,"Greenbrier County,West Virginia","Isle of Wight County,Virginia",18584,492572
+248,"Greenbrier County,West Virginia","James City County,Virginia",16708,457797
+249,"Greenbrier County,West Virginia","King and Queen County,Virginia",16366,433381
+250,"Greenbrier County,West Virginia","King George County,Virginia",16485,447978
+251,"Greenbrier County,West Virginia","King William County,Virginia",15054,403303
+252,"Greenbrier County,West Virginia","Lancaster County,Virginia",18846,486388
+253,"Greenbrier County,West Virginia","Lee County,Virginia",15724,362159
+254,"Greenbrier County,West Virginia","Loudoun County,Virginia",15708,414070
+255,"Greenbrier County,West Virginia","Louisa County,Virginia",12271,317023
+256,"Greenbrier County,West Virginia","Lunenburg County,Virginia",15280,352698
+257,"Greenbrier County,West Virginia","Madison County,Virginia",12945,316470
+258,"Greenbrier County,West Virginia","Mathews County,Virginia",18467,494638
+259,"Greenbrier County,West Virginia","Mecklenburg County,Virginia",16271,365823
+260,"Greenbrier County,West Virginia","Middlesex County,Virginia",17244,467415
+261,"Greenbrier County,West Virginia","Montgomery County,Virginia",9147,167960
+262,"Greenbrier County,West Virginia","Nelson County,Virginia",10571,230826
+263,"Greenbrier County,West Virginia","New Kent County,Virginia",16144,431711
+264,"Greenbrier County,West Virginia","Northampton County,Virginia",21125,574460
+265,"Greenbrier County,West Virginia","Northumberland County,Virginia",18886,484901
+266,"Greenbrier County,West Virginia","Nottoway County,Virginia",14773,353078
+267,"Greenbrier County,West Virginia","Orange County,Virginia",13234,325131
+268,"Greenbrier County,West Virginia","Page County,Virginia",11878,300256
+269,"Greenbrier County,West Virginia","Patrick County,Virginia",11793,284206
+270,"Greenbrier County,West Virginia","Pittsylvania County,Virginia",13280,288526
+271,"Greenbrier County,West Virginia","Powhatan County,Virginia",13867,359150
+272,"Greenbrier County,West Virginia","Prince Edward County,Virginia",13388,310414
+273,"Greenbrier County,West Virginia","Prince George County,Virginia",16119,431825
+274,"Greenbrier County,West Virginia","Prince William County,Virginia",14750,405559
+275,"Greenbrier County,West Virginia","Pulaski County,Virginia",9242,164292
+276,"Greenbrier County,West Virginia","Rappahannock County,Virginia",13710,336743
+277,"Greenbrier County,West Virginia","Richmond County,Virginia",17586,457544
+278,"Greenbrier County,West Virginia","Roanoke County,Virginia",9214,197495
+279,"Greenbrier County,West Virginia","Rockbridge County,Virginia",7034,156525
+280,"Greenbrier County,West Virginia","Rockingham County,Virginia",10918,272606
+281,"Greenbrier County,West Virginia","Russell County,Virginia",11250,249912
+282,"Greenbrier County,West Virginia","Scott County,Virginia",13914,318039
+283,"Greenbrier County,West Virginia","Shenandoah County,Virginia",11422,302709
+284,"Greenbrier County,West Virginia","Smyth County,Virginia",9799,235084
+285,"Greenbrier County,West Virginia","Southampton County,Virginia",18149,490107
+286,"Greenbrier County,West Virginia","Spotsylvania County,Virginia",14287,358862
+287,"Greenbrier County,West Virginia","Stafford County,Virginia",15668,383155
+288,"Greenbrier County,West Virginia","Surry County,Virginia",17451,456658
+289,"Greenbrier County,West Virginia","Sussex County,Virginia",16813,460350
+290,"Greenbrier County,West Virginia","Tazewell County,Virginia",8257,188320
+291,"Greenbrier County,West Virginia","Warren County,Virginia",13325,347302
+292,"Greenbrier County,West Virginia","Washington County,Virginia",11193,274551
+293,"Greenbrier County,West Virginia","Westmoreland County,Virginia",17923,476464
+294,"Greenbrier County,West Virginia","Wise County,Virginia",14028,322248
+295,"Greenbrier County,West Virginia","Wythe County,Virginia",8046,187949
+296,"Greenbrier County,West Virginia","York County,Virginia",17996,488571
+297,"Greenbrier County,West Virginia","Alexandria City County,Virginia",16919,464101
+298,"Greenbrier County,West Virginia","Bedford City County,Virginia",9720,206302
+299,"Greenbrier County,West Virginia","Bristol City County,Virginia",11668,300268
+300,"Greenbrier County,West Virginia","Buena Vista City County,Virginia",7389,170502
+301,"Greenbrier County,West Virginia","Charlottesville City County,Virginia",10501,266360
+302,"Greenbrier County,West Virginia","Chesapeake City County,Virginia",19459,541477
+303,"Greenbrier County,West Virginia","Clifton Forge City County,Virginia",5245,108375
+304,"Greenbrier County,West Virginia","Colonial Heights City County,Virginia",15168,410702
+305,"Greenbrier County,West Virginia","Covington City County,Virginia",4770,91754
+306,"Greenbrier County,West Virginia","Danville City County,Virginia",14319,308743
+307,"Greenbrier County,West Virginia","Emporia City County,Virginia",17479,480586
+308,"Greenbrier County,West Virginia","Fairfax City County,Virginia",15882,431306
+309,"Greenbrier County,West Virginia","Falls Church City County,Virginia",16214,445779
+310,"Greenbrier County,West Virginia","Franklin City County,Virginia",18696,497962
+311,"Greenbrier County,West Virginia","Fredericksburg City County,Virginia",15420,368521
+312,"Greenbrier County,West Virginia","Galax City County,Virginia",10311,245036
+313,"Greenbrier County,West Virginia","Hampton City County,Virginia",17946,498278
+314,"Greenbrier County,West Virginia","Harrisonburg City County,Virginia",9977,252502
+315,"Greenbrier County,West Virginia","Hopewell City County,Virginia",15204,409668
+316,"Greenbrier County,West Virginia","Lexington City County,Virginia",7023,158994
+317,"Greenbrier County,West Virginia","Lynchburg City County,Virginia",10606,234108
+318,"Greenbrier County,West Virginia","Manassas City County,Virginia",14977,410504
+319,"Greenbrier County,West Virginia","Manassas Park City County,Virginia",15480,416847
+320,"Greenbrier County,West Virginia","Martinsville City County,Virginia",12418,268642
+321,"Greenbrier County,West Virginia","Newport News City County,Virginia",17502,484763
+322,"Greenbrier County,West Virginia","Norfolk City County,Virginia",19252,523693
+323,"Greenbrier County,West Virginia","Norton City County,Virginia",13552,313138
+324,"Greenbrier County,West Virginia","Petersburg City County,Virginia",15039,411690
+325,"Greenbrier County,West Virginia","Poquoson City County,Virginia",18174,495340
+326,"Greenbrier County,West Virginia","Portsmouth City County,Virginia",19191,532514
+327,"Greenbrier County,West Virginia","Radford County,Virginia",9554,166001
+328,"Greenbrier County,West Virginia","Richmond City County,Virginia",13907,375805
+329,"Greenbrier County,West Virginia","Roanoke City County,Virginia",8752,188937
+330,"Greenbrier County,West Virginia","Salem City County,Virginia",8582,187408
+331,"Greenbrier County,West Virginia","South Boston City County,Virginia",14871,330891
+332,"Greenbrier County,West Virginia","Staunton City County,Virginia",8794,213637
+333,"Greenbrier County,West Virginia","Suffolk City County,Virginia",19426,507296
+334,"Greenbrier County,West Virginia","Virginia Beach City County,Virginia",19813,546952
+335,"Greenbrier County,West Virginia","Waynesboro City County,Virginia",9132,226355
+336,"Greenbrier County,West Virginia","Williamsburg City County,Virginia",16547,457013
+337,"Greenbrier County,West Virginia","Winchester City County,Virginia",13544,362074
+338,"Greenbrier County,West Virginia","Barbour County,West Virginia",11433,244574
+339,"Greenbrier County,West Virginia","Berkeley County,West Virginia",15281,409282
+340,"Greenbrier County,West Virginia","Boone County,West Virginia",9132,167308
+341,"Greenbrier County,West Virginia","Braxton County,West Virginia",8123,135553
+342,"Greenbrier County,West Virginia","Brooke County,West Virginia",15791,376367
+343,"Greenbrier County,West Virginia","Cabell County,West Virginia",10700,263214
+344,"Greenbrier County,West Virginia","Calhoun County,West Virginia",9894,189504
+345,"Greenbrier County,West Virginia","Clay County,West Virginia",8194,131844
+346,"Greenbrier County,West Virginia","Doddridge County,West Virginia",11637,221430
+347,"Greenbrier County,West Virginia","Fayette County,West Virginia",5583,78584
+348,"Greenbrier County,West Virginia","Gilmer County,West Virginia",9691,185233
+349,"Greenbrier County,West Virginia","Grant County,West Virginia",13515,273819
+350,"Greenbrier County,West Virginia","Hampshire County,West Virginia",15401,380186
+351,"Greenbrier County,West Virginia","Hancock County,West Virginia",17418,403714
+352,"Greenbrier County,West Virginia","Hardy County,West Virginia",14628,281288
+353,"Greenbrier County,West Virginia","Harrison County,West Virginia",10666,230944
+354,"Greenbrier County,West Virginia","Jackson County,West Virginia",10019,243025
+355,"Greenbrier County,West Virginia","Jefferson County,West Virginia",15332,396688
+356,"Greenbrier County,West Virginia","Kanawha County,West Virginia",7782,165007
+357,"Greenbrier County,West Virginia","Lewis County,West Virginia",9296,184414
+358,"Greenbrier County,West Virginia","Lincoln County,West Virginia",11364,240892
+359,"Greenbrier County,West Virginia","Logan County,West Virginia",10922,197798
+360,"Greenbrier County,West Virginia","McDowell County,West Virginia",9301,172249
+361,"Greenbrier County,West Virginia","Marion County,West Virginia",11812,258112
+362,"Greenbrier County,West Virginia","Marshall County,West Virginia",16778,370811
+363,"Greenbrier County,West Virginia","Mason County,West Virginia",10175,249121
+364,"Greenbrier County,West Virginia","Mercer County,West Virginia",5995,128239
+365,"Greenbrier County,West Virginia","Mineral County,West Virginia",16111,319478
+366,"Greenbrier County,West Virginia","Mingo County,West Virginia",11501,261733
+367,"Greenbrier County,West Virginia","Monongalia County,West Virginia",12022,283580
+368,"Greenbrier County,West Virginia","Monroe County,West Virginia",5551,93369
+369,"Greenbrier County,West Virginia","Morgan County,West Virginia",15527,410408
+370,"Greenbrier County,West Virginia","Nicholas County,West Virginia",5742,85726
+371,"Greenbrier County,West Virginia","Ohio County,West Virginia",15698,385313
+372,"Greenbrier County,West Virginia","Pendleton County,West Virginia",11295,221544
+373,"Greenbrier County,West Virginia","Pleasants County,West Virginia",13465,307085
+374,"Greenbrier County,West Virginia","Pocahontas County,West Virginia",7735,125523
+375,"Greenbrier County,West Virginia","Preston County,West Virginia",14168,310311
+376,"Greenbrier County,West Virginia","Putnam County,West Virginia",8957,214739
+377,"Greenbrier County,West Virginia","Raleigh County,West Virginia",4807,90188
+378,"Greenbrier County,West Virginia","Randolph County,West Virginia",11749,206440
+379,"Greenbrier County,West Virginia","Ritchie County,West Virginia",12367,231879
+380,"Greenbrier County,West Virginia","Roane County,West Virginia",11488,213257
+381,"Greenbrier County,West Virginia","Summers County,West Virginia",6023,84076
+382,"Greenbrier County,West Virginia","Taylor County,West Virginia",11704,253684
+383,"Greenbrier County,West Virginia","Tucker County,West Virginia",12864,277394
+384,"Greenbrier County,West Virginia","Tyler County,West Virginia",14391,299751
+385,"Greenbrier County,West Virginia","Upshur County,West Virginia",10861,199111
+386,"Greenbrier County,West Virginia","Wayne County,West Virginia",12291,295841
+387,"Greenbrier County,West Virginia","Webster County,West Virginia",8494,130214
+388,"Greenbrier County,West Virginia","Wetzel County,West Virginia",13346,282427
+389,"Greenbrier County,West Virginia","Wirt County,West Virginia",12410,239948
+390,"Greenbrier County,West Virginia","Wood County,West Virginia",11800,302052
+391,"Greenbrier County,West Virginia","Wyoming County,West Virginia",6758,130161

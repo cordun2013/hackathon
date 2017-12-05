@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Nicholas County,West Virginia","Adair County,Kentucky",20612,580705
+1,"Nicholas County,West Virginia","Allen County,Kentucky",23230,681353
+2,"Nicholas County,West Virginia","Anderson County,Kentucky",16412,483745
+3,"Nicholas County,West Virginia","Ballard County,Kentucky",29390,873516
+4,"Nicholas County,West Virginia","Barren County,Kentucky",22357,639733
+5,"Nicholas County,West Virginia","Bath County,Kentucky",12059,354926
+6,"Nicholas County,West Virginia","Bell County,Kentucky",19066,446567
+7,"Nicholas County,West Virginia","Boone County,Kentucky",17872,476319
+8,"Nicholas County,West Virginia","Bourbon County,Kentucky",13973,401343
+9,"Nicholas County,West Virginia","Boyd County,Kentucky",8734,249250
+10,"Nicholas County,West Virginia","Boyle County,Kentucky",17640,487631
+11,"Nicholas County,West Virginia","Bracken County,Kentucky",14384,395426
+12,"Nicholas County,West Virginia","Breathitt County,Kentucky",15446,395952
+13,"Nicholas County,West Virginia","Breckinridge County,Kentucky",21945,636426
+14,"Nicholas County,West Virginia","Bullitt County,Kentucky",18515,557545
+15,"Nicholas County,West Virginia","Butler County,Kentucky",22610,658424
+16,"Nicholas County,West Virginia","Caldwell County,Kentucky",25502,764369
+17,"Nicholas County,West Virginia","Calloway County,Kentucky",28312,849361
+18,"Nicholas County,West Virginia","Campbell County,Kentucky",16084,435297
+19,"Nicholas County,West Virginia","Carlisle County,Kentucky",29847,888884
+20,"Nicholas County,West Virginia","Carroll County,Kentucky",18956,531559
+21,"Nicholas County,West Virginia","Carter County,Kentucky",9899,279348
+22,"Nicholas County,West Virginia","Casey County,Kentucky",19135,519136
+23,"Nicholas County,West Virginia","Christian County,Kentucky",25151,759626
+24,"Nicholas County,West Virginia","Clay County,Kentucky",17944,483067
+25,"Nicholas County,West Virginia","Clinton County,Kentucky",21019,584071
+26,"Nicholas County,West Virginia","Crittenden County,Kentucky",27082,797439
+27,"Nicholas County,West Virginia","Cumberland County,Kentucky",21773,602310
+28,"Nicholas County,West Virginia","Daviess County,Kentucky",23633,704866
+29,"Nicholas County,West Virginia","Edmonson County,Kentucky",22050,646299
+30,"Nicholas County,West Virginia","Elliott County,Kentucky",11230,305118
+31,"Nicholas County,West Virginia","Estill County,Kentucky",15051,417241
+32,"Nicholas County,West Virginia","Fayette County,Kentucky",14219,421237
+33,"Nicholas County,West Virginia","Fleming County,Kentucky",12485,358111
+34,"Nicholas County,West Virginia","Floyd County,Kentucky",12867,356515
+35,"Nicholas County,West Virginia","Franklin County,Kentucky",16256,470154
+36,"Nicholas County,West Virginia","Fulton County,Kentucky",30251,909848
+37,"Nicholas County,West Virginia","Gallatin County,Kentucky",17954,522218
+38,"Nicholas County,West Virginia","Garrard County,Kentucky",16824,468391
+39,"Nicholas County,West Virginia","Grant County,Kentucky",16753,496325
+40,"Nicholas County,West Virginia","Graves County,Kentucky",28872,861590
+41,"Nicholas County,West Virginia","Grayson County,Kentucky",20937,615060
+42,"Nicholas County,West Virginia","Green County,Kentucky",20717,580265
+43,"Nicholas County,West Virginia","Greenup County,Kentucky",10510,290377
+44,"Nicholas County,West Virginia","Hancock County,Kentucky",22741,669319
+45,"Nicholas County,West Virginia","Hardin County,Kentucky",19813,577192
+46,"Nicholas County,West Virginia","Harlan County,Kentucky",17668,394193
+47,"Nicholas County,West Virginia","Harrison County,Kentucky",15543,434443
+48,"Nicholas County,West Virginia","Hart County,Kentucky",20613,604821
+49,"Nicholas County,West Virginia","Henderson County,Kentucky",25439,757296
+50,"Nicholas County,West Virginia","Henry County,Kentucky",17858,513872
+51,"Nicholas County,West Virginia","Hickman County,Kentucky",29881,890176
+52,"Nicholas County,West Virginia","Hopkins County,Kentucky",24960,738837
+53,"Nicholas County,West Virginia","Jackson County,Kentucky",17724,465250
+54,"Nicholas County,West Virginia","Jefferson County,Kentucky",17951,529406
+55,"Nicholas County,West Virginia","Jessamine County,Kentucky",15688,442701
+56,"Nicholas County,West Virginia","Johnson County,Kentucky",11516,322146
+57,"Nicholas County,West Virginia","Kenton County,Kentucky",17241,464013
+58,"Nicholas County,West Virginia","Knott County,Kentucky",14049,388397
+59,"Nicholas County,West Virginia","Knox County,Kentucky",19227,547283
+60,"Nicholas County,West Virginia","Larue County,Kentucky",19885,564368
+61,"Nicholas County,West Virginia","Laurel County,Kentucky",18078,518678
+62,"Nicholas County,West Virginia","Lawrence County,Kentucky",10658,293570
+63,"Nicholas County,West Virginia","Lee County,Kentucky",15896,410978
+64,"Nicholas County,West Virginia","Leslie County,Kentucky",17129,458071
+65,"Nicholas County,West Virginia","Letcher County,Kentucky",15121,391337
+66,"Nicholas County,West Virginia","Lewis County,Kentucky",11937,331165
+67,"Nicholas County,West Virginia","Lincoln County,Kentucky",17534,485309
+68,"Nicholas County,West Virginia","Livingston County,Kentucky",27677,814336
+69,"Nicholas County,West Virginia","Logan County,Kentucky",24350,701662
+70,"Nicholas County,West Virginia","Lyon County,Kentucky",27811,824727
+71,"Nicholas County,West Virginia","McCracken County,Kentucky",28002,841576
+72,"Nicholas County,West Virginia","McCreary County,Kentucky",20183,563120
+73,"Nicholas County,West Virginia","Madison County,Kentucky",15217,432261
+74,"Nicholas County,West Virginia","Magoffin County,Kentucky",12484,342825
+75,"Nicholas County,West Virginia","Marion County,Kentucky",18263,525977
+76,"Nicholas County,West Virginia","Marshall County,Kentucky",27417,825147
+77,"Nicholas County,West Virginia","Martin County,Kentucky",12143,325915
+78,"Nicholas County,West Virginia","Mason County,Kentucky",13733,374972
+79,"Nicholas County,West Virginia","Meade County,Kentucky",20412,601721
+80,"Nicholas County,West Virginia","Menifee County,Kentucky",13175,366989
+81,"Nicholas County,West Virginia","Mercer County,Kentucky",16639,481688
+82,"Nicholas County,West Virginia","Metcalfe County,Kentucky",21268,610970
+83,"Nicholas County,West Virginia","Monroe County,Kentucky",23238,648474
+84,"Nicholas County,West Virginia","Montgomery County,Kentucky",12872,373466
+85,"Nicholas County,West Virginia","Morgan County,Kentucky",12953,342705
+86,"Nicholas County,West Virginia","Muhlenberg County,Kentucky",23821,705313
+87,"Nicholas County,West Virginia","Nelson County,Kentucky",17871,525049
+88,"Nicholas County,West Virginia","Nicholas County,Kentucky",14550,401350
+89,"Nicholas County,West Virginia","Ohio County,Kentucky",22734,672903
+90,"Nicholas County,West Virginia","Oldham County,Kentucky",18023,541287
+91,"Nicholas County,West Virginia","Owen County,Kentucky",17078,496931
+92,"Nicholas County,West Virginia","Owsley County,Kentucky",17043,430954
+93,"Nicholas County,West Virginia","Pendleton County,Kentucky",16321,436350
+94,"Nicholas County,West Virginia","Perry County,Kentucky",15429,418955
+95,"Nicholas County,West Virginia","Pike County,Kentucky",12423,321454
+96,"Nicholas County,West Virginia","Powell County,Kentucky",14316,403212
+97,"Nicholas County,West Virginia","Robertson County,Kentucky",14467,400856
+98,"Nicholas County,West Virginia","Rockcastle County,Kentucky",16651,473403
+99,"Nicholas County,West Virginia","Rowan County,Kentucky",11202,327133
+100,"Nicholas County,West Virginia","Russell County,Kentucky",20216,564689
+101,"Nicholas County,West Virginia","Scott County,Kentucky",15053,449264
+102,"Nicholas County,West Virginia","Shelby County,Kentucky",16880,500540
+103,"Nicholas County,West Virginia","Simpson County,Kentucky",23932,709719
+104,"Nicholas County,West Virginia","Spencer County,Kentucky",17410,506388
+105,"Nicholas County,West Virginia","Taylor County,Kentucky",19552,557473
+106,"Nicholas County,West Virginia","Todd County,Kentucky",25586,725822
+107,"Nicholas County,West Virginia","Trigg County,Kentucky",26564,785555
+108,"Nicholas County,West Virginia","Trimble County,Kentucky",19097,547327
+109,"Nicholas County,West Virginia","Union County,Kentucky",27159,787742
+110,"Nicholas County,West Virginia","Warren County,Kentucky",22966,674668
+111,"Nicholas County,West Virginia","Washington County,Kentucky",17881,510285
+112,"Nicholas County,West Virginia","Wayne County,Kentucky",20392,561762
+113,"Nicholas County,West Virginia","Webster County,Kentucky",26070,766926
+114,"Nicholas County,West Virginia","Whitley County,Kentucky",18911,553163
+115,"Nicholas County,West Virginia","Wolfe County,Kentucky",14048,366067
+116,"Nicholas County,West Virginia","Woodford County,Kentucky",15273,451900
+117,"Nicholas County,West Virginia","Adams County,Ohio",13825,377528
+118,"Nicholas County,West Virginia","Allen County,Ohio",20271,551744
+119,"Nicholas County,West Virginia","Ashland County,Ohio",18099,500565
+120,"Nicholas County,West Virginia","Ashtabula County,Ohio",17568,515075
+121,"Nicholas County,West Virginia","Athens County,Ohio",10030,276856
+122,"Nicholas County,West Virginia","Auglaize County,Ohio",19807,569645
+123,"Nicholas County,West Virginia","Belmont County,Ohio",12017,342628
+124,"Nicholas County,West Virginia","Brown County,Ohio",15070,404456
+125,"Nicholas County,West Virginia","Butler County,Ohio",18182,486481
+126,"Nicholas County,West Virginia","Carroll County,Ohio",14962,378486
+127,"Nicholas County,West Virginia","Champaign County,Ohio",17111,471743
+128,"Nicholas County,West Virginia","Clark County,Ohio",15790,431287
+129,"Nicholas County,West Virginia","Clermont County,Ohio",15903,435552
+130,"Nicholas County,West Virginia","Clinton County,Ohio",15294,418969
+131,"Nicholas County,West Virginia","Columbiana County,Ohio",14171,367007
+132,"Nicholas County,West Virginia","Coshocton County,Ohio",14414,418390
+133,"Nicholas County,West Virginia","Crawford County,Ohio",18706,511725
+134,"Nicholas County,West Virginia","Cuyahoga County,Ohio",17564,512918
+135,"Nicholas County,West Virginia","Darke County,Ohio",18905,526692
+136,"Nicholas County,West Virginia","Defiance County,Ohio",23707,630065
+137,"Nicholas County,West Virginia","Delaware County,Ohio",15860,444462
+138,"Nicholas County,West Virginia","Fairfield County,Ohio",13391,371557
+139,"Nicholas County,West Virginia","Fayette County,Ohio",13858,389432
+140,"Nicholas County,West Virginia","Franklin County,Ohio",14391,401411
+141,"Nicholas County,West Virginia","Fulton County,Ohio",23797,667294
+142,"Nicholas County,West Virginia","Gallia County,Ohio",9171,248544
+143,"Nicholas County,West Virginia","Geauga County,Ohio",17058,487737
+144,"Nicholas County,West Virginia","Greene County,Ohio",14728,422585
+145,"Nicholas County,West Virginia","Guernsey County,Ohio",11965,356309
+146,"Nicholas County,West Virginia","Hamilton County,Ohio",17684,497059
+147,"Nicholas County,West Virginia","Hancock County,Ohio",19883,552817
+148,"Nicholas County,West Virginia","Hardin County,Ohio",18782,507574
+149,"Nicholas County,West Virginia","Harrison County,Ohio",13978,381342
+150,"Nicholas County,West Virginia","Henry County,Ohio",22596,624439
+151,"Nicholas County,West Virginia","Highland County,Ohio",14362,377542
+152,"Nicholas County,West Virginia","Hocking County,Ohio",11833,327520
+153,"Nicholas County,West Virginia","Holmes County,Ohio",15473,441274
+154,"Nicholas County,West Virginia","Huron County,Ohio",19996,542194
+155,"Nicholas County,West Virginia","Jackson County,Ohio",10349,288093
+156,"Nicholas County,West Virginia","Jefferson County,Ohio",12919,341977
+157,"Nicholas County,West Virginia","Knox County,Ohio",16203,460866
+158,"Nicholas County,West Virginia","Lawrence County,Ohio",9874,254307
+159,"Nicholas County,West Virginia","Licking County,Ohio",15336,398566
+160,"Nicholas County,West Virginia","Logan County,Ohio",17802,501851
+161,"Nicholas County,West Virginia","Lorain County,Ohio",18616,542639
+162,"Nicholas County,West Virginia","Lucas County,Ohio",23189,671583
+163,"Nicholas County,West Virginia","Madison County,Ohio",15559,412517
+164,"Nicholas County,West Virginia","Mahoning County,Ohio",14054,405067
+165,"Nicholas County,West Virginia","Marion County,Ohio",17266,470555
+166,"Nicholas County,West Virginia","Medina County,Ohio",17488,518708
+167,"Nicholas County,West Virginia","Meigs County,Ohio",8911,247826
+168,"Nicholas County,West Virginia","Mercer County,Ohio",21043,596579
+169,"Nicholas County,West Virginia","Miami County,Ohio",17393,492084
+170,"Nicholas County,West Virginia","Monroe County,Ohio",12046,298926
+171,"Nicholas County,West Virginia","Montgomery County,Ohio",16763,470040
+172,"Nicholas County,West Virginia","Morgan County,Ohio",11906,332149
+173,"Nicholas County,West Virginia","Morrow County,Ohio",16668,467283
+174,"Nicholas County,West Virginia","Muskingum County,Ohio",12811,384301
+175,"Nicholas County,West Virginia","Noble County,Ohio",11406,328661
+176,"Nicholas County,West Virginia","Paulding County,Ohio",22808,627650
+177,"Nicholas County,West Virginia","Perry County,Ohio",13248,342276
+178,"Nicholas County,West Virginia","Pickaway County,Ohio",13299,369531
+179,"Nicholas County,West Virginia","Pike County,Ohio",11795,327400
+180,"Nicholas County,West Virginia","Portage County,Ohio",15909,461080
+181,"Nicholas County,West Virginia","Preble County,Ohio",18382,498618
+182,"Nicholas County,West Virginia","Putnam County,Ohio",21394,584103
+183,"Nicholas County,West Virginia","Richland County,Ohio",17697,502522
+184,"Nicholas County,West Virginia","Ross County,Ohio",12043,335838
+185,"Nicholas County,West Virginia","Sandusky County,Ohio",21477,630158
+186,"Nicholas County,West Virginia","Scioto County,Ohio",11679,311580
+187,"Nicholas County,West Virginia","Seneca County,Ohio",20257,545397
+188,"Nicholas County,West Virginia","Shelby County,Ohio",18432,528370
+189,"Nicholas County,West Virginia","Stark County,Ohio",15638,462508
+190,"Nicholas County,West Virginia","Summit County,Ohio",16396,488297
+191,"Nicholas County,West Virginia","Trumbull County,Ohio",15212,442531
+192,"Nicholas County,West Virginia","Tuscarawas County,Ohio",13839,403096
+193,"Nicholas County,West Virginia","Union County,Ohio",16306,452082
+194,"Nicholas County,West Virginia","Van Wert County,Ohio",21505,594614
+195,"Nicholas County,West Virginia","Vinton County,Ohio",11974,310683
+196,"Nicholas County,West Virginia","Warren County,Ohio",16100,453027
+197,"Nicholas County,West Virginia","Washington County,Ohio",10265,286597
+198,"Nicholas County,West Virginia","Wayne County,Ohio",16609,465387
+199,"Nicholas County,West Virginia","Williams County,Ohio",24884,653581
+200,"Nicholas County,West Virginia","Wood County,Ohio",21281,594425
+201,"Nicholas County,West Virginia","Wyandot County,Ohio",18853,516953
+202,"Nicholas County,West Virginia","Accomack County,Virginia",25831,692119
+203,"Nicholas County,West Virginia","Albemarle County,Virginia",11981,304618
+204,"Nicholas County,West Virginia","Alleghany County,Virginia",6650,141641
+205,"Nicholas County,West Virginia","Amelia County,Virginia",16682,404736
+206,"Nicholas County,West Virginia","Amherst County,Virginia",11979,272607
+207,"Nicholas County,West Virginia","Appomattox County,Virginia",13572,311366
+208,"Nicholas County,West Virginia","Arlington County,Virginia",18345,533877
+209,"Nicholas County,West Virginia","Augusta County,Virginia",10592,242958
+210,"Nicholas County,West Virginia","Bath County,Virginia",9662,216951
+211,"Nicholas County,West Virginia","Bedford County,Virginia",12636,276628
+212,"Nicholas County,West Virginia","Bland County,Virginia",7185,180564
+213,"Nicholas County,West Virginia","Botetourt County,Virginia",9804,212941
+214,"Nicholas County,West Virginia","Brunswick County,Virginia",19225,454410
+215,"Nicholas County,West Virginia","Buchanan County,Virginia",11180,264794
+216,"Nicholas County,West Virginia","Buckingham County,Virginia",13855,322302
+217,"Nicholas County,West Virginia","Campbell County,Virginia",13496,313838
+218,"Nicholas County,West Virginia","Caroline County,Virginia",17320,473464
+219,"Nicholas County,West Virginia","Carroll County,Virginia",9431,250002
+220,"Nicholas County,West Virginia","Charles City County,Virginia",17421,470499
+221,"Nicholas County,West Virginia","Charlotte County,Virginia",15457,364887
+222,"Nicholas County,West Virginia","Chesterfield County,Virginia",16557,448282
+223,"Nicholas County,West Virginia","Clarke County,Virginia",16161,431676
+224,"Nicholas County,West Virginia","Craig County,Virginia",9867,235429
+225,"Nicholas County,West Virginia","Culpeper County,Virginia",15778,393835
+226,"Nicholas County,West Virginia","Cumberland County,Virginia",15065,350304
+227,"Nicholas County,West Virginia","Dickenson County,Virginia",13860,304898
+228,"Nicholas County,West Virginia","Dinwiddie County,Virginia",18304,498714
+229,"Nicholas County,West Virginia","Essex County,Virginia",19138,497506
+230,"Nicholas County,West Virginia","Fairfax County,Virginia",18036,524544
+231,"Nicholas County,West Virginia","Fauquier County,Virginia",16599,452928
+232,"Nicholas County,West Virginia","Floyd County,Virginia",11052,268966
+233,"Nicholas County,West Virginia","Fluvanna County,Virginia",13659,356790
+234,"Nicholas County,West Virginia","Franklin County,Virginia",12805,292050
+235,"Nicholas County,West Virginia","Frederick County,Virginia",14907,379037
+236,"Nicholas County,West Virginia","Giles County,Virginia",7916,192122
+237,"Nicholas County,West Virginia","Gloucester County,Virginia",19591,524687
+238,"Nicholas County,West Virginia","Goochland County,Virginia",14563,387401
+239,"Nicholas County,West Virginia","Grayson County,Virginia",9834,239709
+240,"Nicholas County,West Virginia","Greene County,Virginia",13974,340203
+241,"Nicholas County,West Virginia","Greensville County,Virginia",19720,547465
+242,"Nicholas County,West Virginia","Halifax County,Virginia",16816,385545
+243,"Nicholas County,West Virginia","Hanover County,Virginia",15769,428508
+244,"Nicholas County,West Virginia","Henrico County,Virginia",16280,441467
+245,"Nicholas County,West Virginia","Henry County,Virginia",13304,336723
+246,"Nicholas County,West Virginia","Highland County,Virginia",9248,168952
+247,"Nicholas County,West Virginia","Isle of Wight County,Virginia",20532,546044
+248,"Nicholas County,West Virginia","James City County,Virginia",18657,511269
+249,"Nicholas County,West Virginia","King and Queen County,Virginia",18315,486853
+250,"Nicholas County,West Virginia","King George County,Virginia",18433,501450
+251,"Nicholas County,West Virginia","King William County,Virginia",17002,456776
+252,"Nicholas County,West Virginia","Lancaster County,Virginia",20795,539861
+253,"Nicholas County,West Virginia","Lee County,Virginia",15468,372991
+254,"Nicholas County,West Virginia","Loudoun County,Virginia",17657,467543
+255,"Nicholas County,West Virginia","Louisa County,Virginia",14220,370496
+256,"Nicholas County,West Virginia","Lunenburg County,Virginia",17229,406171
+257,"Nicholas County,West Virginia","Madison County,Virginia",14894,369943
+258,"Nicholas County,West Virginia","Mathews County,Virginia",20416,548110
+259,"Nicholas County,West Virginia","Mecklenburg County,Virginia",18220,419295
+260,"Nicholas County,West Virginia","Middlesex County,Virginia",19193,520887
+261,"Nicholas County,West Virginia","Montgomery County,Virginia",8999,220129
+262,"Nicholas County,West Virginia","Nelson County,Virginia",12520,284298
+263,"Nicholas County,West Virginia","New Kent County,Virginia",18093,485183
+264,"Nicholas County,West Virginia","Northampton County,Virginia",23074,627933
+265,"Nicholas County,West Virginia","Northumberland County,Virginia",20835,538373
+266,"Nicholas County,West Virginia","Nottoway County,Virginia",16722,406551
+267,"Nicholas County,West Virginia","Orange County,Virginia",15182,378604
+268,"Nicholas County,West Virginia","Page County,Virginia",13828,353734
+269,"Nicholas County,West Virginia","Patrick County,Virginia",11537,295037
+270,"Nicholas County,West Virginia","Pittsylvania County,Virginia",15229,341999
+271,"Nicholas County,West Virginia","Powhatan County,Virginia",15816,412622
+272,"Nicholas County,West Virginia","Prince Edward County,Virginia",15337,363886
+273,"Nicholas County,West Virginia","Prince George County,Virginia",18067,485298
+274,"Nicholas County,West Virginia","Prince William County,Virginia",16699,459031
+275,"Nicholas County,West Virginia","Pulaski County,Virginia",9094,216461
+276,"Nicholas County,West Virginia","Rappahannock County,Virginia",15658,390215
+277,"Nicholas County,West Virginia","Richmond County,Virginia",19535,511017
+278,"Nicholas County,West Virginia","Roanoke County,Virginia",10619,262923
+279,"Nicholas County,West Virginia","Rockbridge County,Virginia",8983,209998
+280,"Nicholas County,West Virginia","Rockingham County,Virginia",12867,326079
+281,"Nicholas County,West Virginia","Russell County,Virginia",10994,260744
+282,"Nicholas County,West Virginia","Scott County,Virginia",13658,328871
+283,"Nicholas County,West Virginia","Shenandoah County,Virginia",13371,356182
+284,"Nicholas County,West Virginia","Smyth County,Virginia",9543,245916
+285,"Nicholas County,West Virginia","Southampton County,Virginia",20098,543579
+286,"Nicholas County,West Virginia","Spotsylvania County,Virginia",16236,412334
+287,"Nicholas County,West Virginia","Stafford County,Virginia",17617,436627
+288,"Nicholas County,West Virginia","Surry County,Virginia",19400,510131
+289,"Nicholas County,West Virginia","Sussex County,Virginia",18762,513822
+290,"Nicholas County,West Virginia","Tazewell County,Virginia",8001,199152
+291,"Nicholas County,West Virginia","Warren County,Virginia",15274,400775
+292,"Nicholas County,West Virginia","Washington County,Virginia",10936,285383
+293,"Nicholas County,West Virginia","Westmoreland County,Virginia",19408,518275
+294,"Nicholas County,West Virginia","Wise County,Virginia",13772,333080
+295,"Nicholas County,West Virginia","Wythe County,Virginia",7790,198781
+296,"Nicholas County,West Virginia","York County,Virginia",19944,542044
+297,"Nicholas County,West Virginia","Alexandria City County,Virginia",18868,517574
+298,"Nicholas County,West Virginia","Bedford City County,Virginia",11668,259774
+299,"Nicholas County,West Virginia","Bristol City County,Virginia",11411,311100
+300,"Nicholas County,West Virginia","Buena Vista City County,Virginia",9338,223975
+301,"Nicholas County,West Virginia","Charlottesville City County,Virginia",12450,319833
+302,"Nicholas County,West Virginia","Chesapeake City County,Virginia",21408,594949
+303,"Nicholas County,West Virginia","Clifton Forge City County,Virginia",7194,161848
+304,"Nicholas County,West Virginia","Colonial Heights City County,Virginia",17117,464175
+305,"Nicholas County,West Virginia","Covington City County,Virginia",6719,145227
+306,"Nicholas County,West Virginia","Danville City County,Virginia",15462,391178
+307,"Nicholas County,West Virginia","Emporia City County,Virginia",19427,534059
+308,"Nicholas County,West Virginia","Fairfax City County,Virginia",17831,484779
+309,"Nicholas County,West Virginia","Falls Church City County,Virginia",18163,499252
+310,"Nicholas County,West Virginia","Franklin City County,Virginia",20645,551434
+311,"Nicholas County,West Virginia","Fredericksburg City County,Virginia",17369,421994
+312,"Nicholas County,West Virginia","Galax City County,Virginia",10054,255868
+313,"Nicholas County,West Virginia","Hampton City County,Virginia",19895,551750
+314,"Nicholas County,West Virginia","Harrisonburg City County,Virginia",11926,305975
+315,"Nicholas County,West Virginia","Hopewell City County,Virginia",17153,463141
+316,"Nicholas County,West Virginia","Lexington City County,Virginia",8972,212466
+317,"Nicholas County,West Virginia","Lynchburg City County,Virginia",12555,287581
+318,"Nicholas County,West Virginia","Manassas City County,Virginia",16926,463976
+319,"Nicholas County,West Virginia","Manassas Park City County,Virginia",17429,470319
+320,"Nicholas County,West Virginia","Martinsville City County,Virginia",13832,345516
+321,"Nicholas County,West Virginia","Newport News City County,Virginia",19451,538236
+322,"Nicholas County,West Virginia","Norfolk City County,Virginia",21201,577166
+323,"Nicholas County,West Virginia","Norton City County,Virginia",13295,323970
+324,"Nicholas County,West Virginia","Petersburg City County,Virginia",16988,465162
+325,"Nicholas County,West Virginia","Poquoson City County,Virginia",20123,548813
+326,"Nicholas County,West Virginia","Portsmouth City County,Virginia",21140,585987
+327,"Nicholas County,West Virginia","Radford County,Virginia",9407,218170
+328,"Nicholas County,West Virginia","Richmond City County,Virginia",15856,429278
+329,"Nicholas County,West Virginia","Roanoke City County,Virginia",10701,242409
+330,"Nicholas County,West Virginia","Salem City County,Virginia",10531,240880
+331,"Nicholas County,West Virginia","South Boston City County,Virginia",16820,384363
+332,"Nicholas County,West Virginia","Staunton City County,Virginia",10743,267110
+333,"Nicholas County,West Virginia","Suffolk City County,Virginia",21375,560768
+334,"Nicholas County,West Virginia","Virginia Beach City County,Virginia",21762,600424
+335,"Nicholas County,West Virginia","Waynesboro City County,Virginia",11081,279828
+336,"Nicholas County,West Virginia","Williamsburg City County,Virginia",18495,510485
+337,"Nicholas County,West Virginia","Winchester City County,Virginia",15386,413038
+338,"Nicholas County,West Virginia","Barbour County,West Virginia",6866,173734
+339,"Nicholas County,West Virginia","Berkeley County,West Virginia",14800,411894
+340,"Nicholas County,West Virginia","Boone County,West Virginia",8364,164307
+341,"Nicholas County,West Virginia","Braxton County,West Virginia",3557,64714
+342,"Nicholas County,West Virginia","Brooke County,West Virginia",11225,305528
+343,"Nicholas County,West Virginia","Cabell County,West Virginia",8190,227511
+344,"Nicholas County,West Virginia","Calhoun County,West Virginia",5328,118664
+345,"Nicholas County,West Virginia","Clay County,West Virginia",4025,55086
+346,"Nicholas County,West Virginia","Doddridge County,West Virginia",7070,150590
+347,"Nicholas County,West Virginia","Fayette County,West Virginia",2690,50214
+348,"Nicholas County,West Virginia","Gilmer County,West Virginia",5125,114394
+349,"Nicholas County,West Virginia","Grant County,West Virginia",11222,275280
+350,"Nicholas County,West Virginia","Greenbrier County,West Virginia",5891,85773
+351,"Nicholas County,West Virginia","Hampshire County,West Virginia",14054,373497
+352,"Nicholas County,West Virginia","Hancock County,West Virginia",12851,332875
+353,"Nicholas County,West Virginia","Hardy County,West Virginia",12277,306777
+354,"Nicholas County,West Virginia","Harrison County,West Virginia",6100,160105
+355,"Nicholas County,West Virginia","Jackson County,West Virginia",7442,163938
+356,"Nicholas County,West Virginia","Jefferson County,West Virginia",16265,467892
+357,"Nicholas County,West Virginia","Kanawha County,West Virginia",5076,81135
+358,"Nicholas County,West Virginia","Lewis County,West Virginia",4729,113575
+359,"Nicholas County,West Virginia","Lincoln County,West Virginia",8855,205189
+360,"Nicholas County,West Virginia","Logan County,West Virginia",9526,247720
+361,"Nicholas County,West Virginia","McDowell County,West Virginia",8775,174824
+362,"Nicholas County,West Virginia","Marion County,West Virginia",7245,187272
+363,"Nicholas County,West Virginia","Marshall County,West Virginia",12212,299972
+364,"Nicholas County,West Virginia","Mason County,West Virginia",7666,213418
+365,"Nicholas County,West Virginia","Mercer County,West Virginia",5739,139071
+366,"Nicholas County,West Virginia","Mineral County,West Virginia",12916,304100
+367,"Nicholas County,West Virginia","Mingo County,West Virginia",9571,252228
+368,"Nicholas County,West Virginia","Monongalia County,West Virginia",7456,212741
+369,"Nicholas County,West Virginia","Monroe County,West Virginia",7500,146841
+370,"Nicholas County,West Virginia","Morgan County,West Virginia",14291,401285
+371,"Nicholas County,West Virginia","Ohio County,West Virginia",11131,314474
+372,"Nicholas County,West Virginia","Pendleton County,West Virginia",11386,217047
+373,"Nicholas County,West Virginia","Pleasants County,West Virginia",8898,236245
+374,"Nicholas County,West Virginia","Pocahontas County,West Virginia",6503,116592
+375,"Nicholas County,West Virginia","Preston County,West Virginia",9602,239472
+376,"Nicholas County,West Virginia","Putnam County,West Virginia",6448,179036
+377,"Nicholas County,West Virginia","Raleigh County,West Virginia",4280,92763
+378,"Nicholas County,West Virginia","Randolph County,West Virginia",7231,176030
+379,"Nicholas County,West Virginia","Ritchie County,West Virginia",7801,161040
+380,"Nicholas County,West Virginia","Roane County,West Virginia",6922,142418
+381,"Nicholas County,West Virginia","Summers County,West Virginia",7486,123209
+382,"Nicholas County,West Virginia","Taylor County,West Virginia",7138,182845
+383,"Nicholas County,West Virginia","Tucker County,West Virginia",8298,206555
+384,"Nicholas County,West Virginia","Tyler County,West Virginia",9825,228912
+385,"Nicholas County,West Virginia","Upshur County,West Virginia",6294,128272
+386,"Nicholas County,West Virginia","Wayne County,West Virginia",9782,260138
+387,"Nicholas County,West Virginia","Webster County,West Virginia",4083,64054
+388,"Nicholas County,West Virginia","Wetzel County,West Virginia",8779,211587
+389,"Nicholas County,West Virginia","Wirt County,West Virginia",7844,169109
+390,"Nicholas County,West Virginia","Wood County,West Virginia",9087,260078
+391,"Nicholas County,West Virginia","Wyoming County,West Virginia",6225,132705

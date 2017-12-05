@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Mineral County,West Virginia","Adair County,Kentucky",29516,789447
+1,"Mineral County,West Virginia","Allen County,Kentucky",32134,890095
+2,"Mineral County,West Virginia","Anderson County,Kentucky",25315,692486
+3,"Mineral County,West Virginia","Ballard County,Kentucky",38294,1082257
+4,"Mineral County,West Virginia","Barren County,Kentucky",31261,848474
+5,"Mineral County,West Virginia","Bath County,Kentucky",20963,563667
+6,"Mineral County,West Virginia","Bell County,Kentucky",28004,715674
+7,"Mineral County,West Virginia","Boone County,Kentucky",24478,684630
+8,"Mineral County,West Virginia","Bourbon County,Kentucky",22876,610084
+9,"Mineral County,West Virginia","Boyd County,Kentucky",17638,457991
+10,"Mineral County,West Virginia","Boyle County,Kentucky",26544,696372
+11,"Mineral County,West Virginia","Bracken County,Kentucky",23287,604167
+12,"Mineral County,West Virginia","Breathitt County,Kentucky",24349,604693
+13,"Mineral County,West Virginia","Breckinridge County,Kentucky",30849,845167
+14,"Mineral County,West Virginia","Bullitt County,Kentucky",27419,766286
+15,"Mineral County,West Virginia","Butler County,Kentucky",31514,867165
+16,"Mineral County,West Virginia","Caldwell County,Kentucky",34405,973110
+17,"Mineral County,West Virginia","Calloway County,Kentucky",37215,1058103
+18,"Mineral County,West Virginia","Campbell County,Kentucky",24396,683115
+19,"Mineral County,West Virginia","Carlisle County,Kentucky",38751,1097625
+20,"Mineral County,West Virginia","Carroll County,Kentucky",26052,746395
+21,"Mineral County,West Virginia","Carter County,Kentucky",18803,488089
+22,"Mineral County,West Virginia","Casey County,Kentucky",28039,727877
+23,"Mineral County,West Virginia","Christian County,Kentucky",34055,968367
+24,"Mineral County,West Virginia","Clay County,Kentucky",26848,691808
+25,"Mineral County,West Virginia","Clinton County,Kentucky",29923,792812
+26,"Mineral County,West Virginia","Crittenden County,Kentucky",35985,1006180
+27,"Mineral County,West Virginia","Cumberland County,Kentucky",30677,811051
+28,"Mineral County,West Virginia","Daviess County,Kentucky",32536,913607
+29,"Mineral County,West Virginia","Edmonson County,Kentucky",30954,855040
+30,"Mineral County,West Virginia","Elliott County,Kentucky",20133,513859
+31,"Mineral County,West Virginia","Estill County,Kentucky",23955,625982
+32,"Mineral County,West Virginia","Fayette County,Kentucky",23122,629979
+33,"Mineral County,West Virginia","Fleming County,Kentucky",21389,566853
+34,"Mineral County,West Virginia","Floyd County,Kentucky",21771,565256
+35,"Mineral County,West Virginia","Franklin County,Kentucky",25160,678895
+36,"Mineral County,West Virginia","Fulton County,Kentucky",39155,1118589
+37,"Mineral County,West Virginia","Gallatin County,Kentucky",25264,718808
+38,"Mineral County,West Virginia","Garrard County,Kentucky",25727,677132
+39,"Mineral County,West Virginia","Grant County,Kentucky",25331,719282
+40,"Mineral County,West Virginia","Graves County,Kentucky",37776,1070331
+41,"Mineral County,West Virginia","Grayson County,Kentucky",29841,823801
+42,"Mineral County,West Virginia","Green County,Kentucky",29620,789006
+43,"Mineral County,West Virginia","Greenup County,Kentucky",19414,499118
+44,"Mineral County,West Virginia","Hancock County,Kentucky",31644,878060
+45,"Mineral County,West Virginia","Hardin County,Kentucky",28717,785933
+46,"Mineral County,West Virginia","Harlan County,Kentucky",27079,692301
+47,"Mineral County,West Virginia","Harrison County,Kentucky",24447,643184
+48,"Mineral County,West Virginia","Hart County,Kentucky",29516,813562
+49,"Mineral County,West Virginia","Henderson County,Kentucky",34343,966037
+50,"Mineral County,West Virginia","Henry County,Kentucky",26761,722613
+51,"Mineral County,West Virginia","Hickman County,Kentucky",38784,1098917
+52,"Mineral County,West Virginia","Hopkins County,Kentucky",33864,947578
+53,"Mineral County,West Virginia","Jackson County,Kentucky",26628,673991
+54,"Mineral County,West Virginia","Jefferson County,Kentucky",26855,738147
+55,"Mineral County,West Virginia","Jessamine County,Kentucky",24591,651442
+56,"Mineral County,West Virginia","Johnson County,Kentucky",20420,530887
+57,"Mineral County,West Virginia","Kenton County,Kentucky",24123,678188
+58,"Mineral County,West Virginia","Knott County,Kentucky",22953,597138
+59,"Mineral County,West Virginia","Knox County,Kentucky",28131,756025
+60,"Mineral County,West Virginia","Larue County,Kentucky",28789,773109
+61,"Mineral County,West Virginia","Laurel County,Kentucky",26982,727419
+62,"Mineral County,West Virginia","Lawrence County,Kentucky",19561,502311
+63,"Mineral County,West Virginia","Lee County,Kentucky",24800,619719
+64,"Mineral County,West Virginia","Leslie County,Kentucky",26032,666812
+65,"Mineral County,West Virginia","Letcher County,Kentucky",24025,600078
+66,"Mineral County,West Virginia","Lewis County,Kentucky",20841,539906
+67,"Mineral County,West Virginia","Lincoln County,Kentucky",26437,694050
+68,"Mineral County,West Virginia","Livingston County,Kentucky",36581,1023077
+69,"Mineral County,West Virginia","Logan County,Kentucky",33254,910403
+70,"Mineral County,West Virginia","Lyon County,Kentucky",36714,1033468
+71,"Mineral County,West Virginia","McCracken County,Kentucky",36906,1050317
+72,"Mineral County,West Virginia","McCreary County,Kentucky",29087,771861
+73,"Mineral County,West Virginia","Madison County,Kentucky",24121,641002
+74,"Mineral County,West Virginia","Magoffin County,Kentucky",21387,551566
+75,"Mineral County,West Virginia","Marion County,Kentucky",27167,734718
+76,"Mineral County,West Virginia","Marshall County,Kentucky",36321,1033889
+77,"Mineral County,West Virginia","Martin County,Kentucky",21047,534656
+78,"Mineral County,West Virginia","Mason County,Kentucky",22636,583713
+79,"Mineral County,West Virginia","Meade County,Kentucky",29316,810462
+80,"Mineral County,West Virginia","Menifee County,Kentucky",22079,575730
+81,"Mineral County,West Virginia","Mercer County,Kentucky",25543,690429
+82,"Mineral County,West Virginia","Metcalfe County,Kentucky",30172,819711
+83,"Mineral County,West Virginia","Monroe County,Kentucky",32141,857216
+84,"Mineral County,West Virginia","Montgomery County,Kentucky",21776,582207
+85,"Mineral County,West Virginia","Morgan County,Kentucky",21857,551446
+86,"Mineral County,West Virginia","Muhlenberg County,Kentucky",32724,914054
+87,"Mineral County,West Virginia","Nelson County,Kentucky",26774,733790
+88,"Mineral County,West Virginia","Nicholas County,Kentucky",23454,610091
+89,"Mineral County,West Virginia","Ohio County,Kentucky",31638,881644
+90,"Mineral County,West Virginia","Oldham County,Kentucky",26927,750028
+91,"Mineral County,West Virginia","Owen County,Kentucky",25982,705672
+92,"Mineral County,West Virginia","Owsley County,Kentucky",25947,639696
+93,"Mineral County,West Virginia","Pendleton County,Kentucky",25225,645091
+94,"Mineral County,West Virginia","Perry County,Kentucky",24332,627696
+95,"Mineral County,West Virginia","Pike County,Kentucky",21327,530195
+96,"Mineral County,West Virginia","Powell County,Kentucky",23219,611953
+97,"Mineral County,West Virginia","Robertson County,Kentucky",23371,609597
+98,"Mineral County,West Virginia","Rockcastle County,Kentucky",25555,682144
+99,"Mineral County,West Virginia","Rowan County,Kentucky",20105,535874
+100,"Mineral County,West Virginia","Russell County,Kentucky",29120,773430
+101,"Mineral County,West Virginia","Scott County,Kentucky",23957,658005
+102,"Mineral County,West Virginia","Shelby County,Kentucky",25784,709282
+103,"Mineral County,West Virginia","Simpson County,Kentucky",32835,918460
+104,"Mineral County,West Virginia","Spencer County,Kentucky",26313,715130
+105,"Mineral County,West Virginia","Taylor County,Kentucky",28456,766214
+106,"Mineral County,West Virginia","Todd County,Kentucky",34490,934563
+107,"Mineral County,West Virginia","Trigg County,Kentucky",35468,994296
+108,"Mineral County,West Virginia","Trimble County,Kentucky",26951,769719
+109,"Mineral County,West Virginia","Union County,Kentucky",36063,996483
+110,"Mineral County,West Virginia","Warren County,Kentucky",31870,883409
+111,"Mineral County,West Virginia","Washington County,Kentucky",26784,719026
+112,"Mineral County,West Virginia","Wayne County,Kentucky",29296,770503
+113,"Mineral County,West Virginia","Webster County,Kentucky",34973,975667
+114,"Mineral County,West Virginia","Whitley County,Kentucky",27815,761904
+115,"Mineral County,West Virginia","Wolfe County,Kentucky",22952,574808
+116,"Mineral County,West Virginia","Woodford County,Kentucky",24176,660641
+117,"Mineral County,West Virginia","Adams County,Ohio",20323,541476
+118,"Mineral County,West Virginia","Allen County,Ohio",23350,627474
+119,"Mineral County,West Virginia","Ashland County,Ohio",17898,454164
+120,"Mineral County,West Virginia","Ashtabula County,Ohio",15937,410076
+121,"Mineral County,West Virginia","Athens County,Ohio",14719,388986
+122,"Mineral County,West Virginia","Auglaize County,Ohio",23005,647278
+123,"Mineral County,West Virginia","Belmont County,Ohio",11626,304045
+124,"Mineral County,West Virginia","Brown County,Ohio",21747,574336
+125,"Mineral County,West Virginia","Butler County,Ohio",23475,642009
+126,"Mineral County,West Virginia","Carroll County,Ohio",14453,322297
+127,"Mineral County,West Virginia","Champaign County,Ohio",20749,562173
+128,"Mineral County,West Virginia","Clark County,Ohio",19627,552744
+129,"Mineral County,West Virginia","Clermont County,Ohio",22401,599500
+130,"Mineral County,West Virginia","Clinton County,Ohio",21018,588026
+131,"Mineral County,West Virginia","Columbiana County,Ohio",13239,304314
+132,"Mineral County,West Virginia","Coshocton County,Ohio",15983,429495
+133,"Mineral County,West Virginia","Crawford County,Ohio",19807,525358
+134,"Mineral County,West Virginia","Cuyahoga County,Ohio",15933,407920
+135,"Mineral County,West Virginia","Darke County,Ohio",23203,650646
+136,"Mineral County,West Virginia","Defiance County,Ohio",24251,656884
+137,"Mineral County,West Virginia","Delaware County,Ohio",18903,528492
+138,"Mineral County,West Virginia","Fairfield County,Ohio",16998,465278
+139,"Mineral County,West Virginia","Fayette County,Ohio",19655,550077
+140,"Mineral County,West Virginia","Franklin County,Ohio",17598,492379
+141,"Mineral County,West Virginia","Fulton County,Ohio",22603,613735
+142,"Mineral County,West Virginia","Gallia County,Ohio",16601,428863
+143,"Mineral County,West Virginia","Geauga County,Ohio",15426,382739
+144,"Mineral County,West Virginia","Greene County,Ohio",20403,578242
+145,"Mineral County,West Virginia","Guernsey County,Ohio",13530,367554
+146,"Mineral County,West Virginia","Hamilton County,Ohio",22977,652587
+147,"Mineral County,West Virginia","Hancock County,Ohio",21837,587439
+148,"Mineral County,West Virginia","Hardin County,Ohio",21903,599414
+149,"Mineral County,West Virginia","Harrison County,Ohio",13587,342760
+150,"Mineral County,West Virginia","Henry County,Ohio",23058,603502
+151,"Mineral County,West Virginia","Highland County,Ohio",20860,541490
+152,"Mineral County,West Virginia","Hocking County,Ohio",16344,434890
+153,"Mineral County,West Virginia","Holmes County,Ohio",17042,452379
+154,"Mineral County,West Virginia","Huron County,Ohio",19175,483769
+155,"Mineral County,West Virginia","Jackson County,Ohio",16847,452041
+156,"Mineral County,West Virginia","Jefferson County,Ohio",12409,285788
+157,"Mineral County,West Virginia","Knox County,Ohio",17771,471971
+158,"Mineral County,West Virginia","Lawrence County,Ohio",18778,463048
+159,"Mineral County,West Virginia","Licking County,Ohio",17157,453042
+160,"Mineral County,West Virginia","Logan County,Ohio",20923,593691
+161,"Mineral County,West Virginia","Lorain County,Ohio",16984,437641
+162,"Mineral County,West Virginia","Lucas County,Ohio",21558,566585
+163,"Mineral County,West Virginia","Madison County,Ohio",18876,527100
+164,"Mineral County,West Virginia","Mahoning County,Ohio",12423,300068
+165,"Mineral County,West Virginia","Marion County,Ohio",20309,554586
+166,"Mineral County,West Virginia","Medina County,Ohio",16531,421284
+167,"Mineral County,West Virginia","Meigs County,Ohio",14684,381564
+168,"Mineral County,West Virginia","Mercer County,Ohio",24241,674212
+169,"Mineral County,West Virginia","Miami County,Ohio",21714,616078
+170,"Mineral County,West Virginia","Monroe County,Ohio",14059,350728
+171,"Mineral County,West Virginia","Montgomery County,Ohio",21975,621524
+172,"Mineral County,West Virginia","Morgan County,Ohio",15161,391333
+173,"Mineral County,West Virginia","Morrow County,Ohio",19536,515617
+174,"Mineral County,West Virginia","Muskingum County,Ohio",14375,395546
+175,"Mineral County,West Virginia","Noble County,Ohio",14641,388860
+176,"Mineral County,West Virginia","Paulding County,Ohio",25456,692871
+177,"Mineral County,West Virginia","Perry County,Ohio",16475,443489
+178,"Mineral County,West Virginia","Pickaway County,Ohio",18375,509956
+179,"Mineral County,West Virginia","Pike County,Ohio",18292,491348
+180,"Mineral County,West Virginia","Portage County,Ohio",14277,356082
+181,"Mineral County,West Virginia","Preble County,Ohio",22745,644236
+182,"Mineral County,West Virginia","Putnam County,Ohio",24035,647245
+183,"Mineral County,West Virginia","Richland County,Ohio",18455,475592
+184,"Mineral County,West Virginia","Ross County,Ohio",18572,499855
+185,"Mineral County,West Virginia","Sandusky County,Ohio",19845,525159
+186,"Mineral County,West Virginia","Scioto County,Ohio",18931,507419
+187,"Mineral County,West Virginia","Seneca County,Ohio",20576,534831
+188,"Mineral County,West Virginia","Shelby County,Ohio",22681,623938
+189,"Mineral County,West Virginia","Stark County,Ohio",15057,352215
+190,"Mineral County,West Virginia","Summit County,Ohio",15172,384676
+191,"Mineral County,West Virginia","Trumbull County,Ohio",13581,337532
+192,"Mineral County,West Virginia","Tuscarawas County,Ohio",15096,374043
+193,"Mineral County,West Virginia","Union County,Ohio",19427,543922
+194,"Mineral County,West Virginia","Van Wert County,Ohio",24147,657756
+195,"Mineral County,West Virginia","Vinton County,Ohio",16837,437428
+196,"Mineral County,West Virginia","Warren County,Ohio",21393,608555
+197,"Mineral County,West Virginia","Washington County,Ohio",13500,346797
+198,"Mineral County,West Virginia","Wayne County,Ohio",17636,440094
+199,"Mineral County,West Virginia","Williams County,Ohio",23849,645191
+200,"Mineral County,West Virginia","Wood County,Ohio",21743,573488
+201,"Mineral County,West Virginia","Wyandot County,Ohio",20807,551575
+202,"Mineral County,West Virginia","Accomack County,Virginia",21150,540673
+203,"Mineral County,West Virginia","Albemarle County,Virginia",10222,238300
+204,"Mineral County,West Virginia","Alleghany County,Virginia",11939,229625
+205,"Mineral County,West Virginia","Amelia County,Virginia",15276,370118
+206,"Mineral County,West Virginia","Amherst County,Virginia",12656,289206
+207,"Mineral County,West Virginia","Appomattox County,Virginia",13870,313835
+208,"Mineral County,West Virginia","Arlington County,Virginia",10059,204369
+209,"Mineral County,West Virginia","Augusta County,Virginia",9660,215553
+210,"Mineral County,West Virginia","Bath County,Virginia",10588,190519
+211,"Mineral County,West Virginia","Bedford County,Virginia",14801,333722
+212,"Mineral County,West Virginia","Bland County,Virginia",17271,454991
+213,"Mineral County,West Virginia","Botetourt County,Virginia",12291,296244
+214,"Mineral County,West Virginia","Brunswick County,Virginia",17462,432782
+215,"Mineral County,West Virginia","Buchanan County,Virginia",22999,528333
+216,"Mineral County,West Virginia","Buckingham County,Virginia",13531,303449
+217,"Mineral County,West Virginia","Campbell County,Virginia",14018,329338
+218,"Mineral County,West Virginia","Caroline County,Virginia",12459,283349
+219,"Mineral County,West Virginia","Carroll County,Virginia",17392,460408
+220,"Mineral County,West Virginia","Charles City County,Virginia",14929,354832
+221,"Mineral County,West Virginia","Charlotte County,Virginia",15852,362333
+222,"Mineral County,West Virginia","Chesterfield County,Virginia",14798,381964
+223,"Mineral County,West Virginia","Clarke County,Virginia",6385,111842
+224,"Mineral County,West Virginia","Craig County,Virginia",15133,352571
+225,"Mineral County,West Virginia","Culpeper County,Virginia",9524,205966
+226,"Mineral County,West Virginia","Cumberland County,Virginia",14265,328657
+227,"Mineral County,West Virginia","Dickenson County,Virginia",23737,607628
+228,"Mineral County,West Virginia","Dinwiddie County,Virginia",16100,392749
+229,"Mineral County,West Virginia","Essex County,Virginia",13861,307403
+230,"Mineral County,West Virginia","Fairfax County,Virginia",9483,191242
+231,"Mineral County,West Virginia","Fauquier County,Virginia",7954,172693
+232,"Mineral County,West Virginia","Floyd County,Virginia",15915,401955
+233,"Mineral County,West Virginia","Fluvanna County,Virginia",11900,290471
+234,"Mineral County,West Virginia","Franklin County,Virginia",15253,380400
+235,"Mineral County,West Virginia","Frederick County,Virginia",4728,78980
+236,"Mineral County,West Virginia","Giles County,Virginia",16055,410107
+237,"Mineral County,West Virginia","Gloucester County,Virginia",17100,409020
+238,"Mineral County,West Virginia","Goochland County,Virginia",12804,321082
+239,"Mineral County,West Virginia","Grayson County,Virginia",18724,476587
+240,"Mineral County,West Virginia","Greene County,Virginia",9836,199928
+241,"Mineral County,West Virginia","Greensville County,Virginia",17516,441500
+242,"Mineral County,West Virginia","Halifax County,Virginia",17338,401045
+243,"Mineral County,West Virginia","Hanover County,Virginia",13277,312841
+244,"Mineral County,West Virginia","Henrico County,Virginia",14076,335502
+245,"Mineral County,West Virginia","Henry County,Virginia",16662,415361
+246,"Mineral County,West Virginia","Highland County,Virginia",7889,146549
+247,"Mineral County,West Virginia","Isle of Wight County,Virginia",18210,444092
+248,"Mineral County,West Virginia","James City County,Virginia",16165,395603
+249,"Mineral County,West Virginia","King and Queen County,Virginia",14912,342664
+250,"Mineral County,West Virginia","King George County,Virginia",12381,266846
+251,"Mineral County,West Virginia","King William County,Virginia",13878,320462
+252,"Mineral County,West Virginia","Lancaster County,Virginia",16284,363397
+253,"Mineral County,West Virginia","Lee County,Virginia",24231,639282
+254,"Mineral County,West Virginia","Loudoun County,Virginia",7881,147709
+255,"Mineral County,West Virginia","Louisa County,Virginia",12131,269341
+256,"Mineral County,West Virginia","Lunenburg County,Virginia",17150,405054
+257,"Mineral County,West Virginia","Madison County,Virginia",9947,194225
+258,"Mineral County,West Virginia","Mathews County,Virginia",17995,407785
+259,"Mineral County,West Virginia","Mecklenburg County,Virginia",18499,429501
+260,"Mineral County,West Virginia","Middlesex County,Virginia",16364,371366
+261,"Mineral County,West Virginia","Montgomery County,Virginia",14619,374378
+262,"Mineral County,West Virginia","Nelson County,Virginia",11102,256801
+263,"Mineral County,West Virginia","New Kent County,Virginia",15601,369517
+264,"Mineral County,West Virginia","Northampton County,Virginia",20582,512267
+265,"Mineral County,West Virginia","Northumberland County,Virginia",16323,361910
+266,"Mineral County,West Virginia","Nottoway County,Virginia",16401,391609
+267,"Mineral County,West Virginia","Orange County,Virginia",10865,240464
+268,"Mineral County,West Virginia","Page County,Virginia",8096,162982
+269,"Mineral County,West Virginia","Patrick County,Virginia",18035,438858
+270,"Mineral County,West Virginia","Pittsylvania County,Virginia",16587,400966
+271,"Mineral County,West Virginia","Powhatan County,Virginia",14057,346304
+272,"Mineral County,West Virginia","Prince Edward County,Virginia",15072,357273
+273,"Mineral County,West Virginia","Prince George County,Virginia",15745,383345
+274,"Mineral County,West Virginia","Prince William County,Virginia",8054,178796
+275,"Mineral County,West Virginia","Pulaski County,Virginia",15347,397011
+276,"Mineral County,West Virginia","Rappahannock County,Virginia",8265,157830
+277,"Mineral County,West Virginia","Richmond County,Virginia",15023,334553
+278,"Mineral County,West Virginia","Roanoke County,Virginia",13611,339316
+279,"Mineral County,West Virginia","Rockbridge County,Virginia",11033,262254
+280,"Mineral County,West Virginia","Rockingham County,Virginia",6267,130909
+281,"Mineral County,West Virginia","Russell County,Virginia",22193,572787
+282,"Mineral County,West Virginia","Scott County,Virginia",22805,600011
+283,"Mineral County,West Virginia","Shenandoah County,Virginia",6534,120372
+284,"Mineral County,West Virginia","Smyth County,Virginia",18387,483732
+285,"Mineral County,West Virginia","Southampton County,Virginia",17894,437614
+286,"Mineral County,West Virginia","Spotsylvania County,Virginia",11571,247833
+287,"Mineral County,West Virginia","Stafford County,Virginia",10573,236698
+288,"Mineral County,West Virginia","Surry County,Virginia",16857,405040
+289,"Mineral County,West Virginia","Sussex County,Virginia",16558,407857
+290,"Mineral County,West Virginia","Tazewell County,Virginia",19820,462691
+291,"Mineral County,West Virginia","Warren County,Virginia",6714,133101
+292,"Mineral County,West Virginia","Washington County,Virginia",19781,523198
+293,"Mineral County,West Virginia","Westmoreland County,Virginia",13932,298335
+294,"Mineral County,West Virginia","Wise County,Virginia",23644,614130
+295,"Mineral County,West Virginia","Wythe County,Virginia",16641,435717
+296,"Mineral County,West Virginia","York County,Virginia",17453,426378
+297,"Mineral County,West Virginia","Alexandria City County,Virginia",10223,237339
+298,"Mineral County,West Virginia","Bedford City County,Virginia",13826,325062
+299,"Mineral County,West Virginia","Bristol City County,Virginia",20256,548916
+300,"Mineral County,West Virginia","Buena Vista City County,Virginia",10692,255519
+301,"Mineral County,West Virginia","Charlottesville City County,Virginia",10691,253514
+302,"Mineral County,West Virginia","Chesapeake City County,Virginia",18916,479283
+303,"Mineral County,West Virginia","Clifton Forge City County,Virginia",11886,294126
+304,"Mineral County,West Virginia","Colonial Heights City County,Virginia",14912,358210
+305,"Mineral County,West Virginia","Covington City County,Virginia",11920,230193
+306,"Mineral County,West Virginia","Danville City County,Virginia",17187,417309
+307,"Mineral County,West Virginia","Emporia City County,Virginia",17223,428094
+308,"Mineral County,West Virginia","Fairfax City County,Virginia",9186,204544
+309,"Mineral County,West Virginia","Falls Church City County,Virginia",9557,198693
+310,"Mineral County,West Virginia","Franklin City County,Virginia",18441,445469
+311,"Mineral County,West Virginia","Fredericksburg City County,Virginia",10894,233540
+312,"Mineral County,West Virginia","Galax City County,Virginia",18016,466274
+313,"Mineral County,West Virginia","Hampton City County,Virginia",17403,436084
+314,"Mineral County,West Virginia","Harrisonburg City County,Virginia",7325,149584
+315,"Mineral County,West Virginia","Hopewell City County,Virginia",14676,358247
+316,"Mineral County,West Virginia","Lexington City County,Virginia",10551,252497
+317,"Mineral County,West Virginia","Lynchburg City County,Virginia",13204,309262
+318,"Mineral County,West Virginia","Manassas City County,Virginia",8281,183741
+319,"Mineral County,West Virginia","Manassas Park City County,Virginia",8783,190084
+320,"Mineral County,West Virginia","Martinsville City County,Virginia",16815,410463
+321,"Mineral County,West Virginia","Newport News City County,Virginia",16959,422570
+322,"Mineral County,West Virginia","Norfolk City County,Virginia",18709,461500
+323,"Mineral County,West Virginia","Norton City County,Virginia",23168,605020
+324,"Mineral County,West Virginia","Petersburg City County,Virginia",14784,359197
+325,"Mineral County,West Virginia","Poquoson City County,Virginia",17631,433146
+326,"Mineral County,West Virginia","Portsmouth City County,Virginia",18648,470321
+327,"Mineral County,West Virginia","Radford County,Virginia",14983,384222
+328,"Mineral County,West Virginia","Richmond City County,Virginia",13652,323313
+329,"Mineral County,West Virginia","Roanoke City County,Virginia",13149,330759
+330,"Mineral County,West Virginia","Salem City County,Virginia",12978,329230
+331,"Mineral County,West Virginia","South Boston City County,Virginia",17342,399863
+332,"Mineral County,West Virginia","Staunton City County,Virginia",8913,197753
+333,"Mineral County,West Virginia","Suffolk City County,Virginia",19053,458816
+334,"Mineral County,West Virginia","Virginia Beach City County,Virginia",19270,484758
+335,"Mineral County,West Virginia","Waynesboro City County,Virginia",9311,207604
+336,"Mineral County,West Virginia","Williamsburg City County,Virginia",16003,394819
+337,"Mineral County,West Virginia","Winchester City County,Virginia",5266,87127
+338,"Mineral County,West Virginia","Barbour County,West Virginia",7364,138073
+339,"Mineral County,West Virginia","Berkeley County,West Virginia",6400,115992
+340,"Mineral County,West Virginia","Boone County,West Virginia",17501,419343
+341,"Mineral County,West Virginia","Braxton County,West Virginia",12060,255965
+342,"Mineral County,West Virginia","Brooke County,West Virginia",10833,266945
+343,"Mineral County,West Virginia","Cabell County,West Virginia",17094,436252
+344,"Mineral County,West Virginia","Calhoun County,West Virginia",13383,290632
+345,"Mineral County,West Virginia","Clay County,West Virginia",13746,320989
+346,"Mineral County,West Virginia","Doddridge County,West Virginia",10228,254265
+347,"Mineral County,West Virginia","Fayette County,West Virginia",14526,340906
+348,"Mineral County,West Virginia","Gilmer County,West Virginia",11864,255323
+349,"Mineral County,West Virginia","Grant County,West Virginia",3124,55402
+350,"Mineral County,West Virginia","Greenbrier County,West Virginia",16172,319102
+351,"Mineral County,West Virginia","Hampshire County,West Virginia",3040,43534
+352,"Mineral County,West Virginia","Hancock County,West Virginia",12422,277208
+353,"Mineral County,West Virginia","Hardy County,West Virginia",3389,52393
+354,"Mineral County,West Virginia","Harrison County,West Virginia",8666,215893
+355,"Mineral County,West Virginia","Jackson County,West Virginia",14620,388813
+356,"Mineral County,West Virginia","Jefferson County,West Virginia",7366,123013
+357,"Mineral County,West Virginia","Kanawha County,West Virginia",15976,387512
+358,"Mineral County,West Virginia","Lewis County,West Virginia",9765,204953
+359,"Mineral County,West Virginia","Lincoln County,West Virginia",17758,413930
+360,"Mineral County,West Virginia","Logan County,West Virginia",18430,456462
+361,"Mineral County,West Virginia","McDowell County,West Virginia",20864,446620
+362,"Mineral County,West Virginia","Marion County,West Virginia",8151,189806
+363,"Mineral County,West Virginia","Marshall County,West Virginia",11821,261390
+364,"Mineral County,West Virginia","Mason County,West Virginia",16384,432867
+365,"Mineral County,West Virginia","Mercer County,West Virginia",17558,402610
+366,"Mineral County,West Virginia","Mingo County,West Virginia",18475,460969
+367,"Mineral County,West Virginia","Monongalia County,West Virginia",5975,141545
+368,"Mineral County,West Virginia","Monroe County,West Virginia",15013,305132
+369,"Mineral County,West Virginia","Morgan County,West Virginia",5398,100558
+370,"Mineral County,West Virginia","Nicholas County,West Virginia",13046,305610
+371,"Mineral County,West Virginia","Ohio County,West Virginia",10740,275892
+372,"Mineral County,West Virginia","Pendleton County,West Virginia",5073,93807
+373,"Mineral County,West Virginia","Pleasants County,West Virginia",11464,292033
+374,"Mineral County,West Virginia","Pocahontas County,West Virginia",10101,188611
+375,"Mineral County,West Virginia","Preston County,West Virginia",5714,93346
+376,"Mineral County,West Virginia","Putnam County,West Virginia",15351,387777
+377,"Mineral County,West Virginia","Raleigh County,West Virginia",16370,364560
+378,"Mineral County,West Virginia","Randolph County,West Virginia",8393,164358
+379,"Mineral County,West Virginia","Ritchie County,West Virginia",11375,286335
+380,"Mineral County,West Virginia","Roane County,West Virginia",15804,324668
+381,"Mineral County,West Virginia","Summers County,West Virginia",17091,344437
+382,"Mineral County,West Virginia","Taylor County,West Virginia",6880,125393
+383,"Mineral County,West Virginia","Tucker County,West Virginia",5368,102817
+384,"Mineral County,West Virginia","Tyler County,West Virginia",12390,284700
+385,"Mineral County,West Virginia","Upshur County,West Virginia",9441,185935
+386,"Mineral County,West Virginia","Wayne County,West Virginia",18685,468879
+387,"Mineral County,West Virginia","Webster County,West Virginia",12579,247464
+388,"Mineral County,West Virginia","Wetzel County,West Virginia",11308,251930
+389,"Mineral County,West Virginia","Wirt County,West Virginia",13721,331865
+390,"Mineral County,West Virginia","Wood County,West Virginia",12244,317296
+391,"Mineral County,West Virginia","Wyoming County,West Virginia",18315,404502

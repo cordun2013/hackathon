@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Fredericksburg City County,Virginia","Adair County,Kentucky",34238,880934
+1,"Fredericksburg City County,Virginia","Allen County,Kentucky",35633,1000743
+2,"Fredericksburg City County,Virginia","Anderson County,Kentucky",29865,843719
+3,"Fredericksburg City County,Virginia","Ballard County,Kentucky",42538,1235998
+4,"Fredericksburg City County,Virginia","Barren County,Kentucky",35423,959689
+5,"Fredericksburg City County,Virginia","Bath County,Kentucky",25513,714900
+6,"Fredericksburg City County,Virginia","Bell County,Kentucky",26733,682240
+7,"Fredericksburg City County,Virginia","Boone County,Kentucky",31325,836293
+8,"Fredericksburg City County,Virginia","Bourbon County,Kentucky",27426,761318
+9,"Fredericksburg City County,Virginia","Boyd County,Kentucky",22188,609225
+10,"Fredericksburg City County,Virginia","Boyle County,Kentucky",31094,847606
+11,"Fredericksburg City County,Virginia","Bracken County,Kentucky",27837,755400
+12,"Fredericksburg City County,Virginia","Breathitt County,Kentucky",28357,718004
+13,"Fredericksburg City County,Virginia","Breckinridge County,Kentucky",35399,996400
+14,"Fredericksburg City County,Virginia","Bullitt County,Kentucky",31968,917520
+15,"Fredericksburg City County,Virginia","Butler County,Kentucky",36064,1018398
+16,"Fredericksburg City County,Virginia","Caldwell County,Kentucky",38955,1124343
+17,"Fredericksburg City County,Virginia","Calloway County,Kentucky",40379,1167858
+18,"Fredericksburg City County,Virginia","Campbell County,Kentucky",29538,795272
+19,"Fredericksburg City County,Virginia","Carlisle County,Kentucky",42995,1251367
+20,"Fredericksburg City County,Virginia","Carroll County,Kentucky",32410,891534
+21,"Fredericksburg City County,Virginia","Carter County,Kentucky",23353,639322
+22,"Fredericksburg City County,Virginia","Casey County,Kentucky",32589,879111
+23,"Fredericksburg City County,Virginia","Christian County,Kentucky",37272,1088837
+24,"Fredericksburg City County,Virginia","Clay County,Kentucky",29305,742582
+25,"Fredericksburg City County,Virginia","Clinton County,Kentucky",32681,880148
+26,"Fredericksburg City County,Virginia","Crittenden County,Kentucky",40535,1157414
+27,"Fredericksburg City County,Virginia","Cumberland County,Kentucky",33560,900817
+28,"Fredericksburg City County,Virginia","Daviess County,Kentucky",37086,1064840
+29,"Fredericksburg City County,Virginia","Edmonson County,Kentucky",35504,1006273
+30,"Fredericksburg City County,Virginia","Elliott County,Kentucky",24683,665092
+31,"Fredericksburg City County,Virginia","Estill County,Kentucky",28505,777215
+32,"Fredericksburg City County,Virginia","Fayette County,Kentucky",27672,781212
+33,"Fredericksburg City County,Virginia","Fleming County,Kentucky",25939,718086
+34,"Fredericksburg City County,Virginia","Floyd County,Kentucky",26321,716490
+35,"Fredericksburg City County,Virginia","Franklin County,Kentucky",29710,830128
+36,"Fredericksburg City County,Virginia","Fulton County,Kentucky",43399,1272331
+37,"Fredericksburg City County,Virginia","Gallatin County,Kentucky",31408,882192
+38,"Fredericksburg City County,Virginia","Garrard County,Kentucky",30277,828365
+39,"Fredericksburg City County,Virginia","Grant County,Kentucky",30207,856300
+40,"Fredericksburg City County,Virginia","Graves County,Kentucky",42020,1224073
+41,"Fredericksburg City County,Virginia","Grayson County,Kentucky",34391,975034
+42,"Fredericksburg City County,Virginia","Green County,Kentucky",34170,940239
+43,"Fredericksburg City County,Virginia","Greenup County,Kentucky",23964,650351
+44,"Fredericksburg City County,Virginia","Hancock County,Kentucky",36194,1029293
+45,"Fredericksburg City County,Virginia","Hardin County,Kentucky",33267,937167
+46,"Fredericksburg City County,Virginia","Harlan County,Kentucky",25808,658867
+47,"Fredericksburg City County,Virginia","Harrison County,Kentucky",28997,794417
+48,"Fredericksburg City County,Virginia","Hart County,Kentucky",34066,964795
+49,"Fredericksburg City County,Virginia","Henderson County,Kentucky",38893,1117270
+50,"Fredericksburg City County,Virginia","Henry County,Kentucky",31311,873847
+51,"Fredericksburg City County,Virginia","Hickman County,Kentucky",43028,1252659
+52,"Fredericksburg City County,Virginia","Hopkins County,Kentucky",38414,1098812
+53,"Fredericksburg City County,Virginia","Jackson County,Kentucky",31177,779001
+54,"Fredericksburg City County,Virginia","Jefferson County,Kentucky",31405,889380
+55,"Fredericksburg City County,Virginia","Jessamine County,Kentucky",29141,802676
+56,"Fredericksburg City County,Virginia","Johnson County,Kentucky",24970,682121
+57,"Fredericksburg City County,Virginia","Kenton County,Kentucky",30695,823987
+58,"Fredericksburg City County,Virginia","Knott County,Kentucky",25898,660754
+59,"Fredericksburg City County,Virginia","Knox County,Kentucky",28063,724233
+60,"Fredericksburg City County,Virginia","Larue County,Kentucky",33339,924343
+61,"Fredericksburg City County,Virginia","Laurel County,Kentucky",29957,759060
+62,"Fredericksburg City County,Virginia","Lawrence County,Kentucky",24111,653545
+63,"Fredericksburg City County,Virginia","Lee County,Kentucky",29350,770952
+64,"Fredericksburg City County,Virginia","Leslie County,Kentucky",27270,687146
+65,"Fredericksburg City County,Virginia","Letcher County,Kentucky",24298,624300
+66,"Fredericksburg City County,Virginia","Lewis County,Kentucky",25391,691139
+67,"Fredericksburg City County,Virginia","Lincoln County,Kentucky",30987,845284
+68,"Fredericksburg City County,Virginia","Livingston County,Kentucky",40869,1189937
+69,"Fredericksburg City County,Virginia","Logan County,Kentucky",37704,1041738
+70,"Fredericksburg City County,Virginia","Lyon County,Kentucky",40626,1167112
+71,"Fredericksburg City County,Virginia","McCracken County,Kentucky",41150,1204058
+72,"Fredericksburg City County,Virginia","McCreary County,Kentucky",29687,816994
+73,"Fredericksburg City County,Virginia","Madison County,Kentucky",28671,792235
+74,"Fredericksburg City County,Virginia","Magoffin County,Kentucky",25937,702800
+75,"Fredericksburg City County,Virginia","Marion County,Kentucky",31716,885952
+76,"Fredericksburg City County,Virginia","Marshall County,Kentucky",40565,1187630
+77,"Fredericksburg City County,Virginia","Martin County,Kentucky",25225,635269
+78,"Fredericksburg City County,Virginia","Mason County,Kentucky",27186,734946
+79,"Fredericksburg City County,Virginia","Meade County,Kentucky",33866,961695
+80,"Fredericksburg City County,Virginia","Menifee County,Kentucky",26629,726964
+81,"Fredericksburg City County,Virginia","Mercer County,Kentucky",30093,841663
+82,"Fredericksburg City County,Virginia","Metcalfe County,Kentucky",34894,911198
+83,"Fredericksburg City County,Virginia","Monroe County,Kentucky",34121,931238
+84,"Fredericksburg City County,Virginia","Montgomery County,Kentucky",26326,733441
+85,"Fredericksburg City County,Virginia","Morgan County,Kentucky",26407,702680
+86,"Fredericksburg City County,Virginia","Muhlenberg County,Kentucky",37274,1065287
+87,"Fredericksburg City County,Virginia","Nelson County,Kentucky",31324,885023
+88,"Fredericksburg City County,Virginia","Nicholas County,Kentucky",28004,761324
+89,"Fredericksburg City County,Virginia","Ohio County,Kentucky",36188,1032877
+90,"Fredericksburg City County,Virginia","Oldham County,Kentucky",31477,901262
+91,"Fredericksburg City County,Virginia","Owen County,Kentucky",30532,856905
+92,"Fredericksburg City County,Virginia","Owsley County,Kentucky",30495,755878
+93,"Fredericksburg City County,Virginia","Pendleton County,Kentucky",29775,796325
+94,"Fredericksburg City County,Virginia","Perry County,Kentucky",26871,681177
+95,"Fredericksburg City County,Virginia","Pike County,Kentucky",25421,600515
+96,"Fredericksburg City County,Virginia","Powell County,Kentucky",27769,763186
+97,"Fredericksburg City County,Virginia","Robertson County,Kentucky",27921,760830
+98,"Fredericksburg City County,Virginia","Rockcastle County,Kentucky",30105,833378
+99,"Fredericksburg City County,Virginia","Rowan County,Kentucky",24655,687108
+100,"Fredericksburg City County,Virginia","Russell County,Kentucky",33842,864917
+101,"Fredericksburg City County,Virginia","Scott County,Kentucky",28507,809239
+102,"Fredericksburg City County,Virginia","Shelby County,Kentucky",30334,860515
+103,"Fredericksburg City County,Virginia","Simpson County,Kentucky",36671,1017713
+104,"Fredericksburg City County,Virginia","Spencer County,Kentucky",30863,866363
+105,"Fredericksburg City County,Virginia","Taylor County,Kentucky",33006,917448
+106,"Fredericksburg City County,Virginia","Todd County,Kentucky",37687,1081784
+107,"Fredericksburg City County,Virginia","Trigg County,Kentucky",38179,1106197
+108,"Fredericksburg City County,Virginia","Trimble County,Kentucky",32550,907301
+109,"Fredericksburg City County,Virginia","Union County,Kentucky",40613,1147717
+110,"Fredericksburg City County,Virginia","Warren County,Kentucky",36420,1034642
+111,"Fredericksburg City County,Virginia","Washington County,Kentucky",31334,870260
+112,"Fredericksburg City County,Virginia","Wayne County,Kentucky",32191,864125
+113,"Fredericksburg City County,Virginia","Webster County,Kentucky",39523,1126900
+114,"Fredericksburg City County,Virginia","Whitley County,Kentucky",28291,801757
+115,"Fredericksburg City County,Virginia","Wolfe County,Kentucky",27502,726041
+116,"Fredericksburg City County,Virginia","Woodford County,Kentucky",28726,811875
+117,"Fredericksburg City County,Virginia","Adams County,Ohio",27279,737503
+118,"Fredericksburg City County,Virginia","Allen County,Ohio",30256,880030
+119,"Fredericksburg City County,Virginia","Ashland County,Ohio",24805,706719
+120,"Fredericksburg City County,Virginia","Ashtabula County,Ohio",22843,662632
+121,"Fredericksburg City County,Virginia","Athens County,Ohio",22506,643868
+122,"Fredericksburg City County,Virginia","Auglaize County,Ohio",30793,902160
+123,"Fredericksburg City County,Virginia","Belmont County,Ohio",19413,558927
+124,"Fredericksburg City County,Virginia","Brown County,Ohio",28523,764430
+125,"Fredericksburg City County,Virginia","Butler County,Ohio",31263,896891
+126,"Fredericksburg City County,Virginia","Carroll County,Ohio",21359,574853
+127,"Fredericksburg City County,Virginia","Champaign County,Ohio",28536,817054
+128,"Fredericksburg City County,Virginia","Clark County,Ohio",27414,807626
+129,"Fredericksburg City County,Virginia","Clermont County,Ohio",29357,795527
+130,"Fredericksburg City County,Virginia","Clinton County,Ohio",28748,778943
+131,"Fredericksburg City County,Virginia","Columbiana County,Ohio",20146,556869
+132,"Fredericksburg City County,Virginia","Coshocton County,Ohio",23770,684377
+133,"Fredericksburg City County,Virginia","Crawford County,Ohio",26714,777913
+134,"Fredericksburg City County,Virginia","Cuyahoga County,Ohio",22839,660475
+135,"Fredericksburg City County,Virginia","Darke County,Ohio",30990,905527
+136,"Fredericksburg City County,Virginia","Defiance County,Ohio",31158,909439
+137,"Fredericksburg City County,Virginia","Delaware County,Ohio",26690,783374
+138,"Fredericksburg City County,Virginia","Fairfield County,Ohio",24785,720160
+139,"Fredericksburg City County,Virginia","Fayette County,Ohio",27312,749407
+140,"Fredericksburg City County,Virginia","Franklin County,Ohio",25386,747260
+141,"Fredericksburg City County,Virginia","Fulton County,Ohio",29510,866290
+142,"Fredericksburg City County,Virginia","Gallia County,Ohio",22625,608519
+143,"Fredericksburg City County,Virginia","Geauga County,Ohio",22333,635294
+144,"Fredericksburg City County,Virginia","Greene County,Ohio",28182,782559
+145,"Fredericksburg City County,Virginia","Guernsey County,Ohio",21317,622436
+146,"Fredericksburg City County,Virginia","Hamilton County,Ohio",30764,907468
+147,"Fredericksburg City County,Virginia","Hancock County,Ohio",28744,839995
+148,"Fredericksburg City County,Virginia","Hardin County,Ohio",29400,842586
+149,"Fredericksburg City County,Virginia","Harrison County,Ohio",20573,577070
+150,"Fredericksburg City County,Virginia","Henry County,Ohio",29964,856057
+151,"Fredericksburg City County,Virginia","Highland County,Ohio",27816,737516
+152,"Fredericksburg City County,Virginia","Hocking County,Ohio",24131,689771
+153,"Fredericksburg City County,Virginia","Holmes County,Ohio",24513,659147
+154,"Fredericksburg City County,Virginia","Huron County,Ohio",26082,736325
+155,"Fredericksburg City County,Virginia","Jackson County,Ohio",23803,648068
+156,"Fredericksburg City County,Virginia","Jefferson County,Ohio",19315,538344
+157,"Fredericksburg City County,Virginia","Knox County,Ohio",25559,726853
+158,"Fredericksburg City County,Virginia","Lawrence County,Ohio",23328,614281
+159,"Fredericksburg City County,Virginia","Licking County,Ohio",24944,707924
+160,"Fredericksburg City County,Virginia","Logan County,Ohio",28711,848573
+161,"Fredericksburg City County,Virginia","Lorain County,Ohio",23891,690196
+162,"Fredericksburg City County,Virginia","Lucas County,Ohio",28464,819140
+163,"Fredericksburg City County,Virginia","Madison County,Ohio",26663,781982
+164,"Fredericksburg City County,Virginia","Mahoning County,Ohio",19330,552624
+165,"Fredericksburg City County,Virginia","Marion County,Ohio",27742,794897
+166,"Fredericksburg City County,Virginia","Medina County,Ohio",23437,673839
+167,"Fredericksburg City County,Virginia","Meigs County,Ohio",22472,636446
+168,"Fredericksburg City County,Virginia","Mercer County,Ohio",32028,929093
+169,"Fredericksburg City County,Virginia","Miami County,Ohio",29501,870959
+170,"Fredericksburg City County,Virginia","Monroe County,Ohio",21846,605610
+171,"Fredericksburg City County,Virginia","Montgomery County,Ohio",29762,876406
+172,"Fredericksburg City County,Virginia","Morgan County,Ohio",22949,646215
+173,"Fredericksburg City County,Virginia","Morrow County,Ohio",26443,768172
+174,"Fredericksburg City County,Virginia","Muskingum County,Ohio",22163,650427
+175,"Fredericksburg City County,Virginia","Noble County,Ohio",22429,643742
+176,"Fredericksburg City County,Virginia","Paulding County,Ohio",32363,945427
+177,"Fredericksburg City County,Virginia","Perry County,Ohio",24262,698370
+178,"Fredericksburg City County,Virginia","Pickaway County,Ohio",26163,764838
+179,"Fredericksburg City County,Virginia","Pike County,Ohio",25249,687374
+180,"Fredericksburg City County,Virginia","Portage County,Ohio",21184,608637
+181,"Fredericksburg City County,Virginia","Preble County,Ohio",30532,899117
+182,"Fredericksburg City County,Virginia","Putnam County,Ohio",30942,899800
+183,"Fredericksburg City County,Virginia","Richland County,Ohio",25361,728147
+184,"Fredericksburg City County,Virginia","Ross County,Ohio",25497,695812
+185,"Fredericksburg City County,Virginia","Sandusky County,Ohio",26752,777715
+186,"Fredericksburg City County,Virginia","Scioto County,Ohio",25133,671555
+187,"Fredericksburg City County,Virginia","Seneca County,Ohio",27483,787387
+188,"Fredericksburg City County,Virginia","Shelby County,Ohio",30469,878820
+189,"Fredericksburg City County,Virginia","Stark County,Ohio",21964,604770
+190,"Fredericksburg City County,Virginia","Summit County,Ohio",22078,637232
+191,"Fredericksburg City County,Virginia","Trumbull County,Ohio",20487,590088
+192,"Fredericksburg City County,Virginia","Tuscarawas County,Ohio",22082,608354
+193,"Fredericksburg City County,Virginia","Union County,Ohio",27215,798804
+194,"Fredericksburg City County,Virginia","Van Wert County,Ohio",31053,910312
+195,"Fredericksburg City County,Virginia","Vinton County,Ohio",24624,692309
+196,"Fredericksburg City County,Virginia","Warren County,Ohio",29181,863437
+197,"Fredericksburg City County,Virginia","Washington County,Ohio",21287,601678
+198,"Fredericksburg City County,Virginia","Wayne County,Ohio",24543,692650
+199,"Fredericksburg City County,Virginia","Williams County,Ohio",30755,897746
+200,"Fredericksburg City County,Virginia","Wood County,Ohio",28650,826043
+201,"Fredericksburg City County,Virginia","Wyandot County,Ohio",27714,804130
+202,"Fredericksburg City County,Virginia","Accomack County,Virginia",13383,348821
+203,"Fredericksburg City County,Virginia","Albemarle County,Virginia",6207,122934
+204,"Fredericksburg City County,Virginia","Alleghany County,Virginia",11717,291874
+205,"Fredericksburg City County,Virginia","Amelia County,Virginia",6202,154565
+206,"Fredericksburg City County,Virginia","Amherst County,Virginia",9001,192680
+207,"Fredericksburg City County,Virginia","Appomattox County,Virginia",9427,183534
+208,"Fredericksburg City County,Virginia","Arlington County,Virginia",3332,81117
+209,"Fredericksburg City County,Virginia","Augusta County,Virginia",8461,185568
+210,"Fredericksburg City County,Virginia","Bath County,Virginia",11435,251227
+211,"Fredericksburg City County,Virginia","Bedford County,Virginia",11484,256083
+212,"Fredericksburg City County,Virginia","Bland County,Virginia",15999,421558
+213,"Fredericksburg City County,Virginia","Botetourt County,Virginia",11024,262811
+214,"Fredericksburg City County,Virginia","Brunswick County,Virginia",7505,205151
+215,"Fredericksburg City County,Virginia","Buchanan County,Virginia",21756,556017
+216,"Fredericksburg City County,Virginia","Buckingham County,Virginia",8269,155512
+217,"Fredericksburg City County,Virginia","Campbell County,Virginia",10363,232812
+218,"Fredericksburg City County,Virginia","Caroline County,Virginia",1909,33356
+219,"Fredericksburg City County,Virginia","Carroll County,Virginia",16121,426974
+220,"Fredericksburg City County,Virginia","Charles City County,Virginia",4972,127201
+221,"Fredericksburg City County,Virginia","Charlotte County,Virginia",9068,229161
+222,"Fredericksburg City County,Virginia","Chesterfield County,Virginia",4902,120118
+223,"Fredericksburg City County,Virginia","Clarke County,Virginia",5959,123243
+224,"Fredericksburg City County,Virginia","Craig County,Virginia",13865,319138
+225,"Fredericksburg City County,Virginia","Culpeper County,Virginia",3368,57599
+226,"Fredericksburg City County,Virginia","Cumberland County,Virginia",6541,170389
+227,"Fredericksburg City County,Virginia","Dickenson County,Virginia",22466,574194
+228,"Fredericksburg City County,Virginia","Dinwiddie County,Virginia",6143,165118
+229,"Fredericksburg City County,Virginia","Essex County,Virginia",3169,66543
+230,"Fredericksburg City County,Virginia","Fairfax County,Virginia",3629,84346
+231,"Fredericksburg City County,Virginia","Fauquier County,Virginia",3272,64010
+232,"Fredericksburg City County,Virginia","Floyd County,Virginia",14648,368521
+233,"Fredericksburg City County,Virginia","Fluvanna County,Virginia",5536,99529
+234,"Fredericksburg City County,Virginia","Franklin County,Virginia",13921,323378
+235,"Fredericksburg City County,Virginia","Frederick County,Virginia",6514,156306
+236,"Fredericksburg City County,Virginia","Giles County,Virginia",14788,376673
+237,"Fredericksburg City County,Virginia","Gloucester County,Virginia",6714,150449
+238,"Fredericksburg City County,Virginia","Goochland County,Virginia",4979,133197
+239,"Fredericksburg City County,Virginia","Grayson County,Virginia",17453,443154
+240,"Fredericksburg City County,Virginia","Greene County,Virginia",5866,104593
+241,"Fredericksburg City County,Virginia","Greensville County,Virginia",7559,213869
+242,"Fredericksburg City County,Virginia","Halifax County,Virginia",10701,272306
+243,"Fredericksburg City County,Virginia","Hanover County,Virginia",3320,85210
+244,"Fredericksburg City County,Virginia","Henrico County,Virginia",4119,107871
+245,"Fredericksburg City County,Virginia","Henry County,Virginia",15191,388583
+246,"Fredericksburg City County,Virginia","Highland County,Virginia",11663,243307
+247,"Fredericksburg City County,Virginia","Isle of Wight County,Virginia",8253,216461
+248,"Fredericksburg City County,Virginia","James City County,Virginia",6208,167972
+249,"Fredericksburg City County,Virginia","King and Queen County,Virginia",4720,95467
+250,"Fredericksburg City County,Virginia","King George County,Virginia",1780,34073
+251,"Fredericksburg City County,Virginia","King William County,Virginia",4011,83223
+252,"Fredericksburg City County,Virginia","Lancaster County,Virginia",5592,122537
+253,"Fredericksburg City County,Virginia","Lee County,Virginia",22960,605848
+254,"Fredericksburg City County,Virginia","Loudoun County,Virginia",5596,137591
+255,"Fredericksburg City County,Virginia","Louisa County,Virginia",3666,64609
+256,"Fredericksburg City County,Virginia","Lunenburg County,Virginia",8618,213010
+257,"Fredericksburg City County,Virginia","Madison County,Virginia",4270,83996
+258,"Fredericksburg City County,Virginia","Mathews County,Virginia",7303,166925
+259,"Fredericksburg City County,Virginia","Mecklenburg County,Virginia",9231,253423
+260,"Fredericksburg City County,Virginia","Middlesex County,Virginia",5673,130506
+261,"Fredericksburg City County,Virginia","Montgomery County,Virginia",13352,340944
+262,"Fredericksburg City County,Virginia","Nelson County,Virginia",7447,160274
+263,"Fredericksburg City County,Virginia","New Kent County,Virginia",5644,141886
+264,"Fredericksburg City County,Virginia","Northampton County,Virginia",10625,284635
+265,"Fredericksburg City County,Virginia","Northumberland County,Virginia",5632,121049
+266,"Fredericksburg City County,Virginia","Nottoway County,Virginia",7013,179698
+267,"Fredericksburg City County,Virginia","Orange County,Virginia",2962,50317
+268,"Fredericksburg City County,Virginia","Page County,Virginia",6253,115303
+269,"Fredericksburg City County,Virginia","Patrick County,Virginia",16768,405424
+270,"Fredericksburg City County,Virginia","Pittsylvania County,Virginia",12932,304440
+271,"Fredericksburg City County,Virginia","Powhatan County,Virginia",5006,130805
+272,"Fredericksburg City County,Virginia","Prince Edward County,Virginia",7946,202278
+273,"Fredericksburg City County,Virginia","Prince George County,Virginia",5788,155714
+274,"Fredericksburg City County,Virginia","Prince William County,Virginia",3789,74195
+275,"Fredericksburg City County,Virginia","Pulaski County,Virginia",14080,363577
+276,"Fredericksburg City County,Virginia","Rappahannock County,Virginia",4711,92010
+277,"Fredericksburg City County,Virginia","Richmond County,Virginia",4332,93693
+278,"Fredericksburg City County,Virginia","Roanoke County,Virginia",12343,305883
+279,"Fredericksburg City County,Virginia","Rockbridge County,Virginia",9766,228820
+280,"Fredericksburg City County,Virginia","Rockingham County,Virginia",8644,163606
+281,"Fredericksburg City County,Virginia","Russell County,Virginia",20922,539354
+282,"Fredericksburg City County,Virginia","Scott County,Virginia",21534,566577
+283,"Fredericksburg City County,Virginia","Shenandoah County,Virginia",6450,161415
+284,"Fredericksburg City County,Virginia","Smyth County,Virginia",17116,450298
+285,"Fredericksburg City County,Virginia","Southampton County,Virginia",7937,209983
+286,"Fredericksburg City County,Virginia","Spotsylvania County,Virginia",1730,20791
+287,"Fredericksburg City County,Virginia","Stafford County,Virginia",1143,18898
+288,"Fredericksburg City County,Virginia","Surry County,Virginia",6900,177409
+289,"Fredericksburg City County,Virginia","Sussex County,Virginia",6601,180226
+290,"Fredericksburg City County,Virginia","Tazewell County,Virginia",18577,490375
+291,"Fredericksburg City County,Virginia","Warren County,Virginia",5742,125716
+292,"Fredericksburg City County,Virginia","Washington County,Virginia",18510,489765
+293,"Fredericksburg City County,Virginia","Westmoreland County,Virginia",3330,65563
+294,"Fredericksburg City County,Virginia","Wise County,Virginia",22373,580697
+295,"Fredericksburg City County,Virginia","Wythe County,Virginia",15370,402283
+296,"Fredericksburg City County,Virginia","York County,Virginia",7496,198747
+297,"Fredericksburg City County,Virginia","Alexandria City County,Virginia",3304,78165
+298,"Fredericksburg City County,Virginia","Bedford City County,Virginia",10985,251167
+299,"Fredericksburg City County,Virginia","Bristol City County,Virginia",18985,515482
+300,"Fredericksburg City County,Virginia","Buena Vista City County,Virginia",9425,222086
+301,"Fredericksburg City County,Virginia","Charlottesville City County,Virginia",5788,106991
+302,"Fredericksburg City County,Virginia","Chesapeake City County,Virginia",8959,251652
+303,"Fredericksburg City County,Virginia","Clifton Forge City County,Virginia",10619,260692
+304,"Fredericksburg City County,Virginia","Colonial Heights City County,Virginia",4955,130578
+305,"Fredericksburg City County,Virginia","Covington City County,Virginia",11362,279034
+306,"Fredericksburg City County,Virginia","Danville City County,Virginia",12648,319557
+307,"Fredericksburg City County,Virginia","Emporia City County,Virginia",7266,200463
+308,"Fredericksburg City County,Virginia","Fairfax City County,Virginia",3563,73129
+309,"Fredericksburg City County,Virginia","Falls Church City County,Virginia",3511,85415
+310,"Fredericksburg City County,Virginia","Franklin City County,Virginia",8484,217838
+311,"Fredericksburg City County,Virginia","Galax City County,Virginia",16745,432840
+312,"Fredericksburg City County,Virginia","Hampton City County,Virginia",7446,208453
+313,"Fredericksburg City County,Virginia","Harrisonburg City County,Virginia",7674,145542
+314,"Fredericksburg City County,Virginia","Hopewell City County,Virginia",4719,130616
+315,"Fredericksburg City County,Virginia","Lexington City County,Virginia",9284,219064
+316,"Fredericksburg City County,Virginia","Lynchburg City County,Virginia",9549,212736
+317,"Fredericksburg City County,Virginia","Manassas City County,Virginia",3532,71532
+318,"Fredericksburg City County,Virginia","Manassas Park City County,Virginia",3752,68731
+319,"Fredericksburg City County,Virginia","Martinsville City County,Virginia",14560,336548
+320,"Fredericksburg City County,Virginia","Newport News City County,Virginia",7002,194939
+321,"Fredericksburg City County,Virginia","Norfolk City County,Virginia",8752,233869
+322,"Fredericksburg City County,Virginia","Norton City County,Virginia",21897,571587
+323,"Fredericksburg City County,Virginia","Petersburg City County,Virginia",4827,131566
+324,"Fredericksburg City County,Virginia","Poquoson City County,Virginia",7674,205515
+325,"Fredericksburg City County,Virginia","Portsmouth City County,Virginia",8691,242690
+326,"Fredericksburg City County,Virginia","Radford County,Virginia",13716,350788
+327,"Fredericksburg City County,Virginia","Richmond City County,Virginia",3695,95681
+328,"Fredericksburg City County,Virginia","Roanoke City County,Virginia",11882,297325
+329,"Fredericksburg City County,Virginia","Salem City County,Virginia",11711,295796
+330,"Fredericksburg City County,Virginia","South Boston City County,Virginia",10395,269557
+331,"Fredericksburg City County,Virginia","Staunton City County,Virginia",7767,167290
+332,"Fredericksburg City County,Virginia","Suffolk City County,Virginia",9096,231185
+333,"Fredericksburg City County,Virginia","Virginia Beach City County,Virginia",9313,257127
+334,"Fredericksburg City County,Virginia","Waynesboro City County,Virginia",7043,149288
+335,"Fredericksburg City County,Virginia","Williamsburg City County,Virginia",6046,167188
+336,"Fredericksburg City County,Virginia","Winchester City County,Virginia",6336,130053
+337,"Fredericksburg City County,Virginia","Barbour County,West Virginia",14220,330617
+338,"Fredericksburg City County,Virginia","Berkeley County,West Virginia",8117,180235
+339,"Fredericksburg City County,Virginia","Boone County,West Virginia",20076,491580
+340,"Fredericksburg City County,Virginia","Braxton County,West Virginia",18916,448508
+341,"Fredericksburg City County,Virginia","Brooke County,West Virginia",18621,521827
+342,"Fredericksburg City County,Virginia","Cabell County,West Virginia",21644,587486
+343,"Fredericksburg City County,Virginia","Calhoun County,West Virginia",20239,483175
+344,"Fredericksburg City County,Virginia","Clay County,West Virginia",19809,463038
+345,"Fredericksburg City County,Virginia","Doddridge County,West Virginia",18016,509146
+346,"Fredericksburg City County,Virginia","Fayette County,West Virginia",17198,409777
+347,"Fredericksburg City County,Virginia","Gilmer County,West Virginia",18720,447866
+348,"Fredericksburg City County,Virginia","Grant County,West Virginia",9564,233713
+349,"Fredericksburg City County,Virginia","Greenbrier County,West Virginia",15554,369002
+350,"Fredericksburg City County,Virginia","Hampshire County,West Virginia",8641,189311
+351,"Fredericksburg City County,Virginia","Hancock County,West Virginia",19329,529764
+352,"Fredericksburg City County,Virginia","Hardy County,West Virginia",8811,205042
+353,"Fredericksburg City County,Virginia","Harrison County,West Virginia",16453,470774
+354,"Fredericksburg City County,Virginia","Jackson County,West Virginia",20963,567296
+355,"Fredericksburg City County,Virginia","Jefferson County,West Virginia",7068,169018
+356,"Fredericksburg City County,Virginia","Kanawha County,West Virginia",18726,489279
+357,"Fredericksburg City County,Virginia","Lewis County,West Virginia",16621,397496
+358,"Fredericksburg City County,Virginia","Lincoln County,West Virginia",22308,565164
+359,"Fredericksburg City County,Virginia","Logan County,West Virginia",21867,522069
+360,"Fredericksburg City County,Virginia","McDowell County,West Virginia",20246,496520
+361,"Fredericksburg City County,Virginia","Marion County,West Virginia",15939,444687
+362,"Fredericksburg City County,Virginia","Marshall County,West Virginia",19608,516271
+363,"Fredericksburg City County,Virginia","Mason County,West Virginia",21120,573392
+364,"Fredericksburg City County,Virginia","Mercer County,West Virginia",16961,432850
+365,"Fredericksburg City County,Virginia","Mineral County,West Virginia",11038,245236
+366,"Fredericksburg City County,Virginia","Mingo County,West Virginia",22446,586004
+367,"Fredericksburg City County,Virginia","Monongalia County,West Virginia",13762,396427
+368,"Fredericksburg City County,Virginia","Monroe County,West Virginia",14488,355324
+369,"Fredericksburg City County,Virginia","Morgan County,West Virginia",8362,181361
+370,"Fredericksburg City County,Virginia","Nicholas County,West Virginia",17393,422427
+371,"Fredericksburg City County,Virginia","Ohio County,West Virginia",18528,530773
+372,"Fredericksburg City County,Virginia","Pendleton County,West Virginia",11321,256938
+373,"Fredericksburg City County,Virginia","Pleasants County,West Virginia",19251,546915
+374,"Fredericksburg City County,Virginia","Pocahontas County,West Virginia",15126,304992
+375,"Fredericksburg City County,Virginia","Preston County,West Virginia",13744,312164
+376,"Fredericksburg City County,Virginia","Putnam County,West Virginia",19901,539011
+377,"Fredericksburg City County,Virginia","Raleigh County,West Virginia",15751,414460
+378,"Fredericksburg City County,Virginia","Randolph County,West Virginia",15249,356901
+379,"Fredericksburg City County,Virginia","Ritchie County,West Virginia",19162,541217
+380,"Fredericksburg City County,Virginia","Roane County,West Virginia",22660,517211
+381,"Fredericksburg City County,Virginia","Summers County,West Virginia",16472,394337
+382,"Fredericksburg City County,Virginia","Taylor County,West Virginia",14087,329985
+383,"Fredericksburg City County,Virginia","Tucker County,West Virginia",12224,295360
+384,"Fredericksburg City County,Virginia","Tyler County,West Virginia",20178,539581
+385,"Fredericksburg City County,Virginia","Upshur County,West Virginia",16297,378478
+386,"Fredericksburg City County,Virginia","Wayne County,West Virginia",23235,620112
+387,"Fredericksburg City County,Virginia","Webster County,West Virginia",19013,384413
+388,"Fredericksburg City County,Virginia","Wetzel County,West Virginia",19095,506811
+389,"Fredericksburg City County,Virginia","Wirt County,West Virginia",21508,586747
+390,"Fredericksburg City County,Virginia","Wood County,West Virginia",20032,572177
+391,"Fredericksburg City County,Virginia","Wyoming County,West Virginia",17702,454433

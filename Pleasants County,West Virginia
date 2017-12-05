@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Pleasants County,West Virginia","Adair County,Kentucky",21400,599204
+1,"Pleasants County,West Virginia","Allen County,Kentucky",24018,699852
+2,"Pleasants County,West Virginia","Anderson County,Kentucky",17200,502243
+3,"Pleasants County,West Virginia","Ballard County,Kentucky",30178,892014
+4,"Pleasants County,West Virginia","Barren County,Kentucky",23145,658231
+5,"Pleasants County,West Virginia","Bath County,Kentucky",12847,373424
+6,"Pleasants County,West Virginia","Bell County,Kentucky",20402,509240
+7,"Pleasants County,West Virginia","Boone County,Kentucky",15088,379785
+8,"Pleasants County,West Virginia","Bourbon County,Kentucky",14761,419841
+9,"Pleasants County,West Virginia","Boyd County,Kentucky",9523,267748
+10,"Pleasants County,West Virginia","Boyle County,Kentucky",18429,506129
+11,"Pleasants County,West Virginia","Bracken County,Kentucky",13966,333864
+12,"Pleasants County,West Virginia","Breathitt County,Kentucky",16234,414450
+13,"Pleasants County,West Virginia","Breckinridge County,Kentucky",22733,654924
+14,"Pleasants County,West Virginia","Bullitt County,Kentucky",19303,576043
+15,"Pleasants County,West Virginia","Butler County,Kentucky",23398,676922
+16,"Pleasants County,West Virginia","Caldwell County,Kentucky",26290,782867
+17,"Pleasants County,West Virginia","Calloway County,Kentucky",29100,867860
+18,"Pleasants County,West Virginia","Campbell County,Kentucky",14717,368940
+19,"Pleasants County,West Virginia","Carlisle County,Kentucky",30635,907382
+20,"Pleasants County,West Virginia","Carroll County,Kentucky",16662,441550
+21,"Pleasants County,West Virginia","Carter County,Kentucky",10687,297846
+22,"Pleasants County,West Virginia","Casey County,Kentucky",19923,537634
+23,"Pleasants County,West Virginia","Christian County,Kentucky",25939,778124
+24,"Pleasants County,West Virginia","Clay County,Kentucky",18732,501565
+25,"Pleasants County,West Virginia","Clinton County,Kentucky",21807,602569
+26,"Pleasants County,West Virginia","Crittenden County,Kentucky",27870,815937
+27,"Pleasants County,West Virginia","Cumberland County,Kentucky",22561,620808
+28,"Pleasants County,West Virginia","Daviess County,Kentucky",24421,723364
+29,"Pleasants County,West Virginia","Edmonson County,Kentucky",22838,664797
+30,"Pleasants County,West Virginia","Elliott County,Kentucky",12018,323616
+31,"Pleasants County,West Virginia","Estill County,Kentucky",15839,435739
+32,"Pleasants County,West Virginia","Fayette County,Kentucky",15007,439736
+33,"Pleasants County,West Virginia","Fleming County,Kentucky",13273,376610
+34,"Pleasants County,West Virginia","Floyd County,Kentucky",13656,375013
+35,"Pleasants County,West Virginia","Franklin County,Kentucky",17044,488652
+36,"Pleasants County,West Virginia","Fulton County,Kentucky",31039,928346
+37,"Pleasants County,West Virginia","Gallatin County,Kentucky",15873,413964
+38,"Pleasants County,West Virginia","Garrard County,Kentucky",17612,486889
+39,"Pleasants County,West Virginia","Grant County,Kentucky",15940,414438
+40,"Pleasants County,West Virginia","Graves County,Kentucky",29660,880088
+41,"Pleasants County,West Virginia","Grayson County,Kentucky",21725,633558
+42,"Pleasants County,West Virginia","Green County,Kentucky",21505,598763
+43,"Pleasants County,West Virginia","Greenup County,Kentucky",10446,247095
+44,"Pleasants County,West Virginia","Hancock County,Kentucky",23529,687817
+45,"Pleasants County,West Virginia","Hardin County,Kentucky",20601,595690
+46,"Pleasants County,West Virginia","Harlan County,Kentucky",19725,489556
+47,"Pleasants County,West Virginia","Harrison County,Kentucky",16408,385769
+48,"Pleasants County,West Virginia","Hart County,Kentucky",21401,623319
+49,"Pleasants County,West Virginia","Henderson County,Kentucky",26228,775794
+50,"Pleasants County,West Virginia","Henry County,Kentucky",17848,469873
+51,"Pleasants County,West Virginia","Hickman County,Kentucky",30669,908674
+52,"Pleasants County,West Virginia","Hopkins County,Kentucky",25749,757335
+53,"Pleasants County,West Virginia","Jackson County,Kentucky",18512,483748
+54,"Pleasants County,West Virginia","Jefferson County,Kentucky",18740,547904
+55,"Pleasants County,West Virginia","Jessamine County,Kentucky",16476,461199
+56,"Pleasants County,West Virginia","Johnson County,Kentucky",12304,340644
+57,"Pleasants County,West Virginia","Kenton County,Kentucky",14457,367479
+58,"Pleasants County,West Virginia","Knott County,Kentucky",14837,406895
+59,"Pleasants County,West Virginia","Knox County,Kentucky",20015,565782
+60,"Pleasants County,West Virginia","Larue County,Kentucky",20673,582866
+61,"Pleasants County,West Virginia","Laurel County,Kentucky",18866,537176
+62,"Pleasants County,West Virginia","Lawrence County,Kentucky",11446,312068
+63,"Pleasants County,West Virginia","Lee County,Kentucky",16684,429476
+64,"Pleasants County,West Virginia","Leslie County,Kentucky",17917,476569
+65,"Pleasants County,West Virginia","Letcher County,Kentucky",15909,409835
+66,"Pleasants County,West Virginia","Lewis County,Kentucky",12212,296730
+67,"Pleasants County,West Virginia","Lincoln County,Kentucky",18322,503807
+68,"Pleasants County,West Virginia","Livingston County,Kentucky",28465,832834
+69,"Pleasants County,West Virginia","Logan County,Kentucky",25138,720160
+70,"Pleasants County,West Virginia","Lyon County,Kentucky",28599,843225
+71,"Pleasants County,West Virginia","McCracken County,Kentucky",28791,860074
+72,"Pleasants County,West Virginia","McCreary County,Kentucky",20971,581618
+73,"Pleasants County,West Virginia","Madison County,Kentucky",16005,450759
+74,"Pleasants County,West Virginia","Magoffin County,Kentucky",13272,361323
+75,"Pleasants County,West Virginia","Marion County,Kentucky",19051,544475
+76,"Pleasants County,West Virginia","Marshall County,Kentucky",28205,843646
+77,"Pleasants County,West Virginia","Martin County,Kentucky",12931,344413
+78,"Pleasants County,West Virginia","Mason County,Kentucky",13511,312743
+79,"Pleasants County,West Virginia","Meade County,Kentucky",21200,620219
+80,"Pleasants County,West Virginia","Menifee County,Kentucky",13963,385487
+81,"Pleasants County,West Virginia","Mercer County,Kentucky",17427,500186
+82,"Pleasants County,West Virginia","Metcalfe County,Kentucky",22056,629468
+83,"Pleasants County,West Virginia","Monroe County,Kentucky",24026,666973
+84,"Pleasants County,West Virginia","Montgomery County,Kentucky",13660,391964
+85,"Pleasants County,West Virginia","Morgan County,Kentucky",13741,361203
+86,"Pleasants County,West Virginia","Muhlenberg County,Kentucky",24609,723811
+87,"Pleasants County,West Virginia","Nelson County,Kentucky",18659,543547
+88,"Pleasants County,West Virginia","Nicholas County,Kentucky",14700,354185
+89,"Pleasants County,West Virginia","Ohio County,Kentucky",23522,691401
+90,"Pleasants County,West Virginia","Oldham County,Kentucky",17963,482978
+91,"Pleasants County,West Virginia","Owen County,Kentucky",17105,440352
+92,"Pleasants County,West Virginia","Owsley County,Kentucky",17831,449453
+93,"Pleasants County,West Virginia","Pendleton County,Kentucky",15593,390782
+94,"Pleasants County,West Virginia","Perry County,Kentucky",16217,437453
+95,"Pleasants County,West Virginia","Pike County,Kentucky",13211,339952
+96,"Pleasants County,West Virginia","Powell County,Kentucky",15104,421710
+97,"Pleasants County,West Virginia","Robertson County,Kentucky",14620,335158
+98,"Pleasants County,West Virginia","Rockcastle County,Kentucky",17439,491901
+99,"Pleasants County,West Virginia","Rowan County,Kentucky",11990,345631
+100,"Pleasants County,West Virginia","Russell County,Kentucky",21005,583187
+101,"Pleasants County,West Virginia","Scott County,Kentucky",15841,467762
+102,"Pleasants County,West Virginia","Shelby County,Kentucky",17668,519039
+103,"Pleasants County,West Virginia","Simpson County,Kentucky",24720,728217
+104,"Pleasants County,West Virginia","Spencer County,Kentucky",18198,524887
+105,"Pleasants County,West Virginia","Taylor County,Kentucky",20340,575971
+106,"Pleasants County,West Virginia","Todd County,Kentucky",26374,744320
+107,"Pleasants County,West Virginia","Trigg County,Kentucky",27352,804053
+108,"Pleasants County,West Virginia","Trimble County,Kentucky",17561,464875
+109,"Pleasants County,West Virginia","Union County,Kentucky",27947,806240
+110,"Pleasants County,West Virginia","Warren County,Kentucky",23754,693166
+111,"Pleasants County,West Virginia","Washington County,Kentucky",18669,528783
+112,"Pleasants County,West Virginia","Wayne County,Kentucky",21181,580260
+113,"Pleasants County,West Virginia","Webster County,Kentucky",26858,785424
+114,"Pleasants County,West Virginia","Whitley County,Kentucky",19699,571661
+115,"Pleasants County,West Virginia","Wolfe County,Kentucky",14836,384565
+116,"Pleasants County,West Virginia","Woodford County,Kentucky",16061,470398
+117,"Pleasants County,West Virginia","Adams County,Ohio",10437,263384
+118,"Pleasants County,West Virginia","Allen County,Ohio",14479,390486
+119,"Pleasants County,West Virginia","Ashland County,Ohio",10750,258712
+120,"Pleasants County,West Virginia","Ashtabula County,Ohio",13438,379610
+121,"Pleasants County,West Virginia","Athens County,Ohio",4833,110895
+122,"Pleasants County,West Virginia","Auglaize County,Ohio",14092,394180
+123,"Pleasants County,West Virginia","Belmont County,Ohio",6044,110372
+124,"Pleasants County,West Virginia","Brown County,Ohio",11862,296244
+125,"Pleasants County,West Virginia","Butler County,Ohio",14562,388911
+126,"Pleasants County,West Virginia","Carroll County,Ohio",8431,205420
+127,"Pleasants County,West Virginia","Champaign County,Ohio",11836,309075
+128,"Pleasants County,West Virginia","Clark County,Ohio",10713,299646
+129,"Pleasants County,West Virginia","Clermont County,Ohio",12516,321408
+130,"Pleasants County,West Virginia","Clinton County,Ohio",11938,304894
+131,"Pleasants County,West Virginia","Columbiana County,Ohio",9779,209467
+132,"Pleasants County,West Virginia","Coshocton County,Ohio",7066,176537
+133,"Pleasants County,West Virginia","Crawford County,Ohio",12458,321818
+134,"Pleasants County,West Virginia","Cuyahoga County,Ohio",10467,290824
+135,"Pleasants County,West Virginia","Darke County,Ohio",14289,397548
+136,"Pleasants County,West Virginia","Defiance County,Ohio",17914,468807
+137,"Pleasants County,West Virginia","Delaware County,Ohio",9989,275394
+138,"Pleasants County,West Virginia","Fairfield County,Ohio",8017,200835
+139,"Pleasants County,West Virginia","Fayette County,Ohio",10502,275358
+140,"Pleasants County,West Virginia","Franklin County,Ohio",8685,239281
+141,"Pleasants County,West Virginia","Fulton County,Ohio",17310,496742
+142,"Pleasants County,West Virginia","Gallia County,Ohio",6716,150771
+143,"Pleasants County,West Virginia","Geauga County,Ohio",11538,316542
+144,"Pleasants County,West Virginia","Greene County,Ohio",11372,308510
+145,"Pleasants County,West Virginia","Guernsey County,Ohio",4616,114456
+146,"Pleasants County,West Virginia","Hamilton County,Ohio",14063,399489
+147,"Pleasants County,West Virginia","Hancock County,Ohio",14012,383749
+148,"Pleasants County,West Virginia","Hardin County,Ohio",12989,346316
+149,"Pleasants County,West Virginia","Harrison County,Ohio",7436,187486
+150,"Pleasants County,West Virginia","Henry County,Ohio",16725,455371
+151,"Pleasants County,West Virginia","Highland County,Ohio",10974,263398
+152,"Pleasants County,West Virginia","Hocking County,Ohio",6459,156798
+153,"Pleasants County,West Virginia","Holmes County,Ohio",8125,199421
+154,"Pleasants County,West Virginia","Huron County,Ohio",12648,300341
+155,"Pleasants County,West Virginia","Jackson County,Ohio",6961,173949
+156,"Pleasants County,West Virginia","Jefferson County,Ohio",7814,167558
+157,"Pleasants County,West Virginia","Knox County,Ohio",8854,219013
+158,"Pleasants County,West Virginia","Lawrence County,Ohio",9309,190161
+159,"Pleasants County,West Virginia","Licking County,Ohio",8244,199944
+160,"Pleasants County,West Virginia","Logan County,Ohio",12010,340593
+161,"Pleasants County,West Virginia","Lorain County,Ohio",11691,320648
+162,"Pleasants County,West Virginia","Lucas County,Ohio",16264,449592
+163,"Pleasants County,West Virginia","Madison County,Ohio",9962,274002
+164,"Pleasants County,West Virginia","Mahoning County,Ohio",10443,238345
+165,"Pleasants County,West Virginia","Marion County,Ohio",11396,301487
+166,"Pleasants County,West Virginia","Medina County,Ohio",10140,276855
+167,"Pleasants County,West Virginia","Meigs County,Ohio",4799,103472
+168,"Pleasants County,West Virginia","Mercer County,Ohio",15328,421114
+169,"Pleasants County,West Virginia","Miami County,Ohio",12800,362979
+170,"Pleasants County,West Virginia","Monroe County,Ohio",3563,65409
+171,"Pleasants County,West Virginia","Montgomery County,Ohio",13061,368426
+172,"Pleasants County,West Virginia","Morgan County,Ohio",4558,90296
+173,"Pleasants County,West Virginia","Morrow County,Ohio",10819,251835
+174,"Pleasants County,West Virginia","Muskingum County,Ohio",5462,142448
+175,"Pleasants County,West Virginia","Noble County,Ohio",4058,86808
+176,"Pleasants County,West Virginia","Paulding County,Ohio",17015,466392
+177,"Pleasants County,West Virginia","Perry County,Ohio",7082,136164
+178,"Pleasants County,West Virginia","Pickaway County,Ohio",8622,209739
+179,"Pleasants County,West Virginia","Pike County,Ohio",8407,213256
+180,"Pleasants County,West Virginia","Portage County,Ohio",9989,272406
+181,"Pleasants County,West Virginia","Preble County,Ohio",13831,391138
+182,"Pleasants County,West Virginia","Putnam County,Ohio",15601,422845
+183,"Pleasants County,West Virginia","Richland County,Ohio",11106,272052
+184,"Pleasants County,West Virginia","Ross County,Ohio",8687,221763
+185,"Pleasants County,West Virginia","Sandusky County,Ohio",14552,408167
+186,"Pleasants County,West Virginia","Scioto County,Ohio",9045,229327
+187,"Pleasants County,West Virginia","Seneca County,Ohio",14386,376329
+188,"Pleasants County,West Virginia","Shelby County,Ohio",13768,370840
+189,"Pleasants County,West Virginia","Stark County,Ohio",8290,220655
+190,"Pleasants County,West Virginia","Summit County,Ohio",9048,246444
+191,"Pleasants County,West Virginia","Trumbull County,Ohio",11723,300708
+192,"Pleasants County,West Virginia","Tuscarawas County,Ohio",6490,161243
+193,"Pleasants County,West Virginia","Union County,Ohio",10514,290824
+194,"Pleasants County,West Virginia","Van Wert County,Ohio",15713,433356
+195,"Pleasants County,West Virginia","Vinton County,Ohio",6951,159336
+196,"Pleasants County,West Virginia","Warren County,Ohio",12480,355457
+197,"Pleasants County,West Virginia","Washington County,Ohio",2861,44219
+198,"Pleasants County,West Virginia","Wayne County,Ohio",9261,223534
+199,"Pleasants County,West Virginia","Williams County,Ohio",18555,528199
+200,"Pleasants County,West Virginia","Wood County,Ohio",15410,425357
+201,"Pleasants County,West Virginia","Wyandot County,Ohio",12982,347885
+202,"Pleasants County,West Virginia","Accomack County,Virginia",28002,760724
+203,"Pleasants County,West Virginia","Albemarle County,Virginia",18051,406060
+204,"Pleasants County,West Virginia","Alleghany County,Virginia",13672,384102
+205,"Pleasants County,West Virginia","Amelia County,Virginia",23105,537879
+206,"Pleasants County,West Virginia","Amherst County,Virginia",19001,515068
+207,"Pleasants County,West Virginia","Appomattox County,Virginia",20594,553827
+208,"Pleasants County,West Virginia","Arlington County,Virginia",16866,477651
+209,"Pleasants County,West Virginia","Augusta County,Virginia",16087,352501
+210,"Pleasants County,West Virginia","Bath County,Virginia",15495,334145
+211,"Pleasants County,West Virginia","Bedford County,Virginia",19261,501193
+212,"Pleasants County,West Virginia","Bland County,Virginia",12634,350322
+213,"Pleasants County,West Virginia","Botetourt County,Virginia",16826,455401
+214,"Pleasants County,West Virginia","Brunswick County,Virginia",25736,640189
+215,"Pleasants County,West Virginia","Buchanan County,Virginia",16629,434551
+216,"Pleasants County,West Virginia","Buckingham County,Virginia",20877,564762
+217,"Pleasants County,West Virginia","Campbell County,Virginia",20518,556299
+218,"Pleasants County,West Virginia","Caroline County,Virginia",20871,596641
+219,"Pleasants County,West Virginia","Carroll County,Virginia",14880,419759
+220,"Pleasants County,West Virginia","Charles City County,Virginia",23491,571941
+221,"Pleasants County,West Virginia","Charlotte County,Virginia",22479,607348
+222,"Pleasants County,West Virginia","Chesterfield County,Virginia",22627,549725
+223,"Pleasants County,West Virginia","Clarke County,Virginia",14979,378287
+224,"Pleasants County,West Virginia","Craig County,Virginia",15315,405187
+225,"Pleasants County,West Virginia","Culpeper County,Virginia",18100,433191
+226,"Pleasants County,West Virginia","Cumberland County,Virginia",22094,496417
+227,"Pleasants County,West Virginia","Dickenson County,Virginia",17310,429914
+228,"Pleasants County,West Virginia","Dinwiddie County,Virginia",24374,600156
+229,"Pleasants County,West Virginia","Essex County,Virginia",22273,620695
+230,"Pleasants County,West Virginia","Fairfax County,Virginia",16557,468318
+231,"Pleasants County,West Virginia","Fauquier County,Virginia",16530,399917
+232,"Pleasants County,West Virginia","Floyd County,Virginia",16500,438723
+233,"Pleasants County,West Virginia","Fluvanna County,Virginia",19729,458232
+234,"Pleasants County,West Virginia","Franklin County,Virginia",18774,502426
+235,"Pleasants County,West Virginia","Frederick County,Virginia",13768,353009
+236,"Pleasants County,West Virginia","Giles County,Virginia",13365,361880
+237,"Pleasants County,West Virginia","Gloucester County,Virginia",25661,626129
+238,"Pleasants County,West Virginia","Goochland County,Virginia",20632,488843
+239,"Pleasants County,West Virginia","Grayson County,Virginia",15282,409466
+240,"Pleasants County,West Virginia","Greene County,Virginia",18024,391891
+241,"Pleasants County,West Virginia","Greensville County,Virginia",25790,648908
+242,"Pleasants County,West Virginia","Halifax County,Virginia",23183,617446
+243,"Pleasants County,West Virginia","Hanover County,Virginia",21839,529950
+244,"Pleasants County,West Virginia","Henrico County,Virginia",22350,542910
+245,"Pleasants County,West Virginia","Henry County,Virginia",18753,506480
+246,"Pleasants County,West Virginia","Highland County,Virginia",12634,286302
+247,"Pleasants County,West Virginia","Isle of Wight County,Virginia",26602,647487
+248,"Pleasants County,West Virginia","James City County,Virginia",24727,612712
+249,"Pleasants County,West Virginia","King and Queen County,Virginia",23325,655956
+250,"Pleasants County,West Virginia","King George County,Virginia",20832,580501
+251,"Pleasants County,West Virginia","King William County,Virginia",22290,633753
+252,"Pleasants County,West Virginia","Lancaster County,Virginia",24696,676689
+253,"Pleasants County,West Virginia","Lee County,Virginia",18610,478430
+254,"Pleasants County,West Virginia","Loudoun County,Virginia",16475,414154
+255,"Pleasants County,West Virginia","Louisa County,Virginia",20290,471938
+256,"Pleasants County,West Virginia","Lunenburg County,Virginia",24251,648632
+257,"Pleasants County,West Virginia","Madison County,Virginia",18523,421450
+258,"Pleasants County,West Virginia","Mathews County,Virginia",26486,649552
+259,"Pleasants County,West Virginia","Mecklenburg County,Virginia",25242,661756
+260,"Pleasants County,West Virginia","Middlesex County,Virginia",24777,684658
+261,"Pleasants County,West Virginia","Montgomery County,Virginia",14448,389887
+262,"Pleasants County,West Virginia","Nelson County,Virginia",18931,424561
+263,"Pleasants County,West Virginia","New Kent County,Virginia",24163,586626
+264,"Pleasants County,West Virginia","Northampton County,Virginia",29144,729375
+265,"Pleasants County,West Virginia","Northumberland County,Virginia",24736,675201
+266,"Pleasants County,West Virginia","Nottoway County,Virginia",23744,649011
+267,"Pleasants County,West Virginia","Orange County,Virginia",19441,467689
+268,"Pleasants County,West Virginia","Page County,Virginia",16553,377600
+269,"Pleasants County,West Virginia","Patrick County,Virginia",16985,464795
+270,"Pleasants County,West Virginia","Pittsylvania County,Virginia",21069,560688
+271,"Pleasants County,West Virginia","Powhatan County,Virginia",21886,514065
+272,"Pleasants County,West Virginia","Prince Edward County,Virginia",22359,606347
+273,"Pleasants County,West Virginia","Prince George County,Virginia",24137,586740
+274,"Pleasants County,West Virginia","Prince William County,Virginia",16630,406021
+275,"Pleasants County,West Virginia","Pulaski County,Virginia",14543,386218
+276,"Pleasants County,West Virginia","Rappahannock County,Virginia",16841,385055
+277,"Pleasants County,West Virginia","Richmond County,Virginia",23436,647845
+278,"Pleasants County,West Virginia","Roanoke County,Virginia",16067,432680
+279,"Pleasants County,West Virginia","Rockbridge County,Virginia",16005,452458
+280,"Pleasants County,West Virginia","Rockingham County,Virginia",14724,345526
+281,"Pleasants County,West Virginia","Russell County,Virginia",16442,430502
+282,"Pleasants County,West Virginia","Scott County,Virginia",18786,477367
+283,"Pleasants County,West Virginia","Shenandoah County,Virginia",14991,334989
+284,"Pleasants County,West Virginia","Smyth County,Virginia",14992,415674
+285,"Pleasants County,West Virginia","Southampton County,Virginia",26168,645022
+286,"Pleasants County,West Virginia","Spotsylvania County,Virginia",20147,475058
+287,"Pleasants County,West Virginia","Stafford County,Virginia",18531,531605
+288,"Pleasants County,West Virginia","Surry County,Virginia",25470,611573
+289,"Pleasants County,West Virginia","Sussex County,Virginia",24832,615264
+290,"Pleasants County,West Virginia","Tazewell County,Virginia",13450,368909
+291,"Pleasants County,West Virginia","Warren County,Virginia",15170,347718
+292,"Pleasants County,West Virginia","Washington County,Virginia",16385,455140
+293,"Pleasants County,West Virginia","Westmoreland County,Virginia",21800,599302
+294,"Pleasants County,West Virginia","Wise County,Virginia",15574,405813
+295,"Pleasants County,West Virginia","Wythe County,Virginia",13239,368539
+296,"Pleasants County,West Virginia","York County,Virginia",26014,643486
+297,"Pleasants County,West Virginia","Alexandria City County,Virginia",17382,494833
+298,"Pleasants County,West Virginia","Bedford City County,Virginia",18425,492624
+299,"Pleasants County,West Virginia","Bristol City County,Virginia",16860,480857
+300,"Pleasants County,West Virginia","Buena Vista City County,Virginia",16360,466436
+301,"Pleasants County,West Virginia","Charlottesville City County,Virginia",18520,421275
+302,"Pleasants County,West Virginia","Chesapeake City County,Virginia",27477,696392
+303,"Pleasants County,West Virginia","Clifton Forge City County,Virginia",14216,404309
+304,"Pleasants County,West Virginia","Colonial Heights City County,Virginia",23186,565617
+305,"Pleasants County,West Virginia","Covington City County,Virginia",13741,387687
+306,"Pleasants County,West Virginia","Danville City County,Virginia",20911,560936
+307,"Pleasants County,West Virginia","Emporia City County,Virginia",25497,635501
+308,"Pleasants County,West Virginia","Fairfax City County,Virginia",17027,479951
+309,"Pleasants County,West Virginia","Falls Church City County,Virginia",16574,471963
+310,"Pleasants County,West Virginia","Franklin City County,Virginia",26715,652876
+311,"Pleasants County,West Virginia","Fredericksburg City County,Virginia",19344,547196
+312,"Pleasants County,West Virginia","Galax City County,Virginia",15503,425625
+313,"Pleasants County,West Virginia","Hampton City County,Virginia",25964,653192
+314,"Pleasants County,West Virginia","Harrisonburg City County,Virginia",15319,342465
+315,"Pleasants County,West Virginia","Hopewell City County,Virginia",23223,564583
+316,"Pleasants County,West Virginia","Lexington City County,Virginia",15994,454927
+317,"Pleasants County,West Virginia","Lynchburg City County,Virginia",19577,530041
+318,"Pleasants County,West Virginia","Manassas City County,Virginia",16857,410966
+319,"Pleasants County,West Virginia","Manassas Park City County,Virginia",17360,417309
+320,"Pleasants County,West Virginia","Martinsville City County,Virginia",19281,515273
+321,"Pleasants County,West Virginia","Newport News City County,Virginia",25521,639678
+322,"Pleasants County,West Virginia","Norfolk City County,Virginia",27271,678608
+323,"Pleasants County,West Virginia","Norton City County,Virginia",16203,417624
+324,"Pleasants County,West Virginia","Petersburg City County,Virginia",23058,566605
+325,"Pleasants County,West Virginia","Poquoson City County,Virginia",26193,650255
+326,"Pleasants County,West Virginia","Portsmouth City County,Virginia",27210,687429
+327,"Pleasants County,West Virginia","Radford County,Virginia",14855,387927
+328,"Pleasants County,West Virginia","Richmond City County,Virginia",21926,530720
+329,"Pleasants County,West Virginia","Roanoke City County,Virginia",16670,452785
+330,"Pleasants County,West Virginia","Salem City County,Virginia",16081,439335
+331,"Pleasants County,West Virginia","South Boston City County,Virginia",22923,615114
+332,"Pleasants County,West Virginia","Staunton City County,Virginia",16228,353190
+333,"Pleasants County,West Virginia","Suffolk City County,Virginia",27445,662211
+334,"Pleasants County,West Virginia","Virginia Beach City County,Virginia",27832,701867
+335,"Pleasants County,West Virginia","Waynesboro City County,Virginia",17182,376171
+336,"Pleasants County,West Virginia","Williamsburg City County,Virginia",24565,611927
+337,"Pleasants County,West Virginia","Winchester City County,Virginia",13907,356812
+338,"Pleasants County,West Virginia","Barbour County,West Virginia",5760,129213
+339,"Pleasants County,West Virginia","Berkeley County,West Virginia",13321,355668
+340,"Pleasants County,West Virginia","Boone County,West Virginia",9385,229100
+341,"Pleasants County,West Virginia","Braxton County,West Virginia",7967,186867
+342,"Pleasants County,West Virginia","Brooke County,West Virginia",7390,147524
+343,"Pleasants County,West Virginia","Cabell County,West Virginia",9113,204760
+344,"Pleasants County,West Virginia","Calhoun County,West Virginia",4763,78025
+345,"Pleasants County,West Virginia","Clay County,West Virginia",8855,155748
+346,"Pleasants County,West Virginia","Doddridge County,West Virginia",2747,54930
+347,"Pleasants County,West Virginia","Fayette County,West Virginia",10433,271808
+348,"Pleasants County,West Virginia","Gilmer County,West Virginia",5412,86483
+349,"Pleasants County,West Virginia","Grant County,West Virginia",10895,242608
+350,"Pleasants County,West Virginia","Greenbrier County,West Virginia",13634,307368
+351,"Pleasants County,West Virginia","Hampshire County,West Virginia",12575,317272
+352,"Pleasants County,West Virginia","Hancock County,West Virginia",8732,177262
+353,"Pleasants County,West Virginia","Hardy County,West Virginia",11982,270211
+354,"Pleasants County,West Virginia","Harrison County,West Virginia",3830,87924
+355,"Pleasants County,West Virginia","Jackson County,West Virginia",4689,110720
+356,"Pleasants County,West Virginia","Jefferson County,West Virginia",14787,411666
+357,"Pleasants County,West Virginia","Kanawha County,West Virginia",7861,197269
+358,"Pleasants County,West Virginia","Lewis County,West Virginia",5523,90075
+359,"Pleasants County,West Virginia","Lincoln County,West Virginia",9643,223687
+360,"Pleasants County,West Virginia","Logan County,West Virginia",10314,266219
+361,"Pleasants County,West Virginia","McDowell County,West Virginia",14223,344581
+362,"Pleasants County,West Virginia","Marion County,West Virginia",5767,131047
+363,"Pleasants County,West Virginia","Marshall County,West Virginia",5977,108645
+364,"Pleasants County,West Virginia","Mason County,West Virginia",6454,154774
+365,"Pleasants County,West Virginia","Mercer County,West Virginia",11187,308828
+366,"Pleasants County,West Virginia","Mineral County,West Virginia",11455,291823
+367,"Pleasants County,West Virginia","Mingo County,West Virginia",10359,270726
+368,"Pleasants County,West Virginia","Monongalia County,West Virginia",5977,156515
+369,"Pleasants County,West Virginia","Monroe County,West Virginia",14233,353540
+370,"Pleasants County,West Virginia","Morgan County,West Virginia",12812,345060
+371,"Pleasants County,West Virginia","Nicholas County,West Virginia",8953,236512
+372,"Pleasants County,West Virginia","Ohio County,West Virginia",6370,130424
+373,"Pleasants County,West Virginia","Pendleton County,West Virginia",12146,287735
+374,"Pleasants County,West Virginia","Pocahontas County,West Virginia",12439,268966
+375,"Pleasants County,West Virginia","Preston County,West Virginia",8123,183246
+376,"Pleasants County,West Virginia","Putnam County,West Virginia",7236,197534
+377,"Pleasants County,West Virginia","Raleigh County,West Virginia",9729,262521
+378,"Pleasants County,West Virginia","Randolph County,West Virginia",7824,185861
+379,"Pleasants County,West Virginia","Ritchie County,West Virginia",1872,27951
+380,"Pleasants County,West Virginia","Roane County,West Virginia",6315,139535
+381,"Pleasants County,West Virginia","Summers County,West Virginia",13181,323959
+382,"Pleasants County,West Virginia","Taylor County,West Virginia",5659,126619
+383,"Pleasants County,West Virginia","Tucker County,West Virginia",8325,179941
+384,"Pleasants County,West Virginia","Tyler County,West Virginia",3075,54618
+385,"Pleasants County,West Virginia","Upshur County,West Virginia",6799,160302
+386,"Pleasants County,West Virginia","Wayne County,West Virginia",10570,278636
+387,"Pleasants County,West Virginia","Webster County,West Virginia",10174,232689
+388,"Pleasants County,West Virginia","Wetzel County,West Virginia",4287,76525
+389,"Pleasants County,West Virginia","Wirt County,West Virginia",3933,75183
+390,"Pleasants County,West Virginia","Wood County,West Virginia",2695,50380
+391,"Pleasants County,West Virginia","Wyoming County,West Virginia",11673,302463

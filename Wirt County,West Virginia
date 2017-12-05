@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wirt County,West Virginia","Adair County,Kentucky",20306,544500
+1,"Wirt County,West Virginia","Allen County,Kentucky",22925,645148
+2,"Wirt County,West Virginia","Anderson County,Kentucky",16106,447539
+3,"Wirt County,West Virginia","Ballard County,Kentucky",29084,837310
+4,"Wirt County,West Virginia","Barren County,Kentucky",22052,603527
+5,"Wirt County,West Virginia","Bath County,Kentucky",11753,318720
+6,"Wirt County,West Virginia","Bell County,Kentucky",19308,454536
+7,"Wirt County,West Virginia","Boone County,Kentucky",14928,356372
+8,"Wirt County,West Virginia","Bourbon County,Kentucky",13667,365137
+9,"Wirt County,West Virginia","Boyd County,Kentucky",8429,213044
+10,"Wirt County,West Virginia","Boyle County,Kentucky",17335,451425
+11,"Wirt County,West Virginia","Bracken County,Kentucky",13805,310451
+12,"Wirt County,West Virginia","Breathitt County,Kentucky",15140,359746
+13,"Wirt County,West Virginia","Breckinridge County,Kentucky",21639,600220
+14,"Wirt County,West Virginia","Bullitt County,Kentucky",18209,521339
+15,"Wirt County,West Virginia","Butler County,Kentucky",22304,622218
+16,"Wirt County,West Virginia","Caldwell County,Kentucky",25196,728163
+17,"Wirt County,West Virginia","Calloway County,Kentucky",28006,813156
+18,"Wirt County,West Virginia","Campbell County,Kentucky",14557,345526
+19,"Wirt County,West Virginia","Carlisle County,Kentucky",29542,852678
+20,"Wirt County,West Virginia","Carroll County,Kentucky",16501,418137
+21,"Wirt County,West Virginia","Carter County,Kentucky",9593,243142
+22,"Wirt County,West Virginia","Casey County,Kentucky",18829,482930
+23,"Wirt County,West Virginia","Christian County,Kentucky",24845,723420
+24,"Wirt County,West Virginia","Clay County,Kentucky",17639,446861
+25,"Wirt County,West Virginia","Clinton County,Kentucky",20713,547865
+26,"Wirt County,West Virginia","Crittenden County,Kentucky",26776,761233
+27,"Wirt County,West Virginia","Cumberland County,Kentucky",21467,566104
+28,"Wirt County,West Virginia","Daviess County,Kentucky",23327,668660
+29,"Wirt County,West Virginia","Edmonson County,Kentucky",21744,610093
+30,"Wirt County,West Virginia","Elliott County,Kentucky",10924,268912
+31,"Wirt County,West Virginia","Estill County,Kentucky",14746,381035
+32,"Wirt County,West Virginia","Fayette County,Kentucky",13913,385032
+33,"Wirt County,West Virginia","Fleming County,Kentucky",12179,321906
+34,"Wirt County,West Virginia","Floyd County,Kentucky",12562,320309
+35,"Wirt County,West Virginia","Franklin County,Kentucky",15951,433948
+36,"Wirt County,West Virginia","Fulton County,Kentucky",29946,873642
+37,"Wirt County,West Virginia","Gallatin County,Kentucky",15713,390550
+38,"Wirt County,West Virginia","Garrard County,Kentucky",16518,432185
+39,"Wirt County,West Virginia","Grant County,Kentucky",15780,391024
+40,"Wirt County,West Virginia","Graves County,Kentucky",28566,825385
+41,"Wirt County,West Virginia","Grayson County,Kentucky",20632,578854
+42,"Wirt County,West Virginia","Green County,Kentucky",20411,544059
+43,"Wirt County,West Virginia","Greenup County,Kentucky",9477,200122
+44,"Wirt County,West Virginia","Hancock County,Kentucky",22435,633113
+45,"Wirt County,West Virginia","Hardin County,Kentucky",19508,540986
+46,"Wirt County,West Virginia","Harlan County,Kentucky",18631,434852
+47,"Wirt County,West Virginia","Harrison County,Kentucky",15238,398237
+48,"Wirt County,West Virginia","Hart County,Kentucky",20307,568615
+49,"Wirt County,West Virginia","Henderson County,Kentucky",25134,721090
+50,"Wirt County,West Virginia","Henry County,Kentucky",17552,477667
+51,"Wirt County,West Virginia","Hickman County,Kentucky",29575,853970
+52,"Wirt County,West Virginia","Hopkins County,Kentucky",24655,702631
+53,"Wirt County,West Virginia","Jackson County,Kentucky",17418,429044
+54,"Wirt County,West Virginia","Jefferson County,Kentucky",17646,493200
+55,"Wirt County,West Virginia","Jessamine County,Kentucky",15382,406495
+56,"Wirt County,West Virginia","Johnson County,Kentucky",11210,285941
+57,"Wirt County,West Virginia","Kenton County,Kentucky",14297,344066
+58,"Wirt County,West Virginia","Knott County,Kentucky",13744,352191
+59,"Wirt County,West Virginia","Knox County,Kentucky",18921,511078
+60,"Wirt County,West Virginia","Larue County,Kentucky",19579,528162
+61,"Wirt County,West Virginia","Laurel County,Kentucky",17772,482472
+62,"Wirt County,West Virginia","Lawrence County,Kentucky",10352,257364
+63,"Wirt County,West Virginia","Lee County,Kentucky",15590,374772
+64,"Wirt County,West Virginia","Leslie County,Kentucky",16823,421865
+65,"Wirt County,West Virginia","Letcher County,Kentucky",14816,355131
+66,"Wirt County,West Virginia","Lewis County,Kentucky",11503,245550
+67,"Wirt County,West Virginia","Lincoln County,Kentucky",17228,449103
+68,"Wirt County,West Virginia","Livingston County,Kentucky",27372,778130
+69,"Wirt County,West Virginia","Logan County,Kentucky",24044,665456
+70,"Wirt County,West Virginia","Lyon County,Kentucky",27505,788521
+71,"Wirt County,West Virginia","McCracken County,Kentucky",27697,805370
+72,"Wirt County,West Virginia","McCreary County,Kentucky",19877,526914
+73,"Wirt County,West Virginia","Madison County,Kentucky",14911,396055
+74,"Wirt County,West Virginia","Magoffin County,Kentucky",12178,306620
+75,"Wirt County,West Virginia","Marion County,Kentucky",17957,489771
+76,"Wirt County,West Virginia","Marshall County,Kentucky",27111,788942
+77,"Wirt County,West Virginia","Martin County,Kentucky",11838,289709
+78,"Wirt County,West Virginia","Mason County,Kentucky",13350,289329
+79,"Wirt County,West Virginia","Meade County,Kentucky",20106,565515
+80,"Wirt County,West Virginia","Menifee County,Kentucky",12869,330784
+81,"Wirt County,West Virginia","Mercer County,Kentucky",16334,445483
+82,"Wirt County,West Virginia","Metcalfe County,Kentucky",20962,574764
+83,"Wirt County,West Virginia","Monroe County,Kentucky",22932,612269
+84,"Wirt County,West Virginia","Montgomery County,Kentucky",12566,337260
+85,"Wirt County,West Virginia","Morgan County,Kentucky",12648,306499
+86,"Wirt County,West Virginia","Muhlenberg County,Kentucky",23515,669107
+87,"Wirt County,West Virginia","Nelson County,Kentucky",17565,488843
+88,"Wirt County,West Virginia","Nicholas County,Kentucky",14244,365144
+89,"Wirt County,West Virginia","Ohio County,Kentucky",22428,636697
+90,"Wirt County,West Virginia","Oldham County,Kentucky",17802,459565
+91,"Wirt County,West Virginia","Owen County,Kentucky",16773,460725
+92,"Wirt County,West Virginia","Owsley County,Kentucky",16737,394749
+93,"Wirt County,West Virginia","Pendleton County,Kentucky",15433,367368
+94,"Wirt County,West Virginia","Perry County,Kentucky",15123,382749
+95,"Wirt County,West Virginia","Pike County,Kentucky",12117,285248
+96,"Wirt County,West Virginia","Powell County,Kentucky",14010,367006
+97,"Wirt County,West Virginia","Robertson County,Kentucky",14162,364650
+98,"Wirt County,West Virginia","Rockcastle County,Kentucky",16345,437197
+99,"Wirt County,West Virginia","Rowan County,Kentucky",10896,290927
+100,"Wirt County,West Virginia","Russell County,Kentucky",19911,528483
+101,"Wirt County,West Virginia","Scott County,Kentucky",14747,413059
+102,"Wirt County,West Virginia","Shelby County,Kentucky",16574,464335
+103,"Wirt County,West Virginia","Simpson County,Kentucky",23626,673513
+104,"Wirt County,West Virginia","Spencer County,Kentucky",17104,470183
+105,"Wirt County,West Virginia","Taylor County,Kentucky",19247,521267
+106,"Wirt County,West Virginia","Todd County,Kentucky",25281,689617
+107,"Wirt County,West Virginia","Trigg County,Kentucky",26259,749349
+108,"Wirt County,West Virginia","Trimble County,Kentucky",17400,441461
+109,"Wirt County,West Virginia","Union County,Kentucky",26853,751536
+110,"Wirt County,West Virginia","Warren County,Kentucky",22661,638462
+111,"Wirt County,West Virginia","Washington County,Kentucky",17575,474079
+112,"Wirt County,West Virginia","Wayne County,Kentucky",20087,525556
+113,"Wirt County,West Virginia","Webster County,Kentucky",25764,730720
+114,"Wirt County,West Virginia","Whitley County,Kentucky",18605,516957
+115,"Wirt County,West Virginia","Wolfe County,Kentucky",13743,329861
+116,"Wirt County,West Virginia","Woodford County,Kentucky",14967,415694
+117,"Wirt County,West Virginia","Adams County,Ohio",10277,239971
+118,"Wirt County,West Virginia","Allen County,Ohio",14657,371913
+119,"Wirt County,West Virginia","Ashland County,Ohio",11232,276778
+120,"Wirt County,West Virginia","Ashtabula County,Ohio",13919,397676
+121,"Wirt County,West Virginia","Athens County,Ohio",4594,101785
+122,"Wirt County,West Virginia","Auglaize County,Ohio",14271,375606
+123,"Wirt County,West Virginia","Belmont County,Ohio",6982,186600
+124,"Wirt County,West Virginia","Brown County,Ohio",11701,272831
+125,"Wirt County,West Virginia","Butler County,Ohio",14445,367354
+126,"Wirt County,West Virginia","Carroll County,Ohio",8912,223486
+127,"Wirt County,West Virginia","Champaign County,Ohio",11928,291374
+128,"Wirt County,West Virginia","Clark County,Ohio",10806,281945
+129,"Wirt County,West Virginia","Clermont County,Ohio",12355,297995
+130,"Wirt County,West Virginia","Clinton County,Ohio",11746,281411
+131,"Wirt County,West Virginia","Columbiana County,Ohio",10753,277721
+132,"Wirt County,West Virginia","Coshocton County,Ohio",7547,194603
+133,"Wirt County,West Virginia","Crawford County,Ohio",12939,339884
+134,"Wirt County,West Virginia","Cuyahoga County,Ohio",10948,308890
+135,"Wirt County,West Virginia","Darke County,Ohio",14382,379847
+136,"Wirt County,West Virginia","Defiance County,Ohio",18093,450233
+137,"Wirt County,West Virginia","Delaware County,Ohio",10247,264631
+138,"Wirt County,West Virginia","Fairfield County,Ohio",7777,191725
+139,"Wirt County,West Virginia","Fayette County,Ohio",10310,251875
+140,"Wirt County,West Virginia","Franklin County,Ohio",8777,221580
+141,"Wirt County,West Virginia","Fulton County,Ohio",17791,514808
+142,"Wirt County,West Virginia","Gallia County,Ohio",5623,110987
+143,"Wirt County,West Virginia","Geauga County,Ohio",12020,334608
+144,"Wirt County,West Virginia","Greene County,Ohio",11180,285027
+145,"Wirt County,West Virginia","Guernsey County,Ohio",5097,132522
+146,"Wirt County,West Virginia","Hamilton County,Ohio",13947,377932
+147,"Wirt County,West Virginia","Hancock County,Ohio",14270,372986
+148,"Wirt County,West Virginia","Hardin County,Ohio",13168,327742
+149,"Wirt County,West Virginia","Harrison County,Ohio",7917,205552
+150,"Wirt County,West Virginia","Henry County,Ohio",16983,444607
+151,"Wirt County,West Virginia","Highland County,Ohio",10814,239984
+152,"Wirt County,West Virginia","Hocking County,Ohio",6219,147688
+153,"Wirt County,West Virginia","Holmes County,Ohio",8606,217487
+154,"Wirt County,West Virginia","Huron County,Ohio",13129,318407
+155,"Wirt County,West Virginia","Jackson County,Ohio",6801,150536
+156,"Wirt County,West Virginia","Jefferson County,Ohio",8911,215330
+157,"Wirt County,West Virginia","Knox County,Ohio",9335,237079
+158,"Wirt County,West Virginia","Lawrence County,Ohio",8216,150377
+159,"Wirt County,West Virginia","Licking County,Ohio",8725,218010
+160,"Wirt County,West Virginia","Logan County,Ohio",12189,322019
+161,"Wirt County,West Virginia","Lorain County,Ohio",12172,338714
+162,"Wirt County,West Virginia","Lucas County,Ohio",16746,467658
+163,"Wirt County,West Virginia","Madison County,Ohio",10055,256301
+164,"Wirt County,West Virginia","Mahoning County,Ohio",11249,292526
+165,"Wirt County,West Virginia","Marion County,Ohio",11653,290724
+166,"Wirt County,West Virginia","Medina County,Ohio",10621,294921
+167,"Wirt County,West Virginia","Meigs County,Ohio",4143,82245
+168,"Wirt County,West Virginia","Mercer County,Ohio",15507,402540
+169,"Wirt County,West Virginia","Miami County,Ohio",12893,345278
+170,"Wirt County,West Virginia","Monroe County,Ohio",6034,121714
+171,"Wirt County,West Virginia","Montgomery County,Ohio",13214,332483
+172,"Wirt County,West Virginia","Morgan County,Ohio",5039,108361
+173,"Wirt County,West Virginia","Morrow County,Ohio",11054,287452
+174,"Wirt County,West Virginia","Muskingum County,Ohio",5943,160513
+175,"Wirt County,West Virginia","Noble County,Ohio",4539,104874
+176,"Wirt County,West Virginia","Paulding County,Ohio",17194,447818
+177,"Wirt County,West Virginia","Perry County,Ohio",7564,154230
+178,"Wirt County,West Virginia","Pickaway County,Ohio",8383,200629
+179,"Wirt County,West Virginia","Pike County,Ohio",8247,189843
+180,"Wirt County,West Virginia","Portage County,Ohio",10470,290472
+181,"Wirt County,West Virginia","Preble County,Ohio",13924,373437
+182,"Wirt County,West Virginia","Putnam County,Ohio",15780,404271
+183,"Wirt County,West Virginia","Richland County,Ohio",11587,290118
+184,"Wirt County,West Virginia","Ross County,Ohio",8494,198280
+185,"Wirt County,West Virginia","Sandusky County,Ohio",15033,426233
+186,"Wirt County,West Virginia","Scioto County,Ohio",8910,180616
+187,"Wirt County,West Virginia","Seneca County,Ohio",14643,365565
+188,"Wirt County,West Virginia","Shelby County,Ohio",13947,352267
+189,"Wirt County,West Virginia","Stark County,Ohio",8771,238721
+190,"Wirt County,West Virginia","Summit County,Ohio",9529,264509
+191,"Wirt County,West Virginia","Trumbull County,Ohio",12204,318773
+192,"Wirt County,West Virginia","Tuscarawas County,Ohio",6971,179309
+193,"Wirt County,West Virginia","Union County,Ohio",10693,272250
+194,"Wirt County,West Virginia","Van Wert County,Ohio",15892,414782
+195,"Wirt County,West Virginia","Vinton County,Ohio",6712,150226
+196,"Wirt County,West Virginia","Warren County,Ohio",12363,333900
+197,"Wirt County,West Virginia","Washington County,Ohio",3398,62810
+198,"Wirt County,West Virginia","Wayne County,Ohio",9742,241599
+199,"Wirt County,West Virginia","Williams County,Ohio",19036,546264
+200,"Wirt County,West Virginia","Wood County,Ohio",15668,414593
+201,"Wirt County,West Virginia","Wyandot County,Ohio",13240,337121
+202,"Wirt County,West Virginia","Accomack County,Virginia",30227,800386
+203,"Wirt County,West Virginia","Albemarle County,Virginia",17909,492375
+204,"Wirt County,West Virginia","Alleghany County,Virginia",12578,329398
+205,"Wirt County,West Virginia","Amelia County,Virginia",22610,592493
+206,"Wirt County,West Virginia","Amherst County,Virginia",17907,460364
+207,"Wirt County,West Virginia","Appomattox County,Virginia",19500,499123
+208,"Wirt County,West Virginia","Arlington County,Virginia",19091,517313
+209,"Wirt County,West Virginia","Augusta County,Virginia",16520,430715
+210,"Wirt County,West Virginia","Bath County,Virginia",15590,404708
+211,"Wirt County,West Virginia","Bedford County,Virginia",18167,446489
+212,"Wirt County,West Virginia","Bland County,Virginia",11540,295618
+213,"Wirt County,West Virginia","Botetourt County,Virginia",15733,400697
+214,"Wirt County,West Virginia","Brunswick County,Virginia",25153,642166
+215,"Wirt County,West Virginia","Buchanan County,Virginia",15535,379847
+216,"Wirt County,West Virginia","Buckingham County,Virginia",19783,510058
+217,"Wirt County,West Virginia","Campbell County,Virginia",19424,501595
+218,"Wirt County,West Virginia","Caroline County,Virginia",23096,636302
+219,"Wirt County,West Virginia","Carroll County,Virginia",13786,365055
+220,"Wirt County,West Virginia","Charles City County,Virginia",23349,658255
+221,"Wirt County,West Virginia","Charlotte County,Virginia",21385,552644
+222,"Wirt County,West Virginia","Chesterfield County,Virginia",22485,636039
+223,"Wirt County,West Virginia","Clarke County,Virginia",17203,417949
+224,"Wirt County,West Virginia","Craig County,Virginia",14221,350483
+225,"Wirt County,West Virginia","Culpeper County,Virginia",20213,487315
+226,"Wirt County,West Virginia","Cumberland County,Virginia",20993,538061
+227,"Wirt County,West Virginia","Dickenson County,Virginia",16216,375210
+228,"Wirt County,West Virginia","Dinwiddie County,Virginia",24232,686471
+229,"Wirt County,West Virginia","Essex County,Virginia",24498,660356
+230,"Wirt County,West Virginia","Fairfax County,Virginia",18782,507980
+231,"Wirt County,West Virginia","Fauquier County,Virginia",18643,454041
+232,"Wirt County,West Virginia","Floyd County,Virginia",15407,384020
+233,"Wirt County,West Virginia","Fluvanna County,Virginia",19587,544547
+234,"Wirt County,West Virginia","Franklin County,Virginia",17680,447722
+235,"Wirt County,West Virginia","Frederick County,Virginia",15993,392670
+236,"Wirt County,West Virginia","Giles County,Virginia",12271,307176
+237,"Wirt County,West Virginia","Gloucester County,Virginia",25520,712444
+238,"Wirt County,West Virginia","Goochland County,Virginia",20491,575158
+239,"Wirt County,West Virginia","Grayson County,Virginia",14188,354763
+240,"Wirt County,West Virginia","Greene County,Virginia",19248,399618
+241,"Wirt County,West Virginia","Greensville County,Virginia",25648,735222
+242,"Wirt County,West Virginia","Halifax County,Virginia",22089,562742
+243,"Wirt County,West Virginia","Hanover County,Virginia",21697,616264
+244,"Wirt County,West Virginia","Henrico County,Virginia",22208,629224
+245,"Wirt County,West Virginia","Henry County,Virginia",17659,451776
+246,"Wirt County,West Virginia","Highland County,Virginia",13858,294029
+247,"Wirt County,West Virginia","Isle of Wight County,Virginia",26461,733801
+248,"Wirt County,West Virginia","James City County,Virginia",24585,699026
+249,"Wirt County,West Virginia","King and Queen County,Virginia",24243,674610
+250,"Wirt County,West Virginia","King George County,Virginia",23070,548195
+251,"Wirt County,West Virginia","King William County,Virginia",22931,644533
+252,"Wirt County,West Virginia","Lancaster County,Virginia",26723,727618
+253,"Wirt County,West Virginia","Lee County,Virginia",17516,423726
+254,"Wirt County,West Virginia","Loudoun County,Virginia",18699,453815
+255,"Wirt County,West Virginia","Louisa County,Virginia",20148,558253
+256,"Wirt County,West Virginia","Lunenburg County,Virginia",23157,593928
+257,"Wirt County,West Virginia","Madison County,Virginia",20732,435650
+258,"Wirt County,West Virginia","Mathews County,Virginia",26344,735867
+259,"Wirt County,West Virginia","Mecklenburg County,Virginia",24148,607052
+260,"Wirt County,West Virginia","Middlesex County,Virginia",25121,708644
+261,"Wirt County,West Virginia","Montgomery County,Virginia",13354,335183
+262,"Wirt County,West Virginia","Nelson County,Virginia",18448,472055
+263,"Wirt County,West Virginia","New Kent County,Virginia",24021,672940
+264,"Wirt County,West Virginia","Northampton County,Virginia",29002,815690
+265,"Wirt County,West Virginia","Northumberland County,Virginia",26763,726130
+266,"Wirt County,West Virginia","Nottoway County,Virginia",22650,594307
+267,"Wirt County,West Virginia","Orange County,Virginia",21111,566360
+268,"Wirt County,West Virginia","Page County,Virginia",18666,431723
+269,"Wirt County,West Virginia","Patrick County,Virginia",15891,410091
+270,"Wirt County,West Virginia","Pittsylvania County,Virginia",19975,505984
+271,"Wirt County,West Virginia","Powhatan County,Virginia",21744,600379
+272,"Wirt County,West Virginia","Prince Edward County,Virginia",21265,551643
+273,"Wirt County,West Virginia","Prince George County,Virginia",23996,673054
+274,"Wirt County,West Virginia","Prince William County,Virginia",18743,460145
+275,"Wirt County,West Virginia","Pulaski County,Virginia",13449,331514
+276,"Wirt County,West Virginia","Rappahannock County,Virginia",18954,439179
+277,"Wirt County,West Virginia","Richmond County,Virginia",25463,698774
+278,"Wirt County,West Virginia","Roanoke County,Virginia",14974,377976
+279,"Wirt County,West Virginia","Rockbridge County,Virginia",14911,397754
+280,"Wirt County,West Virginia","Rockingham County,Virginia",16705,355032
+281,"Wirt County,West Virginia","Russell County,Virginia",15349,375798
+282,"Wirt County,West Virginia","Scott County,Virginia",17692,422663
+283,"Wirt County,West Virginia","Shenandoah County,Virginia",17104,389113
+284,"Wirt County,West Virginia","Smyth County,Virginia",13898,360970
+285,"Wirt County,West Virginia","Southampton County,Virginia",26026,731336
+286,"Wirt County,West Virginia","Spotsylvania County,Virginia",22164,600091
+287,"Wirt County,West Virginia","Stafford County,Virginia",20756,571267
+288,"Wirt County,West Virginia","Surry County,Virginia",25329,697888
+289,"Wirt County,West Virginia","Sussex County,Virginia",24690,701579
+290,"Wirt County,West Virginia","Tazewell County,Virginia",12356,314205
+291,"Wirt County,West Virginia","Warren County,Virginia",17283,401842
+292,"Wirt County,West Virginia","Washington County,Virginia",15291,400436
+293,"Wirt County,West Virginia","Westmoreland County,Virginia",24038,566995
+294,"Wirt County,West Virginia","Wise County,Virginia",14481,351109
+295,"Wirt County,West Virginia","Wythe County,Virginia",12145,313835
+296,"Wirt County,West Virginia","York County,Virginia",25873,729801
+297,"Wirt County,West Virginia","Alexandria City County,Virginia",19606,534494
+298,"Wirt County,West Virginia","Bedford City County,Virginia",17331,437920
+299,"Wirt County,West Virginia","Bristol City County,Virginia",15766,426153
+300,"Wirt County,West Virginia","Buena Vista City County,Virginia",15266,411732
+301,"Wirt County,West Virginia","Charlottesville City County,Virginia",18378,507590
+302,"Wirt County,West Virginia","Chesapeake City County,Virginia",27336,782706
+303,"Wirt County,West Virginia","Clifton Forge City County,Virginia",13122,349605
+304,"Wirt County,West Virginia","Colonial Heights City County,Virginia",23045,651931
+305,"Wirt County,West Virginia","Covington City County,Virginia",12647,332983
+306,"Wirt County,West Virginia","Danville City County,Virginia",19817,506232
+307,"Wirt County,West Virginia","Emporia City County,Virginia",25356,721816
+308,"Wirt County,West Virginia","Fairfax City County,Virginia",19252,519613
+309,"Wirt County,West Virginia","Falls Church City County,Virginia",18799,511625
+310,"Wirt County,West Virginia","Franklin City County,Virginia",26573,739191
+311,"Wirt County,West Virginia","Fredericksburg City County,Virginia",21583,514889
+312,"Wirt County,West Virginia","Galax City County,Virginia",14409,370921
+313,"Wirt County,West Virginia","Hampton City County,Virginia",25823,739507
+314,"Wirt County,West Virginia","Harrisonburg City County,Virginia",16543,350193
+315,"Wirt County,West Virginia","Hopewell City County,Virginia",23081,650898
+316,"Wirt County,West Virginia","Lexington City County,Virginia",14900,400223
+317,"Wirt County,West Virginia","Lynchburg City County,Virginia",18483,475337
+318,"Wirt County,West Virginia","Manassas City County,Virginia",18970,465090
+319,"Wirt County,West Virginia","Manassas Park City County,Virginia",19473,471433
+320,"Wirt County,West Virginia","Martinsville City County,Virginia",18187,460569
+321,"Wirt County,West Virginia","Newport News City County,Virginia",25379,725993
+322,"Wirt County,West Virginia","Norfolk City County,Virginia",27129,764923
+323,"Wirt County,West Virginia","Norton City County,Virginia",15109,362920
+324,"Wirt County,West Virginia","Petersburg City County,Virginia",22916,652919
+325,"Wirt County,West Virginia","Poquoson City County,Virginia",26051,736569
+326,"Wirt County,West Virginia","Portsmouth City County,Virginia",27068,773744
+327,"Wirt County,West Virginia","Radford County,Virginia",13762,333223
+328,"Wirt County,West Virginia","Richmond City County,Virginia",21784,617034
+329,"Wirt County,West Virginia","Roanoke City County,Virginia",15576,398081
+330,"Wirt County,West Virginia","Salem City County,Virginia",14988,384631
+331,"Wirt County,West Virginia","South Boston City County,Virginia",21829,560410
+332,"Wirt County,West Virginia","Staunton City County,Virginia",16671,454867
+333,"Wirt County,West Virginia","Suffolk City County,Virginia",27303,748525
+334,"Wirt County,West Virginia","Virginia Beach City County,Virginia",27690,788181
+335,"Wirt County,West Virginia","Waynesboro City County,Virginia",17009,467585
+336,"Wirt County,West Virginia","Williamsburg City County,Virginia",24424,698242
+337,"Wirt County,West Virginia","Winchester City County,Virginia",16132,396474
+338,"Wirt County,West Virginia","Barbour County,West Virginia",7985,168875
+339,"Wirt County,West Virginia","Berkeley County,West Virginia",15545,395330
+340,"Wirt County,West Virginia","Boone County,West Virginia",8291,174396
+341,"Wirt County,West Virginia","Braxton County,West Virginia",6426,106310
+342,"Wirt County,West Virginia","Brooke County,West Virginia",9061,228848
+343,"Wirt County,West Virginia","Cabell County,West Virginia",7949,159134
+344,"Wirt County,West Virginia","Calhoun County,West Virginia",2652,51295
+345,"Wirt County,West Virginia","Clay County,West Virginia",6645,116928
+346,"Wirt County,West Virginia","Doddridge County,West Virginia",4972,94592
+347,"Wirt County,West Virginia","Fayette County,West Virginia",9321,204487
+348,"Wirt County,West Virginia","Gilmer County,West Virginia",4028,79878
+349,"Wirt County,West Virginia","Grant County,West Virginia",13039,292838
+350,"Wirt County,West Virginia","Greenbrier County,West Virginia",12522,240046
+351,"Wirt County,West Virginia","Hampshire County,West Virginia",14800,356934
+352,"Wirt County,West Virginia","Hancock County,West Virginia",10650,263384
+353,"Wirt County,West Virginia","Hardy County,West Virginia",14095,324335
+354,"Wirt County,West Virginia","Harrison County,West Virginia",6054,127586
+355,"Wirt County,West Virginia","Jackson County,West Virginia",3040,55646
+356,"Wirt County,West Virginia","Jefferson County,West Virginia",17011,451328
+357,"Wirt County,West Virginia","Kanawha County,West Virginia",6767,142565
+358,"Wirt County,West Virginia","Lewis County,West Virginia",5910,103251
+359,"Wirt County,West Virginia","Lincoln County,West Virginia",8549,168983
+360,"Wirt County,West Virginia","Logan County,West Virginia",9221,211515
+361,"Wirt County,West Virginia","McDowell County,West Virginia",13129,289877
+362,"Wirt County,West Virginia","Marion County,West Virginia",7991,170709
+363,"Wirt County,West Virginia","Marshall County,West Virginia",8448,164949
+364,"Wirt County,West Virginia","Mason County,West Virginia",5289,109148
+365,"Wirt County,West Virginia","Mercer County,West Virginia",10094,254124
+366,"Wirt County,West Virginia","Mineral County,West Virginia",13679,331485
+367,"Wirt County,West Virginia","Mingo County,West Virginia",9266,216022
+368,"Wirt County,West Virginia","Monongalia County,West Virginia",8202,196177
+369,"Wirt County,West Virginia","Monroe County,West Virginia",13139,298836
+370,"Wirt County,West Virginia","Morgan County,West Virginia",15037,384722
+371,"Wirt County,West Virginia","Nicholas County,West Virginia",7841,169191
+372,"Wirt County,West Virginia","Ohio County,West Virginia",8080,210085
+373,"Wirt County,West Virginia","Pendleton County,West Virginia",13370,295462
+374,"Wirt County,West Virginia","Pleasants County,West Virginia",3922,75115
+375,"Wirt County,West Virginia","Pocahontas County,West Virginia",13170,238729
+376,"Wirt County,West Virginia","Preston County,West Virginia",10348,222908
+377,"Wirt County,West Virginia","Putnam County,West Virginia",6142,142830
+378,"Wirt County,West Virginia","Raleigh County,West Virginia",8635,207817
+379,"Wirt County,West Virginia","Randolph County,West Virginia",9048,193589
+380,"Wirt County,West Virginia","Ritchie County,West Virginia",3108,54947
+381,"Wirt County,West Virginia","Roane County,West Virginia",3180,47365
+382,"Wirt County,West Virginia","Summers County,West Virginia",12087,269255
+383,"Wirt County,West Virginia","Taylor County,West Virginia",7884,166281
+384,"Wirt County,West Virginia","Tucker County,West Virginia",10115,224113
+385,"Wirt County,West Virginia","Tyler County,West Virginia",5831,114730
+386,"Wirt County,West Virginia","Upshur County,West Virginia",8024,168030
+387,"Wirt County,West Virginia","Wayne County,West Virginia",9476,223932
+388,"Wirt County,West Virginia","Webster County,West Virginia",9321,178205
+389,"Wirt County,West Virginia","Wetzel County,West Virginia",7043,136637
+390,"Wirt County,West Virginia","Wood County,West Virginia",1907,33369
+391,"Wirt County,West Virginia","Wyoming County,West Virginia",10580,247759

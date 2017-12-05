@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Ohio County,West Virginia","Adair County,Kentucky",24369,684317
+1,"Ohio County,West Virginia","Allen County,Kentucky",25126,737603
+2,"Ohio County,West Virginia","Anderson County,Kentucky",19351,563462
+3,"Ohio County,West Virginia","Ballard County,Kentucky",31286,929765
+4,"Ohio County,West Virginia","Barren County,Kentucky",24253,706016
+5,"Ohio County,West Virginia","Bath County,Kentucky",17036,509977
+6,"Ohio County,West Virginia","Bell County,Kentucky",24591,645793
+7,"Ohio County,West Virginia","Boone County,Kentucky",14820,414187
+8,"Ohio County,West Virginia","Bourbon County,Kentucky",18225,522730
+9,"Ohio County,West Virginia","Boyd County,Kentucky",13711,404301
+10,"Ohio County,West Virginia","Boyle County,Kentucky",20661,591351
+11,"Ohio County,West Virginia","Bracken County,Kentucky",16207,459723
+12,"Ohio County,West Virginia","Breathitt County,Kentucky",20423,551003
+13,"Ohio County,West Virginia","Breckinridge County,Kentucky",23165,656167
+14,"Ohio County,West Virginia","Bullitt County,Kentucky",19702,576999
+15,"Ohio County,West Virginia","Butler County,Kentucky",24505,714673
+16,"Ohio County,West Virginia","Caldwell County,Kentucky",27397,820619
+17,"Ohio County,West Virginia","Calloway County,Kentucky",30207,905611
+18,"Ohio County,West Virginia","Campbell County,Kentucky",14737,412672
+19,"Ohio County,West Virginia","Carlisle County,Kentucky",31743,945134
+20,"Ohio County,West Virginia","Carroll County,Kentucky",16393,475953
+21,"Ohio County,West Virginia","Carter County,Kentucky",14876,434399
+22,"Ohio County,West Virginia","Casey County,Kentucky",22585,621479
+23,"Ohio County,West Virginia","Christian County,Kentucky",27046,815875
+24,"Ohio County,West Virginia","Clay County,Kentucky",22921,638118
+25,"Ohio County,West Virginia","Clinton County,Kentucky",24824,711025
+26,"Ohio County,West Virginia","Crittenden County,Kentucky",28977,853689
+27,"Ohio County,West Virginia","Cumberland County,Kentucky",25578,729264
+28,"Ohio County,West Virginia","Daviess County,Kentucky",24478,719485
+29,"Ohio County,West Virginia","Edmonson County,Kentucky",23945,702548
+30,"Ohio County,West Virginia","Elliott County,Kentucky",16207,460169
+31,"Ohio County,West Virginia","Estill County,Kentucky",20028,572292
+32,"Ohio County,West Virginia","Fayette County,Kentucky",17599,515986
+33,"Ohio County,West Virginia","Fleming County,Kentucky",17250,442294
+34,"Ohio County,West Virginia","Floyd County,Kentucky",17844,511566
+35,"Ohio County,West Virginia","Franklin County,Kentucky",18834,519336
+36,"Ohio County,West Virginia","Fulton County,Kentucky",32147,966098
+37,"Ohio County,West Virginia","Gallatin County,Kentucky",15605,448366
+38,"Ohio County,West Virginia","Garrard County,Kentucky",20629,595345
+39,"Ohio County,West Virginia","Grant County,Kentucky",15672,448840
+40,"Ohio County,West Virginia","Graves County,Kentucky",30767,917840
+41,"Ohio County,West Virginia","Grayson County,Kentucky",22833,671309
+42,"Ohio County,West Virginia","Green County,Kentucky",23520,677305
+43,"Ohio County,West Virginia","Greenup County,Kentucky",14634,383648
+44,"Ohio County,West Virginia","Hancock County,Kentucky",23363,674004
+45,"Ohio County,West Virginia","Hardin County,Kentucky",21709,633442
+46,"Ohio County,West Virginia","Harlan County,Kentucky",23914,626109
+47,"Ohio County,West Virginia","Harrison County,Kentucky",17108,482902
+48,"Ohio County,West Virginia","Hart County,Kentucky",22508,661070
+49,"Ohio County,West Virginia","Henderson County,Kentucky",26062,761981
+50,"Ohio County,West Virginia","Henry County,Kentucky",17579,504276
+51,"Ohio County,West Virginia","Hickman County,Kentucky",31776,946426
+52,"Ohio County,West Virginia","Hopkins County,Kentucky",26856,795087
+53,"Ohio County,West Virginia","Jackson County,Kentucky",21614,615327
+54,"Ohio County,West Virginia","Jefferson County,Kentucky",18795,546435
+55,"Ohio County,West Virginia","Jessamine County,Kentucky",18860,539297
+56,"Ohio County,West Virginia","Johnson County,Kentucky",16493,477197
+57,"Ohio County,West Virginia","Kenton County,Kentucky",14465,407745
+58,"Ohio County,West Virginia","Knott County,Kentucky",19026,543448
+59,"Ohio County,West Virginia","Knox County,Kentucky",23032,674237
+60,"Ohio County,West Virginia","Larue County,Kentucky",21778,637041
+61,"Ohio County,West Virginia","Laurel County,Kentucky",21883,645632
+62,"Ohio County,West Virginia","Lawrence County,Kentucky",15634,448621
+63,"Ohio County,West Virginia","Lee County,Kentucky",20873,566029
+64,"Ohio County,West Virginia","Leslie County,Kentucky",22106,613122
+65,"Ohio County,West Virginia","Letcher County,Kentucky",20098,546388
+66,"Ohio County,West Virginia","Lewis County,Kentucky",15784,404574
+67,"Ohio County,West Virginia","Lincoln County,Kentucky",21339,612263
+68,"Ohio County,West Virginia","Livingston County,Kentucky",29573,870586
+69,"Ohio County,West Virginia","Logan County,Kentucky",26246,757912
+70,"Ohio County,West Virginia","Lyon County,Kentucky",29706,880976
+71,"Ohio County,West Virginia","McCracken County,Kentucky",29898,897825
+72,"Ohio County,West Virginia","McCreary County,Kentucky",23988,690074
+73,"Ohio County,West Virginia","Madison County,Kentucky",19022,559215
+74,"Ohio County,West Virginia","Magoffin County,Kentucky",17460,497876
+75,"Ohio County,West Virginia","Marion County,Kentucky",21359,615814
+76,"Ohio County,West Virginia","Marshall County,Kentucky",29312,881397
+77,"Ohio County,West Virginia","Martin County,Kentucky",17120,480966
+78,"Ohio County,West Virginia","Mason County,Kentucky",16786,423523
+79,"Ohio County,West Virginia","Meade County,Kentucky",21242,613675
+80,"Ohio County,West Virginia","Menifee County,Kentucky",18152,522040
+81,"Ohio County,West Virginia","Mercer County,Kentucky",19735,571525
+82,"Ohio County,West Virginia","Metcalfe County,Kentucky",24705,726109
+83,"Ohio County,West Virginia","Monroe County,Kentucky",25600,749691
+84,"Ohio County,West Virginia","Montgomery County,Kentucky",17849,528517
+85,"Ohio County,West Virginia","Morgan County,Kentucky",17930,497756
+86,"Ohio County,West Virginia","Muhlenberg County,Kentucky",25716,761563
+87,"Ohio County,West Virginia","Nelson County,Kentucky",20966,614886
+88,"Ohio County,West Virginia","Nicholas County,Kentucky",17973,459344
+89,"Ohio County,West Virginia","Ohio County,Kentucky",24629,729152
+90,"Ohio County,West Virginia","Oldham County,Kentucky",17694,517381
+91,"Ohio County,West Virginia","Owen County,Kentucky",16837,474755
+92,"Ohio County,West Virginia","Owsley County,Kentucky",22020,586006
+93,"Ohio County,West Virginia","Pendleton County,Kentucky",15613,434514
+94,"Ohio County,West Virginia","Perry County,Kentucky",20406,574006
+95,"Ohio County,West Virginia","Pike County,Kentucky",17400,476505
+96,"Ohio County,West Virginia","Powell County,Kentucky",19292,558263
+97,"Ohio County,West Virginia","Robertson County,Kentucky",17536,478507
+98,"Ohio County,West Virginia","Rockcastle County,Kentucky",20456,600357
+99,"Ohio County,West Virginia","Rowan County,Kentucky",16178,482184
+100,"Ohio County,West Virginia","Russell County,Kentucky",24022,691643
+101,"Ohio County,West Virginia","Scott County,Kentucky",16601,483360
+102,"Ohio County,West Virginia","Shelby County,Kentucky",18950,531266
+103,"Ohio County,West Virginia","Simpson County,Kentucky",25827,765969
+104,"Ohio County,West Virginia","Spencer County,Kentucky",19909,576055
+105,"Ohio County,West Virginia","Taylor County,Kentucky",22648,647310
+106,"Ohio County,West Virginia","Todd County,Kentucky",27482,782072
+107,"Ohio County,West Virginia","Trigg County,Kentucky",28460,841804
+108,"Ohio County,West Virginia","Trimble County,Kentucky",17292,499277
+109,"Ohio County,West Virginia","Union County,Kentucky",27781,792427
+110,"Ohio County,West Virginia","Warren County,Kentucky",24862,730917
+111,"Ohio County,West Virginia","Washington County,Kentucky",20976,600122
+112,"Ohio County,West Virginia","Wayne County,Kentucky",24198,688716
+113,"Ohio County,West Virginia","Webster County,Kentucky",27705,798602
+114,"Ohio County,West Virginia","Whitley County,Kentucky",22716,680117
+115,"Ohio County,West Virginia","Wolfe County,Kentucky",19025,521118
+116,"Ohio County,West Virginia","Woodford County,Kentucky",18213,531617
+117,"Ohio County,West Virginia","Adams County,Ohio",13985,369912
+118,"Ohio County,West Virginia","Allen County,Ohio",13733,373142
+119,"Ohio County,West Virginia","Ashland County,Ohio",10009,241227
+120,"Ohio County,West Virginia","Ashtabula County,Ohio",9561,242624
+121,"Ohio County,West Virginia","Athens County,Ohio",9022,247448
+122,"Ohio County,West Virginia","Auglaize County,Ohio",13346,376836
+123,"Ohio County,West Virginia","Belmont County,Ohio",1967,33603
+124,"Ohio County,West Virginia","Brown County,Ohio",14542,381080
+125,"Ohio County,West Virginia","Butler County,Ohio",13816,371566
+126,"Ohio County,West Virginia","Carroll County,Ohio",5229,91052
+127,"Ohio County,West Virginia","Champaign County,Ohio",11090,291730
+128,"Ohio County,West Virginia","Clark County,Ohio",9968,282301
+129,"Ohio County,West Virginia","Clermont County,Ohio",13624,388303
+130,"Ohio County,West Virginia","Clinton County,Ohio",11359,317583
+131,"Ohio County,West Virginia","Columbiana County,Ohio",5150,96452
+132,"Ohio County,West Virginia","Coshocton County,Ohio",6324,159053
+133,"Ohio County,West Virginia","Crawford County,Ohio",11717,304334
+134,"Ohio County,West Virginia","Cuyahoga County,Ohio",9716,240484
+135,"Ohio County,West Virginia","Darke County,Ohio",13544,380203
+136,"Ohio County,West Virginia","Defiance County,Ohio",17169,451463
+137,"Ohio County,West Virginia","Delaware County,Ohio",9244,258050
+138,"Ohio County,West Virginia","Fairfield County,Ohio",7339,194835
+139,"Ohio County,West Virginia","Fayette County,Ohio",9996,279634
+140,"Ohio County,West Virginia","Franklin County,Ohio",7939,221936
+141,"Ohio County,West Virginia","Fulton County,Ohio",16387,446298
+142,"Ohio County,West Virginia","Gallia County,Ohio",10904,287324
+143,"Ohio County,West Virginia","Geauga County,Ohio",9210,215302
+144,"Ohio County,West Virginia","Greene County,Ohio",10744,307799
+145,"Ohio County,West Virginia","Guernsey County,Ohio",3871,97112
+146,"Ohio County,West Virginia","Hamilton County,Ohio",13318,382144
+147,"Ohio County,West Virginia","Hancock County,Ohio",13267,366405
+148,"Ohio County,West Virginia","Hardin County,Ohio",12244,328971
+149,"Ohio County,West Virginia","Harrison County,Ohio",3928,72317
+150,"Ohio County,West Virginia","Henry County,Ohio",15980,438026
+151,"Ohio County,West Virginia","Highland County,Ohio",12430,319881
+152,"Ohio County,West Virginia","Hocking County,Ohio",9111,214459
+153,"Ohio County,West Virginia","Holmes County,Ohio",7383,181937
+154,"Ohio County,West Virginia","Huron County,Ohio",11906,282856
+155,"Ohio County,West Virginia","Jackson County,Ohio",11150,310502
+156,"Ohio County,West Virginia","Jefferson County,Ohio",3186,54543
+157,"Ohio County,West Virginia","Knox County,Ohio",8113,201528
+158,"Ohio County,West Virginia","Lawrence County,Ohio",13498,326714
+159,"Ohio County,West Virginia","Licking County,Ohio",7498,182600
+160,"Ohio County,West Virginia","Logan County,Ohio",11265,323248
+161,"Ohio County,West Virginia","Lorain County,Ohio",10768,270204
+162,"Ohio County,West Virginia","Lucas County,Ohio",15342,399148
+163,"Ohio County,West Virginia","Madison County,Ohio",9217,256658
+164,"Ohio County,West Virginia","Mahoning County,Ohio",5814,125330
+165,"Ohio County,West Virginia","Marion County,Ohio",10650,284143
+166,"Ohio County,West Virginia","Medina County,Ohio",9398,259371
+167,"Ohio County,West Virginia","Meigs County,Ohio",8987,240025
+168,"Ohio County,West Virginia","Mercer County,Ohio",14582,403769
+169,"Ohio County,West Virginia","Miami County,Ohio",12055,345635
+170,"Ohio County,West Virginia","Monroe County,Ohio",4470,85930
+171,"Ohio County,West Virginia","Montgomery County,Ohio",12316,351082
+172,"Ohio County,West Virginia","Morgan County,Ohio",6496,149187
+173,"Ohio County,West Virginia","Morrow County,Ohio",10073,234491
+174,"Ohio County,West Virginia","Muskingum County,Ohio",4717,125103
+175,"Ohio County,West Virginia","Noble County,Ohio",5256,123818
+176,"Ohio County,West Virginia","Paulding County,Ohio",16270,449048
+177,"Ohio County,West Virginia","Perry County,Ohio",6816,173046
+178,"Ohio County,West Virginia","Pickaway County,Ohio",8716,239513
+179,"Ohio County,West Virginia","Pike County,Ohio",11658,313717
+180,"Ohio County,West Virginia","Portage County,Ohio",7932,187700
+181,"Ohio County,West Virginia","Preble County,Ohio",13086,373793
+182,"Ohio County,West Virginia","Putnam County,Ohio",14856,405500
+183,"Ohio County,West Virginia","Richland County,Ohio",10364,254568
+184,"Ohio County,West Virginia","Ross County,Ohio",10402,280187
+185,"Ohio County,West Virginia","Sandusky County,Ohio",13629,357723
+186,"Ohio County,West Virginia","Scioto County,Ohio",12617,337171
+187,"Ohio County,West Virginia","Seneca County,Ohio",13641,358985
+188,"Ohio County,West Virginia","Shelby County,Ohio",13023,353496
+189,"Ohio County,West Virginia","Stark County,Ohio",7342,143398
+190,"Ohio County,West Virginia","Summit County,Ohio",8306,228959
+191,"Ohio County,West Virginia","Trumbull County,Ohio",7205,170080
+192,"Ohio County,West Virginia","Tuscarawas County,Ohio",5437,103600
+193,"Ohio County,West Virginia","Union County,Ohio",9769,273479
+194,"Ohio County,West Virginia","Van Wert County,Ohio",14967,416012
+195,"Ohio County,West Virginia","Vinton County,Ohio",10640,241373
+196,"Ohio County,West Virginia","Warren County,Ohio",11734,338113
+197,"Ohio County,West Virginia","Washington County,Ohio",6439,164763
+198,"Ohio County,West Virginia","Wayne County,Ohio",8519,206049
+199,"Ohio County,West Virginia","Williams County,Ohio",17632,477755
+200,"Ohio County,West Virginia","Wood County,Ohio",14665,408013
+201,"Ohio County,West Virginia","Wyandot County,Ohio",12237,330541
+202,"Ohio County,West Virginia","Accomack County,Virginia",27162,744022
+203,"Ohio County,West Virginia","Albemarle County,Virginia",18639,485082
+204,"Ohio County,West Virginia","Alleghany County,Virginia",16639,441991
+205,"Ohio County,West Virginia","Amelia County,Virginia",23693,616900
+206,"Ohio County,West Virginia","Amherst County,Virginia",21073,535988
+207,"Ohio County,West Virginia","Appomattox County,Virginia",22287,560616
+208,"Ohio County,West Virginia","Arlington County,Virginia",16026,460949
+209,"Ohio County,West Virginia","Augusta County,Virginia",18333,431256
+210,"Ohio County,West Virginia","Bath County,Virginia",17742,412899
+211,"Ohio County,West Virginia","Bedford County,Virginia",22625,576977
+212,"Ohio County,West Virginia","Bland County,Virginia",16823,486875
+213,"Ohio County,West Virginia","Botetourt County,Virginia",19793,513291
+214,"Ohio County,West Virginia","Brunswick County,Virginia",25034,729371
+215,"Ohio County,West Virginia","Buchanan County,Virginia",20817,571104
+216,"Ohio County,West Virginia","Buckingham County,Virginia",21948,550231
+217,"Ohio County,West Virginia","Campbell County,Virginia",22435,576120
+218,"Ohio County,West Virginia","Caroline County,Virginia",20031,579938
+219,"Ohio County,West Virginia","Carroll County,Virginia",19068,556312
+220,"Ohio County,West Virginia","Charles City County,Virginia",22501,651421
+221,"Ohio County,West Virginia","Charlotte County,Virginia",24269,609115
+222,"Ohio County,West Virginia","Chesterfield County,Virginia",22432,644339
+223,"Ohio County,West Virginia","Clarke County,Virginia",14139,361585
+224,"Ohio County,West Virginia","Craig County,Virginia",19504,541740
+225,"Ohio County,West Virginia","Culpeper County,Virginia",17459,461023
+226,"Ohio County,West Virginia","Cumberland County,Virginia",22682,575438
+227,"Ohio County,West Virginia","Dickenson County,Virginia",21498,566467
+228,"Ohio County,West Virginia","Dinwiddie County,Virginia",23672,689338
+229,"Ohio County,West Virginia","Essex County,Virginia",21433,603992
+230,"Ohio County,West Virginia","Fairfax County,Virginia",15717,451616
+231,"Ohio County,West Virginia","Fauquier County,Virginia",15889,427750
+232,"Ohio County,West Virginia","Floyd County,Virginia",20689,575276
+233,"Ohio County,West Virginia","Fluvanna County,Virginia",20317,537253
+234,"Ohio County,West Virginia","Franklin County,Virginia",22794,592400
+235,"Ohio County,West Virginia","Frederick County,Virginia",12928,336306
+236,"Ohio County,West Virginia","Giles County,Virginia",17554,498433
+237,"Ohio County,West Virginia","Gloucester County,Virginia",24672,705610
+238,"Ohio County,West Virginia","Goochland County,Virginia",21220,567864
+239,"Ohio County,West Virginia","Grayson County,Virginia",19471,546019
+240,"Ohio County,West Virginia","Greene County,Virginia",18253,446710
+241,"Ohio County,West Virginia","Greensville County,Virginia",25088,738089
+242,"Ohio County,West Virginia","Halifax County,Virginia",25755,647827
+243,"Ohio County,West Virginia","Hanover County,Virginia",20849,609431
+244,"Ohio County,West Virginia","Henrico County,Virginia",21648,632091
+245,"Ohio County,West Virginia","Henry County,Virginia",22942,643033
+246,"Ohio County,West Virginia","Highland County,Virginia",14880,365057
+247,"Ohio County,West Virginia","Isle of Wight County,Virginia",25783,740681
+248,"Ohio County,West Virginia","James City County,Virginia",23737,692192
+249,"Ohio County,West Virginia","King and Queen County,Virginia",22485,639254
+250,"Ohio County,West Virginia","King George County,Virginia",19992,563799
+251,"Ohio County,West Virginia","King William County,Virginia",21450,617051
+252,"Ohio County,West Virginia","Lancaster County,Virginia",23856,659987
+253,"Ohio County,West Virginia","Lee County,Virginia",22799,614983
+254,"Ohio County,West Virginia","Loudoun County,Virginia",15635,397451
+255,"Ohio County,West Virginia","Louisa County,Virginia",20066,524398
+256,"Ohio County,West Virginia","Lunenburg County,Virginia",25567,651836
+257,"Ohio County,West Virginia","Madison County,Virginia",17882,449282
+258,"Ohio County,West Virginia","Mathews County,Virginia",25567,704374
+259,"Ohio County,West Virginia","Mecklenburg County,Virginia",26761,777643
+260,"Ohio County,West Virginia","Middlesex County,Virginia",23937,667955
+261,"Ohio County,West Virginia","Montgomery County,Virginia",18637,526440
+262,"Ohio County,West Virginia","Nelson County,Virginia",19519,503582
+263,"Ohio County,West Virginia","New Kent County,Virginia",23173,666106
+264,"Ohio County,West Virginia","Northampton County,Virginia",28154,808856
+265,"Ohio County,West Virginia","Northumberland County,Virginia",23896,658499
+266,"Ohio County,West Virginia","Nottoway County,Virginia",24543,703919
+267,"Ohio County,West Virginia","Orange County,Virginia",18800,495522
+268,"Ohio County,West Virginia","Page County,Virginia",16513,409764
+269,"Ohio County,West Virginia","Patrick County,Virginia",21174,601348
+270,"Ohio County,West Virginia","Pittsylvania County,Virginia",25004,647748
+271,"Ohio County,West Virginia","Powhatan County,Virginia",22474,593086
+272,"Ohio County,West Virginia","Prince Edward County,Virginia",23489,604055
+273,"Ohio County,West Virginia","Prince George County,Virginia",23318,679934
+274,"Ohio County,West Virginia","Prince William County,Virginia",15989,433854
+275,"Ohio County,West Virginia","Pulaski County,Virginia",18732,522771
+276,"Ohio County,West Virginia","Rappahannock County,Virginia",16200,412887
+277,"Ohio County,West Virginia","Richmond County,Virginia",22596,631142
+278,"Ohio County,West Virginia","Roanoke County,Virginia",20256,569233
+279,"Ohio County,West Virginia","Rockbridge County,Virginia",18972,510347
+280,"Ohio County,West Virginia","Rockingham County,Virginia",14684,377691
+281,"Ohio County,West Virginia","Russell County,Virginia",20631,567055
+282,"Ohio County,West Virginia","Scott County,Virginia",22974,613920
+283,"Ohio County,West Virginia","Shenandoah County,Virginia",14820,398697
+284,"Ohio County,West Virginia","Smyth County,Virginia",19180,552227
+285,"Ohio County,West Virginia","Southampton County,Virginia",25466,734203
+286,"Ohio County,West Virginia","Spotsylvania County,Virginia",19403,548198
+287,"Ohio County,West Virginia","Stafford County,Virginia",17691,514903
+288,"Ohio County,West Virginia","Surry County,Virginia",24430,701629
+289,"Ohio County,West Virginia","Sussex County,Virginia",24130,704446
+290,"Ohio County,West Virginia","Tazewell County,Virginia",17638,505462
+291,"Ohio County,West Virginia","Warren County,Virginia",14743,384245
+292,"Ohio County,West Virginia","Washington County,Virginia",20574,591693
+293,"Ohio County,West Virginia","Westmoreland County,Virginia",20960,582600
+294,"Ohio County,West Virginia","Wise County,Virginia",19763,542366
+295,"Ohio County,West Virginia","Wythe County,Virginia",17428,505092
+296,"Ohio County,West Virginia","York County,Virginia",25025,722967
+297,"Ohio County,West Virginia","Alexandria City County,Virginia",16542,478130
+298,"Ohio County,West Virginia","Bedford City County,Virginia",21658,560124
+299,"Ohio County,West Virginia","Bristol City County,Virginia",21049,617410
+300,"Ohio County,West Virginia","Buena Vista City County,Virginia",19109,502301
+301,"Ohio County,West Virginia","Charlottesville City County,Virginia",19108,500296
+302,"Ohio County,West Virginia","Chesapeake City County,Virginia",26488,775872
+303,"Ohio County,West Virginia","Clifton Forge City County,Virginia",17183,462198
+304,"Ohio County,West Virginia","Colonial Heights City County,Virginia",22485,654799
+305,"Ohio County,West Virginia","Covington City County,Virginia",16708,445577
+306,"Ohio County,West Virginia","Danville City County,Virginia",25099,697489
+307,"Ohio County,West Virginia","Emporia City County,Virginia",24796,724683
+308,"Ohio County,West Virginia","Fairfax City County,Virginia",16187,463249
+309,"Ohio County,West Virginia","Falls Church City County,Virginia",15734,455261
+310,"Ohio County,West Virginia","Franklin City County,Virginia",26013,742058
+311,"Ohio County,West Virginia","Fredericksburg City County,Virginia",18504,530493
+312,"Ohio County,West Virginia","Galax City County,Virginia",19692,562178
+313,"Ohio County,West Virginia","Hampton City County,Virginia",24975,732673
+314,"Ohio County,West Virginia","Harrisonburg City County,Virginia",15742,396366
+315,"Ohio County,West Virginia","Hopewell City County,Virginia",22249,654836
+316,"Ohio County,West Virginia","Lexington City County,Virginia",18961,512816
+317,"Ohio County,West Virginia","Lynchburg City County,Virginia",21621,556044
+318,"Ohio County,West Virginia","Manassas City County,Virginia",16216,438798
+319,"Ohio County,West Virginia","Manassas Park City County,Virginia",16718,445141
+320,"Ohio County,West Virginia","Martinsville City County,Virginia",23469,651826
+321,"Ohio County,West Virginia","Newport News City County,Virginia",24532,719159
+322,"Ohio County,West Virginia","Norfolk City County,Virginia",26281,758089
+323,"Ohio County,West Virginia","Norton City County,Virginia",20392,554177
+324,"Ohio County,West Virginia","Petersburg City County,Virginia",22356,655786
+325,"Ohio County,West Virginia","Poquoson City County,Virginia",25204,729735
+326,"Ohio County,West Virginia","Portsmouth City County,Virginia",26221,766910
+327,"Ohio County,West Virginia","Radford County,Virginia",19044,524480
+328,"Ohio County,West Virginia","Richmond City County,Virginia",21224,619902
+329,"Ohio County,West Virginia","Roanoke City County,Virginia",20690,542759
+330,"Ohio County,West Virginia","Salem City County,Virginia",20270,575888
+331,"Ohio County,West Virginia","South Boston City County,Virginia",25759,646645
+332,"Ohio County,West Virginia","Staunton City County,Virginia",17330,444535
+333,"Ohio County,West Virginia","Suffolk City County,Virginia",26626,755405
+334,"Ohio County,West Virginia","Virginia Beach City County,Virginia",26842,781347
+335,"Ohio County,West Virginia","Waynesboro City County,Virginia",17727,454386
+336,"Ohio County,West Virginia","Williamsburg City County,Virginia",23576,691408
+337,"Ohio County,West Virginia","Winchester City County,Virginia",13067,340110
+338,"Ohio County,West Virginia","Barbour County,West Virginia",8007,207968
+339,"Ohio County,West Virginia","Berkeley County,West Virginia",12481,338966
+340,"Ohio County,West Virginia","Boone County,West Virginia",13574,365653
+341,"Ohio County,West Virginia","Braxton County,West Virginia",10214,265622
+342,"Ohio County,West Virginia","Brooke County,West Virginia",1861,30789
+343,"Ohio County,West Virginia","Cabell County,West Virginia",13302,341313
+344,"Ohio County,West Virginia","Calhoun County,West Virginia",10690,206479
+345,"Ohio County,West Virginia","Clay County,West Virginia",11900,330646
+346,"Ohio County,West Virginia","Doddridge County,West Virginia",8252,153906
+347,"Ohio County,West Virginia","Fayette County,West Virginia",12679,350563
+348,"Ohio County,West Virginia","Gilmer County,West Virginia",10018,264980
+349,"Ohio County,West Virginia","Grant County,West Virginia",10855,269775
+350,"Ohio County,West Virginia","Greenbrier County,West Virginia",15881,386123
+351,"Ohio County,West Virginia","Hampshire County,West Virginia",11735,300569
+352,"Ohio County,West Virginia","Hancock County,West Virginia",4149,64820
+353,"Ohio County,West Virginia","Hardy County,West Virginia",11942,302376
+354,"Ohio County,West Virginia","Harrison County,West Virginia",6723,181169
+355,"Ohio County,West Virginia","Jackson County,West Virginia",8878,247273
+356,"Ohio County,West Virginia","Jefferson County,West Virginia",13947,394964
+357,"Ohio County,West Virginia","Kanawha County,West Virginia",12049,333822
+358,"Ohio County,West Virginia","Lewis County,West Virginia",7919,214610
+359,"Ohio County,West Virginia","Lincoln County,West Virginia",13832,360240
+360,"Ohio County,West Virginia","Logan County,West Virginia",14503,402772
+361,"Ohio County,West Virginia","McDowell County,West Virginia",18412,481134
+362,"Ohio County,West Virginia","Marion County,West Virginia",6209,155082
+363,"Ohio County,West Virginia","Marshall County,West Virginia",2776,37239
+364,"Ohio County,West Virginia","Mason County,West Virginia",10642,291327
+365,"Ohio County,West Virginia","Mercer County,West Virginia",15376,445381
+366,"Ohio County,West Virginia","Mineral County,West Virginia",10615,275121
+367,"Ohio County,West Virginia","Mingo County,West Virginia",14548,407279
+368,"Ohio County,West Virginia","Monongalia County,West Virginia",5137,139813
+369,"Ohio County,West Virginia","Monroe County,West Virginia",17489,447191
+370,"Ohio County,West Virginia","Morgan County,West Virginia",11972,328358
+371,"Ohio County,West Virginia","Nicholas County,West Virginia",11199,315267
+372,"Ohio County,West Virginia","Pendleton County,West Virginia",13184,324338
+373,"Ohio County,West Virginia","Pleasants County,West Virginia",6427,131183
+374,"Ohio County,West Virginia","Pocahontas County,West Virginia",14685,347721
+375,"Ohio County,West Virginia","Preston County,West Virginia",7374,171598
+376,"Ohio County,West Virginia","Putnam County,West Virginia",11424,334087
+377,"Ohio County,West Virginia","Raleigh County,West Virginia",13917,399074
+378,"Ohio County,West Virginia","Randolph County,West Virginia",10071,264616
+379,"Ohio County,West Virginia","Ritchie County,West Virginia",7799,156406
+380,"Ohio County,West Virginia","Roane County,West Virginia",10504,276088
+381,"Ohio County,West Virginia","Summers County,West Virginia",17370,460512
+382,"Ohio County,West Virginia","Taylor County,West Virginia",6294,159119
+383,"Ohio County,West Virginia","Tucker County,West Virginia",9520,218560
+384,"Ohio County,West Virginia","Tyler County,West Virginia",5385,103341
+385,"Ohio County,West Virginia","Upshur County,West Virginia",9046,239057
+386,"Ohio County,West Virginia","Wayne County,West Virginia",14759,415189
+387,"Ohio County,West Virginia","Webster County,West Virginia",12421,311444
+388,"Ohio County,West Virginia","Wetzel County,West Virginia",5483,106075
+389,"Ohio County,West Virginia","Wirt County,West Virginia",8122,211736
+390,"Ohio County,West Virginia","Wood County,West Virginia",6884,186933
+391,"Ohio County,West Virginia","Wyoming County,West Virginia",15862,439016

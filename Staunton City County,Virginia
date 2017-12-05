@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Staunton City County,Virginia","Adair County,Kentucky",27508,724258
+1,"Staunton City County,Virginia","Allen County,Kentucky",28904,844068
+2,"Staunton City County,Virginia","Anderson County,Kentucky",23135,687043
+3,"Staunton City County,Virginia","Ballard County,Kentucky",35808,1079323
+4,"Staunton City County,Virginia","Barren County,Kentucky",28693,803013
+5,"Staunton City County,Virginia","Bath County,Kentucky",18783,558225
+6,"Staunton City County,Virginia","Bell County,Kentucky",20003,525565
+7,"Staunton City County,Virginia","Boone County,Kentucky",24596,679618
+8,"Staunton City County,Virginia","Bourbon County,Kentucky",20697,604642
+9,"Staunton City County,Virginia","Boyd County,Kentucky",15458,452549
+10,"Staunton City County,Virginia","Boyle County,Kentucky",24364,690930
+11,"Staunton City County,Virginia","Bracken County,Kentucky",21108,598725
+12,"Staunton City County,Virginia","Breathitt County,Kentucky",21628,561328
+13,"Staunton City County,Virginia","Breckinridge County,Kentucky",28669,839725
+14,"Staunton City County,Virginia","Bullitt County,Kentucky",25239,760844
+15,"Staunton City County,Virginia","Butler County,Kentucky",29334,861723
+16,"Staunton City County,Virginia","Caldwell County,Kentucky",32226,967668
+17,"Staunton City County,Virginia","Calloway County,Kentucky",33649,1011182
+18,"Staunton City County,Virginia","Campbell County,Kentucky",22808,638596
+19,"Staunton City County,Virginia","Carlisle County,Kentucky",36265,1094691
+20,"Staunton City County,Virginia","Carroll County,Kentucky",25680,734858
+21,"Staunton City County,Virginia","Carter County,Kentucky",16623,482646
+22,"Staunton City County,Virginia","Casey County,Kentucky",25859,722435
+23,"Staunton City County,Virginia","Christian County,Kentucky",30542,932162
+24,"Staunton City County,Virginia","Clay County,Kentucky",22575,585907
+25,"Staunton City County,Virginia","Clinton County,Kentucky",25951,723473
+26,"Staunton City County,Virginia","Crittenden County,Kentucky",33805,1000738
+27,"Staunton City County,Virginia","Cumberland County,Kentucky",26831,744141
+28,"Staunton City County,Virginia","Daviess County,Kentucky",30357,908165
+29,"Staunton City County,Virginia","Edmonson County,Kentucky",28774,849597
+30,"Staunton City County,Virginia","Elliott County,Kentucky",17954,508416
+31,"Staunton City County,Virginia","Estill County,Kentucky",21775,620540
+32,"Staunton City County,Virginia","Fayette County,Kentucky",20943,624536
+33,"Staunton City County,Virginia","Fleming County,Kentucky",19209,561410
+34,"Staunton City County,Virginia","Floyd County,Kentucky",19591,559814
+35,"Staunton City County,Virginia","Franklin County,Kentucky",22980,673453
+36,"Staunton City County,Virginia","Fulton County,Kentucky",36669,1115655
+37,"Staunton City County,Virginia","Gallatin County,Kentucky",24678,725517
+38,"Staunton City County,Virginia","Garrard County,Kentucky",23548,671690
+39,"Staunton City County,Virginia","Grant County,Kentucky",23477,699624
+40,"Staunton City County,Virginia","Graves County,Kentucky",35290,1067398
+41,"Staunton City County,Virginia","Grayson County,Kentucky",27661,818359
+42,"Staunton City County,Virginia","Green County,Kentucky",27441,783564
+43,"Staunton City County,Virginia","Greenup County,Kentucky",17234,493675
+44,"Staunton City County,Virginia","Hancock County,Kentucky",29464,872618
+45,"Staunton City County,Virginia","Hardin County,Kentucky",26537,780491
+46,"Staunton City County,Virginia","Harlan County,Kentucky",19078,502191
+47,"Staunton City County,Virginia","Harrison County,Kentucky",22267,637742
+48,"Staunton City County,Virginia","Hart County,Kentucky",27337,808120
+49,"Staunton City County,Virginia","Henderson County,Kentucky",32163,960595
+50,"Staunton City County,Virginia","Henry County,Kentucky",24582,717171
+51,"Staunton City County,Virginia","Hickman County,Kentucky",36299,1095983
+52,"Staunton City County,Virginia","Hopkins County,Kentucky",31684,942136
+53,"Staunton City County,Virginia","Jackson County,Kentucky",24447,622326
+54,"Staunton City County,Virginia","Jefferson County,Kentucky",24675,732705
+55,"Staunton City County,Virginia","Jessamine County,Kentucky",22412,646000
+56,"Staunton City County,Virginia","Johnson County,Kentucky",18240,525445
+57,"Staunton City County,Virginia","Kenton County,Kentucky",23965,667312
+58,"Staunton City County,Virginia","Knott County,Kentucky",19168,504078
+59,"Staunton City County,Virginia","Knox County,Kentucky",21333,567557
+60,"Staunton City County,Virginia","Larue County,Kentucky",26609,767667
+61,"Staunton City County,Virginia","Laurel County,Kentucky",23227,602385
+62,"Staunton City County,Virginia","Lawrence County,Kentucky",17381,496869
+63,"Staunton City County,Virginia","Lee County,Kentucky",22620,614277
+64,"Staunton City County,Virginia","Leslie County,Kentucky",20540,530471
+65,"Staunton City County,Virginia","Letcher County,Kentucky",17568,467625
+66,"Staunton City County,Virginia","Lewis County,Kentucky",18661,534464
+67,"Staunton City County,Virginia","Lincoln County,Kentucky",24257,688608
+68,"Staunton City County,Virginia","Livingston County,Kentucky",34139,1033262
+69,"Staunton City County,Virginia","Logan County,Kentucky",30974,885062
+70,"Staunton City County,Virginia","Lyon County,Kentucky",33896,1010436
+71,"Staunton City County,Virginia","McCracken County,Kentucky",34421,1047383
+72,"Staunton City County,Virginia","McCreary County,Kentucky",22958,660319
+73,"Staunton City County,Virginia","Madison County,Kentucky",21941,635559
+74,"Staunton City County,Virginia","Magoffin County,Kentucky",19207,546124
+75,"Staunton City County,Virginia","Marion County,Kentucky",24987,729276
+76,"Staunton City County,Virginia","Marshall County,Kentucky",33835,1030955
+77,"Staunton City County,Virginia","Martin County,Kentucky",18495,478593
+78,"Staunton City County,Virginia","Mason County,Kentucky",20456,578271
+79,"Staunton City County,Virginia","Meade County,Kentucky",27136,805020
+80,"Staunton City County,Virginia","Menifee County,Kentucky",19899,570288
+81,"Staunton City County,Virginia","Mercer County,Kentucky",23363,684987
+82,"Staunton City County,Virginia","Metcalfe County,Kentucky",28164,754523
+83,"Staunton City County,Virginia","Monroe County,Kentucky",27391,774562
+84,"Staunton City County,Virginia","Montgomery County,Kentucky",19596,576765
+85,"Staunton City County,Virginia","Morgan County,Kentucky",19677,546004
+86,"Staunton City County,Virginia","Muhlenberg County,Kentucky",30545,908612
+87,"Staunton City County,Virginia","Nelson County,Kentucky",24594,728348
+88,"Staunton City County,Virginia","Nicholas County,Kentucky",21274,604649
+89,"Staunton City County,Virginia","Ohio County,Kentucky",29458,876202
+90,"Staunton City County,Virginia","Oldham County,Kentucky",24747,744586
+91,"Staunton City County,Virginia","Owen County,Kentucky",23802,700230
+92,"Staunton City County,Virginia","Owsley County,Kentucky",23765,599202
+93,"Staunton City County,Virginia","Pendleton County,Kentucky",23045,639649
+94,"Staunton City County,Virginia","Perry County,Kentucky",20141,524501
+95,"Staunton City County,Virginia","Pike County,Kentucky",18691,443839
+96,"Staunton City County,Virginia","Powell County,Kentucky",21040,606511
+97,"Staunton City County,Virginia","Robertson County,Kentucky",21191,604155
+98,"Staunton City County,Virginia","Rockcastle County,Kentucky",23375,676702
+99,"Staunton City County,Virginia","Rowan County,Kentucky",17925,530432
+100,"Staunton City County,Virginia","Russell County,Kentucky",27112,708242
+101,"Staunton City County,Virginia","Scott County,Kentucky",21777,652563
+102,"Staunton City County,Virginia","Shelby County,Kentucky",23604,703839
+103,"Staunton City County,Virginia","Simpson County,Kentucky",29941,861038
+104,"Staunton City County,Virginia","Spencer County,Kentucky",24134,709687
+105,"Staunton City County,Virginia","Taylor County,Kentucky",26276,760772
+106,"Staunton City County,Virginia","Todd County,Kentucky",30958,925109
+107,"Staunton City County,Virginia","Trigg County,Kentucky",31449,949521
+108,"Staunton City County,Virginia","Trimble County,Kentucky",25820,750626
+109,"Staunton City County,Virginia","Union County,Kentucky",33883,991041
+110,"Staunton City County,Virginia","Warren County,Kentucky",29690,877966
+111,"Staunton City County,Virginia","Washington County,Kentucky",24605,713584
+112,"Staunton City County,Virginia","Wayne County,Kentucky",25462,707450
+113,"Staunton City County,Virginia","Webster County,Kentucky",32793,970225
+114,"Staunton City County,Virginia","Whitley County,Kentucky",21561,645081
+115,"Staunton City County,Virginia","Wolfe County,Kentucky",20772,569366
+116,"Staunton City County,Virginia","Woodford County,Kentucky",21997,655199
+117,"Staunton City County,Virginia","Adams County,Ohio",20549,580827
+118,"Staunton City County,Virginia","Allen County,Ohio",27281,756244
+119,"Staunton City County,Virginia","Ashland County,Ohio",25026,710136
+120,"Staunton City County,Virginia","Ashtabula County,Ohio",23250,658149
+121,"Staunton City County,Virginia","Athens County,Ohio",16957,486426
+122,"Staunton City County,Virginia","Auglaize County,Ohio",26531,772944
+123,"Staunton City County,Virginia","Belmont County,Ohio",18322,472747
+124,"Staunton City County,Virginia","Brown County,Ohio",21794,607755
+125,"Staunton City County,Virginia","Butler County,Ohio",24906,689780
+126,"Staunton City County,Virginia","Carroll County,Ohio",21267,508605
+127,"Staunton City County,Virginia","Champaign County,Ohio",23835,675042
+128,"Staunton City County,Virginia","Clark County,Ohio",22514,634586
+129,"Staunton City County,Virginia","Clermont County,Ohio",22627,638851
+130,"Staunton City County,Virginia","Clinton County,Ohio",22018,622268
+131,"Staunton City County,Virginia","Columbiana County,Ohio",20476,497126
+132,"Staunton City County,Virginia","Coshocton County,Ohio",21341,627961
+133,"Staunton City County,Virginia","Crawford County,Ohio",25633,721296
+134,"Staunton City County,Virginia","Cuyahoga County,Ohio",23246,655993
+135,"Staunton City County,Virginia","Darke County,Ohio",25629,729991
+136,"Staunton City County,Virginia","Defiance County,Ohio",30717,834565
+137,"Staunton City County,Virginia","Delaware County,Ohio",22787,654033
+138,"Staunton City County,Virginia","Fairfield County,Ohio",20318,581127
+139,"Staunton City County,Virginia","Fayette County,Ohio",20582,592731
+140,"Staunton City County,Virginia","Franklin County,Ohio",21318,610982
+141,"Staunton City County,Virginia","Fulton County,Ohio",29917,861808
+142,"Staunton City County,Virginia","Gallia County,Ohio",15895,451843
+143,"Staunton City County,Virginia","Geauga County,Ohio",22739,630812
+144,"Staunton City County,Virginia","Greene County,Ohio",21452,625884
+145,"Staunton City County,Virginia","Guernsey County,Ohio",18892,565880
+146,"Staunton City County,Virginia","Hamilton County,Ohio",24408,700358
+147,"Staunton City County,Virginia","Hancock County,Ohio",26810,762388
+148,"Staunton City County,Virginia","Hardin County,Ohio",25792,712074
+149,"Staunton City County,Virginia","Harrison County,Ohio",20283,511461
+150,"Staunton City County,Virginia","Henry County,Ohio",29523,834010
+151,"Staunton City County,Virginia","Highland County,Ohio",21086,580841
+152,"Staunton City County,Virginia","Hocking County,Ohio",18760,537090
+153,"Staunton City County,Virginia","Holmes County,Ohio",22400,650845
+154,"Staunton City County,Virginia","Huron County,Ohio",26488,731842
+155,"Staunton City County,Virginia","Jackson County,Ohio",17073,491392
+156,"Staunton City County,Virginia","Jefferson County,Ohio",19223,472097
+157,"Staunton City County,Virginia","Knox County,Ohio",23129,670437
+158,"Staunton City County,Virginia","Lawrence County,Ohio",16598,457606
+159,"Staunton City County,Virginia","Licking County,Ohio",22263,608137
+160,"Staunton City County,Virginia","Logan County,Ohio",24813,706351
+161,"Staunton City County,Virginia","Lorain County,Ohio",24298,685714
+162,"Staunton City County,Virginia","Lucas County,Ohio",28871,814658
+163,"Staunton City County,Virginia","Madison County,Ohio",22283,615816
+164,"Staunton City County,Virginia","Mahoning County,Ohio",19736,548141
+165,"Staunton City County,Virginia","Marion County,Ohio",24193,680126
+166,"Staunton City County,Virginia","Medina County,Ohio",23844,669356
+167,"Staunton City County,Virginia","Meigs County,Ohio",15838,457397
+168,"Staunton City County,Virginia","Mercer County,Ohio",27767,799878
+169,"Staunton City County,Virginia","Miami County,Ohio",24117,695383
+170,"Staunton City County,Virginia","Monroe County,Ohio",19400,417677
+171,"Staunton City County,Virginia","Montgomery County,Ohio",23487,673339
+172,"Staunton City County,Virginia","Morgan County,Ohio",18833,541719
+173,"Staunton City County,Virginia","Morrow County,Ohio",23595,676854
+174,"Staunton City County,Virginia","Muskingum County,Ohio",19737,593871
+175,"Staunton City County,Virginia","Noble County,Ohio",18333,538232
+176,"Staunton City County,Virginia","Paulding County,Ohio",29818,832150
+177,"Staunton City County,Virginia","Perry County,Ohio",20175,551847
+178,"Staunton City County,Virginia","Pickaway County,Ohio",20022,572830
+179,"Staunton City County,Virginia","Pike County,Ohio",18519,530699
+180,"Staunton City County,Virginia","Portage County,Ohio",21591,604155
+181,"Staunton City County,Virginia","Preble County,Ohio",25106,701917
+182,"Staunton City County,Virginia","Putnam County,Ohio",28404,788603
+183,"Staunton City County,Virginia","Richland County,Ohio",24624,712092
+184,"Staunton City County,Virginia","Ross County,Ohio",18767,539136
+185,"Staunton City County,Virginia","Sandusky County,Ohio",27159,773232
+186,"Staunton City County,Virginia","Scioto County,Ohio",18403,514879
+187,"Staunton City County,Virginia","Seneca County,Ohio",27184,754968
+188,"Staunton City County,Virginia","Shelby County,Ohio",25156,731669
+189,"Staunton City County,Virginia","Stark County,Ohio",22371,600288
+190,"Staunton City County,Virginia","Summit County,Ohio",22485,632749
+191,"Staunton City County,Virginia","Trumbull County,Ohio",20894,585605
+192,"Staunton City County,Virginia","Tuscarawas County,Ohio",20765,612666
+193,"Staunton City County,Virginia","Union County,Ohio",23317,656582
+194,"Staunton City County,Virginia","Van Wert County,Ohio",28515,799114
+195,"Staunton City County,Virginia","Vinton County,Ohio",18968,516897
+196,"Staunton City County,Virginia","Warren County,Ohio",22824,656326
+197,"Staunton City County,Virginia","Washington County,Ohio",17192,496168
+198,"Staunton City County,Virginia","Wayne County,Ohio",23536,674957
+199,"Staunton City County,Virginia","Williams County,Ohio",31162,893264
+200,"Staunton City County,Virginia","Wood County,Ohio",28208,803996
+201,"Staunton City County,Virginia","Wyandot County,Ohio",25780,726524
+202,"Staunton City County,Virginia","Accomack County,Virginia",16122,436343
+203,"Staunton City County,Virginia","Albemarle County,Virginia",2272,48842
+204,"Staunton City County,Virginia","Alleghany County,Virginia",4988,135199
+205,"Staunton City County,Virginia","Amelia County,Virginia",7326,180661
+206,"Staunton City County,Virginia","Amherst County,Virginia",4705,99749
+207,"Staunton City County,Virginia","Appomattox County,Virginia",5920,124377
+208,"Staunton City County,Virginia","Arlington County,Virginia",8838,245674
+209,"Staunton City County,Virginia","Augusta County,Virginia",1467,19124
+210,"Staunton City County,Virginia","Bath County,Virginia",4319,75392
+211,"Staunton City County,Virginia","Bedford County,Virginia",6804,143613
+212,"Staunton City County,Virginia","Bland County,Virginia",9270,264882
+213,"Staunton City County,Virginia","Botetourt County,Virginia",4294,106135
+214,"Staunton City County,Virginia","Brunswick County,Virginia",9957,282971
+215,"Staunton City County,Virginia","Buchanan County,Virginia",15026,399341
+216,"Staunton City County,Virginia","Buckingham County,Virginia",5580,113992
+217,"Staunton City County,Virginia","Campbell County,Virginia",6067,139881
+218,"Staunton City County,Virginia","Caroline County,Virginia",7611,217688
+219,"Staunton City County,Virginia","Carroll County,Virginia",9391,270299
+220,"Staunton City County,Virginia","Charles City County,Virginia",7711,214722
+221,"Staunton City County,Virginia","Charlotte County,Virginia",7902,172877
+222,"Staunton City County,Virginia","Chesterfield County,Virginia",6847,192506
+223,"Staunton City County,Virginia","Clarke County,Virginia",6333,172423
+224,"Staunton City County,Virginia","Craig County,Virginia",7136,162462
+225,"Staunton City County,Virginia","Culpeper County,Virginia",6069,138059
+226,"Staunton City County,Virginia","Cumberland County,Virginia",6314,139199
+227,"Staunton City County,Virginia","Dickenson County,Virginia",15736,417519
+228,"Staunton City County,Virginia","Dinwiddie County,Virginia",8594,242938
+229,"Staunton City County,Virginia","Essex County,Virginia",9428,241730
+230,"Staunton City County,Virginia","Fairfax County,Virginia",8461,235950
+231,"Staunton City County,Virginia","Fauquier County,Virginia",6772,193674
+232,"Staunton City County,Virginia","Floyd County,Virginia",7918,211846
+233,"Staunton City County,Virginia","Fluvanna County,Virginia",3949,101014
+234,"Staunton City County,Virginia","Franklin County,Virginia",7256,190290
+235,"Staunton City County,Virginia","Frederick County,Virginia",5785,160150
+236,"Staunton City County,Virginia","Giles County,Virginia",8058,219998
+237,"Staunton City County,Virginia","Gloucester County,Virginia",9882,268911
+238,"Staunton City County,Virginia","Goochland County,Virginia",4853,131625
+239,"Staunton City County,Virginia","Grayson County,Virginia",10723,286478
+240,"Staunton City County,Virginia","Greene County,Virginia",4146,80949
+241,"Staunton City County,Virginia","Greensville County,Virginia",10010,291689
+242,"Staunton City County,Virginia","Halifax County,Virginia",9388,211587
+243,"Staunton City County,Virginia","Hanover County,Virginia",6059,172732
+244,"Staunton City County,Virginia","Henrico County,Virginia",6571,185691
+245,"Staunton City County,Virginia","Henry County,Virginia",8665,225252
+246,"Staunton City County,Virginia","Highland County,Virginia",4450,73281
+247,"Staunton City County,Virginia","Isle of Wight County,Virginia",10823,290268
+248,"Staunton City County,Virginia","James City County,Virginia",8947,255493
+249,"Staunton City County,Virginia","King and Queen County,Virginia",8605,231077
+250,"Staunton City County,Virginia","King George County,Virginia",8724,245674
+251,"Staunton City County,Virginia","King William County,Virginia",7293,201000
+252,"Staunton City County,Virginia","Lancaster County,Virginia",11086,284085
+253,"Staunton City County,Virginia","Lee County,Virginia",16231,449173
+254,"Staunton City County,Virginia","Loudoun County,Virginia",7829,208289
+255,"Staunton City County,Virginia","Louisa County,Virginia",4510,114720
+256,"Staunton City County,Virginia","Lunenburg County,Virginia",9199,215597
+257,"Staunton City County,Virginia","Madison County,Virginia",5184,114167
+258,"Staunton City County,Virginia","Mathews County,Virginia",10707,292334
+259,"Staunton City County,Virginia","Mecklenburg County,Virginia",10548,240043
+260,"Staunton City County,Virginia","Middlesex County,Virginia",9483,265111
+261,"Staunton City County,Virginia","Montgomery County,Virginia",6623,184269
+262,"Staunton City County,Virginia","Nelson County,Virginia",3151,67343
+263,"Staunton City County,Virginia","New Kent County,Virginia",8383,229407
+264,"Staunton City County,Virginia","Northampton County,Virginia",13364,372157
+265,"Staunton City County,Virginia","Northumberland County,Virginia",11125,282597
+266,"Staunton City County,Virginia","Nottoway County,Virginia",8451,202152
+267,"Staunton City County,Virginia","Orange County,Virginia",5473,122827
+268,"Staunton City County,Virginia","Page County,Virginia",4000,94475
+269,"Staunton City County,Virginia","Patrick County,Virginia",10038,248749
+270,"Staunton City County,Virginia","Pittsylvania County,Virginia",8637,211508
+271,"Staunton City County,Virginia","Powhatan County,Virginia",6106,156846
+272,"Staunton City County,Virginia","Prince Edward County,Virginia",7122,167815
+273,"Staunton City County,Virginia","Prince George County,Virginia",8358,229522
+274,"Staunton City County,Virginia","Prince William County,Virginia",6871,199778
+275,"Staunton City County,Virginia","Pulaski County,Virginia",7350,206902
+276,"Staunton City County,Virginia","Rappahannock County,Virginia",5831,130962
+277,"Staunton City County,Virginia","Richmond County,Virginia",9825,255241
+278,"Staunton City County,Virginia","Roanoke County,Virginia",5614,149207
+279,"Staunton City County,Virginia","Rockbridge County,Virginia",3036,72144
+280,"Staunton City County,Virginia","Rockingham County,Virginia",3039,66825
+281,"Staunton City County,Virginia","Russell County,Virginia",14192,382678
+282,"Staunton City County,Virginia","Scott County,Virginia",14804,409901
+283,"Staunton City County,Virginia","Shenandoah County,Virginia",3544,96929
+284,"Staunton City County,Virginia","Smyth County,Virginia",10386,293623
+285,"Staunton City County,Virginia","Southampton County,Virginia",10388,287803
+286,"Staunton City County,Virginia","Spotsylvania County,Virginia",6526,156558
+287,"Staunton City County,Virginia","Stafford County,Virginia",7908,180851
+288,"Staunton City County,Virginia","Surry County,Virginia",9691,254355
+289,"Staunton City County,Virginia","Sussex County,Virginia",9052,258046
+290,"Staunton City County,Virginia","Tazewell County,Virginia",11847,333699
+291,"Staunton City County,Virginia","Warren County,Virginia",5446,141521
+292,"Staunton City County,Virginia","Washington County,Virginia",11780,333089
+293,"Staunton City County,Virginia","Westmoreland County,Virginia",10163,274160
+294,"Staunton City County,Virginia","Wise County,Virginia",15643,424021
+295,"Staunton City County,Virginia","Wythe County,Virginia",8640,245608
+296,"Staunton City County,Virginia","York County,Virginia",10235,286268
+297,"Staunton City County,Virginia","Alexandria City County,Virginia",9041,258320
+298,"Staunton City County,Virginia","Bedford City County,Virginia",5829,134952
+299,"Staunton City County,Virginia","Bristol City County,Virginia",12255,358806
+300,"Staunton City County,Virginia","Buena Vista City County,Virginia",2695,65410
+301,"Staunton City County,Virginia","Charlottesville City County,Virginia",2741,64057
+302,"Staunton City County,Virginia","Chesapeake City County,Virginia",11698,339173
+303,"Staunton City County,Virginia","Clifton Forge City County,Virginia",3889,104017
+304,"Staunton City County,Virginia","Colonial Heights City County,Virginia",7407,208399
+305,"Staunton City County,Virginia","Covington City County,Virginia",4632,122359
+306,"Staunton City County,Virginia","Danville City County,Virginia",9236,227851
+307,"Staunton City County,Virginia","Emporia City County,Virginia",9718,278283
+308,"Staunton City County,Virginia","Fairfax City County,Virginia",8004,225525
+309,"Staunton City County,Virginia","Falls Church City County,Virginia",8336,239998
+310,"Staunton City County,Virginia","Franklin City County,Virginia",10936,295658
+311,"Staunton City County,Virginia","Fredericksburg City County,Virginia",7659,166218
+312,"Staunton City County,Virginia","Galax City County,Virginia",10015,276165
+313,"Staunton City County,Virginia","Hampton City County,Virginia",10185,295974
+314,"Staunton City County,Virginia","Harrisonburg City County,Virginia",2098,46721
+315,"Staunton City County,Virginia","Hopewell City County,Virginia",7444,207365
+316,"Staunton City County,Virginia","Lexington City County,Virginia",2554,62388
+317,"Staunton City County,Virginia","Lynchburg City County,Virginia",5253,119804
+318,"Staunton City County,Virginia","Manassas City County,Virginia",7099,204723
+319,"Staunton City County,Virginia","Manassas Park City County,Virginia",7601,211066
+320,"Staunton City County,Virginia","Martinsville City County,Virginia",8818,220354
+321,"Staunton City County,Virginia","Newport News City County,Virginia",9742,282460
+322,"Staunton City County,Virginia","Norfolk City County,Virginia",11491,321390
+323,"Staunton City County,Virginia","Norton City County,Virginia",15167,414911
+324,"Staunton City County,Virginia","Petersburg City County,Virginia",7279,209386
+325,"Staunton City County,Virginia","Poquoson City County,Virginia",10414,293037
+326,"Staunton City County,Virginia","Portsmouth City County,Virginia",11431,330211
+327,"Staunton City County,Virginia","Radford County,Virginia",6986,194113
+328,"Staunton City County,Virginia","Richmond City County,Virginia",6147,173502
+329,"Staunton City County,Virginia","Roanoke City County,Virginia",5152,140649
+330,"Staunton City County,Virginia","Salem City County,Virginia",4982,139120
+331,"Staunton City County,Virginia","South Boston City County,Virginia",9391,210406
+332,"Staunton City County,Virginia","Suffolk City County,Virginia",11666,304992
+333,"Staunton City County,Virginia","Virginia Beach City County,Virginia",12052,344648
+334,"Staunton City County,Virginia","Waynesboro City County,Virginia",1371,24052
+335,"Staunton City County,Virginia","Williamsburg City County,Virginia",8786,254709
+336,"Staunton City County,Virginia","Winchester City County,Virginia",5665,156293
+337,"Staunton City County,Virginia","Barbour County,West Virginia",11356,213986
+338,"Staunton City County,Virginia","Berkeley County,West Virginia",7403,203501
+339,"Staunton City County,Virginia","Boone County,West Virginia",13347,334904
+340,"Staunton City County,Virginia","Braxton County,West Virginia",13045,315579
+341,"Staunton City County,Virginia","Brooke County,West Virginia",17530,435647
+342,"Staunton City County,Virginia","Cabell County,West Virginia",14914,430810
+343,"Staunton City County,Virginia","Calhoun County,West Virginia",14816,369530
+344,"Staunton City County,Virginia","Clay County,West Virginia",13080,306363
+345,"Staunton City County,Virginia","Doddridge County,West Virginia",14810,276387
+346,"Staunton City County,Virginia","Fayette County,West Virginia",10468,253102
+347,"Staunton City County,Virginia","Gilmer County,West Virginia",14597,296720
+348,"Staunton City County,Virginia","Grant County,West Virginia",7495,185988
+349,"Staunton City County,Virginia","Greenbrier County,West Virginia",8824,212327
+350,"Staunton City County,Virginia","Hampshire County,West Virginia",7522,174405
+351,"Staunton City County,Virginia","Hancock County,West Virginia",19156,462994
+352,"Staunton City County,Virginia","Hardy County,West Virginia",6742,157318
+353,"Staunton City County,Virginia","Harrison County,West Virginia",13453,278856
+354,"Staunton City County,Virginia","Jackson County,West Virginia",14233,410621
+355,"Staunton City County,Virginia","Jefferson County,West Virginia",7454,190907
+356,"Staunton City County,Virginia","Kanawha County,West Virginia",11997,332603
+357,"Staunton City County,Virginia","Lewis County,West Virginia",12498,246351
+358,"Staunton City County,Virginia","Lincoln County,West Virginia",15579,408488
+359,"Staunton City County,Virginia","Logan County,West Virginia",15137,365394
+360,"Staunton City County,Virginia","McDowell County,West Virginia",13516,339845
+361,"Staunton City County,Virginia","Marion County,West Virginia",14599,306023
+362,"Staunton City County,Virginia","Marshall County,West Virginia",18517,430091
+363,"Staunton City County,Virginia","Mason County,West Virginia",14390,416717
+364,"Staunton City County,Virginia","Mercer County,West Virginia",10231,276175
+365,"Staunton City County,Virginia","Mineral County,West Virginia",8968,197511
+366,"Staunton City County,Virginia","Mingo County,West Virginia",15716,429328
+367,"Staunton City County,Virginia","Monongalia County,West Virginia",12671,310247
+368,"Staunton City County,Virginia","Monroe County,West Virginia",7758,198648
+369,"Staunton City County,Virginia","Morgan County,West Virginia",7648,204627
+370,"Staunton City County,Virginia","Nicholas County,West Virginia",10663,265752
+371,"Staunton City County,Virginia","Ohio County,West Virginia",17436,444593
+372,"Staunton City County,Virginia","Pendleton County,West Virginia",5886,118010
+373,"Staunton City County,Virginia","Pleasants County,West Virginia",16251,354996
+374,"Staunton City County,Virginia","Pocahontas County,West Virginia",7913,134967
+375,"Staunton City County,Virginia","Preston County,West Virginia",11675,264439
+376,"Staunton City County,Virginia","Putnam County,West Virginia",13171,382335
+377,"Staunton City County,Virginia","Raleigh County,West Virginia",9021,257784
+378,"Staunton City County,Virginia","Randolph County,West Virginia",9372,167379
+379,"Staunton City County,Virginia","Ritchie County,West Virginia",16162,349298
+380,"Staunton City County,Virginia","Roane County,West Virginia",15859,439436
+381,"Staunton City County,Virginia","Summers County,West Virginia",9743,237662
+382,"Staunton City County,Virginia","Taylor County,West Virginia",12018,282260
+383,"Staunton City County,Virginia","Tucker County,West Virginia",10154,247635
+384,"Staunton City County,Virginia","Tyler County,West Virginia",17178,347662
+385,"Staunton City County,Virginia","Upshur County,West Virginia",11968,203022
+386,"Staunton City County,Virginia","Wayne County,West Virginia",16506,463437
+387,"Staunton City County,Virginia","Webster County,West Virginia",11800,214388
+388,"Staunton City County,Virginia","Wetzel County,West Virginia",16133,330338
+389,"Staunton City County,Virginia","Wirt County,West Virginia",16500,467959
+390,"Staunton City County,Virginia","Wood County,West Virginia",16014,469648
+391,"Staunton City County,Virginia","Wyoming County,West Virginia",10973,297757

@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Wayne County,West Virginia","Adair County,Kentucky",14813,380052
+1,"Wayne County,West Virginia","Allen County,Kentucky",17431,480700
+2,"Wayne County,West Virginia","Anderson County,Kentucky",10613,283091
+3,"Wayne County,West Virginia","Ballard County,Kentucky",23591,672862
+4,"Wayne County,West Virginia","Barren County,Kentucky",16559,439079
+5,"Wayne County,West Virginia","Bath County,Kentucky",6260,154272
+6,"Wayne County,West Virginia","Bell County,Kentucky",12732,280179
+7,"Wayne County,West Virginia","Boone County,Kentucky",12073,275665
+8,"Wayne County,West Virginia","Bourbon County,Kentucky",8174,200689
+9,"Wayne County,West Virginia","Boyd County,Kentucky",2936,48597
+10,"Wayne County,West Virginia","Boyle County,Kentucky",11842,286977
+11,"Wayne County,West Virginia","Bracken County,Kentucky",8585,194772
+12,"Wayne County,West Virginia","Breathitt County,Kentucky",7530,158569
+13,"Wayne County,West Virginia","Breckinridge County,Kentucky",16146,435772
+14,"Wayne County,West Virginia","Bullitt County,Kentucky",12716,356891
+15,"Wayne County,West Virginia","Butler County,Kentucky",16811,457770
+16,"Wayne County,West Virginia","Caldwell County,Kentucky",19703,563715
+17,"Wayne County,West Virginia","Calloway County,Kentucky",22513,648708
+18,"Wayne County,West Virginia","Campbell County,Kentucky",10285,234644
+19,"Wayne County,West Virginia","Carlisle County,Kentucky",24048,688230
+20,"Wayne County,West Virginia","Carroll County,Kentucky",13157,330905
+21,"Wayne County,West Virginia","Carter County,Kentucky",4100,78694
+22,"Wayne County,West Virginia","Casey County,Kentucky",13336,318482
+23,"Wayne County,West Virginia","Christian County,Kentucky",19352,558972
+24,"Wayne County,West Virginia","Clay County,Kentucky",9899,230399
+25,"Wayne County,West Virginia","Clinton County,Kentucky",15220,383417
+26,"Wayne County,West Virginia","Crittenden County,Kentucky",21283,596786
+27,"Wayne County,West Virginia","Cumberland County,Kentucky",15974,401656
+28,"Wayne County,West Virginia","Daviess County,Kentucky",17834,504212
+29,"Wayne County,West Virginia","Edmonson County,Kentucky",16251,445645
+30,"Wayne County,West Virginia","Elliott County,Kentucky",5431,104464
+31,"Wayne County,West Virginia","Estill County,Kentucky",8977,208073
+32,"Wayne County,West Virginia","Fayette County,Kentucky",8420,220584
+33,"Wayne County,West Virginia","Fleming County,Kentucky",6686,157458
+34,"Wayne County,West Virginia","Floyd County,Kentucky",4822,103848
+35,"Wayne County,West Virginia","Franklin County,Kentucky",10458,269500
+36,"Wayne County,West Virginia","Fulton County,Kentucky",24452,709195
+37,"Wayne County,West Virginia","Gallatin County,Kentucky",12155,321564
+38,"Wayne County,West Virginia","Garrard County,Kentucky",11025,267737
+39,"Wayne County,West Virginia","Grant County,Kentucky",10954,295671
+40,"Wayne County,West Virginia","Graves County,Kentucky",23073,660937
+41,"Wayne County,West Virginia","Grayson County,Kentucky",15138,414406
+42,"Wayne County,West Virginia","Green County,Kentucky",14918,379611
+43,"Wayne County,West Virginia","Greenup County,Kentucky",4773,101297
+44,"Wayne County,West Virginia","Hancock County,Kentucky",16942,468665
+45,"Wayne County,West Virginia","Hardin County,Kentucky",14015,376539
+46,"Wayne County,West Virginia","Harlan County,Kentucky",12055,260496
+47,"Wayne County,West Virginia","Harrison County,Kentucky",9745,233789
+48,"Wayne County,West Virginia","Hart County,Kentucky",14814,404167
+49,"Wayne County,West Virginia","Henderson County,Kentucky",19641,556642
+50,"Wayne County,West Virginia","Henry County,Kentucky",12059,313219
+51,"Wayne County,West Virginia","Hickman County,Kentucky",24082,689522
+52,"Wayne County,West Virginia","Hopkins County,Kentucky",19162,538184
+53,"Wayne County,West Virginia","Jackson County,Kentucky",10589,224295
+54,"Wayne County,West Virginia","Jefferson County,Kentucky",12153,328752
+55,"Wayne County,West Virginia","Jessamine County,Kentucky",9889,242048
+56,"Wayne County,West Virginia","Johnson County,Kentucky",3471,69479
+57,"Wayne County,West Virginia","Kenton County,Kentucky",11442,263359
+58,"Wayne County,West Virginia","Knott County,Kentucky",6004,135729
+59,"Wayne County,West Virginia","Knox County,Kentucky",11224,257054
+60,"Wayne County,West Virginia","Larue County,Kentucky",14086,363714
+61,"Wayne County,West Virginia","Laurel County,Kentucky",11501,267195
+62,"Wayne County,West Virginia","Lawrence County,Kentucky",2559,40654
+63,"Wayne County,West Virginia","Lee County,Kentucky",7963,173850
+64,"Wayne County,West Virginia","Leslie County,Kentucky",9083,205403
+65,"Wayne County,West Virginia","Letcher County,Kentucky",7859,173339
+66,"Wayne County,West Virginia","Lewis County,Kentucky",6139,130511
+67,"Wayne County,West Virginia","Lincoln County,Kentucky",11735,284656
+68,"Wayne County,West Virginia","Livingston County,Kentucky",21878,613682
+69,"Wayne County,West Virginia","Logan County,Kentucky",18551,501008
+70,"Wayne County,West Virginia","Lyon County,Kentucky",22012,624073
+71,"Wayne County,West Virginia","McCracken County,Kentucky",22204,640922
+72,"Wayne County,West Virginia","McCreary County,Kentucky",14034,337609
+73,"Wayne County,West Virginia","Madison County,Kentucky",9418,231607
+74,"Wayne County,West Virginia","Magoffin County,Kentucky",4438,90158
+75,"Wayne County,West Virginia","Marion County,Kentucky",12464,325324
+76,"Wayne County,West Virginia","Marshall County,Kentucky",21618,624494
+77,"Wayne County,West Virginia","Martin County,Kentucky",4098,73247
+78,"Wayne County,West Virginia","Mason County,Kentucky",7934,174318
+79,"Wayne County,West Virginia","Meade County,Kentucky",14613,401067
+80,"Wayne County,West Virginia","Menifee County,Kentucky",7376,166336
+81,"Wayne County,West Virginia","Mercer County,Kentucky",10840,281035
+82,"Wayne County,West Virginia","Metcalfe County,Kentucky",15469,410316
+83,"Wayne County,West Virginia","Monroe County,Kentucky",17439,447821
+84,"Wayne County,West Virginia","Montgomery County,Kentucky",7073,172812
+85,"Wayne County,West Virginia","Morgan County,Kentucky",6525,108337
+86,"Wayne County,West Virginia","Muhlenberg County,Kentucky",18022,504659
+87,"Wayne County,West Virginia","Nelson County,Kentucky",12072,324395
+88,"Wayne County,West Virginia","Nicholas County,Kentucky",8751,200696
+89,"Wayne County,West Virginia","Ohio County,Kentucky",16935,472249
+90,"Wayne County,West Virginia","Oldham County,Kentucky",12224,340633
+91,"Wayne County,West Virginia","Owen County,Kentucky",11279,296277
+92,"Wayne County,West Virginia","Owsley County,Kentucky",9110,193826
+93,"Wayne County,West Virginia","Pendleton County,Kentucky",10523,235696
+94,"Wayne County,West Virginia","Perry County,Kentucky",7384,166287
+95,"Wayne County,West Virginia","Pike County,Kentucky",6502,134172
+96,"Wayne County,West Virginia","Powell County,Kentucky",7863,176327
+97,"Wayne County,West Virginia","Robertson County,Kentucky",8669,200202
+98,"Wayne County,West Virginia","Rockcastle County,Kentucky",10852,272749
+99,"Wayne County,West Virginia","Rowan County,Kentucky",5403,126479
+100,"Wayne County,West Virginia","Russell County,Kentucky",14418,364035
+101,"Wayne County,West Virginia","Scott County,Kentucky",9254,248611
+102,"Wayne County,West Virginia","Shelby County,Kentucky",11081,299887
+103,"Wayne County,West Virginia","Simpson County,Kentucky",18133,509066
+104,"Wayne County,West Virginia","Spencer County,Kentucky",11611,305735
+105,"Wayne County,West Virginia","Taylor County,Kentucky",13753,356820
+106,"Wayne County,West Virginia","Todd County,Kentucky",19787,525169
+107,"Wayne County,West Virginia","Trigg County,Kentucky",20766,584901
+108,"Wayne County,West Virginia","Trimble County,Kentucky",13298,346673
+109,"Wayne County,West Virginia","Union County,Kentucky",21360,587088
+110,"Wayne County,West Virginia","Warren County,Kentucky",17167,474014
+111,"Wayne County,West Virginia","Washington County,Kentucky",12082,309632
+112,"Wayne County,West Virginia","Wayne County,Kentucky",14594,361108
+113,"Wayne County,West Virginia","Webster County,Kentucky",20271,566272
+114,"Wayne County,West Virginia","Whitley County,Kentucky",12399,301695
+115,"Wayne County,West Virginia","Wolfe County,Kentucky",6466,142095
+116,"Wayne County,West Virginia","Woodford County,Kentucky",9474,251247
+117,"Wayne County,West Virginia","Adams County,Ohio",8465,181921
+118,"Wayne County,West Virginia","Allen County,Ohio",17027,400397
+119,"Wayne County,West Virginia","Ashland County,Ohio",16095,392085
+120,"Wayne County,West Virginia","Ashtabula County,Ohio",20503,600522
+121,"Wayne County,West Virginia","Athens County,Ohio",7816,172876
+122,"Wayne County,West Virginia","Auglaize County,Ohio",16277,417097
+123,"Wayne County,West Virginia","Belmont County,Ohio",13566,389447
+124,"Wayne County,West Virginia","Brown County,Ohio",9271,203802
+125,"Wayne County,West Virginia","Butler County,Ohio",13435,314300
+126,"Wayne County,West Virginia","Carroll County,Ohio",15496,426333
+127,"Wayne County,West Virginia","Champaign County,Ohio",13581,319194
+128,"Wayne County,West Virginia","Clark County,Ohio",12260,278739
+129,"Wayne County,West Virginia","Clermont County,Ohio",10543,239945
+130,"Wayne County,West Virginia","Clinton County,Ohio",11163,236658
+131,"Wayne County,West Virginia","Columbiana County,Ohio",17337,480568
+132,"Wayne County,West Virginia","Coshocton County,Ohio",14131,397450
+133,"Wayne County,West Virginia","Crawford County,Ohio",15709,360543
+134,"Wayne County,West Virginia","Cuyahoga County,Ohio",17532,511737
+135,"Wayne County,West Virginia","Darke County,Ohio",15375,374144
+136,"Wayne County,West Virginia","Defiance County,Ohio",20463,478718
+137,"Wayne County,West Virginia","Delaware County,Ohio",13012,298757
+138,"Wayne County,West Virginia","Fairfield County,Ohio",11176,267577
+139,"Wayne County,West Virginia","Fayette County,Ohio",10328,236884
+140,"Wayne County,West Virginia","Franklin County,Ohio",11530,258684
+141,"Wayne County,West Virginia","Fulton County,Ohio",20800,516112
+142,"Wayne County,West Virginia","Gallia County,Ohio",5964,114169
+143,"Wayne County,West Virginia","Geauga County,Ohio",18604,537454
+144,"Wayne County,West Virginia","Greene County,Ohio",11199,270036
+145,"Wayne County,West Virginia","Guernsey County,Ohio",11681,335368
+146,"Wayne County,West Virginia","Hamilton County,Ohio",12267,287704
+147,"Wayne County,West Virginia","Hancock County,Ohio",16887,401635
+148,"Wayne County,West Virginia","Hardin County,Ohio",15538,356227
+149,"Wayne County,West Virginia","Harrison County,Ohio",14501,408398
+150,"Wayne County,West Virginia","Henry County,Ohio",19599,473257
+151,"Wayne County,West Virginia","Highland County,Ohio",9430,196004
+152,"Wayne County,West Virginia","Hocking County,Ohio",9618,223540
+153,"Wayne County,West Virginia","Holmes County,Ohio",15190,420334
+154,"Wayne County,West Virginia","Huron County,Ohio",17242,390856
+155,"Wayne County,West Virginia","Jackson County,Ohio",6794,143520
+156,"Wayne County,West Virginia","Jefferson County,Ohio",15495,418176
+157,"Wayne County,West Virginia","Knox County,Ohio",15443,340804
+158,"Wayne County,West Virginia","Lawrence County,Ohio",4367,74289
+159,"Wayne County,West Virginia","Licking County,Ohio",13121,294586
+160,"Wayne County,West Virginia","Logan County,Ohio",14559,350504
+161,"Wayne County,West Virginia","Lorain County,Ohio",18756,541560
+162,"Wayne County,West Virginia","Lucas County,Ohio",20522,489135
+163,"Wayne County,West Virginia","Madison County,Ohio",12030,259969
+164,"Wayne County,West Virginia","Mahoning County,Ohio",17833,495373
+165,"Wayne County,West Virginia","Marion County,Ohio",14270,319373
+166,"Wayne County,West Virginia","Medina County,Ohio",16740,417098
+167,"Wayne County,West Virginia","Meigs County,Ohio",6706,145611
+168,"Wayne County,West Virginia","Mercer County,Ohio",17513,444031
+169,"Wayne County,West Virginia","Miami County,Ohio",13863,339536
+170,"Wayne County,West Virginia","Monroe County,Ohio",12618,324560
+171,"Wayne County,West Virginia","Montgomery County,Ohio",13233,317492
+172,"Wayne County,West Virginia","Morgan County,Ohio",10769,239900
+173,"Wayne County,West Virginia","Morrow County,Ohio",13820,321578
+174,"Wayne County,West Virginia","Muskingum County,Ohio",12483,261039
+175,"Wayne County,West Virginia","Noble County,Ohio",11123,307720
+176,"Wayne County,West Virginia","Paulding County,Ohio",19564,476303
+177,"Wayne County,West Virginia","Perry County,Ohio",11033,238296
+178,"Wayne County,West Virginia","Pickaway County,Ohio",9769,216983
+179,"Wayne County,West Virginia","Pike County,Ohio",6863,145862
+180,"Wayne County,West Virginia","Portage County,Ohio",17054,493319
+181,"Wayne County,West Virginia","Preble County,Ohio",14852,346070
+182,"Wayne County,West Virginia","Putnam County,Ohio",18150,432756
+183,"Wayne County,West Virginia","Richland County,Ohio",14850,356816
+184,"Wayne County,West Virginia","Ross County,Ohio",8513,183289
+185,"Wayne County,West Virginia","Sandusky County,Ohio",18643,420330
+186,"Wayne County,West Virginia","Scioto County,Ohio",5943,122500
+187,"Wayne County,West Virginia","Seneca County,Ohio",17260,394215
+188,"Wayne County,West Virginia","Shelby County,Ohio",14902,375822
+189,"Wayne County,West Virginia","Stark County,Ohio",15355,441568
+190,"Wayne County,West Virginia","Summit County,Ohio",16113,467356
+191,"Wayne County,West Virginia","Trumbull County,Ohio",18788,521620
+192,"Wayne County,West Virginia","Tuscarawas County,Ohio",13555,382155
+193,"Wayne County,West Virginia","Union County,Ohio",13063,300735
+194,"Wayne County,West Virginia","Van Wert County,Ohio",18261,443267
+195,"Wayne County,West Virginia","Vinton County,Ohio",9000,192820
+196,"Wayne County,West Virginia","Warren County,Ohio",12516,272317
+197,"Wayne County,West Virginia","Washington County,Ohio",9742,217560
+198,"Wayne County,West Virginia","Wayne County,Ohio",16326,444446
+199,"Wayne County,West Virginia","Williams County,Ohio",21640,502235
+200,"Wayne County,West Virginia","Wood County,Ohio",18285,443243
+201,"Wayne County,West Virginia","Wyandot County,Ohio",15856,365771
+202,"Wayne County,West Virginia","Accomack County,Virginia",31574,888725
+203,"Wayne County,West Virginia","Albemarle County,Virginia",17723,501224
+204,"Wayne County,West Virginia","Alleghany County,Virginia",12392,338247
+205,"Wayne County,West Virginia","Amelia County,Virginia",22424,601342
+206,"Wayne County,West Virginia","Amherst County,Virginia",17721,469213
+207,"Wayne County,West Virginia","Appomattox County,Virginia",19314,507972
+208,"Wayne County,West Virginia","Arlington County,Virginia",24006,697256
+209,"Wayne County,West Virginia","Augusta County,Virginia",16334,439564
+210,"Wayne County,West Virginia","Bath County,Virginia",15404,413557
+211,"Wayne County,West Virginia","Bedford County,Virginia",17981,455338
+212,"Wayne County,West Virginia","Bland County,Virginia",11354,304467
+213,"Wayne County,West Virginia","Botetourt County,Virginia",15547,409547
+214,"Wayne County,West Virginia","Brunswick County,Virginia",24967,651015
+215,"Wayne County,West Virginia","Buchanan County,Virginia",10642,184636
+216,"Wayne County,West Virginia","Buckingham County,Virginia",19597,518907
+217,"Wayne County,West Virginia","Campbell County,Virginia",19238,510444
+218,"Wayne County,West Virginia","Caroline County,Virginia",23063,670070
+219,"Wayne County,West Virginia","Carroll County,Virginia",13600,373904
+220,"Wayne County,West Virginia","Charles City County,Virginia",23163,667104
+221,"Wayne County,West Virginia","Charlotte County,Virginia",21199,561493
+222,"Wayne County,West Virginia","Chesterfield County,Virginia",22299,644888
+223,"Wayne County,West Virginia","Clarke County,Virginia",21903,628282
+224,"Wayne County,West Virginia","Craig County,Virginia",14035,359332
+225,"Wayne County,West Virginia","Culpeper County,Virginia",21520,590441
+226,"Wayne County,West Virginia","Cumberland County,Virginia",20807,546910
+227,"Wayne County,West Virginia","Dickenson County,Virginia",10362,219175
+228,"Wayne County,West Virginia","Dinwiddie County,Virginia",24046,695320
+229,"Wayne County,West Virginia","Essex County,Virginia",24880,694112
+230,"Wayne County,West Virginia","Fairfax County,Virginia",23697,687923
+231,"Wayne County,West Virginia","Fauquier County,Virginia",22341,649534
+232,"Wayne County,West Virginia","Floyd County,Virginia",15221,392869
+233,"Wayne County,West Virginia","Fluvanna County,Virginia",19401,553396
+234,"Wayne County,West Virginia","Franklin County,Virginia",17494,456571
+235,"Wayne County,West Virginia","Frederick County,Virginia",20568,542416
+236,"Wayne County,West Virginia","Giles County,Virginia",12085,316025
+237,"Wayne County,West Virginia","Gloucester County,Virginia",25334,721293
+238,"Wayne County,West Virginia","Goochland County,Virginia",20305,584007
+239,"Wayne County,West Virginia","Grayson County,Virginia",14002,363612
+240,"Wayne County,West Virginia","Greene County,Virginia",19716,536808
+241,"Wayne County,West Virginia","Greensville County,Virginia",25462,744071
+242,"Wayne County,West Virginia","Halifax County,Virginia",21903,571591
+243,"Wayne County,West Virginia","Hanover County,Virginia",21511,625114
+244,"Wayne County,West Virginia","Henrico County,Virginia",22022,638073
+245,"Wayne County,West Virginia","Henry County,Virginia",17473,460625
+246,"Wayne County,West Virginia","Highland County,Virginia",16849,423527
+247,"Wayne County,West Virginia","Isle of Wight County,Virginia",26275,742650
+248,"Wayne County,West Virginia","James City County,Virginia",24399,707875
+249,"Wayne County,West Virginia","King and Queen County,Virginia",24057,683459
+250,"Wayne County,West Virginia","King George County,Virginia",24176,698056
+251,"Wayne County,West Virginia","King William County,Virginia",22745,653382
+252,"Wayne County,West Virginia","Lancaster County,Virginia",26537,736467
+253,"Wayne County,West Virginia","Lee County,Virginia",11663,267691
+254,"Wayne County,West Virginia","Loudoun County,Virginia",23399,664149
+255,"Wayne County,West Virginia","Louisa County,Virginia",19962,567102
+256,"Wayne County,West Virginia","Lunenburg County,Virginia",22971,602777
+257,"Wayne County,West Virginia","Madison County,Virginia",20636,566549
+258,"Wayne County,West Virginia","Mathews County,Virginia",26158,744716
+259,"Wayne County,West Virginia","Mecklenburg County,Virginia",23962,615901
+260,"Wayne County,West Virginia","Middlesex County,Virginia",24935,717493
+261,"Wayne County,West Virginia","Montgomery County,Virginia",13168,344032
+262,"Wayne County,West Virginia","Nelson County,Virginia",18262,480904
+263,"Wayne County,West Virginia","New Kent County,Virginia",23835,681789
+264,"Wayne County,West Virginia","Northampton County,Virginia",28816,824539
+265,"Wayne County,West Virginia","Northumberland County,Virginia",26577,734979
+266,"Wayne County,West Virginia","Nottoway County,Virginia",22464,603157
+267,"Wayne County,West Virginia","Orange County,Virginia",20925,575209
+268,"Wayne County,West Virginia","Page County,Virginia",19570,550339
+269,"Wayne County,West Virginia","Patrick County,Virginia",15705,418940
+270,"Wayne County,West Virginia","Pittsylvania County,Virginia",19789,514833
+271,"Wayne County,West Virginia","Powhatan County,Virginia",21558,609228
+272,"Wayne County,West Virginia","Prince Edward County,Virginia",21079,560492
+273,"Wayne County,West Virginia","Prince George County,Virginia",23810,681904
+274,"Wayne County,West Virginia","Prince William County,Virginia",22441,655637
+275,"Wayne County,West Virginia","Pulaski County,Virginia",13263,340363
+276,"Wayne County,West Virginia","Rappahannock County,Virginia",21401,586821
+277,"Wayne County,West Virginia","Richmond County,Virginia",25277,707623
+278,"Wayne County,West Virginia","Roanoke County,Virginia",14788,386825
+279,"Wayne County,West Virginia","Rockbridge County,Virginia",14725,406603
+280,"Wayne County,West Virginia","Rockingham County,Virginia",18609,522684
+281,"Wayne County,West Virginia","Russell County,Virginia",12085,232227
+282,"Wayne County,West Virginia","Scott County,Virginia",11838,266628
+283,"Wayne County,West Virginia","Shenandoah County,Virginia",19113,552788
+284,"Wayne County,West Virginia","Smyth County,Virginia",13712,369819
+285,"Wayne County,West Virginia","Southampton County,Virginia",25840,740185
+286,"Wayne County,West Virginia","Spotsylvania County,Virginia",21978,608940
+287,"Wayne County,West Virginia","Stafford County,Virginia",23359,633233
+288,"Wayne County,West Virginia","Surry County,Virginia",25143,706737
+289,"Wayne County,West Virginia","Sussex County,Virginia",24504,710428
+290,"Wayne County,West Virginia","Tazewell County,Virginia",12170,323054
+291,"Wayne County,West Virginia","Warren County,Virginia",21016,597381
+292,"Wayne County,West Virginia","Washington County,Virginia",12760,285893
+293,"Wayne County,West Virginia","Westmoreland County,Virginia",25150,714881
+294,"Wayne County,West Virginia","Wise County,Virginia",8627,195074
+295,"Wayne County,West Virginia","Wythe County,Virginia",11959,322684
+296,"Wayne County,West Virginia","York County,Virginia",25687,738650
+297,"Wayne County,West Virginia","Alexandria City County,Virginia",24522,714438
+298,"Wayne County,West Virginia","Bedford City County,Virginia",17145,446769
+299,"Wayne County,West Virginia","Bristol City County,Virginia",13600,306779
+300,"Wayne County,West Virginia","Buena Vista City County,Virginia",15080,420581
+301,"Wayne County,West Virginia","Charlottesville City County,Virginia",18193,516439
+302,"Wayne County,West Virginia","Chesapeake City County,Virginia",27150,791555
+303,"Wayne County,West Virginia","Clifton Forge City County,Virginia",12936,358454
+304,"Wayne County,West Virginia","Colonial Heights City County,Virginia",22859,660781
+305,"Wayne County,West Virginia","Covington City County,Virginia",12461,341833
+306,"Wayne County,West Virginia","Danville City County,Virginia",19631,515081
+307,"Wayne County,West Virginia","Emporia City County,Virginia",25170,730665
+308,"Wayne County,West Virginia","Fairfax City County,Virginia",23574,681385
+309,"Wayne County,West Virginia","Falls Church City County,Virginia",23715,691568
+310,"Wayne County,West Virginia","Franklin City County,Virginia",26388,748040
+311,"Wayne County,West Virginia","Fredericksburg City County,Virginia",23111,618600
+312,"Wayne County,West Virginia","Galax City County,Virginia",14223,379771
+313,"Wayne County,West Virginia","Hampton City County,Virginia",25637,748356
+314,"Wayne County,West Virginia","Harrisonburg City County,Virginia",17668,502581
+315,"Wayne County,West Virginia","Hopewell City County,Virginia",22895,659747
+316,"Wayne County,West Virginia","Lexington City County,Virginia",14714,409072
+317,"Wayne County,West Virginia","Lynchburg City County,Virginia",18297,484187
+318,"Wayne County,West Virginia","Manassas City County,Virginia",22669,660582
+319,"Wayne County,West Virginia","Manassas Park City County,Virginia",23171,666925
+320,"Wayne County,West Virginia","Martinsville City County,Virginia",18001,469419
+321,"Wayne County,West Virginia","Newport News City County,Virginia",25194,734842
+322,"Wayne County,West Virginia","Norfolk City County,Virginia",26943,773772
+323,"Wayne County,West Virginia","Norton City County,Virginia",9256,206886
+324,"Wayne County,West Virginia","Petersburg City County,Virginia",22730,661768
+325,"Wayne County,West Virginia","Poquoson City County,Virginia",25865,745418
+326,"Wayne County,West Virginia","Portsmouth City County,Virginia",26882,782593
+327,"Wayne County,West Virginia","Radford County,Virginia",13576,342072
+328,"Wayne County,West Virginia","Richmond City County,Virginia",21598,625884
+329,"Wayne County,West Virginia","Roanoke City County,Virginia",15390,406930
+330,"Wayne County,West Virginia","Salem City County,Virginia",14802,393480
+331,"Wayne County,West Virginia","South Boston City County,Virginia",21643,569259
+332,"Wayne County,West Virginia","Staunton City County,Virginia",16485,463716
+333,"Wayne County,West Virginia","Suffolk City County,Virginia",27118,757374
+334,"Wayne County,West Virginia","Virginia Beach City County,Virginia",27504,797030
+335,"Wayne County,West Virginia","Waynesboro City County,Virginia",16823,476434
+336,"Wayne County,West Virginia","Williamsburg City County,Virginia",24238,707091
+337,"Wayne County,West Virginia","Winchester City County,Virginia",21047,576418
+338,"Wayne County,West Virginia","Barbour County,West Virginia",12528,337114
+339,"Wayne County,West Virginia","Berkeley County,West Virginia",20461,575273
+340,"Wayne County,West Virginia","Boone County,West Virginia",6550,114362
+341,"Wayne County,West Virginia","Braxton County,West Virginia",9218,228093
+342,"Wayne County,West Virginia","Brooke County,West Virginia",15645,431694
+343,"Wayne County,West Virginia","Cabell County,West Virginia",2413,38450
+344,"Wayne County,West Virginia","Calhoun County,West Virginia",9139,225778
+345,"Wayne County,West Virginia","Clay County,West Virginia",7985,199006
+346,"Wayne County,West Virginia","Doddridge County,West Virginia",11672,318623
+347,"Wayne County,West Virginia","Fayette County,West Virginia",9272,217350
+348,"Wayne County,West Virginia","Gilmer County,West Virginia",10417,250280
+349,"Wayne County,West Virginia","Grant County,West Virginia",16884,438659
+350,"Wayne County,West Virginia","Greenbrier County,West Virginia",12347,295389
+351,"Wayne County,West Virginia","Hampshire County,West Virginia",19715,536877
+352,"Wayne County,West Virginia","Hancock County,West Virginia",17235,466230
+353,"Wayne County,West Virginia","Hardy County,West Virginia",17939,470157
+354,"Wayne County,West Virginia","Harrison County,West Virginia",11762,323485
+355,"Wayne County,West Virginia","Jackson County,West Virginia",7023,180110
+356,"Wayne County,West Virginia","Jefferson County,West Virginia",21927,631271
+357,"Wayne County,West Virginia","Kanawha County,West Virginia",6581,151414
+358,"Wayne County,West Virginia","Lewis County,West Virginia",10391,276955
+359,"Wayne County,West Virginia","Lincoln County,West Virginia",4022,63607
+360,"Wayne County,West Virginia","Logan County,West Virginia",5804,102936
+361,"Wayne County,West Virginia","McDowell County,West Virginia",10503,199290
+362,"Wayne County,West Virginia","Marion County,West Virginia",12907,350652
+363,"Wayne County,West Virginia","Marshall County,West Virginia",15032,367795
+364,"Wayne County,West Virginia","Mason County,West Virginia",5260,127984
+365,"Wayne County,West Virginia","Mercer County,West Virginia",9908,262973
+366,"Wayne County,West Virginia","Mineral County,West Virginia",18578,467480
+367,"Wayne County,West Virginia","Mingo County,West Virginia",4782,92677
+368,"Wayne County,West Virginia","Monongalia County,West Virginia",13117,376120
+369,"Wayne County,West Virginia","Monroe County,West Virginia",12953,307685
+370,"Wayne County,West Virginia","Morgan County,West Virginia",19953,564665
+371,"Wayne County,West Virginia","Nicholas County,West Virginia",9701,258887
+372,"Wayne County,West Virginia","Ohio County,West Virginia",14664,412932
+373,"Wayne County,West Virginia","Pendleton County,West Virginia",17215,441283
+374,"Wayne County,West Virginia","Pleasants County,West Virginia",10506,277961
+375,"Wayne County,West Virginia","Pocahontas County,West Virginia",15030,328425
+376,"Wayne County,West Virginia","Preston County,West Virginia",15263,402851
+377,"Wayne County,West Virginia","Putnam County,West Virginia",3962,90017
+378,"Wayne County,West Virginia","Raleigh County,West Virginia",8449,216666
+379,"Wayne County,West Virginia","Randolph County,West Virginia",12893,339410
+380,"Wayne County,West Virginia","Ritchie County,West Virginia",10837,291665
+381,"Wayne County,West Virginia","Roane County,West Virginia",8649,208925
+382,"Wayne County,West Virginia","Summers County,West Virginia",11901,278104
+383,"Wayne County,West Virginia","Taylor County,West Virginia",12800,346224
+384,"Wayne County,West Virginia","Tucker County,West Virginia",13960,369934
+385,"Wayne County,West Virginia","Tyler County,West Virginia",12415,317577
+386,"Wayne County,West Virginia","Upshur County,West Virginia",11956,291652
+387,"Wayne County,West Virginia","Webster County,West Virginia",11886,285966
+388,"Wayne County,West Virginia","Wetzel County,West Virginia",13627,339483
+389,"Wayne County,West Virginia","Wirt County,West Virginia",9290,237447
+390,"Wayne County,West Virginia","Wood County,West Virginia",8804,239137
+391,"Wayne County,West Virginia","Wyoming County,West Virginia",9209,163010

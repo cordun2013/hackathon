@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Charlottesville City County,Virginia","Adair County,Kentucky",29195,777539
+1,"Charlottesville City County,Virginia","Allen County,Kentucky",30591,897349
+2,"Charlottesville City County,Virginia","Anderson County,Kentucky",24823,740325
+3,"Charlottesville City County,Virginia","Ballard County,Kentucky",37496,1132604
+4,"Charlottesville City County,Virginia","Barren County,Kentucky",30381,856294
+5,"Charlottesville City County,Virginia","Bath County,Kentucky",20470,611506
+6,"Charlottesville City County,Virginia","Bell County,Kentucky",21691,578846
+7,"Charlottesville City County,Virginia","Boone County,Kentucky",26283,732899
+8,"Charlottesville City County,Virginia","Bourbon County,Kentucky",22384,657923
+9,"Charlottesville City County,Virginia","Boyd County,Kentucky",17146,505830
+10,"Charlottesville City County,Virginia","Boyle County,Kentucky",26052,744211
+11,"Charlottesville City County,Virginia","Bracken County,Kentucky",22795,652006
+12,"Charlottesville City County,Virginia","Breathitt County,Kentucky",23315,614609
+13,"Charlottesville City County,Virginia","Breckinridge County,Kentucky",30356,893006
+14,"Charlottesville City County,Virginia","Bullitt County,Kentucky",26926,814125
+15,"Charlottesville City County,Virginia","Butler County,Kentucky",31021,915004
+16,"Charlottesville City County,Virginia","Caldwell County,Kentucky",33913,1020949
+17,"Charlottesville City County,Virginia","Calloway County,Kentucky",35337,1064463
+18,"Charlottesville City County,Virginia","Campbell County,Kentucky",24496,691877
+19,"Charlottesville City County,Virginia","Carlisle County,Kentucky",37953,1147972
+20,"Charlottesville City County,Virginia","Carroll County,Kentucky",27368,788139
+21,"Charlottesville City County,Virginia","Carter County,Kentucky",18310,535927
+22,"Charlottesville City County,Virginia","Casey County,Kentucky",27547,775716
+23,"Charlottesville City County,Virginia","Christian County,Kentucky",32230,985443
+24,"Charlottesville City County,Virginia","Clay County,Kentucky",24263,639188
+25,"Charlottesville City County,Virginia","Clinton County,Kentucky",27638,776754
+26,"Charlottesville City County,Virginia","Crittenden County,Kentucky",35493,1054019
+27,"Charlottesville City County,Virginia","Cumberland County,Kentucky",28518,797422
+28,"Charlottesville City County,Virginia","Daviess County,Kentucky",32044,961446
+29,"Charlottesville City County,Virginia","Edmonson County,Kentucky",30461,902878
+30,"Charlottesville City County,Virginia","Elliott County,Kentucky",19641,561697
+31,"Charlottesville City County,Virginia","Estill County,Kentucky",23463,673821
+32,"Charlottesville City County,Virginia","Fayette County,Kentucky",22630,677817
+33,"Charlottesville City County,Virginia","Fleming County,Kentucky",20896,614691
+34,"Charlottesville City County,Virginia","Floyd County,Kentucky",21279,613095
+35,"Charlottesville City County,Virginia","Franklin County,Kentucky",24668,726734
+36,"Charlottesville City County,Virginia","Fulton County,Kentucky",38357,1168937
+37,"Charlottesville City County,Virginia","Gallatin County,Kentucky",26365,778798
+38,"Charlottesville City County,Virginia","Garrard County,Kentucky",25235,724971
+39,"Charlottesville City County,Virginia","Grant County,Kentucky",25164,752905
+40,"Charlottesville City County,Virginia","Graves County,Kentucky",36977,1120679
+41,"Charlottesville City County,Virginia","Grayson County,Kentucky",29349,871640
+42,"Charlottesville City County,Virginia","Green County,Kentucky",29128,836845
+43,"Charlottesville City County,Virginia","Greenup County,Kentucky",18921,546957
+44,"Charlottesville City County,Virginia","Hancock County,Kentucky",31152,925899
+45,"Charlottesville City County,Virginia","Hardin County,Kentucky",28225,833772
+46,"Charlottesville City County,Virginia","Harlan County,Kentucky",20765,555472
+47,"Charlottesville City County,Virginia","Harrison County,Kentucky",23955,691023
+48,"Charlottesville City County,Virginia","Hart County,Kentucky",29024,861401
+49,"Charlottesville City County,Virginia","Henderson County,Kentucky",33851,1013876
+50,"Charlottesville City County,Virginia","Henry County,Kentucky",26269,770452
+51,"Charlottesville City County,Virginia","Hickman County,Kentucky",37986,1149264
+52,"Charlottesville City County,Virginia","Hopkins County,Kentucky",33372,995417
+53,"Charlottesville City County,Virginia","Jackson County,Kentucky",26135,675607
+54,"Charlottesville City County,Virginia","Jefferson County,Kentucky",26363,785986
+55,"Charlottesville City County,Virginia","Jessamine County,Kentucky",24099,699281
+56,"Charlottesville City County,Virginia","Johnson County,Kentucky",19927,578726
+57,"Charlottesville City County,Virginia","Kenton County,Kentucky",25652,720593
+58,"Charlottesville City County,Virginia","Knott County,Kentucky",20855,557359
+59,"Charlottesville City County,Virginia","Knox County,Kentucky",23021,620838
+60,"Charlottesville City County,Virginia","Larue County,Kentucky",28296,820948
+61,"Charlottesville City County,Virginia","Laurel County,Kentucky",24915,655666
+62,"Charlottesville City County,Virginia","Lawrence County,Kentucky",19069,550150
+63,"Charlottesville City County,Virginia","Lee County,Kentucky",24307,667558
+64,"Charlottesville City County,Virginia","Leslie County,Kentucky",22228,583752
+65,"Charlottesville City County,Virginia","Letcher County,Kentucky",19256,520906
+66,"Charlottesville City County,Virginia","Lewis County,Kentucky",20349,587745
+67,"Charlottesville City County,Virginia","Lincoln County,Kentucky",25945,741889
+68,"Charlottesville City County,Virginia","Livingston County,Kentucky",35827,1086543
+69,"Charlottesville City County,Virginia","Logan County,Kentucky",32662,938343
+70,"Charlottesville City County,Virginia","Lyon County,Kentucky",35583,1063717
+71,"Charlottesville City County,Virginia","McCracken County,Kentucky",36108,1100664
+72,"Charlottesville City County,Virginia","McCreary County,Kentucky",24645,713600
+73,"Charlottesville City County,Virginia","Madison County,Kentucky",23628,688841
+74,"Charlottesville City County,Virginia","Magoffin County,Kentucky",20895,599405
+75,"Charlottesville City County,Virginia","Marion County,Kentucky",26674,782557
+76,"Charlottesville City County,Virginia","Marshall County,Kentucky",35523,1084236
+77,"Charlottesville City County,Virginia","Martin County,Kentucky",20183,531874
+78,"Charlottesville City County,Virginia","Mason County,Kentucky",22144,631552
+79,"Charlottesville City County,Virginia","Meade County,Kentucky",28823,858301
+80,"Charlottesville City County,Virginia","Menifee County,Kentucky",21587,623569
+81,"Charlottesville City County,Virginia","Mercer County,Kentucky",25051,738268
+82,"Charlottesville City County,Virginia","Metcalfe County,Kentucky",29851,807804
+83,"Charlottesville City County,Virginia","Monroe County,Kentucky",29079,827843
+84,"Charlottesville City County,Virginia","Montgomery County,Kentucky",21283,630046
+85,"Charlottesville City County,Virginia","Morgan County,Kentucky",21365,599285
+86,"Charlottesville City County,Virginia","Muhlenberg County,Kentucky",32232,961893
+87,"Charlottesville City County,Virginia","Nelson County,Kentucky",26282,781629
+88,"Charlottesville City County,Virginia","Nicholas County,Kentucky",22961,657930
+89,"Charlottesville City County,Virginia","Ohio County,Kentucky",31145,929483
+90,"Charlottesville City County,Virginia","Oldham County,Kentucky",26434,797867
+91,"Charlottesville City County,Virginia","Owen County,Kentucky",25490,753511
+92,"Charlottesville City County,Virginia","Owsley County,Kentucky",25453,652483
+93,"Charlottesville City County,Virginia","Pendleton County,Kentucky",24733,692930
+94,"Charlottesville City County,Virginia","Perry County,Kentucky",21829,577782
+95,"Charlottesville City County,Virginia","Pike County,Kentucky",20379,497120
+96,"Charlottesville City County,Virginia","Powell County,Kentucky",22727,659792
+97,"Charlottesville City County,Virginia","Robertson County,Kentucky",22879,657436
+98,"Charlottesville City County,Virginia","Rockcastle County,Kentucky",25062,729983
+99,"Charlottesville City County,Virginia","Rowan County,Kentucky",19613,583713
+100,"Charlottesville City County,Virginia","Russell County,Kentucky",28800,761523
+101,"Charlottesville City County,Virginia","Scott County,Kentucky",23465,705844
+102,"Charlottesville City County,Virginia","Shelby County,Kentucky",25292,757120
+103,"Charlottesville City County,Virginia","Simpson County,Kentucky",31629,914319
+104,"Charlottesville City County,Virginia","Spencer County,Kentucky",25821,762968
+105,"Charlottesville City County,Virginia","Taylor County,Kentucky",27964,814053
+106,"Charlottesville City County,Virginia","Todd County,Kentucky",32645,978390
+107,"Charlottesville City County,Virginia","Trigg County,Kentucky",33137,1002802
+108,"Charlottesville City County,Virginia","Trimble County,Kentucky",27508,803907
+109,"Charlottesville City County,Virginia","Union County,Kentucky",35570,1044322
+110,"Charlottesville City County,Virginia","Warren County,Kentucky",31378,931248
+111,"Charlottesville City County,Virginia","Washington County,Kentucky",26292,766865
+112,"Charlottesville City County,Virginia","Wayne County,Kentucky",27149,760731
+113,"Charlottesville City County,Virginia","Webster County,Kentucky",34481,1023506
+114,"Charlottesville City County,Virginia","Whitley County,Kentucky",23249,698362
+115,"Charlottesville City County,Virginia","Wolfe County,Kentucky",22460,622647
+116,"Charlottesville City County,Virginia","Woodford County,Kentucky",23684,708480
+117,"Charlottesville City County,Virginia","Adams County,Ohio",22237,634108
+118,"Charlottesville City County,Virginia","Allen County,Ohio",28969,809526
+119,"Charlottesville City County,Virginia","Ashland County,Ohio",26713,763417
+120,"Charlottesville City County,Virginia","Ashtabula County,Ohio",24988,713643
+121,"Charlottesville City County,Virginia","Athens County,Ohio",18645,539707
+122,"Charlottesville City County,Virginia","Auglaize County,Ohio",28219,826225
+123,"Charlottesville City County,Virginia","Belmont County,Ohio",20060,528241
+124,"Charlottesville City County,Virginia","Brown County,Ohio",23481,661036
+125,"Charlottesville City County,Virginia","Butler County,Ohio",26594,743061
+126,"Charlottesville City County,Virginia","Carroll County,Ohio",23005,564099
+127,"Charlottesville City County,Virginia","Champaign County,Ohio",25523,728323
+128,"Charlottesville City County,Virginia","Clark County,Ohio",24202,687867
+129,"Charlottesville City County,Virginia","Clermont County,Ohio",24315,692132
+130,"Charlottesville City County,Virginia","Clinton County,Ohio",23706,675549
+131,"Charlottesville City County,Virginia","Columbiana County,Ohio",22214,552620
+132,"Charlottesville City County,Virginia","Coshocton County,Ohio",23029,681242
+133,"Charlottesville City County,Virginia","Crawford County,Ohio",27321,774577
+134,"Charlottesville City County,Virginia","Cuyahoga County,Ohio",24984,711487
+135,"Charlottesville City County,Virginia","Darke County,Ohio",27316,783272
+136,"Charlottesville City County,Virginia","Defiance County,Ohio",32404,887846
+137,"Charlottesville City County,Virginia","Delaware County,Ohio",24475,707314
+138,"Charlottesville City County,Virginia","Fairfield County,Ohio",22005,634408
+139,"Charlottesville City County,Virginia","Fayette County,Ohio",22270,646012
+140,"Charlottesville City County,Virginia","Franklin County,Ohio",23005,664263
+141,"Charlottesville City County,Virginia","Fulton County,Ohio",31655,917302
+142,"Charlottesville City County,Virginia","Gallia County,Ohio",17583,505124
+143,"Charlottesville City County,Virginia","Geauga County,Ohio",24477,686306
+144,"Charlottesville City County,Virginia","Greene County,Ohio",23140,679165
+145,"Charlottesville City County,Virginia","Guernsey County,Ohio",20579,619161
+146,"Charlottesville City County,Virginia","Hamilton County,Ohio",26095,753639
+147,"Charlottesville City County,Virginia","Hancock County,Ohio",28498,815669
+148,"Charlottesville City County,Virginia","Hardin County,Ohio",27480,765355
+149,"Charlottesville City County,Virginia","Harrison County,Ohio",22021,566955
+150,"Charlottesville City County,Virginia","Henry County,Ohio",31210,887291
+151,"Charlottesville City County,Virginia","Highland County,Ohio",22774,634122
+152,"Charlottesville City County,Virginia","Hocking County,Ohio",20447,590371
+153,"Charlottesville City County,Virginia","Holmes County,Ohio",24087,704126
+154,"Charlottesville City County,Virginia","Huron County,Ohio",28226,787336
+155,"Charlottesville City County,Virginia","Jackson County,Ohio",18760,544673
+156,"Charlottesville City County,Virginia","Jefferson County,Ohio",20962,527590
+157,"Charlottesville City County,Virginia","Knox County,Ohio",24817,723718
+158,"Charlottesville City County,Virginia","Lawrence County,Ohio",18285,510887
+159,"Charlottesville City County,Virginia","Licking County,Ohio",23950,661418
+160,"Charlottesville City County,Virginia","Logan County,Ohio",26500,759632
+161,"Charlottesville City County,Virginia","Lorain County,Ohio",26036,741207
+162,"Charlottesville City County,Virginia","Lucas County,Ohio",30609,870152
+163,"Charlottesville City County,Virginia","Madison County,Ohio",23971,669097
+164,"Charlottesville City County,Virginia","Mahoning County,Ohio",21474,603635
+165,"Charlottesville City County,Virginia","Marion County,Ohio",25881,733407
+166,"Charlottesville City County,Virginia","Medina County,Ohio",25582,724850
+167,"Charlottesville City County,Virginia","Meigs County,Ohio",17526,510678
+168,"Charlottesville City County,Virginia","Mercer County,Ohio",29454,853159
+169,"Charlottesville City County,Virginia","Miami County,Ohio",25805,748664
+170,"Charlottesville City County,Virginia","Monroe County,Ohio",21571,484308
+171,"Charlottesville City County,Virginia","Montgomery County,Ohio",25174,726620
+172,"Charlottesville City County,Virginia","Morgan County,Ohio",20520,595000
+173,"Charlottesville City County,Virginia","Morrow County,Ohio",25282,730135
+174,"Charlottesville City County,Virginia","Muskingum County,Ohio",21425,647152
+175,"Charlottesville City County,Virginia","Noble County,Ohio",20021,591513
+176,"Charlottesville City County,Virginia","Paulding County,Ohio",31506,885431
+177,"Charlottesville City County,Virginia","Perry County,Ohio",21863,605128
+178,"Charlottesville City County,Virginia","Pickaway County,Ohio",21710,626111
+179,"Charlottesville City County,Virginia","Pike County,Ohio",20206,583980
+180,"Charlottesville City County,Virginia","Portage County,Ohio",23329,659649
+181,"Charlottesville City County,Virginia","Preble County,Ohio",26793,755198
+182,"Charlottesville City County,Virginia","Putnam County,Ohio",30092,841884
+183,"Charlottesville City County,Virginia","Richland County,Ohio",26312,765373
+184,"Charlottesville City County,Virginia","Ross County,Ohio",20454,592418
+185,"Charlottesville City County,Virginia","Sandusky County,Ohio",28897,828726
+186,"Charlottesville City County,Virginia","Scioto County,Ohio",20091,568160
+187,"Charlottesville City County,Virginia","Seneca County,Ohio",28871,808249
+188,"Charlottesville City County,Virginia","Shelby County,Ohio",26843,784950
+189,"Charlottesville City County,Virginia","Stark County,Ohio",24109,655782
+190,"Charlottesville City County,Virginia","Summit County,Ohio",24223,688243
+191,"Charlottesville City County,Virginia","Trumbull County,Ohio",22632,641099
+192,"Charlottesville City County,Virginia","Tuscarawas County,Ohio",22453,665948
+193,"Charlottesville City County,Virginia","Union County,Ohio",25004,709863
+194,"Charlottesville City County,Virginia","Van Wert County,Ohio",30203,852395
+195,"Charlottesville City County,Virginia","Vinton County,Ohio",20656,570178
+196,"Charlottesville City County,Virginia","Warren County,Ohio",24512,709607
+197,"Charlottesville City County,Virginia","Washington County,Ohio",18879,549449
+198,"Charlottesville City County,Virginia","Wayne County,Ohio",25224,728238
+199,"Charlottesville City County,Virginia","Williams County,Ohio",32900,948758
+200,"Charlottesville City County,Virginia","Wood County,Ohio",29896,857277
+201,"Charlottesville City County,Virginia","Wyandot County,Ohio",27467,779805
+202,"Charlottesville City County,Virginia","Accomack County,Virginia",14169,378823
+203,"Charlottesville City County,Virginia","Albemarle County,Virginia",1121,15891
+204,"Charlottesville City County,Virginia","Alleghany County,Virginia",6675,188480
+205,"Charlottesville City County,Virginia","Amelia County,Virginia",5373,123141
+206,"Charlottesville City County,Virginia","Amherst County,Virginia",3958,89285
+207,"Charlottesville City County,Virginia","Appomattox County,Virginia",4755,97577
+208,"Charlottesville City County,Virginia","Arlington County,Virginia",8176,183365
+209,"Charlottesville City County,Virginia","Augusta County,Virginia",3419,82173
+210,"Charlottesville City County,Virginia","Bath County,Virginia",6393,147833
+211,"Charlottesville City County,Virginia","Bedford County,Virginia",6442,152688
+212,"Charlottesville City County,Virginia","Bland County,Virginia",10957,318163
+213,"Charlottesville City County,Virginia","Botetourt County,Virginia",5982,159416
+214,"Charlottesville City County,Virginia","Brunswick County,Virginia",8004,225451
+215,"Charlottesville City County,Virginia","Buchanan County,Virginia",16714,452622
+216,"Charlottesville City County,Virginia","Buckingham County,Virginia",3662,71743
+217,"Charlottesville City County,Virginia","Campbell County,Virginia",5320,129418
+218,"Charlottesville City County,Virginia","Caroline County,Virginia",5658,160168
+219,"Charlottesville City County,Virginia","Carroll County,Virginia",11079,323580
+220,"Charlottesville City County,Virginia","Charles City County,Virginia",5758,157203
+221,"Charlottesville City County,Virginia","Charlotte County,Virginia",6679,143779
+222,"Charlottesville City County,Virginia","Chesterfield County,Virginia",4894,134986
+223,"Charlottesville City County,Virginia","Clarke County,Virginia",8007,176054
+224,"Charlottesville City County,Virginia","Craig County,Virginia",8823,215743
+225,"Charlottesville City County,Virginia","Culpeper County,Virginia",4046,80492
+226,"Charlottesville City County,Virginia","Cumberland County,Virginia",4335,81494
+227,"Charlottesville City County,Virginia","Dickenson County,Virginia",17423,470800
+228,"Charlottesville City County,Virginia","Dinwiddie County,Virginia",6641,185418
+229,"Charlottesville City County,Virginia","Essex County,Virginia",7475,184210
+230,"Charlottesville City County,Virginia","Fairfax County,Virginia",7856,170948
+231,"Charlottesville City County,Virginia","Fauquier County,Virginia",5320,116821
+232,"Charlottesville City County,Virginia","Floyd County,Virginia",9606,265127
+233,"Charlottesville City County,Virginia","Fluvanna County,Virginia",1997,43494
+234,"Charlottesville City County,Virginia","Franklin County,Virginia",8879,219983
+235,"Charlottesville City County,Virginia","Frederick County,Virginia",7523,215643
+236,"Charlottesville City County,Virginia","Giles County,Virginia",9746,273279
+237,"Charlottesville City County,Virginia","Gloucester County,Virginia",7929,211391
+238,"Charlottesville City County,Virginia","Goochland County,Virginia",2900,74105
+239,"Charlottesville City County,Virginia","Grayson County,Virginia",12411,339759
+240,"Charlottesville City County,Virginia","Greene County,Virginia",3046,47033
+241,"Charlottesville City County,Virginia","Greensville County,Virginia",8057,234169
+242,"Charlottesville City County,Virginia","Halifax County,Virginia",8521,190608
+243,"Charlottesville City County,Virginia","Hanover County,Virginia",4106,115212
+244,"Charlottesville City County,Virginia","Henrico County,Virginia",4618,128171
+245,"Charlottesville City County,Virginia","Henry County,Virginia",10353,278533
+246,"Charlottesville City County,Virginia","Highland County,Virginia",6621,139912
+247,"Charlottesville City County,Virginia","Isle of Wight County,Virginia",8870,232748
+248,"Charlottesville City County,Virginia","James City County,Virginia",6994,197974
+249,"Charlottesville City County,Virginia","King and Queen County,Virginia",6652,173557
+250,"Charlottesville City County,Virginia","King George County,Virginia",6771,188154
+251,"Charlottesville City County,Virginia","King William County,Virginia",5340,143480
+252,"Charlottesville City County,Virginia","Lancaster County,Virginia",9133,226565
+253,"Charlottesville City County,Virginia","Lee County,Virginia",17918,502454
+254,"Charlottesville City County,Virginia","Loudoun County,Virginia",7988,164146
+255,"Charlottesville City County,Virginia","Louisa County,Virginia",2557,57200
+256,"Charlottesville City County,Virginia","Lunenburg County,Virginia",7220,157892
+257,"Charlottesville City County,Virginia","Madison County,Virginia",3162,56600
+258,"Charlottesville City County,Virginia","Mathews County,Virginia",8754,234814
+259,"Charlottesville City County,Virginia","Mecklenburg County,Virginia",8569,182338
+260,"Charlottesville City County,Virginia","Middlesex County,Virginia",7530,207591
+261,"Charlottesville City County,Virginia","Montgomery County,Virginia",8310,237550
+262,"Charlottesville City County,Virginia","Nelson County,Virginia",2404,56880
+263,"Charlottesville City County,Virginia","New Kent County,Virginia",6430,171887
+264,"Charlottesville City County,Virginia","Northampton County,Virginia",11412,314637
+265,"Charlottesville City County,Virginia","Northumberland County,Virginia",9172,225077
+266,"Charlottesville City County,Virginia","Nottoway County,Virginia",6472,144447
+267,"Charlottesville City County,Virginia","Orange County,Virginia",3552,63122
+268,"Charlottesville City County,Virginia","Page County,Virginia",5320,98717
+269,"Charlottesville City County,Virginia","Patrick County,Virginia",11725,302030
+270,"Charlottesville City County,Virginia","Pittsylvania County,Virginia",7890,201045
+271,"Charlottesville City County,Virginia","Powhatan County,Virginia",4153,99327
+272,"Charlottesville City County,Virginia","Prince Edward County,Virginia",5143,110110
+273,"Charlottesville City County,Virginia","Prince George County,Virginia",6405,172002
+274,"Charlottesville City County,Virginia","Prince William County,Virginia",6130,132904
+275,"Charlottesville City County,Virginia","Pulaski County,Virginia",9038,260183
+276,"Charlottesville City County,Virginia","Rappahannock County,Virginia",4691,91427
+277,"Charlottesville City County,Virginia","Richmond County,Virginia",7872,197721
+278,"Charlottesville City County,Virginia","Roanoke County,Virginia",7301,202488
+279,"Charlottesville City County,Virginia","Rockbridge County,Virginia",4724,125425
+280,"Charlottesville City County,Virginia","Rockingham County,Virginia",4777,122319
+281,"Charlottesville City County,Virginia","Russell County,Virginia",15880,435959
+282,"Charlottesville City County,Virginia","Scott County,Virginia",16491,463182
+283,"Charlottesville City County,Virginia","Shenandoah County,Virginia",5282,152422
+284,"Charlottesville City County,Virginia","Smyth County,Virginia",12074,346904
+285,"Charlottesville City County,Virginia","Southampton County,Virginia",8435,230283
+286,"Charlottesville City County,Virginia","Spotsylvania County,Virginia",4574,99038
+287,"Charlottesville City County,Virginia","Stafford County,Virginia",5987,121146
+288,"Charlottesville City County,Virginia","Surry County,Virginia",7738,196835
+289,"Charlottesville City County,Virginia","Sussex County,Virginia",7099,200526
+290,"Charlottesville City County,Virginia","Tazewell County,Virginia",13535,386980
+291,"Charlottesville City County,Virginia","Warren County,Virginia",6337,126178
+292,"Charlottesville City County,Virginia","Washington County,Virginia",13467,386370
+293,"Charlottesville City County,Virginia","Westmoreland County,Virginia",7745,204979
+294,"Charlottesville City County,Virginia","Wise County,Virginia",17331,477302
+295,"Charlottesville City County,Virginia","Wythe County,Virginia",10328,298889
+296,"Charlottesville City County,Virginia","York County,Virginia",8282,228748
+297,"Charlottesville City County,Virginia","Alexandria City County,Virginia",8147,180414
+298,"Charlottesville City County,Virginia","Bedford City County,Virginia",5943,147772
+299,"Charlottesville City County,Virginia","Bristol City County,Virginia",13942,412087
+300,"Charlottesville City County,Virginia","Buena Vista City County,Virginia",4383,118691
+301,"Charlottesville City County,Virginia","Chesapeake City County,Virginia",9745,281653
+302,"Charlottesville City County,Virginia","Clifton Forge City County,Virginia",5577,157298
+303,"Charlottesville City County,Virginia","Colonial Heights City County,Virginia",5454,150879
+304,"Charlottesville City County,Virginia","Covington City County,Virginia",6320,175640
+305,"Charlottesville City County,Virginia","Danville City County,Virginia",8489,217388
+306,"Charlottesville City County,Virginia","Emporia City County,Virginia",7765,220763
+307,"Charlottesville City County,Virginia","Fairfax City County,Virginia",7399,160523
+308,"Charlottesville City County,Virginia","Falls Church City County,Virginia",7731,174996
+309,"Charlottesville City County,Virginia","Franklin City County,Virginia",8983,238138
+310,"Charlottesville City County,Virginia","Fredericksburg City County,Virginia",5739,106512
+311,"Charlottesville City County,Virginia","Galax City County,Virginia",11702,329446
+312,"Charlottesville City County,Virginia","Hampton City County,Virginia",8232,238454
+313,"Charlottesville City County,Virginia","Harrisonburg City County,Virginia",3836,102215
+314,"Charlottesville City County,Virginia","Hopewell City County,Virginia",5491,149845
+315,"Charlottesville City County,Virginia","Lexington City County,Virginia",4242,115669
+316,"Charlottesville City County,Virginia","Lynchburg City County,Virginia",4506,109341
+317,"Charlottesville City County,Virginia","Manassas City County,Virginia",6479,133487
+318,"Charlottesville City County,Virginia","Manassas Park City County,Virginia",6847,136735
+319,"Charlottesville City County,Virginia","Martinsville City County,Virginia",9518,233154
+320,"Charlottesville City County,Virginia","Newport News City County,Virginia",7789,224940
+321,"Charlottesville City County,Virginia","Norfolk City County,Virginia",9538,263870
+322,"Charlottesville City County,Virginia","Norton City County,Virginia",16854,468192
+323,"Charlottesville City County,Virginia","Petersburg City County,Virginia",5326,151866
+324,"Charlottesville City County,Virginia","Poquoson City County,Virginia",8461,235517
+325,"Charlottesville City County,Virginia","Portsmouth City County,Virginia",9478,272691
+326,"Charlottesville City County,Virginia","Radford County,Virginia",8674,247394
+327,"Charlottesville City County,Virginia","Richmond City County,Virginia",4194,115982
+328,"Charlottesville City County,Virginia","Roanoke City County,Virginia",6839,193930
+329,"Charlottesville City County,Virginia","Salem City County,Virginia",6669,192401
+330,"Charlottesville City County,Virginia","South Boston City County,Virginia",8215,187859
+331,"Charlottesville City County,Virginia","Staunton City County,Virginia",2725,63896
+332,"Charlottesville City County,Virginia","Suffolk City County,Virginia",9713,247472
+333,"Charlottesville City County,Virginia","Virginia Beach City County,Virginia",10099,287129
+334,"Charlottesville City County,Virginia","Waynesboro City County,Virginia",2001,45894
+335,"Charlottesville City County,Virginia","Williamsburg City County,Virginia",6833,197189
+336,"Charlottesville City County,Virginia","Winchester City County,Virginia",7403,211787
+337,"Charlottesville City County,Virginia","Barbour County,West Virginia",13528,280617
+338,"Charlottesville City County,Virginia","Berkeley County,West Virginia",9141,258995
+339,"Charlottesville City County,Virginia","Boone County,West Virginia",15034,388185
+340,"Charlottesville City County,Virginia","Braxton County,West Virginia",14732,368860
+341,"Charlottesville City County,Virginia","Brooke County,West Virginia",19268,491141
+342,"Charlottesville City County,Virginia","Cabell County,West Virginia",16602,484091
+343,"Charlottesville City County,Virginia","Calhoun County,West Virginia",16503,422811
+344,"Charlottesville City County,Virginia","Clay County,West Virginia",14767,359644
+345,"Charlottesville City County,Virginia","Doddridge County,West Virginia",16981,343018
+346,"Charlottesville City County,Virginia","Fayette County,West Virginia",12156,306383
+347,"Charlottesville City County,Virginia","Gilmer County,West Virginia",16300,418540
+348,"Charlottesville City County,Virginia","Grant County,West Virginia",9233,241482
+349,"Charlottesville City County,Virginia","Greenbrier County,West Virginia",10511,265608
+350,"Charlottesville City County,Virginia","Hampshire County,West Virginia",9260,229899
+351,"Charlottesville City County,Virginia","Hancock County,West Virginia",20894,518488
+352,"Charlottesville City County,Virginia","Hardy County,West Virginia",8480,212812
+353,"Charlottesville City County,Virginia","Harrison County,West Virginia",15625,345487
+354,"Charlottesville City County,Virginia","Jackson County,West Virginia",15921,463902
+355,"Charlottesville City County,Virginia","Jefferson County,West Virginia",9192,246401
+356,"Charlottesville City County,Virginia","Kanawha County,West Virginia",13684,385884
+357,"Charlottesville City County,Virginia","Lewis County,West Virginia",14669,312982
+358,"Charlottesville City County,Virginia","Lincoln County,West Virginia",17266,461769
+359,"Charlottesville City County,Virginia","Logan County,West Virginia",16825,418675
+360,"Charlottesville City County,Virginia","McDowell County,West Virginia",15204,393126
+361,"Charlottesville City County,Virginia","Marion County,West Virginia",16655,378331
+362,"Charlottesville City County,Virginia","Marshall County,West Virginia",20255,485585
+363,"Charlottesville City County,Virginia","Mason County,West Virginia",16077,469998
+364,"Charlottesville City County,Virginia","Mercer County,West Virginia",11919,329456
+365,"Charlottesville City County,Virginia","Mineral County,West Virginia",10706,253005
+366,"Charlottesville City County,Virginia","Mingo County,West Virginia",17404,482609
+367,"Charlottesville City County,Virginia","Monongalia County,West Virginia",14409,365741
+368,"Charlottesville City County,Virginia","Monroe County,West Virginia",9446,251929
+369,"Charlottesville City County,Virginia","Morgan County,West Virginia",9386,260121
+370,"Charlottesville City County,Virginia","Nicholas County,West Virginia",12351,319033
+371,"Charlottesville City County,Virginia","Ohio County,West Virginia",19174,500087
+372,"Charlottesville City County,Virginia","Pendleton County,West Virginia",7625,173504
+373,"Charlottesville City County,Virginia","Pleasants County,West Virginia",18423,421627
+374,"Charlottesville City County,Virginia","Pocahontas County,West Virginia",10084,201598
+375,"Charlottesville City County,Virginia","Preston County,West Virginia",13413,319933
+376,"Charlottesville City County,Virginia","Putnam County,West Virginia",14859,435616
+377,"Charlottesville City County,Virginia","Raleigh County,West Virginia",10709,311065
+378,"Charlottesville City County,Virginia","Randolph County,West Virginia",11543,234010
+379,"Charlottesville City County,Virginia","Ritchie County,West Virginia",18334,415929
+380,"Charlottesville City County,Virginia","Roane County,West Virginia",17546,492717
+381,"Charlottesville City County,Virginia","Summers County,West Virginia",11430,290943
+382,"Charlottesville City County,Virginia","Taylor County,West Virginia",13756,337754
+383,"Charlottesville City County,Virginia","Tucker County,West Virginia",11893,303129
+384,"Charlottesville City County,Virginia","Tyler County,West Virginia",19349,414293
+385,"Charlottesville City County,Virginia","Upshur County,West Virginia",14139,269653
+386,"Charlottesville City County,Virginia","Wayne County,West Virginia",18193,516718
+387,"Charlottesville City County,Virginia","Webster County,West Virginia",13971,281019
+388,"Charlottesville City County,Virginia","Wetzel County,West Virginia",18304,396969
+389,"Charlottesville City County,Virginia","Wirt County,West Virginia",18187,521240
+390,"Charlottesville City County,Virginia","Wood County,West Virginia",17702,522929
+391,"Charlottesville City County,Virginia","Wyoming County,West Virginia",12660,351038

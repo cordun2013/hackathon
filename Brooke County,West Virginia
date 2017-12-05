@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Brooke County,West Virginia","Adair County,Kentucky",25292,702514
+1,"Brooke County,West Virginia","Allen County,Kentucky",26048,755800
+2,"Brooke County,West Virginia","Anderson County,Kentucky",20274,581659
+3,"Brooke County,West Virginia","Ballard County,Kentucky",32208,947963
+4,"Brooke County,West Virginia","Barren County,Kentucky",25175,724213
+5,"Brooke County,West Virginia","Bath County,Kentucky",17959,528174
+6,"Brooke County,West Virginia","Bell County,Kentucky",25514,663990
+7,"Brooke County,West Virginia","Boone County,Kentucky",15742,432384
+8,"Brooke County,West Virginia","Bourbon County,Kentucky",19147,540927
+9,"Brooke County,West Virginia","Boyd County,Kentucky",14634,422499
+10,"Brooke County,West Virginia","Boyle County,Kentucky",21584,609548
+11,"Brooke County,West Virginia","Bracken County,Kentucky",17130,477920
+12,"Brooke County,West Virginia","Breathitt County,Kentucky",21345,569200
+13,"Brooke County,West Virginia","Breckinridge County,Kentucky",24088,674364
+14,"Brooke County,West Virginia","Bullitt County,Kentucky",20624,595196
+15,"Brooke County,West Virginia","Butler County,Kentucky",25428,732870
+16,"Brooke County,West Virginia","Caldwell County,Kentucky",28320,838816
+17,"Brooke County,West Virginia","Calloway County,Kentucky",31130,923808
+18,"Brooke County,West Virginia","Campbell County,Kentucky",15660,430869
+19,"Brooke County,West Virginia","Carlisle County,Kentucky",32665,963331
+20,"Brooke County,West Virginia","Carroll County,Kentucky",17316,494150
+21,"Brooke County,West Virginia","Carter County,Kentucky",15799,452596
+22,"Brooke County,West Virginia","Casey County,Kentucky",23508,639676
+23,"Brooke County,West Virginia","Christian County,Kentucky",27969,834072
+24,"Brooke County,West Virginia","Clay County,Kentucky",23844,656315
+25,"Brooke County,West Virginia","Clinton County,Kentucky",25747,729222
+26,"Brooke County,West Virginia","Crittenden County,Kentucky",29900,871886
+27,"Brooke County,West Virginia","Cumberland County,Kentucky",26501,747461
+28,"Brooke County,West Virginia","Daviess County,Kentucky",25401,737682
+29,"Brooke County,West Virginia","Edmonson County,Kentucky",24868,720745
+30,"Brooke County,West Virginia","Elliott County,Kentucky",17129,478366
+31,"Brooke County,West Virginia","Estill County,Kentucky",20951,590489
+32,"Brooke County,West Virginia","Fayette County,Kentucky",18522,534183
+33,"Brooke County,West Virginia","Fleming County,Kentucky",18173,460491
+34,"Brooke County,West Virginia","Floyd County,Kentucky",18767,529764
+35,"Brooke County,West Virginia","Franklin County,Kentucky",19756,537533
+36,"Brooke County,West Virginia","Fulton County,Kentucky",33069,984295
+37,"Brooke County,West Virginia","Gallatin County,Kentucky",16528,466563
+38,"Brooke County,West Virginia","Garrard County,Kentucky",21551,613542
+39,"Brooke County,West Virginia","Grant County,Kentucky",16595,467037
+40,"Brooke County,West Virginia","Graves County,Kentucky",31690,936037
+41,"Brooke County,West Virginia","Grayson County,Kentucky",23755,689506
+42,"Brooke County,West Virginia","Green County,Kentucky",24443,695502
+43,"Brooke County,West Virginia","Greenup County,Kentucky",15557,401845
+44,"Brooke County,West Virginia","Hancock County,Kentucky",24286,692201
+45,"Brooke County,West Virginia","Hardin County,Kentucky",22632,651639
+46,"Brooke County,West Virginia","Harlan County,Kentucky",24836,644306
+47,"Brooke County,West Virginia","Harrison County,Kentucky",18031,501099
+48,"Brooke County,West Virginia","Hart County,Kentucky",23431,679268
+49,"Brooke County,West Virginia","Henderson County,Kentucky",26985,780178
+50,"Brooke County,West Virginia","Henry County,Kentucky",18502,522473
+51,"Brooke County,West Virginia","Hickman County,Kentucky",32699,964623
+52,"Brooke County,West Virginia","Hopkins County,Kentucky",27779,813284
+53,"Brooke County,West Virginia","Jackson County,Kentucky",22536,633525
+54,"Brooke County,West Virginia","Jefferson County,Kentucky",19718,564632
+55,"Brooke County,West Virginia","Jessamine County,Kentucky",19783,557495
+56,"Brooke County,West Virginia","Johnson County,Kentucky",17415,495395
+57,"Brooke County,West Virginia","Kenton County,Kentucky",15387,425942
+58,"Brooke County,West Virginia","Knott County,Kentucky",19949,561645
+59,"Brooke County,West Virginia","Knox County,Kentucky",23955,692435
+60,"Brooke County,West Virginia","Larue County,Kentucky",22701,655238
+61,"Brooke County,West Virginia","Laurel County,Kentucky",22806,663829
+62,"Brooke County,West Virginia","Lawrence County,Kentucky",16557,466819
+63,"Brooke County,West Virginia","Lee County,Kentucky",21796,584226
+64,"Brooke County,West Virginia","Leslie County,Kentucky",23028,631319
+65,"Brooke County,West Virginia","Letcher County,Kentucky",21021,564585
+66,"Brooke County,West Virginia","Lewis County,Kentucky",16706,422771
+67,"Brooke County,West Virginia","Lincoln County,Kentucky",22261,630460
+68,"Brooke County,West Virginia","Livingston County,Kentucky",30495,888783
+69,"Brooke County,West Virginia","Logan County,Kentucky",27168,776109
+70,"Brooke County,West Virginia","Lyon County,Kentucky",30629,899173
+71,"Brooke County,West Virginia","McCracken County,Kentucky",30821,916022
+72,"Brooke County,West Virginia","McCreary County,Kentucky",24911,708271
+73,"Brooke County,West Virginia","Madison County,Kentucky",19945,577412
+74,"Brooke County,West Virginia","Magoffin County,Kentucky",18383,516074
+75,"Brooke County,West Virginia","Marion County,Kentucky",22281,634011
+76,"Brooke County,West Virginia","Marshall County,Kentucky",30235,899594
+77,"Brooke County,West Virginia","Martin County,Kentucky",18043,499163
+78,"Brooke County,West Virginia","Mason County,Kentucky",17709,441720
+79,"Brooke County,West Virginia","Meade County,Kentucky",22165,631872
+80,"Brooke County,West Virginia","Menifee County,Kentucky",19075,540238
+81,"Brooke County,West Virginia","Mercer County,Kentucky",20658,589722
+82,"Brooke County,West Virginia","Metcalfe County,Kentucky",25627,744306
+83,"Brooke County,West Virginia","Monroe County,Kentucky",26523,767888
+84,"Brooke County,West Virginia","Montgomery County,Kentucky",18771,546714
+85,"Brooke County,West Virginia","Morgan County,Kentucky",18853,515953
+86,"Brooke County,West Virginia","Muhlenberg County,Kentucky",26639,779760
+87,"Brooke County,West Virginia","Nelson County,Kentucky",21889,633083
+88,"Brooke County,West Virginia","Nicholas County,Kentucky",18895,477541
+89,"Brooke County,West Virginia","Ohio County,Kentucky",25552,747349
+90,"Brooke County,West Virginia","Oldham County,Kentucky",18617,535578
+91,"Brooke County,West Virginia","Owen County,Kentucky",17759,492952
+92,"Brooke County,West Virginia","Owsley County,Kentucky",22942,604203
+93,"Brooke County,West Virginia","Pendleton County,Kentucky",16536,452711
+94,"Brooke County,West Virginia","Perry County,Kentucky",21328,592203
+95,"Brooke County,West Virginia","Pike County,Kentucky",18323,494703
+96,"Brooke County,West Virginia","Powell County,Kentucky",20215,576460
+97,"Brooke County,West Virginia","Robertson County,Kentucky",18459,496704
+98,"Brooke County,West Virginia","Rockcastle County,Kentucky",21379,618554
+99,"Brooke County,West Virginia","Rowan County,Kentucky",17101,500381
+100,"Brooke County,West Virginia","Russell County,Kentucky",24944,709840
+101,"Brooke County,West Virginia","Scott County,Kentucky",17524,501557
+102,"Brooke County,West Virginia","Shelby County,Kentucky",19873,549463
+103,"Brooke County,West Virginia","Simpson County,Kentucky",26750,784166
+104,"Brooke County,West Virginia","Spencer County,Kentucky",20832,594252
+105,"Brooke County,West Virginia","Taylor County,Kentucky",23571,665507
+106,"Brooke County,West Virginia","Todd County,Kentucky",28404,800269
+107,"Brooke County,West Virginia","Trigg County,Kentucky",29383,860002
+108,"Brooke County,West Virginia","Trimble County,Kentucky",18215,517474
+109,"Brooke County,West Virginia","Union County,Kentucky",28704,810624
+110,"Brooke County,West Virginia","Warren County,Kentucky",25784,749114
+111,"Brooke County,West Virginia","Washington County,Kentucky",21899,618319
+112,"Brooke County,West Virginia","Wayne County,Kentucky",25120,706913
+113,"Brooke County,West Virginia","Webster County,Kentucky",28628,816800
+114,"Brooke County,West Virginia","Whitley County,Kentucky",23639,698314
+115,"Brooke County,West Virginia","Wolfe County,Kentucky",19948,539315
+116,"Brooke County,West Virginia","Woodford County,Kentucky",19135,549815
+117,"Brooke County,West Virginia","Adams County,Ohio",14907,388110
+118,"Brooke County,West Virginia","Allen County,Ohio",14656,391339
+119,"Brooke County,West Virginia","Ashland County,Ohio",9550,205911
+120,"Brooke County,West Virginia","Ashtabula County,Ohio",8492,222901
+121,"Brooke County,West Virginia","Athens County,Ohio",9945,265645
+122,"Brooke County,West Virginia","Auglaize County,Ohio",14269,395033
+123,"Brooke County,West Virginia","Belmont County,Ohio",2890,51800
+124,"Brooke County,West Virginia","Brown County,Ohio",15465,399277
+125,"Brooke County,West Virginia","Butler County,Ohio",14739,389764
+126,"Brooke County,West Virginia","Carroll County,Ohio",4160,71329
+127,"Brooke County,West Virginia","Champaign County,Ohio",12013,309927
+128,"Brooke County,West Virginia","Clark County,Ohio",10891,300499
+129,"Brooke County,West Virginia","Clermont County,Ohio",14546,406501
+130,"Brooke County,West Virginia","Clinton County,Ohio",12282,335781
+131,"Brooke County,West Virginia","Columbiana County,Ohio",4080,76729
+132,"Brooke County,West Virginia","Coshocton County,Ohio",7025,155950
+133,"Brooke County,West Virginia","Crawford County,Ohio",11258,269018
+134,"Brooke County,West Virginia","Cuyahoga County,Ohio",8647,220761
+135,"Brooke County,West Virginia","Darke County,Ohio",14467,398400
+136,"Brooke County,West Virginia","Defiance County,Ohio",16966,469724
+137,"Brooke County,West Virginia","Delaware County,Ohio",10167,276247
+138,"Brooke County,West Virginia","Fairfield County,Ohio",8262,213033
+139,"Brooke County,West Virginia","Fayette County,Ohio",10919,297831
+140,"Brooke County,West Virginia","Franklin County,Ohio",8862,240133
+141,"Brooke County,West Virginia","Fulton County,Ohio",15318,426575
+142,"Brooke County,West Virginia","Gallia County,Ohio",11827,305521
+143,"Brooke County,West Virginia","Geauga County,Ohio",8141,195580
+144,"Brooke County,West Virginia","Greene County,Ohio",11667,325997
+145,"Brooke County,West Virginia","Guernsey County,Ohio",4794,115309
+146,"Brooke County,West Virginia","Hamilton County,Ohio",14241,400341
+147,"Brooke County,West Virginia","Hancock County,Ohio",13288,331099
+148,"Brooke County,West Virginia","Hardin County,Ohio",13167,347168
+149,"Brooke County,West Virginia","Harrison County,Ohio",3374,73547
+150,"Brooke County,West Virginia","Henry County,Ohio",15772,416342
+151,"Brooke County,West Virginia","Highland County,Ohio",13353,338078
+152,"Brooke County,West Virginia","Hocking County,Ohio",10034,232656
+153,"Brooke County,West Virginia","Holmes County,Ohio",7313,155624
+154,"Brooke County,West Virginia","Huron County,Ohio",11447,247540
+155,"Brooke County,West Virginia","Jackson County,Ohio",12073,328699
+156,"Brooke County,West Virginia","Jefferson County,Ohio",2116,34821
+157,"Brooke County,West Virginia","Knox County,Ohio",8813,198426
+158,"Brooke County,West Virginia","Lawrence County,Ohio",14421,344911
+159,"Brooke County,West Virginia","Licking County,Ohio",8421,200797
+160,"Brooke County,West Virginia","Logan County,Ohio",12187,341446
+161,"Brooke County,West Virginia","Lorain County,Ohio",9699,250481
+162,"Brooke County,West Virginia","Lucas County,Ohio",14272,379425
+163,"Brooke County,West Virginia","Madison County,Ohio",10139,274855
+164,"Brooke County,West Virginia","Mahoning County,Ohio",4745,105607
+165,"Brooke County,West Virginia","Marion County,Ohio",11573,302340
+166,"Brooke County,West Virginia","Medina County,Ohio",8939,224055
+167,"Brooke County,West Virginia","Meigs County,Ohio",9910,258222
+168,"Brooke County,West Virginia","Mercer County,Ohio",15505,421966
+169,"Brooke County,West Virginia","Miami County,Ohio",12978,363832
+170,"Brooke County,West Virginia","Monroe County,Ohio",5549,102322
+171,"Brooke County,West Virginia","Montgomery County,Ohio",13239,369279
+172,"Brooke County,West Virginia","Morgan County,Ohio",7419,167384
+173,"Brooke County,West Virginia","Morrow County,Ohio",11001,242275
+174,"Brooke County,West Virginia","Muskingum County,Ohio",5639,143300
+175,"Brooke County,West Virginia","Noble County,Ohio",6178,142015
+176,"Brooke County,West Virginia","Paulding County,Ohio",16900,434452
+177,"Brooke County,West Virginia","Perry County,Ohio",7738,191243
+178,"Brooke County,West Virginia","Pickaway County,Ohio",9639,257711
+179,"Brooke County,West Virginia","Pike County,Ohio",12581,331914
+180,"Brooke County,West Virginia","Portage County,Ohio",6863,167977
+181,"Brooke County,West Virginia","Preble County,Ohio",14009,391990
+182,"Brooke County,West Virginia","Putnam County,Ohio",15486,390905
+183,"Brooke County,West Virginia","Richland County,Ohio",9905,219252
+184,"Brooke County,West Virginia","Ross County,Ohio",11325,298384
+185,"Brooke County,West Virginia","Sandusky County,Ohio",12560,338000
+186,"Brooke County,West Virginia","Scioto County,Ohio",13540,355369
+187,"Brooke County,West Virginia","Seneca County,Ohio",13291,347672
+188,"Brooke County,West Virginia","Shelby County,Ohio",13945,371693
+189,"Brooke County,West Virginia","Stark County,Ohio",6273,123675
+190,"Brooke County,West Virginia","Summit County,Ohio",7757,196572
+191,"Brooke County,West Virginia","Trumbull County,Ohio",6136,150357
+192,"Brooke County,West Virginia","Tuscarawas County,Ohio",4883,104830
+193,"Brooke County,West Virginia","Union County,Ohio",10691,291677
+194,"Brooke County,West Virginia","Van Wert County,Ohio",15597,401416
+195,"Brooke County,West Virginia","Vinton County,Ohio",11562,259571
+196,"Brooke County,West Virginia","Warren County,Ohio",12657,356310
+197,"Brooke County,West Virginia","Washington County,Ohio",7362,182960
+198,"Brooke County,West Virginia","Wayne County,Ohio",8060,170733
+199,"Brooke County,West Virginia","Williams County,Ohio",16563,458032
+200,"Brooke County,West Virginia","Wood County,Ohio",14457,386328
+201,"Brooke County,West Virginia","Wyandot County,Ohio",12258,295234
+202,"Brooke County,West Virginia","Accomack County,Virginia",27268,735087
+203,"Brooke County,West Virginia","Albemarle County,Virginia",18745,476147
+204,"Brooke County,West Virginia","Alleghany County,Virginia",16745,433056
+205,"Brooke County,West Virginia","Amelia County,Virginia",23799,607965
+206,"Brooke County,West Virginia","Amherst County,Virginia",21179,527053
+207,"Brooke County,West Virginia","Appomattox County,Virginia",22393,551682
+208,"Brooke County,West Virginia","Arlington County,Virginia",16132,452014
+209,"Brooke County,West Virginia","Augusta County,Virginia",18439,422321
+210,"Brooke County,West Virginia","Bath County,Virginia",17848,403965
+211,"Brooke County,West Virginia","Bedford County,Virginia",22731,568043
+212,"Brooke County,West Virginia","Bland County,Virginia",17280,471979
+213,"Brooke County,West Virginia","Botetourt County,Virginia",19899,504356
+214,"Brooke County,West Virginia","Brunswick County,Virginia",25140,720436
+215,"Brooke County,West Virginia","Buchanan County,Virginia",21275,556209
+216,"Brooke County,West Virginia","Buckingham County,Virginia",22054,541296
+217,"Brooke County,West Virginia","Campbell County,Virginia",22541,567185
+218,"Brooke County,West Virginia","Caroline County,Virginia",20137,571004
+219,"Brooke County,West Virginia","Carroll County,Virginia",19526,541417
+220,"Brooke County,West Virginia","Charles City County,Virginia",22607,642487
+221,"Brooke County,West Virginia","Charlotte County,Virginia",24375,600181
+222,"Brooke County,West Virginia","Chesterfield County,Virginia",22538,635404
+223,"Brooke County,West Virginia","Clarke County,Virginia",14245,352650
+224,"Brooke County,West Virginia","Craig County,Virginia",19962,526845
+225,"Brooke County,West Virginia","Culpeper County,Virginia",17565,452088
+226,"Brooke County,West Virginia","Cumberland County,Virginia",22788,566504
+227,"Brooke County,West Virginia","Dickenson County,Virginia",22421,584664
+228,"Brooke County,West Virginia","Dinwiddie County,Virginia",23778,680403
+229,"Brooke County,West Virginia","Essex County,Virginia",21539,595058
+230,"Brooke County,West Virginia","Fairfax County,Virginia",15823,442681
+231,"Brooke County,West Virginia","Fauquier County,Virginia",15995,418815
+232,"Brooke County,West Virginia","Floyd County,Virginia",21147,560381
+233,"Brooke County,West Virginia","Fluvanna County,Virginia",20423,528318
+234,"Brooke County,West Virginia","Franklin County,Virginia",22900,583465
+235,"Brooke County,West Virginia","Frederick County,Virginia",13034,327372
+236,"Brooke County,West Virginia","Giles County,Virginia",18011,483537
+237,"Brooke County,West Virginia","Gloucester County,Virginia",24778,696675
+238,"Brooke County,West Virginia","Goochland County,Virginia",21326,558929
+239,"Brooke County,West Virginia","Grayson County,Virginia",19929,531124
+240,"Brooke County,West Virginia","Greene County,Virginia",18359,437775
+241,"Brooke County,West Virginia","Greensville County,Virginia",25194,729155
+242,"Brooke County,West Virginia","Halifax County,Virginia",25861,638892
+243,"Brooke County,West Virginia","Hanover County,Virginia",20955,600496
+244,"Brooke County,West Virginia","Henrico County,Virginia",21754,623157
+245,"Brooke County,West Virginia","Henry County,Virginia",23399,628138
+246,"Brooke County,West Virginia","Highland County,Virginia",14986,356122
+247,"Brooke County,West Virginia","Isle of Wight County,Virginia",25889,731746
+248,"Brooke County,West Virginia","James City County,Virginia",23843,683258
+249,"Brooke County,West Virginia","King and Queen County,Virginia",22591,630319
+250,"Brooke County,West Virginia","King George County,Virginia",20098,554864
+251,"Brooke County,West Virginia","King William County,Virginia",21556,608116
+252,"Brooke County,West Virginia","Lancaster County,Virginia",23962,651052
+253,"Brooke County,West Virginia","Lee County,Virginia",23722,633180
+254,"Brooke County,West Virginia","Loudoun County,Virginia",15741,388516
+255,"Brooke County,West Virginia","Louisa County,Virginia",20172,515463
+256,"Brooke County,West Virginia","Lunenburg County,Virginia",25673,642901
+257,"Brooke County,West Virginia","Madison County,Virginia",17988,440347
+258,"Brooke County,West Virginia","Mathews County,Virginia",25673,695440
+259,"Brooke County,West Virginia","Mecklenburg County,Virginia",26867,768708
+260,"Brooke County,West Virginia","Middlesex County,Virginia",24043,659021
+261,"Brooke County,West Virginia","Montgomery County,Virginia",19094,511544
+262,"Brooke County,West Virginia","Nelson County,Virginia",19625,494648
+263,"Brooke County,West Virginia","New Kent County,Virginia",23279,657172
+264,"Brooke County,West Virginia","Northampton County,Virginia",28260,799921
+265,"Brooke County,West Virginia","Northumberland County,Virginia",24002,649564
+266,"Brooke County,West Virginia","Nottoway County,Virginia",24649,694984
+267,"Brooke County,West Virginia","Orange County,Virginia",18906,486587
+268,"Brooke County,West Virginia","Page County,Virginia",16618,400824
+269,"Brooke County,West Virginia","Patrick County,Virginia",21632,586452
+270,"Brooke County,West Virginia","Pittsylvania County,Virginia",25110,638813
+271,"Brooke County,West Virginia","Powhatan County,Virginia",22580,584151
+272,"Brooke County,West Virginia","Prince Edward County,Virginia",23595,595120
+273,"Brooke County,West Virginia","Prince George County,Virginia",23424,671000
+274,"Brooke County,West Virginia","Prince William County,Virginia",16095,424919
+275,"Brooke County,West Virginia","Pulaski County,Virginia",19189,507876
+276,"Brooke County,West Virginia","Rappahannock County,Virginia",16306,403953
+277,"Brooke County,West Virginia","Richmond County,Virginia",22702,622208
+278,"Brooke County,West Virginia","Roanoke County,Virginia",20714,554338
+279,"Brooke County,West Virginia","Rockbridge County,Virginia",19078,501413
+280,"Brooke County,West Virginia","Rockingham County,Virginia",14790,368756
+281,"Brooke County,West Virginia","Russell County,Virginia",21089,552159
+282,"Brooke County,West Virginia","Scott County,Virginia",23753,620286
+283,"Brooke County,West Virginia","Shenandoah County,Virginia",14926,389762
+284,"Brooke County,West Virginia","Smyth County,Virginia",19638,537331
+285,"Brooke County,West Virginia","Southampton County,Virginia",25572,725269
+286,"Brooke County,West Virginia","Spotsylvania County,Virginia",19509,539263
+287,"Brooke County,West Virginia","Stafford County,Virginia",17797,505968
+288,"Brooke County,West Virginia","Surry County,Virginia",24536,692694
+289,"Brooke County,West Virginia","Sussex County,Virginia",24236,695512
+290,"Brooke County,West Virginia","Tazewell County,Virginia",18096,490567
+291,"Brooke County,West Virginia","Warren County,Virginia",14849,375310
+292,"Brooke County,West Virginia","Washington County,Virginia",21031,576798
+293,"Brooke County,West Virginia","Westmoreland County,Virginia",21066,573665
+294,"Brooke County,West Virginia","Wise County,Virginia",20686,560563
+295,"Brooke County,West Virginia","Wythe County,Virginia",17885,490196
+296,"Brooke County,West Virginia","York County,Virginia",25131,714032
+297,"Brooke County,West Virginia","Alexandria City County,Virginia",16648,469196
+298,"Brooke County,West Virginia","Bedford City County,Virginia",21764,551190
+299,"Brooke County,West Virginia","Bristol City County,Virginia",21506,602515
+300,"Brooke County,West Virginia","Buena Vista City County,Virginia",19215,493366
+301,"Brooke County,West Virginia","Charlottesville City County,Virginia",19214,491361
+302,"Brooke County,West Virginia","Chesapeake City County,Virginia",26594,766938
+303,"Brooke County,West Virginia","Clifton Forge City County,Virginia",17289,453263
+304,"Brooke County,West Virginia","Colonial Heights City County,Virginia",22591,645864
+305,"Brooke County,West Virginia","Covington City County,Virginia",16814,436642
+306,"Brooke County,West Virginia","Danville City County,Virginia",25557,682594
+307,"Brooke County,West Virginia","Emporia City County,Virginia",24902,715748
+308,"Brooke County,West Virginia","Fairfax City County,Virginia",16293,454314
+309,"Brooke County,West Virginia","Falls Church City County,Virginia",15840,446326
+310,"Brooke County,West Virginia","Franklin City County,Virginia",26119,733124
+311,"Brooke County,West Virginia","Fredericksburg City County,Virginia",18610,521559
+312,"Brooke County,West Virginia","Galax City County,Virginia",20150,547283
+313,"Brooke County,West Virginia","Hampton City County,Virginia",25081,723738
+314,"Brooke County,West Virginia","Harrisonburg City County,Virginia",15848,387431
+315,"Brooke County,West Virginia","Hopewell City County,Virginia",22355,645901
+316,"Brooke County,West Virginia","Lexington City County,Virginia",19067,503881
+317,"Brooke County,West Virginia","Lynchburg City County,Virginia",21727,547109
+318,"Brooke County,West Virginia","Manassas City County,Virginia",16322,429863
+319,"Brooke County,West Virginia","Manassas Park City County,Virginia",16824,436207
+320,"Brooke County,West Virginia","Martinsville City County,Virginia",23927,636931
+321,"Brooke County,West Virginia","Newport News City County,Virginia",24638,710224
+322,"Brooke County,West Virginia","Norfolk City County,Virginia",26387,749154
+323,"Brooke County,West Virginia","Norton City County,Virginia",21315,572375
+324,"Brooke County,West Virginia","Petersburg City County,Virginia",22462,646852
+325,"Brooke County,West Virginia","Poquoson City County,Virginia",25310,720801
+326,"Brooke County,West Virginia","Portsmouth City County,Virginia",26327,757975
+327,"Brooke County,West Virginia","Radford County,Virginia",19502,509585
+328,"Brooke County,West Virginia","Richmond City County,Virginia",21330,610967
+329,"Brooke County,West Virginia","Roanoke City County,Virginia",20796,533824
+330,"Brooke County,West Virginia","Salem City County,Virginia",20626,532295
+331,"Brooke County,West Virginia","South Boston City County,Virginia",25865,637710
+332,"Brooke County,West Virginia","Staunton City County,Virginia",17436,435601
+333,"Brooke County,West Virginia","Suffolk City County,Virginia",26732,746470
+334,"Brooke County,West Virginia","Virginia Beach City County,Virginia",26948,772413
+335,"Brooke County,West Virginia","Waynesboro City County,Virginia",17833,445451
+336,"Brooke County,West Virginia","Williamsburg City County,Virginia",23682,682473
+337,"Brooke County,West Virginia","Winchester City County,Virginia",13173,331175
+338,"Brooke County,West Virginia","Barbour County,West Virginia",8113,199033
+339,"Brooke County,West Virginia","Berkeley County,West Virginia",12587,330031
+340,"Brooke County,West Virginia","Boone County,West Virginia",14497,383850
+341,"Brooke County,West Virginia","Braxton County,West Virginia",10320,256687
+342,"Brooke County,West Virginia","Cabell County,West Virginia",14225,359510
+343,"Brooke County,West Virginia","Calhoun County,West Virginia",11588,280824
+344,"Brooke County,West Virginia","Clay County,West Virginia",12006,321711
+345,"Brooke County,West Virginia","Doddridge County,West Virginia",8392,210607
+346,"Brooke County,West Virginia","Fayette County,West Virginia",12785,341629
+347,"Brooke County,West Virginia","Gilmer County,West Virginia",10124,256045
+348,"Brooke County,West Virginia","Grant County,West Virginia",10962,260840
+349,"Brooke County,West Virginia","Greenbrier County,West Virginia",15987,377188
+350,"Brooke County,West Virginia","Hampshire County,West Virginia",11841,291635
+351,"Brooke County,West Virginia","Hancock County,West Virginia",3122,44427
+352,"Brooke County,West Virginia","Hardy County,West Virginia",12048,293441
+353,"Brooke County,West Virginia","Harrison County,West Virginia",6829,172234
+354,"Brooke County,West Virginia","Jackson County,West Virginia",9801,265470
+355,"Brooke County,West Virginia","Jefferson County,West Virginia",14053,386029
+356,"Brooke County,West Virginia","Kanawha County,West Virginia",12972,352019
+357,"Brooke County,West Virginia","Lewis County,West Virginia",8025,205675
+358,"Brooke County,West Virginia","Lincoln County,West Virginia",14754,378437
+359,"Brooke County,West Virginia","Logan County,West Virginia",15426,420969
+360,"Brooke County,West Virginia","McDowell County,West Virginia",18870,466239
+361,"Brooke County,West Virginia","Marion County,West Virginia",6315,146147
+362,"Brooke County,West Virginia","Marshall County,West Virginia",4178,62940
+363,"Brooke County,West Virginia","Mason County,West Virginia",11565,309524
+364,"Brooke County,West Virginia","Mercer County,West Virginia",15834,430486
+365,"Brooke County,West Virginia","Mineral County,West Virginia",10721,266186
+366,"Brooke County,West Virginia","Mingo County,West Virginia",15471,425476
+367,"Brooke County,West Virginia","Monongalia County,West Virginia",5243,130878
+368,"Brooke County,West Virginia","Monroe County,West Virginia",17595,438256
+369,"Brooke County,West Virginia","Morgan County,West Virginia",12078,319423
+370,"Brooke County,West Virginia","Nicholas County,West Virginia",11305,306333
+371,"Brooke County,West Virginia","Ohio County,West Virginia",1951,25840
+372,"Brooke County,West Virginia","Pendleton County,West Virginia",13290,315403
+373,"Brooke County,West Virginia","Pleasants County,West Virginia",7505,147575
+374,"Brooke County,West Virginia","Pocahontas County,West Virginia",14791,338786
+375,"Brooke County,West Virginia","Preston County,West Virginia",7480,162663
+376,"Brooke County,West Virginia","Putnam County,West Virginia",12347,352284
+377,"Brooke County,West Virginia","Raleigh County,West Virginia",14375,384178
+378,"Brooke County,West Virginia","Randolph County,West Virginia",10177,255681
+379,"Brooke County,West Virginia","Ritchie County,West Virginia",8878,172798
+380,"Brooke County,West Virginia","Roane County,West Virginia",11426,294285
+381,"Brooke County,West Virginia","Summers County,West Virginia",17581,414624
+382,"Brooke County,West Virginia","Taylor County,West Virginia",6400,150184
+383,"Brooke County,West Virginia","Tucker County,West Virginia",9626,209625
+384,"Brooke County,West Virginia","Tyler County,West Virginia",6540,117643
+385,"Brooke County,West Virginia","Upshur County,West Virginia",9152,230122
+386,"Brooke County,West Virginia","Wayne County,West Virginia",15681,433386
+387,"Brooke County,West Virginia","Webster County,West Virginia",12527,302509
+388,"Brooke County,West Virginia","Wetzel County,West Virginia",6638,120377
+389,"Brooke County,West Virginia","Wirt County,West Virginia",9045,229933
+390,"Brooke County,West Virginia","Wood County,West Virginia",7807,205130
+391,"Brooke County,West Virginia","Wyoming County,West Virginia",16326,424151

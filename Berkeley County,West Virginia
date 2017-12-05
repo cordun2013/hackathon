@@ -1,0 +1,393 @@
+,origin,destination,seconds,meters
+0,"Berkeley County,West Virginia","Adair County,Kentucky",31404,898043
+1,"Berkeley County,West Virginia","Allen County,Kentucky",34022,998691
+2,"Berkeley County,West Virginia","Anderson County,Kentucky",27204,801083
+3,"Berkeley County,West Virginia","Ballard County,Kentucky",40182,1190854
+4,"Berkeley County,West Virginia","Barren County,Kentucky",33149,957071
+5,"Berkeley County,West Virginia","Bath County,Kentucky",22851,672264
+6,"Berkeley County,West Virginia","Bell County,Kentucky",26656,725373
+7,"Berkeley County,West Virginia","Boone County,Kentucky",26271,748846
+8,"Berkeley County,West Virginia","Bourbon County,Kentucky",24765,718681
+9,"Berkeley County,West Virginia","Boyd County,Kentucky",19527,566588
+10,"Berkeley County,West Virginia","Boyle County,Kentucky",28433,804969
+11,"Berkeley County,West Virginia","Bracken County,Kentucky",25176,712764
+12,"Berkeley County,West Virginia","Breathitt County,Kentucky",26238,713290
+13,"Berkeley County,West Virginia","Breckinridge County,Kentucky",32737,953764
+14,"Berkeley County,West Virginia","Bullitt County,Kentucky",29307,874883
+15,"Berkeley County,West Virginia","Butler County,Kentucky",33402,975762
+16,"Berkeley County,West Virginia","Caldwell County,Kentucky",36294,1081707
+17,"Berkeley County,West Virginia","Calloway County,Kentucky",39104,1166699
+18,"Berkeley County,West Virginia","Campbell County,Kentucky",26188,747331
+19,"Berkeley County,West Virginia","Carlisle County,Kentucky",40639,1206222
+20,"Berkeley County,West Virginia","Carroll County,Kentucky",27844,810611
+21,"Berkeley County,West Virginia","Carter County,Kentucky",20691,596685
+22,"Berkeley County,West Virginia","Casey County,Kentucky",29927,836474
+23,"Berkeley County,West Virginia","Christian County,Kentucky",35943,1076964
+24,"Berkeley County,West Virginia","Clay County,Kentucky",28736,800405
+25,"Berkeley County,West Virginia","Clinton County,Kentucky",31811,901409
+26,"Berkeley County,West Virginia","Crittenden County,Kentucky",37874,1114777
+27,"Berkeley County,West Virginia","Cumberland County,Kentucky",32565,919648
+28,"Berkeley County,West Virginia","Daviess County,Kentucky",34425,1022204
+29,"Berkeley County,West Virginia","Edmonson County,Kentucky",32842,963636
+30,"Berkeley County,West Virginia","Elliott County,Kentucky",22022,622455
+31,"Berkeley County,West Virginia","Estill County,Kentucky",25843,734579
+32,"Berkeley County,West Virginia","Fayette County,Kentucky",25011,738575
+33,"Berkeley County,West Virginia","Fleming County,Kentucky",23277,675449
+34,"Berkeley County,West Virginia","Floyd County,Kentucky",23659,673853
+35,"Berkeley County,West Virginia","Franklin County,Kentucky",27048,787492
+36,"Berkeley County,West Virginia","Fulton County,Kentucky",41043,1227186
+37,"Berkeley County,West Virginia","Gallatin County,Kentucky",27056,783025
+38,"Berkeley County,West Virginia","Garrard County,Kentucky",27616,785729
+39,"Berkeley County,West Virginia","Grant County,Kentucky",27123,783499
+40,"Berkeley County,West Virginia","Graves County,Kentucky",39664,1178928
+41,"Berkeley County,West Virginia","Grayson County,Kentucky",31729,932398
+42,"Berkeley County,West Virginia","Green County,Kentucky",31509,897603
+43,"Berkeley County,West Virginia","Greenup County,Kentucky",21302,607715
+44,"Berkeley County,West Virginia","Hancock County,Kentucky",33533,986657
+45,"Berkeley County,West Virginia","Hardin County,Kentucky",30605,894530
+46,"Berkeley County,West Virginia","Harlan County,Kentucky",25731,702000
+47,"Berkeley County,West Virginia","Harrison County,Kentucky",26335,751781
+48,"Berkeley County,West Virginia","Hart County,Kentucky",31405,922159
+49,"Berkeley County,West Virginia","Henderson County,Kentucky",36231,1074634
+50,"Berkeley County,West Virginia","Henry County,Kentucky",28650,831210
+51,"Berkeley County,West Virginia","Hickman County,Kentucky",40673,1207514
+52,"Berkeley County,West Virginia","Hopkins County,Kentucky",35753,1056175
+53,"Berkeley County,West Virginia","Jackson County,Kentucky",28516,782588
+54,"Berkeley County,West Virginia","Jefferson County,Kentucky",28743,846744
+55,"Berkeley County,West Virginia","Jessamine County,Kentucky",26480,760039
+56,"Berkeley County,West Virginia","Johnson County,Kentucky",22308,639484
+57,"Berkeley County,West Virginia","Kenton County,Kentucky",25916,742404
+58,"Berkeley County,West Virginia","Knott County,Kentucky",24841,705735
+59,"Berkeley County,West Virginia","Knox County,Kentucky",27986,767366
+60,"Berkeley County,West Virginia","Larue County,Kentucky",30677,881706
+61,"Berkeley County,West Virginia","Laurel County,Kentucky",28870,836016
+62,"Berkeley County,West Virginia","Lawrence County,Kentucky",21450,610908
+63,"Berkeley County,West Virginia","Lee County,Kentucky",26688,728316
+64,"Berkeley County,West Virginia","Leslie County,Kentucky",27193,730279
+65,"Berkeley County,West Virginia","Letcher County,Kentucky",24221,667433
+66,"Berkeley County,West Virginia","Lewis County,Kentucky",22729,648503
+67,"Berkeley County,West Virginia","Lincoln County,Kentucky",28326,802647
+68,"Berkeley County,West Virginia","Livingston County,Kentucky",38469,1131674
+69,"Berkeley County,West Virginia","Logan County,Kentucky",35142,1019000
+70,"Berkeley County,West Virginia","Lyon County,Kentucky",38603,1142064
+71,"Berkeley County,West Virginia","McCracken County,Kentucky",38795,1158914
+72,"Berkeley County,West Virginia","McCreary County,Kentucky",29610,860127
+73,"Berkeley County,West Virginia","Madison County,Kentucky",26009,749599
+74,"Berkeley County,West Virginia","Magoffin County,Kentucky",23276,660163
+75,"Berkeley County,West Virginia","Marion County,Kentucky",29055,843315
+76,"Berkeley County,West Virginia","Marshall County,Kentucky",38209,1142485
+77,"Berkeley County,West Virginia","Martin County,Kentucky",22935,643253
+78,"Berkeley County,West Virginia","Mason County,Kentucky",24525,692310
+79,"Berkeley County,West Virginia","Meade County,Kentucky",31204,919059
+80,"Berkeley County,West Virginia","Menifee County,Kentucky",23967,684327
+81,"Berkeley County,West Virginia","Mercer County,Kentucky",27431,799026
+82,"Berkeley County,West Virginia","Metcalfe County,Kentucky",32060,928308
+83,"Berkeley County,West Virginia","Monroe County,Kentucky",34044,974371
+84,"Berkeley County,West Virginia","Montgomery County,Kentucky",23664,690804
+85,"Berkeley County,West Virginia","Morgan County,Kentucky",23745,660043
+86,"Berkeley County,West Virginia","Muhlenberg County,Kentucky",34613,1022651
+87,"Berkeley County,West Virginia","Nelson County,Kentucky",28663,842387
+88,"Berkeley County,West Virginia","Nicholas County,Kentucky",25342,718688
+89,"Berkeley County,West Virginia","Ohio County,Kentucky",33526,990241
+90,"Berkeley County,West Virginia","Oldham County,Kentucky",28815,858625
+91,"Berkeley County,West Virginia","Owen County,Kentucky",27870,814269
+92,"Berkeley County,West Virginia","Owsley County,Kentucky",27835,748292
+93,"Berkeley County,West Virginia","Pendleton County,Kentucky",27113,753688
+94,"Berkeley County,West Virginia","Perry County,Kentucky",26221,736293
+95,"Berkeley County,West Virginia","Pike County,Kentucky",23215,638792
+96,"Berkeley County,West Virginia","Powell County,Kentucky",25108,720550
+97,"Berkeley County,West Virginia","Robertson County,Kentucky",25260,718194
+98,"Berkeley County,West Virginia","Rockcastle County,Kentucky",27443,790741
+99,"Berkeley County,West Virginia","Rowan County,Kentucky",21994,644471
+100,"Berkeley County,West Virginia","Russell County,Kentucky",31009,882027
+101,"Berkeley County,West Virginia","Scott County,Kentucky",25845,766602
+102,"Berkeley County,West Virginia","Shelby County,Kentucky",27672,817878
+103,"Berkeley County,West Virginia","Simpson County,Kentucky",34724,1027057
+104,"Berkeley County,West Virginia","Spencer County,Kentucky",28202,823726
+105,"Berkeley County,West Virginia","Taylor County,Kentucky",30344,874811
+106,"Berkeley County,West Virginia","Todd County,Kentucky",36378,1043160
+107,"Berkeley County,West Virginia","Trigg County,Kentucky",37356,1102893
+108,"Berkeley County,West Virginia","Trimble County,Kentucky",28743,833936
+109,"Berkeley County,West Virginia","Union County,Kentucky",37951,1105080
+110,"Berkeley County,West Virginia","Warren County,Kentucky",33758,992006
+111,"Berkeley County,West Virginia","Washington County,Kentucky",28673,827623
+112,"Berkeley County,West Virginia","Wayne County,Kentucky",31184,879100
+113,"Berkeley County,West Virginia","Webster County,Kentucky",36862,1084264
+114,"Berkeley County,West Virginia","Whitley County,Kentucky",28214,844890
+115,"Berkeley County,West Virginia","Wolfe County,Kentucky",24840,683405
+116,"Berkeley County,West Virginia","Woodford County,Kentucky",26065,769238
+117,"Berkeley County,West Virginia","Adams County,Ohio",22115,605693
+118,"Berkeley County,West Virginia","Allen County,Ohio",24261,689364
+119,"Berkeley County,West Virginia","Ashland County,Ohio",18810,516054
+120,"Berkeley County,West Virginia","Ashtabula County,Ohio",16848,471966
+121,"Berkeley County,West Virginia","Athens County,Ohio",16511,453203
+122,"Berkeley County,West Virginia","Auglaize County,Ohio",24797,711494
+123,"Berkeley County,West Virginia","Belmont County,Ohio",13418,368262
+124,"Berkeley County,West Virginia","Brown County,Ohio",23539,638553
+125,"Berkeley County,West Virginia","Butler County,Ohio",25267,706225
+126,"Berkeley County,West Virginia","Carroll County,Ohio",15364,384187
+127,"Berkeley County,West Virginia","Champaign County,Ohio",22541,626389
+128,"Berkeley County,West Virginia","Clark County,Ohio",21419,616960
+129,"Berkeley County,West Virginia","Clermont County,Ohio",24193,663716
+130,"Berkeley County,West Virginia","Clinton County,Ohio",22810,652242
+131,"Berkeley County,West Virginia","Columbiana County,Ohio",14151,366204
+132,"Berkeley County,West Virginia","Coshocton County,Ohio",17775,493711
+133,"Berkeley County,West Virginia","Crawford County,Ohio",20718,587248
+134,"Berkeley County,West Virginia","Cuyahoga County,Ohio",16844,469810
+135,"Berkeley County,West Virginia","Darke County,Ohio",24995,714862
+136,"Berkeley County,West Virginia","Defiance County,Ohio",25163,718774
+137,"Berkeley County,West Virginia","Delaware County,Ohio",20695,592709
+138,"Berkeley County,West Virginia","Fairfield County,Ohio",18790,529494
+139,"Berkeley County,West Virginia","Fayette County,Ohio",21447,614293
+140,"Berkeley County,West Virginia","Franklin County,Ohio",19390,556595
+141,"Berkeley County,West Virginia","Fulton County,Ohio",23515,675625
+142,"Berkeley County,West Virginia","Gallia County,Ohio",18393,493079
+143,"Berkeley County,West Virginia","Geauga County,Ohio",16338,444629
+144,"Berkeley County,West Virginia","Greene County,Ohio",22195,642458
+145,"Berkeley County,West Virginia","Guernsey County,Ohio",15322,431771
+146,"Berkeley County,West Virginia","Hamilton County,Ohio",24769,716803
+147,"Berkeley County,West Virginia","Hancock County,Ohio",22749,649329
+148,"Berkeley County,West Virginia","Hardin County,Ohio",23404,651920
+149,"Berkeley County,West Virginia","Harrison County,Ohio",14578,386405
+150,"Berkeley County,West Virginia","Henry County,Ohio",23969,665392
+151,"Berkeley County,West Virginia","Highland County,Ohio",22652,605706
+152,"Berkeley County,West Virginia","Hocking County,Ohio",18136,499106
+153,"Berkeley County,West Virginia","Holmes County,Ohio",18517,468482
+154,"Berkeley County,West Virginia","Huron County,Ohio",20086,545659
+155,"Berkeley County,West Virginia","Jackson County,Ohio",18639,516257
+156,"Berkeley County,West Virginia","Jefferson County,Ohio",13320,347678
+157,"Berkeley County,West Virginia","Knox County,Ohio",19564,536187
+158,"Berkeley County,West Virginia","Lawrence County,Ohio",20666,571645
+159,"Berkeley County,West Virginia","Licking County,Ohio",18949,517259
+160,"Berkeley County,West Virginia","Logan County,Ohio",22716,657907
+161,"Berkeley County,West Virginia","Lorain County,Ohio",17896,499531
+162,"Berkeley County,West Virginia","Lucas County,Ohio",22469,628475
+163,"Berkeley County,West Virginia","Madison County,Ohio",20668,591316
+164,"Berkeley County,West Virginia","Mahoning County,Ohio",13334,361958
+165,"Berkeley County,West Virginia","Marion County,Ohio",21747,604232
+166,"Berkeley County,West Virginia","Medina County,Ohio",17442,483173
+167,"Berkeley County,West Virginia","Meigs County,Ohio",16476,445780
+168,"Berkeley County,West Virginia","Mercer County,Ohio",26033,738428
+169,"Berkeley County,West Virginia","Miami County,Ohio",23506,680294
+170,"Berkeley County,West Virginia","Monroe County,Ohio",15851,414945
+171,"Berkeley County,West Virginia","Montgomery County,Ohio",23767,685741
+172,"Berkeley County,West Virginia","Morgan County,Ohio",16954,455550
+173,"Berkeley County,West Virginia","Morrow County,Ohio",20447,577507
+174,"Berkeley County,West Virginia","Muskingum County,Ohio",16168,459762
+175,"Berkeley County,West Virginia","Noble County,Ohio",16434,453076
+176,"Berkeley County,West Virginia","Paulding County,Ohio",26368,754761
+177,"Berkeley County,West Virginia","Perry County,Ohio",18267,507705
+178,"Berkeley County,West Virginia","Pickaway County,Ohio",20167,574172
+179,"Berkeley County,West Virginia","Pike County,Ohio",20085,555564
+180,"Berkeley County,West Virginia","Portage County,Ohio",15189,417972
+181,"Berkeley County,West Virginia","Preble County,Ohio",24537,708452
+182,"Berkeley County,West Virginia","Putnam County,Ohio",24947,709135
+183,"Berkeley County,West Virginia","Richland County,Ohio",19366,537482
+184,"Berkeley County,West Virginia","Ross County,Ohio",20364,564071
+185,"Berkeley County,West Virginia","Sandusky County,Ohio",20757,587049
+186,"Berkeley County,West Virginia","Scioto County,Ohio",20723,571635
+187,"Berkeley County,West Virginia","Seneca County,Ohio",21488,596721
+188,"Berkeley County,West Virginia","Shelby County,Ohio",24474,688155
+189,"Berkeley County,West Virginia","Stark County,Ohio",15969,414105
+190,"Berkeley County,West Virginia","Summit County,Ohio",16083,446566
+191,"Berkeley County,West Virginia","Trumbull County,Ohio",14492,399422
+192,"Berkeley County,West Virginia","Tuscarawas County,Ohio",16087,417688
+193,"Berkeley County,West Virginia","Union County,Ohio",21220,608138
+194,"Berkeley County,West Virginia","Van Wert County,Ohio",25058,719646
+195,"Berkeley County,West Virginia","Vinton County,Ohio",18629,501644
+196,"Berkeley County,West Virginia","Warren County,Ohio",23185,672771
+197,"Berkeley County,West Virginia","Washington County,Ohio",15292,411013
+198,"Berkeley County,West Virginia","Wayne County,Ohio",18548,501984
+199,"Berkeley County,West Virginia","Williams County,Ohio",24760,707081
+200,"Berkeley County,West Virginia","Wood County,Ohio",22654,635378
+201,"Berkeley County,West Virginia","Wyandot County,Ohio",21719,613465
+202,"Berkeley County,West Virginia","Accomack County,Virginia",17434,444058
+203,"Berkeley County,West Virginia","Albemarle County,Virginia",8878,247999
+204,"Berkeley County,West Virginia","Alleghany County,Virginia",11640,335007
+205,"Berkeley County,West Virginia","Amelia County,Virginia",13471,332942
+206,"Berkeley County,West Virginia","Amherst County,Virginia",11312,298906
+207,"Berkeley County,West Virginia","Appomattox County,Virginia",12526,323534
+208,"Berkeley County,West Virginia","Arlington County,Virginia",6298,160985
+209,"Berkeley County,West Virginia","Augusta County,Virginia",8316,225252
+210,"Berkeley County,West Virginia","Bath County,Virginia",10937,261917
+211,"Berkeley County,West Virginia","Bedford County,Virginia",13456,343421
+212,"Berkeley County,West Virginia","Bland County,Virginia",15922,464691
+213,"Berkeley County,West Virginia","Botetourt County,Virginia",10947,305944
+214,"Berkeley County,West Virginia","Brunswick County,Virginia",14773,383527
+215,"Berkeley County,West Virginia","Buchanan County,Virginia",21679,599150
+216,"Berkeley County,West Virginia","Buckingham County,Virginia",12187,313148
+217,"Berkeley County,West Virginia","Campbell County,Virginia",12674,339038
+218,"Berkeley County,West Virginia","Caroline County,Virginia",9770,234095
+219,"Berkeley County,West Virginia","Carroll County,Virginia",16044,470107
+220,"Berkeley County,West Virginia","Charles City County,Virginia",12240,305578
+221,"Berkeley County,West Virginia","Charlotte County,Virginia",14508,372034
+222,"Berkeley County,West Virginia","Chesterfield County,Virginia",12171,298495
+223,"Berkeley County,West Virginia","Clarke County,Virginia",3351,72706
+224,"Berkeley County,West Virginia","Craig County,Virginia",13788,362271
+225,"Berkeley County,West Virginia","Culpeper County,Virginia",6835,156711
+226,"Berkeley County,West Virginia","Cumberland County,Virginia",12921,338356
+227,"Berkeley County,West Virginia","Dickenson County,Virginia",22389,617327
+228,"Berkeley County,West Virginia","Dinwiddie County,Virginia",13411,343494
+229,"Berkeley County,West Virginia","Essex County,Virginia",11172,258149
+230,"Berkeley County,West Virginia","Fairfax County,Virginia",5927,124755
+231,"Berkeley County,West Virginia","Fauquier County,Virginia",5265,123438
+232,"Berkeley County,West Virginia","Floyd County,Virginia",14571,411654
+233,"Berkeley County,West Virginia","Fluvanna County,Virginia",10556,300171
+234,"Berkeley County,West Virginia","Franklin County,Virginia",13909,390099
+235,"Berkeley County,West Virginia","Frederick County,Virginia",2835,62738
+236,"Berkeley County,West Virginia","Giles County,Virginia",14711,419806
+237,"Berkeley County,West Virginia","Gloucester County,Virginia",14411,359766
+238,"Berkeley County,West Virginia","Goochland County,Virginia",11258,259365
+239,"Berkeley County,West Virginia","Grayson County,Virginia",17376,486287
+240,"Berkeley County,West Virginia","Greene County,Virginia",8460,195073
+241,"Berkeley County,West Virginia","Greensville County,Virginia",14827,392246
+242,"Berkeley County,West Virginia","Halifax County,Virginia",15994,410744
+243,"Berkeley County,West Virginia","Hanover County,Virginia",10588,263587
+244,"Berkeley County,West Virginia","Henrico County,Virginia",11387,286248
+245,"Berkeley County,West Virginia","Henry County,Virginia",15318,425061
+246,"Berkeley County,West Virginia","Highland County,Virginia",11068,259807
+247,"Berkeley County,West Virginia","Isle of Wight County,Virginia",15522,394837
+248,"Berkeley County,West Virginia","James City County,Virginia",13476,346349
+249,"Berkeley County,West Virginia","King and Queen County,Virginia",12223,293410
+250,"Berkeley County,West Virginia","King George County,Virginia",9692,217591
+251,"Berkeley County,West Virginia","King William County,Virginia",11189,271207
+252,"Berkeley County,West Virginia","Lancaster County,Virginia",13595,314143
+253,"Berkeley County,West Virginia","Lee County,Virginia",22883,648981
+254,"Berkeley County,West Virginia","Loudoun County,Virginia",4346,83603
+255,"Berkeley County,West Virginia","Louisa County,Virginia",9443,220086
+256,"Berkeley County,West Virginia","Lunenburg County,Virginia",15806,414754
+257,"Berkeley County,West Virginia","Madison County,Virginia",7338,164174
+258,"Berkeley County,West Virginia","Mathews County,Virginia",15306,358531
+259,"Berkeley County,West Virginia","Mecklenburg County,Virginia",16500,431799
+260,"Berkeley County,West Virginia","Middlesex County,Virginia",13675,322112
+261,"Berkeley County,West Virginia","Montgomery County,Virginia",13275,384077
+262,"Berkeley County,West Virginia","Nelson County,Virginia",9758,266500
+263,"Berkeley County,West Virginia","New Kent County,Virginia",12912,320262
+264,"Berkeley County,West Virginia","Northampton County,Virginia",17893,463012
+265,"Berkeley County,West Virginia","Northumberland County,Virginia",13634,312655
+266,"Berkeley County,West Virginia","Nottoway County,Virginia",14282,358075
+267,"Berkeley County,West Virginia","Orange County,Virginia",8176,191210
+268,"Berkeley County,West Virginia","Page County,Virginia",5878,132875
+269,"Berkeley County,West Virginia","Patrick County,Virginia",16691,448557
+270,"Berkeley County,West Virginia","Pittsylvania County,Virginia",15243,410665
+271,"Berkeley County,West Virginia","Powhatan County,Virginia",12274,309181
+272,"Berkeley County,West Virginia","Prince Edward County,Virginia",13728,366972
+273,"Berkeley County,West Virginia","Prince George County,Virginia",13057,334091
+274,"Berkeley County,West Virginia","Prince William County,Virginia",5365,129542
+275,"Berkeley County,West Virginia","Pulaski County,Virginia",14003,406710
+276,"Berkeley County,West Virginia","Rappahannock County,Virginia",5656,127779
+277,"Berkeley County,West Virginia","Richmond County,Virginia",12334,285299
+278,"Berkeley County,West Virginia","Roanoke County,Virginia",12266,349016
+279,"Berkeley County,West Virginia","Rockbridge County,Virginia",9689,271953
+280,"Berkeley County,West Virginia","Rockingham County,Virginia",6293,159634
+281,"Berkeley County,West Virginia","Russell County,Virginia",20845,582487
+282,"Berkeley County,West Virginia","Scott County,Virginia",21457,609710
+283,"Berkeley County,West Virginia","Shenandoah County,Virginia",4276,113589
+284,"Berkeley County,West Virginia","Smyth County,Virginia",17039,493431
+285,"Berkeley County,West Virginia","Southampton County,Virginia",15205,388360
+286,"Berkeley County,West Virginia","Spotsylvania County,Virginia",8882,198579
+287,"Berkeley County,West Virginia","Stafford County,Virginia",7884,187444
+288,"Berkeley County,West Virginia","Surry County,Virginia",14169,355785
+289,"Berkeley County,West Virginia","Sussex County,Virginia",13869,358603
+290,"Berkeley County,West Virginia","Tazewell County,Virginia",18500,533508
+291,"Berkeley County,West Virginia","Warren County,Virginia",4199,99137
+292,"Berkeley County,West Virginia","Washington County,Virginia",18432,532898
+293,"Berkeley County,West Virginia","Westmoreland County,Virginia",10660,236392
+294,"Berkeley County,West Virginia","Wise County,Virginia",22296,623830
+295,"Berkeley County,West Virginia","Wythe County,Virginia",15293,445416
+296,"Berkeley County,West Virginia","York County,Virginia",14764,377123
+297,"Berkeley County,West Virginia","Alexandria City County,Virginia",6814,178166
+298,"Berkeley County,West Virginia","Bedford City County,Virginia",12482,334761
+299,"Berkeley County,West Virginia","Bristol City County,Virginia",18907,558615
+300,"Berkeley County,West Virginia","Buena Vista City County,Virginia",9348,265219
+301,"Berkeley County,West Virginia","Charlottesville City County,Virginia",9347,263214
+302,"Berkeley County,West Virginia","Chesapeake City County,Virginia",16227,430028
+303,"Berkeley County,West Virginia","Clifton Forge City County,Virginia",10542,303825
+304,"Berkeley County,West Virginia","Colonial Heights City County,Virginia",12224,308955
+305,"Berkeley County,West Virginia","Covington City County,Virginia",11285,322167
+306,"Berkeley County,West Virginia","Danville City County,Virginia",15843,427008
+307,"Berkeley County,West Virginia","Emporia City County,Virginia",14534,378839
+308,"Berkeley County,West Virginia","Fairfax City County,Virginia",6289,125450
+309,"Berkeley County,West Virginia","Falls Church City County,Virginia",6001,132206
+310,"Berkeley County,West Virginia","Franklin City County,Virginia",15752,396215
+311,"Berkeley County,West Virginia","Fredericksburg City County,Virginia",8205,184285
+312,"Berkeley County,West Virginia","Galax City County,Virginia",16668,475973
+313,"Berkeley County,West Virginia","Hampton City County,Virginia",14714,386829
+314,"Berkeley County,West Virginia","Harrisonburg City County,Virginia",6082,165479
+315,"Berkeley County,West Virginia","Hopewell City County,Virginia",11988,308992
+316,"Berkeley County,West Virginia","Lexington City County,Virginia",9207,262197
+317,"Berkeley County,West Virginia","Lynchburg City County,Virginia",11860,318961
+318,"Berkeley County,West Virginia","Manassas City County,Virginia",5592,134486
+319,"Berkeley County,West Virginia","Manassas Park City County,Virginia",6095,140830
+320,"Berkeley County,West Virginia","Martinsville City County,Virginia",15471,420163
+321,"Berkeley County,West Virginia","Newport News City County,Virginia",14271,373315
+322,"Berkeley County,West Virginia","Norfolk City County,Virginia",16020,412245
+323,"Berkeley County,West Virginia","Norton City County,Virginia",21820,614720
+324,"Berkeley County,West Virginia","Petersburg City County,Virginia",12095,309943
+325,"Berkeley County,West Virginia","Poquoson City County,Virginia",14942,383892
+326,"Berkeley County,West Virginia","Portsmouth City County,Virginia",15959,421066
+327,"Berkeley County,West Virginia","Radford County,Virginia",13639,393921
+328,"Berkeley County,West Virginia","Richmond City County,Virginia",10963,274058
+329,"Berkeley County,West Virginia","Roanoke City County,Virginia",11805,340458
+330,"Berkeley County,West Virginia","Salem City County,Virginia",11634,338929
+331,"Berkeley County,West Virginia","South Boston City County,Virginia",15998,409563
+332,"Berkeley County,West Virginia","Staunton City County,Virginia",7569,207453
+333,"Berkeley County,West Virginia","Suffolk City County,Virginia",16365,409561
+334,"Berkeley County,West Virginia","Virginia Beach City County,Virginia",16581,435504
+335,"Berkeley County,West Virginia","Waynesboro City County,Virginia",7967,217303
+336,"Berkeley County,West Virginia","Williamsburg City County,Virginia",13315,345564
+337,"Berkeley County,West Virginia","Winchester City County,Virginia",2603,55799
+338,"Berkeley County,West Virginia","Barbour County,West Virginia",11220,266117
+339,"Berkeley County,West Virginia","Boone County,West Virginia",19389,527940
+340,"Berkeley County,West Virginia","Braxton County,West Virginia",13949,364562
+341,"Berkeley County,West Virginia","Brooke County,West Virginia",12626,331162
+342,"Berkeley County,West Virginia","Cabell County,West Virginia",18983,544849
+343,"Berkeley County,West Virginia","Calhoun County,West Virginia",15271,399229
+344,"Berkeley County,West Virginia","Clay County,West Virginia",15635,429586
+345,"Berkeley County,West Virginia","Doddridge County,West Virginia",12021,318481
+346,"Berkeley County,West Virginia","Fayette County,West Virginia",16414,449503
+347,"Berkeley County,West Virginia","Gilmer County,West Virginia",13752,363920
+348,"Berkeley County,West Virginia","Grant County,West Virginia",6851,150900
+349,"Berkeley County,West Virginia","Greenbrier County,West Virginia",15477,412135
+350,"Berkeley County,West Virginia","Hampshire County,West Virginia",3674,71976
+351,"Berkeley County,West Virginia","Hancock County,West Virginia",13334,339098
+352,"Berkeley County,West Virginia","Hardy County,West Virginia",6098,122230
+353,"Berkeley County,West Virginia","Harrison County,West Virginia",10458,280109
+354,"Berkeley County,West Virginia","Jackson County,West Virginia",16412,453029
+355,"Berkeley County,West Virginia","Jefferson County,West Virginia",2531,46068
+356,"Berkeley County,West Virginia","Kanawha County,West Virginia",17865,496109
+357,"Berkeley County,West Virginia","Lewis County,West Virginia",11653,313550
+358,"Berkeley County,West Virginia","Lincoln County,West Virginia",19647,522527
+359,"Berkeley County,West Virginia","Logan County,West Virginia",20318,565058
+360,"Berkeley County,West Virginia","McDowell County,West Virginia",20169,539653
+361,"Berkeley County,West Virginia","Marion County,West Virginia",9944,254022
+362,"Berkeley County,West Virginia","Marshall County,West Virginia",13613,325606
+363,"Berkeley County,West Virginia","Mason County,West Virginia",18177,497083
+364,"Berkeley County,West Virginia","Mercer County,West Virginia",16884,475983
+365,"Berkeley County,West Virginia","Mineral County,West Virginia",6458,115991
+366,"Berkeley County,West Virginia","Mingo County,West Virginia",20363,569566
+367,"Berkeley County,West Virginia","Monongalia County,West Virginia",7767,205762
+368,"Berkeley County,West Virginia","Monroe County,West Virginia",14411,398457
+369,"Berkeley County,West Virginia","Morgan County,West Virginia",2326,35829
+370,"Berkeley County,West Virginia","Nicholas County,West Virginia",14934,414207
+371,"Berkeley County,West Virginia","Ohio County,West Virginia",12532,340108
+372,"Berkeley County,West Virginia","Pendleton County,West Virginia",8608,174125
+373,"Berkeley County,West Virginia","Pleasants County,West Virginia",13256,356249
+374,"Berkeley County,West Virginia","Pocahontas County,West Virginia",13873,284578
+375,"Berkeley County,West Virginia","Preston County,West Virginia",8763,211801
+376,"Berkeley County,West Virginia","Putnam County,West Virginia",17240,496374
+377,"Berkeley County,West Virginia","Raleigh County,West Virginia",15674,457593
+378,"Berkeley County,West Virginia","Randolph County,West Virginia",12536,274089
+379,"Berkeley County,West Virginia","Ritchie County,West Virginia",13167,350551
+380,"Berkeley County,West Virginia","Roane County,West Virginia",17692,433265
+381,"Berkeley County,West Virginia","Summers County,West Virginia",16395,437470
+382,"Berkeley County,West Virginia","Taylor County,West Virginia",9937,254767
+383,"Berkeley County,West Virginia","Tucker County,West Virginia",9511,212548
+384,"Berkeley County,West Virginia","Tyler County,West Virginia",14183,348916
+385,"Berkeley County,West Virginia","Upshur County,West Virginia",12781,337997
+386,"Berkeley County,West Virginia","Wayne County,West Virginia",20574,577476
+387,"Berkeley County,West Virginia","Webster County,West Virginia",16156,410384
+388,"Berkeley County,West Virginia","Wetzel County,West Virginia",13100,316146
+389,"Berkeley County,West Virginia","Wirt County,West Virginia",15513,396081
+390,"Berkeley County,West Virginia","Wood County,West Virginia",14036,381512
+391,"Berkeley County,West Virginia","Wyoming County,West Virginia",17625,497566
